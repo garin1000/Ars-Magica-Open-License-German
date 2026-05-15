@@ -10,7 +10,9 @@ Aktive Arbeitsdateien für laufende Übersetzungen und Korrekturen.
 
 ## Inhalt
 
-*(Derzeit keine Arbeitsdateien.)*
+| Datei | Inhalt | Zeilen EN | Stand |
+|---|---|---|---|
+| `Ars Magica 5e - Guardians of the Forests - Das Rhein-Tribunal.md` | Vollständige deutsche Übersetzung von „Guardians of the Forests: The Rhine Tribunal" | 1–4724 | 2026-05-15 |
 
 ---
 
