@@ -40,6 +40,7 @@ Du bist erfahrener Lektor für Rollenspielsysteme.
 ├── german-reviewed/          # ⛔ Schreibgeschützt – release-fertige deutsche Übersetzungen
 ├── german-wip/               # Deutsche Übersetzungen in Bearbeitung
 ├── translation-tables/       # Übersetzungstabellen und Terminologieregeln
+├── formatting-rules/         # Formatierungsregeln für Statblöcke und Beschreibungen
 ├── lektorat/                 # Lektoratsergebnisse der Prüfagenten
 ├── tmp/                      # Verzeichnis für temporäre Dateien
 └── original-english/
@@ -47,19 +48,33 @@ Du bist erfahrener Lektor für Rollenspielsysteme.
         └── Ars Magica - Definitive Edition (Core Rules).md
 ```
 
+## README-Dateien (Index pro Verzeichnis)
+
+| Verzeichnis | README |
+|---|---|
+| `german-reviewed/` | [`german-reviewed/README.md`](german-reviewed/README.md) – Dateiindex der freigegebenen Übersetzungen |
+| `german-wip/` | [`german-wip/README.md`](german-wip/README.md) – Dateiindex der laufenden Arbeiten |
+| `translation-tables/` | [`translation-tables/README.md`](translation-tables/README.md) – Index aller Übersetzungstabellen; **beim Einstieg zuerst lesen** |
+| `formatting-rules/` | [`formatting-rules/README.md`](formatting-rules/README.md) – Index aller Formatierungsregeln |
+| `lektorat/` | [`lektorat/README.md`](lektorat/README.md) – Namenskonventionen und aktueller Stand der Lektoratsergebnisse |
+| `original-english/` | [`original-english/README.md`](original-english/README.md) – Upstream-Dokumentation des Quell-Repos (nur lesen) |
+
 ## Regeln pro Verzeichnis
 
 ### `/german-reviewed`
 - Diese Dateien werden von Claude **unter keinen Umständen verändert**.
 - Müssen Änderungen vorgenommen werden, erstelle eine **Arbeitskopie** in `/german-wip` und führe alle Änderungen dort durch.
+- [`README.md`](german-reviewed/README.md) dient als **Dateiindex** der freigegebenen Übersetzungen.
 
 ### `/german-wip`
 - Aktive Arbeitsdateien für laufende Übersetzungen und Korrekturen.
+- [`README.md`](german-wip/README.md) dient als **Dateiindex** der laufenden Arbeiten.
 
 ### `/lektorat`
 - Lektoratsagenten legen ihre Prüfergebnisse hier ab.
 - Dateiname: analog zur geprüften Quelldatei, z. B. `lektorat/core-rules-kap3.md`.
 - Inhalt: gefundene Fehler, Stilkorrekturen, offene Fragen – jeweils mit Zeilenverweis.
+- [`README.md`](lektorat/README.md) dokumentiert **Namenskonventionen** und aktuellen Stand.
 
 ### `/tmp/`
 - Verzeichnis für temporäre Dateien.
@@ -68,13 +83,21 @@ Du bist erfahrener Lektor für Rollenspielsysteme.
 ### `/translation-tables`
 - Enthält Übersetzungstabellen und Regeln für die konsistente Übersetzung spezifischer Begriffe mit weiteren Erläuterungen.
 - Muss bei **jeder** Übersetzung konsultiert werden.
-- `README.md` dient als **Index** über alle Tabellendateien – beim Einstieg zuerst lesen.
+- [`README.md`](translation-tables/README.md) dient als **Index** über alle Tabellendateien – beim Einstieg zuerst lesen.
 - Die Tabellen werden **nach Begriffstypen getrennt gepflegt**, jeweils in einer eigenen Datei:
   - `allgemein.md` – allgemeine Spielbegriffe
   - `sprueche.md` – Zaubersprüche und magische Effekte
   - `talente-fehler.md` – Talente und Fehler (Virtues & Flaws)
   - *(weitere Dateien nach Bedarf; vollständige Liste in `README.md`)*
 - Beim Nachschlagen immer die **passende Typendatei** konsultieren; bei Unsicherheit alle relevanten Dateien prüfen.
+
+### `/formatting-rules`
+- Enthält Formatierungsregeln für Statblöcke, SC-/NSC-Beschreibungen und Kreaturenblöcke.
+- [`README.md`](formatting-rules/README.md) dient als **Index** über alle Regeldateien – beim Einstieg zuerst lesen.
+
+### `/original-english`
+- ⚠️ **Git-Submodul** – eingebunden von [`garin1000/Ars-Magica-Open-License`](https://github.com/garin1000/Ars-Magica-Open-License). Dateien hier **niemals direkt bearbeiten**; Änderungen würden beim nächsten `git submodule update` überschrieben.
+- [`original-english/README.md`](original-english/README.md) – Upstream-Dokumentation des Quell-Repos (nur lesen, nicht bearbeiten).
 
 ### `/original-english/reviewed`
 - Begutachtete englische Originaldateien – deine **Hauptquellen** für die Übersetzung.
