@@ -56,6 +56,7 @@ Copyright 2005 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 
 
 
+
 # Inhaltsverzeichnis
 
 **Kapitel I: Einleitung**<br>
@@ -185,8 +186,6 @@ Erstens: Wenn ihr Spieler in einer Saga seid, die im Rheintribunal angesiedelt i
 Zweitens: Nicht alle Konvente und keineswegs alle Magi des Rheintribunals werden in diesem Buch beschrieben. Daher werden ein bis sechs weitere Konvente vom Spielleiter bzw. den Spielleitern erdacht; einer davon kann der Konvent der Spielercharaktere sein. Die Anzahl der zusätzlichen Konvente, die ihr erschafft, kann zum Teil davon abhängen, wie viele hermetische Gesellschaften und Mysterienkulte ihr einbeziehen möchtet, da ein größeres Tribunal mehr davon plausibel unterstützen kann.
 
 Schließlich: Nichts in diesem Buch ist für eure Saga verpflichtend, und es gibt kein einziges „richtiges" Rheintribunal. Vielmehr sollte es als eine Sammlung gemeinsamer Werkzeuge oder Zutaten für *euer* Rheintribunal betrachtet werden, von denen alle optional sind. Dieses Buch soll Ideen und Möglichkeiten erweitern, nicht einschränken. Wollt ihr die Anzahl der Magi im Tribunal ändern? Nur zu ... es funktioniert nach wie vor, ob ihr nun 80 oder 180 Magi habt. Wollt ihr den Spielerkonvent auf der Insel Rügen ansiedeln? Kein Problem — verlegt Crintera einfach in den Pommerschen Wald. Durch den modularen Aufbau dieses Buches könnt ihr einfach jene Elemente auswählen, die euch zusagen. (Natürlich könnt ihr auch alles ohne Probleme so verwenden, wie es ist.) Dabei gibt es freilich viele historische und geographische Tatsachen (wie etwa die Tatsache, dass die Stadt Köln existiert und am Rhein liegt), die ihr wahrscheinlich nicht verändern möchtet.
-
-
 
 
 
@@ -377,6 +376,7 @@ Friedrich liebt sein süditalienisches Zuhause. An seinem Hof versammeln sich ei
 Friedrich II. bricht 1227 schließlich zum Kreuzzug auf, nachdem er von Gregor IX. wegen seiner Verzögerungen exkommuniziert worden ist. Er sichert Jerusalem (und wird 1229 dessen König) und verhandelt die Rückgabe anderer wichtiger Stätten mit dem Sultan. Er kehrt triumphierend zurück, und der Bann wird aufgehoben. Sein Eingreifen in die Angelegenheiten der norditalienischen Kommunen in den 1230er Jahren führt zu einem erneuten Zerbrechen der Beziehungen zwischen Kaiser und Papst. Gregor IX. führt einen Propagandakrieg gegen ihn, und Papst Innozenz IV., Gregors Nachfolger, exkommuniziert ihn 1245 erneut.
 
 Nach Friedrichs Tod im Jahr 1250 kämpfen sein Sohn Konrad und sein Enkel Konradin weiter darum, die Stellung in Italien zu behaupten, doch in der Schlacht bei Tagliacozzo (1268) gerät Konradin in die Hände Karls von Anjou und wird enthauptet, womit die männliche Linie der Hohenstaufen erlischt.
+
 # Kapitel III: Geschichte und Bräuche des Tribunals
 
 Dieses Kapitel beschreibt die bedeutendsten Merkmale des Ordens des Hermes im Rheintribunal: seine ehrwürdige Geschichte und seine Traditionen, die Ränge der Magi, die Tribunal-Zusammenkünfte im Konvent Durenmar und die politischen Gilden, in denen sich seine Magi organisiert haben.
@@ -1217,7 +1217,6 @@ Du bist in der Lage, die Emotionen anderer zu manipulieren. Du erhältst eine Ü
 >2. Aufgabe: Vier magische Juwelen verzaubern, um die Emotionen des eigenen Herzens, der Leber, der Milz und des Gehirns zu speichern.<br>
 >2. Frucht: Gefühlsdieb
 
-
 # Kapitel V: Der Rhein
 
 Der Rhein, größter der deutschen Flüsse, entspringt in den nördlichen Alpen und mündet in den Bodensee im Tribunal der Hohen Alpen. Von dort windet er sich mehr als tausend Kilometer weit, vorbei an einer Abfolge von Gebirgszügen, Wäldern, Nebenflüssen, Stromschnellen, Klippen, Inseln, ehrwürdigen Städten, Feldern, Weinbergen und geschäftigen Flussuferstädten, bevor er sich in drei Mündungsarme aufteilt und über ein breites Delta in die Nordsee mündet.
@@ -1332,7 +1331,6 @@ Verdun, an der Maas flussaufwärts der Ardennen, ist vor allem für den gleichna
 
 
 
-
 ## Der Niederrhein
 
 Nach dem Verlassen des Rheindurchbruchs und dem Passieren der letzten Höhenzüge der Eifel nähert sich der Rhein der großen Stadt Köln und der weiten, flachen Tiefebene. Das Rheindelta ist traditionell als die Niederlande bekannt, eine flache, sumpfige Wildnis. Mehrere neue Städte wachsen jedoch in der Grafschaft Holland heran, wo Land trockengelegt wird, und der Bischof von Utrecht hält eine Reihe von Gütern.
@@ -1413,6 +1411,8 @@ Alter: 23 (Geselle)<br>
 Persönlichkeitseigenschaften: Beweisungshungrig +2, Selbstsicher +1, Ruhig +1
 
 Sicero ist der kürzlich geprüfte Filius von Goliard, einem bekannten Mitglied des Stonehenge-Tribunals. Er sicherte sich die Mitgliedschaft bei Triamore aufgrund der Empfehlungen seiner Mater, und es bleibt abzuwarten, ob er diesen gerecht werden kann.
+
+
 
 # Kapitel VI: Der Schwarzwald
 
@@ -3327,7 +3327,6 @@ Unter den Gefährten von Roznov befinden sich nicht weniger als drei junge Männ
 
 
 
-
 # Kapitel XI: Rhein-Sagas
 
 Dieses Kapitel stellt eine Reihe von Ideen für Sagas vor, die im mythischen Deutschland angesiedelt sind. Das Rheintribunal ist vielfältig genug, um eine breite Palette an Saga-Typen zu unterstützen: Solche, die sich auf die Wildnis, die Feen, den weltlichen Adel, den Handel, die Kirche oder die hermetische Politik konzentrieren, sind allesamt möglich. Die mittleren sechs Kapitel dieses Buches (Kapitel 5 bis 10) beschreiben jeweils eine eigenständige Region des Rheintribunals, einschließlich der darin zu findenden Konvente und mythischen Stätten. Jede Region hat ihr eigenes Flair und ihre eigene Atmosphäre, und die Wahl des Gebiets wird den Verlauf eurer Saga maßgeblich prägen. Die in diesem Kapitel beschriebenen großen Handlungsbögen sollen sich allmählich über den Verlauf einer Saga entfalten – sie können möglicherweise mehrere Jahrzehnte beanspruchen, bevor sie vollständig aufgelöst sind. Keiner dieser Einfälle schließt die anderen aus, dennoch empfehlen wir nicht, sie alle gleichzeitig zu verfolgen, zumindest nicht mit gleicher Intensität. Ein Konvent im Osten des Tribunals sollte nicht in die Intrigen jener Magi hineingezogen werden, die das Lothringische Tribunal errichten wollen – auch wenn sie von diesen Plänen beim Tribunal Kenntnis erlangen mögen. Ebenso solltet ihr die Stimmung eurer Saga und die Interessen eurer Spieltruppe berücksichtigen, wenn ihr entscheidet, welche Handlungsbögen ihr verwenden wollt. Einige dieser Geschichten sind politischer Natur, andere handlungsorientiert, und sie mögen nicht für alle Spieler geeignet sein. Kapitel 12 besteht aus einer einzelnen Saga, die in weit größerem Detail ausgearbeitet ist.
@@ -3451,6 +3450,7 @@ Dieser Saga-Bogen eignet sich besonders für einen Konvent an einem abgelegenen,
 
 #### Die Exsules
 >Diese kleine Gruppe von Zauberern bezeichnet ihre eigenen Mitglieder als *exsules* (Verbannte, Singular *exsul*), ein Name, den sie mit Stolz tragen. Es sind zu keinem Zeitpunkt mehr als ein Dutzend, und sie bewahren eine Tradition ähnlich der des Ordens, weisen jedoch – losgelöst wie sie es von den jüngsten Fortschritten der Magietheorie sind – einige ungewöhnliche Besonderheiten auf. Ihre Magie hat eine ausgeprägt fremdländische Note; sie kennen die hermetische Magie, wenngleich alle aufgrund ihrer Isolation vom Orden am Fehler Sonderbare Magie leiden. Für den Orden gefährlicher: Sie alle beherrschen auch die Parma Magica; diese wurde jedoch von den ursprünglichen Ordensmitgliedern unvollständig weitergegeben, und alle haben den Fehler Fehlerhafte Parma geerbt. Die meisten von ihnen haben ihre gesamte Karriere über Vis studiert, und der Fehler Schlechter Leser ist weit verbreitet. Ihre Abstammungslinie ist zudem mit dem Fehler Feenfeindschaft verflucht worden. Viele besitzen den Vorzug Mythisches Blut, der auf Merinita selbst oder auf mächtige magische Geister zurückgeht. Auch die Vorzüge Wege des Waldes, Freies Studium und Studierbonus sind häufig anzutreffen. Als Erben von Merinitas Tradition der Naturmagie haben viele die Pfade durch den Wald beschritten (siehe Kapitel 4: Der Wald), und es könnte unter ihnen verbreitet sein, eine oder mehrere der Kleinen Grenzen der hermetischen Magie überwinden zu können. Es ist möglich, dass sie auch Magi des Hauses Diedne aufgenommen haben, die vor der Vernichtung im Schismakrieg geflohen sind; in diesem Fall sollten sie in spontaner Magie herausragen. Ihre Sprüche sollten sich größtenteils von denen aus dem Zauberkapitel des **ArM5** unterscheiden, da sie nur wenig Zugang zu den Grimoires des Ordens des Hermes haben. Sie ziehen es vor, die Wut der Natur gegen ihre Feinde aufsteigen zu lassen, anstatt sie direkt anzugreifen. Am wichtigsten ist, dass ihre Magie einem hermetischen Magus fremd und furchteinflößend erscheinen sollte.
+
 # Kapitel XII: Fluch der Rheinschlucht
 
 Dieses Kapitel zeigt, wie die verschiedenen in diesem Buch vorgestellten Bausteine zu einer spielbaren Saga zusammengefügt werden können. Es kann, wenn gewünscht, direkt als Grundlage für eure Saga verwendet werden, obwohl es nur eine von vielen Möglichkeiten darstellt (weitere Ideen finden sich in Kapitel 11: Rheinsagas). Hier findet ihr einen geeigneten Ausgangspunkt — einen Grund, warum sich eine Gruppe von Magi im Rheintribunal mit einem gemeinsamen Ziel zusammenfindet, Beschreibungen lokaler Orte und Legenden, einige Startcharaktere ohne magische Begabung (die sich als Spieler- oder Nicht-Spieler-Charaktere eignen), eine Reihe erster Herausforderungen sowie vorgeschlagene langfristige Themen und Handlungsstränge.
@@ -4722,3 +4722,4 @@ Diese Werke wurden beim Schreiben dieses Ergänzungsbandes herangezogen und kön
 * gabriel.org/names/german.shtml Mulford, M. *The Forest in German Consciousness*: http://www.frontiernet.net/ \~mmulford/FOREST.HTM
 * Lerman, K. *The Life and Works of Hildegard of Bingen*: http://www.fordham.edu /halsall/med/hildegarde.html
 * Gardner, R., Gaston, N., and Masson, R. *Tolling the Rhine in 1254 - Complementary Monopoly Revisited*: http://www.indiana.edu/\~workshop/papers/gardner\_102802.pdf
+* *LEO English-German Dictionary*: http://dict.leo.org/

@@ -4412,7 +4412,7 @@ Vulnero-Zauberformeln fügen einem Ziel Schaden zu, sei er direkt oder indirekt.
 
 Alle verbalen magischen Handlungen, die Gelehrte Magier ausführen, werden als Zauberformeln bezeichnet, doch wenn die Zauberformeln bösartiger Natur sind und dem Ziel Schaden zufügen, wie es die Technik Vulnero tut, werden sie oft als Flüche bezeichnet.
 
-#### FORMEN
+#### Formen
 
 **Fortunam (Fa) „GLÜCK"**<br>
 
@@ -5435,7 +5435,6 @@ Die wichtigste Folge der Integration dieses Effekts besteht darin, die Anzahl de
 
 Da das Aufgeladene Artefakt im Wesentlichen das Äquivalent eines Formulaischen Zaubers für Magi ist, ist es unwahrscheinlich, dass sie viele Geräte für sich selbst herstellen werden. Magi mit verschiedenen Fachgebieten könnten nützliche Aufgeladene Artefakte untereinander austauschen. Der Hauptnutzen der Integration bestünde darin, einem Magus zu erlauben, seine Laborsumme einzusetzen, um das Äquivalent eines Formulaischen Zaubers zu wirken, den er nicht kennt. Natürlich wäre ein Magus, der einen bestimmten Zaubereffekt regelmäßig nutzt, stets besser bedient, ihn zu erlernen und zu meistern, als sich auf ein Aufgeladenes Artefakt zu verlassen.
 
-
 # Kapitel Sechs: Nachtwandler
 
 In vielen Teilen Europas gibt es unBegabte Volksmagier mit der Fähigkeit, ihren Geist umherschweifen zu lassen, während ihre Körper bewusstlos sind oder sich in einem veränderten Geisteszustand befinden. Diese Geister können weit entfernt von ihren sterblichen Körpern materielle Gestalt annehmen, manchmal in Tierformen. Diese Magier bilden Milizen und nutzen ihre Kräfte, um Fruchtbarkeitsschlachten zu führen, ihre Gemeinschaften vor dem Bösen zu schützen und die Toten zu geleiten. Im Falle der Skrupelloseren erpressen sie auch ihre Nachbarn und stehlen deren Wertgegenstände. Die Nachtwandler-Traditionen des Mythischen Europas tragen in jeder Kultur verschiedene Namen und verfügen über unterschiedliche Kräfte und Pflichten. Dieses Kapitel untersucht die Fähigkeiten, Pflichten und Feinde mehrerer Spielarten von Heckenzauberern, die diese Kraft teilen.
@@ -6340,6 +6339,8 @@ Dies ist das Wissen darüber, was die Magie der Vitkir ist und wie sie funktioni
 
 ## Nátt-thel
 
+
+
 Die Vitkir fallen nicht ins Zwielicht des Zauberers, wenn sie Verzerrung ausgesetzt werden, wie es Magi tun, denn das Zwielicht wird nur von jenen erlebt, die hermetische Magie studieren. Stattdessen erleben Vitkir Nátt-thel, was von einem altnordischen Wort stammt, das „dunkelster Teil der Nacht" bedeutet. Während dieser Zeit verliert der Vitki die Gabe, was ihn verletzlich und gedemütigt zurücklässt, völlig ohne seine Magie und andere damit verbundene Kräfte.
 
 Immer wenn ein Vitki 2 oder mehr Verzerrungspunkte durch ein einzelnes Ereignis erhält, und nicht durch anhaltende Einwirkung, muss er sie zunächst zu seiner aktuellen Summe addieren (was seinen Verzerrungswert erhöhen könnte) und dann einen Ausdauer + Konzentration-Wurf ablegen. Der Schwierigkeitsgrad für diesen Wurf ist des Vitkis (Verzerrungswert × 3). Der Vitki muss sich etwa zwei Minuten lang konzentrieren, während er versucht, seine Magie auf diese Weise zu kontrollieren, und jede Unterbrechung erhöht den Schwierigkeitsgrad (der Spieler sollte den Schwierigkeitsgrad aus der Konzentrationstabelle in ArM5, Seite 82, hinzufügen).
@@ -6441,7 +6442,6 @@ Wendet der Vitki zusätzlichen Aufwand auf die Runen auf — etwa indem er sie e
 
 Vis, das der Vitki *Makt* (altnordisch „Macht") nennt, kann ebenfalls in einen Runenzauber eingebunden werden. Das bloße Verwenden von Vis beim Wirken des Zaubers erhöht die Zaubersumme des Effekts um 2 pro Bauern, auf dieselbe Weise wie Vis hermetische Magie beeinflusst. Die Technik oder Form des Vis muss dem Effekt oder dem Ziel angemessen sein, und der Vitki darf nur so viele Bauern dieser Art von Vis verwenden, wie sein Wert in der im Skript verwendeten Rune beträgt. Wie bei hermetischer Magie fügt jeder Bauern Vis einen Patzerwürfel hinzu, sollte der Spieler beim Zauberwurf eine 0 würfeln.
 
-
 ## Die Runen
 
 Die mit den 24 Runen der Vitkir verbundenen Fertigkeiten sind Beschleunigte Fertigkeiten, doch die Vitkir bezeichnen sie stets als „Runen".
@@ -6477,7 +6477,7 @@ Die Runen werden oft in drei Gruppen zu je acht Buchstaben geordnet, die *Aettir
 >| --------- | ---- | -------- | ------------ | -------------------------------- |
 >| F         | ᚠ    | Fehu     | „Reichtum"   | Reichtum, domestizierte Tiere    |
 >| U         | ᚢ    | Uruz     | „Auerochse"  | Ausdauer, die Wildnis            |
->| Th        | ᚦ    | Thurisaz | „Riese"      | Bosheit, Gestaltwandlung         |
+>| Þ         | ᚦ    | Thurisaz | „Riese"      | Bosheit, Gestaltwandlung         |
 >| A         | ᚨ    | Ansuz    | „Mund"       | Kommunikation, Lehre             |
 >| R         | ᚱ    | Raido    | „Reiten"     | Reisen, Wissen                   |
 >| K         | ᚲ    | Kauno    | „Schmerz"    | Feuer, Geschwüre                 |
@@ -6512,7 +6512,7 @@ Die Runen werden oft in drei Gruppen zu je acht Buchstaben geordnet, die *Aettir
 
 ### A, Ansuz, „Mund"
 
-(Aussprachehinweise entfallen)
+
 
 Diese Rune hat viele Bedeutungen, darunter „Mund" als Quelle der Sprache und auch als Beginn eines Flusses. Ursprünglich bedeutete sie „Gott", da sie mit den nordischen Göttern verbunden ist, die *Aesir* genannt werden, und symbolisiert besonders Odin, den Vater der Götter, der als Erster die Macht der Runen entdeckte.
 
@@ -6546,7 +6546,7 @@ Solange die Runen bestehen, kann das Ziel die Worte hören, die von Geistern und
 
 ### B, Berkanan, „Birke"
 
-(Aussprachehinweise entfallen)
+
 
 Die Birke ist ein Baum der Fruchtbarkeit; ihre Zweige sind kahl und bringen weder Blüten noch Samen hervor, doch sie treibt viele Schösslinge und Blätter. In der nordischen Legende markierte Odin die Runen auf neun Birkenzweige und schlug dann eine Natter damit, so dass sie getötet und in neun Teile geteilt wurde.
 
@@ -6592,7 +6592,7 @@ Dieser Zauber wird üblicherweise auf ein Amulett geritzt und in ein Kleidungsst
 
 ### D, Dagaz, „Tag"
 
-(Aussprachehinweise entfallen)
+
 
 Dagaz bedeutet „Tag", im Sinne der Zeitspanne, die die Sonne braucht, um von Horizont zu Horizont zu wandern. Somit ist die Rune mit dem Konzept der Zeit verbunden. Sie steht auch für die Sonne, das Licht und das Leben während langer, kalter Winter. Dinge wachsen im Laufe der Zeit, und so ist Dagaz auch mit dem Wachstum von Tieren, Pflanzen und Menschen verbunden.
 
@@ -6624,7 +6624,7 @@ Diese Runen stellen sicher, dass jede Person, die den Boden oder den Verschlusss
 
 ### E, Ehwaz, „Pferd"
 
-(Aussprachehinweise entfallen)
+
 
 Diese Rune steht für das Pferd – ein Tier, das für seine Ausdauer, Geschwindigkeit und Stärke bekannt ist. Sie steht für überlegene Beweglichkeit im Kampf sowie für die enge Beziehung zwischen Pferd und Reiter. Wenn sie als Ziel verwendet wird, ist sie mit Animal verbunden, insbesondere wenn es um Pferde oder andere Tiere geht, die im Kampf eingesetzt werden.
 
@@ -6656,7 +6656,7 @@ Der Vitki nimmt drei Haare aus dem Schweif des Pferdes und ritzt sie in die Rune
 
 ### F, Fehu, „Reichtum"
 
-(Aussprachehinweise entfallen)
+
 
 Fehu ist die Rune des Reichtums, dargestellt durch Glück und Wohlstand. Im Gegensatz zu Othila, die mit Dingen wie Land und Erbstücken verbunden ist, wird Fehu typischerweise als gewöhnlicher Reichtum verstanden – Dinge wie Vieh und andere Tiere, Silberpfennige oder überschüssiges Getreide – aber keine Werkzeuge, Kleidung oder Waffen. In den norwegischen und isländischen Runengedichten wird Reichtum zynischer als „Quelle des Zwists unter Verwandten" betrachtet, vielleicht mit Bezug auf die brutale Natur der Wikingerüberfälle.
 
@@ -6690,7 +6690,7 @@ Beachte, dass der Ochse nicht verschwindet oder stirbt, wenn der Zauber endet, u
 
 ### G, Gebo, „Gabe"
 
-(Aussprachehinweise entfallen)
+
 
 Das Annehmen eines Geschenks verpflichtet den Empfänger in der nordischen Gesellschaft zu bestimmten Pflichten, was gewöhnlich die Notwendigkeit beinhaltet, den Gefallen mit einem anderen Geschenk von ähnlichem Wert zu erwidern, so dass keine Partei der anderen etwas schuldet. Während diese Rune also für großzügige Freigebigkeit und Hochherzigkeit steht, stellt sie auch eine Vereinbarung oder ein Versprechen dar, das den Empfänger bindet.
 
@@ -6722,7 +6722,7 @@ Der Vitki ritzt die Runen auf ein Schmuckstück, das einem anderen als Geschenk 
 
 ### H, Hagalaz, „Hagel"
 
-(Aussprachehinweise entfallen)
+
 
 Hagalaz steht für die grausamste Seite der Natur, von plötzlichen Stürmen bis zu entkräftenden Krankheiten. Sie bedeutet Hagel, sowohl im Sinne des Wetters als auch eines Geschosshagels. Sie wird mit großer Zerstörung und Schaden in Verbindung gebracht und bringt ihrem Ziel stets Schmerz und Leid. In den Runengedichten wird sie „das weißeste Korn, aus dem Himmelsgewölbe gewirbelt und vom Wind umhergetrieben, bevor es sich schließlich in Wasser verwandelt" genannt. Sie ist eine mächtige Kraft, die schwer zu kontrollieren ist.
 
@@ -6754,7 +6754,7 @@ Nach dem Einritzen dieses Skripts sammelt sich ein furchtbares Gewitter im Umfel
 
 ### I, Isa, „Eis"
 
-(Aussprachehinweise entfallen)
+
 
 Isa bedeutet Eis, und sie symbolisiert die verborgenen Gefahren, die Eis darstellt, wie Ausrutschen oder Einbrechen. Sie verkörpert Kälte und auch kalte Gefühle. Als Ziel ist Isa mit tatsächlichem Eis (Aquam) verbunden, oder mit Ignem wenn sie die Temperatur beeinflusst, oder mit Mentem wenn sie die kalten und unerbittlichen Gefühle einer Person betrifft.
 
@@ -6784,7 +6784,7 @@ Dieser Zauber erschafft eine rutschige Eisfläche auf dem Boden rund um die Rune
 
 ### J, Jera, „Jahr"
 
-(Aussprachehinweise entfallen)
+
 
 Jera bezeichnet die Ernte, und obwohl dies Herbst impliziert, kann es auch die Gaben der Natur das ganze Jahr über meinen. Die Ernte ist auch das Endergebnis harter Arbeit eines ganzen Jahres, und so hat die Rune auch Konnotationen von Wohlstand und Überfluss. Als Ziel ist Jera fast immer mit der Form Herbam verbunden, kann aber auch eine Tierernte beeinflussen und kann die Gesundheit und das allgemeine Wohlbefinden von Menschen über Corpus betreffen.
 
@@ -6812,7 +6812,7 @@ Diese Runen werden auf einen Stein geritzt, der in einem Feld vergraben wird, au
 
 ### K, Kauno, „Schmerz"
 
-(Aussprachehinweise entfallen)
+
 
 Im angelsächsischen Runengedicht wird Kauno als eine weithin sichtbare Fackel beschrieben, während andere Runengedichte sie als Geschwür oder Furunkel bezeichnen. Als blasse, helle Flamme könnte sie auch ein Fieber meinen, das „brennt, wo Fürsten drinnen sitzen". So symbolisiert die Rune Hitze, die Farbe und das Licht von Flammen und brennenden Schmerz.
 
@@ -6866,7 +6866,7 @@ Die Zielperson wird von einer ernsthaften Krankheit befallen, dem Äquivalent ei
 
 #### L, Laguz, „Wasser"
 
-(Aussprachehinweise entfallen)
+
 
 Diese Rune steht für Wasser, insbesondere das des Ozeans. Im Ozean liegen großer Reichtum und große Macht, und viele verborgene Gefahren, die von der Oberfläche aus nicht zu sehen sind. Als Ziel ist sie fast immer mit Aquam verbunden, kann aber auch Dinge betreffen, die nur unter Wasser zu finden sind, wie im Wasser lebende Tiere und Meerespflanzen.
 
@@ -6930,7 +6930,7 @@ Alle Personen, die innerhalb von zehn Schritten von den Runen kämpfen, funktion
 
 ### N, Naudiz, „Not"
 
-(Aussprachehinweise entfallen)
+
 
 Naudiz ist eine sehr negative Rune, die Leid, Schwierigkeiten und Widrigkeiten bedeutet, und oft auf einen Fingernagel geritzt wird, um große Not anzuzeigen. Sie kann verwendet werden, um Dinge zum Ziel zu nehmen, die verzweifelt, sterbend oder verzagt sind, und ist daher gewöhnlich mit Mentem oder Corpus verbunden.
 
@@ -6961,7 +6961,7 @@ Alle, die in dem Zielbauwerk leben, beginnen tiefe Verzweiflung und Selbsthass z
 
 ### Ng, Ingwaz, „Herr"
 
-(Aussprachehinweise entfallen)
+
 
 Ingwaz ist mit Frieden, Familie und einem sicheren Heim verbunden. Als Ziel kann sie ein Gebäude, eine Behausung oder ein Bauwerk betreffen und ist daher oft an Herbam und Terram gebunden. Sie kann auch alle betreffen, die in einem bestimmten Haus leben, was es möglich macht, sie durch das Ritzen von Runen an der Außenseite zum Ziel zu nehmen, oder Mitglieder der Familie oder des Haushalts des Zaubernden. Dies ist gewöhnlich ein Corpus-Effekt.
 
@@ -7015,7 +7015,7 @@ Dieser Zauber ruft einen Pfeil herbei, zu dem der Vitki eine Arkane Verbindung b
 
 ### P, Perth, „Becher"
 
-(Aussprachehinweise entfallen)
+
 
 Perth ist eine geheimnisvolle und seltsame Rune mit vielen verschiedenen Deutungen. Die vielleicht stärkste Verbindung besteht zu Schicksal und Zufall, obwohl sie auch mit Vergnügen und Entspannung verknüpft ist, wie man sie am Spieltisch oder in der Festhalle findet. So steht sie typischerweise für einen Behälter, der Geheimnisse birgt, wie einen Würfelbecher oder ein Trinkhorn. Im *angelsächsischen Runengedicht* steht sie für eine Figur auf einem Spielbrett, einen Bauern.
 
@@ -7049,7 +7049,7 @@ Solange die Rune besteht, kann der Vitki Vis spüren, wenn er sich innerhalb von
 
 ### R, Raido, „Reiten"
 
-(Aussprachehinweise entfallen)
+
 
 Diese Rune wird allgemein als „Reiten" gedeutet, im Sinne der Tätigkeit des Ausreitens zu Pferde oder auf einem Wagen. Das Wort *Raido* könnte mit dem altnordischen Wort *reid* verwandt sein, das entweder Streitwagen oder Donner bedeutet, und so könnte es Thor herbeirufen, den nordischen Gott des Donners,
 
@@ -7087,7 +7087,7 @@ Mit diesem Runenzauber, der üblicherweise direkt auf den Sattel oder die Decke 
 
 ### S, Sowilo, „Sonne"
 
-(Aussprachehinweise entfallen)
+
 
 Sowilo wird mit Licht und der Sonne in Verbindung gebracht und wird als Wohltat für Seefahrer und Segen für Reisende beschrieben. Sie hat auch Obertöne des Guten, das über das Böse siegt, so wie Licht über Dunkelheit triumphiert. Als Ziel beeinflusst Sowilo Licht und ist daher Teil der Form Ignem. Sie kann auch das Göttliche und Wesen mit Göttlicher Macht als Teilbereich von Vim zum Ziel nehmen.
 
@@ -7123,7 +7123,7 @@ Solange die Rune besteht, scheint helles Sonnenlicht vom Ziel aus. Wer direkt in
 
 ### T, Tiwaz, „Tyr"
 
-(Aussprachehinweise entfallen)
+
 
 Tyr ist der nordische Gott der Wahrheit und des Kampfes, Schenker des Sieges und Beschützer der anderen Götter. Er ist seinen Gefährten treu und dafür bekannt, seine Hand dem Fenriswolf geopfert zu haben, damit dieser gebunden werden konnte. Seine Rune ist mit Männern verbunden, die für das Wohl ihrer Gefährten kämpfen und die Wahrheit suchen. Als Ziel ist sie hauptsächlich mit Mentem und Gerechtigkeit verbunden, indem sie die Gedanken und tieferen Beweggründe einer Person beeinflusst.
 
@@ -7153,9 +7153,9 @@ Tiwaz 30, Methode I
 
 Für die Dauer kann der Vitki spüren, ob Personen glauben, die Wahrheit zu sagen, solange er sich innerhalb von etwa zehn Schritten von ihnen befindet. (Beachte, dass Dämonen diesen Effekt leicht unterlaufen können.)
 
-### Th, Thurisaz, „Riese"
+### Þ, Thurisaz, „Riese"
 
-(Aussprachehinweise entfallen)
+
 
 Thurisaz wird auf viele verschiedene Weisen gedeutet, gewöhnlich mit einer negativen Konnotation. Die nordischen und isländischen Runengedichte beschreiben sie als „Riese" oder „Unhold" und bemerken, dass solche Kreaturen besonders gern Frauen schaden, während das angelsächsische Gedicht sie „Dorn" nennt, scharf und streng. Die Rune soll auch verwendet werden, um Dämonen aus der Unterwelt heraufzubeschwören. Ihre Symbolik ist allgemein böse und gefährlich, und wegen ihrer Verbindung mit Trollen und Unholden wird sie oft verwendet, um Zauber zu wirken, die die Gestalt des Zaubernden verändern.
 
@@ -7193,7 +7193,7 @@ Die Runen werden typischerweise auf einen verdrehten Ast geritzt, wobei Thurisaz
 
 ### U, Uruz, „Auerochse"
 
-(Aussprachehinweise entfallen)
+
 
 Diese Rune steht für den Auerochsen, eine große und mächtige Rinderrasse, die durch die Wildnis Skandinaviens streift. Julius Caesar beschrieb sie als etwas kleiner als der Elefant und von derselben Farbe und Gestalt wie ein Stier. Sie sind außerordentlich stark, schnell und wild. Einen Auerochsen erfolgreich zu jagen macht einen Jungen zum Mann, und die beste Methode dafür ist eine Fallgrube. Der Beweis des Abenteuers ist das Zurschaustellen der gewaltigen Hörner des Tieres, die oft an den Spitzen mit Silber beschlagen und als Trinkbecher verwendet werden.
 
@@ -7233,7 +7233,7 @@ Der Runenzauber ruft einen Auerochsen herbei – das wilde Tier, nach dem die Ru
 
 ### W, Wunjo, „Freude"
 
-(Aussprachehinweise entfallen)
+
 
 Diese Rune bedeutet Behagen, Glückseligkeit und Freude. Dies kann eine Art Rausch sein oder einfach das Fehlen von Leid, und sie hat auch Konnotationen von Ruhm und Erfolg im Kampf. Diejenigen, die gemeinsam auf ein Ziel hinarbeiten, stehen ebenfalls unter dem Einfluss von Wunjo. Wunjo ist mit Mentem verbunden und zielt nur auf die Emotionen von Menschen und intelligenten Wesen.
 
@@ -7265,7 +7265,7 @@ Der Vitki zeichnet die Wunjo-Rune auf einen Krieger, der weder Schmerz noch Ersc
 
 ### Y, Ihwaz, „Eibe"
 
-(Aussprachehinweise entfallen)
+
 
 Ihwaz bezieht sich auf die Eibe, deren Holz zur Herstellung von Langbögen verwendet wird und die wegen der traditionellen Praxis, sie auf Friedhöfen zu pflanzen, auch mit Tod und Hexerei verbunden ist. Wenn sie als Ziel verwendet wird, kann sie jede Art von Baum oder Bogen beeinflussen und sollte als Herbam-Effekt behandelt werden. Die Rune kann auch die Geister der Toten als Mentem-Effekt zum Ziel nehmen, oder eine Grabstätte als Terram.
 
@@ -7305,7 +7305,7 @@ Indem er innerhalb von zehn Schritten eines Grabes steht, kann der Vitki geistig
 
 ### Z, Algiz, „Elch"
 
-(Aussprachehinweise entfallen)
+
 
 Diese Rune hat viele Bedeutungen, die alle eine Art von Schutz meinen. Sie wird manchmal mit dem Elch in Verbindung gebracht – von dem es heißt, er schlafe an einen Baum gelehnt, um Jägern leichter entkommen zu können – und mit seinem Geweih. Die Rune selbst wird oft als eine Hand gesehen, die einen Schlag abwehrt, und das Wort *alu* wird oft in Zaubern verwendet, um „beschütze mich" zu bedeuten, möglicherweise in Bezug auf diese Rune. Eine andere Deutung ist eine Art Riedgras, das in Sumpfgebieten wächst und so stachelig ist, dass man es nicht greifen kann. In jedem Fall wird diese Rune am häufigsten zum Zweck des Schutzes eines Ziels verwendet.
 
@@ -7349,63 +7349,63 @@ Beachte, dass der Orden des Hermes allgemein als im Krieg befindlich mit dem Ord
 >
 >In England erweiterten die Runenmagier ihr Alphabet. Gelehrte sind sich einig, dass es die ersten 28 Runen umfasste, und die letzten fünf waren je nach Epoche und Region möglicherweise ebenfalls enthalten. Magi sind sicher, dass im 13. Jahrhundert keine dieser Vitkir auf den Britischen Inseln verblieben sind, da sie alle im Krieg gegen Damhan-Alladh vor Jahrhunderten vernichtet wurden, obwohl Beweise für ihre Magie noch vorhanden sein könnten.
 >
->| Buchstabe | Rune | Name    | Aussprache | Bedeutung       | Älterer Futhark |
->| --------- | ---- | ------- | ---------- | --------------- | --------------- |
->| F         | ᚠ    | Feoh    | FAY-oh     | „Reichtum"      | Fehu            |
->| U         | ᚢ    | Ur      | OOR        | „Auerochse"     | Uruz            |
->| Th        | ᚦ    | Thorn   | THORN      | „Dorn"          | Thurisaz        |
->| R         | ᚱ    | Rad     | RAWD       | „Reiten"        | Raido           |
->| C         | ᚳ    | Cen     | CHEN       | „Fackel"         | Kauno           |
->| Gy        | ᚷ    | Gyfu    | GUY-voo    | „Gabe"          | Gebo            |
->| W         | ᚹ    | Wynn    | WIN        | „Freude"        | Wunjo           |
->| H         | ᚻ    | Haegl   | HA-wull    | „Hagel"         | Hagalaz         |
->| N         | ᚾ    | Nyd     | NID        | „Not"           | Naudiz          |
->| I         | ᛁ    | Is      | EES        | „Eis"           | Isa             |
->| J         | ᛄ    | Ger     | YER        | „Jahr"          | Jera            |
->| Y         | ᛇ    | Eoh     | EE-oh      | „Eibe"          | Ihwaz           |
->| P         | ᛈ    | Peordh  | POHR-th    | „Becher"        | Perth           |
->| X         | ᛉ    | Eolhx   | OHLHK      | „Elch"          | Algiz           |
->| S         | ᛋ    | Sigel   | SEE-wel    | „Sonne"         | Sowilo          |
->| T         | ᛏ    | Tir     | TEER       | „Stern"         | Tiwaz           |
->| B         | ᛒ    | Beorc   | BORK       | „Birke"         | Berkanan         |
->| E         | ᛖ    | Eh      | EH         | „Pferd"         | Ehwaz           |
->| M         | ᛗ    | Mann    | MAHN       | „Mensch"        | Mannaz          |
->| L         | ᛚ    | Lagu    | LAH-wuh    | „Wasser"        | Laguz           |
->| Ng        | ᛝ    | Ing     | ING        | „Held"          | Ingwaz          |
->| D         | ᛞ    | Daeg    | DAY        | „Tag"           | Dagaz           |
->| Oe        | ᛟ    | Ethel   | EE-thell   | „Heimat"        | Othila          |
->| A         | ᚪ    | Ac      | AWK        | „Eiche"         | —               |
->| Ae        | ᚫ    | Aesc    | ASH        | „Esche"         | —               |
->| Yr        | ᚣ    | Yr      | YAHR       | „Bogen"         | —               |
->| Ea        | ᛠ    | Ear     | EAR        | „Grab"          | —               |
->| G         | ᚸ    | Gar     | GAR        | „Speer"         | —               |
->| K         | ᛣ    | Calc    | KAHLK      | „Kreide"        | —               |
->| Q         | ᛢ    | Cweorth | QUORTH     | „Feuerquirl"    | —               |
->| St        | ᛥ    | Stan    | STAYN      | „Stein"         | —               |
->| Or        | ᛡ    | Ior     | OHR        | „Wasserungeheuer" | —             |
+>| Buchstabe | Rune | Name    | Bedeutung       | Älterer Futhark |
+>| --------- | ---- | ------- | --------------- | --------------- |
+>| F         | ᚠ    | Feoh    | „Reichtum"      | Fehu            |
+>| U         | ᚢ    | Ur      | „Auerochse"     | Uruz            |
+>| Þ         | ᚦ    | Thorn   | „Dorn"          | Thurisaz        |
+>| R         | ᚱ    | Rad     | „Reiten"        | Raido           |
+>| C         | ᚳ    | Cen     |  „Fackel"         | Kauno           |
+>| Gy        | ᚷ    | Gyfu    | „Gabe"          | Gebo            |
+>| W         | ᚹ    | Wynn    | „Freude"        | Wunjo           |
+>| H         | ᚻ    | Haegl   | „Hagel"         | Hagalaz         |
+>| N         | ᚾ    | Nyd     | „Not"           | Naudiz          |
+>| I         | ᛁ    | Is      |  „Eis"           | Isa             |
+>| J         | ᛄ    | Ger     |  „Jahr"          | Jera            |
+>| Y         | ᛇ    | Eoh     | „Eibe"          | Ihwaz           |
+>| P         | ᛈ    | Peordh  | „Becher"        | Perth           |
+>| X         | ᛉ    | Eolhx   | „Elch"          | Algiz           |
+>| S         | ᛋ    | Sigel   | „Sonne"         | Sowilo          |
+>| T         | ᛏ    | Tir     | „Stern"         | Tiwaz           |
+>| B         | ᛒ    | Beorc   | „Birke"         | Berkanan         |
+>| E         | ᛖ    | Eh      | „Pferd"         | Ehwaz           |
+>| M         | ᛗ    | Mann    | „Mensch"        | Mannaz          |
+>| L         | ᛚ    | Lagu    |  „Wasser"        | Laguz           |
+>| Ng        | ᛝ    | Ing     | „Held"          | Ingwaz          |
+>| D         | ᛞ    | Daeg    | „Tag"           | Dagaz           |
+>| Oe        | ᛟ    | Ethel   | „Heimat"        | Othila          |
+>| A         | ᚪ    | Ac      | „Eiche"         | —               |
+>| Ae        | ᚫ    | Aesc    | „Esche"         | —               |
+>| Yr        | ᚣ    | Yr      | „Bogen"         | —               |
+>| Ea        | ᛠ    | Ear     | „Grab"          | —               |
+>| G         | ᚸ    | Gar     | „Speer"         | —               |
+>| K         | ᛣ    | Calc    | „Kreide"        | —               |
+>| Q         | ᛢ    | Cweorth | „Feuerquirl"    | —               |
+>| St        | ᛥ    | Stan    | „Stein"         | —               |
+>| Or        | ᛡ    | Ior     | „Wasserungeheuer" | —             |
 
 >#### Der Jüngere Futhark
 >
 >In Dänemark und Deutschland begann sich der Futhark im Laufe der Zeit weiterzuentwickeln, sowohl bei der Kommunikation als auch beim Zaubern. Viele der Namen und Bedeutungen der Runen änderten sich, als die Sprache verdichtet wurde, und die Runenmeister einigten sich schließlich auf einen Satz von 16 Runen statt der ursprünglichen 24. Statt drei Aettir aus je acht Runen hatte die erste Aett in diesem System nur sechs Runen und die anderen beiden hatten fünf. Es fehlen Gebo, Wunjo, Perth, Algiz, Ehwaz, Ingwaz, Dagaz und Othila. Diese Variante wurde als der Jüngere Futhark bekannt.
 >
->| Buchstabe | Rune | Name    | Aussprache | Bedeutung     | Älterer Futhark |
->| --------- | ---- | ------- | ---------- | ------------- | --------------- |
->| F         | ᚠ    | Fe      | FAY        | „Reichtum"    | Fehu            |
->| U         | ᚢ    | Ur      | OOR        | „Nieselregen" | Uruz            |
->| Th        | ᚦ    | Thurs   | THURZ      | „Riese"       | Thurisaz        |
->| A         | ᚬ    | Ass     | AHSS       | „Gott"        | Ansuz           |
->| R         | ᚱ    | Reidh   | RAYTH      | „Ritt"        | Raido           |
->| K         | ᚴ    | Kaun    | COWN       | „Geschwür"    | Kauno           |
->| H         | ᚼ    | Hagall  | HAH-gall   | „Hagel"       | Hagalaz         |
->| N         | ᚾ    | Naudhr  | NOW-thur   | „Not"         | Naudiz          |
->| I         | ᛁ    | Iss     | EES        | „Eis"         | Isa             |
->| A         | ᛅ    | Ar      | AHR        | „Jahr"        | Jera            |
->| S         | ᛋ    | Sol     | SOHL       | „Sonne"       | Sowilo          |
->| T         | ᛏ    | Tyr     | TEER       | „Tyr"         | Tiwaz           |
->| B         | ᛒ    | Bjarkan | BYAR-kahn  | „Birke"       | Berkanan         |
->| M         | ᛘ    | Madhr   | mah-THUR   | „Mensch"      | Mannaz          |
->| L         | ᛚ    | Logr    | lah-GHUR   | „Wasser"      | Laguz           |
->| Y         | ᛦ    | Yr      | EAR        | „Eibe"        | Ihwaz           |
+>| Buchstabe | Rune | Name    | Bedeutung     | Älterer Futhark |
+>| --------- | ---- | ------- | ------------- | --------------- |
+>| F         | ᚠ    | Fe      | „Reichtum"    | Fehu            |
+>| U         | ᚢ    | Ur      | „Nieselregen" | Uruz            |
+>| Þ         | ᚦ    | Thurs   | „Riese"       | Thurisaz        |
+>| A         | ᚬ    | Ass     | „Gott"        | Ansuz           |
+>| R         | ᚱ    | Reidh   | „Ritt"        | Raido           |
+>| K         | ᚴ    | Kaun    | „Geschwür"    | Kauno           |
+>| H         | ᚼ    | Hagall  | „Hagel"       | Hagalaz         |
+>| N         | ᚾ    | Naudhr  | „Not"         | Naudiz          |
+>| I         | ᛁ    | Iss     |  „Eis"         | Isa             |
+>| A         | ᛅ    | Ar      | „Jahr"        | Jera            |
+>| S         | ᛋ    | Sol     | „Sonne"       | Sowilo          |
+>| T         | ᛏ    | Tyr     | „Tyr"         | Tiwaz           |
+>| B         | ᛒ    | Bjarkan | „Birke"       | Berkanan         |
+>| M         | ᛘ    | Madhr   | „Mensch"      | Mannaz          |
+>| L         | ᛚ    | Logr    |  „Wasser"      | Laguz           |
+>| Y         | ᛦ    | Yr      | „Eibe"        | Ihwaz           |
 
 
 >#### Eirik Svennson, Krieger-Vitki
@@ -7436,7 +7436,7 @@ Beachte, dass der Orden des Hermes allgemein als im Krieg befindlich mit dem Ord
 >
 >Fertigkeiten: Raufen 2 (Ausweichen), Zechen 1 (mit Soldaten), Handwerk: Runen 2 (in Metall), Führung 2 (im Kampf), Nordisch 5 (Soldatenslang), Altnordisch 3 (Runen schreiben), Runenmagie 5 (Tiwaz), Einzelwaffe 5 (Langschwert)
 >
->Künste: A 0, B 6, D 5, E 0, F 0, G 0, H 0, I 0, J 0, K 0, L 0, M 8, N 0, Ng 0, O 9+2, P 0, R 0, S 0, T 10, Th 0, U 5, W 4, Y 0, Z 10
+>Künste: A 0, B 6, D 5, E 0, F 0, G 0, H 0, I 0, J 0, K 0, L 0, M 8, N 0, Ng 0, O 9+2, P 0, R 0, S 0, T 10, Þ 0, U 5, W 4, Y 0, Z 10
 >
 >Ausrüstung: Teilweise Lederschuppenrüstung, Langschwert
 >
@@ -7505,7 +7505,8 @@ Ginzburg, Carlo. The Night Battles: Witchcraft and Agrarian Cults in the Sixteen
 
 Lecoteux, Claude. Witches, Werewolves and Fairies: Shapeshifters and Astral Doubles in the Middle Ages. Rochester: Inner Traditions, 2003.
 
-Summers, Montague. *The Werewolf in Lore and Leg- end*. New York: Dover Publications, 2003.
+Summers, Montague. *The Werewolf in Lore and Legend*. New York: Dover Publications, 2003.
 
 ## ANMERKUNG ZU DEN QUELLEN UND HERANGEHENSWEISEN BEI NACHTWANDLERN
 
+Nachtwandler sind in klassischen griechischen Werken ausführlich dokumentiert sowie in Werken, die nach dem Spielzeitraum verfasst wurden. Während des Spielzeitraums werden sie in mehreren Quellen erwähnt, jedoch nicht detailliert genug beschrieben, um daraus vollständige, authentische regionale Varianten zu entwickeln. Spieltruppen werden ermutigt, die Elemente der verschiedenen hier vorgestellten Nachtwandlergruppen frei zu kombinieren, um eine einzigartige Gruppe zu erschaffen, die zur Region passt, in der ihr Konvent liegt. Die hier beschriebenen Gruppen wurden im 13. Jahrhundert in der Regel nicht im Detail dokumentiert, sind aber aufgenommen worden, damit Spieler einzelne Elemente auswählen und in selbst entworfene fiktive Traditionen einbauen können.

@@ -977,7 +977,6 @@ Es gibt sehr wenige Auren mit Ausrichtungen, die sich manifestieren und nicht Te
 >
 >**Problematische Aura:** Die Magieaura des Konvents hat eine Ausrichtung, die Aktivitäten, die eigentlich einfach sein sollten, manchmal viel schwieriger macht und dadurch Geschichten provoziert. Eine auf Perdo ausgerichtete Aura wäre ein Beispiel, ebenso wie eine, die auf „Voreiligkeit" oder „Unhöflichkeit" ausgerichtet ist.
 
-
 # Kapitel Drei: Die Magische Sphäre
 
 Die Magische Sphäre ist eines der größten Mysterien des Mythischen Europas. Viele Magi sind überzeugt, dass dieses Pendant zu Himmel, Hölle und Arkadien existiert, denn einige der wenigen, die dorthin gereist sind, kehrten zurück und berichteten von ihren Entdeckungen. Doch diese Berichte weichen so stark voneinander ab, dass sich niemand ein klares Bild davon machen kann, wie dieser Ort funktioniert oder was er enthält. Er gilt als äußerst gefährlich und abgelegen, aber als große Herausforderung, die ein meisterlicher Magus bezwingen oder erforschen könnte. Die Magi können sich nicht einmal auf einen Namen einigen – es gibt ebenso viele Bezeichnungen dafür wie Vorstellungen über seine Natur, und so ist der einzig allgemein anerkannte und verstandene Begriff „Die Magische Sphäre". (In diesem Buch wird „Sphäre" großgeschrieben, um den Ort von allgemeinen Verweisen auf die Sphäre der Magie zu unterscheiden.)
@@ -1496,6 +1495,7 @@ Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die 
 >Die Dauer der Reise des Zaubernden durch die Dämmerungsleere wird um drei Stufen gegenüber seiner anfänglichen Geschwindigkeitsstufe reduziert. Mit einer Geschwindigkeitsstufe von 6 würde der Zaubernde nach einem Jahr in die Magische Sphäre zurückkehren, und dieser Zauber würde seine Geschwindigkeitsstufe auf 18 erhöhen, was bedeutet, dass er nach nur einem Tag hervortritt.
 >
 >(Basis 20)
+
 # Kapitel Vier: Magische Charaktere
 
 Im Sinne dieses Kapitels sind „magische Charaktere" solche Charaktere, die einen Magischen Machtwert besitzen, sei es, weil sie mit den nachfolgenden Regeln zur Magischen Charaktererschaffung erstellt wurden, oder weil sie auf irgendeine Weise eine Tugend erlangt haben, die ihnen einen solchen verleiht, wie etwa die unten beschriebene Tugend Verwandeltes (Wesen). Diese Charaktere unterscheiden sich von Charakteren, die lediglich der Magiesphäre zugeordnet sind, wie Magi oder Heckenzauberer. Sie verfügen über zahlreiche angeborene Vorteile jenseits jener, die allen übernatürlichen Wesen im Grundregelwerk von Ars Magica Fifth Edition (Seite 191) zugestanden werden, und diese werden hier beschrieben.
@@ -4165,7 +4165,6 @@ ReAn 35 (Basis 2, +4 Spezialreichweite, +1 Durchmesser, +2 Gruppe +2 Gruppengrö
 
 Die Vögel von Nephelokokkygien können fliegen. Dies ist weder eine Übernatürliche Fertigkeit noch eine Kraft: Die Knochen des Charakters sind hohl und leicht, er hat kräftige, gefiederte Schwingen, und er hat einen Schwanz. Er ist ein Vogel. Das Manövrieren wird als Spezialisierung der Fertigkeit Athletik dargestellt (**ArM5**, Seite 64). Der Charakter kann normalerweise ohne Wurf abheben und hat für dieses Manöver eine Initiative von Sck + Athletik (Fliegen). Unter extremen Umständen (z. B. während eines Sturms) kann ein Wurf (Geschicklichkeit + Athletik (Fliegen) + Stresswürfel) erforderlich sein, um abzuheben.
 
-
 ## Die Magischen Linien der Katzen
 
 Drei Katzenfamilien können ihre Abstammung – über Generationen von Vertrauten und verzerrte, intelligente Vorfahren – auf die Vertrauten der Gründer oder deren erste Lehrlinge zurückführen. Jede dieser Familien, Linien genannt, besitzt eine mündliche Überlieferung und eine eigenständige Kultur. Sie haben viele magische Merkmale, die sich nahezu sicher vererben – ein ungewöhnliches Merkmal bei magischen Tieren.
@@ -4842,6 +4841,7 @@ Arkliss verwendete 1 Meisterschaftspunkt ihrer Qualität Verbesserte Kräfte fü
 >### Der Schreiber der Schlange
 >
 >Polymathes, der drakonische Bibliothekar, hat über die Jahre einige hermetische Bücher erworben und entschieden, dass es Zeit ist, seine Sammlung zu erweitern. Als wahrer Kenner will er nur Bücher von hoher Qualität. Er ist gewiss nicht bereit, etwas aus seiner eigenen Sammlung herzugeben, aber er würde jemanden zu seinem Hort kommen und ein Buch kopieren lassen, als Gegenleistung für einen neuen Band als Bezahlung. Wenn der Kopist gute Arbeit leistet, beschließt Polymathes, diese Person (auf unbestimmte Zeit) einzustellen, um weitere hermetische Bücher zu kopieren und zu tauschen. Da er ein Drache ist, formuliert er dies nicht als Bitte.
+
 #### Polymathes, der Drakonische Bibliothekar
 
 **Magische Macht:** 41 (Animal)
