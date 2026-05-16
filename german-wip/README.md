@@ -13,6 +13,8 @@ Aktive Arbeitsdateien für laufende Übersetzungen und Korrekturen.
 | Datei | Inhalt | Zeilen EN | Stand |
 |---|---|---|---|
 | `Ars Magica 5e - Guardians of the Forests - Das Rhein-Tribunal.md` | Vollständige deutsche Übersetzung von „Guardians of the Forests: The Rhine Tribunal" | 1–4724 | 2026-05-15 |
+| `Ars Magica 5e - Magie - Heckenzauber (Überarbeitet) Deutsch.md` | Vollständige deutsche Übersetzung von „Hedge Magic Revised Edition" | 1–7511 | 2026-05-16 |
+| `Ars Magica 5e - Herrschaftssphären - Magie.md` | Vollständige deutsche Übersetzung von „Realms of Power: Magic" | 1–8848 | 2026-05-16 |
 
 ---
 

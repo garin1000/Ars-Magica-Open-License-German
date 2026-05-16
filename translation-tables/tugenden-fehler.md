@@ -80,26 +80,29 @@
 | Bee King | Bienenkönig | |
 | Blood of the Nephilim | Blut der Nephilim | |
 | Command Animals | Tiere befehligen | |
+| Composer of Power | Machtkomponist | RoP:M; kann Machtlieder an andere Wesen lehren |
 | Corpse Magic | Leichenmagie | |
 | Curse-Throwing | Fluchschleudern | |
 | Demonic Blood | Dämonisches Blut | |
 | Embitterment | Verbitterung | |
 | Entrancement | Betörung | |
-| Focus Power | Fokussierte Macht | |
+| Focus Power | Fokussierte Macht | Auch als Magische Qualität (Groß); für Nicht-Machtwert-Charaktere: Erschöpfungskosten |
 | Greater Benediction | Große Segnung | |
 | Greater Immunity | Große Immunität | |
-| Greater Power | Große Macht | |
+| Greater Immunity (Deprivation) | Große Immunität (Entbehrung) | RoP:M; immun gegen Hunger, Durst, Atemnot |
+| Greater Power | Große Macht | Auch als Magische Qualität (Groß); für Nicht-Machtwert-Charaktere: Erschöpfungskosten |
 | Greater Purifying Touch | Große Reinigende Berührung | |
 | Hex | Verhexung | |
 | Immune to Disease | Immun gegen Krankheit | |
 | Induction | Einflüstern | |
-| Ritual Power | Ritualmacht | |
+| Ritual Power | Ritualmacht | Auch als Magische Qualität (Groß); für Nicht-Machtwert-Charaktere: Erschöpfungs- + Selbstvertrauenskosten |
 | Sense Passions | Leidenschaften spüren | |
 | Shapeshifter | Gestaltwandler | |
 | Spiritual Pact | Geistiger Pakt | |
 | Strong Faerie Blood | Starkes Feenblut | |
 | Summon Animals | Tiere rufen | |
 | Supernatural Beauty | Übernatürliche Schönheit | |
+| Transformed (Being) | Verwandeltes (Wesen) | RoP:M; Charakter wird durch Magie in übernatürliches Wesen verwandelt; erhält Machtwert 0 |
 | Whistle Up The Wind | Den Wind heraufpfeifen | |
 
 ### Übernatürliche Tugenden, Klein / Supernatural, Minor
@@ -118,14 +121,18 @@
 | Feather Messenger | Federbote | |
 | Folk Magic | Volksmagie | |
 | Font of Knowledge | Quell des Wissens | |
+| Homing Instinct | Heimkehrinstinkt | RoP:M; kennt Weg zu Int-Wert vielen Orten; feste Arkane Verbindung |
+| (Land) Regio Network | (Land-)Regionetzwerk | RoP:M; Zugang zu Netzwerk von Regiones; Reisezeit 1 Durchmesser |
 | Leather Ripper | Lederzerreißer | |
 | Lesser Benediction | Kleine Segnung | |
 | Lesser Immunity | Mindere Immunität | |
-| Lesser Power | Mindere Macht | |
+| Lesser Power | Mindere Macht | Auch als Magische Qualität (Klein); für Nicht-Machtwert-Charaktere: Erschöpfungskosten |
 | Lesser Purifying Touch | Mindere Reinigende Berührung | |
 | Light Touch | Leichte Berührung | |
 | Magic Sensitivity | Magiegespür | |
-| Personal Power | Persönliche Kraft | |
+| Magical Blood | Magisches Blut | RoP:M; −1 auf Alterungswürfe; übernatürliche Eigenschaft je nach Wesentyp |
+| Master of (Form) Creatures | Meister der (Form-)Kreaturen | RoP:M; kann unintelligente Wesen mit Magischer Macht der Form zähmen |
+| Personal Power | Persönliche Kraft | Auch als Magische Qualität (Klein); für Nicht-Machtwert-Charaktere: Erschöpfungskosten |
 | Personal Vis Source | Persönliche Vis-Quelle | |
 | Premonitions | Vorahnungen | |
 | Protection | Schutz | |
@@ -134,6 +141,8 @@
 | Sense Passions | Leidenschaften spüren | |
 | Skinchanger | Tierwandler | |
 | Summon Animals | Tiere rufen | |
+| Variable Power | Variable Kraft | RoP:M; Kraft wird stärker basierend auf Alter, Machtwert, Verwicklung oder Fertigkeit |
+| Voice of the (Land) | Stimme des/der (Land) | RoP:M; kann mit Kreaturen eines bestimmten Lebensraums sprechen |
 | Wilderness Sense | Natursinn | |
 
 ### Übernatürliche Tugenden, Frei / Supernatural, Free
@@ -142,11 +151,20 @@
 |---|---|---|
 | Commanding Aura | Befehlende Aura | Kirchliche oder weltliche Autorität mit übernatürlicher Wirkung |
 
+### Hermetische Tugenden, Klein (RoP:M) / Hermetic, Minor (RoP:M)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Atlantean Magic | Atlantische Magie | RoP:M; Zugang zu Reichweite: Wasserweg, Dauer: Sturm, Ziel: Gewässer |
+| Imbued with the Spirit of (Form) | Durchdrungen vom Geist der (Form) | RoP:M; Erschöpfung statt Vis für gewählte Form |
+
 ### Allgemeine Tugenden, Groß / General, Major
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Giant Blood | Riesenblut | |
+| Essential Virtue | Essenzielle Tugend | RoP:M; Groß (+6) oder Klein (+3); verleiht Essenzielle Eigenschaft |
+| Giant Blood | Riesenblut | RoP:M-Hinweis: repräsentiert Halbriesen, nicht volle Riesen |
+| Magical Warder | Magischer Wächter | RoP:M; magisches Wesen als Beschützer; auch für Geisterhaften Wächter mit Machtwert |
 | True Friend | Wahrer Freund | |
 
 ### Allgemeine Tugenden, Klein / General, Minor
@@ -154,6 +172,9 @@
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
 | Academic Concentration (Subject) | Akademische Vertiefung (Fach) | Spezialisierung auf eines der sieben Fächer der Artes Liberales |
+| Essential Virtue | Essenzielle Tugend | RoP:M; Klein (+3); verleiht Essenzielle Eigenschaft |
+| Ferocity | Wildheit | RoP:M; Selbstvertrauenspunkte unter bestimmten Umständen; nur für Grogs/unintelligente Wesen |
+| Inoffensive to (Beings) | Unauffällig für (Wesen) | RoP:M; Gabe/Magische Ausstrahlung stört einen Wesentyp nicht |
 | Affinity with Ability | Affinität zu (Fertigkeit) | |
 | Apt Student | Begabter Schüler | |
 | Arcane Lore | Arkanes Wissen | Zugang zu arkanem Wissen ohne Arkane Fertigkeit |
@@ -175,7 +196,7 @@
 | Improved Characteristics | Verbesserte Eigenschaften | |
 | Inspirational | Inspirierend | |
 | Keen Vision | Scharfe Sicht | |
-| Large | Großgewachsen | |
+| Large | Großgewachsen | RoP:M-Hinweis: bei magischen Charakteren ohne Stärke-/Schnelligkeit-Modifikation |
 | Lightning Reflexes | Blitzreflexe | |
 | Long-Winded | Ausdauernd | |
 | Luck | Glück | |
@@ -188,10 +209,22 @@
 | Strong-Willed | Willensstark | |
 | Student of (Realm) | Student der (Sphäre) | |
 | Tough | Zäh | |
+| Unaging | Nicht-Alternd | |
 | Venus's Blessing | Venussegen | |
 | Warrior | Krieger | |
+| Magical Mount | Magisches Reittier | RoP:M; magisches Wesen als Reittier/Wachtier mit Machtwert ≤ 25 |
+| Unaffected by The Gift | Unempfindlich gegenüber der Gabe | RoP:M; nicht betroffen von negativen Effekten der Gabe/Magischen Ausstrahlung |
 | Wealthy | Wohlhabend | Konsistent im Text verwendet |
 | Well-Traveled | Vielgereist | |
+
+### Spezial-Tugenden (RoP:M) / Special Virtues (RoP:M)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Magic Animal | Magisches Tier | RoP:M; Spezial; wahre Gestalt ist ein Tier; Machtwert − Größe |
+| Magic Human | Magischer Mensch | RoP:M; Spezial; wahre Gestalt ist menschlich; inhärent Monströses Aussehen |
+| Magic Spirit | Magischer Geist | RoP:M; Spezial; unkörperliche wahre Gestalt; inhärent Magische Ausstrahlung |
+| Magic Thing | Magisches Ding | RoP:M; Spezial; belebte Materie; inhärent Vorübergehende Macht + Keine Erschöpfung |
 
 ### Sozialer Status Tugenden / Social Status Virtues (Auswahl)
 
@@ -210,7 +243,11 @@
 | Knight | Ritter | |
 | Landed Noble | Landadliger | |
 | Magister in Artibus | Magister in Artibus (Lat.) | Akademischer Titel |
+| Magical Champion | Magischer Streiter | RoP:M; Klein; Vertreter einer kleinen Gruppe durch magische Natur |
+| Magical Covenfolk | Magisches Konventsmitglied | RoP:M; Frei; magisches Wesen als gleichwertiges Konventsmitglied |
+| Magical Master | Magischer Meister | RoP:M; Groß; als höhere Macht von einer großen Gruppe anerkannt |
 | Redcap | Rotkappe | Haus-Mercere-Bote |
+| Spirit Votary | Geistverehrer | RoP:M; Klein; Charakter pflegt rituelle Beziehung zu einem Geist |
 | Veteran | Veteran | |
 
 ---
@@ -222,6 +259,7 @@
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
 | Blatant Gift | Auffällige Gabe | |
+| Environmental Magic Condition | Magische Umgebungsbedingung | RoP:M; Groß, Hermetisch; alle Zauber- und Laborsummen halbiert unter bestimmten Umständen |
 | Deficient Form | Defizitäre Form | |
 | Deficient Technique | Defizitäre Technik | |
 | Difficult Spontaneous Magic | Schwierige Spontane Magie | |
@@ -279,7 +317,10 @@
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
 | Abandoned Apprentice | Verlassener Lehrling | Geschichte-Fehler; Magus hat keinen Orden, der ihn unterstützt |
+| Blatant Magical Air | Auffällige Magische Ausstrahlung | RoP:M; −6 auf soziale Interaktionen; wie Auffällige Gabe |
+| Bound to Magic | An Magie gebunden | RoP:M; muss in Magieaura ≥ 5 leben; sonst Schwere Wunden |
 | Greater Malediction | Große Verfluchung | |
+| Hunger for (Form) Magic | Hunger nach (Form-)Magie | RoP:M; muss 1 Vis der Form pro Quartal konsumieren |
 | Monstrous Blood | Monströses Blut | |
 | Suppressed Gift | Unterdrückte Gabe | |
 
@@ -287,12 +328,18 @@
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
+| Baneful Circumstances | Schädliche Umstände | RoP:M; unter bestimmten Umständen keine Erholung/Heilung/Macht-Regeneration |
 | Bound to (Realm) | Gebunden an (Sphäre) | |
-| Environmental Magic Condition | Magische Umgebungsbedingung | |
+| Deteriorating Power | Schwindende Kraft | RoP:M; eine Kraft wird schwächer über Zeit |
+| Environmental Magic Condition | Magische Umgebungsbedingung | Klein; s. auch Groß/Hermetisch-Version |
 | Environmental Sensitivity | Umgebungsempfindlichkeit | |
+| Exiled Atlantean | Verbannter Atlantier | RoP:M; kann nicht in heimische Regio zurückkehren |
 | Form Monstrosity | (Form-)Monstrosität | Platzhalter (Form) ersetzen |
 | Imagined Folk Tradition Vulnerability | Eingebildete Volksmagie-Verwundbarkeit | |
 | Lesser Malediction | Kleine Verfluchung | |
+| Monstrous Blood | Monströses Blut | RoP:M; Klein; −1 Alterungswurf aber nachteilige körperliche Eigenschaft |
+| Restricted Power | Eingeschränkte Kraft | RoP:M; Kraft nur unter bestimmten Umständen oder mit Zeremonie aktivierbar |
+| Slow Power | Langsame Kraft | RoP:M; Kraft benötigt zusätzliche Runde Vorbereitung |
 | Susceptibility to Divine Power | Anfälligkeit für Göttliche Kraft | |
 | Susceptibility to Faerie Power | Anfälligkeit für Feenkraft | |
 | Susceptibility to Infernal Power | Anfälligkeit für Infernale Kraft | |
@@ -317,6 +364,7 @@
 | Humble | Demütig | |
 | Infamous | Berüchtigt | |
 | Lecherous | Wollüstig | |
+| Meddler | Einmischer | GotF |
 | Obsession | Besessenheit | |
 | Overconfident | Überheblich | |
 | Proud | Stolz | |
@@ -324,6 +372,7 @@
 | Temperate | Gemäßigt | |
 | Timid | Furchtsam | |
 | Visions | Visionen | |
+| Warped Senses | Verzerrte Sinne | RoP:M; Klein; überempfindliche oder schwache Sinne unter bestimmten Umständen |
 | Wrathful | Jähzornig | |
 
 ### Geschichte-/Handlungs-Fehler / Story Flaws (Auswahl)
@@ -346,14 +395,25 @@
 | True Love | Wahre Liebe | |
 | Unresolved Trauma | Unverarbeitetes Trauma | |
 | Vendetta | Vendetta | |
+| Magic (Being) Companion | Magischer (Wesen-)Gefährte | RoP:M; Klein; begleitet von intelligentem magischem Wesen |
+| Servant of the (Land) | Diener des/der (Land) | RoP:M; Groß; von mächtiger Kreatur gerettet; muss Aufgabe erfüllen |
 | Vow | Gelübde | |
+| Wanderlust | Wanderlust | RoP:M; Groß; kann nicht länger als ein Quartal am selben Ort bleiben |
 | Ward | Mündel | |
+
+### Sozialer-Status-Fehler (RoP:M) / Social Status Flaws (RoP:M)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Magical Friend | Magischer Freund | RoP:M; Klein; magisches Wesen unter Schutz eines Menschen; Gegenstück zu Magischer Gefährte |
+| Magical Monster | Magisches Ungeheuer | RoP:M; Groß; magisches Wesen ohne Bindung an menschliche Gesellschaft |
 
 ### Allgemeine Fehler / General Flaws (Auswahl)
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Age Quickly | Schnelles Altern | |
+| Age Quickly | Schnelles Altern | RoP:M-Hinweis: bei Machtwert nicht immun gegen Altern, aber nur 1×/Jahr |
+| Anchored to the (Land) | Verankert im/am (Land) | RoP:M; Klein; −3 auf alle Würfe außerhalb des Heimatlebensraums |
 | Arthritis | Arthritis | |
 | Blind | Blind | |
 | Clumsy | Ungeschickt | |
@@ -365,17 +425,159 @@
 | Low Self-Esteem | Geringes Selbstwertgefühl | |
 | Missing Ear | Fehlendes Ohr | |
 | Missing Eye | Fehlendes Auge | |
+| Missing Hand | Fehlende Hand | |
 | Noncombatant | Nichtkämpfer | |
 | Poor | Arm | Konsistent im Text verwendet |
-| Poor Concentration | Schlechte Konzentration | |
+| Essential Flaw | Essenzieller Fehler | RoP:M; Groß (−6) oder Klein (−3); nachteilige Essenzielle Eigenschaft; nicht durch Magie überwindbar |
+| Offensive to (Beings) | Abstoßend für (Wesen) | RoP:M; Klein; magische Präsenz stört einen Wesentyp besonders |
+| Poor Concentration | Schlechte Konzentration | RoP:M-Hinweis: −3 auf Konzentrationswürfe |
 | Poor Eyesight | Schlechtes Sehvermögen | |
 | Poor Hearing | Schlechtes Hörvermögen | |
 | Poor Student | Schlechter Schüler | |
 | Simple-Minded | Einfältig | |
 | Slow Learner | Langsamer Lerner | |
-| Small Frame | Zierlicher Körperbau | |
+| Small Frame | Zierlicher Körperbau | RoP:M-Hinweis: bei magischen Charakteren ohne Stärke-/Schnelligkeit-Modifikation |
 | Weak Personality | Schwache Persönlichkeit | |
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License)*
+## Ergänzungen aus Supplements / Supplement Additions
+
+### Guardians of the Forests: The Rhine Tribunal (GotF)
+
+#### Hermetische Tugenden, Groß / Hermetic, Major
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Ways of the Forest | Wege des Waldes | GotF – ermöglicht Wald als Sanctum ohne Penaltyabzug |
+
+#### Allgemeine Fehler / General Flaws
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Depressed | Deprimiert | GotF – Persönlichkeitsfehler; in Kreaturenblöcken auch als Effekt „Niedergeschlagenheit" |
+| Weak-Willed | Willensschwach | GotF – Allgemeiner Fehler |
+
+### Hedge Magic Revised (HM:RE)
+
+#### Übernatürliche Tugenden, Klein / Supernatural, Minor
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Greater Magical Defenses | Verbesserte Magische Abwehr | HM:RE; erhöht den Magischen Abwehrbonus |
+
+#### Übernatürliche Tugenden, Groß / Supernatural, Major
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Elemental Medicine | Elementarmedizin | HM:RE; Elementaristen; Heilung durch Elementarmagie |
+| Elemental Philosophiae | Elementare Philosophiae | HM:RE; Elementaristen; Naturphilosophie und Elementarlehre |
+| Elemental Theurgy | Elementare Theurgie | HM:RE; Elementaristen; Beschwörung elementarer Geister |
+| Elementalist Magic | Elementaristische Magie | HM:RE; Groß, Übernatürlich; Zugang zur Elementaristen-Tradition |
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Elemental Affinity | Elementare Affinität | HM:RE; Klein, Übernatürlich; Elementaristen |
+| Elementalist Air | Elementaristische Luft | HM:RE; Klein, Übernatürlich; Elementaristen-Form |
+| Elementalist Earth | Elementaristische Erde | HM:RE; Klein, Übernatürlich; Elementaristen-Form |
+| Elementalist Fire | Elementaristisches Feuer | HM:RE; Klein, Übernatürlich; Elementaristen-Form |
+| Elementalist Water | Elementaristisches Wasser | HM:RE; Klein, Übernatürlich; Elementaristen-Form |
+
+#### Tugenden / Virtues (Volkshexen)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Folk Witch | Volkshexe | HM:RE; Freie Sozialer-Status-Tugend |
+| Cursing | Fluchen | HM:RE; Groß, Übernatürlich; Volkshexen |
+| Healing | Heilung | HM:RE; Groß, Übernatürlich; Volkshexen |
+| Life-Linked Folk Witch Magic | Lebensgebundene Volkshexen-Magie | HM:RE; Groß, Übernatürlich; Volkshexen |
+| Animal Healer | Tierheiler | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Concentrated Potions | Konzentrierte Tränke | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Expert Potion Brewer | Meisterbrauerin | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Flight | Flug | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Painless Moon | Schmerzfreier Mond | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Well-Trained Folk Witch | Gut ausgebildete Volkshexe | HM:RE; Klein, Allgemein; Volkshexen |
+
+#### Fehler / Flaws (Volkshexen)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Primitive Tradition | Primitive Tradition | HM:RE; Groß, Übernatürlich; Volkshexen |
+| Rarified Tradition | Verfeinerte Tradition | HM:RE; Groß, Übernatürlich; Volkshexen |
+| Harsh Moon | Harter Mond | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Short-Ranged Curses | Kurzreichweitige Flüche | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Silent Tradition | Stumme Tradition | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Unstable Magic | Instabile Magie | HM:RE; Klein, Übernatürlich; Volkshexen |
+| Poorly Trained Folk Witch | Schlecht ausgebildete Volkshexe | HM:RE; Klein, Allgemein; Volkshexen |
+
+#### Fehler / Flaws (Elementaristen)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Vulnerable to (Form) | Anfällig gegen (Form) | HM:RE; Klein; Elementaristen |
+| Weak Elemental Resistance | Schwache Elementarresistenz | HM:RE; Groß; Elementaristen |
+
+#### Tugenden / Virtues (Gruagachan)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| External Soul | Äußere Seele | HM:RE; Groß, Übernatürlich; Gruagachan |
+| Cailleach Magic | Cailleach-Magie | HM:RE; Groß, Übernatürlich; Gruagachan |
+| Gruagach Master | Gruagach-Meister | HM:RE; Klein, Sozialer Status; Gruagachan |
+| Flexible Gruagach Magic | Flexible Gruagach-Magie | HM:RE; Klein, Übernatürlich; Gruagachan |
+| Tattoo Mastery | Tätowierungsmeisterschaft | HM:RE; Klein, Übernatürlich; Gruagachan |
+| Well-Trained Gruagach | Gut ausgebildeter Gruagach | HM:RE; Klein, Übernatürlich; Gruagachan |
+
+#### Fehler / Flaws (Gruagachan)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| No Tattoo Magic | Keine Tätowierungsmagie | HM:RE; Groß, Übernatürlich; Gruagachan |
+| Transformation Prone | Transformationsanfällig | HM:RE; Groß, Übernatürlich; Gruagachan |
+| Incompatible Hedge Arts | Unvereinbare Heckenkünste | HM:RE; Klein, Übernatürlich; Gruagachan |
+| Inflexible Magic | Unflexible Magie | HM:RE; Klein, Übernatürlich; Gruagachan |
+| Poorly Trained Gruagach | Schlecht ausgebildeter Gruagach | HM:RE; Klein, Übernatürlich; Gruagachan |
+| Weak Tattoo Magic | Schwache Tätowierungsmagie | HM:RE; Klein, Übernatürlich; Gruagachan |
+
+#### Geschichte-Fehler, Groß / Story Flaws, Major
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Known Hedge Wizard | Bekannter Heckenzauberer | HM:RE; Identität als Heckenzauberer ist bekannt |
+| Pagan | Heide | HM:RE; Charakter folgt einer vorchristlichen Religion |
+
+#### Tugenden / Virtues (Gelehrte Magier)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Entreat the Powers | Die Mächte anrufen | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| Mythic Alchemy | Mythische Alchemie | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| Mythic Herbalism | Mythisches Kräuterwissen | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| Strong Amulet Magic | Starke Amulettmagie | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| Strong Verbal Charms | Starke Verbale Zauberformeln | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| Natural Magician | Natürlicher Magier | HM:RE; Klein, Übernatürlich; Gelehrte Magier |
+| Skilled Master | Erfahrener Meister | HM:RE; Klein, Allgemein; Gelehrte Magier |
+
+#### Fehler / Flaws (Gelehrte Magier)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Weak Verbal Charms | Schwache Verbale Zauberformeln | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| Charm Magician | Zauberformel-Magier | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| Intervention Prone | Interventionsanfällig | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| Laboratory Magician | Labormagier | HM:RE; Groß, Übernatürlich; Gelehrte Magier |
+| No Chartae Making | Keine Chartae-Herstellung | HM:RE; Klein, Übernatürlich; Gelehrte Magier |
+| No Text Casting | Kein Textzaubern | HM:RE; Klein, Übernatürlich; Gelehrte Magier |
+| Poorly Trained Magician | Schlecht ausgebildeter Magier | HM:RE; Klein, Übernatürlich; Gelehrte Magier |
+| Weak Amulets | Schwache Amulette | HM:RE; Klein, Übernatürlich; Gelehrte Magier |
+| Weak Chartae | Schwache Chartae | HM:RE; Klein, Übernatürlich; Gelehrte Magier |
+
+#### Übernatürliche Fehler, Klein / Supernatural, Minor
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| No Magical Defenses | Keine Magische Abwehr | HM:RE; Charakter hat keinen Magischen Abwehrbonus |
+
+---
+
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Hedge Magic Revised Edition (Atlas Games, 2011)*

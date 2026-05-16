@@ -33,6 +33,7 @@ Thematisch gegliederte Übersetzungstabellen für die deutsche Ausgabe von Ars M
 | [kampf.md](kampf.md) | Kampfbegriffe, Formeln, Wundstufen, Erschöpfung, Manöver, Gruppenregeln, Rüstungen, Waffentabellen | Core Rules + ArsMagica_DE_Gesamt_work.md |
 | [konvent-boons-hooks.md](konvent-boons-hooks.md) | Konventsvorzüge und -haken: Mechanik, vollständige Liste aller Kleinen/Großen Vorzüge und Haken nach Kategorie | Core Rules + ArsMagica_DE_Gesamt_work.md |
 | [tiere-kreaturen.md](tiere-kreaturen.md) | Tiere und Kreaturen: Statblock-Begriffe, Größentabelle, vollständige Eigenschaftsliste (Tiertugenden), natürliche Waffen, Grundfertigkeiten | Core Rules + ArsMagica_DE_Gesamt_work.md |
+| [magische-qualitaeten.md](magische-qualitaeten.md) | Magische Qualitäten und Mängel: alle Großen/Kleinen Qualitäten und Mängel, häufige magische Kräfte | RoP:M Kap. 4 |
 
 ---
 

@@ -339,7 +339,7 @@
 | Poisoning The Will | Vergiftung des Willens | PeMe65 | |
 | Loss Of But A Moment's Memory | Verlust eines flüchtigen Augenblicks | PeMe15 | |
 | Enslave The Mortal Mind | Versklavung des sterblichen Geistes | ReMe40 | |
-| Trust Of Childlike Faith | Vertrauen des kindlichen Glaubens | PeMe10 | |
+| Trust Of Childlike Faith | Vertrauen des kindlichen Glaubens | ReMe10 | |
 | Confusion Of The Numbed Will | Verwirrung des betäubten Willens | ReMe15 | |
 | Enchantment Of Detachment | Verzauberung der Gleichgültigkeit | PeMe15 | |
 | Perception Of The Conflicting Motives | Wahrnehmung der widerstreitenden Motive | InMe15 | |

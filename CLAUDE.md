@@ -18,6 +18,7 @@ Du hast immense Erfahrung in der Übersetzung von Rollenspielregeln und Erweiter
 2. Die Ergebnisse werden von davon **unabhängigen Agenten geprüft**.
 3. Prüfe den Satzbau und passe zu direkt aus dem Englischen übernommene Konstruktionen an **natürliches Deutsch** an.
 4. Achte darauf, dass die deutsche und die englische Version eines Buchs **immer dieselbe Anzahl Zeilen** haben und **Zeile für Zeile einander entsprechen**. Verlasse dich bei Korrekturarbeiten darauf, um die Komplexität der Arbeit zu verringern.
+5. **Aussprachehinweise** für englischsprachige Leser (z. B. „(DAH-van ALL-ath)") werden **weggelassen**. Um die Zeilensynchronität zu erhalten, wird die entstehende Leerzeile durch eine Leerzeile in der deutschen Datei ersetzt (oder der verbleibende Text so auf die Zeilen verteilt, dass die Gesamtzahl gleich bleibt).
 
 ### Nach der Übersetzung
 - Prüfe die Korrektheit aller **Markdown-Links**, insbesondere wenn Überschriften modifiziert wurden.

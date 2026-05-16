@@ -43,7 +43,7 @@ Die englische Abkürzung **n/a** (not applicable / not available) wird mit **n/v
 
 ### Ausprachehilfen
 
-Die für englischsprachige Leser gedachten Aussprachebeispiele [z.B. (DAH-van ALL-ath)] werden weggelassen.
+Die für englischsprachige Leser gedachten Aussprachebeispiele [z.B. (DAH-van ALL-ath)] werden weggelassen. Um die Zeilensynchronität zu erhalten, wird die weggelassene Zeile durch eine Leerzeile in der deutschen Datei ersetzt (oder der verbleibende Text so auf die Zeilen verteilt, dass die Gesamtzahl gleich bleibt).
 
 ---
 

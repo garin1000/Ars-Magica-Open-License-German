@@ -180,4 +180,192 @@
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Ars Magica 4th Edition dt. Ausgabe (Wizards of the Coast, 1996)*
+## Ergänzungen aus Realms of Power: Magic
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Cunning | Gerissenheit | Ersetzt Intelligenz bei Tieren/unintelligenten Wesen; kann nicht Lesen/Schreiben |
+| Deprivation | Entbehrung | Zustand ohne Luft, Nahrung oder Wasser |
+| Magical Air | Magische Ausstrahlung | Beunruhigende übernatürliche Präsenz; wie die Gabe für Nicht-Begabte |
+| (Being's) true form | Wahre Gestalt (eines Wesens) | Grundlegende Erscheinung ohne magische Veränderungen |
+| Inherent vis | Inhärentes Vis | Vis im Körper einer Kreatur; Machtwert / 5 (aufgerundet) |
+
+---
+
+## Ergänzungen aus Supplements / Supplement Additions
+
+### Redaktionelle Konventionen / Editorial Conventions
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Story Seed | ABENTEUERIDEE | Abschnittskopf in Spielleiterteilen; **immer in Großbuchstaben**; nicht „Geschichtssamen" oder „Abenteuerkeim" |
+
+### Guardians of the Forests: The Rhine Tribunal (GotF)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Seelie Court | Lichthof | GotF Kap. 8 – wohlwollende Feenherrscher; schottisch-irischer Ursprungsbegriff ohne feste dt. Entsprechung |
+| Unseelie Court | Dunkler Hof | GotF Kap. 8 – feindliche Feenherrscher; adjektivisch auch „unseliger Hof" |
+| Rowan Gild | Ebereschenreisgilde | GotF – historische Gilde im Rheintribunal; „Rowan" = Eberesche (Sorbus aucuparia), nicht Eibe |
+
+### Hedge Magic Revised (HM:RE)
+
+#### Heckentraditionen / Hedge Traditions
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Elementalist | Elementarist | Hecken-Tradition; Pl. Elementaristen |
+| Folk Witch | Volkshexe | Hecken-Tradition; Pl. Volkshexen |
+| Learned Magician | Gelehrter Magier | Hecken-Tradition; lat. Mathematicus (Pl. Mathematici) |
+| Nightwalker | Nachtwandler | Hecken-Tradition; Pl. Nachtwandler |
+| Gruagachan | Gruagachan | Hecken-Tradition; Eigenname; Sg. Gruagach |
+| Vitkir | Vitkir | Hecken-Tradition; Eigenname; Sg. Vitki |
+
+#### Elementaristen-Begriffe / Elementalist Terms
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| (Type) Summoning | (Typ) Herbeirufen | Elementaristen-Technik |
+| (Type) Controlling | (Typ) Beherrschen | Elementaristen-Technik |
+| (Type) Divining | (Typ) Weissagen | Elementaristen-Technik |
+| (Type) Refining | (Typ) Läutern | Elementaristen-Technik |
+
+#### Elementaristen-Gesellschaften / Elementalist Societies
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Apostles of Apollonius | Apostel des Apollonius | Elementaristen-Gesellschaft |
+| Ikhwan as-Safa' | Ikhwan as-Safa' | Elementaristen-Gesellschaft; arab. „Brüder der Reinheit" |
+| Tulab Ibn Sina | Tulab Ibn Sina | Elementaristen-Gesellschaft; arab. „Schüler Avicennas" |
+
+#### Volkshexen-Begriffe / Folk Witch Terms
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Coven | Hexenzirkel | Organisationsform der Volkshexen |
+| Sabbat | Sabbat | Rituelles Treffen der Volkshexen |
+| Witch's Kitchen | Hexenküche | Laboräquivalent der Volkshexen |
+| Potion (casting method) | Trank | Wirkungsmethode der Volkshexen |
+| Incantation (casting method) | Beschwörung | Wirkungsmethode der Volkshexen |
+| Fetish (casting method) | Fetisch | Wirkungsmethode der Volkshexen |
+| Witch Moon | Hexenmond | Verzerrungseffekt der Volkshexen |
+| Animal Healing | Tierheilung | Übernatürliche Fertigkeit der Volkshexen |
+| Folk Witch Magic Theory | Magietheorie der Volkshexen | Arkane Fertigkeit |
+| Coven Initiation | Hexenzirkel-Einweihung | Einweihungsritual innerhalb eines Hexenzirkels |
+| Subtle Opening | Behutsame Erschließung | Hermetische Integration: Erschließung ohne Verlust |
+| Energy Magic | Energiemagie | Hermetische Integration: Erschöpfung statt Vis |
+| Sense of the Mystic | Gespür für das Mystische | Hermetische Integration: übernatürliche Wahrnehmung |
+| Ritual Items | Ritualgegenstände | Hermetische Integration: magische Gegenstände ohne Labor |
+
+#### Gruagachan-Begriffe / Gruagachan Terms
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Geas | Geas | Eigenname; übernatürliche Verpflichtung/Verbot |
+| Give | Geben | Gruagach-Technik |
+| Take | Nehmen | Gruagach-Technik |
+| Blessings | Segen | Gruagach-Form (positive Zauber) |
+| Curses | Flüche | Gruagach-Form (negative Zauber) |
+| Shape | Gestalt | Gruagach-Form (Verwandlung) |
+| Vision | Vision | Gruagach-Form (Wahrnehmung) |
+| Conversation (Range) | Gespräch | Gruagach-Reichweite |
+| Limit (Duration) | Grenze | Gruagach-Dauer (Bedingung) |
+| Pictish | Piktisch | Gruagach-Fertigkeit; entspricht Heckenzauber-Theorie |
+| Gruagach Lore | Gruagach-Kunde | Organisations-Fertigkeit |
+| Collective | Kollektiv | Gruagach-Organisation |
+| Fetch | Fetch | Magischer Begleiter eines Gruagach; Eigenname |
+| Ogham | Ogham | Piktische Schrift; Eigenname |
+| Trollsynir | Trollsynir | Alternative Gruagach-Tradition; nordisch; Pl. |
+| Trollskap | Trollskap | Eigenname; Magie der Trollsynir |
+| Trollson / Trollsdottir | Trollson / Trollsdottir | Männl./weibl. Trollsynir |
+| Fylgjur / Fylgja | Fylgjur / Fylgja | Trollsynir-Bezeichnung für Fetch |
+| Kolduni | Kolduni | Alternative Gruagach-Tradition; slawisch; Pl. |
+| Koldovali | Koldovali | Eigenname; Magie der Kolduni |
+| Kara | Kara | Koldun-Bezeichnung für Geas/Fluch |
+
+#### Gelehrte-Magier-Begriffe / Learned Magician Terms
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Fortunam | Fortunam | Gelehrte-Magier-Form (Lat.); Glück/Schicksal |
+| Magicam | Magicam | Gelehrte-Magier-Form (Lat.); Magie |
+| Salutem | Salutem | Gelehrte-Magier-Form (Lat.); Gesundheit/Heil |
+| Tueor | Tueor | Gelehrte-Magier-Technik (Lat.); „Ich schütze" |
+| Succurro | Succurro | Gelehrte-Magier-Technik (Lat.); „Ich helfe" |
+| Vulnero | Vulnero | Gelehrte-Magier-Technik (Lat.); „Ich verletze" |
+| Chartae | Chartae | Schriftliche Zauberformel der Gelehrten Magier (Lat.) |
+| Reagent | Reagenz | Materielle Komponente für Gelehrte-Magier-Zauber |
+| Charm (Learned Magician) | Zauberformel | Eigenständiger Zauber-Typ; lat. carmen/carmina |
+| Carmen / Carmina | Carmen / Carmina | Lat. Bezeichnung für Zauberformeln |
+| Formulary | Formular | Sammlung von Zauberformeln; Pl. Formulare |
+| Intervention | Intervention | Gelehrte-Magier-Äquivalent zum Zwielicht |
+| Nativity Horoscope | Geburtshoroskop | Astronomische Anforderung der Gelehrten Magier |
+| Cunning-folk | Weise Leute | Alternative Gelehrte-Magier-Tradition |
+| Wise One | Weise Frau / Weiser Mann | Sozialer Status der Weisen Leute |
+| Disputatio | Disputatio | Lat.; akademisches Streitgespräch |
+
+#### Allgemeine Heckenzauber-Mechanik / General Hedge Magic Mechanics
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Opening the Gift | Erschließung der Gabe | Erschließung eines Heckenzauberer-Lehrlings für magische Künste |
+| Opening Total | Erschließungssumme | Gesamtwert bei der Erschließung der Gabe |
+| Flawed Opening | Fehlerhafte Erschließung | Unvollständige Erschließung der Gabe |
+| Difficult Arts | Schwierige Künste | Hecken-Künste, die wie hermetische Künste erlernt werden |
+| Accelerated Abilities | Beschleunigte Fertigkeiten | Fertigkeiten, die schneller als normal gesteigert werden |
+| Favored Abilities | Bevorzugte Fertigkeiten | Fertigkeiten, die bevorzugt erlernt werden können |
+| Magic Defenses | Magische Abwehr | Passive Magieresistenz von Heckenzauberern |
+| Magical Defense Bonus | Magischer Abwehrbonus | Zahlenwert der Magischen Abwehr |
+| Accelerated Expiry | Beschleunigte Verfalldauer | Magische Abwehr: verkürzt Zauberdauer |
+| Akacritous Fortune | Glückhafte Fügung | Magische Abwehr: verändert Würfelergebnisse |
+| Confounding Magics | Verwirrende Magie | Magische Abwehr: erschwert feindliche Zauber |
+| Immovable Object | Unbewegliches Hindernis | Magische Abwehr: widersetzt sich magischer Bewegung |
+| Magical Fortitude | Magische Widerstandskraft | Magische Abwehr: widersteht körperlicher Magie |
+| Strength of Form | Stärke der Gestalt | Magische Abwehr: widersteht Verwandlung |
+| (Hedge Magic) Theory | (Heckenzauber-)Theorie | Arkane Fertigkeit; traditionsübergreifend |
+
+#### Integration / Integration of Hedge Magic
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Minor Breakthrough | Kleiner Durchbruch | Integration: geringster Fortschritt |
+| Major Breakthrough | Großer Durchbruch | Integration: mittlerer Fortschritt |
+| Hermetic Breakthrough | Hermetischer Durchbruch | Integration: größter Fortschritt |
+| Breakthrough Points | Durchbruchpunkte | Fortschrittspunkte bei der Integration |
+| Insight | Einsicht | Erkenntnis aus nicht-hermetischer Magie |
+| Insight Lab Texts | Einsichts-Labortexte | Labortexte, die Einsichten dokumentieren |
+| Original Research | Originäre Forschung | Forschungsmethode aus The Mysteries Revised |
+| Ancient Magic | Alte Magie | Forschungsmethode aus dem gleichnamigen Supplement |
+
+#### Nachtwandler-Begriffe / Nightwalker Terms
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Processions | Prozessionen | Geisterzüge der Nachtwandler |
+| Straying | Umherstreifen | Außerkörperliche Erfahrung der Nachtwandler |
+| Phantasticum / Phantastika | Phantastikum / Phantastika | Geistform der Nachtwandler |
+| Ekstasis | Ekstasis | Griech.; Zustand des Umherstreifens; Eigenname |
+| Fertility Battle | Fruchtbarkeitsschlacht | Geisterkampf um die Ernte |
+| Benandanti | Benandanti | Ital. Nachtwandler-Tradition; Sg. Benandante |
+| Mazzeri | Mazzeri | Korsische Nachtwandler-Tradition; Sg. Mazzeru |
+| Táltos | Táltos | Ungarische Nachtwandler-Tradition; Eigenname |
+| Kresniki | Kresniki | Slawische Nachtwandler-Tradition; Sg. Kresnik |
+| Kudlaki | Kudlaki | Slawische feindliche Nachtwandler; Sg. Kudlak |
+| Caul | Glückshaube | Membranhaube bei Geburt; Zeichen des Nachtwandlers |
+
+#### Vitkir-Begriffe / Vitkir Terms
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Rune Scripts | Runenskripte | Schriftliche Runenmagie der Vitkir |
+| Nátt-thel | Nátt-thel | Eigenname; nächtliches Ritual der Vitkir |
+| Vitkar Magic | Vitkar-Magie | Magiesystem der Vitkir |
+| Laering | Laering | Altnordisch; Lehrling eines Vitki |
+| Aett / Aettir | Aett / Aettir | Altnordisch; Runengruppen |
+| Makt | Makt | Altnordisch; Vis-Bezeichnung der Vitkir |
+| Seidhr | Seidhr | Altnordisch; Frauenmagie |
+| Rune Magic (Ability) | Runenmagie | Arkane Fertigkeit der Vitkir |
+
+---
+
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Ars Magica 4th Edition dt. Ausgabe (Wizards of the Coast, 1996); Hedge Magic Revised Edition (Atlas Games, 2011)*
