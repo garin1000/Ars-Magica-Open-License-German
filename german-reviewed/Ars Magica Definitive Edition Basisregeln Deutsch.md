@@ -908,7 +908,7 @@ Das Großtribunal behandelt Angelegenheiten, die den gesamten Orden betreffen, u
 
 Jedes Regionaltribunal besteht theoretisch aus allen Magi, die in einem bestimmten Gebiet Europas leben. Diese Gebiete sind grob durch Entscheidungen des Großtribunals festgelegt, doch die Magi in ihnen können den Namen des Tribunals nach Belieben ändern und die Mitgliedschaftsvoraussetzungen frei festlegen. Im Allgemeinen wechselt man sein Tribunal nicht, wenn man einen Konvent in einem anderen Tribunal besucht, und verschiedene Tribunale können unterschiedliche Regeln darüber haben, wie lange ein Besuch sein kann. Regionaltribunale tagen alle sieben Jahre, und die Rotkappen sind verpflichtet, dafür zu sorgen, dass jeder Magus im Tribunal eine Einladung erhalten hat. Ansonsten folgen sie den normalen Regeln für Tribunale.
 
-Für die Grenzen und Namen der Regionaltribunale siehe die Karte auf Seite 494. Es sei angemerkt, dass die Grenzen nur annähernd angegeben sind, da bisher keine Streitigkeiten entstanden sind, die eine genaue Festlegung erfordert hätten. Sechs der Tribunale wurden in Ergänzungsbänden für Ars Magica 5. Edition detailliert beschrieben: *Guardians of the Forests* (das Rheintribunal), *The Lion and the Lily* (das Normannische Tribunal), *The Sundered Eagle* (das Tribunal von Theben), *Against the Dark* (das Transsilvanische Tribunal), *The Contested Isle* (das Hibernische Tribunal) und *Faith & Flame* (das Languedoc-Tribunal).
+Für die Grenzen und Namen der Regionaltribunale siehe die Karte auf [Seite 494](#kapitel-14-mythisches-europa). Es sei angemerkt, dass die Grenzen nur annähernd angegeben sind, da bisher keine Streitigkeiten entstanden sind, die eine genaue Festlegung erfordert hätten. Sechs der Tribunale wurden in Ergänzungsbänden für Ars Magica 5. Edition detailliert beschrieben: *Guardians of the Forests* (das Rheintribunal), *The Lion and the Lily* (das Normannische Tribunal), *The Sundered Eagle* (das Tribunal von Theben), *Against the Dark* (das Transsilvanische Tribunal), *The Contested Isle* (das Hibernische Tribunal) und *Faith & Flame* (das Languedoc-Tribunal).
 
 ## Der Orden und die Gesellschaft
 
@@ -972,13 +972,13 @@ Weitere Informationen über nicht-hermetische Zauberer finden sich in *Hedge Mag
 
 Spielercharaktere in Ars Magica fallen je nach ihrer Rolle in der Geschichte in drei Kategorien. Magi sind Mitglieder des Ordens des Hermes, jene mächtigen Zauberer, um die sich das Spiel dreht. Gefährten sind wichtige Charaktere, die keine Magi sind, während Grogs Nebencharaktere darstellen.
 
-Die meisten Spieler von Ars Magica haben mindestens zwei Charaktere und oft mehr, auch wenn sie nicht alle gleichzeitig spielen. Welche Charaktere gespielt werden, hängt von den Ereignissen der Saga ab; dies wird ausführlicher im Abschnitt zum Spieltruppen-Rollenspiel auf Seite 528 behandelt.
+Die meisten Spieler von Ars Magica haben mindestens zwei Charaktere und oft mehr, auch wenn sie nicht alle gleichzeitig spielen. Welche Charaktere gespielt werden, hängt von den Ereignissen der Saga ab; dies wird ausführlicher im Abschnitt zum Spieltruppen-Rollenspiel auf [Seite 528](#spieltruppen-rollenspiel) behandelt.
 
 ### Magi
 
 Ein Magus (feminin Maga, Plural Magi, feminin Plural Magae) ist ein mächtiger Zauberer, selbst wenn er gerade erst seine Ausbildung beendet hat. Magi beherrschen den Konvent, um den sich eine Saga dreht, und besitzen das Potenzial, so mächtig zu werden, wie es einem Menschen überhaupt möglich ist. Ein Magus-Spielercharakter gehört zu einem einzelnen Spieler, der die vollständige Kontrolle über die Entscheidungen dieses Charakters hat.
 
-Obwohl Magi sehr mächtig sind, werden sie auch durch die Gabe – ihre Fähigkeit, Magie zu wirken – auf wichtige Weise eingeschränkt (siehe Seite 63 und Seite 203). Das bedeutet, dass es einige Dinge gibt, die nur Nicht-Magi wirksam tun können. Außerdem sind Magi selten in etwas anderem als der Magie versiert, weshalb sie in alltäglichen Angelegenheiten Hilfe benötigen.
+Obwohl Magi sehr mächtig sind, werden sie auch durch die Gabe – ihre Fähigkeit, Magie zu wirken – auf wichtige Weise eingeschränkt (siehe [Seite 63](#die-gabe) und [Seite 203](#die-gabe-2)). Das bedeutet, dass es einige Dinge gibt, die nur Nicht-Magi wirksam tun können. Außerdem sind Magi selten in etwas anderem als der Magie versiert, weshalb sie in alltäglichen Angelegenheiten Hilfe benötigen.
 
 ### Gefährten
 
@@ -1004,7 +1004,7 @@ Als Nebencharakteren widerfahren Grogs häufig schlimme Dinge. Krieger-Grogs ste
 
 Andererseits machen Grogs großen Spaß zu spielen. Du musst dir nicht allzu viele Sorgen um die Konsequenzen deiner Handlungen machen, weil du diesen Charakter wahrscheinlich nächste Woche nicht mehr spielen wirst. Du kannst die Schauspielerei ruhig übertreiben und den Grog etwas dumm Heldenhaftes oder heldenhaft Dummes tun lassen. Wenn ein Grog allein in den Kampf gegen einen Drachen stürmt, um einen Magus zu verteidigen, mag er innerhalb weniger Runden sterben – in welchem Fall man ihn liebevoll in Erinnerung behält – oder er macht ein paar wahnsinnig glückliche Würfe und tötet den Drachen, in welchem Fall er zum Helden wird. Mit einem Grog kannst du dieses Risiko eingehen, während du mit einem Gefährten oder Magus wahrscheinlich vorsichtiger sein willst. Natürlich ist es auch lustig, einen Grog zu spielen, der mit dem Magus über die Klugheit debattiert, einem Drachen entgegenzutreten.
 
-Grogs werden oft aus den Grog-Vorlagen erstellt, die auf Seite 31 beginnen. Sie können durch detaillierte Charaktererschaffung erstellt werden, sollten aber keine Großen Tugenden oder Fehler haben und nicht mehr als drei Kleine Fehler, ausgeglichen durch eine gleiche Anzahl Kleiner Tugenden. Außerdem sollten Grogs keine Geschichte-Fehler haben, da sie als Nebencharaktere gedacht sind. Schließlich können Grogs niemals die Gabe besitzen. Ein Charakter mit der Gabe ist zu wichtig, um ein Grog zu sein.
+Grogs werden oft aus den Grog-Vorlagen erstellt, die auf [Seite 31](#grog-vorlagen) beginnen. Sie können durch detaillierte Charaktererschaffung erstellt werden, sollten aber keine Großen Tugenden oder Fehler haben und nicht mehr als drei Kleine Fehler, ausgeglichen durch eine gleiche Anzahl Kleiner Tugenden. Außerdem sollten Grogs keine Geschichte-Fehler haben, da sie als Nebencharaktere gedacht sind. Schließlich können Grogs niemals die Gabe besitzen. Ein Charakter mit der Gabe ist zu wichtig, um ein Grog zu sein.
 
 ## Charakter-Grundlagen
 
@@ -1012,11 +1012,11 @@ Dieser Abschnitt beschreibt die Art und Weise, wie die Spielregeln Charaktere da
 
 ### Größe
 
-Alle Ars-Magica-Charaktere haben einen Größenwert. Allerdings haben fast alle erwachsenen menschlichen Charaktere denselben Größenwert von 0, da dies einen durchschnittlichen erwachsenen Menschen darstellt. Alle drei Punkte Größe entsprechen einer zehnfachen Massezunahme oder -abnahme, und erwachsene Menschen können von Größe -2 bis Größe +2 reichen, wenn sie entsprechende Tugenden oder Fehler nehmen. Die Auswirkungen davon werden im Tugenden-Kapitel auf Seite 61 beschrieben. Die Größe ist für nicht-menschliche Kreaturen wichtiger und wird ausführlich im Bestiarium-Kapitel auf Seite 426 behandelt.
+Alle Ars-Magica-Charaktere haben einen Größenwert. Allerdings haben fast alle erwachsenen menschlichen Charaktere denselben Größenwert von 0, da dies einen durchschnittlichen erwachsenen Menschen darstellt. Alle drei Punkte Größe entsprechen einer zehnfachen Massezunahme oder -abnahme, und erwachsene Menschen können von Größe -2 bis Größe +2 reichen, wenn sie entsprechende Tugenden oder Fehler nehmen. Die Auswirkungen davon werden im Tugenden-Kapitel auf [Seite 61](#kapitel-4-tugenden-und-fehler) beschrieben. Die Größe ist für nicht-menschliche Kreaturen wichtiger und wird ausführlich im Bestiarium-Kapitel auf [Seite 426](#kapitel-13-bestiarium) behandelt.
 
 ### Tugenden und Fehler
 
-Tugenden und Fehler sind Eigenschaften des Charakters, die nicht von den meisten Menschen geteilt werden; besondere Vorzüge im Falle von Tugenden, und Nachteile oder Anknüpfungspunkte für Geschichten im Falle von Fehlern. Sie umfassen übernatürliche Fähigkeiten einschließlich der Gabe, Feinde, Obsessionen und Begabungen sowie vieles mehr. Alle Tugenden und Fehler sind in ihrem eigenen Kapitel ab Seite 61 aufgeführt.
+Tugenden und Fehler sind Eigenschaften des Charakters, die nicht von den meisten Menschen geteilt werden; besondere Vorzüge im Falle von Tugenden, und Nachteile oder Anknüpfungspunkte für Geschichten im Falle von Fehlern. Sie umfassen übernatürliche Fähigkeiten einschließlich der Gabe, Feinde, Obsessionen und Begabungen sowie vieles mehr. Alle Tugenden und Fehler sind in ihrem eigenen Kapitel ab [Seite 61](#kapitel-4-tugenden-und-fehler) aufgeführt.
 
 ### Eigenschaften
 
@@ -1056,21 +1056,21 @@ Geschicklichkeit bedeutet, sich gewandt bewegen und Objekte präzise und kunstfe
 
 #### Schnelligkeit (Sck)
 
-Schnelligkeit gibt die Reaktionsgeschwindigkeit und Reflexe an und hilft zu bestimmen, wer zuerst handelt, wenn zwei Personen versuchen, etwas in großer Eile zu tun. Sie beschreibt auch, wie gut dein Charakter etwas in der Eile tut. Deine effektive Schnelligkeit wird normalerweise durch deine Behinderung modifiziert. Siehe Seite 403 für weitere Informationen zur Behinderung.
+Schnelligkeit gibt die Reaktionsgeschwindigkeit und Reflexe an und hilft zu bestimmen, wer zuerst handelt, wenn zwei Personen versuchen, etwas in großer Eile zu tun. Sie beschreibt auch, wie gut dein Charakter etwas in der Eile tut. Deine effektive Schnelligkeit wird normalerweise durch deine Behinderung modifiziert. Siehe [Seite 403](#belastung) für weitere Informationen zur Behinderung.
 
 ### Fertigkeiten
 
-Fertigkeiten sind die erlernten Fähigkeiten eines Charakters. Sie steigen normalerweise im Laufe einer Saga an. Charaktere in **Ars Magica** können aus einer breiten Palette von Fertigkeiten wählen, die im Fertigkeitenkapitel ab Seite 157 aufgeführt sind und in fünf Typen unterteilt werden: Allgemeine Fertigkeiten, die jeder erlernen kann, sowie Akademische Fertigkeiten, Arkane Fertigkeiten, Kampffertigkeiten und Übernatürliche Fertigkeiten. Ein Charakter kann Akademische, Arkane oder Kampf-Fertigkeiten nur erlernen, wenn er eine entsprechende Tugend oder Fehler hat oder ein Magus ist.
+Fertigkeiten sind die erlernten Fähigkeiten eines Charakters. Sie steigen normalerweise im Laufe einer Saga an. Charaktere in **Ars Magica** können aus einer breiten Palette von Fertigkeiten wählen, die im Fertigkeitenkapitel ab [Seite 157](#kapitel-5-fertigkeiten) aufgeführt sind und in fünf Typen unterteilt werden: Allgemeine Fertigkeiten, die jeder erlernen kann, sowie Akademische Fertigkeiten, Arkane Fertigkeiten, Kampffertigkeiten und Übernatürliche Fertigkeiten. Ein Charakter kann Akademische, Arkane oder Kampf-Fertigkeiten nur erlernen, wenn er eine entsprechende Tugend oder Fehler hat oder ein Magus ist.
 
 Übernatürliche Fertigkeiten sind sogar noch eingeschränkter, und ein Charakter kann eine solche nur erlernen, wenn er bestimmte Sonderbedingungen erfüllt. Am häufigsten ist der Besitz der Tugend, die diese Übernatürliche Fertigkeit verleiht; die Gabe erlaubt jedoch Charakteren, solche Fertigkeiten zu erlernen, und andere Ergänzungsbände beschreiben weitere Wege, sie zu erschließen. Sofern ein Charakter nicht über ein Merkmal verfügt, das ausdrücklich besagt, dass er eine Übernatürliche Fertigkeit erlernen kann, kann er das nicht.
 
-Schließlich stehen Zaubermeisterschafts-Fertigkeiten nur hermetischen Magi zur Verfügung und werden auf Seite 158 beschrieben.
+Schließlich stehen Zaubermeisterschafts-Fertigkeiten nur hermetischen Magi zur Verfügung und werden auf [Seite 158](#zaubermeisterschafts-fertigkeiten) beschrieben.
 
 ### Persönlichkeitseigenschaften
 
 Persönlichkeitseigenschaften sind eine kurze Beschreibung wichtiger Merkmale der Persönlichkeit deines Charakters. Für Hauptcharaktere wie Magi und Gefährten sind sie normalerweise nichts weiter als eine Gedächtnisstütze und ein Anlass, während der Charaktererschaffung über die Persönlichkeit des Charakters nachzudenken, obwohl es einige spezifische Regeln gibt, die Würfe auf Persönlichkeitseigenschaften erfordern.
 
-Für Grogs sind sie bedeutsamer. Da Grogs oft zwischen Spielern geteilt oder zumindest selten gespielt werden (siehe Spieltruppen-Rollenspiel auf Seite 528), können die mit Persönlichkeitseigenschaften verbundenen Zahlen als konkreter Leitfaden zum Spielen des Charakters dienen. Sie können positiv oder negativ sein und liegen normalerweise zwischen +3 und -3, obwohl es Ausnahmen gibt. Ein Kleiner Persönlichkeits-Fehler (siehe später) würde normalerweise einer Persönlichkeitseigenschaft von +3 oder -3 entsprechen, während ein Großer Persönlichkeits-Fehler, den ein Grog normalerweise nicht hätte, eine Persönlichkeitseigenschaft von +6 oder -6 rechtfertigen würde. 'Loyal' ist eine besonders wichtige Eigenschaft, da sie die Bindung des Grogs an den Konvent widerspiegelt, während 'Tapfer' für Krieger-Grogs ebenso wichtig ist. Eine dritte Eigenschaft sollte etwas Charakteristisches an diesem Grog sein. Du magst beschließen, die Persönlichkeitseigenschaften eines Grogs zu würfeln, wenn du dir unsicher bist, wie er reagieren würde, oder du behandelst die Zahlen einfach als Leitfaden zum Rollenspiel. Wenn du sie würfelst, addiere nichts außer der Persönlichkeitseigenschaft und würfle einen Stresswurf. Empfohlene Schwierigkeitsgrade finden sich in der Tabelle.
+Für Grogs sind sie bedeutsamer. Da Grogs oft zwischen Spielern geteilt oder zumindest selten gespielt werden (siehe Spieltruppen-Rollenspiel auf [Seite 528](#spieltruppen-rollenspiel)), können die mit Persönlichkeitseigenschaften verbundenen Zahlen als konkreter Leitfaden zum Spielen des Charakters dienen. Sie können positiv oder negativ sein und liegen normalerweise zwischen +3 und -3, obwohl es Ausnahmen gibt. Ein Kleiner Persönlichkeits-Fehler (siehe später) würde normalerweise einer Persönlichkeitseigenschaft von +3 oder -3 entsprechen, während ein Großer Persönlichkeits-Fehler, den ein Grog normalerweise nicht hätte, eine Persönlichkeitseigenschaft von +6 oder -6 rechtfertigen würde. 'Loyal' ist eine besonders wichtige Eigenschaft, da sie die Bindung des Grogs an den Konvent widerspiegelt, während 'Tapfer' für Krieger-Grogs ebenso wichtig ist. Eine dritte Eigenschaft sollte etwas Charakteristisches an diesem Grog sein. Du magst beschließen, die Persönlichkeitseigenschaften eines Grogs zu würfeln, wenn du dir unsicher bist, wie er reagieren würde, oder du behandelst die Zahlen einfach als Leitfaden zum Rollenspiel. Wenn du sie würfelst, addiere nichts außer der Persönlichkeitseigenschaft und würfle einen Stresswurf. Empfohlene Schwierigkeitsgrade finden sich in der Tabelle.
 
 #### Persönlichkeitseigenschaften ändern
 
@@ -1096,7 +1096,7 @@ Reputationen haben einen Wert, einen Inhalt und einen Typ. Der Wert ist eine Zah
 
 Eine zufällige Person hat von einem Charakter mit einer Reputation gehört, wenn ein Wurf eines Stresswürfels plus die Reputation den Schwierigkeitsgrad in der untenstehenden Tabelle erreicht oder übertrifft. Je mehr er gelingt, desto mehr hat er über den Charakter gehört. Ist die Reputation des Charakters weitgehend zutreffend, gilt das auch für das, was die Person gehört hat. Umgekehrt bringt eine weitgehend unverdiente Reputation viele falsche Überzeugungen mit sich.
 
-Reputationen können sich im Laufe der Zeit ändern. Siehe das Kapitel Langzeitereignisse, Seite 386, für Details.
+Reputationen können sich im Laufe der Zeit ändern. Siehe das Kapitel Langzeitereignisse, [Seite 386](#reputation-verändern), für Details.
 
 #### Reputations-Schwierigkeitsgrade
 
@@ -1142,23 +1142,23 @@ Der Selbstvertrauenswert eines Charakters kann nur durch langfristige Geschichts
 
 ## Charaktervorlagen
 
-Der schnellste Weg, mit dem Spielen von **Ars Magica** zu beginnen, ist, einen der in diesem Abschnitt vorgestellten Charaktere zu wählen. Alle sind vollständig erschaffen und benötigen nur einen Namen und ein wenig Hintergrund, um sie in deine Saga einzupassen. Der zweitschnellste Weg ist, einen dieser Charaktere anzupassen. Schließlich kannst du die Regeln zur detaillierten Charaktererschaffung ab Seite 43 verwenden, um deinen eigenen Charakter von Grund auf zu erstellen.
+Der schnellste Weg, mit dem Spielen von **Ars Magica** zu beginnen, ist, einen der in diesem Abschnitt vorgestellten Charaktere zu wählen. Alle sind vollständig erschaffen und benötigen nur einen Namen und ein wenig Hintergrund, um sie in deine Saga einzupassen. Der zweitschnellste Weg ist, einen dieser Charaktere anzupassen. Schließlich kannst du die Regeln zur detaillierten Charaktererschaffung ab [Seite 43](#detaillierte-charaktererschaffung) verwenden, um deinen eigenen Charakter von Grund auf zu erstellen.
 
 ### Format
 
 Jede Vorlage wird im selben Format präsentiert, das im Folgenden beschrieben wird.
 
-**Eigenschaften:** Eine Liste der Eigenschaften und ihrer Werte. Hat der Charakter Alterungspunkte in einer Eigenschaft, so werden diese in Klammern hinter dem Eigenschaftswert angegeben. (Siehe Langzeitereignisse, Seite 391, für Alterungsregeln.) Größe: Die Größe des Charakters.
+**Eigenschaften:** Eine Liste der Eigenschaften und ihrer Werte. Hat der Charakter Alterungspunkte in einer Eigenschaft, so werden diese in Klammern hinter dem Eigenschaftswert angegeben. (Siehe Langzeitereignisse, [Seite 391](#altern), für Alterungsregeln.) Größe: Die Größe des Charakters.
 
-**Alter:** Das tatsächliche Alter des Charakters, mit dem scheinbaren Alter in Klammern. (Siehe Langzeitereignisse, Seite 391, für Alterungsregeln und scheinbares Alter.)
+**Alter:** Das tatsächliche Alter des Charakters, mit dem scheinbaren Alter in Klammern. (Siehe Langzeitereignisse, [Seite 391](#altern), für Alterungsregeln und scheinbares Alter.)
 
-**Gebrechlichkeit:** Die Anzahl Gebrechlichkeitspunkte des Charakters, mit der Anzahl überschüssiger Alterungspunkte in Klammern. Diese werden durch Altern erworben und sind auf Seite 391 beschrieben.
+**Gebrechlichkeit:** Die Anzahl Gebrechlichkeitspunkte des Charakters, mit der Anzahl überschüssiger Alterungspunkte in Klammern. Diese werden durch Altern erworben und sind auf [Seite 391](#altern) beschrieben.
 
-**Verzerrungswert:** Der Verzerrungswert des Charakters, mit der Anzahl überschüssiger Verzerrungspunkte in Klammern. Verzerrungspunkte messen die Magieaussetzung eines Charakters und haben schlechte Auswirkungen, wenn man zu viele anhäuft. Siehe Verzerrung auf Seite 389 für weitere Details.
+**Verzerrungswert:** Der Verzerrungswert des Charakters, mit der Anzahl überschüssiger Verzerrungspunkte in Klammern. Verzerrungspunkte messen die Magieaussetzung eines Charakters und haben schlechte Auswirkungen, wenn man zu viele anhäuft. Siehe Verzerrung auf [Seite 389](#verzerrung-2) für weitere Details.
 
 **Selbstvertrauenswert:** Der Selbstvertrauenswert des Charakters, mit der Anzahl der Selbstvertrauenspunkte in Klammern. Grogs haben kein Selbstvertrauen, daher entfällt diese Zeile.
 
-**Tugenden und Fehler:** Alle Tugenden und Fehler des Charakters. Sie werden allesamt im Tugenden-und-Fehler-Kapitel ab Seite 61 beschrieben. Die erste aufgeführte Tugend ist die Gabe, falls der Charakter sie besitzt. Die nächste ist die soziale Klasse des Charakters. Dann folgen alle weiteren Großen Tugenden, Kleinen Tugenden, Großen Fehler und Kleinen Fehler, jeweils alphabetisch geordnet.
+**Tugenden und Fehler:** Alle Tugenden und Fehler des Charakters. Sie werden allesamt im Tugenden-und-Fehler-Kapitel ab [Seite 61](#kapitel-4-tugenden-und-fehler) beschrieben. Die erste aufgeführte Tugend ist die Gabe, falls der Charakter sie besitzt. Die nächste ist die soziale Klasse des Charakters. Dann folgen alle weiteren Großen Tugenden, Kleinen Tugenden, Großen Fehler und Kleinen Fehler, jeweils alphabetisch geordnet.
 
 **Persönlichkeitseigenschaften:** Die Persönlichkeitseigenschaften des Charakters und ihre Werte.
 
@@ -1168,21 +1168,21 @@ Jede Vorlage wird im selben Format präsentiert, das im Folgenden beschrieben wi
 
 **Schadensabsorption:** Der Schadensabsorptions-Wert des Charakters.
 
-**Erschöpfungsstufen:** Eine Auflistung der Erschöpfungsstufen und Abzüge des Charakters, die anzeigen, wie müde der Charakter ist. Erschöpfung wird auf Seite 403 beschrieben.
+**Erschöpfungsstufen:** Eine Auflistung der Erschöpfungsstufen und Abzüge des Charakters, die anzeigen, wie müde der Charakter ist. Erschöpfung wird auf [Seite 403](#erschöpfung) beschrieben.
 
 **Wundabzüge:** Zeigt die Abzüge für Wunden unterschiedlicher Schwere, mit der Anzahl an Schadenspunkten, die nötig sind, um eine Wunde dieser Schwere zuzufügen, in Klammern.
 
 **Fertigkeiten:** Alle Fertigkeiten des Charakters, in alphabetischer Reihenfolge. Das Format ist Fertigkeit X(Z) (Spezialisierung), wobei X der Wert in der Fertigkeit und Z die Zahl der Erfahrungspunkte zur nächsten Stufe ist. Wird die Fertigkeit X+Y(Z) geschrieben, ist X der Wert in der Fertigkeit, Y ein fester Bonus durch eine Tugend (üblicherweise Begabung in (Fertigkeit)) und Z die Zahl der Erfahrungspunkte zur nächsten Stufe.
 
-**Künste:** Die Werte des Charakters in den Hermetischen Künsten, im Format Kunst X (Z), wobei X der Wert ist und Z die Zahl der Erfahrungspunkte zur nächsten Stufe. Wird die Kunst X+Y (Z) geschrieben, ist X der Wert in der Fertigkeit, Y ein fester Bonus durch eine Tugend (üblicherweise Begabung in (Kunst)) und Z die Zahl der Erfahrungspunkte zur nächsten Stufe. Die Künste werden gemäß den Standardabkürzungen benannt, die auf Seite 206 beschrieben sind. Nicht-Magi haben keine Werte in den Künsten, und dieser Abschnitt entfällt.
+**Künste:** Die Werte des Charakters in den Hermetischen Künsten, im Format Kunst X (Z), wobei X der Wert ist und Z die Zahl der Erfahrungspunkte zur nächsten Stufe. Wird die Kunst X+Y (Z) geschrieben, ist X der Wert in der Fertigkeit, Y ein fester Bonus durch eine Tugend (üblicherweise Begabung in (Kunst)) und Z die Zahl der Erfahrungspunkte zur nächsten Stufe. Die Künste werden gemäß den Standardabkürzungen benannt, die auf [Seite 206](#die-hermetischen-künste) beschrieben sind. Nicht-Magi haben keine Werte in den Künsten, und dieser Abschnitt entfällt.
 
-**Zwielichtnarben:** Anhaltende Auswirkungen des Zwielichts. Nur auf hermetische Magi anwendbar und ausführlich auf Seite 229 beschrieben.
+**Zwielichtnarben:** Anhaltende Auswirkungen des Zwielichts. Nur auf hermetische Magi anwendbar und ausführlich auf [Seite 229](#wirkungen-des-zwielichts) beschrieben.
 
 **Ausrüstung:** Die Habseligkeiten des Charakters.
 
-**Behinderung:** Die Behinderung des Charakters, mit der Last des Charakters in Klammern. Die Regeln zur Behinderung finden sich auf Seite 403.
+**Behinderung:** Die Behinderung des Charakters, mit der Last des Charakters in Klammern. Die Regeln zur Behinderung finden sich auf [Seite 403](#belastung).
 
-**Bekannte Zauber:** Eine Liste aller hermetischen Zauber, die der Charakter kennt. Selbstverständlich entfällt dies bei Nicht-Magi. Die Zauber sind im Format: Zaubername (TeFo X/+Y), wobei TeFo die Technik und Form des Zaubers ist, X die Zauberstufe und Y die Zaubersumme des Magus mit dem Zauber. Hat der Magus einen Meisterschaftswert im Zauber, wird dieser als Meisterschaft Z außerhalb der Klammern aufgeführt, mit den Meisterschaftsfähigkeiten dahinter (siehe das Magie-Kapitel, Seite 225). Ist die Zaubersumme höher als die Zauberstufe, kann der Magus den Zauber leicht wirken. Ist sie deutlich niedriger, könnte er Probleme haben. Die Zauber werden im Zauber-Kapitel ab Seite 301 beschrieben.
+**Bekannte Zauber:** Eine Liste aller hermetischen Zauber, die der Charakter kennt. Selbstverständlich entfällt dies bei Nicht-Magi. Die Zauber sind im Format: Zaubername (TeFo X/+Y), wobei TeFo die Technik und Form des Zaubers ist, X die Zauberstufe und Y die Zaubersumme des Magus mit dem Zauber. Hat der Magus einen Meisterschaftswert im Zauber, wird dieser als Meisterschaft Z außerhalb der Klammern aufgeführt, mit den Meisterschaftsfähigkeiten dahinter (siehe das Magie-Kapitel, [Seite 225](#besondere-fähigkeiten-gemeisterter-zauber)). Ist die Zaubersumme höher als die Zauberstufe, kann der Magus den Zauber leicht wirken. Ist sie deutlich niedriger, könnte er Probleme haben. Die Zauber werden im Zauber-Kapitel ab [Seite 301](#kapitel-9-zauber) beschrieben.
 
 **Hinweise zur Anpassung:** Einige Anmerkungen zum Charakter und dazu, was sich leicht ändern lässt, wenn du ihn anpassen willst.
 
@@ -1596,7 +1596,7 @@ Hinweise zur Anpassung: Die magischen Kräfte der Hexe sind weit, weit schwäche
 
 ### Magus-Vorlagen
 
-Diese Vorlagen sind ein stereotypisches Mitglied jedes Hauses, 25 Jahre alt und gerade aus der Lehrlingsprüfung entlassen. Das Sternchen in der Tugendliste markiert die Tugend, die der Magus durch sein Haus kostenlos erhält. Siehe Seite 46.
+Diese Vorlagen sind ein stereotypisches Mitglied jedes Hauses, 25 Jahre alt und gerade aus der Lehrlingsprüfung entlassen. Das Sternchen in der Tugendliste markiert die Tugend, die der Magus durch sein Haus kostenlos erhält. Siehe [Seite 46](#übersicht-der-hermetischen-häuser).
 
 #### Bjornaer
 
@@ -1745,7 +1745,7 @@ Bekannte Zauber:
 - [Wind der weltlichen Stille](#wind-der-weltlichen-stille) (PeVi 20/+16)
 - [Schutzkreis gegen Dämonen](#schutzkreis-gegen-dämonen) (ReVi 20/+16)
 
-Hinweise zur Anpassung: Die Criamon hat nicht ihren Höchstanteil an Fehlern, sodass sie einen zusätzlichen Großen Fehler oder drei Kleine Fehler mit entsprechenden Tugenden nehmen könnte, falls gewünscht. Ihre Werte in Charme und Menschenkenntnis könnten in andere Fertigkeiten verschoben werden, die in den ersten fünf Lebensjahren verfügbar sind (siehe die Regeln zur detaillierten Charaktererschaffung, Seite 43), möglicherweise auch unter Verschiebung ihres guten Präsenzwertes.
+Hinweise zur Anpassung: Die Criamon hat nicht ihren Höchstanteil an Fehlern, sodass sie einen zusätzlichen Großen Fehler oder drei Kleine Fehler mit entsprechenden Tugenden nehmen könnte, falls gewünscht. Ihre Werte in Charme und Menschenkenntnis könnten in andere Fertigkeiten verschoben werden, die in den ersten fünf Lebensjahren verfügbar sind (siehe die Regeln zur detaillierten Charaktererschaffung, [Seite 43](#detaillierte-charaktererschaffung)), möglicherweise auch unter Verschiebung ihres guten Präsenzwertes.
 
 #### Ex Miscellanea
 
@@ -2237,7 +2237,7 @@ Die Spieltruppe oder der Spielleiter sollte unter Beachtung dieser Faktoren übe
 
 Zweitens sollten in den meisten Spieltruppen alle Magi etwa gleich viele Jahre aus der Lehre heraus sein. Tatsächliche Alter sind relativ unwichtig, da magische Fähigkeiten weltliche tendenziell überschatten. Wenn du dich anders entscheidest, sollte das geschehen, weil die ganze Spieltruppe in einer solchen Saga spielen will, nicht weil ein Spieler ein cooles Konzept für einen älteren Magus hat.
 
-Drittens ist es eine gute Idee, Gefährten in einem ziemlich jungen Alter (unter 30) zu erschaffen, sodass sie noch mehrere Jahre Spielzeit vor sich haben. Wie wichtig das ist, hängt vom Tempo deiner Saga ab (siehe Seite 527), doch ein alter Gefährte läuft Gefahr, an Altersschwäche zu sterben, bevor er ein Dutzend Mal gespielt wurde.
+Drittens ist es eine gute Idee, Gefährten in einem ziemlich jungen Alter (unter 30) zu erschaffen, sodass sie noch mehrere Jahre Spielzeit vor sich haben. Wie wichtig das ist, hängt vom Tempo deiner Saga ab (siehe [Seite 527](#sagatempo)), doch ein alter Gefährte läuft Gefahr, an Altersschwäche zu sterben, bevor er ein Dutzend Mal gespielt wurde.
 
 Schließlich können Grogs in jedem Alter erstellt werden und sollten das wahrscheinlich auch. Grizzled Veterans und eifrige Neulinge geben gleichermaßen gute Konzepte ab, und selbst durch Alter teilweise verkrüppelte Charaktere können zu Geschichten am Konvent beitragen.
 
@@ -2267,18 +2267,18 @@ Die hermetischen Häuser werden ab [Seite 12](#die-häuser-des-hermes-1) ausfüh
 
 | Haus           | Typ              | Beschreibung                                                | Vorteil  |
 | -------------- | ---------------- | ----------------------------------------------------------- | -------- |
-| Bjornaer       | Mysterienkult    | Magi, die ebenso Tier wie Mensch sind                       | Herztier (Seite 85), Anfangswert von 1 in der Fertigkeit Herztier. |
+| Bjornaer       | Mysterienkult    | Magi, die ebenso Tier wie Mensch sind                       | Herztier ([Seite 85](#herztier)), Anfangswert von 1 in der Fertigkeit Herztier. |
 | Bonisagus      | Echte Linie      | Aufgeteilt zwischen Forschern und Politikern                | Begabung in Magietheorie (Forscher) oder Begabung in Intrige (Politiker). |
-| Criamon        | Mysterienkult    | Mystische Philosophen und Meister der Rätsel                | Das Enigma (Seite 78), Anfangswert von 1 in Enigmatische Weisheit. |
+| Criamon        | Mysterienkult    | Mystische Philosophen und Meister der Rätsel                | Das Enigma ([Seite 78](#das-enigma)), Anfangswert von 1 in Enigmatische Weisheit. |
 | Ex Miscellanea | Societas         | Viele Magi aus verschiedenen Traditionen, nicht alle vollständig hermetisch | Eine kostenlose Kleine Hermetische Tugend, eine kostenlose Große nicht-hermetische Tugend und ein verpflichtender Großer Hermetischer Fehler, die die jeweilige Tradition innerhalb des Hauses repräsentieren. Diese Tugenden und Fehler kommen zum normalen Anteil hinzu. |
 | Flambeau       | Societas         | Kampferfahrene Meister von Feuer und Zerstörung             | Begabung in Perdo oder Begabung in Ignem. |
 | Guernicus      | Echte Linie      | Ermittler, Anwälte und Vermittler                           | Hermetisches Ansehen. |
 | Jerbiton       | Societas         | Adlige, Gelehrte und Künstler                               | Eine Kleine Tugend in Bezug auf Gelehrsamkeit, Künste oder Umgang mit Sterblichen. |
 | Mercere        | Echte Linie      | Boten des Ordens                                            | Begabung in Creo oder Begabung in Muto.<br>Beachte, dass unBegabte Rotkappen als Gefährten erstellt werden und die Große Status-Tugend Rotkappe nehmen. Begabte Rotkappen nehmen die Status-Tugend Hermetischer Magus und nicht die Große Status-Tugend Rotkappe. |
-| Merinita       | Mysterienkult    | Feenmagi                                                    | Feenmagie (Seite 79), Anfangswert von 1 in Feenmagie. Jeder Magus dieses Hauses ohne eine feenbezogene Tugend oder einen feenbezogenen Fehler erhält einen Verzerrungspunkt, der zugefügt wird, um die Einweihung in das Mysterium zu ermöglichen. |
+| Merinita       | Mysterienkult    | Feenmagi                                                    | Feenmagie ([Seite 79](#feenmagie)), Anfangswert von 1 in Feenmagie. Jeder Magus dieses Hauses ohne eine feenbezogene Tugend oder einen feenbezogenen Fehler erhält einen Verzerrungspunkt, der zugefügt wird, um die Einweihung in das Mysterium zu ermöglichen. |
 | Tremere        | Echte Linie      | Ein hierarchisches und diszipliniertes Haus                 | Kleiner Magischer Fokus (Certamen). |
 | Tytalus        | Societas         | Magi, die in jedem Konflikt aufblühen                       | Selbstbewusst. |
-| Verditius      | Mysterienkult    | Hersteller verzauberter Gegenstände                         | Verditius-Magie (Seite 114). |
+| Verditius      | Mysterienkult    | Hersteller verzauberter Gegenstände                         | Verditius-Magie ([Seite 114](#verditius-magie)). |
 
 > #### Beispiel: Darius von Flambeau
 >
@@ -2288,7 +2288,7 @@ Die hermetischen Häuser werden ab [Seite 12](#die-häuser-des-hermes-1) ausfüh
 
 Da viele Tugenden und Fehler den Platz des Charakters in der Geschichte betreffen, unterscheiden sich die Regeln dafür am stärksten zwischen den Charaktertypen.
 
-Alle Charaktere müssen einen sozialen Status nehmen. Es gibt eine Reihe von Standard-Sozialstati, die keine Punkte kosten; siehe Seite 65. Insbesondere nehmen alle hermetischen Magi den Sozialstatus Hermetischer Magus, der keine Punkte kostet. Kein anderer Charakter darf diesen Status nehmen, da sie schließlich keine hermetischen Magi sind.
+Alle Charaktere müssen einen sozialen Status nehmen. Es gibt eine Reihe von Standard-Sozialstati, die keine Punkte kosten; siehe [Seite 65](#soziale-status-nach-kultur). Insbesondere nehmen alle hermetischen Magi den Sozialstatus Hermetischer Magus, der keine Punkte kostet. Kein anderer Charakter darf diesen Status nehmen, da sie schließlich keine hermetischen Magi sind.
 
 Grogs sind in ihrer Auswahl an Tugenden und Fehlern etwas eingeschränkt, um sicherzustellen, dass sie Nebenfiguren bleiben. Sie dürfen bis zu drei Punkte an Fehlern und eine entsprechende Anzahl Tugenden haben. Grogs sollten nur Kleine Tugenden und Fehler haben. Außerdem dürfen Grogs die Gabe nicht haben (die Gabe macht dich zu einer wichtigen Figur) und keine Geschichte-Fehler, da diese Fehler Charaktere in den Mittelpunkt von Geschichten stellen, was nicht die Rolle von Grogs ist.
 
@@ -2296,11 +2296,11 @@ Gefährten dürfen grundsätzlich beliebige Tugenden und Fehler wählen. Sie dü
 
 Gefährten ohne die Gabe dürfen keine Hermetischen Tugenden oder Fehler wählen. Gefährten dürfen die Gabe haben und somit Hermetische Tugenden oder Fehler nehmen. Das sollte jedoch äußerst ungewöhnlich sein; der Hauptgrund, einen solchen Gefährten zu erschaffen, ist, dass du die Lehrlingszeit eines Magus durchspielen möchtest. Die Gabe ist jedoch kostenlos, auch wenn ein Gefährte sie nimmt. Bedenke, dass sie aufgrund ihrer Wirkung auf soziale Interaktionen fast ausschließlich ein Fehler ist, sofern der Charakter keinen Zugang zu magischer Ausbildung erhalten kann.
 
-Mythische Gefährten erhalten mehr Tugenden für ihre Fehler, wie in den Regeln auf Seite 63 beschrieben.
+Mythische Gefährten erhalten mehr Tugenden für ihre Fehler, wie in den Regeln auf [Seite 63](#regeln-und-richtlinien-für-tugenden-und-fehler) beschrieben.
 
 Wie Gefährten dürfen Magi bis zu zehn Punkte an Fehlern und ebenso viele Punkte an Tugenden nehmen. Große Tugenden und Fehler kosten je drei Punkte, Kleine je einen. Alle Magi müssen die Gabe haben. Ohne sie können sie keine Magie wirken und somit keine Magi sein. Außerdem sollten alle Magi mindestens einen Hermetischen Fehler haben. Niemand passt perfekt in die hermetische Theorie.
 
-Die Regeln zum Nehmen von Tugenden und Fehlern sind im Tugenden-und-Fehler-Kapitel auf Seite 61 zusammengefasst.
+Die Regeln zum Nehmen von Tugenden und Fehlern sind im Tugenden-und-Fehler-Kapitel auf [Seite 61](#kapitel-4-tugenden-und-fehler) zusammengefasst.
 
 #### Tugenden und Fehler wählen
 
@@ -2373,7 +2373,7 @@ Das Alter deines Charakters bestimmt den Höchstwert, den sie bei der Charaktere
 
 #### Frühe Kindheit
 
-In den ersten fünf Lebensjahren erhalten Charaktere 75 Erfahrungspunkte in ihrer Muttersprache (siehe Seite 167 für die Sprachen-Fertigkeit), was ihnen normalerweise einen Wert von 5 verschafft, sowie 45 Erfahrungspunkte zur Verteilung auf Gebietskunde (für den Ort oder die Orte, an denen der Charakter aufwächst), Athletik, Wahrnehmung, Raufen, Charme, Menschenkenntnis, Täuschung, Lebende Sprache (außer der Muttersprache), Schleichen, Überleben und Schwimmen. Du musst nicht in alle diese Fertigkeiten Punkte stecken; wähle jene, die am besten zu deiner Vorstellung des Charakters passen. Dies repräsentiert, was der Charakter aufschnappt, während er als Kind spielt.
+In den ersten fünf Lebensjahren erhalten Charaktere 75 Erfahrungspunkte in ihrer Muttersprache (siehe [Seite 167](#lebende-sprache) für die Sprachen-Fertigkeit), was ihnen normalerweise einen Wert von 5 verschafft, sowie 45 Erfahrungspunkte zur Verteilung auf Gebietskunde (für den Ort oder die Orte, an denen der Charakter aufwächst), Athletik, Wahrnehmung, Raufen, Charme, Menschenkenntnis, Täuschung, Lebende Sprache (außer der Muttersprache), Schleichen, Überleben und Schwimmen. Du musst nicht in alle diese Fertigkeiten Punkte stecken; wähle jene, die am besten zu deiner Vorstellung des Charakters passen. Dies repräsentiert, was der Charakter aufschnappt, während er als Kind spielt.
 
 #### Beispielhafte Kindheiten
 
@@ -2460,7 +2460,7 @@ Gesamtkosten: 90 Erfahrungspunkte
 
 Vergiss nicht, dass Zaubersummen eine Technik und eine Form addieren und du eine höhere Summe erzielst, wenn du Erfahrung zwischen einer Technik und einer Form aufteilst, statt alle Erfahrungspunkte in eine von beiden zu stecken.
 
-Die höchste Zauberstufe, die du erlernen kannst, ist gleich Technik + Form + Intelligenz + Magietheorie +3, wobei Technik und Form die des fraglichen Zaubers sind. Hat der Zauber Requisiten (siehe Seite 311), gelten diese ebenfalls für diese Summe. Dies ist die entsprechende Laborsumme, unter Annahme eines Auramodifikators von +3, sodass alle Tugenden und Fehler deines Charakters diese Summe beeinflussen, sofern sie sich im Spiel auf eine Laborsumme auswirken würden.
+Die höchste Zauberstufe, die du erlernen kannst, ist gleich Technik + Form + Intelligenz + Magietheorie +3, wobei Technik und Form die des fraglichen Zaubers sind. Hat der Zauber Requisiten (siehe [Seite 311](#requisiten)), gelten diese ebenfalls für diese Summe. Dies ist die entsprechende Laborsumme, unter Annahme eines Auramodifikators von +3, sodass alle Tugenden und Fehler deines Charakters diese Summe beeinflussen, sofern sie sich im Spiel auf eine Laborsumme auswirken würden.
 
 #### Nur Magi — Nach der Lehrlingszeit
 
@@ -2470,7 +2470,7 @@ Pro Jahr erhält der Magus 30 Punkte. Jeder Punkt kann ein Erfahrungspunkt in ei
 
 Natürlich willst du vielleicht nicht, dass dein erfahrener Magus seine ganze Zeit damit verbracht hat, Fertigkeiten, Künste und Zauber zu studieren. Wenn du möchtest, dass dein Magus weitere Laboraktivitäten betreibt (etwa Gegenstände erschaffen, Vertraute verzaubern und insbesondere Langlebigkeitsrituale erstellen), musst du mehr über die Umstände wissen, unter denen er gearbeitet hat. Diese liegen letztlich beim Spielleiter, doch eine typische Situation könnte folgendermaßen aussehen:
 
-- Der Konvent des Magus (für Alterungswürfe) gibt einen Lebensbedingungs-Modifikator von +1 (siehe Altern, Seite 391).
+- Der Konvent des Magus (für Alterungswürfe) gibt einen Lebensbedingungs-Modifikator von +1 (siehe Altern, [Seite 391](#altern)).
 - Das Labor des Magus ist nur von durchschnittlicher Qualität, was einen Modifikator von 0 auf Laborsummen ergibt.
 - Der Konvent hat eine Magie-Aura von 3.
 - Der Magus darf maximal so viele Bauern Vis pro Jahr verwenden, wie sein Magietheorie-Wert mal 5 beträgt, und zwar in den benötigten Künsten. Es ist nicht möglich, Bauern von Jahr zu Jahr anzusammeln, da diese Zahl bereits Vis darstellt, die der Magus während des Studiums aus Büchern und Erfindens von Zaubern gespart hat.
@@ -2483,7 +2483,7 @@ Für jedes Quartal, das dein Magus an einem Laborprojekt arbeitet, verliert der 
 >
 > Darius wird zu Beginn der Saga aus der Lehrlingszeit heraus sein, also bringt Niall ihn weiter voran. Für die acht Jahre von 26 bis einschließlich 33 fasst er einfach alle Erfahrungspunkte zusammen. Das gibt ihm 240 Erfahrungspunkte zum Verteilen auf verschiedene Weisen. Zuerst gibt er 25 EP aus, um Parma Magica auf 3 zu erhöhen, da ein Magierjäger eine ordentliche Magieresistenz braucht. Dann gibt er 5 EP für Große Waffe 1 aus und gibt Darius einen Speer. Als Nächstes gibt er 88 EP aus, um Corpus auf 13 zu erhöhen. Er argumentiert, dass Darius sein eigenes Langlebigkeitsritual entwickeln und mit PeCo-Zaubern eine ordentliche Penetration haben will. Dann strebt er etwas mehr Vielseitigkeit an, gibt 30 EP zur Erhöhung von Creo auf 10 aus, 60 EP zur Erhöhung von Aquam, Auram, Ignem, Imaginem, Mentem, Terram, Vim auf je 4 und je 1 EP für Rego und Intellego, für je einen Wert von 1. Damit bleiben ihm 30 EP, die er für Winters eisige Berührung und eine Stufe-20-Version von Rostiger Verfall von Zweihundert Jahren (PeTe 10, Zielgröße erhöht auf Gruppe = +2 Magnituden) ausgibt. Auch dafür muss er eine Meisterschaftsfähigkeit für den Zauber wählen.
 >
-> Niall entscheidet dann, dass Darius das nächste Jahr im Labor verbringen wird, sodass er in jenem Jahr keine Erfahrungspunkte gewinnt. Siehe das Labor-Kapitel ab Seite 249 für Details zu diesen Aktivitäten. Quartal 1: Öffnet den Speerschaft (Stab) zur Verzauberung (8 Bauern Vis); Quartal 2: Stimmt den Speerschaft als Talisman ab; Quartal 3: Erstellt Langlebigkeitsritual (7 Bauern Vis, Laborsumme 35, für einen +7-Bonus gegen Altern); Quartal 4: Bettet in den Talisman den Effekt 'Die Wunde, die weint' (PeCo 15) mit 0 Penetration und 50 Anwendungen pro Tag ein. Öffne den Talisman für die Abstimmung "+4 Dinge auf Distanz zerstören", da ein Speer im Grunde immer noch die Form eines Stabes hat.
+> Niall entscheidet dann, dass Darius das nächste Jahr im Labor verbringen wird, sodass er in jenem Jahr keine Erfahrungspunkte gewinnt. Siehe das Labor-Kapitel ab [Seite 249](#kapitel-8-das-laboratorium) für Details zu diesen Aktivitäten. Quartal 1: Öffnet den Speerschaft (Stab) zur Verzauberung (8 Bauern Vis); Quartal 2: Stimmt den Speerschaft als Talisman ab; Quartal 3: Erstellt Langlebigkeitsritual (7 Bauern Vis, Laborsumme 35, für einen +7-Bonus gegen Altern); Quartal 4: Bettet in den Talisman den Effekt 'Die Wunde, die weint' (PeCo 15) mit 0 Penetration und 50 Anwendungen pro Tag ein. Öffne den Talisman für die Abstimmung "+4 Dinge auf Distanz zerstören", da ein Speer im Grunde immer noch die Form eines Stabes hat.
 >
 > Ab diesem Punkt bringt Niall Darius Jahr für Jahr weiter, da Alterungsergebnisse Auswirkungen auf sein Studium und seine Entwicklung haben könnten. In Darius' 35. Jahr gibt er 15 EP für Jagen 2, 5 EP für Zivil- und Kanonisches Recht 1 und 10 EP zur Erhöhung von Animal auf 4 aus. Zu diesem Zeitpunkt entscheidet Niall, dass Darius riskiert hätte, ein Zwielicht zu erleiden, da er die Art Magus ist, der von Zeit zu Zeit Patzer würfelt. Darius hat einen Verzerrungswert von 2, mit fünf übrigen Verzerrungspunkten, weil er zehn Jahre aus der Lehrlingszeit heraus ist. Er macht den Wurf, um die Magie zu kontrollieren, und schafft ihn, sodass Darius an dieser Stelle nicht tatsächlich ins Zwielicht geht.
 >
@@ -2491,13 +2491,13 @@ Für jedes Quartal, das dein Magus an einem Laborprojekt arbeitet, verliert der 
 
 Ältere Magi können Zauber schneller erlernen, als diese Richtlinien nahelegen. Du möchtest daher vielleicht diese Regeln verwenden, um einen Magus Zauber als Laborprojekt erlernen zu lassen, wenn du ihn mehr als etwa vierzig Jahre über die Lehrlingszeit hinaus voranbringst.
 
-Denk daran, dass du auch ab dem Alter von 35 jährlich Alterungswürfe für den Charakter ablegen solltest. Daher wirst du wahrscheinlich wollen, dass dein Magus bis dahin ein Langlebigkeitsritual (siehe Seite 261) erworben hat. Einige geübte Magi bieten ihre Dienste beim Erstellen von Langlebigkeitsritualen für andere an, und du kannst entscheiden, dass dein Charakter um ein solches Ritual gehandelt hat, besonders wenn du nicht daran interessiert bist, die Künste Creo oder Corpus zu studieren. Die genauen Details solcher Handel und der Bonus, den das resultierende Ritual gibt, sollten mit dem Spielleiter abgestimmt werden.
+Denk daran, dass du auch ab dem Alter von 35 jährlich Alterungswürfe für den Charakter ablegen solltest. Daher wirst du wahrscheinlich wollen, dass dein Magus bis dahin ein Langlebigkeitsritual (siehe [Seite 261](#langlebigkeitsrituale)) erworben hat. Einige geübte Magi bieten ihre Dienste beim Erstellen von Langlebigkeitsritualen für andere an, und du kannst entscheiden, dass dein Charakter um ein solches Ritual gehandelt hat, besonders wenn du nicht daran interessiert bist, die Künste Creo oder Corpus zu studieren. Die genauen Details solcher Handel und der Bonus, den das resultierende Ritual gibt, sollten mit dem Spielleiter abgestimmt werden.
 
 *Magi of Hermes* enthält 15 Magi mit vollständigen Werten unmittelbar nach der Lehrlingszeit und alle 15 Jahre danach, einschließlich Details zu jeglichen von ihnen erfundenen Zaubern oder erstellten magischen Gegenständen. Diese können als Ideenquelle dienen oder unverändert in der Saga verwendet werden, sogar als Spielercharaktere.
 
 ### Persönlichkeit
 
-Wähle einige Worte zur Beschreibung der Persönlichkeit deines Charakters und hänge jedem einen Wert zwischen -3 und +3 an. Dies sind die Persönlichkeitseigenschaften deines Charakters (siehe Seite 28). Wenn du einen Kleinen Persönlichkeits-Fehler hast, solltest du diesen durch eine Persönlichkeitseigenschaft mit einem Wert von +3 oder -3 abbilden, und ein Großer Persönlichkeits-Fehler sollte eine Persönlichkeitseigenschaft von +6 oder -6 haben.
+Wähle einige Worte zur Beschreibung der Persönlichkeit deines Charakters und hänge jedem einen Wert zwischen -3 und +3 an. Dies sind die Persönlichkeitseigenschaften deines Charakters (siehe [Seite 28](#persönlichkeitseigenschaften)). Wenn du einen Kleinen Persönlichkeits-Fehler hast, solltest du diesen durch eine Persönlichkeitseigenschaft mit einem Wert von +3 oder -3 abbilden, und ein Großer Persönlichkeits-Fehler sollte eine Persönlichkeitseigenschaft von +6 oder -6 haben.
 
 Grogs sollten einen Wert (positiv oder negativ) in Loyal haben, und Krieger sollten einen Wert in Tapfer haben. Die meisten Krieger werden einen positiven Wert in Tapfer haben, aber nicht alle.
 
@@ -2509,7 +2509,7 @@ Für Gefährten und Magi sind sie normalerweise nichts weiter als ein Leitfaden 
 
 ### Reputationen
 
-Charaktere beginnen nur mit einer Reputation, wenn sie eine Tugend oder einen Fehler wählen, die eine gewährt, doch alle Charaktere können sie im Spiel entwickeln. Siehe Seite 28 für Regeln zu Reputationen.
+Charaktere beginnen nur mit einer Reputation, wenn sie eine Tugend oder einen Fehler wählen, die eine gewährt, doch alle Charaktere können sie im Spiel entwickeln. Siehe [Seite 28](#reputationen) für Regeln zu Reputationen.
 
 > #### Beispiel: Darius von Flambeau
 >
@@ -2521,7 +2521,7 @@ Grogs haben keine Selbstvertrauenspunkte. Wie Geschichte-Fehler kennzeichnen Sel
 
 Gefährten und Magi beginnen mit einem Selbstvertrauenswert von 1 und 3 Selbstvertrauenspunkten, sofern sie keine Tugend oder keinen Fehler haben, der etwas anderes anzeigt.
 
-Selbstvertrauenspunkte können ausgegeben werden, um einen einmaligen +3-Bonus auf einen beliebigen Würfelwurf zu erhalten, und auf einen einzelnen Wurf darf höchstens eine Anzahl an Selbstvertrauenspunkten in Höhe des Selbstvertrauenswerts des Charakters ausgegeben werden. Mehr Details zu Selbstvertrauen finden sich auf Seite 29.
+Selbstvertrauenspunkte können ausgegeben werden, um einen einmaligen +3-Bonus auf einen beliebigen Würfelwurf zu erhalten, und auf einen einzelnen Wurf darf höchstens eine Anzahl an Selbstvertrauenspunkten in Höhe des Selbstvertrauenswerts des Charakters ausgegeben werden. Mehr Details zu Selbstvertrauen finden sich auf [Seite 29](#selbstvertrauen).
 
 ### Ausrüstung
 
@@ -2624,7 +2624,7 @@ Charaktere mit einem Machtwert sind, streng genommen, keine Menschen. Kein Wesen
 
 Erhält ein Charakter Magieresistenz aus mehr als einer Quelle, addieren sich diese Summen nicht, selbst wenn sie aus derselben Sphäre stammen (etwa Infernale Macht und eine infernale Kraft); du verwendest einfach die höhere Summe.
 
-Charaktere mit einem Machtwert sind immun gegen jegliche Verzerrung (siehe Verzerrung und Nicht-Menschen, Seite 389). Sie dürfen jedoch einen Punkt ihres Machtvorrats ausgeben, um eine Fertigkeit oder Kraft zu nutzen, die normalerweise Verzerrung verursacht.
+Charaktere mit einem Machtwert sind immun gegen jegliche Verzerrung (siehe Verzerrung und Nicht-Menschen, [Seite 389](#verzerrung-und-nicht-menschen)). Sie dürfen jedoch einen Punkt ihres Machtvorrats ausgeben, um eine Fertigkeit oder Kraft zu nutzen, die normalerweise Verzerrung verursacht.
 
 Wesen mit einem Machtwert sind immun gegen übernatürliche Rückschläge ihrer Sphäre — Zwielicht, Hybris, Verfluchung und so weiter — leiden aber dennoch unter allen anderen Folgen eines fehlgeschlagenen oder gepatzten Wurfs beim Einsatz ihrer Kräfte.
 
@@ -2777,7 +2777,7 @@ Fehler gibt es in zwei grundlegenden Typen. Allgemeine, Hermetische und Übernat
 
 Man beachte, dass Fehler keine "Dinge sind, die man sich nicht wünschte, wenn man der Charakter wäre". Es können Dinge sein, die man sehr gerne hätte, die jedoch trotzdem als Fehler zählen, weil sie ein Hindernis oder ein Aufhänger für Geschichten sind. Das bedeutet, dass einige Charaktere außerordentlich bestrebt sein können, ihre Fehler zu behalten. Noch mehr gilt: Ein Spielfehler muss kein moralischer Fehler sein, und eine Spieltugend muss keine moralische Tugend sein. Tatsächlich funktionieren die meisten moralischen Tugenden gut als Persönlichkeits- oder Geschichte-Fehler, weil sie den Charakter in Geschichten hineinziehen.
 
-Einige Fehler, wie Blind oder Stumm, könnten durch Hermetische Magie behoben werden. Ein Charakter mit leichtem Zugang zu solcher Magie kann einen solchen Fehler nur wählen, wenn es einen Grund gibt, warum er nicht behoben werden kann, etwa weil er Teil der Wesensnatur des Charakters ist (siehe Seite 210). Im Allgemeinen können Charaktere keine Fehler wählen, die im Spiel schnell beseitigt werden.
+Einige Fehler, wie Blind oder Stumm, könnten durch Hermetische Magie behoben werden. Ein Charakter mit leichtem Zugang zu solcher Magie kann einen solchen Fehler nur wählen, wenn es einen Grund gibt, warum er nicht behoben werden kann, etwa weil er Teil der Wesensnatur des Charakters ist (siehe [Seite 210](#die-grenze-der-wesensnatur)). Im Allgemeinen können Charaktere keine Fehler wählen, die im Spiel schnell beseitigt werden.
 
 > ### Fehler wählen
 >
@@ -2865,11 +2865,11 @@ Es gibt mehrere spezifische Typen von Tugenden und Fehlern. Diese werden hier be
 
 ### Die Gabe
 
-Die Gabe ist eine besondere Tugend, weil sie keine Kosten hat. Der Charakter erleidet alle Nachteile der Gabe, genauso wie Magi (siehe Seite 203), kann aber ohne die entsprechenden Tugenden wählen zu müssen in Übernatürlichen Fertigkeiten unterwiesen werden (siehe Seite 383 für die Regeln). Am wichtigsten ist, dass der Charakter in Hermetischer Magie unterwiesen werden kann, weshalb alle Magi diese Tugend haben müssen. Ein Charakter mit der Gabe, auch wenn er kein Magus ist, darf Hermetische Tugenden und Fehler wählen, die sich auf innere Begabung statt auf Herkunft oder Ausbildung beziehen.
+Die Gabe ist eine besondere Tugend, weil sie keine Kosten hat. Der Charakter erleidet alle Nachteile der Gabe, genauso wie Magi (siehe [Seite 203](#die-gabe-2)), kann aber ohne die entsprechenden Tugenden wählen zu müssen in Übernatürlichen Fertigkeiten unterwiesen werden (siehe [Seite 383](#übernatürliche-fertigkeiten-erlernen) für die Regeln). Am wichtigsten ist, dass der Charakter in Hermetischer Magie unterwiesen werden kann, weshalb alle Magi diese Tugend haben müssen. Ein Charakter mit der Gabe, auch wenn er kein Magus ist, darf Hermetische Tugenden und Fehler wählen, die sich auf innere Begabung statt auf Herkunft oder Ausbildung beziehen.
 
 Charaktere dürfen Tugenden wählen, die Übernatürliche Fertigkeiten verleihen, ohne die Gabe zu wählen, und solche Charaktere erleiden nicht die durch die Gabe verursachten Nachteile. Allerdings können solche Charaktere im Verlauf der Saga keine neuen Übernatürlichen Fertigkeiten erlernen, obwohl sie die bereits vorhandenen verbessern dürfen. Es ist möglich, dass UnBegabte Charaktere durch einen Mysterienkult neue Übernatürliche Fertigkeiten initiieren, aber selbst das ist für sie schwerer als für Begabte.
 
-Charaktere, die die Gabe haben, dürfen das Spiel mit einer einzigen Übernatürlichen Fertigkeit beginnen, ohne dafür eine weitere Tugend wählen zu müssen; wenn sie jedoch weitere erlernen möchten, müssen sie im Verlauf der Saga Gelegenheiten dazu finden. Sie können auch Tugenden wählen, die Übernatürliche Fertigkeiten verleihen, wenn sie bei der Charaktererschaffung über mehr Fertigkeiten verfügen möchten. Man beachte, dass es für einen Charakter mit Übernatürlichen Fertigkeiten schwieriger ist, Hermetischer Magus zu werden (siehe "Deinen Lehrling ausbilden" auf Seite 270), weshalb du möglicherweise auf solche Fertigkeiten verzichten möchtest, wenn du planst, dass der Charakter ein Lehrling werden soll. Die Fähigkeit, Hermetische Magie zu wirken, ist die einzige übernatürliche Fähigkeit, über die Hermetische Magi kraft der Gabe verfügen; auch sie können weitere Übernatürliche-Fertigkeits-Tugenden wählen, wenn sie möchten.
+Charaktere, die die Gabe haben, dürfen das Spiel mit einer einzigen Übernatürlichen Fertigkeit beginnen, ohne dafür eine weitere Tugend wählen zu müssen; wenn sie jedoch weitere erlernen möchten, müssen sie im Verlauf der Saga Gelegenheiten dazu finden. Sie können auch Tugenden wählen, die Übernatürliche Fertigkeiten verleihen, wenn sie bei der Charaktererschaffung über mehr Fertigkeiten verfügen möchten. Man beachte, dass es für einen Charakter mit Übernatürlichen Fertigkeiten schwieriger ist, Hermetischer Magus zu werden (siehe "Deinen Lehrling ausbilden" auf [Seite 270](#deinen-lehrling-ausbilden)), weshalb du möglicherweise auf solche Fertigkeiten verzichten möchtest, wenn du planst, dass der Charakter ein Lehrling werden soll. Die Fähigkeit, Hermetische Magie zu wirken, ist die einzige übernatürliche Fähigkeit, über die Hermetische Magi kraft der Gabe verfügen; auch sie können weitere Übernatürliche-Fertigkeits-Tugenden wählen, wenn sie möchten.
 
 Grogs können niemals die Gabe haben, da ein Charakter mit der Gabe zu wichtig ist, um ein Grog zu sein. In der Regel sollten Gefährten die Gabe nur haben, wenn sie dazu bestimmt sind, Magi zu werden, oder wenn sie Mitglieder einer der anderen magischen Traditionen sind, die in den Ars-Magica-Ergänzungsbänden zur fünften Edition beschrieben werden. Spieltruppen sollten keine weiteren Begabten Charaktere zulassen, es sei denn, sie sind sich absolut sicher, dass sie das wollen.
 
@@ -2885,7 +2885,7 @@ Diese Tugenden und Fehler geben deinen Platz in der Gesellschaft an, was in der 
 
 #### Soziale Status nach Kultur
 
-Da Sozialer-Status-Tugenden und -Fehler den Platz eines Charakters in der Gesellschaft betreffen, variieren die verfügbaren Optionen je nach der Gesellschaft, in der er lebt. Die auf Seite 65 genannten "Gesellschaften" sind nicht genau definiert und in den meisten Fällen nicht eng an Geographie gebunden. Das Westliche Christentum liegt größtenteils in Westeuropa, schließt aber die Kreuzfahrerstaaten ein, während "Islamisch" die südliche Iberische Halbinsel einschließt und die Juden überall leben.
+Da Sozialer-Status-Tugenden und -Fehler den Platz eines Charakters in der Gesellschaft betreffen, variieren die verfügbaren Optionen je nach der Gesellschaft, in der er lebt. Die auf [Seite 65](#soziale-status-nach-kultur) genannten "Gesellschaften" sind nicht genau definiert und in den meisten Fällen nicht eng an Geographie gebunden. Das Westliche Christentum liegt größtenteils in Westeuropa, schließt aber die Kreuzfahrerstaaten ein, während "Islamisch" die südliche Iberische Halbinsel einschließt und die Juden überall leben.
 
 #### Alle Kulturen
 
@@ -2957,7 +2957,7 @@ Da Sozialer-Status-Tugenden und -Fehler den Platz eines Charakters in der Gesell
 
 Übernatürliche Tugenden und Fehler verleihen dem Charakter einen Vorteil, der über das Sterbliche hinausgeht. Alle Übernatürlichen Tugenden und Fehler sind mit einer der vier Sphären verbunden: Magie, Fee, Infernal und Göttlich. Die häufigste Zuordnung für Spielercharaktere ist die Magiesphäre, und diese sollte die Wahl sein, wenn das Charakterkonzept keine andere Option nahelegt. Einige Tugenden sind stets mit anderen Sphären verbunden, wie Feenblut und Starkes Feenblut, die immer der Feensphäre zugeordnet sind. Die Beschreibung einer Tugend weist darauf hin, wenn sie so eingeschränkt ist. Die Feensphäre ist für die meisten Übernatürlichen Tugenden eine geeignete Quelle, und in einigen Fällen können mit Zustimmung der Spieltruppe auch Göttliche oder Infernale Quellen angemessen sein. Man beachte, dass Göttliche und Infernale Übernatürliche Tugenden komplexere Rollenspiel-Situationen erzeugen als jene, die mit Magie oder Fee verbunden sind, und Spieltruppen möchten sie aus diesem Grund möglicherweise vermeiden.
 
-Die Sphäre einer Tugend oder eines Fehlers bestimmt, wie sie mit übernatürlichen Auren interagieren (siehe Seite 410), und liefert wichtige Hintergrundinformation. Darüber hinaus ist ein Charakter mit einer Übernatürlichen Tugend oder einem Übernatürlichen Fehler immun gegen die Verzerrung, die durch das Leben in einer hohen Aura verursacht wird, die derselben Sphäre zugeordnet ist (siehe Seite 389).
+Die Sphäre einer Tugend oder eines Fehlers bestimmt, wie sie mit übernatürlichen Auren interagieren (siehe [Seite 410](#wechselwirkungen-zwischen-den-sphären)), und liefert wichtige Hintergrundinformation. Darüber hinaus ist ein Charakter mit einer Übernatürlichen Tugend oder einem Übernatürlichen Fehler immun gegen die Verzerrung, die durch das Leben in einer hohen Aura verursacht wird, die derselben Sphäre zugeordnet ist (siehe [Seite 389](#verzerrung-2)).
 
 ### Persönlichkeit
 
@@ -3369,7 +3369,7 @@ Du verarbeitest die Anweisungen anderer sehr leicht. Du erhältst einen +6-Bonus
 
 #### Affinität zu (Fertigkeit)
 *Klein, Allgemein*<br>
-Alle Fortschrittssummen für eine Fertigkeit werden um die Hälfte erhöht, aufgerundet, ebenso wie alle Erfahrungspunkte, die du bei der Charaktererschaffung in diese Fertigkeit investierst. Du kannst diese Tugend für eine bestimmte Fertigkeit nur einmal nehmen, aber für verschiedene Fertigkeiten erneut. Wenn du diese Tugend für eine Fertigkeit nimmst, darfst du während der Charaktererschaffung die normale altersbedingte Obergrenze (siehe Seite 48) für diese Fertigkeit um zwei Punkte überschreiten.
+Alle Fortschrittssummen für eine Fertigkeit werden um die Hälfte erhöht, aufgerundet, ebenso wie alle Erfahrungspunkte, die du bei der Charaktererschaffung in diese Fertigkeit investierst. Du kannst diese Tugend für eine bestimmte Fertigkeit nur einmal nehmen, aber für verschiedene Fertigkeiten erneut. Wenn du diese Tugend für eine Fertigkeit nimmst, darfst du während der Charaktererschaffung die normale altersbedingte Obergrenze (siehe [Seite 48](#fertigkeiten-1)) für diese Fertigkeit um zwei Punkte überschreiten.
 
 #### Affinität zu (Kunst)
 *Klein, Hermetisch*<br>
@@ -3411,7 +3411,7 @@ Der Charakter kann jede menschliche Gestalt annehmen, solange sie nicht erkennba
 
 #### Tierverständnis
 *Klein, Übernatürlich*<br>
-Du kannst mit Tieren kommunizieren, als wären sie Menschen. Die Wahl dieser Tugend verleiht dir die Fertigkeit Tierverständnis 1 (Seite 159).
+Du kannst mit Tieren kommunizieren, als wären sie Menschen. Die Wahl dieser Tugend verleiht dir die Fertigkeit Tierverständnis 1 ([Seite 159](#tierumgang)).
 
 #### Lehrling
 *Frei, Sozialer Status*<br>
@@ -3437,7 +3437,7 @@ Du hast den Status und die Privilegien der bedeutendsten und talentiertesten Eun
 
 #### Aristotelische Ausbildung
 *Klein, Allgemein*<br>
-Der Charakter wurde in der Neuen Aristotelischen Lehre ausgebildet und hat seinen Unterricht von einem Lehrer erhalten, der kürzlich übersetzte Aristoteles-Texte anstelle des üblichen Lehrplans verwendet. Der Charakter erhält einen +1-Bonus auf Artes-Liberales-Würfe für Grammatik, Logik und Rhetorik sowie einen +1-Bonus bei der Berechnung von Disputatio-Summen (siehe *Art and Academe*, Seite 103, für Details). Ein Magus mit dieser Tugend kann +1 zu seinen Laborsummen addieren, wenn er versucht, die Neue Aristotelische Lehre mit der Magietheorie zu verbinden (wie auf Seite 11 von *Art and Academe* beschrieben). Diese Tugend ist mit Begabung in Artes Liberales vereinbar.
+Der Charakter wurde in der Neuen Aristotelischen Lehre ausgebildet und hat seinen Unterricht von einem Lehrer erhalten, der kürzlich übersetzte Aristoteles-Texte anstelle des üblichen Lehrplans verwendet. Der Charakter erhält einen +1-Bonus auf Artes-Liberales-Würfe für Grammatik, Logik und Rhetorik sowie einen +1-Bonus bei der Berechnung von Disputatio-Summen (siehe *Art and Academe*, [Seite 103](#nicht-alternd), für Details). Ein Magus mit dieser Tugend kann +1 zu seinen Laborsummen addieren, wenn er versucht, die Neue Aristotelische Lehre mit der Magietheorie zu verbinden (wie auf [Seite 11](#nicht-alternd) von *Art and Academe* beschrieben). Diese Tugend ist mit Begabung in Artes Liberales vereinbar.
 
 #### Atlantische Magie
 *Klein, Hermetisch*<br>
@@ -3493,7 +3493,7 @@ Bienenkönige werden niemals von einer Bienenart gestochen. Ein angreifender Bie
 
 Zu beachten ist, dass Bienen im Mythischen Europa Könige haben, keine Königinnen, doch ein weiblicher Charakter mit dieser Tugend kann sich selbst nach Belieben Bienenkönigin nennen.
 
-Dies ist eine Übernatürliche Tugend, und du kannst sie nicht verlieren, wenn du als Magus ausgebildet wirst (siehe Seite 269). Wenn dein Meister die Fähigkeit nicht erhalten kann, kannst du nicht ausgebildet werden.
+Dies ist eine Übernatürliche Tugend, und du kannst sie nicht verlieren, wenn du als Magus ausgebildet wirst (siehe [Seite 269](#lehrlinge-1)). Wenn dein Meister die Fähigkeit nicht erhalten kann, kannst du nicht ausgebildet werden.
 
 #### Berserker
 *Klein, Allgemein*<br>
@@ -3552,7 +3552,7 @@ Diese Tugend ist mit den Tugenden Baccalaureus und Priester vereinbar. Charakter
 
 #### Vorsichtiger Zauberer
 *Klein, Hermetisch*<br>
-Du gehst sehr sorgfältig mit Magie um und scheitest weniger leicht auf spektakuläre Weise, wenn du doch scheiterst. Du würfelst beim Wirken von Zaubern (ob Ritual-, Formulaisch- oder Spontanzauber) und beim Arbeiten im Laboratorium drei Patzerwürfel weniger. Diese Tugend kann die Anzahl der gewürfelten Patzerwürfel nicht unter einen senken. Ihre Wirkung wird jedoch vor allen anderen Effekten angewendet, die Patzerwürfel reduzieren, wie z. B. Zaubermeisterschaft (siehe Seite 225), und diese können die Anzahl der Patzerwürfel auf null reduzieren.
+Du gehst sehr sorgfältig mit Magie um und scheitest weniger leicht auf spektakuläre Weise, wenn du doch scheiterst. Du würfelst beim Wirken von Zaubern (ob Ritual-, Formulaisch- oder Spontanzauber) und beim Arbeiten im Laboratorium drei Patzerwürfel weniger. Diese Tugend kann die Anzahl der gewürfelten Patzerwürfel nicht unter einen senken. Ihre Wirkung wird jedoch vor allen anderen Effekten angewendet, die Patzerwürfel reduzieren, wie z. B. Zaubermeisterschaft (siehe [Seite 225](#zaubermeisterschaft)), und diese können die Anzahl der Patzerwürfel auf null reduzieren.
 
 #### Vorsichtig mit (Fertigkeit)
 *Klein, Allgemein*<br>
@@ -3578,7 +3578,7 @@ Der Charakter hat die Fähigkeit, gewöhnliche Vertreter einer Tierart mental zu
 *Frei, Übernatürlich*<br>
 Diese übernatürliche Kraft wird Charakteren entweder vom Papst oder direkt vom Göttlichen verliehen. Sie ist ein inhärenter Vorteil des Kirchenamtes. Die meisten Charaktere mit dieser Tugend haben auch die Tugend Sozialer Status: Höherer Klerus.
 
-Der Charakter besitzt eine Kraft, die dem Hermetischen Zauber Aura der Rechtmäßigen Autorität (Seite 357) entspricht, jedoch mit Reichweite Stimme; diese Kraft hat keinen Kosten und keine Penetration. Der Charakter hat außerdem eine Magieresistenz und einen Schadensabsorptionsbonus, die von seinem Rang in der Kirche abhängen. Wenn der Charakter eine Reliquie trägt, wird diese Magieresistenz zu der der Reliquie addiert.
+Der Charakter besitzt eine Kraft, die dem Hermetischen Zauber Aura der Rechtmäßigen Autorität ([Seite 357](#aura-der-rechtmäßigen-autorität)) entspricht, jedoch mit Reichweite Stimme; diese Kraft hat keinen Kosten und keine Penetration. Der Charakter hat außerdem eine Magieresistenz und einen Schadensabsorptionsbonus, die von seinem Rang in der Kirche abhängen. Wenn der Charakter eine Reliquie trägt, wird diese Magieresistenz zu der der Reliquie addiert.
 
 *Papst:* Magieresistenz 25, Schadensabsorptionsbonus +5.
 
@@ -3642,13 +3642,13 @@ Der Spielleiter muss die Prophezeiung im Hinterkopf behalten und faire Warnungen
 
 #### Gewandte Form
 *Klein, Hermetisch*<br>
-Du bist mit einer Form besonders geschickt. Du erleidest keine Abzüge auf den Zauberwert beim Wirken von Zaubern dieser Form mit nicht-standardmäßiger Stimmgebung/Gestik (siehe Seite 216), einschließlich des vollständigen Verzichts auf Stimme oder Gesten, weil du dich in einer nicht-menschlichen Form befindest. Zauber mit Reichweite Stimme haben weiterhin eine Reichweite, die davon abhängt, wie laut du sprichst.
+Du bist mit einer Form besonders geschickt. Du erleidest keine Abzüge auf den Zauberwert beim Wirken von Zaubern dieser Form mit nicht-standardmäßiger Stimmgebung/Gestik (siehe [Seite 216](#worte-und-gesten)), einschließlich des vollständigen Verzichts auf Stimme oder Gesten, weil du dich in einer nicht-menschlichen Form befindest. Zauber mit Reichweite Stimme haben weiterhin eine Reichweite, die davon abhängt, wie laut du sprichst.
 
 #### Dämonisches Blut
 *Groß, Übernatürlich, Befleckt*<br>
 Der Charakter hat einen Dämon als Elternteil und wurde von seinem höllischen Vater oder seiner höllischen Mutter für eine bestimmte Aufgabe gezeugt. Aufgrund dessen ist sie ein Höllisches Wesen und besitzt einen Infernalen Machtwert (Corpus) von 5. Dies verleiht ihr Magieresistenz. Ihr Körper enthält auch einen Bauern Corpus-Vis, der erst nach ihrem Tod gewonnen werden kann. Sie ist gegen Verzerrung jeglicher Art immun, muss nicht essen oder trinken und kann kein Kind bekommen; sie verspürt jedoch die natürlichen Triebe, die mit diesen Tätigkeiten verbunden sind, und kann aufgefordert werden, Persönlichkeitswürfe abzulegen, um ihren Begierden zu widerstehen.
 
-Sie hat bis zu 30 Stufen Höllischer Kräfte, die durch Ausgeben von Machtpunkten eingesetzt werden können. Gestalte die Effekte mithilfe Hermetischer Zauberrichtlinien oder der Maleficia-Richtlinien (siehe *Realms of Power: The Infernal*, Kapitel 10: Die Maleficia), unter Berücksichtigung der Kräfte des dämonischen Elternteils. Die Machtkosten für jede Kraft entsprechen ihrer Magnitude geteilt durch zwei, abgerundet (mindestens jedoch ein Punkt). Diese können als konstante Effekte gestaltet sein, die auf die übliche Weise entworfen werden (Dauer Sonne, zwei Anwendungen pro Tag und ein Umgebungsauslöser, siehe Seite 257); ihr Machtvorrat wird in diesem Fall stets um die Kosten einer solchen Kraft verringert, und sie kann diese Kräfte nicht abschalten. Der Initiativewert jeder Kraft ist die Schnelligkeit des Charakters.
+Sie hat bis zu 30 Stufen Höllischer Kräfte, die durch Ausgeben von Machtpunkten eingesetzt werden können. Gestalte die Effekte mithilfe Hermetischer Zauberrichtlinien oder der Maleficia-Richtlinien (siehe *Realms of Power: The Infernal*, Kapitel 10: Die Maleficia), unter Berücksichtigung der Kräfte des dämonischen Elternteils. Die Machtkosten für jede Kraft entsprechen ihrer Magnitude geteilt durch zwei, abgerundet (mindestens jedoch ein Punkt). Diese können als konstante Effekte gestaltet sein, die auf die übliche Weise entworfen werden (Dauer Sonne, zwei Anwendungen pro Tag und ein Umgebungsauslöser, siehe [Seite 257](#wirkungsanpassungen)); ihr Machtvorrat wird in diesem Fall stets um die Kosten einer solchen Kraft verringert, und sie kann diese Kräfte nicht abschalten. Der Initiativewert jeder Kraft ist die Schnelligkeit des Charakters.
 
 Sie ist sich ihrer wahren Herkunft möglicherweise nicht bewusst; in diesem Fall hat sie wahrscheinlich entweder den Fehler Wahnvorstellung oder den Fehler Fabrizierte Unwissenheit, um ihre außergewöhnlichen Fähigkeiten zu erklären. Sie steht unter der besonderen Aufmerksamkeit der Hölle und sollte daher diese Tugend mit einem Geschichte-Fehler ausgleichen, der diese Aufmerksamkeit widerspiegelt, z. B. Tragisches Leben. Der Charakter kann während der Charaktererschaffung Infernalkunde erlernen, ohne die Kleine Tugend Arkanwissen nehmen zu müssen.
 
@@ -3700,7 +3700,7 @@ Der Charakter ist ein Tier, das Eigentum eines Konvents oder Charakters ist und 
 
 #### Wünschelrutengehen
 *Klein, Übernatürlich*<br>
-Du besitzt die Fähigkeit, nahe gelegene Dinge mithilfe einer Wünschelrute (üblicherweise ein gegabelter Stock) und deines eigenen intuitiven Sinns aufzuspüren. Die Wahl dieser Tugend verleiht dir die Fertigkeit Wünschelruten 1 (Seite 164).
+Du besitzt die Fähigkeit, nahe gelegene Dinge mithilfe einer Wünschelrute (üblicherweise ein gegabelter Stock) und deines eigenen intuitiven Sinns aufzuspüren. Die Wahl dieser Tugend verleiht dir die Fertigkeit Wünschelruten 1 ([Seite 164](#wünschelrutengehen-1)).
 
 #### Staubwirbel
 *Klein, Übernatürlich*<br>
@@ -3744,7 +3744,7 @@ Dies entspricht der Ritter-Tugend, doch aufgrund der recht anderen Erziehung mus
 
 #### Bezaubernde (Fertigkeit)
 *Klein, Übernatürlich*<br>
-Wenn du dich darauf konzentrierst, kannst du mit einer bestimmten Art künstlerischen Ausdrucks magisch Gefühle und Überzeugungen in anderen hervorrufen: Musik, Tanz, Zeichnen, Geschichtenerzählen oder sogar Handwerk. Die Wahl dieser Tugend verleiht dir die Fertigkeit Bezaubernde (Fertigkeit) 1 (Seite 164).
+Wenn du dich darauf konzentrierst, kannst du mit einer bestimmten Art künstlerischen Ausdrucks magisch Gefühle und Überzeugungen in anderen hervorrufen: Musik, Tanz, Zeichnen, Geschichtenerzählen oder sogar Handwerk. Die Wahl dieser Tugend verleiht dir die Fertigkeit Bezaubernde (Fertigkeit) 1 ([Seite 164](#bezaubernde-fertigkeit-1)).
 
 #### Ausdauernde Konstitution
 *Klein, Allgemein*<br>
@@ -3756,7 +3756,7 @@ Die Effekte deiner Zauber dauern in der Regel länger als gewöhnlich an (obwohl
 
 #### Das Enigma
 *Klein, Hermetisch*<br>
-Du wurdest in das Äußere Mysterium des Enigmas eingeweiht (siehe Seite 235) und bist damit Mitglied des Hauses Criamon. Du hast einen Wert von 1 in Enigmatischer Weisheit. Beachte, dass alle Criamon-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
+Du wurdest in das Äußere Mysterium des Enigmas eingeweiht (siehe [Seite 235](#enigmatische-weisheit-1)) und bist damit Mitglied des Hauses Criamon. Du hast einen Wert von 1 in Enigmatischer Weisheit. Beachte, dass alle Criamon-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
 
 #### Verführer der Massen
 *Klein, Allgemein, Befleckt*<br>
@@ -3764,7 +3764,7 @@ Der Charakter besitzt eine Version der Inspirierend-Tugend, die jedoch ausschlie
 
 #### Betörung
 *Groß, Übernatürlich*<br>
-Du besitzt die Macht, den Willen einer anderen Person zu beherrschen, indem du ihr in die Augen starrst und ihr einen verbalen Befehl erteilst. Die Wahl dieser Tugend verleiht dir die Fertigkeit Betörung 1 (Seite 164).
+Du besitzt die Macht, den Willen einer anderen Person zu beherrschen, indem du ihr in die Augen starrst und ihr einen verbalen Befehl erteilst. Die Wahl dieser Tugend verleiht dir die Fertigkeit Betörung 1 ([Seite 164](#betörung-1)).
 
 #### Eunuch
 *Klein, Sozialer Status*<br>
@@ -3772,11 +3772,11 @@ Du wurdest ausgebildet und trainiert, um der byzantinischen Adelsschicht als Hof
 
 #### Exotisches Zaubern
 *Klein, Hermetisch*<br>
-Der Magus verwendet nicht-hermetische Methoden, um hermetische Zauber zu wirken. Er muss zwar nach wie vor offensichtliche rituelle Handlungen vollziehen, doch sind diese nicht dieselben Worte und Gesten, die im Orden als Teil der Magietheorie gelehrt werden, und andere Magi, die mit der Tradition des Magus nicht vertraut sind, haben große Mühe, zu erkennen, welchen Zauber er wirkt. Jeder Versuch, die Form seines magischen Effekts zu bestimmen (Seite 217), wird gegen einen Schwierigkeitsgrad von 15 vorgenommen, ohne dass die Magnitude des Effekts wie üblich davon abgezogen wird. Besitzt der Charakter übernatürliche Fertigkeiten, wendet er für das Wirken seiner hermetischen Magie dieselben Methoden an, die er auch für seine nicht-hermetische Magie verwendet. Der Magus kann nicht wählen, stattdessen die üblichen hermetischen Methoden zu verwenden, kann aber in der üblichen Weise auf Worte und Gesten verzichten oder diese reduzieren (Seite 216).
+Der Magus verwendet nicht-hermetische Methoden, um hermetische Zauber zu wirken. Er muss zwar nach wie vor offensichtliche rituelle Handlungen vollziehen, doch sind diese nicht dieselben Worte und Gesten, die im Orden als Teil der Magietheorie gelehrt werden, und andere Magi, die mit der Tradition des Magus nicht vertraut sind, haben große Mühe, zu erkennen, welchen Zauber er wirkt. Jeder Versuch, die Form seines magischen Effekts zu bestimmen ([Seite 217](#schnellzaubern)), wird gegen einen Schwierigkeitsgrad von 15 vorgenommen, ohne dass die Magnitude des Effekts wie üblich davon abgezogen wird. Besitzt der Charakter übernatürliche Fertigkeiten, wendet er für das Wirken seiner hermetischen Magie dieselben Methoden an, die er auch für seine nicht-hermetische Magie verwendet. Der Magus kann nicht wählen, stattdessen die üblichen hermetischen Methoden zu verwenden, kann aber in der üblichen Weise auf Worte und Gesten verzichten oder diese reduzieren ([Seite 216](#worte-und-gesten)).
 
 #### Vis-Gewinner der (Form)
 *Klein, Hermetisch*<br>
-Der Magus kann (Form)-Vis aus einer Magiesphären-Aura gewinnen, jedoch nur, wenn die Merkmale der Aura die Form verkörpern. Eine Aura am Ufer eines Sees verkörpert beispielsweise Aquam, eine Aura an einer Begräbnisstätte verkörpert Corpus usw. Die Vis-Gewinnung auf diese Weise ist eine Laboratoriumstätigkeit; der Magus gewinnt eine Anzahl Bauern Vis, die einem Zehntel seiner Creo-Vim-(Form)-Laborsumme entspricht (aufgerundet). Offensichtlich benötigt er dafür auch ein Laboratorium in der Aura, und natürlich kann der Magus auch wählen, stattdessen Vim-Vis zu gewinnen (siehe Seite 250). Diese Tugend kann mehrfach gewählt werden (einmal für jede Form).
+Der Magus kann (Form)-Vis aus einer Magiesphären-Aura gewinnen, jedoch nur, wenn die Merkmale der Aura die Form verkörpern. Eine Aura am Ufer eines Sees verkörpert beispielsweise Aquam, eine Aura an einer Begräbnisstätte verkörpert Corpus usw. Die Vis-Gewinnung auf diese Weise ist eine Laboratoriumstätigkeit; der Magus gewinnt eine Anzahl Bauern Vis, die einem Zehntel seiner Creo-Vim-(Form)-Laborsumme entspricht (aufgerundet). Offensichtlich benötigt er dafür auch ein Laboratorium in der Aura, und natürlich kann der Magus auch wählen, stattdessen Vim-Vis zu gewinnen (siehe [Seite 250](#vis-gewinnung)). Diese Tugend kann mehrfach gewählt werden (einmal für jede Form).
 
 #### Auge des Hephaistos
 *Klein, Übernatürlich*<br>
@@ -3818,11 +3818,11 @@ Art des Feenbluts (eines auswählen oder ein ähnliches erschaffen):
 
 #### Feendoktor
 *Frei, Mythischer Gefährte*<br>
-Diese Tugend macht dich zum Feendoktor und Mythischen Gefährten (Seite 63). Du erhältst die Wünschelrutengehen-Tugend kostenlos.
+Diese Tugend macht dich zum Feendoktor und Mythischen Gefährten ([Seite 63](#mythische-gefährten-2)). Du erhältst die Wünschelrutengehen-Tugend kostenlos.
 
 #### Feenmagie
 *Klein, Hermetisch*<br>
-Du wurdest in das Äußere Mysterium der Feenmagie eingeweiht (siehe Seite 236) und bist damit Mitglied des Hauses Merinita. Du besitzt die Fertigkeit Feenmagie 1. Beachte, dass alle Merinita-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
+Du wurdest in das Äußere Mysterium der Feenmagie eingeweiht (siehe [Seite 236](#feenmagie-2)) und bist damit Mitglied des Hauses Merinita. Du besitzt die Fertigkeit Feenmagie 1. Beachte, dass alle Merinita-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
 
 #### Feengeprägte Magie
 *Groß, Hermetisch*<br>
@@ -3832,7 +3832,7 @@ Daher kann er sich Zauber außerhalb des Laboratoriums selbst beibringen. Du kan
 
 Um einen Zauber auf diese Weise zu erfinden, muss die Summe aus Technik + Form + Intelligenz + Magietheorie des Magus mindestens (Zauberstufe – 10) betragen, und du musst eine Anzahl von Erfahrungspunkten aufwenden, die (der Magnitude des Zaubers + 4) entspricht. Zauber der Stufe 5 oder niedriger kosten ihre Stufe in Erfahrungspunkten (jedoch stets mindestens 1). Ein Zauber der Stufe 2 kostet beispielsweise 2 Erfahrungspunkte, ein Zauber der Stufe 15 kostet 7 Erfahrungspunkte. Der Magus kann auf diese Weise keine Ritualzauber erfinden.
 
-Kennt der Magus bereits einen Zauber, der dem zu erfindenden ähnlich ist (siehe Ähnliche Zauber, Seite 260), werden alle Erfahrungspunkte, die du zum Erlernen dieses Zaubers aufwendest, um die Hälfte erhöht, aufgerundet. Das bedeutet, dass ein Zauber der Stufe 25 statt 9 nur 6 Erfahrungspunkte kosten würde.
+Kennt der Magus bereits einen Zauber, der dem zu erfindenden ähnlich ist (siehe Ähnliche Zauber, [Seite 260](#ähnliche-zauber)), werden alle Erfahrungspunkte, die du zum Erlernen dieses Zaubers aufwendest, um die Hälfte erhöht, aufgerundet. Das bedeutet, dass ein Zauber der Stufe 25 statt 9 nur 6 Erfahrungspunkte kosten würde.
 
 Diese Tugend schließt auch die Tugend Zauberimprovisation ein. Das bedeutet, du kannst die Magnitude eines bekannten formulaischen Zaubers als Bonus zu deinem Zauberwert hinzufügen, wenn du spontan einen ähnlichen Zauber wirkst.
 
@@ -3960,11 +3960,11 @@ Du bist ein rangniederes Mitglied (möglicherweise unehelich) einer Adelsfamilie
 
 #### Geisterhafter Hüter
 *Groß, Allgemein*<br>
-Ein Geist wacht über dich. Es könnte sich um einen Großelternteil, einen Jugendfreund oder eine andere Person handeln, die sich genug um dich sorgt, um nach dem Tod bei dir zu bleiben. Der Geist ist für alle außer dir und jenen mit dem Zweiten Gesicht unsichtbar und unhörbar (siehe Seite 170). Er kann sehen und hören, was um dich herum geschieht, und ist ein ausgezeichneter Spion, da er einmal täglich für bis zu eine halbe Stunde deine Nähe verlassen kann. Der Tod hinterlässt Menschen jedoch nicht in ihrem normalen Geisteszustand, sodass der Geist wahrscheinlich einige Eigenheiten hat, die ihn unzuverlässig machen – er könnte dich sogar ermutigen, ihm auf die andere Seite zu folgen. Der Geist verfügt über 300 Erfahrungspunkte in verschiedenen Fertigkeiten, die er verwenden kann, um dich zu beraten, und Geister dürfen jede Fertigkeit besitzen. Siehe Seite 457 für ein Beispiel eines geistigen Wächters. Dies ist eine spezifischere Version des Magischen Wächters (siehe weiter unten) und ein Beispiel für jene Tugend.
+Ein Geist wacht über dich. Es könnte sich um einen Großelternteil, einen Jugendfreund oder eine andere Person handeln, die sich genug um dich sorgt, um nach dem Tod bei dir zu bleiben. Der Geist ist für alle außer dir und jenen mit dem Zweiten Gesicht unsichtbar und unhörbar (siehe [Seite 170](#zweites-gesicht-1)). Er kann sehen und hören, was um dich herum geschieht, und ist ein ausgezeichneter Spion, da er einmal täglich für bis zu eine halbe Stunde deine Nähe verlassen kann. Der Tod hinterlässt Menschen jedoch nicht in ihrem normalen Geisteszustand, sodass der Geist wahrscheinlich einige Eigenheiten hat, die ihn unzuverlässig machen – er könnte dich sogar ermutigen, ihm auf die andere Seite zu folgen. Der Geist verfügt über 300 Erfahrungspunkte in verschiedenen Fertigkeiten, die er verwenden kann, um dich zu beraten, und Geister dürfen jede Fertigkeit besitzen. Siehe [Seite 457](#geisterwächter) für ein Beispiel eines geistigen Wächters. Dies ist eine spezifischere Version des Magischen Wächters (siehe weiter unten) und ein Beispiel für jene Tugend.
 
 #### Die Gabe
 *Frei, Besonders*<br>
-Du besitzt die Fähigkeit, Magie zu wirken. Vollständige Einzelheiten finden sich weiter oben auf Seite 63.
+Du besitzt die Fähigkeit, Magie zu wirken. Vollständige Einzelheiten finden sich weiter oben auf [Seite 63](#die-gabe).
 
 #### Guter Lehrer
 *Klein, Allgemein*<br>
@@ -3972,7 +3972,7 @@ Du kannst neue Konzepte und Fähigkeiten mit großer Leichtigkeit vermitteln. Ad
 
 #### Riesenblut
 *Groß, Allgemein*<br>
-Das Blut der alten Rassen der Riesen fließt in deinen Adern. Obwohl du nicht so groß bist wie deine Vorfahren, kannst du bis zu acht Fuß groß werden und bis zu 500 Pfund wiegen. Deine Größe beträgt +2, sodass du Wunden in Schritten von 7 Punkten erleidest, anstatt der üblichen 5 (siehe Seite 404). Du erhältst außerdem +1 sowohl auf Stärke als auch auf Ausdauer. Dieser Bonus kann deine Werte in diesen Eigenschaften auf bis zu +6 anheben. Du kannst diese Tugend nicht zusammen mit Großgewachsen (Seite 89), Zierlicher Körperbau (Seite 145) oder Zwerg (Seite 126) nehmen.
+Das Blut der alten Rassen der Riesen fließt in deinen Adern. Obwohl du nicht so groß bist wie deine Vorfahren, kannst du bis zu acht Fuß groß werden und bis zu 500 Pfund wiegen. Deine Größe beträgt +2, sodass du Wunden in Schritten von 7 Punkten erleidest, anstatt der üblichen 5 (siehe [Seite 404](#zierlicher-körperbau)). Du erhältst außerdem +1 sowohl auf Stärke als auch auf Ausdauer. Dieser Bonus kann deine Werte in diesen Eigenschaften auf bis zu +6 anheben. Du kannst diese Tugend nicht zusammen mit Großgewachsen ([Seite 89](#wunden)), Zierlicher Körperbau ([Seite 145](#zwerg)) oder Zwerg ([Seite 126](#großgewachsen)) nehmen.
 
 #### Gorgiast
 *Klein, Hermetisch*<br>
@@ -4006,7 +4006,7 @@ Du wurdest von einer übernatürlichen Macht gesegnet. Die Auswirkungen der Segn
 
 #### Große Immunität
 *Groß, Übernatürlich*<br>
-Du bist vollständig immun gegen eine Gefahr, die sowohl häufig als auch potenziell tödlich ist. Du könntest beispielsweise gegen Feuer oder gegen Eisenwaffen (und nur Eisenwaffen) immun sein. Du darfst keine Immunität gegen Altern nehmen – siehe stattdessen die Klein-Tugend Unalternd (Seite 114). Diese Immunität gilt für gewöhnliche und magische Varianten der Sache. Wenn du gegen Feuer immun bist, bist du auch gegen magisch erschaffenes Feuer immun.
+Du bist vollständig immun gegen eine Gefahr, die sowohl häufig als auch potenziell tödlich ist. Du könntest beispielsweise gegen Feuer oder gegen Eisenwaffen (und nur Eisenwaffen) immun sein. Du darfst keine Immunität gegen Altern nehmen – siehe stattdessen die kleine Tugend Nicht alternd ([Seite 114](#nicht-alternd)). Diese Immunität gilt für gewöhnliche und magische Varianten der Sache. Wenn du gegen Feuer immun bist, bist du auch gegen magisch erschaffenes Feuer immun.
 
 Eine wichtige Möglichkeit ist die Immunität gegen Entbehrung, was bedeutet, dass du keinen Erschöpfungs- oder Wundenverlust durch den Mangel an Luft, Nahrung oder Wasser erleidest. Du kannst jedoch keine Langzeit-Erschöpfungsstufen ohne Ruhe und Versorgung wiedererlangen, und wenn du verletzt bist, könnte Entbehrung dazu führen, dass sich deine Wunden verschlechtern.
 
@@ -4016,7 +4016,7 @@ Du kannst diese Tugend mehr als einmal nehmen, jedes Mal mit einer anderen Immun
 *Groß, Übernatürlich*<br>
 Der Charakter besitzt eine übernatürliche Macht, die er nach Belieben aktivieren kann. Wenn du die Tugend einmal nimmst, ist dies eine einzelne Macht, die einem formulaischen hermetischen Zauber der Stufe 50 oder niedriger entspricht. Du kannst auch Stufen eins-zu-eins aufwenden, um der Macht Penetration zu verleihen; andernfalls hat sie eine Penetration von null.
 
-Diese Tugend kann mehr als einmal genommen werden, und die Stufen werden zusammengezählt, um mehrere Mächte zu erschaffen. Ein Charakter, der die Tugend zweimal nimmt, könnte beispielsweise eine Macht der Stufe 60 mit einer Penetration von 0 und eine zweite Macht mit einer Stufe und Penetration von je 20 besitzen. Standardmäßig sollte es eine Macht pro Tugend geben, da diese Tugend für Mächte gedacht ist, die einzeln bedeutsam sind. Siehe Mindere Macht (Seite 90), wenn dein Charakter mehrere kleinere Mächte haben soll. Die Spieltruppe kann dem Charakter jedoch erlauben, mehr Mächte zu nehmen, wenn sie einen starken thematischen Zusammenhang haben.
+Diese Tugend kann mehr als einmal genommen werden, und die Stufen werden zusammengezählt, um mehrere Mächte zu erschaffen. Ein Charakter, der die Tugend zweimal nimmt, könnte beispielsweise eine Macht der Stufe 60 mit einer Penetration von 0 und eine zweite Macht mit einer Stufe und Penetration von je 20 besitzen. Standardmäßig sollte es eine Macht pro Tugend geben, da diese Tugend für Mächte gedacht ist, die einzeln bedeutsam sind. Siehe Mindere Macht ([Seite 90](#mindere-macht)), wenn dein Charakter mehrere kleinere Mächte haben soll. Die Spieltruppe kann dem Charakter jedoch erlauben, mehr Mächte zu nehmen, wenn sie einen starken thematischen Zusammenhang haben.
 
 Die Macht hat eine Initiative gleich der Schnelligkeit des Charakters – (Magnitude der Macht / 2) (abgerundet). Das Aktivieren kostet eine Erschöpfungsstufe, wenn ihre Stufe 50 oder niedriger ist, oder zwei Erschöpfungsstufen, wenn ihre Stufe 51 bis 100 beträgt. Noch höhere Effektstufen sind wahrscheinlich nicht sinnvoll.
 
@@ -4024,7 +4024,7 @@ Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden werden. Wenn du 
 
 #### Große Reinigende Berührung
 *Groß, Übernatürlich*<br>
-Du kannst mit einer Berührung und dem Aufwand einer Erschöpfungsstufe eine einzelne schwere Krankheit heilen. Diese Krankheit sollte entweder lebensbedrohlich oder schwer behindernd sein und eine sein, von der Menschen sich normalerweise nicht von selbst erholen. Du musst die Krankheit, die du heilen kannst, beim Nehmen dieser Tugend festlegen, und du kannst nur diese Krankheit heilen. Du kannst nur eine Krankheit wählen, keine anderen Arten von Verletzungen oder Unglück. Weitere Informationen zu Krankheiten finden sich auf Seite 406, und in *Artes et Academiae*, Seite 45, finden sich ausführlichere Details.
+Du kannst mit einer Berührung und dem Aufwand einer Erschöpfungsstufe eine einzelne schwere Krankheit heilen. Diese Krankheit sollte entweder lebensbedrohlich oder schwer behindernd sein und eine sein, von der Menschen sich normalerweise nicht von selbst erholen. Du musst die Krankheit, die du heilen kannst, beim Nehmen dieser Tugend festlegen, und du kannst nur diese Krankheit heilen. Du kannst nur eine Krankheit wählen, keine anderen Arten von Verletzungen oder Unglück. Weitere Informationen zu Krankheiten finden sich auf [Seite 406](#krankheiten), und in *Artes et Academiae*, [Seite 45](#krankheiten), finden sich ausführlichere Details.
 
 #### Schutzengel
 *Groß, Allgemein*<br>
@@ -4056,7 +4056,7 @@ Der Nachteil ist, dass beim Tod alle deine Zauber und Zauberartefakte erlöschen
 
 #### Herztier
 *Klein, Hermetisch*<br>
-Du wurdest in das Äußere Mysterium des Herztieres eingeweiht (siehe Seite 233) und bist damit ein Mitglied des Hauses Bjornaer. Du beginnst mit der Fertigkeit Herztier 1. Beachte, dass alle Bjornaer-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
+Du wurdest in das Äußere Mysterium des Herztieres eingeweiht (siehe [Seite 233](#bjornaer-das-herztier)) und bist damit ein Mitglied des Hauses Bjornaer. Du beginnst mit der Fertigkeit Herztier 1. Beachte, dass alle Bjornaer-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
 
 #### Hermetische Erfahrung
 *Klein, Allgemein*<br>
@@ -4078,7 +4078,7 @@ Der Charakter hat die Fähigkeit, ihre Feinde zu verfluchen, indem sie unheilvol
 *Klein, Übernatürlich*<br>
 Der Charakter weiß stets genau, wie er von seinem aktuellen Standort zu einer Anzahl von Orten gelangt, die seinem Intelligenzwert entspricht (mindestens jedoch 1). Um einen Ort in das Repertoire des Charakters aufzunehmen, muss er sich an diesem Ort befinden, der Ort muss im Freien liegen (darf also beispielsweise nicht im Inneren eines Gebäudes sein), und der Spieler muss einen Intelligenz + Konzentrations-Wurf gegen einen Schwierigkeitsgrad von 6 schaffen. Würde dies die Anzahl der bekannten Orte über das Limit des Charakters hinaus erhöhen, muss ein anderer Ort „vergessen" werden.
 
-Darüber hinaus hat der Charakter eine feste Arkane Verbindung zu den Orten, die er kennt, die auf die übliche Weise genutzt werden kann (Seite 219). Diese Arkane Verbindung ist ein Artefakt des Geistes und kann daher nicht an einen anderen Charakter weitergegeben werden.
+Darüber hinaus hat der Charakter eine feste Arkane Verbindung zu den Orten, die er kennt, die auf die übliche Weise genutzt werden kann ([Seite 219](#arkane-verbindungen)). Diese Arkane Verbindung ist ein Artefakt des Geistes und kann daher nicht an einen anderen Charakter weitergegeben werden.
 
 #### Durchdrungen vom Geist der (Form)
 *Klein, Hermetisch*<br>
@@ -4088,7 +4088,7 @@ Wann immer der Magus einen Zauber wirkt oder eine Laborarbeit ausführt, die Vis
 
 Beachte, dass das Studieren von Vis keine Laborarbeit ist, weshalb der Magus beim Vis-Studium keine Erschöpfungsstufen als Vis-Ersatz einsetzen kann.
 
-Als Beispiel: Ein Magus, der den Zauber Verzauberung des Spionagepools als Ritual wirkt (InAq 30, Seite 322), benötigt 6 Bauern irgendeiner Kombination aus Intellego- und Aquam-Vis. Ist der Magus Durchdrungen vom Geist des Aquam, kann er sich ermüden (und dabei drei langfristige Erschöpfungsstufen verlieren) und damit den Vis-Bedarf um 3 verringern.
+Als Beispiel: Ein Magus, der den Zauber Verzauberung des Spionagepools als Ritual wirkt (InAq 30, [Seite 322](#verzauberung-des-seherbeckens)), benötigt 6 Bauern irgendeiner Kombination aus Intellego- und Aquam-Vis. Ist der Magus Durchdrungen vom Geist des Aquam, kann er sich ermüden (und dabei drei langfristige Erschöpfungsstufen verlieren) und damit den Vis-Bedarf um 3 verringern.
 
 #### Immun gegen Krankheit
 *Groß, Übernatürlich, Befleckt*<br>
@@ -4096,7 +4096,7 @@ Der Charakter ist als Eigentum eines sehr mächtigen Dämons gekennzeichnet, und
 
 #### Unempfindlichkeit gegen Kälte
 *Klein, Übernatürlich*<br>
-Normale Kälte schadet dir nicht, noch bereitet sie dir Unbehagen. Du benötigst keine warme Umgebung, um gesund zu bleiben. Extreme, magisch erzeugte Kälte, wie etwa der Effekt von Eisiger Griff des Zauberers (Seite 346), betrifft dich jedoch weiterhin normal.
+Normale Kälte schadet dir nicht, noch bereitet sie dir Unbehagen. Du benötigst keine warme Umgebung, um gesund zu bleiben. Extreme, magisch erzeugte Kälte, wie etwa der Effekt von Eisiger Griff des Zauberers ([Seite 346](#eisiger-griff-des-zauberers)), betrifft dich jedoch weiterhin normal.
 
 #### Verbesserte Eigenschaften
 *Klein, Allgemein*<br>
@@ -4116,7 +4116,7 @@ Der Charakter entwickelt neue Fertigkeiten auf eigene Faust außerordentlich sch
 
 #### Einflüstern
 *Groß, Übernatürlich*<br>
-Der Charakter hat die übernatürliche Fähigkeit, Menschen Dinge erleben zu lassen, die nicht vorhanden sind. Sie erhält die Übernatürliche Fertigkeit Einflüstern (Seite 166) mit einem Wert von 1.
+Der Charakter hat die übernatürliche Fähigkeit, Menschen Dinge erleben zu lassen, die nicht vorhanden sind. Sie erhält die Übernatürliche Fertigkeit Einflüstern ([Seite 166](#einflüstern-1)) mit einem Wert von 1.
 
 #### Ineslemen
 *Klein, Sozialer Status*<br>
@@ -4152,7 +4152,7 @@ Erfinden liegt dir im Blut. Du erhältst +3 auf deine Laborsumme, wenn du keinen
 
 #### Alleskönner
 *Klein, Allgemein*<br>
-Der Charakter kann sich fast allem zuwenden. Er erleidet keine zusätzlichen Patzerwürfel, wenn er einen Fertigkeitswurf für eine Fertigkeit versucht, in der er keinen Wert hat (siehe Seite 157). Handelt es sich um eine mit Sternchen markierte Fertigkeit, kann er einen Wurf so versuchen, als hätte er einen Wert von null, mit drei zusätzlichen Patzerwürfeln, sofern und nur sofern er normalerweise Fertigkeiten dieses Typs nehmen kann. Charaktere ohne diese Tugend können überhaupt keinen Wurf auf eine mit Sternchen markierte Fertigkeit versuchen, ohne zumindest einen Erfahrungspunkt darin zu haben. So muss er beispielsweise über eine Tugend verfügen, die Arkane Fertigkeiten erlaubt, um einen ungeübten Magiekunde-Wurf zu versuchen. Einige Fertigkeiten sind von dieser Tugend ausgenommen, darunter solche, die nicht gewürfelt werden (wie Parma Magica oder Penetration) sowie alle Übernatürlichen Fertigkeiten (für die jeweils eine eigene Tugend erforderlich ist, nicht nur der Typ). Die Spieltruppe kann von Fall zu Fall weitere Ausnahmen festlegen, doch diese Tugend soll dem Charakter ermöglichen, Dinge zu versuchen, die normalerweise eine Ausbildung erfordern würden.
+Der Charakter kann sich fast allem zuwenden. Er erleidet keine zusätzlichen Patzerwürfel, wenn er einen Fertigkeitswurf für eine Fertigkeit versucht, in der er keinen Wert hat (siehe [Seite 157](#fertigkeiten-ohne-wert)). Handelt es sich um eine mit Sternchen markierte Fertigkeit, kann er einen Wurf so versuchen, als hätte er einen Wert von null, mit drei zusätzlichen Patzerwürfeln, sofern und nur sofern er normalerweise Fertigkeiten dieses Typs nehmen kann. Charaktere ohne diese Tugend können überhaupt keinen Wurf auf eine mit Sternchen markierte Fertigkeit versuchen, ohne zumindest einen Erfahrungspunkt darin zu haben. So muss er beispielsweise über eine Tugend verfügen, die Arkane Fertigkeiten erlaubt, um einen ungeübten Magiekunde-Wurf zu versuchen. Einige Fertigkeiten sind von dieser Tugend ausgenommen, darunter solche, die nicht gewürfelt werden (wie Parma Magica oder Penetration) sowie alle Übernatürlichen Fertigkeiten (für die jeweils eine eigene Tugend erforderlich ist, nicht nur der Typ). Die Spieltruppe kann von Fall zu Fall weitere Ausnahmen festlegen, doch diese Tugend soll dem Charakter ermöglichen, Dinge zu versuchen, die normalerweise eine Ausbildung erfordern würden.
 
 #### Geselle
 *Klein, Sozialer Status*<br>
@@ -4226,7 +4226,7 @@ Dieser Soziale Status ist kompatibel mit der Kleinen Status-Tugend Ritter, steht
 
 #### Großgewachsen
 *Klein, Allgemein*<br>
-Deine Größe beträgt +1 statt 0, das heißt, du bist zwischen 1,80 m und 2,10 m groß. Das bedeutet, dass der Schweregrad der Wunden, die du erleidest, in Sechs-Punkte-Intervallen statt in Fünf-Punkte-Intervallen zunimmt (siehe Seite 404). Du kannst diese Tugend nicht gleichzeitig mit Riesenblut (Seite 83), Zierlicher Körperbau (Seite 145) oder Zwerg (Seite 126) nehmen.
+Deine Größe beträgt +1 statt 0, das heißt, du bist zwischen 1,80 m und 2,10 m groß. Das bedeutet, dass der Schweregrad der Wunden, die du erleidest, in Sechs-Punkte-Intervallen statt in Fünf-Punkte-Intervallen zunimmt (siehe [Seite 404](#wunden)). Du kannst diese Tugend nicht gleichzeitig mit Riesenblut ([Seite 83](#wunden)), Zierlicher Körperbau ([Seite 145](#wunden)) oder Zwerg ([Seite 126](#riesenblut)) nehmen.
 
 #### Lasiq
 *Groß, Sozialer Status*<br>
@@ -4272,7 +4272,7 @@ Du wurdest von einer übernatürlichen Macht gesegnet. Die Auswirkungen der Segn
 
 #### Mindere Immunität
 *Klein, Übernatürlich*<br>
-Du bist immun gegen eine Gefahr, die entweder selten oder nicht tödlich ist – oder beides. Siehe Große Immunität, Seite 83.
+Du bist immun gegen eine Gefahr, die entweder selten oder nicht tödlich ist – oder beides. Siehe Große Immunität, [Seite 83](#große-immunität).
 
 #### Mindere Macht
 *Klein, Übernatürlich*<br>
@@ -4284,7 +4284,7 @@ Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden sein. Hast du Zu
 
 #### Mindere Reinigende Berührung
 *Klein, Übernatürlich*<br>
-Du kannst durch eine Berührung und den Aufwand einer Erschöpfungsstufe eine bestimmte Krankheit heilen. Diese Krankheit sollte eine sein, von der sich Menschen oft von selbst erholen, oder eine, die nicht besonders schwerwiegend ist. Du kannst nur eine Krankheit wählen, keine Verletzung oder sonstige Heimsuchung. Siehe Seite 406 für Regeln zu Krankheiten und Art und Academe, Seite 45 für weitere Details.
+Du kannst durch eine Berührung und den Aufwand einer Erschöpfungsstufe eine bestimmte Krankheit heilen. Diese Krankheit sollte eine sein, von der sich Menschen oft von selbst erholen, oder eine, die nicht besonders schwerwiegend ist. Du kannst nur eine Krankheit wählen, keine Verletzung oder sonstige Heimsuchung. Siehe [Seite 406](#krankheiten) für Regeln zu Krankheiten und Art und Academe, [Seite 45](#krankheiten) für weitere Details.
 
 #### Beurlaubungslizenz
 *Groß, Allgemein*<br>
@@ -4296,7 +4296,7 @@ Du kannst deine Zaubersummen für Formulaische oder Ritualzauber steigern, indem
 
 #### Lebensgebundene Spontane Magie
 *Groß, Hermetisch*<br>
-Du kannst mit spontaner Magie mehr erreichen als die meisten Magi, auf Kosten deiner eigenen Lebensenergie. Wenn du dich entscheidest, diese Fähigkeit beim Wirken eines spontanen Zaubers einzusetzen, gibst du die gewünschte Effektstufe vor dem Wurf an. Diese Stufe kann eine Anzahl von Penetrationsstufen einschließen (siehe Seite 169). Du kannst zum Beispiel wählen, einen Stufe-10-Effekt auf Stufe 20 zu wirken, um eine Penetration von 10 plus deinen Penetrationswert zu erhalten.
+Du kannst mit spontaner Magie mehr erreichen als die meisten Magi, auf Kosten deiner eigenen Lebensenergie. Wenn du dich entscheidest, diese Fähigkeit beim Wirken eines spontanen Zaubers einzusetzen, gibst du die gewünschte Effektstufe vor dem Wurf an. Diese Stufe kann eine Anzahl von Penetrationsstufen einschließen (siehe [Seite 169](#penetration)). Du kannst zum Beispiel wählen, einen Stufe-10-Effekt auf Stufe 20 zu wirken, um eine Penetration von 10 plus deinen Penetrationswert zu erhalten.
 
 Würfle, um einen Ermüdenden Spontanzauber zu wirken. Ist dein Ergebnis nach der Division höher als die von dir angegebene Stufe, wendest du wie üblich nur eine Erschöpfungsstufe auf. Ist dein Ergebnis nach der Division niedriger als die von dir angegebene Stufe, musst du für je fünf Punkte (oder einen Teil davon), um die du die Zielstufe verfehlt hast, eine zusätzliche Erschöpfungsstufe aufwenden. Gehen dir die Erschöpfungsstufen aus, erleidest du eine Wunde. Die Anzahl der noch für den Zauber benötigten Stufen wird als der Betrag behandelt, um den eine Schadenssumme deine Schadensabsorption übersteigt, und du erleidest die entsprechende Wunde. Du kannst dich damit selbst töten.
 
@@ -4348,11 +4348,11 @@ Du beginnst mit 25 zusätzlichen Startstufen an Zauberartefakten im Vergleich zu
 
 #### Magiegespür
 *Klein, Übernatürlich*<br>
-Du kannst einen Ort oder Gegenstand häufig als magisch identifizieren. Deine Empfindsamkeit macht dich jedoch anfälliger für magische Effekte: Ziehe deinen Magiegespür-Wert von deiner Magieresistenz ab. Das Nehmen dieser Tugend verleiht die Fertigkeit Magiegespür 1 (Seite 168).
+Du kannst einen Ort oder Gegenstand häufig als magisch identifizieren. Deine Empfindsamkeit macht dich jedoch anfälliger für magische Effekte: Ziehe deinen Magiegespür-Wert von deiner Magieresistenz ab. Das Nehmen dieser Tugend verleiht die Fertigkeit Magiegespür 1 ([Seite 168](#magiegespür-1)).
 
 #### Magisches Gedächtnis
 *Klein, Hermetisch*<br>
-Dein Gedächtnis wurde entwickelt, um magische statt alltägliche Dinge zu behalten. Du brauchst keine Labortexte (siehe Seite 262) deiner Erschaffungen aufzubewahren, um beim Reproduzieren den Vorteil eines Labtextes zu erhalten. Hast du einen Effekt einmal nach dem Labortext eines anderen Magus erschaffen, kannst du künftig denselben Vorteil erhalten, ohne den Text vorliegen zu haben.
+Dein Gedächtnis wurde entwickelt, um magische statt alltägliche Dinge zu behalten. Du brauchst keine Labortexte (siehe [Seite 262](#labortexte-1)) deiner Erschaffungen aufzubewahren, um beim Reproduzieren den Vorteil eines Labtextes zu erhalten. Hast du einen Effekt einmal nach dem Labortext eines anderen Magus erschaffen, kannst du künftig denselben Vorteil erhalten, ohne den Text vorliegen zu haben.
 
 #### Magisches Blut
 *Klein, Übernatürlich*<br>
@@ -4376,7 +4376,7 @@ Der Charakter besitzt ein Reittier, Lasttier oder einen „Wachhund" – eine Kr
 *Groß, Allgemein*<br>
 Der Charakter wird von einem magischen Wesen begleitet, das über ihn wacht und darauf achtet, dass ihm kein Schaden widerfährt. Das Wesen fordert nichts vom Charakter als Gegenleistung für seinen Dienst; beachte jedoch, dass ein mächtigerer Wächter weniger willens oder in der Lage ist, dem Charakter zu helfen, und seltener verfügbar ist, um ihn zu beschützen.
 
-Ein klassisches Beispiel ist das Gespenst einer dem Charakter nahestehenden Person. Das Gespenst ist für jeden unsichtbar und unhörbar außer für dich, es sei denn, jemand besitzt das Zweite Gesicht oder ein anderes übernatürliches Mittel, es zu entdecken. Es kann sehen und hören, was um dich herum vorgeht, und deiner Gegenwart bis zu einem halben Tag fernbleiben – es ist daher ein guter Spion. Beispielwerte für einen solchen Magischen Wächter finden sich auf Seite 457.
+Ein klassisches Beispiel ist das Gespenst einer dem Charakter nahestehenden Person. Das Gespenst ist für jeden unsichtbar und unhörbar außer für dich, es sei denn, jemand besitzt das Zweite Gesicht oder ein anderes übernatürliches Mittel, es zu entdecken. Es kann sehen und hören, was um dich herum vorgeht, und deiner Gegenwart bis zu einem halben Tag fernbleiben – es ist daher ein guter Spion. Beispielwerte für einen solchen Magischen Wächter finden sich auf [Seite 457](#geisterwächter).
 
 Gestalte dieses Wesen als magischen Charakter nach den Richtlinien in Kapitel 13 oder in *Realms of Power: Magic* – ein geisterhafter Wächter ist ein gutes Beispiel für einen Gefährtencharakter; er ist weniger mächtig und im Grunde eine Verlängerung des Willens des Charakters, während die Unterstützung eines mächtigeren Wächters seltener und noch situationsabhängiger ist.
 
@@ -4460,7 +4460,7 @@ Der Charakter sollte mindestens 25 Jahre alt sein und muss mindestens 5 in Beruf
 
 #### Meister der (Form)-Kreaturen
 *Klein, Übernatürlich*<br>
-Der Charakter kann Tiere und andere unintelligente Wesen zähmen, deren Machtwert einer bestimmten Form zugeordnet ist. Beim Erschaffen darf der Charakter Magiekunde nehmen; diese Tugend darf mehrfach gewählt werden, einmal für jede Form. Regeln für das Trainieren magischer (und gewöhnlicher) Tiere finden sich auf Seite 384.
+Der Charakter kann Tiere und andere unintelligente Wesen zähmen, deren Machtwert einer bestimmten Form zugeordnet ist. Beim Erschaffen darf der Charakter Magiekunde nehmen; diese Tugend darf mehrfach gewählt werden, einmal für jede Form. Regeln für das Trainieren magischer (und gewöhnlicher) Tiere finden sich auf [Seite 384](#kreaturen-abrichten).
 
 #### Meister der Hundezwinger
 *Klein, Sozialer Status*<br>
@@ -4468,7 +4468,7 @@ Der Charakter verwaltet die Hundezwinger eines adligen Gönners und ist für das
 
 #### Gemeisterte Zauber
 *Klein, Hermetisch*<br>
-Du hast fünfzig Erfahrungspunkte, um Zauber zu meistern, die du kennst. (Regeln für das Meistern von Zaubern finden sich auf Seite 225.)
+Du hast fünfzig Erfahrungspunkte, um Zauber zu meistern, die du kennst. (Regeln für das Meistern von Zaubern finden sich auf [Seite 225](#zaubermeisterschaft).)
 Du kannst diese Tugend auch nehmen, wenn du außerdem Makellose Magie besitzt, um mehr Erfahrungspunkte für das Meistern deiner Zauber zu erhalten. Du kannst diese Tugend mehrfach nehmen.
 
 #### Meisterstück
@@ -4489,7 +4489,7 @@ Du bist ein Anhänger des heiligen Franziskus oder des heiligen Dominikus, unter
 
 Aufgrund deiner Ausbildung darfst du beim Erschaffen Akademische Fertigkeiten nehmen. Wenn du es wünschst, darfst du ordinierter Priester sein und kannst Hochzeiten, Taufen, Beerdigungen und die Messe leiten, obwohl die Pfarrgeistlichkeit deine Einmischung in ihr „Revier" möglicherweise übel nimmt. Wenn du ordiniert sein möchtest, musst du nicht zusätzlich die Tugend Priester nehmen.
 
-Du hast Gelübde der Armut, der Keuschheit und des Gehorsams abgelegt, die zusammengenommen einen Großen Geschichte-Fehler darstellen könnten (Ordensgelübde, siehe Seite 138) und die eine naheliegende Wahl sind, wenn du diese Tugend nimmst. Du darfst weder die Tugend Wohlhabend noch den Fehler Arm nehmen. Diese Tugend ist nur männlichen Charakteren zugänglich und ist kompatibel mit der Großen Tugend Magister in Artibus.
+Du hast Gelübde der Armut, der Keuschheit und des Gehorsams abgelegt, die zusammengenommen einen Großen Geschichte-Fehler darstellen könnten (Ordensgelübde, siehe [Seite 138](#klostergelübde)) und die eine naheliegende Wahl sind, wenn du diese Tugend nimmst. Du darfst weder die Tugend Wohlhabend noch den Fehler Arm nehmen. Diese Tugend ist nur männlichen Charakteren zugänglich und ist kompatibel mit der Großen Tugend Magister in Artibus.
 
 #### Von Dämonen betreut
 *Klein, Allgemein, Befleckt*<br>
@@ -4513,7 +4513,7 @@ Der Charakter befehligt ein Schiff und eine Besatzung. Der Charakter verfügt ü
 *Groß, Hermetisch*<br>
 Deine magische Abstammung und Tradition stammt von den römischen Priestern des Merkur, die dem Orden des Hermes vorausgingen, was dich besonders im Bereich der Ritualmagie und der gemeinschaftlich genutzten Magie begabt. Zusätzlich zu deiner normalen Zauberzuteilung kennst du auch Zaubervigil (Seite 370) auf einer Stufe, die dem höchsten Ritualsspruch entspricht, den du kennst; und solltest du einen Ritualsspruch höherer Stufe erfinden oder erlernen, erfindest du automatisch einen Zaubervigil-Spruch derselben Stufe, ohne zusätzliche Zeit aufwenden zu müssen.
 
-Wenn du einen Zauber mit Zaubervigil (Seite 370) oder anderen Zaubern mit derselben Funktion, wie etwa Zauberkommunion (Seite 369), wirkst, darfst du deinen Meisterschaftswert (Seite 225) im gewirkten Zauber und deinen Meisterschaftswert in Zaubervigil zur effektiven Stufe des Zaubervigils addieren.
+Wenn du einen Zauber mit Zaubervigil ([Seite 370](#wacht-des-zauberers)) oder anderen Zaubern mit derselben Funktion, wie etwa Zauberkommunion ([Seite 369](#wacht-des-zauberers)), wirkst, darfst du deinen Meisterschaftswert ([Seite 225](#besondere-fähigkeiten-gemeisterter-zauber)) im gewirkten Zauber und deinen Meisterschaftswert in Zaubervigil zur effektiven Stufe des Zaubervigils addieren.
 
 Schließlich haben alle Ritualssprüche, die du wirkst, nur die Hälfte des üblichen Vis-Bedarfs. Falls sie als Teil eines Zaubervigils gewirkt werden, müssen alle Teilnehmer diese Tugend besitzen, um diesen Vorteil zu erlangen.
 
@@ -4564,7 +4564,7 @@ Eine Muse besitzt jene seltene Schönheit, die andere dazu anregt, sich zu Würd
 
 #### Mystische Choreographie
 *Klein, Hermetisch*<br>
-Die Geschicklichkeit des Magus im Umgang mit Körperhaltung und -bewegung ermöglicht es ihm, die für die Durchführung Zeremonieller Magie benötigte Zeit zu verkürzen. Der Charakter führt Zeremonien gemäß Seite 217 durch, benötigt jedoch nur fünf Minuten pro Magnitude. Hat der Charakter einen vorbereiteten Raum, egal wie vorläufig, reduziert sich dies auf eine Minute pro Magnitude.
+Die Geschicklichkeit des Magus im Umgang mit Körperhaltung und -bewegung ermöglicht es ihm, die für die Durchführung Zeremonieller Magie benötigte Zeit zu verkürzen. Der Charakter führt Zeremonien gemäß [Seite 217](#zeremonielles-zaubern) durch, benötigt jedoch nur fünf Minuten pro Magnitude. Hat der Charakter einen vorbereiteten Raum, egal wie vorläufig, reduziert sich dies auf eine Minute pro Magnitude.
 
 Diese Tugend ist besonders wichtig für jene Jerbiton-Magi, die das zeremonielle Zaubern einsetzen, um die Abzüge durch das Dominium zu überwinden.
 
@@ -4574,7 +4574,7 @@ Du bist ein Blutsnachkomme entweder eines Zauberers der Legende (möglicherweise
 
 Deine potente Gabe bedeutet, dass du keine Erschöpfungsstufen verlierst, wenn deine Zaubersumme die Stufe eines formulaischen Zaubers um zehn Punkte oder weniger verfehlt; du verlierst jedoch Erschöpfung, wenn der Zauber vollständig misslingt. Beim Wirken ritueller Zauber verlierst du drei Erschöpfungsstufen weniger als normal. Das bedeutet, dass du keine Erschöpfungsstufen verlierst, wenn du erfolgreich bist oder um zehn Punkte oder weniger scheiterst. Für das Wirken Spontaner Magie musst du Erschöpfung normal aufwenden, und wenn du einen Formulaischen Zauber nicht wirkst, verlierst du die normale Anzahl an Erschöpfungsstufen.
 
-Außerdem darfst du eine besondere magische Tat wählen, die du nach Belieben auslösen und aufheben kannst, so oft du möchtest. Das Auslösen dieser Tat dauert so lange wie das Schnellzaubern eines Gemeisterten Formulaischen Zaubers (siehe Seite 213) und erfordert dasselbe Maß an Konzentration. Der Effekt sollte als nicht-ritueller Hermetischer Effekt entworfen werden, dessen Stufe + Penetration wie folgt begrenzt ist. Die Penetration des Effekts wird nicht durch den Penetrationswert des Magus modifiziert und kann nicht negativ sein, sodass die höchstmögliche Stufe des Effekts 30 beträgt.
+Außerdem darfst du eine besondere magische Tat wählen, die du nach Belieben auslösen und aufheben kannst, so oft du möchtest. Das Auslösen dieser Tat dauert so lange wie das Schnellzaubern eines Gemeisterten Formulaischen Zaubers (siehe [Seite 213](#formulaische-magie)) und erfordert dasselbe Maß an Konzentration. Der Effekt sollte als nicht-ritueller Hermetischer Effekt entworfen werden, dessen Stufe + Penetration wie folgt begrenzt ist. Die Penetration des Effekts wird nicht durch den Penetrationswert des Magus modifiziert und kann nicht negativ sein, sodass die höchstmögliche Stufe des Effekts 30 beträgt.
 
 | Auslösung                       | Stufe + Penetration |
 | ------------------------------- | ------------------- |
@@ -4591,7 +4591,7 @@ Der Charakter ist eine dominante Persönlichkeit mit einem Auftreten, das andere
 
 #### Nephilim
 *Frei, Mythischer Gefährte*<br>
-Du bist einer der Nephilim und ein Mythischer Gefährte (Seite 63). Du erhältst die Tugend Starkes Engelserbe kostenlos.
+Du bist einer der Nephilim und ein Mythischer Gefährte ([Seite 63](#mythische-gefährten-2)). Du erhältst die Tugend Starkes Engelserbe kostenlos.
 
 #### Notar
 *Klein, Sozialer Status*<br>
@@ -4695,7 +4695,7 @@ Formulaische Zauber müssen mit der neuen Dauer entworfen werden, um diese Ferti
 >
 > Die meisten Menschen erkennen das Ausführen einer Fertigkeit nicht als Zauberwirken, sodass der Ausführende offener agieren kann als die meisten Magi; selbst andere hermetische Magi erkennen seine Handlungen nicht automatisch.
 >
-> Wenn ein hermetischer Magus darüber nachdenkt, Schnellzaubern einzusetzen, um einem Zauber entgegenzuwirken, und der Wirker Hermetische Worte und Gesten verwendet, kann ein Magus die Form automatisch bestimmen (Seite 217). Unter anderen Umständen muss der Magus die Form selbst herausfinden.
+> Wenn ein hermetischer Magus darüber nachdenkt, Schnellzaubern einzusetzen, um einem Zauber entgegenzuwirken, und der Wirker Hermetische Worte und Gesten verwendet, kann ein Magus die Form automatisch bestimmen ([Seite 217](#schnellzaubern)). Unter anderen Umständen muss der Magus die Form selbst herausfinden.
 >
 > **DIE FORM EINES MAGISCHEN EFFEKTS BESTIMMEN: Stresswürfel + Wahrnehmung + Wahrnehmung vs. 15 – Effektmagnitude**
 >
@@ -4751,7 +4751,7 @@ Eine Maga mit Potenter Magie kann außerdem neue Potente Zauber innerhalb ihres 
 >
 > ##### Potente Zauber
 >
-> Ein Potenter Zauber besitzt einen Bonus, der als seine Potenz bezeichnet wird und durch das Einbeziehen eines oder mehrerer Zauberobjekte in die Zaubergestaltung zustande kommt. Zauberobjekte verwenden die Faktoren der Tabelle der Form- und Materialboni (Seite 282): Jedes Zauberobjekt liefert einen Bonus. (Wenn mehr als ein Bonus möglich ist, legt das Zauberdesign fest, welcher verwendet wird.)
+> Ein Potenter Zauber besitzt einen Bonus, der als seine Potenz bezeichnet wird und durch das Einbeziehen eines oder mehrerer Zauberobjekte in die Zaubergestaltung zustande kommt. Zauberobjekte verwenden die Faktoren der Tabelle der Form- und Materialboni ([Seite 282](#tabelle-der-form-und-materialboni)): Jedes Zauberobjekt liefert einen Bonus. (Wenn mehr als ein Bonus möglich ist, legt das Zauberdesign fest, welcher verwendet wird.)
 >
 > **POTENZWERT:** Summe der Boni jedes Zauberobjekts
 >
@@ -4779,13 +4779,13 @@ Eine Maga mit Potenter Magie kann außerdem neue Potente Zauber innerhalb ihres 
 
 #### Mächtiges Relikt
 *Groß, Allgemein*<br>
-Du besitzt ein ungewöhnlich mächtiges Relikt mit einem Wahren-Glauben-Wert von 3. Das Relikt besitzt außerdem eine Kraft, die in Absprache mit dem Spielleiter festgelegt werden sollte (siehe Relikte, Seite 419). Wie bei der Kleinen Allgemeinen Tugend Relikt kann der Gegenstand in jeden anderen Gegenstand eingebaut werden, den Du besitzt, etwa in ein Schwert oder ein Amulett.
+Du besitzt ein ungewöhnlich mächtiges Relikt mit einem Wahren-Glauben-Wert von 3. Das Relikt besitzt außerdem eine Kraft, die in Absprache mit dem Spielleiter festgelegt werden sollte (siehe Relikte, [Seite 419](#reliquien)). Wie bei der Kleinen Allgemeinen Tugend Relikt kann der Gegenstand in jeden anderen Gegenstand eingebaut werden, den Du besitzt, etwa in ein Schwert oder ein Amulett.
 
 Ein so mächtiges Relikt zu besitzen ist eine große Verantwortung, und Dein Charakter sollte sich entsprechend verhalten. Wenn Du Dich jemals gottlos verhältst (nach Beurteilung des Spielleiters), hört das Relikt auf zu funktionieren, bis angemessene Buße geleistet wurde.
 
 #### Vorahnungen
 *Klein, Übernatürlich*<br>
-Du spürst intuitiv, wann etwas nicht stimmt oder in Kürze schiefgehen wird. Die Wahl dieser Tugend verleiht die Fertigkeit Vorahnungen 1 (Seite 170).
+Du spürst intuitiv, wann etwas nicht stimmt oder in Kürze schiefgehen wird. Die Wahl dieser Tugend verleiht die Fertigkeit Vorahnungen 1 ([Seite 170](#vorahnungen-1)).
 
 #### Angesehener Student
 *Allgemein, Klein*<br>
@@ -4799,11 +4799,11 @@ Du kannst ein Pfarrpriester sein. Wenn Du es bist, kannst Du nicht den Fehler Ar
 
 Wenn Du kein Pfarrpriester bist, wirken sich die Tugend Wohlhabend und der Fehler Arm normal auf Dich aus. Du kannst als Kaplan eines Pfarrpriesters, als Hausgeistlicher einer wohlhabenden Person oder in jeder anderen Funktion tätig sein, die Bildung erfordert.
 
-Du kannst bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Wenn Du Priester der westlichen Kirche unter dem Papst in Rom bist, nimmst Du normalerweise den Kleinen Persönlichkeits-Fehler Gelübde (siehe Seite 150) als einen Deiner regulären Fehler für Dein Keuschheitsgelübde. Priester der östlichen Kirche unter den Patriarchen in Konstantinopel und anderswo müssen nicht zölibatär leben. Diese Tugend steht nur männlichen Charakteren zur Verfügung und ist mit der Großen Tugend Magister in Artibus sowie mit einigen anderen Tugenden vereinbar, wie in deren Beschreibungen vermerkt.
+Du kannst bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Wenn Du Priester der westlichen Kirche unter dem Papst in Rom bist, nimmst Du normalerweise den Kleinen Persönlichkeits-Fehler Gelübde (siehe [Seite 150](#gelübde)) als einen Deiner regulären Fehler für Dein Keuschheitsgelübde. Priester der östlichen Kirche unter den Patriarchen in Konstantinopel und anderswo müssen nicht zölibatär leben. Diese Tugend steht nur männlichen Charakteren zur Verfügung und ist mit der Großen Tugend Magister in Artibus sowie mit einigen anderen Tugenden vereinbar, wie in deren Beschreibungen vermerkt.
 
 #### Privilegierte Erziehung
 *Klein, Allgemein*<br>
-Du bist in einer Umgebung aufgewachsen, in der Du Zugang zu Lehrern und Freizeit zum Lernen hattest. Du erhältst zusätzliche 50 Erfahrungspunkte, die für Allgemeine, Akademische oder Kampf-Fertigkeiten ausgegeben werden können. Du kannst jedoch Akademische oder Kampf-Fertigkeiten nicht mit Deinem normalen Erfahrungspunkte-Vorrat erwerben, sofern Du keine andere Tugend oder keinen anderen Fehler hast, der dies erlaubt. Der häufigste Grund für diese Tugend ist, dass Deine Familie in Deiner Kindheit wohlhabend war; bist Du jedoch jetzt wohlhabend, solltest Du die Tugend Wohlhabend wählen (Seite 115).
+Du bist in einer Umgebung aufgewachsen, in der Du Zugang zu Lehrern und Freizeit zum Lernen hattest. Du erhältst zusätzliche 50 Erfahrungspunkte, die für Allgemeine, Akademische oder Kampf-Fertigkeiten ausgegeben werden können. Du kannst jedoch Akademische oder Kampf-Fertigkeiten nicht mit Deinem normalen Erfahrungspunkte-Vorrat erwerben, sofern Du keine andere Tugend oder keinen anderen Fehler hast, der dies erlaubt. Der häufigste Grund für diese Tugend ist, dass Deine Familie in Deiner Kindheit wohlhabend war; bist Du jedoch jetzt wohlhabend, solltest Du die Tugend Wohlhabend wählen ([Seite 115](#wohlhabend)).
 
 #### Schutz
 *Klein, Allgemein*<br>
@@ -4839,11 +4839,11 @@ Durch eine Mischung aus Akrobatik, Klettern und Ausweichen kann dieser Charakter
 
 #### Rotkappe
 *Groß, Sozialer Status*<br>
-Obwohl Du nicht die Gabe besitzt und keine hermetische Magie wirken kannst, bist Du ein vollwertiges Mitglied des Ordens des Hermes und des Hauses Mercere (siehe Seite 15). Es gibt Begabte Mitglieder des Hauses Mercere, aber diese wählen nicht diese Tugend, sondern nehmen stattdessen den Sozialen Status Hermetischer Magus (Seite 85).
+Obwohl Du nicht die Gabe besitzt und keine hermetische Magie wirken kannst, bist Du ein vollwertiges Mitglied des Ordens des Hermes und des Hauses Mercere (siehe [Seite 15](#haus-mercere)). Es gibt Begabte Mitglieder des Hauses Mercere, aber diese wählen nicht diese Tugend, sondern nehmen stattdessen den Sozialen Status Hermetischer Magus ([Seite 85](#hermetischer-magus)).
 
-Du überbringst Nachrichten für den Orden und besitzt eine Reihe von Artefakten, die Dir dabei helfen. Eine frisch die Lehrlingsprüfung bestandene Rotkappe verfügt über Artefakte mit fünfzig Effektstufen, einschließlich Anpassungen der Stufe durch Faktoren wie die Anzahl der täglichen Anwendungen (siehe das Laborkapitel, Seite 256, für Details).
+Du überbringst Nachrichten für den Orden und besitzt eine Reihe von Artefakten, die Dir dabei helfen. Eine frisch die Lehrlingsprüfung bestandene Rotkappe verfügt über Artefakte mit fünfzig Effektstufen, einschließlich Anpassungen der Stufe durch Faktoren wie die Anzahl der täglichen Anwendungen (siehe das Laborkapitel, [Seite 256](#tabelle-zur-verwendungshäufigkeit), für Details).
 
-Diese Stufen sind grundsätzlich auf zwei oder mehr Effekte aufgeteilt, die für das Überbringen von Nachrichten nützlich sind. Neuen Rotkappen werden niemals Gegenstände gegeben, die in der Lage sind, große Mengen von Sterblichen zu töten, zu verwunden oder zu bezaubern; das Missbrauchsrisiko, das dem Orden Ärger bereiten könnte, ist zu groß. Diese Gegenstände werden im Gegenzug für gute Dienste verbessert und ersetzt, im Durchschnitt um zwei zusätzliche Stufen pro Jahr. Du wirst ähnlich wie Magi ausgebildet und kannst bei der Charaktererschaffung Akademische, Arkane und Kampf-Fertigkeiten erwerben. Du hast fünfzehn Jahre als Lehrling verbracht und in diesen fünfzehn Jahren insgesamt 300 Erfahrungspunkte gesammelt. (Siehe Detaillierte Charaktererschaffung, Seite 43.) Darüber hinaus erhältst Du die Tugend Vielgereist (Seite 116) ohne Kosten. Wenn Du zu altern beginnst, wird ein Magus mit einer Laborsumme von mindestens fünfzig für Dich auf Wunsch kostenlos ein Langlebigkeitsritual (siehe Seite 261) entwickeln. Wenn Du im Laufe der Saga geeignete Kontakte knüpfst, kann dieses Ritual von einem mächtigeren Magus entwickelt werden. Rotkappen, die einige Jahre nach der Lehrlingsprüfung erschaffen werden, erhalten verbesserte Artefakte, wie oben beschrieben, sowie gegebenenfalls ein Langlebigkeitsritual.
+Diese Stufen sind grundsätzlich auf zwei oder mehr Effekte aufgeteilt, die für das Überbringen von Nachrichten nützlich sind. Neuen Rotkappen werden niemals Gegenstände gegeben, die in der Lage sind, große Mengen von Sterblichen zu töten, zu verwunden oder zu bezaubern; das Missbrauchsrisiko, das dem Orden Ärger bereiten könnte, ist zu groß. Diese Gegenstände werden im Gegenzug für gute Dienste verbessert und ersetzt, im Durchschnitt um zwei zusätzliche Stufen pro Jahr. Du wirst ähnlich wie Magi ausgebildet und kannst bei der Charaktererschaffung Akademische, Arkane und Kampf-Fertigkeiten erwerben. Du hast fünfzehn Jahre als Lehrling verbracht und in diesen fünfzehn Jahren insgesamt 300 Erfahrungspunkte gesammelt. (Siehe Detaillierte Charaktererschaffung, [Seite 43](#detaillierte-charaktererschaffung).) Darüber hinaus erhältst Du die Tugend Vielgereist ([Seite 116](#vielgereist)) ohne Kosten. Wenn Du zu altern beginnst, wird ein Magus mit einer Laborsumme von mindestens fünfzig für Dich auf Wunsch kostenlos ein Langlebigkeitsritual (siehe [Seite 261](#langlebigkeitsrituale)) entwickeln. Wenn Du im Laufe der Saga geeignete Kontakte knüpfst, kann dieses Ritual von einem mächtigeren Magus entwickelt werden. Rotkappen, die einige Jahre nach der Lehrlingsprüfung erschaffen werden, erhalten verbesserte Artefakte, wie oben beschrieben, sowie gegebenenfalls ein Langlebigkeitsritual.
 
 Du wirst von Deinem Konvent versorgt, daher kannst Du weder die Tugend Wohlhabend noch den Fehler Arm wählen. Du darfst nicht die Gabe besitzen. Du musst zwei Quartale pro Jahr damit verbringen, Nachrichten für den Orden zu überbringen. Deine anderen zwei Quartale sind jedoch wirklich frei, und Du kannst tun, was Du möchtest. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung.
 
@@ -4885,7 +4885,7 @@ Der Charakter wurde ausgiebig in kriminellen Künsten ausgebildet und erhält 50
 
 #### Zweites Gesicht
 *Klein, Übernatürlich*<br>
-Du kannst durch illusorische Verbergung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und kannst außerdem von Natur aus unsichtbare Dinge erkennen, wie Geister und die Grenzen zwischen Regio-Ebenen (siehe Seite 421). Die Wahl dieser Tugend verleiht die Fertigkeit Zweites Gesicht 1 (Seite 170).
+Du kannst durch illusorische Verbergung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und kannst außerdem von Natur aus unsichtbare Dinge erkennen, wie Geister und die Grenzen zwischen Regio-Ebenen (siehe [Seite 421](#regiones-betreten-und-verlassen)). Die Wahl dieser Tugend verleiht die Fertigkeit Zweites Gesicht 1 ([Seite 170](#zweites-gesicht-1)).
 
 #### Nebenerkenntnis
 *Klein, Hermetisch*<br>
@@ -4897,7 +4897,7 @@ Du kannst in vollständiger Dunkelheit sehen. Ansonsten ist Dein Sehvermögen ni
 
 #### Selbstbewusst
 *Klein, Allgemein*<br>
-Du hast festes Vertrauen in Deine eigenen Fähigkeiten und besitzt einen Selbstvertrauenswert von 2. Außerdem beginnst Du mit fünf Selbstvertrauenspunkten statt der üblichen drei. (Selbstvertrauen-Regeln findest Du auf Seite 52.)
+Du hast festes Vertrauen in Deine eigenen Fähigkeiten und besitzt einen Selbstvertrauenswert von 2. Außerdem beginnst Du mit fünf Selbstvertrauenspunkten statt der üblichen drei. (Selbstvertrauen-Regeln findest Du auf [Seite 52](#reputationen-1).)
 
 #### Älterer Barde
 *Klein, Sozialer Status*<br>
@@ -4923,11 +4923,11 @@ Der Charakter ist seit einigen Jahren ein wohlhabender Zunftmeister und hat eine
 
 #### Heiligkeit und Unheiligkeit spüren
 *Klein, Übernatürlich*<br>
-Du kannst die Anwesenheit von Gut und Böse spüren. In Auren von besonders starkem göttlichem oder infernalen Einfluss kann Deine Sensibilität Dich überwältigen. Die Wahl dieser Tugend verleiht die Fertigkeit Gespür für Heiliges und Unheiliges 1 (Seite 170).
+Du kannst die Anwesenheit von Gut und Böse spüren. In Auren von besonders starkem göttlichem oder infernalen Einfluss kann Deine Sensibilität Dich überwältigen. Die Wahl dieser Tugend verleiht die Fertigkeit Gespür für Heiliges und Unheiliges 1 ([Seite 170](#gespür-für-heiliges-und-unheiliges)).
 
 #### Leidenschaften spüren
 *Groß, Übernatürlich*<br>
-Der Charakter kann in die Herzen und Gedanken anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erkennen. Dies verleiht ihr die Übernatürliche Fertigkeit Gespür für Leidenschaft mit Wert 1 (Seite 170).
+Der Charakter kann in die Herzen und Gedanken anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erkennen. Dies verleiht ihr die Übernatürliche Fertigkeit Gespür für Leidenschaft mit Wert 1 ([Seite 170](#gespür-für-leidenschaft)).
 
 #### Schadchen
 *Klein, Sozialer Status*<br>
@@ -4943,7 +4943,7 @@ Als Schamasch muss der Charakter die Tugend Gebildet (Hebräisch) besitzen.
 
 #### Gestaltwandler
 *Groß, Übernatürlich*<br>
-Du kannst Deine Gestalt in die eines oder mehrerer gewöhnlicher Tiere verwandeln. Die Wahl dieser Tugend verleiht die Fertigkeit Gestaltwandler 1 (Seite 171).
+Du kannst Deine Gestalt in die eines oder mehrerer gewöhnlicher Tiere verwandeln. Die Wahl dieser Tugend verleiht die Fertigkeit Gestaltwandler 1 ([Seite 171](#gestaltwandler-1)).
 
 #### Scharfe Ohren
 *Klein, Allgemein*<br>
@@ -4999,11 +4999,11 @@ Du kannst in bestimmten ungewöhnlichen Situationen besser zaubern (etwa währen
 
 #### Zauberimprovisation
 *Klein, Hermetisch*<br>
-Der Magus kann die Magnitude eines formulaischen Zaubers, den er kennt, als Bonus auf seine Zaubersumme addieren, wenn er spontan einen ähnlichen Zauber wirkt (siehe Ähnliche Zauber, Seite 260). Dies gilt auch für das Schnellzaubern eines Zaubers, der einem seiner formulaischen Zauber gleich oder sehr ähnlich ist – allerdings erhält er diesen Bonus nicht, wenn er die Schnellzauber-Fertigkeit für einen gemeisterten Zauber besitzt, da in diesem Fall stattdessen sein Fertigkeitswert in der Zaubermeisterschaft addiert wird. Dieser Bonus lässt sich nicht mit anderen Boni auf die Zaubersumme stapeln und lässt sich auch nicht mit sich selbst stapeln, falls der Magus zufällig mehrere ähnliche Zauber kennt.
+Der Magus kann die Magnitude eines formulaischen Zaubers, den er kennt, als Bonus auf seine Zaubersumme addieren, wenn er spontan einen ähnlichen Zauber wirkt (siehe Ähnliche Zauber, [Seite 260](#ähnliche-zauber)). Dies gilt auch für das Schnellzaubern eines Zaubers, der einem seiner formulaischen Zauber gleich oder sehr ähnlich ist – allerdings erhält er diesen Bonus nicht, wenn er die Schnellzauber-Fertigkeit für einen gemeisterten Zauber besitzt, da in diesem Fall stattdessen sein Fertigkeitswert in der Zaubermeisterschaft addiert wird. Dieser Bonus lässt sich nicht mit anderen Boni auf die Zaubersumme stapeln und lässt sich auch nicht mit sich selbst stapeln, falls der Magus zufällig mehrere ähnliche Zauber kennt.
 
 #### Geistesdiener
 *Kostenlos, Mythischer Gefährte*<br>
-Die Wahl dieser Tugend bei der Charaktererschaffung macht den Charakter zu einem Geistesdiener, einer Art Mythischem Gefährten (Seite 63). Diese Tugend verleiht die Tugend Zweites Gesicht kostenlos und erlaubt dem Charakter, zwei Punkte Tugenden für jeden Punkt Fehler zu besitzen.
+Die Wahl dieser Tugend bei der Charaktererschaffung macht den Charakter zu einem Geistesdiener, einer Art Mythischem Gefährten ([Seite 63](#mythische-gefährten-2)). Diese Tugend verleiht die Tugend Zweites Gesicht kostenlos und erlaubt dem Charakter, zwei Punkte Tugenden für jeden Punkt Fehler zu besitzen.
 
 #### Geistiger Pakt
 *Groß, Übernatürlich*<br>
@@ -5033,15 +5033,15 @@ Das Blut der Feen ist stark in dir. Vielleicht war einer deiner Eltern tatsächl
 
 Erstens hast du natürliche Langlebigkeit. Du beginnst erst im Alter von fünfzig Jahren Alterungswürfe zu machen, anstatt der üblichen 35, und erhältst –3 auf Alterungswürfe, kumulativ mit allen anderen Boni.
 
-Zweitens hast du Feenaugen. Das verleiht dir die Tugend Zweites Gesicht (siehe Seite 106) ohne Kosten, und du kannst bei völliger Dunkelheit oder Halbdunkel normal sehen, etwa in tiefem Waldesdunkel oder in der Nacht. Deine Augen sehen größtenteils normal aus, weisen jedoch eine ungewöhnliche und lebhafte Farbe auf.
+Zweitens hast du Feenaugen. Das verleiht dir die Tugend Zweites Gesicht (siehe [Seite 106](#zweites-gesicht)) ohne Kosten, und du kannst bei völliger Dunkelheit oder Halbdunkel normal sehen, etwa in tiefem Waldesdunkel oder in der Nacht. Deine Augen sehen größtenteils normal aus, weisen jedoch eine ungewöhnliche und lebhafte Farbe auf.
 
 Drittens darfst du Feenkunde während der Charaktererschaffung erlernen.
 
-Schließlich erhältst du die Vorteile einer bestimmten Art von Feenabstammung, wie in der Tugend Feenblut (Seite 79) angegeben. Deine spezifische Feenabstammung ist klar erkennbar. Wähle eine körperliche Besonderheit, etwa kleine Hörner, buchstäblich blaues Blut oder Augen ohne Iris und Pupillen, die zu den Feen passt, von denen du abstammst.
+Schließlich erhältst du die Vorteile einer bestimmten Art von Feenabstammung, wie in der Tugend Feenblut ([Seite 79](#feenblut)) angegeben. Deine spezifische Feenabstammung ist klar erkennbar. Wähle eine körperliche Besonderheit, etwa kleine Hörner, buchstäblich blaues Blut oder Augen ohne Iris und Pupillen, die zu den Feen passt, von denen du abstammst.
 
 Du kannst nicht sowohl Feenblut als auch Starkes Feenblut besitzen.
 
-Dies ist eine Übernatürliche Tugend, und du kannst sie bei der Ausbildung als Magus nicht verlieren (siehe Seite 64). Wenn dein Meister die Fähigkeit nicht erhalten kann, kannst du nicht ausgebildet werden.
+Dies ist eine Übernatürliche Tugend, und du kannst sie bei der Ausbildung als Magus nicht verlieren (siehe [Seite 64](#übernatürlich)). Wenn dein Meister die Fähigkeit nicht erhalten kann, kannst du nicht ausgebildet werden.
 
 #### Willensstark
 *Klein, Allgemein*<br>
@@ -5154,7 +5154,7 @@ Diese Tugend steht nur Charakteren mit einer der Sozialer-Status-Tugenden der Ni
 
 #### Troubadour/Trobairitz
 *Klein, Sozialer Status*<br>
-Troubadoure sind wandernde Minnesänger und Dichter („Trobairitz" ist die weibliche Form). Die Tradition hat ihren Ursprung in Südfrankreich (siehe Faith and Flame, Seite 12), hat sich jedoch über weite Teile Westeuropas verbreitet.
+Troubadoure sind wandernde Minnesänger und Dichter („Trobairitz" ist die weibliche Form). Die Tradition hat ihren Ursprung in Südfrankreich (siehe Faith and Flame, [Seite 12](#kapitel-5-fertigkeiten)), hat sich jedoch über weite Teile Westeuropas verbreitet.
 
 Du bist an keine Gemeinschaft gebunden und lebst vom Auftreten, Unterhalten oder sonstigen Gelegenheitsarbeiten. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten wählen und solltest eine Reputation hinsichtlich der Art des Materials, das du produzierst, sowie deiner Treue zu den Grundsätzen der Courtoisie besitzen. Die Große Tugend Wohlstand und der Große Fehler Arm betreffen dich normal, obwohl du, falls du wohlhabend bist, von jemandem unterstützt wirst. Dein Unterstützer stellt deine Aktivitäten jedoch in keiner Weise in Frage.
 
@@ -5166,7 +5166,7 @@ Du wurdest in einer Gruppe von Unterhaltungskünstlern aufgezogen und verbrachte
 
 #### Wahrer Glaube
 *Groß, Allgemein*<br>
-Durch Frömmigkeit und heilige Hingabe hast du einen Glauben, der Berge versetzt. Du hast einen Wert von 1 im Wahren Glauben und kannst weitere erlangen. Mehr über den Wahren Glauben findest du auf Seite 419.
+Durch Frömmigkeit und heilige Hingabe hast du einen Glauben, der Berge versetzt. Du hast einen Wert von 1 im Wahren Glauben und kannst weitere erlangen. Mehr über den Wahren Glauben findest du auf [Seite 419](#wahrer-glaube-1).
 
 #### Wahre Liebe (SC)
 *Klein, Allgemein*<br>
@@ -5212,7 +5212,7 @@ Menschen fühlen sich oft zu dir hingezogen. Du erhältst +3 auf Kommunikations-
 
 #### Verditius-Magie
 *Klein, Hermetisch*<br>
-Du wurdest in das Äußere Mysterium der Verditius-Magie eingeweiht (siehe Seite 240) und bist damit Mitglied des Hauses Verditius. Beachte, dass alle Verditius-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
+Du wurdest in das Äußere Mysterium der Verditius-Magie eingeweiht (siehe [Seite 240](#verditius-verditius-magie)) und bist damit Mitglied des Hauses Verditius. Beachte, dass alle Verditius-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
 
 #### Stimme des (Landes)
 *Klein, Übernatürlich*<br>
@@ -5244,7 +5244,7 @@ Du kannst durch Pfeifen Winde erzeugen. Diese Tugend verleiht einen Wert von 1 i
 
 #### Natursinn
 *Klein, Übernatürlich*<br>
-Du bist auf mystische Weise mit der Natur der Wildnis verbunden. Die Wahl dieser Tugend verleiht die Fertigkeit Natursinn 1 (Seite 172).
+Du bist auf mystische Weise mit der Natur der Wildnis verbunden. Die Wahl dieser Tugend verleiht die Fertigkeit Natursinn 1 ([Seite 172](#natursinn-1)).
 
 #### Weisheit aus Unwissen
 *Klein, Übernatürlich*<br>
@@ -5708,7 +5708,7 @@ Du besitzt Informationen, die eine mächtige Person lieber verborgen wüsste. Im
 
 #### Auffällige Gabe
 *Groß, Hermetisch*<br>
-Menschen merken sofort, dass etwas Seltsames an dir ist, auch wenn sie nicht wissen, dass du ein Magus bist. Tiere werden von deiner Gegenwart außerordentlich beunruhigt, verängstigt und möglicherweise aufgebracht. Du erleidest eine –6-Strafe auf alle Interaktionswürfe mit normalen Menschen und Tieren; weitere Ausführungen zu den Auswirkungen dieses Fehlers findest du auf Seite 203.
+Menschen merken sofort, dass etwas Seltsames an dir ist, auch wenn sie nicht wissen, dass du ein Magus bist. Tiere werden von deiner Gegenwart außerordentlich beunruhigt, verängstigt und möglicherweise aufgebracht. Du erleidest eine –6-Strafe auf alle Interaktionswürfe mit normalen Menschen und Tieren; weitere Ausführungen zu den Auswirkungen dieses Fehlers findest du auf [Seite 203](#die-gabe-2).
 
 #### Auffällige Magische Aura
 *Groß, Übernatürlich*<br>
@@ -5724,7 +5724,7 @@ Die Zauberwerkzeuge des Magus, wie sie von Haus Verditius verwendet werden, sind
 
 #### Gebundene Magie
 *Klein, Hermetisch*<br>
-Wenn du stirbst, enden alle deine Zauber abrupt, und alle magischen Artefakte, die du erschaffen hast, hören auf zu funktionieren. Du kannst diesen Fehler nicht zusammen mit Gezügelter Magie (Seite 85) nehmen, da jene Tugend diesen Effekt bereits beinhaltet.
+Wenn du stirbst, enden alle deine Zauber abrupt, und alle magischen Artefakte, die du erschaffen hast, hören auf zu funktionieren. Du kannst diesen Fehler nicht zusammen mit Gezügelter Magie ([Seite 85](#gezügelte-magie)) nehmen, da jene Tugend diesen Effekt bereits beinhaltet.
 
 #### Gebunden an (Sphäre)
 *Groß, Übernatürlich*<br>
@@ -5778,7 +5778,7 @@ Du wurdest vor der Pubertät kastriert, was dich bartlos und im Vergleich zu den
 
 #### Zeremonielle Spontane Magie
 *Klein, Hermetisch*<br>
-Du brauchst Zeit und Aufwand, um deine Spontane Magie zu fokussieren. Du kannst Spontane Zauber nur nach den Regeln für Zeremonielles Zaubern wirken (Seite 217). Dieser Fehler ist nicht mit Schwieriger Spontaner Magie oder Schwacher Spontaner Magie vereinbar.
+Du brauchst Zeit und Aufwand, um deine Spontane Magie zu fokussieren. Du kannst Spontane Zauber nur nach den Regeln für Zeremonielles Zaubern wirken ([Seite 217](#zeremonielles-zaubern)). Dieser Fehler ist nicht mit Schwieriger Spontaner Magie oder Schwacher Spontaner Magie vereinbar.
 
 #### Chaotische Magie
 *Groß, Hermetisch*<br>
@@ -5826,7 +5826,7 @@ Die Maga kann sich aktiv konzentrieren, um diese automatische Magie gänzlich zu
 
 Um Zeremoniellen oder Ritualzauber zu wirken, muss die Maga einen Konzentrationswurf wie oben beschrieben ablegen. Ein Versuch ist alle 15 Minuten möglich, und ein erfolgreicher Versuch reicht für die Dauer des Wirkens aus. Dennoch erleidet die Maga eine Anzahl zusätzlicher Patzerwürfel in Höhe ihres Verzerrungswerts.
 
-Der stete Ausdruck von Magie macht die Laborarbeit grundsätzlich riskant. Jedes Laboratorium, in dem die Maga arbeitet, wird so behandelt, als hätte es einen kostenlosen Fehler mit einer Sicherheitsstrafe von –3 (siehe Seite 288).
+Der stete Ausdruck von Magie macht die Laborarbeit grundsätzlich riskant. Jedes Laboratorium, in dem die Maga arbeitet, wird so behandelt, als hätte es einen kostenlosen Fehler mit einer Sicherheitsstrafe von –3 (siehe [Seite 288](#sicherheit)).
 
 Strafen durch fremde Auren oder Effekte wie die Aegis des Herdes können den steten Ausdruck dämpfen. Wo die Strafe den Zauberwert auf 0 reduziert, wird keine Magie ausgedrückt.
 
@@ -5965,7 +5965,7 @@ Etwas in deiner magischen Natur macht es schwierig, ein wirksames Langlebigkeits
 *Klein, Hermetisch*<br>
 Spontane Magie erfordert für dich stets Anstrengung. Du kannst keine spontanen Zauber wirken, ohne dich dabei anzustrengen. Wenn du dich jedoch anstrengst, wirkst du Zauber wie jeder andere Magus.
 
-Dieser Fehler kann mit Schwache Spontane Magie (Seite 153) kombiniert werden, um einen Magus zu erschaffen, der überhaupt keine Spontane Magie einsetzen kann.
+Dieser Fehler kann mit Schwache Spontane Magie ([Seite 153](#schwache-spontane-magie)) kombiniert werden, um einen Magus zu erschaffen, der überhaupt keine Spontane Magie einsetzen kann.
 
 #### Zusammenhanglose Magie
 *Klein, Hermetisch*<br>
@@ -5993,7 +5993,7 @@ Du hältst dich an einen einschränkenden Verhaltenskodex, der bestimmte Handlun
 
 #### Zwerg
 *Groß, Allgemein*<br>
-Du hast die Größe eines Kindes. Deine angenehme Gehgeschwindigkeit beträgt zwei Drittel der einer normalen Person. Deine Größe ist –2, daher erhöht sich der Schweregrad der Wunden, die du erleidest, in Dreierschritten statt in Fünferschritten (siehe Seite 404). Du erhältst –1 auf je Stärke und Ausdauer, was jede Eigenschaft bis auf –6 senken kann. Du kannst diesen Fehler nicht zusammen mit Riesenblut (Seite 83), Großgewachsen (Seite 89) oder Zierlicher Körperbau (Seite 145) nehmen.
+Du hast die Größe eines Kindes. Deine angenehme Gehgeschwindigkeit beträgt zwei Drittel der einer normalen Person. Deine Größe ist –2, daher erhöht sich der Schweregrad der Wunden, die du erleidest, in Dreierschritten statt in Fünferschritten (siehe [Seite 404](#großgewachsen)). Du erhältst –1 auf je Stärke und Ausdauer, was jede Eigenschaft bis auf –6 senken kann. Du kannst diesen Fehler nicht zusammen mit Riesenblut ([Seite 83](#zierlicher-körperbau)), Großgewachsen ([Seite 89](#wunden)) oder Zierlicher Körperbau ([Seite 145](#riesenblut)) nehmen.
 
 #### Angestellt bei einem Unternehmen
 *Klein, Geschichte*<br>
@@ -6021,7 +6021,7 @@ Alle Zauber- und Laborsummen des Charakters werden unter bestimmten häufigen Um
 
 #### Umweltempfindlichkeit
 *Klein, Allgemein*<br>
-Der Charakter reagiert ungewöhnlich empfindlich auf ein seltenes Umweltmerkmal, wie schlechte Luft, Salzwasser oder extreme Temperaturen. Immer wenn der Charakter diesen Bedingungen ausgesetzt ist, hat er –3 auf seine Ausdauer für alle Erschöpfungsproben (Seite 406).
+Der Charakter reagiert ungewöhnlich empfindlich auf ein seltenes Umweltmerkmal, wie schlechte Luft, Salzwasser oder extreme Temperaturen. Immer wenn der Charakter diesen Bedingungen ausgesetzt ist, hat er –3 auf seine Ausdauer für alle Erschöpfungsproben ([Seite 406](#krankheiten)).
 
 #### Böses Schicksal
 *Groß, Geschichte*<br>
@@ -6287,7 +6287,7 @@ Die verdorbene Person hat nicht um die Dienste des Dämons gehandelt. Stattdesse
 
 #### Unvereinbare Künste
 *Klein, Hermetisch*<br>
-Aus irgendeinem Grund bist du völlig außerstande, zwei Kombinationen von Techniken und Formen zu verwenden. Zum Beispiel bist du möglicherweise nicht in der Lage, Intellego Herbam und Intellego Animal zu verwenden. Du kannst diese Künste nicht zusammen einsetzen, selbst wenn eine oder beide als Requisite benötigt werden. Dieser Fehler kann mehrfach mit unterschiedlichen Kombinationen gewählt werden, darf aber nicht mit einem Defizit kombiniert werden (siehe Seite 125).
+Aus irgendeinem Grund bist du völlig außerstande, zwei Kombinationen von Techniken und Formen zu verwenden. Zum Beispiel bist du möglicherweise nicht in der Lage, Intellego Herbam und Intellego Animal zu verwenden. Du kannst diese Künste nicht zusammen einsetzen, selbst wenn eine oder beide als Requisite benötigt werden. Dieser Fehler kann mehrfach mit unterschiedlichen Kombinationen gewählt werden, darf aber nicht mit einem Defizit kombiniert werden (siehe [Seite 125](#auffällige-gabe)).
 
 #### Unverständlich
 *Klein, Allgemein*<br>
@@ -6335,7 +6335,7 @@ Du strebst nach sexuellem Kontakt mit möglichst vielen Menschen. Beachte, dass 
 
 #### Lepra
 *Groß, Allgemein*<br>
-Der Charakter hat Lepra. Ein Leprakranker hat einen dauerhaften –2-Modifikator auf seine Lebensumstände (mit einem zusätzlichen –1, wenn er in einer Leprakolonie lebt), und wann immer er eine Alterskrise erleidet (Seite 392), erleidet der Leprakranke zusätzlich zu jedem anderen Ergebnis eine Schwere Wunde. Leprakranke können aufgrund eines beißenden Verwesungsgeruchs, den sie ausströmen, keine positive Reputation erwerben.
+Der Charakter hat Lepra. Ein Leprakranker hat einen dauerhaften –2-Modifikator auf seine Lebensumstände (mit einem zusätzlichen –1, wenn er in einer Leprakolonie lebt), und wann immer er eine Alterskrise erleidet ([Seite 392](#altern)), erleidet der Leprakranke zusätzlich zu jedem anderen Ergebnis eine Schwere Wunde. Leprakranke können aufgrund eines beißenden Verwesungsgeruchs, den sie ausströmen, keine positive Reputation erwerben.
 
 #### Kleine Verfluchung
 *Klein, Übernatürlich*<br>
@@ -6371,7 +6371,7 @@ Du wurdest verflucht, dich bei Vollmond (oder ähnlichen, monatlichen astronomis
 
 Im verwandelten Zustand hast du die Intelligenz eines Tieres, reagierst auf alle Reize wie ein Tier und behältst keine Erinnerung an Handlungen in Tiergestalt, außer gelegentlich in Träumen. Du weißt möglicherweise nicht einmal, dass du unter diesem Fluch stehst. Du kannst sowohl Freunde als auch Feinde noch erkennen, wenn du verwandelt bist.
 
-Lykanthropen können sich in ein nicht-magisches Tier zwischen Größe –1 (Wolf) und Größe +2 (Bär) verwandeln. Du hast die normalen körperlichen Eigenschaften eines Gestaltwandlers (siehe Seite 107), außer dass +3 zu deinem Schadensabsorptionswert addiert wird (nur in Tiergestalt). Darüber hinaus wirst du beim Wiederannehmen der Menschengestalt (was bei der Morgendämmerung geschieht) vollständig von allen in Tiergestalt erlittenen Wunden geheilt.
+Lykanthropen können sich in ein nicht-magisches Tier zwischen Größe –1 (Wolf) und Größe +2 (Bär) verwandeln. Du hast die normalen körperlichen Eigenschaften eines Gestaltwandlers (siehe [Seite 107](#gestaltwandler)), außer dass +3 zu deinem Schadensabsorptionswert addiert wird (nur in Tiergestalt). Darüber hinaus wirst du beim Wiederannehmen der Menschengestalt (was bei der Morgendämmerung geschieht) vollständig von allen in Tiergestalt erlittenen Wunden geheilt.
 
 #### Magiesucht
 *Groß, Hermetisch*<br>
@@ -6469,7 +6469,7 @@ Das Reiten auf einem Pferd, das Fahren in einem Karren oder das Segeln auf einem
 
 #### Stumm
 *Groß, Allgemein*<br>
-Du kannst nicht sprechen; möglicherweise wurde dir die Zunge herausgeschnitten. Du verwendest wahrscheinlich einfache Handgesten und Grunzlaute, um deine Bedürfnisse zu kommunizieren. Du kannst Sprachen noch immer vollkommen verstehen und lernst Lesen und Schreiben, sofern du eine entsprechende Tugend besitzt. Beachte, dass Magi mit diesem Fehler –10 auf alle Zauberwürfe erhalten, obwohl dies durch die Tugend Stille Magie (Seite 110) ausgeglichen werden kann. Bei einem Magus mit diesem Fehler kann davon ausgegangen werden, dass er Laute erzeugen kann, die ausreichen, um die Reichweite Stimme normal zu nutzen.
+Du kannst nicht sprechen; möglicherweise wurde dir die Zunge herausgeschnitten. Du verwendest wahrscheinlich einfache Handgesten und Grunzlaute, um deine Bedürfnisse zu kommunizieren. Du kannst Sprachen noch immer vollkommen verstehen und lernst Lesen und Schreiben, sofern du eine entsprechende Tugend besitzt. Beachte, dass Magi mit diesem Fehler –10 auf alle Zauberwürfe erhalten, obwohl dies durch die Tugend Stille Magie ([Seite 105](#stille-magie)) ausgeglichen werden kann. Bei einem Magus mit diesem Fehler kann davon ausgegangen werden, dass er Laute erzeugen kann, die ausreichen, um die Reichweite Stimme normal zu nutzen.
 
 #### Notwendige Bedingung
 *Groß, Hermetisch*<br>
@@ -6493,7 +6493,7 @@ Dieser Fehler macht saisonale Laborarbeit normalerweise unmöglich und ist daher
 
 #### Keine Hände
 *Groß, Allgemein*<br>
-Du hast keine Hände. Jede Tätigkeit, die Hände erfordert, ist unmöglich, und Magi mit diesem Fehler erhalten –5 auf alle Zauberwerte. Dies kann durch die Tugend Subtile Magie (Seite 110) oder die Zaubermeisterschaftsfähigkeit Stillzaubern ausgeglichen werden.
+Du hast keine Hände. Jede Tätigkeit, die Hände erfordert, ist unmöglich, und Magi mit diesem Fehler erhalten –5 auf alle Zauberwerte. Dies kann durch die Tugend Subtile Magie ([Seite 110](#subtile-magie)) oder die Zaubermeisterschaftsfähigkeit Stillzaubern ausgeglichen werden.
 
 #### Kein Orientierungssinn
 *Klein, Allgemein*<br>
@@ -6710,7 +6710,7 @@ Der Charakter neigt dazu, Geheimnisse vor seinen Sodales zu bewahren. Er erklär
 
 #### Sucher
 *Klein, Persönlichkeit*<br>
-Du bist ein selbsternanntes Mitglied der Sucher, einer losen Organisation konkurrierender Magi, die nach alter Magie und arkanen Artefakten suchen. Ein Großteil deines Lebens wird der Suche nach diesen Gegenständen gewidmet. Deine Interessen können gelegentlich mit anderen Interessen deines Hauses oder Konvents in Konflikt geraten. Weitere Einzelheiten über die Sucher finden sich auf Seite 15 von Houses of Hermes: True Lineages.
+Du bist ein selbsternanntes Mitglied der Sucher, einer losen Organisation konkurrierender Magi, die nach alter Magie und arkanen Artefakten suchen. Ein Großteil deines Lebens wird der Suche nach diesen Gegenständen gewidmet. Deine Interessen können gelegentlich mit anderen Interessen deines Hauses oder Konvents in Konflikt geraten. Weitere Einzelheiten über die Sucher finden sich auf [Seite 15](#kapitel-5-fertigkeiten) von Houses of Hermes: True Lineages.
 
 #### Diener des (Landes)
 *Groß, Geschichte*<br>
@@ -6764,7 +6764,7 @@ Der Charakter reagiert nicht gut auf Überraschungen. Er erhält –3 auf seinen
 
 #### Zierlicher Körperbau
 *Klein, Allgemein*<br>
-Du hast einen leichter als durchschnittlichen Körperbau. Deine Größe wird auf –1 reduziert. Dies bedeutet, dass sich der Schweregrad der Wunden, die du erleidest, in Vier-Punkte-Schritten erhöht, anstatt in Fünf-Punkte-Schritten. (Siehe Seite 404). Du kannst diesen Fehler nicht zusammen mit Riesenblut (Seite 83), Großgewachsen (Seite 89) oder Zwerg (Seite 126) nehmen.
+Du hast einen leichter als durchschnittlichen Körperbau. Deine Größe wird auf –1 reduziert. Dies bedeutet, dass sich der Schweregrad der Wunden, die du erleidest, in Vier-Punkte-Schritten erhöht, anstatt in Fünf-Punkte-Schritten. (Siehe [Seite 404](#großgewachsen)). Du kannst diesen Fehler nicht zusammen mit Riesenblut ([Seite 83](#zwerg)), Großgewachsen ([Seite 89](#wunden)) oder Zwerg ([Seite 126](#riesenblut)) nehmen.
 
 #### Sozialer Makel
 *Klein, Allgemein*<br>
@@ -6792,7 +6792,7 @@ Da dieser Charakter aus einem Konvent stammt, weiß er, wie die Dinge getan werd
 
 #### Studienbedingung
 *Groß, Hermetisch*<br>
-Du bist nicht in der Lage, Magie allein aus Büchern oder Vis zu studieren. Du musst in Gegenwart der entsprechenden Kunst studieren. Um zum Beispiel Aquam zu studieren, musst du neben einem Bach oder Teich sitzen, oder neben einem großen Feuer, um Ignem zu studieren. Wachsendes ist gut für Creo, Verfallendes gut für Perdo. Je mehr dein Wissen wächst, desto größere Mengen musst du zur Hand haben. Siehe die Tugend Studierbonus auf Seite 110 für eine Liste von Beispielen. Du kannst sowohl Studierbonus als auch Studienbedingung nehmen.
+Du bist nicht in der Lage, Magie allein aus Büchern oder Vis zu studieren. Du musst in Gegenwart der entsprechenden Kunst studieren. Um zum Beispiel Aquam zu studieren, musst du neben einem Bach oder Teich sitzen, oder neben einem großen Feuer, um Ignem zu studieren. Wachsendes ist gut für Creo, Verfallendes gut für Perdo. Je mehr dein Wissen wächst, desto größere Mengen musst du zur Hand haben. Siehe die Tugend Studierbonus auf [Seite 110](#studierbonus) für eine Liste von Beispielen. Du kannst sowohl Studierbonus als auch Studienbedingung nehmen.
 
 #### Übernatürliche Plage
 *Groß, Geschichte*<br>
@@ -6868,7 +6868,7 @@ Verdorbene Charaktere sind für bestimmte Situationen entworfen. Charaktere, die
 
 #### Wahre Liebe
 *Groß oder Klein, Geschichte*<br>
-Du hast den einen Menschen gefunden, der in der ganzen Schöpfung für dich bestimmt ist, und die Verbindung zwischen euch beiden kann nicht zerrissen werden. Wann immer du leidest, in Gefahr bist oder niedergeschlagen bist, gibt dir der Gedanke an deine Liebe die Kraft weiterzumachen. In dringender Not mag er sogar kommen, um dich zu retten. Häufiger wird er in Schwierigkeiten sein und gerettet werden müssen. Wenn eine Verzauberung dich von deiner wahren Liebe trennt, kann die Kraft deiner Hingabe sie wahrscheinlich brechen. Deine Liebe ist höher als sterbliche Magie, und keine Magie kann dich dazu bringen, deine Liebe zu hassen oder sie wahrhaftig zu verraten. Deine Wahre Liebe muss ein Nichtspielercharakter sein. Um einen anderen Spielercharakter als deine Wahre Liebe zu haben, siehe die Tugend Wahre Liebe auf Seite 113.
+Du hast den einen Menschen gefunden, der in der ganzen Schöpfung für dich bestimmt ist, und die Verbindung zwischen euch beiden kann nicht zerrissen werden. Wann immer du leidest, in Gefahr bist oder niedergeschlagen bist, gibt dir der Gedanke an deine Liebe die Kraft weiterzumachen. In dringender Not mag er sogar kommen, um dich zu retten. Häufiger wird er in Schwierigkeiten sein und gerettet werden müssen. Wenn eine Verzauberung dich von deiner wahren Liebe trennt, kann die Kraft deiner Hingabe sie wahrscheinlich brechen. Deine Liebe ist höher als sterbliche Magie, und keine Magie kann dich dazu bringen, deine Liebe zu hassen oder sie wahrhaftig zu verraten. Deine Wahre Liebe muss ein Nichtspielercharakter sein. Um einen anderen Spielercharakter als deine Wahre Liebe zu haben, siehe die Tugend Wahre Liebe auf [Seite 113](#wahre-liebe-sc).
 
 Dieser Geschichte-Anker kann in „Wahrer Freund" umbenannt werden, um Charaktere abzudecken, mit denen du sehr eng verbunden bist, aber nicht auf romantische Weise.
 
@@ -7030,9 +7030,9 @@ Der Charakter ist gegenüber Umgebungsbedingungen zu empfindlich geworden, was s
 
 *Schwach (Sinn):* Einer deiner Sinne ist so schwach, dass er unter Umständen nutzlos ist, die andere als normal empfinden. Ist es das Sehen, kannst du nur bei guter Beleuchtung (z. B. hellem Tageslicht) gut sehen. Ist es das Hören, kannst du nur Geräusche über normaler Sprechlautstärke hören. Ist es der Geschmack, sind nur stark gewürzte Speisen genießbar. Ist es der Geruch, kannst du nur starke Gerüche wahrnehmen. Du erleidest einen –2-Abzug auf alle Aktivitäten unter den entsprechenden Umständen. (Schwaches Sehen ist inkompatibel mit Empfindlichem Sehen, Scharfer Sicht und Blind, und du kannst Schwaches Hören nicht mit Empfindlichem Hören, Scharfen Ohren oder Taub nehmen.)
 
-*Kälteempfindlich:* Du funktionierst normal bei Temperaturen, die deutlich über der Norm für deinen Teil der Welt liegen. Du verlierst eine Erschöpfungsstufe für jede Stunde, die du in einer Umgebung verbringst, die auf der Tabelle der Umgebungstemperaturen (siehe Kasten) zwei Stufen oder mehr unter deinen gewohnten Bedingungen liegt. Deine Reaktionen auf Hitze werden um 2 in der Intensität verringert (Seite 407).
+*Kälteempfindlich:* Du funktionierst normal bei Temperaturen, die deutlich über der Norm für deinen Teil der Welt liegen. Du verlierst eine Erschöpfungsstufe für jede Stunde, die du in einer Umgebung verbringst, die auf der Tabelle der Umgebungstemperaturen (siehe Kasten) zwei Stufen oder mehr unter deinen gewohnten Bedingungen liegt. Deine Reaktionen auf Hitze werden um 2 in der Intensität verringert ([Seite 407](#hitze-und-ätzungstabelle)).
 
-*Wärmeempfindlich:* Du funktionierst normal bei Temperaturen, die deutlich unter der Norm für deinen Teil der Welt liegen. Du verlierst eine Erschöpfungsstufe für jede Stunde, die du in einer Umgebung verbringst, die auf der Tabelle der Umgebungstemperaturen (siehe Kasten) zwei Stufen oder mehr über deinen gewohnten Bedingungen liegt. Deine Reaktion auf Eis wird auf 0 in der Intensität reduziert (Seite 407).
+*Wärmeempfindlich:* Du funktionierst normal bei Temperaturen, die deutlich unter der Norm für deinen Teil der Welt liegen. Du verlierst eine Erschöpfungsstufe für jede Stunde, die du in einer Umgebung verbringst, die auf der Tabelle der Umgebungstemperaturen (siehe Kasten) zwei Stufen oder mehr über deinen gewohnten Bedingungen liegt. Deine Reaktion auf Eis wird auf 0 in der Intensität reduziert ([Seite 407](#hitze-und-ätzungstabelle)).
 
 Dies ist ein häufiger Fehler für Charaktere, die durch eine starke Magie-Umgebung verzerrt werden.
 
@@ -7083,7 +7083,7 @@ Du verstehst Labortexte nicht sehr gut. Du erhältst einen –6-Abzug auf Labors
 *Groß, Hermetisch*<br>
 Du darfst dich beim Wirken von Spontanmagie nicht anstrengen, teilst also deine Zaubersumme immer durch fünf. Unter Stressbedingungen musst du dennoch einen Stresswürfel würfeln, um zu prüfen, ob du einen Patzer erleidest, aber der Würfelwurf addiert sich nicht zu deiner Zaubersumme. Du kannst weiterhin zeremonielles Zaubern einsetzen.
 
-Dieser Fehler kann mit Schwierige Spontane Magie (Seite 126) kombiniert werden, um einen Magus zu erschaffen, der überhaupt keine Spontanmagie wirken kann.
+Dieser Fehler kann mit Schwierige Spontane Magie ([Seite 126](#schwierige-spontane-magie)) kombiniert werden, um einen Magus zu erschaffen, der überhaupt keine Spontanmagie wirken kann.
 
 #### Schwäche
 *Groß oder Klein, Persönlichkeit*<br>
@@ -7113,7 +7113,7 @@ Du neigst dazu, über die kleinsten Angelegenheiten in Wut zu geraten, und deine
 
 Fertigkeiten stehen für die Dinge, die ein Charakter im Laufe seines Lebens gelernt hat. Sie steigen im Verlauf einer Saga, da Menschen ständig weiterlernen.
 
-Fertigkeiten werden normalerweise verwendet, indem Eigenschaft + Fertigkeit + Würfelwurf addiert werden, wobei ein Schwierigkeitsgrad erreicht oder überschritten werden muss. Im Prinzip kann jede Eigenschaft mit jeder Fertigkeit kombiniert werden, doch manche Paarungen sind selten; Stärke + Kunde des Ordens des Hermes wird beispielsweise wohl kaum oft gefordert sein. Die passende Eigenschaft sollte anhand der Beschreibungen der Eigenschaften aus dem Charakterkapitel (Seite 27) gewählt werden, auch wenn die Regeln für Magie und Kampf die Paarungen für eine Reihe wichtiger Situationen festlegen.
+Fertigkeiten werden normalerweise verwendet, indem Eigenschaft + Fertigkeit + Würfelwurf addiert werden, wobei ein Schwierigkeitsgrad erreicht oder überschritten werden muss. Im Prinzip kann jede Eigenschaft mit jeder Fertigkeit kombiniert werden, doch manche Paarungen sind selten; Stärke + Kunde des Ordens des Hermes wird beispielsweise wohl kaum oft gefordert sein. Die passende Eigenschaft sollte anhand der Beschreibungen der Eigenschaften aus dem Charakterkapitel ([Seite 27](#eigenschaften)) gewählt werden, auch wenn die Regeln für Magie und Kampf die Paarungen für eine Reihe wichtiger Situationen festlegen.
 
 ## Spezialisierungen
 
@@ -7123,7 +7123,7 @@ Vorgeschlagene Spezialisierungen für jede Fertigkeit sind am Ende der jeweilige
 
 ## Fertigkeiten ohne Wert
 
-Hat ein Charakter keinen Wert in einer Fertigkeit, so kann er sie unter Umständen dennoch verwenden. Trägt die Fertigkeit in der Liste ab Seite 159 keinen Stern, kann er sie wie mit einem Wert von Null einsetzen, wobei er allerdings drei zusätzliche Patzerwürfel wirft. Trägt sie einen Stern, kann er sie überhaupt nicht nutzen.
+Hat ein Charakter keinen Wert in einer Fertigkeit, so kann er sie unter Umständen dennoch verwenden. Trägt die Fertigkeit in der Liste ab [Seite 159](#fertigkeiten-nach-typ) keinen Stern, kann er sie wie mit einem Wert von Null einsetzen, wobei er allerdings drei zusätzliche Patzerwürfel wirft. Trägt sie einen Stern, kann er sie überhaupt nicht nutzen.
 
 Ein Charakter, der einen einzigen Erfahrungspunkt in eine Fertigkeit investiert hat, kann sie mit einem Wert von Null einsetzen, ohne zusätzliche Patzerwürfel, unabhängig davon, ob sie mit Stern markiert ist oder nicht. Erfahrungspunkte stehen für eine spürbare Menge an Ausbildung und machen die Fertigkeit so für den Charakter verfügbar.
 
@@ -7160,15 +7160,15 @@ Charaktere dürfen Kampffertigkeiten bei der Charaktererschaffung nur erwerben, 
 
 ### Zaubermeisterschafts-Fertigkeiten
 
-Zaubermeisterschafts-Fertigkeiten können nur von Magi erworben werden, da sie das Wirken von Formulaischen Zaubern und Ritualzaubern in der hermetischen Magie betreffen. Sie werden im Kapitel Hermetische Magie auf Seite 225 beschrieben.
+Zaubermeisterschafts-Fertigkeiten können nur von Magi erworben werden, da sie das Wirken von Formulaischen Zaubern und Ritualzaubern in der hermetischen Magie betreffen. Sie werden im Kapitel Hermetische Magie auf [Seite 225](#besondere-fähigkeiten-gemeisterter-zauber) beschrieben.
 
 ### Übernatürliche Fertigkeiten
 
 Charaktere dürfen Übernatürliche Fertigkeiten bei der Charaktererschaffung nur erwerben, wenn sie die Tugend besitzen, welche die Fertigkeit verleiht. Charaktere mit der Gabe, die keine Magi sind, dürfen während der Charaktererschaffung eine einzelne Übernatürliche Fertigkeit erlernen.
 
-Die meisten dieser Übernatürlichen Fertigkeiten werden von der Magie- oder Feensphäre verliehen und verwenden die entsprechende Spalte der Sphäreninteraktionstabelle (Seite 410). Die meisten können auch von der Höllensphäre verliehen werden, doch die Wahl einer solchen Fertigkeit deutet auf eine Art Pakt mit infernalen Mächten hin. Gespür für Heiliges und Unheiliges ist die wichtigste Ausnahme, da es sich um eine göttliche Macht handelt. Hast du keinen Grund, anders zu wählen, wird deine Fertigkeit von der Magiesphäre verliehen, was dich immun gegen Verzerrung durch starke magische Auren macht (siehe Seite 389). Eine Fertigkeit, die von einer anderen Sphäre verliehen wird, macht dich stattdessen immun gegen Verzerrung durch starke Auren, die mit jener Sphäre verbunden sind.
+Die meisten dieser Übernatürlichen Fertigkeiten werden von der Magie- oder Feensphäre verliehen und verwenden die entsprechende Spalte der Sphäreninteraktionstabelle ([Seite 410](#tabelle-zur-sphärenwechselwirkung)). Die meisten können auch von der Höllensphäre verliehen werden, doch die Wahl einer solchen Fertigkeit deutet auf eine Art Pakt mit infernalen Mächten hin. Gespür für Heiliges und Unheiliges ist die wichtigste Ausnahme, da es sich um eine göttliche Macht handelt. Hast du keinen Grund, anders zu wählen, wird deine Fertigkeit von der Magiesphäre verliehen, was dich immun gegen Verzerrung durch starke magische Auren macht (siehe [Seite 389](#verzerrungspunkte-erwerben)). Eine Fertigkeit, die von einer anderen Sphäre verliehen wird, macht dich stattdessen immun gegen Verzerrung durch starke Auren, die mit jener Sphäre verbunden sind.
 
-Die Gabe erlaubt Charakteren, Übernatürliche Fertigkeiten im Spielverlauf zu erlernen (siehe Seite 383). Die Gabe ist jedoch mit der Magiesphäre verbunden und erlaubt Charakteren daher nur, Übernatürliche Fertigkeiten zu erlernen, die mit dieser Sphäre assoziiert sind.
+Die Gabe erlaubt Charakteren, Übernatürliche Fertigkeiten im Spielverlauf zu erlernen (siehe [Seite 383](#übernatürliche-fertigkeiten-erlernen)). Die Gabe ist jedoch mit der Magiesphäre verbunden und erlaubt Charakteren daher nur, Übernatürliche Fertigkeiten zu erlernen, die mit dieser Sphäre assoziiert sind.
 
 ## Fertigkeiten nach Typ
 
@@ -7345,7 +7345,7 @@ Andere für sich einnehmen, faszinieren und an sich binden, jedoch nur auf pers�
 *Spezialisierungen:* höfische Liebe, erste Eindrücke, geistreich sein. (Allgemein)
 
 #### Chirurgie\*
-Dies ist Chirurgie nach Art des Mittelalters, eingesetzt, um anderen bei der Genesung von körperlichen Verletzungen zu helfen. Sie umfasst das Versorgen und Verbinden von Wunden aller Art und das notwendige, aber brutale Handwerk des Ausbrennens. Siehe Seite 405 für die Regeln.<br>
+Dies ist Chirurgie nach Art des Mittelalters, eingesetzt, um anderen bei der Genesung von körperlichen Verletzungen zu helfen. Sie umfasst das Versorgen und Verbinden von Wunden aller Art und das notwendige, aber brutale Handwerk des Ausbrennens. Siehe [Seite 405](#wunden-heilen) für die Regeln.<br>
 *Spezialisierungen:* Ausbrennen, Diagnose, Wunden verbinden, Knochen einrichten. (Allgemein)
 
 #### Zivil- und Kanonisches Recht\*
@@ -7388,7 +7388,7 @@ Ein Sammelbegriff für unzählige Fertigkeiten, die sich allesamt mit Handarbeit
 *Spezialisierungen:* je nach Handwerk passend. (Allgemein)
 
 #### Handwerkerheiler\*
-Beim Einsatz dieser Fertigkeit kann jede Wunde nur einmal behandelt werden, ungeachtet ihrer Schwere. Würfle Präsenz + Handwerkerheiler + Stresswurf gegen einen Schwierigkeitsgrad in Höhe des Heilungsschwierigkeitsgrades laut Wundheilungstabelle (Seite 405). Das Heilen einer Wunde kostet eine Stufe Langzeit-Erschöpfung. Bei Erfolg wird die Wunde um eine Stufe geheilt: Schwere Wunden werden zu mittelschweren, mittelschwere zu leichten, und leichte heilen vollständig. Misslingt der Wurf, geschieht außer dem Erschöpfungsverlust nichts. Bei einem Patzer erleidet der Heiler unverzüglich eine entsprechende Wunde. Der verwundete Empfänger erhält jedes Mal, wenn diese Fertigkeit auf ihn angewendet wird, einen Verzerrungspunkt, unabhängig vom Erfolg.<br>
+Beim Einsatz dieser Fertigkeit kann jede Wunde nur einmal behandelt werden, ungeachtet ihrer Schwere. Würfle Präsenz + Handwerkerheiler + Stresswurf gegen einen Schwierigkeitsgrad in Höhe des Heilungsschwierigkeitsgrades laut Wundheilungstabelle ([Seite 405](#wunden-heilen)). Das Heilen einer Wunde kostet eine Stufe Langzeit-Erschöpfung. Bei Erfolg wird die Wunde um eine Stufe geheilt: Schwere Wunden werden zu mittelschweren, mittelschwere zu leichten, und leichte heilen vollständig. Misslingt der Wurf, geschieht außer dem Erschöpfungsverlust nichts. Bei einem Patzer erleidet der Heiler unverzüglich eine entsprechende Wunde. Der verwundete Empfänger erhält jedes Mal, wenn diese Fertigkeit auf ihn angewendet wird, einen Verzerrungspunkt, unabhängig vom Erfolg.<br>
 *Spezialisierungen:* bestimmte Wundarten. (Übernatürlich)
 
 #### Fluchschleudern\*
@@ -7439,7 +7439,7 @@ Du besitzt die Fähigkeit, Dinge in der Nähe mit Hilfe einer Wünschelrute (gew
 *Spezialisierungen:* Suche nach einer bestimmten Art von Sache (Wasser, Gold etc.), Suche an einem bestimmten Ort. (Übernatürlich)
 
 #### Verbitterung\*
-Du kannst eine Person dazu bringen, eine andere zu hassen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf Seite 245 beschrieben.
+Du kannst eine Person dazu bringen, eine andere zu hassen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 245](#kräfte) beschrieben.
 
 #### Bezaubernde (Fertigkeit)\*
 Wenn du es darauf anlegst, kannst du andere mit einer bestimmten darstellerischen Fertigkeit beeinflussen. Für eine spezifische Wirkung musst du Worte verwenden, die die Menschen verstehen können. Du kannst Trauernde allein durch Melodien beruhigen, doch brauchst du Texte, um Bauern dazu zu bewegen, sich gegen den örtlichen Lehnsherrn zu erheben. Allgemeine Wirkungen funktionieren bei Tieren, spezifische Wirkungen jedoch nur bei Wesen, die Worte verstehen können. Wenn du eine Bezaubernde (Fertigkeit) einsetzt, würfle einen Würfel (Stresswurf oder schlicht, je nach Situation) und addiere Kommunikation und Bezaubernde (Fertigkeit). Ein Schwierigkeitsgrad von 9 wird Aufgewühlte beruhigen, 12 jemandes Liebe gewinnen, 15 zu einem Aufruhr anstacheln, und eine 24 könnte eine Seele vom Fürsten der Finsternis zurückgewinnen. Bei einem Patzer rufst du eine ungewollte Empfindung hervor.
@@ -7450,10 +7450,10 @@ Du solltest auch für die Qualität der Darbietung würfeln, doch der magische E
 *Spezialisierungen:* eine bestimmte Empfindung, eine bestimmte Art von Person. (Übernatürlich)
 
 #### Enigmatische Weisheit\*
-Das Verständnis der Criamon-Magi vom Enigma. Sie wird im Kapitel Hermetische Magie auf Seite 236 beschrieben. (Arkan)
+Das Verständnis der Criamon-Magi vom Enigma. Sie wird im Kapitel Hermetische Magie auf [Seite 236](#enigmatische-weisheit-1) beschrieben. (Arkan)
 
 #### Betörung\*
-Du besitzt die Macht, den Willen eines anderen zu beherrschen. Indem du jemandem mehrere Sekunden lang tief in die Augen blickst – im Kampf in der Regel unmöglich –, kannst du der Person mündlich befehlen, eine bestimmte Aufgabe auszuführen. Würfle Präsenz + Betörung gegen den Ausdauerwurf des Ziels. Die kontrollierte Person erhält nach Ermessen des Spielleiters einen Bonus zum Widerstand, gemäß der untenstehenden Tabelle. Hermetische Magi erhalten ihre normale Mentem-Magieresistenz und den normalen Ausdauerwurf, falls die Wirkung sie durchdringt. Berechne die Penetration mit einem Schwierigkeitsgrad von 6 + Bonus des Opfers. Blinde sowie Personen mit geschlossenen Augen sind immun; siehe Seite 303 für weitere Hinweise zum Augenkontakt. Es ist jedoch nicht möglich, den Blick abzuwenden, während man betört wird, sofern man nicht den vergleichenden Wurf gewinnt.
+Du besitzt die Macht, den Willen eines anderen zu beherrschen. Indem du jemandem mehrere Sekunden lang tief in die Augen blickst – im Kampf in der Regel unmöglich –, kannst du der Person mündlich befehlen, eine bestimmte Aufgabe auszuführen. Würfle Präsenz + Betörung gegen den Ausdauerwurf des Ziels. Die kontrollierte Person erhält nach Ermessen des Spielleiters einen Bonus zum Widerstand, gemäß der untenstehenden Tabelle. Hermetische Magi erhalten ihre normale Mentem-Magieresistenz und den normalen Ausdauerwurf, falls die Wirkung sie durchdringt. Berechne die Penetration mit einem Schwierigkeitsgrad von 6 + Bonus des Opfers. Blinde sowie Personen mit geschlossenen Augen sind immun; siehe [Seite 303](#reichweiten) für weitere Hinweise zum Augenkontakt. Es ist jedoch nicht möglich, den Blick abzuwenden, während man betört wird, sofern man nicht den vergleichenden Wurf gewinnt.
 
 | Befehl       | Beispiel                  | Bonus des Opfers |
 | ------------ | ------------------------- | ---------------- |
@@ -7474,7 +7474,7 @@ Vertrautheit mit Mächten, Schwächen, Beweggründen und Gebieten der Feen.<br>
 *Spezialisierungen:* Feenwälder, Feenhügel, bestimmte Arten von Feen. (Arkan)
 
 #### Feenmagie\*
-Die Verbindung zur Macht der Feensphäre, über welche die Merinita-Magi verfügen. Sie kann von anderen Charakteren nicht erlernt werden, selbst wenn sie Zugang zu Arkanen Fertigkeiten haben. Sie wird im Kapitel Hermetische Magie auf Seite 236 beschrieben. (Arkan)
+Die Verbindung zur Macht der Feensphäre, über welche die Merinita-Magi verfügen. Sie kann von anderen Charakteren nicht erlernt werden, selbst wenn sie Zugang zu Arkanen Fertigkeiten haben. Sie wird im Kapitel Hermetische Magie auf [Seite 236](#feenmagie-2) beschrieben. (Arkan)
 
 #### Finesse
 Das Manipulieren deiner Zauber und das Vollbringen besonderer Kunststücke mit ihnen. Du verwendest diese Fertigkeit, um Objekte feinfühlig zu platzieren oder Zauber zu zielen.<br>
@@ -7497,7 +7497,7 @@ Kämpfen mit einer Waffe, die zwei Hände erfordert.<br>
 *Spezialisierungen:* bestimmte Arten von Täuschung, Anlügen von Autoritäten, schnelles Reden, ausgeklügelte Lügen. (Allgemein)
 
 #### Herztier\*
-Die allen Bjornaer-Magi gemeine Fähigkeit, die Gestalt ihres Herztiers anzunehmen. Sie wird im Kapitel Hermetische Magie auf Seite 233 beschrieben. Diese Fertigkeit kann von Nicht-Bjornaer-Charakteren nicht erlernt werden, selbst wenn sie Zugang zu Arkanen Fertigkeiten haben. (Arkan)
+Die allen Bjornaer-Magi gemeine Fähigkeit, die Gestalt ihres Herztiers anzunehmen. Sie wird im Kapitel Hermetische Magie auf [Seite 233](#bjornaer-das-herztier) beschrieben. Diese Fertigkeit kann von Nicht-Bjornaer-Charakteren nicht erlernt werden, selbst wenn sie Zugang zu Arkanen Fertigkeiten haben. (Arkan)
 
 #### Verhexung\*
 Der Charakter besitzt die Macht, Verletzung oder Verderben über seine Feinde zu bringen. Es gibt drei Wege, diese Macht zu wirken: durch Augenkontakt mit dem Opfer und das laute Verkünden seines Vorhabens, sodass das Opfer es hören kann; durch das Zeichnen vergänglicher okkulter Zeichen und Symbole auf das Ziel, die das dunkle Schicksal andeuten, das ihm zugedacht ist; oder durch das Beschaffen einer Arkanen Verbindung zum Ziel und das Anfertigen einer erkennbaren Darstellung, die die Wirkung mittels sympathetischer Magie übermitteln kann.
@@ -7612,7 +7612,7 @@ Wenn zwei Personen miteinander sprechen, bestimmt der niedrigere Fertigkeitswert
 
 Beachte, dass Latein und Hebräisch in den meisten Teilen des Mythischen Europa keine lebenden Sprachen sind. Charaktere, die jedoch an Orten leben, an denen sie es sind (etwa in einigen Konventen), dürfen diese Fertigkeit ohne besondere Tugenden erlernen. Dasselbe gilt für alle Sprachen, die in einem Gebiet als tote Sprachen erlernt werden, in einem anderen aber noch lebende Sprachen sind.
 
-Charaktere mit dieser Fertigkeit sind des Lesens und Schreibens unkundig, sofern sie nicht auch einen Wert in Artes Liberales haben (Seite 160).
+Charaktere mit dieser Fertigkeit sind des Lesens und Schreibens unkundig, sofern sie nicht auch einen Wert in Artes Liberales haben ([Seite 160](#artes-liberales)).
 
 Diese Fertigkeit umfasst auch künstlerische Kompositionen in der Sprache und das mit Verve und Leidenschaft vorgetragene Erzählen bestehender Geschichten. Wissen über Geschichten wird durch die entsprechenden Kunde-Fertigkeiten abgedeckt.<br>
 *Spezialisierungen:* Dichtung, Prosa, bestimmte Dialekte, ausgedehnter Wortschatz, bestimmter Fachwortschatz, Slang, Erzählen. (Allgemein)
@@ -7673,7 +7673,7 @@ Wissen über die Sagen, Geschichte, Struktur, Arbeitsweise und Ziele der angegeb
 *Spezialisierungen:* Persönlichkeiten, Geschichte, Politik. (Allgemein)
 
 #### Parma Magica\*
-Schutz vor Magie. Dies ist ein besonderes Ritual (kein Ritualzauber), dessen Vollzug etwa zwei Minuten dauert. Es erlaubt dir, das Fünffache deines Wertes in Parma Magica zu deiner Magieresistenz zu addieren, bis zum nächsten Sonnenauf- oder -untergang, je nachdem, was zuerst eintritt. Du darfst deine Parma Magica vorübergehend unterdrücken, indem du dich konzentrierst; dies entspricht dem Aufrechterhalten eines Zaubers mit Dauer Konzentration (siehe Seite 215). Solange sie aktiv ist, erfordert die Parma Magica keine Konzentration.
+Schutz vor Magie. Dies ist ein besonderes Ritual (kein Ritualzauber), dessen Vollzug etwa zwei Minuten dauert. Es erlaubt dir, das Fünffache deines Wertes in Parma Magica zu deiner Magieresistenz zu addieren, bis zum nächsten Sonnenauf- oder -untergang, je nachdem, was zuerst eintritt. Du darfst deine Parma Magica vorübergehend unterdrücken, indem du dich konzentrierst; dies entspricht dem Aufrechterhalten eines Zaubers mit Dauer Konzentration (siehe [Seite 215](#konzentration-1)). Solange sie aktiv ist, erfordert die Parma Magica keine Konzentration.
 
 Du darfst auch jeweils eine weitere Person je Punkt in Parma Magica schützen, mit deren Einverständnis. Du musst jede Person berühren, um den Schutz einzuleiten, und er hält an, solange sich mindestens ein Charakter und ein anderer gegenseitig sehen. Der Magus darf den Schutz nach Belieben aufheben, ungeachtet der Entfernung. Solange ein Magus andere schützt, ist sein effektiver Wert in Parma Magica um 3 Punkte verringert, sowohl für ihn selbst als auch für die anderen Personen, die er schützt. Hat der Magus einen Wert in Parma Magica von 3 oder weniger, gewährt seine Parma Magica jedem Charakter, einschließlich ihm selbst, eine Magieresistenz von 0. Im Falle des Magus wird dies zu seiner Form-Resistenz addiert, und ein durch die Parma Magica eines anderen Magus geschützter Magus darf ebenfalls seine Form-Resistenz addieren.
 
@@ -7684,7 +7684,7 @@ Parma Magica kann nur von Begabten Charakteren erlernt werden, auch wenn sie sie
 *Spezialisierungen:* Schutz vor einer bestimmten Form. (Arkan)
 
 #### Penetration
-Den eigenen Zauber durch die Magieresistenz des Ziels bringen. Siehe Seite 215 für die vollständigen Penetrationsregeln.<br>
+Den eigenen Zauber durch die Magieresistenz des Ziels bringen. Siehe [Seite 215](#penetrationssumme) für die vollständigen Penetrationsregeln.<br>
 *Spezialisierungen:* eine bestimmte Kunst. (Arkan)
 
 #### Persona\*
@@ -7712,7 +7712,7 @@ Reiten und Lenken eines Reittiers, besonders unter Belastung.<br>
 *Spezialisierungen:* Schlacht, Geschwindigkeit, Tricks. (Allgemein)
 
 #### Zweites Gesicht\*
-Du kannst durch illusorische Verhüllung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und du kannst auch von Natur aus unsichtbare Dinge wie Geister und die Grenzen zwischen Regio-Ebenen erkennen (siehe Seite 420). Der Schwierigkeitsgrad, durch eine illusorische Verhüllung hindurchzusehen, beträgt normalerweise 6 + Magnitude der Macht des für die Wirkung verantwortlichen Geschöpfes oder 6 + Magnitude eines hermetischen Zaubers. Im Allgemeinen erlaubt dir diese Fertigkeit, durch hermetische Verhüllung mittels Imaginem hindurchzusehen, jedoch nicht durch andere Formen. Die Magieresistenz des verhüllten Geschöpfes, sofern vorhanden, beeinträchtigt dein Zweites Gesicht nicht. Wird etwas tatsächlich umgewandelt, etwa durch einen MuCo-Zauber, kannst du die echte Gestalt nicht ermitteln. Der Schwierigkeitsgrad, ein von Natur aus unsichtbares Ding zu sehen, beträgt normalerweise 9, und der Schwierigkeitsgrad für das Sehen von Regio-Ebenen ist auf Seite 421 angegeben. Alle Würfe für Zweites Gesicht sind Wahrnehmung + Zweites Gesicht und sind fast immer schlichte Würfe.<br>
+Du kannst durch illusorische Verhüllung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und du kannst auch von Natur aus unsichtbare Dinge wie Geister und die Grenzen zwischen Regio-Ebenen erkennen (siehe [Seite 420](#regiones)). Der Schwierigkeitsgrad, durch eine illusorische Verhüllung hindurchzusehen, beträgt normalerweise 6 + Magnitude der Macht des für die Wirkung verantwortlichen Geschöpfes oder 6 + Magnitude eines hermetischen Zaubers. Im Allgemeinen erlaubt dir diese Fertigkeit, durch hermetische Verhüllung mittels Imaginem hindurchzusehen, jedoch nicht durch andere Formen. Die Magieresistenz des verhüllten Geschöpfes, sofern vorhanden, beeinträchtigt dein Zweites Gesicht nicht. Wird etwas tatsächlich umgewandelt, etwa durch einen MuCo-Zauber, kannst du die echte Gestalt nicht ermitteln. Der Schwierigkeitsgrad, ein von Natur aus unsichtbares Ding zu sehen, beträgt normalerweise 9, und der Schwierigkeitsgrad für das Sehen von Regio-Ebenen ist auf [Seite 421](#regiones-betreten-und-verlassen) angegeben. Alle Würfe für Zweites Gesicht sind Wahrnehmung + Zweites Gesicht und sind fast immer schlichte Würfe.<br>
 *Spezialisierungen:* Regiones, unsichtbare Dinge, illusorische Verkleidungen, Feen, Geister. (Übernatürlich)
 
 #### Gespür für Heiliges und Unheiliges\*
@@ -7748,7 +7748,7 @@ Sich umherbewegen, ohne gesehen oder gehört zu werden, sowie sich an einem Ort 
 *Spezialisierungen:* Verstecken, Schleichen, Beschatten, städtische Gebiete, natürliche Umgebung. (Allgemein)
 
 #### Tiere rufen\*
-Du kannst Tiere herbeirufen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf Seite 243 beschrieben.
+Du kannst Tiere herbeirufen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 243](#tiere-rufen-2) beschrieben.
 
 #### Überleben
 Nahrung, Wasser, Unterschlupf, einen direkten Weg und relative Sicherheit in der Wildnis finden (einem im Mythischen Europa höchst gefährlichen Ort). Diese Fertigkeit umfasst alltägliche Tätigkeiten wie das Entzünden eines Feuers und das Zubereiten von Speisen ohne Werkzeug.<br>
@@ -7779,7 +7779,7 @@ Kämpfen aus der Distanz mit Waffen, die geworfen werden.<br>
 *Spezialisierungen:* eine bestimmte Waffe. (Kampf)
 
 #### Den Wind herbeipfeifen\*
-Du kannst durch Pfeifen Wind erzeugen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf Seite 246 beschrieben.
+Du kannst durch Pfeifen Wind erzeugen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 246](#tempestaria-wetterhexe) beschrieben.
 
 #### Natursinn\*
 Du bist auf mystische Weise mit den Wegen der Wildnis verbunden. Ein Wurf auf Wahrnehmung + Natursinn gegen einen Schwierigkeitsgrad von 9 erlaubt dir, die Richtung nach Norden, das kommende Wetter oder die Anwesenheit natürlicher Gefahren oder Ressourcen zu bestimmen. Ein Wurf bringt nur eine Information zutage.<br>
@@ -7799,7 +7799,7 @@ Obwohl das Konventskonzept großen Einfluss hat, bestimmt es nicht alles. Schlie
 
 ## Aegis des Herdes
 
-Der Zauber *Aegis des Herdes* (Seite 370) ist einer der wichtigsten Zauber im Orden des Hermes. Während die Parma Magica einzelnen Personen Magieresistenz verleiht, gibt *Aegis des Herdes* (oft schlicht „die Aegis") sie einem ganzen Konvent. Die Anzahl hermetischer Konvente ohne jegliche Aegis lässt sich höchstwahrscheinlich an den Fingern einer Hand abzählen, und die meisten Konvente streben nach der stärksten Aegis, die sie aufrechterhalten können. Wenn also keiner der Spielercharaktere den Zauber zu Beginn beherrscht, solltest du ihn in die Konventsbibliothek aufnehmen – wahrscheinlich sowohl als Labortext als auch als Zaubertafel (siehe unten) – und es zu einer hohen Priorität machen, dass jemand ihn lernt. Die Aegis von einer Zaubertafel zu wirken ist möglich, doch auf lange Sicht riskant. Beachte, dass die Spielercharaktere den Zauber nicht selbst wirken können müssen, wenn der Konvent Magi enthält, die älter sind als sie.
+Der Zauber *Aegis des Herdes* ([Seite 370](#aegis-des-herdes-1)) ist einer der wichtigsten Zauber im Orden des Hermes. Während die Parma Magica einzelnen Personen Magieresistenz verleiht, gibt *Aegis des Herdes* (oft schlicht „die Aegis") sie einem ganzen Konvent. Die Anzahl hermetischer Konvente ohne jegliche Aegis lässt sich höchstwahrscheinlich an den Fingern einer Hand abzählen, und die meisten Konvente streben nach der stärksten Aegis, die sie aufrechterhalten können. Wenn also keiner der Spielercharaktere den Zauber zu Beginn beherrscht, solltest du ihn in die Konventsbibliothek aufnehmen – wahrscheinlich sowohl als Labortext als auch als Zaubertafel (siehe unten) – und es zu einer hohen Priorität machen, dass jemand ihn lernt. Die Aegis von einer Zaubertafel zu wirken ist möglich, doch auf lange Sicht riskant. Beachte, dass die Spielercharaktere den Zauber nicht selbst wirken können müssen, wenn der Konvent Magi enthält, die älter sind als sie.
 
 ## Jahreszeiten der Konvente
 
@@ -7821,9 +7821,9 @@ Schließlich kann sich ein Frühlings-Konvent auch auf die Geisteshaltung neuer,
 
 #### Vernus
 
-Der Konvent Vernus ist ein Frühlings-Konvent, gerade erst dabei, in der Welt Fuß zu fassen. Er ist ein schwacher Konvent (siehe den Kasten „Grund-Konventsressourcen" auf Seite 178) und befindet sich in der Situation „Kämpfend" (siehe Seite 177).
+Der Konvent Vernus ist ein Frühlings-Konvent, gerade erst dabei, in der Welt Fuß zu fassen. Er ist ein schwacher Konvent (siehe den Kasten „Grund-Konventsressourcen" auf [Seite 178](#grund-konventsressourcen)) und befindet sich in der Situation „Kämpfend" (siehe [Seite 177](#kämpfend)).
 
-Im Augenblick besteht der Konvent aus einer Reihe von Zelten, die rund um einen Menhir auf einer Lichtung mitten in einem Feenwald aufgeschlagen sind. Der Stein und die Lichtung existieren in einer magischen Regio (siehe Seite 421), wenn es auch mehrere Wege gibt, in sie zu gelangen. Die Grundebene hat eine Magie-Aura von 2, und der Konvent selbst befindet sich auf einer Ebene mit einer Aura von 5. Die Magi hoffen, dass es höhere Ebenen gibt, auf denen sie ihre Laboratorien einrichten können, doch sie haben sie bislang nicht gefunden.
+Im Augenblick besteht der Konvent aus einer Reihe von Zelten, die rund um einen Menhir auf einer Lichtung mitten in einem Feenwald aufgeschlagen sind. Der Stein und die Lichtung existieren in einer magischen Regio (siehe [Seite 421](#regiones-betreten-und-verlassen)), wenn es auch mehrere Wege gibt, in sie zu gelangen. Die Grundebene hat eine Magie-Aura von 2, und der Konvent selbst befindet sich auf einer Ebene mit einer Aura von 5. Die Magi hoffen, dass es höhere Ebenen gibt, auf denen sie ihre Laboratorien einrichten können, doch sie haben sie bislang nicht gefunden.
 
 Die Hauptsorge des Konvents sind weltliche Ressourcen. Sie verfügen nicht einmal über eine geregelte Nahrungsversorgung, und derzeit besteht der Plan, im Wald ein neues Dorf zu schlagen und es mit Bauern zu füllen, die für die Magi Land bewirtschaften. Verschiedene Pläne, weltliches Einkommen zu erzielen – wie der Anbau von Weintrauben, das Auffinden einer Silbermine oder das Vortäuschen einer Silbermine bei gleichzeitiger Erschaffung von Silber – werden alle erwogen.
 
@@ -7839,7 +7839,7 @@ Andererseits sind Sommer-Konvente in der Regel nicht so straff organisiert, dass
 
 #### Aestas
 
-Aestas ist ein Sommer-Konvent. Er ist von mittlerer Macht (siehe Seite 178) und hat die Stellung eines weltlichen Lehnsherrn des Dorfes vor Ort erlangt.
+Aestas ist ein Sommer-Konvent. Er ist von mittlerer Macht (siehe [Seite 178](#mittlerer-konvent)) und hat die Stellung eines weltlichen Lehnsherrn des Dorfes vor Ort erlangt.
 
 Der Konvent selbst ist eine große Burg, auch wenn die Befestigungen nicht so modern sind, wie sie sein könnten. Jeder Magus lebt in einem eigenen Turm in den Ringmauern, während der zentrale Bergfried die Bibliothek, den Ratssaal und den Speisesaal beherbergt. Die Konventsmitglieder leben in Gebäuden inner- und außerhalb der Ringmauern, und derzeit wird ein Großteil der Konventsvorräte außerhalb der Mauern gelagert, was deren Wert erheblich mindert.
 
@@ -7855,13 +7855,13 @@ Es gibt im Wesentlichen zwei Arten, einen Herbst-Konvent zu spielen. In der eine
 
 Junge Magi zu spielen ist eine gute Wahl für Spieler, denen die Idee des Spiels gefällt, die aber keine Vorstellung davon haben, was ihre Charaktere tun würden – solange der Spielleiter Ideen hat. Die älteren Magi können die Spielercharaktere mit der Erledigung bestimmter Aufgaben betrauen, und mit jedem Erfolg und jedem Beweis ihrer Fähigkeiten erhalten sie naturgemäß mehr Eigenständigkeit. So haben die Charaktere die Freiheit, ihre eigenen Vorhaben zu verfolgen, sobald die Spieler an diesem Punkt angelangt sind.
 
-Ältere Magi zu spielen ist nur etwas für erfahrene Spieler, schon allein deshalb, weil der erste Schritt darin besteht, ältere Magi zu erschaffen, was Vertrautheit mit den Magieregeln voraussetzt. Es ergibt einen sehr anderen Saga-Stil, da die Magi überaus mächtig sind. Vorschläge dazu finden sich im Kapitel Sagas auf Seite 523.
+Ältere Magi zu spielen ist nur etwas für erfahrene Spieler, schon allein deshalb, weil der erste Schritt darin besteht, ältere Magi zu erschaffen, was Vertrautheit mit den Magieregeln voraussetzt. Es ergibt einen sehr anderen Saga-Stil, da die Magi überaus mächtig sind. Vorschläge dazu finden sich im Kapitel Sagas auf [Seite 523](#kapitel-16-sagas).
 
 Herbst-Konvente können sich in verschiedenen Stadien ihres Herbstes befinden. Ein Konvent, der gerade aus dem Sommer kommt, wäre kraftvoll, würde sich aber zunehmend dem Bewahren des Bestehenden zuwenden, anstatt zu expandieren. Ein Konvent im Herzen des Herbstes wäre auf das Bewahren konzentriert und bewältigte dies mit Erfolg. Mit nahendem Winter wird das Bewahren weniger wirkungsvoll, doch die Mitglieder des Konvents sträuben sich, neue Wege einzuschlagen. In jedem Stadium mag im Inneren des Konvents eine große Bedrohung lauern, die ihn ohne Eindämmung augenblicklich in den Winter stürzen könnte – oder ein Versprechen, das den Konvent in den Sommer zurückversetzen könnte, wenn es verstanden würde. Beides ist möglich, und beides könnte sogar dasselbe sein.
 
 #### Autumnus
 
-Autumnus ist ein mächtiger Herbst-Konvent: ein mächtiger Konvent (Seite 178) mit Herbstmacht (Seite 177).
+Autumnus ist ein mächtiger Herbst-Konvent: ein mächtiger Konvent ([Seite 178](#mächtiger-konvent)) mit Herbstmacht ([Seite 177](#herbstmacht)).
 
 Die bauliche Anlage besteht aus einem einzigen riesigen Gebäude, das den gesamten Gipfel eines Berges bedeckt und durch Magie warm und bewohnbar gehalten wird. Die Eingänge des Gebäudes sind sowohl durch Magie als auch durch solide weltliche Türen geschützt, und die Notwendigkeit, zuvor einen Berg zu besteigen, macht einen ernsthaften Angriff überaus schwierig. Im Inneren sind die Hallen und Gänge prunkvoll, mit kleineren verzauberten Gegenständen überall verteilt.
 
@@ -7879,7 +7879,7 @@ Erfahrene Spieler mögen es auch reizvoll finden, die alten Magi eines Winter-Ko
 
 #### Hiems
 
-Hiems ist ein Winter-Konvent. Er ist von mittlerer Macht (Seite 178) und in Winter-Ruinen (Seite 178). Der Konvent zählt heute nur noch sechs Magi, während er einst über ein Dutzend hatte, und die Zahl der Konventsmitglieder ist in noch stärkerem Maße geschrumpft. Infolgedessen ist der Komplex aus Höhlen, Tunneln und Türmen, der den größten Teil eines magischen Waldes umfasst, weitgehend unbewohnt. Die Wege zwischen den Wohnsitzen der verbliebenen Magi und den zentralen Einrichtungen (Bibliothek, Ratssaal, Küchen) sind gut instand gehalten, doch es gibt andere Bereiche, die seit Jahren niemand mehr betreten hat.
+Hiems ist ein Winter-Konvent. Er ist von mittlerer Macht ([Seite 178](#mittlerer-konvent)) und in Winter-Ruinen ([Seite 178](#winter-ruinen)). Der Konvent zählt heute nur noch sechs Magi, während er einst über ein Dutzend hatte, und die Zahl der Konventsmitglieder ist in noch stärkerem Maße geschrumpft. Infolgedessen ist der Komplex aus Höhlen, Tunneln und Türmen, der den größten Teil eines magischen Waldes umfasst, weitgehend unbewohnt. Die Wege zwischen den Wohnsitzen der verbliebenen Magi und den zentralen Einrichtungen (Bibliothek, Ratssaal, Küchen) sind gut instand gehalten, doch es gibt andere Bereiche, die seit Jahren niemand mehr betreten hat.
 
 Eines der alten Laboratorien lag einst im Hort eines Drachen, und es scheint, dass der Drache – oder zumindest ein Drache – zurückgekehrt ist. Die Konventsmitglieder berichten, ihn gesehen zu haben, und einige sind während der Reise von einem Teil des Konvents zum anderen schlicht verschwunden. Solche Verschwinden werden ebenfalls dem Drachen zugeschrieben.
 
@@ -7891,7 +7891,7 @@ Dennoch hatte der Konvent einst mehr Ressourcen, und viele davon liegen wahrsche
 
 Die Situation eines Konvents ist weitgehend unabhängig von seiner Jahreszeit und Macht. Ein mächtigerer Konvent verfügt schlicht über mehr Mittel, um mit seiner Lage umzugehen. Es gibt natürlich einige Ausnahmen. Ein mächtiger Konvent kann beispielsweise nicht wirklich kämpfend sein. Die folgenden Vorschläge sind nicht mehr als das; wenn deine Spieltruppe eine andere Situation wünscht, könnt ihr eine erschaffen. Der Konvent Aegaea im Tribunal von Theben befindet sich beispielsweise in einem Palast in einer Feen-Regio auf dem Grund der Ägäis, von dem seine Mitglieder behaupten, es sei der Palast Poseidons. Fast alle Konventsmitglieder sind Feen-Tritonen, und die Gebäude sind prunkvoll und mit Schätzen geschmückt, die durchaus echt zu sein scheinen, solange sie in der Regio verbleiben (*The Sundered Eagle*, Seite 81).
 
-Diese Situationen werden aus Vorzügen und Haken aufgebaut, die ab Seite 181 ausführlich beschrieben werden, und ihr könnt sie auf dieselbe Weise nutzen, um eure eigenen Situationen zu konstruieren. Die Regeln dafür finden sich unter Maßgeschneiderte Konventserstellung.
+Diese Situationen werden aus Vorzügen und Haken aufgebaut, die ab [Seite 181](#haken) ausführlich beschrieben werden, und ihr könnt sie auf dieselbe Weise nutzen, um eure eigenen Situationen zu konstruieren. Die Regeln dafür finden sich unter Maßgeschneiderte Konventserstellung.
 
 ### Herbstmacht
 
@@ -7915,7 +7915,7 @@ Der Konvent befindet sich an einem Ort großer magischer Macht. In vielerlei Hin
 
 **Haken:** Ungeheuer (klein) ×2, Regio (groß)
 
-**Vorzüge:** Aura (klein) ×5. (Die Konventsmitglieder müssen innerhalb dieser Aura leben, sodass nahezu alle unter Verzerrung leiden. Siehe Seite 389.)
+**Vorzüge:** Aura (klein) ×5. (Die Konventsmitglieder müssen innerhalb dieser Aura leben, sodass nahezu alle unter Verzerrung leiden. Siehe [Seite 389](#verzerrung-2).)
 
 ### Kämpfend
 
@@ -7943,7 +7943,7 @@ Der Konvent befindet sich in einem Teil der Anlage eines Winter-Konvents. Es kan
 
 > ## Grund-Konventsressourcen
 >
-> Die folgenden drei Ressourcen-Sätze für Konvente werden als Beispiele bereitgestellt. Wenn du Zeit sparen willst, wähle einfach einen für deinen Konvent. Die Regeln zur Maßgeschneiderten Konventserstellung auf Seite 179 erlauben es, den Konvent genauer auf deine Bedürfnisse zuzuschneiden, dauern aber länger.
+> Die folgenden drei Ressourcen-Sätze für Konvente werden als Beispiele bereitgestellt. Wenn du Zeit sparen willst, wähle einfach einen für deinen Konvent. Die Regeln zur Maßgeschneiderten Konventserstellung auf [Seite 179](#maßgeschneiderte-konventserstellung) erlauben es, den Konvent genauer auf deine Bedürfnisse zuzuschneiden, dauern aber länger.
 >
 > Die in den Büchern abgedeckten Künste und Fertigkeiten, die als Labortexte oder Zaubertafeln verfügbaren Zauber sowie die verfügbaren Vis-Arten sollten anhand der Interessen der Spielercharakter-Magi gewählt werden.
 >
@@ -8008,7 +8008,7 @@ Die erste Wahl ist die Machtstufe innerhalb des Konvents, die den Spielercharakt
 | Hoch       | 1250–2500 | unbegrenzt    | 50 Jahre     |
 | Legendär   | 2500+     | unbegrenzt    | 100 Jahre    |
 
-*Höchste Stufe:* Die höchste Stufe eines einzelnen Labortextes oder eines einzelnen Effekts in einem verzauberten Gegenstand. Bei Gegenständen umfasst die Stufe alle Modifikationen (siehe Magische Verzauberungen auf Seite 252 für weitere Einzelheiten).
+*Höchste Stufe:* Die höchste Stufe eines einzelnen Labortextes oder eines einzelnen Effekts in einem verzauberten Gegenstand. Bei Gegenständen umfasst die Stufe alle Modifikationen (siehe Magische Verzauberungen auf [Seite 252](#verzauberungen) für weitere Einzelheiten).
 
 *Mindestalter:* Die Mindestzahl an Jahren, die seit der Gründung des Konvents vergangen ist.
 
@@ -8016,7 +8016,7 @@ Beachte, dass dies die Macht ist, auf die die Spieler-Magi nach Belieben zugreif
 
 ### Ressourcen
 
-Ressourcen sind für Magi sehr wichtig, da sie bestimmen, wie schnell sie ihre Künste und anderen magischen Fähigkeiten lernen und verbessern können. Bücher werden im Kapitel Langzeitereignisse (Seite 379) beschrieben, Labortexte und Zaubertafeln im Laborkapitel (Seite 262), und Vis und ihre Verwendung in den Kapiteln Hermetische Magie, Labor und Langzeitereignisse. Verzauberte Gegenstände werden im Laborkapitel (Seite 274) beschrieben.
+Ressourcen sind für Magi sehr wichtig, da sie bestimmen, wie schnell sie ihre Künste und anderen magischen Fähigkeiten lernen und verbessern können. Bücher werden im Kapitel Langzeitereignisse ([Seite 379](#labortexte-1)) beschrieben, Labortexte und Zaubertafeln im Laborkapitel ([Seite 262](#bücher-1)), und Vis und ihre Verwendung in den Kapiteln Hermetische Magie, Labor und Langzeitereignisse. Verzauberte Gegenstände werden im Laborkapitel ([Seite 274](#verzauberungen)) beschrieben.
 
 ### Bibliothek
 
@@ -8048,13 +8048,13 @@ Die Bibliothek ist in den meisten Konventen wahrscheinlich die wichtigste Ressou
 
 Labortexte erlauben es Magi, magische Schöpfungen wesentlich schneller zu erforschen, als sie es ohne Hilfe könnten. Die mit Abstand häufigste Form von Labortext ist der Labortext für die Erfindung eines Formulaischen Zaubers, und die meisten Konvente haben viele Stufen solcher Labortexte in ihren Bibliotheken.
 
-Fünf Stufen Labortexte kosten einen Baupunkt. Siehe die Tabelle der Machtstufen auf Seite 179 für die maximale Stufe an Labortexten, die genommen werden kann.
+Fünf Stufen Labortexte kosten einen Baupunkt. Siehe die Tabelle der Machtstufen auf [Seite 179](#zugängliche-machtstufe) für die maximale Stufe an Labortexten, die genommen werden kann.
 
 **KOSTEN LABORTEXT: 1 Baupunkt je fünf Stufen**
 
 ### Zaubertafeln
 
-Zaubertafeln erlauben es Magi, Formulaische oder Ritualzauber zu wirken, die sie nicht beherrschen (siehe Seite 263). Nicht alle Konvente verfügen über solche Hilfsmittel, und jene, die welche haben, besitzen sie üblicherweise für Zauber, die sie nicht oft brauchen. Manche Konvente wirken ihre Aegis des Herdes von einer Zaubertafel, doch das ist eher riskant.
+Zaubertafeln erlauben es Magi, Formulaische oder Ritualzauber zu wirken, die sie nicht beherrschen (siehe [Seite 263](#labortexte-verwenden)). Nicht alle Konvente verfügen über solche Hilfsmittel, und jene, die welche haben, besitzen sie üblicherweise für Zauber, die sie nicht oft brauchen. Manche Konvente wirken ihre Aegis des Herdes von einer Zaubertafel, doch das ist eher riskant.
 
 Fünf Stufen Zaubertafeln kosten zwei Baupunkte und unterliegen denselben Stufengrenzen wie Labortexte.
 
@@ -8062,7 +8062,7 @@ Fünf Stufen Zaubertafeln kosten zwei Baupunkte und unterliegen denselben Stufen
 
 ### Vis
 
-Vis-Quellen, die jährlich Vis liefern, sind äußerst wertvolle Ressourcen für einen Konvent. Vis-Vorräte sind ebenfalls nützlich, und die meisten Konvente versuchen, einen Notvorrat anzulegen. Siehe Seite 212 für weitere Informationen zu Rohem Vis und Seite 422 für Informationen zu Vis-Quellen.
+Vis-Quellen, die jährlich Vis liefern, sind äußerst wertvolle Ressourcen für einen Konvent. Vis-Vorräte sind ebenfalls nützlich, und die meisten Konvente versuchen, einen Notvorrat anzulegen. Siehe [Seite 212](#rohes-vis) für weitere Informationen zu Rohem Vis und [Seite 422](#vis-quellen) für Informationen zu Vis-Quellen.
 
 *Vis-Quellen:* Vis-Quellen kosten fünf Baupunkte je verfügbarem Bauer Vis pro Jahr.
 
@@ -8074,7 +8074,7 @@ Vis-Quellen, die jährlich Vis liefern, sind äußerst wertvolle Ressourcen für
 
 ### Verzauberte Gegenstände
 
-Ein verzauberter Gegenstand kostet zwei Baupunkte je fünf Effektstufen, einschließlich Modifikationen. Siehe die Tabelle der Machtstufen auf Seite 179 für die maximale Stufe eines einzelnen Effekts.
+Ein verzauberter Gegenstand kostet zwei Baupunkte je fünf Effektstufen, einschließlich Modifikationen. Siehe die Tabelle der Machtstufen auf [Seite 179](#zugängliche-machtstufe) für die maximale Stufe eines einzelnen Effekts.
 
 **KOSTEN VERZAUBERTER GEGENSTAND: 2 Baupunkte je fünf Effektstufen, einschließlich Modifikationen**
 
@@ -8082,21 +8082,21 @@ Ein verzauberter Gegenstand kostet zwei Baupunkte je fünf Effektstufen, einschl
 
 Spezialisten sind NSC-Mitglieder des Konvents (keine Magi) mit nützlichen Fertigkeiten. Sie werden nur über die Fertigkeiten definiert, mit denen sie dem Konvent dienen, anstatt über einen vollständigen Charakterbogen, und können sowohl Wachen als auch Lehrer und Handwerker umfassen. Charaktere, die als Grogs oder Gefährten erschaffen wurden, müssen nicht mit Baupunkten bezahlt werden.
 
-**Lehrer:** Ein mit Baupunkten gekaufter Lehrer ist beim Konvent angestellt und steht zwei Quartale pro Jahr nach Anweisung der Magi für Unterricht zur Verfügung. Die Kosten sind die Summe seiner Werte in Kommunikation und Unterrichten zuzüglich seines höchsten Wertes in den Fertigkeiten, die er unterrichten wird. Lehrer können nicht die Gabe besitzen und somit keine Hermetischen Künste unterrichten. Sie können jedoch andere Übernatürliche Fertigkeiten haben. Ihre Fertigkeiten sind durch ihr Alter begrenzt, wie bei neu erschaffenen Charakteren (siehe Seite 48).
+**Lehrer:** Ein mit Baupunkten gekaufter Lehrer ist beim Konvent angestellt und steht zwei Quartale pro Jahr nach Anweisung der Magi für Unterricht zur Verfügung. Die Kosten sind die Summe seiner Werte in Kommunikation und Unterrichten zuzüglich seines höchsten Wertes in den Fertigkeiten, die er unterrichten wird. Lehrer können nicht die Gabe besitzen und somit keine Hermetischen Künste unterrichten. Sie können jedoch andere Übernatürliche Fertigkeiten haben. Ihre Fertigkeiten sind durch ihr Alter begrenzt, wie bei neu erschaffenen Charakteren (siehe [Seite 48](#fertigkeiten-1)).
 
 **KOSTEN LEHRER: Kommunikation + Unterrichten + höchster Fertigkeitswert**
 
-**WERTGRENZEN: nach Alter (siehe Seite 48)**
+**WERTGRENZEN: nach Alter (siehe [Seite 48](#fertigkeiten-1))**
 
 *Andere:* Andere Arten von Spezialisten sind günstiger und kosten Baupunkte in Höhe ihres höchsten Wertes in der Fertigkeit, mit der sie dem Konvent dienen. Ihre Fertigkeitswerte sind anfänglich durch das Alter begrenzt, wie bei Lehrern.
 
 **KOSTEN SPEZIALIST: höchster Fertigkeitswert**
 
-**WERTGRENZE: nach Alter (siehe Seite 48)**
+**WERTGRENZE: nach Alter (siehe [Seite 48](#fertigkeiten-1))**
 
 ### Haken
 
-Haken sind Eigenheiten des Konvents, die Geschichten anstoßen. Haken gibt es in zwei Arten – groß und klein –, genau wie Charakter-Fehler. Allerdings gibt es keine Haken, die den Konvent schlicht schwächen; sie alle drehen sich um Geschichtenideen. Ein Konvent kann so viele Haken haben, wie die Spieler wünschen, doch da diese Wahl Hinweise darauf sind, welche Geschichten die Spieler erzählen wollen, sollte die Spieltruppe nicht so viele nehmen, dass einige nie zur Sprache kommen. Das würde nur jene Spieler enttäuschen, die solche Geschichten haben wollten. Haken liefern keine Baupunkte. Stattdessen erlauben sie es den Spielern, Vorzüge (siehe Seite 183) für den Konvent zu nehmen. Ein großer Haken liefert drei Punkte, die für Vorzüge ausgegeben werden können, ein kleiner Haken liefert einen Punkt.
+Haken sind Eigenheiten des Konvents, die Geschichten anstoßen. Haken gibt es in zwei Arten – groß und klein –, genau wie Charakter-Fehler. Allerdings gibt es keine Haken, die den Konvent schlicht schwächen; sie alle drehen sich um Geschichtenideen. Ein Konvent kann so viele Haken haben, wie die Spieler wünschen, doch da diese Wahl Hinweise darauf sind, welche Geschichten die Spieler erzählen wollen, sollte die Spieltruppe nicht so viele nehmen, dass einige nie zur Sprache kommen. Das würde nur jene Spieler enttäuschen, die solche Geschichten haben wollten. Haken liefern keine Baupunkte. Stattdessen erlauben sie es den Spielern, Vorzüge (siehe [Seite 183](#vorzüge)) für den Konvent zu nehmen. Ein großer Haken liefert drei Punkte, die für Vorzüge ausgegeben werden können, ein kleiner Haken liefert einen Punkt.
 
 Die unten aufgeführten Haken sind lediglich Beispiele. Ein Haken kann alles sein, von dem die Spieltruppe glaubt, es würde die Saga interessanter machen, und *Covenants* liefert viele weitere Beispiele.
 
@@ -8176,7 +8176,7 @@ Der mächtige Konvent Aedes Mercurii im Languedoc-Tribunal hat zwei Standorte; e
 
 **Bedeutendes Gebäude:** Der Konvent hat ein zusätzliches großes und bedeutendes Gebäude, das nicht in einem anderen Vorzug erwähnt wird. Dieser Vorzug kann mehrfach genommen werden, jedes Mal für eine neue Anlage. Diese Gebäude erfordern in der Regel nicht den Burg-Haken.
 
-**Ansehen:** Der Konvent und seine Mitglieder sind hoch geachtet. Dies kann das Ergebnis früherer Taten sein, etwa des Sieges über ein Ungeheuer, oder fortdauernder Eigenschaften des Konvents, etwa einer hervorragenden Bibliothek. Der Konvent hat einen Reputationswert von 3 (siehe Seite 28). Dieser Vorzug kann mehrfach genommen werden, wobei das Ansehen jedes Mal für eine andere Gruppe gilt.
+**Ansehen:** Der Konvent und seine Mitglieder sind hoch geachtet. Dies kann das Ergebnis früherer Taten sein, etwa des Sieges über ein Ungeheuer, oder fortdauernder Eigenschaften des Konvents, etwa einer hervorragenden Bibliothek. Der Konvent hat einen Reputationswert von 3 (siehe [Seite 28](#reputationen)). Dieser Vorzug kann mehrfach genommen werden, wobei das Ansehen jedes Mal für eine andere Gruppe gilt.
 
 **Regio:** Der Konvent befindet sich in einer magischen Regio, die auf mehreren Wegen betreten werden kann. Der Konvent kann Maßnahmen ergreifen, um den Eintritt in die Regio zu beschränken, doch diese sind niemals perfekt. Der verlorene Konvent Val Negra im Languedoc-Tribunal war einer der ersten Konvente des Ordens, gegründet von Flambeau selbst, doch er erlitt schwere Verluste im Schismakrieg, und nun ist sogar seine genaue Lage verloren. Es wird allgemein angenommen, dass er sich in einer Regio befunden habe und verloren ging, weil die Menschen vergaßen, wie man sie betrat (*Faith & Flame*, Kapitel 9).
 
@@ -8218,7 +8218,7 @@ Dieser Vorzug schließt einen der zuvor genannten kleineren Bergfried-Vorzüge e
 
 Der Konvent Montverte im Normannischen Tribunal bewohnt eine solche Burg und nutzt sie als Stützpunkt für Überfälle, wie es der Periphere Kodex jenes Tribunals erlaubt. Sie teilen sich die Burg mit ihrem weltlichen Lehnsherrn – ein Arrangement, das großes Misstrauen erweckt. Bislang ist es den Magi jedoch gelungen, das Tribunal davon zu überzeugen, dass sie sich nicht in die weltlichen Angelegenheiten des Lehnsherrn einmischen (*The Lion and the Lily*, Seite 58).
 
-**Ansehen:** Der Konvent ist berühmt. Seine Mitglieder werden gut behandelt, soweit es die Gabe zulässt, und Menschen sind unwillig, sich offen mit dem Konvent anzulegen. Innerhalb des Ordens würde dies auf Domus Magnae oder die ältesten und mächtigsten Konvente zutreffen. Ein Konvent, der wiederholt seine weltlichen Nachbarn unterstützt und verteidigt, könnte sich in der weltlichen Welt eine solche Reputation erwerben, auch wenn ein solches Maß an Aktivität die Aufmerksamkeit der Quaesitores auf sich ziehen würde. Der Konvent hat einen Reputationswert von 9 (siehe Seite 28). Dieser Vorzug kann mehrfach genommen werden, wobei das Ansehen jedes Mal für eine andere Gruppe gilt.
+**Ansehen:** Der Konvent ist berühmt. Seine Mitglieder werden gut behandelt, soweit es die Gabe zulässt, und Menschen sind unwillig, sich offen mit dem Konvent anzulegen. Innerhalb des Ordens würde dies auf Domus Magnae oder die ältesten und mächtigsten Konvente zutreffen. Ein Konvent, der wiederholt seine weltlichen Nachbarn unterstützt und verteidigt, könnte sich in der weltlichen Welt eine solche Reputation erwerben, auch wenn ein solches Maß an Aktivität die Aufmerksamkeit der Quaesitores auf sich ziehen würde. Der Konvent hat einen Reputationswert von 9 (siehe [Seite 28](#reputationen)). Dieser Vorzug kann mehrfach genommen werden, wobei das Ansehen jedes Mal für eine andere Gruppe gilt.
 
 **Regio:** Der Konvent befindet sich in einer magischen Regio, die nur betreten werden kann, wenn man von einem Eingeweihten geführt wird. Das Oppidum von Tablinum im Transsilvanischen Tribunal ist ein Lager für Wissen und Artefakte unter der Kontrolle des Hauses Tremere. Es existiert in zahlreichen Regiones, die nur durch Zauber betreten werden können, die alle den Besitz einer Arkanen Verbindung zur jeweiligen Regio voraussetzen. Glücklicherweise besitzt das Oberhaupt des Oppidums, bekannt als Kurator (derzeit Nestor von Tremere), eine Sammlung dieser Arkanen Verbindungen (*Against the Dark*, Seite 58).
 
@@ -8447,7 +8447,7 @@ Anzahl benötigter Fuhrleute: 1 für je 10 Punkte (alle Bewohner ohne Hilfsarbei
 | Typische Nutzung (durchschnittlich etwa 2 Quartale pro Jahr)           | x1   |
 | Starke Nutzung (durchschnittlich 3 Quartale oder mehr pro Jahr)        | x1,5 |
 
-Bilde die Summe der Punkte für alle Laboratorien im Konvent. Für einen Unterhalts-Wert zwischen –5 (dem niedrigstmöglichen) und +5 ist die Punktzahl pro Labor wie in obiger Tabelle angegeben. Beispielsweise entspricht ein Standardlabor (Unterhalt 0) 10 Punkten. Über +5 hinaus entspricht die Anzahl zusätzlicher Punkte pro Anstieg des Unterhalts-Wertes dem neuen Unterhalts-Wert mal zehn. Eine Erhöhung des Unterhalts von +5 auf +6 etwa erhöht die Punkte um 60 (+6 mal zehn), von 150 auf 210. Somit entspricht für ein Labor mit Unterhalt von +2 oder höher die Punktzahl dem Zehnfachen der Erfahrungspunkte, die nötig sind, um einen Kunst-Wert in Höhe des Unterhalts zu kaufen, wie in der Fortschritts-Tabelle auf Seite 375 angegeben. Beispielsweise entspricht ein Labor mit Unterhalt von +15 1200 Punkten – dem Zehnfachen der Kosten eines Kunst-Wertes von 15 (120 Erfahrungspunkte). Es gibt keine Obergrenze für einen Unterhalts-Wert – außer der Fähigkeit des Konvents, dafür aufzukommen!
+Bilde die Summe der Punkte für alle Laboratorien im Konvent. Für einen Unterhalts-Wert zwischen –5 (dem niedrigstmöglichen) und +5 ist die Punktzahl pro Labor wie in obiger Tabelle angegeben. Beispielsweise entspricht ein Standardlabor (Unterhalt 0) 10 Punkten. Über +5 hinaus entspricht die Anzahl zusätzlicher Punkte pro Anstieg des Unterhalts-Wertes dem neuen Unterhalts-Wert mal zehn. Eine Erhöhung des Unterhalts von +5 auf +6 etwa erhöht die Punkte um 60 (+6 mal zehn), von 150 auf 210. Somit entspricht für ein Labor mit Unterhalt von +2 oder höher die Punktzahl dem Zehnfachen der Erfahrungspunkte, die nötig sind, um einen Kunst-Wert in Höhe des Unterhalts zu kaufen, wie in der Fortschritts-Tabelle auf [Seite 375](#fortschrittstabellen) angegeben. Beispielsweise entspricht ein Labor mit Unterhalt von +15 1200 Punkten – dem Zehnfachen der Kosten eines Kunst-Wertes von 15 (120 Erfahrungspunkte). Es gibt keine Obergrenze für einen Unterhalts-Wert – außer der Fähigkeit des Konvents, dafür aufzukommen!
 
 #### Punkte für Waffen und Rüstung
 
@@ -8740,11 +8740,11 @@ Hermetische Magie ist eine äußerst nützliche, aber nicht vollkommen fehlerfre
 
 ## Die Gabe
 
-Die Fähigkeit, Magie zu wirken, wird unter hermetischen Magi als *Die Gabe* bezeichnet. Nur Menschen mit der Gabe können hermetische Magie erlernen – doch nicht alle tun es. Viele hermetische Magi sagen, dass Menschen mit geringen mystischen Fähigkeiten eine teilweise Gabe besitzen, wobei jedoch unklar ist, ob die Quelle ihrer Kraft dieselbe ist wie die der Magi. Menschen mit der Gabe können stattdessen in nicht-hermetischer Magie unterwiesen werden, doch es ist nahezu unmöglich, dass eine Person zwei Arten von Magie erlernt. (Siehe Seite 383 für die entsprechenden Regeln.)
+Die Fähigkeit, Magie zu wirken, wird unter hermetischen Magi als *Die Gabe* bezeichnet. Nur Menschen mit der Gabe können hermetische Magie erlernen – doch nicht alle tun es. Viele hermetische Magi sagen, dass Menschen mit geringen mystischen Fähigkeiten eine teilweise Gabe besitzen, wobei jedoch unklar ist, ob die Quelle ihrer Kraft dieselbe ist wie die der Magi. Menschen mit der Gabe können stattdessen in nicht-hermetischer Magie unterwiesen werden, doch es ist nahezu unmöglich, dass eine Person zwei Arten von Magie erlernt. (Siehe [Seite 383](#übernatürliche-fertigkeiten-erlernen) für die entsprechenden Regeln.)
 
 Die Gabe ist sehr selten und tritt vielleicht bei einer von einigen tausend Personen auf. Magi haben viele Theorien über die Ursache der Gabe, doch keine davon ist allgemein anerkannt.
 
-Die Gabe hat eine starke emotionale Wirkung auf die Umgebung des Begabten: Sie macht die Menschen in seiner Nähe misstrauisch und argwöhnisch und weckt Neid. Infolgedessen sind soziale Interaktionen für Begabte sehr schwierig. Einige hermetische Magi besitzen die Sanfte Gabe (eine Tugend, siehe Seite 82), die diese Wirkung nicht entfaltet, während andere die Auffällige Gabe (ein Fehler, siehe Seite 120) haben, die weit intensivere Auswirkungen hat. Die Gabe stört auch Tiere aus dem Alltag, die den Begabten so weit wie möglich meiden. Die Gabe wirkt nur auf jene, die sich in der Gegenwart des Begabten befinden. Briefe eines Begabten haben diese Wirkung nicht, ebenso wenig ein Bote eines solchen – es sei denn, der Bote selbst besitzt die Gabe.
+Die Gabe hat eine starke emotionale Wirkung auf die Umgebung des Begabten: Sie macht die Menschen in seiner Nähe misstrauisch und argwöhnisch und weckt Neid. Infolgedessen sind soziale Interaktionen für Begabte sehr schwierig. Einige hermetische Magi besitzen die Sanfte Gabe (eine Tugend, siehe [Seite 82](#sanfte-gabe)), die diese Wirkung nicht entfaltet, während andere die Auffällige Gabe (ein Fehler, siehe [Seite 120](#auffällige-gabe)) haben, die weit intensivere Auswirkungen hat. Die Gabe stört auch Tiere aus dem Alltag, die den Begabten so weit wie möglich meiden. Die Gabe wirkt nur auf jene, die sich in der Gegenwart des Begabten befinden. Briefe eines Begabten haben diese Wirkung nicht, ebenso wenig ein Bote eines solchen – es sei denn, der Bote selbst besitzt die Gabe.
 
 Wenn eine menschliche Figur mit einer Maga interagiert, soll sie sich so verhalten, als ob die Maga einen allgemein bekannten Ruf für Unehrlichkeit und Unzuverlässigkeit hätte sowie für unverdiente Privilegien, welche ihm persönlich am wichtigsten sind. So verhält sich ein Händler, als glaube er, die Maga sei durch Betrug zu Reichtum gekommen, während ein Herr sich so verhält, als sei die Maga eine verräterische Vasallin, die ihre Stellung durch Bestechung oder Ähnliches halte. Versucht die Maga, diese Reaktion durch Verhandlung zu überwinden, erleidet sie einen Abzug von −3 auf alle Würfelwürfe. Jemand ohne die Gabe, der in ihrem Namen verhandelt, erleidet keinen Abzug, muss jedoch mit dem durch die Gabe hervorgerufenen Misstrauen umgehen. Gelingt es der Maga, jemanden zu überzeugen oder zu zwingen, mit ihr zu interagieren, erleidet sie den −3-Abzug auf alle Würfe und Summen bei sozialen Interaktionen – einschließlich Ausbildung, unabhängig davon, ob die Maga Lehrende oder Lernende ist.
 
@@ -8754,7 +8754,7 @@ Zu beachten ist, dass Personen, die mit Begabten umgehen, nicht wirklich glauben
 
 Die Gabe entfaltet ihre Wirkung nur, wenn die Maga die Aufmerksamkeit auf sich zieht – ähnlich wie ein Ruf. Kleidet sich eine begabte Maga unauffällig, hält sich in der Mitte der Gruppe, tritt nicht als Anführerin auf und spricht mit niemandem, sollte die Gruppe reisen können, ohne unter den Reaktionen der Menschen auf die Gabe leiden zu müssen – solange sich die Maga beherrscht. Die Auffällige Gabe erschwert dies erheblich; die genannten Vorsichtsmaßnahmen reduzieren die Reaktionen der Menschen lediglich auf jene, die durch die normale Gabe hervorgerufen werden.
 
-Menschen gewöhnen sich nicht an die Gabe, selbst wenn sie ihr ganzes Leben mit Magi zusammengelebt haben. Sie können sich jedoch an einzelne Individuen mit der Gabe gewöhnen – genauso wie langer Umgang die Wirkung eines Rufes überlagert. Die Sterblichen eines Konvents gelten als an die dort lebenden Magi gewöhnt und reagieren auf sie entsprechend ihrem tatsächlichen Verhalten (siehe Seite 186 im Konvent-Kapitel für die entsprechenden Regeln).
+Menschen gewöhnen sich nicht an die Gabe, selbst wenn sie ihr ganzes Leben mit Magi zusammengelebt haben. Sie können sich jedoch an einzelne Individuen mit der Gabe gewöhnen – genauso wie langer Umgang die Wirkung eines Rufes überlagert. Die Sterblichen eines Konvents gelten als an die dort lebenden Magi gewöhnt und reagieren auf sie entsprechend ihrem tatsächlichen Verhalten (siehe [Seite 186](#vertrautheit) im Konvent-Kapitel für die entsprechenden Regeln).
 
 Gegenüber besuchenden Magi werden sie dennoch misstrauisch sein.
 
@@ -8838,7 +8838,7 @@ Hermetische Magi haben einen Wert in jeder Kunst. Die Werte in den Künsten spie
 
 Diese Boni sind nicht kumulierbar. Wenn zwei Boni auf eine gegebene Gefahr anwendbar erscheinen, wird nur der höhere verwendet.
 
-In den folgenden zwei Abschnitten ist jede der Künste mit ihrer üblichen zweistelligen Abkürzung, ihrer Übersetzung aus dem Lateinischen, einer allgemeinen Beschreibung und ihrer hermetischen Aussprache aufgeführt. Detailliertere Beschreibungen dessen, was ein Magus mit verschiedenen Technik-Form-Kombinationen anstellen kann, finden sich im Zauber-Kapitel auf Seite 313.
+In den folgenden zwei Abschnitten ist jede der Künste mit ihrer üblichen zweistelligen Abkürzung, ihrer Übersetzung aus dem Lateinischen, einer allgemeinen Beschreibung und ihrer hermetischen Aussprache aufgeführt. Detailliertere Beschreibungen dessen, was ein Magus mit verschiedenen Technik-Form-Kombinationen anstellen kann, finden sich im Zauber-Kapitel auf [Seite 313](#zauberformat).
 
 ### Techniken
 
@@ -8850,7 +8850,7 @@ Die Art, was etwas ist, hängt von seiner Form ab. Natürliche Dinge wie Pflanze
 
 Künstliche Dinge wie Brot, Schwerter und Bücher haben komplexe Formen. Ihre Formen sind Kombinationen mehrerer natürlicher Formen, die auf eine bestimmte Weise zusammengesetzt sind. Die Erschaffung eines künstlichen Dings durch Magie erfordert ein gewisses Können des Magus, das durch seine Finesse-Fertigkeit ausgedrückt wird. Ein Int + Finesse-Wurf bestimmt die Qualität des erschaffenen Gegenstands. Zudem kann ein Magus nur etwas erschaffen, worüber er Bescheid weiß. Jeder Magus kann Brot oder Tuch erschaffen, doch um ein aufwendiges Mosaik zu schaffen, das die Gründung des Ordens des Hermes zeigt, müsste der Zaubernde wissen, was es darstellen soll. Wäre er im Irrtum, wäre das Mosaik ebenfalls falsch. Ähnliche Überlegungen gelten für die Reparatur künstlicher Dinge.
 
-Ein Magus muss ein künstliches Objekt nicht durch weltliche Mittel herstellen können, um es durch Magie zu erschaffen – er muss lediglich einigermaßen damit vertraut sein. Ein magisch erschaffenes Objekt wird stets von der richtigen Art sein, solange der Magus keinen Patzer bei seinem Finesse-Wurf erleidet. Daher wird magisch erschaffenes Tuch stets ein ganzes Stück sein und Menschen wärmen, mag aber wenig ansehnlich sein, wenn der Wurf schlecht ausfiel. Weitere Einzelheiten finden sich unter Handwerksmagie auf Seite 306.
+Ein Magus muss ein künstliches Objekt nicht durch weltliche Mittel herstellen können, um es durch Magie zu erschaffen – er muss lediglich einigermaßen damit vertraut sein. Ein magisch erschaffenes Objekt wird stets von der richtigen Art sein, solange der Magus keinen Patzer bei seinem Finesse-Wurf erleidet. Daher wird magisch erschaffenes Tuch stets ein ganzes Stück sein und Menschen wärmen, mag aber wenig ansehnlich sein, wenn der Wurf schlecht ausfiel. Weitere Einzelheiten finden sich unter Handwerksmagie auf [Seite 306](#magisches-handwerk).
 
 Ein Magus kann Creo auch einsetzen, um etwas zu einem besseren Exemplar seiner Art zu machen, selbst wenn es nicht verletzt oder beschädigt ist. So kann Creo ein Pferd so schnell wie das schnellste Pferd machen oder einen Mann so stark wie den stärksten Mann. Creo kann ein Pferd nicht so schnell wie den Wind laufen lassen, da kein gewöhnliches Pferd das vermag, noch kann es einen Mann stark genug machen, eine Burg zu heben. Da das Heranreifen bedeutet, ein vollständigeres Exemplar seiner Art zu werden, kann Creo-Magie Dinge schnell heranreifen lassen. Das Altern nach der Reife bedeutet ein Schlechterwerden als Exemplar und fällt daher unter Perdo.
 
@@ -8878,9 +8878,9 @@ Muto-Magie kann die Eigenschaften, die ein Ding von Natur aus besitzt, nicht bee
 
 #### Perdo (Pe) – „Ich zerstöre"
 
-Perdo macht Dinge zu schlechteren Exemplaren ihrer Art. Es ist das Gegenteil von Creo. Perdo-Magie kann Dinge einfach zerstören – sie vollständig aus der Existenz entfernen – oder Aspekte eines Dings zerstören. So könnte Perdo Corpus das Gewicht einer Person entfernen, während alle anderen Eigenschaften erhalten bleiben, und Perdo Ignem könnte ein Feuer unfähig machen, irgendetwas zu verbrennen. Perdo allein kann nur das Ganze einer natürlichen Eigenschaft zerstören; ein Feuer unfähig zu machen, nur Holz zu verbrennen, erforderte Perdo mit einem Muto-Requisit (siehe Seite 311 für Requisiten): Perdo zerstört die Fähigkeit, irgendetwas zu verbrennen, und Muto verleiht die Fähigkeit, nur Holz zu verbrennen – eine Eigenschaft, die Feuer von Natur aus nicht hat.
+Perdo macht Dinge zu schlechteren Exemplaren ihrer Art. Es ist das Gegenteil von Creo. Perdo-Magie kann Dinge einfach zerstören – sie vollständig aus der Existenz entfernen – oder Aspekte eines Dings zerstören. So könnte Perdo Corpus das Gewicht einer Person entfernen, während alle anderen Eigenschaften erhalten bleiben, und Perdo Ignem könnte ein Feuer unfähig machen, irgendetwas zu verbrennen. Perdo allein kann nur das Ganze einer natürlichen Eigenschaft zerstören; ein Feuer unfähig zu machen, nur Holz zu verbrennen, erforderte Perdo mit einem Muto-Requisit (siehe [Seite 311](#requisiten) für Requisiten): Perdo zerstört die Fähigkeit, irgendetwas zu verbrennen, und Muto verleiht die Fähigkeit, nur Holz zu verbrennen – eine Eigenschaft, die Feuer von Natur aus nicht hat.
 
-Perdo-Magie ist leichter, wenn das Ding die zerstörte Eigenschaft von Natur aus verlieren kann. So ist es leichter, eine Person zu töten, als ihr Gewicht zu entfernen, während die anderen Eigenschaften erhalten bleiben, da Ersteres von Natur aus eintreten kann, Letzteres jedoch nicht. Zudem fällt das Zerstören von Eigenschaften, die ein Ding von Natur aus nicht verlieren kann, unter die Grenze der Wesentlichen Natur (siehe Seite 210) und kann daher nicht dauerhaft sein; die zerstörten Eigenschaften kehren am Ende der Dauer des Zaubers von selbst zurück.
+Perdo-Magie ist leichter, wenn das Ding die zerstörte Eigenschaft von Natur aus verlieren kann. So ist es leichter, eine Person zu töten, als ihr Gewicht zu entfernen, während die anderen Eigenschaften erhalten bleiben, da Ersteres von Natur aus eintreten kann, Letzteres jedoch nicht. Zudem fällt das Zerstören von Eigenschaften, die ein Ding von Natur aus nicht verlieren kann, unter die Grenze der Wesentlichen Natur (siehe [Seite 210](#die-grenze-der-wesensnatur)) und kann daher nicht dauerhaft sein; die zerstörten Eigenschaften kehren am Ende der Dauer des Zaubers von selbst zurück.
 
 Perdo kann ein Ding nur zu einem schlechteren Exemplar dessen machen, was es ist. Man kann ein Schwert nicht mit Perdo schärfen, auch wenn Schärfen das Entfernen von etwas Metall beinhaltet. Ebenso kann man nicht die Eigenschaft einer Person, verletzt zu sein, entfernen, da dies sie zu einem besseren Exemplar ihrer Art machen würde.
 
@@ -8890,7 +8890,7 @@ Perdo kann ein Ding nur zu einem schlechteren Exemplar dessen machen, was es ist
 
 Die Kunst Rego erlaubt einer Maga, den Zustand eines Dings in einen anderen Zustand zu verändern, den das jeweilige Ding von Natur aus haben kann. Da alle Dinge von Natur aus jeden beliebigen Ort haben können, ermöglicht Rego-Magie einer Maga, Dinge zu bewegen. Rego kann auch einen Baum außerhalb der Saison blühen lassen, eine Person in den Schlaf versetzen, ein Stück Stein zu einer Statue formen oder Fäden zu einem Gewand weben. Es kann ein Tier nicht wieder jung erscheinen lassen, da ausgewachsene Tiere von Natur aus nicht wieder jung werden können (wenngleich Muto dies könnte). Rego kann ein Tier auch nicht altern lassen, da Altern ein Verfall der Form bedeutet (also könnte Perdo dies tun). Obwohl Rego einen Baum außerhalb der Saison Früchte tragen lassen kann, würden diese Früchte keine Samen enthalten, da Samen eigenständige Substanzen (potenzielle Bäume) sind und ihre Erschaffung daher Creo erfordern würde. Ebenso kann Rego einen braunen Hund nicht schwarz färben, da der braune Hund von Natur aus diese Farbe nicht annehmen kann, auch wenn Hunde von Natur aus schwarz sein können.
 
-Weltliche Handwerker können den Zustand eines Dings nur in einen anderen Zustand ändern, den das Ding von Natur aus haben kann. Daher können die meisten Veränderungen, die ein weltlicher Handwerker vornehmen kann, auch durch Rego-Magie vorgenommen werden. In diesem Fall ist ein Finesse-Wurf erforderlich, um die Qualität des Ergebnisses zu bestimmen. Rego kann jedoch Veränderungen vornehmen, die ein weltlicher Handwerker nicht vornehmen kann, wenn dieser lediglich durch verfügbare Werkzeuge, Zeit oder Geschick begrenzt ist. Andererseits können weltliche Handwerker ihre Werkzeuge nutzen, um Dinge einfach zu beschädigen oder zu zerstören, und Rego-Magie kann das nicht – das fällt unter Perdo. Rego-Magie könnte eingesetzt werden, um eine Axt zu führen und damit einen Baum zu fällen, aber nicht, um den Baum direkt zu fällen – das wäre Perdo. Sobald der Baum gefällt ist, kann Rego-Magie das Holz jedoch zu Planken formen. Weitere Einzelheiten finden sich unter Handwerksmagie auf Seite 306.
+Weltliche Handwerker können den Zustand eines Dings nur in einen anderen Zustand ändern, den das Ding von Natur aus haben kann. Daher können die meisten Veränderungen, die ein weltlicher Handwerker vornehmen kann, auch durch Rego-Magie vorgenommen werden. In diesem Fall ist ein Finesse-Wurf erforderlich, um die Qualität des Ergebnisses zu bestimmen. Rego kann jedoch Veränderungen vornehmen, die ein weltlicher Handwerker nicht vornehmen kann, wenn dieser lediglich durch verfügbare Werkzeuge, Zeit oder Geschick begrenzt ist. Andererseits können weltliche Handwerker ihre Werkzeuge nutzen, um Dinge einfach zu beschädigen oder zu zerstören, und Rego-Magie kann das nicht – das fällt unter Perdo. Rego-Magie könnte eingesetzt werden, um eine Axt zu führen und damit einen Baum zu fällen, aber nicht, um den Baum direkt zu fällen – das wäre Perdo. Sobald der Baum gefällt ist, kann Rego-Magie das Holz jedoch zu Planken formen. Weitere Einzelheiten finden sich unter Handwerksmagie auf [Seite 306](#magisches-handwerk).
 
 
 
@@ -8976,13 +8976,13 @@ Diese Form betrifft Feststoffe, insbesondere Erde und Gestein.
 
 Diese Form betrifft rohe magische Kraft. Alle Künste beruhen auf der rohen Energie und dem Potenzial der Magie, doch diese Kunst verfeinert den Umgang mit der Magie selbst und ermöglicht es Magi, eine noch größere Kontrolle über ihre Zauber zu erlangen. Vim beeinflusst zudem magische, infernale, göttliche und feenhafte Wesen.
 
-*Formbonus:* Würfe zum Widerstehen des Zwielichts (siehe Seite 228), jedoch nicht Würfe zum Begreifen desselben; Schadensabsorption gegen Schaden, der durch das eigene Zaubern verursacht wird, jedoch nicht gegen Schaden, der durch die eigenen Zauber verursacht wird.
+*Formbonus:* Würfe zum Widerstehen des Zwielichts (siehe [Seite 228](#das-zwielicht)), jedoch nicht Würfe zum Begreifen desselben; Schadensabsorption gegen Schaden, der durch das eigene Zaubern verursacht wird, jedoch nicht gegen Schaden, der durch die eigenen Zauber verursacht wird.
 
 
 
 #### Die Elementaren Formen
 
-Aquam, Auram, Ignem und Terram sind die elementaren Formen und betreffen die nichtlebenden Dinge der Welt. Oft fällt ein Ding unter mehr als eine dieser Künste. So ist geschmolzene Lava grundsätzlich Terram, da sie eine Form von Gestein ist, doch ihre Flüssigkeit wird durch Aquam und ihre Hitze durch Ignem bestimmt. Ebenso ist Eis grundsätzlich Aquam als eine Form von Wasser, doch seine Festigkeit fällt unter Terram und seine Kälte unter Ignem. Als Faustregel gilt: Die einfache Erschaffung oder Zerstörung eines nichtlebenden Dings erfordert nur die grundlegende Kunst, ohne Requisiten (siehe Seite 311). Um Eis zu erschaffen, benötigt man also nur Creo Aquam. Das Beeinflussen der Aspekte und Eigenschaften eines Dings kann jedoch andere Künste erfordern. So würde das Erwärmen von Eis Creo Ignem erfordern. Ein Creo Aquam-Zauber mit einem Ignem-Requisit könnte warmes Eis erschaffen – weiterhin fest, aber warm. Alternativ könnte ein Magus einfach Wärme erzeugen und das Eis natürlich schmelzen lassen.
+Aquam, Auram, Ignem und Terram sind die elementaren Formen und betreffen die nichtlebenden Dinge der Welt. Oft fällt ein Ding unter mehr als eine dieser Künste. So ist geschmolzene Lava grundsätzlich Terram, da sie eine Form von Gestein ist, doch ihre Flüssigkeit wird durch Aquam und ihre Hitze durch Ignem bestimmt. Ebenso ist Eis grundsätzlich Aquam als eine Form von Wasser, doch seine Festigkeit fällt unter Terram und seine Kälte unter Ignem. Als Faustregel gilt: Die einfache Erschaffung oder Zerstörung eines nichtlebenden Dings erfordert nur die grundlegende Kunst, ohne Requisiten (siehe [Seite 311](#requisiten)). Um Eis zu erschaffen, benötigt man also nur Creo Aquam. Das Beeinflussen der Aspekte und Eigenschaften eines Dings kann jedoch andere Künste erfordern. So würde das Erwärmen von Eis Creo Ignem erfordern. Ein Creo Aquam-Zauber mit einem Ignem-Requisit könnte warmes Eis erschaffen – weiterhin fest, aber warm. Alternativ könnte ein Magus einfach Wärme erzeugen und das Eis natürlich schmelzen lassen.
 
 Nebel ist eine Art Luft, daher ist seine Grundform Auram, aber seine Feuchtigkeit bedeutet, dass er in bestimmter Hinsicht auch durch Aquam beeinflusst wird. Wetterphänomene sind allesamt grundsätzlich Auram, einschließlich Gewitterregen, aber ein Zauber, der nur den Regen beeinflussen soll, wäre Aquam. Hagelstürme sind dann grundsätzlich Auram, aber die Hagelkörner sind grundsätzlich Aquam mit Elementen von Ignem und Terram.
 
@@ -9022,7 +9022,7 @@ Hermetische Magie ist nicht in der Lage, ohne rohes Vis dauerhaft etwas zu ersch
 
 #### Die Grenze der Energie
 
-Hermetische Magie kann weder die körperliche Energie (Erschöpfungsstufen) wiederherstellen noch das Selbstvertrauen (siehe Seite 29). Die meisten Magi halten dies für einen Mangel in der hermetischen Theorie.
+Hermetische Magie kann weder die körperliche Energie (Erschöpfungsstufen) wiederherstellen noch das Selbstvertrauen (siehe [Seite 29](#selbstvertrauen)). Die meisten Magi halten dies für einen Mangel in der hermetischen Theorie.
 
 #### Die Grenze der Erfahrung
 
@@ -9060,7 +9060,7 @@ Hermetische Magie kann die Kunst, der rohes Vis zugeordnet ist, nicht verändern
 
 Länger andauernde Einwirkung aktiver Magie oder hoher Auren verursacht üblicherweise Veränderungen, die allgemein als Verzerrung bezeichnet werden. Hermetische Magie ist vollständig außerstande, diese Veränderungen rückgängig zu machen, sobald sie eingetreten sind.
 
-Das Zwielicht (siehe Seite 228) ist eine Erscheinungsform der Verzerrung.
+Das Zwielicht (siehe [Seite 228](#das-zwielicht)) ist eine Erscheinungsform der Verzerrung.
 
 Die meisten Magi würden gerne glauben, dass dies aus der Grenze des Göttlichen folgt, da Magie dann eine Erscheinung göttlicher Kraft wäre. Andere meinen, es leite sich aus der Grenze der Wesensnatur ab.
 
@@ -9074,7 +9074,7 @@ Die meisten Magi würden gerne glauben, dass dies aus der Grenze des Göttlichen
 
 Magische Urkraft, bekannt als Vis (ausgesprochen „WEES"), findet sich bisweilen gespeichert in und teilweise als Bestandteil einer physischen Substanz. Dies kann geschehen, weil ein Magus sie dort eingeschlossen hat, oder weil sie durch natürliche magische Prozesse dort abgelagert wurde. Vis, der in einer Substanz eingeschlossen ist, wird rohes Vis genannt, und Magi haben viele Verwendungsmöglichkeiten dafür.
 
-Rohes Vis ist stets einer bestimmten Technik oder Form zugeordnet. So gibt es Ignem-Vis, Creo-Vis, Imaginem-Vis – ja sogar Vim-Vis. Rohes Vis existiert unweigerlich in einer Substanz, die der Technik oder Form entspricht, der er zugeordnet ist. Animal-Vis findet sich möglicherweise in Blut, Häuten oder Hörnern; Herbam-Vis in Pflanzenfasern oder Harz; Terram-Vis in Kristallen und so weiter. Wird rohes Vis verbraucht, geht seine Kraft dauerhaft verloren. Die Substanz verändert sich dabei häufig – sie löst sich auf, verdorrt, bröckelt, schrumpft oder verfällt auf andere, ihrer Natur entsprechende Weise. Dies geschieht normalerweise nicht, wenn der Vis magisch in ein anderes Behältnis übertragen wurde (siehe Seite 250), und niemals bei solchen künstlichen Behältnissen.
+Rohes Vis ist stets einer bestimmten Technik oder Form zugeordnet. So gibt es Ignem-Vis, Creo-Vis, Imaginem-Vis – ja sogar Vim-Vis. Rohes Vis existiert unweigerlich in einer Substanz, die der Technik oder Form entspricht, der er zugeordnet ist. Animal-Vis findet sich möglicherweise in Blut, Häuten oder Hörnern; Herbam-Vis in Pflanzenfasern oder Harz; Terram-Vis in Kristallen und so weiter. Wird rohes Vis verbraucht, geht seine Kraft dauerhaft verloren. Die Substanz verändert sich dabei häufig – sie löst sich auf, verdorrt, bröckelt, schrumpft oder verfällt auf andere, ihrer Natur entsprechende Weise. Dies geschieht normalerweise nicht, wenn der Vis magisch in ein anderes Behältnis übertragen wurde (siehe [Seite 250](#vis-übertragung)), und niemals bei solchen künstlichen Behältnissen.
 
 Rohes Vis kann für viele Zwecke eingesetzt werden. Beispiele sind das Verstärken eines Zaubers, das Wirken eines Rituals, das Erschaffen einer magischen Verzauberung oder das Studium der magischen Kunst, der er zugeordnet ist. Aufgrund seiner Nützlichkeit wird Vis von Magi hoch geschätzt. Sie verwenden ihn häufig als Zahlungsmittel und messen ihn in Einheiten namens Bauern. Zehn Bauern ergeben einen Turm, zehn Türme eine Dame. Eine Dame Vis ist eine legendäre Menge; es wäre höchst unwahrscheinlich, dass ein einzelner Magus auch nur einen nennenswerten Bruchteil davon besitzt.
 
@@ -9092,7 +9092,7 @@ Wird für die Zaubersumme ein Stresswurf benötigt, ist ein Patzer normalerweise
 
 ### Grundlagen der Zauber
 
-Alle hermetischen Zauber haben eine Technik, eine Form und eine Stufe. Technik und Form ergeben sich aus der Art des Effekts, den der Zauber erzeugt, während die Stufe bestimmt, wie mächtig dieser Effekt ist. Zauber haben außerdem eine Magnitude, die der Stufe geteilt durch fünf, aufgerundet, entspricht. Diese Begriffe werden im weiteren Verlauf dieses Kapitels sowie in der Einleitung zum Zauberkapitel auf Seite 301 ausführlicher erläutert.
+Alle hermetischen Zauber haben eine Technik, eine Form und eine Stufe. Technik und Form ergeben sich aus der Art des Effekts, den der Zauber erzeugt, während die Stufe bestimmt, wie mächtig dieser Effekt ist. Zauber haben außerdem eine Magnitude, die der Stufe geteilt durch fünf, aufgerundet, entspricht. Diese Begriffe werden im weiteren Verlauf dieses Kapitels sowie in der Einleitung zum Zauberkapitel auf [Seite 301](#kapitel-9-zauber) ausführlicher erläutert.
 
 ### Formulaische Magie
 
@@ -9100,7 +9100,7 @@ Formulaische Magie ist das Wirken von Zaubern, die die Maga bereits kennt. Die Z
 
 **FORMULAISCHE ZAUBERSUMME: Zauberwert + Würfelwurf**
 
-Welche Art von Würfel verwendet wird, hängt von der Situation ab. Steht die Maga unter keinerlei Druck, ist es ein einfacher Würfel. Befindet sie sich in einer stressreichen Lage, ist es ein Stresswürfel. Hat die Maga den Zauber gemeistert, wird stets ein Stresswürfel verwendet; in einer ruhigen Situation gibt es jedoch keine Patzerwürfel, auch wenn sich die Maga in einer Nicht-Magie-Aura befindet (siehe unten, Seite 225).
+Welche Art von Würfel verwendet wird, hängt von der Situation ab. Steht die Maga unter keinerlei Druck, ist es ein einfacher Würfel. Befindet sie sich in einer stressreichen Lage, ist es ein Stresswürfel. Hat die Maga den Zauber gemeistert, wird stets ein Stresswürfel verwendet; in einer ruhigen Situation gibt es jedoch keine Patzerwürfel, auch wenn sich die Maga in einer Nicht-Magie-Aura befindet (siehe unten, [Seite 225](#zaubermeisterschaft)).
 
 Entspricht die Zaubersumme der Stufe des Zaubers oder übertrifft sie diese, gelingt der Zauber und die Maga erleidet keine nachteiligen Folgen. Unterschreitet die Zaubersumme die Zauberstufe um zehn oder weniger, tritt der Zauber in Kraft, doch die Maga verliert eine Erschöpfungsstufe. Unterschreitet die Zaubersumme die Zauberstufe um mehr als zehn, tritt der Zauber nicht in Kraft, die Maga verliert aber dennoch eine Erschöpfungsstufe.
 
@@ -9124,7 +9124,7 @@ Der beim Ritualzauber eingesetzte Vis muss entweder der Technik oder der Form de
 
 Die Magnitude von Ritualzaubern sowie die Notwendigkeit, viele Elemente einzubeziehen, bedeuten, dass stets ein Stresswürfel geworfen wird, was normalerweise die Möglichkeit eines Patzers schafft. Hat die Maga den Zauber jedoch gemeistert, gibt es in einer ruhigen Situation keine Patzerwürfel – wie bei formulaischen Zaubern.
 
-Anhand der Tabelle lässt sich ablesen, ob der Zauber gelingt und wie viele Erschöpfungsstufen verloren gehen. Durch Ritualmagie verlorene Erschöpfungsstufen sind Langzeit-Erschöpfungsstufen, die nur durch eine erholsame Nacht zurückgewonnen werden können (siehe Seite 404). Hat die Maga nicht mehr genug Erschöpfungsstufen, erleidet sie zusätzlich Wunden. Hätte sie eine weitere Erschöpfungsstufe verloren, ist die Wunde eine Leichte Wunde; bei zwei weiteren eine Mittelschwere Wunde; bei drei weiteren eine Schwere Wunde; und bei vier weiteren eine Lähmende Wunde. Als Beispiel: Eine Maga mit zwei verbleibenden Erschöpfungsstufen wirkt einen Ritualzauber der Stufe 30 und erzielt eine Zaubersumme von 22 – acht weniger als die Zauberstufe. Der Zauber tritt in Kraft, aber die Maga verliert ihre verbleibenden zwei Erschöpfungsstufen, fällt bewusstlos und erleidet dann noch eine Leichte Wunde.
+Anhand der Tabelle lässt sich ablesen, ob der Zauber gelingt und wie viele Erschöpfungsstufen verloren gehen. Durch Ritualmagie verlorene Erschöpfungsstufen sind Langzeit-Erschöpfungsstufen, die nur durch eine erholsame Nacht zurückgewonnen werden können (siehe [Seite 404](#langzeiterschöpfung)). Hat die Maga nicht mehr genug Erschöpfungsstufen, erleidet sie zusätzlich Wunden. Hätte sie eine weitere Erschöpfungsstufe verloren, ist die Wunde eine Leichte Wunde; bei zwei weiteren eine Mittelschwere Wunde; bei drei weiteren eine Schwere Wunde; und bei vier weiteren eine Lähmende Wunde. Als Beispiel: Eine Maga mit zwei verbleibenden Erschöpfungsstufen wirkt einen Ritualzauber der Stufe 30 und erzielt eine Zaubersumme von 22 – acht weniger als die Zauberstufe. Der Zauber tritt in Kraft, aber die Maga verliert ihre verbleibenden zwei Erschöpfungsstufen, fällt bewusstlos und erleidet dann noch eine Leichte Wunde.
 
 | Zaubersumme − Zauberstufe | Zauber gewirkt? | Erschöpfungsstufen verloren |
 | ------------------------- | --------------- | --------------------------- |
@@ -9156,13 +9156,13 @@ Die Penetrationssumme misst, wie wirksam ein Zauber die Magieresistenz seines Zi
 
 **PENETRATIONSSUMME: Zaubersumme + Penetrationsbonus − Zauberstufe**
 
-Der Penetrationsbonus entspricht mindestens dem Wert der Penetrations-Fertigkeit des Magus, kann aber auf verschiedene Weisen erhöht werden – siehe Abschnitt Penetration auf Seite 219. Ein Zauber kann daher gegen verschiedene Ziele unterschiedliche Penetrationssummen haben.
+Der Penetrationsbonus entspricht mindestens dem Wert der Penetrations-Fertigkeit des Magus, kann aber auf verschiedene Weisen erhöht werden – siehe Abschnitt Penetration auf [Seite 219](#penetration-1). Ein Zauber kann daher gegen verschiedene Ziele unterschiedliche Penetrationssummen haben.
 
 Die Penetrationssumme kann null oder negativ sein. Wirkt ein Magus beispielsweise einen formulaischen Zauber mit einer Zaubersumme, die fünf unter der Zauberstufe liegt, und hat er einen Penetrationsbonus von 0 (weil er keine Penetration gelernt hat), beträgt seine Penetrationssumme −5. Ist die Penetration null oder negativ, kann der Zauber kein Ziel mit Magieresistenz treffen – selbst wenn dessen Magieresistenz 0 beträgt. Gegen Ziele ohne Magieresistenz wirkt er jedoch weiterhin.
 
 Übertrifft die Penetrationssumme die Magieresistenz eines Ziels, wirkt der Zauber auf dieses Ziel. Richtet sich ein Zauber gegen mehrere Individuen mit unterschiedlicher Magieresistenz, kann er manche treffen, andere jedoch nicht.
 
-Die Regeln zur Berechnung der Penetration für Kräfte übernatürlicher Kreaturen finden sich im Bestiarien-Kapitel (Seite 426). Die Regeln zur Penetration anderer übernatürlicher Fertigkeiten stehen auf Seite 412 oder im Quellenband mit den Regeln für die jeweilige Fertigkeit; in den meisten Fällen entspricht die Penetration dem Gesamtwert der Fertigkeit plus Penetrationsbonus, abzüglich des Schwierigkeitsgrads des Effekts.
+Die Regeln zur Berechnung der Penetration für Kräfte übernatürlicher Kreaturen finden sich im Bestiarien-Kapitel ([Seite 426](#kapitel-13-bestiarium)). Die Regeln zur Penetration anderer übernatürlicher Fertigkeiten stehen auf [Seite 412](#magieresistenz-und-penetration) oder im Quellenband mit den Regeln für die jeweilige Fertigkeit; in den meisten Fällen entspricht die Penetration dem Gesamtwert der Fertigkeit plus Penetrationsbonus, abzüglich des Schwierigkeitsgrads des Effekts.
 
 ### Konzentration
 
@@ -9326,7 +9326,7 @@ Arkane Verbindungen müssen sorgfältig aufbewahrt werden, da sie sonst zu Verbi
 | Monate       | Haarsträhne, bevorzugtes Werkzeug oder Kleidungsstück, Holzsplitter von einem bestimmten Ort, Feder eines Vogels, Schuppe eines Reptils.                                                                                                            |
 | Jahre        | Bereitetes Artefakt, Gestein oder Metall von einem bestimmten Ort, Blut, Haarlocke, Gruppe von Federn eines Vogels, Gruppe von Schuppen eines Reptils.                                                                                             |
 | Jahrzehnte   | Körperteil.                                                                                                                                                                                                                                         |
-| Unbegrenzt   | Hermetischer Vertrauter (Verbindung zum Meister), hermetischer Magus (Verbindung zum Vertrauten), hermetischer Talisman (Verbindung zum Erschaffer), fixierte Arkane Verbindungen (siehe „Arkane Verbindungen fixieren" im Laboratoriums-Kapitel, Seite 250). |
+| Unbegrenzt   | Hermetischer Vertrauter (Verbindung zum Meister), hermetischer Magus (Verbindung zum Vertrauten), hermetischer Talisman (Verbindung zum Erschaffer), fixierte Arkane Verbindungen (siehe „Arkane Verbindungen fixieren" im Laboratoriums-Kapitel, [Seite 250](#arkane-verbindungen-festigen)). |
 
 ## Penetration
 
@@ -9379,11 +9379,11 @@ Kraftloses Zaubern erfordert keine besondere Fertigkeit oder Mühe. Es ist nütz
 >
 > Maris Spielerin argumentiert, dass Drachen wie alle anderen Wesen Horoskope haben, und der Spielleiter stimmt zu. Leider hat Mari keine Ahnung, wann – oder ob überhaupt – der Drache geboren wurde, sodass sie nur ein Tageshoroskop erstellen kann. Das erhöht den Penetrationsmultiplikator um weitere +1, sodass ihr Penetrationswert nun mit 6 multipliziert wird. Ihre typische Penetrationssumme beträgt nun 40.
 >
-> Mari hat außerdem den Zauber gemeistert (siehe Seite 225) und die Meisterschaft Penetration gewählt. Sie hat einen Meisterschaftswert von 1 für den Zauber; dieser addiert sich zu ihrem Penetrationswert, sodass sie statt 4 × 6 nun 5 (4 für Penetration, 1 für den Meisterschaftswert) × 6 multipliziert. Das erhöht ihre typische Penetrationssumme auf 46 – genug, meint sie, um den Drachen auf sich aufmerksam zu machen. Mit Arkaner Verbindung und Horoskop in der Hand bricht sie auf.
+> Mari hat außerdem den Zauber gemeistert (siehe [Seite 225](#zaubermeisterschaft)) und die Meisterschaft Penetration gewählt. Sie hat einen Meisterschaftswert von 1 für den Zauber; dieser addiert sich zu ihrem Penetrationswert, sodass sie statt 4 × 6 nun 5 (4 für Penetration, 1 für den Meisterschaftswert) × 6 multipliziert. Das erhöht ihre typische Penetrationssumme auf 46 – genug, meint sie, um den Drachen auf sich aufmerksam zu machen. Mit Arkaner Verbindung und Horoskop in der Hand bricht sie auf.
 
 ## Magieresistenz
 
-Die meisten Menschen haben keine Magieresistenz. Hat das Ziel eines Zaubers keine Magieresistenz, erleidet es dessen Wirkungen unabhängig davon, wie niedrig die Penetrationssumme ist – selbst wenn sie negativ ist. Menschen können allgemeine Magieresistenz aus drei Quellen erlangen: dem Göttlichen, dem Infernalen und hermetischer Magie. Keine anderen magischen oder feenhaften Kräfte können Menschen allgemeine Magieresistenz verleihen, aber Kreaturen mit einem Machtwert haben eine Magieresistenz in Höhe ihrer Macht (siehe Seite 427).
+Die meisten Menschen haben keine Magieresistenz. Hat das Ziel eines Zaubers keine Magieresistenz, erleidet es dessen Wirkungen unabhängig davon, wie niedrig die Penetrationssumme ist – selbst wenn sie negativ ist. Menschen können allgemeine Magieresistenz aus drei Quellen erlangen: dem Göttlichen, dem Infernalen und hermetischer Magie. Keine anderen magischen oder feenhaften Kräfte können Menschen allgemeine Magieresistenz verleihen, aber Kreaturen mit einem Machtwert haben eine Magieresistenz in Höhe ihrer Macht (siehe [Seite 427](#kräfte-der-kreatur)).
 
 Hermetische Magi haben eine Basis-Magieresistenz in Höhe ihres Wertes in der Form, die dem gewirkten Zauber am ehesten entspricht. Im Zweifelsfall ist Vim eine sichere Grundlage. So hätte eine Maga, die mit magischem Feuer angegriffen wird, eine Magieresistenz von mindestens ihrem Ignem-Wert. Da alle hermetischen Magi in jeder Form mindestens einen Wert von 0 haben, hat eine Maga niemals eine Magieresistenz unter null.
 
@@ -9447,7 +9447,7 @@ Fällt die magische Brücke auf die Maga, wird sie aufgehalten, richtet ihr aber
 
 Fällt eine Maga in eine Grube voller magischer Spitzen, gleitet sie um die Spitzen herum, wenn genug Platz vorhanden ist, oder kommt auf ihnen zu liegen, wenn nicht. Sie erleidet normalen Fallschaden, aber keinen Schaden durch die Spitzen.
 
-Die Maga kann einen unsichtbaren Charakter nicht sehen, da die Spezies (siehe Imaginem, Seite 209) vernichtet werden, bevor sie sie erreichen.
+Die Maga kann einen unsichtbaren Charakter nicht sehen, da die Spezies (siehe Imaginem, [Seite 209](#imaginem-im-erscheinung)) vernichtet werden, bevor sie sie erreichen.
 
 Ein unsichtbarer Charakter kann die Maga nicht berühren oder körperlichen Druck auf sie ausüben, selbst wenn der Unsichtbarkeitszauber die Reichweite Persönlich hat. Die Maga spürt die Warnung, dass etwas abgewehrt wurde, aber nichts weiter. Weitere Erläuterungen finden sich in den Beispielen zur magischen Brücke weiter oben.
 
@@ -9465,9 +9465,9 @@ Eine Maga kann einen Zauber wirken wollen, der etwas anderes trifft und das eige
 
 **ZIELWURF: Wahrnehmung + Finesse + Würfelwurf**
 
-Der Würfelwurf ist ein Stresswürfel, wenn die Maga unter Druck steht, andernfalls ein einfacher Würfel. Das Ergebnis wird als Angriffssumme behandelt (siehe Kampf auf Seite 393). Trifft der „Angriff", befindet sich der Zaubereffekt an der richtigen Stelle; welche Wirkung das hat, hängt vom Zauber ab. Der Magus erhält keinen Angriffsvorteil, selbst wenn der Zauber Schaden verursacht; der Schaden wird durch einen Stresswürfel plus dem Schadensbonus des Zaubers bestimmt und mit der Schadensabsorption des Ziels + Stresswürfel verglichen.
+Der Würfelwurf ist ein Stresswürfel, wenn die Maga unter Druck steht, andernfalls ein einfacher Würfel. Das Ergebnis wird als Angriffssumme behandelt (siehe Kampf auf [Seite 393](#kampf)). Trifft der „Angriff", befindet sich der Zaubereffekt an der richtigen Stelle; welche Wirkung das hat, hängt vom Zauber ab. Der Magus erhält keinen Angriffsvorteil, selbst wenn der Zauber Schaden verursacht; der Schaden wird durch einen Stresswürfel plus dem Schadensbonus des Zaubers bestimmt und mit der Schadensabsorption des Ziels + Stresswürfel verglichen.
 
-Ist das direkte Ziel des Zaubers ein Basisindividuum für die betreffende Form (siehe Seite 310), gibt es keinen Bonus auf den Zielwurf. Für jede Größenstufe darüber hinaus – also für jede hinzugefügte Magnitude – erhält der Zielwurf einen Bonus von +6. Es ist schwer, eine einzelne Person zu verfehlen, wenn man eine Grube in der Größe einer Kirche erschafft.
+Ist das direkte Ziel des Zaubers ein Basisindividuum für die betreffende Form (siehe [Seite 310](#ziele-und-größen)), gibt es keinen Bonus auf den Zielwurf. Für jede Größenstufe darüber hinaus – also für jede hinzugefügte Magnitude – erhält der Zielwurf einen Bonus von +6. Es ist schwer, eine einzelne Person zu verfehlen, wenn man eine Grube in der Größe einer Kirche erschafft.
 
 In Extremfällen sollte die Spieltruppe ihr Urteilsvermögen einsetzen und den Bonus gegebenenfalls anpassen. Ein Basisindividuum in Auram könnte beispielsweise eine Wolke mit einem Durchmesser von 100 Schritten sein – was einen großen Bonus auf das Zielen rechtfertigt –, während ein um zwei Größenstufen vergrößerter Edelstein immer noch nur etwa 25 Zentimeter groß wäre und daher wahrscheinlich keinen Bonus geben sollte.
 
@@ -9491,7 +9491,7 @@ Die folgenden Beispiele zeigen Zauber, die die Magieresistenz des eigentlichen O
 >
 > Die zweite Angriffsmethode besteht darin, das auszunutzen, was Philosophen als „natürliche Bewegung" bezeichnen: die natürliche Tendenz schwerer Gegenstände, nach unten zu fallen. Ein Magus könnte Rego-Magie einsetzen, um einen Stein über jemandes Kopf zu heben und den Zauber dann zu beenden. Der Stein würde natürlich fallen und die Magieresistenz umgehen. Ein solcher Zauber muss gezielt werden.
 >
-> Die dritte Methode besteht darin, einen kurzen magischen Kraftstoß zu nutzen, um ein Geschoss wie einen Pfeil von einem Bogen zu schleudern. Die mittelalterliche Naturphilosophie bot tatsächlich eine Erklärung dafür, wie ein Pfeil nach dem Verlassen des Bogens weiter fliegen kann. Vereinfacht gesagt hat dies mit der Luftbewegung um den Pfeil zu tun. Magi können Zauber entwickeln, die Geschosse auf diese Weise schleudern. Nur eigens dafür konzipierte Rego-Zauber können Geschosse auf diese Weise werfen – die Beschreibung des Zaubers muss ausdrücklich angeben, dass er Geschosse werfen kann (solche Zauber haben eine höhere Magnitude als gewöhnliche Rego-Zauber). Zauber, die ein Geschoss werfen, geben unmittelbar nach dem Abfeuern die Kontrolle darüber ab. Das Geschoss setzt dann seine natürliche Flugbahn fort. Im Spiel bedeutet dies, dass der Zauber gezielt werden muss, das Geschoss aber die Magieresistenz umgeht. Die Reichweite des Zaubers muss nur Berührung betragen (die Magie muss nur im Moment des Schleuderns wirken), aber sobald das Geschoss abgefeuert ist, unterliegt es den natürlichen Bewegungsgesetzen. Der Zielwurf erleidet denselben Entfernungsabzug wie eine Fernkampfwaffe (Seite 395), und das Geschoss kann nicht weiter fliegen als von einem sehr starken weltlichen Bogen (oder einer Schleuder, einem Katapult oder einem anderen Gerät). Die meisten durch Zauber geschleuderten Geschosse haben ein Reichweiteninkrement von 20 Schritten.
+> Die dritte Methode besteht darin, einen kurzen magischen Kraftstoß zu nutzen, um ein Geschoss wie einen Pfeil von einem Bogen zu schleudern. Die mittelalterliche Naturphilosophie bot tatsächlich eine Erklärung dafür, wie ein Pfeil nach dem Verlassen des Bogens weiter fliegen kann. Vereinfacht gesagt hat dies mit der Luftbewegung um den Pfeil zu tun. Magi können Zauber entwickeln, die Geschosse auf diese Weise schleudern. Nur eigens dafür konzipierte Rego-Zauber können Geschosse auf diese Weise werfen – die Beschreibung des Zaubers muss ausdrücklich angeben, dass er Geschosse werfen kann (solche Zauber haben eine höhere Magnitude als gewöhnliche Rego-Zauber). Zauber, die ein Geschoss werfen, geben unmittelbar nach dem Abfeuern die Kontrolle darüber ab. Das Geschoss setzt dann seine natürliche Flugbahn fort. Im Spiel bedeutet dies, dass der Zauber gezielt werden muss, das Geschoss aber die Magieresistenz umgeht. Die Reichweite des Zaubers muss nur Berührung betragen (die Magie muss nur im Moment des Schleuderns wirken), aber sobald das Geschoss abgefeuert ist, unterliegt es den natürlichen Bewegungsgesetzen. Der Zielwurf erleidet denselben Entfernungsabzug wie eine Fernkampfwaffe ([Seite 395](#fernkampf)), und das Geschoss kann nicht weiter fliegen als von einem sehr starken weltlichen Bogen (oder einer Schleuder, einem Katapult oder einem anderen Gerät). Die meisten durch Zauber geschleuderten Geschosse haben ein Reichweiteninkrement von 20 Schritten.
 
 ## Sigile
 
@@ -9511,7 +9511,7 @@ Hermetische Magi besitzen auch einen Stimmstab – ein kleines physisches Objekt
 
 ## Zaubermeisterschaft
 
-Hermetische Magi können formulaische und rituelle Zauber, die sie bereits kennen, eingehender studieren. Dieses Studium führt zur Zaubermeisterschaft. Magi können Bücher über Zauber verfassen, die sie gemeistert haben, um dieses Wissen an andere weiterzugeben. Die Meisterschafts-Fertigkeit kann aus solchen Büchern gemäß den normalen Studiumsregeln erlernt werden (siehe Seite 378). Meisterschafts-Fertigkeiten bilden eine eigene Kategorie; Tugenden, die Charakteren Zugang zu anderen Fertigkeitskategorien geben, umfassen Meisterschafts-Fertigkeiten nicht. Sie können nur von Charakteren erlernt werden, die hermetische Magie wirken.
+Hermetische Magi können formulaische und rituelle Zauber, die sie bereits kennen, eingehender studieren. Dieses Studium führt zur Zaubermeisterschaft. Magi können Bücher über Zauber verfassen, die sie gemeistert haben, um dieses Wissen an andere weiterzugeben. Die Meisterschafts-Fertigkeit kann aus solchen Büchern gemäß den normalen Studiumsregeln erlernt werden (siehe [Seite 378](#unterricht)). Meisterschafts-Fertigkeiten bilden eine eigene Kategorie; Tugenden, die Charakteren Zugang zu anderen Fertigkeitskategorien geben, umfassen Meisterschafts-Fertigkeiten nicht. Sie können nur von Charakteren erlernt werden, die hermetische Magie wirken.
 
 Für jeden möglichen hermetischen Zauber gibt es eine entsprechende Fertigkeit. Diese Fertigkeit kann auf die üblichen Weisen studiert werden und wird als Meisterschafts-Fertigkeit des Zaubers bezeichnet. Hat eine Maga einen Wert von eins oder höher in einer Meisterschafts-Fertigkeit, gilt sie als Meisterin jenes Zaubers.
 
@@ -9525,25 +9525,25 @@ Für jeden Punkt in der Meisterschafts-Fertigkeit darf die Maga außerdem eine b
 
 #### Adaptives Zaubern
 
-Du kannst deinen Meisterschaftswert und alle damit verbundenen besonderen Fähigkeiten nutzen, wann immer du einen ähnlichen Zauber wirkst (wie im Laboratoriums-Kapitel auf Seite 260 definiert). Wenn du zwei oder mehr Meisterschafts-Fertigkeiten hast, die für einen einzigen Zauber gelten (weil du zwei oder mehr ähnliche Zauber gemeistert hast), darfst du nur den Wert einer Fertigkeit nutzen – sowie die für diese Meisterschafts-Fertigkeit gewählten besonderen Fähigkeiten. Wenn du beispielsweise *Ewige Auslöschung des Dämons* (Stufe 30) mit einem Meisterschaftswert von 3 und den Fähigkeiten Adaptiv, Schnellzaubern und Penetration gemeistert hast, sowie *Ewige Auslöschung des Dämons* (Stufe 25) mit einem Meisterschaftswert von 4 und den Fähigkeiten Adaptiv, zweimal Leises Zaubern und Regloses Zaubern, musst du den Wert 3 nutzen, wenn du die Penetrations-Fähigkeit verwenden möchtest, und den Wert 4, wenn du die Fähigkeit Regloses Zaubern verwenden möchtest – die Penetrations-Fähigkeit kann nicht mit dem Wert 4 kombiniert werden.
+Du kannst deinen Meisterschaftswert und alle damit verbundenen besonderen Fähigkeiten nutzen, wann immer du einen ähnlichen Zauber wirkst (wie im Laboratoriums-Kapitel auf [Seite 260](#ähnliche-zauber) definiert). Wenn du zwei oder mehr Meisterschafts-Fertigkeiten hast, die für einen einzigen Zauber gelten (weil du zwei oder mehr ähnliche Zauber gemeistert hast), darfst du nur den Wert einer Fertigkeit nutzen – sowie die für diese Meisterschafts-Fertigkeit gewählten besonderen Fähigkeiten. Wenn du beispielsweise *Ewige Auslöschung des Dämons* (Stufe 30) mit einem Meisterschaftswert von 3 und den Fähigkeiten Adaptiv, Schnellzaubern und Penetration gemeistert hast, sowie *Ewige Auslöschung des Dämons* (Stufe 25) mit einem Meisterschaftswert von 4 und den Fähigkeiten Adaptiv, zweimal Leises Zaubern und Regloses Zaubern, musst du den Wert 3 nutzen, wenn du die Penetrations-Fähigkeit verwenden möchtest, und den Wert 4, wenn du die Fähigkeit Regloses Zaubern verwenden möchtest – die Penetrations-Fähigkeit kann nicht mit dem Wert 4 kombiniert werden.
 
 #### Zeremonielles Zaubern
 
-Die Maga kann die Regeln für Zeremonielles Zaubern (Seite 217) auf das Wirken dieses Zaubers anwenden. Diese besondere Fähigkeit darf nicht für Ritualzauber gewählt werden, da diese von Grund auf zeremonielles Zaubern verwenden.
+Die Maga kann die Regeln für Zeremonielles Zaubern ([Seite 217](#zeremonielles-zaubern)) auf das Wirken dieses Zaubers anwenden. Diese besondere Fähigkeit darf nicht für Ritualzauber gewählt werden, da diese von Grund auf zeremonielles Zaubern verwenden.
 
 Diese besondere Fähigkeit ist im Orden nicht weit verbreitet und hat ihren Ursprung beim Kult des Merkur; sie ist jedoch kein Geheimnis des Kultes mehr. Dieser kennt andere besondere Fähigkeiten, die weiterhin Geheimnisse des Kultes bleiben (siehe *Die Mysterien – Überarbeitete Ausgabe*, Seite 117).
 
 #### Schnellzaubern
 
-Die Maga darf den gemeisterten Zauber gemäß den Regeln für das Schnellzaubern spontaner Zauber auf Seite 217 schnell wirken. Die Maga erleidet weiterhin den Abzug von −10 auf den Zauberwert und riskiert die zusätzlichen Patzerwürfel, obwohl diese durch ihren Meisterschaftswert teilweise ausgeglichen werden. Alle oder einige deiner Meisterschaftsfähigkeiten können auch beim schnell gewirkten Zauber angewendet werden, da diese Fähigkeiten ein grundlegender Bestandteil deines Verständnisses des Zaubers sind. Diese besondere Fähigkeit darf nicht für Ritualzauber gewählt werden.
+Die Maga darf den gemeisterten Zauber gemäß den Regeln für das Schnellzaubern spontaner Zauber auf [Seite 217](#schnellzaubern) schnell wirken. Die Maga erleidet weiterhin den Abzug von −10 auf den Zauberwert und riskiert die zusätzlichen Patzerwürfel, obwohl diese durch ihren Meisterschaftswert teilweise ausgeglichen werden. Alle oder einige deiner Meisterschaftsfähigkeiten können auch beim schnell gewirkten Zauber angewendet werden, da diese Fähigkeiten ein grundlegender Bestandteil deines Verständnisses des Zaubers sind. Diese besondere Fähigkeit darf nicht für Ritualzauber gewählt werden.
 
 #### Unerschütterliches Zaubern
 
-Addiere den Meisterschaftswert des Zaubernden zu allen Konzentrationswürfen, die mit dem Zauber zusammenhängen. Dies hilft dabei, Zauber mit Dauer Konzentration inmitten des Kampfchaos aufrechtzuerhalten oder während eines weiteren Zaubers (siehe Konzentrationstabelle, Seite 215).
+Addiere den Meisterschaftswert des Zaubernden zu allen Konzentrationswürfen, die mit dem Zauber zusammenhängen. Dies hilft dabei, Zauber mit Dauer Konzentration inmitten des Kampfchaos aufrechtzuerhalten oder während eines weiteren Zaubers (siehe Konzentrationstabelle, [Seite 215](#konzentration-1)).
 
 #### Magieresistenz
 
-Deine Magieresistenz ist gegenüber dem gemeisterten Zauber und allen ähnlichen Zaubern oder Kräften verdoppelt. (Siehe „Ähnliche Zauber", Seite 260.)
+Deine Magieresistenz ist gegenüber dem gemeisterten Zauber und allen ähnlichen Zaubern oder Kräften verdoppelt. (Siehe „Ähnliche Zauber", [Seite 260](#ähnliche-zauber).)
 
 #### Mehrfaches Zaubern
 
@@ -9559,11 +9559,11 @@ Diese besondere Fähigkeit darf für Ritualzauber gewählt werden. Die Zauberzei
 
 #### Verschleiertes Zaubern
 
-Magi können die Form des Zaubers beim Wirken nicht automatisch erkennen. Dies erschwert es ihnen, schnell gewirkte Zauber als Abwehr einzusetzen. Sie müssen stets würfeln, um die Form des Zaubers zu bestimmen (siehe Seite 217), und müssen den Meisterschaftswert des Zaubernden zum Schwierigkeitsgrad addieren.
+Magi können die Form des Zaubers beim Wirken nicht automatisch erkennen. Dies erschwert es ihnen, schnell gewirkte Zauber als Abwehr einzusetzen. Sie müssen stets würfeln, um die Form des Zaubers zu bestimmen (siehe [Seite 217](#schnellzaubern)), und müssen den Meisterschaftswert des Zaubernden zum Schwierigkeitsgrad addieren.
 
 #### Penetration
 
-Der Meisterschaftswert der Maga wird zu ihrem Penetrationswert addiert, um ihren Penetrationsbonus zu bestimmen (siehe Seite 219).
+Der Meisterschaftswert der Maga wird zu ihrem Penetrationswert addiert, um ihren Penetrationsbonus zu bestimmen (siehe [Seite 219](#penetration-1)).
 
 #### Präzises Zaubern
 
@@ -9571,7 +9571,7 @@ Alle Finesse-Würfe des Zaubernden mit dem Zauber erhalten einen Bonus von +1, e
 
 #### Schnelles Zaubern
 
-Addiere +1 zum Initiativewert des Zaubernden, wenn er den gemeisterten Zauber wirkt. Hat er zudem die besondere Fähigkeit Schnellzaubern, addiere +1 zu seinen Schnellzauber-Geschwindigkeitswürfen (Seite 217), wenn er den Zauber schnell wirkt. Diese Fähigkeit darf nicht für Ritualzauber gewählt werden. Ein Magus kann diese Fähigkeit mehrfach für denselben Zauber wählen.
+Addiere +1 zum Initiativewert des Zaubernden, wenn er den gemeisterten Zauber wirkt. Hat er zudem die besondere Fähigkeit Schnellzaubern, addiere +1 zu seinen Schnellzauber-Geschwindigkeitswürfen ([Seite 217](#schnellzaubern)), wenn er den Zauber schnell wirkt. Diese Fähigkeit darf nicht für Ritualzauber gewählt werden. Ein Magus kann diese Fähigkeit mehrfach für denselben Zauber wählen.
 
 #### Leises Zaubern
 
@@ -9603,7 +9603,7 @@ Trotz aller Versuche des Ordens, Magie zu regulieren und sie zur Wissenschaft zu
 
 Die häufigste Gefahr, der Magi beim Zaubern begegnen, ist ein Patzer. Die Auswirkungen eines unter Stress gewirkten Zaubers sind nicht vollständig vorhersehbar, und ein Patzer beim Zauberwurf bedeutet, dass die Maga einen Fehler gemacht hat, der ihren Zauber nicht einfach scheitern lässt, sondern ihn andere Wirkungen als beabsichtigt entfalten lässt. Obwohl die Folgen eines Patzers sehr unterschiedlich ausfallen können, sind sie nahezu immer nachteilig. Der Spielleiter sollte seiner Vorstellungskraft freien Lauf lassen, wenn er die Auswirkungen eines Patzers festlegt.
 
-Wie oben erwähnt (Seite 213), ergibt ein Patzer automatisch eine Zaubersumme von null. Das bedeutet jedoch nicht, dass gar nichts geschieht; im Allgemeinen tritt der Zauber dennoch in Kraft. Die Magie entzieht sich der Kontrolle der Maga – nahezu alles kann passieren. Mächtigere Zauber sollten grundsätzlich mächtigere Patzer-Ergebnisse haben, doch wie üblich bestimmt die Anzahl der Patzerwürfel, die eine Null zeigen, das Ausmaß des Missgeschicks.
+Wie oben erwähnt ([Seite 213](#zauber-wirken)), ergibt ein Patzer automatisch eine Zaubersumme von null. Das bedeutet jedoch nicht, dass gar nichts geschieht; im Allgemeinen tritt der Zauber dennoch in Kraft. Die Magie entzieht sich der Kontrolle der Maga – nahezu alles kann passieren. Mächtigere Zauber sollten grundsätzlich mächtigere Patzer-Ergebnisse haben, doch wie üblich bestimmt die Anzahl der Patzerwürfel, die eine Null zeigen, das Ausmaß des Missgeschicks.
 
 Magi erhalten einen Verzerrungspunkt für jede Null, die beim Würfeln der Patzerwürfel beim Zaubern erscheint. (Dies schließt nicht die ursprüngliche Null ein, die das Würfeln der Patzerwürfel ausgelöst hat. Erzielt der Wurf keinen Patzer, erhält der Magus keine Verzerrungspunkte.) Erhält ein Magus durch einen einzigen Zauber-Patzer zwei oder mehr Verzerrungspunkte, kann er in das Zwielicht geraten (siehe unten).
 
@@ -9657,7 +9657,7 @@ Ist die Maga beim Wirken eines Formulaischen Zaubers entspannt, gibt es keine Pa
 
 ### Verzerrung
 
-Verzerrung betrifft alle – nicht nur hermetische Magi –, weshalb sie im Kapitel über Langzeitereignisse auf Seite 389 beschrieben wird. Zu beachten ist, dass Magi einen Verzerrungspunkt für jede Null auf den Patzerwürfeln erhalten, wenn sie einen Zauber verpatzen.
+Verzerrung betrifft alle – nicht nur hermetische Magi –, weshalb sie im Kapitel über Langzeitereignisse auf [Seite 389](#verzerrung-2) beschrieben wird. Zu beachten ist, dass Magi einen Verzerrungspunkt für jede Null auf den Patzerwürfeln erhalten, wenn sie einen Zauber verpatzen.
 
 ### Das Zwielicht
 
@@ -9796,7 +9796,7 @@ Die mechanische Auflösung des Certamen basiert auf sechs Summen.
 
 **WIDERSTANDSSUMME: Ausdauer + Parma Magica**
 
-Die Initiative wird nur einmal, zu Beginn des Duells, gewürfelt. Diese Initiative entspricht der Kampfinitiative (siehe Seite 393); findet ein Certamen während eines Kampfes statt, handelt jeder Magus an dem durch seinen Initiativewert bestimmten Punkt in der Reihenfolge.
+Die Initiative wird nur einmal, zu Beginn des Duells, gewürfelt. Diese Initiative entspricht der Kampfinitiative (siehe [Seite 393](#kampfwerte)); findet ein Certamen während eines Kampfes statt, handelt jeder Magus an dem durch seinen Initiativewert bestimmten Punkt in der Reihenfolge.
 
 Wenn er an der Reihe ist, würfelt ein Magus einen Stresswürfel, um eine Angriffssumme zu erzeugen. Sein Gegner würfelt einen Stresswürfel, um eine Verteidigungssumme zu erzeugen. Anders als die Initiative werden die Würfel für Angriff und Verteidigung jede Runde neu gewürfelt. Ist die Verteidigungssumme gleich oder höher als die Angriffssumme, richtet der Angriff keinen Schaden an. Übersteigt die Angriffssumme die Verteidigungssumme, ist die Differenz der Angriffsvorteil.
 
@@ -9879,13 +9879,13 @@ Der Konzentrationsverlust bedeutet jedoch nicht zwingend, dass das Certamen been
 
 ## Mysterien
 
-Mysterien sind Wege zu größerer magischer Macht, die über den bloßen Zeitaufwand für das Studium hinausgehende Opfer verlangen. Viele Magi des Ordens des Hermes folgen Mysterien, und vier der Häuser sind Mysterienkulte – Gemeinschaften, die ein Mysterium lehren. Ausführliche Angaben zu den Mysterien der hermetischen Häuser finden sich in *Houses of Hermes: Mystery Cults*, während *The Mysteries Revised Edition* umfangreiche Informationen zu anderen Mysterien innerhalb des Ordens des Hermes enthält. Dieser Abschnitt bietet Informationen über die äußerste Schicht der Hausmysterien sowie über eines der tieferen Mysterien jedes Hauses. Spielercharaktere in den Mysterienkult-Häusern werden als Lehrlinge in das Äußere Mysterium eingeweiht, müssen aber die Einweihung in tiefere Mysterien im Spiel selbst suchen. Die Regeln für die Mysterieneinweihung finden sich im Kapitel zu Langzeitereignissen, auf Seite 387.
+Mysterien sind Wege zu größerer magischer Macht, die über den bloßen Zeitaufwand für das Studium hinausgehende Opfer verlangen. Viele Magi des Ordens des Hermes folgen Mysterien, und vier der Häuser sind Mysterienkulte – Gemeinschaften, die ein Mysterium lehren. Ausführliche Angaben zu den Mysterien der hermetischen Häuser finden sich in *Houses of Hermes: Mystery Cults*, während *The Mysteries Revised Edition* umfangreiche Informationen zu anderen Mysterien innerhalb des Ordens des Hermes enthält. Dieser Abschnitt bietet Informationen über die äußerste Schicht der Hausmysterien sowie über eines der tieferen Mysterien jedes Hauses. Spielercharaktere in den Mysterienkult-Häusern werden als Lehrlinge in das Äußere Mysterium eingeweiht, müssen aber die Einweihung in tiefere Mysterien im Spiel selbst suchen. Die Regeln für die Mysterieneinweihung finden sich im Kapitel zu Langzeitereignissen, auf [Seite 387](#mysterieneinweihung).
 
 ### Bjornaer – Das Herztier
 
 Bjornaer-Magi können die Gestalt einer einzigen weltlichen Kreatur annehmen. In der Regel handelt es sich dabei um ein Tier oder einen Vogel, es kann aber auch eine Pflanze sein. Das Herztier ist stets ein Lebewesen und meist eine edle Kreatur. Kein bekannter Magus hatte zum Beispiel einen Regenwurm als Herztier. Das Herztier einer Maga offenbart einen zentralen Aspekt ihres Wesens, sodass ihre Persönlichkeit – selbst in Menschengestalt – der des betreffenden Wesens ähneln wird. Eingeweihte des Bjornaer-Mysteriums erhalten die Fertigkeit Herztier. Diese Fertigkeit kann von keinem Charakter erworben werden, der nicht in das Mysterium eingeweiht wurde. Für Eingeweihte des Äußeren Mysteriums wird die Herztier-Fertigkeit nur dann eingesetzt, wenn etwas versucht, den Magus an seiner Gestaltverwandlung zu hindern. In diesem Fall erlaubt ein Wurf auf Ausdauer + Herztier gegen einen vom Spielleiter festgesetzten Schwierigkeitsgrad dem Charakter, sich dennoch zu verwandeln.
 
-Eine Bjornaer-Maga kann sich nur in eine einzige Tierart verwandeln, und diese Art kann durch hermetische Magie nicht verändert werden. Die verwandelte Bjornaer-Maga kann zwar verändert werden – etwa durch Muto Animal-Magie –, jedoch nicht die Tierart, die ihr Herztier darstellt. Eine Bjornaer-Maga ist tatsächlich ihr Herztier, und daher gilt das Verbleiben in dieser Gestalt nicht als aktiver mystischer Effekt (siehe Verzerrung, Seite 389). Natürlich ist sie auch wirklich ein Mensch, sodass das Verbleiben in Menschengestalt ebenfalls keine Verzerrung verursacht. Hermetische Magie ist nicht in der Lage festzustellen, ob ein Tier tatsächlich eine Bjornaer ist – und das gilt auch für die meisten anderen Arten von Magie. (Dies setzt voraus, dass die Maga ihre Natur verbirgt.) Infolgedessen wirken auf eine Bjornaer in Tiergestalt Animal-Zauber, nicht Corpus- oder Mentem-Zauber. Zauber, die bereits vor der Verwandlung in Kraft waren, bleiben jedoch in Kraft.
+Eine Bjornaer-Maga kann sich nur in eine einzige Tierart verwandeln, und diese Art kann durch hermetische Magie nicht verändert werden. Die verwandelte Bjornaer-Maga kann zwar verändert werden – etwa durch Muto Animal-Magie –, jedoch nicht die Tierart, die ihr Herztier darstellt. Eine Bjornaer-Maga ist tatsächlich ihr Herztier, und daher gilt das Verbleiben in dieser Gestalt nicht als aktiver mystischer Effekt (siehe Verzerrung, [Seite 389](#verzerrung-2)). Natürlich ist sie auch wirklich ein Mensch, sodass das Verbleiben in Menschengestalt ebenfalls keine Verzerrung verursacht. Hermetische Magie ist nicht in der Lage festzustellen, ob ein Tier tatsächlich eine Bjornaer ist – und das gilt auch für die meisten anderen Arten von Magie. (Dies setzt voraus, dass die Maga ihre Natur verbirgt.) Infolgedessen wirken auf eine Bjornaer in Tiergestalt Animal-Zauber, nicht Corpus- oder Mentem-Zauber. Zauber, die bereits vor der Verwandlung in Kraft waren, bleiben jedoch in Kraft.
 
 Bjornaer-Magi können Zauber wirken, während sie in der Gestalt ihres Herztieres sind, können dabei jedoch weder sprechen noch die erforderlichen Gesten ausführen und erhalten daher normalerweise einen Abzug von −15.
 
@@ -9924,13 +9924,13 @@ Die Einweihung in dieses Mysterium scheitert, wenn der Magus einen Talisman oder
 
 ### Criamon – Das Enigma
 
-Niemand außerhalb des Hauses Criamon versteht wirklich, worum es bei dessen Mysterium geht. Alle Criamon-Magi haben einen Wert von eins in der Fertigkeit Enigmatische Weisheit und dürfen bei der Charaktererschaffung Erfahrungspunkte darin vergeben. Diese Fertigkeit hilft beim Verstehen des Zwielichts, macht das Erlebnis jedoch auch wahrscheinlicher (siehe Seite 228). Charaktere können Enigmatische Weisheit nicht erlernen, ohne in das Mysterium des Enigmas eingeweiht zu sein.
+Niemand außerhalb des Hauses Criamon versteht wirklich, worum es bei dessen Mysterium geht. Alle Criamon-Magi haben einen Wert von eins in der Fertigkeit Enigmatische Weisheit und dürfen bei der Charaktererschaffung Erfahrungspunkte darin vergeben. Diese Fertigkeit hilft beim Verstehen des Zwielichts, macht das Erlebnis jedoch auch wahrscheinlicher (siehe [Seite 228](#in-das-zwielicht-geraten)). Charaktere können Enigmatische Weisheit nicht erlernen, ohne in das Mysterium des Enigmas eingeweiht zu sein.
 
 Die Mysterien des Hauses Criamon sind in mehrere Pfade unterteilt. Der früheste Schritt auf dem Pfad des Körpers wird hier beschrieben; die übrigen großen Pfade werden in *Houses of Hermes: Mystery Cults* dargestellt.
 
 #### Enigmatische Weisheit
 
-Eine weitreichende Wahrnehmung für seltsame und verwirrende Phänomene, die dir hilft, ihre Natur zu verstehen – auch wenn du den Nicht-Eingeweihten seltsam oder gar lächerlich erscheinen magst. Dein Wert in dieser Fertigkeit wird zu Würfen hinzugefügt, um Träume und Rätsel zu deuten sowie Phantasmen und arkane oder geheimnisvolle Situationen zu verstehen. Dank dieser Fertigkeit geraten Criamon-Magi häufiger in das Zwielicht (siehe Seite 228), überstehen es aber besser als die meisten anderen.
+Eine weitreichende Wahrnehmung für seltsame und verwirrende Phänomene, die dir hilft, ihre Natur zu verstehen – auch wenn du den Nicht-Eingeweihten seltsam oder gar lächerlich erscheinen magst. Dein Wert in dieser Fertigkeit wird zu Würfen hinzugefügt, um Träume und Rätsel zu deuten sowie Phantasmen und arkane oder geheimnisvolle Situationen zu verstehen. Dank dieser Fertigkeit geraten Criamon-Magi häufiger in das Zwielicht (siehe [Seite 228](#in-das-zwielicht-geraten)), überstehen es aber besser als die meisten anderen.
 
 *Spezialisierungen:* Zeichen deuten, das Enigma erklären, Zwielicht.
 
@@ -9980,7 +9980,7 @@ Für die Zwecke der Zauberstufenberechnung hat Straße dasselbe Reichweiteniveau
 
 *Jahr + 1 (Dauer):* Der Zauber hält ein Jahr und einen Tag an. Dies hat dasselbe Dauerniveau wie Jahr und erfordert ebenfalls ein Ritual, aber die Dauer wird durch die tatsächlich verstrichene Zeit bestimmt – nicht durch den Wechsel der Jahreszeiten; der Zauber endet genau zur selben Tageszeit, zu der er gewirkt wurde, ein Jahr und einen Tag später. Jahr + 1-Zauber können nach den normalen Regeln aufgelöst werden.
 
-*Blutlinie (Ziel):* Eine Blutlinie umfasst alle Menschen, die durch Blut von einer bestimmten Person abstammen – dem unmittelbaren Ziel. Nur das unmittelbare Ziel muss sich innerhalb der Reichweite des Zaubers befinden, aber alle Mitglieder der Blutlinie werden sofort betroffen. Ehepartner zählen nicht zur Blutlinie. Der Zauber gilt für alle Mitglieder der Blutlinie, die während seiner Dauer geboren werden, sowie für jene, die beim Wirken bereits leben. Wie bei allen Zaubern, die mehrere Personen zum Ziel haben, hat jede Person Magieresistenz, sofern zutreffend. Die Kategorie hat dasselbe Niveau wie Bauwerk. Es ist möglich, einen Blutlinienzauber so zu gestalten, dass er keine Mitglieder einer bestimmten Blutlinie verzerrt (siehe Verzerrung, Seite 389).
+*Blutlinie (Ziel):* Eine Blutlinie umfasst alle Menschen, die durch Blut von einer bestimmten Person abstammen – dem unmittelbaren Ziel. Nur das unmittelbare Ziel muss sich innerhalb der Reichweite des Zaubers befinden, aber alle Mitglieder der Blutlinie werden sofort betroffen. Ehepartner zählen nicht zur Blutlinie. Der Zauber gilt für alle Mitglieder der Blutlinie, die während seiner Dauer geboren werden, sowie für jene, die beim Wirken bereits leben. Wie bei allen Zaubern, die mehrere Personen zum Ziel haben, hat jede Person Magieresistenz, sofern zutreffend. Die Kategorie hat dasselbe Niveau wie Bauwerk. Es ist möglich, einen Blutlinienzauber so zu gestalten, dass er keine Mitglieder einer bestimmten Blutlinie verzerrt (siehe Verzerrung, [Seite 389](#verzerrung-2)).
 
 #### Feenmagie
 
@@ -10006,7 +10006,7 @@ Amulette sind Zauberhilfsmittel, die einen bestimmten magischen Effekt durch sym
 
 Ein **vorübergehendes Amulett** benötigt etwa zehn Minuten zum Entwerfen und muss sofort eingesetzt werden, üblicherweise mit spontaner Magie. Dauerhaftere Amulette, so genannte **permanente Amulette**, benötigen mehrere Stunden und erfordern ein besonderes Objekt, das die Maga schwingt, wenn sie das Amulett aktiviert, wobei das Objekt in den Effekt integriert wird. Wird dieses Objekt beschädigt, muss das Amulett neu hergestellt werden.
 
-Eine Maga mit einem Feenmagie-Wert und einer Arkanen Verbindung zu ihrem Ziel kann ein Amulett als sympathetische Darstellung einsetzen, wodurch ihr Penetrationsmultiplikator um zwei erhöht wird. Dazu ist ein Wurf beim Herstellen des Amuletts erforderlich: das Komponieren eines Liedes könnte Kommunikation + Musik erfordern, eine Zeichnung hingegen Geschicklichkeit + Handwerk. Die Maga erzeugt bei einem Ergebnis von 6+ ein wirksames Amulett, bei 9+ ein permanentes Amulett. Andere Magi können dies ohne Feenmagie tun, benötigen dafür aber länger und einen höheren Gesamtwurf (siehe Sympathetische Verbindungen, Seite 220).
+Eine Maga mit einem Feenmagie-Wert und einer Arkanen Verbindung zu ihrem Ziel kann ein Amulett als sympathetische Darstellung einsetzen, wodurch ihr Penetrationsmultiplikator um zwei erhöht wird. Dazu ist ein Wurf beim Herstellen des Amuletts erforderlich: das Komponieren eines Liedes könnte Kommunikation + Musik erfordern, eine Zeichnung hingegen Geschicklichkeit + Handwerk. Die Maga erzeugt bei einem Ergebnis von 6+ ein wirksames Amulett, bei 9+ ein permanentes Amulett. Andere Magi können dies ohne Feenmagie tun, benötigen dafür aber länger und einen höheren Gesamtwurf (siehe Sympathetische Verbindungen, [Seite 220](#sympathetische-verbindungen)).
 
 Vorübergehende Amulette können nur einmal eingesetzt werden, da sie stets einzigartige Eigenschaften des jeweiligen Effekts beinhalten; ein permanentes Amulett, das mit einem besonderen Objekt verbunden ist, kann jedoch jederzeit eingesetzt werden, wenn es anwendbar ist. Eine Maga kann beliebig viele Amulette im Voraus vorbereiten, darf jedoch auf diese Weise nur ein einziges Amulett in einen bestimmten Zauber integrieren.
 
@@ -10126,7 +10126,7 @@ Kurz nachdem Fenistour Zauberwerkzeuge erfunden hatte, die es Verditius-Magi erl
 
 Der Magus kann seine Zauberwerkzeuge verzaubern, um bestimmte Effekte gemeisterter Zauber widerzuspiegeln und beim Einsatz Zauberboni zu gewähren. Dies ist ein Laborprozess, der ein Quartal in einem hermetischen Laboratorium erfordert. Jedes Zauberwerkzeug kann nur einmal verzaubert werden – selbst wenn es mehr als eine Eigenschaft hat –, und der Magus muss die Verzauberung in einem einzigen Quartal abschließen können, als ob er ein schlichtes Artefakt herstellen würde. Verzauberte Zauberwerkzeuge können nicht mit anderen magischen Kräften ausgestattet werden und können nicht als Basis für ein schlichtes oder bereitetes Artefakt dienen.
 
-Um ein Zauberwerkzeug zu verzaubern, vergleiche die Technik- und Form-Laborsumme des Magus mit der Stufe des Zaubers, mit dem das Zauberwerkzeug verbunden ist. Ein Zauberwerkzeug ist durch die Verditius-Mysterien eng mit dem Zauber verbunden, sodass der Magus Verditius-Runen in das Werkzeug schnitzen darf, was seinen Philosophiae-Wert zur Laborsumme hinzufügt – selbst wenn das Werkzeug normalerweise keinen Form- und Materialbonus für diesen Zauber hätte. Hat der Magus eine Handwerksfertigkeit, die das Herstellen von Werkzeugen einschließen könnte, darf er auch seinen Handwerkswert hinzufügen. Da verzauberte Zauberwerkzeuge dauerhaft Arkane Verbindungen zum Magus werden, füge seinen Hybris-Persönlichkeitswert zur Laborsumme hinzu. Der Magus erhält außerdem einen Bonus dafür, dass er den Zauber bereits kennt: Er fügt die Magnitude des Zaubers zur Laborsumme hinzu, ähnlich dem Bonus, den man für das Kennen eines ähnlichen Zaubers erhält (Seite 260). Die Laborsumme muss das Doppelte der Zauberstufe zuzüglich aller zusätzlichen Kräfte, die der Magus einbetten möchte, betragen.
+Um ein Zauberwerkzeug zu verzaubern, vergleiche die Technik- und Form-Laborsumme des Magus mit der Stufe des Zaubers, mit dem das Zauberwerkzeug verbunden ist. Ein Zauberwerkzeug ist durch die Verditius-Mysterien eng mit dem Zauber verbunden, sodass der Magus Verditius-Runen in das Werkzeug schnitzen darf, was seinen Philosophiae-Wert zur Laborsumme hinzufügt – selbst wenn das Werkzeug normalerweise keinen Form- und Materialbonus für diesen Zauber hätte. Hat der Magus eine Handwerksfertigkeit, die das Herstellen von Werkzeugen einschließen könnte, darf er auch seinen Handwerkswert hinzufügen. Da verzauberte Zauberwerkzeuge dauerhaft Arkane Verbindungen zum Magus werden, füge seinen Hybris-Persönlichkeitswert zur Laborsumme hinzu. Der Magus erhält außerdem einen Bonus dafür, dass er den Zauber bereits kennt: Er fügt die Magnitude des Zaubers zur Laborsumme hinzu, ähnlich dem Bonus, den man für das Kennen eines ähnlichen Zaubers erhält ([Seite 260](#ähnliche-zauber)). Die Laborsumme muss das Doppelte der Zauberstufe zuzüglich aller zusätzlichen Kräfte, die der Magus einbetten möchte, betragen.
 
 **LABORSUMME FÜR ZAUBERWERKZEUG-VERZAUBERUNG: Technik + Form + Intelligenz + Magietheorie + Auramodifikator + Philosophiae + Hybris + Magnitude des bekannten Zaubers + Handwerk (sofern anwendbar)**
 
@@ -10195,7 +10195,7 @@ Im dreizehnten Jahrhundert werden Begabte Nemthengacha nach und nach in den Orde
 
 #### Kräfte
 
-Wie jeder Charakter des Hauses Ex Miscellanea erhält ein Magus der Nemthengacha-Tradition eine kostenlose Große Nicht-Hermetische Tugend, einen obligatorischen Großen Fehler und eine kostenlose Kleine Hermetische Tugend. Die Große Nicht-Hermetische Tugend ist Verbitterung, eine neue Große Übernatürliche Fertigkeit. Verbitterung ähnelt der Betörung (siehe Seite 164), doch sind ihre Wirkungen spezifischer und wirkungsvoller. Aufgrund dieses besonderen Fokus fällt es den Nemthengacha schwer, andere Gefühle im Geist eines Ziels zu beeinflussen, was sich auch auf andere Bereiche der hermetischen Magie auswirkt. Jeder Nemthengacha besitzt den Großen Hermetischen Fehler: Defizitäre Technik (Rego). Da Verbitterung einzig auf der Stimme des Nemthenga beruht, ist seine Magie weniger auf Gesten angewiesen als die anderer hermetischer Magi. Er erhält die Kleine Hermetische Tugend: Subtile Magie ohne zusätzliche Kosten.
+Wie jeder Charakter des Hauses Ex Miscellanea erhält ein Magus der Nemthengacha-Tradition eine kostenlose Große Nicht-Hermetische Tugend, einen obligatorischen Großen Fehler und eine kostenlose Kleine Hermetische Tugend. Die Große Nicht-Hermetische Tugend ist Verbitterung, eine neue Große Übernatürliche Fertigkeit. Verbitterung ähnelt der Betörung (siehe [Seite 164](#betörung-1)), doch sind ihre Wirkungen spezifischer und wirkungsvoller. Aufgrund dieses besonderen Fokus fällt es den Nemthengacha schwer, andere Gefühle im Geist eines Ziels zu beeinflussen, was sich auch auf andere Bereiche der hermetischen Magie auswirkt. Jeder Nemthengacha besitzt den Großen Hermetischen Fehler: Defizitäre Technik (Rego). Da Verbitterung einzig auf der Stimme des Nemthenga beruht, ist seine Magie weniger auf Gesten angewiesen als die anderer hermetischer Magi. Er erhält die Kleine Hermetische Tugend: Subtile Magie ohne zusätzliche Kosten.
 
 **Große Nicht-Hermetische Tugend:** Verbitterung
 
@@ -10239,7 +10239,7 @@ Diese Tradition ist vor allem in von Sachsen besiedelten Gebieten verbreitet, ei
 
 #### Den Wind herbeipfeifen
 
-Ein Charakter mit dieser Fertigkeit kann einen Wind erzeugen und dabei die Wirkungen jedes windbasierten Creo-Auram-Zaubers mit Reichweite Stimme und Ziel Individuum nachahmen; für andere Wetterphänomene gibt es vergleichbare Übernatürliche Fertigkeiten. Um den Wind zu rufen, muss der Charakter buchstäblich pfeifen und einen Ausdauer + Den Wind herbeipfeifen-Wurf gegen den in der nachstehenden Tabelle angegebenen Schwierigkeitsgrad ablegen. Bei Erfolg beginnt der Wind sofort so zu wehen, wie der Charakter es befiehlt. Er weht auf dieselbe Weise weiter, auch wenn der Charakter aufhört zu pfeifen. Ein Charakter, der einen Wind einer bestimmten Stärke beschworen hat, kann diesen in einen anderen Wind ähnlicher Stärke umwandeln (etwa von Kreisende Winde des Schutzes zu Besen der Winde), ihn auf einen schwächeren Effekt abschwächen (etwa Kammer der Frühlingsbrise) oder ihn ganz beenden. Jede dieser Veränderungen erfordert einen Kommunikation + Musik-Wurf gegen die Schwierigkeitsgrade für das Aufrechterhalten der Konzentration auf einen Zauber (siehe Seite 215). Ein neues Pfeifen auf diese Weise kann die Stärke eines Windes nicht steigern und einen abgeschwächten Wind nicht auf seine frühere Intensität zurückbringen – stattdessen muss der Charakter einen neuen Den Wind herbeipfeifen-Wurf ablegen. Alle Wirkungen dieser Fertigkeit nehmen nach jedem Sonnenuntergang um eine Stufe ab, bis sie schließlich erlöschen.
+Ein Charakter mit dieser Fertigkeit kann einen Wind erzeugen und dabei die Wirkungen jedes windbasierten Creo-Auram-Zaubers mit Reichweite Stimme und Ziel Individuum nachahmen; für andere Wetterphänomene gibt es vergleichbare Übernatürliche Fertigkeiten. Um den Wind zu rufen, muss der Charakter buchstäblich pfeifen und einen Ausdauer + Den Wind herbeipfeifen-Wurf gegen den in der nachstehenden Tabelle angegebenen Schwierigkeitsgrad ablegen. Bei Erfolg beginnt der Wind sofort so zu wehen, wie der Charakter es befiehlt. Er weht auf dieselbe Weise weiter, auch wenn der Charakter aufhört zu pfeifen. Ein Charakter, der einen Wind einer bestimmten Stärke beschworen hat, kann diesen in einen anderen Wind ähnlicher Stärke umwandeln (etwa von Kreisende Winde des Schutzes zu Besen der Winde), ihn auf einen schwächeren Effekt abschwächen (etwa Kammer der Frühlingsbrise) oder ihn ganz beenden. Jede dieser Veränderungen erfordert einen Kommunikation + Musik-Wurf gegen die Schwierigkeitsgrade für das Aufrechterhalten der Konzentration auf einen Zauber (siehe [Seite 215](#konzentration-1)). Ein neues Pfeifen auf diese Weise kann die Stärke eines Windes nicht steigern und einen abgeschwächten Wind nicht auf seine frühere Intensität zurückbringen – stattdessen muss der Charakter einen neuen Den Wind herbeipfeifen-Wurf ablegen. Alle Wirkungen dieser Fertigkeit nehmen nach jedem Sonnenuntergang um eine Stufe ab, bis sie schließlich erlöschen.
 
 | Schwierigkeitsgrad | Windstärke                                                           |
 | ------------------ | -------------------------------------------------------------------- |
@@ -10265,7 +10265,7 @@ Ein Magus verbringt weitaus mehr Zeit in seinem Laboratorium — mit Studien und
 
 Laboraktivitäten nehmen den Großteil deines Lebens als Magus in Anspruch, daher solltest du sowohl deinen einzelnen Laborarbeiten als auch deiner Einstellung zu deinem Laboratorium und deinen Schöpfungen sorgfältige Überlegung widmen. Dein Laboratorium ist ein bedeutsamer Spiegel deiner Persönlichkeit — schließlich verbringst du dort einen großen Teil deiner Zeit. Nimm dir die Zeit, dir vorzustellen, wie dein Sanctum aussieht und was sich darin befindet. Ist es mit Schutzzaubern belegt? Wo schläfst du? Was hast du in deinem Labor, und wo bewahrst du es auf? Versteckst du deine wertvollsten Besitztümer? Ist dein Laboratorium sauber und ordentlich gehalten, oder herrscht darin ein solches Durcheinander, dass nur du selbst dich noch zurechtfindest?
 
-Die Antworten auf solche Fragen helfen dir, deinen Magus zu definieren — und machen in der Regel auch Freude. Die Regeln zur Laboratoriumspersonalisierung auf Seite 286 erläutern, auf welche Weise diese Beschreibungen die Spielmechanik der Laboraktivitäten beeinflussen können.
+Die Antworten auf solche Fragen helfen dir, deinen Magus zu definieren — und machen in der Regel auch Freude. Die Regeln zur Laboratoriumspersonalisierung auf [Seite 286](#regeln-zur-laborpersonalisierung) erläutern, auf welche Weise diese Beschreibungen die Spielmechanik der Laboraktivitäten beeinflussen können.
 
 ## Grundlegende Laboraktivitäten
 
@@ -10277,17 +10277,17 @@ Die Laborsumme für eine bestimmte Technik und Form wird als Technik-Form-Labors
 
 ### Ein Laboratorium einrichten
 
-Ein Laboratorium wird üblicherweise in einem Raum mit mindestens 46 Quadratmetern Grundfläche und einer Deckenhöhe von mindestens drei Metern eingerichtet; außerdem muss es ausreichend gegen Witterungseinflüsse geschützt sein — einfaches Segeltuch genügt nicht, eine Holzwand jedoch schon. (Laboratorien, die diese Anforderungen nicht erfüllen, verursachen Probleme bei der Arbeit darin; siehe Seite 286.) Ein Charakter muss einen Magietheorie-Wert von mindestens 3 haben, um ein Laboratorium einrichten zu können; insgesamt beansprucht dieser Prozess zwei Quartale.
+Ein Laboratorium wird üblicherweise in einem Raum mit mindestens 46 Quadratmetern Grundfläche und einer Deckenhöhe von mindestens drei Metern eingerichtet; außerdem muss es ausreichend gegen Witterungseinflüsse geschützt sein — einfaches Segeltuch genügt nicht, eine Holzwand jedoch schon. (Laboratorien, die diese Anforderungen nicht erfüllen, verursachen Probleme bei der Arbeit darin; siehe [Seite 286](#regeln-zur-laborpersonalisierung).) Ein Charakter muss einen Magietheorie-Wert von mindestens 3 haben, um ein Laboratorium einrichten zu können; insgesamt beansprucht dieser Prozess zwei Quartale.
 
 Im ersten Quartal entsteht ein Grundlaboratorium, das Laboraktivitäten zwar ermöglicht, aber einen Abzug von −3 auf alle Laborsummen verhängt. Im zweiten Quartal wird das Laboratorium fertiggestellt und der Abzug entfällt. Eine Maga kann ihr Laboratorium anschließend nach eigenen Vorstellungen einrichten; dieser Prozess wird am Ende dieses Kapitels beschrieben.
 
 ### Arkane Studien
 
-Die Kenntnis der Magietheorie und der magischen Künste ist für Magi von großer Bedeutung — so groß, dass viele ihr gesamtes Leben dem Studium widmen. Magi können ihre Kunstwerte auf verschiedene Arten steigern. Jede dieser Möglichkeiten wird im Abschnitt „Erfahrung und Fortschritt" beschrieben, der auf Seite 375 beginnt.
+Die Kenntnis der Magietheorie und der magischen Künste ist für Magi von großer Bedeutung — so groß, dass viele ihr gesamtes Leben dem Studium widmen. Magi können ihre Kunstwerte auf verschiedene Arten steigern. Jede dieser Möglichkeiten wird im Abschnitt „Erfahrung und Fortschritt" beschrieben, der auf [Seite 375](#erfahrung-und-fortschritt) beginnt.
 
 ### Arkane Verbindungen festigen
 
-Ein Magus, der eine aktive Arkane Verbindung besitzt (siehe Seite 219), kann sie durch ein Quartal Laborarbeit und einen Bauern Vim-Vis dauerhaft machen. Die Verbindung muss zu Beginn des Quartals aktiv sein, braucht aber nicht von Natur aus das gesamte Quartal zu überdauern. Diese Tätigkeit muss in einem Laboratorium durchgeführt werden, obwohl sie nicht auf einer Laborsumme basiert.
+Ein Magus, der eine aktive Arkane Verbindung besitzt (siehe [Seite 219](#arkane-verbindungen)), kann sie durch ein Quartal Laborarbeit und einen Bauern Vim-Vis dauerhaft machen. Die Verbindung muss zu Beginn des Quartals aktiv sein, braucht aber nicht von Natur aus das gesamte Quartal zu überdauern. Diese Tätigkeit muss in einem Laboratorium durchgeführt werden, obwohl sie nicht auf einer Laborsumme basiert.
 
 ### Vis
 
@@ -10303,9 +10303,9 @@ Aus einer magischen Umgebung — das heißt, aus jedem Gebiet mit einer Magische
 
 Ein Magus kann Rohes Vis in seinem Laboratorium problemlos von einer physischen Form in eine andere überführen. Dies dauert einen Tag (von Sonnenaufgang bis Sonnenaufgang) und kann geschehen, während der Magus einer anderen Laboraktivität nachgeht. Es muss jedoch in einem Laboratorium stattfinden.
 
-Die maximale Vis-Menge, die ein Gegenstand aufnehmen kann, ergibt sich aus der Material- und Größentabelle auf Seite 255. Wenn Rohes Vis in einen Gegenstand übertragen wird — anstatt ihn zur Verzauberung vorzubereiten —, darf der Magus eine beliebige Anzahl von Bauern bis zur Kapazität des Gegenstands verschieben.
+Die maximale Vis-Menge, die ein Gegenstand aufnehmen kann, ergibt sich aus der Material- und Größentabelle auf [Seite 255](#material-und-größentabellen). Wenn Rohes Vis in einen Gegenstand übertragen wird — anstatt ihn zur Verzauberung vorzubereiten —, darf der Magus eine beliebige Anzahl von Bauern bis zur Kapazität des Gegenstands verschieben.
 
-Ein Gegenstand, der zur Verzauberung geöffnet wurde (siehe Seite 254 unten), kann nicht gleichzeitig Rohes Vis enthalten.
+Ein Gegenstand, der zur Verzauberung geöffnet wurde (siehe [Seite 254](#vorbereitung-zur-verzauberung) unten), kann nicht gleichzeitig Rohes Vis enthalten.
 
 Zu beachten ist, dass dabei lediglich der physische Träger des Vis verändert wird, nicht jedoch die Hermetische Kunst, auf die der Vis abgestimmt ist.
 
@@ -10339,19 +10339,19 @@ Auch wenn du einen Zauber von einem Lehrer erlernst, manifestiert sich in deiner
 
 Einen Zauber selbst zu erfinden ist schwieriger als ihn zu erlernen — aber natürlich brauchst du dafür keinen Lehrer. Entscheide zunächst, welche Wirkungen der Zauber haben soll. Du kannst einen im Zauberkapitel beschriebenen Zauber übernehmen, eine Variante eines dort aufgeführten Zaubers erfinden oder etwas völlig Eigenes entwickeln.
 
-Möchtest du einen bereits vorhandenen Zauber nachbilden, verwende die dort angegebenen Spielwerte, ergänze aber dein Zauberersigil (siehe „Sigile" auf Seite 274).
+Möchtest du einen bereits vorhandenen Zauber nachbilden, verwende die dort angegebenen Spielwerte, ergänze aber dein Zauberersigil (siehe „Sigile" auf [Seite 274](#sigile)).
 
-Wenn du eine Variante eines Zaubers aus dem Zauberkapitel erstellst — zum Beispiel die Reichweite änderst oder einen anderen Zieltyp zulässt —, nimm zunächst den Zauber zur Hand, auf dem deine Variante basiert. Stelle dann fest, ob du Reichweite, Dauer, Ziel oder eine Kombination davon veränderst. Die Stufe des neuen Zaubers richtet sich danach, wie stark er vom Ausgangszauber abweicht. Die Methode zur Bestimmung der neuen Zauberstufe ist unter „Reichweite, Dauer und Ziel ändern" auf Seite 303 beschrieben.
+Wenn du eine Variante eines Zaubers aus dem Zauberkapitel erstellst — zum Beispiel die Reichweite änderst oder einen anderen Zieltyp zulässt —, nimm zunächst den Zauber zur Hand, auf dem deine Variante basiert. Stelle dann fest, ob du Reichweite, Dauer, Ziel oder eine Kombination davon veränderst. Die Stufe des neuen Zaubers richtet sich danach, wie stark er vom Ausgangszauber abweicht. Die Methode zur Bestimmung der neuen Zauberstufe ist unter „Reichweite, Dauer und Ziel ändern" auf [Seite 303](#änderung-von-reichweiten-dauern-und-zielen) beschrieben.
 
-Wenn du einen völlig neuen Zauber erfindest, musst du ihn vollständig beschreiben — sowohl hinsichtlich seiner Spielmechanik (Reichweite, Dauer und Ziel) als auch seiner Einbettung in das mittelalterliche Weltbild. Stelle sicher, dass er die Grenzen der Magie berücksichtigt (siehe Seite 210). Um die Stufe des neuen Zaubers zu bestimmen, lege zunächst seine Technik und Form fest — das ergibt sich meist aus dem gesunden Menschenverstand. Schlag dann in den allgemeinen Leitlinien für die betreffende Technik-Form-Kombination im Zauberkapitel nach. Dort findest du eine Übersicht, welche Effekte welcher Zauberstufe entsprechen. Die endgültige Zauberstufe wird mithilfe der Leitlinien unter „Reichweite, Dauer und Ziel ändern" auf Seite 303 ermittelt.
+Wenn du einen völlig neuen Zauber erfindest, musst du ihn vollständig beschreiben — sowohl hinsichtlich seiner Spielmechanik (Reichweite, Dauer und Ziel) als auch seiner Einbettung in das mittelalterliche Weltbild. Stelle sicher, dass er die Grenzen der Magie berücksichtigt (siehe [Seite 210](#grenzen-der-magie)). Um die Stufe des neuen Zaubers zu bestimmen, lege zunächst seine Technik und Form fest — das ergibt sich meist aus dem gesunden Menschenverstand. Schlag dann in den allgemeinen Leitlinien für die betreffende Technik-Form-Kombination im Zauberkapitel nach. Dort findest du eine Übersicht, welche Effekte welcher Zauberstufe entsprechen. Die endgültige Zauberstufe wird mithilfe der Leitlinien unter „Reichweite, Dauer und Ziel ändern" auf [Seite 303](#änderung-von-reichweiten-dauern-und-zielen) ermittelt.
 
-Sobald du die Einzelheiten des zu erfindenden Zaubers festgelegt hast, musst du klären, ob du ihn überhaupt erfinden kannst — und wie lange es dauern wird. Du kannst einen Zauber nur dann erfinden, wenn deine Laborsumme die Stufe des Zaubers übertrifft. Ein Bonus für das Kennen eines ähnlichen Zaubers kommt hinzu (+1 pro fünf Stufen des höchsten ähnlichen Zaubers — siehe „Ähnliche Zauber" auf Seite 260). Auch Requisiten des neuen Zaubers fließen in die Berechnung deiner Laborsumme ein. Für jeden Punkt, um den deine Laborsumme die Zauberstufe übersteigt, sammelst du pro Quartal einen Punkt an. Sobald du Punkte in Höhe der Zauberstufe angesammelt hast, ist der Zauber erfunden.
+Sobald du die Einzelheiten des zu erfindenden Zaubers festgelegt hast, musst du klären, ob du ihn überhaupt erfinden kannst — und wie lange es dauern wird. Du kannst einen Zauber nur dann erfinden, wenn deine Laborsumme die Stufe des Zaubers übertrifft. Ein Bonus für das Kennen eines ähnlichen Zaubers kommt hinzu (+1 pro fünf Stufen des höchsten ähnlichen Zaubers — siehe „Ähnliche Zauber" auf [Seite 260](#ähnliche-zauber)). Auch Requisiten des neuen Zaubers fließen in die Berechnung deiner Laborsumme ein. Für jeden Punkt, um den deine Laborsumme die Zauberstufe übersteigt, sammelst du pro Quartal einen Punkt an. Sobald du Punkte in Höhe der Zauberstufe angesammelt hast, ist der Zauber erfunden.
 
-Es ist außerdem möglich, einen Zauber anhand des Labortexts eines anderen Magus zu erfinden (siehe Seite 262). Dies geht erheblich schneller, und die meisten Zauber, die Magi beherrschen, werden auf diese Weise erfunden.
+Es ist außerdem möglich, einen Zauber anhand des Labortexts eines anderen Magus zu erfinden (siehe [Seite 262](#labortexte-verwenden)). Dies geht erheblich schneller, und die meisten Zauber, die Magi beherrschen, werden auf diese Weise erfunden.
 
 > #### Beispiel: Zauber erfinden
 >
-> Tillitus von Haus Bonisagus möchte einige Schutzzauber erfinden, da ihm kleinere mystische Kreaturen immer wieder Schwierigkeiten bereiten. Allgemeine Schutzwälle dieser Art sind Rego Vim (siehe Seite 370) und können in beliebiger Stufe erfunden werden. Semita Errabunda, Tillitus' Konvent, besitzt eine Magische Aura von 5; Tillitus selbst hat Intelligenz +5, Magietheorie 3 (+2 durch Begabung in Magietheorie, seine freie Bonisagus-Tugend), Rego 5 und Vim 5. Seine Rego Vim-Laborsumme beträgt damit 25.
+> Tillitus von Haus Bonisagus möchte einige Schutzzauber erfinden, da ihm kleinere mystische Kreaturen immer wieder Schwierigkeiten bereiten. Allgemeine Schutzwälle dieser Art sind Rego Vim (siehe [Seite 370](#rego-vim-zauber)) und können in beliebiger Stufe erfunden werden. Semita Errabunda, Tillitus' Konvent, besitzt eine Magische Aura von 5; Tillitus selbst hat Intelligenz +5, Magietheorie 3 (+2 durch Begabung in Magietheorie, seine freie Bonisagus-Tugend), Rego 5 und Vim 5. Seine Rego Vim-Laborsumme beträgt damit 25.
 >
 > Im Zauberkapitel stellt Matt, Tillitus' Spieler, fest, dass für jede der vier Sphären ein eigener Zauber erfunden werden muss. Er beschließt, zunächst einen wirkungsvollen Schutzwall gegen magische Kreaturen zu erfinden. Er wählt Stufe 20, da diese unter seiner Laborsumme liegt.
 >
@@ -10407,7 +10407,7 @@ Die Gesamtzahl der beim Einbetten von Wirkungen aufgewendeten Bauern Vis darf di
 
 Schlichte Artefakte müssen vor dem Einbetten einer Wirkung nicht vorbereitet werden; es kann jedoch nur eine einzige Wirkung eingebettet werden. Außerdem muss der erschaffende Magus in der Lage sein, die Wirkung in einem einzigen Quartal einzubetten; seine Laborsumme muss mindestens doppelt so hoch sein wie die angepasste Stufe der Wirkung.
 
-Das Einbetten einer Wirkung in ein Schlichtes Artefakt kostet — ebenso wie bei einem Bereiteten Artefakt — einen Bauern geeigneter Vis je zehn Stufen oder einen Teil davon; es ist jedoch kein Vim-Vis für die Vorbereitung des Gegenstands erforderlich. Der gesamte benötigte Vis-Aufwand besteht nur aus dem einen Bauern je zehn Stufen oder einem Teil davon. Die Menge Vis, die ein Magus für ein Schlichtes Artefakt aufwenden kann, wird durch Material und Größe des zu verzaubernden Gegenstands begrenzt (siehe Seite 255), genau wie bei einem Bereiteten Artefakt.
+Das Einbetten einer Wirkung in ein Schlichtes Artefakt kostet — ebenso wie bei einem Bereiteten Artefakt — einen Bauern geeigneter Vis je zehn Stufen oder einen Teil davon; es ist jedoch kein Vim-Vis für die Vorbereitung des Gegenstands erforderlich. Der gesamte benötigte Vis-Aufwand besteht nur aus dem einen Bauern je zehn Stufen oder einem Teil davon. Die Menge Vis, die ein Magus für ein Schlichtes Artefakt aufwenden kann, wird durch Material und Größe des zu verzaubernden Gegenstands begrenzt (siehe [Seite 255](#material-und-größentabellen)), genau wie bei einem Bereiteten Artefakt.
 
 Ein Schlichtes Artefakt kann niemals weitere magische Wirkungen erhalten; sobald der Magus ein einziges Quartal daran gearbeitet hat, ist die Arbeit abgeschlossen.
 
@@ -10482,7 +10482,7 @@ Es ist auch möglich, einen zusammengesetzten Gegenstand zur Verzauberung vorzub
 
 Es ist nicht möglich, einen einzelnen Gegenstand „teilweise" zu öffnen. Ein hölzerner Stab muss stets mit acht Bauern Vis geöffnet werden; eine geringere Anzahl ist nicht zulässig. Es kann vorkommen, dass ein Gegenstand eine Vis-Kapazität hat, die es einem Magus unmöglich macht, ihn zur Verzauberung zu öffnen, da er das Limit der pro Quartal einsetzbaren Vis-Bauern nicht überschreiten kann.
 
-Es ist auch möglich, Gegenstände zu verzaubern, die die „riesige" Kategorie der Tabelle überschreiten. Der Multiplikator erhöht sich für jede Zehnerpotenz, um die der Gegenstand die Größe eines riesigen Gegenstands überschreitet, um eins. Etwas, das hundertmal größer als ein kleiner Raum ist — etwa ein Burgfried —, hätte beispielsweise den Multiplikator ×7. Zwei Probleme machen dies jedoch sehr selten. Das erste, weniger schwerwiegende Problem besteht darin, dass der gesamte Gegenstand geöffnet werden muss, was den Umgang mit einer großen Menge Vis erfordert. Das schwerwiegendere Problem ist, dass sich der gesamte Gegenstand im Laboratorium des Magus befinden muss. Bereits ein Faktor von 10 macht einen Gegenstand zu groß für ein standardmäßiges hermetisches Laboratorium; auf Seite 286 finden sich Regeln zur Errichtung eines größeren Laboratoriums.
+Es ist auch möglich, Gegenstände zu verzaubern, die die „riesige" Kategorie der Tabelle überschreiten. Der Multiplikator erhöht sich für jede Zehnerpotenz, um die der Gegenstand die Größe eines riesigen Gegenstands überschreitet, um eins. Etwas, das hundertmal größer als ein kleiner Raum ist — etwa ein Burgfried —, hätte beispielsweise den Multiplikator ×7. Zwei Probleme machen dies jedoch sehr selten. Das erste, weniger schwerwiegende Problem besteht darin, dass der gesamte Gegenstand geöffnet werden muss, was den Umgang mit einer großen Menge Vis erfordert. Das schwerwiegendere Problem ist, dass sich der gesamte Gegenstand im Laboratorium des Magus befinden muss. Bereits ein Faktor von 10 macht einen Gegenstand zu groß für ein standardmäßiges hermetisches Laboratorium; auf [Seite 286](#regeln-zur-laborpersonalisierung) finden sich Regeln zur Errichtung eines größeren Laboratoriums.
 
 Ein zur Verzauberung vorbereiteter Gegenstand ist für jeden magischen Zweck nutzlos, bis er entweder als Talisman abgestimmt oder mit magischen Wirkungen versehen wird.
 
@@ -10498,7 +10498,7 @@ Wirkungen, die in Artefakte eingebettet werden, folgen beim Entwurf den Regeln f
 
 Wähle zunächst eine Wirkung, die in dein Artefakt eingebettet werden soll, und bestimme ihre Stufe. Eine Wirkung gleicht einem Zauber und muss vollständig definiert sein, wie es auch bei einem Zauber der Fall ist. Du kannst die Wirkung auf einen Zauber aus dem Zauberkapitel stützen oder eine eigene Wirkung erfinden. Wenn du eine neue Wirkung entwirfst, musst du sie sorgfältig ausarbeiten, als würdest du einen neuen Zauber erfinden. Die Stufe der Wirkung entspricht der äquivalenten Zauberstufe. Du solltest die Stufe deiner Wirkung mit der Spieltruppe abstimmen. Notiere die Ausgangsstufe der Wirkung für spätere Zwecke. Dies ist die Wirkungsstufe; sie wird herangezogen, wenn die Wirkungen des Artefakts bewertet werden — etwa ob sie Verzerrung verursachen oder ob einer Maga das Auflösen einer Wirkung gelingt. Die im weiteren Verlauf dieses Prozesses getroffenen Entscheidungen können diese Stufe verändern und damit die angepasste Wirkungsstufe bestimmen. Diese wird beim Umgang mit dem Artefakt selbst verwendet — zum Beispiel beim Einbetten der Wirkungen im Laboratorium oder beim Versuch, ein Artefakt zu entzaubern.
 
-Obwohl die Wirkung auf den Zauberleitlinien basiert, ist sie kein Zauber, und der Magus muss den entsprechenden Zauber nicht kennen. Kennt er ihn jedoch, erhält er einen Bonus (siehe Seite 260).
+Obwohl die Wirkung auf den Zauberleitlinien basiert, ist sie kein Zauber, und der Magus muss den entsprechenden Zauber nicht kennen. Kennt er ihn jedoch, erhält er einen Bonus (siehe [Seite 260](#ähnliche-zauber)).
 
 Im Allgemeinen dürfen Artefakte keine Wirkungen nachahmen, die Ritualzaubern entsprechen. Es gibt jedoch eine Ausnahme: Artefaktwirkungen dürfen eine Stufe über 50 haben, solange es keinen anderen Grund gibt, den Zauber als Ritual einzustufen — wie etwa die Dauer Jahr, die Zielgröße Grenze oder ein Haupteffekt.
 
@@ -10604,7 +10604,7 @@ Talismane helfen dir, deine magischen Kräfte zu bündeln und auszudehnen. Ein T
 
 Du kannst einen Gegenstand nur dann als Talisman abstimmen, wenn du ihn selbst zur Verzauberung vorbereitet hast. Die Abstimmung dauert ein Quartal und kann unabhängig von deiner Laborsumme durchgeführt werden. Ein Magus kann immer nur einen Talisman besitzen und muss einen älteren Talisman vollständig vernichten, bevor er einen neuen erschaffen kann. Das bedeutet, dass der in den ersten Talisman investierte Vis und die aufgewendete Zeit verloren sind. Ein Magus kann keinen Talisman für jemand anderen erschaffen.
 
-Ein Magus kann einen Gegenstand mit bereits eingebetteten Wirkungen als Talisman abstimmen, sofern er alle Wirkungen persönlich eingebettet hat. Ein Gegenstand, an dem mehr als ein Magus mitgewirkt hat, kann nicht als Talisman abgestimmt werden. Es ist jedoch möglich, ein Artefakt als Talisman abzustimmen, wenn der Hauptschöpfer bei der Laborarbeit von einer anderen begabten Person unterstützt wurde (siehe „Hilfe im Laboratorium", Seite 264).
+Ein Magus kann einen Gegenstand mit bereits eingebetteten Wirkungen als Talisman abstimmen, sofern er alle Wirkungen persönlich eingebettet hat. Ein Gegenstand, an dem mehr als ein Magus mitgewirkt hat, kann nicht als Talisman abgestimmt werden. Es ist jedoch möglich, ein Artefakt als Talisman abzustimmen, wenn der Hauptschöpfer bei der Laborarbeit von einer anderen begabten Person unterstützt wurde (siehe „Hilfe im Laboratorium", [Seite 264](#hilfe-im-laboratorium)).
 
 Die Abstimmung eines Gegenstands als Talisman hat mehrere Wirkungen.
 
@@ -10632,7 +10632,7 @@ Solange du Kräfte findest, würfelst du in diesem Quartal weiter. Würfelst du 
 
 Wenn du beim Untersuchungswurf einen Patzer erleidest, können viele Dinge geschehen; der Spielleiter trifft die endgültige Entscheidung basierend auf der Situation. Du könntest eine Kraft falsch deuten und glauben, sie hat eine andere Funktion, als sie tatsächlich hat. Du könntest die Auslösehandlung einer Kraft falsch lesen, sodass sie für dich nutzlos wird. Oder du könntest den verzauberten Gegenstand irgendwie stören und seine Kräfte auslösen. Überlebst du einen Untersuchungspatzer, endet dein Quartal dort. Du kannst dich aber im nächsten Quartal erneut dem Gegenstand zuwenden, um die Kraft, die dich verwirrt hat, ordnungsgemäß zu identifizieren.
 
-Magi verwenden mitunter den Wartezauber (siehe Seite 372), um ihre Artefakte zu schützen. Der im Wartezauber gehaltene Zauber wird oft gegen jeden ausgelöst, der den Gegenstand magisch untersucht. Der Wartezauber ist nicht in den Gegenstand eingebettet, sondern als Schutz auf ihn gewirkt. Du kannst einen Wartezauber daher bei deinen ersten Untersuchungen eines Gegenstands nicht entdecken. Wer keinen Zauber wirkt, um einen Wartezauber aufzudecken, entdeckt ihn häufig erst, wenn er ihn auslöst. Sei gewarnt.
+Magi verwenden mitunter den Wartezauber (siehe [Seite 372](#die-wachende-wacht)), um ihre Artefakte zu schützen. Der im Wartezauber gehaltene Zauber wird oft gegen jeden ausgelöst, der den Gegenstand magisch untersucht. Der Wartezauber ist nicht in den Gegenstand eingebettet, sondern als Schutz auf ihn gewirkt. Du kannst einen Wartezauber daher bei deinen ersten Untersuchungen eines Gegenstands nicht entdecken. Wer keinen Zauber wirkt, um einen Wartezauber aufzudecken, entdeckt ihn häufig erst, wenn er ihn auslöst. Sei gewarnt.
 
 ## Ähnliche Zauber
 
@@ -10653,7 +10653,7 @@ Die Zeit zum Studium und zur Steigerung deiner Macht hat eine unausweichliche Gr
 
 Das Langlebigkeitsritual schafft einen magischen Anker, der die Lebenskraft des Magus aufrechterhält — häufig durch direkte Einwirkung auf das Körpergewebe des Magus. Dieser Anker verhindert jedoch, dass der Magus seine Lebenskraft auf normale menschliche Weise verausgabt; der Magus wird dadurch dauerhaft unfruchtbar. Das Ritual dauert ein Quartal und gipfelt in einem bestimmten Fokus, der dem jeweiligen Magus angemessen ist. Die geläufigste Form dieses Fokus ist ein Trank, den der Magus trinkt; es könnte aber auch ein Bad sein, ein Ritual, bei dem der Magus den Rauch besonderer Weihrauchsorten einatmet, oder sogar ein magisches Feuer, in dem der Magus steht, um die Unreinheiten zu verbrennen, die das Altern verursachen. Der Fokus ist stets etwas, das wiederholt werden kann, und setzt weder fortlaufende Handlungen noch den Besitz eines Gegenstands voraus. Magi, deren Fokus ein Trank ist, sprechen häufig von ihrem Langlebigkeitstrank; Magi mit anderen Foki verwenden entsprechend andere Bezeichnungen — wenn ihnen die Natur ihres Fokus jedoch zu viel preisgibt, sprechen sie mitunter einfach vom Langlebigkeitsritual.
 
-Das Langlebigkeitsritual braucht ein Quartal zur Entwicklung und Durchführung, und das Subjekt des Rituals muss während des gesamten Quartals anwesend sein. Falls es sich anbietet, kann er den das Ritual schaffenden Magus bei dessen Laborarbeit unterstützen (siehe Seite 264).
+Das Langlebigkeitsritual braucht ein Quartal zur Entwicklung und Durchführung, und das Subjekt des Rituals muss während des gesamten Quartals anwesend sein. Falls es sich anbietet, kann er den das Ritual schaffenden Magus bei dessen Laborarbeit unterstützen (siehe [Seite 264](#hilfe-im-laboratorium)).
 
 Jeder Magus besitzt ein einzigartiges Langlebigkeitsritual, obwohl es möglich ist, ein Langlebigkeitsritual für eine andere Person zu erschaffen. Tatsächlich beauftragen viele junge Magi ältere Magi damit, ihre Langlebigkeitsrituale zu entwerfen, da die höhere Laborsumme des älteren Magus das Ritual weitaus wirkungsvoller macht. Am häufigsten bezahlt ein Magus dafür seinen Parens, und in manchen Teilen des Ordens gilt dies fast als erwarteter Brauch.
 
@@ -10663,7 +10663,7 @@ Jeder Magus besitzt ein einzigartiges Langlebigkeitsritual, obwohl es möglich i
 
 Normalerweise dürfen in einem Langlebigkeitsritual nur Creo-, Corpus- und Vim-Vis verwendet werden. Ein Langlebigkeitsritual ist jedoch eine sehr persönliche Schöpfung und damit untrennbar mit deinen magischen Fähigkeiten verbunden. Du kannst — mit Zustimmung der Spieltruppe oder des Spielleiters — jeden Vis-Typ ersetzen, der eng mit deinen magischen Talenten verknüpft ist.
 
-Die Wirkung eines Langlebigkeitsrituals hält an, bis du eine Alterskrise erleidest (siehe „Altern" auf Seite 391). Danach verliert das Ritual seine Wirksamkeit, und der Fokus muss wiederholt werden. Du kannst ein neues Ritual erfinden (nach den üblichen Regeln dafür) oder das alte Ritual erneut durchführen. Dabei musst du lediglich eine neue Menge Vis investieren (deren Höhe sich nach deinem aktuellen Alter richtet), ohne nennenswerten Zeitaufwand. Du musst den Labortext (siehe Seite 262) des ursprünglichen Rituals besitzen — das ist der einzige Nutzen, den der Labortext eines Langlebigkeitsrituals bietet. Scheitert dein Langlebigkeitsritual und würfelst du Alterungswürfe, bevor du ein neues erschaffst, trägst du die vollen Folgen deines Alters. Wenn du schließlich ein neues Ritual durchführst, erhältst du keine Alterungspunkte oder Gebrechlichkeitspunkte zurück, die du erlitten hast, während du ohne den Schutz eines Rituals warst.
+Die Wirkung eines Langlebigkeitsrituals hält an, bis du eine Alterskrise erleidest (siehe „Altern" auf [Seite 391](#altern)). Danach verliert das Ritual seine Wirksamkeit, und der Fokus muss wiederholt werden. Du kannst ein neues Ritual erfinden (nach den üblichen Regeln dafür) oder das alte Ritual erneut durchführen. Dabei musst du lediglich eine neue Menge Vis investieren (deren Höhe sich nach deinem aktuellen Alter richtet), ohne nennenswerten Zeitaufwand. Du musst den Labortext (siehe [Seite 262](#labortexte-verwenden)) des ursprünglichen Rituals besitzen — das ist der einzige Nutzen, den der Labortext eines Langlebigkeitsrituals bietet. Scheitert dein Langlebigkeitsritual und würfelst du Alterungswürfe, bevor du ein neues erschaffst, trägst du die vollen Folgen deines Alters. Wenn du schließlich ein neues Ritual durchführst, erhältst du keine Alterungspunkte oder Gebrechlichkeitspunkte zurück, die du erlitten hast, während du ohne den Schutz eines Rituals warst.
 
 Wenn du zum ersten Mal ein Langlebigkeitsritual erschaffst, kannst du seine Wirkung steigern, indem du zusätzliche Vis in die Zeremonie einbringst. Dieser Vis kommt zu dem hinzu, den du für dein aktuelles Alter aufwenden musst. Für jeden zusätzlichen Bauern, den du dem Ritual beifügst, erhöhst du deine Laborsumme um 1. Dieser Vis wird eingesetzt, wenn du die jeweilige Version eines Rituals ursprünglich erschaffst; du musst jedoch dieselbe Menge zusätzlicher Vis aufwenden, jedes Mal wenn du den Fokus nach dem Scheitern des Rituals erneut durchführst. Wenn du das Ritual neu erfindest, um von gesteigerten Kunstwerten zu profitieren, kannst du auf den Einsatz zusätzlicher Vis verzichten.
 
@@ -10687,7 +10687,7 @@ Handelt es sich beim Labortext um ein Aufgeladenes Artefakt, erzeugt der Magus e
 
 Der Labortext eines Langlebigkeitsrituals erlaubt dem Magus lediglich, das abschließende Ritual zu reproduzieren, ohne dafür ein Quartal aufwenden zu müssen.
 
-Es ist nicht möglich, beim Arbeiten mit einem Labortext Arkanes Experimentieren (siehe Seite 274) durchzuführen. Der Nutzen des Labortextes beruht darauf, dass man den Verfahren genau folgt — was mit dem Experimentieren unvereinbar ist. Es ist natürlich möglich, einen Labortext zu betrachten und dann zu experimentieren, um einen nahezu identischen Effekt zu erzeugen; der Magus erhält dabei jedoch keinen Nutzen aus dem Labortext.
+Es ist nicht möglich, beim Arbeiten mit einem Labortext Arkanes Experimentieren (siehe [Seite 274](#experimentieren)) durchzuführen. Der Nutzen des Labortextes beruht darauf, dass man den Verfahren genau folgt — was mit dem Experimentieren unvereinbar ist. Es ist natürlich möglich, einen Labortext zu betrachten und dann zu experimentieren, um einen nahezu identischen Effekt zu erzeugen; der Magus erhält dabei jedoch keinen Nutzen aus dem Labortext.
 
 Labortexte sind für andere allerdings nicht unmittelbar nutzbar, da sie allerlei persönliche Abkürzungen und Kurzschriften enthalten, die andere nicht verstehen können. (Man bedenke, dass im Mittelalter alles mit der Hand geschrieben wird.)
 
@@ -10727,7 +10727,7 @@ Beim Zaubern von einer Tafel wird die Zaubersumme des Magus nach folgender Forme
 | −21 bis −30  | Zauber gewirkt. Einen Verzerrungspunkt erhalten. Vier Erschöpfungsstufen verloren.                                                                                  |
 | −31 oder weniger | Verzerrungspunkte in Höhe der Magnitude des Zaubers erhalten, fünf Erschöpfungsstufen verloren. Erhält der Wirkende zwei oder mehr Verzerrungspunkte, muss er auf Zwielicht prüfen. |
 
-Magi können Zaubertafeln nur für Zauber verfassen, die sie gemeistert haben (siehe Seite 225), obwohl jedermann Tafeln anderer kopieren kann. Ein Charakter, der ein Quartal als Verfasser oder Kopist verbringt, kann Labortexte oder Zaubertafeln aus demselben Stufenpool erstellen. Zaubertafeln helfen Magi nicht dabei, Zauber zu erlernen, wie es Labortexte tun.
+Magi können Zaubertafeln nur für Zauber verfassen, die sie gemeistert haben (siehe [Seite 225](#zaubermeisterschaft)), obwohl jedermann Tafeln anderer kopieren kann. Ein Charakter, der ein Quartal als Verfasser oder Kopist verbringt, kann Labortexte oder Zaubertafeln aus demselben Stufenpool erstellen. Zaubertafeln helfen Magi nicht dabei, Zauber zu erlernen, wie es Labortexte tun.
 
 ### Labortexte übersetzen
 
@@ -10735,7 +10735,7 @@ Wenn du die Labortexte eines anderen Magus übersetzen möchtest, dessen Geheimn
 
 Sobald du die Abkürzungen eines Magus für einen Labortext verstanden hast, kannst du jeden seiner Labortexte niederschreiben, als wären es deine eigenen (das heißt Latein × 20 Stufen pro Quartal), sofern keiner davon die Stufe des entschlüsselten Textes überschreitet. Dabei handelt es sich um einen einfachen Übersetzungsprozess, der kein Laboratorium erfordert. Begegnest du einem Text höherer Stufe, musst du ihn gesondert entschlüsseln; du beginnst dabei jedoch mit einer Anzahl angehäufter Punkte, die der Stufe des höchststufigen von dir übersetzten Textes entspricht. Es sei darauf hingewiesen, dass Labortexte nicht in Zaubertafeln übersetzt werden können.
 
-Wie oben erwähnt, verstehen Laborassistenten die Labortexte der Aktivitäten, an denen sie mitgewirkt haben, automatisch. Das erleichtert ihnen auch die Übersetzung anderer Labortexte desselben Magus. Ein Magus kann auch jemanden in seine (oder die einer Maga) Abkürzungen einweihen, indem er ein Quartal damit verbringt, in Anwesenheit dieser Person Labortexte zu schreiben und die Abkürzungen zu erläutern. In diesem Fall gilt der Schüler als mit Labortexten dieses Magus bis zu einer Stufe von Latein × 20 des Lehrers vertraut. Es sei darauf hingewiesen, dass solche Schüler die Gabe nicht besitzen müssen, aber in Latein lesen und schreiben können sowie einen Wert von mindestens 1 in Magietheorie haben müssen, um Labortexte fehlerfrei schreiben oder kopieren zu können (siehe Seite 380).
+Wie oben erwähnt, verstehen Laborassistenten die Labortexte der Aktivitäten, an denen sie mitgewirkt haben, automatisch. Das erleichtert ihnen auch die Übersetzung anderer Labortexte desselben Magus. Ein Magus kann auch jemanden in seine (oder die einer Maga) Abkürzungen einweihen, indem er ein Quartal damit verbringt, in Anwesenheit dieser Person Labortexte zu schreiben und die Abkürzungen zu erläutern. In diesem Fall gilt der Schüler als mit Labortexten dieses Magus bis zu einer Stufe von Latein × 20 des Lehrers vertraut. Es sei darauf hingewiesen, dass solche Schüler die Gabe nicht besitzen müssen, aber in Latein lesen und schreiben können sowie einen Wert von mindestens 1 in Magietheorie haben müssen, um Labortexte fehlerfrei schreiben oder kopieren zu können (siehe [Seite 380](#bücher-kopieren)).
 
 ## Mehrere Laboraktivitäten
 
@@ -10743,7 +10743,7 @@ Mitunter möchtest du Laboraktivitäten durchführen, die — wenngleich lohnend
 
 Wenn die Laborsummen für die verschiedenen Aktivitäten — aufgrund von Requisiten, einem Magischen Fokus oder Ähnlichem — unterschiedlich sind, wendest du die niedrigste Laborsumme auf die Gesamtsumme der Stufen an.
 
-Wenn du Arkanes Experimentieren (Seite 274) durchführst, addierst du einen einfachen Würfelwurf plus Risikomodifikator zu deiner Laborsumme; alle auf der „Tabelle außergewöhnlicher Ergebnisse" gewürfelten Ergebnisse gelten jedoch für alle in diesem Quartal durchgeführten Aktivitäten.
+Wenn du Arkanes Experimentieren ([Seite 274](#experimentieren)) durchführst, addierst du einen einfachen Würfelwurf plus Risikomodifikator zu deiner Laborsumme; alle auf der „Tabelle außergewöhnlicher Ergebnisse" gewürfelten Ergebnisse gelten jedoch für alle in diesem Quartal durchgeführten Aktivitäten.
 
 ## Hilfe im Laboratorium
 
@@ -10751,7 +10751,7 @@ Obwohl der Kodex des Hermes Magi schützt, die sich auf neutralem Boden treffen,
 
 Dennoch gibt es Zeiten, in denen Magi Hilfe bei ihrer Laborarbeit erhalten — entweder von vertrauenswürdigen Magi oder von Lehrlingen. Jeder, der die Gabe besitzt und einen Magietheorie-Wert von mindestens 1 hat, kann dir bei jeder Aktivität helfen, die deine Magietheorie nutzt. Wenn dir jemand bei einer Aktivität hilft, die deine Magietheorie erfordert, addierst du die Intelligenz und Magietheorie des Helfers für das Quartal zu deiner Laborsumme. Tugenden und Fehler des Helfers wirken sich auf die Laborsumme aus, ebenso wie jene des primären Magus. Ist dieser Gesamtwert negativ, verhängt der „Assistent" einen Abzug auf deine Laborsumme. Hat der Assistent eine geeignete Tugend oder einen geeigneten Fehler — etwa Erfinderisches Genie —, wirkt sich diese Tugend oder dieser Fehler auf die Bemühungen des primären Forschers aus.
 
-Wenn also zwei Magi zusammenarbeiten, muss stets einer der primäre Forscher und einer der Assistent sein. Diese Forschung kann außerhalb des Sanctums beider Magi stattfinden (siehe Das Sanctum, Seite 297), in welchem Fall beide Parteien vom Kodex geschützt sind. Der Assistent kündigt dem Orden damit jedoch an, dass er den primären Forscher als überlegen betrachtet. Das schränkt den Kreis der Magi, die bereit sind zu assistieren, erheblich ein. Es gilt als Brauch, dass ein Magus seinen Parens zeitlebens als überlegen betrachtet; daher zieht die Unterstützung des eigenen Parens keine Ächtung nach sich, selbst für jene Magi, die ihre Parentes in Wirklichkeit verachten.
+Wenn also zwei Magi zusammenarbeiten, muss stets einer der primäre Forscher und einer der Assistent sein. Diese Forschung kann außerhalb des Sanctums beider Magi stattfinden (siehe Das Sanctum, [Seite 297](#das-sanctum)), in welchem Fall beide Parteien vom Kodex geschützt sind. Der Assistent kündigt dem Orden damit jedoch an, dass er den primären Forscher als überlegen betrachtet. Das schränkt den Kreis der Magi, die bereit sind zu assistieren, erheblich ein. Es gilt als Brauch, dass ein Magus seinen Parens zeitlebens als überlegen betrachtet; daher zieht die Unterstützung des eigenen Parens keine Ächtung nach sich, selbst für jene Magi, die ihre Parentes in Wirklichkeit verachten.
 
 Normalerweise kann im Labor nicht mehr als ein Helfer eingesetzt werden, da es schwierig ist, mehrere Helfer untereinander und mit dem Forscher zu koordinieren. Sind die Beteiligten jedoch außergewöhnlich gut organisiert und kooperativ, können mehrere zusammenwirken, wobei jeder Helfer seine Magietheorie und Intelligenz zur Laborsumme des primären Forschers beiträgt. Die Gesamtzahl der Assistenten, die der primäre Forscher in einem Quartal nutzen kann, ist auf seinen Führungswert begrenzt (er kann jedoch stets mindestens einen haben). Die Ausnahme bildet ein Magus mit einem Vertrauten: Er kann stets mindestens einen Assistenten zusätzlich zu seinem Vertrauten haben; dies erhöht die Obergrenze jedoch nicht, wenn sein Führungswert 2 oder mehr beträgt.
 
@@ -10879,7 +10879,7 @@ Obwohl dieser Prozess einen Labortext erzeugt, gilt dieser Text nur für die Inv
 
 Das Investieren einer Kraft in die Bindung kostet ebenso viel wie das Investieren einer Kraft in ein verzaubertes Artefakt: einen Bauern Vis für je zehn Stufen oder einen Teil davon des modifizierten Effekts. Dieser Vis muss der Technik oder Form des Effekts entsprechen.
 
-Ein besonders wichtiger Vorteil des Einbettens einer Kraft in die Vertrautensbindung besteht darin, dass die Kraft keine Verzerrung (Seite 389) als konstanter mystischer Effekt verursacht.
+Ein besonders wichtiger Vorteil des Einbettens einer Kraft in die Vertrautensbindung besteht darin, dass die Kraft keine Verzerrung ([Seite 389](#verzerrung-2)) als konstanter mystischer Effekt verursacht.
 
 ### Der Vertraute im Spiel
 
@@ -10921,7 +10921,7 @@ Unter dem gemeinen Volk tauchen bisweilen seltene Einzelpersonen auf, die die Ga
 
 Die Suche nach einem Lehrling kann zu guten Geschichten und interessantem Rollenspiel führen, besonders wenn die Suche durch feindliche Kräfte oder unkooperative Familienmitglieder des Kindes erschwert wird. Möchtest du aus der Suche nach einem Lehrling jedoch keine Geschichte machen, kannst du das Ergebnis durch einen Würfelwurf bestimmen. Für jedes Quartal, das du mit der Suche nach einem potenziellen Lehrling verbringst, wirf einen Stresswürfel und addiere deine Wahrnehmung. Bei einem Ergebnis von 9 oder mehr findest du einen. Erleidest du einen Patzer, glaubst du möglicherweise, ein für die Ausbildung geeignetes Kind gefunden zu haben, wirst aber irgendwie getäuscht — entweder durch das Kind selbst oder durch eine Macht, die dein Kind durch einen ihrer Diener ersetzt.
 
-Dein Schützling sollte normalerweise mindestens sieben Jahre alt sein, da jüngere Kinder selten in der Lage sind, die hermetische Ausbildung aufzunehmen. Es ist zwar selten, aber möglich, dass hermetische Lehrlinge älter als zwanzig sind, wenn sie aufgenommen werden. Die meisten begabten Menschen haben bis zu diesem Alter andere übernatürliche Fähigkeiten erlernt, was ihre Ausbildung erschwert (siehe Seite 270 weiter unten).
+Dein Schützling sollte normalerweise mindestens sieben Jahre alt sein, da jüngere Kinder selten in der Lage sind, die hermetische Ausbildung aufzunehmen. Es ist zwar selten, aber möglich, dass hermetische Lehrlinge älter als zwanzig sind, wenn sie aufgenommen werden. Die meisten begabten Menschen haben bis zu diesem Alter andere übernatürliche Fähigkeiten erlernt, was ihre Ausbildung erschwert (siehe [Seite 270](#deinen-lehrling-ausbilden) weiter unten).
 
 Von einem Magus an unbekannte Orte mitgenommen zu werden, ist für einen neuen Lehrling in der Regel erschreckend und verwirrend — selbst für jemanden, der begeistert oder erleichtert ist, eine elende Lebenssituation hinter sich zu lassen. Manche der für die Ausbildung ausgewählten Kinder werden von ihren Meistern entführt, manche werden mit Versprechen von Wissen und Macht gelockt, während andere von Familien, die mit dem seltsamen Wesen der Kinder nicht umgehen können, tatsächlich angeboten (oder verkauft) werden. Obwohl die meisten zur Ausbildung ausgewählten Kinder willig und freiwillig kommen, verlangt der Kodex des Hermes dies nicht. Streng genommen dürfen Magi Lehrlinge auf beliebige Weise gewinnen.
 
@@ -10933,7 +10933,7 @@ Ein Mitglied des Hauses Bonisagus kann jederzeit den Lehrling eines anderen Magu
 
 Ein Magus kann einen Lehrling an einen zweiten Magus weitergeben, sofern beide Magi dem Wechsel zustimmen. Die Zustimmung des Lehrlings ist nicht erforderlich.
 
-Nutze die Regeln im Abschnitt „Erfahrung und Fortschritt" des Kapitels über Langzeitereignisse, um deinen Lehrling auszubilden, und denke daran, dass du mindestens ein Quartal pro Jahr direkt unterrichten musst. Vergiss nicht, dass du versuchen solltest, eine breite Wissensgrundlage zu vermitteln — die Leitlinien im Charaktererschaffungskapitel (Seite 25) geben dir eine Vorstellung davon, welches Kompetenzniveau du bei deinem Lehrling anstreben solltest.
+Nutze die Regeln im Abschnitt „Erfahrung und Fortschritt" des Kapitels über Langzeitereignisse, um deinen Lehrling auszubilden, und denke daran, dass du mindestens ein Quartal pro Jahr direkt unterrichten musst. Vergiss nicht, dass du versuchen solltest, eine breite Wissensgrundlage zu vermitteln — die Leitlinien im Charaktererschaffungskapitel ([Seite 25](#charakter-grundlagen)) geben dir eine Vorstellung davon, welches Kompetenzniveau du bei deinem Lehrling anstreben solltest.
 
 Da ein Lehrling ohne Parma Magica normalerweise einen Abzug von −3 auf alle Gesamtwerte erleidet — aufgrund der Wirkung der Gabe —, hat der Orden entschieden, dass das Versäumnis, die eigene Parma Magica auf den Lehrling auszudehnen, einen Verstoß gegen die Ausbildungspflicht darstellt. Hat dein Parma-Magica-Wert drei oder weniger, gewährt er während der gemeinsamen Nutzung keinen Bonus auf die Magieresistenz, schwächt aber dennoch den Effekt der Gabe ab.
 
@@ -10945,7 +10945,7 @@ Während der Magus das Minimum von einem Quartal pro Jahr persönlich unterricht
 
 Eines deiner Unterrichtsquartale muss damit verbracht werden, den Lehrling in den Grundlagen der hermetischen Magie zu unterweisen, und du kannst in diesem Quartal nichts anderes unterrichten. In diesem Quartal erhält der Lehrling daher in allen fünfzehn hermetischen Künsten einen Wert von 0, lernt aber sonst nichts. Dieser Vorgang wird als „Öffnen der Künste" bezeichnet.
 
-Hat dein Wert in einer Kunst beim Öffnen weniger als fünf, erhält dein Lehrling automatisch eine Defizitäre Kunst (siehe Seiten 125 und 272) in jener Kunst. Einem Lehrling auf diese Weise Defizienzen zu verleihen gilt vor den Tribunalen des Ordens in der Regel als Niederes Vergehen und zieht erhebliches soziales Stigma nach sich. Aus diesem Grund bilden wenige Magi einen Lehrling aus, bevor sie in allen Künsten einen Wert von fünf oder mehr erreicht haben. (Es sei darauf hingewiesen, dass dies bei Weitem nicht die einzige Möglichkeit ist, durch die ein Lehrling eine Defizienz erlangen kann, und die meisten anderen Wege liegen nicht unter der Kontrolle des Meisters und sind daher auch keine Niederen Vergehen.) Du kannst Magietheorie unterrichten, bevor du die Künste öffnest, aber keine Künste oder Zauber.
+Hat dein Wert in einer Kunst beim Öffnen weniger als fünf, erhält dein Lehrling automatisch eine Defizitäre Kunst (siehe [Seiten 125](#auffällige-gabe) und 272) in jener Kunst. Einem Lehrling auf diese Weise Defizienzen zu verleihen gilt vor den Tribunalen des Ordens in der Regel als Niederes Vergehen und zieht erhebliches soziales Stigma nach sich. Aus diesem Grund bilden wenige Magi einen Lehrling aus, bevor sie in allen Künsten einen Wert von fünf oder mehr erreicht haben. (Es sei darauf hingewiesen, dass dies bei Weitem nicht die einzige Möglichkeit ist, durch die ein Lehrling eine Defizienz erlangen kann, und die meisten anderen Wege liegen nicht unter der Kontrolle des Meisters und sind daher auch keine Niederen Vergehen.) Du kannst Magietheorie unterrichten, bevor du die Künste öffnest, aber keine Künste oder Zauber.
 
 Hat dein Lehrling bereits eine nicht-hermetische übernatürliche Fertigkeit, kannst du die Künste nur dann öffnen, wenn deine Intellego Vim-Laborsumme das Fünffache des Werts des Lehrlings in der betreffenden Fertigkeit erreicht oder übersteigt — und dabei mindestens 10 beträgt, wenn die Fertigkeit normalerweise von einer kleinen Tugend herrührt, oder mindestens 30, wenn sie normalerweise von einer großen Tugend herrührt. Für übernatürliche Kräfte ohne verknüpfte Fertigkeit benötigst du eine Laborsumme von 10 für Kleine Tugenden und 30 für Große Tugenden. Hat der Lehrling mehrere übernatürliche Fertigkeiten, addiere alle Werte, um zu bestimmen, ob du die Künste öffnen kannst.
 
@@ -10959,11 +10959,11 @@ Sind die Künste erst einmal geöffnet, hat der Lehrling in jeder der fünf Tech
 
 #### Hermetische Tugenden unterrichten
 
-Das Unterrichten einer hermetischen Tugend verbindet Aspekte des Erlernens einer übernatürlichen Fertigkeit (Seite 159) mit dem Erlernen einer Mysterienkulttugend (Seite 387). Der Unterrichtende — in der Regel der Parens des Lehrlings — errechnet eine Unterrichts-Quellenqualität, die mit einer erforderlichen Zielstufe verglichen wird. Sowohl Lehrer als auch Schüler müssen begabte Personen sein, die in hermetischer Magietheorie ausgebildet sind. Ein Magus kann einem begabten Heckenzauberer keine hermetische Tugend beibringen, weil beide die Magie nicht auf dieselbe Weise verstehen. Am Ende eines Unterrichtsquartals berechnet der Parens eine Unterrichts-Quellenqualität, genauso wie beim Unterrichten einer Fertigkeit oder einer Kunst.
+Das Unterrichten einer hermetischen Tugend verbindet Aspekte des Erlernens einer übernatürlichen Fertigkeit ([Seite 159](#übernatürliche-fertigkeiten)) mit dem Erlernen einer Mysterienkulttugend ([Seite 387](#mysterieneinweihung)). Der Unterrichtende — in der Regel der Parens des Lehrlings — errechnet eine Unterrichts-Quellenqualität, die mit einer erforderlichen Zielstufe verglichen wird. Sowohl Lehrer als auch Schüler müssen begabte Personen sein, die in hermetischer Magietheorie ausgebildet sind. Ein Magus kann einem begabten Heckenzauberer keine hermetische Tugend beibringen, weil beide die Magie nicht auf dieselbe Weise verstehen. Am Ende eines Unterrichtsquartals berechnet der Parens eine Unterrichts-Quellenqualität, genauso wie beim Unterrichten einer Fertigkeit oder einer Kunst.
 
 **UNTERRICHTS-QUELLENQUALITÄT: Kommunikation + Unterrichten + 3 + Bonus**
 
-Die Boni für die Unterrichtssumme sind dieselben Boni, die für jeden Lehrer gelten (Seite 378). Wie bei Künsten können Hermetische Tugenden nur im Einzelunterricht gelehrt werden, weshalb jede Unterrichts-Quellenqualität eines Parens einen Bonus von +6 erhält. Tugenden, die das Unterrichten beeinflussen, gelten ebenfalls.
+Die Boni für die Unterrichtssumme sind dieselben Boni, die für jeden Lehrer gelten ([Seite 378](#unterricht)). Wie bei Künsten können Hermetische Tugenden nur im Einzelunterricht gelehrt werden, weshalb jede Unterrichts-Quellenqualität eines Parens einen Bonus von +6 erhält. Tugenden, die das Unterrichten beeinflussen, gelten ebenfalls.
 
 Ein zusätzlicher Bonus kann einbezogen werden, wenn der Lehrer zusammen mit der hermetischen Tugend einen hermetischen Fehler einschließt. Mysterienkultseinweihungen beinhalten bisweilen Prüfungen, die einen Bonus auf das Erlernen der Mysterienkulttugend geben. Im weitesten Sinne ist eine solche Prüfung ein Fehler. Aus welchem Grund auch immer — die Magie ist in ihrem Wesen launenhaft — es fällt leichter, eine hermetische Tugend zu unterrichten, wenn dabei ein hermetischer Fehler einbezogen wird. Das Einbeziehen eines Kleinen Hermetischen Fehlers gibt einen Bonus von +3. Das Einbeziehen eines Großen Hermetischen Fehlers gibt einen Bonus von +9. Ein Lehrer kann nur einen hermetischen Fehler einbeziehen, den er selbst besitzt.
 
@@ -10989,7 +10989,7 @@ Bei mehr als der Hälfte der Häuser benötigt ein Lehrling 10 Quartale Einzelun
 
 Diese Regel gilt für sieben der zwölf Häuser: alle vier Wahren Linien und drei der Gesellschaften. Die vierte Gesellschaft, Haus Ex Miscellanea, ist ein Sonderfall, da ein Lehrling eines Ex-Miscellanea-Magus ein Paket aus Haustugenden und -fehlern erhält: eine Kleine Hermetische Tugend, eine Große Nicht-Hermetische Tugend und einen Großen Hermetischen Fehler. Da es mehrere Arten von Ex-Miscellanea-Magi gibt, sollte die Spieltruppe entscheiden, ob ein Lehrling einer bestimmten Tradition die Haustugenden und -fehler durch Einzelunterricht oder durch einen Prozess ähnlich einer Mysterieneinweihung wie die Mysterienkulthäuser erwirbt.
 
-Ein Lehrling eines Magus eines Mysterienkults erwirbt die kostenlose Haustugend durch eine Einweihung in das äußere Mysterium des Hauses. Haus Verditius weiht einen Lehrling unmittelbar nach dem Öffnen seiner Künste ein. Haus Bjornaer weiht das Herztier eines Lehrlings zu einem bestimmten Zeitpunkt während der Lehrzeit ein, beim Ritual der Zwölf Jahre (siehe Häuser des Hermes: Mysterienkulte, Seite 16). Die Häuser Criamon und Merinita weihen Lehrlinge zu verschiedenen Zeiten ein, in der Regel abhängig vom Meister. Die Einweihung in das äußere Mysterium eines Hauses dauert ein Quartal.
+Ein Lehrling eines Magus eines Mysterienkults erwirbt die kostenlose Haustugend durch eine Einweihung in das äußere Mysterium des Hauses. Haus Verditius weiht einen Lehrling unmittelbar nach dem Öffnen seiner Künste ein. Haus Bjornaer weiht das Herztier eines Lehrlings zu einem bestimmten Zeitpunkt während der Lehrzeit ein, beim Ritual der Zwölf Jahre (siehe Häuser des Hermes: Mysterienkulte, [Seite 16](#bjornaer-das-herztier)). Die Häuser Criamon und Merinita weihen Lehrlinge zu verschiedenen Zeiten ein, in der Regel abhängig vom Meister. Die Einweihung in das äußere Mysterium eines Hauses dauert ein Quartal.
 
 Der Lehrling muss dieselbe kostenlose Haustugend erlernen, die sein Parens kennt. In einem Haus, in dem es eine Auswahl an Haustugenden gibt, kann der Parens entscheiden, welche Haustugend erworben wird, wenn er beide kennt. Haus Flambeau beispielsweise bietet die Wahl zwischen Begabung in Perdo und Begabung in Ignem. Hat der Meister beide Tugenden, kann er für die Haustugend des Lehrlings eine von beiden wählen.
 
@@ -10997,11 +10997,11 @@ Der Lehrling muss dieselbe kostenlose Haustugend erlernen, die sein Parens kennt
 
 Nur wenige Lehrlinge erwerben absichtlich hermetische Fehler. Ein Spieler kann bei der Charaktererschaffung immer einen hermetischen Fehler wählen, und obwohl sich dieser irgendwann im Leben des Kindes entwickelt, ist das etwas anderes als das Erwerben eines hermetischen Fehlers nach der Charaktererschaffung. Hermetische Fehler, die nach der Charaktererschaffung erworben werden, wirken sich sofort auf den Charakter aus, ihre Auswirkungen treten unmittelbar ein. Hermetische Magi haben keinen Weg gefunden, hermetische Fehler zu beseitigen, und einmal erworben ist ein hermetischer Fehler dauerhaft — es sei denn, eine Geschichte ändert dies.
 
-Die beiden häufigsten Wege, auf denen Charaktere hermetische Fehler erwerben, sind das Erlernen hermetischer Tugenden und die Folgen des laufenden Spiels. Wie bereits erwähnt, ist es leichter, eine hermetische Tugend von einem Lehrer zu lernen, wenn dieser einen hermetischen Fehler in den Prozess einbezieht. Hermetische Magi verstehen nicht vollständig, warum das so ist, aber wie bei Mysterienkultseinweihungen erleichtert das Belasten des Lernprozesses mit einer aufgebürdeten Bürde den Unterricht. Der zweite Weg, auf dem Charaktere hermetische Fehler erwerben, sind die Ereignisse des laufenden Spiels. Vorübergehende, unkontrollierte Zwielicht-Episoden sind eine häufige Ursache — sie verleihen einem Lehrling hermetische Fehler auf dieselbe Weise, wie sie hermetische Fehler einem Magus verleihen (Seite 230). Das Erhalten einer Hermetischen Defizitären Kunst beim Öffnen der Künste ist ein weiterer Weg, im Laufe des Spiels einen neuen Fehler zu erhalten. Manche übernatürlichen Kreaturen haben die Fähigkeit, Kleine und Große Fehler zu verleihen, die zwar nicht immer hermetischer Natur sind, es aber sein können. Diese Fehler sind nicht notwendigerweise dauerhaft, und viele sind nur vorübergehende Unannehmlichkeiten. *Sphären der Macht: Magie* und *Sphären der Macht: Feen* enthalten Einzelheiten und Beispielkreaturen.
+Die beiden häufigsten Wege, auf denen Charaktere hermetische Fehler erwerben, sind das Erlernen hermetischer Tugenden und die Folgen des laufenden Spiels. Wie bereits erwähnt, ist es leichter, eine hermetische Tugend von einem Lehrer zu lernen, wenn dieser einen hermetischen Fehler in den Prozess einbezieht. Hermetische Magi verstehen nicht vollständig, warum das so ist, aber wie bei Mysterienkultseinweihungen erleichtert das Belasten des Lernprozesses mit einer aufgebürdeten Bürde den Unterricht. Der zweite Weg, auf dem Charaktere hermetische Fehler erwerben, sind die Ereignisse des laufenden Spiels. Vorübergehende, unkontrollierte Zwielicht-Episoden sind eine häufige Ursache — sie verleihen einem Lehrling hermetische Fehler auf dieselbe Weise, wie sie hermetische Fehler einem Magus verleihen ([Seite 230](#wirkungen-des-zwielichts)). Das Erhalten einer Hermetischen Defizitären Kunst beim Öffnen der Künste ist ein weiterer Weg, im Laufe des Spiels einen neuen Fehler zu erhalten. Manche übernatürlichen Kreaturen haben die Fähigkeit, Kleine und Große Fehler zu verleihen, die zwar nicht immer hermetischer Natur sind, es aber sein können. Diese Fehler sind nicht notwendigerweise dauerhaft, und viele sind nur vorübergehende Unannehmlichkeiten. *Sphären der Macht: Magie* und *Sphären der Macht: Feen* enthalten Einzelheiten und Beispielkreaturen.
 
 ### Deinen Lehrling ausgestalten
 
-Der grundlegende Vorteil, den ein Lehrling dir bietet, ist die Addition seines Intelligenz- und Magietheorie-Werts zu deinen Laborsummen (siehe Seite 264). Wenn alles, was du möchtest, ein Laborgehilfe ist, musst du nur den Intelligenz- und Magietheorie-Wert deines Lehrlings im Blick behalten, und nach fünfzehn Jahren wird dein Lehrling zum vollwertigen Magus und verlässt deinen Dienst.
+Der grundlegende Vorteil, den ein Lehrling dir bietet, ist die Addition seines Intelligenz- und Magietheorie-Werts zu deinen Laborsummen (siehe [Seite 264](#hilfe-im-laboratorium)). Wenn alles, was du möchtest, ein Laborgehilfe ist, musst du nur den Intelligenz- und Magietheorie-Wert deines Lehrlings im Blick behalten, und nach fünfzehn Jahren wird dein Lehrling zum vollwertigen Magus und verlässt deinen Dienst.
 
 Wird der Lehrling jedoch als vollständiger Charakter erschaffen, kann er im Verlauf der Saga zu einem wichtigen Begleiter deines Magus und einem wertvollen Mitglied des Konvents heranwachsen. Um deinen Lehrling als Charakter zu erschaffen, bestimme Eigenschaften, Tugenden und Fehler sowie Fertigkeiten für einen Charakter im jungen Alter. Stelle sicher, dass der Charakter die Gabe besitzt — andernfalls kann er nicht in hermetischer Magie unterwiesen werden — und überlege sorgfältig, ob du andere übernatürliche Fähigkeiten wählen möchtest. Stelle sicher, dass dein Magus die Künste des Lehrlings öffnen kann. Wähle Fertigkeiten, die der Charakter in seiner Kindheit erlernt hat. Aktualisiere im Verlauf der Saga die Fertigkeiten, magischen Künste, bekannten Zauber und sonstige Werte des Lehrlings, wenn du ihn ausbildest — genau wie bei jedem anderen Charakter auch.
 
@@ -11009,7 +11009,7 @@ Wird der Lehrling jedoch als vollständiger Charakter erschaffen, kann er im Ver
 
 Ein vollständig ausgearbeiteter Lehrling ist ein spielbarer Charakter. Möchtest du einen Lehrling spielen, bedenke, dass du keine natürliche Nische in der Geschichte hast. Grogs kämpfen, Gefährten bieten fachkundige Unterstützung, und Magi verfügen über mächtige Zauber. Als Lehrling wirst du in allen Bereichen überflügelt. Dennoch können manche Geschichten durch einen oder mehrere Lehrlingcharaktere spannend werden — denn Lehrlinge sind interessante Persönlichkeiten, besonders wenn kein Magus in der Nähe ist, der die Magie des Lehrlings mit seiner eigenen in den Schatten stellt. Das Quellenband *Lehrlinge* behandelt diese Art von Geschichten ausführlicher und enthält weitere Informationen über Kindercharaktere.
 
-Wenn du Magus und Lehrer bist, ergeben sich einige der besten Rollenspielgelegenheiten für deinen Lehrling aus dem Zusammenspiel mit dir. Um dies zu fördern, kannst du einen anderen Spieler bitten, deinen Lehrling darzustellen, oder du kannst deinen Lehrling als Truppcharakter behandeln, der von verschiedenen Mitgliedern der Spieltruppe zu verschiedenen Zeiten gespielt wird — ähnlich wie ein Grog (siehe Spieltruppen-Rollenspiel auf Seite 528).
+Wenn du Magus und Lehrer bist, ergeben sich einige der besten Rollenspielgelegenheiten für deinen Lehrling aus dem Zusammenspiel mit dir. Um dies zu fördern, kannst du einen anderen Spieler bitten, deinen Lehrling darzustellen, oder du kannst deinen Lehrling als Truppcharakter behandeln, der von verschiedenen Mitgliedern der Spieltruppe zu verschiedenen Zeiten gespielt wird — ähnlich wie ein Grog (siehe Spieltruppen-Rollenspiel auf [Seite 528](#spieltruppen-rollenspiel)).
 
 ### Das Ende der Lehrzeit
 
@@ -11114,7 +11114,7 @@ Wenn du ein verzaubertes Artefakt durch Experimentieren untersuchst, gehst du Ri
 
 - Ein Geschichte-Ereignis tritt ein. Dieses kann von beliebiger Art sein; es bietet sich als Gelegenheit an, eine wichtige Handlungslinie einzuführen oder als kurze und amüsante Ablenkung zu dienen. Es muss nicht sofort eintreten — die unkontrollierte Magie könnte etwas in Gang setzen, oder es könnte sich erst zeigen, wenn das Werk in einem bestimmten Zusammenhang eingesetzt wird, einige Zeit später. Das Geschichte-Ereignis kann im Wesentlichen positiv sein — der Magus könnte beispielsweise die Aufmerksamkeit eines potenziellen Vertrauten auf sich ziehen. Sofern das Geschichte-Ereignis nichts anderes erfordert, gilt dies als Keine außergewöhnlichen Effekte für das Projekt selbst.
 
-**Entdeckung:** Würfle einen einfachen Würfel und addiere deinen Risikomodifikator. Wenn du dich mit Arkaner Entdeckung beschäftigst (siehe Seite 277), machst du eine Entdeckung, die dein Projekt voranbringt, und ignorierst diese Tabelle.
+**Entdeckung:** Würfle einen einfachen Würfel und addiere deinen Risikomodifikator. Wenn du dich mit Arkaner Entdeckung beschäftigst (siehe [Seite 277](#arkane-entdeckung)), machst du eine Entdeckung, die dein Projekt voranbringt, und ignorierst diese Tabelle.
 
 | Wurf | Ergebnis                                                                                                                                                           |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -11131,7 +11131,7 @@ Wenn du ein verzaubertes Artefakt durch Experimentieren untersuchst, gehst du Ri
 | 1–3   | Der Zauber oder Effekt ist in Reichweite, Dauer, Ziel oder Wirkungsstärke vermindert.                                                                            |
 | 4–6   | Reichweite, Dauer, Ziel oder Wirkungsstärke des Zaubers oder Effekts ist erhöht.                                                                                 |
 | 7–8   | Der Einsatz des Zaubers oder Effekts ist eingeschränkt. Beispielsweise funktioniert er unter bestimmten Umständen nicht, etwa bei Regen.                          |
-| 9–10  | Der eigentliche Effekt deines Experiments ist verändert. Beispielsweise verwandelt ein Zauber wie Fluch der Kirke (Seite 334) das Ziel in eine Ziege statt in ein Schwein. |
+| 9–10  | Der eigentliche Effekt deines Experiments ist verändert. Beispielsweise verwandelt ein Zauber wie Fluch der Kirke ([Seite 334](#fluch-der-kirke)) das Ziel in eine Ziege statt in ein Schwein. |
 | 11+   | Der eigentliche Effekt deines Experiments ist vollständig geändert, abgesehen davon, dass Technik und Form unverändert bleiben und die Stufe ähnlich bleibt.     |
 
 ## Arkane Entdeckung
@@ -11182,7 +11182,7 @@ Gelingt dein Stabilisierungsquartal, erhältst du einen Durchbruchspunkt pro Mag
 
 **ERFOLGREICHES STABILISIERUNGSQUARTAL: Magnituden der stabilisierten Entdeckung = Durchbruchspunkte**
 
-Als Nebenwirkung dieses Stabilisierungsprozesses erhältst du Verzerrungspunkte für dein Bemühen, diese neue Magie zu verstehen. Die Anzahl der erhaltenen Verzerrungspunkte entspricht der Magnitude des Effekts minus einem einfachen Würfel. Wenn du 2 oder mehr Verzerrungspunkte erhältst, musst du würfeln, um dem Zwielicht zu widerstehen (Seite 228). Die Chance, Verzerrungspunkte zu erhalten, lässt sich natürlich durch das Experimentieren mit Effekten niedrigerer Magnitude verringern. Dies verlängert jedoch deinen Forschungsprozess, da es letztlich die angesammelten Effektmagnituden sind, die zu deinem Durchbruch führen. Das Experimentieren mit Zaubern höherer Magnitude bringt dich schneller zum Durchbruch — erhöht aber auch das Risiko des Zwielichts.
+Als Nebenwirkung dieses Stabilisierungsprozesses erhältst du Verzerrungspunkte für dein Bemühen, diese neue Magie zu verstehen. Die Anzahl der erhaltenen Verzerrungspunkte entspricht der Magnitude des Effekts minus einem einfachen Würfel. Wenn du 2 oder mehr Verzerrungspunkte erhältst, musst du würfeln, um dem Zwielicht zu widerstehen ([Seite 228](#das-zwielicht-begreifen)). Die Chance, Verzerrungspunkte zu erhalten, lässt sich natürlich durch das Experimentieren mit Effekten niedrigerer Magnitude verringern. Dies verlängert jedoch deinen Forschungsprozess, da es letztlich die angesammelten Effektmagnituden sind, die zu deinem Durchbruch führen. Das Experimentieren mit Zaubern höherer Magnitude bringt dich schneller zum Durchbruch — erhöht aber auch das Risiko des Zwielichts.
 
 **ERHALTENE VERZERRUNGSPUNKTE: Magnitude der stabilisierten Entdeckung – einfacher Würfel**
 
@@ -11232,7 +11232,7 @@ Kleine Durchbrüche sind im Spiel sofort verwendbar und für alle Hermetischen M
 
 Große und Hermetische Durchbrüche müssen Hermetischen Magi unmittelbar gelehrt werden. Eine Fertigkeit kann auf die übliche Weise gelehrt werden — persönlich oder durch Bücher. Der Entdecker wandelt seine Durchbruchspunkte in Erfahrungspunkte in der neuen Fertigkeit um, sodass ein Magus, der 50 Durchbruchspunkte für die Integration einer Fertigkeit angesammelt hat, mit einem Wert von 4 startet.
 
-Eine neue Tugend kann gemäß den normalen Regeln für Mysterien eingeweiht werden. Der Entdecker erhält die Tugend, wenn er die Integration abschließt, und muss nicht selbst eingeweiht werden. Er muss jedoch ein Einweihungsskript entwerfen, das den Regeln im Kapitel über Langzeitereignisse (Seite 388) folgt. Die Tugend kann auch einem Lehrling gelehrt werden, entsprechend den zuvor genannten Regeln. Theoretisch könnte sie jedem Magus gelehrt werden, doch machen die dabei anfallenden Abzüge dies in der Praxis kaum möglich.
+Eine neue Tugend kann gemäß den normalen Regeln für Mysterien eingeweiht werden. Der Entdecker erhält die Tugend, wenn er die Integration abschließt, und muss nicht selbst eingeweiht werden. Er muss jedoch ein Einweihungsskript entwerfen, das den Regeln im Kapitel über Langzeitereignisse ([Seite 388](#mysterieneinweihung)) folgt. Die Tugend kann auch einem Lehrling gelehrt werden, entsprechend den zuvor genannten Regeln. Theoretisch könnte sie jedem Magus gelehrt werden, doch machen die dabei anfallenden Abzüge dies in der Praxis kaum möglich.
 
 Ein zweiter Großer Durchbruch gliedert einen Großen oder Hermetischen Durchbruch vollständig in die Hermetische Magie ein. Gelingt dies, kann jeder Magus einen Effekt mithilfe des Durchbruchs erschaffen, solange er einen Labortext besitzt, und den Durchbruch dann frei nutzen. Wie bei Kleinen Durchbrüchen gilt dies auch für jeden Magus, der von einem Magus, der den Durchbruch versteht, in Künsten oder Zaubern unterrichtet wurde. Experimentieren ist für diesen zweiten Durchbruch stets geeignet, und Integration kann eingesetzt werden, wenn geeignete nicht-hermetische Traditionen zum Studium vorhanden sind.
 
@@ -11573,13 +11573,13 @@ Führt eine neue Tugend oder ein neuer Fehler (oder deren Entfernung) zu einer E
 
 Je höher die Sicherheit, desto geringer das Risiko von Laborunfällen — und umgekehrt. Der Sicherheitswert wird von der Anzahl der Patzerwürfel bei allen Laboraktivitäten abgezogen. (Ein negativer Sicherheitswert führt daher zu mehr Patzerwürfeln.) Laboratorien mit einem Sicherheitswert von null oder höher sind zuverlässige Arbeitsorte — nur bei bestimmten Kategorien von Laboraktivitäten (solchen, die einen Stresswurf erfordern, etwa beim Experimentieren oder beim Studium aus Vis) besteht ein nennenswertes Unfallrisiko. Laboratorien mit negativem Sicherheitswert gelten hingegen als unsicher. In einem unsicheren Labor besteht jederzeit ein Unfallrisiko, unabhängig von der Art der Laborarbeit. Einige Magi sind bereit, das Risiko eines leicht negativen Sicherheitswerts wie -1 oder -2 in Kauf zu nehmen; wer jedoch wiederholt in einem stark unsicheren Labor arbeitet, handelt äußerst leichtsinnig.
 
-Für jedes Quartal, das in einem unsicheren Labor verbracht wird, wird ein einfacher Würfel geworfen. (Dieser zusätzliche Wurf tritt zu eventuellen anderen Würfen hinzu, etwa für Experimente oder das Studium aus Vis.) Ist das Ergebnis kleiner oder gleich dem absoluten Wert der Sicherheit (d. h. das Minuszeichen wird ignoriert), besteht die Möglichkeit eines Laberpatzers; in diesem Fall wird mit der üblichen Anzahl von Patzerwürfeln (einschließlich der zusätzlichen Würfel für den negativen Sicherheitswert) gewürfelt. Bei diesem Wurf kann die Anzahl der Patzerwürfel nicht null sein; es gibt stets mindestens einen. Bei einem Patzer erleidet man einen Laborunfall — konsultiere die Katastrophen-Untertabelle der Tabelle außergewöhnlicher Ergebnisse beim Experimentieren (siehe Seite 275).
+Für jedes Quartal, das in einem unsicheren Labor verbracht wird, wird ein einfacher Würfel geworfen. (Dieser zusätzliche Wurf tritt zu eventuellen anderen Würfen hinzu, etwa für Experimente oder das Studium aus Vis.) Ist das Ergebnis kleiner oder gleich dem absoluten Wert der Sicherheit (d. h. das Minuszeichen wird ignoriert), besteht die Möglichkeit eines Laberpatzers; in diesem Fall wird mit der üblichen Anzahl von Patzerwürfeln (einschließlich der zusätzlichen Würfel für den negativen Sicherheitswert) gewürfelt. Bei diesem Wurf kann die Anzahl der Patzerwürfel nicht null sein; es gibt stets mindestens einen. Bei einem Patzer erleidet man einen Laborunfall — konsultiere die Katastrophen-Untertabelle der Tabelle außergewöhnlicher Ergebnisse beim Experimentieren (siehe [Seite 275](#tabelle-außergewöhnlicher-ergebnisse)).
 
 Beispiel: Helvius verbringt ein Quartal damit, in seinem Labor, das einen Sicherheitswert von –2 hat, einen Zauber zu erfinden (was normalerweise sicher wäre und keinen Wurf erfordert). Helvius' Spieler würfelt einen einfachen Würfel und erhält eine 1, die kleiner oder gleich 2 ist — es besteht also die Möglichkeit eines Laberpatzers. Er würfelt dann mit zwei Patzerwürfeln (der Grundanzahl von null für diese Aktivität plus zwei für den Sicherheitswert). Einer der Würfel zeigt eine 0, was einen Laborunfall bedeutet. Bei einem einzelnen Patzer erhält Helvius einen Verzerrungspunkt. Er ist damit noch glimpflich davongekommen.
 
 #### Verzerrung
 
-Ein Labor mit einem Verzerrungswert von null liefert gleichbleibende und vorhersehbare Ergebnisse (sofern es nicht unsicher ist und keine Experimente durchgeführt werden). Ein Labor mit positivem Verzerrungswert hingegen liefert bisweilen veränderte oder unbeabsichtigte Ergebnisse. Für jedes Quartal Laborarbeit wird ein einfacher Würfel geworfen. Ist das Ergebnis kleiner oder gleich dem Verzerrungswert, erleidet das Produkt dieses Quartals — sei es ein Gegenstand, ein Zauber oder etwas anderes — Verzerrung. Die Verzerrung bei Laborarbeiten unterscheidet sich von der bei Charakteren; konsultiere stattdessen die Tabelle außergewöhnlicher Ergebnisse beim Experimentieren (siehe Seite 275). War das Ergebnis des einfachen Würfels ungerade, wird einmal auf Nebeneffekt gewürfelt; war es gerade, einmal auf Veränderter Effekt. Die Effekte sollten passend zu den Ursachen der Verzerrung gewählt werden. Ein Gegenstand, der in einem unsichtbaren Labor verzaubert wurde, könnte beispielsweise selbst unsichtbar sein, sobald er fertiggestellt und aus dem Labor entfernt wird.
+Ein Labor mit einem Verzerrungswert von null liefert gleichbleibende und vorhersehbare Ergebnisse (sofern es nicht unsicher ist und keine Experimente durchgeführt werden). Ein Labor mit positivem Verzerrungswert hingegen liefert bisweilen veränderte oder unbeabsichtigte Ergebnisse. Für jedes Quartal Laborarbeit wird ein einfacher Würfel geworfen. Ist das Ergebnis kleiner oder gleich dem Verzerrungswert, erleidet das Produkt dieses Quartals — sei es ein Gegenstand, ein Zauber oder etwas anderes — Verzerrung. Die Verzerrung bei Laborarbeiten unterscheidet sich von der bei Charakteren; konsultiere stattdessen die Tabelle außergewöhnlicher Ergebnisse beim Experimentieren (siehe [Seite 275](#tabelle-außergewöhnlicher-ergebnisse)). War das Ergebnis des einfachen Würfels ungerade, wird einmal auf Nebeneffekt gewürfelt; war es gerade, einmal auf Veränderter Effekt. Die Effekte sollten passend zu den Ursachen der Verzerrung gewählt werden. Ein Gegenstand, der in einem unsichtbaren Labor verzaubert wurde, könnte beispielsweise selbst unsichtbar sein, sobald er fertiggestellt und aus dem Labor entfernt wird.
 
 Ein Labor mit positivem Verzerrungswert sollte außerdem eine oder mehrere Persönlichkeitseigenschaften erhalten, deren Gesamtwert dem Verzerrungswert entspricht. Ein Labor mit Verzerrungswert +1, bedingt durch Feenzutaten, könnte beispielsweise die Persönlichkeitseigenschaft Launisch +1 erhalten. Diese Persönlichkeitseigenschaften prägen die Erfahrung des Laborbesitzers und aller anderen Bewohner oder Gäste und geben Hinweise auf geeignete Verzerrungseffekte — sowohl für die Verzerrung bei Laborarbeiten als auch für Verzerrungspunkte, die der Bewohner erleiden könnte. Nach Ermessen des Spielleiters kann eine Persönlichkeitseigenschaft zur Laborsumme für einen ihr nahe verwandten Effekt addiert oder von ihr abgezogen werden, wenn der Effekt ihr widerspricht.
 
@@ -11601,7 +11601,7 @@ Laboratorien mit Spezialisierungen sind besonders gut für eine oder mehrere Art
 
 Ein Labor kann höchstens zwei Tätigkeitsspezialisierungen und vier Kunstspezialisierungen haben, von denen höchstens zwei Techniken sein dürfen. Boni auf Laborsummen aus allen zutreffenden Spezialisierungen werden addiert. Der Wert einer Kunstspezialisierung wird zu jeder Laborsumme (aber nicht zu Fortschrittssummen) addiert, die diese Kunst einschließt. Mögliche Tätigkeitsspezialisierungen sind:
 
-*Experimentieren:* Der Wert der Spezialisierung wird zu allen Laborsummen beim Experimentieren addiert (siehe Seite 274).
+*Experimentieren:* Der Wert der Spezialisierung wird zu allen Laborsummen beim Experimentieren addiert (siehe [Seite 274](#experimentieren)).
 
 *Vertrauter:* Der Wert der Spezialisierung wird zu allen Laborsummen beim Binden oder Verzaubern eines Vertrauten addiert.
 
@@ -11671,7 +11671,7 @@ Spezialisierungen werden durch Tugenden erworben (insbesondere durch Features un
 
 #### Baupunktkosten für Ausgangslaboratorien
 
-Werden die Regeln für die individuelle Konventserschaffung (Seite 178) verwendet, gilt als Ausgangspunkt: Für jedes Mitglied des Konvents gibt es ein Standardlaboratorium (Größe 0, Verfeinerung 0). Zusätzliche (freie) Labore kosten je 50 Baupunkte. Für jeden Magus, der vollständig ohne Labor ist, werden 50 Baupunkte gewonnen. Um die Baupunktkosten von Laboren zu bestimmen, die größer oder kleiner als der Durchschnitt sind, wird die Größeneigenschaft mit 20 multipliziert.
+Werden die Regeln für die individuelle Konventserschaffung ([Seite 178](#maßgeschneiderte-konventserstellung)) verwendet, gilt als Ausgangspunkt: Für jedes Mitglied des Konvents gibt es ein Standardlaboratorium (Größe 0, Verfeinerung 0). Zusätzliche (freie) Labore kosten je 50 Baupunkte. Für jeden Magus, der vollständig ohne Labor ist, werden 50 Baupunkte gewonnen. Um die Baupunktkosten von Laboren zu bestimmen, die größer oder kleiner als der Durchschnitt sind, wird die Größeneigenschaft mit 20 multipliziert.
 
 Ein oder mehrere Labore können zu Beginn Kleine oder Große Tugenden haben, sofern ausreichend Platz vorhanden ist (oder sie durch Fehler ausgeglichen werden). Jede Kleine Tugend kostet 10 Baupunkte, jede Große Tugend 20 Baupunkte. Freie Tugenden und alle Fehler kosten keine Baupunkte. Zu beachten ist, dass Ausgangslaboratorien mit negativer Größe automatisch einen oder mehrere Fehler (Klein oder Groß) nehmen müssen.
 
@@ -11679,7 +11679,7 @@ Ein Konvent, der beispielsweise mit Laboren der Größe +2 für zwei seiner Magi
 
 Es wird empfohlen, dass Labore für Anfangsmagi in einem Frühlings-Konvent mit wenigen oder gar keinen Tugenden und Fehlern beginnen sollten. Es sollten nur jene Tugenden und Fehler genommen werden, die der Struktur oder dem Standort des Labors innewohnen. Liegt das Labor etwa unterirdisch, sollte der Fehler Unterirdisch genommen werden. Nach Ermessen des Spielleiters darf eine kleine Anzahl Freier Tugenden und eine gleichwertige Anzahl Freier Fehler genommen werden, sofern der Unterhalt dadurch nicht über 0 steigt. Hat der Konvent hingegen den Vorzug Wohlstand, dürfen Freie Tugenden, die lediglich eine Erhöhung des Unterhalts erfordern, ohne entsprechenden Freien Fehler genommen werden. Mit dem Haken Armut wird empfohlen, dass der durchschnittliche Unterhaltswert aller Labore nicht höher als -2 (bei Klein) oder -5 (bei Groß) sein sollte — es sind entsprechend viele Fehler zu nehmen.
 
-Labore in etablierten Konventen hingegen, insbesondere in Herbst- oder Winter-Konventen, können mehr Tugenden und Fehler aufweisen, ebenso die Labore erfahrener Magi. Der Spielleiter sollte die Labore der Anfangsmagi in einem etablierten Konvent festlegen. Sie könnten beispielsweise eine oder mehrere übernatürliche Tugenden und Fehler aufweisen. Bei erfahrenen Magi sollte der Baupunktwert der Labortugenden von ihrer Erfahrungspunktzahl abgezogen werden, nicht vom Baupunktvorrat des Konvents — vorausgesetzt, die Magi waren selbst für die Verbesserungen verantwortlich. Dies ist dem Zeitaufwand geschuldet, der für die Tugenden erforderlich ist: Jede Kleine Tugend kostet, da sie ein Quartal erfordert, 10 Punkte, jede Große Tugend 20 Punkte, gemäß den Regeln zur Charaktererstellung von Magi nach der Lehrlingsprüfung (siehe Seite 50).
+Labore in etablierten Konventen hingegen, insbesondere in Herbst- oder Winter-Konventen, können mehr Tugenden und Fehler aufweisen, ebenso die Labore erfahrener Magi. Der Spielleiter sollte die Labore der Anfangsmagi in einem etablierten Konvent festlegen. Sie könnten beispielsweise eine oder mehrere übernatürliche Tugenden und Fehler aufweisen. Bei erfahrenen Magi sollte der Baupunktwert der Labortugenden von ihrer Erfahrungspunktzahl abgezogen werden, nicht vom Baupunktvorrat des Konvents — vorausgesetzt, die Magi waren selbst für die Verbesserungen verantwortlich. Dies ist dem Zeitaufwand geschuldet, der für die Tugenden erforderlich ist: Jede Kleine Tugend kostet, da sie ein Quartal erfordert, 10 Punkte, jede Große Tugend 20 Punkte, gemäß den Regeln zur Charaktererstellung von Magi nach der Lehrlingsprüfung (siehe [Seite 50](#nur-magi-lehrlingszeit)).
 
 ### Laboratoriums-Tugenden und -Fehler
 
@@ -11709,7 +11709,7 @@ Diese Tugenden und Fehler beruhen auf der physischen Struktur und grundlegenden 
 
 #### Tugenden (Groß)
 
-**Großes Feature\*:** Das Labor weist eine einzigartige und weitläufige Struktur auf, die bestimmte Arten von Laborarbeit begünstigt — siehe die Liste möglicher Features weiter unten (Seite 296). +2 Ästhetik; 3 Punkte auf passende Spezialisierung(en).
+**Großes Feature\*:** Das Labor weist eine einzigartige und weitläufige Struktur auf, die bestimmte Arten von Laborarbeit begünstigt — siehe die Liste möglicher Features weiter unten ([Seite 296](#labor-features)). +2 Ästhetik; 3 Punkte auf passende Spezialisierung(en).
 
 **Natürliche Umgebung:** Ein Stück natürlicher Landschaft — Wald, Wüste oder ein Fluss — befindet sich im Labor oder das Labor ist darin oder darum herum errichtet. +2 Ästhetik; 3 Punkte auf Spezialisierungen in Cr, An, Aq, Au, He, Ig oder Te, je nach Geländetyp.
 
@@ -11719,7 +11719,7 @@ Diese Tugenden und Fehler beruhen auf der physischen Struktur und grundlegenden 
 
 **Galerie:** Das Labor ist mit einer inneren Galerie oder Plattform ausgestattet, die es ermöglicht, das gesamte Labor zu überblicken, ohne es zu stören. +1 Sicherheit, +1 Ästhetik; +1 Unterrichten.
 
-**Kleines Feature\*:** Das Labor weist eine einzigartige Struktur auf, die bestimmte Arten von Laborarbeit begünstigt — siehe die Liste möglicher Features weiter unten (Seite 296). +1 Ästhetik; 1 Punkt auf eine passende Spezialisierung.
+**Kleines Feature\*:** Das Labor weist eine einzigartige Struktur auf, die bestimmte Arten von Laborarbeit begünstigt — siehe die Liste möglicher Features weiter unten ([Seite 296](#labor-features)). +1 Ästhetik; 1 Punkt auf eine passende Spezialisierung.
 
 #### Tugenden (Frei)
 
@@ -11801,7 +11801,7 @@ Diese Tugenden und Fehler beruhen auf der Qualität und Menge der weltlichen Mat
 
 #### Fehler (Klein)
 
-**Fehlende Ausrüstung\*:** Aufgrund fehlender bestimmter Ausrüstung ist Laborarbeit in einer oder zwei Tätigkeitskategorien völlig unmöglich. Ohne Schreibpult, Pergament oder Tinte können beispielsweise keine Texte bearbeitet werden. Werden Artefakte, Zauber oder Texte gewählt, ist nur diese eine Tätigkeit nicht möglich. Andernfalls müssen zwei der Tätigkeitskategorien gewählt werden (siehe den Abschnitt Spezialisierungen oben, Seite 290). Dieser Fehler kann nicht mehr als zweimal genommen werden. –1 Unterhalt.
+**Fehlende Ausrüstung\*:** Aufgrund fehlender bestimmter Ausrüstung ist Laborarbeit in einer oder zwei Tätigkeitskategorien völlig unmöglich. Ohne Schreibpult, Pergament oder Tinte können beispielsweise keine Texte bearbeitet werden. Werden Artefakte, Zauber oder Texte gewählt, ist nur diese eine Tätigkeit nicht möglich. Andernfalls müssen zwei der Tätigkeitskategorien gewählt werden (siehe den Abschnitt Spezialisierungen oben, [Seite 290](#laborspezialisierungen)). Dieser Fehler kann nicht mehr als zweimal genommen werden. –1 Unterhalt.
 
 **Undekoriert:** Das Labor ist sehr karg ausgestattet oder gar nicht dekoriert, was den Ort eher eintönig und unwirtlich macht. –1 Unterhalt, –1 Ästhetik; ein Punkt wird von allen Spezialisierungen mit einem Wert von 2 oder höher abgezogen.
 
@@ -11966,7 +11966,7 @@ Die Stufe eines Zaubers misst die magische Kraft, die zur Erzeugung des Zauberef
 
 Die Magnitude eines Zaubers entspricht einem Fünftel seiner Stufe, aufgerundet. Dies ist zugleich die Anzahl der Vis-Bauern, die zum Wirken eines Ritualzaubers benötigt werden; eine Änderung der Reichweite, Dauer oder des Ziels eines Zaubers verändert dessen Stufe in der Regel um jeweils eine Magnitude (fünf Stufen).
 
-Zauber der Stufen eins bis fünf haben alle die erste Magnitude, obwohl die Regeln zur Änderung von Reichweiten, Dauern und Zielen bei solchen Zaubern unterschiedlich funktionieren (siehe Tabelle auf Seite 303).
+Zauber der Stufen eins bis fünf haben alle die erste Magnitude, obwohl die Regeln zur Änderung von Reichweiten, Dauern und Zielen bei solchen Zaubern unterschiedlich funktionieren (siehe Tabelle auf [Seite 303](#reichweiten-dauern-und-ziele)).
 
 **ZAUBERMAGNITUDE: Stufe / 5 (aufgerundet)**
 
@@ -12036,7 +12036,7 @@ Obwohl ein Augenblick sehr kurz ist, kann er etwas mehr als ein flüchtiger Mome
 
 Creo-Ritualzauber mit Dauer Momentan erschaffen Dinge, die so lange bestehen wie jedes andere Ding dieser Art. Die Magie vergeht in einem Augenblick und kann daher nicht aufgelöst werden. Dies gilt auch für Ritual-Heilungszauber. Zu beachten ist, dass unnatürliche Dinge nicht von Natur aus irgendwie lange bestehen und daher nur so lange bestehen, wie der Zauber andauert, selbst wenn sie mit einem Ritual erschaffen wurden. (Ein Creo-Zauber, der ein solches Ding erschaffen würde, benötigte ein Muto-Requisit.)
 
-**Konzentration:** Der Zauber dauert so lange, wie der Magus sich konzentriert. Ohne Ablenkungen kann ein Magus davon ausgehen, sich fünfzehn Minuten pro Punkt Konzentrationsfertigkeit konzentrieren zu können. Bei Ablenkungen gelten die Regeln im Kapitel zur Hermetischen Magie auf Seite 215. Dies fügt der Leitlinie 1 Magnitude hinzu.
+**Konzentration:** Der Zauber dauert so lange, wie der Magus sich konzentriert. Ohne Ablenkungen kann ein Magus davon ausgehen, sich fünfzehn Minuten pro Punkt Konzentrationsfertigkeit konzentrieren zu können. Bei Ablenkungen gelten die Regeln im Kapitel zur Hermetischen Magie auf [Seite 215](#konzentration-1). Dies fügt der Leitlinie 1 Magnitude hinzu.
 
 **Durchmesser:** Der Zauber dauert so lange, wie die Sonne braucht, um ihren eigenen Durchmesser am Himmel zurückzulegen — fast genau zwei Minuten (zwanzig Kampfrunden). (Durchmesser und Konzentration haben dieselbe Dauerstufe.) Dies fügt der Leitlinie 1 Magnitude hinzu.
 
@@ -12054,7 +12054,7 @@ Der Ring kann bereits existieren, beispielsweise als in den Boden eingelegte Umr
 
 #### Ziel
 
-Es gibt drei Arten von Zielen: Objekte, Behälter und Sinne. Ein auf ein Objekt-Ziel gewirkter Zauber betrifft die Dinge in diesem Ziel für die Dauer des Zaubers, selbst wenn sie sich so verändern, dass sie nicht mehr als gültiges Ziel für den ursprünglichen Zauber gelten würden. Befindet sich der Zaubernde in Reichweite, behält er die Kontrolle über den Zauber, sofern der Zauber eine solche Kontrolle erlaubt. Behälter-Ziele sind komplexer, wie auf Seite 309 beschrieben.
+Es gibt drei Arten von Zielen: Objekte, Behälter und Sinne. Ein auf ein Objekt-Ziel gewirkter Zauber betrifft die Dinge in diesem Ziel für die Dauer des Zaubers, selbst wenn sie sich so verändern, dass sie nicht mehr als gültiges Ziel für den ursprünglichen Zauber gelten würden. Befindet sich der Zaubernde in Reichweite, behält er die Kontrolle über den Zauber, sofern der Zauber eine solche Kontrolle erlaubt. Behälter-Ziele sind komplexer, wie auf [Seite 309](#behälter-ziele) beschrieben.
 
 **Individuum:** Der Zauber kann ein einzelnes, abgegrenztes Ding betreffen, wie eine Person oder einen Gegenstand. Ein riesiger Felsbrocken ist ein abgegrenztes Objekt, ein Berg hingegen nicht (weil er mit dem Boden verbunden ist). Kleidung an einer Person oder Moos auf einem Felsen gelten dabei als Teil der Person bzw. des Felsens. Individuum ist ein Objekt-Ziel. Dies fügt der Leitlinie keine Magnituden hinzu.
 
@@ -12304,7 +12304,7 @@ Als allgemeine Faustregel gilt: Würde der Zauber ohne das Requisit immer noch e
 
 Zusätzliche Effekte erfordern möglicherweise kein Requisit, wenn sie rein kosmetischer Natur sind. Ein Zauber, der Feuer erschafft, das wie Flammenschädel aussieht, erfordert daher kein Imaginem-Requisit. Ein Zauber, der dem Zaubernden erlaubt zu wählen, wie das Feuer aussieht, schon — denn diese Flexibilität übersteigt eine rein kosmetische Wirkung.
 
-Requisiten werden, sofern vorhanden, für jeden Formularzauber aufgelistet. (Siehe den Zauber Fluch der Circe auf Seite 334 als Beispiel.) Requisiten erschweren das Wirken von Zaubern, da sie vom Zaubernden ein breiteres Wissen verlangen. Du musst den niedrigeren Wert deines Requisit-Wertes und deines Wertes in der primären Technik oder Form des Zaubers verwenden — die Technik, wenn das Requisit eine Technik ist, die Form, wenn das Requisit eine Form ist. Wenn du beispielsweise die Werte Animal 6 und Corpus 13 hast und den Muto Corpus-Zauber Fluch der Circe wirkst, der ein Animal-Requisit hat, behandle deinen Corpus-Wert, als wäre er nur 6. Wenn dein Requisit-Wert zufällig höher wäre (zum Beispiel Animal 15), würdest du den niedrigeren Basis-Formwert verwenden (in diesem Fall Corpus 13).
+Requisiten werden, sofern vorhanden, für jeden Formularzauber aufgelistet. (Siehe den Zauber Fluch der Circe auf [Seite 334](#fluch-der-kirke) als Beispiel.) Requisiten erschweren das Wirken von Zaubern, da sie vom Zaubernden ein breiteres Wissen verlangen. Du musst den niedrigeren Wert deines Requisit-Wertes und deines Wertes in der primären Technik oder Form des Zaubers verwenden — die Technik, wenn das Requisit eine Technik ist, die Form, wenn das Requisit eine Form ist. Wenn du beispielsweise die Werte Animal 6 und Corpus 13 hast und den Muto Corpus-Zauber Fluch der Circe wirkst, der ein Animal-Requisit hat, behandle deinen Corpus-Wert, als wäre er nur 6. Wenn dein Requisit-Wert zufällig höher wäre (zum Beispiel Animal 15), würdest du den niedrigeren Basis-Formwert verwenden (in diesem Fall Corpus 13).
 
 Manchmal hat ein Zauber sowohl für seine Technik als auch für seine Form ein Requisit. Du musst in jedem Fall den niedrigeren Wert verwenden. Gelten mehrere Requisiten für dieselbe primäre Kunst (zum Beispiel zwei Form-Requisiten), ist dein effektiver Wert der niedrigste der Gruppe. Darüber hinaus gelten alle Defizienzen, die du mit einer Kunst hast, wenn du diese Kunst als Requisit verwendest.
 
@@ -12352,11 +12352,11 @@ Allgemeine Zauber sind nur in dem Sinne offen, dass sie auf jeder Stufe erlernt 
 
 ### Ritual
 
-Zauber, die Rituale erfordern, sind solche, die außerhalb der für Formular- und Spontanzauber beschriebenen Kategorien liegen, wie unter „Ritualzauber" auf Seite 213 beschrieben. Bestimmte mächtige Zauber und Zauber aus dem Kult des Merkur sind ebenfalls Ritualzauber. Spielleiter sollten nach eigenem Ermessen weitere Zauber als Rituale einordnen.
+Zauber, die Rituale erfordern, sind solche, die außerhalb der für Formular- und Spontanzauber beschriebenen Kategorien liegen, wie unter „Ritualzauber" auf [Seite 213](#ritualmagie) beschrieben. Bestimmte mächtige Zauber und Zauber aus dem Kult des Merkur sind ebenfalls Ritualzauber. Spielleiter sollten nach eigenem Ermessen weitere Zauber als Rituale einordnen.
 
 ### Requisiten
 
-Requisiten erschweren das Wirken von Zaubern, da sie vom Zaubernden umfangreicheres Wissen verlangen. Unter „Requisiten" auf Seite 311 findet sich eine vollständige Beschreibung, wie sie die Zaubernden bestimmter Zauber einschränken. Stets geltende Requisiten sind zusammen mit den Spielwerten eines Zaubers aufgelistet. Wirkungsrequisiten sind innerhalb des Zaubertextes aufgeführt.
+Requisiten erschweren das Wirken von Zaubern, da sie vom Zaubernden umfangreicheres Wissen verlangen. Unter „Requisiten" auf [Seite 311](#requisiten) findet sich eine vollständige Beschreibung, wie sie die Zaubernden bestimmter Zauber einschränken. Stets geltende Requisiten sind zusammen mit den Spielwerten eines Zaubers aufgelistet. Wirkungsrequisiten sind innerhalb des Zaubertextes aufgeführt.
 
 ### Beschreibung
 
@@ -12374,7 +12374,7 @@ Eine eingeklammerte Zeile am Ende der Beschreibung gibt die Berechnung der Zaube
 
 ### Das Sigil des Zauberers
 
-Wenn du einen Zauber erfindest, manifestiert sich unweigerlich ein gewisser Anteil deines persönlichen Zauberstils, der dem Zauber eine kleine Eigenart oder ein kleines Detail verleiht, das ihn als deinen identifiziert. Diese wiederkehrende Marke oder Eigenart im Zauber eines Magus (die in der Regel die Wirksamkeit des Zaubers nicht beeinflusst) wird als sein „Sigil des Zauberers" bezeichnet. Sobald sie bekannt ist, kann diese Eigenart bestimmte Magi als Urheber bestimmter Zauber identifizieren. In diesem Kapitel sind verschiedene Beispiel-Sigile in den Beschreibungen aufgeführt. Bedenke, dass dies nur Hinweise sind. Sie sollen dir Ideen geben, deine Zauber besser zu personalisieren, und dir vielleicht bei der Wahl deines eigenen Sigils helfen. Weitere Einzelheiten finden sich auf Seite 224 im Kapitel zur Hermetischen Magie.
+Wenn du einen Zauber erfindest, manifestiert sich unweigerlich ein gewisser Anteil deines persönlichen Zauberstils, der dem Zauber eine kleine Eigenart oder ein kleines Detail verleiht, das ihn als deinen identifiziert. Diese wiederkehrende Marke oder Eigenart im Zauber eines Magus (die in der Regel die Wirksamkeit des Zaubers nicht beeinflusst) wird als sein „Sigil des Zauberers" bezeichnet. Sobald sie bekannt ist, kann diese Eigenart bestimmte Magi als Urheber bestimmter Zauber identifizieren. In diesem Kapitel sind verschiedene Beispiel-Sigile in den Beschreibungen aufgeführt. Bedenke, dass dies nur Hinweise sind. Sie sollen dir Ideen geben, deine Zauber besser zu personalisieren, und dir vielleicht bei der Wahl deines eigenen Sigils helfen. Weitere Einzelheiten finden sich auf [Seite 224](#sigile) im Kapitel zur Hermetischen Magie.
 
 Beachte, dass selbst wenn du einen Zauber von einem anderen Magus oder aus einem Labortext erlernst, du ihn tatsächlich selbst erfindest — wenn auch mit Anleitung —, sodass es immer dein Sigil ist, das sich in deinen Zaubern manifestiert.
 
@@ -13425,7 +13425,7 @@ Ein vom Körper abgetrenntes Glied kann wieder angeheftet werden, doch verbleibt
 
 ##### Den Sensenmann überlisten
 R: Berührung, D: Momentan, Z: Ind., Ritual<br>
-Löst eine große (oder weniger schwere) Alterskrise auf. Das Ziel benötigt dennoch für den Rest des Quartals Ruhe, um sich vollständig zu erholen. Zu beachten ist, dass jede Anwendung dieses Zaubers Verzerrung verursacht. Einzelheiten zu Alterskrisen finden sich auf Seite 392.<br>
+Löst eine große (oder weniger schwere) Alterskrise auf. Das Ziel benötigt dennoch für den Rest des Quartals Ruhe, um sich vollständig zu erholen. Zu beachten ist, dass jede Anwendung dieses Zaubers Verzerrung verursacht. Einzelheiten zu Alterskrisen finden sich auf [Seite 392](#altern).<br>
 (Grundstufe 25, +1 Berührung)
 
 #### STUFE 40
@@ -13590,7 +13590,7 @@ Req.: Animal<br>
 Du hängst dir einen kleinen Umhang aus Rabenfedern auf den Rücken und verwandelst dich in einen Raben. Du kannst jederzeit in deine menschliche Gestalt zurückkehren, doch beendet dies den Zauber.<br>
 (Grundstufe 20, +2 Sonne)
 
-##### Fluch der Kirke
+##### Fluch der Circe
 R: Stimme, D: Sonne, Z: Ind.<br>
 Req.: Animal<br>
 Verwandelt eine Person in ein Schwein.<br>
@@ -13653,7 +13653,7 @@ Verwandelte Personen behalten ihren menschlichen Verstand, übernehmen aber alle
 
 Diese Zauber schädigen Menschen direkt, oft dauerhaft — es sei denn, äußere Magie wird zur Behebung des Schadens eingesetzt.
 
-Durch Magie verursachte Krankheiten haben einen Grundschwierigkeitsgrad von 6. Für jede Magnitude, um die die Zauberstufe steigt, erhöht sich der Schwierigkeitsgrad um 1. Es ist nicht möglich, die Stufe durch Verringerung des Schwierigkeitsgrades zu senken. (Siehe Seite 8)
+Durch Magie verursachte Krankheiten haben einen Grundschwierigkeitsgrad von 6. Für jede Magnitude, um die die Zauberstufe steigt, erhöht sich der Schwierigkeitsgrad um 1. Es ist nicht möglich, die Stufe durch Verringerung des Schwierigkeitsgrades zu senken. (Siehe [Seite 8](#schwierigkeitsgrad))
 
 | Stufe | Perdo-Corpus-Leitlinie |
 | ----- | ---------------------- |
@@ -14183,7 +14183,7 @@ Da Feuer flüchtig und gefährlich ist, gilt das auch für diese Zauber. Magi, d
 
 Licht und Wärme fallen ebenfalls in den Bereich dieser Form. Es ist wichtig zu bedenken, dass Wärme auch die relative Abwesenheit von Wärme einschließt, sodass Zauber, die zu kalten Temperaturen führen, durch Ignem möglich sind.
 
-Das Basis-Individuum für Ignem ist ein großes Lagerfeuer oder das Feuer im Kamin eines Festsaals. Feuerschaden wird auf Seite 407 erläutert.
+Das Basis-Individuum für Ignem ist ein großes Lagerfeuer oder das Feuer im Kamin eines Festsaals. Feuerschaden wird auf [Seite 407](#hitze-und-ätzungstabelle) erläutert.
 
 ### Creo Ignem — Leitlinien
 
@@ -14472,7 +14472,7 @@ Patzer bei Rego Ignem führen normalerweise dazu, dass das Feuer genau das tut, 
 
 ##### Zitternder Schwung der Fackelflamme
 R: Stimme, D: Momentan, Z: Ind.
-Lässt ein Feuer einige Sekunden flackern und dann in jede Richtung bis zu 3 Metern springen. Ein Zielwurf ist erforderlich, um ein bestimmtes Ziel zu treffen. Die Flamme bleibt an dem Punkt, wo sie auftrifft, wenn sie dort brennen kann (siehe Regeln für Feuerschaden auf Seite 407). Andernfalls versengt sie die Stelle lediglich und erlischt (verursacht +5 Schaden).
+Lässt ein Feuer einige Sekunden flackern und dann in jede Richtung bis zu 3 Metern springen. Ein Zielwurf ist erforderlich, um ein bestimmtes Ziel zu treffen. Die Flamme bleibt an dem Punkt, wo sie auftrifft, wenn sie dort brennen kann (siehe Regeln für Feuerschaden auf [Seite 407](#hitze-und-ätzung)). Andernfalls versengt sie die Stelle lediglich und erlischt (verursacht +5 Schaden).
 (Grundstufe 3, +2 Stimme)
 
 #### STUFE 10
@@ -15704,7 +15704,7 @@ Du erkennst, mit welcher Kunst ein Vorrat roher Vis verbunden ist. Die Vis ersch
 
 ##### Den Feenschleier durchdringen
 R: Pers., D: Konz., Z: Sicht<br>
-Dieser Zauber erlaubt es dem Zaubernden, durch die Grenzen von Feenregiones hindurchzusehen und so den Weg zur nächsten Ebene zu erkennen (nähere Einzelheiten zu Regiones finden sich auf Seite 420). Es gibt verwandte, aber eigene Zauber für Göttliche, Magische und Infernale Regiones.<br>
+Dieser Zauber erlaubt es dem Zaubernden, durch die Grenzen von Feenregiones hindurchzusehen und so den Weg zur nächsten Ebene zu erkennen (nähere Einzelheiten zu Regiones finden sich auf [Seite 420](#regiones)). Es gibt verwandte, aber eigene Zauber für Göttliche, Magische und Infernale Regiones.<br>
 (Grundstufe 3, +1 Konz., +4 Sicht)
 
 #### STUFE 30
@@ -15718,7 +15718,7 @@ Dieser Zauber kann das Vorhandensein vieler magischer Rückstände wahrnehmen, s
 
 ##### Der Blick auf aktive Magien
 R: Pers., D: Konz., Z: Sicht<br>
-Du kannst Zauber als „Auren" um Dinge und Personen sehen. Die Farbe der Aura zeigt die Form des auf ein Subjekt wirkenden Zaubers an; die Farbe entspricht der jeweiligen, die bei *Die Natur der Vis erkennen* (Seite 367) beschrieben ist. Die Technik eines auf das Subjekt wirkenden Zaubers wird durch die Form der Aura erkannt, nicht durch ihre Farbe. Creo und Rego sind beide sehr geordnete Auren. Muto wechselt ständig, und Intellego ebenfalls, aber langsamer. Eine Perdo-Aura ist gewöhnlich fragmentiert. So hat ein Magus, auf den sowohl *Ausdauer der Berserker* als auch *Das enthüllte unsichtbare Auge* wirken, eine sehr kontrollierte, gleichmäßige Aura aus Dunkelrot um seinen gesamten Körper, und die Augen des Magus sind von langsam wechselnden Auren silbriger Tönung umgeben. Hinweis: Imaginem- oder Vim-Zauber können dazu genutzt werden, Auren zu verschleiern. Dieser Zauber erkennt auch die Rückstände mancher Zauber.<br>
+Du kannst Zauber als „Auren" um Dinge und Personen sehen. Die Farbe der Aura zeigt die Form des auf ein Subjekt wirkenden Zaubers an; die Farbe entspricht der jeweiligen, die bei *Die Natur der Vis erkennen* ([Seite 367](#die-natur-der-vis-erkennen)) beschrieben ist. Die Technik eines auf das Subjekt wirkenden Zaubers wird durch die Form der Aura erkannt, nicht durch ihre Farbe. Creo und Rego sind beide sehr geordnete Auren. Muto wechselt ständig, und Intellego ebenfalls, aber langsamer. Eine Perdo-Aura ist gewöhnlich fragmentiert. So hat ein Magus, auf den sowohl *Ausdauer der Berserker* als auch *Das enthüllte unsichtbare Auge* wirken, eine sehr kontrollierte, gleichmäßige Aura aus Dunkelrot um seinen gesamten Körper, und die Augen des Magus sind von langsam wechselnden Auren silbriger Tönung umgeben. Hinweis: Imaginem- oder Vim-Zauber können dazu genutzt werden, Auren zu verschleiern. Dieser Zauber erkennt auch die Rückstände mancher Zauber.<br>
 (Grundstufe 5, +1 Konz., +4 Sicht, +2 Techniken und Formen)
 
 ### Muto Vim — Leitlinien
@@ -15763,7 +15763,7 @@ Eine Steigerung der Stärke oder Parameter darf die Stufe des Zielzaubers nicht 
 >
 > Ist der Magus nicht dieselbe Person wie diejenige, die das Zauberobjekt aktiviert, gelten die Regeln für einen Muto Vim-Zauber, der auf den Zauber eines anderen Magus gewirkt wird. Aktiviert ein Verbündeter das Zauberobjekt und haben Magus und Aktivierer die zeitliche Abstimmung vorab besprochen, gelten sie als kooperierend. Der Zaubernde muss einen Intelligenz-+Konzentration-Wurf gegen Schwierigkeitsgrad 9 bestehen.
 >
-> Haben Zaubernder und Aktivierer die zeitliche Abstimmung nicht vorab besprochen, kooperieren sie nicht. Ein Feind, der ein Zauberobjekt einsetzt, fällt in diese Kategorie. In diesem Fall muss der Magus den Muto Vim-Zauber im Schnellzaubern wirken. Er muss außerdem die Penetration des Zauberobjekts mit der Penetration seines Muto Vim-Zaubers übertreffen. Da die meisten Muto Vim-Zauber formspezifisch sind, muss er zudem die Form des zauberähnlichen Effekts des Artefakts korrekt bestimmen. Zur Bestimmung der Form eines magischen Effekts ist die entsprechende Formel (Seite 217) anzuwenden. Hat der Magus die Form korrekt bestimmt, den Schnellzauber-Verteidigungswurf gegen den Initiativewurf des Aktivierers bestanden und seinen Zauber mit höherer Penetration als die des Artefakts gewirkt, beeinflusst sein Muto Vim-Zauber den zauberähnlichen Effekt des Artefakts.
+> Haben Zaubernder und Aktivierer die zeitliche Abstimmung nicht vorab besprochen, kooperieren sie nicht. Ein Feind, der ein Zauberobjekt einsetzt, fällt in diese Kategorie. In diesem Fall muss der Magus den Muto Vim-Zauber im Schnellzaubern wirken. Er muss außerdem die Penetration des Zauberobjekts mit der Penetration seines Muto Vim-Zaubers übertreffen. Da die meisten Muto Vim-Zauber formspezifisch sind, muss er zudem die Form des zauberähnlichen Effekts des Artefakts korrekt bestimmen. Zur Bestimmung der Form eines magischen Effekts ist die entsprechende Formel ([Seite 217](#schnellzaubern)) anzuwenden. Hat der Magus die Form korrekt bestimmt, den Schnellzauber-Verteidigungswurf gegen den Initiativewurf des Aktivierers bestanden und seinen Zauber mit höherer Penetration als die des Artefakts gewirkt, beeinflusst sein Muto Vim-Zauber den zauberähnlichen Effekt des Artefakts.
 >
 > Alle übrigen Muto Vim-Regeln gelten. Das Zauberobjekt muss hermetisch sein. Der Muto Vim-Zauber kann Berührungsreichweite haben, wenn der Magus das Objekt hält, muss aber mindestens Stimmweite haben, wenn jemand anderes es hält oder er es aus der Entfernung auslöst.
 
@@ -15783,7 +15783,7 @@ Dieser Zauber erlaubt es einem Magus, das Sigil in einem Zauber zu unterdrücken
 
 ##### Die Gabel des Zauberers
 R: Berührung, D: Momentan, Z: Ind.<br>
-Dieser Zauber spaltet einen anderen Zauber (dessen Stufe kleiner oder gleich der Stufe dieses Zaubers sein muss) in zwei oder mehr identische Zauber geringerer Stärke auf, die gegen zwei oder mehr separate Ziele gewirkt werden können. Jeder resultierende Zauber hat dieselbe Reichweite und Zielgröße (als Kategorie — das tatsächliche Ziel kann verschieden sein) wie der Originalzauber, jedoch wird die Stärke des Effekts durch die Anzahl der Teilzauber geteilt. Der genaue Effekt liegt im Ermessen des Spielleiters. Es wird ein Würfelwurf gemacht, und der Penetrationswert wird auf die Zauber aufgeteilt. *Die Gabel des Zauberers* muss mindestens dieselbe Stufe wie der aufzuspaltende Zauber haben. Der aufgespaltene Zauber erhält einen Zielabzug wie beim Mehrfachzaubern (siehe Seite 225). Kooperiert der Magus, auf dessen Zauber gewirkt wird, nicht, treffen alle Teilzauber das ursprüngliche Ziel.<br>
+Dieser Zauber spaltet einen anderen Zauber (dessen Stufe kleiner oder gleich der Stufe dieses Zaubers sein muss) in zwei oder mehr identische Zauber geringerer Stärke auf, die gegen zwei oder mehr separate Ziele gewirkt werden können. Jeder resultierende Zauber hat dieselbe Reichweite und Zielgröße (als Kategorie — das tatsächliche Ziel kann verschieden sein) wie der Originalzauber, jedoch wird die Stärke des Effekts durch die Anzahl der Teilzauber geteilt. Der genaue Effekt liegt im Ermessen des Spielleiters. Es wird ein Würfelwurf gemacht, und der Penetrationswert wird auf die Zauber aufgeteilt. *Die Gabel des Zauberers* muss mindestens dieselbe Stufe wie der aufzuspaltende Zauber haben. Der aufgespaltene Zauber erhält einen Zielabzug wie beim Mehrfachzaubern (siehe [Seite 225](#mehrfaches-zaubern)). Kooperiert der Magus, auf dessen Zauber gewirkt wird, nicht, treffen alle Teilzauber das ursprüngliche Ziel.<br>
 (Basiseffekt, +1 Berührung)
 
 ##### Schub des Zauberers (Form)
@@ -15793,7 +15793,7 @@ Dieser Zauber wird gleichzeitig mit einem anderen Zauber einer Stufe kleiner ode
 
 ##### Communion des Zauberers
 R: Stimme, D: Momentan, Z: Gruppe<br>
-Dieser Zauber erlaubt Magi, ihre Kräfte zu bündeln, um Zauber zu wirken. Die Gruppe von Magi arbeitet zusammen, um einen bestimmten Zauber durch die vereinte Kraft der Communion zu wirken. Für je 5 Stufen des zu wirkenden Zaubers darf ein weiterer Magus der Communion beitreten. Einer der Magi in der Gruppe muss den Zauber kennen oder von einer Zaubertafel wirken (Seite 263). Nur ein Magus in der Gruppe muss den Zauber tatsächlich wirken. Der Magus, der die Communion des Zauberers wirkt, muss nicht derjenige sein, der den Hauptzauber wirkt — in der Regel ist es besser, wenn es verschiedene sind. Mehr als ein Magus in der Gruppe kann diesen Zauber wirken. In diesem Fall werden die Gesamtstufen aller erfolgreich gewirkten Communions addiert, um die effektive Stufe der Communion für diese Wirkung zu erhalten. Dieses kombinierte Gesamtmaß muss mindestens doppelt so hoch sein wie die Stufe des zu wirkenden Zaubers. Ein Magus muss würfeln, als würde er den Zauber selbst wirken. Die Zielzahl für den Zauberwurf ist jedoch die Stufe des Zaubers geteilt durch die Anzahl der an der Communion teilnehmenden Magi. Beteiligen sich also fünf Magi an einer 50-Stufen-Communion, muss der Zaubernde einen 10-stufigen Zauber erfolgreich wirken — mit allen relevanten Requisiten, versteht sich. Diese Methode fügt einen Patzerwürfel pro teilnehmendem Magus hinzu. Patzt der Zauber, erhalten alle Beteiligten Verzerrungspunkte und müssen auf Zwielicht prüfen, wenn sie zwei oder mehr davon erhalten. Communion ist ein Überrest merkurischer Rituale und passt daher nicht vollständig in die Leitlinien der hermetischen Theorie.<br>
+Dieser Zauber erlaubt Magi, ihre Kräfte zu bündeln, um Zauber zu wirken. Die Gruppe von Magi arbeitet zusammen, um einen bestimmten Zauber durch die vereinte Kraft der Communion zu wirken. Für je 5 Stufen des zu wirkenden Zaubers darf ein weiterer Magus der Communion beitreten. Einer der Magi in der Gruppe muss den Zauber kennen oder von einer Zaubertafel wirken ([Seite 263](#zaubertafeln-1)). Nur ein Magus in der Gruppe muss den Zauber tatsächlich wirken. Der Magus, der die Communion des Zauberers wirkt, muss nicht derjenige sein, der den Hauptzauber wirkt — in der Regel ist es besser, wenn es verschiedene sind. Mehr als ein Magus in der Gruppe kann diesen Zauber wirken. In diesem Fall werden die Gesamtstufen aller erfolgreich gewirkten Communions addiert, um die effektive Stufe der Communion für diese Wirkung zu erhalten. Dieses kombinierte Gesamtmaß muss mindestens doppelt so hoch sein wie die Stufe des zu wirkenden Zaubers. Ein Magus muss würfeln, als würde er den Zauber selbst wirken. Die Zielzahl für den Zauberwurf ist jedoch die Stufe des Zaubers geteilt durch die Anzahl der an der Communion teilnehmenden Magi. Beteiligen sich also fünf Magi an einer 50-Stufen-Communion, muss der Zaubernde einen 10-stufigen Zauber erfolgreich wirken — mit allen relevanten Requisiten, versteht sich. Diese Methode fügt einen Patzerwürfel pro teilnehmendem Magus hinzu. Patzt der Zauber, erhalten alle Beteiligten Verzerrungspunkte und müssen auf Zwielicht prüfen, wenn sie zwei oder mehr davon erhalten. Communion ist ein Überrest merkurischer Rituale und passt daher nicht vollständig in die Leitlinien der hermetischen Theorie.<br>
 (Basiseffekt)
 
 ##### Reichweite des Zauberers (Form)
@@ -15812,7 +15812,7 @@ Die meisten Perdo Vim-Zauber sind auf eine der vier übernatürlichen Sphären s
 | Stufe     | Perdo Vim-Leitlinie                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Allgemein | • Etwas (einschließlich eines Zauberobjekts) gegenüber Intellego-Zaubern mit einer Stufe kleiner oder gleich dem Doppelten der (Stufe + 2 Magnituden) dieses Zaubers nichtmagisch erscheinen lassen<br>• Effekte eines bestimmten Typs mit einer Stufe kleiner oder gleich (Stufe + 4 Magnituden) des Vim-Zaubers + Stresswurf (kein Patzer) auflösen; ein bestimmter Typ könnte hermetische Terram-Magie oder schamanische Geisteskontrollmagie sein; ein Magus muss einen Typ von Magie kennen, um einen Zauber dagegen zu erfinden<br>• Den Machtwert eines Ziels um (Zauberstufe + 2 Magnituden) senken, solange der Zauber die Magieresistenz des Wesens durchdringt<br>• Den Machtvorrat eines Ziels um (Zauberstufe + 2 Magnituden) senken, solange der Zauber die Magieresistenz des Wesens durchdringt<br>• Jeden übernatürlichen Effekt einer Sphäre mit einer Stufe kleiner oder gleich der Hälfte der (Stufe + 4 Magnituden + Stresswurf (kein Patzer)) des Vim-Zaubers auflösen<br>• Die Zaubersumme für alle übernatürlichen Kräfte einer Sphäre, die das Ziel wirkt, um die Hälfte der (Stufe + 2 Magnituden) des Zaubers senken (wirken zwei oder mehr solcher Zauber auf ein Ziel, hat nur der stärkste Wirkung; der Zauber muss die Magieresistenz des Ziels durchdringen)<br>• Die Zaubersumme für einen bestimmten Typ übernatürlicher Effekte, die das Ziel wirkt, um (Stufe + 2 Magnituden) des Zaubers senken (wirken zwei oder mehr solcher Zauber auf ein Ziel, hat nur der stärkste Wirkung; der Zauber muss die Magieresistenz des Ziels durchdringen; eine Maga muss mit dem Typ des übernatürlichen Effekts vertraut sein, um einen Zauber dagegen zu erfinden)<br>• Eine Zauberspur auf eine negative Magnitude altern lassen, die der verwendeten Leitlinie entspricht (z.B. –2 für eine Stufe-10-Leitlinie)<br>• Eine hermetische Verzauberung mit einer Stufe kleiner als (Leitlinienstufe + 1 Magnitude + Stresswurf (kein Patzer)) auflösen; der Zauber muss ein Ritual sein<br>• Eine bestimmte Art von Verzauberung mit einer Stufe kleiner als dem Doppelten der (Leitlinienstufe + 2 Magnituden + Stresswurf (kein Patzer)) auflösen; der Zauber muss eine bestimmte hermetische Form oder einen bestimmten Verzauberungstyp wie Talismane, Vertraute oder Langlebigkeitsrituale angeben; der Zauber muss ein Ritual sein<br>• Hermetische Form-Resistenz ausgerichtet auf eine bestimmte Form mit einer Stufe kleiner oder gleich (Zauberstufe + 2 Magnituden + Stresswurf (kein Patzer)) auflösen; der Zauber muss die Vim-basierte Magieresistenz des Ziels durchdringen<br>• Magieresistenz aus einem Machtwert, ausgerichtet auf eine Sphäre, mit einer Stufe kleiner oder gleich (Zauberstufe + 4 Magnituden + Stresswurf (kein Patzer)) auflösen; der Zauber muss die Vim-basierte Magieresistenz des Ziels durchdringen<br>• Eine der Zauberstufe entsprechende Menge roher Vis vernichten |
-| 5         | • Die Dauer einer Arkanen Verbindung um eine Stufe in der Tabelle (Seite 220) verkürzen (sinkt die Dauer dadurch unter Stunden, erlischt die Verbindung sofort; wirkt nicht auf Verbindungen, die von Natur aus unbegrenzte Dauer haben, kann aber eine fixierte Verbindung erlöschen lassen; die Reichweite gilt für die Arkane Verbindung selbst) |
+| 5         | • Die Dauer einer Arkanen Verbindung um eine Stufe in der Tabelle ([Seite 220](#arkane-verbindungen)) verkürzen (sinkt die Dauer dadurch unter Stunden, erlischt die Verbindung sofort; wirkt nicht auf Verbindungen, die von Natur aus unbegrenzte Dauer haben, kann aber eine fixierte Verbindung erlöschen lassen; die Reichweite gilt für die Arkane Verbindung selbst) |
 | 10        | • Die Dauer einer Arkanen Verbindung um zwei Stufen in der Tabelle verkürzen (mit denselben Einschränkungen wie oben)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 15        | • Die Dauer einer Arkanen Verbindung um drei Stufen in der Tabelle verkürzen (mit denselben Einschränkungen wie oben)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | 20        | • Die Dauer einer Arkanen Verbindung um vier Stufen in der Tabelle verkürzen (mit denselben Einschränkungen wie oben)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
@@ -15885,7 +15885,7 @@ Auch Zauberobjekte können zur Aegis einheimisch sein. Es gibt drei Hauptklassen
 
 Die Aegis wird häufig zur Wintersonnenwende gewirkt, da die Magieaura dort leicht erhöht sein kann, und sie erhält so eine volle Jahres-Dauer. Es ist üblich, dass der Konvent unmittelbar nach der Wirkung der Aegis eine Feier für alle Konventsmitglieder und eine vollständige Ratsversammlung für die Magi abhält.
 
-Die Aegis des Herdes wurde von Notatus, dem ersten Primus des Hauses Bonisagus, erschaffen. Sie war ein Großer Durchbruch (siehe Seite 277), der merkurische Rituale und hermetische Theorie vereint, und war der Grund, warum Notatus als Nachfolger von Bonisagus ausgewählt wurde. Infolgedessen ist der Zauber mächtiger als er es sein sollte und benötigt kein Perdo-Requisit. Im Jahr 1220 haben sich die Entdeckungen des Notatus verbreitet, und jeder Magus im Orden kann Versionen der Aegis mit den oben genannten Parametern erfinden, jedoch auf verschiedenen Stufen oder Größen oder beidem. Die Erfindung einer Version mit anderen Parametern würde jedoch mindestens einen Kleinen Durchbruch und jahrelange Forschung erfordern.
+Die Aegis des Herdes wurde von Notatus, dem ersten Primus des Hauses Bonisagus, erschaffen. Sie war ein Großer Durchbruch (siehe [Seite 277](#der-durchbruch)), der merkurische Rituale und hermetische Theorie vereint, und war der Grund, warum Notatus als Nachfolger von Bonisagus ausgewählt wurde. Infolgedessen ist der Zauber mächtiger als er es sein sollte und benötigt kein Perdo-Requisit. Im Jahr 1220 haben sich die Entdeckungen des Notatus verbreitet, und jeder Magus im Orden kann Versionen der Aegis mit den oben genannten Parametern erfinden, jedoch auf verschiedenen Stufen oder Größen oder beidem. Die Erfindung einer Version mit anderen Parametern würde jedoch mindestens einen Kleinen Durchbruch und jahrelange Forschung erfordern.
 
 ##### Schutzkreis gegen Dämonen
 R: Berührung, D: Ring, Z: Kreis<br>
@@ -16052,7 +16052,7 @@ In allen anderen Fällen beträgt die Quellenqualität stets vier.
 
 Erfahrungspunkte aus Übung können auf mehrere Fertigkeiten aufgeteilt werden. Wenn die Quellenqualität für verschiedene Fertigkeiten unterschiedlich wäre, richtet sich die Gesamtzahl der gewonnenen Erfahrungspunkte nach der niedrigsten der Quellenqualitäten.
 
-Hermetische Künste können nicht durch einfache Übung gesteigert werden; das Äquivalent hierzu findet sich unter Vis-Studium auf Seite 378.
+Hermetische Künste können nicht durch einfache Übung gesteigert werden; das Äquivalent hierzu findet sich unter Vis-Studium auf [Seite 378](#vis-2).
 
 ### Ausbildung
 
@@ -16106,7 +16106,7 @@ Es gibt zwei Buchtypen: Summae (Singular: Summa) und Tractatus (Singular ebenfal
 
 **TRACTATUS: Quellenqualität**
 
-Die Regeln zur Berechnung der Quellenqualität eines Buches finden sich unter Bücher schreiben auf Seite 379. In den meisten Fällen werden Qualität sowie – bei einer Summa – die Stufe jedoch einfach als Eigenschaften des Buches angegeben.
+Die Regeln zur Berechnung der Quellenqualität eines Buches finden sich unter Bücher schreiben auf [Seite 379](#bücher-1). In den meisten Fällen werden Qualität sowie – bei einer Summa – die Stufe jedoch einfach als Eigenschaften des Buches angegeben.
 
 Bücher können über jede Hermetische Kunst oder jede Fertigkeit – einschließlich übernatürlicher Fertigkeiten und Zaubermeisterschaftsfertigkeiten – verfasst werden. Ein Charakter kann eine übernatürliche Fertigkeit nur dann aus einem Buch erlernen, wenn er in dieser Fertigkeit bereits einen Wert von mindestens eins besitzt.
 
@@ -16120,7 +16120,7 @@ Magi können die Hermetischen Künste aus rohem Vis erlernen. Dies erfordert ein
 
 **QUELLENQUALITÄT DES VIS-STUDIUMS: Stresswürfel + Aurabonus**
 
-Zeigt der Stresswürfel einen Doppel-Patzer, kann die Maga ins Zwielicht geraten (siehe Seite 228). Die Anzahl der Patzerwürfel entspricht der Anzahl der beim Studium eingesetzten Vis-Bauern.
+Zeigt der Stresswürfel einen Doppel-Patzer, kann die Maga ins Zwielicht geraten (siehe [Seite 228](#in-das-zwielicht-geraten)). Die Anzahl der Patzerwürfel entspricht der Anzahl der beim Studium eingesetzten Vis-Bauern.
 
 Das Studium von rohem Vis erfordert kein hermetisches Laboratorium und kann im Prinzip überall stattfinden. Die meisten Magi studieren rohen Vis dennoch in ihrem Labor.
 
@@ -16271,7 +16271,7 @@ Haus Tremere ist begierig darauf, Kopien hervorragender Bücher zu verkaufen ode
 
 ## Übernatürliche Fertigkeiten erlernen
 
-Nur Charaktere mit der Gabe (siehe Seite 63) können übernatürliche Fertigkeiten der Magiesphäre nach diesen Regeln erlernen; der Lehrer benötigt die Gabe hingegen nicht (wenngleich er die übernatürliche Fertigkeit natürlich besitzen muss). Für andere Sphären gelten abweichende Bedingungen, die in den jeweiligen Sphärenquellenbänden beschrieben werden.
+Nur Charaktere mit der Gabe (siehe [Seite 63](#die-gabe)) können übernatürliche Fertigkeiten der Magiesphäre nach diesen Regeln erlernen; der Lehrer benötigt die Gabe hingegen nicht (wenngleich er die übernatürliche Fertigkeit natürlich besitzen muss). Für andere Sphären gelten abweichende Bedingungen, die in den jeweiligen Sphärenquellenbänden beschrieben werden.
 
 Übernatürliche Fertigkeiten lassen sich nur dann unterrichten, wenn ihnen im Spielsystem eine zugehörige Fertigkeit entspricht. So kann Gestaltwandler gelehrt werden, Unalternd hingegen nicht. Die erste Unterweisung in einer übernatürlichen Fertigkeit muss durch Ausbildung oder Unterricht erfolgen, wie zuvor beschrieben. Sobald der Charakter die Fertigkeit beherrscht, kann er sie auf normalem Wege steigern.
 
@@ -16279,7 +16279,7 @@ Um eine übernatürliche Fertigkeit zu erlernen, muss der Schüler im ersten Qua
 
 **QUELLENQUALITÄT FÜR ÜBERNATÜRLICHE FERTIGKEITEN: Normale Quellenqualität – Summe der Werte in übernatürlichen Fertigkeiten**
 
-Hat der Schüler die hermetischen Künste erschlossen (siehe Seite 206), muss er entweder 15 oder die Summe aller seiner Kunstwerte von der Quellenqualität abziehen – je nachdem, welcher Wert höher ist.
+Hat der Schüler die hermetischen Künste erschlossen (siehe [Seite 206](#die-hermetischen-künste)), muss er entweder 15 oder die Summe aller seiner Kunstwerte von der Quellenqualität abziehen – je nachdem, welcher Wert höher ist.
 
 *Beispiel: Ein Charakter besitzt Gestaltwandler 3, Wünschelruten 4 und die Gabe. Er möchte Tierverständnis erlernen. Dazu muss er einen Charakter finden, der bereit ist, ihn trotz seiner Gabe zu unterrichten, und der eine Quellenqualität von mindestens 12 erreichen kann. Hat der Charakter zudem die hermetischen Künste erschlossen, aber noch Werte von 0 in allen Künsten, benötigt er einen Lehrer mit einer Quellenqualität von 27 (15 für die Künste, +3 für Gestaltwandler, +4 für Wünschelruten, +5 für die benötigten Erfahrungspunkte). Das ist praktisch unmöglich.*
 
@@ -16358,7 +16358,7 @@ Normalerweise kann ein Tier nur in Fertigkeiten trainiert werden, in denen es be
 
 ### Abgerichtete Gruppen
 
-Ein Charakter kann gezähmte Tiere im Kampf als abgerichtete Gruppe anführen. Er muss jedes Tier entweder selbst gezähmt oder mindestens ein Quartal mit ihm gearbeitet haben. Der Tierumgang-Wert des Charakters tritt an die Stelle seines Führungs-Werts, um zu bestimmen, wie viele Tiere er gleichzeitig anführen kann (siehe Hindernisse-Kapitel, Seite 396). Die Tiere müssen alle Kampfwerte aufweisen, die innerhalb einer Spanne von 5 Punkten liegen; der anführende Charakter muss hingegen nicht in diesen Bereich fallen – das ist eine Ausnahme von den üblichen Regeln. Liegen die Werte des Charakters außerhalb dieses Bereichs, zählt er bei der Ermittlung der Kampfgesamtwerte der Gruppe nicht als Teil der Gruppe. Je nach Temperament der beteiligten Tiere können Loyalitätstests gegen Schwierigkeitsgrad 6 erforderlich sein, um als Gruppe zu kämpfen.
+Ein Charakter kann gezähmte Tiere im Kampf als abgerichtete Gruppe anführen. Er muss jedes Tier entweder selbst gezähmt oder mindestens ein Quartal mit ihm gearbeitet haben. Der Tierumgang-Wert des Charakters tritt an die Stelle seines Führungs-Werts, um zu bestimmen, wie viele Tiere er gleichzeitig anführen kann (siehe Hindernisse-Kapitel, [Seite 396](#ausgebildete-gruppe)). Die Tiere müssen alle Kampfwerte aufweisen, die innerhalb einer Spanne von 5 Punkten liegen; der anführende Charakter muss hingegen nicht in diesen Bereich fallen – das ist eine Ausnahme von den üblichen Regeln. Liegen die Werte des Charakters außerhalb dieses Bereichs, zählt er bei der Ermittlung der Kampfgesamtwerte der Gruppe nicht als Teil der Gruppe. Je nach Temperament der beteiligten Tiere können Loyalitätstests gegen Schwierigkeitsgrad 6 erforderlich sein, um als Gruppe zu kämpfen.
 
 ### Eine Kreatur kommandieren
 
@@ -16378,7 +16378,7 @@ Erteilen mehrere Charaktere einem Tier widersprüchliche Befehle, gehorcht es vo
 
 ### Tierverständnis
 
-Ein Charakter mit Tierverständnis (Seite 159) kann mit Tieren sprechen, einschließlich mancher magischer Wesen. Er kann mit seiner Tierumgang-Fertigkeit versuchen, jedes beliebige Tier zu überzeugen – gleichgültig, ob es gezähmt ist oder nicht – und es so zur Ausführung einer Aufgabe zu bewegen. Dies führt nicht zu einem gezähmten Tier, sondern lediglich zu einem Tier, das sich entschlossen hat, einem bestimmten Befehl zu folgen. Ist ein Tier gezähmt, kann der Charakter ihm komplexere Befehle erteilen. Das Tier ist dadurch nicht eher geneigt, diese Befehle zu befolgen, doch der Charakter kann das Tier womöglich besser als Kundschafter oder Informanten nutzen. Ein weiterer wichtiger Anwendungsfall des Tierverständnisses ist es, ein Tier, das sich einer gefährlichen Aufgabe verweigert, davon zu überzeugen, dass die Aufgabe gar nicht gefährlich ist.
+Ein Charakter mit Tierverständnis ([Seite 159](#tierverständnis-1)) kann mit Tieren sprechen, einschließlich mancher magischer Wesen. Er kann mit seiner Tierumgang-Fertigkeit versuchen, jedes beliebige Tier zu überzeugen – gleichgültig, ob es gezähmt ist oder nicht – und es so zur Ausführung einer Aufgabe zu bewegen. Dies führt nicht zu einem gezähmten Tier, sondern lediglich zu einem Tier, das sich entschlossen hat, einem bestimmten Befehl zu folgen. Ist ein Tier gezähmt, kann der Charakter ihm komplexere Befehle erteilen. Das Tier ist dadurch nicht eher geneigt, diese Befehle zu befolgen, doch der Charakter kann das Tier womöglich besser als Kundschafter oder Informanten nutzen. Ein weiterer wichtiger Anwendungsfall des Tierverständnisses ist es, ein Tier, das sich einer gefährlichen Aufgabe verweigert, davon zu überzeugen, dass die Aufgabe gar nicht gefährlich ist.
 
 ## Reputation verändern
 
@@ -16568,7 +16568,7 @@ Charaktere beginnen im Winter nach ihrem 35. Geburtstag zu altern. Jedes Jahr mu
 
 Da ein hoher Wurf in der Regel gravierendere Altersfolgen bedeutet, wirken sich sowohl ein hoher Langlebigkeitsritual-Modifikator als auch ein hoher Lebensumstände-Modifikator positiv auf die Lebenserwartung aus.
 
-Ein Langlebigkeitsritual bleibt wirksam, bis der Charakter eine Krise erleidet. Wenn die Krise eintritt, stellt das Ritual sicher, dass der Charakter überlebt, aber seine Kraft ist erschöpft, und das Langlebigkeitsritual selbst muss erneut durchgeführt werden (siehe Seite 261).
+Ein Langlebigkeitsritual bleibt wirksam, bis der Charakter eine Krise erleidet. Wenn die Krise eintritt, stellt das Ritual sicher, dass der Charakter überlebt, aber seine Kraft ist erschöpft, und das Langlebigkeitsritual selbst muss erneut durchgeführt werden (siehe [Seite 261](#langlebigkeitsrituale)).
 
 Ein Charakter unter dem Einfluss eines Langlebigkeitsrituals muss die Tabelle unabhängig von seinem Alter würfeln, behandelt aber alle Würfe von 10 oder mehr als Würfe von 9, bis er das Alter von 35 erreicht. Sein scheinbares Alter kann jünger sein als sein tatsächliches Alter, aber er ist zu diesem Zeitpunkt nicht gefährdet zu altern, tatsächlich früher als andere Charaktere. Nach Ermessen des Spielers und des Spielleiters kann dies auch für Charaktere gelten, die aus anderen Quellen Modifikatoren auf den Alterungswurf erhalten.
 
@@ -16651,7 +16651,7 @@ Kampf ist im Allgemeinen nicht der wichtigste Bestandteil von **Ars Magica**-Ges
 
 ### Kampfwerte
 
-Charaktere verfügen über fünf Kampfwerte: Initiative, Angriff, Verteidigung, Schaden und Schadensabsorption. Verwendet ein Charakter nur eine einzige Waffe, können die Waffenmodifikatoren einfach aus der Waffentabelle (Seite 400–401) abgelesen werden. Führt der Charakter sowohl eine Waffe als auch einen Schild, werden die Modifikatoren von Waffe und Schild addiert, um den endgültigen Modifikator zu erhalten.
+Charaktere verfügen über fünf Kampfwerte: Initiative, Angriff, Verteidigung, Schaden und Schadensabsorption. Verwendet ein Charakter nur eine einzige Waffe, können die Waffenmodifikatoren einfach aus der Waffentabelle ([Seite 400](#nahkampfwaffen-statistiken)–401) abgelesen werden. Führt der Charakter sowohl eine Waffe als auch einen Schild, werden die Modifikatoren von Waffe und Schild addiert, um den endgültigen Modifikator zu erhalten.
 
 **INITIATIVEWERT: Schnelligkeit + Waffen-Initiativemodifikator − Behinderung + Stresswürfel**
 
@@ -16728,7 +16728,7 @@ Beim ersten Initiativewurf erzielt A einen Gesamtwert von 10, B einen von 6, C, 
 >
 > Der Wolf würfelt eine 5 für seinen Angriff, was eine Angriffssumme von 16 ergibt. Ignatio würfelt eine 6 für seine Verteidigung, was eine Verteidigungssumme von 17 ergibt. Er wehrt den Wolf mit seinem Schild ab und bleibt unverletzt.
 >
-> Dann greift Ignatio an und würfelt eine 0. Er muss nun auf einen Patzer prüfen (siehe Seite 227). Der Spielleiter entscheidet, dass ein einziger Patzerwürfel genügt, da keine besonderen Umstände vorliegen, die mehr erfordern würden. Zum Glück für Ignatio würfelt er eine 4 und patzt nicht. Seine Angriffssumme beträgt damit 12, da die 0 beim Stresswurf schlicht als null zählt. Der Wolf würfelt für die Verteidigung und erzielt ebenfalls eine 0. Auch er würfelt einen Patzerwürfel und erzielt eine 1, sodass Polandrus ebenfalls keinen Patzer erleidet. Die Verteidigungssumme des Wolfs beträgt nur 9, also hat Ignatio einen Angriffsvorteil von 3. Das bedeutet, er verursacht seinen Basisschaden von 7 plus den Angriffsvorteil von 3, also 10 Schadenspunkte. Da Polandrus eine Schadensabsorption von +6 hat, kommen 4 Punkte durch. Mit einer Größe von −1 ergibt ein Blick in die Schadenstafel (Seite 404) eine Leichte Wunde. Polandrus erhält nun einen Wundabzug von −1 auf alle Aktionen.
+> Dann greift Ignatio an und würfelt eine 0. Er muss nun auf einen Patzer prüfen (siehe [Seite 227](#patzer)). Der Spielleiter entscheidet, dass ein einziger Patzerwürfel genügt, da keine besonderen Umstände vorliegen, die mehr erfordern würden. Zum Glück für Ignatio würfelt er eine 4 und patzt nicht. Seine Angriffssumme beträgt damit 12, da die 0 beim Stresswurf schlicht als null zählt. Der Wolf würfelt für die Verteidigung und erzielt ebenfalls eine 0. Auch er würfelt einen Patzerwürfel und erzielt eine 1, sodass Polandrus ebenfalls keinen Patzer erleidet. Die Verteidigungssumme des Wolfs beträgt nur 9, also hat Ignatio einen Angriffsvorteil von 3. Das bedeutet, er verursacht seinen Basisschaden von 7 plus den Angriffsvorteil von 3, also 10 Schadenspunkte. Da Polandrus eine Schadensabsorption von +6 hat, kommen 4 Punkte durch. Mit einer Größe von −1 ergibt ein Blick in die Schadenstafel ([Seite 404](#schadenstafel-1)) eine Leichte Wunde. Polandrus erhält nun einen Wundabzug von −1 auf alle Aktionen.
 >
 > In der nächsten Runde greift Polandrus erneut an. Er würfelt eine 6, was ihm — abzüglich des Wundabzugs — nur eine Angriffssumme von 16 ergibt. Ignatio würfelt eine 7, für eine Verteidigungssumme von 18. Wieder in Sicherheit.
 >
@@ -16828,7 +16828,7 @@ Durch den Einsatz einer Erschöpfungsstufe kann ein Charakter seiner Kampffertig
 
 #### Magie
 
-Magi können im Kampf Magie einsetzen. Sie können Zauber an ihrer Stelle in der Initiativereihenfolge wirken; da Zauber keinen Initiativemodifikator haben, basiert dies ausschließlich auf ihrer Schnelligkeit. Ein Magus, der einen Zauber schnellzaubert (siehe Seite 217), handelt unmittelbar als Reaktion auf eine andere Aktion und wirkt daher nicht an einem bestimmten Initiativepunkt.
+Magi können im Kampf Magie einsetzen. Sie können Zauber an ihrer Stelle in der Initiativereihenfolge wirken; da Zauber keinen Initiativemodifikator haben, basiert dies ausschließlich auf ihrer Schnelligkeit. Ein Magus, der einen Zauber schnellzaubert (siehe [Seite 217](#schnellzaubern)), handelt unmittelbar als Reaktion auf eine andere Aktion und wirkt daher nicht an einem bestimmten Initiativepunkt.
 
 Das Wirken eines Zaubers dauert etwa eine Kampfrunde, es sei denn, er wird schnellgezaubert. Ein Magus kann daher in einer einzigen Runde nicht mehr als einen normalen Zauber wirken, aber zusätzlich einen Schnellzauber einsetzen oder ausschließlich Schnellzauber wirken. Ein sehr schneller Magus ist möglicherweise in der Lage, mehr als einen Schnellzauber zu wirken, was jedoch die meisten Magi überfordert.
 
@@ -16993,7 +16993,7 @@ Teilrüstungen schützen lediglich die lebenswichtigen Körperzonen und bestehen
 **Dfn:** Der Waffenverteidigungs-Modifikator.<br>
 **Dam:** Der Waffenschadens-Modifikator.<br>
 **Stä:** Der Mindeststärkewert, der zum Einsatz der Waffe erforderlich ist. Die Mindestanforderungen für Waffe und Schild müssen jeweils separat erfüllt werden.<br>
-**Last:** Der Beitrag der Waffe zur Kampflast des Charakters (Seite 403).<br>
+**Last:** Der Beitrag der Waffe zur Kampflast des Charakters ([Seite 403](#belastung)).<br>
 **Kosten:** Ein allgemeiner Hinweis auf den Preis der Waffe. Teurere Waffen sind besser.
 
 ### Fernkampfwaffen-Statistiken
@@ -17017,7 +17017,7 @@ Teilrüstungen schützen lediglich die lebenswichtigen Körperzonen und bestehen
 **Dam:** Der Waffenschadens-Modifikator.<br>
 **Reichweite:** Die Reichweitenstufe der Waffe in Schritten.<br>
 **Stä:** Der Mindeststärkewert, der zum Einsatz der Waffe erforderlich ist. Die Mindestanforderungen für Waffe und Schild müssen jeweils separat erfüllt werden.<br>
-**Last:** Der Beitrag der Waffe zur Kampflast des Charakters (Seite 403). Bei Bögen und Schleuder umfasst dieser Wert auch das Gewicht der zugehörigen Munition.<br>
+**Last:** Der Beitrag der Waffe zur Kampflast des Charakters ([Seite 403](#belastung)). Bei Bögen und Schleuder umfasst dieser Wert auch das Gewicht der zugehörigen Munition.<br>
 **Kosten:** Ein allgemeiner Hinweis auf den Preis der Waffe. Teurere Waffen sind besser.
 
 ### Waffenbeschreibungen
@@ -17100,9 +17100,9 @@ Teilrüstungen schützen lediglich die lebenswichtigen Körperzonen und bestehen
 
 ## Belastung
 
-Charaktere, die viel Ausrüstung mit sich tragen, sind in vielen ihrer Handlungen eingeschränkt. Dies wird dadurch abgebildet, dass der Belastungswert des Charakters von den entsprechenden Würfen abgezogen wird. Die meisten körperlichen Aktivitäten werden dadurch beeinträchtigt, ebenso das Zaubern (siehe Seite 213). Im Kampf hingegen werden Angriff und Verteidigung nicht abgezogen, sofern die Belastung hauptsächlich durch Waffen und Rüstung entsteht.
+Charaktere, die viel Ausrüstung mit sich tragen, sind in vielen ihrer Handlungen eingeschränkt. Dies wird dadurch abgebildet, dass der Belastungswert des Charakters von den entsprechenden Würfen abgezogen wird. Die meisten körperlichen Aktivitäten werden dadurch beeinträchtigt, ebenso das Zaubern (siehe [Seite 213](#zauber-wirken)). Im Kampf hingegen werden Angriff und Verteidigung nicht abgezogen, sofern die Belastung hauptsächlich durch Waffen und Rüstung entsteht.
 
-Die Belastung wird in zwei Schritten berechnet. Schwere oder sperrige Gegenstände haben einen Lastwert (aufgeführt in den Rüstungs- und Waffentabellen auf den Seiten 400 und 401). Addiere die Gesamtlast aller getragenen Gegenstände und ermittle daraus den Tragewert des Charakters. Der Tragewert steigt, sobald die Last die Schwelle des nächsten Tragewerts erreicht — ein Charakter mit einer Last von 9 hat daher einen Tragewert von 3.
+Die Belastung wird in zwei Schritten berechnet. Schwere oder sperrige Gegenstände haben einen Lastwert (aufgeführt in den Rüstungs- und Waffentabellen auf den [Seiten 400](#rüstungstabelle) und 401). Addiere die Gesamtlast aller getragenen Gegenstände und ermittle daraus den Tragewert des Charakters. Der Tragewert steigt, sobald die Last die Schwelle des nächsten Tragewerts erreicht — ein Charakter mit einer Last von 9 hat daher einen Tragewert von 3.
 
 | Gesamtlast | Tragewert |
 | ---------- | --------- |
@@ -17124,11 +17124,11 @@ Hat der Charakter einen Stärke-Wert von null oder weniger, entspricht sein Bela
 
 Charaktere, die sich im Kampf oder bei anderen anstrengenden Tätigkeiten verausgaben, können müde und schließlich erschöpft werden. Dies wird durch Erschöpfungsstufen abgebildet. Die meisten Charaktere haben sechs Erschöpfungsstufen, und jede trägt einen eigenen Namen. Von der wenigsten zur stärksten Erschöpfung geordnet lauten sie: Ausgeruht, Außer Atem, Erschöpft, Müde, Betäubt und Bewusstlos. Erschöpfungsstufen können als Kurzzeit- oder Langzeiterschöpfung verloren gehen, doch beide Arten wirken auf denselben Satz von Stufen. Ein Charakter, der eine Kurzzeiterschöpfungsstufe und zwei Langzeiterschöpfungsstufen verloren hat, ist demnach Müde und erleidet einen Abzug von –3 auf alle Aktionen.
 
-Jede Erschöpfungsstufe ab Erschöpft hat einen Abzug (außer Bewusstlos, die einen eigenen Effekt darstellt). Erschöpfte Charaktere müssen den jeweiligen Abzug auf alle Würfe anwenden, einschließlich weiterer Erschöpfungswürfe, jedoch nicht auf Schadensabsorptionswürfe. Diese Abzüge stellen die Auswirkungen zunehmender Erschöpfung dar und kumulieren sich mit den Abzügen aus Wunden (Seite 404). Der Abzug für Erschöpft beträgt –1, für Müde –3 und für Betäubt –5.
+Jede Erschöpfungsstufe ab Erschöpft hat einen Abzug (außer Bewusstlos, die einen eigenen Effekt darstellt). Erschöpfte Charaktere müssen den jeweiligen Abzug auf alle Würfe anwenden, einschließlich weiterer Erschöpfungswürfe, jedoch nicht auf Schadensabsorptionswürfe. Diese Abzüge stellen die Auswirkungen zunehmender Erschöpfung dar und kumulieren sich mit den Abzügen aus Wunden ([Seite 404](#wundtabelle)). Der Abzug für Erschöpft beträgt –1, für Müde –3 und für Betäubt –5.
 
 ### Kurzzeiterschöpfung
 
-Charaktere sind in der Regel Ausgeruht, bis sie eine anstrengende Aktion ausführen — etwa in einen Kampf verwickelt werden, Spontane Zauber wirken oder sprinten. Kurze anstrengende Aktionen erfordern einen Erschöpfungswurf: Würfle Ausdauer − Belastung auf einem Stresswürfel gegen einen Schwierigkeitsgrad von 6. Bei Misserfolg verliert der Charakter eine Kurzzeiterschöpfungsstufe. Ein Patzer kostet zwei Stufen. Für Kampf und Magie gelten abweichende Regeln zum Erschöpfungsverlust; diese ersetzen die hier beschriebenen. Siehe Seiten 213, 231 und 397.
+Charaktere sind in der Regel Ausgeruht, bis sie eine anstrengende Aktion ausführen — etwa in einen Kampf verwickelt werden, Spontane Zauber wirken oder sprinten. Kurze anstrengende Aktionen erfordern einen Erschöpfungswurf: Würfle Ausdauer − Belastung auf einem Stresswürfel gegen einen Schwierigkeitsgrad von 6. Bei Misserfolg verliert der Charakter eine Kurzzeiterschöpfungsstufe. Ein Patzer kostet zwei Stufen. Für Kampf und Magie gelten abweichende Regeln zum Erschöpfungsverlust; diese ersetzen die hier beschriebenen. Siehe [Seiten 213, 231](#zauber-wirken) und 397.
 
 #### Erholung von Kurzzeiterschöpfung
 
@@ -17154,11 +17154,11 @@ Hat ein Charakter sowohl Lang- als auch Kurzzeiterschöpfungsstufen verloren, ge
 
 ## Wunden
 
-Wenn Charaktere Schaden aus beliebiger Quelle erleiden, tragen sie Wunden davon. Die Schwere der Wunde hängt davon ab, um wie viel die Schadenssumme die Schadensabsorption des Charakters übersteigt. (Wie diese Werte im Kampf berechnet werden, ist auf Seite 394 beschrieben; für andere Situationen siehe Seite 407.)
+Wenn Charaktere Schaden aus beliebiger Quelle erleiden, tragen sie Wunden davon. Die Schwere der Wunde hängt davon ab, um wie viel die Schadenssumme die Schadensabsorption des Charakters übersteigt. (Wie diese Werte im Kampf berechnet werden, ist auf [Seite 394](#kampfwerte) beschrieben; für andere Situationen siehe [Seite 407](#verletzungen).)
 
 Ein Charakter kann beliebig viele Wunden jedes Typs in jeder Kombination tragen. Er erleidet einen Abzug auf alle Aktionen (Würfe und Gesamtwerte) in Höhe der Summe aller Wundabzüge, und die Tätigkeiten, die er gefahrlos ausführen kann, sind eingeschränkt (siehe Tätigkeiten bei Verwundung weiter unten). Schadensabsorption ist keine Aktion und unterliegt daher nicht dem Wundabzug.
 
-Ein Beispiel: Ein Grog hat eine Schwere Wunde erlitten. Sein gesamter Wundabzug beträgt –5. Ein anderer Grog hat zwei Leichte Wunden und eine Mittelschwere Wunde erlitten. Auch sein Wundabzug beträgt –5, doch seine Wunden heilen schneller (siehe Seite 405).
+Ein Beispiel: Ein Grog hat eine Schwere Wunde erlitten. Sein gesamter Wundabzug beträgt –5. Ein anderer Grog hat zwei Leichte Wunden und eine Mittelschwere Wunde erlitten. Auch sein Wundabzug beträgt –5, doch seine Wunden heilen schneller (siehe [Seite 405](#wunden-heilen)).
 
 Es gibt keine Obergrenze für den Wundabzug eines Charakters. Nicht-tödliche Wunden können einen Charakter auch bei noch so großer Anzahl nicht unmittelbar töten. Allerdings können weniger schwere Wunden sich verschlimmern und lähmend werden — und ein gelähmter Charakter kann dennoch sterben (siehe unten).
 
@@ -17233,9 +17233,9 @@ Weitere Einzelheiten zur Medizin finden sich in *Art and Academe*, Kapitel 4.
 
 #### Heilzauber
 
-Bestimmte Creo Corpus-Rituale können Wunden sofort und ohne Würfelwurf heilen (siehe *Die heilende Berührung des Chirurgen* auf Seite 332).
+Bestimmte Creo Corpus-Rituale können Wunden sofort und ohne Würfelwurf heilen (siehe *Die heilende Berührung des Chirurgen* auf [Seite 332](#des-chirurgen-heilende-berührung)).
 
-Andere Creo Corpus-Zauber gewähren einen Bonus auf den Genesungswurf (siehe *Reinigung der eiternden Wunde* auf Seite 332). Dieser Bonus addiert sich zu einem etwaigen Bonus durch medizinische Behandlung. Diese Zauber müssen für die gesamte Dauer des Heilungszeitraums wirksam sein — entweder weil ihre Dauer den Heilungszeitraum überschreitet oder weil sie erneut gewirkt werden. Sie können Verzerrung verursachen (siehe Seite 389).
+Andere Creo Corpus-Zauber gewähren einen Bonus auf den Genesungswurf (siehe *Reinigung der eiternden Wunde* auf [Seite 332](#läuterung-der-eiternden-wunden)). Dieser Bonus addiert sich zu einem etwaigen Bonus durch medizinische Behandlung. Diese Zauber müssen für die gesamte Dauer des Heilungszeitraums wirksam sein — entweder weil ihre Dauer den Heilungszeitraum überschreitet oder weil sie erneut gewirkt werden. Sie können Verzerrung verursachen (siehe [Seite 389](#verzerrung-2)).
 
 ## Weitere Gefahren
 
@@ -17251,7 +17251,7 @@ Die meisten Krankheiten im Mythischen Europa entstehen durch ein Ungleichgewicht
 
 Einige Krankheiten werden durch Krankheitsgeister verursacht, oft von untergeordneten Dämonen. Da es sich bei diesen Krankheiten um magische Angriffe handelt, werden sie durch Magieresistenz abgewehrt, und ihre genauen Auswirkungen hängen vom jeweiligen Geist ab. Magi sind jedoch weiterhin anfällig für weltliche Krankheiten.
 
-Spontane Krankheiten werden durch die Alterungsregeln abgedeckt (siehe Seite 391). Krankheiten, die durch eine äußere Ursache entstehen, fallen unter die Schwächungsregeln (siehe oben).
+Spontane Krankheiten werden durch die Alterungsregeln abgedeckt (siehe [Seite 391](#altern)). Krankheiten, die durch eine äußere Ursache entstehen, fallen unter die Schwächungsregeln (siehe oben).
 
 Da den meisten Menschen kein Zugang zu ärztlicher Versorgung bleibt, wird eine Krankheit mit einem Schwierigkeitsgrad von sechs ungefähr die Hälfte der Bevölkerung befallen, während ein Schwierigkeitsgrad von zwölf bedeutet, dass die Krankheit nahezu jeden trifft. Potenziell tödliche Krankheiten verursachen Schwere oder Lähmende Wunden. Krankheiten sollten beim ersten Auftreten keine tödlichen Wunden zufügen.
 
@@ -17311,7 +17311,7 @@ Diese Regeln werden auch zur Berechnung des durch Zauber verursachten Schadens v
 
 Die Schadensmodifikatoren für Hitze und Ätzung hängen davon ab, wie viel des Charakters bedeckt ist und wie intensiv die Quelle ist. Berührt die Quelle nur einen kleinen Teil des Charakters, etwa eine Hand oder einen Fuß, verursacht sie ihren Grundschaden. Bedeckt sie eine gesamte Gliedmaße, wird der Schadensbonus verdoppelt. Befindet sich die Hälfte des Körpers des Charakters in der Quelle, wird der Schadensbonus verdreifacht; bei vollständiger Eintauchung vervierfacht er sich. (Zu beachten ist, dass der Zauberschaden bereits den Modifikator für das Ausmaß der Exposition einschließt.) Diese Multiplikatoren werden angewandt, bevor der Stresswürfel hinzuaddiert wird.
 
-Der Schaden wird einmal alle sechs Sekunden zugefügt (einmal pro Kampfrunde), und die dabei entstehenden Wunden sind — wie im Kampf — voneinander unabhängig (siehe Seite 404 für Einzelheiten). Derartige Schadensquellen neigen außerdem dazu, Gegenstände zu beschädigen oder zu zerstören, nach Ermessen des Spielleiters.
+Der Schaden wird einmal alle sechs Sekunden zugefügt (einmal pro Kampfrunde), und die dabei entstehenden Wunden sind — wie im Kampf — voneinander unabhängig (siehe [Seite 404](#wunden) für Einzelheiten). Derartige Schadensquellen neigen außerdem dazu, Gegenstände zu beschädigen oder zu zerstören, nach Ermessen des Spielleiters.
 
 #### Hitze- und Ätzungstabelle
 
@@ -17387,7 +17387,7 @@ Jene Theologen, die sich ernsthaft mit dem Thema beschäftigen, neigen zu einer 
 
 Die Sphären existieren und wirken auf verschiedene Arten. Jede hat Teile der Welt, in denen ihre Kräfte am stärksten sind. Solche Gebiete besitzen eine Aura, deren Stärke auf einer Skala von 1 bis 10 bewertet werden kann. Die meisten Auren liegen zwischen 1 und 5; sehr intensive Auren können eine Stärke von 6 bis 10 erreichen. Eine Aurastärke von 10 bezeichnet häufig ein Tor zu der Sphäre, der die Aura zugeordnet ist. Die Aurastärke eines bestimmten Gebiets wirkt in der Regel als Modifikator auf übernatürliche Aktivitäten, die dort stattfinden. Viele Gebiete der Welt haben keine Sphärenzugehörigkeit und daher keine Aura. Diese Orte sind weltlich.
 
-Innerhalb eines übernatürlichen Gebiets ist die Aurastärke normalerweise einheitlich, doch gelegentlich ist die Energie ungleichmäßig konzentriert, was zu unterschiedlichen Aurastärken führt. Manchmal entstehen dadurch Regiones – Gebiete mit zunehmend stärkeren Auren, die denselben physischen Ort teilen (siehe „Regiones" auf Seite 420).
+Innerhalb eines übernatürlichen Gebiets ist die Aurastärke normalerweise einheitlich, doch gelegentlich ist die Energie ungleichmäßig konzentriert, was zu unterschiedlichen Aurastärken führt. Manchmal entstehen dadurch Regiones – Gebiete mit zunehmend stärkeren Auren, die denselben physischen Ort teilen (siehe „Regiones" auf [Seite 420](#regiones)).
 
 Zwei Sphären können Einfluss auf denselben Ort haben. Wenn dies der Fall ist, kann jeweils nur die stärkere die Oberhand behalten. Eine Verschiebung im Kräfteverhältnis der beiden Sphären kann dazu führen, dass ein Gebiet vom Einfluss einer Sphäre zur anderen wechselt. So könnte ein Dorf beispielsweise auf dem Gelände eines alten Feenhügels errichtet worden sein. Normalerweise hat das Gebiet eine Dominium-Aura, weil die Dorfbewohner Anhänger der Kirche sind. Nachts jedoch, wenn die Macht des Dominiums nachlässt, oder an den Tagen alter heidnischer Festtage gewinnt die Feenaura an Kraft und übernimmt die Herrschaft. Manchmal berührt eine von der Umgebung verschiedene Macht nur einen kleinen Bereich – etwa den Keller einer Taverne.
 
@@ -17420,7 +17420,7 @@ Das Göttliche wird durch Auren anderer Sphären nicht behindert. Göttliche Kr�
 >
 > MAGIERESISTENZ: Die Magieresistenz wird durch den Auramodifikator verändert. Dies umfasst die hermetische Magieresistenz durch die Parma Magica und die Formen sowie die Resistenz von Kreaturen mit übernatürlicher Macht. Ein Magus in einer Magieaura von 4 erhält also einen Bonus von +4 auf seine Magieresistenz, während ein Dämon einen Malus von –4 erleidet.
 >
-> PENETRATION: Bei Magi und Charakteren mit mystischen Fähigkeiten modifiziert die Aura den Würfelwurf zur Anwendung der Fähigkeit, was bedeutet, dass auch die Penetration modifiziert wird. Der Auramodifikator wird dabei nicht doppelt auf die Penetration angewendet. Ein Magus in einer Göttlichen Aura von 2 erleidet also einen Malus von –6 auf seinen Zauberwert. Dadurch verringert sich automatisch seine Penetration, da diese durch Abzug der Zauberstufe vom Zauberwert berechnet wird. Der Auramodifikator wird nicht erneut vom Penetrationswert abgezogen. Bei übernatürlichen Kreaturen gibt es keinen Würfelwurf zur Anwendung der Fähigkeit (siehe Seite 426), weshalb der Auramodifikator direkt auf die Penetration angewendet wird.
+> PENETRATION: Bei Magi und Charakteren mit mystischen Fähigkeiten modifiziert die Aura den Würfelwurf zur Anwendung der Fähigkeit, was bedeutet, dass auch die Penetration modifiziert wird. Der Auramodifikator wird dabei nicht doppelt auf die Penetration angewendet. Ein Magus in einer Göttlichen Aura von 2 erleidet also einen Malus von –6 auf seinen Zauberwert. Dadurch verringert sich automatisch seine Penetration, da diese durch Abzug der Zauberstufe vom Zauberwert berechnet wird. Der Auramodifikator wird nicht erneut vom Penetrationswert abgezogen. Bei übernatürlichen Kreaturen gibt es keinen Würfelwurf zur Anwendung der Fähigkeit (siehe [Seite 426](#macht-der-kreatur)), weshalb der Auramodifikator direkt auf die Penetration angewendet wird.
 
 ## Kreaturen einer Sphäre
 
@@ -17442,7 +17442,7 @@ Charaktere mit übernatürlichen Fähigkeiten jenseits der hermetischen Magie ve
 
 **PENETRATION DES CHARAKTERS: Effektwurf – Schwierigkeitsgrad + Penetrationsbonus + Auramodifikator**
 
-Der Penetrationsbonus wird auf die gleiche Weise berechnet wie bei hermetischen Magi (siehe Penetration, Seite 215). Kreaturen und Charaktere ohne die Fertigkeit Penetration haben daher einen Penetrationsbonus von null.
+Der Penetrationsbonus wird auf die gleiche Weise berechnet wie bei hermetischen Magi (siehe Penetration, [Seite 215](#penetrationssumme)). Kreaturen und Charaktere ohne die Fertigkeit Penetration haben daher einen Penetrationsbonus von null.
 
 ## Die Magiesphäre
 
@@ -17578,7 +17578,7 @@ Ungeachtet aller Meinungen lässt sich nicht leugnen, dass die Göttliche Sphär
 
 In seiner besten Form erlaubt das Dominium der menschlichen Seele, ihre tiefste Schönheit zu entfalten. In seiner schlimmsten Form ist die Kirche eine repressive Kraft, die freies Denken unterdrückt. So ergibt es sich, dass dieselbe Kirche, die die Kreuzzüge vorantreibt, gleichzeitig die wunderbarste Musik, die bezauberndste Kunst und die erhabenste Philosophie hervorbringt.
 
-Die Macht der Kirche und die Grenzen, die sie dem Orden des Hermes auferlegt, veranlassen manche Magi dazu, das Göttliche zu verachten. Einige bevorzugen heidnische Religionen, die auf Feen- oder Magiekraft gründen, während andere einfach so wenig wie möglich mit Religion zu tun haben wollen. Dennoch sind viele Magi Christen, mit einer Minderheit von Juden und einer beachtlichen Zahl von Muslimen in jenen Tribunalen, die sich über islamische Länder erstrecken. Einige Magi besitzen sogar Wahren Glauben (siehe Seite 113), der ihrer Magie offenbar keinen Abbruch tut.
+Die Macht der Kirche und die Grenzen, die sie dem Orden des Hermes auferlegt, veranlassen manche Magi dazu, das Göttliche zu verachten. Einige bevorzugen heidnische Religionen, die auf Feen- oder Magiekraft gründen, während andere einfach so wenig wie möglich mit Religion zu tun haben wollen. Dennoch sind viele Magi Christen, mit einer Minderheit von Juden und einer beachtlichen Zahl von Muslimen in jenen Tribunalen, die sich über islamische Länder erstrecken. Einige Magi besitzen sogar Wahren Glauben (siehe [Seite 113](#wahrer-glaube)), der ihrer Magie offenbar keinen Abbruch tut.
 
 Weitere Einzelheiten zu den übernatürlichen Aspekten des Göttlichen finden sich in *Realms of Power: The Divine Revised Edition*, zusammen mit Informationen über die drei bedeutendsten göttlichen Religionen im Mythischen Europa: Christentum, Islam und Judentum.
 
@@ -17632,7 +17632,7 @@ Darüber hinaus besitzen manche Reliquien spezifische Kräfte. Bei Reliquien von
 
 ### Wunder
 
-Wunder sind das direkte Eingreifen Gottes in die Welt. Als solche können sie alles bewirken, können nicht scheitern und können von keiner anderen Macht abgewehrt werden. Eine ausführlichere Betrachtung ihrer Rolle im Spielhintergrund findet sich im Kapitel über das Mythische Europa, auf Seite 505.
+Wunder sind das direkte Eingreifen Gottes in die Welt. Als solche können sie alles bewirken, können nicht scheitern und können von keiner anderen Macht abgewehrt werden. Eine ausführlichere Betrachtung ihrer Rolle im Spielhintergrund findet sich im Kapitel über das Mythische Europa, auf [Seite 505](#wunder-1).
 
 > ### Magieresistenz für Kirchenwürdenträger und Herrscher
 >
@@ -17707,7 +17707,7 @@ Hermetische Magi würden nur zu gerne in der Lage sein, Regiones nach Belieben z
 
 ## Vis-Quellen
 
-Rohes Vis (siehe Seite 212) lässt sich häufig in übernatürlichen Auras finden. Manchmal findet man es in den Körpern von Wesen mit einem Machtwert, manchmal in Pflanzen, Gestein oder sogar im Wind. Oft wird das gesammelte Vis nicht von Natur aus wieder erneuert. Gelegentlich jedoch lässt sich einer bestimmten Stätte Jahr für Jahr eine bestimmte Anzahl an Bauern Vis entnehmen. Solche Stätten nennt man Vis-Quellen, und sie zählen zu den wertvollsten Gütern eines Konvents.
+Rohes Vis (siehe [Seite 212](#rohes-vis)) lässt sich häufig in übernatürlichen Auras finden. Manchmal findet man es in den Körpern von Wesen mit einem Machtwert, manchmal in Pflanzen, Gestein oder sogar im Wind. Oft wird das gesammelte Vis nicht von Natur aus wieder erneuert. Gelegentlich jedoch lässt sich einer bestimmten Stätte Jahr für Jahr eine bestimmte Anzahl an Bauern Vis entnehmen. Solche Stätten nennt man Vis-Quellen, und sie zählen zu den wertvollsten Gütern eines Konvents.
 
 Eine Vis-Quelle kann Vis jeder beliebigen Kunst erzeugen, wobei eine einzelne Quelle gewöhnlich nur eine einzige Art von Vis liefert. Vis-Quellen können auch jede Menge Vis produzieren, obwohl Quellen mit mehr als sechs Bauern pro Jahr selten sind. Manche Vis-Quellen liefern jedes Jahr eine unterschiedliche Anzahl von Bauern, in der Regel irgendwo zwischen einem und zehn.
 
@@ -17776,7 +17776,7 @@ Die Penetration der Kräfte einer Kreatur hängt von deren Machtwert und von der
 
 **PENETRATION DER KREATURENKRAFT: Machtwert – (5 × Machtpunktkosten der Kraft) + Penetrationsbonus**
 
-Der Penetrationsbonus wird genauso berechnet wie bei hermetischen Magi (siehe Seite 219). Hat die Kreatur die Fertigkeit Penetration nicht, beträgt er null.
+Der Penetrationsbonus wird genauso berechnet wie bei hermetischen Magi (siehe [Seite 219](#penetration-1)). Hat die Kreatur die Fertigkeit Penetration nicht, beträgt er null.
 
 Manche Kräfte von Kreaturen können aufgelöst werden, wenn sie anhaltende Wirkungen haben. Ihre effektive Stufe entspricht dem Machtwert der Kreatur.
 
@@ -17792,15 +17792,15 @@ Das Format für eine Kreatur ähnelt stark dem Format eines Charakters und verwe
 
 **Größe:** Die Größe der Kreatur. Größe 0 entspricht dem gleichen Volumen – und damit in der Regel ungefähr der gleichen Masse – wie ein erwachsener Mensch. Eine Veränderung von drei Größenpunkten entspricht in etwa einer Verzehnfachung der Größe.
 
-**Alter:** Das tatsächliche Alter der Kreatur, mit dem scheinbaren Alter in Klammern. (Siehe Langzeitereignisse, Seite 391, für die Alterungsregeln und das scheinbare Alter.) Für Kreaturen ist dies oft nicht relevant.
+**Alter:** Das tatsächliche Alter der Kreatur, mit dem scheinbaren Alter in Klammern. (Siehe Langzeitereignisse, [Seite 391](#altern), für die Alterungsregeln und das scheinbare Alter.) Für Kreaturen ist dies oft nicht relevant.
 
-**Gebrechlichkeit:** Die Anzahl der Gebrechlichkeitspunkte der Kreatur. Diese werden durch Alterung erworben und auf Seite 392 beschrieben. Für Kreaturen ist dies oft nicht relevant.
+**Gebrechlichkeit:** Die Anzahl der Gebrechlichkeitspunkte der Kreatur. Diese werden durch Alterung erworben und auf [Seite 392](#altern) beschrieben. Für Kreaturen ist dies oft nicht relevant.
 
-**Verzerrungswert:** Der Verzerrungswert der Kreatur, mit der Anzahl überzähliger Verzerrungspunkte in Klammern. Weitere Einzelheiten finden sich unter Verzerrung auf Seite 389. Kreaturen mit Macht haben keinen Verzerrungswert, da sie bereits Teil einer Sphäre sind; gewöhnliche Kreaturen hingegen können einen haben.
+**Verzerrungswert:** Der Verzerrungswert der Kreatur, mit der Anzahl überzähliger Verzerrungspunkte in Klammern. Weitere Einzelheiten finden sich unter Verzerrung auf [Seite 389](#verzerrung-2). Kreaturen mit Macht haben keinen Verzerrungswert, da sie bereits Teil einer Sphäre sind; gewöhnliche Kreaturen hingegen können einen haben.
 
 **Selbstvertrauenswert:** Der Selbstvertrauenswert der Kreatur, mit der Anzahl der Selbstvertrauenspunkte in Klammern. Bedeutende Kreaturen haben genau wie bedeutende Charaktere Selbstvertrauen.
 
-**Tugenden und Fehler:** Alle Tugenden und Fehler der Kreatur, sofern vorhanden. Diese sind alle im Kapitel Tugenden und Fehler ab Seite 61 beschrieben. Hat die Kreatur einen sozialen Status, wird dieser zuerst aufgeführt. Ansonsten beginnt die Liste mit den Großen Tugenden in alphabetischer Reihenfolge, gefolgt von den Kleinen Tugenden (alphabetisch), den Großen Fehlern (alphabetisch) und den Kleinen Fehlern (ebenfalls alphabetisch). Einige wenige Kreaturen besitzen die Gabe; diese erscheint dann, wie üblich, an erster Stelle. Nur Kreaturen mit Magischer Macht können die Gabe besitzen, da diese Fähigkeit eng mit der Magiesphäre verknüpft ist.
+**Tugenden und Fehler:** Alle Tugenden und Fehler der Kreatur, sofern vorhanden. Diese sind alle im Kapitel Tugenden und Fehler ab [Seite 61](#kapitel-4-tugenden-und-fehler) beschrieben. Hat die Kreatur einen sozialen Status, wird dieser zuerst aufgeführt. Ansonsten beginnt die Liste mit den Großen Tugenden in alphabetischer Reihenfolge, gefolgt von den Kleinen Tugenden (alphabetisch), den Großen Fehlern (alphabetisch) und den Kleinen Fehlern (ebenfalls alphabetisch). Einige wenige Kreaturen besitzen die Gabe; diese erscheint dann, wie üblich, an erster Stelle. Nur Kreaturen mit Magischer Macht können die Gabe besitzen, da diese Fähigkeit eng mit der Magiesphäre verknüpft ist.
 
 **Persönlichkeitseigenschaften:** Die Persönlichkeitseigenschaften der Kreatur und ihre Werte.
 
@@ -17810,7 +17810,7 @@ Das Format für eine Kreatur ähnelt stark dem Format eines Charakters und verwe
 
 **Schadensabsorption:** Der Schadensabsorptionswert der Kreatur.
 
-**Erschöpfungsstufen:** Eine Auflistung der Erschöpfungsstufen der Kreatur und ihrer Abzüge, die anzeigen, wie erschöpft die Kreatur ist. Die Angabe 0/0 bedeutet, dass die Kreatur zwei Erschöpfungsstufen hat, die keinen Abzug verursachen; –1/–1/–1 bedeutet drei Erschöpfungsstufen mit einem Abzug von –1. Der Erschöpfungsabzug entspricht stets dem Abzug der zuletzt erschöpften verbleibenden Stufe: Eine Kreatur mit drei –1-Erschöpfungsstufen hat einen Erschöpfungsabzug von –1, sobald sie ihre letzte 0-Erschöpfungsstufe verliert, bis sie auch die dritte –1-Erschöpfungsstufe verliert. Erschöpfung wird auf Seite 403 beschrieben. Nicht alle Kreaturen können ermüden.
+**Erschöpfungsstufen:** Eine Auflistung der Erschöpfungsstufen der Kreatur und ihrer Abzüge, die anzeigen, wie erschöpft die Kreatur ist. Die Angabe 0/0 bedeutet, dass die Kreatur zwei Erschöpfungsstufen hat, die keinen Abzug verursachen; –1/–1/–1 bedeutet drei Erschöpfungsstufen mit einem Abzug von –1. Der Erschöpfungsabzug entspricht stets dem Abzug der zuletzt erschöpften verbleibenden Stufe: Eine Kreatur mit drei –1-Erschöpfungsstufen hat einen Erschöpfungsabzug von –1, sobald sie ihre letzte 0-Erschöpfungsstufe verliert, bis sie auch die dritte –1-Erschöpfungsstufe verliert. Erschöpfung wird auf [Seite 403](#erschöpfung) beschrieben. Nicht alle Kreaturen können ermüden.
 
 **Wundabzüge:** Zeigt die Abzüge für Wunden unterschiedlicher Schwere; in Klammern steht die Schadenspunkteanzahl, die nötig ist, um eine Wunde dieser Schwere zu verursachen. Nicht alle Kreaturen können verwundet werden.
 
@@ -17818,7 +17818,7 @@ Das Format für eine Kreatur ähnelt stark dem Format eines Charakters und verwe
 
 **Ausrüstung:** Die Ausrüstung der Kreatur.
 
-**Behinderung:** Die Behinderung der Kreatur, mit ihrer Last in Klammern. Die Regeln zur Behinderung finden sich auf Seite 403.
+**Behinderung:** Die Behinderung der Kreatur, mit ihrer Last in Klammern. Die Regeln zur Behinderung finden sich auf [Seite 403](#belastung).
 
 **Kräfte:** Die Kräfte der Kreatur im Format Kraftname, X Punkte, Init Y, Form: Beschreibung. (Siehe vorherige Seite.)
 
@@ -17911,7 +17911,7 @@ Wundabzüge: –1 (1), –3 (2), –5 (3), Kampfunfähig (4), Tot (5+)
 Fertigkeiten: Aufmerksamkeit 2 (Beute), Raufen 2 (Reißzähne), Jagen 4 (Nagetiere), Schleichen 4 (Beute anschleichen), Überleben 3 (Graslandschaften)
 
 Kräfte:
-- Giftbiss: Wenn die Kreuzotter angreift, vergleiche ihren Angriffsvorteil mit dem Rüstungsschutz des Opfers (nicht mit seiner Schadensabsorption). Liegt der Vorteil der Kreuzotter höher, leidet das Opfer unter den Wirkungen des Kreuzotterngifts, wie in der Gifttabelle auf Seite 406 beschrieben – unabhängig davon, ob der Biss tatsächlich eine Wunde verursacht. Der Spielleiter kann den erforderlichen Angriffsvorteil bei besonderen Umständen anpassen: Hohe Stiefel könnten beispielsweise einen effektiven Schutzwert von +3 gegen diesen besonderen Angriff bieten, auch wenn sie gegen normale Angriffe keinen Schutz gewähren.
+- Giftbiss: Wenn die Kreuzotter angreift, vergleiche ihren Angriffsvorteil mit dem Rüstungsschutz des Opfers (nicht mit seiner Schadensabsorption). Liegt der Vorteil der Kreuzotter höher, leidet das Opfer unter den Wirkungen des Kreuzotterngifts, wie in der Gifttabelle auf [Seite 406](#gifttabelle) beschrieben – unabhängig davon, ob der Biss tatsächlich eine Wunde verursacht. Der Spielleiter kann den erforderlichen Angriffsvorteil bei besonderen Umständen anpassen: Hohe Stiefel könnten beispielsweise einen effektiven Schutzwert von +3 gegen diesen besonderen Angriff bieten, auch wenn sie gegen normale Angriffe keinen Schutz gewähren.
 
 Natürliche Waffen:
 - Reißzähne: Init 0, Ang +3, Vert +1, Sch +1.
@@ -18462,7 +18462,7 @@ Eigenschaften sind Merkmale des Tieres, die seine Spielwerte beeinflussen. Füge
 
 **Tarnung:** +3 auf alle Würfe zum Verstecken, solange die Kreatur sich nicht bewegt.
 
-**Umschlingen:** Die Kreatur besitzt einen langen, geschmeidigen Körper oder einen muskulösen Schwanz und kann einen Gegner umschlingen, dessen Größe kleiner als die eigene ist. Das Umschlingen basiert auf den Ringen-Regeln (Seite 398). Die Angriffssumme wird mit der Fertigkeit Raufen berechnet, und ein Umschlingangriff hat folgende Waffenwerte: Ini 0, Ang +3, Vert 0, Sch n/v. Solange die Kreatur den Griff hält, gilt ihr Gegner als ohne Luft (siehe Seite 407). Das Opfer muss alle 30 Sekunden (also alle fünf Runden) einen Ausdauer-Wurf ablegen, oder die normalen Auswirkungen von Luftentzug erleiden. Hat die Kreatur einen Gegner erfolgreich gegriffen (und mit dem Umschlingen begonnen), kann sie in den folgenden Runden weiter umschlingen und gleichzeitig mit anderen Waffen angreifen. Diese Angriffe können gegen das gegriffte Opfer oder gegen einen anderen Gegner gerichtet sein.
+**Umschlingen:** Die Kreatur besitzt einen langen, geschmeidigen Körper oder einen muskulösen Schwanz und kann einen Gegner umschlingen, dessen Größe kleiner als die eigene ist. Das Umschlingen basiert auf den Ringen-Regeln ([Seite 398](#nicht-tödlicher-kampf)). Die Angriffssumme wird mit der Fertigkeit Raufen berechnet, und ein Umschlingangriff hat folgende Waffenwerte: Ini 0, Ang +3, Vert 0, Sch n/v. Solange die Kreatur den Griff hält, gilt ihr Gegner als ohne Luft (siehe [Seite 407](#entbehrung)). Das Opfer muss alle 30 Sekunden (also alle fünf Runden) einen Ausdauer-Wurf ablegen, oder die normalen Auswirkungen von Luftentzug erleiden. Hat die Kreatur einen Gegner erfolgreich gegriffen (und mit dem Umschlingen begonnen), kann sie in den folgenden Runden weiter umschlingen und gleichzeitig mit anderen Waffen angreifen. Diese Angriffe können gegen das gegriffte Opfer oder gegen einen anderen Gegner gerichtet sein.
 
 **Schlau:** Schlauheit auf 0 erhöhen (wenn sie aktuell negativ ist) oder um 1 steigern. Diese Eigenschaft kann für besonders schlaue Tiere mehrfach genommen werden.
 
@@ -18484,7 +18484,7 @@ Eigenschaften sind Merkmale des Tieres, die seine Spielwerte beeinflussen. Füge
 
 **Guter Springer:** +3 auf alle Würfe, die Springen betreffen.
 
-**Greifen:** Die Kreatur darf statt eines normalen Angriffs einen Greifangriff durchführen. Dieser Angriff kann nur gegen einen Gegner eingesetzt werden, dessen Größe höchstens (Größe der Kreatur + 1) beträgt. Regeln für das Greifen findest du unter Nicht-tödlicher Kampf (Seite 397). Hat die Kreatur eine weitere natürliche Waffe (etwa einen Biss), darf sie in den folgenden Runden ihre aktuelle Greifstärke zu ihrer Angriffssumme addieren, bis der Gegner sich befreit. Gegen Gegner außerhalb des Griffs muss die Kreatur mit ihrem Greifverteidigungswert verteidigen (siehe Tabelle der natürlichen Waffen weiter unten).
+**Greifen:** Die Kreatur darf statt eines normalen Angriffs einen Greifangriff durchführen. Dieser Angriff kann nur gegen einen Gegner eingesetzt werden, dessen Größe höchstens (Größe der Kreatur + 1) beträgt. Regeln für das Greifen findest du unter Nicht-tödlicher Kampf ([Seite 397](#nicht-tödlicher-kampf)). Hat die Kreatur eine weitere natürliche Waffe (etwa einen Biss), darf sie in den folgenden Runden ihre aktuelle Greifstärke zu ihrer Angriffssumme addieren, bis der Gegner sich befreit. Gegen Gegner außerhalb des Griffs muss die Kreatur mit ihrem Greifverteidigungswert verteidigen (siehe Tabelle der natürlichen Waffen weiter unten).
 
 **Zäh:** Die Kreatur ist an harte Bedingungen gewöhnt; sie hat Überleben 5 (heimisches Terrain) und eine zusätzliche Erschöpfungsstufe.
 
@@ -18546,7 +18546,7 @@ Eigenschaften sind Merkmale des Tieres, die seine Spielwerte beeinflussen. Füge
 
 ### 6. Kampfwerte
 
-Kampfwerte werden wie gewohnt berechnet (Seite 393), unter Verwendung der Tabelle der natürlichen Waffen. Da Kampfsummen durch Eigenschaften beeinflusst werden, können diese Waffen für Kreaturen aller Größen verwendet werden; eine Maus und eine Katze haben zwar dieselben Grundwerte für ihren Bissangriff, aber sehr unterschiedliche Kampfsummen.
+Kampfwerte werden wie gewohnt berechnet ([Seite 393](#kampfwerte)), unter Verwendung der Tabelle der natürlichen Waffen. Da Kampfsummen durch Eigenschaften beeinflusst werden, können diese Waffen für Kreaturen aller Größen verwendet werden; eine Maus und eine Katze haben zwar dieselben Grundwerte für ihren Bissangriff, aber sehr unterschiedliche Kampfsummen.
 
 ### 7. Alles zusammenfügen
 
@@ -19686,7 +19686,7 @@ R: Berührung, D: Durchmesser, Z: Teil<br>
 Der Wiedergänger kann die Erde über seinem Grab für einen Durchmesser öffnen, um hindurch ein- oder auszutreten. Die Erde schließt sich danach wieder und lässt keine Spur einer Störung zurück.<br>
 ReTe 5 (Basis 2, +1 Berührung, +1 Durchmesser, +1 Teil)
 
-Ausrüstung: Zerfetztes Leichentuch; die tote, gefühllose Faust des Wiedergängers trifft wie ein Knüppel (vgl. Seite 400)
+Ausrüstung: Zerfetztes Leichentuch; die tote, gefühllose Faust des Wiedergängers trifft wie ein Knüppel (vgl. [Seite 400](#nahkampfwaffen-statistiken))
 
 Vis: 2 Corpus in den Augen (1 je Auge)
 
@@ -20502,7 +20502,7 @@ Dämonen können durch hermetische Magie herbeigerufen und gezwungen werden, obw
 
 #### Dämonische Schwächen
 
-Alle Dämonen sind anfällig für Ausdrücke göttlicher Macht, sei es durch die Sakramente eines Glaubens, das Gebet eines frommen Gläubigen oder die Reliquie eines Heiligen. Reliquien sind als höchste heilige Gegenstände den Dämonen ein Gräuel, wie im Kapitel über die Herrschaftssphären beschrieben (Seite 419). Ein Charakter, der einen Fokus für seine Gebete besitzt (etwa einen Rosenkranz, eine Phylakterie o. ä.) und erfolgreich Gottes Beistand gegen einen Dämon anruft (siehe *Realms of Power: The Divine*, Seite 41), erhält den doppelten normalen Bonus. Jeder Gegenstand, der wesentlicher Bestandteil der göttlichen Liturgie ist, ohne selbst eine Reliquie zu sein (etwa eine Kirchenbibel, die Hostie, die Schriften der Tora), gilt für alle Dämonen als Verwundbarkeit (siehe unten).
+Alle Dämonen sind anfällig für Ausdrücke göttlicher Macht, sei es durch die Sakramente eines Glaubens, das Gebet eines frommen Gläubigen oder die Reliquie eines Heiligen. Reliquien sind als höchste heilige Gegenstände den Dämonen ein Gräuel, wie im Kapitel über die Herrschaftssphären beschrieben ([Seite 419](#wahrer-glaube-1)). Ein Charakter, der einen Fokus für seine Gebete besitzt (etwa einen Rosenkranz, eine Phylakterie o. ä.) und erfolgreich Gottes Beistand gegen einen Dämon anruft (siehe *Realms of Power: The Divine*, [Seite 41](#wahrer-glaube-1)), erhält den doppelten normalen Bonus. Jeder Gegenstand, der wesentlicher Bestandteil der göttlichen Liturgie ist, ohne selbst eine Reliquie zu sein (etwa eine Kirchenbibel, die Hostie, die Schriften der Tora), gilt für alle Dämonen als Verwundbarkeit (siehe unten).
 
 Alle Dämonen haben eine weitere Schwäche. Diese kann Einschränkungen auferlegen, was ein Dämon in jeder Form tun oder lassen kann, oder sie kann unter bestimmten Umständen Wunden verursachen – in letzterem Fall ist nur die körperliche Form betroffen. Um festzustellen, ob ein Charakter die Schwäche eines bestimmten Dämons kennt, muss er zuvor Zugang zu Wissen über diesen Dämon gehabt haben (etwa durch das Studium eines Dämonenkatalogs) und einen Intelligenz + Infernalkundewurf gegen einen Schwierigkeitsgrad von 9 + (Macht / 5) schaffen. Der Schwierigkeitsgrad wird um 3 gesenkt, wenn der Dämon zu einer Familie gehört, da alle Familienmitglieder dieselbe Schwäche teilen. Bei Misserfolg kennt der Charakter die Schwäche dieses Dämons nicht, kann aber einen erneuten Versuch unternehmen, sobald sein Wert in Infernalkunde gestiegen ist.
 
@@ -21401,7 +21401,7 @@ Der offizielle Schauplatz für Ars Magica ist Mythisches Europa – eine Welt, d
 
 Manchen Spielern und Spielleitern kann diese Kulisse jedoch etwas einschüchternd vorkommen – und das ist völlig unnötig. Wichtigstes Grundprinzip: Es ist ein Spiel, und Spiele sollen Spaß machen. Wer durch den Anspruch historischer Genauigkeit weniger Freude hat, sollte ihn schlicht zurückschrauben. Jede Art, das Spiel zu genießen, ist eine legitime Art, es „richtig" zu spielen. Zweitens ist zu beachten: Dieses Kapitel enthält alles historische Wissen, das für das Spiel in Mythischem Europa tatsächlich benötigt wird. Natürlich gibt es darüber hinaus noch weit mehr Geschichte – aber nichts davon ist für das Spielen unbedingt erforderlich.
 
-Die historische Kulisse existiert, weil es schlicht reizvoll ist, sich vorzustellen, mitten in der Geschichte zu stecken. Wenn das für die Spieltruppe keinen Reiz hat, bietet sich auch ein nicht-historischer Schauplatz an (siehe Seite 531).
+Die historische Kulisse existiert, weil es schlicht reizvoll ist, sich vorzustellen, mitten in der Geschichte zu stecken. Wenn das für die Spieltruppe keinen Reiz hat, bietet sich auch ein nicht-historischer Schauplatz an (siehe [Seite 531](#die-reine-fantasie-saga)).
 
 ## Historisch spielen
 
@@ -21509,7 +21509,7 @@ Die Ehe bezeichnet den Beginn einer Familie und ist ein weiteres Sakrament, das 
 
 Obwohl für die Ehe keine Zeremonie vorgeschrieben ist, ermutigt die Kirche nachdrücklich dazu, eine öffentliche Feier unter Mitwirkung eines Priesters abzuhalten. Das dient unter anderem dazu, späteren Streitigkeiten darüber vorzubeugen, ob tatsächlich eine Ehe geschlossen wurde. Es wäre äußerst ungewöhnlich, dass ein Paar ganz ohne Feier oder Zeremonie heiratet.
 
-Die Letzte Ölung ist das abschließende Sakrament, das kurz vor dem Tod gespendet wird. Aus diesem Grund begegnet man ihr mit der zwiespältigsten Haltung aller Sakramente. Obwohl allgemein geglaubt wird, dass sie den Übergang in den Himmel erleichtert, sind viele Menschen der Ansicht, dass man nach ihrem Empfang in gewissem Sinne der Welt gestorben sei und im Falle einer Genesung in ein Kloster eintreten müsse (siehe den Makel Viaticarus, Seite 150). Ebenso zögern Menschen häufig, sie zu empfangen, da dies dem Eingeständnis gleichkommt, dem Tod nahe zu sein. Dabei ist in der Glaubenslehre der Kirche eindeutig festgestellt, dass sie für das Heil nicht notwendig ist. Die Letzte Ölung kann nur von einem Priester gespendet werden.
+Die Letzte Ölung ist das abschließende Sakrament, das kurz vor dem Tod gespendet wird. Aus diesem Grund begegnet man ihr mit der zwiespältigsten Haltung aller Sakramente. Obwohl allgemein geglaubt wird, dass sie den Übergang in den Himmel erleichtert, sind viele Menschen der Ansicht, dass man nach ihrem Empfang in gewissem Sinne der Welt gestorben sei und im Falle einer Genesung in ein Kloster eintreten müsse (siehe den Fehler Viaticarus, [Seite 150](#viaticarus)). Ebenso zögern Menschen häufig, sie zu empfangen, da dies dem Eingeständnis gleichkommt, dem Tod nahe zu sein. Dabei ist in der Glaubenslehre der Kirche eindeutig festgestellt, dass sie für das Heil nicht notwendig ist. Die Letzte Ölung kann nur von einem Priester gespendet werden.
 
 Die Priesterweihe ist das Sakrament, durch das ein Mann zum Priester oder zu einem anderen Mitglied des Klerus wird. Es gibt zwei Hauptklassen der Weihe: die niederen Weihen und die höheren Weihen. Die niederen Weihen sind: Ostiariat, Lektorat, Exorzistenamt und Akolythat. Die höheren, oder heiligen, Weihen sind: Subdiakonat, Diakonat, Priestertum und Bischofsweihe. Männer in höheren Weihen dürfen nicht heiraten und keine lebende Ehefrau haben, während für Männer in niederen Weihen weit weniger Einschränkungen gelten. Alle geweihten Männer tragen die Tonsur, bei der der Scheitel des Hauptes rasiert wird, sodass ein Haarkranz verbleibt.
 
@@ -21828,13 +21828,13 @@ Im Mythischen Europa ist das Übernatürliche ein Teil des Alltags der meisten B
 
 ## Die Macht der Frauen in der Öffentlichkeit
 
-Verhältnismäßig wenige Frauen besitzen im Mythischen Europa öffentliche Macht. Die folgende Beschreibung ihrer Möglichkeiten soll Spielerinnen keineswegs davon abhalten, außergewöhnliche Frauen als ihre Charaktere zu wählen. Die hier genannten Einschränkungen und Wege, ihnen zu begegnen, sind als Erzählmaterial gedacht, nicht als Verbote. Die Spieltruppe sollte sorgfältig abwägen, wie der Reiz eines historisch stimmigen Schauplatzes mit dem Spaß zusammengeht, eine Figur zu spielen, die mit Köpfchen gesellschaftliche Konventionen herausfordert. Die Tugend Erkaufte Rechte (Seite 100) ist eine spielmechanische Möglichkeit, anzuerkennen, dass eine außergewöhnliche Frau eben genau das ist: außergewöhnlich.
+Verhältnismäßig wenige Frauen besitzen im Mythischen Europa öffentliche Macht. Die folgende Beschreibung ihrer Möglichkeiten soll Spielerinnen keineswegs davon abhalten, außergewöhnliche Frauen als ihre Charaktere zu wählen. Die hier genannten Einschränkungen und Wege, ihnen zu begegnen, sind als Erzählmaterial gedacht, nicht als Verbote. Die Spieltruppe sollte sorgfältig abwägen, wie der Reiz eines historisch stimmigen Schauplatzes mit dem Spaß zusammengeht, eine Figur zu spielen, die mit Köpfchen gesellschaftliche Konventionen herausfordert. Die Tugend Erkaufte Rechte ([Seite 100](#erkaufte-rechte)) ist eine spielmechanische Möglichkeit, anzuerkennen, dass eine außergewöhnliche Frau eben genau das ist: außergewöhnlich.
 
 Spieler, die vermutlich vor allem mit dem englischen System vertraut sind, sollten wissen, dass Frauen in England weniger Rechte besitzen als in den meisten anderen Teilen des Mythischen Europas. Dies ist zum Teil eine Folge der Normannischen Eroberung. Der militärische Charakter des normannischen Adels hat dem erblichen Adelsstand noch nicht vollständig Platz gemacht. In Gebieten, in denen Landbesitz vorrangig als Mittel zur Unterstützung von Kriegern gilt, haben Frauen weniger Rechte – während dort, wo Landbesitz in erster Linie dazu dient, Geld für den Unterhalt eines Heeres zu erwirtschaften, Frauen mehr Rechte genießen.
 
 ### Als Mann verkleiden
 
-Dies ist der einfachste Weg, gesellschaftliche Konventionen zu umgehen, die Frauen betreffen. In der Volkskunde finden sich zahlreiche Beispiele von Frauen, die sich als Männer verkleideten und nahezu alles taten, was Männer tun. Krieg oder Pilgerfahrt zum Beispiel sind einfacher zu bewältigen, wenn man vorgibt, männlich zu sein. Dies kann zu einem Dunklen Geheimnis (Seite 124) werden und den Charakter zudem für den Makel Geschlechtlich nichtkonform (Seite 131) qualifizieren.
+Dies ist der einfachste Weg, gesellschaftliche Konventionen zu umgehen, die Frauen betreffen. In der Volkskunde finden sich zahlreiche Beispiele von Frauen, die sich als Männer verkleideten und nahezu alles taten, was Männer tun. Krieg oder Pilgerfahrt zum Beispiel sind einfacher zu bewältigen, wenn man vorgibt, männlich zu sein. Dies kann zu einem Dunklen Geheimnis ([Seite 124](#dunkles-geheimnis)) werden und den Charakter zudem für den Fehler Geschlechtlich nichtkonform ([Seite 131](#geschlechtsnichtkonform)) qualifizieren.
 
 Als Mann verkleidet zu sein, ist auf Dauer jedoch meist keine tragfähige Strategie: Heirat und das Zeugen von Kindern sind schwierige, wenngleich nicht unüberwindbare Hindernisse. Eine Frau, die sich als Mann verkleidet und Krieg führt, stirbt allerdings wahrscheinlich jung – wie die meisten Männer auch –, sodass dies möglicherweise gar kein Problem darstellt.
 
@@ -21936,7 +21936,7 @@ Jede dieser Richtlinien kann in einem einzelnen Abenteuer gelegentlich verletzt 
 
 Vergiss nie: Die Spielercharaktere sind die Hauptpersonen der Geschichte. Sie müssen nicht die mächtigsten Charaktere sein, aber sie stehen im Mittelpunkt des Geschehens. In einer Horrorgeschichte etwa müssen die Charaktere schwächer sein als die Bedrohung, da sie nur so echten Schrecken auslösen kann. Dennoch handelt die Geschichte davon, wie die Charaktere mit der Bedrohung umgehen — nicht von den Taten des Monsters.
 
-Du solltest stets darauf hinarbeiten, dass die Konflikte der Geschichte durch die Spielercharaktere gelöst werden und der Ausgang von ihren Handlungen abhängt. In einer Horrorgeschichte sollte das Überleben der Spielercharaktere davon abhängen, was sie tun — nicht von den Handlungen der Nichtspielercharaktere. In einer politischen Geschichte sollten die Entscheidungen der Spielercharaktere spürbare Auswirkungen auf das Ergebnis haben. Wie auf Seite 528 erläutert, kann das Spieltruppen-Rollenspiel hier hilfreich sein: Selbst wenn Spielercharaktere gerettet werden müssen, können das häufig andere Spielercharaktere übernehmen.
+Du solltest stets darauf hinarbeiten, dass die Konflikte der Geschichte durch die Spielercharaktere gelöst werden und der Ausgang von ihren Handlungen abhängt. In einer Horrorgeschichte sollte das Überleben der Spielercharaktere davon abhängen, was sie tun — nicht von den Handlungen der Nichtspielercharaktere. In einer politischen Geschichte sollten die Entscheidungen der Spielercharaktere spürbare Auswirkungen auf das Ergebnis haben. Wie auf [Seite 528](#spieltruppen-rollenspiel) erläutert, kann das Spieltruppen-Rollenspiel hier hilfreich sein: Selbst wenn Spielercharaktere gerettet werden müssen, können das häufig andere Spielercharaktere übernehmen.
 
 ### Handlungsstränge
 
@@ -21974,7 +21974,7 @@ Dies ist wohl die flexibelste Regel. Wenn die Spieler das Nachspiel ausführlich
 
 ## Geschichtentypen
 
-Das Machtniveau einer Saga hat großen Einfluss darauf, welche Art von Geschichten sich leicht leiten lässt. Hermetische Magi sind äußerst vielseitig, insbesondere wenn sie erst etwas Erfahrung gesammelt haben. In den meisten Fällen (siehe „Sagatempo" auf Seite 527) steigt das Machtniveau einer Saga mit der Zeit an, und es ist sinnvoll, wenn sich der Spielstil entsprechend weiterentwickelt.
+Das Machtniveau einer Saga hat großen Einfluss darauf, welche Art von Geschichten sich leicht leiten lässt. Hermetische Magi sind äußerst vielseitig, insbesondere wenn sie erst etwas Erfahrung gesammelt haben. In den meisten Fällen (siehe „Sagatempo" auf [Seite 527](#sagatempo)) steigt das Machtniveau einer Saga mit der Zeit an, und es ist sinnvoll, wenn sich der Spielstil entsprechend weiterentwickelt.
 
 Der Einfachheit halber unterscheidet diese Betrachtung drei Geschichtentypen: reaktive Geschichten, bei denen etwas geschieht und die Spielercharaktere darauf reagieren; proaktive Geschichten, bei denen die Spielercharaktere etwas erreichen wollen und dafür aktiv werden; und Seifenopern, bei denen die Geschichten ganz natürlich aus dem fortlaufenden Leben der Charaktere entstehen. Die meisten Geschichten werden natürlich Elemente aller drei Typen vereinen, doch die grundlegende Unterscheidung erweist sich als hilfreich.
 
@@ -22130,7 +22130,7 @@ Obwohl die Produkte von Atlas Games den Hintergrund von **Ars Magica** in große
 
 Die vielleicht offensichtlichste Frage betrifft den Stellenwert der Geschichte in eurem Spiel und wie nah ihr euch an die historischen Ereignisse halten wollt. Manche Spieltruppen möchten, dass die weltliche Geschichte der echten Geschichte entspricht und der Orden des Hermes vollständig im Verborgenen wirkt. Andere ziehen es vor, dass die Magi aktiv in den Lauf der Dinge eingreifen, sodass politische Ereignisse ganz anders verlaufen als in unserer Geschichte. Wieder andere verändern die Welt von Grund auf.
 
-Das ist eine etwas andere Frage als jene nach der besten Art, Geschichte in ein Spiel einzubinden (siehe „Historisch spielen", Seite 495). Alle dortigen Ratschläge gelten unabhängig von eurer Wahl — wobei ihr euch natürlich umso weniger um Anachronismen sorgen müsst, je mehr ihr die Geschichte umgestalten wollt.
+Das ist eine etwas andere Frage als jene nach der besten Art, Geschichte in ein Spiel einzubinden (siehe „Historisch spielen", [Seite 495](#historisch-spielen)). Alle dortigen Ratschläge gelten unabhängig von eurer Wahl — wobei ihr euch natürlich umso weniger um Anachronismen sorgen müsst, je mehr ihr die Geschichte umgestalten wollt.
 
 Ihr könntet eine Saga leiten, in der kaum Berührungspunkte mit der weltlichen Welt bestehen. Das Mythische Europa mit seinen historischen Königen und Bischöfen bildet den Hintergrund, während die meisten Abenteuer in magischen Auren, Feenwäldern oder höllischen Tempeln stattfinden. Eine solche Saga kann ohne weiteres als hochfantastisches Epos angelegt sein.
 
@@ -22218,7 +22218,7 @@ Als dritte Möglichkeit kann die Magie erstarken – entweder im Gegensatz zu de
 
 ## Sagatempo
 
-Der Fortschritt in **Ars Magica** vollzieht sich über Quartale der Spielzeit (siehe Fortschritt, Seite 375). Daher ist die Anzahl der Quartale, die je Spielsitzung vergehen, ein entscheidender Faktor für den Charakter einer Saga. Das ideale Sagatempo ist allein eine Frage des Geschmacks der Spieltruppe, doch sollte man sich der Konsequenzen vorab bewusst sein. Zum Glück lässt sich das Tempo einer Saga leicht erhöhen oder verlangsamen, falls man feststellt, dass man einen Fehler gemacht hat.
+Der Fortschritt in **Ars Magica** vollzieht sich über Quartale der Spielzeit (siehe Fortschritt, [Seite 375](#fortschritt)). Daher ist die Anzahl der Quartale, die je Spielsitzung vergehen, ein entscheidender Faktor für den Charakter einer Saga. Das ideale Sagatempo ist allein eine Frage des Geschmacks der Spieltruppe, doch sollte man sich der Konsequenzen vorab bewusst sein. Zum Glück lässt sich das Tempo einer Saga leicht erhöhen oder verlangsamen, falls man feststellt, dass man einen Fehler gemacht hat.
 
 ### Langsame Saga
 
@@ -22268,7 +22268,7 @@ Schon die einfachste Form des Spieltruppen-Stils vermeidet diese Probleme, da je
 
 ### Alternativcharaktere
 
-Bei dieser Variante des Spieltruppen-Stils besitzt jeder Spieler zwei oder mehr Charaktere, spielt aber in einer bestimmten Sitzung nur einen davon. Mindestens ein Charakter sollte ein Magus sein und mindestens einer ein Gefährte (siehe Seite 25). Es hindert niemanden daran, zwei Magi und vier Gefährten zu besitzen – vorausgesetzt, er kommt damit zurecht, jeden Charakter nur etwa alle sechs Sitzungen zu spielen und die Aufzeichnungen für jeden Charakter aktuell zu halten.
+Bei dieser Variante des Spieltruppen-Stils besitzt jeder Spieler zwei oder mehr Charaktere, spielt aber in einer bestimmten Sitzung nur einen davon. Mindestens ein Charakter sollte ein Magus sein und mindestens einer ein Gefährte (siehe [Seite 25](#charakter-grundlagen)). Es hindert niemanden daran, zwei Magi und vier Gefährten zu besitzen – vorausgesetzt, er kommt damit zurecht, jeden Charakter nur etwa alle sechs Sitzungen zu spielen und die Aufzeichnungen für jeden Charakter aktuell zu halten.
 
 Wer auf diese Weise spielt, muss unbedingt sicherstellen, dass die Charaktere eines Spielers gute Gründe haben, nicht gemeinsam auf Abenteuer zu gehen. Sie müssen einander nicht unbedingt ablehnen – das ist jedoch keine Voraussetzung. Stattdessen könnte der Gefährte eines Spielers eng mit dem Magus eines anderen Spielers verbunden sein, oder die beiden Charaktere könnten sehr unterschiedliche Interessen verfolgen.
 
@@ -22300,7 +22300,7 @@ Das hat einen wesentlichen Vorteil: Der reguläre Spielleiter bekommt gelegentli
 
 Allerdings gibt es potenzielle Schwierigkeiten. Da der reguläre Spielleiter mitspielt, kann der Gast-Spielleiter nicht alle Details der Geschichte im Voraus mit ihm abstimmen. Dadurch besteht die Gefahr, dass er mit den längerfristigen Plänen des regulären Spielleiters in Konflikt gerät.
 
-Der beste Weg, solche Probleme zu vermeiden, besteht darin, dass Gast-Spielleiter Geschichten leiten, die an abgelegenen Orten spielen – etwa einer fernen Insel oder einem Höhlensystem. Regiones (Seite 420) eignen sich hervorragend dafür, besonders wenn sie nur unter seltenen Bedingungen betreten werden können, sodass die Charaktere nicht zurückkehren können. Der Gast-Spielleiter sollte die Art von Belohnungen und Risiken besprechen, die er einbringen möchte, um die Pläne des regulären Spielleiters nicht zu durchkreuzen. Es ist sogar möglich, dass der Gast-Spielleiter eine Geschichte leitet, die sich in einem Traum ereignet — und damit keinerlei langfristige Auswirkungen auf die Saga hat – solche Mittel können jedoch leicht überstrapaziert werden.
+Der beste Weg, solche Probleme zu vermeiden, besteht darin, dass Gast-Spielleiter Geschichten leiten, die an abgelegenen Orten spielen – etwa einer fernen Insel oder einem Höhlensystem. Regiones ([Seite 420](#regiones)) eignen sich hervorragend dafür, besonders wenn sie nur unter seltenen Bedingungen betreten werden können, sodass die Charaktere nicht zurückkehren können. Der Gast-Spielleiter sollte die Art von Belohnungen und Risiken besprechen, die er einbringen möchte, um die Pläne des regulären Spielleiters nicht zu durchkreuzen. Es ist sogar möglich, dass der Gast-Spielleiter eine Geschichte leitet, die sich in einem Traum ereignet — und damit keinerlei langfristige Auswirkungen auf die Saga hat – solche Mittel können jedoch leicht überstrapaziert werden.
 
 ### Alpha- und Beta-Spielleiter
 
@@ -22322,7 +22322,7 @@ Das reine Truppenspiel setzt jedoch eine Gruppe voraus, in der sich alle mit den
 
 ## Schauplatzrecherche
 
-Du hast also beschlossen, eine **Ars Magica**-Saga zu leiten. Was nun? Du musst den Konvent gründen, am besten gemeinsam mit den Spielern (siehe Seite 178), und ihn dann irgendwo verorten. Dafür gibt es verschiedene Möglichkeiten, von denen keine besser oder schlechter ist als die anderen. Du kannst sogar im Laufe einer Saga zwischen ihnen wechseln – indem du entweder mehr recherchierst oder bewusst mehr nicht-historische Elemente einbaust.
+Du hast also beschlossen, eine **Ars Magica**-Saga zu leiten. Was nun? Du musst den Konvent gründen, am besten gemeinsam mit den Spielern (siehe [Seite 178](#maßgeschneiderte-konventserstellung)), und ihn dann irgendwo verorten. Dafür gibt es verschiedene Möglichkeiten, von denen keine besser oder schlechter ist als die anderen. Du kannst sogar im Laufe einer Saga zwischen ihnen wechseln – indem du entweder mehr recherchierst oder bewusst mehr nicht-historische Elemente einbaust.
 
 Recherche muss nicht zwingend Bücher und Bibliotheken bedeuten. Du kannst im Internet suchen, Fragen in Diskussionsforen stellen oder Geschichtsdokumentationen im Fernsehen schauen. Es ist schließlich ein Spiel, also erforsche die Dinge, die dich interessieren, auf eine Weise, die dir Spaß macht.
 
@@ -22332,7 +22332,7 @@ Du kannst deine Saga in einer reinen Fantasiewelt ansiedeln. Du könntest eine v
 
 ### Die Saga ohne Recherche
 
-Wähle ein Tribunal für den Konvent (siehe die Karte auf Seite 493–494). Gib dem lokalen Adel, den Städten und der Pfarrkirche Namen. Entscheide, welche Art von Landschaft du haben möchtest. Nutze Elemente aus dem Kapitel über Mythisches Europa (Seite 495), damit sich deine Geschichten mittelalterlich anfühlen. Hab Spaß, und lass dich nicht davon beirren, wenn jemand darauf hinweist, dass der König von England im Jahr 1220 nicht Wilhelm der Bastard hieß.
+Wähle ein Tribunal für den Konvent (siehe die Karte auf [Seite 493](#kapitel-14-mythisches-europa)–494). Gib dem lokalen Adel, den Städten und der Pfarrkirche Namen. Entscheide, welche Art von Landschaft du haben möchtest. Nutze Elemente aus dem Kapitel über Mythisches Europa ([Seite 495](#kapitel-14-mythisches-europa)), damit sich deine Geschichten mittelalterlich anfühlen. Hab Spaß, und lass dich nicht davon beirren, wenn jemand darauf hinweist, dass der König von England im Jahr 1220 nicht Wilhelm der Bastard hieß.
 
 ### Die Saga mit geringer Recherche
 
@@ -22608,7 +22608,7 @@ Zwielicht: Die Anzahl der Zwielichtpunkte durch drei teilen und diesen Wert als 
 
 ### Behinderung
 
-*S. 20, [S. 403](#belastung)*
+*[S. 20](#belastung), [S. 403](#belastung)*
 
 **BEHINDERUNG BEI STÄRKE 0 ODER NIEDRIGER = Tragelast**
 
@@ -22653,24 +22653,24 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 - Hervorragendes Rollenspiel. Das bedeutet, dass der Spieler seinen Charakter überzeugend verkörpert und den anderen Spielern Freude bereitet hat.
 - Bonus. Dieser Punkt wird vergeben, wenn der Spielleiter der Meinung ist, dass der Charakter oder Spieler etwas Besonderes geleistet hat, das unter keine der obigen Kategorien fällt. Es sollte nur ein Bonuspunkt pro Charakter pro Spielsitzung vergeben werden.
 
-### Ansehen
+### Reputation
 
 *S. 19, [S. 28–29](#reputationen), [S. 386](#ruf-verändern)*
 
-#### Ansehen verändern
+#### Reputation verändern
 
-- Einen Ansehenwert von 1 erhalten, indem eine bemerkenswerte Tat vollbracht wird.
-- Ansehen steigern, indem man es wie Fertigkeiten behandelt und jede bemerkenswerte Tat als Erfahrungspunkt wertet.
-- Ansehen verringern, indem ein neues Ansehen erworben wird (siehe Definitive Edition, S. 28).
+- Einen Reputation von 1 erhalten, indem eine bemerkenswerte Tat vollbracht wird.
+- Reputation steigern, indem man es wie Fertigkeiten behandelt und jede bemerkenswerte Tat als Erfahrungspunkt wertet.
+- Reputation verringern, indem ein neues Reputation erworben wird (siehe Definitive Edition, [S. 28](#reputationen)).
 
-#### Schwierigkeitsgrade für Ansehen
+#### Schwierigkeitsgrade für Reputation
 
 | Schwierigkeitsgrad | Lokal             | Kirchlich              | Hermetisch     | Anmerkungen |
 | ------------------ | ----------------- | ---------------------- | -------------- | ----------- |
 | 0                  | Dasselbe Dorf     | Dieselbe Pfarrei/Kloster | Derselbe Konvent | Alle in diesen Gruppen kennen einander. |
-| 6                  | Dieselbe Stadt    | Dasselbe Bistum        | Dasselbe Tribunal | Im Schnitt hat man von etwa der Hälfte der Personen in diesem Bereich gehört, und von den meisten mit einem gewissen Ansehen. |
-| 9                  | Dieselbe Grafschaft | Dieselbe Kirchenprovinz | Gesamter Orden | In der Regel sind nur Personen mit Ansehen in dieser Gruppe bekannt, aber jeder kennt ein paar weitere. |
-| 12                 | Dasselbe Land     | Gesamte Kirche         | –              | Die meisten Menschen in dieser größeren Welt sind unbekannt, aber jene mit herausragendem Ansehen könnten bekannt sein. |
+| 6                  | Dieselbe Stadt    | Dasselbe Bistum        | Dasselbe Tribunal | Im Schnitt hat man von etwa der Hälfte der Personen in diesem Bereich gehört, und von den meisten mit einer gewissen Reputation. |
+| 9                  | Dieselbe Grafschaft | Dieselbe Kirchenprovinz | Gesamter Orden | In der Regel sind nur Personen mit Reputation in dieser Gruppe bekannt, aber jeder kennt ein paar weitere. |
+| 12                 | Dasselbe Land     | Gesamte Kirche         | –              | Die meisten Menschen in dieser größeren Welt sind unbekannt, aber jene mit herausragender Reputation könnten bekannt sein. |
 
 ## Übernatürliche Wahrnehmung
 
@@ -22695,7 +22695,7 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 ### Gespür für Heiliges und Unheiliges
 
-*S. 67, S. 189, S. 170*
+*[S. 67](#gespür-für-heiliges-und-unheiliges), [S. 189](#gespür-für-heiliges-und-unheiliges), [S. 170](#gespür-für-heiliges-und-unheiliges)*
 
 #### Muss Magieresistenz nicht durchdringen
 
@@ -22875,7 +22875,7 @@ Charaktere erholen sich von allen Wunden gleichzeitig. Ein Charakter mit drei Le
 **Schaden:** Der Waffenschadensmodifikator.<br>
 **Reichweite:** Die Reichweitenstufe der Waffe in Schritten (1 Schritt ≈ 1,5 m).<br>
 **Stä:** Der Mindeststärkewert, der für den Einsatz der Waffe erforderlich ist. Die Mindestanforderungen für Waffe und Schild müssen jeweils separat erfüllt werden.<br>
-**Last:** Der Beitrag der Waffe zur Behinderung (S. 20/S. 403). Bei Bögen und Schleuder ist die Last der passenden Munition bereits eingerechnet.<br>
+**Last:** Der Beitrag der Waffe zur Behinderung ([S. 20](#belastung)/[S. 403](#belastung)). Bei Bögen und Schleuder ist die Last der passenden Munition bereits eingerechnet.<br>
 **Kosten:** Ein allgemeiner Hinweis auf den Preis der Waffe. Teurere Waffen sind besser.
 
 ### Rüstungstafel
@@ -22936,7 +22936,7 @@ Charaktere erholen sich von allen Wunden gleichzeitig. Ein Charakter mit drei Le
 **Vert:** Der Waffenverteidigungsmodifikator.<br>
 **Schaden:** Der Waffenschadensmodifikator.<br>
 **Stä:** Der Mindeststärkewert, der für den Einsatz der Waffe erforderlich ist. Die Mindestanforderungen für Waffe und Schild müssen jeweils separat erfüllt werden.<br>
-**Last:** Der Beitrag der Waffe zur Behinderung (S. 20/S. 403).<br>
+**Last:** Der Beitrag der Waffe zur Behinderung ([S. 20](#belastung)/[S. 403](#belastung)).<br>
 **Kosten:** Ein allgemeiner Hinweis auf den Preis der Waffe. Teurere Waffen sind besser.
 
 ## Zauberregeln
@@ -23047,7 +23047,7 @@ Wenn ein neuer Zauber aus dem Stegreif gewirkt wird …
 
 **DAUER DES ZEREMONIELLEN ZAUBERNS:** 15 Minuten pro Magnitude
 
-*Siehe Definitive Edition S. 218 für zeremonielle Hilfsmittel und Ritualräume.*
+*Siehe Definitive Edition [S. 218](#zeremonielles-zaubern) für zeremonielle Hilfsmittel und Ritualräume.*
 
 #### Patzerwürfel beim Zaubern
 
@@ -23181,7 +23181,7 @@ Jede Steigerung auf dieser Liste entspricht einer Verzehnfachung des Volumens un
 
 
 1.000 KUBIKZENTIMETER = 1 L = KUGEL MIT 12 CM DURCHMESSER
-Fünf Basisindividuen von Aquam (Gift), ein kleines Objekt auf der Materialien-und-Größen-Tafel (S. 97/S. 255).
+Fünf Basisindividuen von Aquam (Gift), ein kleines Objekt auf der Materialien-und-Größen-Tafel ([S. 97](#material-und-größentabellen)/[S. 255](#material-und-größentabellen)).
 
 
 10.000 KUBIKZENTIMETER = 10 L = KUGEL MIT 30 CM DURCHMESSER
@@ -23267,7 +23267,7 @@ Vim: Größenmodifikatoren gelten nicht direkt für Vim-Effekte mit Individuum-Z
 | Monate     | Haarsträhne, bevorzugtes Werkzeug oder Kleidungsstück, Holzspan von einem bestimmten Ort, Feder eines Vogels, Schuppe eines Reptils. |
 | Jahre      | Bereitetes Artefakt, Stein oder Metall von einem bestimmten Ort, Blut, Haarlocke, mehrere Federn eines Vogels, mehrere Schuppen eines Reptils. |
 | Jahrzehnte | Körperteil. |
-| Unbegrenzt | Hermetischer Vertrauter (Verbindung zum Meister), hermetischer Magus (Verbindung zum Vertrauten), hermetischer Talisman (Verbindung zum Erschaffer), fixierte Arkane Verbindungen (siehe „Arkane Verbindungen fixieren", S. 94/S. 250). |
+| Unbegrenzt | Hermetischer Vertrauter (Verbindung zum Meister), hermetischer Magus (Verbindung zum Vertrauten), hermetischer Talisman (Verbindung zum Erschaffer), fixierte Arkane Verbindungen (siehe „Arkane Verbindungen fixieren", [S. 94](#arkane-verbindungen-festigen)/[S. 250](#arkane-verbindungen-festigen)). |
 
 ### Certamen
 
@@ -23321,7 +23321,7 @@ Hinweis: Die Würfelwürfe sind dieselben, die bereits zum Begreifen des Zwielic
 
 Die Dauer verringert sich um eine Stufe für jeden Punkt, um den das Gesamtergebnis der Maga das des Zwielichts übertrifft.
 
-Ein begriffenes Zwielicht hat gute Auswirkungen, andernfalls sind die Folgen schlecht. Siehe S. 89/S. 229.
+Ein begriffenes Zwielicht hat gute Auswirkungen, andernfalls sind die Folgen schlecht. Siehe [S. 89](#wirkungen-des-zwielichts)/[S. 229](#wirkungen-des-zwielichts).
 
 ## Laborregeln
 
@@ -23333,7 +23333,7 @@ VIS-GRENZE: Magietheorie × 2 Bauern Vis pro Quartal
 
 ### Laboraktivitäten
 
-S. 94–102, S. 249–263
+[S. 94](#kapitel-8-das-laboratorium)–102, [S. 249](#kapitel-8-das-laboratorium)–263
 
 ARKANE VERBINDUNG FIXIEREN: 1 Quartal + 1 Bauer Vim-Vis
 
@@ -23512,7 +23512,7 @@ S. 107–109
 - Das Erstellte wird auf eine Weise verändert, die nicht zwangsläufig unter die Kategorien Nebeneffekt oder Veränderter Effekt fällt, obwohl dies möglich ist. Dies erlaubt dem Spielleiter, jede Art von übernatürlichem Effekt einzuführen — das Erstellte könnte sogar stark von einer anderen Sphäre beeinflusst werden. Das Ergebnis kann aus Sicht des Magus positiv oder negativ sein, sollte aber für die Spieltruppe interessant sein.
 - Ein handlungsbezogenes Ereignis tritt ein. Dieses kann beliebig gestaltet sein; es könnte genutzt werden, um eine wichtige Handlungslinie einzuführen oder als kurze, amüsante Ablenkung. Es muss nicht sofort eintreten — die unkontrollierte Magie könnte etwas in Gang setzen oder erst beim Einsatz des Erstellten in einem bestimmten Kontext auftreten. Das Ereignis kann grundsätzlich positiv sein: Der Magus könnte zum Beispiel die Aufmerksamkeit eines möglichen Vertrauten auf sich ziehen. Sofern das Ereignis nichts anderes verlangt, gilt für das Projekt selbst Keine außergewöhnlichen Effekte.
 
-**Entdeckung:** Einen einfachen Würfel werfen und den Risikomodifikator hinzurechnen. Wenn Arkanes Experimentieren betrieben wird (siehe *ArMDE* S. 277), wird eine Entdeckung gemacht, die das Projekt voranbringt, und diese Tabelle wird ignoriert.
+**Entdeckung:** Einen einfachen Würfel werfen und den Risikomodifikator hinzurechnen. Wenn Arkanes Experimentieren betrieben wird (siehe *ArMDE* [S. 277](#der-durchbruch)), wird eine Entdeckung gemacht, die das Projekt voranbringt, und diese Tabelle wird ignoriert.
 
 | Wurf  | Ergebnis |
 | ----- | -------- |
@@ -23572,7 +23572,7 @@ Jahresarbeit für einen Handwerker: +9
 
 ## Alterungswürfe
 
-S. 168–170, S. 391
+[S. 168](#altern)–170, [S. 391](#altern)
 
 Einmal jährlich würfeln, ab dem 35. Lebensjahr.
 
@@ -23580,7 +23580,7 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 
 ## Alterung
 
-S. 168–170, S. 391
+[S. 168](#altern)–170, [S. 391](#altern)
 
 | Lebensumstände                                              | Modifikator |
 | ----------------------------------------------------------- | ----------- |
