@@ -131,7 +131,7 @@ Lädt sich im Laufe eines Tages gleichmäßig auf den Machtwert auf (z. B. Macht
 
 ---
 
-## Magische Charaktere / Magic Characters (RoP:M)
+## Magische Charaktere / Magic Characters (SdM:M)
 
 ### Allgemeine Begriffe
 
@@ -232,4 +232,4 @@ Lädt sich im Laufe eines Tages gleichmäßig auf den Machtwert auf (z. B. Macht
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024) · Ars Magica 5e – Realms of Power: Magic (Atlas Games) · Deutsche Übersetzung (ArsMagica_DE_Gesamt_work.md)*
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024) · Ars Magica 5e – Sphären der Macht: Magie (Atlas Games) · Deutsche Übersetzung (ArsMagica_DE_Gesamt_work.md)*

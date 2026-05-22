@@ -73,7 +73,7 @@
 | Road | Straße | +2 | Merinita-Feenmagie: Ziel auf derselben Straße |
 | Sight | Sicht | +3 | Alles, was der Magus sehen kann |
 | Arcane Connection | Arkane Verbindung | +4 | Entfernung irrelevant |
-| Water-way | Wasserweg | +3 | RoP:M; Atlantische Magie; Ziel auf demselben Gewässer; wie Sicht |
+| Water-way | Wasserweg | +3 | SdM:M; Atlantische Magie; Ziel auf demselben Gewässer; wie Sicht |
 
 ### Dauer / Duration
 
@@ -90,7 +90,7 @@
 | Year + 1 | Jahr + 1 | +4 | Merinita-Feenmagie: bis zum selben Tag im nächsten Jahr |
 | Until (Condition) | Bis (Bedingung) | Ritual / +4 | Bis eine Bedingung erfüllt ist |
 | Bargain | Handel | x+3 | Merinita-Feenmagie: bis ein Handel gebrochen wird |
-| Storm | Sturm | +1 | RoP:M; Atlantische Magie; bis Sturm endet; Form muss Aq oder Au sein; wie Konzentration |
+| Storm | Sturm | +1 | SdM:M; Atlantische Magie; bis Sturm endet; Form muss Aq oder Au sein; wie Konzentration |
 
 ### Zielgröße / Target
 
@@ -103,7 +103,7 @@
 | Room | Raum | +2 | Alles in einem Raum |
 | Structure | Bauwerk | +3 | Ein Gebäude, eine Brücke o. ä. |
 | Bloodline | Blutlinie | +3 | Merinita-Feenmagie: alle Abkömmlinge einer Person |
-| Body-of-water | Gewässer | +3 | RoP:M; Atlantische Magie; ein ganzes Gewässer (See, Fluss, Meer); wie Bauwerk |
+| Body-of-water | Gewässer | +3 | SdM:M; Atlantische Magie; ein ganzes Gewässer (See, Fluss, Meer); wie Bauwerk |
 | Boundary | Grenze | +4 | Alles innerhalb einer definierten Grenze |
 
 ---

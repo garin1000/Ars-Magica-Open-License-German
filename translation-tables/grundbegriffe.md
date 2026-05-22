@@ -139,6 +139,9 @@
 | Perception | Per | Wahrnehmung | Wah |
 | Presence | Pre | Präsenz | Prä |
 | Communication | Com | Kommunikation | Kom |
+| Cunning | Cun | Gerissenheit | Ger |
+
+*Cunning (Gerissenheit) ersetzt Intelligenz bei Tieren und unintelligenten Wesen.*
 
 ---
 
@@ -180,7 +183,7 @@
 
 ---
 
-## Ergänzungen aus Realms of Power: Magic
+## Ergänzungen aus Realms of Power: Magic (RoP:M) / Sphären der Macht: Magie (SdM:M)
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
@@ -193,6 +196,16 @@
 ---
 
 ## Ergänzungen aus Supplements / Supplement Additions
+
+### Buchtitel / Book Titles
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Realms of Power | Sphären der Macht | Supplementreihe; Abk. **SdM** |
+| Realms of Power: Magic | Sphären der Macht: Magie | Abk. **SdM:M** |
+| Realms of Power: Faerie | Sphären der Macht: Feenwelt | Abk. **SdM:F** |
+| Realms of Power: The Divine | Sphären der Macht: Das Göttliche | Abk. **SdM:D** |
+| Realms of Power: The Infernal | Sphären der Macht: Das Infernale | Abk. **SdM:I** |
 
 ### Redaktionelle Konventionen / Editorial Conventions
 

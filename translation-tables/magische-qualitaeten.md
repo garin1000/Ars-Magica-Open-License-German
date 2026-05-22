@@ -1,6 +1,6 @@
 # Ars Magica – Magische Qualitäten und Mängel / Magic Qualities and Inferiorities
 
-**Teil der deutschen Übersetzungstabellen** | Quelle: Ars Magica 5e – Realms of Power: Magic (Kap. 4)
+**Teil der deutschen Übersetzungstabellen** | Quelle: Ars Magica 5e – Sphären der Macht: Magie (Kap. 4)
 
 **Legende:**
 - Groß = Major · Klein = Minor
@@ -118,4 +118,4 @@
 
 ---
 
-*Quelle: Ars Magica 5e – Realms of Power: Magic (Atlas Games) · Ars Magica Open License: https://atlas-games.com/arsmagica/openars*
+*Quelle: Ars Magica 5e – Sphären der Macht: Magie (Atlas Games) · Ars Magica Open License: https://atlas-games.com/arsmagica/openars*

@@ -80,7 +80,7 @@
 | Bee King | Bienenkönig | |
 | Blood of the Nephilim | Blut der Nephilim | |
 | Command Animals | Tiere befehligen | |
-| Composer of Power | Machtkomponist | RoP:M; kann Machtlieder an andere Wesen lehren |
+| Composer of Power | Machtkomponist | SdM:M; kann Machtlieder an andere Wesen lehren |
 | Corpse Magic | Leichenmagie | |
 | Curse-Throwing | Fluchschleudern | |
 | Demonic Blood | Dämonisches Blut | |
@@ -89,7 +89,7 @@
 | Focus Power | Fokussierte Macht | Auch als Magische Qualität (Groß); für Nicht-Machtwert-Charaktere: Erschöpfungskosten |
 | Greater Benediction | Große Segnung | |
 | Greater Immunity | Große Immunität | |
-| Greater Immunity (Deprivation) | Große Immunität (Entbehrung) | RoP:M; immun gegen Hunger, Durst, Atemnot |
+| Greater Immunity (Deprivation) | Große Immunität (Entbehrung) | SdM:M; immun gegen Hunger, Durst, Atemnot |
 | Greater Power | Große Macht | Auch als Magische Qualität (Groß); für Nicht-Machtwert-Charaktere: Erschöpfungskosten |
 | Greater Purifying Touch | Große Reinigende Berührung | |
 | Hex | Verhexung | |
@@ -102,7 +102,7 @@
 | Strong Faerie Blood | Starkes Feenblut | |
 | Summon Animals | Tiere rufen | |
 | Supernatural Beauty | Übernatürliche Schönheit | |
-| Transformed (Being) | Verwandeltes (Wesen) | RoP:M; Charakter wird durch Magie in übernatürliches Wesen verwandelt; erhält Machtwert 0 |
+| Transformed (Being) | Verwandeltes (Wesen) | SdM:M; Charakter wird durch Magie in übernatürliches Wesen verwandelt; erhält Machtwert 0 |
 | Whistle Up The Wind | Den Wind heraufpfeifen | |
 
 ### Übernatürliche Tugenden, Klein / Supernatural, Minor
@@ -121,8 +121,8 @@
 | Feather Messenger | Federbote | |
 | Folk Magic | Volksmagie | |
 | Font of Knowledge | Quell des Wissens | |
-| Homing Instinct | Heimkehrinstinkt | RoP:M; kennt Weg zu Int-Wert vielen Orten; feste Arkane Verbindung |
-| (Land) Regio Network | (Land-)Regionetzwerk | RoP:M; Zugang zu Netzwerk von Regiones; Reisezeit 1 Durchmesser |
+| Homing Instinct | Heimkehrinstinkt | SdM:M; kennt Weg zu Int-Wert vielen Orten; feste Arkane Verbindung |
+| (Land) Regio Network | (Land-)Regionetzwerk | SdM:M; Zugang zu Netzwerk von Regiones; Reisezeit 1 Durchmesser |
 | Leather Ripper | Lederzerreißer | |
 | Lesser Benediction | Kleine Segnung | |
 | Lesser Immunity | Mindere Immunität | |
@@ -130,8 +130,8 @@
 | Lesser Purifying Touch | Mindere Reinigende Berührung | |
 | Light Touch | Leichte Berührung | |
 | Magic Sensitivity | Magiegespür | |
-| Magical Blood | Magisches Blut | RoP:M; −1 auf Alterungswürfe; übernatürliche Eigenschaft je nach Wesentyp |
-| Master of (Form) Creatures | Meister der (Form-)Kreaturen | RoP:M; kann unintelligente Wesen mit Magischer Macht der Form zähmen |
+| Magical Blood | Magisches Blut | SdM:M; −1 auf Alterungswürfe; übernatürliche Eigenschaft je nach Wesentyp |
+| Master of (Form) Creatures | Meister der (Form-)Kreaturen | SdM:M; kann unintelligente Wesen mit Magischer Macht der Form zähmen |
 | Personal Power | Persönliche Kraft | Auch als Magische Qualität (Klein); für Nicht-Machtwert-Charaktere: Erschöpfungskosten |
 | Personal Vis Source | Persönliche Vis-Quelle | |
 | Premonitions | Vorahnungen | |
@@ -141,8 +141,8 @@
 | Sense Passions | Leidenschaften spüren | |
 | Skinchanger | Tierwandler | |
 | Summon Animals | Tiere rufen | |
-| Variable Power | Variable Kraft | RoP:M; Kraft wird stärker basierend auf Alter, Machtwert, Verwicklung oder Fertigkeit |
-| Voice of the (Land) | Stimme des/der (Land) | RoP:M; kann mit Kreaturen eines bestimmten Lebensraums sprechen |
+| Variable Power | Variable Kraft | SdM:M; Kraft wird stärker basierend auf Alter, Machtwert, Verwicklung oder Fertigkeit |
+| Voice of the (Land) | Stimme des/der (Land) | SdM:M; kann mit Kreaturen eines bestimmten Lebensraums sprechen |
 | Wilderness Sense | Natursinn | |
 
 ### Übernatürliche Tugenden, Frei / Supernatural, Free
@@ -151,20 +151,20 @@
 |---|---|---|
 | Commanding Aura | Befehlende Aura | Kirchliche oder weltliche Autorität mit übernatürlicher Wirkung |
 
-### Hermetische Tugenden, Klein (RoP:M) / Hermetic, Minor (RoP:M)
+### Hermetische Tugenden, Klein (SdM:M) / Hermetic, Minor (SdM:M)
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Atlantean Magic | Atlantische Magie | RoP:M; Zugang zu Reichweite: Wasserweg, Dauer: Sturm, Ziel: Gewässer |
-| Imbued with the Spirit of (Form) | Durchdrungen vom Geist der (Form) | RoP:M; Erschöpfung statt Vis für gewählte Form |
+| Atlantean Magic | Atlantische Magie | SdM:M; Zugang zu Reichweite: Wasserweg, Dauer: Sturm, Ziel: Gewässer |
+| Imbued with the Spirit of (Form) | Durchdrungen vom Geist der (Form) | SdM:M; Erschöpfung statt Vis für gewählte Form |
 
 ### Allgemeine Tugenden, Groß / General, Major
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Essential Virtue | Essenzielle Tugend | RoP:M; Groß (+6) oder Klein (+3); verleiht Essenzielle Eigenschaft |
-| Giant Blood | Riesenblut | RoP:M-Hinweis: repräsentiert Halbriesen, nicht volle Riesen |
-| Magical Warder | Magischer Wächter | RoP:M; magisches Wesen als Beschützer; auch für Geisterhaften Wächter mit Machtwert |
+| Essential Virtue | Essenzielle Tugend | SdM:M; Groß (+6) oder Klein (+3); verleiht Essenzielle Eigenschaft |
+| Giant Blood | Riesenblut | SdM:M-Hinweis: repräsentiert Halbriesen, nicht volle Riesen |
+| Magical Warder | Magischer Wächter | SdM:M; magisches Wesen als Beschützer; auch für Geisterhaften Wächter mit Machtwert |
 | True Friend | Wahrer Freund | |
 
 ### Allgemeine Tugenden, Klein / General, Minor
@@ -172,9 +172,9 @@
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
 | Academic Concentration (Subject) | Akademische Vertiefung (Fach) | Spezialisierung auf eines der sieben Fächer der Artes Liberales |
-| Essential Virtue | Essenzielle Tugend | RoP:M; Klein (+3); verleiht Essenzielle Eigenschaft |
-| Ferocity | Wildheit | RoP:M; Selbstvertrauenspunkte unter bestimmten Umständen; nur für Grogs/unintelligente Wesen |
-| Inoffensive to (Beings) | Unauffällig für (Wesen) | RoP:M; Gabe/Magische Ausstrahlung stört einen Wesentyp nicht |
+| Essential Virtue | Essenzielle Tugend | SdM:M; Klein (+3); verleiht Essenzielle Eigenschaft |
+| Ferocity | Wildheit | SdM:M; Selbstvertrauenspunkte unter bestimmten Umständen; nur für Grogs/unintelligente Wesen |
+| Inoffensive to (Beings) | Unauffällig für (Wesen) | SdM:M; Gabe/Magische Ausstrahlung stört einen Wesentyp nicht |
 | Affinity with Ability | Affinität zu (Fertigkeit) | |
 | Apt Student | Begabter Schüler | |
 | Arcane Lore | Arkanes Wissen | Zugang zu arkanem Wissen ohne Arkane Fertigkeit |
@@ -196,7 +196,7 @@
 | Improved Characteristics | Verbesserte Eigenschaften | |
 | Inspirational | Inspirierend | |
 | Keen Vision | Scharfe Sicht | |
-| Large | Großgewachsen | RoP:M-Hinweis: bei magischen Charakteren ohne Stärke-/Schnelligkeit-Modifikation |
+| Large | Großgewachsen | SdM:M-Hinweis: bei magischen Charakteren ohne Stärke-/Schnelligkeit-Modifikation |
 | Lightning Reflexes | Blitzreflexe | |
 | Long-Winded | Ausdauernd | |
 | Luck | Glück | |
@@ -212,19 +212,19 @@
 | Unaging | Nicht-Alternd | |
 | Venus's Blessing | Venussegen | |
 | Warrior | Krieger | |
-| Magical Mount | Magisches Reittier | RoP:M; magisches Wesen als Reittier/Wachtier mit Machtwert ≤ 25 |
-| Unaffected by The Gift | Unempfindlich gegenüber der Gabe | RoP:M; nicht betroffen von negativen Effekten der Gabe/Magischen Ausstrahlung |
+| Magical Mount | Magisches Reittier | SdM:M; magisches Wesen als Reittier/Wachtier mit Machtwert ≤ 25 |
+| Unaffected by The Gift | Unempfindlich gegenüber der Gabe | SdM:M; nicht betroffen von negativen Effekten der Gabe/Magischen Ausstrahlung |
 | Wealthy | Wohlhabend | Konsistent im Text verwendet |
 | Well-Traveled | Vielgereist | |
 
-### Spezial-Tugenden (RoP:M) / Special Virtues (RoP:M)
+### Spezial-Tugenden (SdM:M) / Special Virtues (SdM:M)
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Magic Animal | Magisches Tier | RoP:M; Spezial; wahre Gestalt ist ein Tier; Machtwert − Größe |
-| Magic Human | Magischer Mensch | RoP:M; Spezial; wahre Gestalt ist menschlich; inhärent Monströses Aussehen |
-| Magic Spirit | Magischer Geist | RoP:M; Spezial; unkörperliche wahre Gestalt; inhärent Magische Ausstrahlung |
-| Magic Thing | Magisches Ding | RoP:M; Spezial; belebte Materie; inhärent Vorübergehende Macht + Keine Erschöpfung |
+| Magic Animal | Magisches Tier | SdM:M; Spezial; wahre Gestalt ist ein Tier; Machtwert − Größe |
+| Magic Human | Magischer Mensch | SdM:M; Spezial; wahre Gestalt ist menschlich; inhärent Monströses Aussehen |
+| Magic Spirit | Magischer Geist | SdM:M; Spezial; unkörperliche wahre Gestalt; inhärent Magische Ausstrahlung |
+| Magic Thing | Magisches Ding | SdM:M; Spezial; belebte Materie; inhärent Vorübergehende Macht + Keine Erschöpfung |
 
 ### Sozialer Status Tugenden / Social Status Virtues (Auswahl)
 
@@ -243,11 +243,11 @@
 | Knight | Ritter | |
 | Landed Noble | Landadliger | |
 | Magister in Artibus | Magister in Artibus (Lat.) | Akademischer Titel |
-| Magical Champion | Magischer Streiter | RoP:M; Klein; Vertreter einer kleinen Gruppe durch magische Natur |
-| Magical Covenfolk | Magisches Konventsmitglied | RoP:M; Frei; magisches Wesen als gleichwertiges Konventsmitglied |
-| Magical Master | Magischer Meister | RoP:M; Groß; als höhere Macht von einer großen Gruppe anerkannt |
+| Magical Champion | Magischer Streiter | SdM:M; Klein; Vertreter einer kleinen Gruppe durch magische Natur |
+| Magical Covenfolk | Magisches Konventsmitglied | SdM:M; Frei; magisches Wesen als gleichwertiges Konventsmitglied |
+| Magical Master | Magischer Meister | SdM:M; Groß; als höhere Macht von einer großen Gruppe anerkannt |
 | Redcap | Rotkappe | Haus-Mercere-Bote |
-| Spirit Votary | Geistverehrer | RoP:M; Klein; Charakter pflegt rituelle Beziehung zu einem Geist |
+| Spirit Votary | Geistverehrer | SdM:M; Klein; Charakter pflegt rituelle Beziehung zu einem Geist |
 | Veteran | Veteran | |
 
 ---
@@ -259,7 +259,7 @@
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
 | Blatant Gift | Auffällige Gabe | |
-| Environmental Magic Condition | Magische Umgebungsbedingung | RoP:M; Groß, Hermetisch; alle Zauber- und Laborsummen halbiert unter bestimmten Umständen |
+| Environmental Magic Condition | Magische Umgebungsbedingung | SdM:M; Groß, Hermetisch; alle Zauber- und Laborsummen halbiert unter bestimmten Umständen |
 | Deficient Form | Defizitäre Form | |
 | Deficient Technique | Defizitäre Technik | |
 | Difficult Spontaneous Magic | Schwierige Spontane Magie | |
@@ -317,10 +317,10 @@
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
 | Abandoned Apprentice | Verlassener Lehrling | Geschichte-Fehler; Magus hat keinen Orden, der ihn unterstützt |
-| Blatant Magical Air | Auffällige Magische Ausstrahlung | RoP:M; −6 auf soziale Interaktionen; wie Auffällige Gabe |
-| Bound to Magic | An Magie gebunden | RoP:M; muss in Magieaura ≥ 5 leben; sonst Schwere Wunden |
+| Blatant Magical Air | Auffällige Magische Ausstrahlung | SdM:M; −6 auf soziale Interaktionen; wie Auffällige Gabe |
+| Bound to Magic | An Magie gebunden | SdM:M; muss in Magieaura ≥ 5 leben; sonst Schwere Wunden |
 | Greater Malediction | Große Verfluchung | |
-| Hunger for (Form) Magic | Hunger nach (Form-)Magie | RoP:M; muss 1 Vis der Form pro Quartal konsumieren |
+| Hunger for (Form) Magic | Hunger nach (Form-)Magie | SdM:M; muss 1 Vis der Form pro Quartal konsumieren |
 | Monstrous Blood | Monströses Blut | |
 | Suppressed Gift | Unterdrückte Gabe | |
 
@@ -328,18 +328,18 @@
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Baneful Circumstances | Schädliche Umstände | RoP:M; unter bestimmten Umständen keine Erholung/Heilung/Macht-Regeneration |
+| Baneful Circumstances | Schädliche Umstände | SdM:M; unter bestimmten Umständen keine Erholung/Heilung/Macht-Regeneration |
 | Bound to (Realm) | Gebunden an (Sphäre) | |
-| Deteriorating Power | Schwindende Kraft | RoP:M; eine Kraft wird schwächer über Zeit |
+| Deteriorating Power | Schwindende Kraft | SdM:M; eine Kraft wird schwächer über Zeit |
 | Environmental Magic Condition | Magische Umgebungsbedingung | Klein; s. auch Groß/Hermetisch-Version |
 | Environmental Sensitivity | Umgebungsempfindlichkeit | |
-| Exiled Atlantean | Verbannter Atlantier | RoP:M; kann nicht in heimische Regio zurückkehren |
+| Exiled Atlantean | Verbannter Atlantier | SdM:M; kann nicht in heimische Regio zurückkehren |
 | Form Monstrosity | (Form-)Monstrosität | Platzhalter (Form) ersetzen |
 | Imagined Folk Tradition Vulnerability | Eingebildete Volksmagie-Verwundbarkeit | |
 | Lesser Malediction | Kleine Verfluchung | |
-| Monstrous Blood | Monströses Blut | RoP:M; Klein; −1 Alterungswurf aber nachteilige körperliche Eigenschaft |
-| Restricted Power | Eingeschränkte Kraft | RoP:M; Kraft nur unter bestimmten Umständen oder mit Zeremonie aktivierbar |
-| Slow Power | Langsame Kraft | RoP:M; Kraft benötigt zusätzliche Runde Vorbereitung |
+| Monstrous Blood | Monströses Blut | SdM:M; Klein; −1 Alterungswurf aber nachteilige körperliche Eigenschaft |
+| Restricted Power | Eingeschränkte Kraft | SdM:M; Kraft nur unter bestimmten Umständen oder mit Zeremonie aktivierbar |
+| Slow Power | Langsame Kraft | SdM:M; Kraft benötigt zusätzliche Runde Vorbereitung |
 | Susceptibility to Divine Power | Anfälligkeit für Göttliche Kraft | |
 | Susceptibility to Faerie Power | Anfälligkeit für Feenkraft | |
 | Susceptibility to Infernal Power | Anfälligkeit für Infernale Kraft | |
@@ -372,7 +372,7 @@
 | Temperate | Gemäßigt | |
 | Timid | Furchtsam | |
 | Visions | Visionen | |
-| Warped Senses | Verzerrte Sinne | RoP:M; Klein; überempfindliche oder schwache Sinne unter bestimmten Umständen |
+| Warped Senses | Verzerrte Sinne | SdM:M; Klein; überempfindliche oder schwache Sinne unter bestimmten Umständen |
 | Wrathful | Jähzornig | |
 
 ### Geschichte-/Handlungs-Fehler / Story Flaws (Auswahl)
@@ -395,25 +395,25 @@
 | True Love | Wahre Liebe | |
 | Unresolved Trauma | Unverarbeitetes Trauma | |
 | Vendetta | Vendetta | |
-| Magic (Being) Companion | Magischer (Wesen-)Gefährte | RoP:M; Klein; begleitet von intelligentem magischem Wesen |
-| Servant of the (Land) | Diener des/der (Land) | RoP:M; Groß; von mächtiger Kreatur gerettet; muss Aufgabe erfüllen |
+| Magic (Being) Companion | Magischer (Wesen-)Gefährte | SdM:M; Klein; begleitet von intelligentem magischem Wesen |
+| Servant of the (Land) | Diener des/der (Land) | SdM:M; Groß; von mächtiger Kreatur gerettet; muss Aufgabe erfüllen |
 | Vow | Gelübde | |
-| Wanderlust | Wanderlust | RoP:M; Groß; kann nicht länger als ein Quartal am selben Ort bleiben |
+| Wanderlust | Wanderlust | SdM:M; Groß; kann nicht länger als ein Quartal am selben Ort bleiben |
 | Ward | Mündel | |
 
-### Sozialer-Status-Fehler (RoP:M) / Social Status Flaws (RoP:M)
+### Sozialer-Status-Fehler (SdM:M) / Social Status Flaws (SdM:M)
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Magical Friend | Magischer Freund | RoP:M; Klein; magisches Wesen unter Schutz eines Menschen; Gegenstück zu Magischer Gefährte |
-| Magical Monster | Magisches Ungeheuer | RoP:M; Groß; magisches Wesen ohne Bindung an menschliche Gesellschaft |
+| Magical Friend | Magischer Freund | SdM:M; Klein; magisches Wesen unter Schutz eines Menschen; Gegenstück zu Magischer Gefährte |
+| Magical Monster | Magisches Ungeheuer | SdM:M; Groß; magisches Wesen ohne Bindung an menschliche Gesellschaft |
 
 ### Allgemeine Fehler / General Flaws (Auswahl)
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Age Quickly | Schnelles Altern | RoP:M-Hinweis: bei Machtwert nicht immun gegen Altern, aber nur 1×/Jahr |
-| Anchored to the (Land) | Verankert im/am (Land) | RoP:M; Klein; −3 auf alle Würfe außerhalb des Heimatlebensraums |
+| Age Quickly | Schnelles Altern | SdM:M-Hinweis: bei Machtwert nicht immun gegen Altern, aber nur 1×/Jahr |
+| Anchored to the (Land) | Verankert im/am (Land) | SdM:M; Klein; −3 auf alle Würfe außerhalb des Heimatlebensraums |
 | Arthritis | Arthritis | |
 | Blind | Blind | |
 | Clumsy | Ungeschickt | |
@@ -428,15 +428,15 @@
 | Missing Hand | Fehlende Hand | |
 | Noncombatant | Nichtkämpfer | |
 | Poor | Arm | Konsistent im Text verwendet |
-| Essential Flaw | Essenzieller Fehler | RoP:M; Groß (−6) oder Klein (−3); nachteilige Essenzielle Eigenschaft; nicht durch Magie überwindbar |
-| Offensive to (Beings) | Abstoßend für (Wesen) | RoP:M; Klein; magische Präsenz stört einen Wesentyp besonders |
-| Poor Concentration | Schlechte Konzentration | RoP:M-Hinweis: −3 auf Konzentrationswürfe |
+| Essential Flaw | Essenzieller Fehler | SdM:M; Groß (−6) oder Klein (−3); nachteilige Essenzielle Eigenschaft; nicht durch Magie überwindbar |
+| Offensive to (Beings) | Abstoßend für (Wesen) | SdM:M; Klein; magische Präsenz stört einen Wesentyp besonders |
+| Poor Concentration | Schlechte Konzentration | SdM:M-Hinweis: −3 auf Konzentrationswürfe |
 | Poor Eyesight | Schlechtes Sehvermögen | |
 | Poor Hearing | Schlechtes Hörvermögen | |
 | Poor Student | Schlechter Schüler | |
 | Simple-Minded | Einfältig | |
 | Slow Learner | Langsamer Lerner | |
-| Small Frame | Zierlicher Körperbau | RoP:M-Hinweis: bei magischen Charakteren ohne Stärke-/Schnelligkeit-Modifikation |
+| Small Frame | Zierlicher Körperbau | SdM:M-Hinweis: bei magischen Charakteren ohne Stärke-/Schnelligkeit-Modifikation |
 | Weak Personality | Schwache Persönlichkeit | |
 
 ---

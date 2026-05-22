@@ -35,10 +35,10 @@
 |---|---|---|
 | Build Points | Baupunkte | Punkte für die Konventserstellung (Kürzel: BP) |
 | Chamberlain | Kämmerer | Verwalter der Konventskasse und Vorräte |
-| Covenfolk | Konventsmitglieder | Alle Bewohner des Konvents außer Magi und Gefährten |
+| Covenfolk | Konventsbewohner | Alle Bewohner des Konvents außer Magi und Gefährten |
 | Income Source | Einkommensquelle | Quelle des weltlichen Einkommens |
 | Mythic Pound | Mythisches Pfund | Spielwährungseinheit (≈ 1 Pfund Silber) |
-| Prevailing Loyalty | Vorherrschende Loyalität | Durchschnittliche Loyalitätseigenschaft der Konventsmitglieder |
+| Prevailing Loyalty | Vorherrschende Loyalität | Durchschnittliche Loyalitätseigenschaft der Konventsbewohner |
 | Seneschal / Steward | Seneschall | Verwalter der Konventsländereien; engl. „Steward" |
 | Situation (Covenant) | Konventssituation | Vorgegebenes Spielkonzept aus Haken und Vorzügen |
 | Turb Captain | Turba-Hauptmann | Anführer der Turba; koordiniert die Grogs |

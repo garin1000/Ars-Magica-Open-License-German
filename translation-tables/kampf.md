@@ -28,7 +28,8 @@
 | Soak Total | Schadensabsorptionswert | |
 | Attack Advantage | Angriffsvorteil | Angriffssumme − Verteidigungssumme (wenn > 0) |
 | Load | Last | Belastungs­beitrag von Waffe oder Rüstung |
-| Encumbrance | Behinderung | Gesamte Last − Stärke; Abzug auf athletische Handlungen |
+| Encumbrance | Belastung | Gesamte Beladung − Stärke; Abzug auf athletische Handlungen |
+| Burden | Beladung | Zwischenwert aus Gesamtlast; bestimmt Belastung |
 | Range (missile) | Reichweite | Entfernung für Fernkampf; −3 pro Schritt über erste Reichweite |
 | Pace | Schritt | Bewegungseinheit; 1 Schritt = 1,5 m (DE-Abweichung vom EN-Original) |
 

@@ -17,7 +17,7 @@
 | (Living Language) | Allgemein | (Lebende Sprache) | |
 | (Mystery Cult) Lore | Arkan | (Mysterienkult-)Kunde | auch Myterienkultkunde (Spezialisierung) |
 | (Organization) Lore | Allgemein | (Organisations-)Kunde | auch Organisationskunde (Spezialisierung) |
-| Animal Handling | Allgemein | Tierumgang | RoP:M: auch für unintelligente Wesen mit Gerissenheit (Elementare, belebte Bäume) |
+| Animal Handling | Allgemein | Tierumgang | SdM:M: auch für unintelligente Wesen mit Gerissenheit (Elementare, belebte Bäume) |
 | Animal Ken\* | Übernatürlich | Tierverständnis | |
 | Art of Memory | Akademisch | Gedächtniskunst | |
 | Artes Liberales | Akademisch | Artes Liberales | Lat., behalten |
@@ -94,7 +94,7 @@
 
 ---
 
-## Neue Fertigkeiten aus Realms of Power: Magic
+## Neue Fertigkeiten aus Realms of Power: Magic / Sphären der Macht: Magie
 
 | Englisch (EN) | Typ | Deutsch (DE) | Anmerkung |
 |---|---|---|---|
@@ -103,4 +103,4 @@
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024) · Ars Magica 5e – Realms of Power: Magic (Atlas Games)*
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024) · Ars Magica 5e – Sphären der Macht: Magie (Atlas Games)*

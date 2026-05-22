@@ -1,4 +1,4 @@
-# Herrschaftssphären: Magie
+# Sphären der Macht: Magie
 Ein Quellenband für Ars Magica 5th Edition.
 
 > *Open-License-Markdown-Version von applejuice1965 & OriginalMadman, https://github.com/OriginalMadman/Ars-Magica-Open-License*
@@ -288,7 +288,7 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 >
 >Soziale Fertigkeiten und magische Wesen
 >
->Magische Qualitäten und Initiationsskripte
+>Magische Qualitäten und Einweihungsskripte
 >
 >Vis-Konsum
 >
@@ -322,7 +322,7 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 >
 >Weltliche Tiere zähmen
 >
->Tierverständigung
+>Tierverständnis
 >
 >Urzeitliche Riesen
 >
@@ -494,7 +494,7 @@ Magi diskutieren seit Langem über das genaue Wesen dieser Magieauren, in denen 
 >
 >Zur zweiten Frage glauben die meisten Magi — vielleicht etwas anmaßend —, dass ihre eigene magische Praxis, etwa Laborarbeit, eine wohltuende Wirkung auf eine Magieaura hat, und theoretisieren, dass der bloße wiederholte Einsatz von Magie in einem Gebiet dazu tendiert, fluides Vis anzusammeln. (Die meisten Magi setzen Nutzen mit Stärkung gleich, da stärkere Magieauren für sie im Allgemeinen wünschenswert sind.) Einige vertreten die Ansicht, dass schon das bloße Nachdenken über Magie (etwa beim Studium) die latente Stärke einer Aura verstärken kann. Die meisten glauben, dass mächtige magische Unfälle dazu tendieren, Magieauren zu stärken, und das aus gutem Grund, denn in der Ordensgeschichte, insbesondere während des Schismakrieges, wurde dieses Phänomen mehrfach beobachtet. Es gibt jedoch mindestens einen dokumentierten Fall, in dem ein Perdo-Vim-Patzer eine Aura verkümmern ließ. Es gibt eine einzige magische Tätigkeit, die Vis-Gewinnung, von der allgemein angenommen wird, dass sie eine Magieaura schwächt, da sie angeblich einen Teil des fluiden Vis entnimmt, umwandelt und zu rohem Vis konzentriert. Eine Gegentheorie, die die Analogie von Wasser in einem Becken für fluides Vis in einer Aura verwendet, besagt, dass die Vis-Gewinnung tatsächlich nützlich ist, da sie das „Becken" vertieft, ähnlich wie das Ausbaggern eines Flussbetts dieses vertieft.
 >
->Den meisten Magi ist der genaue Einfluss ihrer Aktivitäten auf die Magieaura ihres Konvents im Allgemeinen nicht bewusst, obwohl diese Prozesse zumindest teilweise von jenen verstanden werden, die in der Kunst Vim bewandert sind und sich dem Studium des Themas gewidmet haben. Die Funktionsweise von Auren ist zweifellos ein fruchtbares Forschungsgebiet. Jeder Effekt, der eine Magieaura *zuverlässig* manipuliert, sollte wohl mindestens einen Großen Durchbruch oder eine Mysterien-Initiation erfordern.
+>Den meisten Magi ist der genaue Einfluss ihrer Aktivitäten auf die Magieaura ihres Konvents im Allgemeinen nicht bewusst, obwohl diese Prozesse zumindest teilweise von jenen verstanden werden, die in der Kunst Vim bewandert sind und sich dem Studium des Themas gewidmet haben. Die Funktionsweise von Auren ist zweifellos ein fruchtbares Forschungsgebiet. Jeder Effekt, der eine Magieaura *zuverlässig* manipuliert, sollte wohl mindestens einen Großen Durchbruch oder eine Mysterieneinweihung erfordern.
 >
 >Die Regeln für Auraschwankungen in diesem Kapitel setzen voraus, dass die Mehrheitsmeinungen korrekt sind (beispielsweise, dass die Vis-Gewinnung einen schädlichen Einfluss auf eine Aura hat). Wenn sich Magieauren in eurer Saga anders verhalten, könnt ihr einige der Zahlen entsprechend anpassen.
 
@@ -780,7 +780,7 @@ Die Stärkung einer Magieaura kann sich in einer Zunahme von Omen, Visionen und 
 >
 >#### Mundäne Stimmung
 >
->Unter den Konventsleuten wird eine schlechte Stimmung und mangelnde Arbeitsmoral bemerkt. Die Magi vermuten einen finsteren Einfluss, aber die wahre Ursache, die sie übersehen haben, ist schlicht ihre langsam schwächer werdende Aura und die daraus resultierende zunehmende Gewöhnlichkeit.
+>Unter den Konventsbewohnern wird eine schlechte Stimmung und mangelnde Arbeitsmoral bemerkt. Die Magi vermuten einen finsteren Einfluss, aber die wahre Ursache, die sie übersehen haben, ist schlicht ihre langsam schwächer werdende Aura und die daraus resultierende zunehmende Gewöhnlichkeit.
 >
 >#### Glücksfall der Zauberer
 >
@@ -800,13 +800,13 @@ Die Stärkung einer Magieaura kann sich in einer Zunahme von Omen, Visionen und 
 
 ## Magische Regiones
 
-Regiones (siehe **ArM5**, Seite 189) finden sich in einigen Magieauren und einigen Konventen. Eine Regio in einem Konvent bietet typischerweise eine Reihe von Vorteilen, etwa die Möglichkeit, magische Bereiche leichter vor Eindringlingen zu schützen, die Magi von den Konventsleuten zu trennen und schlicht mehr Platz zu bieten. Regiones können allerdings auch ein zweischneidiges Schwert sein, und ihr Erscheinen verursacht oft Probleme. Sie können in einer Magieaura auf verschiedene Weisen entstehen.
+Regiones (siehe **ArM5**, Seite 189) finden sich in einigen Magieauren und einigen Konventen. Eine Regio in einem Konvent bietet typischerweise eine Reihe von Vorteilen, etwa die Möglichkeit, magische Bereiche leichter vor Eindringlingen zu schützen, die Magi von den Konventsbewohnern zu trennen und schlicht mehr Platz zu bieten. Regiones können allerdings auch ein zweischneidiges Schwert sein, und ihr Erscheinen verursacht oft Probleme. Sie können in einer Magieaura auf verschiedene Weisen entstehen.
 
 Die häufigste Ursache für eine Magische Regio ist ein mächtiges magisches Ereignis oder ein Unfall. Magieauren sind Orte, an denen sich die mundäne Welt mit der Magiesphäre zu überlappen beginnt. Wenn eine Veränderung einer Magieaura zu schnell oder zu mächtig geschieht, wird das Gefüge der Realität zu stark beansprucht und reißt, wodurch die Aura in eine oder mehrere Regio-Ebenen aufsplittert. Irencillia, die Domus Magna des Hauses Merinita, ist ein Beispiel für eine Regio, die auf diese Weise entstanden ist (obwohl ihre Aura feenisch ist, nicht magisch). Criamon-Magi betrachten eine solche Regio oft als eine Art Verfälschung (siehe *Häuser des Hermes: Mysterienbünde*, Seite 53). Hermetische Magi haben noch kein zuverlässiges und vertrauenswürdiges Mittel entdeckt, um auf diese Weise eine Magische Regio zu erschaffen.
 
 Wie oben in den Auraschwankungsregeln erwähnt, erhöhen schnelle und wiederholte Instabilitäten in einer Aura, die sich in der Anzahl der Patzerwürfel für Aurastärkungs- und Auraschwächungswürfe widerspiegeln, die Wahrscheinlichkeit, dass eine Regio entsteht. Tritt dies ein (ein Patzer-Ergebnis), hat die neue Regio zwei Ebenen — eine mundäne Ebene (Aura 0) und eine Ebene mit einer Aura gleich dem Gesamt-Aurawert. Alle Anwesenden in der Aura erhalten 3 Verzerrungspunkte (dies erfordert von allen Magus-Charakteren einen Wurf auf Zwielicht). Gibt es *bereits* eine Regio, entsteht eine zusätzliche Zwischenebene; die Aura solcher neuen Ebenen wird zufällig bestimmt. Eine Regio kann jedoch niemals mehr Ebenen als den Aurawert plus 1 erreichen. Jede Ebene muss eine unterschiedliche Aurastärke haben, die den Gesamt-Aurawert nicht überschreiten kann (der immer der Aurastärke der obersten Ebene entspricht). Bei einem Doppelpatzer oder Schlimmerem werden alle erhaltenen Verzerrungspunkte verdoppelt, und die Auraaufspaltung geschieht auf höchst ungünstige oder gefährliche Weise. Beispielsweise könnten sich die Sancta der Magi auf der mundänen Ebene befinden, aber die Gästequartiere und die Kaserne auf der obersten Ebene, oder es lässt sich kein Weg finden, zwischen den Ebenen zu navigieren. Ist der Patzer weniger schwerwiegend, kann angenommen werden, dass sich der Großteil des Aurainhalts (die Gebäude, falls die Aura die eines Konvents ist) auf der obersten Ebene befindet. Es ist möglich, ohne Magie zwischen den Ebenen zu navigieren, obwohl dies typischerweise einen besonderen Weg oder eine besondere Methode erfordert, die entdeckt und eingeübt werden muss. Niedrigere Ebenen könnten entweder als verfallene oder leere Version der obersten Ebene erscheinen oder als exakte oder ähnliche Kopie. Im ersteren Fall könnte die Auraaufspaltung eines Konvents einem äußeren Beobachter so erscheinen, als sei der Konvent selbst entweder zerstört oder verlassen worden, was wohl eine gute Tarngeschichte erfordern würde.
 
-Das Erscheinen einer neuen Regio auf diese Weise ist selten ein positives Ereignis. Alle Charaktere erleiden Verzerrung, was typischerweise bei einem oder mehreren Magi Zwielicht auslöst. Eine Menge Chaos und Verwirrung unter den Konventsleuten entsteht durch das Erscheinen einer neuen Existenzebene in ihrem Zuhause, und Verletzungen und sogar Todesfälle können die Folge sein. Im Fall eines Doppelpatzers (oder Schlimmerem) sollte die Erfahrung besonders schlimm sein. In beiden Fällen bietet die Entstehung einer Regio eine gute Gelegenheit für eine Geschichte, und der Spielleiter sollte die genauen Auswirkungen festlegen.
+Das Erscheinen einer neuen Regio auf diese Weise ist selten ein positives Ereignis. Alle Charaktere erleiden Verzerrung, was typischerweise bei einem oder mehreren Magi Zwielicht auslöst. Eine Menge Chaos und Verwirrung unter den Konventsbewohnern entsteht durch das Erscheinen einer neuen Existenzebene in ihrem Zuhause, und Verletzungen und sogar Todesfälle können die Folge sein. Im Fall eines Doppelpatzers (oder Schlimmerem) sollte die Erfahrung besonders schlimm sein. In beiden Fällen bietet die Entstehung einer Regio eine gute Gelegenheit für eine Geschichte, und der Spielleiter sollte die genauen Auswirkungen festlegen.
 
 Das Erscheinen neuer Regio-Ebenen in einer bestehenden Magischen Regio ist etwas weniger problematisch als die Entstehung einer neuen Regio. Die Umwälzungen für die Bewohner sind geringer, obwohl weiterhin Verzerrung erlitten wird.
 
@@ -1264,7 +1264,7 @@ Der Reisende mag sich nie der Auswirkungen seiner Entscheidungen bewusst sein od
 
 Wie oben beschrieben, sammeln Charaktere in der Magischen Sphäre Vis statt Erfahrung an. Vor der Rückkehr in die mundane Welt kann dieses Vis dazu verwendet werden, einen Charakter ohne Machtwert zu transformieren, sodass er neue Tugenden und Fehler erhalten oder seine bestehenden Tugenden und Fehler verändern kann.
 
-Im Allgemeinen können nur hermetische, übernatürliche oder allgemeine Tugenden und Fehler auf diese Weise beeinflusst werden, und sie sollten in irgendeiner Weise zu den Erlebnissen des Charakters in der Magischen Sphäre passen. Zum Beispiel könnte ein Charakter, der dorthin gereist ist, um vom Geist einer verstorbenen Criamon-Maga zu lernen, Enigmatische Weisheit erhalten, und ein Charakter, der den Segen des Wolfskönigs suchte, könnte ein Fell erhalten, das ihm erlaubt, sich in einen Wolf zu verwandeln (Gestaltwandler).
+Im Allgemeinen können nur hermetische, übernatürliche oder allgemeine Tugenden und Fehler auf diese Weise beeinflusst werden, und sie sollten in irgendeiner Weise zu den Erlebnissen des Charakters in der Magischen Sphäre passen. Zum Beispiel könnte ein Charakter, der dorthin gereist ist, um vom Geist einer verstorbenen Criamon-Maga zu lernen, Enigmatische Weisheit erhalten, und ein Charakter, der den Segen des Wolfskönigs suchte, könnte ein Fell erhalten, das ihm erlaubt, sich in einen Wolf zu verwandeln (Tierwandler).
 
 Charaktere erleben nicht mehr als eine Transformation pro Quartal, obwohl sie nicht ihr gesamtes Vis auf einmal aufbrauchen müssen. Neue Tugenden oder Fehler brauchen möglicherweise etwas Zeit, um sich nach der Rückkehr des Charakters aus der Magischen Sphäre zu manifestieren, was ihm Zeit gibt, sich an sein neues und verbessertes Selbst zu gewöhnen. Wenn eine Tugend oder ein Fehler in eine andere Tugend oder einen anderen Fehler transformiert wird, sollten die beiden in irgendeiner Weise verwandt sein, und Charaktere können keine Tugenden oder Fehler transformieren, die die Charaktererschaffung betreffen, wie eine Affinität mit einer Fertigkeit oder Begabter Parens.
 
@@ -1613,7 +1613,7 @@ Magische Tiere sind die häufigste Art magischer Charaktere; ihre Wahre Gestalt 
 >
 >**Machtwert:** 0–10 (Animal)
 >
->**Eigenschaften:** Klu 0, Wah +2, Prä –2, Kom 0, Stä 0, Aus +2, Ges +1, Sck +2
+>**Eigenschaften:** Ger 0, Wah +2, Prä –2, Kom 0, Stä 0, Aus +2, Ges +1, Sck +2
 >
 >**Größe:** 0
 >
@@ -1675,7 +1675,7 @@ Magische Dinge haben nicht unbedingt Hände zum Greifen oder Füße zum Gehen, k
 
 Wie die Klauen eines magischen Tiers oder die Fäuste eines magischen Menschen werden Magische Dinge nicht durch Magieresistenz aufgehalten, es sei denn, sie unterliegen einem aktiven übernatürlichen Effekt. Da sie einen Machtwert besitzen, müssen Bannkreise gegen Magische Dinge ihrerseits deren Magieresistenz durchdringen.
 
-Magi können ein Magisches Ding wie jeden anderen Gegenstand als investierten Gegenstand verzaubern, und es soll geheime Wissenspfade geben, die es Magi ermöglichen, den Machtwert eines Magischen Dings zu nutzen (wie Hermetische Ermächtigung, Seite 64 von *The Mysteries Revised Edition*, oder Magische Kreaturen binden, Seite 134 von *Houses of Hermes: Mystery Cults*). Die meisten Magi können nur ein Tier als Vertrauten haben, doch es gibt Mysterien zur Bindung eines Geist-Vertrauten, und es mag Varianten dieser Tugenden geben, die die Bindung mit einem Magischen Ding ermöglichen (siehe Geist-Vertrauter, *The Mysteries Revised Edition*, Seite 66).
+Magi können ein Magisches Ding wie jeden anderen Gegenstand als Bereitetes Artefakt verzaubern, und es soll geheime Wissenspfade geben, die es Magi ermöglichen, den Machtwert eines Magischen Dings zu nutzen (wie Hermetische Ermächtigung, Seite 64 von *The Mysteries Revised Edition*, oder Magische Kreaturen binden, Seite 134 von *Houses of Hermes: Mystery Cults*). Die meisten Magi können nur ein Tier als Vertrauten haben, doch es gibt Mysterien zur Bindung eines Geist-Vertrauten, und es mag Varianten dieser Tugenden geben, die die Bindung mit einem Magischen Ding ermöglichen (siehe Geist-Vertrauter, *The Mysteries Revised Edition*, Seite 66).
 
 Magische Dinge haben immer Vorübergehende Macht (siehe Große Mängel weiter unten), was bedeutet, dass sie ihre verbrauchten Machtpunkte nicht einfach oder schnell wiedererlangen und ihre Wunden an ihren Machtwert gebunden sind, sodass jede Verletzung, die ein Charakter erleidet, seinen Machtvorrat verringert und sich als Vis manifestiert. Alle Magische-Ding-Charaktere erhalten die Qualität Keine Erschöpfung ohne Kosten.
 
@@ -1701,7 +1701,7 @@ Magische Geister haben immer eine angeborene Magische Ausstrahlung, die für sie
 
 *Neils Charakter bei Semita Errabunda, Victor von Mercere, reitet ein magisches Pferd namens Aeolus, was durch seinen Fehler Magischer Tiergefährte angezeigt wird, und Erik beschließt, es als magischen Charakter zu gestalten, den er oder einer der anderen Spieler in der Saga spielen kann. Neil hat bereits den Großteil der Persönlichkeit und der Kräfte des Charakters beschrieben, daher wird Erik diese Ideen einfach auf diese Regeln anwenden.*
 
-*Erik schlägt die Werte für ein Pferd im Buch der Gewöhnlichen Tiere nach und entscheidet, dass Aeolus ein Schlachtross ist. Als Referenz notiert er die Eigen-* *schaften des Schlachtrosses (Klu –2, Wah 0, Prä 0, Kom –4, Stä +4, Aus +3, Ges –2, Sck +2). Diese Werte geben Erik eine Vorstellung davon, wie Aeolus letztlich aussehen sollte. Er beginnt, Punkte auf seine Eigenschaften zu verteilen, und endet bei Int –2, Wah 0, Prä 0, Kom +1, Stä 0, Aus +3, Ges –2 und Sck +3 (die Größe +2 des Pferdes wird die Stärke um 4 erhöhen und die Schnelligkeit um 2 verringern).*
+*Erik schlägt die Werte für ein Pferd im Buch der Gewöhnlichen Tiere nach und entscheidet, dass Aeolus ein Schlachtross ist. Als Referenz notiert er die Eigen-* *schaften des Schlachtrosses (Ger –2, Wah 0, Prä 0, Kom –4, Stä +4, Aus +3, Ges –2, Sck +2). Diese Werte geben Erik eine Vorstellung davon, wie Aeolus letztlich aussehen sollte. Er beginnt, Punkte auf seine Eigenschaften zu verteilen, und endet bei Int –2, Wah 0, Prä 0, Kom +1, Stä 0, Aus +3, Ges –2 und Sck +3 (die Größe +2 des Pferdes wird die Stärke um 4 erhöhen und die Schnelligkeit um 2 verringern).*
 
 *Bei den Tugenden und Fehlern sieht Erik, dass er Aeolus die Tugenden Ausdauernd, Verbesserte Eigenschaften und Hervorragende (Schnelligkeit) zuweisen muss. Mit Verbesserte Eigenschaften erhöht er seine Präsenz auf +2. Er muss außerdem einen Sozialen Status nehmen und wählt den Kleinen Sozialer-Status-Fehler Magischer Freund, um seine Beziehung zum Konvent und zu Victor zu beschreiben. Dann nimmt er zwei Kleine Persönlichkeitsfehler: Stolz (wie alle Schlachtrosse ist Aeolus ziemlich egozentrisch) und Wollüstig (Aeolus ist ein Experte in Sachen Tierzucht, sozusagen). Er muss außerdem Pferd +3 als Essenzielle Eigenschaft nehmen.*
 
@@ -1849,7 +1849,7 @@ Magische Charaktere werden wie Standardcharaktere abgeschlossen: Stelle sicher, 
 
 Jeder magische Charakter hat eine besondere Persönlichkeitseigenschaft, typischerweise bei +3, die seine Wahre Gestalt beschreibt. Diese ist gewöhnlich etwas Einfaches wie „Rabe", „Mensch" oder „Baum" und wird durch ein Sternchen (*) von anderen Persönlichkeitseigenschaften unterschieden. Dies ist eine Essenzielle Eigenschaft (siehe Essenzielle Eigenschaften weiter unten), die sicherstellt, dass der Charakter nicht gegen seine grundlegende Natur handelt; der Charakter kann nicht entgegen dieser Eigenschaft handeln, und Magie kann den Charakter nicht dazu zwingen, sich ihr zuwider zu verhalten.
 
-Du solltest alle Kampfwerte des Charakters berechnen, einschließlich seiner Schadensabsorption und Wundstufenbereiche, und ihm jede Ausrüstung zuweisen, von der du dir vorstellen kannst, dass er sie vernünftigerweise erworben und instand gehalten haben könnte, wobei die Stärke und Behinderung des Charakters zu beachten sind. Berechne schließlich das Inhärente Vis des Charakters, wobei du Art, Fundort und Menge wählst (diese entspricht typischerweise seinem Machtwert geteilt durch 5, aufgerundet).
+Du solltest alle Kampfwerte des Charakters berechnen, einschließlich seiner Schadensabsorption und Wundstufenbereiche, und ihm jede Ausrüstung zuweisen, von der du dir vorstellen kannst, dass er sie vernünftigerweise erworben und instand gehalten haben könnte, wobei die Stärke und Belastung des Charakters zu beachten sind. Berechne schließlich das Inhärente Vis des Charakters, wobei du Art, Fundort und Menge wählst (diese entspricht typischerweise seinem Machtwert geteilt durch 5, aufgerundet).
 
 ## Qualitäten und Mängel
 
@@ -2914,9 +2914,9 @@ Charaktere mit der Tugend Begabt können Übernatürliche Fertigkeiten wie ander
 
 Transformation ist der Begriff für das Herbeiführen dauerhafter Verbesserungen an der Gestalt eines magischen Charakters, die ihn magischer machen, ohne zu verändern, was er im Kern ist. Aus diesem Grund können diese Verbesserungen nicht gegen die essenzielle Natur des Charakters verstoßen — ein magischer Hund, der magischer wird, muss immer noch ein magischer Hund sein, auch wenn er die Fähigkeit zu fliegen, Feuer zu speien oder sich in eine menschliche Gestalt zu verwandeln erlangt. Jedes Mal, wenn ein Charakter den Prozess der Transformation durchläuft, sollte die Spieltruppe sich einig sein, dass die Veränderung nicht grundlegend mit seiner wahren Gestalt in Konflikt steht, andernfalls kann die Transformation auf diese Weise nicht stattfinden.
 
->## Magische Qualitäten und Initiationsskripte
+>## Magische Qualitäten und Einweihungsskripte
 >
->Es ist möglich, anderen magischen Wesen neue Magische Qualitäten beizubringen, indem man ein Buch darüber schreibt, aber dies ist ein unglaublich seltenes Phänomen, da nur wenige magische Charaktere lesen und schreiben können. Ein solches Buch könnte einem Initiationsskript für einen besonders esoterischen Mysterienkult ähneln (siehe *Die Mysterien, Überarbeitete Ausgabe*, Seiten 15–18), und es kann nach Ermessen der Spieltruppe von einem Mystagogen für die Initiation einer passenden Tugend angepasst werden. Bücher über andere mystische Themen — wie Magiekunde oder die Organisationskunde eines Mysterienkults —, die Initiationsskripte enthalten, können ebenfalls als Transformations-Studienquellen behandelt werden, wenn sie besonders auf die betreffende Magische Qualität zutreffen, wiederum mit Zustimmung der Spieltruppe.
+>Es ist möglich, anderen magischen Wesen neue Magische Qualitäten beizubringen, indem man ein Buch darüber schreibt, aber dies ist ein unglaublich seltenes Phänomen, da nur wenige magische Charaktere lesen und schreiben können. Ein solches Buch könnte einem Einweihungsskript für einen besonders esoterischen Mysterienkult ähneln (siehe *Die Mysterien, Überarbeitete Ausgabe*, Seiten 15–18), und es kann nach Ermessen der Spieltruppe von einem Mystagogen für die Initiation einer passenden Tugend angepasst werden. Bücher über andere mystische Themen — wie Magiekunde oder die Organisationskunde eines Mysterienkults —, die Einweihungsskripte enthalten, können ebenfalls als Transformations-Studienquellen behandelt werden, wenn sie besonders auf die betreffende Magische Qualität zutreffen, wiederum mit Zustimmung der Spieltruppe.
 
 Die grundlegende Mechanik der Transformation nutzt Erfahrungspunkte. Magische Charaktere können neue Qualitäten und Mängel erlangen, indem sie Erfahrungspunkte für ihr Studium aufwenden. Dies können Erfahrungspunkte sein, die durch Übung, Abenteuer oder einen Lehrer gewonnen wurden, der die gewünschte Qualität besitzt. (Das Üben einer Qualität, die man bereits besitzt, mit der Absicht, sie zu verbessern, hat eine Studiensumme von 5.) Man muss weiterhin den Machtwert des Charakters von der Studiensumme abziehen, wie oben beschrieben, und wie üblich kann der Charakter diesen Abzug durch den Konsum von Vis ausgleichen. Die Anzahl der für jeden Qualitätstyp nötigen Erfahrungspunkte ist in der folgenden Tabelle aufgeführt.
 
@@ -3291,7 +3291,7 @@ Das Fell eines Schwarzen Hundes kann angereichert werden, indem man es in völli
 
 Machtwert: 14 (Animal)
 
-Eigenschaften: Klu –1, Wah +2, Prä +1, Kom –2, Stä –4, Aus +3, Ges +1, Sck +2
+Eigenschaften: Ger –1, Wah +2, Prä +1, Kom –2, Stä –4, Aus +3, Ges +1, Sck +2
 
 Größe: –2 Jahreszeit: Frühling
 
@@ -3341,7 +3341,7 @@ Die Augen eines Caladrius werden angereichert, indem man sie zu einer Paste zerr
 
 Machtwert: 9 (Animal)
 
-Eigenschaften: Klu –2, Wah +2, Prä +2, Kom 0, Stä –6, Aus 0, Ges +2, Sck +4
+Eigenschaften: Ger –2, Wah +2, Prä +2, Kom 0, Stä –6, Aus 0, Ges +2, Sck +4
 
 Größe: –3 Jahreszeit: Frühling
 
@@ -3425,7 +3425,7 @@ InTe 40 (Basis 4, +1 Berührung, +2 Sonne, +1 Teil, +3 Größe, +1 Konstant): Gr
 
 *Sprint des Zephyrs*, 1 Punkt, Init +2, Animal R: Persönlich, D: Durchmesser, Z: Ind
 
-Das Pferd kann für relativ kurze Strecken mit erstaunlicher Geschwindigkeit galoppieren. Unbelastet kann es eine Wegstunde in einem Durchmesser zurücklegen. Für jede Behinderungsstufe des Pferdes ist ein Durchmesser zusätzlich zur Reisezeit zu addieren. ReAn 20 (Basis 15, +1 Durchmesser): Persönliche Kraft (20 Stufen, –1 Machtkosten)
+Das Pferd kann für relativ kurze Strecken mit erstaunlicher Geschwindigkeit galoppieren. Unbelastet kann es eine Wegstunde in einem Durchmesser zurücklegen. Für jede Beladungsstufe des Pferdes ist ein Durchmesser zusätzlich zur Reisezeit zu addieren. ReAn 20 (Basis 15, +1 Durchmesser): Persönliche Kraft (20 Stufen, –1 Machtkosten)
 
 
 *Der ungehinderte Wanderer*, 3 Punkte, Konstant, Animal
@@ -3440,7 +3440,7 @@ ReAn 25 (Basis 10, Sonne +2, +1 Konstant): Persönliche Kraft (25 Stufen)
 
 R: Persönlich, D: Mom, Z: Ind
 
-Der Hengst ist in der Lage, augenblicklich bis zu 30 Schritt vertikal oder 50 Schritt horizontal zu springen. Der Hengst muss einen Geschicklichkeit – Behinderung Stresswurf von 0+ schaffen, um ohne Verletzung zu landen.
+Der Hengst ist in der Lage, augenblicklich bis zu 30 Schritt vertikal oder 50 Schritt horizontal zu springen. Der Hengst muss einen Geschicklichkeit – Belastung Stresswurf von 0+ schaffen, um ohne Verletzung zu landen.
 
 ReAn 15 (Basis 15): Persönliche Kraft (15 Stufen, –2 Machtkosten)
 
@@ -3542,7 +3542,7 @@ Alternativ kann die Mähne angereichert werden, indem man die Haut mit Pottasche
 
 Machtwert: 15 (Animal)
 
-Eigenschaften: Klu +2, Wah +2, Prä –3, Kom –2, Stä +1, Aus 0, Ges +4, Sck +2
+Eigenschaften: Ger +2, Wah +2, Prä –3, Kom –2, Stä +1, Aus 0, Ges +4, Sck +2
 
 Größe: 0
 
@@ -3643,7 +3643,7 @@ Das Vis in einem Tugendtier Rabe wird angereichert, indem man den gesamten Kadav
 
 **Magische Macht:** 24 (Ignem)
 
-**Eigenschaften:** Klu –2, Wah +1, Prä –3, Kom –3, Stä –13, Aus +3, Ges +2, Sck +10
+**Eigenschaften:** Ger –2, Wah +1, Prä –3, Kom –3, Stä –13, Aus +3, Ges +2, Sck +10
 
 **Größe:** –8
 
@@ -3728,11 +3728,11 @@ Der Körper eines Tugendtier Salamanders wird, wenn man ihn über Glut von Erlen
 >
 >### Ein schlechtes Omen
 >
->Ein Tugendtier Rabe kann ein neuartiger, wenn auch etwas plumper Weg sein, eine Geschichte einzuleiten, in der dem Konvent etwas Schlimmes widerfährt. Die *Aegis des Herdes* hält ihn draußen, daher muss er sein Vorzeichen an Grogs oder Konventsmitglieder überbringen, deren tägliche Geschäfte sie vor die Konventsmauern führen.
+>Ein Tugendtier Rabe kann ein neuartiger, wenn auch etwas plumper Weg sein, eine Geschichte einzuleiten, in der dem Konvent etwas Schlimmes widerfährt. Die *Aegis des Herdes* hält ihn draußen, daher muss er sein Vorzeichen an Grogs oder Konventsbewohner überbringen, deren tägliche Geschäfte sie vor die Konventsmauern führen.
 >
 >### Kaltblütiger Eindringling
 >
->Ein Tugendtier Salamander findet seinen Weg in den Konvent — sein Machtwert ist hoch genug, dass er eine schwache *Aegis des Herdes* durchdringen kann. Auf seiner nie endenden Suche nach Wärme löscht es Kochfeuer, bringt die Schmiede des Hufschmieds zum Erlöschen und findet schließlich seinen Weg in die Labore der Magi. Die Kreatur ist so klein, dass sie leicht durch Ritzen unter Türen kriechen oder sich im Stroh auf den Böden verstecken kann. Grogs und Konventsmitglieder sind wahrscheinlich vom Tugendtier Salamander wegen seines Gifts verängstigt, obwohl es mit mundänen Mitteln recht leicht zu töten ist (wenn man es finden kann). Ein ehrgeiziger Magus möchte das Tugendtier Salamander vielleicht als Vertrauten, aber die Kreatur interessiert sich wenig für Menschen und lässt sich nicht leicht anfreunden.
+>Ein Tugendtier Salamander findet seinen Weg in den Konvent — sein Machtwert ist hoch genug, dass er eine schwache *Aegis des Herdes* durchdringen kann. Auf seiner nie endenden Suche nach Wärme löscht es Kochfeuer, bringt die Schmiede des Hufschmieds zum Erlöschen und findet schließlich seinen Weg in die Labore der Magi. Die Kreatur ist so klein, dass sie leicht durch Ritzen unter Türen kriechen oder sich im Stroh auf den Böden verstecken kann. Grogs und Konventsbewohner sind wahrscheinlich vom Tugendtier Salamander wegen seines Gifts verängstigt, obwohl es mit mundänen Mitteln recht leicht zu töten ist (wenn man es finden kann). Ein ehrgeiziger Magus möchte das Tugendtier Salamander vielleicht als Vertrauten, aber die Kreatur interessiert sich wenig für Menschen und lässt sich nicht leicht anfreunden.
 >
 >### Eine Magische Beute
 >
@@ -3754,7 +3754,7 @@ Der Körper eines Tugendtier Salamanders wird, wenn man ihn über Glut von Erlen
 
 **Magische Macht:** 17 (Animal)
 
-**Eigenschaften:** Klu –2, Wah +2, Prä +2, Kom –3, Stä +4, Aus +3, Ges +1, Sck +2
+**Eigenschaften:** Ger –2, Wah +2, Prä +2, Kom –3, Stä +4, Aus +3, Ges +1, Sck +2
 
 **Größe:** +2 **Jahreszeit:** Sommer **Selbstvertrauenswert:** 1 (3)
 
@@ -3866,7 +3866,7 @@ ReMe(An) 20 (Basis 4, +2 Stimme, +2 Sonne): Große Macht (20 Stufen, –2 Machtk
 
 *Großer Sprung*, 0 Punkte, Init +1, Animal R: Persönlich, D: Momentan, Z: Individuum
 
-> Der Hirsch kann augenblicklich bis zu 30 Schritt vertikal oder 50 Schritt horizontal springen. Der Hirsch muss einen Geschicklichkeit – Behinderung-Stresswurf von 0+ schaffen, um ohne Verletzung zu landen.
+> Der Hirsch kann augenblicklich bis zu 30 Schritt vertikal oder 50 Schritt horizontal springen. Der Hirsch muss einen Geschicklichkeit – Belastung-Stresswurf von 0+ schaffen, um ohne Verletzung zu landen.
 
 > ReAn 15 (Basis 15): Persönliche Kraft (15 Stufen, –2 Machtkosten)
 
@@ -4015,7 +4015,7 @@ Die **Tugendtier-Gans** ist ein guter Wächter und kann den Geruch von Menschen 
 >
 >- Die Magi befreunden eine scharfäugige **Tugendtier-Ziege** und überzeugen sie, in ihrem Gebiet nach Fremden Ausschau zu halten. Ein rivalisierender Konvent, der gerne Grenzen überschreitet, erhebt den Vorwurf der magischen Ausspähung.
 >
->- Die Konventsmitglieder beginnen, Gänse zu züchten, doch zum Ärger der Magi will eine Gans — die **Tugendtier-Gans** — nachts nicht still sein. Der Grund ist, dass ein Fremder nachts um den Konvent schleicht.
+>- Die Konventsbewohner beginnen, Gänse zu züchten, doch zum Ärger der Magi will eine Gans — die **Tugendtier-Gans** — nachts nicht still sein. Der Grund ist, dass ein Fremder nachts um den Konvent schleicht.
 >
 >- Ein Magus möchte schneegefütterte Hasen aus den Alpen sammeln, vielleicht als Vis-Quelle oder um eine Studienbedingung (**ArM5**, Seite 59) zu erfüllen. Dies erfordert eine Expedition hoch in die Berge, wo der **Tugendtier-Hase** lebt, unter gefährlichen Winterbedingungen.
 >
@@ -4119,7 +4119,7 @@ Vögel von Nephelokokkygien jeder Jahreszeit können außerhalb der Regio angetr
 
 >## Abenteueridee: Göttliche Torwächter
 >
->Laut dem griechischen Dramatiker Aristophanes (*Die Vögel*: Traktat Qualität 5 in Magiekunde) wurde die Stadt Nephelokokkygien errichtet, um die Kommunikation zwischen Erde und Himmel abzufangen; die Vögel verschworen sich demnach, sich als Torwächter der göttlichen Intervention einzusetzen. Es ist unklar, ob dies jemals zutraf, und sicherlich wird das Göttliche heute nicht durch Nephelokokkygien vermittelt. Dennoch behauptete Philomela (eine Schwalbe, die die Schwägerin von Tereus, dem König der Vögel, ist) in einem Gespräch, das vor über hundert Jahren in Durenmar aufgezeichnet wurde, dass die Turmspitze von Tereus in der Stadt tatsächlich Aufzeichnungen von Gebeten enthält, die über die Jahrhunderte gesprochen wurden und die er aus eigenen Gründen aufbewahrt hat. Philomela erklärte nicht, wie die Vögel Zugang zu den Gebeten erhielten oder wie die Aufzeichnungen erstellt wurden, aber Antworten auf diese Fragen könnten Magi interessieren. Der Überlieferung nach wurde Philomela von Tereus vergewaltigt und ihr die Zunge herausgerissen, sodass die Befragte möglicherweise nicht wirklich Philomela war; alternativ könnte sie geheilt worden sein und diese Geschichte erzählt haben, um Tereus aus Rache Ärger zu bereiten.
+>Laut dem griechischen Dramatiker Aristophanes (*Die Vögel*: Tractatus Qualität 5 in Magiekunde) wurde die Stadt Nephelokokkygien errichtet, um die Kommunikation zwischen Erde und Himmel abzufangen; die Vögel verschworen sich demnach, sich als Torwächter der göttlichen Intervention einzusetzen. Es ist unklar, ob dies jemals zutraf, und sicherlich wird das Göttliche heute nicht durch Nephelokokkygien vermittelt. Dennoch behauptete Philomela (eine Schwalbe, die die Schwägerin von Tereus, dem König der Vögel, ist) in einem Gespräch, das vor über hundert Jahren in Durenmar aufgezeichnet wurde, dass die Turmspitze von Tereus in der Stadt tatsächlich Aufzeichnungen von Gebeten enthält, die über die Jahrhunderte gesprochen wurden und die er aus eigenen Gründen aufbewahrt hat. Philomela erklärte nicht, wie die Vögel Zugang zu den Gebeten erhielten oder wie die Aufzeichnungen erstellt wurden, aber Antworten auf diese Fragen könnten Magi interessieren. Der Überlieferung nach wurde Philomela von Tereus vergewaltigt und ihr die Zunge herausgerissen, sodass die Befragte möglicherweise nicht wirklich Philomela war; alternativ könnte sie geheilt worden sein und diese Geschichte erzählt haben, um Tereus aus Rache Ärger zu bereiten.
 
 #### Kräfte der Vögel von Nephelokokkygien
 
@@ -4637,7 +4637,7 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 >
 >**Magische Macht:** 5 (Animal)
 >
->**Eigenschaften:** Klu +1, Wah +2, Prä +4, Kom −3, Stä −2, Aus +2, Ges 0, Sck −2
+>**Eigenschaften:** Ger +1, Wah +2, Prä +4, Kom −3, Stä −2, Aus +2, Ges 0, Sck −2
 >
 >**Größe:** −2
 >
@@ -4987,7 +4987,7 @@ Im Folgenden werden einige Beispiele für Tiere aufgeführt, die sich durch den 
 
 #### Der Katzenfisch (Felis Aquatica)
 
-**Eigenschaften:** Klu 0, Wah +1, Prä –4, Kom –5, Stä –7, Aus 0, Ges +3, Sck +4
+**Eigenschaften:** Ger 0, Wah +1, Prä –4, Kom –5, Stä –7, Aus 0, Ges +3, Sck +4
 
 **Größe:** –3
 
@@ -5029,7 +5029,7 @@ Der Bonisagus-Magus Yonnlius, derzeit ein Meister im Rheintribunal, behauptet, d
 
 #### Der Hund, der flog (Canis Volata)
 
-**Eigenschaften:** Klu 0, Wah +2, Prä –4, Kom 0, Stä 0, Aus +2, Ges +1, Sck +2
+**Eigenschaften:** Ger 0, Wah +2, Prä –4, Kom 0, Stä 0, Aus +2, Ges +1, Sck +2
 
 **Größe:** –1
 
@@ -5073,7 +5073,7 @@ Der fliegende Hund ist sehr scheu und fürchtet sich sowohl vor anderen Tieren a
 
 #### Die Mäuse, die die Scheune verbrannten (Mus Flammeus)
 
-**Eigenschaften:** Klu 0, Wah 1, Prä –3, Kom –4, Stä –18, Aus +1, Ges +3, Sck +8
+**Eigenschaften:** Ger 0, Wah 1, Prä –3, Kom –4, Stä –18, Aus +1, Ges +3, Sck +8
 
 **Größe:** –10
 
@@ -5109,7 +5109,7 @@ Diese Mäusefamilie fraß die magischen Rückstände einer Ignem-Magie-Explosion
 
 ## Kreaturen abrichten
 
-Mit Genehmigung des Spielleiters kann jedes magische Tier mit tierischem Verstand — also solche mit Gerissenheit (Klu) — gezähmt und dann von einem anderen Charakter als Reittier, Wächter oder Begleiter eingesetzt werden. Das Zähmen eines Tieres ist eine mögliche Laboraktivität für einen Magus, aber auch weltliche Tierpfleger und einige magische Charaktere können versuchen, Tiere zu zähmen. Sobald ein Tier gezähmt ist, kann es weiter abgerichtet und eine Reihe von Kunststücken gelehrt werden.
+Mit Genehmigung des Spielleiters kann jedes magische Tier mit tierischem Verstand — also solche mit Gerissenheit (Ger) — gezähmt und dann von einem anderen Charakter als Reittier, Wächter oder Begleiter eingesetzt werden. Das Zähmen eines Tieres ist eine mögliche Laboraktivität für einen Magus, aber auch weltliche Tierpfleger und einige magische Charaktere können versuchen, Tiere zu zähmen. Sobald ein Tier gezähmt ist, kann es weiter abgerichtet und eine Reihe von Kunststücken gelehrt werden.
 
 ### Tiere zähmen
 
@@ -5349,7 +5349,7 @@ Die Persönlichkeitseigenschaften eines Riesen können ein gutes Mittel sein, um
 >
 >**Kampf:**
 >
->*Keule:* Init -2, Ang +12, Vert +5, Sch +19
+>*Prügel:* Init -2, Ang +12, Vert +5, Sch +19
 >
 >*Tritt:* Init –3, Ang +6, Vert +1, Sch +15
 >
@@ -5361,13 +5361,13 @@ Die Persönlichkeitseigenschaften eines Riesen können ein gutes Mittel sein, um
 >
 >**Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 >
->**Fertigkeiten:** Raufen 4 (Tritt), Große Waffe 5 (Keule), (Lebende Sprache) 4 (derbe Ausdrücke), Wurfwaffe 3 (Stein)
+>**Fertigkeiten:** Raufen 4 (Tritt), Große Waffe 5 (Prügel), (Lebende Sprache) 4 (derbe Ausdrücke), Wurfwaffe 3 (Stein)
 >
 >**Kräfte:** Keine
 >
->**Ausrüstung:** Keule, Teilweise Fellrüstung
+>**Ausrüstung:** Prügel, Teilweise Fellrüstung
 >
->**Behinderung:** 0
+>**Belastung:** 0
 >
 >**Vis:** 3 Corpus im Schädel
 >
@@ -5419,7 +5419,7 @@ ReTe 30 (Basis 5, +2 Sonne, +2 Metall betreffen, +1 kontinuierlicher Effekt): Mi
 
 **Ausrüstung:** Schafsfellkleidung, leerer Weinschlauch
 
-**Behinderung:** 0
+**Belastung:** 0
 
 **Vis:** 4 Terram in Haut
 
@@ -5521,7 +5521,7 @@ InAu 20 (Basis 1, +2 Sonne, +4 Vision, +1 kontinuierlicher Effekt): Persönliche
 
 **Ausrüstung:** Axt, Rundschild, Teilkettenpanzer.
 
-**Behinderung:** 0
+**Belastung:** 0
 
 **Vis:** 6 Auram in Händen
 
@@ -6111,7 +6111,7 @@ Ein durch einen Zauber belebter Leichnam hat keinen Machtwert oder Selbstvertrau
 >
 >ReTe 5 (Basis 2, +1 Berührung, +1 Durchmesser, +1 Teil): Große Macht (teilweise, 5 Stufen)
 >
->**Ausrüstung:** Zerfetztes Leichentuch; die tote, empfindungslose Faust des Wiedergängers trifft wie eine Keule (siehe **ArM5**, Seite 177)
+>**Ausrüstung:** Zerfetztes Leichentuch; die tote, empfindungslose Faust des Wiedergängers trifft wie eine Knüppel (siehe **ArM5**, Seite 177)
 >
 >**Vis:** 2 Corpus in den Augen (1 pro Auge)
 >
@@ -6135,7 +6135,7 @@ Theurgen behaupten, es müsse einem menschlichen Zauberer möglich sein, seinen 
 >
 >**Magische Macht:** 6 (Corpus)
 >
->**Eigenschaften:** Klu –2, Wah –2, Prä 0, Kom –2, Stä 0, Aus +3, Ges +2, Sck +1
+>**Eigenschaften:** Ger –2, Wah –2, Prä 0, Kom –2, Stä 0, Aus +3, Ges +2, Sck +1
 >
 >**Größe:** –2
 >
@@ -6345,7 +6345,7 @@ Jeder repräsentiert ein einzelnes lebendes Wesen; so könnte er der Geist eines
 
 **Jahreszeit:** Frühling
 
-**Eigenschaften:** Klu 0, Wah +2, Prä +2, Kom +2, Stä –1, Aus –1, Ges +2, Sck 0
+**Eigenschaften:** Ger 0, Wah +2, Prä +2, Kom +2, Stä –1, Aus –1, Ges +2, Sck 0
 
 **Tugenden und Fehler:** Magischer Geist; Begabung in Schwimmen, Klatschbase
 
@@ -7108,7 +7108,7 @@ CrMe 15 (Basis 4, +1 Berührung, +2 Sonne): Große Macht (teilweise: 15 Stufen, 
 
 **Ausrüstung:** Vollständige Kettenrüstung, Lanze, Dreieckschild, Langschwert, schwarzes Schlachtross
 
-**Behinderung:** 2 (4) **Vis:** 4 Mentem in der Lanze
+**Belastung:** 2 (4) **Vis:** 4 Mentem in der Lanze
 
 verlieren.
 
@@ -7143,7 +7143,7 @@ Im Allgemeinen hält der magische Effekt des besonderen Vis so lange an, wie das
 >
 >### Schuldige Geheimnisse
 >
->Der Klatschmaul des Konvents erfährt von den Eigenschaften des außergewöhnlichen Spähglases aus Intellego-Vis und „leiht" es sich, um die Angelegenheiten der anderen Konventsmitglieder zu beobachten. Der Klatschmaul wird Zeuge eines Verbrechens und ist hin- und hergerissen zwischen der Entlarvung des Übeltäters (und damit auch der Enthüllung seines eigenen Diebstahls) und dem Geschehenlassen des unbestraften Verbrechens. Sollte der Klatschmaul vortreten und den Verbrecher identifizieren, aber nicht seine eigenen Missetaten, klingt seine Geschichte unglaubwürdig; er besteht den Test des *Frostigen Hauchs der gesprochenen Lüge* nicht und wird selbst zum Verdächtigen.
+>Der Klatschbase des Konvents erfährt von den Eigenschaften des außergewöhnlichen Spähglases aus Intellego-Vis und „leiht" es sich, um die Angelegenheiten der anderen Konventsbewohner zu beobachten. Der Klatschbase wird Zeuge eines Verbrechens und ist hin- und hergerissen zwischen der Entlarvung des Übeltäters (und damit auch der Enthüllung seines eigenen Diebstahls) und dem Geschehenlassen des unbestraften Verbrechens. Sollte der Klatschbase vortreten und den Verbrecher identifizieren, aber nicht seine eigenen Missetaten, klingt seine Geschichte unglaubwürdig; er besteht den Test des *Frostigen Hauchs der gesprochenen Lüge* nicht und wird selbst zum Verdächtigen.
 >
 >### Ein eisiger Fund
 >
@@ -7447,7 +7447,7 @@ Wie bei Tugendtieren ist es schwer vorherzusagen, welche Kräfte ein Magisches D
 
 >## Heckenzauberer und veredelte Magische Dinge
 >
->Die Mechanik der Veredelung eines Magischen Dings ermöglicht es einem unBegabten Charakter, geringfügige magische Kräfte zu erlangen. Solche Charaktere könnten aktiv nach bestimmten Kräutern oder Objekten suchen, um ihre Magie auszuüben. Sie werden niemals eine Bedrohung für einen hermetischen Magus darstellen und werden vom Orden des Hermes weitgehend ignoriert. Die archetypische weise Frau eines Dorfes könnte Immergrün der Tugend sammeln (das die Tugend Venussegen verleiht) als Liebeszauber oder Eisenkraut der Tugend (Ausdauernde Konstitution) und Stiefmütterchen der Tugend (das Mindere Reinigende Berührung: Kindbettfieber verleiht) zur Unterstützung bei der Geburt einsetzen. Ebenso könnte ein Naturmagier einen Topas der Tugend veredeln, um seinem Herrn die Tugend Inspirierend zu verleihen, oder einen Saphir der Tugend (der Intuition verleiht), um seinen astrologischen Berechnungen einen Anschein von Vorhersage zu geben. Die Verzerrungspunkte, die durch diese Effekte anfallen, werden die weise Frau allmählich entstellen oder den Naturmagier mit Fehlern in den Wahnsinn treiben.
+>Die Mechanik der Veredelung eines Magischen Dings ermöglicht es einem unBegabten Charakter, geringfügige magische Kräfte zu erlangen. Solche Charaktere könnten aktiv nach bestimmten Kräutern oder Objekten suchen, um ihre Magie auszuüben. Sie werden niemals eine Bedrohung für einen hermetischen Magus darstellen und werden vom Orden des Hermes weitgehend ignoriert. Die archetypische weise Frau eines Dorfes könnte Immergrün der Tugend sammeln (das die Tugend Venussegen verleiht) als Liebeszauber oder Eisenkraut der Tugend (Ausdauernde Konstitution) und Stiefmütterchen der Tugend (das Mindere Reinigende Berührung: Kindbettfieber verleiht) zur Unterstützung bei der Geburt einsetzen. Ebenso könnte ein Natürlicher Magier einen Topas der Tugend veredeln, um seinem Herrn die Tugend Inspirierend zu verleihen, oder einen Saphir der Tugend (der Intuition verleiht), um seinen astrologischen Berechnungen einen Anschein von Vorhersage zu geben. Die Verzerrungspunkte, die durch diese Effekte anfallen, werden die weise Frau allmählich entstellen oder den Natürlicher Magier mit Fehlern in den Wahnsinn treiben.
 
 Veredelung erfordert kein Laboratorium, aber ein magisches Verfahren ist notwendig; siehe die nachfolgenden Beschreibungen für beispielhafte Veredelungen. Nicht alles Vis kann veredelt werden, nur solches, das von einem Tugendtier, Tugendkraut oder Tugendobjekt stammt. Die Veredelung verzaubert das Rohe Vis im Ding, und es kann fortan nicht mehr als Vis verwendet oder aus dem Gegenstand extrahiert werden. Dies erfordert ein Quartal ununterbrochener magischer Arbeit und eine ausreichend hohe Veredelungssumme:
 
@@ -7652,7 +7652,7 @@ Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-V
 >
 >**Magische Macht:** Keine, oder Aktivierungskosten der *Manifestation* (Herbam)
 >
->**Eigenschaften:** Klu –3, Wah –2, Prä –3, Kom –3, Stä +8, Aus +5, Ges –1, Sck –5
+>**Eigenschaften:** Ger –3, Wah –2, Prä –3, Kom –3, Stä +8, Aus +5, Ges –1, Sck –5
 >
 >**Größe:** +5
 >
@@ -7688,7 +7688,7 @@ Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-V
 >
 >**Magische Macht:** 5
 >
->**Eigenschaften:** Klu +1, Wah 0, Prä –3, Kom 0, Stä –10, Aus +3, Ges 0, Sck +6
+>**Eigenschaften:** Ger +1, Wah 0, Prä –3, Kom 0, Stä –10, Aus +3, Ges 0, Sck +6
 >
 >**Größe:** –6
 >
@@ -7822,7 +7822,7 @@ Der hier beschriebene Kelpie ist eine magische Kreatur, die mit tiefen Tümpeln 
 
 **Magische Macht:** 20 (Aquam) **Eigenschaften:**
 
-> (Natürliche Gestalt) Klu +1, Wah +1, Prä 0, Kom –2, Stä +8, Aus +2, Ges +1, Sck –2 (Hengstgestalt) Klu +1, Wah +1, Prä +3, Kom –2, Stä +6, Aus +3, Ges +1, Sck –1
+> (Natürliche Gestalt) Ger +1, Wah +1, Prä 0, Kom –2, Stä +8, Aus +2, Ges +1, Sck –2 (Hengstgestalt) Ger +1, Wah +1, Prä +3, Kom –2, Stä +6, Aus +3, Ges +1, Sck –1
 
 **Größe:** +3
 
@@ -7878,7 +7878,7 @@ MuAn 15 (Basis 4, +2 Sonne, +1 dauerhafter Effekt): Mindere Macht (15 Stufen, �
 
 **Ausrüstung:** Keine.
 
-**Behinderung:** 0
+**Belastung:** 0
 
 **Vis:** 4 Bauern Aquam im Blut des Kelpies.
 
@@ -7963,8 +7963,8 @@ Die Werte können den Eigenschaften nach Belieben zugewiesen werden, mit der Aus
 | Element | Keine negativen Werte |
 |---|---|
 | Erde | Stä, Aus, Ges, Sck |
-| Wasser | Stä, Aus, Klu, Wah |
-| Luft | Klu, Wah, Prä, Kom |
+| Wasser | Stä, Aus, Ger, Wah |
+| Luft | Ger, Wah, Prä, Kom |
 | Feuer | Prä, Kom, Ges, Sck |
 
 Nach der Zuweisung der Eigenschaften wird die übliche Größenanpassung vorgenommen: Schnelligkeit wird um die Größe reduziert und Stärke wird um das Doppelte der Größe erhöht.
@@ -8069,7 +8069,7 @@ PeAq 15 (Basis 5, +1 Berührung, +1 Teil): Große Macht (15 Stufen, –1 Machtko
 >
 >**Jahreszeit:** Frühling
 >
->**Eigenschaften:** Klu 0, Wah +1, Prä –2, Kom –4, Stä +3, Aus +6, Ges +2, Sck 0
+>**Eigenschaften:** Ger 0, Wah +1, Prä –2, Kom –4, Stä +3, Aus +6, Ges +2, Sck 0
 >
 >**Größe:** 0
 >
@@ -8081,9 +8081,9 @@ PeAq 15 (Basis 5, +1 Berührung, +1 Teil): Große Macht (15 Stufen, –1 Machtko
 >
 >**Kampf:**
 >
->*Niederschlag\*:* Init +3, Ang +11, Vert +7, Sch +9
+>*Knüppel\*:* Init +3, Ang +11, Vert +7, Sch +9
 >
->*Niederschlag wenn Berserker\*:* Init +3, Ang +13, Vert –5, Sch +9
+>*Knüppel wenn Berserker\*:* Init +3, Ang +13, Vert –5, Sch +9
 >
 >\*Einschließlich Wege der Höhle
 >
@@ -8091,7 +8091,7 @@ PeAq 15 (Basis 5, +1 Berührung, +1 Teil): Große Macht (15 Stufen, –1 Machtko
 >
 >**Wundabzüge:** –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 >
->**Fertigkeiten:** Athletik 3 (Verfolgung), Aufmerksamkeit 2 (Eindringlinge), Raufen 3 (Niederschlag), Penetration 3 (Kraft *Durst stillen*), Schleichen 2 (Stillhalten)
+>**Fertigkeiten:** Athletik 3 (Verfolgung), Aufmerksamkeit 2 (Eindringlinge), Raufen 3 (Knüppel), Penetration 3 (Kraft *Durst stillen*), Schleichen 2 (Stillhalten)
 >
 >**Kräfte:**
 >
@@ -8151,7 +8151,7 @@ InIm 20 (Basis 1, +4 Arkane Verbindung, +1 Konz, +2 Raum): Mindere Macht (20 Stu
 >
 >**Jahreszeit:** Frühling
 >
->**Eigenschaften:** Klu +4, Wah –2, Prä 0, Kom 0, Stä +3, Aus +3, Ges +1, Sck –4
+>**Eigenschaften:** Ger +4, Wah –2, Prä 0, Kom 0, Stä +3, Aus +3, Ges +1, Sck –4
 >
 >**Größe:** 0
 >
@@ -8233,7 +8233,7 @@ CrAu 30 (Basis 5, +1 Berührung, +4 unnatürlich): Große Macht (30 Stufen, –2
 >
 >**Jahreszeit:** Frühling
 >
->**Eigenschaften:** Klu +1, Wah +2, Prä 0, Kom 0, Stä +3, Aus –4, Ges –2, Sck +4
+>**Eigenschaften:** Ger +1, Wah +2, Prä 0, Kom 0, Stä +3, Aus –4, Ges –2, Sck +4
 >
 >**Größe:** 0
 >
@@ -8283,7 +8283,7 @@ Ein Phlegethus der Größe 0 hat die Ausmaße eines typischen Lagerfeuers. Das F
 >
 >**Jahreszeit:** Frühling
 >
->**Eigenschaften:** Klu 0, Wah –2, Prä +3, Kom +1, Stä –4, Aus 0, Ges +5, Sck +2
+>**Eigenschaften:** Ger 0, Wah –2, Prä +3, Kom +1, Stä –4, Aus 0, Ges +5, Sck +2
 >
 >**Größe:** 0
 >
@@ -8409,7 +8409,7 @@ Die folgenden Tiere können in jeder **Ars Magica 5th Edition**-Saga verwendet w
 
 ### Natter (Viperis)
 
-**Eigenschaften:** Klu –1, Wah –2, Prä –6, Kom –6, Stä –8, Aus +2, Ges +2, Sck +3
+**Eigenschaften:** Ger –1, Wah –2, Prä –6, Kom –6, Stä –8, Aus +2, Ges +2, Sck +3
 
 **Größe:** –4
 
@@ -8443,7 +8443,7 @@ Die Natter neigt dazu, reflexartig anzugreifen, wenn etwas über ihr Versteck st
 
 ### Bär (Ursus)
 
-**Eigenschaften:** Klu +1, Wah 0, Prä 0, Kom –5, Stä +6, Aus +4, Ges +2, Sck 0
+**Eigenschaften:** Ger +1, Wah 0, Prä 0, Kom –5, Stä +6, Aus +4, Ges +2, Sck 0
 
 **Größe:** +2
 
@@ -8487,7 +8487,7 @@ Laut Plinius dem Älteren schläft der Bärenmann vierzig Tage im Winter und die
 
 ### Wildschwein (Aper)
 
-**Eigenschaften:** Klu 0, Wah 0, Prä –4, Kom –5, Stä +2, Aus +2, Ges 0, Sck +1
+**Eigenschaften:** Ger 0, Wah 0, Prä –4, Kom –5, Stä +2, Aus +2, Ges 0, Sck +1
 
 **Größe:** 0
 
@@ -8523,7 +8523,7 @@ Wildschweine variieren stark in der Größe, von acht Stein (ca. 50 kg) bis übe
 
 ### Stier (Taurus)
 
-**Eigenschaften:** Klu –2, Wah 0, Prä –4, Kom –4, Stä +5, Aus +3, Ges 0, Sck –1
+**Eigenschaften:** Ger –2, Wah 0, Prä –4, Kom –4, Stä +5, Aus +3, Ges 0, Sck –1
 
 **Größe:** +2
 
@@ -8559,7 +8559,7 @@ In Spanien machen die maurischen Adligen an Festtagen ein Schauspiel daraus, Sti
 
 ### Katze (Felis)
 
-**Eigenschaften:** Klu 0, Wah +1, Prä –2, Kom –4, Stä –7, Aus 0, Ges +3, Sck +4
+**Eigenschaften:** Ger 0, Wah +1, Prä –2, Kom –4, Stä –7, Aus 0, Ges +3, Sck +4
 
 **Größe:** –3
 
@@ -8595,7 +8595,7 @@ Katzen fliehen im Allgemeinen vor jedem Gegner, der größer ist als sie selbst.
 
 ### Falke (Falco)
 
-**Eigenschaften:** Klu –1, Wah +3, Prä –1, Kom -2, Stä –6, Aus +2, Ges +1, Sck +6
+**Eigenschaften:** Ger –1, Wah +3, Prä –1, Kom -2, Stä –6, Aus +2, Ges +1, Sck +6
 
 **Größe:** –3
 
@@ -8629,7 +8629,7 @@ Andere, kleinere Falkenarten haben Größe –4. Alle Falken sind schnelle Flieg
 
 ### Pferd, Renner (Equus)
 
-**Eigenschaften:** Klu –2, Wah 0, Prä 0, Kom –4, Stä +4, Aus +3, Ges –2, Sck +2
+**Eigenschaften:** Ger –2, Wah 0, Prä 0, Kom –4, Stä +4, Aus +3, Ges –2, Sck +2
 
 **Größe:** +2
 
@@ -8665,7 +8665,7 @@ Jedes leichte Pferd — Renner, Streitross oder Zelter — erhält +3 auf Würfe
 
 ### Pferd, Schlachtross (Equus)
 
-**Eigenschaften:** Klu –2, Wah 0, Prä 0, Kom –4, Stä +6, Aus +3, Ges +1, Sck –1
+**Eigenschaften:** Ger –2, Wah 0, Prä 0, Kom –4, Stä +6, Aus +3, Ges +1, Sck –1
 
 **Größe:** +3
 
@@ -8699,7 +8699,7 @@ Wie alle Pferde ist das Schlachtross ein schneller Läufer und erhält einen Bon
 
 ### Hund (Canis)
 
-**Eigenschaften:** Klu 0, Wah +2, Prä –4, Kom 0, Stä 0, Aus +2, Ges +1, Sck +2
+**Eigenschaften:** Ger 0, Wah +2, Prä –4, Kom 0, Stä 0, Aus +2, Ges +1, Sck +2
 
 **Größe:** 0
 
@@ -8733,7 +8733,7 @@ Ein Hundrudel kann als ausgebildete Gruppe unter der Führung eines menschlichen
 
 ### Löwe (Leo)
 
-**Eigenschaften:** Klu +2, Wah 0, Prä 0, Kom 0, Stä +6, Aus +3, Ges +2, Sck +1
+**Eigenschaften:** Ger +2, Wah 0, Prä 0, Kom 0, Stä +6, Aus +3, Ges +2, Sck +1
 
 **Größe:** +2
 
@@ -8769,7 +8769,7 @@ Der Löwe kann beeindruckende Sprünge machen und erhält +3 auf sprungbezogene 
 
 ### Hirsch (Cervus)
 
-**Eigenschaften:** Klu –2, Wah +2, Prä 0, Kom –5, Stä +2, Aus +2, Ges 0, Sck +2
+**Eigenschaften:** Ger –2, Wah +2, Prä 0, Kom –5, Stä +2, Aus +2, Ges 0, Sck +2
 
 **Größe:** +2
 
@@ -8809,7 +8809,7 @@ Der Rothirsch ist ein bevorzugtes Jagdwild. An manchen Orten darf ihn nur der Ad
 
 ### Wolf (Lupus)
 
-**Eigenschaften:** Klu +2, Wah 0, Prä –2, Kom 0, Stä –1, Aus +3, Ges +2, Sck +2
+**Eigenschaften:** Ger +2, Wah 0, Prä –2, Kom 0, Stä –1, Aus +3, Ges +2, Sck +2
 
 **Größe:** –1
 
