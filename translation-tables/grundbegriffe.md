@@ -118,6 +118,8 @@
 | Troupe-Style Roleplaying | – | – | – | – | Spieltruppen-Rollenspiel | |
 | Turb | – | Turba | – | Turbae | Turba | Einheit Grogs |
 | Twilight (Wizard's Twilight) | – | – | – | – | Das Zwielicht | Magischer Zusammenbruch eines Magus |
+| Twilight Comprehension | - | - | - | - | Zwielichtverständnis, Zwielicht verstehen | |
+| Twilight Void | - | - | - | - | Zwielichtleere | (RoP:M) |
 | unGifted | – | – | – | – | unBegabt | Adjektiv für Mensch ohne die Gabe |
 | unGifted | – | – | – | – | UnBegabter | Mensch ohne die Gabe |
 | Vis | – | Vis | – | Vires | Vis | Magische Kraft / Substanz (im Spiel indeklinabel) |

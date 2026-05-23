@@ -9669,19 +9669,19 @@ Wann immer eine Maga durch ein einziges Ereignis – nicht durch langanhaltende 
 
 **ZWIELICHT ABWENDEN: Ausdauer + Konzentration + Vim-Formbonus + Stresswürfel gegen Verzerrungswert + Anzahl der erhaltenen Verzerrungspunkte + Enigmatische Weisheit + lokale Aura + Stresswürfel (kein Patzer)**
 
-Gelingt der Wurf, verbringt die Maga zwei Minuten (einen Durchmesser) damit, ihre Magie unter Kontrolle zu bringen, ohne weitere Folgen. Misslingt der Wurf, gerät die Maga in das Zwielicht. Erleidet die Maga einen Patzer, gerät sie in das Zwielicht und kann das Erlebnis nicht begreifen.
+Gelingt der Wurf, verbringt die Maga zwei Minuten (einen Durchmesser) damit, ihre Magie unter Kontrolle zu bringen, ohne weitere Folgen. Misslingt der Wurf, gerät die Maga in das Zwielicht. Erleidet die Maga einen Patzer, gerät sie in das Zwielicht und kann das Erlebnis nicht verstehen.
 
-Eine Maga kann darauf verzichten, das Zwielicht zu widerstehen – in diesem Fall würfelt sie nicht und tritt automatisch in das Zwielicht ein. In manchen Situationen, etwa im Kampf, kann das zweiminütige Kontrollieren der Magie sehr gefährlich sein; in solchen Fällen zieht eine Maga es vielleicht vor, in das Zwielicht einzutreten, in der Hoffnung, es zu begreifen und die Erfahrung schneller hinter sich zu bringen.
+Eine Maga kann darauf verzichten, das Zwielicht zu widerstehen – in diesem Fall würfelt sie nicht und tritt automatisch in das Zwielicht ein. In manchen Situationen, etwa im Kampf, kann das zweiminütige Kontrollieren der Magie sehr gefährlich sein; in solchen Fällen zieht eine Maga es vielleicht vor, in das Zwielicht einzutreten, in der Hoffnung, es zu verstehen und die Erfahrung schneller hinter sich zu bringen.
 
-#### Das Zwielicht begreifen
+#### Das Zwielicht verstehen
 
-Eine Maga innerhalb des Zwielichts muss ihre Umgebung begreifen, um wieder herauszukommen.
+Eine Maga innerhalb des Zwielichts muss ihre Umgebung verstehen, um wieder herauszukommen.
 
-**ZWIELICHT BEGREIFEN: Intelligenz + Enigmatische Weisheit + Stresswürfel gegen Verzerrungswert + Stresswürfel**
+**ZWIELICHT VERSTEHEN: Intelligenz + Enigmatische Weisheit + Stresswürfel gegen Verzerrungswert + Stresswürfel**
 
 **PATZERWÜRFEL: 1 + 1 pro Verzerrungspunkt, der das Zwielicht ausgelöst hat**
 
-Die Zeit, die eine Maga im Zwielicht zu verbringen glaubt, ist vollständig unabhängig von der in der realen Welt vergangenen Zeit. Die in der realen Welt verstreichende Zeit hängt vom Verzerrungswert der Maga und vom Erfolg ihres Würfels zum Begreifen des Zwielichts ab.
+Die Zeit, die eine Maga im Zwielicht zu verbringen glaubt, ist vollständig unabhängig von der in der realen Welt vergangenen Zeit. Die in der realen Welt verstreichende Zeit hängt vom Verzerrungswert der Maga und vom Erfolg ihres Würfels zum Verstehen des Zwielichts ab.
 
 | Verzerrungswert | Grunddauer im Zwielicht                           |
 | --------------- | ------------------------------------------------- |
@@ -9696,19 +9696,19 @@ Die Zeit, die eine Maga im Zwielicht zu verbringen glaubt, ist vollständig unab
 | 9               | Sieben plus ein Stresswürfel Jahre (kein Patzer)  |
 | 10+             | Ewig: Das Endgültige Zwielicht                    |
 
-Erleidet der Wurf zum Begreifen einen Patzer, verlängert sich die im Zwielicht verbrachte Zeit um eine Stufe auf der Tabelle für jede gewürfelte Null, und die Maga erleidet eine negative Wirkung aus dem Erlebnis.
+Erleidet der Wurf zum Verstehen einen Patzer, verlängert sich die im Zwielicht verbrachte Zeit um eine Stufe auf der Tabelle für jede gewürfelte Null, und die Maga erleidet eine negative Wirkung aus dem Erlebnis.
 
-Misslingt der Wurf zum Begreifen, verbringt die Maga die Grunddauer im Zwielicht und erleidet eine schlechte Wirkung aus dem Erlebnis.
+Misslingt der Wurf zum Verstehen, verbringt die Maga die Grunddauer im Zwielicht und erleidet eine schlechte Wirkung aus dem Erlebnis.
 
-Erleidet die Zwielicht-Seite des Begreifen-Wurfs einen Patzer (mit denselben Patzerwürfeln wie auf der Seite der Maga), muss die Maga nur einen Gesamtwert von null übertreffen, um das Zwielicht zu begreifen. Der Patzer hat keine weitere Wirkung. Das bedeutet, dass eine Maga etwas wahrscheinlicher das Zwielicht begreift, je mehr Verzerrungspunkte es ausgelöst haben – sofern alles andere gleich ist.
+Erleidet die Zwielicht-Seite des Verstehen-Wurfs einen Patzer (mit denselben Patzerwürfeln wie auf der Seite der Maga), muss die Maga nur einen Gesamtwert von null übertreffen, um das Zwielicht zu verstehen. Der Patzer hat keine weitere Wirkung. Das bedeutet, dass eine Maga etwas wahrscheinlicher das Zwielicht verstehen, je mehr Verzerrungspunkte es ausgelöst haben – sofern alles andere gleich ist.
 
-Gelingt der Wurf zum Begreifen, zieht man den Wert der Enigmatischen Weisheit der Maga vom Ergebnis ab und vergleicht diese Summe (also die Intelligenz der Maga plus das Würfelergebnis) mit dem Ergebnis des Zwielichts.
+Gelingt der Wurf zum Verstehen, zieht man den Wert der Enigmatischen Weisheit der Maga vom Ergebnis ab und vergleicht diese Summe (also die Intelligenz der Maga plus das Würfelergebnis) mit dem Ergebnis des Zwielichts.
 
 **ZWIELICHTS-DAUER: Intelligenz + Stresswürfel gegen Verzerrungswert + Stresswürfel**
 
-Hinweis: Bei diesen Würfelwürfen handelt es sich um die bereits beim Begreifen des Zwielichts gemachten Würfe.
+Hinweis: Bei diesen Würfelwürfen handelt es sich um die bereits beim Verstehen des Zwielichts gemachten Würfe.
 
-Wenn beide Ergebnisse genau gleich sind oder der Wert der Maga niedriger ist, verbringt sie die Grunddauer im Zwielicht. Für jeden zusätzlichen Punkt, um den das Ergebnis der Maga das Zwielicht-Ergebnis übersteigt, rückt man in der Dauertabelle eine Stufe nach oben, also zu kürzeren Dauern hin. Hat eine Maga beispielsweise einen Verzerrungswert von 7 und schafft ihren Begreifen-Wurf um drei Punkte, dauert das Zwielicht einen Tag. Wird die Dauer dadurch kürzer als Durchmesser, dauert das gesamte Zwielicht in der realen Welt nur einen flüchtigen Moment.
+Wenn beide Ergebnisse genau gleich sind oder der Wert der Maga niedriger ist, verbringt sie die Grunddauer im Zwielicht. Für jeden zusätzlichen Punkt, um den das Ergebnis der Maga das Zwielicht-Ergebnis übersteigt, rückt man in der Dauertabelle eine Stufe nach oben, also zu kürzeren Dauern hin. Hat eine Maga beispielsweise einen Verzerrungswert von 7 und schafft ihren Verstehen-Wurf um drei Punkte, dauert das Zwielicht einen Tag. Wird die Dauer dadurch kürzer als Durchmesser, dauert das gesamte Zwielicht in der realen Welt nur einen flüchtigen Moment.
 
 #### Während des Zwielichts
 
@@ -9724,7 +9724,7 @@ Obwohl dies die häufigsten Auswirkungen sind, wurden auch andere beobachtet. Bj
 
 Jedes Zwielicht-Erlebnis hinterlässt eine Spur in der Maga. Die Stärke dieser Spur ist zufällig: Man würfelt einen einfachen Würfel. Die Maga erhält so viele Verzerrungspunkte, zusätzlich zu den Punkten, die das Zwielicht ausgelöst haben.
 
-Hat die Maga das Zwielicht begriffen, sind die Wirkungen positiv.
+Hat die Maga das Zwielicht verstanden, sind die Wirkungen positiv.
 
 **Zwielichtnarbe:** Etwas Kleines, Magisches und zugleich Neutrales oder Vorteilhaftes. Zum Beispiel riecht die Umgebung der Maga stets leicht und angenehm nach Rosen, ihre Augen schimmern in vielen Farben, oder sie schwebt einen Bruchteil eines Zolls über jeder Oberfläche. Möchte die Maga ihre Magie unbemerkt lassen, muss die Wirkung nicht offensichtlich magisch sein: Die Menschen in ihrer Umgebung werden etwas fröhlicher, Insekten beißen sie nicht, und so weiter.
 
@@ -9736,7 +9736,7 @@ Zusätzlich wählt der Spielleiter eine der folgenden Wirkungen:
 
 **Neuer Zauber:** Die Maga kennt einen neuen Formulaischen Zauber oder Ritualzauber mit einer Magnitude, die der Anzahl der erhaltenen Verzerrungspunkte entspricht. Dieser Zauber wird vom Spielleiter gewählt, und die Maga muss ihn nicht wirken können. Sie darf wie üblich einen Labortext darüber verfassen.
 
-Hat die Maga das Zwielicht nicht begriffen, sind die Wirkungen negativ.
+Hat die Maga das Zwielicht nicht verstanden, sind die Wirkungen negativ.
 
 **Zwielichtnarbe:** Etwas Kleines, Magisches und Lästiges. Zum Beispiel riecht die Umgebung der Maga leicht nach Schwefel, ihre Berührung färbt die Haut schwarz (dies lässt sich mit einigem Aufwand abwaschen), oder ihre Fußspuren hinterlassen zahllose feine Risse auf jeder Oberfläche. Nach Ermessen des Spielleiters kann eine Maga, die ihre Magie verbergen möchte, eine Narbe erhalten, die sie verstecken kann – beispielsweise wird sie beim Geruch von Eisen übel, oder Insekten beißen sie bei jeder Gelegenheit.
 
@@ -9758,11 +9758,11 @@ Zusätzlich wählt der Spielleiter eine der folgenden Wirkungen:
 >
 > Der Schwierigkeitsgrad beträgt 6 (für seinen Verzerrungswert) + 2 (die Anzahl der erhaltenen Punkte) + 4 (für die lokale Feenaura, die maßgeblich zum Patzer beigetragen hat) = 12, plus ein Stresswürfel ohne Patzer. Der Spielleiter verzichtet auf den Wurf; selbst wenn er eine Null würfelt, hat Darius das Zwielicht nicht widerstanden und wird eintreten.
 >
-> Beim Begreifen des Zwielichts zählt Darius seinen Intelligenzwert von +3, plus einen Stresswürfel.
+> Beim Verstehen des Zwielichts zählt Darius seinen Intelligenzwert von +3, plus einen Stresswürfel.
 >
-> Das Zwielicht hat als Basis 6 – den Verzerrungswert von Darius – plus einen Stresswürfel. Niall würfelt eine 7, der Spielleiter würfelt eine 5. Darius kommt auf 10, das Zwielicht auf 11. Darius hat es nicht begriffen.
+> Das Zwielicht hat als Basis 6 – den Verzerrungswert von Darius – plus einen Stresswürfel. Niall würfelt eine 7, der Spielleiter würfelt eine 5. Darius kommt auf 10, das Zwielicht auf 11. Darius hat es nicht verstanden.
 >
-> Da der Begreifen-Wurf einfach missglückt ist, verbringt Darius die Grunddauer im Zwielicht und macht eine schlechte Erfahrung. Bei einem Verzerrungswert von 6 beträgt die Grunddauer ein Quartal.
+> Da der Verstehen-Wurf einfach missglückt ist, verbringt Darius die Grunddauer im Zwielicht und macht eine schlechte Erfahrung. Bei einem Verzerrungswert von 6 beträgt die Grunddauer ein Quartal.
 >
 > Der Spielleiter entscheidet, dass Darius spürt, wie seine Magie Körper und Geist von innen zerstört. Er kann nicht erkennen, wie lange es dauert, obwohl er sich jedes einzelnen Schritts vollständig bewusst ist – und gerade als der letzte Rest seines Bewusstseins zu schwinden droht, tritt er aus dem Zwielicht. Für die Außenwelt sieht es so aus, als würde Darius' Körper innerhalb weniger Sekunden austrocknen und zu Staub zerfallen. Nach einem Quartal erscheint Darius wieder, und er stellt fest, dass zwei Grogs des Konvents hier gelagert hatten, um abzuwarten, ob er aus dem Zwielicht zurückkehren würde.
 >
@@ -11182,7 +11182,7 @@ Gelingt dein Stabilisierungsquartal, erhältst du einen Durchbruchspunkt pro Mag
 
 **ERFOLGREICHES STABILISIERUNGSQUARTAL: Magnituden der stabilisierten Entdeckung = Durchbruchspunkte**
 
-Als Nebenwirkung dieses Stabilisierungsprozesses erhältst du Verzerrungspunkte für dein Bemühen, diese neue Magie zu verstehen. Die Anzahl der erhaltenen Verzerrungspunkte entspricht der Magnitude des Effekts minus einem einfachen Würfel. Wenn du 2 oder mehr Verzerrungspunkte erhältst, musst du würfeln, um dem Zwielicht zu widerstehen ([Seite 228](#das-zwielicht-begreifen)). Die Chance, Verzerrungspunkte zu erhalten, lässt sich natürlich durch das Experimentieren mit Effekten niedrigerer Magnitude verringern. Dies verlängert jedoch deinen Forschungsprozess, da es letztlich die angesammelten Effektmagnituden sind, die zu deinem Durchbruch führen. Das Experimentieren mit Zaubern höherer Magnitude bringt dich schneller zum Durchbruch — erhöht aber auch das Risiko des Zwielichts.
+Als Nebenwirkung dieses Stabilisierungsprozesses erhältst du Verzerrungspunkte für dein Bemühen, diese neue Magie zu verstehen. Die Anzahl der erhaltenen Verzerrungspunkte entspricht der Magnitude des Effekts minus einem einfachen Würfel. Wenn du 2 oder mehr Verzerrungspunkte erhältst, musst du würfeln, um dem Zwielicht zu widerstehen ([Seite 228](#das-zwielicht-verstehen)). Die Chance, Verzerrungspunkte zu erhalten, lässt sich natürlich durch das Experimentieren mit Effekten niedrigerer Magnitude verringern. Dies verlängert jedoch deinen Forschungsprozess, da es letztlich die angesammelten Effektmagnituden sind, die zu deinem Durchbruch führen. Das Experimentieren mit Zaubern höherer Magnitude bringt dich schneller zum Durchbruch — erhöht aber auch das Risiko des Zwielichts.
 
 **ERHALTENE VERZERRUNGSPUNKTE: Magnitude der stabilisierten Entdeckung – einfacher Würfel**
 
@@ -23298,7 +23298,7 @@ Wurf erforderlich, wenn 2 oder mehr Verzerrungspunkte aus einem einzigen Ereigni
 
 ZWIELICHT VERMEIDEN: Ausdauer + Konzentration + Vim-Formbonus + Stresswürfel gegen Verzerrungswert + Anzahl gewonnener Verzerrungspunkte + Enigmatische Weisheit + lokale Aura + Stresswürfel (kein Patzer)
 
-ZWIELICHT BEGREIFEN: Intelligenz + Enigmatische Weisheit + Stresswürfel gegen Verzerrungswert + Stresswürfel
+ZWIELICHT VERSTEHEN: Intelligenz + Enigmatische Weisheit + Stresswürfel gegen Verzerrungswert + Stresswürfel
 
 PATZERWÜRFEL: 1 + 1 pro gewonnenem Verzerrungspunkt, der das Zwielicht ausgelöst hat
 
@@ -23317,11 +23317,11 @@ ZWIELICHTDAUER: Intelligenz + Stresswürfel gegen Verzerrungswert + Stresswürfe
 | 9               | Sieben plus Stresswürfel Jahre (kein Patzer)   |
 | 10+             | Ewig: Das Endgültige Zwielicht                 |
 
-Hinweis: Die Würfelwürfe sind dieselben, die bereits zum Begreifen des Zwielichts gemacht wurden.
+Hinweis: Die Würfelwürfe sind dieselben, die bereits zum Verstehen des Zwielichts gemacht wurden.
 
 Die Dauer verringert sich um eine Stufe für jeden Punkt, um den das Gesamtergebnis der Maga das des Zwielichts übertrifft.
 
-Ein begriffenes Zwielicht hat gute Auswirkungen, andernfalls sind die Folgen schlecht. Siehe [S. 89](#wirkungen-des-zwielichts)/[S. 229](#wirkungen-des-zwielichts).
+Ein verstandenes Zwielicht hat gute Auswirkungen, andernfalls sind die Folgen schlecht. Siehe [S. 89](#wirkungen-des-zwielichts)/[S. 229](#wirkungen-des-zwielichts).
 
 ## Laborregeln
 
@@ -24712,7 +24712,7 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 | Fida'i (Tugend) | [81](#fidai) |
 | Lehen | [506](#feudalismus) |
 | Filius/Filia | [6](#glossar) |
-| Endgültiges Zwielicht | [228](#das-zwielicht-begreifen) |
+| Endgültiges Zwielicht | [228](#das-zwielicht-verstehen) |
 | Verstecktes Diebesgut finden (Tugend) | [81](#verstecktes-diebesgut-finden) |
 | Finesse (Fertigkeit) | [165](#finesse), [208](#rego-re--ich-beherrsche) |
 | Feuer | [407](#hitze-und-ätzung) |
