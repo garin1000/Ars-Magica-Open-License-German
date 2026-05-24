@@ -24,8 +24,8 @@
 | Defense Total | Verteidigungssumme | |
 | Damage | Schaden | |
 | Damage Total | Schadenssumme | |
-| Soak | Schadensabsorption | Rüstungsschutz + Ausdauer |
-| Soak Total | Schadensabsorptionswert | |
+| Soak | Absorption | Rüstungsschutz + Ausdauer |
+| Soak Total | Absorptionssumme | |
 | Attack Advantage | Angriffsvorteil | Angriffssumme − Verteidigungssumme (wenn > 0) |
 | Load | Last | Belastungs­beitrag von Waffe oder Rüstung |
 | Encumbrance | Belastung | Gesamte Beladung − Stärke; Abzug auf athletische Handlungen |
@@ -43,8 +43,8 @@
 | Angriffssumme | Kampffertigkeit + Angriffsmodifikator + Stresswürfel |
 | Verteidigungssumme | Kampffertigkeit + Verteidigungsmodifikator + Schnelligkeit + Stresswürfel |
 | Schadenssumme | Stärke + Schadensmodifikator + Angriffsvorteil |
-| Schadensabsorption | Ausdauer + Rüstungsschutz |
-| Erlittener Schaden | Schadenssumme − Schadensabsorption (bestimmt Wundstufe) |
+| Absorption | Ausdauer + Rüstungsschutz |
+| Erlittener Schaden | Schadenssumme − Absorptionssumme (bestimmt Wundstufe) |
 | Bewegung (Gehen) | 10 + Schnelligkeit − Behinderung Schritte/Runde |
 | Bewegung (Eilen) | 2 × (10 + Schnelligkeit − Behinderung) Schritte/Runde |
 | Bewegung (Rennen) | 4 × (10 + Schnelligkeit − Behinderung) Schritte/Runde |
@@ -62,6 +62,10 @@
 | Heavy Wound | Schwere Wunde | −5 |
 | Incapacitating Wound | Lähmende Wunde | Keine Handlungen möglich |
 | Dead | Tot | – |
+
+In manchen Stat-Blöcken auch:
+
+| Incapacitated | Kampfunfähig | Keine Handlungen möglich |
 
 ---
 
