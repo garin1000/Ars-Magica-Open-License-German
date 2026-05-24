@@ -1,4 +1,4 @@
-# Ars Magica Definitive Edition – Alterung, Gebrechlichkeit, Verwicklung und Dämmerung
+# Ars Magica Definitive Edition – Alterung, Gebrechlichkeit, Verzerrung und Zwielicht
 
 **Teil der deutschen Übersetzungstabellen** | Quellen: Ars Magica – Definitive Edition (Core Rules) · ArsMagica_DE_Gesamt_work.md
 
@@ -25,16 +25,16 @@
 | Decrepitude Score | Gebrechlichkeitswert | Ab Stufe 4: Krisenwürfe bei Anstrengung; Stufe 5: Sterbensbett |
 | Crisis | Krise | Besonderer Alterungswurf; tritt bei Alterungswurf 13 oder 22+ auf |
 | Crisis roll | Krisenwurf | Einfachwürfel + Alter/10 (aufgerundet) + Gebrechlichkeitswert |
-| Warping | Verwicklung | Nebenwirkung übernatürlicher Einflüsse; betrifft alle Charaktere |
-| Warping Score | Verwicklungswert | Steigt wie Fertigkeit durch Verwicklungspunkte |
-| Warping Point | Verwicklungspunkt | 5 × neue Stufe VP nötig zum Aufstieg |
-| Wizard's Twilight | Zauberers Dämmerung | Hermetische Reaktion auf Verwicklung; ⭐ |
-| Twilight | Dämmerung | Zustand des Magusverlust; ⭐ |
-| Twilight Void | Dämmerungs­leere | Physisches Verschwinden bei hohem Verwicklungswert; ⭐ |
-| Twilight Scar | Dämmerungs­narbe | Bleibende magische Narbe nach Dämmerungserlebnis; ⭐ |
-| Final Twilight | Endgültige Dämmerung | Permanentes Verschwinden bei Verwicklungswert 10+; ⭐ |
-| Comprehend (Twilight) | Dämmerung begreifen | Intelligenzwurf zum Verkürzen der Dämmerungszeit; ⭐ |
-| Enigmatic Wisdom | Enigmatische Weisheit | Fertigkeit von Haus Criamon; wirkt auf Dämmerungswürfe |
+| Warping | Verzerrung | Nebenwirkung übernatürlicher Einflüsse; betrifft alle Charaktere |
+| Warping Score | Verzerrungswert | Steigt wie Fertigkeit durch Verzerrungspunkte |
+| Warping Point | Verzerrungspunkt | 5 × neue Stufe VP nötig zum Aufstieg |
+| Wizard's Twilight | Zauberers Zwielicht | Hermetische Reaktion auf Verzerrung; ⭐ |
+| Twilight | Das Zwielicht | Zustand des Magusverlust; ⭐ |
+| Twilight Void | Zwielichtleere | Teil der Magischen Sphäre; ⭐ |
+| Twilight Scar | Zwielichtnarbe | Bleibende magische Narbe nach Zwielicherlebnis; ⭐ |
+| Final Twilight | Endgültiges Zwielicht | Permanentes Verschwinden bei Verzerrungswert 10+; ⭐ |
+| Comprehend (Twilight) | Zwielicht verstehen / Zwielichtverständnis | Intelligenzwurf zum Verkürzen der Zwielichtzeit; ⭐ |
+| Enigmatic Wisdom | Enigmatische Weisheit | Fertigkeit von Haus Criamon; wirkt auf Zwielichtwürfe |
 
 ---
 
@@ -93,11 +93,11 @@
 
 ---
 
-## Verwicklung / Warping
+## Verzerrung / Warping
 
-### Quellen von Verwicklungspunkten
+### Quellen von Verzerrungspunkten
 
-| Quelle | Verwicklungspunkte |
+| Quelle | Verzerrungspunkte |
 |---|---|
 | Mächtiger übernatürlicher Effekt (nicht selbst gewirkt oder speziell auf Charakter ausgelegt) | 1 |
 | Anhaltender übernatürlicher Effekt (niedrige Stärke, nicht speziell ausgelegt) | 1/Jahr |
@@ -105,7 +105,7 @@
 | Patzer beim Einsatz einer übernatürlichen Fähigkeit | 1+ |
 | Leben in einer starken übernatürlichen Aura (Stufe 6+) | s. Tabelle unten |
 
-### Verwicklung durch Aurenleben
+### Verzerrung durch Aurenleben
 
 | Aurastärke | Ständig | Halbe Zeit | Gelegentliche Besuche |
 |---|---|---|---|
@@ -115,45 +115,45 @@
 | 9 | 1/Saison | 2/Jahr | 1/Jahr |
 | 10 | 1/Monat | 1/Saison | 2/Jahr |
 
-### Effekte nach Verwicklungswert
+### Effekte nach Verzerrungswert
 
-| Verwicklungswert | Effekt |
+| Verzerrungswert | Effekt |
 |---|---|
 | 1 | Normaler Charakter erhält einen kleinen Persönlichkeits-Fehler |
 | 3 | Normaler Charakter erhält einen zweiten kleinen Persönlichkeits-Fehler |
-| 5 | Normaler Charakter erhält eine übernatürliche Kleintugend (passend zur Verwicklungsquelle) |
+| 5 | Normaler Charakter erhält eine übernatürliche Kleintugend (passend zur Verzerrungsquelle) |
 | 6+ | Normaler Charakter erhält für jeden weiteren Punkt einen großen Persönlichkeits-Fehler |
 
 ---
 
-## Zauberers Dämmerung / Wizard's Twilight ⭐
+## Zauberers Zwielicht / Wizard's Twilight ⭐
 
 *Nur hermetische Magi.*
 
 ### Auslösung
 
-Erhält ein Magus aus einem einzigen Ereignis 2 oder mehr Verwicklungspunkte, muss er würfeln, um die Dämmerung zu vermeiden.
+Erhält ein Magus aus einem einzigen Ereignis 2 oder mehr Verzerrungspunkte, muss er würfeln, um das Zwielicht zu vermeiden.
 
-**Dämmerungs­vermeidung:**
+**Zwielicht­vermeidung:**
 `Ausdauer + Konzentration + Vim-Formbonus + Stresswürfel`
 gegen
-`Verwicklungswert + Anzahl erhaltener Verwicklungspunkte + Enigmatische Weisheit (Gegner) + lokale Aura + Stresswürfel (kein Patzer)`
+`Verzerrungswert + Anzahl erhaltener Verzerrungspunkte + Enigmatische Weisheit (Gegner) + lokale Aura + Stresswürfel (kein Patzer)`
 
 - **Erfolg:** Zwei Minuten (Diameter) Kontrollverlust, keine weiteren Effekte.
-- **Misserfolg:** Magus tritt in die Dämmerung ein.
-- **Patzer:** Eintritt in die Dämmerung ohne Begreifen möglich.
+- **Misserfolg:** Magus tritt in das Zwielicht ein.
+- **Patzer:** Eintritt in das Zwielicht ohne Verstehen möglich.
 
-### Dämmerung begreifen
+### Zwielicht verstehen
 
 **Verständniswurf:**
 `Intelligenz + Enigmatische Weisheit + Stresswürfel`
 gegen
-`Verwicklungswert + Stresswürfel`
-(Patzerwürfel: 1 + 1 je ausgelöstem Verwicklungspunkt)
+`Verzerrungswert + Stresswürfel`
+(Patzerwürfel: 1 + 1 je ausgelöstem Verzerrungspunkt)
 
-### Dauer der Dämmerung
+### Dauer des Zwielichts
 
-| Verwicklungswert | Basisdauer |
+| Verzerrungswert | Basisdauer |
 |---|---|
 | 1 | Diameter (2 Minuten) |
 | 2 | Zwei Stunden |
@@ -164,31 +164,31 @@ gegen
 | 7 | Jahr |
 | 8 | Sieben Jahre |
 | 9 | Sieben Jahre + Stresswürfel (kein Patzer) Jahre |
-| 10+ | Endgültige Dämmerung (permanent) |
+| 10+ | Endgültiges Zwielicht (permanent) |
 
 *Die tatsächliche Dauer wird durch den Verständniswurf modifiziert.*
 
-### Effekte der Dämmerung
+### Effekte des Zwielichts
 
-**Bei begreifter Dämmerung (Erfolg):**
-
-| Effekt | Beschreibung |
-|---|---|
-| Dämmerungsnarbe (positiv) | Kleines magisches Zeichen, neutral oder vorteilhaft |
-| Erkenntnisgewinn | EP in einer Kunst, Magietheorie oder Enigmatischer Weisheit = 2 × Anzahl der Verwicklungspunkte |
-| Neue Tugend (klein) | Bei 7–10 Verwicklungspunkten: kleine hermetische oder übernatürliche Tugend |
-| Neue Tugend (groß) | Bei mehr als 10 Verwicklungspunkten: große hermetische oder übernatürliche Tugend |
-| Neuer Zauber | Formulaischer oder Ritualzauber mit Magnitudengrad = Anzahl der Verwicklungspunkte |
-
-**Bei nicht begreifter Dämmerung (Misserfolg):**
+**Bei verstandenem Zwielicht (Erfolg):**
 
 | Effekt | Beschreibung |
 |---|---|
-| Dämmerungsnarbe (negativ) | Kleines magisches Zeichen, lästig oder störend |
-| Erkenntnisver­lust | Verlust von 2 EP pro Verwicklungspunkt in Kunst, Magietheorie oder Enigmatischer Weisheit |
-| Neuer Fehler (klein) | Bei 7–10 Verwicklungspunkten: kleiner hermetischer oder übernatürlicher Fehler |
-| Neuer Fehler (groß) | Bei 10+ Verwicklungspunkten: großer hermetischer oder übernatürlicher Fehler |
-| Zauberverlust | Verlust von Zaubern (vom SL gewählt) mit Magnitudengesamtwert = Anzahl der Verwicklungspunkte |
+| Zwielichtnarbe (positiv) | Kleines magisches Zeichen, neutral oder vorteilhaft |
+| Erkenntnisgewinn | EP in einer Kunst, Magietheorie oder Enigmatischer Weisheit = 2 × Anzahl der Verzerrungspunkte |
+| Neue Tugend (klein) | Bei 7–10 Verzerrungspunkten: kleine hermetische oder übernatürliche Tugend |
+| Neue Tugend (groß) | Bei mehr als 10 Verzerrungspunkten: große hermetische oder übernatürliche Tugend |
+| Neuer Zauber | Formulaischer oder Ritualzauber mit Magnitudengrad = Anzahl der Verzerrungspunkte |
+
+**Bei nicht verstandenem Zwielicht (Misserfolg):**
+
+| Effekt | Beschreibung |
+|---|---|
+| Zwielichtnarbe (negativ) | Kleines magisches Zeichen, lästig oder störend |
+| Erkenntnisver­lust | Verlust von 2 EP pro Verzerrungspunkt in Kunst, Magietheorie oder Enigmatischer Weisheit |
+| Neuer Fehler (klein) | Bei 7–10 Verzerrungspunkten: kleiner hermetischer oder übernatürlicher Fehler |
+| Neuer Fehler (groß) | Bei 10+ Verzerrungspunkten: großer hermetischer oder übernatürlicher Fehler |
+| Zauberverlust | Verlust von Zaubern (vom SL gewählt) mit Magnitudengesamtwert = Anzahl der Verzerrungspunkte |
 
 ---
 

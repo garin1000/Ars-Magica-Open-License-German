@@ -1166,7 +1166,7 @@ Jede Vorlage wird im selben Format präsentiert, das im Folgenden beschrieben wi
 
 **Kampf:** Die Kampfwerte für die Angriffsarten und Waffen, die der Charakter häufig einsetzt.
 
-**Schadensabsorption:** Der Schadensabsorptions-Wert des Charakters.
+**Absorption:** Der Absorptions-Wert des Charakters.
 
 **Erschöpfungsstufen:** Eine Auflistung der Erschöpfungsstufen und Abzüge des Charakters, die anzeigen, wie müde der Charakter ist. Erschöpfung wird auf [Seite 403](#erschöpfung) beschrieben.
 
@@ -1210,7 +1210,7 @@ Kampf:
 - Stangenaxt: Init +2, Angriff +13, Verteidigung +7, Schaden +14
 - Tritt: Init +0, Angriff +6, Verteidigung +4, Schaden +6
 
-Schadensabsorption: +9 (Ausdauer, vollständige Metallschuppenrüstung)
+Absorption: +9 (Ausdauer, vollständige Metallschuppenrüstung)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1246,7 +1246,7 @@ Kampf:
 - Axt & Tartsche: Init –1, Angriff +15, Verteidigung +14, Schaden +6
 - Tritt: Init –3, Angriff +6, Verteidigung +5, Schaden +3
 
-Schadensabsorption: +8 (vollständige Metallschuppenrüstung)
+Absorption: +8 (vollständige Metallschuppenrüstung)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1279,7 +1279,7 @@ Reputationen: Keine
 Kampf:
 - Kurzbogen: Init –1, Angriff +9, Verteidigung +6, Schaden +6
 
-Schadensabsorption: +3 (Teil-Lederrüstung, Ausdauer)
+Absorption: +3 (Teil-Lederrüstung, Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1315,7 +1315,7 @@ Kampf:
 - Axt & Tartsche: Init +1, Angriff +17, Verteidigung +15, Schaden +8
 - Faust: Init 0, Angriff +8, Verteidigung +7, Schaden +2
 
-Schadensabsorption: +9 (vollständige Metallschuppenrüstung)
+Absorption: +9 (vollständige Metallschuppenrüstung)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1351,7 +1351,7 @@ Kampf:
 - Axt & Tartsche: Init +0, Angriff +12, Verteidigung +11, Schaden +7
 - Faust: Init –1, Angriff +7, Verteidigung +7, Schaden +1
 
-Schadensabsorption: +8 (vollständige Metallschuppenrüstung)
+Absorption: +8 (vollständige Metallschuppenrüstung)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1387,7 +1387,7 @@ Kampf:
 - Axt & Tartsche: Init -1, Angriff +10, Verteidigung +10, Schaden +7
 - Faust: Init -2, Angriff +3, Verteidigung +4, Schaden +1
 
-Schadensabsorption: +13 (vollständige Metallschuppenrüstung + Zäh)
+Absorption: +13 (vollständige Metallschuppenrüstung + Zäh)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1428,7 +1428,7 @@ Reputationen: Selbstsüchtige Furie 2 (lokal)
 Kampf:
 - Ausweichen: Init +1, Ang n/v, Vert +1, Sch n/v
 
-Schadensabsorption: -1 (Ausdauer)
+Absorption: -1 (Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1469,7 +1469,7 @@ Kampf:
 - Großschwert (zu Fuß): Init +2, Ang +13, Vert +10, Sch +10
 - Faust: Init +0, Ang +5, Vert +5, Sch +1
 
-Schadensabsorption: +10 (Kettenhemd, Ausdauer)
+Absorption: +10 (Kettenhemd, Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1506,7 +1506,7 @@ Reputationen: Keine
 Kampf:
 - Ausweichen: Init +0, Ang n/v, Vert +2, Sch n/v
 
-Schadensabsorption: +0 (Ausdauer)
+Absorption: +0 (Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1543,7 +1543,7 @@ Reputationen: Keine
 Kampf:
 - Faust: Init +4, Ang +7, Vert +7, Sch -1
 
-Schadensabsorption: 0 (Ausdauer)
+Absorption: 0 (Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1580,7 +1580,7 @@ Reputationen: Keine
 Kampf:
 - Ausweichen: Init +0, Ang n/v, Vert +0, Sch n/v
 
-Schadensabsorption: +0 (Ausdauer)
+Absorption: +0 (Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1621,7 +1621,7 @@ Reputationen: Keine.
 Kampf:
 -Ausweichen: Init +1, Angriff n/v, Verteidigung +4, Schaden n/v
 
-Schadensabsorption: +1
+Absorption: +1
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1672,7 +1672,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init +0, Angriff n/v, Verteidigung +0, Schaden n/v
 
-Schadensabsorption: 0
+Absorption: 0
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1720,7 +1720,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init +1, Angriff n/v, Verteidigung +1, Schaden n/v
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1771,7 +1771,7 @@ Kampf:
 - Ausweichen: Init -2, Angriff n/v, Verteidigung +1, Schaden n/v
 - Ringen: Init –2, Angriff +2, Verteidigung +2, Schaden n/v
 
-Schadensabsorption: +7
+Absorption: +7
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1821,7 +1821,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init +1, Angriff n/v, Verteidigung +4, Schaden n/v
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -1868,7 +1868,7 @@ Reputationen: Quaesitor (Hermetisch) 3.
 
 Kampf: Ausweichen: Init +0, Angriff n/v, Verteidigung +2, Schaden n/v
 
-Schadensabsorption: +0
+Absorption: +0
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1917,7 +1917,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init +0, Angriff n/v, Verteidigung +0, Schaden n/v
 
-Schadensabsorption: +0
+Absorption: +0
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -1970,7 +1970,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init +1, Angriff n/v, Verteidigung +1, Schaden n/v
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -2018,7 +2018,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init –1, Angriff n/v, Verteidigung –1, Schaden n/v
 
-Schadensabsorption: -1
+Absorption: -1
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -2068,7 +2068,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init +1, Angriff n/v, Verteidigung +1, Schaden n/v
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -2121,7 +2121,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init +1, Angriff n/v, Verteidigung +4, Schaden n/v
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -2169,7 +2169,7 @@ Reputationen: Keine.
 Kampf:
 - Ausweichen: Init +0, Angriff n/v, Verteidigung +0, Schaden n/v
 
-Schadensabsorption: +1
+Absorption: +1
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
@@ -2556,7 +2556,7 @@ Dein Charakter darf mit jeder Ausrüstung oder allen Besitztümern beginnen, die
 > - Tritt: Init +1, Ang +4, Vert +4, Sch +5
 > - Langer Speer: Init +5, Ang +9, Vert +8, Sch +9
 >
-> Schadensabsorption: +0
+> Absorption: +0
 >
 > Erschöpfungsstufen: OK, 0, 0, -2, -4, Bewusstlos
 >
@@ -3497,7 +3497,7 @@ Dies ist eine Übernatürliche Tugend, und du kannst sie nicht verlieren, wenn d
 
 #### Berserker
 *Klein, Allgemein*<br>
-Du bist in der Lage, in Kampfsituationen oder bei frustrierenden Umständen in einen blinden Wutanfall zu verfallen. Du erhältst automatisch die Persönlichkeitseigenschaft Wütend +2 (oder mehr, nach deiner Wahl). Jedes Mal, wenn du eine Wunde erleidest oder einem Feind eine zufügst, würfle einen Stresswürfel und addiere deinen Wütend-Wert. Ein Ergebnis von 9 oder mehr bedeutet, dass du in Raserei verfällst. Der Spielleiter kann auch dann einen Wurf verlangen, wenn du stark frustriert bist. Du kannst absichtlich versuchen, in Raserei zu verfallen. In diesem Fall brauchst du nur 6 oder mehr, wenn du eine Wunde erhältst oder einem Feind eine zufügst, oder 9 oder mehr, wenn du weder verwundet wurdest noch eine Wunde verursacht hast. Während du rasend bist, erhältst du +2 auf Angriffs- und Schadensabsorptionswerte, erleidest jedoch einen -2-Abzug auf die Verteidigung. Während du rasend bist, kannst du dich nicht zurückziehen, zögerst nicht anzugreifen und gewährst keine Gnade. Wenn du noch rasend bist, aber keine Feinde mehr vorhanden sind, greifst du deine Freunde an. Du kannst einmal pro Runde würfeln, um dich zu beruhigen, falls du es wünschst; dies erfordert einen Stresswurf + Wahrnehmung – Wütend gegen einen Schwierigkeitsgrad von 6. Du kannst Kampffertigkeiten bei der Charaktererschaffung erlernen.
+Du bist in der Lage, in Kampfsituationen oder bei frustrierenden Umständen in einen blinden Wutanfall zu verfallen. Du erhältst automatisch die Persönlichkeitseigenschaft Wütend +2 (oder mehr, nach deiner Wahl). Jedes Mal, wenn du eine Wunde erleidest oder einem Feind eine zufügst, würfle einen Stresswürfel und addiere deinen Wütend-Wert. Ein Ergebnis von 9 oder mehr bedeutet, dass du in Raserei verfällst. Der Spielleiter kann auch dann einen Wurf verlangen, wenn du stark frustriert bist. Du kannst absichtlich versuchen, in Raserei zu verfallen. In diesem Fall brauchst du nur 6 oder mehr, wenn du eine Wunde erhältst oder einem Feind eine zufügst, oder 9 oder mehr, wenn du weder verwundet wurdest noch eine Wunde verursacht hast. Während du rasend bist, erhältst du +2 auf Angriffs- und Absorptionswerte, erleidest jedoch einen -2-Abzug auf die Verteidigung. Während du rasend bist, kannst du dich nicht zurückziehen, zögerst nicht anzugreifen und gewährst keine Gnade. Wenn du noch rasend bist, aber keine Feinde mehr vorhanden sind, greifst du deine Freunde an. Du kannst einmal pro Runde würfeln, um dich zu beruhigen, falls du es wünschst; dies erfordert einen Stresswurf + Wahrnehmung – Wütend gegen einen Schwierigkeitsgrad von 6. Du kannst Kampffertigkeiten bei der Charaktererschaffung erlernen.
 
 #### Blut der Nephilim
 *Groß, Übernatürlich*<br>
@@ -3578,15 +3578,15 @@ Der Charakter hat die Fähigkeit, gewöhnliche Vertreter einer Tierart mental zu
 *Frei, Übernatürlich*<br>
 Diese übernatürliche Kraft wird Charakteren entweder vom Papst oder direkt vom Göttlichen verliehen. Sie ist ein inhärenter Vorteil des Kirchenamtes. Die meisten Charaktere mit dieser Tugend haben auch die Tugend Sozialer Status: Höherer Klerus.
 
-Der Charakter besitzt eine Kraft, die dem Hermetischen Zauber Aura der Rechtmäßigen Autorität ([Seite 357](#aura-der-rechtmäßigen-autorität)) entspricht, jedoch mit Reichweite Stimme; diese Kraft hat keinen Kosten und keine Penetration. Der Charakter hat außerdem eine Magieresistenz und einen Schadensabsorptionsbonus, die von seinem Rang in der Kirche abhängen. Wenn der Charakter eine Reliquie trägt, wird diese Magieresistenz zu der der Reliquie addiert.
+Der Charakter besitzt eine Kraft, die dem Hermetischen Zauber Aura der Rechtmäßigen Autorität ([Seite 357](#aura-der-rechtmäßigen-autorität)) entspricht, jedoch mit Reichweite Stimme; diese Kraft hat keinen Kosten und keine Penetration. Der Charakter hat außerdem eine Magieresistenz und einen Absorptionsbonus, die von seinem Rang in der Kirche abhängen. Wenn der Charakter eine Reliquie trägt, wird diese Magieresistenz zu der der Reliquie addiert.
 
-*Papst:* Magieresistenz 25, Schadensabsorptionsbonus +5.
+*Papst:* Magieresistenz 25, Absorptionsbonus +5.
 
-*Kardinal oder Legatus a latere:* Magieresistenz 20, Schadensabsorptionsbonus +4.
+*Kardinal oder Legatus a latere:* Magieresistenz 20, Absorptionsbonus +4.
 
-*Legatus missus:* Magieresistenz 15, Schadensabsorptionsbonus +3.
+*Legatus missus:* Magieresistenz 15, Absorptionsbonus +3.
 
-*Erzbischof:* Magieresistenz 10, Schadensabsorptionsbonus +2.
+*Erzbischof:* Magieresistenz 10, Absorptionsbonus +2.
 
 Päpstliche Legaten sind Vertreter des Papstes. Wenn der Legatus missus – ein niedrigerer Rang mit begrenzten Vollmachten – seine Mission verzögert oder von ihr abweicht, hört seine Befehlsaura auf zu wirken, bis er Buße getan hat. Die Befehlsaura geht auch verloren, wenn ein Legatus missus seine Mission abschließt.
 
@@ -4030,7 +4030,7 @@ Du kannst mit einer Berührung und dem Aufwand einer Erschöpfungsstufe eine ein
 *Groß, Allgemein*<br>
 Du hast gelernt, die Worte eines göttlichen Wächters zu vernehmen, der dir praktische und spirituelle Ratschläge erteilt. Der Engel flüstert dir ins Ohr und sagt dir, was geistlich – und nicht materiell – das Beste für dich ist. Er billigt Gewalt nur, wenn ein heiliger Grund vorliegt, was oft schwer zu belegen ist. Handelst du gegen den Rat des Engels, kann er dich verlassen, bis du deinen Weg korrigiert hast. Der Engel hat nur ein begrenztes Bewusstsein von deinen Gedanken, doch wenn du laut sprichst, kann er hören und sich mit dir unterhalten.
 
-Dein Schutzengel kann auch auf zwei praktische Weisen helfen. Erstens kann er dir einen Bonus von +5 auf die Schadensabsorption gewähren. Zweitens kann er dir eine Magieresistenz von 15 verleihen. Diese Magieresistenz ist nicht mit der Parma Magica eines Magus oder der Magieresistenz aus den meisten anderen Quellen vereinbar, addiert sich jedoch zur Magieresistenz, die aus Glaubenspunkten resultiert (siehe Seite 419). Der Engel gewährt dir diese Boni nur, wenn du im Einklang mit Gottes Willen handelst.
+Dein Schutzengel kann auch auf zwei praktische Weisen helfen. Erstens kann er dir einen Bonus von +5 auf die Absorption gewähren. Zweitens kann er dir eine Magieresistenz von 15 verleihen. Diese Magieresistenz ist nicht mit der Parma Magica eines Magus oder der Magieresistenz aus den meisten anderen Quellen vereinbar, addiert sich jedoch zur Magieresistenz, die aus Glaubenspunkten resultiert (siehe Seite 419). Der Engel gewährt dir diese Boni nur, wenn du im Einklang mit Gottes Willen handelst.
 
 #### Gast des Hauses Criamon
 *Klein, Hermetisch*<br>
@@ -4292,13 +4292,13 @@ Dieser Priestercharakter hat eine Beurlaubungslizenz, die ihn von einigen Pflich
 
 #### Lebensstärkung
 *Klein, Hermetisch*<br>
-Du kannst deine Zaubersummen für Formulaische oder Ritualzauber steigern, indem du zusätzliche Erschöpfungsstufen aufwendest. Jede Erschöpfungsstufe gibt dir einen zusätzlichen Bonus von +5 auf den Wurf, was sehr beeindruckende Penetrationswerte ergeben kann. Du kannst mehr Erschöpfungsstufen verbrennen, als du besitzt. Tust du das, musst du Schaden absorbieren, ohne die Hilfe von Rüstung. Der Schadenssumme beträgt 5 für jede zusätzlich aufgewendete Erschöpfungsstufe, plus ein Stresswürfel. Wendest du also drei zusätzliche Stufen auf, musst du einen Schaden von 15 + Stresswürfel absorbieren, mit deiner Schadensabsorption (ohne Rüstung) + Stresswürfel. Auf diese Weise aufgewendete Erschöpfungsstufen werden unabhängig vom Erfolg oder Misserfolg des Zauberwurfs aufgewendet, und ebenso werden erlittene Wunden auch dann erlitten, wenn du den Zauber nicht wirkst. Du kannst dich damit selbst töten. Die Gesamtzahl der zu verwendenden Erschöpfungsstufen muss vor dem Zauberwurf festgelegt werden.
+Du kannst deine Zaubersummen für Formulaische oder Ritualzauber steigern, indem du zusätzliche Erschöpfungsstufen aufwendest. Jede Erschöpfungsstufe gibt dir einen zusätzlichen Bonus von +5 auf den Wurf, was sehr beeindruckende Penetrationswerte ergeben kann. Du kannst mehr Erschöpfungsstufen verbrennen, als du besitzt. Tust du das, musst du Schaden absorbieren, ohne die Hilfe von Rüstung. Der Schadenssumme beträgt 5 für jede zusätzlich aufgewendete Erschöpfungsstufe, plus ein Stresswürfel. Wendest du also drei zusätzliche Stufen auf, musst du einen Schaden von 15 + Stresswürfel absorbieren, mit deiner Absorption (ohne Rüstung) + Stresswürfel. Auf diese Weise aufgewendete Erschöpfungsstufen werden unabhängig vom Erfolg oder Misserfolg des Zauberwurfs aufgewendet, und ebenso werden erlittene Wunden auch dann erlitten, wenn du den Zauber nicht wirkst. Du kannst dich damit selbst töten. Die Gesamtzahl der zu verwendenden Erschöpfungsstufen muss vor dem Zauberwurf festgelegt werden.
 
 #### Lebensgebundene Spontane Magie
 *Groß, Hermetisch*<br>
 Du kannst mit spontaner Magie mehr erreichen als die meisten Magi, auf Kosten deiner eigenen Lebensenergie. Wenn du dich entscheidest, diese Fähigkeit beim Wirken eines spontanen Zaubers einzusetzen, gibst du die gewünschte Effektstufe vor dem Wurf an. Diese Stufe kann eine Anzahl von Penetrationsstufen einschließen (siehe [Seite 169](#penetration)). Du kannst zum Beispiel wählen, einen Stufe-10-Effekt auf Stufe 20 zu wirken, um eine Penetration von 10 plus deinen Penetrationswert zu erhalten.
 
-Würfle, um einen Ermüdenden Spontanzauber zu wirken. Ist dein Ergebnis nach der Division höher als die von dir angegebene Stufe, wendest du wie üblich nur eine Erschöpfungsstufe auf. Ist dein Ergebnis nach der Division niedriger als die von dir angegebene Stufe, musst du für je fünf Punkte (oder einen Teil davon), um die du die Zielstufe verfehlt hast, eine zusätzliche Erschöpfungsstufe aufwenden. Gehen dir die Erschöpfungsstufen aus, erleidest du eine Wunde. Die Anzahl der noch für den Zauber benötigten Stufen wird als der Betrag behandelt, um den eine Schadenssumme deine Schadensabsorption übersteigt, und du erleidest die entsprechende Wunde. Du kannst dich damit selbst töten.
+Würfle, um einen Ermüdenden Spontanzauber zu wirken. Ist dein Ergebnis nach der Division höher als die von dir angegebene Stufe, wendest du wie üblich nur eine Erschöpfungsstufe auf. Ist dein Ergebnis nach der Division niedriger als die von dir angegebene Stufe, musst du für je fünf Punkte (oder einen Teil davon), um die du die Zielstufe verfehlt hast, eine zusätzliche Erschöpfungsstufe aufwenden. Gehen dir die Erschöpfungsstufen aus, erleidest du eine Wunde. Die Anzahl der noch für den Zauber benötigten Stufen wird als der Betrag behandelt, um den eine Schadenssumme deine Absorption übersteigt, und du erleidest die entsprechende Wunde. Du kannst dich damit selbst töten.
 
 Eine Maga mit dieser Tugend kann weiterhin Ermüdende Spontanzauber normal wirken.
 
@@ -4969,7 +4969,7 @@ Der Charakter kann einen Gegenstand an seiner Person verbergen, und Versuche, ih
 
 #### Tierwandler
 *Klein, Übernatürlich*<br>
-Du besitzt einen magischen Umhang, eine Tierhaut oder einen ähnlichen Gegenstand aus einem Tier. Während Du physischen Kontakt damit hast, kannst Du Dich in die Gestalt des durch den Gegenstand dargestellten Tieres verwandeln. Die Verwandlung dauert eine volle Runde, und Du behältst sowohl Intelligenz als auch Bewusstsein in Tiergestalt. Kleidung und Besitztümer (außer dem Tiergegenstand) werden nicht verwandelt, und Du kannst mit InAn- oder InCo-Zaubern oder ähnlichen Sprüchen als verwandelter Mensch erkannt werden. Wenn der Gegenstand gestohlen wird, hat der neue Besitzer eine Arkane Verbindung zu Dir, und Du kannst Dich nicht verwandeln, bis der Gegenstand zurückgewonnen ist. Wenn der Gegenstand zerstört wird, kannst Du im Laufe eines Quartals einen neuen anfertigen, obwohl die Methode je nach Art des Gegenstands variiert. Tierwandler können sich in jedes nicht-magische Tier zwischen Größe –10 (Rotkehlchen) und Größe +2 (Bär) verwandeln. Der Charakter hat die normalen körperlichen Eigenschaften des Tieres, außer dass seiner Schadensabsorption (nur in Tiergestalt) +3 hinzugefügt wird.
+Du besitzt einen magischen Umhang, eine Tierhaut oder einen ähnlichen Gegenstand aus einem Tier. Während Du physischen Kontakt damit hast, kannst Du Dich in die Gestalt des durch den Gegenstand dargestellten Tieres verwandeln. Die Verwandlung dauert eine volle Runde, und Du behältst sowohl Intelligenz als auch Bewusstsein in Tiergestalt. Kleidung und Besitztümer (außer dem Tiergegenstand) werden nicht verwandelt, und Du kannst mit InAn- oder InCo-Zaubern oder ähnlichen Sprüchen als verwandelter Mensch erkannt werden. Wenn der Gegenstand gestohlen wird, hat der neue Besitzer eine Arkane Verbindung zu Dir, und Du kannst Dich nicht verwandeln, bis der Gegenstand zurückgewonnen ist. Wenn der Gegenstand zerstört wird, kannst Du im Laufe eines Quartals einen neuen anfertigen, obwohl die Methode je nach Art des Gegenstands variiert. Tierwandler können sich in jedes nicht-magische Tier zwischen Größe –10 (Rotkehlchen) und Größe +2 (Bär) verwandeln. Der Charakter hat die normalen körperlichen Eigenschaften des Tieres, außer dass seiner Absorption (nur in Tiergestalt) +3 hinzugefügt wird.
 
 #### Tierwandler (Taube)
 *Groß, Übernatürlich*<br>
@@ -4979,7 +4979,7 @@ Der Charakter muss kein Federbündel als Tierwandler-Umhang bei sich tragen. Sie
 
 Die Kleidung und Ausrüstung des Charakters verwandelt sich beim Gestaltwechsel in Federn, sodass sie beim Ende der Verwandlung bescheiden bekleidet erscheint. Dies erlaubt es ihr auch, Werkzeuge und Waffen in Taubengestalt bei sich zu tragen, obwohl diese erst nach Rückkehr zur Menschengestalt eingesetzt werden können.
 
-Der Charakter besitzt in Tiergestalt die Werte einer gewöhnlichen Taube, außer dass ihre Schadensabsorption um +3 höher ist als üblich.
+Der Charakter besitzt in Tiergestalt die Werte einer gewöhnlichen Taube, außer dass ihre Absorption um +3 höher ist als üblich.
 
 Diese Tugend ist besonders mit einer rein weiblichen magischen Tradition namens Töchter der Vier Väter verbunden, die in Nordafrika beheimatet ist (siehe *Between Sand & Sea*, Seite 107).
 
@@ -5142,7 +5142,7 @@ Du kannst die Kontrolle über deine Nicht-Ritual-Zauber an andere weitergeben, s
 
 #### Zäh
 *Klein, Allgemein*<br>
-Du kannst körperliche Strapazen besser ertragen als die meisten Menschen. Du erhältst einen Bonus von +3 auf deinen Schadensabsorptionswert.
+Du kannst körperliche Strapazen besser ertragen als die meisten Menschen. Du erhältst einen Bonus von +3 auf deinen Absorptionswert.
 
 #### Stadtrichter
 *Klein, Sozialer Status*<br>
@@ -6187,7 +6187,7 @@ Du bist kränklich und schwach. Du erleidest einen –3-Malus auf alle Würfe zu
 
 #### Hinfällig
 *Klein, Allgemein*<br>
-Der Charakter ist von schwacher Statur und verletzt sich leicht bei körperlichen Aktivitäten. Er hat einen –3-Malus auf seinen Schadensabsorptionswert.
+Der Charakter ist von schwacher Statur und verletzt sich leicht bei körperlichen Aktivitäten. Er hat einen –3-Malus auf seinen Absorptionswert.
 
 #### Raserei
 *Groß, Geschichte*<br>
@@ -6371,7 +6371,7 @@ Du wurdest verflucht, dich bei Vollmond (oder ähnlichen, monatlichen astronomis
 
 Im verwandelten Zustand hast du die Intelligenz eines Tieres, reagierst auf alle Reize wie ein Tier und behältst keine Erinnerung an Handlungen in Tiergestalt, außer gelegentlich in Träumen. Du weißt möglicherweise nicht einmal, dass du unter diesem Fluch stehst. Du kannst sowohl Freunde als auch Feinde noch erkennen, wenn du verwandelt bist.
 
-Lykanthropen können sich in ein nicht-magisches Tier zwischen Größe –1 (Wolf) und Größe +2 (Bär) verwandeln. Du hast die normalen körperlichen Eigenschaften eines Gestaltwandlers (siehe [Seite 107](#gestaltwandler)), außer dass +3 zu deinem Schadensabsorptionswert addiert wird (nur in Tiergestalt). Darüber hinaus wirst du beim Wiederannehmen der Menschengestalt (was bei der Morgendämmerung geschieht) vollständig von allen in Tiergestalt erlittenen Wunden geheilt.
+Lykanthropen können sich in ein nicht-magisches Tier zwischen Größe –1 (Wolf) und Größe +2 (Bär) verwandeln. Du hast die normalen körperlichen Eigenschaften eines Gestaltwandlers (siehe [Seite 107](#gestaltwandler)), außer dass +3 zu deinem Absorptionswert addiert wird (nur in Tiergestalt). Darüber hinaus wirst du beim Wiederannehmen der Menschengestalt (was bei der Morgendämmerung geschieht) vollständig von allen in Tiergestalt erlittenen Wunden geheilt.
 
 #### Magiesucht
 *Groß, Hermetisch*<br>
@@ -8900,7 +8900,7 @@ Weltliche Handwerker können den Zustand eines Dings nur in einen anderen Zustan
 
 Animal betrifft Tiere aller Art, von den Fischen des Meeres bis zu den Vögeln des Himmels. Animal-Zauber können keine Menschen beeinflussen, und hermetische Theoretiker diskutieren noch immer über den Grund dafür.
 
-*Formbonus:* Schadensabsorption gegen tierische Angriffe (Klauen, Bisse usw.), Würfe zum Widerstehen tierischer Gifte.
+*Formbonus:* Absorption gegen tierische Angriffe (Klauen, Bisse usw.), Würfe zum Widerstehen tierischer Gifte.
 
 
 
@@ -8908,7 +8908,7 @@ Animal betrifft Tiere aller Art, von den Fischen des Meeres bis zu den Vögeln d
 
 Aquam betrifft Wasser und alle Arten von Flüssigkeiten sowie Eigenschaften der Flüssigkeit.
 
-*Formbonus:* Würfe zum Widerstehen von Ertrinken und Durst, Schadensabsorption gegen Wasserstrahlen und Ähnliches.
+*Formbonus:* Würfe zum Widerstehen von Ertrinken und Durst, Absorption gegen Wasserstrahlen und Ähnliches.
 
 
 
@@ -8916,7 +8916,7 @@ Aquam betrifft Wasser und alle Arten von Flüssigkeiten sowie Eigenschaften der 
 
 Auram ist die Kunst der Luft, des Windes und des Wetters. Sie beherrscht auch gasförmige Erscheinungsformen im Allgemeinen.
 
-*Formbonus:* Würfe zum Widerstehen von Ersticken einschließlich Ertrinken, Schadensabsorption gegen Wetterphänomene wie Blitzschläge.
+*Formbonus:* Würfe zum Widerstehen von Ersticken einschließlich Ertrinken, Absorption gegen Wetterphänomene wie Blitzschläge.
 
 
 
@@ -8924,7 +8924,7 @@ Auram ist die Kunst der Luft, des Windes und des Wetters. Sie beherrscht auch ga
 
 Corpus ist die Kunst des menschlichen Körpers. Diese Kunst betrifft tote Körper und die Körper magischer oder feenhafter Wesen, die wie Menschen aussehen, ebenso wie jene lebender Menschen. Da die Naturphilosophie behauptet, dass diese Dinge nichts mehr gemeinsam haben als ihr Erscheinungsbild, und Corpus menschliche Statuen nicht beeinflusst, sind hermetische Theoretiker über den Anwendungsbereich dieser Form verwundert.
 
-*Formbonus:* Schadensabsorption gegen unbewaffnete Angriffe von Menschen, Würfe zum Widerstehen von Krankheiten. Gilt nicht für Alterungswürfe.
+*Formbonus:* Absorption gegen unbewaffnete Angriffe von Menschen, Würfe zum Widerstehen von Krankheiten. Gilt nicht für Alterungswürfe.
 
 
 
@@ -8932,7 +8932,7 @@ Corpus ist die Kunst des menschlichen Körpers. Diese Kunst betrifft tote Körpe
 
 Diese Form betrifft Pflanzen und Bäume. Dazu gehören alle Arten von Pflanzenmaterial, einschließlich solches, das nicht mehr lebt – wie totes Holz und Leinen.
 
-*Formbonus:* Schadensabsorption gegen Holzwaffen, Würfe zum Widerstehen pflanzlicher Gifte, Würfe zum Widerstehen von Verhungern.
+*Formbonus:* Absorption gegen Holzwaffen, Würfe zum Widerstehen pflanzlicher Gifte, Würfe zum Widerstehen von Verhungern.
 
 
 
@@ -8940,7 +8940,7 @@ Diese Form betrifft Pflanzen und Bäume. Dazu gehören alle Arten von Pflanzenma
 
 Diese Form betrifft Feuer, Wärme und Licht.
 
-*Formbonus:* Schadensabsorption gegen Feuer und Kälte.
+*Formbonus:* Absorption gegen Feuer und Kälte.
 
 #### Imaginem (Im) – „Erscheinung"
 
@@ -8968,7 +8968,7 @@ Diese Form betrifft Geister, Gedanken und Seelen. Mentem kann auch die „Körpe
 
 Diese Form betrifft Feststoffe, insbesondere Erde und Gestein.
 
-*Formbonus:* Schadensabsorption gegen Metall- oder Steinwaffen, Würfe zum Widerstehen mineralischer Gifte.
+*Formbonus:* Absorption gegen Metall- oder Steinwaffen, Würfe zum Widerstehen mineralischer Gifte.
 
 
 
@@ -8976,7 +8976,7 @@ Diese Form betrifft Feststoffe, insbesondere Erde und Gestein.
 
 Diese Form betrifft rohe magische Kraft. Alle Künste beruhen auf der rohen Energie und dem Potenzial der Magie, doch diese Kunst verfeinert den Umgang mit der Magie selbst und ermöglicht es Magi, eine noch größere Kontrolle über ihre Zauber zu erlangen. Vim beeinflusst zudem magische, infernale, göttliche und feenhafte Wesen.
 
-*Formbonus:* Würfe zum Widerstehen des Zwielichts (siehe [Seite 228](#das-zwielicht)), jedoch nicht Würfe zum Begreifen desselben; Schadensabsorption gegen Schaden, der durch das eigene Zaubern verursacht wird, jedoch nicht gegen Schaden, der durch die eigenen Zauber verursacht wird.
+*Formbonus:* Würfe zum Widerstehen des Zwielichts (siehe [Seite 228](#das-zwielicht)), jedoch nicht Würfe zum Begreifen desselben; Absorption gegen Schaden, der durch das eigene Zaubern verursacht wird, jedoch nicht gegen Schaden, der durch die eigenen Zauber verursacht wird.
 
 
 
@@ -9465,7 +9465,7 @@ Eine Maga kann einen Zauber wirken wollen, der etwas anderes trifft und das eige
 
 **ZIELWURF: Wahrnehmung + Finesse + Würfelwurf**
 
-Der Würfelwurf ist ein Stresswürfel, wenn die Maga unter Druck steht, andernfalls ein einfacher Würfel. Das Ergebnis wird als Angriffssumme behandelt (siehe Kampf auf [Seite 393](#kampf)). Trifft der „Angriff", befindet sich der Zaubereffekt an der richtigen Stelle; welche Wirkung das hat, hängt vom Zauber ab. Der Magus erhält keinen Angriffsvorteil, selbst wenn der Zauber Schaden verursacht; der Schaden wird durch einen Stresswürfel plus dem Schadensbonus des Zaubers bestimmt und mit der Schadensabsorption des Ziels + Stresswürfel verglichen.
+Der Würfelwurf ist ein Stresswürfel, wenn die Maga unter Druck steht, andernfalls ein einfacher Würfel. Das Ergebnis wird als Angriffssumme behandelt (siehe Kampf auf [Seite 393](#kampf)). Trifft der „Angriff", befindet sich der Zaubereffekt an der richtigen Stelle; welche Wirkung das hat, hängt vom Zauber ab. Der Magus erhält keinen Angriffsvorteil, selbst wenn der Zauber Schaden verursacht; der Schaden wird durch einen Stresswürfel plus dem Schadensbonus des Zaubers bestimmt und mit der Absorption des Ziels + Stresswürfel verglichen.
 
 Ist das direkte Ziel des Zaubers ein Basisindividuum für die betreffende Form (siehe [Seite 310](#ziele-und-größen)), gibt es keinen Bonus auf den Zielwurf. Für jede Größenstufe darüber hinaus – also für jede hinzugefügte Magnitude – erhält der Zielwurf einen Bonus von +6. Es ist schwer, eine einzelne Person zu verfehlen, wenn man eine Grube in der Größe einer Kirche erschafft.
 
@@ -10839,7 +10839,7 @@ Jede Kordel hat eine unterschiedliche Wirkung (siehe unten), die davon abhängt,
 
 **Die Silberne Kordel:** Du kannst deinen Silbernen-Kordel-Wert als Bonus auf alle Würfe anwenden, die Persönlichkeitseigenschaften betreffen, sowie auf Würfe, die dich vor natürlichem oder übernatürlichem Geisteseinfluss schützen sollen, etwa vor einem Zauber, Einschüchterung oder verbaler Täuschung. Wird dein Geist je von einer fremden Kraft überwältigt, kann dein Vertrauter unter Umständen deine Befreiung bewirken. Dazu muss er auf einem Stresswürfel eine 9 oder mehr erzielen, wobei der Silberne-Kordel-Wert als Bonus gilt (ein Versuch pro Tag). Erleidet der Wurf einen Patzer, wird der Geist des Tieres zusammen mit deinem überwältigt.
 
-**Die Bronzene Kordel:** Du kannst deinen Bronzenen-Kordel-Wert als Bonus auf Würfe und Summen zur Schadensabsorption, auf Heilungswürfe, auf Würfe gegen Entbehrungen (wie das Anhalten des Atems oder das Widerstehen von Schläfrigkeit) sowie auf Würfe gegen das Altern anwenden. Bei der Erschöpfungsresistenz bietet sie keine Hilfe.
+**Die Bronzene Kordel:** Du kannst deinen Bronzenen-Kordel-Wert als Bonus auf Würfe und Summen zur Absorption, auf Heilungswürfe, auf Würfe gegen Entbehrungen (wie das Anhalten des Atems oder das Widerstehen von Schläfrigkeit) sowie auf Würfe gegen das Altern anwenden. Bei der Erschöpfungsresistenz bietet sie keine Hilfe.
 
 Der Magus bindet seinen Vertrauten, indem er die Kordeln schmiedet — die erste Bindung und das Schmieden der Kordeln finden daher im selben Quartal statt.
 
@@ -12370,7 +12370,7 @@ Eine eingeklammerte Zeile am Ende der Beschreibung gibt die Berechnung der Zaube
 
 > ### Zauberschaden
 >
-> Viele Zauber haben Schadenswerte in der Form +X. Dies ist eine Abkürzung für Stresswürfel + X. Der von solchen Zaubern verursachte Schaden variiert von Wirken zu Wirken. Das Ziel widersteht diesem Schaden mit seiner Schadensabsorption + Stresswürfel.
+> Viele Zauber haben Schadenswerte in der Form +X. Dies ist eine Abkürzung für Stresswürfel + X. Der von solchen Zaubern verursachte Schaden variiert von Wirken zu Wirken. Das Ziel widersteht diesem Schaden mit seiner Absorption + Stresswürfel.
 
 ### Das Sigil des Zauberers
 
@@ -12573,7 +12573,7 @@ Verwandelt ein Pferd in ein grimmiges magisches Reittier. Sein Fell wird tiefsch
 
 ### Perdo Animal — Leitlinien
 
-Gegen Perdo-Animal-Zauber gibt es in der Regel keine Schadensabsorption — die Magie erschafft keine Ursache für den Schaden, sie richtet ihn einfach an. Magieresistenz ist der einzige Weg, ihr zu widerstehen.
+Gegen Perdo-Animal-Zauber gibt es in der Regel keine Absorption — die Magie erschafft keine Ursache für den Schaden, sie richtet ihn einfach an. Magieresistenz ist der einzige Weg, ihr zu widerstehen.
 
 Ein verbreitetes Sigil unter Flambeau-Magi und anderen, die Perdo-Zauber wirken, besteht darin, eine Art Zeichen mit dem angerichteten Schaden zu hinterlassen.
 
@@ -13533,11 +13533,11 @@ Bei einem Patzer kann ein Muto-Corpus-Zauber unbegrenzt andauern und sich als sc
 | ----- | --------------------- |
 | 2     | • Jemanden so verändern, dass er eine untergeordnete Fähigkeit erhält |
 | 3     | • Aussehen oder Größe einer Person vollständig verändern (sie muss jedoch menschlich bleiben)<br>• Nicht lebendes menschliches Knochen mit einer unnatürlichen Eigenschaft ausstatten (Requisiten können nötig sein) |
-| 5     | • Einen Körper widerstandsfähiger gegen Schaden machen (+1 Schadensabsorption)<br>• Menschliche Körperteile so hinzufügen oder entfernen, dass die Person nicht mehr menschlich aussieht; diese Teile sind normalerweise funktionsfähig, obwohl ein Zauber absichtlich so gestaltet sein kann, dass sie es nicht sind (Ziel ist Teil, nicht Individuum, obwohl Gruppe und höhere Zielgrößen normal funktionieren) |
-| 10    | • Einen Menschen in ein Landtier verwandeln (mit Animal-Requisit)<br>• Einen Körper widerstandsfähiger gegen Schaden machen (+2 Schadensabsorption) |
-| 15    | • Einen Körper widerstandsfähiger gegen Schaden machen (+3 Schadensabsorption) |
-| 20    | • Einen Menschen in einen Vogel oder Fisch verwandeln (Animal-Requisit)<br>• Einen Körper widerstandsfähiger gegen Schaden machen (+4 Schadensabsorption) |
-| 25    | • Einen Menschen in ein festes unbelebtes Objekt verwandeln (Terram-Requisit)<br>• Einen Körper widerstandsfähiger gegen Schaden machen (+5 Schadensabsorption)<br>• Einen Menschen in eine Pflanze verwandeln (Herbam-Requisit) |
+| 5     | • Einen Körper widerstandsfähiger gegen Schaden machen (+1 Absorption)<br>• Menschliche Körperteile so hinzufügen oder entfernen, dass die Person nicht mehr menschlich aussieht; diese Teile sind normalerweise funktionsfähig, obwohl ein Zauber absichtlich so gestaltet sein kann, dass sie es nicht sind (Ziel ist Teil, nicht Individuum, obwohl Gruppe und höhere Zielgrößen normal funktionieren) |
+| 10    | • Einen Menschen in ein Landtier verwandeln (mit Animal-Requisit)<br>• Einen Körper widerstandsfähiger gegen Schaden machen (+2 Absorption) |
+| 15    | • Einen Körper widerstandsfähiger gegen Schaden machen (+3 Absorption) |
+| 20    | • Einen Menschen in einen Vogel oder Fisch verwandeln (Animal-Requisit)<br>• Einen Körper widerstandsfähiger gegen Schaden machen (+4 Absorption) |
+| 25    | • Einen Menschen in ein festes unbelebtes Objekt verwandeln (Terram-Requisit)<br>• Einen Körper widerstandsfähiger gegen Schaden machen (+5 Absorption)<br>• Einen Menschen in eine Pflanze verwandeln (Herbam-Requisit) |
 | 30    | • Einen Menschen in ein immaterielles Objekt verwandeln (Auram-Requisit) |
 
 ### Muto Corpus — Zauber
@@ -13573,7 +13573,7 @@ Schrumpft den Arm einer Person auf die Hälfte seiner ursprünglichen Länge und
 
 ##### Gabe der Bärenstärke
 R: Pers., D: Sonne, Z: Ind.<br>
-Dein Fleisch wird widerstandsfähig gegen körperlichen Schaden. Du erhältst +3 auf deine Schadensabsorption. Dein Fleisch ist zäh und wenig empfindlich; alle Würfe, die einen feinfühligen Tastsinn erfordern (wie das Öffnen eines Schlosses), erhalten –1.<br>
+Dein Fleisch wird widerstandsfähig gegen körperlichen Schaden. Du erhältst +3 auf deine Absorption. Dein Fleisch ist zäh und wenig empfindlich; alle Würfe, die einen feinfühligen Tastsinn erfordern (wie das Öffnen eines Schlosses), erhalten –1.<br>
 (Grundstufe 15, +2 Sonne)
 
 ##### Gestalt des Waldläufers
@@ -13900,7 +13900,7 @@ Erschafft eine Brücke aus lebenden Blättern, Ranken und Holz. Die Brücke kann
 
 ##### Dornenwand
 R: Stimme, D: Sonne, Z: Gruppe
-Innerhalb von Sekunden erschafft dieser Zauber eine gerade Wand aus holzigen Dornbüschen von bis zu 30 Metern Länge, 1,5 Metern Dicke und 6 Metern Höhe. Die Dornen sind übernatürlich widerstandsfähig, haben eine Schadensabsorption von +15, werden nur von Klingenwaffen geschnitten, und das Durchschneiden erfordert das Zufügen einer Schweren Wunde. Sich körperlich durch die Wand zu zwingen, erfordert einen Stärke-Stresswurf gegen Schwierigkeitsgrad 9 und verursacht +15 Schaden, egal ob der Versuch gelingt oder scheitert. Bei einem Patzer werden zusätzlich 5 Schadenspunkte erlitten. Die Wand wächst aus vorhandenen Büschen oder fruchtbarer Erde hervor. Mit einem Geschicklichkeit + Athletik-Stresswurf gegen Schwierigkeitsgrad 9 kann ein Charakter die Wand erklettern, nimmt dabei jedoch +10 Schaden.
+Innerhalb von Sekunden erschafft dieser Zauber eine gerade Wand aus holzigen Dornbüschen von bis zu 30 Metern Länge, 1,5 Metern Dicke und 6 Metern Höhe. Die Dornen sind übernatürlich widerstandsfähig, haben eine Absorption von +15, werden nur von Klingenwaffen geschnitten, und das Durchschneiden erfordert das Zufügen einer Schweren Wunde. Sich körperlich durch die Wand zu zwingen, erfordert einen Stärke-Stresswurf gegen Schwierigkeitsgrad 9 und verursacht +15 Schaden, egal ob der Versuch gelingt oder scheitert. Bei einem Patzer werden zusätzlich 5 Schadenspunkte erlitten. Die Wand wächst aus vorhandenen Büschen oder fruchtbarer Erde hervor. Mit einem Geschicklichkeit + Athletik-Stresswurf gegen Schwierigkeitsgrad 9 kann ein Charakter die Wand erklettern, nimmt dabei jedoch +10 Schaden.
 (Grundstufe 1, +2 Stimme, +2 Sonne, +2 Gruppe, +1 Größe)
 
 #### STUFE 25
@@ -14147,7 +14147,7 @@ Lässt einen Baum seine Äste bewegen und seinen Stamm auf jede Weise biegen, di
 
 ##### Der verräterische Speer
 R: Stimme, D: Durchmesser, Z: Ind.
-Dieser Zauber belebt eine Holzwaffe oder eine Waffe mit Holzschaft in der Hand eines anderen und lässt diese Waffe ihren Träger angreifen, bis der Träger tot ist oder die Waffe zerstört wird. Wenn der Zauber gewirkt wird, versucht die Waffe, den Griff ihres Trägers zu brechen (Schnelligkeits-Stresswurf minus Belastung gegen Schwierigkeitsgrad 9, um sie festzuhalten). In den folgenden Runden hält der Träger sie durch Stärke-Stresswürfe gegen Schwierigkeitsgrad 6, erlaubt einmal pro Runde. Wenn ein Wurf zum Festhalten jemals patzt, verliert der Träger die Kontrolle über die Waffe und wird automatisch von ihr getroffen (siehe unten). Solange sich die Waffe noch im Griff des Trägers befindet, schlägt sie nicht auf ihn ein, greift aber auch nicht für ihn an. Sobald die Waffe sich losreißt oder losgelassen wird, greift sie ihren ehemaligen Träger an, und zwar mit seinem eigenen Angriffs- und Schadenswert. Der ehemalige Träger darf gegen die aufständische Waffe kämpfen. Die Waffe verwendet ihre Verteidigungswertung als ihren Verteidigungsgesamtwert. Sie hat keine Schadensabsorption und ist „tot", nachdem sie je nach Größe eine Wunde erlitten hat. Einhändige Waffen müssen eine Mittelschwere Wunde erhalten, zweihändige Waffen eine Schwere Wunde. Der Schaden von Stich- und Fernkampfwaffen wird beim Angriff auf die aufständische Waffe halbiert.
+Dieser Zauber belebt eine Holzwaffe oder eine Waffe mit Holzschaft in der Hand eines anderen und lässt diese Waffe ihren Träger angreifen, bis der Träger tot ist oder die Waffe zerstört wird. Wenn der Zauber gewirkt wird, versucht die Waffe, den Griff ihres Trägers zu brechen (Schnelligkeits-Stresswurf minus Belastung gegen Schwierigkeitsgrad 9, um sie festzuhalten). In den folgenden Runden hält der Träger sie durch Stärke-Stresswürfe gegen Schwierigkeitsgrad 6, erlaubt einmal pro Runde. Wenn ein Wurf zum Festhalten jemals patzt, verliert der Träger die Kontrolle über die Waffe und wird automatisch von ihr getroffen (siehe unten). Solange sich die Waffe noch im Griff des Trägers befindet, schlägt sie nicht auf ihn ein, greift aber auch nicht für ihn an. Sobald die Waffe sich losreißt oder losgelassen wird, greift sie ihren ehemaligen Träger an, und zwar mit seinem eigenen Angriffs- und Schadenswert. Der ehemalige Träger darf gegen die aufständische Waffe kämpfen. Die Waffe verwendet ihre Verteidigungswertung als ihren Verteidigungsgesamtwert. Sie hat keine Absorption und ist „tot", nachdem sie je nach Größe eine Wunde erlitten hat. Einhändige Waffen müssen eine Mittelschwere Wunde erhalten, zweihändige Waffen eine Schwere Wunde. Der Schaden von Stich- und Fernkampfwaffen wird beim Angriff auf die aufständische Waffe halbiert.
 (Grundstufe 10, +2 Stimme, +1 Durchmesser)
 
 ##### Den lebenden Baum formen
@@ -14260,7 +14260,7 @@ Ein Dutzend vielfarbige Flammenbänder springen aus deinen Händen und fliegen s
 ##### Feuerkleid
 R: Stimme, D: Durchmesser, Z: Ind.
 Req.: Rego
-Das Ziel wird in Feuer gehüllt und erleidet jede Runde +5 Schaden, solange der Zauber wirkt. Das heißt, der Schaden muss zwanzigmal gegen die Schadensabsorption geworfen werden. Das Rego-Requisit stellt sicher, dass das Feuer sich nicht ausbreitet.
+Das Ziel wird in Feuer gehüllt und erleidet jede Runde +5 Schaden, solange der Zauber wirkt. Das heißt, der Schaden muss zwanzigmal gegen die Absorption geworfen werden. Das Rego-Requisit stellt sicher, dass das Feuer sich nicht ausbreitet.
 (Grundstufe 5, +2 Stimme, +1 Durchmesser, +1 Rego-Requisit)
 
 #### STUFE 35
@@ -14434,7 +14434,7 @@ Kühlt die Luft innerhalb von 15 Metern vom Ziel auf leicht unter den Gefrierpun
 
 ##### Eisiger Griff des Zauberers
 R: Stimme, D: Momentan, Z: Ind.
-Kühlt ein einzelnes Ziel so stark ab, dass es +20 Schaden erleidet. Wenn dies ausreicht, um zu töten, wird das Ziel zu Eis gefroren. Rüstungen addieren keine Schadensabsorption gegen diesen Zauber.
+Kühlt ein einzelnes Ziel so stark ab, dass es +20 Schaden erleidet. Wenn dies ausreicht, um zu töten, wird das Ziel zu Eis gefroren. Rüstungen addieren keine Absorption gegen diesen Zauber.
 (Grundstufe 20, +2 Stimme)
 
 #### STUFE 35
@@ -14498,7 +14498,7 @@ Dieser Zauber lässt ein Feuer von seiner Quelle am Boden entlang nach außen ex
 
 ##### Schutz vor Hitze und Flammen
 R: Berührung, D: Sonne, Z: Ind.
-Hält Hitze und Feuer fern, die sich dem Ziel nicht auf wenige Zentimeter nähern können. Dies macht das Ziel immun gegen Schäden durch Flammen oder Hitze mit einer Intensität unterhalb von geschmolzenem Eisen. Das Ziel erhält eine Schadensabsorption von +15 gegen alle feuerbezogenen Schäden. Jedes Feuer, das weniger als +15 Schaden pro Runde verursacht, dringt nicht durch den Schutz. Solche Feuer erlöschen schlicht beim Näherkommen der geschützten Person und lodern danach wieder auf.
+Hält Hitze und Feuer fern, die sich dem Ziel nicht auf wenige Zentimeter nähern können. Dies macht das Ziel immun gegen Schäden durch Flammen oder Hitze mit einer Intensität unterhalb von geschmolzenem Eisen. Das Ziel erhält eine Absorption von +15 gegen alle feuerbezogenen Schäden. Jedes Feuer, das weniger als +15 Schaden pro Runde verursacht, dringt nicht durch den Schutz. Solche Feuer erlöschen schlicht beim Näherkommen der geschützten Person und lodern danach wieder auf.
 (Grundstufe 4, +2 für bis zu +15 Schaden, +1 Berührung, +2 Sonne)
 
 ---
@@ -15541,7 +15541,7 @@ Lässt einen kreisförmigen Bereich von 1,5 m Durchmesser zu gezacktem Stein wer
 ##### Hände der ergreifenden Erde
 R: Stimme, D: Durchm., Z: Teil<br>
 Req.: Muto<br>
-Irdene Hände steigen aus dem Untergrund unter dem Ziel hervor und packen dessen Knöchel. Um sich zu befreien, ist ein Stärke-Stresswurf von 15+ erforderlich. (Ein Versuch ist pro Runde erlaubt; jeder Versuch erfordert einen Erschöpfungswurf.) Jede Hand kann zerstört werden, indem ihr Schadensabsorptionswurf von +25 überwunden wird (Hiebwaffen verursachen doppelten normalen Schaden) und ihr eine Leichte Wunde zugefügt wird.<br>
+Irdene Hände steigen aus dem Untergrund unter dem Ziel hervor und packen dessen Knöchel. Um sich zu befreien, ist ein Stärke-Stresswurf von 15+ erforderlich. (Ein Versuch ist pro Runde erlaubt; jeder Versuch erfordert einen Erschöpfungswurf.) Jede Hand kann zerstört werden, indem ihr Absorptionswurf von +25 überwunden wird (Hiebwaffen verursachen doppelten normalen Schaden) und ihr eine Leichte Wunde zugefügt wird.<br>
 (Grundstufe 3, +2 Stimme, +1 Durchm., +1 Teil, Requisit frei)
 
 #### STUFE 20
@@ -16651,7 +16651,7 @@ Kampf ist im Allgemeinen nicht der wichtigste Bestandteil von **Ars Magica**-Ges
 
 ### Kampfwerte
 
-Charaktere verfügen über fünf Kampfwerte: Initiative, Angriff, Verteidigung, Schaden und Schadensabsorption. Verwendet ein Charakter nur eine einzige Waffe, können die Waffenmodifikatoren einfach aus der Waffentabelle ([Seite 400](#nahkampfwaffen-statistiken)–401) abgelesen werden. Führt der Charakter sowohl eine Waffe als auch einen Schild, werden die Modifikatoren von Waffe und Schild addiert, um den endgültigen Modifikator zu erhalten.
+Charaktere verfügen über fünf Kampfwerte: Initiative, Angriff, Verteidigung, Schaden und Absorption. Verwendet ein Charakter nur eine einzige Waffe, können die Waffenmodifikatoren einfach aus der Waffentabelle ([Seite 400](#nahkampfwaffen-statistiken)–401) abgelesen werden. Führt der Charakter sowohl eine Waffe als auch einen Schild, werden die Modifikatoren von Waffe und Schild addiert, um den endgültigen Modifikator zu erhalten.
 
 **INITIATIVEWERT: Schnelligkeit + Waffen-Initiativemodifikator − Belastung + Stresswürfel**
 
@@ -16681,7 +16681,7 @@ Jede Kampfpartei handelt in absteigender Reihenfolge ihrer Initiative, wobei die
 
 Wenn eine Partei an der Reihe ist, würfelt der Angreifer einen Stresswürfel und berechnet damit seine Angriffssumme. Der Verteidiger würfelt ebenfalls einen Stresswürfel und berechnet damit seine Verteidigungssumme. Übersteigt die Angriffssumme die Verteidigungssumme, trifft der Angriff. Der Angriffsvorteil ist der Betrag, um den die Angriffssumme die Verteidigungssumme des Gegners übertrifft.
 
-Bei einem Treffer wird die Schadensabsorption des Gegners von der Schadenssumme abgezogen. Der Gegner erleidet Wunden in Abhängigkeit davon, um wie viel die Schadenssumme seine Schadensabsorption übersteigt, und von seiner Größe.
+Bei einem Treffer wird die Absorption des Gegners von der Schadenssumme abgezogen. Der Gegner erleidet Wunden in Abhängigkeit davon, um wie viel die Schadenssumme seine Absorption übersteigt, und von seiner Größe.
 
 Verfehlt der Angriff, kann kein Schaden angerichtet werden — unabhängig davon, wie hoch die Schadenssumme ist.
 
@@ -16695,7 +16695,7 @@ Eine Kampfrunde dauert etwa sechs Sekunden, sodass ein Zauber mit der Dauer Durc
 
 > ### Zauberschaden
 >
-> Zauber listen ihren Schaden als „+X" auf. Das bedeutet: Würfle einen Stresswürfel und addiere X, um die Schadenssumme zu berechnen. Anschließend wird die Schadensabsorption des Ziels + Stresswürfel davon abgezogen, um die erlittenen Wunden zu ermitteln. Wird ein Zauber gezielt eingesetzt, berechnet sich ein Angriffsvorteil, der jedoch keinen Einfluss auf den angerichteten Schaden hat.
+> Zauber listen ihren Schaden als „+X" auf. Das bedeutet: Würfle einen Stresswürfel und addiere X, um die Schadenssumme zu berechnen. Anschließend wird die Absorption des Ziels + Stresswürfel davon abgezogen, um die erlittenen Wunden zu ermitteln. Wird ein Zauber gezielt eingesetzt, berechnet sich ein Angriffsvorteil, der jedoch keinen Einfluss auf den angerichteten Schaden hat.
 
 ### Schadenstafel
 
@@ -16710,7 +16710,7 @@ Eine Kampfrunde dauert etwa sechs Sekunden, sodass ein Zauber mit der Dauer Durc
 | +2          | 1–7    | 8–14         | 15–21  | 22–28   | 29+  |
 | +3          | 1–8    | 9–16         | 17–24  | 25–32   | 33+  |
 
-Jede weitere Erhöhung der Größe um +1 fügt jedem Wundbereich +1 hinzu. Für je 5 Punkte (zuzüglich der Größe), um die die Schadenssumme die Schadensabsorption übersteigt, erhöht sich die Wundstufe um eine Stufe.
+Jede weitere Erhöhung der Größe um +1 fügt jedem Wundbereich +1 hinzu. Für je 5 Punkte (zuzüglich der Größe), um die die Schadenssumme die Absorption übersteigt, erhöht sich die Wundstufe um eine Stufe.
 
 ### Gleichstand bei der Initiative
 
@@ -16728,11 +16728,11 @@ Beim ersten Initiativewurf erzielt A einen Gesamtwert von 10, B einen von 6, C, 
 >
 > Der Wolf würfelt eine 5 für seinen Angriff, was eine Angriffssumme von 16 ergibt. Ignatio würfelt eine 6 für seine Verteidigung, was eine Verteidigungssumme von 17 ergibt. Er wehrt den Wolf mit seinem Schild ab und bleibt unverletzt.
 >
-> Dann greift Ignatio an und würfelt eine 0. Er muss nun auf einen Patzer prüfen (siehe [Seite 227](#patzer)). Der Spielleiter entscheidet, dass ein einziger Patzerwürfel genügt, da keine besonderen Umstände vorliegen, die mehr erfordern würden. Zum Glück für Ignatio würfelt er eine 4 und patzt nicht. Seine Angriffssumme beträgt damit 12, da die 0 beim Stresswurf schlicht als null zählt. Der Wolf würfelt für die Verteidigung und erzielt ebenfalls eine 0. Auch er würfelt einen Patzerwürfel und erzielt eine 1, sodass Polandrus ebenfalls keinen Patzer erleidet. Die Verteidigungssumme des Wolfs beträgt nur 9, also hat Ignatio einen Angriffsvorteil von 3. Das bedeutet, er verursacht seinen Basisschaden von 7 plus den Angriffsvorteil von 3, also 10 Schadenspunkte. Da Polandrus eine Schadensabsorption von +6 hat, kommen 4 Punkte durch. Mit einer Größe von −1 ergibt ein Blick in die Schadenstafel ([Seite 404](#schadenstafel-1)) eine Leichte Wunde. Polandrus erhält nun einen Wundabzug von −1 auf alle Aktionen.
+> Dann greift Ignatio an und würfelt eine 0. Er muss nun auf einen Patzer prüfen (siehe [Seite 227](#patzer)). Der Spielleiter entscheidet, dass ein einziger Patzerwürfel genügt, da keine besonderen Umstände vorliegen, die mehr erfordern würden. Zum Glück für Ignatio würfelt er eine 4 und patzt nicht. Seine Angriffssumme beträgt damit 12, da die 0 beim Stresswurf schlicht als null zählt. Der Wolf würfelt für die Verteidigung und erzielt ebenfalls eine 0. Auch er würfelt einen Patzerwürfel und erzielt eine 1, sodass Polandrus ebenfalls keinen Patzer erleidet. Die Verteidigungssumme des Wolfs beträgt nur 9, also hat Ignatio einen Angriffsvorteil von 3. Das bedeutet, er verursacht seinen Basisschaden von 7 plus den Angriffsvorteil von 3, also 10 Schadenspunkte. Da Polandrus eine Absorption von +6 hat, kommen 4 Punkte durch. Mit einer Größe von −1 ergibt ein Blick in die Schadenstafel ([Seite 404](#schadenstafel-1)) eine Leichte Wunde. Polandrus erhält nun einen Wundabzug von −1 auf alle Aktionen.
 >
 > In der nächsten Runde greift Polandrus erneut an. Er würfelt eine 6, was ihm — abzüglich des Wundabzugs — nur eine Angriffssumme von 16 ergibt. Ignatio würfelt eine 7, für eine Verteidigungssumme von 18. Wieder in Sicherheit.
 >
-> Bei seinem eigenen Angriff würfelt Ignatio eine 6, für eine Angriffssumme von 18, während der Wolf nur eine 2 (einschließlich Abzug) erzielt, für eine Verteidigungssumme von 10. Das ergibt einen Angriffsvorteil von 8, was nach Berücksichtigung von Ignatios Schaden und Polandrus' Schadensabsorption 9 Schadenspunkte ergibt (beachte, dass der Wundabzug des Wolfs nicht auf die Schadensabsorption angewendet wird, da Schadensabsorption keine Aktion ist). Das verursacht eine Schwere Wunde bei Polandrus und fügt weitere −5 zum Wundabzug hinzu. Der Wolf leidet nun unter −6 auf alle Aktionen.
+> Bei seinem eigenen Angriff würfelt Ignatio eine 6, für eine Angriffssumme von 18, während der Wolf nur eine 2 (einschließlich Abzug) erzielt, für eine Verteidigungssumme von 10. Das ergibt einen Angriffsvorteil von 8, was nach Berücksichtigung von Ignatios Schaden und Polandrus' Absorption 9 Schadenspunkte ergibt (beachte, dass der Wundabzug des Wolfs nicht auf die Absorption angewendet wird, da Absorption keine Aktion ist). Das verursacht eine Schwere Wunde bei Polandrus und fügt weitere −5 zum Wundabzug hinzu. Der Wolf leidet nun unter −6 auf alle Aktionen.
 >
 > An diesem Punkt erkennt Polandrus, dass er diesen Kampf verlieren wird, es sei denn, ihm kommt großes Glück zu Hilfe. Als Dämon kann er einfach entkommen, indem er in seine Geistform zurückkehrt — was er auch tut. Ignatio ist der Sieger.
 
@@ -16780,7 +16780,7 @@ Wird der Vorkämpfer oder der Anführer getötet oder anderweitig kampfunfähig,
 
 Richtet eine Gruppe Schaden an, verursacht sie den im Kampfablauf berechneten Schaden so oft, wie die Gruppe Mitglieder hat — jedes Mitglied trifft also einmal. Die Treffer sollten so gleichmäßig wie möglich auf die Mitglieder der gegnerischen Gruppe verteilt werden. Der Vorkämpfer muss stets mindestens ebenso viele Treffer einstecken wie jedes andere Mitglied der Gruppe.
 
-Als Beispiel: Eine Gruppe mit vier Mitgliedern schlägt auf eine Gruppe mit drei Mitgliedern ein, von denen eines Riesenblut besitzt, während der Vorkämpfer und der andere Kämpfer normalgroße Menschen sind. Nach Abzug der Schadensabsorption der verteidigenden Gruppe (die der Schadensabsorption des Vorkämpfers entspricht) verursacht der Angriff 6 Schadenspunkte. Es werden also vier Treffer mit je 6 Schadenspunkten verteilt. Da vier Treffer nicht gleichmäßig auf drei Charaktere aufgeteilt werden können, muss der Vorkämpfer zwei Treffer hinnehmen. Für einen normalgroßen Menschen entspricht eine Wunde von 6 Punkten einer Mittelschweren Wunde, also erleidet der Vorkämpfer zwei Mittelschwere Wunden, während der andere normale Mensch eine Mittelschwere Wunde erhält. Für den Charakter mit Riesenblut sind 6 Punkte lediglich eine Leichte Wunde, sodass dieser eine Leichte Wunde erleidet.
+Als Beispiel: Eine Gruppe mit vier Mitgliedern schlägt auf eine Gruppe mit drei Mitgliedern ein, von denen eines Riesenblut besitzt, während der Vorkämpfer und der andere Kämpfer normalgroße Menschen sind. Nach Abzug der Absorption der verteidigenden Gruppe (die der Absorption des Vorkämpfers entspricht) verursacht der Angriff 6 Schadenspunkte. Es werden also vier Treffer mit je 6 Schadenspunkten verteilt. Da vier Treffer nicht gleichmäßig auf drei Charaktere aufgeteilt werden können, muss der Vorkämpfer zwei Treffer hinnehmen. Für einen normalgroßen Menschen entspricht eine Wunde von 6 Punkten einer Mittelschweren Wunde, also erleidet der Vorkämpfer zwei Mittelschwere Wunden, während der andere normale Mensch eine Mittelschwere Wunde erhält. Für den Charakter mit Riesenblut sind 6 Punkte lediglich eine Leichte Wunde, sodass dieser eine Leichte Wunde erleidet.
 
 Wundabzüge durch Wunden des Vorkämpfers werden auf die Kampfwerte der Gruppe angewendet, während andere Mitglieder ihren vollen Bonus geben, bis sie kampfunfähig werden.
 
@@ -16905,9 +16905,9 @@ Gruppen können nur im Nahkampf versuchen, die gegnerische Gruppe aufzuspalten.
 >
 > Die Grogs würfeln eine null für die Initiative, patzen jedoch nicht, was einen Gesamtwert von 1 ergibt. Sie werden wahrscheinlich zuletzt handeln. Die Feen würfeln ebenfalls eine null — Gleichstand. Beim Nachwurf erzielen die Grogs eine 8 und die Feen eine 4, sodass die Grogs zuerst handeln.
 >
-> Die Grogs würfeln eine 4 für den Angriff. Mit dem Gruppenbonus ergibt das eine Angriffssumme von 25. Die Feen haben außerordentliches Glück und würfeln eine 12 für die Verteidigung, was eine Verteidigungssumme von 23 ergibt. Die Grogs treffen dennoch, aber nur für 9 Schadenspunkte, die die Schadensabsorption des feindlichen Vorkämpfers nicht durchdringen.
+> Die Grogs würfeln eine 4 für den Angriff. Mit dem Gruppenbonus ergibt das eine Angriffssumme von 25. Die Feen haben außerordentliches Glück und würfeln eine 12 für die Verteidigung, was eine Verteidigungssumme von 23 ergibt. Die Grogs treffen dennoch, aber nur für 9 Schadenspunkte, die die Absorption des feindlichen Vorkämpfers nicht durchdringen.
 >
-> Die Feen würfeln eine 2 für den Angriff, was eine Angriffssumme von 14 ergibt; die Grogs würfeln ebenfalls eine 2, für eine Verteidigungssumme von 13. Ein Angriffsvorteil von 1 reicht jedoch nicht aus, um die Schadensabsorption der Grogs zu überwinden, sodass kein Schaden entsteht.
+> Die Feen würfeln eine 2 für den Angriff, was eine Angriffssumme von 14 ergibt; die Grogs würfeln ebenfalls eine 2, für eine Verteidigungssumme von 13. Ein Angriffsvorteil von 1 reicht jedoch nicht aus, um die Absorption der Grogs zu überwinden, sodass kein Schaden entsteht.
 >
 > Bei ihrem nächsten Angriff würfeln die Grogs erneut eine 2, für eine Angriffssumme von 23 (der Bonus fließt weiterhin in den Angriff). Die Feen würfeln ebenfalls eine 2, woraufhin die Spieltruppe nach neuen Würfeln greift. Jedenfalls erzielen die Feen eine Verteidigungssumme von 13. Das ergibt einen Angriffsvorteil von 10, also 6 Schadenspunkte — genug für eine Mittelschwere Wunde bei jedem der Feenabbilder. Die Feen haben nun −3 auf alle Kampfwerte.
 >
@@ -16946,7 +16946,7 @@ Teilrüstungen schützen lediglich die lebenswichtigen Körperzonen und bestehen
 | Metallschuppen            | 4                     | 4        | 7                     | 7        | Standard   |
 | Kettenhemd                | 6                     | 4        | 9                     | 6        | Teuer      |
 
-**Schutz:** Der Bonus, den die Rüstung auf den Schadensabsorptionswert des Charakters gewährt.<br>
+**Schutz:** Der Bonus, den die Rüstung auf den Absorptionswert des Charakters gewährt.<br>
 **Last:** Der Beitrag der Rüstung zur Beladung des Charakters.<br>
 **Kosten:** Ein allgemeiner Hinweis auf den Preis der Rüstung. Teurere Rüstungen bieten besseren Schutz.
 
@@ -17124,7 +17124,7 @@ Hat der Charakter einen Stärke-Wert von null oder weniger, entspricht seine Bel
 
 Charaktere, die sich im Kampf oder bei anderen anstrengenden Tätigkeiten verausgaben, können müde und schließlich erschöpft werden. Dies wird durch Erschöpfungsstufen abgebildet. Die meisten Charaktere haben sechs Erschöpfungsstufen, und jede trägt einen eigenen Namen. Von der wenigsten zur stärksten Erschöpfung geordnet lauten sie: Ausgeruht, Außer Atem, Erschöpft, Müde, Betäubt und Bewusstlos. Erschöpfungsstufen können als Kurzzeit- oder Langzeiterschöpfung verloren gehen, doch beide Arten wirken auf denselben Satz von Stufen. Ein Charakter, der eine Kurzzeiterschöpfungsstufe und zwei Langzeiterschöpfungsstufen verloren hat, ist demnach Müde und erleidet einen Abzug von –3 auf alle Aktionen.
 
-Jede Erschöpfungsstufe ab Erschöpft hat einen Abzug (außer Bewusstlos, die einen eigenen Effekt darstellt). Erschöpfte Charaktere müssen den jeweiligen Abzug auf alle Würfe anwenden, einschließlich weiterer Erschöpfungswürfe, jedoch nicht auf Schadensabsorptionswürfe. Diese Abzüge stellen die Auswirkungen zunehmender Erschöpfung dar und kumulieren sich mit den Abzügen aus Wunden ([Seite 404](#wundtabelle)). Der Abzug für Erschöpft beträgt –1, für Müde –3 und für Betäubt –5.
+Jede Erschöpfungsstufe ab Erschöpft hat einen Abzug (außer Bewusstlos, die einen eigenen Effekt darstellt). Erschöpfte Charaktere müssen den jeweiligen Abzug auf alle Würfe anwenden, einschließlich weiterer Erschöpfungswürfe, jedoch nicht auf Absorptionswürfe. Diese Abzüge stellen die Auswirkungen zunehmender Erschöpfung dar und kumulieren sich mit den Abzügen aus Wunden ([Seite 404](#wundtabelle)). Der Abzug für Erschöpft beträgt –1, für Müde –3 und für Betäubt –5.
 
 ### Kurzzeiterschöpfung
 
@@ -17154,9 +17154,9 @@ Hat ein Charakter sowohl Lang- als auch Kurzzeiterschöpfungsstufen verloren, ge
 
 ## Wunden
 
-Wenn Charaktere Schaden aus beliebiger Quelle erleiden, tragen sie Wunden davon. Die Schwere der Wunde hängt davon ab, um wie viel die Schadenssumme die Schadensabsorption des Charakters übersteigt. (Wie diese Werte im Kampf berechnet werden, ist auf [Seite 394](#kampfwerte) beschrieben; für andere Situationen siehe [Seite 407](#verletzungen).)
+Wenn Charaktere Schaden aus beliebiger Quelle erleiden, tragen sie Wunden davon. Die Schwere der Wunde hängt davon ab, um wie viel die Schadenssumme die Absorption des Charakters übersteigt. (Wie diese Werte im Kampf berechnet werden, ist auf [Seite 394](#kampfwerte) beschrieben; für andere Situationen siehe [Seite 407](#verletzungen).)
 
-Ein Charakter kann beliebig viele Wunden jedes Typs in jeder Kombination tragen. Er erleidet einen Abzug auf alle Aktionen (Würfe und Gesamtwerte) in Höhe der Summe aller Wundabzüge, und die Tätigkeiten, die er gefahrlos ausführen kann, sind eingeschränkt (siehe Tätigkeiten bei Verwundung weiter unten). Schadensabsorption ist keine Aktion und unterliegt daher nicht dem Wundabzug.
+Ein Charakter kann beliebig viele Wunden jedes Typs in jeder Kombination tragen. Er erleidet einen Abzug auf alle Aktionen (Würfe und Gesamtwerte) in Höhe der Summe aller Wundabzüge, und die Tätigkeiten, die er gefahrlos ausführen kann, sind eingeschränkt (siehe Tätigkeiten bei Verwundung weiter unten). Absorption ist keine Aktion und unterliegt daher nicht dem Wundabzug.
 
 Ein Beispiel: Ein Grog hat eine Schwere Wunde erlitten. Sein gesamter Wundabzug beträgt –5. Ein anderer Grog hat zwei Leichte Wunden und eine Mittelschwere Wunde erlitten. Auch sein Wundabzug beträgt –5, doch seine Wunden heilen schneller (siehe [Seite 405](#wunden-heilen)).
 
@@ -17175,7 +17175,7 @@ Es gibt keine Obergrenze für den Wundabzug eines Charakters. Nicht-tödliche Wu
 | +2         | 1–7    | 8–14         | 15–21  | 22–28   | 29+  |
 | +3         | 1–8    | 9–16         | 17–24  | 25–32   | 33+  |
 
-Für jeden weiteren Größenpunkt von +1 erhöht sich jeder Wundbereich um +1. Für je (5 + Größe) Punkte, um die die Schadenssumme die Schadensabsorption übersteigt, steigt die Wundstufe um einen Grad.
+Für jeden weiteren Größenpunkt von +1 erhöht sich jeder Wundbereich um +1. Für je (5 + Größe) Punkte, um die die Schadenssumme die Absorption übersteigt, steigt die Wundstufe um einen Grad.
 
 ### Wundtabelle
 
@@ -17299,13 +17299,13 @@ Erschöpfungsstufen, die durch Nahrungs- oder Wasserentzug verloren wurden, sind
 
 Nicht-kampfbedingte Schadensquellen haben einen Schadensbonus, der zu einem Stresswürfel addiert wird, um den zugefügten Schaden zu ermitteln. Üblicherweise wird bei einem solchen Wurf nur ein Patzerwürfel eingesetzt, und ein Patzer bedeutet, dass kein Schaden entsteht. In den meisten Fällen wird nur der Bonus angegeben, so dass ein Feuer beispielsweise als Lagerfeuer (+10) beschrieben wird, was bedeutet, dass es Stresswürfel + 10 Schaden verursacht.
 
-Die Schadensabsorption gegen andere Schadensquellen wird berechnet, indem ein Stresswürfel zur Schadensabsorption addiert wird. In manchen Fällen, etwa bei vollständiger Eintauchung in kochendes Wasser, kann Rüstung nach Ermessen des Spielleiters keinen Schutz bieten. Zu beachten ist, dass hermetische Magi einen Bonus zur Schadensabsorption aus ihren Formwerten erhalten, der durchaus auch bei nicht-kampfbedingten Schadensquellen Anwendung finden kann.
+Die Absorption gegen andere Schadensquellen wird berechnet, indem ein Stresswürfel zur Absorption addiert wird. In manchen Fällen, etwa bei vollständiger Eintauchung in kochendes Wasser, kann Rüstung nach Ermessen des Spielleiters keinen Schutz bieten. Zu beachten ist, dass hermetische Magi einen Bonus zur Absorption aus ihren Formwerten erhalten, der durchaus auch bei nicht-kampfbedingten Schadensquellen Anwendung finden kann.
 
 Diese Regeln werden auch zur Berechnung des durch Zauber verursachten Schadens verwendet, einschließlich im Kampf.
 
 **NICHT-KAMPF-SCHADENSSUMME: Schadensbonus + Stresswürfel**
 
-**NICHT-KAMPF-SCHADENSABSORPTION: Schadensabsorption + Stresswürfel**
+**NICHT-KAMPF-SCHADENSABSORPTION: Absorption + Stresswürfel**
 
 ### Hitze und Ätzung
 
@@ -17620,7 +17620,7 @@ Reliquien sind körperliche Gegenstände, die auf irgendeine Weise einen Teil de
 
 1. GLAUBE: Jede Reliquie enthält einen Wahren-Glauben-Wert und damit Glaubenspunkte, die ihr Träger wie Selbstvertrauen einsetzen darf. Eine Reliquie verleiht ihrem Träger zudem Magieresistenz in Höhe des Zehnfachen ihres Wahren-Glauben-Wertes. Eine Person kann immer nur von einer einzigen Reliquie profitieren; der Versuch, von mehreren gleichzeitig zu profitieren, ist eine Sünde und führt dazu, dass die Vorteile aller Reliquien verloren gehen. Es ist jedoch erlaubt, weitere Reliquien demütig zu tragen, solange man sich bei den Vorteilen nur auf eine einzige verlässt. Ein Charakter, der gewöhnlich auf eine bestimmte Reliquie vertraut, bräuchte einen sehr triftigen Grund, um sie gegen eine andere zu tauschen.
 2. GÖTTLICHE MACHT: Alle Reliquien besitzen einen Göttliche-Macht-Wert, der regelt, wie oft ihre Kräfte eingesetzt werden dürfen (und damit verhindert, dass Charaktere ihre Kräfte übermäßig nutzen). Der Machtwert dient der Reliquie auch als Magieresistenz gegen alle Zauber oder übernatürliche Effekte, die sie direkt betreffen. Die Göttliche Macht einer Reliquie ist gleich ihrem Glaubenswert (bzw. dem höchsten Glaubenswert, wenn mehr als einer zutrifft) multipliziert mit 10; der Machtvorrat wird mit jedem Sonnenaufgang aufgefrischt.
-3. GEISSELUNG DES INFERNALEN: Als höchst heilige Gegenstände sind Reliquien Dämonen und ihren Anhängern ein Gräuel. Reliquien strahlen eine feindliche Aura gegenüber solchen Wesen aus, die sich über eine Anzahl von Fuß erstreckt, die dem Machtwert der Reliquie entspricht. Kreaturen, die der Höllensphäre angehören und versuchen, in diese Aura einzudringen, können dies nicht, wenn ihr Infernaler Machtwert den Göttlichen Machtwert der Reliquie nicht übersteigt. Gelingt es ihnen dennoch, in die Aura einzudringen, werden sie in jeder Runde, in der sie sich darin aufhalten, von göttlicher Energie heimgesucht, die Schaden in Höhe des Machtwertes der Reliquie verursacht – obwohl ihre Schadensabsorption sie wie gewohnt schützt. Der Angriff wird von passend dramatischen visuellen Effekten begleitet, wie heiliges Feuer, Blitze oder was der Spielleiter sonst für angemessen hält. Er endet, sobald sie die Aura verlassen. Diese Kraft wirkt nicht gegen Charaktere oder Kreaturen, die der Höllensphäre lediglich zugehörig sind, obwohl diese Unbehagen empfinden werden, wenn sie die Reliquien über längere Zeit handhaben.
+3. GEISSELUNG DES INFERNALEN: Als höchst heilige Gegenstände sind Reliquien Dämonen und ihren Anhängern ein Gräuel. Reliquien strahlen eine feindliche Aura gegenüber solchen Wesen aus, die sich über eine Anzahl von Fuß erstreckt, die dem Machtwert der Reliquie entspricht. Kreaturen, die der Höllensphäre angehören und versuchen, in diese Aura einzudringen, können dies nicht, wenn ihr Infernaler Machtwert den Göttlichen Machtwert der Reliquie nicht übersteigt. Gelingt es ihnen dennoch, in die Aura einzudringen, werden sie in jeder Runde, in der sie sich darin aufhalten, von göttlicher Energie heimgesucht, die Schaden in Höhe des Machtwertes der Reliquie verursacht – obwohl ihre Absorption sie wie gewohnt schützt. Der Angriff wird von passend dramatischen visuellen Effekten begleitet, wie heiliges Feuer, Blitze oder was der Spielleiter sonst für angemessen hält. Er endet, sobald sie die Aura verlassen. Diese Kraft wirkt nicht gegen Charaktere oder Kreaturen, die der Höllensphäre lediglich zugehörig sind, obwohl diese Unbehagen empfinden werden, wenn sie die Reliquien über längere Zeit handhaben.
 
 Darüber hinaus besitzen manche Reliquien spezifische Kräfte. Bei Reliquien von Heiligen entsprechen diese Kräfte gewöhnlich jenen des Heiligen, dem sie einst gehörten. Bei anderen Reliquien werden die Kräfte unmittelbar durch den Göttlichen Willen verliehen. Zwei Beispielkräfte werden hier genannt; weitere finden sich auf den Seiten 88 und 89 von *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*.
 
@@ -17636,7 +17636,7 @@ Wunder sind das direkte Eingreifen Gottes in die Welt. Als solche können sie al
 
 > ### Magieresistenz für Kirchenwürdenträger und Herrscher
 >
-> Das Göttliche schützt die geweihten und gesalbten Führer des Mythischen Europas vor Eingriffen anderer übernatürlicher Mächte. Die im Folgenden aufgeführten religiösen und weltlichen Würdenträger erhalten einen Magieresistenzwert wie angegeben sowie einen Schadensabsorptionsbonus in Höhe von Magieresistenz / 5.
+> Das Göttliche schützt die geweihten und gesalbten Führer des Mythischen Europas vor Eingriffen anderer übernatürlicher Mächte. Die im Folgenden aufgeführten religiösen und weltlichen Würdenträger erhalten einen Magieresistenzwert wie angegeben sowie einen Absorptionsbonus in Höhe von Magieresistenz / 5.
 >
 > Eine Exkommunikation hebt diese Vorteile auf (jedoch nur, wenn die Exkommunikation Gottes Wille ist). Die hier Genannten besitzen zudem eine Aura Rechtmäßiger Autorität mit Penetration 0, die sich bis zur Stimmweite erstreckt. Vereinfacht gesagt ist ein *Legatus a latere* ein Geistlicher, der vom Papst bevollmächtigt ist, in dessen Namen zu handeln. Ein *Legatus missus* hat dieselbe Vollmacht, jedoch nur für einen einzigen bestimmten Zweck.
 >
@@ -17648,7 +17648,7 @@ Wunder sind das direkte Eingreifen Gottes in die Welt. Als solche können sie al
 > - Erzbischof 10
 > - König (nach der Krönung) 10
 > - Ehefrauen erhalten dieselbe Magieresistenz wie ihre Ehemänner.
-> - Magieresistenz durch Reliquien wird zu den obigen Werten addiert, beeinflusst jedoch nicht die Schadensabsorption.
+> - Magieresistenz durch Reliquien wird zu den obigen Werten addiert, beeinflusst jedoch nicht die Absorption.
 
 
 ## Das Weltliche
@@ -17808,7 +17808,7 @@ Das Format für eine Kreatur ähnelt stark dem Format eines Charakters und verwe
 
 **Kampf:** Die Kampfwerte für die Angriffsweisen und Waffen, die die Kreatur häufig einsetzt.
 
-**Schadensabsorption:** Der Schadensabsorptionswert der Kreatur.
+**Absorption:** Der Absorptionswert der Kreatur.
 
 **Erschöpfungsstufen:** Eine Auflistung der Erschöpfungsstufen der Kreatur und ihrer Abzüge, die anzeigen, wie erschöpft die Kreatur ist. Die Angabe 0/0 bedeutet, dass die Kreatur zwei Erschöpfungsstufen hat, die keinen Abzug verursachen; –1/–1/–1 bedeutet drei Erschöpfungsstufen mit einem Abzug von –1. Der Erschöpfungsabzug entspricht stets dem Abzug der zuletzt erschöpften verbleibenden Stufe: Eine Kreatur mit drei –1-Erschöpfungsstufen hat einen Erschöpfungsabzug von –1, sobald sie ihre letzte 0-Erschöpfungsstufe verliert, bis sie auch die dritte –1-Erschöpfungsstufe verliert. Erschöpfung wird auf [Seite 403](#erschöpfung) beschrieben. Nicht alle Kreaturen können ermüden.
 
@@ -17865,7 +17865,7 @@ Beim Festlegen der Werte gibt es einige Dinge zu beachten.
 
 **Macht:** Der Machtwert ist von zentraler Bedeutung. Ein Machtwert von 20 bedeutet, dass Anfangsmagi große Schwierigkeiten haben werden, die Kreatur mit Magie zu beeinflussen. Ein Machtwert von 40 bereitet einem Magus mittleren Alters Probleme, und ein Machtwert von 60 macht selbst mächtigen Magi das Leben schwer. Ein Machtwert von 75 macht die Kreatur nahezu immun gegen hermetische Magie – Zaubersummen von über 75 sind äußerst selten, selbst bevor die Zauberspruchstufe abgezogen wird.
 
-Ein Machtwert, der hoch genug ist, um zu verhindern, dass die Magi-Spielercharaktere tödliche oder schwer verwundende Zauber einsetzen, ist eine gute Methode, sicherzustellen, dass ein entscheidender Kampf mehr als eine Runde dauert – besonders in Verbindung mit einer hohen Schadensabsorption oder anderen starken Kampffertigkeiten. Ein vergleichsweise hoher Machtwert motiviert die Magi außerdem dazu, Arkane Verbindungen, Horoskope und Abbildungen zu sammeln, um ihre Penetration so weit wie möglich zu steigern.
+Ein Machtwert, der hoch genug ist, um zu verhindern, dass die Magi-Spielercharaktere tödliche oder schwer verwundende Zauber einsetzen, ist eine gute Methode, sicherzustellen, dass ein entscheidender Kampf mehr als eine Runde dauert – besonders in Verbindung mit einer hohen Absorption oder anderen starken Kampffertigkeiten. Ein vergleichsweise hoher Machtwert motiviert die Magi außerdem dazu, Arkane Verbindungen, Horoskope und Abbildungen zu sammeln, um ihre Penetration so weit wie möglich zu steigern.
 
 **Kampfwerte:** Ist nicht vorgesehen, dass die Kreatur kämpft, müssen diese Werte nicht im Voraus bestimmt werden. Soll sie dagegen kämpfen, müssen die Werte im Vergleich zu den Kampfwerten der Spielercharaktere festgelegt werden. Im Allgemeinen sollte die Kreatur etwas schwächer sein als die Kraft, die wahrscheinlich gegen sie antritt. Kämpfen die Grogs als eingespielter Verband, bedeutet dies, dass die Kreatur einem einzelnen Grog gegenüber deutlich überlegen sein sollte.
 
@@ -17902,7 +17902,7 @@ Reputationen: Giftig (lokal) 4
 Kampf:
 - Reißzähne: Init +3, Angriff +8, Verteidigung +7\*, Schaden –7; \* +6 auf Verteidigung gegen Griff-Angriffe
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, –1, –3, –5, Bewusstlos
 
@@ -17911,7 +17911,7 @@ Wundabzüge: –1 (1), –3 (2), –5 (3), Kampfunfähig (4), Tot (5+)
 Fertigkeiten: Aufmerksamkeit 2 (Beute), Raufen 2 (Reißzähne), Jagen 4 (Nagetiere), Schleichen 4 (Beute anschleichen), Überleben 3 (Graslandschaften)
 
 Kräfte:
-- Giftbiss: Wenn die Kreuzotter angreift, vergleiche ihren Angriffsvorteil mit dem Rüstungsschutz des Opfers (nicht mit seiner Schadensabsorption). Liegt der Vorteil der Kreuzotter höher, leidet das Opfer unter den Wirkungen des Kreuzotterngifts, wie in der Gifttabelle auf [Seite 406](#gifttabelle) beschrieben – unabhängig davon, ob der Biss tatsächlich eine Wunde verursacht. Der Spielleiter kann den erforderlichen Angriffsvorteil bei besonderen Umständen anpassen: Hohe Stiefel könnten beispielsweise einen effektiven Schutzwert von +3 gegen diesen besonderen Angriff bieten, auch wenn sie gegen normale Angriffe keinen Schutz gewähren.
+- Giftbiss: Wenn die Kreuzotter angreift, vergleiche ihren Angriffsvorteil mit dem Rüstungsschutz des Opfers (nicht mit seiner Absorption). Liegt der Vorteil der Kreuzotter höher, leidet das Opfer unter den Wirkungen des Kreuzotterngifts, wie in der Gifttabelle auf [Seite 406](#gifttabelle) beschrieben – unabhängig davon, ob der Biss tatsächlich eine Wunde verursacht. Der Spielleiter kann den erforderlichen Angriffsvorteil bei besonderen Umständen anpassen: Hohe Stiefel könnten beispielsweise einen effektiven Schutzwert von +3 gegen diesen besonderen Angriff bieten, auch wenn sie gegen normale Angriffe keinen Schutz gewähren.
 
 Natürliche Waffen:
 - Reißzähne: Init 0, Ang +3, Vert +1, Sch +1.
@@ -17943,7 +17943,7 @@ Kampf:
 - Zähne: Init 0, Angriff +11, Verteidigung +7, Schaden +7
 - Griff: Init 0, Angriff +7, Verteidigung +5, Schaden n. z.
 
-Schadensabsorption: +10
+Absorption: +10
 
 Erschöpfungsstufen: OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -17987,7 +17987,7 @@ Kampf:
 - Hauer: Init +1, Angriff +10, Verteidigung +9, Schaden +7
 - Hauer (Berserker): Init +1, Angriff +12, Verteidigung +7, Schaden +7
 
-Schadensabsorption: +7
+Absorption: +7
 
 Erschöpfungsstufen: OK, 0/0, 0/0, –2/–2, –4, Bewusstlos
 
@@ -18027,7 +18027,7 @@ Reputationen: Stark 4 (lokal)
 Kampf:
 - Hörner: Init 0, Angriff +8, Verteidigung +3, Schaden +7
 
-Schadensabsorption: +8
+Absorption: +8
 
 Erschöpfungsstufen: OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -18068,7 +18068,7 @@ Kampf:
 - Klauen: Init +3, Angriff +8, Verteidigung +10, Schaden –5
 - Zähne: Init +4, Angriff +8, Verteidigung +7, Schaden –6
 
-Schadensabsorption: +1
+Absorption: +1
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -18108,7 +18108,7 @@ Kampf:
 - Fänge: Init +5, Angriff +6, Verteidigung +12, Schaden –4
 - Schnabel: Init +6, Angriff +6, Verteidigung +9, Schaden –5
 
-Schadensabsorption: –2
+Absorption: –2
 
 Erschöpfungsstufen: OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -18145,7 +18145,7 @@ Reputationen: Keine
 Kampf:
 - Hufe: Init +4, Angriff 0, Verteidigung +4, Schaden +5
 
-Schadensabsorption: +3
+Absorption: +3
 
 Erschöpfungsstufen: OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -18183,7 +18183,7 @@ Reputationen: Aggressiv (lokal) 1
 Kampf:
 - Hufe: Init +1, Angriff +7, Verteidigung +5, Schaden +7
 
-Schadensabsorption: +3
+Absorption: +3
 
 Erschöpfungsstufen: OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -18221,7 +18221,7 @@ Reputationen: Loyal 2 (lokal)
 Kampf:
 - Biss: Init +2, Angriff +8, Verteidigung +7, Schaden +1
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -18260,7 +18260,7 @@ Kampf:
 - Klauen: Init +1, Angriff +15, Verteidigung +12, Schaden +10
 - Biss: Init +1, Angriff +13, Verteidigung +9, Schaden +9
 
-Schadensabsorption: +8
+Absorption: +8
 
 Erschöpfungsstufen: OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -18301,7 +18301,7 @@ Kampf:
 - Hufe: Init +4, Angriff +6, Verteidigung +8, Schaden +3
 - Ausweichen: Init +2, Angriff n. z., Verteidigung +7, Schaden n. z.
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -18338,7 +18338,7 @@ Reputationen: Blutrünstig (lokal) 4
 Kampf:
 - Zähne: Init +2, Angriff +11, Verteidigung +9, Schaden 0
 
-Schadensabsorption: +4
+Absorption: +4
 
 Erschöpfungsstufen: OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -18506,7 +18506,7 @@ Eigenschaften sind Merkmale des Tieres, die seine Spielwerte beeinflussen. Füge
 
 **Stimmnachahmung:** Die Kreatur ist in der Lage, andere Geräusche nachzuahmen, etwa eine menschliche Stimme. Kommunikation auf 0 erhöhen (wenn negativ) oder um 1 steigern. Die Kreatur versteht die Bedeutung der von ihr erzeugten Laute nicht, es sei denn, sie besitzt Intelligenz statt Schlauheit – in diesem Fall erhält sie Lebende Sprache 3. Ein Magus, der sich in eine Kreatur mit dieser Eigenschaft verwandelt hat, kann die präzisen und komplexen Laute nicht erzeugen, die zum Zaubern erforderlich sind.
 
-**Niederrennen:** Dieser Effekt tritt nur in Kraft, wenn die Kreatur im Angriff auf den Gegner zugestürmt ist und sich dabei angestrengt hat. Ist der Angriff erfolgreich, muss der Gegner einen Geschicklichkeit + Athletik-Stresswurf gegen einen Schwierigkeitsgrad von (Schadenssumme (vor Schadensabsorption) + Größe der Kreatur − Größe des Gegners) ablegen. Misslingt der Wurf, landet der Gegner eine Anzahl von Fuß entfernt auf dem Boden, die der Größe der Kreatur entspricht, und erleidet dabei Sturzschaden. Er muss seine nächste Aktion damit verbringen, wieder auf die Beine zu kommen, obwohl die Kreatur in der Regel mit einem Trampelangriff nachsetzt. Liegende Charaktere können nicht parieren, sondern müssen Raufen zur Verteidigung einsetzen.
+**Niederrennen:** Dieser Effekt tritt nur in Kraft, wenn die Kreatur im Angriff auf den Gegner zugestürmt ist und sich dabei angestrengt hat. Ist der Angriff erfolgreich, muss der Gegner einen Geschicklichkeit + Athletik-Stresswurf gegen einen Schwierigkeitsgrad von (Schadenssumme (vor Absorption) + Größe der Kreatur − Größe des Gegners) ablegen. Misslingt der Wurf, landet der Gegner eine Anzahl von Fuß entfernt auf dem Boden, die der Größe der Kreatur entspricht, und erleidet dabei Sturzschaden. Er muss seine nächste Aktion damit verbringen, wieder auf die Beine zu kommen, obwohl die Kreatur in der Regel mit einem Trampelangriff nachsetzt. Liegende Charaktere können nicht parieren, sondern müssen Raufen zur Verteidigung einsetzen.
 
 **Rudeljäger:** Diese Kreaturen dürfen als Ausgebildete Gruppe kämpfen, wenn ein Rudelführer anwesend ist. Ist kein Rudelführer zugegen, dürfen sie noch immer als Unausgebildete Gruppe kämpfen.
 
@@ -18540,7 +18540,7 @@ Eigenschaften sind Merkmale des Tieres, die seine Spielwerte beeinflussen. Füge
 
 **Zähes Fell:** +2 auf den Schutz; diese Eigenschaft stapelt sich mit der Tugend Zäh und der Eigenschaft Dickes Fell/Dicke Schuppen.
 
-**Giftig:** Einer der Angriffe der Kreatur (gewöhnlich der Biss) injiziert dem Opfer Gift in die Wunde. Vergleiche den Angriffsvorteil mit dem Schutz (nicht der Schadensabsorption) des Opfers. Ist der Vorteil der Kreatur höher, erleidet das Opfer die Auswirkung des Giftes, unabhängig davon, ob der Biss tatsächlich eine Wunde verursacht. Das Gift kann eine von zwei Stärken haben (bei der Wahl der Eigenschaft festzulegen): ein Gift, das eine Leichte Wunde verursacht, wenn ein Ausdauer-Wurf mit Schwierigkeitsgrad 12 misslingt, oder eines, das eine Mittelschwere Wunde verursacht, aber nur einen Schwierigkeitsgrad von 9 hat. Diese Eigenschaft kann mehrfach genommen werden: Jedes weitere Mal erhöht entweder den Schweregrad der verursachten Wunde oder erhöht den Schwierigkeitsgrad, um den Effekt zu vermeiden, um drei.
+**Giftig:** Einer der Angriffe der Kreatur (gewöhnlich der Biss) injiziert dem Opfer Gift in die Wunde. Vergleiche den Angriffsvorteil mit dem Schutz (nicht der Absorption) des Opfers. Ist der Vorteil der Kreatur höher, erleidet das Opfer die Auswirkung des Giftes, unabhängig davon, ob der Biss tatsächlich eine Wunde verursacht. Das Gift kann eine von zwei Stärken haben (bei der Wahl der Eigenschaft festzulegen): ein Gift, das eine Leichte Wunde verursacht, wenn ein Ausdauer-Wurf mit Schwierigkeitsgrad 12 misslingt, oder eines, das eine Mittelschwere Wunde verursacht, aber nur einen Schwierigkeitsgrad von 9 hat. Diese Eigenschaft kann mehrfach genommen werden: Jedes weitere Mal erhöht entweder den Schweregrad der verursachten Wunde oder erhöht den Schwierigkeitsgrad, um den Effekt zu vermeiden, um drei.
 
 **Stimmgewaltig:** Die Kreatur kann beeindruckende Lautäußerungen von sich geben, wie ein kraftvolles Brüllen oder Heulen, schönen Vogelgesang o. Ä. Kommunikation wird auf 0 erhöht (wenn negativ) oder um 1 gesteigert, und die Kreatur erhält Musik 3. Diese Eigenschaft kann zweimal genommen werden, um eine besonders beeindruckende Stimme darzustellen; Musik steigt dann auf 5.
 
@@ -18657,7 +18657,7 @@ Persönlichkeitseigenschaften: Zurückgezogen +5, Unveränderlich +3, Stolz +2
 Kampf:
 - Kriegshammer: Init –1, Angriff +11, Verteidigung +3, Schaden +15
 
-Schadensabsorption: +10
+Absorption: +10
 
 Wundabzüge: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (22–28), Tot (29+)
 
@@ -18701,7 +18701,7 @@ Persönlichkeitseigenschaften: Ibis\* +3, Prächtige Erscheinung (Präsenz)\* +3
 Kampf:
 - Ausweichen: Init +2, Angriff –, Verteidigung +5, Schaden n/v
 
-Schadensabsorption: +3
+Absorption: +3
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -18777,7 +18777,7 @@ Persönlichkeitseigenschaften: Bedächtig +3, Aufmerksam +2
 
 Kampf: n/v
 
-Schadensabsorption: n/v
+Absorption: n/v
 
 Wundabzüge: n/v
 
@@ -18810,7 +18810,7 @@ Kampf:
 
 Wer gebissen wird, muss einen Erschöpfungswurf gegen Schwierigkeitsgrad 9 bestehen oder verliert jede Runde eine Erschöpfungsstufe, bis er drei Runden in Folge erfolgreich war oder das Bewusstsein verloren hat. Während dieser Wirkung ist das Opfer nicht in der Lage zu lügen (Penetration 25, Mentem) und spricht bereitwillig mit jedem Anwesenden über alles, was ihm durch den Kopf geht – notfalls auch mit sich selbst. Sobald das Opfer bewusstlos wird, verliert es keine weiteren Erschöpfungsstufen; es erwacht jedoch mit starken Kopfschmerzen und muss einen Ausdauer-Stresswurf (zuzüglich Gedächtniskunst, falls vorhanden) gegen Schwierigkeitsgrad 6 ablegen, um sich an das Geschehene zu erinnern.
 
-Schadensabsorption: +9
+Absorption: +9
 
 Wundabzüge: –1 (1–4), –3 (5–8), –5 (9–12), Verbannt (13+)
 
@@ -18844,7 +18844,7 @@ Kampf:
 
 Dietrichs Schwert wurde in Drachenblut getaucht. Kein Zauber der Stufe 40 oder niedriger kann es ablenken, beschädigen oder kontrollieren. Nach einem Treffer brennt das Drachenblut weiter und verursacht jede Runde zusätzlichen Schaden von +5 (Rüstung mindert diesen nicht), es sei denn, ein Alchemist, Kräuterkundiger oder Heiler kann die Wunde behandeln.
 
-Schadensabsorption: +22 (vollständige Kettenrüstung, in Drachenblut getränkt)
+Absorption: +22 (vollständige Kettenrüstung, in Drachenblut getränkt)
 
 Wundabzüge: –1 (1–7), –3 (8–14), –5 (15–21), Verbannt (22+)
 
@@ -18874,7 +18874,7 @@ Persönlichkeitseigenschaften: Hasst Unterbrechungen +4, Entschlossen +3, Schüt
 Kampf:
 - Raufen: Init +3, Angriff +10, Verteidigung +10, Schaden +8
 
-Schadensabsorption: +20
+Absorption: +20
 
 Wundabzüge: –1 (1–8), –3 (9–16), –5 (17–24), Verbannt (25+)
 
@@ -18902,7 +18902,7 @@ Persönlichkeitseigenschaften: Ruhig +4, Schützend +2
 
 Kampf: variiert mit der Gestalt
 
-Schadensabsorption: variiert
+Absorption: variiert
 
 Wundabzüge: variieren je nach Gestalt; Verbannt ersetzt Kampfunfähig
 
@@ -18931,7 +18931,7 @@ Persönlichkeitseigenschaften: Ehrenhaft +6, Autoritär +3, Diszipliniert +3
 Kampf:
 - Langer Speer: Init +7, Angriff +14, Verteidigung +12, Schaden +10
 
-Schadensabsorption: +14 (silberner Küraß)
+Absorption: +14 (silberner Küraß)
 
 Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–20), Kampfunfähig (21–25), Verbannt (26+)
 
@@ -18961,7 +18961,7 @@ Persönlichkeitseigenschaften: Wachsam +3
 
 Kampf: Keiner. Verschwindet, wenn er angegriffen wird; er kann nur durch Perdo-Vim-Zauber geschädigt werden.
 
-Schadensabsorption: – (nimmt nie körperliche Gestalt an)
+Absorption: – (nimmt nie körperliche Gestalt an)
 
 Wundabzüge: n/v
 
@@ -18993,7 +18993,7 @@ Kampf:
 
 Obwohl klein, ist Pukis lang und schlank. Er kann zwei Gegner ohne Abzug bekämpfen, einen mit seinem Maul und den anderen mit seinem schnellen Schwanz. Er ist zudem glühend heiß und kann leicht entzündliche Materialien bei Berührung entzünden.
 
-Schadensabsorption: +8 (ledrige Haut)
+Absorption: +8 (ledrige Haut)
 
 Wundabzüge: –1 (1–3), –3 (4–6), –5 (7–9), Verbannt (10+)
 
@@ -19128,7 +19128,7 @@ Kampf:
 
 \* Beinhaltet Wege der Höhle
 
-Schadensabsorption: +9 (zusätzlich +2, wenn rasend)
+Absorption: +9 (zusätzlich +2, wenn rasend)
 
 Wundabzüge: –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 
@@ -19193,7 +19193,7 @@ Kampf:
 
 \* Beinhaltet Wege des Flusses
 
-Schadensabsorption: +6
+Absorption: +6
 
 Wundabzüge: –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 
@@ -19260,7 +19260,7 @@ Kampf:
 
 \* Beinhaltet Wege des Sturms
 
-Schadensabsorption: +0
+Absorption: +0
 
 Wundabzüge: –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 
@@ -19329,7 +19329,7 @@ Kampf:
 
 \* Beinhaltet Wege des Waldbrandes
 
-Schadensabsorption: +4
+Absorption: +4
 
 Wundabzüge: –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 
@@ -19392,7 +19392,7 @@ Kampf:
 - Tritt: Init –3, Angriff +6, Verteidigung +1, Schaden +15
 - Stein (Wurf): Init –3, Angriff +7, Verteidigung +2, Schaden +14
 
-Schadensabsorption: +9
+Absorption: +9
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -19441,7 +19441,7 @@ Kampf:
 - Langschwert & Dreieckschild: Init +2, Angriff +14, Verteidigung +14, Schaden +8
 - Nur Langschwert: Init +2, Angriff +13, Verteidigung +10, Schaden +8
 
-Schadensabsorption: +10
+Absorption: +10
 
 Erschöpfungsstufen: OK, –1, –3, –5, Bewusstlos
 
@@ -19502,7 +19502,7 @@ Reputationen: Keine
 Kampf:
 - Biss: Init +12, Angriff +10, Verteidigung +14, Schaden +9
 
-Schadensabsorption: +7
+Absorption: +7
 
 Erschöpfungsstufen: n/v – Der magische Wolf ermüdet nicht.
 
@@ -19627,13 +19627,13 @@ Wiedergänger sind schwer mit Waffen zu schädigen. Insbesondere können sie nic
 
 Perdo-Corpus-Zauber, die auf Lebende ausgelegt sind, bleiben bei Wiedergängern oft wirkungslos, da deren Körper bereits tot sind. Zauber, die speziell Knochen brechen oder Gliedmaßen zerstören, behindern sie nicht so sehr wie lebende Menschen – sie können jedoch nach Ermessen des Spielleiters Wundabzüge verursachen. Ein gebrochenes Bein könnte einen Wiedergänger beispielsweise so beeinträchtigen, als handelte es sich um eine Leichte Wunde. Perdo-Corpus-Zauber können selbstverständlich auch gezielt für die Lebenden Toten entwickelt werden.
 
-Verschiedene Legenden berichten von besonderen Methoden, mit denen Helden die Lebenden Toten vernichten können. In bestimmten isländischen Sagas konnte ein Draug (Wiedergänger) vernichtet werden, indem man ihm den Kopf abschlug und ihn zwischen seine Schenkel legte. In einer Geschichte aus Yorkshire konnten Wiedergänger vernichtet werden, indem man ihnen Pfähle durch das Herz trieb. Ein Charakter, der die richtige Methode kennt, führt einen regulären Nahkampfangriff durch. Würde der Angriff gegen eine Schadensabsorption von +3 eine Lähmende oder tödliche Wunde verursacht haben, und wurde der Angriff mit der richtigen Waffe ausgeführt (zum Beispiel ein Holzpfahl, wenn das die Methode zur Vernichtung dieses besonderen Wiedergängers ist), dann wird der belebende Geist des Wiedergängers vernichtet und etwaiges Vis im Leichnam bleibt zurück. Die Methode zur Vernichtung eines Wiedergängers herauszufinden, kann eine ganze Geschichte erfordern; wenn der Spielleiter es vorzieht, kann er dafür auch einen Schwierigkeitsgrad von 9 auf einen Intelligenz + Magiekunde-Wurf festlegen.
+Verschiedene Legenden berichten von besonderen Methoden, mit denen Helden die Lebenden Toten vernichten können. In bestimmten isländischen Sagas konnte ein Draug (Wiedergänger) vernichtet werden, indem man ihm den Kopf abschlug und ihn zwischen seine Schenkel legte. In einer Geschichte aus Yorkshire konnten Wiedergänger vernichtet werden, indem man ihnen Pfähle durch das Herz trieb. Ein Charakter, der die richtige Methode kennt, führt einen regulären Nahkampfangriff durch. Würde der Angriff gegen eine Absorption von +3 eine Lähmende oder tödliche Wunde verursacht haben, und wurde der Angriff mit der richtigen Waffe ausgeführt (zum Beispiel ein Holzpfahl, wenn das die Methode zur Vernichtung dieses besonderen Wiedergängers ist), dann wird der belebende Geist des Wiedergängers vernichtet und etwaiges Vis im Leichnam bleibt zurück. Die Methode zur Vernichtung eines Wiedergängers herauszufinden, kann eine ganze Geschichte erfordern; wenn der Spielleiter es vorzieht, kann er dafür auch einen Schwierigkeitsgrad von 9 auf einen Intelligenz + Magiekunde-Wurf festlegen.
 
 Mittelalterliche Erzählungen und Illustrationen zeigen sowohl leichenartig aussehende Lebende Tote als auch belebte Skelette. Das Wort „Zombie" entstammt der Neuen Welt (Haiti) und würde von Charakteren in Mythischem Europa nicht verwendet werden.
 
 > #### Option: Widerstand gegen Stichwaffen
 >
-> Stichwaffen wie Speere und Pfeile sind gegen Lebende wirksam, gegen die Lebenden Toten aber möglicherweise weniger. Solche Waffen können kaum Knochen brechen oder Gliedmaßen abtrennen. Die Spieltruppe kann Wiedergängern daher einen zusätzlichen +10-Schadensabsorptionsbonus gegen solche Waffen gewähren oder sie schlicht als vollständig wirkungslos erklären.
+> Stichwaffen wie Speere und Pfeile sind gegen Lebende wirksam, gegen die Lebenden Toten aber möglicherweise weniger. Solche Waffen können kaum Knochen brechen oder Gliedmaßen abtrennen. Die Spieltruppe kann Wiedergängern daher einen zusätzlichen +10-Absorptionsbonus gegen solche Waffen gewähren oder sie schlicht als vollständig wirkungslos erklären.
 >
 > **Ars Magica Fünfte Edition** unterscheidet Waffen nicht förmlich in Kategorien wie „Stichwaffe". Wenn die Spieltruppe diese Option übernimmt, muss sie daher mitunter nach eigenem Ermessen entscheiden, ob eine Waffe als Stichwaffe zählt.
 
@@ -19641,7 +19641,7 @@ Mittelalterliche Erzählungen und Illustrationen zeigen sowohl leichenartig auss
 
 Zauberer können Leichen mithilfe von Rego-Corpus-Zaubern (oder bestimmten nicht-hermetischen Kräften) beleben. Solche Leichen verwenden dieselben Werte wie ein Wiedergänger mit folgenden Abweichungen:
 
-Sie leiden nicht unter Erschöpfung und verfügen über die in den Werten angegebene Schadensabsorption, besitzen aber keine eigenen Kräfte.
+Sie leiden nicht unter Erschöpfung und verfügen über die in den Werten angegebene Absorption, besitzen aber keine eigenen Kräfte.
 
 Eine durch einen Zauber belebte Leiche hat weder einen Machtwert noch einen Selbstvertrauenswert. Ihr Raufen-Wert beträgt nominell 3; als optionale Regel kann die Spieltruppe dem Wert auch gleich der Finesse des Zauberers setzen.
 
@@ -19668,7 +19668,7 @@ Persönlichkeitseigenschaften: Rachsüchtig +6
 Kampf:
 - Faust: Init 0, Angriff +7, Verteidigung +4, Schaden +5
 
-Schadensabsorption: +11
+Absorption: +11
 
 Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), –5 (16–20), Vernichtet (21+)
 
@@ -19703,7 +19703,7 @@ Tugenden und Fehler: Schädliche Umstände (bei Tageslicht), Schwache Eigenschaf
 Kampf:
 - Knochenklauen: Init +2, Angriff +8, Verteidigung +8, Schaden +2
 
-Schadensabsorption: +9
+Absorption: +9
 
 Wundabzüge: –1 (1–3), –3 (4–6), –5 (7–9), –5 (10–12), Vernichtet (13+)
 
@@ -19739,7 +19739,7 @@ Persönlichkeitseigenschaften: Träge +2, Territorial +2
 Kampf:
 - Fangzähne: Init –2, Angriff +7, Verteidigung +3, Schaden –1
 
-Schadensabsorption: +4
+Absorption: +4
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -19789,7 +19789,7 @@ Kampf:
 - Geweih: Init +4, Angriff +10, Verteidigung +10, Schaden +7
 - Hufe: Init +4, Angriff +8, Verteidigung +9, Schaden +5
 
-Schadensabsorption: +7
+Absorption: +7
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -19851,7 +19851,7 @@ Reputationen: Der mächtige Drache, der in den Bergen lebt (ortsbekannt) 5
 Kampf:
 - Klauen: Init +3, Angriff +22, Verteidigung +18, Schaden +20
 
-Schadensabsorption: +20
+Absorption: +20
 
 Erschöpfungsstufen: OK, 0/0/0/0/0, –1, –3, –5, Bewusstlos
 
@@ -19967,7 +19967,7 @@ Kampf:
 
 \* In einigen Fällen besitzen Feenhunde die Kraft Schadenseffekt, der +5 zum Schadenswert ihres Bisses hinzufügt. Das ist gewöhnlich äußerlich erkennbar – zum Beispiel entzündet ihr Speichel kleine Flämmchen auf dem Boden, oder ihr Atem kräuselt sich wie Rauch, weil ihre Zähne wie Eis gefrieren.
 
-Schadensabsorption: +2
+Absorption: +2
 
 Wundabzüge: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24), Tot (25+)
 
@@ -20029,7 +20029,7 @@ Kampf:
 
 \* Nicht enthalten: +3 auf Angriff und Verteidigung für Beritten-Kämpfe.
 
-Schadensabsorption: +9\* Feenmetall-Schuppenpanzer aus Glamour mittels der Kraft Menschengestalt wechseln.
+Absorption: +9\* Feenmetall-Schuppenpanzer aus Glamour mittels der Kraft Menschengestalt wechseln.
 
 Wundabzüge: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–25), Tot (26+)
 
@@ -20071,7 +20071,7 @@ Persönlichkeitseigenschaften: Neugierig +3
 Kampf:
 - Sense: Init +1, Angriff +6, Verteidigung +4, Schaden +5
 
-Schadensabsorption: +0
+Absorption: +0
 
 Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20), Tot (21+)
 
@@ -20118,7 +20118,7 @@ Reputationen: Keine
 Kampf:
 - Keule: Init –2, Angriff +4, Verteidigung 0, Schaden +1
 
-Schadensabsorption: +2
+Absorption: +2
 
 Wundabzüge: –1 (1–3), –3 (4–6), –5 (7–9), Kampfunfähig (10–12)
 
@@ -20163,7 +20163,7 @@ Reputationen: Erfahrener Karawanenführer 2 (Mythischer Naher Osten)
 Kampf:
 - Langschwert: Init +5, Angriff +14, Verteidigung +9, Schaden +8
 
-Schadensabsorption: +3
+Absorption: +3
 
 Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20), Tot (21+)
 
@@ -20209,7 +20209,7 @@ Reputationen: Seelenfressender Dämon (lokal) 1
 Kampf:
 - Biss: Init +9, Angriff +10, Verteidigung +10, Schaden +6
 
-Schadensabsorption: +7
+Absorption: +7
 
 Wundabzüge: –1 (1–4), –3 (5–8), –5 (9–12), Kampfunfähig (13–16)
 
@@ -20258,7 +20258,7 @@ Kampf:
 - Axt und Rundschild (zu Fuß): Init +2, Angriff +16, Verteidigung +12, Schaden +6
 - Axt und Rundschild (beritten): Init +2, Angriff +19, Verteidigung +15, Schaden +6
 
-Schadensabsorption: +9
+Absorption: +9
 
 Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20), Tot (21+)
 
@@ -20290,7 +20290,7 @@ Persönlichkeitseigenschaften: Tapfer +3, Furchtsam +3
 Kampf:
 - Zähne: Init –2, Angriff +12, Verteidigung +6, Schaden +3
 
-Schadensabsorption: +7
+Absorption: +7
 
 Wundabzüge: –1 (1–8), –3 (8–16), –5 (17–24), Kampfunfähig (25–32), Tot (33+)
 
@@ -20327,7 +20327,7 @@ Kampf:
 
 \* Die Arme des Ljeschi bestehen aus massivem Holz und richten Schaden wie eine Keule an. Sie werden mit der Raufen-Täuschung geführt, auch wenn der Ljeschi im Kampf Keulen hervorbringt.
 
-Schadensabsorption: +15
+Absorption: +15
 
 Wundabzüge: Siehe Tabelle.
 
@@ -20402,7 +20402,7 @@ Reputationen: Gewährt ewige Jugend 2 (lokal)
 Kampf:
 - Ausweichen: Init 0, Angriff entfällt, Verteidigung 0, Schaden entfällt
 
-Schadensabsorption: +25 (+5 gegen Eisen- oder Stahlwaffen)
+Absorption: +25 (+5 gegen Eisen- oder Stahlwaffen)
 
 Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20)
 
@@ -20518,7 +20518,7 @@ Schwächen sollten aus folgender Liste gewählt werden:
 
 **Fließendes Wasser:** Der Dämon kann fließendes Wasser nicht überqueren. Es muss sich um Süßwasser handeln, das direkt aus dem Erdreich entspringt – aus einem Krug verschüttetes Wasser hält ihn nicht auf.
 
-**Verwundbarkeit:** Eine bestimmte Substanz (vgl. Abscheuliches Material für Beispiele) verursacht dem Dämon bereits durch bloße Berührung eine Leichte Wunde. Je mächtiger der Dämon, desto seltener sollte diese Substanz sein. Waffen, die aus dem verwundenden Material gefertigt sind, fügen dem Dämon bei einem erfolgreichen Angriff zusätzlich eine Leichte Wunde zu – unabhängig vom eigentlichen Schaden des Angriffs, selbst wenn die Schadensabsorption den gesamten übrigen Schaden aufgefangen hat. Licht ist eine verbreitete Verwundbarkeit schwacher Dämonen.
+**Verwundbarkeit:** Eine bestimmte Substanz (vgl. Abscheuliches Material für Beispiele) verursacht dem Dämon bereits durch bloße Berührung eine Leichte Wunde. Je mächtiger der Dämon, desto seltener sollte diese Substanz sein. Waffen, die aus dem verwundenden Material gefertigt sind, fügen dem Dämon bei einem erfolgreichen Angriff zusätzlich eine Leichte Wunde zu – unabhängig vom eigentlichen Schaden des Angriffs, selbst wenn die Absorption den gesamten übrigen Schaden aufgefangen hat. Licht ist eine verbreitete Verwundbarkeit schwacher Dämonen.
 
 #### Dämonen und freier Wille
 
@@ -20570,7 +20570,7 @@ Kampf:
 
 \*\* Die Klauen sind mit Exkrementen bedeckt. Verletzungen, die nicht sorgfältig gereinigt werden, eitern und heilen nie. Ein Wurf auf der Genesungstabelle, der eine Verbesserung anzeigt, bedeutet hier Stabilität; ein stabiles Ergebnis bedeutet, dass sich die Wunde verschlechtert. Einmal eingetreten, kann die Infektion nur durch göttliche Hilfe geheilt werden.
 
-Schadensabsorption: +8
+Absorption: +8
 
 Erschöpfungsstufen: OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -20633,7 +20633,7 @@ Reputationen: Ausgezeichneter Berater in Geldangelegenheiten 5 (lokal)
 Kampf:
 - Faust: Init –1, Angriff –1, Verteidigung –1, Schaden –1
 
-Schadensabsorption: +8
+Absorption: +8
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -20695,7 +20695,7 @@ Reputationen: Keine
 Kampf:
 - Ausweichen: Init +7, Angriff –, Verteidigung +14, Schaden –
 
-Schadensabsorption: +1
+Absorption: +1
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -20745,7 +20745,7 @@ Reputationen: Keine
 Kampf:
 - Rute: Init +6, Angriff +11, Verteidigung +10, Schaden +4
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -20797,7 +20797,7 @@ Reputationen: Geißel von Yenghissar 2 (lokal)
 
 Kampf: Entfällt, der Buran ist ein unkörperlicher Geist.
 
-Schadensabsorption: Entfällt, der Buran ist ein unkörperlicher Geist.
+Absorption: Entfällt, der Buran ist ein unkörperlicher Geist.
 
 Wundabzüge: Entfällt, der Buran ist ein unkörperlicher Geist.
 
@@ -20844,7 +20844,7 @@ Kampf:
 - Keule: Init –3, Angriff +13, Verteidigung +6, Schaden +11
 - Faust: Init –4, Angriff +6, Verteidigung +2, Schaden +4
 
-Schadensabsorption: +15
+Absorption: +15
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -20896,7 +20896,7 @@ Reputationen: Keine
 
 Kampf: Michael kämpft normalerweise nicht; wenn doch, verwendet er für seine jeweilige Tarnung geeignete Waffen.
 
-Schadensabsorption: +0 (außer beim Tragen von Rüstung)
+Absorption: +0 (außer beim Tragen von Rüstung)
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -20953,7 +20953,7 @@ Reputationen: Keine
 Kampf:
 - Biss: Init +18, Angriff +11, Verteidigung +9, Schaden +8
 
-Schadensabsorption: +6
+Absorption: +6
 
 Erschöpfungsstufen: OK, 0, –1/–1/–1, –3, –5, Bewusstlos
 
@@ -21060,7 +21060,7 @@ Persönlichkeitseigenschaften: Eitel +6, Tapfer +1
 Kampf:
 - Tritt: Init +3, Angriff +7, Verteidigung +7, Schaden +5
 
-Schadensabsorption: +4
+Absorption: +4
 
 Erschöpfungsstufen: OK, 0/0, 0/0, –2, –4, Bewusstlos
 
@@ -21098,7 +21098,7 @@ Persönlichkeitseigenschaften: Hass auf den Besitzer +6, Hass auf Menschen +5, S
 Kampf:
 - Biss: Init +2, Angriff +11, Verteidigung +10, Schaden +1
 
-Schadensabsorption: +2
+Absorption: +2
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -21132,7 +21132,7 @@ Kreaturen mit Göttlicher Macht werden durch die Gabe niemals gestört. Sie beur
 Alle Engel besitzen folgende Kräfte:
 
 *Engelshülle (Angelic Mantle)*, 2 Punkte, +12, Corpus:<br>
-Engel nutzen diese Kraft, um sich in der weltlichen Welt zu manifestieren und scheinbar Menschenfleisch anzunehmen. In Wirklichkeit ist diese Gestalt vollständig aus ihrem Intellekt geformt, wirkt und verhält sich jedoch genau wie echtes Fleisch. In dieser „körperlichen" Form müssen sie den natürlichen Gesetzen der weltlichen Welt folgen und sind daher eingeschränkt – mit Eigenschaften, Schadensabsorptionswerten sowie Erschöpfungs- und Wundenstufen. Obwohl Engel geschlechtslos sind, hat ihre Hülle in der Regel ein Geschlecht; in ihrer Hülle können Engel sich fortpflanzen und Kinder zeugen oder gebären (auch wenn seit der Sintflut kein Engel dies getan hat), sie altern jedoch nicht. Werden sie in ihrer Hülle „getötet", kehren sie in ihre geistige Form zurück, können diese Kraft jedoch nach eigenem Ermessen (und sofern sie über die nötigen Machtpunkte verfügen) sofort erneut einsetzen. Die Hülle eines Engels kann jede beliebige Gestalt annehmen.
+Engel nutzen diese Kraft, um sich in der weltlichen Welt zu manifestieren und scheinbar Menschenfleisch anzunehmen. In Wirklichkeit ist diese Gestalt vollständig aus ihrem Intellekt geformt, wirkt und verhält sich jedoch genau wie echtes Fleisch. In dieser „körperlichen" Form müssen sie den natürlichen Gesetzen der weltlichen Welt folgen und sind daher eingeschränkt – mit Eigenschaften, Absorptionswerten sowie Erschöpfungs- und Wundenstufen. Obwohl Engel geschlechtslos sind, hat ihre Hülle in der Regel ein Geschlecht; in ihrer Hülle können Engel sich fortpflanzen und Kinder zeugen oder gebären (auch wenn seit der Sintflut kein Engel dies getan hat), sie altern jedoch nicht. Werden sie in ihrer Hülle „getötet", kehren sie in ihre geistige Form zurück, können diese Kraft jedoch nach eigenem Ermessen (und sofern sie über die nötigen Machtpunkte verfügen) sofort erneut einsetzen. Die Hülle eines Engels kann jede beliebige Gestalt annehmen.
 
 *Umhüllung (Enfolding)*, 2 oder 10 Punkte, +10, Vim:<br>
 Wenn Fromme in Gefahr oder Bedrängnis geraten, kann der Engel ihnen Trost spenden und ihnen einen Augenblick des Friedens und der Gnade schenken. Diese Kraft versetzt die Seele des Ziels für kurze Zeit in vollständige Sicherheit und Geborgenheit. Solange das Ziel umhüllt ist, kann weder seine Seele noch sein Geist durch übernatürliche Kräfte irgendeiner Art anvisiert werden. Die Kraft dauert nur wenige flüchtige Momente an, doch für das Ziel ist sie zeitlos und kann sich wie ein ganzes Leben anfühlen. Ein Engel kann auch den Körper einer Person umhüllen (Kosten: 10 Machtpunkte) und ihn dadurch vollständig unverwundbar gegenüber Magie, Schmerz, Schaden, Erschöpfung, Wunden und Tod machen – allerdings hält diese Kraft nur für einen sehr kurzen Zeitraum an (nicht länger als eine Kampfrunde). Diese Kraft wird am häufigsten bei einem Gläubigen angewandt, der im Begriff ist, den Märtyrertod zu erleiden oder großes Leid zu ertragen.
@@ -21161,7 +21161,7 @@ Reputationen: Gottesbote 5 (unter Juden, Christen und Muslimen)
 Kampf:
 - Faust: Init +8, Angriff +19, Verteidigung +19, Schaden +8
 
-Schadensabsorption: +8
+Absorption: +8
 
 Erschöpfungsstufen: OK, 0/0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -21209,7 +21209,7 @@ Reputationen: Geißel der Gottlosen 3 (unter Juden)
 Kampf:
 - Flammende Faust\*: Init +1, Angriff +6, Verteidigung +6, Schaden +7
 
-\* Dieses Feuer ist natürlicher Art und ignoriert die Magieresistenz, jedoch nicht die durch Künste gewonnene Schadensabsorption.
+\* Dieses Feuer ist natürlicher Art und ignoriert die Magieresistenz, jedoch nicht die durch Künste gewonnene Absorption.
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -21261,7 +21261,7 @@ Reputationen: Keine
 Kampf:
 - Biss: Init +8, Angriff +11, Verteidigung +16, Schaden +8
 
-Schadensabsorption: +7
+Absorption: +7
 
 Erschöpfungsstufen: OK, 0/0/0/0/0/0, –1, –3, –5, Bewusstlos
 
@@ -21305,7 +21305,7 @@ Reputationen: Keine
 Kampf:
 - Faust: Init +2, Angriff +8, Verteidigung +8, Schaden +0
 
-Schadensabsorption: +1
+Absorption: +1
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -21362,7 +21362,7 @@ Reputationen: Keine
 Kampf:
 - Flammendes Großschwert: Init +18, Angriff +21, Verteidigung +18, Schaden +25 (Sowohl das Großschwert als auch das Feuer sind natürlicher Art, denn Gott hat sie so erschaffen, und werden daher nicht durch Magieresistenz abgewehrt.)
 
-Schadensabsorption: +20
+Absorption: +20
 
 Erschöpfungsstufen: OK, 0/0/0/0/0, –1, –3, –5, Bewusstlos
 
@@ -22720,7 +22720,7 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 **SCHADENSSUMME AUSSERHALB DES KAMPFES: Schadensbonus + Stresswürfel**
 
-**SCHADENSABSORPTION AUSSERHALB DES KAMPFES: Schadensabsorption + Stresswürfel**
+**SCHADENSABSORPTION AUSSERHALB DES KAMPFES: Absorption + Stresswürfel**
 
 ### Schadenstafel
 
@@ -22737,7 +22737,7 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 *Jede weitere +1-Größenstufe erhöht jeden Wundbereich um +1.*
 
-*Für je 5 + Größenpunkte, um die die Schadenssumme die Schadensabsorption übertrifft, steigt die Wundstufe um eine Stufe.*
+*Für je 5 + Größenpunkte, um die die Schadenssumme die Absorption übertrifft, steigt die Wundstufe um eine Stufe.*
 
 ### Hitze und Ätzung
 
@@ -22812,7 +22812,7 @@ Alle Kampfwürfe sind Stresswürfe.
    - b. Der Verteidiger würfelt und ermittelt seine Verteidigungssumme.
    - c. Die Differenz ergibt den Angriffsvorteil. Ist dieser …
      - i. 0 oder weniger: Der Angriff hat verfehlt. Weiter zu Schritt 3.
-     - ii. 1 oder mehr: Schadenssumme des Angreifers und Schadensabsorption des Ziels berechnen.
+     - ii. 1 oder mehr: Schadenssumme des Angreifers und Absorption des Ziels berechnen.
    - e. Die Differenz ermitteln, dann die Schadenstafel konsultieren. Die Größe des Ziels finden und das Ergebnis in dieser Reihe ablesen. Die Spaltenüberschrift zeigt die erlittene Wunde.
 3. Schritt 2 für den nächsten in der Initiative wiederholen, falls dieser angreift.
 4. Sobald alle Beteiligten einmal gehandelt haben, zurück zu Schritt 2 für die erste Partei. Die Initiative wird nicht neu gewürfelt.
@@ -22889,7 +22889,7 @@ Charaktere erholen sich von allen Wunden gleichzeitig. Ein Charakter mit drei Le
 | Metallschuppen            | 4          | 4        | 7          | 7        | Std.   |
 | Kettenhemd                | 6          | 4        | 9          | 6        | Teuer  |
 
-**Schutz:** Der Bonus, den die Rüstung auf die Schadensabsorption des Charakters gewährt.<br>
+**Schutz:** Der Bonus, den die Rüstung auf die Absorption des Charakters gewährt.<br>
 **Last:** Der Betrag, um den die Rüstung die Beladung des Charakters erhöht.<br>
 **Kosten:** Ein allgemeiner Hinweis auf den Preis der Rüstung. Teurere Rüstungen sind besser.
 
@@ -25453,7 +25453,7 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 | Langsame Kraft (Fehler) | [145](#langsame-kraft) |
 | Langsame Reflexe (Fehler) | [145](#langsame-reflexe) |
 | Zierlicher Körperbau (Fehler) | [145](#zierlicher-körperbau) |
-| Schadensabsorption | [30](#format), [394](#kampfwerte) |
+| Absorption | [30](#format), [394](#kampfwerte) |
 | Seifenoper | [518](#seifenoper) |
 | Gesellschaftliche Kindheit | [48](#beispielhafte-kindheiten) |
 | Soziale Kontakte (Tugend) | [108](#soziale-kontakte) |

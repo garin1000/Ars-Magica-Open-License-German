@@ -75,13 +75,13 @@ Ein zufälliger Zeuge hat von einem Charakter gehört, wenn Stresswurf + Reputat
 
 | Englisch (EN) | Deutsch (DE) | Typ | Stufe | Inhalt / Beispiel |
 |---|---|---|---|---|
-| Famous | Bekannt | Frei wählbar | 4 (+) | Frei wählbar |
+| Famous | Berühmt | Frei wählbar | 4 (+) | Frei wählbar |
 | Hermetic Prestige | Hermetisches Ansehen | Hermetisch | 4 (+) | Angesehener Magus |
 | Protection | Schutz | Frei wählbar | 3 (+/–) | Abhängig vom Schirmherrn |
 | Mythic Blood | Mythisches Blut | Blutsverwandte | 3 (+) | Unter Angehörigen der Blutlinie |
 | Physician of Salerno | Arzt von Salerno | Lokal / Akademisch | 2 (+) | Arzt von Salerno |
 | Frightful Presence | Furchteinflößende Erscheinung | Lokal | 2 (+) | Furchteinflößend oder Ehrfurcht­gebietend |
-| Social Contacts | Gesellschaftliche Kontakte | Lokal | – | Verdoppelt Lokale Reputationen; kann Reputationen verleihen |
+| Social Contacts | Soziale Kontakte | Lokal | – | Verdoppelt Lokale Reputationen; kann Reputationen verleihen |
 | Hermetic Prestige (via Templar) | Templer-Ansehen | Templer | 4 (+) | Hohes Ansehen unter Templern |
 | Templar Commander | Templerkommandeur | Lokal/Regional | 3 (+) | Bekannte Führungspersönlichkeit |
 | Templar Officer | Templer-Offizier | Regional | 2 (+) | Bekannte Führungspersönlichkeit |
@@ -132,7 +132,7 @@ Reputation-Inhalte werden im Deutschen als kurze Nominalphrase oder Adjektivphra
 | Quaesitor | Quaesitor | Hermetisch | Beispielcharakter |
 | Tax Collector | Steuereintreiber | Gemeinde | Fehler Gabai |
 | Usurer | Wucherer | Lokal | Fehler Wucherer |
-| Gossip | Klatschbase | Lokal | Tugend Gesellschaftliche Kontakte |
+| Gossip | Klatschbase | Lokal | Tugend Soziale Kontakte |
 | Fearsome / Awesome | Furcht­einflößend / Ehrfurcht­gebietend | Lokal | Tugend Furcht­einflößende Erscheinung |
 | Unclean | Unrein | Lokal | Fehler Wildgeruch |
 | Rosh Beth Din | Rosh Beth Din | National (jüdisch) | Tugend Rosh Beth Din |

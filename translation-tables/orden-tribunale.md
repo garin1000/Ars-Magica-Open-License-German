@@ -74,7 +74,7 @@
 
 | m./n. Sg. | f. Sg. | m./n. Pl. | f. Pl. | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|---|---|---|---|
-| Certamen (n.) | – | Certamina | – | Certamen | Magisches Duell | Neutrum |
+| Certamen (n.) | – | Certamina | – | Certamen | Certamen (lat., „Magisches Duell") | Neutrum; lat. Begriff wird beibehalten |
 | – | Domus Magna | – | Domus Magnae | Domus Magna | Domus Magna | f., 4. Dekl. |
 | – | Parma Magica | – | Parmae Magicae | Parma Magica | Parma Magica | f., 1. Dekl. |
 | – | Regio | – | Regiones | Regio | Regio | f., Verschachtelte Auraebene |

@@ -54,7 +54,7 @@
 |---|---|---|---|
 | Paid Rights | Erkaufte Rechte | Kapitel 4 | Offizieller DE-Name lt. Abschnittstitel; ~~FEHLER korrigiert~~ (Zeilen 4603+4643 enthielten „Erkämpfte Rechte") |
 | Peasants / Common Folk | Landvolk / Bauern | Kapitel 2 | EN „peasants" → DE schwankt zwischen „Landvolk" (Abschnittsüberschrift) und „Bauern" (Fließtext); beide Formen sinnvoll, aber Überschrift und Text sollten konsistent sein |
-| Spirit Votary | Geistesdiener | Kapitel 4 | Sinnvolle Übersetzung; konsistent verwendet |
+| Spirit Votary | Geistverehrer | Kapitel 4 | Konsistent mit tugenden-fehler.md und sphären-mächte.md |
 
 ---
 

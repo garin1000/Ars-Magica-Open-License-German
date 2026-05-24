@@ -48,7 +48,7 @@
 | Attack Total | Angriffssumme | |
 | Defense Total | Verteidigungssumme | |
 | Damage Total | Schadenssumme | |
-| Soak Total | Schadensabsorption | |
+| Soak Total | Absorptionssumme | |
 | Initiative Total | Initiativewert | |
 | Attack Advantage | Angriffsvorteil | |
 | Combat Load | Kampflast | |

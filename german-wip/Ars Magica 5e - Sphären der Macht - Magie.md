@@ -81,7 +81,7 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 &emsp;In die Magische Sphäre<br>
 &emsp;Grenzen und Relikte<br>
 &emsp;Magisches Reisen<br>
-&emsp;Die Dämmerungsleere<br>
+&emsp;Die Zwielichtleere<br>
 &emsp;Weiterentwicklung<br>
 &emsp;Magie der Magischen Sphäre<br>
 <br>
@@ -987,9 +987,9 @@ Niemand im Mythischen Europa versteht die Magische Sphäre besonders gut; sie is
 
 Im Laufe der Geschichte haben viele Magi und andere, die der Magiesphäre zugeordnet sind, die Magische Sphäre betreten, doch nur wenige kehrten zurück, und die Berichte der Rückkehrer widersprechen einander. Niemand weiß genug über den Ort, um ihn mit Gewissheit beschreiben zu können, und nur ein Meister der Magiekunde hätte das Wissen, um überhaupt Theorien über seine Eigenschaften aufzustellen. Eine Saga, in der ein Besuch der Magischen Sphäre vorkommt, sollte für die Beteiligten als völlig neues Erlebnis erscheinen, da die Charaktere herausfinden müssen, wie die Sphäre funktioniert, und sich mit der Zeit an sie anpassen müssen.
 
-Es gibt im Wesentlichen zwei Teile der Magischen Sphäre. Der erste Teil ist die eigentliche Sphäre, die vermutlich aus einer unendlichen Zahl magischer Orte besteht, die durch magische Grenzen miteinander verbunden sind. Diese Orte können magische Wesen oder Gegenstände enthalten und sind oft von halb-illusionären Objekten und Bildern erfüllt, die man Relikte nennt. Viele dieser Orte sind einer der hermetischen Formen zugeordnet, und die dort gefundenen Dinge sind meist besonders repräsentativ für die Ideale dieser Form. Der zweite Teil ist als Dämmerungsleere bekannt und gilt allgemein als karg, dunkel und bedrohlich, erfüllt von Omen und Vorzeichen, und als Heimat uralter und mächtiger Wesen, die man am besten in Ruhe lässt.
+Es gibt im Wesentlichen zwei Teile der Magischen Sphäre. Der erste Teil ist die eigentliche Sphäre, die vermutlich aus einer unendlichen Zahl magischer Orte besteht, die durch magische Grenzen miteinander verbunden sind. Diese Orte können magische Wesen oder Gegenstände enthalten und sind oft von halb-illusionären Objekten und Bildern erfüllt, die man Relikte nennt. Viele dieser Orte sind einer der hermetischen Formen zugeordnet, und die dort gefundenen Dinge sind meist besonders repräsentativ für die Ideale dieser Form. Der zweite Teil ist als Zwielichtleere bekannt und gilt allgemein als karg, dunkel und bedrohlich, erfüllt von Omen und Vorzeichen, und als Heimat uralter und mächtiger Wesen, die man am besten in Ruhe lässt.
 
-Die Dämmerungsleere wird weiter unten ausführlicher beschrieben. Für den Rest der Magischen Sphäre folgen hier drei verschiedene Theorien darüber, was dort zu finden sein könnte, jeweils basierend auf Interpretationen der Regeln, die die Magische Sphäre bestimmen (siehe Regeln der Sphäre, unten). Charaktere, die die Magische Sphäre studiert oder besucht haben, mögen natürlich zu eigenen Schlussfolgerungen kommen, die sich von diesen stark unterscheiden können. Jede Interpretation ist als Ausgangspunkt für Spielleiter gedacht, die eine Geschichte entwickeln möchten, die in der Magischen Sphäre spielt, und daher bietet jede Theorie eine Abenteueridee, mit der sich die Idee in eine Saga einführen lässt.
+Die Zwielichtleere wird weiter unten ausführlicher beschrieben. Für den Rest der Magischen Sphäre folgen hier drei verschiedene Theorien darüber, was dort zu finden sein könnte, jeweils basierend auf Interpretationen der Regeln, die die Magische Sphäre bestimmen (siehe Regeln der Sphäre, unten). Charaktere, die die Magische Sphäre studiert oder besucht haben, mögen natürlich zu eigenen Schlussfolgerungen kommen, die sich von diesen stark unterscheiden können. Jede Interpretation ist als Ausgangspunkt für Spielleiter gedacht, die eine Geschichte entwickeln möchten, die in der Magischen Sphäre spielt, und daher bietet jede Theorie eine Abenteueridee, mit der sich die Idee in eine Saga einführen lässt.
 
 ### Welten innerhalb von Welten
 
@@ -1023,13 +1023,13 @@ Manche Reisende stellen sich die Magische Sphäre als einen physischen Ort vor, 
 
 Insulae erscheinen gewöhnlich als Orte der mundanen Welt, jedoch aufgeladen mit magischer Kraft, wie eine sehr starke Magieaura oder eine hochstufige Regio. Manche Reisende mit Erfahrung in Insulae vermuten, dass die Magische Sphäre aus nichts anderem besteht als einer Reihe hochstufiger Magieregiones, in denen die Aura- und Grenzstufen 10 übersteigen und deren Bewohner magische Kreaturen sind, die ansonsten wie normale Menschen leben, arbeiten und beten und Krieg führen wie andere mittelalterliche Menschen auch.
 
-Es ist manchen Reisenden möglich, die „Gewässer" zwischen Insulae zu durchqueren und sich selbst und andere zwischen den Inseln sowie zwischen der magischen und der mundanen Welt hin und her zu befördern. Wie Seereisen in der mundanen Welt sind diese magischen Fahrten gefahrvoll, denn seltsame Kreaturen sollen in der tiefen Dämmerungsleere leben, und allerlei Hindernisse und Strudel können jene bedrängen und aufhalten, die ihr Leben im Unbekannten riskieren. Jene, die in der Magischen Sphäre leben, haben oft großen Respekt vor diesen „Fährmännern", wie Reisende sie nennen hören.
+Es ist manchen Reisenden möglich, die „Gewässer" zwischen Insulae zu durchqueren und sich selbst und andere zwischen den Inseln sowie zwischen der magischen und der mundanen Welt hin und her zu befördern. Wie Seereisen in der mundanen Welt sind diese magischen Fahrten gefahrvoll, denn seltsame Kreaturen sollen in der tiefen Zwielichtleere leben, und allerlei Hindernisse und Strudel können jene bedrängen und aufhalten, die ihr Leben im Unbekannten riskieren. Jene, die in der Magischen Sphäre leben, haben oft großen Respekt vor diesen „Fährmännern", wie Reisende sie nennen hören.
 
 Die Kultur dieser Version der Magischen Sphäre ist bemerkenswert exotisch. Eine insulare Stadt könnte äußerst fremdartig wirken, mit seltsam geformter Architektur, merkwürdigen Tieren und sehr befremdlichen Sitten unter ihren Bewohnern. Andere Inseln mögen abgeschieden und karg erscheinen, übersät mit Bauwerken aus zusammengetragenen Materialien, und Menschen, die dort gestrandet sind oder die so sehr von der Macht der Magie verändert wurden, dass sie ohne sie nicht mehr leben können.
 
 ### Seiten der Geschichte
 
-Eine Vorstellung, die besonders akademisch veranlagte Charaktere ansprechen mag, ist die Idee, dass die Magische Sphäre eine Art Aufzeichnung der Ereignisse der mundanen Welt darstellt – eine Reise in die Magische Sphäre gleicht einer Reise durch die Erinnerungen der Vergangenheit. Dieser Ansicht nach ist jeder Ort in der Magischen Sphäre ein bestimmter Moment der Geschichte, genannt **Tempus** (Plural *Tempora*). Je weiter Reisende sich von der mundanen Welt entfernen, desto ältere Aufzeichnungen finden sie vor, sodass die mächtigsten magischen Orte und Dinge besonders altertümlich sind. Diese Idee ist besonders unter Magi des Hauses Criamon beliebt, von denen viele glauben, dass die Dämmerung ein Ort außerhalb des Kreislaufs der Zeit ist und dass sie dort die Vergangenheit durch ihr Handeln in der Gegenwart verändern können.
+Eine Vorstellung, die besonders akademisch veranlagte Charaktere ansprechen mag, ist die Idee, dass die Magische Sphäre eine Art Aufzeichnung der Ereignisse der mundanen Welt darstellt – eine Reise in die Magische Sphäre gleicht einer Reise durch die Erinnerungen der Vergangenheit. Dieser Ansicht nach ist jeder Ort in der Magischen Sphäre ein bestimmter Moment der Geschichte, genannt **Tempus** (Plural *Tempora*). Je weiter Reisende sich von der mundanen Welt entfernen, desto ältere Aufzeichnungen finden sie vor, sodass die mächtigsten magischen Orte und Dinge besonders altertümlich sind. Diese Idee ist besonders unter Magi des Hauses Criamon beliebt, von denen viele glauben, dass das Zwielicht ein Ort außerhalb des Kreislaufs der Zeit ist und dass sie dort die Vergangenheit durch ihr Handeln in der Gegenwart verändern können.
 
 Um dieses Konzept anhand einer Analogie zu erklären, mögen Reisende die Magische Sphäre als das Buch des Heiligen Petrus beschreiben, in dem alle Gedanken und Taten eines Menschen für den Jüngsten Tag aufgezeichnet sind. Jeder Moment in der Erzählung des Betroffenen ist eine einzelne Seite im Buch, und durch Umblättern der Seiten kann der Heilige Petrus von einem Moment zum nächsten im Leben dieses Menschen reisen, vorwärts oder rückwärts durch das Buch, um besser beurteilen zu können, wie gut der Mensch sein Leben gelebt hat. Ebenso können Reisende in der Magischen Sphäre von einem Tempus zum nächsten gelangen und verschiedene Ereignisse in der Geschichte des Betroffenen besuchen.
 
@@ -1053,13 +1053,13 @@ In einem Tempus kann die Zeit sehr seltsam zu vergehen scheinen, vielleicht ange
 >
 >- Eine Wassersirene versucht, die Seeleute zu verführen, indem sie sie zuerst mit ihrem Gesang bezaubert und dann einen schrecklichen Sturm heraufbeschwört, der sie gegen die Felsen zu zerschmettern droht.
 >
->Die Meere der Magischen Sphäre sind hell, und die Luft ist gesund, obwohl es den Anschein haben mag, als segelten die Charaktere sehr nahe an der Sonne, die niemals untergeht. Ins Wasser zu tauchen kann den Reisenden in die Dämmerungsleere führen, ebenso wie das Durchschreiten der vielen Grenzen, die die verschiedenen Inseln und anderen Erscheinungen der südlichen Ozeane umgeben.
+>Die Meere der Magischen Sphäre sind hell, und die Luft ist gesund, obwohl es den Anschein haben mag, als segelten die Charaktere sehr nahe an der Sonne, die niemals untergeht. Ins Wasser zu tauchen kann den Reisenden in die Zwielichtleere führen, ebenso wie das Durchschreiten der vielen Grenzen, die die verschiedenen Inseln und anderen Erscheinungen der südlichen Ozeane umgeben.
 >
 >Angenommen, die Charaktere finden schließlich das Königreich des Priesterkönigs Johannes, und er erklärt sich bereit, den Magus als seinen Untertan aufzunehmen, müssen die Charaktere dann heimkehren, um ihren Preis einzufordern. Leider werden sie feststellen, dass ihre *Sprung der Heimkehr*-Zauber nicht mehr funktionieren, da sie ihre Arkanen Verbindungen zur mundanen Welt verloren haben. Sie müssen denselben Weg zurückreisen oder eine andere Route finden, die in ihre Heimat führt.
 
 >## Empedokles hatte manchmal Recht
 >
->Viele Magi des Hauses Criamon lehren, dass die Zeit ein großer Kreis ist und dass Teile der Magischen Sphäre, die sie Dämmerung nennen, außerhalb dieses Kreislaufs der Zeit existieren – Ideen, die auf einen antiken Philosophen namens Empedokles zurückgehen (siehe Haus Criamon, *Häuser des Hermes: Mysterienkulte*). Indem sie die Magische Sphäre betreten, glauben sie, die Ketten abwerfen zu können, die sie an die physische Welt binden, um der endlosen Wiederholung der Geschichte zu entkommen, die diese repräsentiert, und dass es ihre eigenen Handlungen sind, die bestimmen, was sie dort vorfinden werden, ob Gutes oder Schlechtes.
+>Viele Magi des Hauses Criamon lehren, dass die Zeit ein großer Kreis ist und dass Teile der Magischen Sphäre, die sie Zwielicht nennen, außerhalb dieses Kreislaufs der Zeit existieren – Ideen, die auf einen antiken Philosophen namens Empedokles zurückgehen (siehe Haus Criamon, *Häuser des Hermes: Mysterienkulte*). Indem sie die Magische Sphäre betreten, glauben sie, die Ketten abwerfen zu können, die sie an die physische Welt binden, um der endlosen Wiederholung der Geschichte zu entkommen, die diese repräsentiert, und dass es ihre eigenen Handlungen sind, die bestimmen, was sie dort vorfinden werden, ob Gutes oder Schlechtes.
 >
 >Keine dieser Überzeugungen ist nachweislich falsch, doch nur wenige Magi außerhalb des Hauses Criamon schenken ihnen viel Glauben. Allerdings gibt es vieles in der Magischen Sphäre, das ihren Standpunkt zu stützen scheint. Reisende altern dort beispielsweise nicht – ein Umstand, den Magi als Zeichen dafür werten könnten, dass die Sphäre zumindest teilweise außerhalb der Zeit existiert. Ob diese Magi mit ihren Erklärungen für dieses Phänomen oder über die Natur der Sphäre selbst Recht haben, lässt sich nicht objektiv feststellen.
 
@@ -1067,11 +1067,11 @@ In einem Tempus kann die Zeit sehr seltsam zu vergehen scheinen, vielleicht ange
 
 Obwohl diese drei Theorien sehr unterschiedlich erscheinen, war es bisher nicht möglich festzustellen, welche von ihnen, wenn überhaupt eine, zutrifft. Das liegt daran, dass jede Theorie Orte innerhalb der Magischen Sphäre erklären kann, die besser zu einer der anderen zu passen scheinen.
 
-Für Magi, die glauben, dass die Magische Sphäre aus Kosmen besteht, sind Insulae schlicht besonders allegorische Kosmen, während Gebiete, die wie Tempora wirken, Kosmen sind, die einen Zeitpunkt einfangen, der für ein bestimmtes Objekt besonders bedeutsam ist – wobei das Objekt selbst nicht bedeutsam sein muss. Die Dämmerungsleere wird als der Raum zwischen den Kosmen beschrieben.
+Für Magi, die glauben, dass die Magische Sphäre aus Kosmen besteht, sind Insulae schlicht besonders allegorische Kosmen, während Gebiete, die wie Tempora wirken, Kosmen sind, die einen Zeitpunkt einfangen, der für ein bestimmtes Objekt besonders bedeutsam ist – wobei das Objekt selbst nicht bedeutsam sein muss. Die Zwielichtleere wird als der Raum zwischen den Kosmen beschrieben.
 
 Den Fährmännern fällt es am leichtesten, die Orte zu erklären; es spricht nichts dagegen, dass eine Insula wie ein Kosmos oder ein Tempus aussieht. Schwerer fällt es ihnen zu erklären, warum Veränderungen in bestimmten Insulae die mundane Welt beeinflussen, doch sie argumentieren, dass dies nicht allgemein gültig sei und die Kosmos-Theorie daher nicht stimmen könne. Kosmos-Theoretiker hingegen akzeptieren, dass sich nicht alle Veränderungen der Magischen Sphäre in der mundanen Welt widerspiegeln, weil nicht alle Veränderungen an einem Kosmos grundlegend für das mundane Ding sind, dem er entspricht.
 
-Jene, die die Magische Sphäre als Seiten der Geschichte betrachten, räumen ein, dass magische Kreaturen innerhalb eines Tempus diesen verändern können. Bereiche, die nicht wie Geschichte aussehen, waren es einst, behaupten sie. Und das ist sehr schwer zu widerlegen. Für diese Magi ist die Dämmerungsleere die Zeit zwischen den Zeiten, weshalb dort noch weniger Zeit zu herrschen scheint als im Rest der Magischen Sphäre. Diese Magi behaupten, es gebe Sequenzen von Tempora, die die Geschichte darstellen; Magi, die andere Theorien vertreten, haben sie in der Regel nicht besucht und bleiben daher unüberzeugt. Andererseits würden die Magi, die eine zeitliche Theorie vertreten, Berichte über eine Sequenz von Tempora abtun, die Dinge darstellt, die nie geschehen sind.
+Jene, die die Magische Sphäre als Seiten der Geschichte betrachten, räumen ein, dass magische Kreaturen innerhalb eines Tempus diesen verändern können. Bereiche, die nicht wie Geschichte aussehen, waren es einst, behaupten sie. Und das ist sehr schwer zu widerlegen. Für diese Magi ist die Zwielichtleere die Zeit zwischen den Zeiten, weshalb dort noch weniger Zeit zu herrschen scheint als im Rest der Magischen Sphäre. Diese Magi behaupten, es gebe Sequenzen von Tempora, die die Geschichte darstellen; Magi, die andere Theorien vertreten, haben sie in der Regel nicht besucht und bleiben daher unüberzeugt. Andererseits würden die Magi, die eine zeitliche Theorie vertreten, Berichte über eine Sequenz von Tempora abtun, die Dinge darstellt, die nie geschehen sind.
 
 Wenn eine Gruppe von Magi sich über einen beträchtlichen Zeitraum hinweg der Erforschung der Magischen Sphäre widmen würde, könnte es möglich werden, eine oder mehrere dieser Theorien unhaltbar zu machen. Es ist schlicht noch nicht geschehen, aber es könnte in deiner Saga geschehen. In diesem Fall muss der Spielleiter über die grundlegende Wahrheit der Magischen Sphäre entscheiden und Hinweise darauf liefern.
 
@@ -1105,11 +1105,11 @@ Es gibt einige Dinge in der mundanen Welt, die eine besondere Verbindung zu Ding
 
 #### Magische Katastrophen
 
-Wenn die rohe Kraft der Magie für den Anwender zu mächtig wird, kann sie unvorhersehbare und verheerende Auswirkungen haben. Eine dieser Auswirkungen ist der Transport des Anwenders oder der Dinge in seiner unmittelbaren Umgebung direkt in die Magische Sphäre. Magi kennen eine Version dieses Phänomens bestens (Zauberers Dämmerung), doch vielen von ihnen mag nicht bewusst sein, dass es auch andere der Magie zugeordnete Dinge betreffen kann, darunter unbelebte Gegenstände und sogar die gesamte Region, in der eine magische Katastrophe stattgefunden hat.
+Wenn die rohe Kraft der Magie für den Anwender zu mächtig wird, kann sie unvorhersehbare und verheerende Auswirkungen haben. Eine dieser Auswirkungen ist der Transport des Anwenders oder der Dinge in seiner unmittelbaren Umgebung direkt in die Magische Sphäre. Magi kennen eine Version dieses Phänomens bestens (Zauberers Zwielicht), doch vielen von ihnen mag nicht bewusst sein, dass es auch andere der Magie zugeordnete Dinge betreffen kann, darunter unbelebte Gegenstände und sogar die gesamte Region, in der eine magische Katastrophe stattgefunden hat.
 
 Magische Katastrophen sind der gefährlichste Weg hinein, denn sie können den Reisenden an jeden beliebigen Ort versetzen, möglicherweise so tief in die Magische Sphäre, dass es ihm unmöglich wird, sie jemals wieder zu verlassen. Unter den gelehrtesten Autoritäten der Magiekunde wird häufig vermutet, dass genau dies mit Platons versunkener Insel Atlantis geschah, und die Suche nach dieser verlorenen Stadt hat viele Erforscher der Magischen Sphäre angetrieben und schließlich verschlungen.
 
-Charaktere, die von einer magischen Katastrophe betroffen sind, können versuchen, ihr auf genau dieselbe Weise zu entgehen, wie Magi der Dämmerung ausweichen – durch einen Dämmerungsvermeidungswurf (**ArM5**, Seite 88), wobei die Anzahl der Patzer beim Katastrophenwurf die Anzahl der erhaltenen Verzerrungspunkte ersetzt. Bei Erfolg können die Charaktere dennoch Konsequenzen erleiden, wenn ihre unmittelbare Umgebung betroffen ist – etwa wenn eine gewaltige Flut den leeren Raum füllt, wo ihre Insel einst war.
+Charaktere, die von einer magischen Katastrophe betroffen sind, können versuchen, ihr auf genau dieselbe Weise zu entgehen, wie Magi dem Zwielicht ausweichen – durch einen Zwielichtvermeidungswurf (**ArM5**, Seite 88), wobei die Anzahl der Patzer beim Katastrophenwurf die Anzahl der erhaltenen Verzerrungspunkte ersetzt. Bei Erfolg können die Charaktere dennoch Konsequenzen erleiden, wenn ihre unmittelbare Umgebung betroffen ist – etwa wenn eine gewaltige Flut den leeren Raum füllt, wo ihre Insel einst war.
 
 Manche magischen Katastrophen gelten als Akte Gottes – niemand weiß genau, warum sie geschehen, aber man nimmt an, dass sie aus gutem Grund geschehen. Wenn sich ein Charakter in der Magischen Sphäre wiederfindet und nicht weiß, wie er dorthin gelangt ist, liegt es wahrscheinlich an einer solchen Katastrophe.
 
@@ -1169,11 +1169,11 @@ Der Vertrautheitsmodifikator basiert darauf, wie gut der Charakter das Ziel kenn
 | Hat das Ziel schon einmal besucht         | 6 |
 | Arkane Verbindung zum Ziel               | 15 |
 
-Relikte und Grenzen, die mit einem bestimmten Ort verbunden sind, gelten als Arkane Verbindungen zu diesem Ort. Andere Arkane Verbindungen zu Orten in der Magischen Sphäre verfallen jedoch schneller, wenn man durch die Dämmerungsleere reist (siehe unten).
+Relikte und Grenzen, die mit einem bestimmten Ort verbunden sind, gelten als Arkane Verbindungen zu diesem Ort. Andere Arkane Verbindungen zu Orten in der Magischen Sphäre verfallen jedoch schneller, wenn man durch die Zwielichtleere reist (siehe unten).
 
 Das Ziel muss mit der Ausgangsgrenze oder dem Ausgangsrelikt verbunden sein, oder es muss eine Grenz- oder Reliktstufe von mindestens 1 haben, da die Charaktere sonst nirgendwo hervortreten können. Es ist möglich, durch eine Grenze oder ein Relikt in die mundane Welt zurückzukehren, aber nur wenn das Ziel mit der Grenze oder dem Relikt verbunden ist, da Orte in der mundanen Welt keine Grenz- oder Reliktstufen haben.
 
-Bei Erfolg finden sich der Reisende und seine Begleiter in der seltsamen magischen Landschaft der Dämmerungsleere wieder. Dort werden die Charaktere mit einer konstanten Geschwindigkeit zu ihrem Ziel gezogen, wie beim Treiben auf einem Fluss, basierend auf der anfänglichen Geschwindigkeitsstufe des Charakters in der folgenden Tabelle.
+Bei Erfolg finden sich der Reisende und seine Begleiter in der seltsamen magischen Landschaft der Zwielichtleere wieder. Dort werden die Charaktere mit einer konstanten Geschwindigkeit zu ihrem Ziel gezogen, wie beim Treiben auf einem Fluss, basierend auf der anfänglichen Geschwindigkeitsstufe des Charakters in der folgenden Tabelle.
 
 | Geschwindigkeitsstufe | Dauer der Reise |
 |------------------------|---|
@@ -1190,53 +1190,53 @@ Bei Erfolg finden sich der Reisende und seine Begleiter in der seltsamen magisch
 | 27                     | eine Minute |
 | 30+                    | Momentan |
 
-Der Charakter, der die Gruppe anführt, ist sich der zu überwindenden Distanz bewusst, da er ihr Ziel wahrnehmen kann (wenn er kein Ziel im Sinn hatte, ist dies derselbe Ort, an dem sie gestartet sind). Dies ist die maximale Dauer ihres Aufenthalts in der Dämmerungsleere und wirkt als Konstante – sie werden ihr Ziel erreichen, sobald diese Zeitspanne verstrichen ist, ganz gleich, was sie sonst tun.
+Der Charakter, der die Gruppe anführt, ist sich der zu überwindenden Distanz bewusst, da er ihr Ziel wahrnehmen kann (wenn er kein Ziel im Sinn hatte, ist dies derselbe Ort, an dem sie gestartet sind). Dies ist die maximale Dauer ihres Aufenthalts in der Zwielichtleere und wirkt als Konstante – sie werden ihr Ziel erreichen, sobald diese Zeitspanne verstrichen ist, ganz gleich, was sie sonst tun.
 
-Der Charakter, der die Gruppe durch die Grenze oder das Relikt geführt hat, kann versuchen, die Reise durch Konzentration zu beschleunigen: Behandle das Ergebnis der folgenden Formel als die neue Geschwindigkeitsstufe der Gruppe, solange dieser Charakter sich konzentriert. Da die Dämmerungsleere im Wesentlichen zeitlos ist, kann ein Charakter die Konzentration unbegrenzt aufrechterhalten, aber er kann während der Reise nichts anderes tun. Wenn er die Konzentration unterbricht, kehren sie zu ihrer anfänglichen Geschwindigkeit zurück.
+Der Charakter, der die Gruppe durch die Grenze oder das Relikt geführt hat, kann versuchen, die Reise durch Konzentration zu beschleunigen: Behandle das Ergebnis der folgenden Formel als die neue Geschwindigkeitsstufe der Gruppe, solange dieser Charakter sich konzentriert. Da die Zwielichtleere im Wesentlichen zeitlos ist, kann ein Charakter die Konzentration unbegrenzt aufrechterhalten, aber er kann während der Reise nichts anderes tun. Wenn er die Konzentration unterbricht, kehren sie zu ihrer anfänglichen Geschwindigkeit zurück.
 
 Wie bei der anfänglichen Reiseberechnung schließt dieser Wurf keinen Aurabonus ein, aber wenn der Charakter einen Formbonus hat, kann der Spieler den Bonus basierend auf der Art der Grenze oder des Relikts anwenden, die er durchquert. Zum Beispiel kann ein Magus beim Reisen durch eine Terram-Grenze seinen (Terram / 5)-Bonus anwenden.
 
-**Reise durch die Dämmerungsleere: Stresswurf + Ausdauer + Konzentration + Formbonus**
+**Reise durch die Zwielichtleere: Stresswurf + Ausdauer + Konzentration + Formbonus**
 
-Ein Patzer bei einem dieser Reisewürfe bedeutet, dass der führende Charakter und seine Gruppe weiter aufgehalten werden. Reduziere die Geschwindigkeitsstufe um eine Stufe auf dieser Tabelle pro Patzer beim Wurf, sodass aus einer Reise von Sonne Dauer durch zwei Patzer eine Reise von Mond Dauer wird. Fällt die Geschwindigkeitsstufe dadurch unter 0, verliert der Anführer seine Verbindung zu der Grenze oder dem Relikt, auf die er zusteuerte, und die Gruppe strandet in der Dämmerungsleere.
+Ein Patzer bei einem dieser Reisewürfe bedeutet, dass der führende Charakter und seine Gruppe weiter aufgehalten werden. Reduziere die Geschwindigkeitsstufe um eine Stufe auf dieser Tabelle pro Patzer beim Wurf, sodass aus einer Reise von Sonne Dauer durch zwei Patzer eine Reise von Mond Dauer wird. Fällt die Geschwindigkeitsstufe dadurch unter 0, verliert der Anführer seine Verbindung zu der Grenze oder dem Relikt, auf die er zusteuerte, und die Gruppe strandet in der Zwielichtleere.
 
-Es sollte offensichtlich sein, dass das Reisen durch die Dämmerungsleere sehr gefährlich ist. Nur wenige Magi kehren jemals zurück, wenn sie sich auf diesen Pfad begeben. Es ist nicht besonders schwierig, durch ein Relikt oder eine Grenze zu treten, besonders durch eines mit sehr hoher Stufe – ebenso wie es für einen Magus nicht besonders schwierig ist, sich in die Dämmerung zu stürzen. Einmal hindurch kann es jedoch sehr lange dauern, das Ziel zu erreichen, so lange, dass der Charakter das Spiel tatsächlich verlässt. Sofern diese Reise nicht der Schwerpunkt der Saga ist, sollten Spieler gewarnt werden, dass ein leichtfertiges Betreten der Leere ihre Charaktere auf unbestimmte Zeit aus dem Spiel entfernen könnte.
+Es sollte offensichtlich sein, dass das Reisen durch die Zwielichtleere sehr gefährlich ist. Nur wenige Magi kehren jemals zurück, wenn sie sich auf diesen Pfad begeben. Es ist nicht besonders schwierig, durch ein Relikt oder eine Grenze zu treten, besonders durch eines mit sehr hoher Stufe – ebenso wie es für einen Magus nicht besonders schwierig ist, sich ins Zwielicht zu stürzen. Einmal hindurch kann es jedoch sehr lange dauern, das Ziel zu erreichen, so lange, dass der Charakter das Spiel tatsächlich verlässt. Sofern diese Reise nicht der Schwerpunkt der Saga ist, sollten Spieler gewarnt werden, dass ein leichtfertiges Betreten der Leere ihre Charaktere auf unbestimmte Zeit aus dem Spiel entfernen könnte.
 
 Die Dauern aller übernatürlichen Effekte enden, sobald sie in die Leere hinein- oder aus ihr herausgebracht werden, selbst ungewöhnliche Dauern wie Bis (Bedingung). Dies schließt die Parma Magica ein – Magi müssen das Ritual jedes Mal erneut durchführen, wenn sie eine Grenze oder ein Relikt durchschreiten –, aber nicht Langlebigkeitsrituale oder andere Laborverzauberungen wie einen Talisman oder eine Vertrautenbindung, die keine Spruchdauer haben.
 
-Der Eintritt in (aber nicht der Austritt aus) die Dämmerungsleere bewirkt auch, dass alle Arkanen Verbindungen zum oder vom Charakter um eine Stufe absinken (siehe die Tabelle auf **ArM5**, Seite 84), sodass eine Arkane Verbindung mit einer Dauer von Monaten zu Wochen wird und eine Arkane Verbindung, die normalerweise Jahrzehnte hält, nur noch Jahre hält. Dies betrifft nicht Arkane Verbindungen mit unbegrenzter Dauer, wobei zu beachten ist, dass die Verbindung unterbrochen ist, solange sich nur einer von beiden in der Dämmerungsleere befindet.
+Der Eintritt in (aber nicht der Austritt aus) die Zwielichtleere bewirkt auch, dass alle Arkanen Verbindungen zum oder vom Charakter um eine Stufe absinken (siehe die Tabelle auf **ArM5**, Seite 84), sodass eine Arkane Verbindung mit einer Dauer von Monaten zu Wochen wird und eine Arkane Verbindung, die normalerweise Jahrzehnte hält, nur noch Jahre hält. Dies betrifft nicht Arkane Verbindungen mit unbegrenzter Dauer, wobei zu beachten ist, dass die Verbindung unterbrochen ist, solange sich nur einer von beiden in der Zwielichtleere befindet.
 
-### Die Dämmerungsleere
+### Die Zwielichtleere
 
-Die Dämmerungsleere ist ein Teil der Magischen Sphäre, der sich grundlegend vom Rest unterscheidet. Sie wird oft als Ort beschrieben, der andere Orte verbindet – viele Experten betrachten sie als den Moment zwischen den Momenten, was manche Magi des Hauses Criamon als Dämmerung oder als das Reich ihres Gründers außerhalb der Zeit bezeichnen. Andere nennen sie die Geisterwelt oder die „machina mundi" – den der Natur zugrunde liegenden Mechanismus. Klassisch Gebildete betrachten sie als Verkörperung von Platons Reich der Formen, dem Ort, von dem alle Dinge ihren Ursprung nehmen. Sie ist ein geheimnisvoller, geisterhafter Schauplatz, der – abgesehen von einer magischen Katastrophe – nur durch das Durchschreiten einer Grenze oder eines Relikts erreicht werden kann.
+Die Zwielichtleere ist ein Teil der Magischen Sphäre, der sich grundlegend vom Rest unterscheidet. Sie wird oft als Ort beschrieben, der andere Orte verbindet – viele Experten betrachten sie als den Moment zwischen den Momenten, was manche Magi des Hauses Criamon als Zwielicht oder als das Reich ihres Gründers außerhalb der Zeit bezeichnen. Andere nennen sie die Geisterwelt oder die „machina mundi" – den der Natur zugrunde liegenden Mechanismus. Klassisch Gebildete betrachten sie als Verkörperung von Platons Reich der Formen, dem Ort, von dem alle Dinge ihren Ursprung nehmen. Sie ist ein geheimnisvoller, geisterhafter Schauplatz, der – abgesehen von einer magischen Katastrophe – nur durch das Durchschreiten einer Grenze oder eines Relikts erreicht werden kann.
 
-Es gibt mindestens zehn verschiedene Versionen der Dämmerungsleere: eine für jede der verschiedenen Formen, die mit Magischer Macht verbunden sind (Animal, Aquam, Auram usw.). Diese werden **Provinzen** genannt – wenn ein Reisender sich im Teil der Dämmerungsleere befindet, der mit Tieren verbunden ist, sagt man, er befinde sich in der Animal-Provinz, und wenn er sich im Teil befindet, der Wasser und anderen Flüssigkeiten entspricht, ist er in der Aquam-Provinz (Magi und andere des Lateinischen kundige Reisende würden den korrekten Kasus verwenden, also *Provincia Animalis* und *Provincia Aquae*).
+Es gibt mindestens zehn verschiedene Versionen der Zwielichtleere: eine für jede der verschiedenen Formen, die mit Magischer Macht verbunden sind (Animal, Aquam, Auram usw.). Diese werden **Provinzen** genannt – wenn ein Reisender sich im Teil der Zwielichtleere befindet, der mit Tieren verbunden ist, sagt man, er befinde sich in der Animal-Provinz, und wenn er sich im Teil befindet, der Wasser und anderen Flüssigkeiten entspricht, ist er in der Aquam-Provinz (Magi und andere des Lateinischen kundige Reisende würden den korrekten Kasus verwenden, also *Provincia Animalis* und *Provincia Aquae*).
 
 Während Reisende durch die Leere ziehen, erkennen sie möglicherweise die geisterhaften Bilder der Orte, die den Rest der Magischen Sphäre ausmachen, aber nur jene Dinge, die mit der Provinz verbunden sind, in der sie reisen. In der Herbam-Provinz zum Beispiel würde der Reisende Pflanzen, Bäume und andere Vegetation eines Waldes wahrnehmen, aber keine Tiere. Stattdessen könnten Tiergestalten als Schatten zwischen den Bäumen erscheinen. Keine Felsen wären sichtbar außer wenn von Moos umrissen, kein Rauschen von Wind oder Wasser zu hören außer dem Rascheln und Knarren der Bäume, wenn sie sich bewegen. Selbst der Himmel erschiene dunkel und leer, ohne Wolken, Sterne oder Sonnenlicht.
 
 All diese Bilder sind substanzlos, wie Relikte in der Magischen Sphäre. Sie können Reisende in der Leere nicht beeinflussen, und Reisende können sie nicht beeinflussen. Es gibt einige substanzielle Dinge in der Leere, gewöhnlich Dinge, die aus der Welt jenseits in die Leere gebracht wurden, doch diese sind selten und werden von ihren Besitzern, den dort heimischen Wesen, eifersüchtig gehütet. Diese Wesen sind Daimonen, mächtige magische Kreaturen, die in der Leere leben, sie aber ohne die Bildung eines Aspekts nicht verlassen können (siehe Kapitel 7: Magische Geister).
 
->## Ist dies die Dämmerung?
+>## Ist dies das Zwielicht?
 >
->Obwohl viele Magi die Dämmerungsleere bei diesem Namen nennen, ist nicht absolut sicher, ob dies der Ort ist, an den Magi gehen, wenn sie in der Dämmerung sind. Insbesondere konnten Reisende, die glauben, in der Dämmerungsleere Magi getroffen zu haben, nicht bestätigen, dass diese Magi zum Zeitpunkt des Treffens in der Dämmerung waren, und Magi, die in die Dämmerung gegangen sind und während ihres Erlebnisses Reisende trafen, können nicht sicher sein, ob diese Reisenden nicht Erscheinungen oder Hirngespinste ihrer Einbildung waren. Andererseits ist die Dämmerungsleere sehr groß, und nur wenige der Magi, die dorthin reisen können, haben gezielt nach anderen Magi gesucht, um dieses Phänomen zu untersuchen. Die Argumente dafür sind hauptsächlich indirekt: Magi in der Dämmerungsleere sind von der mundanen Welt und der Zeit auf ganz ähnliche Weise unberührt wie Magi in der Dämmerung, und es gibt keine anderen offensichtlichen Kandidaten für Orte, an die Magi in diesem Moment gehen könnten. Viele Magi des Hauses Criamon glauben allerdings nicht, dass die Dämmerungsleere der Ort ist, an den Magi in der Endgültigen Dämmerung gehen, da sie ihnen nicht vollständig außerhalb des Kreislaufs der Zeit zu sein scheint.
+>Obwohl viele Magi die Zwielichtleere bei diesem Namen nennen, ist nicht absolut sicher, ob dies der Ort ist, an den Magi gehen, wenn sie im Zwielicht sind. Insbesondere konnten Reisende, die glauben, in der Zwielichtleere Magi getroffen zu haben, nicht bestätigen, dass diese Magi zum Zeitpunkt des Treffens im Zwielicht waren, und Magi, die ins Zwielicht gegangen sind und während ihres Erlebnisses Reisende trafen, können nicht sicher sein, ob diese Reisenden nicht Erscheinungen oder Hirngespinste ihrer Einbildung waren. Andererseits ist die Zwielichtleere sehr groß, und nur wenige der Magi, die dorthin reisen können, haben gezielt nach anderen Magi gesucht, um dieses Phänomen zu untersuchen. Die Argumente dafür sind hauptsächlich indirekt: Magi in der Zwielichtleere sind von der mundanen Welt und der Zeit auf ganz ähnliche Weise unberührt wie Magi im Zwielicht, und es gibt keine anderen offensichtlichen Kandidaten für Orte, an die Magi in diesem Moment gehen könnten. Viele Magi des Hauses Criamon glauben allerdings nicht, dass die Zwielichtleere der Ort ist, an den Magi im Endgültigen Zwielicht gehen, da sie ihnen nicht vollständig außerhalb des Kreislaufs der Zeit zu sein scheint.
 
-Reisende in der Leere sind gegen die Widrigkeiten der Natur immun: Sie müssen nicht essen, trinken oder atmen. Sie altern überhaupt nicht und erleiden keine Gewöhnung (siehe Kapitel 4: Magische Charaktere). Ihre Wunden heilen weder noch verschlimmern sie sich auf natürliche Weise, und sie gewinnen keine langfristige Erschöpfung zurück. Für Charaktere ohne Machtwert oder Charaktere, deren Machtwert nicht zur Provinz passt, in der sie reisen, ist die Dämmerungsleere genau wie das Erleben der Dämmerung. Sie sind substanzlos und von ihrer Umgebung unbeeinflusst.
+Reisende in der Leere sind gegen die Widrigkeiten der Natur immun: Sie müssen nicht essen, trinken oder atmen. Sie altern überhaupt nicht und erleiden keine Gewöhnung (siehe Kapitel 4: Magische Charaktere). Ihre Wunden heilen weder noch verschlimmern sie sich auf natürliche Weise, und sie gewinnen keine langfristige Erschöpfung zurück. Für Charaktere ohne Machtwert oder Charaktere, deren Machtwert nicht zur Provinz passt, in der sie reisen, ist die Zwielichtleere genau wie das Erleben des Zwielichts. Sie sind substanzlos und von ihrer Umgebung unbeeinflusst.
 
-In der Leere erhalten Charaktere keine Erfahrung, aber sie sammeln auch kein Vis an wie im Rest der Magischen Sphäre. Sie sind im Wesentlichen unbeeinflusst von der in ihren Provinzen verbrachten Zeit, sodass Reisende die Leere einfach durchqueren können, ohne mit ihrer Umgebung zu interagieren. Manche Reisende können sich jedoch auch dafür entscheiden, die Leere zu erkunden, und diese Abenteuer können zu weiteren Belohnungen führen, wenn der Reisende die Umgebung verstehen und erfolgreich navigieren kann.
+In der Leere erhalten Charaktere keine Erfahrung, aber sie sammeln auch kein Vis an wie im Rest der Magischen Sphäre. Sie sind im Wesentlichen unbeeinflusst von der in ihren Provinzen verbrachten Zeit, sodass Reisende die Leere einfach durchqueren können, ohne mit ihrer Umgebung zu interagieren. Manche Reisende können sich jedoch auch dafür entscheiden, die Leere zu erkunden, und diese Abenteuer können zu weiteren Belohnungen führen, wenn der Reisende die Umgebung begreifen und erfolgreich navigieren kann.
 
-Um festzustellen, wie gut ein Reisender sich durch die magische Umgebung bewegen kann, indem er vom Pfad abweicht und nach einem bestimmten Ziel sucht, legt der Spieler einen Dämmerungsverständniswurf ab (**ArM5**, Seite 88), wobei der (Machtwert / 5) eines magischen Charakters seinen Verzerrungswert ersetzt.
+Um festzustellen, wie gut ein Reisender sich durch die magische Umgebung bewegen kann, indem er vom Pfad abweicht und nach einem bestimmten Ziel sucht, legt der Spieler einen Zwielichtverständniswurf ab (**ArM5**, Seite 88), wobei der (Machtwert / 5) eines magischen Charakters seinen Verzerrungswert ersetzt.
 
-**Dämmerungsverständnis: Intelligenz + Enigmatische Weisheit + Stresswurf gegen Verzerrungswert oder (Machtwert / 5) + Stresswurf**
+**Zwielichtverständnis: Intelligenz + Enigmatische Weisheit + Stresswurf gegen Verzerrungswert oder (Machtwert / 5) + Stresswurf**
 
 Erfolg bedeutet, dass der Charakter eine positive Erfahrung macht. Dies kann auch die Rückreise des Charakters zur Magischen Sphäre beschleunigen: Ziehe die Enigmatische Weisheit von der Verständnissumme des Charakters ab, und wenn dies seine Geschwindigkeitsstufe übersteigt, verwende stattdessen diesen Wert. Misserfolg bedeutet eine negative Erfahrung. Wenn der Charakter patzt, kann dies seinen Fortschritt weiter verzögern und ihn möglicherweise für immer in der Leere stranden lassen. Reduziere die Geschwindigkeit des Charakters um eine Stufe auf der obigen Reisezeittabelle pro Patzer.
 
-Wie wenn ein Magus die Dämmerung begreift, hat eine positive Erfahrung in der Dämmerungsleere wohltuende Ergebnisse. Der Charakter erhält eine passende Essenzielle Eigenschaft auf +1 oder erhöht eine passende Essenzielle Eigenschaft um 1. Wenn der Charakter die Erfahrung nicht begreift, sind die Ergebnisse negativ: Der Charakter erhält eine passende Essenzielle Eigenschaft auf –1 oder reduziert eine passende Essenzielle Eigenschaft um 1. Dann wird ein Einfachwürfel geworfen. Der Charakter gewinnt oder verliert die doppelte Augenzahl an Erfahrungspunkten in einer passenden Kunst oder Fertigkeit, und wie andere in der Magischen Sphäre gewonnene Erfahrungspunkte können diese sich als Vis manifestieren, wenn der Spieler es wünscht. Wenn der Charakter keinen Machtwert hat, erhält er außerdem ebenso viele Verzerrungspunkte.
+Wie wenn ein Magus das Zwielicht versteht, hat eine positive Erfahrung in der Zwielichtleere wohltuende Ergebnisse. Der Charakter erhält eine passende Essenzielle Eigenschaft auf +1 oder erhöht eine passende Essenzielle Eigenschaft um 1. Wenn der Charakter die Erfahrung nicht begreift, sind die Ergebnisse negativ: Der Charakter erhält eine passende Essenzielle Eigenschaft auf –1 oder reduziert eine passende Essenzielle Eigenschaft um 1. Dann wird ein Einfachwürfel geworfen. Der Charakter gewinnt oder verliert die doppelte Augenzahl an Erfahrungspunkten in einer passenden Kunst oder Fertigkeit, und wie andere in der Magischen Sphäre gewonnene Erfahrungspunkte können diese sich als Vis manifestieren, wenn der Spieler es wünscht. Wenn der Charakter keinen Machtwert hat, erhält er außerdem ebenso viele Verzerrungspunkte.
 
 Während dieses Prozesses erlebt der Charakter die Leere im Allgemeinen als eine Reihe von Entscheidungen. Es heißt, alles in der Leere sei mit allem anderen verbunden, und jede Wahl dient dazu, die unzähligen Möglichkeiten dessen, was der Reisende sucht, auf eine einzige Sache einzugrenzen. Angenommen, ein Magus sucht eine Freundin in der Corpus-Provinz, eine junge Criamon-Maga, die für verschollen gilt. Er verlässt den Pfad, auf dem er die Leere betreten hat, und trifft auf zwei Gestalten, einen Mann und eine Frau. Er spricht die Frau an, die beiseitetritt, um ihn vorbeizulassen. Dann sieht er eine alte Frau und ein junges Mädchen, und als er das Mädchen an der Schulter berührt, weist es auf den Gang hinter ihr. Weitere Entscheidungen unterscheiden die Farbe ihrer Züge, ihr Temperament, wann sie lebte, wo sie aufwuchs und so weiter.
 
 >## Sinne in der Leere
 >
->Reisende in der Dämmerungsleere nehmen nur Species wahr, die mit der Provinz verbunden sind, in der sie reisen. Hier einige Ideen, wie das sein könnte.
+>Reisende in der Zwielichtleere nehmen nur Species wahr, die mit der Provinz verbunden sind, in der sie reisen. Hier einige Ideen, wie das sein könnte.
 >
 >**Animal:** In der Animal-Provinz nehmen Reisende starke, moschusartige Gerüche wahr, und Tiere im Freien sind hell erleuchtet vor der Dunkelheit. Unter Gebüsch und hinter Felsen verborgene Tiere sind verhüllt, aber womöglich gerade noch erkennbar. Geräusche von Tieren oder anderen Wesen mit Gerissenheit sind verstärkt, wie ihre Rufe oder ihr Atmen, und diese übertragen ihre Gedanken (soweit vorhanden) auf eine dem verbundenen Charakter verständliche Weise. Tierische Erzeugnisse sind leicht erkennbar, sodass die Gestalt eines in Felle gekleideten Mannes zwar unsichtbar sein könnte, aber durch sein schwebendes Paar Lammfellstiefel, Wollgamaschen, Lederharnisch und Pelzkappe zu identifizieren wäre.
 >
@@ -1300,7 +1300,7 @@ Eine häufig durch Transformation erlangte Große Tugend ist Verwandeltes (Wesen
 
 >## Positive und negative Eigenschaften
 >
->Charaktere können magischer werden, indem sie die Dämmerungsleere erkunden und begreifen. Eine verbreitete Art, wie sich dies manifestiert, sind Dämmerungsnarben und Essenzielle Eigenschaften (beschrieben in Kapitel 3: Magische Charaktere, Essenzielle Eigenschaften). Diese sind typischerweise mit der Provinz verbunden, in der der Charakter gereist ist, wie die folgenden Wirkungsvorschläge zeigen.
+>Charaktere können magischer werden, indem sie die Zwielichtleere erkunden und begreifen. Eine verbreitete Art, wie sich dies manifestiert, sind Zwielichtnarben und Essenzielle Eigenschaften (beschrieben in Kapitel 3: Magische Charaktere, Essenzielle Eigenschaften). Diese sind typischerweise mit der Provinz verbunden, in der der Charakter gereist ist, wie die folgenden Wirkungsvorschläge zeigen.
 >
 >**Animal:** Eigenschaften, die beschreiben, wie der Charakter auf Tiere reagiert, oder Eigenschaften, die eine Gestalt beschreiben, die der Charakter in der Magischen Sphäre angenommen hat, oder die den Charakter einem bestimmten Tier ähnlich machen.
 >
@@ -1368,11 +1368,11 @@ Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu
 >
 >#### Neue Intellego-Leitlinien
 >
->Intellego versetzt einen Magus in die Lage, die Verbindungen zwischen Relikten und Grenzen zu erkennen, wodurch er leichter durch sie hindurchblicken kann, wenn er versucht, in die Dämmerungsleere zu reisen. Dort angekommen, kann er es sich selbst oder anderen auch ermöglichen, Relikte wahrzunehmen, die nicht mit der Provinz verbunden sind, in der sie reisen.
+>Intellego versetzt einen Magus in die Lage, die Verbindungen zwischen Relikten und Grenzen zu erkennen, wodurch er leichter durch sie hindurchblicken kann, wenn er versucht, in die Zwielichtleere zu reisen. Dort angekommen, kann er es sich selbst oder anderen auch ermöglichen, Relikte wahrzunehmen, die nicht mit der Provinz verbunden sind, in der sie reisen.
 >
 >**Stufe 3:** Ein Relikt oder eine Grenze erkennen, die dieser Form zugeordnet ist. Wird der Zauber mit dem Ziel Sicht gewirkt, liefert dieser Effekt genug Informationen, um hindurchzutreten (siehe die Regeln für Magisches Reisen, oben).
 >
->**Stufe 4:** Die Dämmerungsleere durch ein Zielrelikt oder eine Zielgrenze wahrnehmen. Dies gibt dem Zaubernden einen Bonus von +3 auf seinen Reisewurf, und jede weitere Magnitude erhöht diesen Bonus um 3, sodass ein Zauber mit Basis 15 einen Bonus von +12 gibt.
+>**Stufe 4:** Die Zwielichtleere durch ein Zielrelikt oder eine Zielgrenze wahrnehmen. Dies gibt dem Zaubernden einen Bonus von +3 auf seinen Reisewurf, und jede weitere Magnitude erhöht diesen Bonus um 3, sodass ein Zauber mit Basis 15 einen Bonus von +12 gibt.
 >
 >#### Neue Intellego-Zauber
 >
@@ -1380,7 +1380,7 @@ Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu
 >
 >R: Per, D: Konz, Z: Sicht
 >
->Dieser Zauber ermöglicht es dem Zaubernden, die Stufe aller Grenzen oder Relikte zu erkennen, die er sehen kann und die mit Auram verbunden sind, und durch jede von ihnen in die Dämmerungsleere zu treten, wenn er es wünscht.
+>Dieser Zauber ermöglicht es dem Zaubernden, die Stufe aller Grenzen oder Relikte zu erkennen, die er sehen kann und die mit Auram verbunden sind, und durch jede von ihnen in die Zwielichtleere zu treten, wenn er es wünscht.
 >
 >(Basis 3, +1 Konz, +4 Sicht)
 >
@@ -1388,7 +1388,7 @@ Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu
 >
 >R: Berührung, D: Mom, Z: Bauwerk
 >
->Der Zaubernde kann durch das Relikt einer Holzkonstruktion in der Magischen Sphäre in die Dämmerungsleere blicken und andere mit einem Bonus von +9 auf seine Reliktreisesumme hindurchführen.
+>Der Zaubernde kann durch das Relikt einer Holzkonstruktion in der Magischen Sphäre in die Zwielichtleere blicken und andere mit einem Bonus von +9 auf seine Reliktreisesumme hindurchführen.
 >
 >(Basis 10, +1 Berührung, +3 Bauwerk)
 >
@@ -1400,7 +1400,7 @@ Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu
 >
 >**Stufe 10:** Ein Ziel mit der Magischen Sphäre verbinden, als hätte es Magische Macht derselben Form wie dieser Effekt. Dies bedeutet, es kann Dinge dieser Form mit anderen Effekten der Magie der Magischen Sphäre beeinflussen.
 >
->**Stufe 15:** Ein Ziel in der Magischen Sphäre für Reisende in der Dämmerungsleere als Relikt wahrnehmbar machen. Viele, aber nicht alle Merkmale der Magischen Sphäre besitzen diese Eigenschaft von Natur aus. ODER Ein Ziel in der Dämmerungsleere als Relikt in der Magischen Sphäre sichtbar machen.
+>**Stufe 15:** Ein Ziel in der Magischen Sphäre für Reisende in der Zwielichtleere als Relikt wahrnehmbar machen. Viele, aber nicht alle Merkmale der Magischen Sphäre besitzen diese Eigenschaft von Natur aus. ODER Ein Ziel in der Zwielichtleere als Relikt in der Magischen Sphäre sichtbar machen.
 >
 >#### Neue Muto-Zauber
 >
@@ -1418,7 +1418,7 @@ Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu
 >
 >R: Berührung, D: Durchmesser, Z: Gruppe
 >
->Dieser Zauber bewirkt, dass eine Gruppe intelligenter Wesen in der Mentem-Provinz der Dämmerungsleere für andere außerhalb der Dämmerungsleere wahrnehmbar wird. Ein Reisender in der Dämmerungsleere könnte sich zum Beispiel zum Unterschlupf einer bestimmten Kreatur durchschlagen, mit der er kommunizieren möchte. Dieser Effekt macht die Kreatur in der Lage, ihn und mehrere andere für die Dauer zu sehen und zu hören, als wären sie Relikte an dem Ort, an dem diese Kreatur lebt.
+>Dieser Zauber bewirkt, dass eine Gruppe intelligenter Wesen in der Mentem-Provinz der Zwielichtleere für andere außerhalb der Zwielichtleere wahrnehmbar wird. Ein Reisender in der Zwielichtleere könnte sich zum Beispiel zum Unterschlupf einer bestimmten Kreatur durchschlagen, mit der er kommunizieren möchte. Dieser Effekt macht die Kreatur in der Lage, ihn und mehrere andere für die Dauer zu sehen und zu hören, als wären sie Relikte an dem Ort, an dem diese Kreatur lebt.
 >
 >(Basis 15, +1 Berührung, +1 Durchmesser, +2 Gruppe)
 
@@ -1436,13 +1436,13 @@ Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die 
 >
 >#### Neue Perdo-Leitlinien
 >
->Mit Perdo können Magi Relikte und andere Dinge in der Magischen Sphäre vorübergehend zerstören und sie für eine Zeit in die Dämmerungsleere verbannen. Solange der Effekt anhält, ist das Ziel unsichtbar und substanzlos und im Teil der Leere gefangen, der seinem aktuellen Aufenthaltsort entspricht. Das Ziel hat häufig keine Erinnerung an die Zwischenzeit, als hätte es geschlafen oder wäre vollständig aus der Welt entfernt worden. Manche Magi spekulieren, dass genau dies geschieht, wenn ein Magus in die Dämmerung eintritt.
+>Mit Perdo können Magi Relikte und andere Dinge in der Magischen Sphäre vorübergehend zerstören und sie für eine Zeit in die Zwielichtleere verbannen. Solange der Effekt anhält, ist das Ziel unsichtbar und substanzlos und im Teil der Leere gefangen, der seinem aktuellen Aufenthaltsort entspricht. Das Ziel hat häufig keine Erinnerung an die Zwischenzeit, als hätte es geschlafen oder wäre vollständig aus der Welt entfernt worden. Manche Magi spekulieren, dass genau dies geschieht, wenn ein Magus ins Zwielicht eintritt.
 >
 >Hermetische Magie kann auch die Stärke einer Grenze in der Magischen Sphäre reduzieren und sie sogar gänzlich zerstören, obwohl dies stets ein Ritual erfordert. Ein Ort ohne Grenze und ohne Relikte ist fast vollständig vom Rest der Magischen Sphäre isoliert, da es unmöglich ist, ohne eine Arkane Verbindung dorthin zu reisen.
 >
 >**Stufe 5:** Ein Relikt für die Dauer des Effekts zerstören. Zerstörte Relikte können nicht mehr zum Reisen benutzt werden, weder von noch zu ihnen.
 >
->**Stufe 10:** Ein Ziel für die Dauer in die Dämmerungsleere entfernen, solange es sich in der Magischen Sphäre befindet oder der Zaubernde Magische Macht besitzt, die dieser Form zugeordnet ist.
+>**Stufe 10:** Ein Ziel für die Dauer in die Zwielichtleere entfernen, solange es sich in der Magischen Sphäre befindet oder der Zaubernde Magische Macht besitzt, die dieser Form zugeordnet ist.
 >
 >**Stufe 15:** Den Wert einer Grenze in der Magischen Sphäre (von höchstens Stufe 1) permanent um eine Stufe reduzieren. Jede weitere Magnitude erhöht die maximale Stufe der Grenze oder den Betrag, um den sie reduziert wird, um 1.
 >
@@ -1462,19 +1462,19 @@ Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die 
 >
 >R: Berührung, D: Jahr, Z: Ind, Ritual
 >
->Dieses Ritual, das innerhalb der Magischen Sphäre oder von einem Charakter mit Corpus-Macht gewirkt werden muss, lässt das Ziel in der Dämmerungsleere verschwinden. Solange es andauert, ist es, als existierte es nicht; es wird keine Erinnerung an die Zwischenzeit haben, wenn und falls es zurückkehrt. Beachte, dass der Effekt, wenn er in der Magischen Sphäre gewirkt wird, tatsächlich permanent ist. Ein Magus, der sicherstellen will, dass er nicht mehr altert, könnte diesen Effekt auf sich selbst anwenden und zuvor ein Relikt seiner selbst erschaffen, das als Verbindung dienen kann, um ihn zurückzuholen.
+>Dieses Ritual, das innerhalb der Magischen Sphäre oder von einem Charakter mit Corpus-Macht gewirkt werden muss, lässt das Ziel in der Zwielichtleere verschwinden. Solange es andauert, ist es, als existierte es nicht; es wird keine Erinnerung an die Zwischenzeit haben, wenn und falls es zurückkehrt. Beachte, dass der Effekt, wenn er in der Magischen Sphäre gewirkt wird, tatsächlich permanent ist. Ein Magus, der sicherstellen will, dass er nicht mehr altert, könnte diesen Effekt auf sich selbst anwenden und zuvor ein Relikt seiner selbst erschaffen, das als Verbindung dienen kann, um ihn zurückzuholen.
 >
 >(Basis 10, +1 Berührung, +4 Jahr)
 >
 >#### Neue Rego-Leitlinien
 >
->Wie in der mundanen Welt verleiht Rego dem Anwender in der Magischen Sphäre größere Kontrolle über seine Umgebung und ermöglicht es Magi, die Reisegeschwindigkeit durch Relikte oder Grenzen zu erhöhen. Es kann den Übergang von einer Provinz in eine andere in der Dämmerungsleere ermöglichen.
+>Wie in der mundanen Welt verleiht Rego dem Anwender in der Magischen Sphäre größere Kontrolle über seine Umgebung und ermöglicht es Magi, die Reisegeschwindigkeit durch Relikte oder Grenzen zu erhöhen. Es kann den Übergang von einer Provinz in eine andere in der Zwielichtleere ermöglichen.
 >
 >Beim Reisen durch Relikte oder Grenzen erlebt der Reisende die Fahrt, als durchquere er die Grenze oder das Relikt wie gewöhnlich, obwohl der Effekt zu schnell sein kann, als dass er Einzelheiten auf dem Weg erkennen könnte.
 >
 >**Stufe 5:** Ein Ziel von einer Provinz in eine andere transportieren. (Requisit)
 >
->**Stufe 10:** Die Dauer der Reise eines Ziels durch die Dämmerungsleere um eine Stufe reduzieren. Jede weitere Magnitude reduziert die Reise um eine weitere Stufe.
+>**Stufe 10:** Die Dauer der Reise eines Ziels durch die Zwielichtleere um eine Stufe reduzieren. Jede weitere Magnitude reduziert die Reise um eine weitere Stufe.
 >
 >**Stufe 35:** Ein Ziel sofort durch ein Relikt oder eine Grenze transportieren, solange sich das Ziel in der Magischen Sphäre befindet oder der Zaubernde Magische Macht besitzt, die der Form dieses Zaubers zugeordnet ist.
 >
@@ -1484,7 +1484,7 @@ Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die 
 >
 >R: Berührung, D: Mom, Z: Gruppe
 >
->Versetzt die Ziele von der Animal-Provinz in die Terram-Provinz der Dämmerungsleere. Dies kann ihnen ermöglichen, die Leere durch ein Terram-Relikt oder eine Terram-Grenze zu verlassen.
+>Versetzt die Ziele von der Animal-Provinz in die Terram-Provinz der Zwielichtleere. Dies kann ihnen ermöglichen, die Leere durch ein Terram-Relikt oder eine Terram-Grenze zu verlassen.
 >
 >(Basis 5, +1 Berührung, +2 Gruppe)
 >
@@ -1492,7 +1492,7 @@ Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die 
 >
 >R: Per, D: Mom, Z: Ind
 >
->Die Dauer der Reise des Zaubernden durch die Dämmerungsleere wird um drei Stufen gegenüber seiner anfänglichen Geschwindigkeitsstufe reduziert. Mit einer Geschwindigkeitsstufe von 6 würde der Zaubernde nach einem Jahr in die Magische Sphäre zurückkehren, und dieser Zauber würde seine Geschwindigkeitsstufe auf 18 erhöhen, was bedeutet, dass er nach nur einem Tag hervortritt.
+>Die Dauer der Reise des Zaubernden durch die Zwielichtleere wird um drei Stufen gegenüber seiner anfänglichen Geschwindigkeitsstufe reduziert. Mit einer Geschwindigkeitsstufe von 6 würde der Zaubernde nach einem Jahr in die Magische Sphäre zurückkehren, und dieser Zauber würde seine Geschwindigkeitsstufe auf 18 erhöhen, was bedeutet, dass er nach nur einem Tag hervortritt.
 >
 >(Basis 20)
 
@@ -1625,7 +1625,7 @@ Magische Tiere sind die häufigste Art magischer Charaktere; ihre Wahre Gestalt 
 >
 >*Biss:* Init +2, Ang +10, Vert +9, Sch +1
 >
->**Schadensabsorption:** +5
+>**Absorption:** +5
 >
 >**Erschöpfungsstufen:** OK, 0/0, –1, –3, –5, Bewusstlos
 >
@@ -1791,7 +1791,7 @@ Siehe Qualitäten und Mängel weiter unten für eine Liste, wie diese Punkte aus
 >
 >*Tritt:* Init +4, Ang +4, Vert +8, Sch +5
 >
->**Schadensabsorption:** +3
+>**Absorption:** +3
 >
 >**Wundabzüge**: –1 (1–7), –3 (8–14), –5 (16–21), Kampfunfähig (22–28), Tot (29+)
 >
@@ -1849,7 +1849,7 @@ Magische Charaktere werden wie Standardcharaktere abgeschlossen: Stelle sicher, 
 
 Jeder magische Charakter hat eine besondere Persönlichkeitseigenschaft, typischerweise bei +3, die seine Wahre Gestalt beschreibt. Diese ist gewöhnlich etwas Einfaches wie „Rabe", „Mensch" oder „Baum" und wird durch ein Sternchen (*) von anderen Persönlichkeitseigenschaften unterschieden. Dies ist eine Essenzielle Eigenschaft (siehe Essenzielle Eigenschaften weiter unten), die sicherstellt, dass der Charakter nicht gegen seine grundlegende Natur handelt; der Charakter kann nicht entgegen dieser Eigenschaft handeln, und Magie kann den Charakter nicht dazu zwingen, sich ihr zuwider zu verhalten.
 
-Du solltest alle Kampfwerte des Charakters berechnen, einschließlich seiner Schadensabsorption und Wundstufenbereiche, und ihm jede Ausrüstung zuweisen, von der du dir vorstellen kannst, dass er sie vernünftigerweise erworben und instand gehalten haben könnte, wobei die Stärke und Belastung des Charakters zu beachten sind. Berechne schließlich das Inhärente Vis des Charakters, wobei du Art, Fundort und Menge wählst (diese entspricht typischerweise seinem Machtwert geteilt durch 5, aufgerundet).
+Du solltest alle Kampfwerte des Charakters berechnen, einschließlich seiner Absorption und Wundstufenbereiche, und ihm jede Ausrüstung zuweisen, von der du dir vorstellen kannst, dass er sie vernünftigerweise erworben und instand gehalten haben könnte, wobei die Stärke und Belastung des Charakters zu beachten sind. Berechne schließlich das Inhärente Vis des Charakters, wobei du Art, Fundort und Menge wählst (diese entspricht typischerweise seinem Machtwert geteilt durch 5, aufgerundet).
 
 ## Qualitäten und Mängel
 
@@ -1959,7 +1959,7 @@ Verbleibende Zauberstufen können verwendet werden, um die Effektstufe anderer G
 >
 >4 Punkte, Init gleich (Sck – 3), Corpus R: Stimme, D: Sonne, Z: Gruppe
 >
->Verleiht Tüchtigkeit in einer bestimmten Tätigkeit. Für jeden investierten Machtpunkt können zehn Personen einen Bonus von +1 auf alle Würfe in einer allgemeinen Situation erhalten (wie Kampf oder Waldhandwerk); oder 1 Person kann einen Bonus von +3 auf eine bestimmte Summe oder Fertigkeit erhalten (wie Schadensabsorption oder Jagen). Machtpunkte, die für diese Kraft ausgegeben werden, werden erst regeneriert, wenn ihre Wirkung zurückgenommen wird.
+>Verleiht Tüchtigkeit in einer bestimmten Tätigkeit. Für jeden investierten Machtpunkt können zehn Personen einen Bonus von +1 auf alle Würfe in einer allgemeinen Situation erhalten (wie Kampf oder Waldhandwerk); oder 1 Person kann einen Bonus von +3 auf eine bestimmte Summe oder Fertigkeit erhalten (wie Absorption oder Jagen). Machtpunkte, die für diese Kraft ausgegeben werden, werden erst regeneriert, wenn ihre Wirkung zurückgenommen wird.
 >
 >MuCo 20 (Basis 2, +2 Stimme, +2 Sonne, +2 Gruppe): Mindere Macht (20 Stufen, +1 Init)
 >
@@ -2093,7 +2093,7 @@ Im Ermessen des Spielleiters kann diese Qualität auch dazu verwendet werden, ei
 
 **Verbesserte Erholung:** Der Charakter regeneriert Machtpunkte in der Hälfte der normalen Zeit. Anstatt seinen Machtvorrat im Laufe von 24 Stunden vollständig aufzufüllen, stellt der Charakter seinen gesamten Machtvorrat in nur 12 Stunden wieder her. Ein magisches Wesen mit Magischer Macht 30 und dieser Qualität würde ungefähr alle 20 Minuten 1 Machtpunkt regenerieren. Diese Qualität kann mehrfach genommen werden.
 
-**Verbesserte Schadensabsorption:** Der natürliche Schutz des Charakters ist magisch verstärkt und wehrt Schläge und physische Verletzungen wirksamer ab. Erhöhe die Schadensabsorption des Charakters um 2. Diese Qualität kann mehrfach genommen werden.
+**Verbesserte Absorption:** Der natürliche Schutz des Charakters ist magisch verstärkt und wehrt Schläge und physische Verletzungen wirksamer ab. Erhöhe die Absorption des Charakters um 2. Diese Qualität kann mehrfach genommen werden.
 
 **Mindere Macht:** Der Charakter verfügt über 25 Stufen an Kräften, die wie ein formulaischer Zauber gestaltet werden. Wenn diese Qualität mehrmals genommen wird, können diese Zauberstufen kombiniert werden, um einen Effekt höherer Magnitude zu ermöglichen. Diese Kräfte haben Machtkosten, die standardmäßig der Magnitude des Effekts entsprechen, und die Initiative der Kraft entspricht der Schnelligkeit des Charakters – (Magnitude des Effekts × 2). Du solltest auch die Form oder Formen des Effekts notieren, um die Magieresistenz zu bewerten.
 
@@ -2169,7 +2169,7 @@ Alle Magischen Dinge haben diesen Mangel inhärent, ohne Vorteil.
 
 **Reduzierte Kraft:** Ziehe 5 Meisterschaftspunkte von einer der Kräfte des Charakters ab. Jeder verlorene Meisterschaftspunkt erhöht die Anzahl der Machtpunkte, die zur Aktivierung einer Kraft ausgegeben werden, um 1 oder reduziert den Initiativewert des Charakters für eine Kraft um 1. Dieser Mangel kann mehrfach genommen werden, aber die Aktivierungskosten einer Kraft dürfen den Machtwert des Charakters nicht überschreiten, und du kannst die Initiative einer Kraft nicht unter 0 reduzieren.
 
-**Reduzierte Schadensabsorption:** Der natürliche Schutz des Charakters ist magisch geschwächt, sodass er anfälliger für physischen Schaden ist. Reduziere die Schadensabsorption des Charakters um 2. Dieser Mangel kann nur genommen werden, wenn die Schadensabsorption des Charakters größer als 0 ist, aber er kann mehrfach genommen werden.
+**Reduzierte Absorption:** Der natürliche Schutz des Charakters ist magisch geschwächt, sodass er anfälliger für physischen Schaden ist. Reduziere die Absorption des Charakters um 2. Dieser Mangel kann nur genommen werden, wenn die Absorption des Charakters größer als 0 ist, aber er kann mehrfach genommen werden.
 
 **Anfällig für Entbehrung:** Anders als andere magische Wesen kann der Charakter nicht ohne Luft, Nahrung oder Wasser überleben und erleidet alle normalen Konsequenzen, wenn er darauf verzichten muss. Der Charakter ist weiterhin immun gegen Altern, es sei denn, er hat den Fehler Schnelles Altern.
 
@@ -2847,7 +2847,7 @@ Neben der Fähigkeit, Tiere zu trainieren und zu versorgen (wie in **ArM5**, Sei
 
 Nur Charaktere mit einem Machtwert können diese Fertigkeit besitzen.
 
-Durch den Kontakt mit einer bestimmten magischen Form hat der Charakter einen natürlichen Widerstand gegen Dinge entwickelt, die mit dieser Form verbunden sind, auf dieselbe Weise, wie Magi durch das Studium der Magie der zugehörigen Hermetischen Form widerstandsfähiger werden. Du darfst den Wert des Charakters in dieser Fertigkeit als Bonus auf Versuche addieren, Schaden durch Dinge dieser Form zu widerstehen (wie in den Beispielen auf den Seiten 78–79 von **ArM5** beschrieben). Zum Beispiel darfst du deinen Wert in Vim-Resistenz zu deiner Schadensabsorption gegen Schaden addieren, der durch deine eigenen magischen Kräfte verursacht wird.
+Durch den Kontakt mit einer bestimmten magischen Form hat der Charakter einen natürlichen Widerstand gegen Dinge entwickelt, die mit dieser Form verbunden sind, auf dieselbe Weise, wie Magi durch das Studium der Magie der zugehörigen Hermetischen Form widerstandsfähiger werden. Du darfst den Wert des Charakters in dieser Fertigkeit als Bonus auf Versuche addieren, Schaden durch Dinge dieser Form zu widerstehen (wie in den Beispielen auf den Seiten 78–79 von **ArM5** beschrieben). Zum Beispiel darfst du deinen Wert in Vim-Resistenz zu deiner Absorption gegen Schaden addieren, der durch deine eigenen magischen Kräfte verursacht wird.
 
 Wie Formboni bei Magi erhöht dies auch die Magieresistenz eines magischen Charakters gegen Zauber dieser Form, ist aber nur mit Magischer Macht kompatibel; es addiert sich nicht zur Parma Magica.
 
@@ -2983,7 +2983,7 @@ Minimale Aurastärke
 
 Um als „ständig darin" zu gelten, muss der Charakter nahezu seine gesamte Zeit dort verbringen, wobei gelegentliche Ausflüge in die Außenwelt erlaubt sind. Mehr als etwa 40 Tage Abwesenheit verhindern jedoch, dass die Aura in diesem Jahr die Gewöhnung abwendet. Ebenso sollte der Charakter bei „halbe Zeit darin" zumindest in der Aura wohnen, etwa dort hingehen, wenn andere Charaktere schlafen gehen, oder etwa zwei Quartale pro Jahr darin verbringen. „Häufige Besuche" entsprechen etwa einem Viertel der Zeit des Charakters oder einem konzentrierten Quartal pro Jahr.
 
-Wie die Tabelle zeigt, kann ein magischer Charakter mit einem Machtwert von mehr als 50 die Gewöhnung nicht durch das Leben in einer Magieaura vermeiden. Die mächtigsten und zurückgezogensten magischen Charaktere leben typischerweise in der Dämmerungsleere, jenem Teil der Magischen Sphäre, in dem sie nie Gewöhnung erlangen, und manifestieren sich nur gelegentlich in der weltlichen Welt. Für einen Charakter, der die Magische Sphäre besucht, aber nicht das ganze Jahr dort bleibt, wird sie wie eine Aura von 10 behandelt und der Machtwert halbiert. Zum Beispiel könnte ein Charakter mit Macht 20 die Gewöhnung vermeiden, indem er ein Quartal pro Jahr in der Magischen Sphäre verbringt.
+Wie die Tabelle zeigt, kann ein magischer Charakter mit einem Machtwert von mehr als 50 die Gewöhnung nicht durch das Leben in einer Magieaura vermeiden. Die mächtigsten und zurückgezogensten magischen Charaktere leben typischerweise in der Zwielichtleere, jenem Teil der Magischen Sphäre, in dem sie nie Gewöhnung erlangen, und manifestieren sich nur gelegentlich in der weltlichen Welt. Für einen Charakter, der die Magische Sphäre besucht, aber nicht das ganze Jahr dort bleibt, wird sie wie eine Aura von 10 behandelt und der Machtwert halbiert. Zum Beispiel könnte ein Charakter mit Macht 20 die Gewöhnung vermeiden, indem er ein Quartal pro Jahr in der Magischen Sphäre verbringt.
 
 #### Effekte
 
@@ -3110,7 +3110,7 @@ Selbstvertrauenswert: 2 (5)
 
 Tugenden und Fehler: Magisches Tier; Magischer Streiter; Wege des Waldes; Berserker, Verbesserte Eigenschaften, Selbstbewusst; Jähzornig, Furor; Nachtaktiv
 
-Magische Qualitäten und Mängel: Gigantisch, Große Macht (x2); Tierresistenz, Ignem-Resistenz, Verbesserte Fertigkeiten (x3), Verbesserter Angriff (x2), Verbesserter Schaden (x2), Verbesserte Erschöpfung (x3), Verbesserte Schadensabsorption (x2), Kleine Tugend: Hervorragende Eigenschaft (Ausdauer), Kleine Tugend: Zäh, Terram-Resistenz; Monströses Aussehen; Anfällig für Entbehrung
+Magische Qualitäten und Mängel: Gigantisch, Große Macht (x2); Tierresistenz, Ignem-Resistenz, Verbesserte Fertigkeiten (x3), Verbesserter Angriff (x2), Verbesserter Schaden (x2), Verbesserte Erschöpfung (x3), Verbesserte Absorption (x2), Kleine Tugend: Hervorragende Eigenschaft (Ausdauer), Kleine Tugend: Zäh, Terram-Resistenz; Monströses Aussehen; Anfällig für Entbehrung
 
 Persönlichkeitseigenschaften: Territorial\* +6, Rachsüchtig\*+6, Eber\* +3, Tapfer\* +3, Neugierig –1 Reputationen: Streitsüchtig 2 (lokal)
 
@@ -3118,7 +3118,7 @@ Kampf:
 
 *Hauer:* Initiative +1, Angriff +14, Verteidigung +9, Schaden +11
 
-Schadensabsorption: +12 (+17 bei Einsatz von *Beschütze die Herde*) Erschöpfungsstufen: OK, 0/0, –2/ –2, –4/–4, Bewusstlos
+Absorption: +12 (+17 bei Einsatz von *Beschütze die Herde*) Erschöpfungsstufen: OK, 0/0, –2/ –2, –4/–4, Bewusstlos
 
 Wundabzüge: 0 (1–7), –2 (8–14), –4 (15–21), Kampfunfähig (22–28), Tot (29+)
 
@@ -3130,7 +3130,7 @@ Kräfte:
 
 R: Berührung, D: Sonne, Z: Gruppe
 
-Wenn diese Kraft eingesetzt wird, erhalten der Eber und alle seine tierischen Verbündeten einen Bonus von +5 auf ihre Schadensabsorption für eine Sonnendauer.
+Wenn diese Kraft eingesetzt wird, erhalten der Eber und alle seine tierischen Verbündeten einen Bonus von +5 auf ihre Absorption für eine Sonnendauer.
 
 MuAn 50 (Basis 25, +1 Berührung, +2 Sonne, +2 Gruppe): Große Macht (45 Stufen, –1 Machtkosten)
 
@@ -3202,7 +3202,7 @@ Magisches Tier; Magischer Streiter; Wege des Moors; Selbstbewusst, Spitze Ohren;
 
 Magische Qualitäten und Mängel:
 
-Gigantisch, Große Macht (x5); Tierresistenz, Verbesserter Angriff, Verbesserte Fertigkeiten, Verbesserter Schaden (x2), Verbesserte Erschöpfung, Verbesserte Schadensabsorption, Kleine Tugend: Verbesserte Eigenschaften (x2), Kleine Tugend: Zäh; Anfällig für Entbehrung
+Gigantisch, Große Macht (x5); Tierresistenz, Verbesserter Angriff, Verbesserte Fertigkeiten, Verbesserter Schaden (x2), Verbesserte Erschöpfung, Verbesserte Absorption, Kleine Tugend: Verbesserte Eigenschaften (x2), Kleine Tugend: Zäh; Anfällig für Entbehrung
 
 Persönlichkeitseigenschaften:
 
@@ -3214,7 +3214,7 @@ Kampf:
 
 *Biss:* Initiative +1, Angriff +13, Verteidigung +8, Schaden +13
 
-Schadensabsorption: +8
+Absorption: +8
 
 Erschöpfungsstufen: OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -3305,7 +3305,7 @@ Kampf:
 
 *Ausweichen:* Init +2, Angriff n/v, Verteidigung +5, Schaden n/v
 
-Schadensabsorption: +3
+Absorption: +3
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -3359,7 +3359,7 @@ Kampf:
 
 *Schnabel:* Init +4, Angriff +8, Verteidigung +8, Schaden –5
 
-Schadensabsorption: 0
+Absorption: 0
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -3405,7 +3405,7 @@ Kampf:
 
 *Hufe:* Initiative +6, Angriff +6, Verteidigung +12, Schaden +6.
 
-Schadensabsorption: +3
+Absorption: +3
 
 Erschöpfungsstufen: OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -3472,7 +3472,7 @@ Selbstvertrauenswert: 2 (5)
 
 Tugenden und Fehler: Magisches Tier; Magischer Meister; Essenzielle Tugend (tapfer, klein), Verbesserte Eigenschaften (x4), Begabung in Raufen, Selbstbewusst; Schwierige Untergebene, Stolz (groß); Fähigkeitsblock (Sprachen), Angst (Räder), Berüchtigt, Schwäche (hilflose Geschöpfe)
 
-Magische Qualitäten und Mängel: Große Macht; Verbesserte Fertigkeiten (x2), Verbesserter Angriff (x2), Verbesserte Verteidigung (x2), Verbesserte Erschöpfung, Verbesserte Macht (x8), Verbesserte Schadensabsorption (x4), Mindere Macht (x2), Kleine Tugend: Tierverständnis, Kleine Tugend: Natursinn, Persönliche Kraft; Kleiner Fehler: Eingeschränkte Kraft, Anfällig für Entbehrung
+Magische Qualitäten und Mängel: Große Macht; Verbesserte Fertigkeiten (x2), Verbesserter Angriff (x2), Verbesserte Verteidigung (x2), Verbesserte Erschöpfung, Verbesserte Macht (x8), Verbesserte Absorption (x4), Mindere Macht (x2), Kleine Tugend: Tierverständnis, Kleine Tugend: Natursinn, Persönliche Kraft; Kleiner Fehler: Eingeschränkte Kraft, Anfällig für Entbehrung
 
 Persönlichkeitseigenschaften: Löwe\* +3, Tapfer\* +3, Wild +3, Gnädig +3
 
@@ -3482,7 +3482,7 @@ Reputationen: Gefährliches Tier 4 (lokal) Kampf:
 
 *Große Zähne:* Init +1, Angriff +17, Verteidigung +14, Schaden +9
 
-Schadensabsorption: +10
+Absorption: +10
 
 Erschöpfungsstufen: OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -3550,7 +3550,7 @@ Jahreszeit: Frühling
 
 Tugenden und Fehler: Magisches Tier; Magisches Ungeheuer; Essenzielle Tugend (listiger Jäger aus dem Hinterhalt), Hervorragende Eigenschaft (Geschicklichkeit), Perfekte Balance, Begabung in Raufen, Begabung in Schleichen; Essenzieller Fehler (wildes Aussehen), Hass (klein, auf andere Tiere)
 
-Magische Qualitäten und Mängel: Große Macht; Verbesserte Fertigkeiten, Verbesserte Macht (x5), Verbesserte Schadensabsorption (x2); Anfällig für Entbehrung
+Magische Qualitäten und Mängel: Große Macht; Verbesserte Fertigkeiten, Verbesserte Macht (x5), Verbesserte Absorption (x2); Anfällig für Entbehrung
 
 Persönlichkeitseigenschaften: Panther\* +3, Hasserfüllt +3, Listiger Jäger\* (Gerissenheit) +3, Zurückgezogen +2, Tapfer –1
 
@@ -3563,7 +3563,7 @@ Kampf:
 
 *Zähne:* Init +2, Angriff +12, Verteidigung +8, Schaden +2
 
-Schadensabsorption: +4
+Absorption: +4
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
@@ -3619,7 +3619,7 @@ Die Zunge eines Panthers der Tugend kann die Fertigkeit Betörung mit einem Wert
 
 *Schnabel:* Init +5, Angriff +7, Verteidigung +11, Schaden –6
 
-**Schadensabsorption:** 0
+**Absorption:** 0
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 
@@ -3661,7 +3661,7 @@ Das Vis in einem Tugendtier Rabe wird angereichert, indem man den gesamten Kadav
 
 *Ausweichen:* Init +10, Angriff n/v, Verteidigung +12, Schaden n/v
 
-**Schadensabsorption:** +3
+**Absorption:** +3
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 
@@ -3760,7 +3760,7 @@ Der Körper eines Tugendtier Salamanders wird, wenn man ihn über Glut von Erlen
 
 **Tugenden und Fehler:** Magisches Tier; Magisches Ungeheuer; Wege des Waldes; Essenzielle Tugend (gesund, klein), Wildheit (wenn in die Enge getrieben), Hervorragende Schnelligkeit, Mindere Immunität (Fieber), Ausdauernd, Begabung in Athletik; Hass (auf Schlangen, groß); Höherer Zweck (seine Herde beschützen), Eingeschränkte Kraft (x2)
 
-**Magische Qualitäten und Mängel:** Ritualmacht; Verbesserte Fertigkeiten, Verbesserte Macht (x7), Verbesserte Kräfte, Verbesserte Schadensabsorption (x2), Persönliche Kraft (x2); Großer Fehler: Hunger nach Animal-Vis; Anfällig für Entbehrung
+**Magische Qualitäten und Mängel:** Ritualmacht; Verbesserte Fertigkeiten, Verbesserte Macht (x7), Verbesserte Kräfte, Verbesserte Absorption (x2), Persönliche Kraft (x2); Großer Fehler: Hunger nach Animal-Vis; Anfällig für Entbehrung
 
 **Persönlichkeitseigenschaften:** Hirsch\* +3, Edel +3, Gesund (Ausdauer) +3, Tapfer +2
 
@@ -3772,7 +3772,7 @@ Der Körper eines Tugendtier Salamanders wird, wenn man ihn über Glut von Erlen
 
 *Hufe:* Init +4, Angriff +8, Verteidigung +9, Schaden +5
 
-**Schadensabsorption:** +7
+**Absorption:** +7
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 
@@ -3828,7 +3828,7 @@ Das rechte Geweih eines Tugendtier Hirschs kann angereichert werden, indem man e
 
 **Tugenden und Fehler:** Magisches Tier; Magischer Meister; Wege des Waldes; Verbesserte Eigenschaften; Ehrgeizig, Feinde (besessene Jäger); Höherer Zweck (den Wald beschützen)
 
-**Magische Qualitäten und Mängel:** Große Macht (x2), Vis-Beherrschung; Animal-Resistenz, Terram-Resistenz, Verbesserte Fertigkeiten (x2), Verbesserter Angriff (Geweih), Verbesserte Verteidigung (Geweih), Verbesserte Erschöpfung, Verbesserte Schadensabsorption, Persönliche Kraft (x3), Kleine Tugend: Hervorragende Eigenschaft (Schnelligkeit), Kleine Tugend: Ausdauernd, Kleine Tugend: Spitze Ohren, Kleine Tugend: Zäh, Kleine Tugend: Natursinn; Anfällig für Entbehrung
+**Magische Qualitäten und Mängel:** Große Macht (x2), Vis-Beherrschung; Animal-Resistenz, Terram-Resistenz, Verbesserte Fertigkeiten (x2), Verbesserter Angriff (Geweih), Verbesserte Verteidigung (Geweih), Verbesserte Erschöpfung, Verbesserte Absorption, Persönliche Kraft (x3), Kleine Tugend: Hervorragende Eigenschaft (Schnelligkeit), Kleine Tugend: Ausdauernd, Kleine Tugend: Spitze Ohren, Kleine Tugend: Zäh, Kleine Tugend: Natursinn; Anfällig für Entbehrung
 
 **Persönlichkeitseigenschaften:** Territorial\* +6, Hirsch\* +3, Beschützend\* +3, Tapfer +2, Wollüstig +2, Zurückgezogen +1
 
@@ -3840,7 +3840,7 @@ Das rechte Geweih eines Tugendtier Hirschs kann angereichert werden, indem man e
 
 *Hufe:* Initiative +5, Angriff +9, Verteidigung +11, Schaden +5
 
-**Schadensabsorption:** +7
+**Absorption:** +7
 
 **Erschöpfungsstufen:** OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -3918,7 +3918,7 @@ Streiter; Natursinn, Verbesserte Eigenschaften (x2); Klatschbase, Indiskret; Wic
 
 *Klauen:* Initiative +5, Angriff +5, Verteidigung +12, Schaden –4
 
-**Schadensabsorption:** +2
+**Absorption:** +2
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 
@@ -4101,7 +4101,7 @@ Vögel von Nephelokokkygien jeder Jahreszeit können außerhalb der Regio angetr
 >
 >*Klauen:* Init +4, Angriff +7, Verteidigung +7, Schaden –7
 >
->**Schadensabsorption:** 0
+>**Absorption:** 0
 >
 >**Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 >
@@ -4631,7 +4631,7 @@ Die Machtwerte anderer Drachen und des Drachenvolks sollten in die folgenden all
 
 Drachen sollten Qualitäten für alle speziellen Angriffe wählen, die sie besitzen; die Qualität Verbesserte Kräfte ist ebenfalls eine gute Wahl, um die Kosten zu senken (und die Penetration zu erhöhen) ihres Atems oder Blicks.
 
-Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten Verbesserter Angriff, Verbesserte Verteidigung, Verbesserter Schaden und Verbesserte Schadensabsorption verbessert werden. Besonders wichtig ist es, die Verteidigungswerte sehr großer Drachen zu verbessern, da sie andernfalls durch ihre schlechten Schnelligkeitswerte (aufgrund der Auswirkungen ihrer Größe) verwundbar wären.
+Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten Verbesserter Angriff, Verbesserte Verteidigung, Verbesserter Schaden und Verbesserte Absorption verbessert werden. Besonders wichtig ist es, die Verteidigungswerte sehr großer Drachen zu verbessern, da sie andernfalls durch ihre schlechten Schnelligkeitswerte (aufgrund der Auswirkungen ihrer Größe) verwundbar wären.
 
 >## Charakterleitfaden: Ein Scitalis
 >
@@ -4645,7 +4645,7 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 >
 >**Tugenden und Fehler:** Magisches Tier; Hervorragende Präsenz; Schlechte Schnelligkeit, Schwache Eigenschaften
 >
->**Magische Qualitäten und Mängel:** Große Macht (×2); Verbesserte Macht, Verbesserte Kräfte, Verbesserte Schadensabsorption; Miniatur; Anfällig für Entbehrung
+>**Magische Qualitäten und Mängel:** Große Macht (×2); Verbesserte Macht, Verbesserte Kräfte, Verbesserte Absorption; Miniatur; Anfällig für Entbehrung
 >
 >**Persönlichkeitseigenschaften:** Träge +2, Territorial +2
 >
@@ -4653,7 +4653,7 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 >
 >*Giftzähne:* Init −2, Ang +7, Vert +3, Sch −1
 >
->**Schadensabsorption:** +4
+>**Absorption:** +4
 >
 >**Erschöpfungsstufen:** OK, 0, −1, −3, −5, Bewusstlos
 >
@@ -4697,7 +4697,7 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 
 **Tugenden und Fehler:** Magisches Tier; Magisches Ungeheuer; Hervorragende Stärke, Großgewachsen, Durchdringender Blick, Zäh; Besessenheit (Reputation)
 
-**Magische Qualitäten und Mängel:** Große Macht; Sprachbegabung, Ignem-Resistenz, Verbesserte Macht (×4), Verbesserte Schadensabsorption (×3); Anfällig für Entbehrung
+**Magische Qualitäten und Mängel:** Große Macht; Sprachbegabung, Ignem-Resistenz, Verbesserte Macht (×4), Verbesserte Absorption (×3); Anfällig für Entbehrung
 
 **Persönlichkeitseigenschaften:** Eitel +3, Einsam +2, Tapfer −1
 
@@ -4709,7 +4709,7 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 
 *Große Zähne:* Init +2, Ang +11, Vert +8, Sch +7
 
-**Schadensabsorption**: +11
+**Absorption**: +11
 
 **Erschöpfungsstufen:** OK, 0, −1, −3, −5, Bewusstlos
 
@@ -4776,7 +4776,7 @@ Einer der Gründe, warum Varkos so sehr versucht, furchteinflößend zu sein, is
 
 **Tugenden und Fehler:** Magisches Tier; Magisches Ungeheuer; Arkanes Wissen, Verbesserte Eigenschaften (×3), Blitzreflexe, Selbstbewusst; Essenzieller Fehler (habgierig, groß)
 
-**Magische Qualitäten und Mängel**: Große Macht (×2); Sprachbegabung, Verbesserter Angriff (×2), Verbesserter Schaden (×2), Verbesserte Verteidigung (×2), Verbesserte Erschöpfung, Verbesserte Macht (×2), Verbesserte Kräfte, Verbesserte Schadensabsorption (×5), Persönliche Kraft; Anfällig für Entbehrung
+**Magische Qualitäten und Mängel**: Große Macht (×2); Sprachbegabung, Verbesserter Angriff (×2), Verbesserter Schaden (×2), Verbesserte Verteidigung (×2), Verbesserte Erschöpfung, Verbesserte Macht (×2), Verbesserte Kräfte, Verbesserte Absorption (×5), Persönliche Kraft; Anfällig für Entbehrung
 
 **Persönlichkeitseigenschaften:** Habgierig\* +6, Tapfer +3, Grausam +3
 
@@ -4788,7 +4788,7 @@ Einer der Gründe, warum Varkos so sehr versucht, furchteinflößend zu sein, is
 
 *Klauen:* Init +1, Ang +10, Vert +12, Sch +6
 
-**Schadensabsorption:** +12
+**Absorption:** +12
 
 **Erschöpfungsstufen:** OK, 0/0, −1, −3, −5, Bewusstlos
 
@@ -4852,7 +4852,7 @@ Arkliss verwendete 1 Meisterschaftspunkt ihrer Qualität Verbesserte Kräfte fü
 
 **Tugenden und Fehler:** Magisches Tier; Magisches Ungeheuer; Große Immunität (Hitze und Feuer); Arkanes Wissen, Gebildet, Verbesserte Eigenschaften (x35), Begabung in Raufen, Zweites Gesicht, Selbstbewusst (x2); Essenzieller Fehler (Habgierig, groß)
 
-**Magische Qualitäten und Mängel:** Fokussierte Macht, Große Macht (x3), Magische Meditation; Sprachbegabung, Verbesserte Fertigkeiten (x4), Verbesserter Angriff (x4), Verbesserter Schaden (x4), Verbesserte Verteidigung (x4), Verbesserte Erschöpfung (x2), Verbesserte Initiative (x4), Verbesserte Kräfte (x2), Verbesserte Erholung, Verbesserte Schadensabsorption (x8); Anfällig für Entbehrung; Reduzierte Macht (x18)
+**Magische Qualitäten und Mängel:** Fokussierte Macht, Große Macht (x3), Magische Meditation; Sprachbegabung, Verbesserte Fertigkeiten (x4), Verbesserter Angriff (x4), Verbesserter Schaden (x4), Verbesserte Verteidigung (x4), Verbesserte Erschöpfung (x2), Verbesserte Initiative (x4), Verbesserte Kräfte (x2), Verbesserte Erholung, Verbesserte Absorption (x8); Anfällig für Entbehrung; Reduzierte Macht (x18)
 
 **Persönlichkeitseigenschaften:** Habgierig\* +6, Wissbegierig +4, Selbstsüchtig +4, Gefühlskalt +3
 
@@ -4864,7 +4864,7 @@ Arkliss verwendete 1 Meisterschaftspunkt ihrer Qualität Verbesserte Kräfte fü
 
 *Große Zähne:* Init +4, Ang +21, Vert +17, Sch +21
 
-**Schadensabsorption:** +24
+**Absorption:** +24
 
 **Erschöpfungsstufen:** OK, 0/0, –1/–1, –2, –4, Bewusstlos
 
@@ -4923,7 +4923,7 @@ Polymathes ist von Gier nach Schätzen genauso verzehrt wie jeder seinesgleichen
 >
 >**Tugenden und Fehler:** Magisches Tier; Magisches Ungeheuer; Ausdauernde Konstitution, Hervorragende Ausdauer (x2), Begabung in Raufen, Selbstbewusst, Zäh; Essenzieller Fehler (habgierig, groß)
 >
->**Magische Qualitäten und Mängel:** Große Macht; Sprachbegabung, Verbesserte Erschöpfung (x2), Verbesserte Verteidigung (x4), Verbesserte Kräfte, Verbesserte Schadensabsorption (x6), Persönliche Kraft (x2); Anfällig für Entbehrung
+>**Magische Qualitäten und Mängel:** Große Macht; Sprachbegabung, Verbesserte Erschöpfung (x2), Verbesserte Verteidigung (x4), Verbesserte Kräfte, Verbesserte Absorption (x6), Persönliche Kraft (x2); Anfällig für Entbehrung
 >
 >**Persönlichkeitseigenschaften:** Habgierig\* +6, Wild +4, Eifersüchtig +4
 >
@@ -4935,7 +4935,7 @@ Polymathes ist von Gier nach Schätzen genauso verzehrt wie jeder seinesgleichen
 >
 >*Große Zähne:* Init –2, Ang +13, Vert +10, Sch +13
 >
->**Schadensabsorption:** +19
+>**Absorption:** +19
 >
 >**Erschöpfungsstufen:** OK, 0/0, 0/0, –2, –4, Bewusstlos
 >
@@ -5003,7 +5003,7 @@ Im Folgenden werden einige Beispiele für Tiere aufgeführt, die sich durch den 
 
 *Zähne*: Init +4, Ang +8, Vert +7, Sch –6
 
-**Schadensabsorption:** +1
+**Absorption:** +1
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 
@@ -5041,7 +5041,7 @@ Der Bonisagus-Magus Yonnlius, derzeit ein Meister im Rheintribunal, behauptet, d
 
 **Kampf:**
 
-*Biss*: Init +2, Ang +8, Vert +7, Sch +1 **Schadensabsorption:** +2
+*Biss*: Init +2, Ang +8, Vert +7, Sch +1 **Absorption:** +2
 
 **Erschöpfungsstufen:** OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -5089,7 +5089,7 @@ Schlechtes Sehvermögen
 
 *Biss*: Init +8, Ang +7, Vert +5, Sch –17
 
-**Schadensabsorption:** +1
+**Absorption:** +1
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 
@@ -5311,7 +5311,7 @@ In den meisten Fällen sollten Riesen mindestens eine Sprache sprechen können u
 
 Alle Riesen müssen die Große Qualität Gigantisch nehmen; Riesen größer als Größe +2 sollten sie mehrfach nehmen. Der Riese muss mit einem ausreichend hohen Machtwert erschaffen werden, damit er genügend Qualitäten besitzt, um die gewünschte Größe zu erreichen. (Gigantisch mehrfach zu nehmen kann kostspielig sein.)
 
-Weitere häufige Qualitäten für Riesen sind Tugenden, die Stärke oder Zähigkeit verleihen, verbesserte Kampfwerte (insbesondere Schadensabsorption) und gelegentlich Kräfte, die mit Erde und Stein zusammenhängen.
+Weitere häufige Qualitäten für Riesen sind Tugenden, die Stärke oder Zähigkeit verleihen, verbesserte Kampfwerte (insbesondere Absorption) und gelegentlich Kräfte, die mit Erde und Stein zusammenhängen.
 
 #### Letzte Schritte
 
@@ -5343,7 +5343,7 @@ Die Persönlichkeitseigenschaften eines Riesen können ein gutes Mittel sein, um
 >
 >**Tugenden und Fehler:** Magischer Mensch; Zäh, Krieger; Jähzornig (klein), Willensschwach
 >
->**Magische Qualitäten und Mängel:** Gigantisch (x4); Verbesserte Schadensabsorption; Anfällig für Entbehrung
+>**Magische Qualitäten und Mängel:** Gigantisch (x4); Verbesserte Absorption; Anfällig für Entbehrung
 >
 >**Persönlichkeitseigenschaften:** Tölpelhaft +3
 >
@@ -5355,7 +5355,7 @@ Die Persönlichkeitseigenschaften eines Riesen können ein gutes Mittel sein, um
 >
 >*Stein:* Init -3, Ang +7, Vert +2, Sch +14
 >
->**Schadensabsorption:** +9
+>**Absorption:** +9
 >
 >**Wundabzüge:** –1 (1–10), –3 (11–20), –5 (21–30), Kampfunfähig (31-40), Tot (41+)
 >
@@ -5399,7 +5399,7 @@ Die Persönlichkeitseigenschaften eines Riesen können ein gutes Mittel sein, um
 
 *Ringen:* Init 0, Ang +11, Vert +9, Sch n/v
 
-*Faust:* Init 0, Ang +10, Vert +8, Sch +6 **Schadensabsorption:** +9
+*Faust:* Init 0, Ang +10, Vert +8, Sch +6 **Absorption:** +9
 
 **Wundabzüge:** –1 (1–7), –3 (8–14), –5 (16–21), Kampfunfähig (22+), Tot (29+)
 
@@ -5427,7 +5427,7 @@ ReTe 30 (Basis 5, +2 Sonne, +2 Metall betreffen, +1 kontinuierlicher Effekt): Mi
 
 Barcas hält sich für einen unbesiegbaren Ringer und verkündet seine Fähigkeiten lautstark jedem, der zuhören will. Er liebt einen guten Kampf und nimmt begierig jede Herausforderung eines Kriegers oder Ringers an. Barcas verachtet Waffen als Dinge für „winzige kleine Leute", hat aber nichts dagegen, wenn sein Gegner welche verwenden will; er fühlt sich seiner magischen Kraft völlig sicher.
 
-Barcas genießt eine nahezu vollständige Immunität gegen Metallwaffen. Er hat nur eine kleine verwundbare Stelle, direkt unter dem Brustbein. Wenn ein Angreifer diese Schwäche kennt und seine Angriffe gezielt darauf konzentriert, erleidet er einen Abzug von –3 auf den Angriff, kann aber vollen normalen Schaden verursachen, wobei sowohl Barcas' magische Unverwundbarkeit als auch seine Terram-Resistenz umgangen werden. Zauber und nichtmetallische Waffen können Barcas normal verletzen; seine Terram-Resistenz verleiht ihm einen Schadensabsorptionsbonus gegen Metallwaffen, die seine Magieresistenz durchdringen.
+Barcas genießt eine nahezu vollständige Immunität gegen Metallwaffen. Er hat nur eine kleine verwundbare Stelle, direkt unter dem Brustbein. Wenn ein Angreifer diese Schwäche kennt und seine Angriffe gezielt darauf konzentriert, erleidet er einen Abzug von –3 auf den Angriff, kann aber vollen normalen Schaden verursachen, wobei sowohl Barcas' magische Unverwundbarkeit als auch seine Terram-Resistenz umgangen werden. Zauber und nichtmetallische Waffen können Barcas normal verletzen; seine Terram-Resistenz verleiht ihm einen Absorptionsbonus gegen Metallwaffen, die seine Magieresistenz durchdringen.
 
 ### Nordische Riesen und Trolle
 
@@ -5477,7 +5477,7 @@ Mit den Jotunnar verwandt ist ein Geschlecht skandinavischer **Trolle**. Der Beg
 
 **Tugenden und Fehler:** Magischer Mensch; Arkanes Wissen, Berserker, Kraftreserven; Habgierig (groß)
 
-**Magische Qualitäten und Mängel:** Fokussierte Macht, Gigantisch (x3), Große Macht; Auram-Resistenz, Verbesserte Macht (x3), Verbesserte Kräfte, Verbesserte Schadensabsorption (x3), Kleine Tugend (Mindere Immunität gegen Blitz), Persönliche Kraft
+**Magische Qualitäten und Mängel:** Fokussierte Macht, Gigantisch (x3), Große Macht; Auram-Resistenz, Verbesserte Macht (x3), Verbesserte Kräfte, Verbesserte Absorption (x3), Kleine Tugend (Mindere Immunität gegen Blitz), Persönliche Kraft
 
 **Persönlichkeitseigenschaften:** Habgierig +6, Wütend +3, Gewalttätig +2
 
@@ -5491,7 +5491,7 @@ Mit den Jotunnar verwandt ist ein Geschlecht skandinavischer **Trolle**. Der Beg
 
 \* *Addiere +2 auf Angriff und –2 auf Verteidigung, wenn Rok im Berserkerrausch ist*
 
-**Schadensabsorption:** +14 (+16 im Berserkerrausch)
+**Absorption:** +14 (+16 im Berserkerrausch)
 
 **Wundabzüge:** –1 (1–9), –3 (10–18), –5 (19–28), Kampfunfähig (28-26), Tot (37+)
 
@@ -5588,7 +5588,7 @@ Der Spielleiter sollte über die Kräfte des Geistes entscheiden. Mit Zustimmung
 
 *Wurfmesser:* Init –1, Ang +5, Vert +4, Sch +3
 
-**Schadensabsorption:** +2
+**Absorption:** +2
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 
@@ -5685,7 +5685,7 @@ Einige wenige Magi haben die Magie verbannter Atlantier studiert; ein Magus mit 
 >
 >*Ausweichen:* Init 0, Angriff n/v, Verteidigung +3, Schaden n/v
 >
->**Schadensabsorption:** +3
+>**Absorption:** +3
 >
 >**Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 >
@@ -5801,7 +5801,7 @@ MuHe(Co) 25 (Basis 5, +2 Sonne, +2 Größe): Persönliche Kraft x2 (25 Stufen, �
 
 **Wandel unter den Ahnen** 1 Punkt, Init (Sck – 4), Herbam R: Per, D: Mom, T: Ind
 
-Der Charakter kann in die Herbam-Provinz der Dämmerungsleere blicken und durch das Relikt eines Baumes hindurchgehen, um andere an einen anderen Ort zu führen, was ihm einen Bonus auf sein Relikt-Reisen von +18 verleiht.
+Der Charakter kann in die Herbam-Provinz der Zwielichtleere blicken und durch das Relikt eines Baumes hindurchgehen, um andere an einen anderen Ort zu führen, was ihm einen Bonus auf sein Relikt-Reisen von +18 verleiht.
 
 InHe 35 (Basis 25, +2 Größe): Große Macht (35 Stufen, –3 Machtkosten)
 
@@ -5949,7 +5949,7 @@ MuCo(Te) 15 (Basis 3, +2 Sonne, +1 konstant, +1 Requisit): Persönliche Kraft (1
 
 **Haut aus Stein** 0 Punkte, konstant, Terram R: Per, D: Sonne, T: Ind
 
-Der Charakter wird widerstandsfähiger gegen Schaden und erhält einen +1-Bonus auf die Schadensabsorption und einen –1-Abzug auf die Initiative für je 10 Jahre seines Alters oder jede Magnitude seines Machtwerts.
+Der Charakter wird widerstandsfähiger gegen Schaden und erhält einen +1-Bonus auf die Absorption und einen –1-Abzug auf die Initiative für je 10 Jahre seines Alters oder jede Magnitude seines Machtwerts.
 
 MuCo 15 (Basis 4, +2 Sonne, +1 konstant): Persönliche Kraft (15 Stufen, –2 Machtkosten, Variable Kräfte)
 
@@ -6035,7 +6035,7 @@ Die physischen Werte eines Wiedergängers können auch für Leichname verwendet 
 
 >## Option: Widerstand gegen stechende Waffen
 >
->Stechende Waffen wie Speere und Pfeile sind gegen Lebende wirksam, aber möglicherweise weniger gegen die wandelnden Toten. Solche Waffen brechen kaum Knochen oder hacken Gliedmaßen ab. Die Spieltruppe kann Wiedergängern einen zusätzlichen Schadensabsorptionsbonus von +10 gegen solche Waffen gewähren, oder sie einfach für völlig unwirksam erklären.
+>Stechende Waffen wie Speere und Pfeile sind gegen Lebende wirksam, aber möglicherweise weniger gegen die wandelnden Toten. Solche Waffen brechen kaum Knochen oder hacken Gliedmaßen ab. Die Spieltruppe kann Wiedergängern einen zusätzlichen Absorptionsbonus von +10 gegen solche Waffen gewähren, oder sie einfach für völlig unwirksam erklären.
 
 >**Ars Magica** Fünfte Edition unterscheidet Waffen nicht formal in Kategorien wie „stechend", daher muss die Spieltruppe, wenn sie diese Option verwendet, gelegentlich nach eigenem Ermessen entscheiden, ob eine Waffe als stechende Waffe zählt.
 
@@ -6045,7 +6045,7 @@ Wandelnde Tote verlieren gewöhnlich den Großteil ihrer Erinnerungen aus dem Le
 
 Daher sind die meisten von ihnen Frühlings- oder Sommer-Charaktere. Sie neigen dazu, Fertigkeiten zu behalten, die mit ihren sterblichen Bindungen zusammenhängen. Sie sollten gemäß den Regeln für Magische Menschen in Kapitel 4: Magische Charaktere gestaltet werden.
 
-Wiedergänger sind unermüdliche und unaufhaltsame Gegner. Sie sind immun gegen Erschöpfung und Schmerz; da sie kein Blut oder lebenswichtige Organe benötigen, können sie Wunden ignorieren, die für einen Lebenden tödlich wären. Die Qualitäten Keine Erschöpfung und Verbesserte Schadensabsorption (siehe Kapitel 4: Magische Charaktere, Qualitäten und Mängel) repräsentieren diese übernatürliche Widerstandskraft. Außerdem sind manche Wiedergänger stärker als lebende Menschen.
+Wiedergänger sind unermüdliche und unaufhaltsame Gegner. Sie sind immun gegen Erschöpfung und Schmerz; da sie kein Blut oder lebenswichtige Organe benötigen, können sie Wunden ignorieren, die für einen Lebenden tödlich wären. Die Qualitäten Keine Erschöpfung und Verbesserte Absorption (siehe Kapitel 4: Magische Charaktere, Qualitäten und Mängel) repräsentieren diese übernatürliche Widerstandskraft. Außerdem sind manche Wiedergänger stärker als lebende Menschen.
 
 Wenn die wandelnden Toten zur Gewalt greifen, verlassen sie sich gewöhnlich auf unbewaffnete Angriffe, aber sie können Waffen und Rüstungen benutzen, wenn der Spielleiter sie gefährlicher gestalten möchte.
 
@@ -6059,7 +6059,7 @@ Wiedergänger sind schwer mit Waffen zu verletzen. Insbesondere können sie nich
 
 Perdo-Corpus-Zauber, die darauf ausgelegt sind, Lebende zu treffen, haben oft keine Wirkung auf Wiedergänger, da deren Körper bereits tot sind. Zauber, die gezielt Knochen brechen oder Gliedmaßen zerstören, behindern sie nicht so sehr wie Lebende, können aber nach Ermessen des Spielleiters Wundabzüge verursachen. Zum Beispiel könnte ein gebrochenes Bein einen Wiedergänger beeinflussen, als wäre es eine Leichte Wunde. Perdo-Corpus-Zauber können natürlich gezielt für die Bekämpfung der ruhelosen Toten entwickelt werden.
 
-Verschiedene Legenden berichten von besonderen Methoden, mit denen Helden die wandelnden Toten vernichten können. In bestimmten isländischen Sagas konnte ein *Draug* (Wiedergänger) vernichtet werden, indem man ihm den Kopf abschlug und ihn zwischen seine Schenkel legte. In einer Geschichte aus Yorkshire konnten Wiedergänger durch Pfähle, die man durch ihre Herzen trieb, vernichtet werden. Ein Charakter, der die richtige Methode kennt, sollte einen regulären Nahkampfangriff ausführen. Wenn der Angriff eine Kampfunfähig machende oder tödliche Wunde verursacht hätte, bevor die Qualität Verbesserte Schadensabsorption des Wiedergängers berücksichtigt wird, und wenn der Angriff mit der richtigen Waffe ausgeführt wurde (zum Beispiel einem Holzpfahl, wenn dies die Art ist, diesen bestimmten Wiedergänger zu vernichten), dann wird der belebende Geist des Wiedergängers zerstört und das Vis im Leichnam bleibt zurück. Das Erlernen der Methode zur Vernichtung eines Wiedergängers kann eine Geschichte erfordern, oder wenn der Spielleiter es vorzieht, kann sie einen Schwierigkeitsgrad von 9 für einen Wurf auf Intelligenz + Magiekunde festlegen.
+Verschiedene Legenden berichten von besonderen Methoden, mit denen Helden die wandelnden Toten vernichten können. In bestimmten isländischen Sagas konnte ein *Draug* (Wiedergänger) vernichtet werden, indem man ihm den Kopf abschlug und ihn zwischen seine Schenkel legte. In einer Geschichte aus Yorkshire konnten Wiedergänger durch Pfähle, die man durch ihre Herzen trieb, vernichtet werden. Ein Charakter, der die richtige Methode kennt, sollte einen regulären Nahkampfangriff ausführen. Wenn der Angriff eine Kampfunfähig machende oder tödliche Wunde verursacht hätte, bevor die Qualität Verbesserte Absorption des Wiedergängers berücksichtigt wird, und wenn der Angriff mit der richtigen Waffe ausgeführt wurde (zum Beispiel einem Holzpfahl, wenn dies die Art ist, diesen bestimmten Wiedergänger zu vernichten), dann wird der belebende Geist des Wiedergängers zerstört und das Vis im Leichnam bleibt zurück. Das Erlernen der Methode zur Vernichtung eines Wiedergängers kann eine Geschichte erfordern, oder wenn der Spielleiter es vorzieht, kann sie einen Schwierigkeitsgrad von 9 für einen Wurf auf Intelligenz + Magiekunde festlegen.
 
 Mittelalterliche Erzählungen und Illustrationen zeigen sowohl leichenartige wandelnde Tote als auch belebte Skelette. Das Wort „Zombie" stammt aus der Neuen Welt (Haiti) und würde von Charakteren im Mythischen Europa nicht verwendet.
 
@@ -6067,7 +6067,7 @@ Mittelalterliche Erzählungen und Illustrationen zeigen sowohl leichenartige wan
 
 Zauberer können Leichname mithilfe von Rego-Corpus-Zaubern (oder bestimmten nicht-hermetischen Kräften) beleben. Solche Leichname verwenden dieselben Werte wie ein Wiedergänger, mit folgenden Änderungen:
 
-Er besitzt die Qualitäten Keine Erschöpfung und Verbesserte Schadensabsorption, die im Charakterleitfaden aufgeführt sind, aber keine anderen Qualitäten, Tugenden oder eigenen Kräfte.
+Er besitzt die Qualitäten Keine Erschöpfung und Verbesserte Absorption, die im Charakterleitfaden aufgeführt sind, aber keine anderen Qualitäten, Tugenden oder eigenen Kräfte.
 
 Ein durch einen Zauber belebter Leichnam hat keinen Machtwert oder Selbstvertrauenswert. Seine Raufen-Fertigkeit beträgt nominell 3, obwohl die Spieltruppe als optionale Regel dem Leichnam eine Raufen-Fertigkeit in Höhe der Finesse des Zaubernden zuweisen kann.
 
@@ -6083,7 +6083,7 @@ Ein durch einen Zauber belebter Leichnam hat keinen Machtwert oder Selbstvertrau
 >
 >**Tugenden und Fehler:** Magischer Mensch
 >
->**Magische Qualitäten und Mängel:** Große Macht, Keine Erschöpfung; Verbesserte Schadensabsorption (x4); Schädliche Umstände (bei Tageslicht)
+>**Magische Qualitäten und Mängel:** Große Macht, Keine Erschöpfung; Verbesserte Absorption (x4); Schädliche Umstände (bei Tageslicht)
 >
 >**Persönlichkeitseigenschaften:** Rachsüchtig +6
 >
@@ -6091,7 +6091,7 @@ Ein durch einen Zauber belebter Leichnam hat keinen Machtwert oder Selbstvertrau
 >
 >*Faust:* Init 0, Angriff +7, Verteidigung +4, Schaden +5
 >
->**Schadensabsorption:** +11
+>**Absorption:** +11
 >
 >**Wundabzüge:** –1 (1–5), –3 (6–10), –5 (11–15), –5 (16–20), Zerstört (21+)
 >
@@ -6141,7 +6141,7 @@ Theurgen behaupten, es müsse einem menschlichen Zauberer möglich sein, seinen 
 >
 >**Tugenden und Fehler:** Magischer Mensch; Schwache Eigenschaften (x2)
 >
->**Magische Qualitäten und Mängel:** Keine Erschöpfung; Verbesserte Schadensabsorption (x3), Mindere Macht; Schädliche Umstände (bei Tageslicht)
+>**Magische Qualitäten und Mängel:** Keine Erschöpfung; Verbesserte Absorption (x3), Mindere Macht; Schädliche Umstände (bei Tageslicht)
 >
 >**Persönlichkeitseigenschaften:** Rachsüchtig +3
 >
@@ -6149,7 +6149,7 @@ Theurgen behaupten, es müsse einem menschlichen Zauberer möglich sein, seinen 
 >
 >*Knöcherne Klauen:* Init +2, Angriff +8, Verteidigung +8, Schaden +2
 >
->**Schadensabsorption:** +9
+>**Absorption:** +9
 >
 >**Wundabzüge:** –1 (1–3), –3 (4–6), –5 (7–9), –5 (10–12), Zerstört (13+)
 >
@@ -6171,13 +6171,13 @@ Theurgen behaupten, es müsse einem menschlichen Zauberer möglich sein, seinen 
 >
 >Ein menschliches Skelett wiegt weit weniger als ein lebender Mensch, daher hat ein belebtes Skelett die Größe –2.
 
-### Magi in der Endgültigen Dämmerung
+### Magi im Endgültigen Zwielicht
 
-Magi, die in die Endgültige Dämmerung eintreten, verschwinden gewöhnlich aus der Welt und werden nie mehr gehört. In einigen Fällen können sie jedoch durch geheimnisvolle Kräfte in etwas völlig Unmenschliches verwandelt werden. Bjornaer-Magi beispielsweise nehmen dauerhaft die Gestalt ihres Herztiers an und können zu magischen Großen Bestien werden (siehe *Häuser des Hermes: Mysterienkulte*, Seite 24). Unbestätigte Gerüchte innerhalb des Ordens berichten davon, dass mächtige Magi von jenseits der Dämmerung die Lebenden durch Träume oder Visionen kontaktieren.
+Magi, die in das Endgültige Zwielicht eintreten, verschwinden gewöhnlich aus der Welt und werden nie mehr gehört. In einigen Fällen können sie jedoch durch geheimnisvolle Kräfte in etwas völlig Unmenschliches verwandelt werden. Bjornaer-Magi beispielsweise nehmen dauerhaft die Gestalt ihres Herztiers an und können zu magischen Großen Bestien werden (siehe *Häuser des Hermes: Mysterienkulte*, Seite 24). Unbestätigte Gerüchte innerhalb des Ordens berichten davon, dass mächtige Magi von jenseits des Zwielichts die Lebenden durch Träume oder Visionen kontaktieren.
 
-In seltenen Fällen und nach Ermessen des Spielleiters kann ein Magus, der in die Endgültige Dämmerung eintritt, sich in eine Magische Kreatur oder einen Geist verwandeln. Ein solcher Magus wird buchstäblich zu einem Magischen Wesen mit Machtwert, verliert aber die Fähigkeit, hermetische Magie zu wirken. Die Verwandlung kann mit den magischen Spezialisierungen des Magus zusammenhängen: seinen Hermetischen Tugenden (und Fehlern) oder bevorzugten Künsten. Zum Beispiel könnte ein Magus mit einem Magischen Fokus auf Stürme unter den richtigen mystischen Umständen in die Endgültige Dämmerung eintreten und zu einem Elementargeist der Luft werden.
+In seltenen Fällen und nach Ermessen des Spielleiters kann ein Magus, der in das Endgültige Zwielicht eintritt, sich in eine Magische Kreatur oder einen Geist verwandeln. Ein solcher Magus wird buchstäblich zu einem Magischen Wesen mit Machtwert, verliert aber die Fähigkeit, hermetische Magie zu wirken. Die Verwandlung kann mit den magischen Spezialisierungen des Magus zusammenhängen: seinen Hermetischen Tugenden (und Fehlern) oder bevorzugten Künsten. Zum Beispiel könnte ein Magus mit einem Magischen Fokus auf Stürme unter den richtigen mystischen Umständen in das Endgültige Zwielicht eintreten und zu einem Elementargeist der Luft werden.
 
-Der Machtwert eines durch Dämmerung verwandelten Magus sollte im Allgemeinen zwischen 20 und 40 liegen. Je nach Art der Verwandlung kann es angemessen sein, den Machtwert gleich (5 x relevanter Fertigkeitswert) oder (relevanter Kunstwert) zu setzen. Bjornaer-Große-Bestien haben zum Beispiel einen Machtwert gleich (5 x Herztier). Welche Kunst oder Fertigkeit relevant ist, sollte basierend auf der spezifischen Verwandlung entschieden werden.
+Der Machtwert eines durch Zwielicht verwandelten Magus sollte im Allgemeinen zwischen 20 und 40 liegen. Je nach Art der Verwandlung kann es angemessen sein, den Machtwert gleich (5 x relevanter Fertigkeitswert) oder (relevanter Kunstwert) zu setzen. Bjornaer-Große-Bestien haben zum Beispiel einen Machtwert gleich (5 x Herztier). Welche Kunst oder Fertigkeit relevant ist, sollte basierend auf der spezifischen Verwandlung entschieden werden.
 
 # Kapitel Sieben: Magische Geister
 
@@ -7074,7 +7074,7 @@ Geister können für jede Jahreszeit entworfen werden. Wie lebende Menschen kön
 
 *Nur Langschwert:* Init +2, Ang +12, Vert +9, Sch +8
 
-**Schadensabsorption:** +10
+**Absorption:** +10
 
 **Erschöpfungsstufen:** OK, –1, –3, –5, Bewusstlos
 
@@ -7167,7 +7167,7 @@ Im Allgemeinen hält der magische Effekt des besonderen Vis so lange an, wie das
 >
 >### Der verzerrte Zauberer
 >
->Ein Magus mit hoher Parma Magica entdeckt mehrere Bauern außergewöhnliches Schwefel-Vim-Vis und tauscht es an einen jüngeren Magus mit schwächerer Parma Magica. Der Magus verfällt in die Dämmerung des Zauberers. Als er zurückkehrt, erhebt er Anklage gegen den älteren Magus beim nächsten Tribunal.
+>Ein Magus mit hoher Parma Magica entdeckt mehrere Bauern außergewöhnliches Schwefel-Vim-Vis und tauscht es an einen jüngeren Magus mit schwächerer Parma Magica. Der Magus verfällt ins Zwielicht des Zauberers. Als er zurückkehrt, erhebt er Anklage gegen den älteren Magus beim nächsten Tribunal.
 
 #### Spähglas aus Intellego
 
@@ -7357,7 +7357,7 @@ Wenn Zweckgebundenes Vis verwendet wird, um einen Zauber mit der passenden Kombi
 
 Ein Magus, der Zweckgebundenes Vis studiert, kann Erfahrung in jeder der passenden
 
-Künste für das Zweckgebundene Vis erlangen. Jeder Bauer Zweckgebundenes Vis wird als 2 Bauern behandelt, wenn die Mindestanzahl bestimmt wird, die für den Kunstwert des Magus benötigt wird. Um die Quellenqualität für das Vis zu bestimmen, macht der Spieler zuerst einen Stresswurf und addiert den entsprechenden Aurabonus, und dann wird die Summe durch 2 geteilt; diese Zahl ist die Quellenqualität für die Technik und Form des Zweckgebundenen Vis. Wenn der Stresswurf doppelt patzt, verfällt der Magus in die Dämmerung des Zauberers. Die Anzahl der Patzerwürfel entspricht der doppelten Anzahl der studierten Bauern Zweckgebundenen Vis.
+Künste für das Zweckgebundene Vis erlangen. Jeder Bauer Zweckgebundenes Vis wird als 2 Bauern behandelt, wenn die Mindestanzahl bestimmt wird, die für den Kunstwert des Magus benötigt wird. Um die Quellenqualität für das Vis zu bestimmen, macht der Spieler zuerst einen Stresswurf und addiert den entsprechenden Aurabonus, und dann wird die Summe durch 2 geteilt; diese Zahl ist die Quellenqualität für die Technik und Form des Zweckgebundenen Vis. Wenn der Stresswurf doppelt patzt, verfällt der Magus ins Zwielicht des Zauberers. Die Anzahl der Patzerwürfel entspricht der doppelten Anzahl der studierten Bauern Zweckgebundenen Vis.
 
 Ein Magus kann gleichzeitig aus Zweckgebundenem und normalem Vis studieren. Der Magus muss mindestens 1 Bauer Zweckgebundenes Vis für jeden Bauer normalen Vis besitzen. Die Quellenqualität wird wie üblich bestimmt und die Summe durch 2 geteilt. In der Tat kann der Magus zwei Künste gleichzeitig studieren, tut dies aber mit nur halber Effektivität im Vergleich zum separaten Studium jeder Kunst.
 
@@ -7563,7 +7563,7 @@ Der Veredelungsprozess erfordert die Beschaffung einer Menge reinen Öls, wahrsc
 
 #### Ovum Anguinum
 
-Ein Schlangenei oder Ovum Anguinum der Tugend ist ein blasser, nahezu kugelförmiger, geformter Stein mit einem regelmäßigen Muster kleiner Erhebungen auf der Oberfläche. Er kann durch die Kleine Allgemeine Tugend Verbesserte Eigenschaften (Ausdauer +2) (**ArM5**, Seite 43) Schutz vor Gift und Krankheit verleihen. Eine Abwandlung des Veredelungsprozesses kann alternativ Verbesserte Kommunikation (+2) verleihen, die dem Träger zu Erfolg in Rechtsstreitigkeiten und Ähnlichem verhilft. Eine weitere Variante verleiht die Kleine Allgemeine Tugend Zäh, die +3 auf die Schadensabsorption gibt (**ArM5**, Seite 49). Vor der Veredelung enthält der Stein 2 Bauern Creo-Vis.
+Ein Schlangenei oder Ovum Anguinum der Tugend ist ein blasser, nahezu kugelförmiger, geformter Stein mit einem regelmäßigen Muster kleiner Erhebungen auf der Oberfläche. Er kann durch die Kleine Allgemeine Tugend Verbesserte Eigenschaften (Ausdauer +2) (**ArM5**, Seite 43) Schutz vor Gift und Krankheit verleihen. Eine Abwandlung des Veredelungsprozesses kann alternativ Verbesserte Kommunikation (+2) verleihen, die dem Träger zu Erfolg in Rechtsstreitigkeiten und Ähnlichem verhilft. Eine weitere Variante verleiht die Kleine Allgemeine Tugend Zäh, die +3 auf die Absorption gibt (**ArM5**, Seite 49). Vor der Veredelung enthält der Stein 2 Bauern Creo-Vis.
 
 Der Veredelungsprozess erfordert, dass man sich zur Sommersonnenwende an einen Ort begibt, an dem sich Schlangen versammeln und umeinander winden. Während die Schlangen sich winden, bildet sich ein Schaumball, der in die Luft aufsteigt. Wenn man hochspringen und diesen in einem Tuch auffangen kann, bevor er zu Boden fällt, ihn dann über einen Fluss trägt, den die Schlangen nicht durchschwimmen können, und den Stein einen Monat lang im Schaum aufbewahrt, ist der Prozess abgeschlossen. Den richtigen Ort zu finden und den Vorgang durchzuführen, sollte ungefähr ein Quartal dauern.
 
@@ -7670,7 +7670,7 @@ Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-V
 >
 >*Ast:* Init +5, Ang +7, Vert +1, Sch +10
 >
->**Schadensabsorption:** +15
+>**Absorption:** +15
 >
 >**Wundabzüge:** –1 (1–10), –3 (11–20), –5 (21–30), Kampfunfähig (31-40), Tot (41+)
 >
@@ -7704,7 +7704,7 @@ Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-V
 >
 >*Ausweichen:* Init +6, Ang n/v, Vert +9, Sch n/v
 >
->**Schadensabsorption:** +2
+>**Absorption:** +2
 >
 >**Erschöpfungsstufen:** n/v
 >
@@ -7772,7 +7772,7 @@ Macht: *Umhang der Entenfedern*, Mindere Macht: *Bleiche die Spuren der Reise*, 
 
 *Umhang (nicht-letal):* Init +1, Ang +2, Vert +2, Sch –3
 
-**Schadensabsorption:** +6
+**Absorption:** +6
 
 **Wundabzüge**: –1 (1–4), –3 (5–8), –5 (9–12), Kampfunfähig (13+)
 
@@ -7832,7 +7832,7 @@ Der hier beschriebene Kelpie ist eine magische Kreatur, die mit tiefen Tümpeln 
 
 **Tugenden und Fehler:** Magisches Ding; Wildheit, Blitzreflexe, Zäh; Magisches Ungeheuer
 
-**Qualitäten und Mängel:** Große Macht; Verbesserter Angriff (x5), Verbesserter Schaden (x4), Verbesserte Verteidigung (x4), Verbesserte Initiative (x2), Verbesserte Schadensabsorption (x3), Mindere Macht (x2)
+**Qualitäten und Mängel:** Große Macht; Verbesserter Angriff (x5), Verbesserter Schaden (x4), Verbesserte Verteidigung (x4), Verbesserte Initiative (x2), Verbesserte Absorption (x3), Mindere Macht (x2)
 
 **Persönlichkeitseigenschaften:** Wild +3, Verlockend +1 **Reputationen:** Schwarzes Pferd auf der Straße 3 (lokal) **Kampf:** (Natürliche Gestalt)
 
@@ -7844,7 +7844,7 @@ Der hier beschriebene Kelpie ist eine magische Kreatur, die mit tiefen Tümpeln 
 
 *Tritt:* Init –1, Ang +8, Vert +6, Sch +7
 
-**Schadensabsorption:** +11
+**Absorption:** +11
 
 **Erschöpfungsstufen:** n/v.
 
@@ -8087,7 +8087,7 @@ PeAq 15 (Basis 5, +1 Berührung, +1 Teil): Große Macht (15 Stufen, –1 Machtko
 >
 >\*Einschließlich Wege der Höhle
 >
->**Schadensabsorption:** +9 (zusätzlich +2 im Berserkerzustand)
+>**Absorption:** +9 (zusätzlich +2 im Berserkerzustand)
 >
 >**Wundabzüge:** –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 >
@@ -8169,7 +8169,7 @@ InIm 20 (Basis 1, +4 Arkane Verbindung, +1 Konz, +2 Raum): Mindere Macht (20 Stu
 >
 >\*Einschließlich Wege des Flusses
 >
->**Schadensabsorption:** +6
+>**Absorption:** +6
 >
 >**Wundabzüge:** –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 >
@@ -8249,7 +8249,7 @@ CrAu 30 (Basis 5, +1 Berührung, +4 unnatürlich): Große Macht (30 Stufen, –2
 >
 >\* Einschließlich Wege des Sturms
 >
->**Schadensabsorption:** +0
+>**Absorption:** +0
 >
 >**Wundabzüge:** –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 >
@@ -8289,7 +8289,7 @@ Ein Phlegethus der Größe 0 hat die Ausmaße eines typischen Lagerfeuers. Das F
 >
 >**Tugenden und Fehler:** Magisches Ding; Wege des Waldbrands; Schlechtes Gedächtnis, Kurze Aufmerksamkeitsspanne, Einfältig.
 >
->**Magische Qualitäten und Mängel:** Große Macht (Brennen), Große Macht (Faszination), Ritualmacht (Das Rohe Feuer Beleben); Hervorragende Geschicklichkeit, Verbesserte Erholung x2\*, Verbesserte Schadensabsorption x2, Kleine Tugend (Blitzreflexe)
+>**Magische Qualitäten und Mängel:** Große Macht (Brennen), Große Macht (Faszination), Ritualmacht (Das Rohe Feuer Beleben); Hervorragende Geschicklichkeit, Verbesserte Erholung x2\*, Verbesserte Absorption x2, Kleine Tugend (Blitzreflexe)
 >
 >\* Regeneriert Machtpunkte in einem Viertel der Zeit, was für einen Elementar 3 Wochen statt ein Quartal bedeutet. Für einen Elementar mit Machtwert 15 sind das ungefähr 2 Machtpunkte alle 3 Tage.
 >
@@ -8301,7 +8301,7 @@ Ein Phlegethus der Größe 0 hat die Ausmaße eines typischen Lagerfeuers. Das F
 >
 >\* Einschließlich Wege des Waldbrands
 >
->**Schadensabsorption:** +4
+>**Absorption:** +4
 >
 >**Wundabzüge:** –1 & 1 Machtpunkt (1–5), –3 & 3 Machtpunkte (6–10), –5 & 5 Machtpunkte (11–15), Kampfunfähig & 5 Machtpunkte (16–20), Tot & alle Machtpunkte (21+)
 >
@@ -8423,7 +8423,7 @@ Die folgenden Tiere können in jeder **Ars Magica 5th Edition**-Saga verwendet w
 
 **Kampf:**
 
-*Giftzähne:* Init +3, Ang +8, Vert +7\*, Sch –7; \* +6 auf Verteidigung gegen Ringangriffe **Schadensabsorption:** +2
+*Giftzähne:* Init +3, Ang +8, Vert +7\*, Sch –7; \* +6 auf Verteidigung gegen Ringangriffe **Absorption:** +2
 
 **Erschöpfungsstufen:** OK, –1, –3, –5, Bewusstlos **Wundabzüge:** –1 (1), –3 (2), –5 (3), Kampfunfähig (4), Tot (5+)
 
@@ -8431,7 +8431,7 @@ Die folgenden Tiere können in jeder **Ars Magica 5th Edition**-Saga verwendet w
 
 **Kräfte:**
 
-*Giftiger Biss,* 0 Punkte, Init 0. Wenn die Natter angreift, vergleiche ihren Angriffsvorteil mit dem Rüstungsschutz des Opfers (nicht seiner Schadensabsorption). Ist der Vorteil der Natter höher, erleidet das Opfer die Wirkung des Natterngifts gemäß der Gifttabelle auf S. 180 von ArM5, unabhängig davon, ob der Biss eine tatsächliche Wunde verursacht. Der Spielleiter kann den erforderlichen Angriffsvorteil bei besonderen Umständen anpassen: Zum Beispiel könnten hohe Stiefel einen effektiven Rüstungsschutz +3 gegen den Spezialangriff der Natter bieten, auch wenn sie nicht gegen normale Angriffe schützen.
+*Giftiger Biss,* 0 Punkte, Init 0. Wenn die Natter angreift, vergleiche ihren Angriffsvorteil mit dem Rüstungsschutz des Opfers (nicht seiner Absorption). Ist der Vorteil der Natter höher, erleidet das Opfer die Wirkung des Natterngifts gemäß der Gifttabelle auf S. 180 von ArM5, unabhängig davon, ob der Biss eine tatsächliche Wunde verursacht. Der Spielleiter kann den erforderlichen Angriffsvorteil bei besonderen Umständen anpassen: Zum Beispiel könnten hohe Stiefel einen effektiven Rüstungsschutz +3 gegen den Spezialangriff der Natter bieten, auch wenn sie nicht gegen normale Angriffe schützen.
 
 **Natürliche Waffen:** Giftzähne: Init 0, Ang +3, Vert +1, Sch +1.
 
@@ -8465,7 +8465,7 @@ Die Natter neigt dazu, reflexartig anzugreifen, wenn etwas über ihr Versteck st
 
 *Ringen:* Init 0, Ang +7, Vert +5, Sch n/v
 
-**Schadensabsorption:** +10
+**Absorption:** +10
 
 **Erschöpfungsstufen:** OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -8503,7 +8503,7 @@ Laut Plinius dem Älteren schläft der Bärenmann vierzig Tage im Winter und die
 
 *Hauer (Berserker):* Init +1, Ang +12, Vert +7, Sch +7
 
-**Schadensabsorption:** +7
+**Absorption:** +7
 
 **Erschöpfungsstufen:** OK, 0/0, 0/0, –2/–2, –4, Bewusstlos
 
@@ -8539,7 +8539,7 @@ Wildschweine variieren stark in der Größe, von acht Stein (ca. 50 kg) bis übe
 
 *Hörner:* Init 0, Ang +8, Vert +3, Sch +7
 
-**Schadensabsorption:** +8
+**Absorption:** +8
 
 **Erschöpfungsstufen:** OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -8577,7 +8577,7 @@ In Spanien machen die maurischen Adligen an Festtagen ein Schauspiel daraus, Sti
 
 *Zähne:* Init +4, Ang +8, Vert +7, Sch –6
 
-**Schadensabsorption:** +1
+**Absorption:** +1
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos **Wundabzüge:** –1 (1–2), –3 (3–4), –5 (5–6), Kampfunfähig (7–8), Tot (9+)
 
@@ -8611,7 +8611,7 @@ Katzen fliehen im Allgemeinen vor jedem Gegner, der größer ist als sie selbst.
 
 *Schnabel:* Init +6, Ang +6, Vert +9, Sch –5
 
-**Schadensabsorption:** -2
+**Absorption:** -2
 
 **Erschöpfungsstufen:** OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -8645,7 +8645,7 @@ Andere, kleinere Falkenarten haben Größe –4. Alle Falken sind schnelle Flieg
 
 *Hufe:* Init +4, Ang 0, Vert +4, Sch +5
 
-**Schadensabsorption:** +3
+**Absorption:** +3
 
 **Erschöpfungsstufen:** OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -8679,7 +8679,7 @@ Jedes leichte Pferd — Renner, Streitross oder Zelter — erhält +3 auf Würfe
 
 *Hufe:* Init +1, Ang +7, Vert +5, Sch +7
 
-**Schadensabsorption:** +3
+**Absorption:** +3
 
 **Erschöpfungsstufen:** OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
@@ -8713,7 +8713,7 @@ Wie alle Pferde ist das Schlachtross ein schneller Läufer und erhält einen Bon
 
 **Kampf:**
 
-*Biss:* Init +2, Ang +8, Vert +7, Sch +1 **Schadensabsorption:** +2
+*Biss:* Init +2, Ang +8, Vert +7, Sch +1 **Absorption:** +2
 
 **Erschöpfungsstufen:** OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -8751,7 +8751,7 @@ Ein Hundrudel kann als ausgebildete Gruppe unter der Führung eines menschlichen
 
 *Biss:* Init +1, Ang +13, Vert +9, Sch +9
 
-**Schadensabsorption:** +8
+**Absorption:** +8
 
 **Erschöpfungsstufen:** OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -8791,7 +8791,7 @@ Der Löwe kann beeindruckende Sprünge machen und erhält +3 auf sprungbezogene 
 
 *Ausweichen:* Init +2, Ang n/v, Vert +7, Sch n/v
 
-**Schadensabsorption:** +2
+**Absorption:** +2
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
 
@@ -8825,7 +8825,7 @@ Der Rothirsch ist ein bevorzugtes Jagdwild. An manchen Orten darf ihn nur der Ad
 
 *Zähne:* Init +2, Ang +11, Vert +9, Sch 0
 
-**Schadensabsorption:** +4
+**Absorption:** +4
 
 **Erschöpfungsstufen:** OK, 0/0, –1/–1, –3, –5, Bewusstlos
 
