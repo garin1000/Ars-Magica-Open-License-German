@@ -23,7 +23,7 @@
 | Aura | Aura | Sphärische Einfluss­zone; Stärke 1–10 |
 | Aura rating / strength | Aurastärke | Numerischer Wert 1–10 |
 | Aura modifier | Auramodifikator | Modifikator auf übernatürliche Handlungen |
-| Dominion | Dominion / Dominanzsphäre | Göttliche Aura; auch um Kirchengebäude |
+| Dominion | Dominium | Göttliche Aura; auch um Kirchengebäude |
 | Regio | Regio | (Lat.) Verschachtelte Auraebene; f. |
 | Regiones | Regiones | (Lat.) Plural von Regio |
 | Belonging to a realm | Einer Sphäre angehören | Engste Sphärenbindung |
@@ -185,7 +185,7 @@ Lädt sich im Laufe eines Tages gleichmäßig auf den Machtwert auf (z. B. Macht
 | The Magic Realm | Die Magische Sphäre | Die übernatürliche Welt der Magie jenseits der mundänen Welt |
 | Vestige | Relikt | Überrest eines vergangenen Zustands in der Magischen Sphäre |
 | Boundary | Grenze | Übergangszone zwischen Bereichen der Magischen Sphäre |
-| Twilight Void | Dämmerungsleere | Teil der Magischen Sphäre; keine Gewöhnung; mächtige Wesen leben dort |
+| Twilight Void | Zwielichtleere | Teil der Magischen Sphäre; keine Gewöhnung; mächtige Wesen leben dort |
 | Magic Realm Magic | Magie der Magischen Sphäre | Besondere Regeln für Magie innerhalb der Magischen Sphäre |
 
 ### Kreaturentypen / Creature Types

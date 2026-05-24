@@ -598,7 +598,7 @@ Wenn der Heckenzauberer von einem Effekt in seinem Spezialgebiet betroffen ist, 
 
 #### Magische Widerstandskraft
 
-Wenn der Heckenzauberer von einem Effekt in seinem Spezialgebiet betroffen ist, der Schaden verursacht, erhält er seinen Magischen Abwehrbonus auf seine Schadensabsorption.
+Wenn der Heckenzauberer von einem Effekt in seinem Spezialgebiet betroffen ist, der Schaden verursacht, erhält er seinen Magischen Abwehrbonus auf seine Absorption.
 
 #### Stärke der Gestalt
 
@@ -1043,18 +1043,18 @@ Herbeirufen ist eine Elementaristische Kunst, die es dem Charakter ermöglicht, 
 #### Anfällig gegen (Form)
 *Klein, Hermetisch oder Übernatürlich*
 
-Die mystische Verbindung des Elementaristen mit einem bestimmten Element macht ihn anfälliger gegenüber dem entgegengesetzten Element. Du musst die elementare Persönlichkeitseigenschaft des Elements, das seiner gewählten Form entgegengesetzt ist, von der Schadensabsorption des Charakters abziehen. Zum Beispiel würde ein Charakter mit Anfällig gegen Elementaristisches Wasser seine Cholerische Eigenschaft von seiner Schadensabsorption abziehen, wann immer er durch Wasser Schaden erleidet. Darüber hinaus hilft ihm diese Form überhaupt nicht bei Krankheit; addiere die Eigenschaft der gewählten Form nicht zu seinen Genesungswürfen.
+Die mystische Verbindung des Elementaristen mit einem bestimmten Element macht ihn anfälliger gegenüber dem entgegengesetzten Element. Du musst die elementare Persönlichkeitseigenschaft des Elements, das seiner gewählten Form entgegengesetzt ist, von der Absorption des Charakters abziehen. Zum Beispiel würde ein Charakter mit Anfällig gegen Elementaristisches Wasser seine Cholerische Eigenschaft von seiner Absorption abziehen, wann immer er durch Wasser Schaden erleidet. Darüber hinaus hilft ihm diese Form überhaupt nicht bei Krankheit; addiere die Eigenschaft der gewählten Form nicht zu seinen Genesungswürfen.
 
-Dieser Fehler kann als Hermetischer Fehler gewählt werden; in diesem Fall muss der Magus seinen Formbonus für das entgegengesetzte Element von seiner Magieresistenz und Schadensabsorption abziehen, wann immer er von diesem Element magisch beeinflusst oder geschädigt wird. Zum Beispiel muss ein Magus mit Anfällig gegen Terram seinen Wert in Auram als Malus auf seinen Formbonus für Terram behandeln.
+Dieser Fehler kann als Hermetischer Fehler gewählt werden; in diesem Fall muss der Magus seinen Formbonus für das entgegengesetzte Element von seiner Magieresistenz und Absorption abziehen, wann immer er von diesem Element magisch beeinflusst oder geschädigt wird. Zum Beispiel muss ein Magus mit Anfällig gegen Terram seinen Wert in Auram als Malus auf seinen Formbonus für Terram behandeln.
 
 Ein Charakter kann diesen Fehler bis zu viermal wählen, solange jedes Mal eine andere Form gewählt wird. Dieser Fehler darf nur gewählt werden, wenn der Charakter einen Wert in der entgegengesetzten Form besitzt; um also Anfällig gegen Elementaristisches Feuer zu wählen, muss er auch die Tugend Elementaristisches Wasser besitzen.
 
 #### Schwache Elementarresistenz
 *Groß, Hermetisch oder Übernatürlich*
 
-Vielleicht betrachtet der Charakter seine übernatürliche Verbindung zu den vier Elementen als rein akademisch, oder er ist schlicht schwächer darin, sich gegen sie zu verteidigen; aus welchem Grund auch immer, du addierst die elementaren Persönlichkeitseigenschaften des Charakters (Sanguinisch, Melancholisch, Cholerisch und Phlegmatisch) nicht zu seiner Schadensabsorption, wenn er Schaden durch elementare Quellen widersteht, wie unter Elementaristische Verzerrung weiter unten beschrieben.
+Vielleicht betrachtet der Charakter seine übernatürliche Verbindung zu den vier Elementen als rein akademisch, oder er ist schlicht schwächer darin, sich gegen sie zu verteidigen; aus welchem Grund auch immer, du addierst die elementaren Persönlichkeitseigenschaften des Charakters (Sanguinisch, Melancholisch, Cholerisch und Phlegmatisch) nicht zu seiner Absorption, wenn er Schaden durch elementare Quellen widersteht, wie unter Elementaristische Verzerrung weiter unten beschrieben.
 
-Dieser Fehler kann von einem Magus als Hermetischer Fehler gewählt werden; in diesem Fall ist seine Magieresistenz anfällig gegenüber physischem Schaden, der den Elementen entspricht, sowie gegenüber jeglichem Schaden durch Zauber, die mit Aquam, Auram, Ignem und Terram verbunden sind. Unter diesen Umständen wird seine Magieresistenz nicht durch seinen Wert in der entsprechenden Form erhöht, und seine Schadensabsorption wird nicht durch seinen (Formwert / 5) erhöht.
+Dieser Fehler kann von einem Magus als Hermetischer Fehler gewählt werden; in diesem Fall ist seine Magieresistenz anfällig gegenüber physischem Schaden, der den Elementen entspricht, sowie gegenüber jeglichem Schaden durch Zauber, die mit Aquam, Auram, Ignem und Terram verbunden sind. Unter diesen Umständen wird seine Magieresistenz nicht durch seinen Wert in der entsprechenden Form erhöht, und seine Absorption wird nicht durch seinen (Formwert / 5) erhöht.
 
 ## Elementaristische Verzerrung
 
@@ -1066,7 +1066,7 @@ Zum Beispiel: Ein Elementarist mit Elementaristischer Luft 4, Elementaristischem
 
 Jedes Mal, wenn der Verzerrungswert des Charakters steigt oder eine seiner Elementaristischen Formen ein Vielfaches von 5 überschreitet, solltest du diese Persönlichkeitseigenschaften aktualisieren.
 
-Diese Eigenschaften addieren sich auch zur Schadensabsorption des Charakters, wann immer er durch die entsprechenden Elemente Schaden erleidet, wie bei jeder der Künste weiter unten in diesem Kapitel beschrieben. Zum Beispiel: Wenn er direkt durch Stein, Metall, Dreck, Erdelementare oder andere übernatürliche Kreaturen aus Erde Schaden erleidet, addiere die Melancholische Eigenschaft des Elementaristen zu seiner Schadensabsorption. Dies verleiht Elementaristen keine Magieresistenz, macht sie aber besser in der Lage, physischem Schaden durch die Elemente zu widerstehen, auf die gleiche Weise wie Aquam, Auram, Ignem und Terram Magi Boni auf ihre Schadensabsorption gewähren. (Dies ist eine Variante der Magischen Widerstandskraft, die in der Einleitung beschrieben wird.) Ein Nebeneffekt davon ist, dass Charaktere dazu neigen, physische Eigenschaften des betreffenden Elements anzunehmen, ähnlich wie Magi Zwielichtnarben erhalten. Zum Beispiel könnte sich die Haut eines Phlegmatischen Charakters kräuseln oder Spiegelungen zeigen, während ein Melancholischer Charakter schwerer wirken und beim Gehen rumpeln könnte.
+Diese Eigenschaften addieren sich auch zur Absorption des Charakters, wann immer er durch die entsprechenden Elemente Schaden erleidet, wie bei jeder der Künste weiter unten in diesem Kapitel beschrieben. Zum Beispiel: Wenn er direkt durch Stein, Metall, Dreck, Erdelementare oder andere übernatürliche Kreaturen aus Erde Schaden erleidet, addiere die Melancholische Eigenschaft des Elementaristen zu seiner Absorption. Dies verleiht Elementaristen keine Magieresistenz, macht sie aber besser in der Lage, physischem Schaden durch die Elemente zu widerstehen, auf die gleiche Weise wie Aquam, Auram, Ignem und Terram Magi Boni auf ihre Absorption gewähren. (Dies ist eine Variante der Magischen Widerstandskraft, die in der Einleitung beschrieben wird.) Ein Nebeneffekt davon ist, dass Charaktere dazu neigen, physische Eigenschaften des betreffenden Elements anzunehmen, ähnlich wie Magi Zwielichtnarben erhalten. Zum Beispiel könnte sich die Haut eines Phlegmatischen Charakters kräuseln oder Spiegelungen zeigen, während ein Melancholischer Charakter schwerer wirken und beim Gehen rumpeln könnte.
 
 Während der Charakter physischem Schaden gegenüber widerstandsfähiger wird, wird er zugleich anfälliger für Krankheiten und Leiden, die mit den entsprechenden Körpersäften verbunden sind. Du musst den Wert der Eigenschaft von den Genesungswürfen des Charakters abziehen, wann immer er an einer Krankheit des entsprechenden Humors leidet. Eine Eigenschaft, die mit dem entgegengesetzten Element verbunden ist, hilft dem Charakter in diesem Fall; du darfst auch den Wert einer entgegengesetzten Eigenschaft zum Genesungswurf addieren.
 
@@ -1104,7 +1104,7 @@ Die konkreten Anwendungen der Elementaristischen Luft hängen davon ab, mit welc
 
 **Theurgisch**: Elementartheurgen können mit Elementaristischer Luft Luftelementare und andere Kreaturen mit Magischer Macht beeinflussen, die mit Auram verbunden ist. Luftelementare neigen zu hohen geistigen Eigenschaften, aber niedrigen körperlichen Eigenschaften.
 
-Der Charakter addiert seine Sanguinische Eigenschaft zu seiner Schadensabsorption, wann immer er durch das Element Luft Schaden erleidet, einschließlich Erstickung, Einatmen giftiger Gase oder Beeinträchtigung durch mächtige Wetterphänomene wie Wind, Hagelkörner oder Blitze.
+Der Charakter addiert seine Sanguinische Eigenschaft zu seiner Absorption, wann immer er durch das Element Luft Schaden erleidet, einschließlich Erstickung, Einatmen giftiger Gase oder Beeinträchtigung durch mächtige Wetterphänomene wie Wind, Hagelkörner oder Blitze.
 
 ### Elementaristische Erde
 
@@ -1116,7 +1116,7 @@ Elementaristische Erde ist das Studium der übernatürlichen Qualitäten der Erd
 
 **Theurgisch**: Elementartheurgen können Elementaristische Erde einsetzen, um Erdelementare und andere übernatürliche Wesen zu beeinflussen, die mit Terram verbunden sind. Erdelementare haben im Allgemeinen hohe körperliche Eigenschaften, aber niedrige geistige Eigenschaften.
 
-Der Charakter addiert seine Melancholische Eigenschaft zu seiner Schadensabsorption, wann immer er durch das Element Erde Schaden erleidet, einschließlich Erstickung, Verletzungen durch Metall- oder Steinwaffen, Quetschungen oder Stürze auf festen Boden.
+Der Charakter addiert seine Melancholische Eigenschaft zu seiner Absorption, wann immer er durch das Element Erde Schaden erleidet, einschließlich Erstickung, Verletzungen durch Metall- oder Steinwaffen, Quetschungen oder Stürze auf festen Boden.
 
 ### Elementaristisches Feuer
 
@@ -1126,7 +1126,7 @@ Elementaristisches Feuer ist eine Schwierige Kunst, bei der die übernatürliche
 
 **Theurgisch**: Elementartheurgen beeinflussen Feuerelementare und andere übernatürliche Kreaturen, die mit Hitze, Licht und Flammen verbunden sind. Feuerelementare haben typischerweise hohe Werte in Präsenz, Kommunikation, Geschicklichkeit und Schnelligkeit.
 
-Der Charakter addiert seine Cholerische Eigenschaft zu seiner Schadensabsorption, wann immer er durch das Element Feuer Schaden erleidet, einschließlich extremer Temperaturen, blendendem Licht oder brennenden Flammen.
+Der Charakter addiert seine Cholerische Eigenschaft zu seiner Absorption, wann immer er durch das Element Feuer Schaden erleidet, einschließlich extremer Temperaturen, blendendem Licht oder brennenden Flammen.
 
 ### Elementaristisches Wasser
 
@@ -1138,7 +1138,7 @@ Elementaristisches Wasser ist das Studium der übernatürlichen Qualitäten des 
 
 **Theurgisch**: Elementaristisches Wasser ermöglicht es einem Elementartheurgen, Wasserelementare und andere übernatürliche Kreaturen zu beeinflussen, die mit Kälte und Flüssigkeiten verbunden sind. Wasserelementare haben typischerweise hohe Werte in Gerissenheit, Wahrnehmung, Stärke und Ausdauer.
 
-Der Charakter addiert seine Phlegmatische Eigenschaft zu seiner Schadensabsorption, wenn er durch das Element Wasser Schaden erleidet, einschließlich Durst, Ertrinken, Trinken giftiger Flüssigkeiten, Aufprall auf Wasser oder Zerquetschung durch mächtige Wellen.
+Der Charakter addiert seine Phlegmatische Eigenschaft zu seiner Absorption, wenn er durch das Element Wasser Schaden erleidet, einschließlich Durst, Ertrinken, Trinken giftiger Flüssigkeiten, Aufprall auf Wasser oder Zerquetschung durch mächtige Wellen.
 
 ## Elementaristische Techniken
 
@@ -1209,7 +1209,7 @@ Der Elementartheurg kann ein Elementar aus einer Menge reinen Grundmaterials zum
 >
 >Die verbrauchte Macht eines herbeigerufenen Elementars kann wiederhergestellt werden, indem man es mit Vis füttert: Jeder Bauer, den ein Elementar konsumiert, gibt ihm 5 Machtpunkte zurück. Die meisten Elementare bevorzugen es, Vis der Elementaristischen Form zu konsumieren, die ihrer eigenen entgegengesetzt ist, statt der ihrer eigenen Form – d.h. Feuerelementare suchen im Allgemeinen nach Aquam-Vis und verschmähen Ignem-Vis. Dies könnte als eine Art Raubinstinkt gesehen werden, das Element zu jagen, das ihnen am unähnlichsten ist, und als übernatürliches Tabu dagegen, die eigene Art zu verzehren. Elementare werden jedoch bereitwillig Vis jeder Art konsumieren, wenn sie hungrig sind (das heißt, sie haben einen Teil ihrer Macht verbraucht) und es leicht zugänglich ist.
 >
->Elementare sind im Allgemeinen wild und unbezähmbar, wie eine entfesselte Naturgewalt. Wird es nicht in einem Behälter gehalten, ist es nahezu sicher, dass ein Elementar versuchen wird, alles zu zerstören, was ihm in den Weg kommt, einschließlich des Elementaristen, der es herbeigerufen hat. Man kann nicht mit ihnen verhandeln, und obwohl Magieresistenz den Charakter gegen die Kräfte eines Elementars schützen kann, schützt sie nicht gegen seine physischen Angriffe. Magi und Elementaristen haben typischerweise einen Schadensabsorptionsbonus, der ihnen einen gewissen Schutz bietet, aber es ist im Allgemeinen zu gefährlich, ein Elementar einfach ohne Schutzmaßnahmen herbeizurufen.
+>Elementare sind im Allgemeinen wild und unbezähmbar, wie eine entfesselte Naturgewalt. Wird es nicht in einem Behälter gehalten, ist es nahezu sicher, dass ein Elementar versuchen wird, alles zu zerstören, was ihm in den Weg kommt, einschließlich des Elementaristen, der es herbeigerufen hat. Man kann nicht mit ihnen verhandeln, und obwohl Magieresistenz den Charakter gegen die Kräfte eines Elementars schützen kann, schützt sie nicht gegen seine physischen Angriffe. Magi und Elementaristen haben typischerweise einen Absorptionsbonus, der ihnen einen gewissen Schutz bietet, aber es ist im Allgemeinen zu gefährlich, ein Elementar einfach ohne Schutzmaßnahmen herbeizurufen.
 
 ### Beherrschen
 
@@ -1237,7 +1237,7 @@ Elementarmediziner können auch Befehle (wie „Verschwinde!") an übernatürlic
 
 #### Philosophisch
 
-Ein Elementarphilosoph kann die Bewegung natürlicher Materialien mit dem entsprechenden Element beeinflussen, oder organischer Materialien unter Verwendung seiner niedrigsten Form als Requisit. Dies ermöglicht es ihm, seine Schadensabsorption gegen eine bestimmte Art von Schaden zu erhöhen, möglicherweise über den Bonus hinaus, den er natürlich erhält. Er darf seine (Beherrschen-Summe / 5) zu seiner Schadensabsorption gegen das Zielmaterial addieren, solange er die Konzentration aufrechterhält, mindestens eine Kampfrunde.
+Ein Elementarphilosoph kann die Bewegung natürlicher Materialien mit dem entsprechenden Element beeinflussen, oder organischer Materialien unter Verwendung seiner niedrigsten Form als Requisit. Dies ermöglicht es ihm, seine Absorption gegen eine bestimmte Art von Schaden zu erhöhen, möglicherweise über den Bonus hinaus, den er natürlich erhält. Er darf seine (Beherrschen-Summe / 5) zu seiner Absorption gegen das Zielmaterial addieren, solange er die Konzentration aufrechterhält, mindestens eine Kampfrunde.
 
 Der Elementarphilosoph kann auch Tieren eines dem verwendeten Element entsprechenden Temperaments Befehle erteilen, genau wie ein Elementartheurg es mit elementaren Wesen tut, solange seine Beherrschen-Summe sowohl die Größe als auch die Macht des Tieres in der Herbeirufen-Tabelle übersteigt. (Siehe Elementaristische Formen weiter oben in diesem Kapitel für einige Beispiele von Tiertemperamenten für jedes Element.)
 
@@ -1371,7 +1371,7 @@ Im Jahre 1220 sind die Apostel des Apollonius selten, können aber überall im M
 >
 >Kampf:
 >
->Ausweichen: Init -2, Ang n/v, Vert -2, Sch n/v Schadensabsorption: +2 (+7 gegen Luft, -5 gegen Erde)
+>Ausweichen: Init -2, Ang n/v, Vert -2, Sch n/v Absorption: +2 (+7 gegen Luft, -5 gegen Erde)
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -2298,7 +2298,7 @@ Der Zirkel wurde jedoch nicht vollständig zerstört, und Meisterin Greta entkam
 >
 >Messer: Init 0, Angriff +3, Verteidigung +1, Schaden +1
 >
->Schadensabsorption: 0
+>Absorption: 0
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -2336,7 +2336,7 @@ Der Zirkel wurde jedoch nicht vollständig zerstört, und Meisterin Greta entkam
 >
 >Ausweichen: Init −2, Angriff n/v, Verteidigung −2, Schaden n/v
 >
->Schadensabsorption: -1
+>Absorption: -1
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -2376,7 +2376,7 @@ Der Zirkel wurde jedoch nicht vollständig zerstört, und Meisterin Greta entkam
 >
 >Ausweichen: Init −3, Angriff n/v, Verteidigung −2, Schaden n/v
 >
->Schadensabsorption: -2
+>Absorption: -2
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -2427,7 +2427,7 @@ Dieser Hexenzirkel ist zerstritten. Es gibt zwei Begabte Hexen im Zirkel, von de
 >
 >Ausweichen: Init 0, Angriff n/v, Verteidigung +1, Schaden n/v
 >
->Schadensabsorption: +1
+>Absorption: +1
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -2469,7 +2469,7 @@ Dieser Hexenzirkel ist zerstritten. Es gibt zwei Begabte Hexen im Zirkel, von de
 >
 >Ausweichen: Init +1, Angriff n/v, Verteidigung +3, Schaden n/v
 >
->Schadensabsorption: 0
+>Absorption: 0
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -2518,7 +2518,7 @@ Dieser Volkshexen-Zirkel praktiziert eine abgewandelte Tradition, die die Übern
 >
 >Schaden n/v
 >
->Schadensabsorption: +1
+>Absorption: +1
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -2825,7 +2825,7 @@ Diese Tugend verhindert, dass ein Charakter an körperlichen Verletzungen stirbt
 
 Solange die äußere Seele des Charakters intakt ist, kann er nicht enthauptet werden und kein Glied kann ihm abgetrennt werden. Keine Magie und keine physische Kraft kann den Charakter verstümmeln, und er kann keine Wunde erleiden, die zu Kampfunfähigkeit oder Tod führen würde. Wenn die Schadensstabelle ergibt, dass der Charakter den Tod oder eine Lähmende Wunde erleiden würde, sollte der Spielleiter den Schadensbetrag auf mehrere Wundstufen verteilen, bis der gesamte Schaden auf den Charakter angewandt ist.
 
-*Zum Beispiel erleidet Dombnall der Gruagach einen verheerenden Speerstoß, bei dem die Schadenssumme seine Schadensabsorption um 30 Punkte übersteigt. Normalerweise würde dies für Dombnall den sofortigen Tod bedeuten, doch der Gruagach besitzt eine Äußere Seele, weshalb der Spielleiter die Schadensstabelle konsultiert (ArM5, Seite 171) und Dombnalls Spieler mitteilt, dass sein Charakter eine Schwere Wunde und eine Mittelschwere Wunde erlitten hat (18 + 12 = 30, und Dombnall ist Großgewachsen).*
+*Zum Beispiel erleidet Dombnall der Gruagach einen verheerenden Speerstoß, bei dem die Schadenssumme seine Absorption um 30 Punkte übersteigt. Normalerweise würde dies für Dombnall den sofortigen Tod bedeuten, doch der Gruagach besitzt eine Äußere Seele, weshalb der Spielleiter die Schadensstabelle konsultiert (ArM5, Seite 171) und Dombnalls Spieler mitteilt, dass sein Charakter eine Schwere Wunde und eine Mittelschwere Wunde erlitten hat (18 + 12 = 30, und Dombnall ist Großgewachsen).*
 
 Jedes Mal, wenn eine Wunde des Charakters auf diese Weise umverteilt werden muss, erleidet der Charakter einen Verzerrungspunkt, es sei denn, dem Spieler gelingt ein Stresswurf auf Ausdauer + Piktisch gegen einen Schwierigkeitsgrad von 9.
 
@@ -3745,7 +3745,7 @@ Wenn ein Charakter einen Verzerrungswert von 10 erreicht, ist die Transformation
 
 **Vermindertes Wissen:** Der Gruagach verliert Erfahrungspunkte in einer bereits vorhandenen Kunst in Höhe des Verzerrungswerts des Charakters + einfachem Würfel.
 
-\* Ein Charakter mit dem Fehler Abstoßend (siehe *Realms of Power: The Infernal*, Seite 89) erleidet einen Abzug von –6 auf alle Würfe, die Vertrauen erfordern. Der Charakter erhält einen kleinen Vorteil als Begleitung seiner monströsen Erscheinung. Schuppen gewähren +3 Schadensabsorption, und Hörner, Reißzähne und Klauen können im Kampf eingesetzt werden und haben dieselben Initiative-, Angriffs-, Verteidigungs- und Schadensmodifikatoren wie Dolche.
+\* Ein Charakter mit dem Fehler Abstoßend (siehe *Realms of Power: The Infernal*, Seite 89) erleidet einen Abzug von –6 auf alle Würfe, die Vertrauen erfordern. Der Charakter erhält einen kleinen Vorteil als Begleitung seiner monströsen Erscheinung. Schuppen gewähren +3 Absorption, und Hörner, Reißzähne und Klauen können im Kampf eingesetzt werden und haben dieselben Initiative-, Angriffs-, Verteidigungs- und Schadensmodifikatoren wie Dolche.
 
 ## Gruagachan in eurer Saga
 
@@ -3875,7 +3875,7 @@ Einige Gruagachan sind dem Namen nach Mitglieder des Ordens des Hermes. Sie prak
 >
 >Knüppel (Riesengestalt): Init -3, Ang +8, Vert +2, Sch +16
 >
->Schadensabsorption: +4
+>Absorption: +4
 >
 >Erschöpfungsstufen: OK,  $O_1$ , -1, -3, -5, Bewusstlos
 >
@@ -3930,7 +3930,7 @@ Einige Gruagachan sind dem Namen nach Mitglieder des Ordens des Hermes. Sie prak
 >
 >Klauen (in Bärengestalt): Init 0, Ang +13, Vert +9, Sch +10
 >
->Schadensabsorption: +3 (+10 in Bärengestalt)
+>Absorption: +3 (+10 in Bärengestalt)
 >
 >Erschöpfungsstufen: OK, 0, -1, Bewusstlos
 >
@@ -4217,7 +4217,7 @@ Körperliche Boni: Ignoriere Wundabzüge bis zu Mittelschweren Wunden.
 **Schwierigkeitsgrad: 9**<br>
 Heilwirkungen: Addiere Mythisches-Kräuterwissen-Wert x 2 zum Genesungswurf.<br>
 Gifte: Schwierigkeitsgrad 9, Mittelschwere Wunde<br>
-Körperliche Boni: Addiere +3 zur Schadensabsorption.
+Körperliche Boni: Addiere +3 zur Absorption.
 
 **Schwierigkeitsgrad: 12**<br>
 Heilwirkungen: Addiere Mythisches-Kräuterwissen-Wert x 3 zum Genesungswurf.<br>
@@ -4227,7 +4227,7 @@ Körperliche Boni: Ignoriere eine Erschöpfungsstufe.
 **Schwierigkeitsgrad: 15**<br>
 Heilwirkungen: Addiere Mythisches-Kräuterwissen-Wert x 4 zum Genesungswurf.<br>
 Gifte: Schwierigkeitsgrad 9, Lähmende Wunde<br>
-Körperliche Boni: Addiere +5 zur Schadensabsorption.
+Körperliche Boni: Addiere +5 zur Absorption.
 
 **Schwierigkeitsgrad: 18**<br>
 Heilwirkungen: Heile die schwächenden Nachwirkungen einer Krankheit, eines Gifts oder einer Verletzung.<br>
@@ -4250,7 +4250,7 @@ Nach einem Quartal verfällt ein unbenutzter Umschlag, ein Gift oder ein Trank u
 
 Verwende die obigen Schwierigkeitsgrade, um ein einzunehmendes Gift herzustellen. Handelt es sich um ein Kontaktgift, erhöhe den Schwierigkeitsgrad um +3.
 
-Tränke, die durch Mythisches Kräuterwissen hergestellt werden und körperliche Boni gewähren, halten für die Dauer Sonne. Die Wirkungen der Tränke sind nicht kumulativ. Der Bonus auf Erschöpfungswürfe darf +2 nicht übersteigen, nur eine Erschöpfungsstufe darf pro Tag ignoriert werden, und die Boni auf Schadensabsorption lassen sich nicht stapeln.
+Tränke, die durch Mythisches Kräuterwissen hergestellt werden und körperliche Boni gewähren, halten für die Dauer Sonne. Die Wirkungen der Tränke sind nicht kumulativ. Der Bonus auf Erschöpfungswürfe darf +2 nicht übersteigen, nur eine Erschöpfungsstufe darf pro Tag ignoriert werden, und die Boni auf Absorption lassen sich nicht stapeln.
 
 **Spezialisierungen**: Wunden heilen, Tränke herstellen, Gifte herstellen. (Übernatürlich)
 
@@ -4798,7 +4798,7 @@ Viele Magicam-Zauberformel-Leitlinien werden als Generell beschrieben. Es ist wi
 >
 >Tueor-Magicam-Zauberformeln bieten ein gewisses Maß an Schutz gegen feindliche Magie. Magische Abwehrzauberformeln sind an eine bestimmte Art magischen Schadens gebunden, und Schutz gegen jede andere Art von Schaden erfordert eine andere Zauberformel. Zum Beispiel würde eine Magische-Widerstandskraft-Zauberformel (Feuer) Schutz gegen alles übernatürliche Feuer bieten, aber keinen Schutz gegen Kälte, obwohl Kälte ebenfalls ein Ignem-Effekt ist.
 >
->Generell: Addiere +2 zur Schadensabsorption des Ziels gegen Schaden durch magischen Schaden einer bestimmten Art für jede Stufe des Basis-Zauberformeleffekts.
+>Generell: Addiere +2 zur Absorption des Ziels gegen Schaden durch magischen Schaden einer bestimmten Art für jede Stufe des Basis-Zauberformeleffekts.
 >
 >Generell: Addiere +4 zur Verteidigungssumme des Ziels gegen auf ihn gerichtete magische Angriffe einer bestimmten Art für jede Magnitude des Basis-Zauberformeleffekts.
 >
@@ -4808,7 +4808,7 @@ Viele Magicam-Zauberformel-Leitlinien werden als Generell beschrieben. Es ist wi
 TuMa Stufe 5 <br>
 R: Per, D: Durchm, Z: Ind
 
-Diese Zauberformel addiert +8 zur Schadensabsorption des Wirkenden gegen jeglichen Schaden durch magische Blitze. Eine andere Version dieser Zauberformel existiert für andere Schadensarten.
+Diese Zauberformel addiert +8 zur Absorption des Wirkenden gegen jeglichen Schaden durch magische Blitze. Eine andere Version dieser Zauberformel existiert für andere Schadensarten.
 
 (Basis 4, +1 Durchmesser)
 
@@ -4916,15 +4916,15 @@ Salutem-Zauberformeln befassen sich mit der Gesundheit des Ziels. Dies ist breit
 >
 >Tueor-Salutem-Bannzauber können nur auf Orte mit der Zielgröße Bauwerk oder Grenze gelegt werden. Sie dürfen niemals jemanden oder etwas in der gebannten Kategorie beeinflussen, wenn dieser einen Machtwert besitzt. Wenn ein Bannzauber einen Magus daran hindern würde, ein Gebiet zu betreten, muss er dessen Magieresistenz penetrieren, um irgendeine Wirkung zu entfalten. Bannzauber, die eine bestimmte Art von Person oder Tier fernhalten, sollten leicht durch ein einzelnes Wort beschreibbar sein, aber nicht so breit gefasst, dass sie erheblich mehr als die Hälfte der menschlichen Bevölkerung umfassen. Geeignete Beispiele für Tierbannzauber sind Ungeziefer, Raubtiere oder Vögel, und Beispiele für eine einzelne Art von Mensch wären Diebe, Mongolen oder Männer.
 >
->Generell: Gewähre +4 Bonus auf die Schadensabsorption einer Person gegen eine enge Schadenskategorie pro Stufe des Basiseffekts.
+>Generell: Gewähre +4 Bonus auf die Absorption einer Person gegen eine enge Schadenskategorie pro Stufe des Basiseffekts.
 >
->Generell: Gewähre +2 Bonus auf die Schadensabsorption einer Person gegen eine breite Schadenskategorie pro Stufe des Basiseffekts.
+>Generell: Gewähre +2 Bonus auf die Absorption einer Person gegen eine breite Schadenskategorie pro Stufe des Basiseffekts.
 >
 >Generell: Gewähre +1 Bonus auf die Ausdauer einer Person für Krankheitsvermeidungswürfe für eine einzelne Krankheit pro Stufe des Basiseffekts. Siehe das Medizin-Kapitel von Art & Academe.
 >
 >Generell: Gewähre +1 Bonus auf die Ausdauer einer Person für Würfe zur Vermeidung von Gifteffekten pro Stufe des Basiseffekts.
 >
->Generell: Gewähre +2 Bonus auf die Schadensabsorption einer Person gegen jeden Schaden pro Magnitude des Basiseffekts.
+>Generell: Gewähre +2 Bonus auf die Absorption einer Person gegen jeden Schaden pro Magnitude des Basiseffekts.
 >
 >Generell: Addiere +4 zur Verteidigungssumme des Ziels gegen Angriffe aus einer engen Schadenskategorie für jede Magnitude des Basis-Zauberformeleffekts.
 >
@@ -4950,7 +4950,7 @@ Diese Zauberformel schützt eine Person vor nichtmagischen Angriffen der Bewohne
 TuSa Stufe 5<br>
 R: Per, D: Durchm, Z: Ind
 
-Wenn ein Pfeil den Wirkenden erfolgreich trifft, wird er durch diese Zauberformel geschützt. Die Zauberformel addiert +8 zur Schadensabsorption des Charakters gegen jeden nichtmagischen Pfeil, eine breite Schadenskategorie. Der Absorptionsbonus dieser Zauberformel ist kumulativ mit der Schadensabsorption des Charakters durch Rüstung, die Tugend Zäh oder jede andere Quelle, doch mehrere Zauberformeln sind nicht kumulativ. Wenn ein Charakter zwei oder mehr Zauberformeln gegen dieselbe Schadensform besitzt, wirkt nur die mächtigere Zauberformel. Versionen dieser Zauberformel existieren für alle gängigen Waffen und müssen einzeln erlernt werden.
+Wenn ein Pfeil den Wirkenden erfolgreich trifft, wird er durch diese Zauberformel geschützt. Die Zauberformel addiert +8 zur Absorption des Charakters gegen jeden nichtmagischen Pfeil, eine breite Schadenskategorie. Der Absorptionsbonus dieser Zauberformel ist kumulativ mit der Absorption des Charakters durch Rüstung, die Tugend Zäh oder jede andere Quelle, doch mehrere Zauberformeln sind nicht kumulativ. Wenn ein Charakter zwei oder mehr Zauberformeln gegen dieselbe Schadensform besitzt, wirkt nur die mächtigere Zauberformel. Versionen dieser Zauberformel existieren für alle gängigen Waffen und müssen einzeln erlernt werden.
 
 (Effekt: Basis 4, +1 Durchmesser)
 
@@ -5229,7 +5229,7 @@ Ein besonders mächtiges Mitglied der Mathematici von Bologna könnte eingeladen
 >
 >Ausweichen: Init +1, Angriff n/v, Verteidigung +1, Schaden n/v
 >
->Schadensabsorption: -1
+>Absorption: -1
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -5313,7 +5313,7 @@ Ein besonders mächtiges Mitglied der Mathematici von Bologna könnte eingeladen
 >
 >Ausweichen: Init +1, Angriff n/v, Verteidigung +1, Schaden n/v
 >
->Schadensabsorption: —1
+>Absorption: —1
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, —5, Bewusstlos
 >
@@ -5886,7 +5886,7 @@ Einiges ist über die Herrin bekannt. Sie ist schön und kann sowohl jung als au
 >
 >\*Beinhaltet Behinderung, die von phantastischer Rüstung herrührt, die Arno in Schlachten im Wachzustand nicht benutzt.
 >
->Schadensabsorption: +8
+>Absorption: +8
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -5946,7 +5946,7 @@ Hunde Gottes haben kein heiliges Kraut und finden sich vornehmlich in Gebieten m
 >
 >Raufen: Init +2, Ang +5, Vert +6, Sch +3
 >
->Schadensabsorption: +1
+>Absorption: +1
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -5978,7 +5978,7 @@ Hunde Gottes haben kein heiliges Kraut und finden sich vornehmlich in Gebieten m
 >
 >Zähne: Init +2, Ang +14, Vert +12, Sch +2
 >
->Schadensabsorption: +4
+>Absorption: +4
 >
 >Erschöpfungsstufen: OK, 0/0, -1/-1, -3, -5, Bewusstlos
 >
@@ -6394,7 +6394,7 @@ Vitkir können ihre Runen auf dieselbe Weise studieren, wie Magi hermetische Mag
 
 Die Vitkir lernten, ihr Wissen über die Runen anzuwenden, um Zauber und magische Effekte zu erschaffen, indem sie ihre Gabe nutzten, um die inhärente Kraft jeder Rune anzuzapfen. Diese Runen werden mithilfe eines besonderen Runenskripts auf ein Ziel eingeschrieben, das die Natur dieses Ziels verändert, damit sie den Eigenschaften der Rune entspricht, und dieser Effekt dauert so lange an, wie die Rune besteht. Die Dauer hängt daher nur vom verwendeten Material für das Skript ab; auf Haut oder Kleidung geschriebene oder gemalte Runen behalten ihre Integrität höchstens einen Tag lang, während in Holz oder Stein geritzte Runen viele Jahre überdauern können. Es dauert typischerweise nur etwa zwei Minuten, ein Runenskript zu schreiben, doch das Ritzen eines auf Dauer angelegten Skripts braucht mindestens eine Stunde.
 
-Anders als die Effekte hermetischer Magie bewirkt die Magie der Runen eine wahre und natürliche Veränderung am Ziel — etwas, das für Magi ein Ritual erfordern würde. Beispielsweise könnte eine Heilrune, die auf eine Person gezeichnet wird, die Wunden dieser Person auf natürliche Weise heilen, während eine Schadensrune dauerhafte Verletzungen verursachen würde. Wird die Rune zerstört, endet der Effekt und die Natur stellt sich wieder her, doch die Auswirkungen des Runenzaubers werden nicht rückgängig gemacht. Das heißt, die Wunde öffnet sich nicht automatisch wieder, und die Verletzung verschwindet nicht. Das bedeutet auch, dass, weil die Runen einen natürlichen Effekt erzeugen, das Ziel des Runenzaubers nicht als magisches Ding betrachtet wird und keine Magieresistenz auslöst. Ein Ziel mit Magieresistenz kann den Effekten dennoch widerstehen, doch sobald der Effekt sich manifestiert hat, wird er zu einer realen Sache. Dies bedeutet, dass ein mit Runen für großen Schaden markiertes Schwert kein magisches Schwert zum Zweck der Durchdringung eines Machtwerts ist, und ein mit der Magie der Runen herbeigerufenes Tier ist ein echtes Tier, das eine Person angreifen kann, die ansonsten dank ihrer Magieresistenz sicher wäre.
+Anders als die Effekte hermetischer Magie bewirkt die Magie der Runen eine wahre und natürliche Veränderung am Ziel — etwas, das für Magi ein Ritual erfordern würde. Beispielsweise könnte eine Heilrune, die auf eine Person gezeichnet wird, die Wunden dieser Person auf natürliche Weise heilen, während eine Schadensrune dauerhafte Verletzungen verursachen würde. Wird die Rune zerstört, endet der Effekt und die Natur stellt sich wieder her, doch die Auswirkungen des Runenzaubers werden nicht rückgängig gemacht. Das heißt, die Wunde öffnet sich nicht automatisch wieder, und die Verletzung verschwindet nicht. Das bedeutet auch, dass, weil die Runen einen natürlichen Effekt erzeugen, das Ziel des Runenzaubers nicht als magisches Ding betrachtet wird und keine Magieresistenz auslöst. Ein Ziel mit Magieresistenz kann den Effekten dennoch widerstehen, doch sobald der Effekt sich manifestiert hat, wird er zu einer realen Sache. Dies bedeutet, dass ein mit Runen für großen Schaden markiertes Schwert kein magisches Schwert zum Zweck der Penetration eines Machtwerts ist, und ein mit der Magie der Runen herbeigerufenes Tier ist ein echtes Tier, das eine Person angreifen kann, die ansonsten dank ihrer Magieresistenz sicher wäre.
 
 Runenmagie verursacht trotzdem Verzerrung bei einem Ziel im Laufe der Zeit, auch wenn ihre Effekte natürlich erscheinen, als Folge der Aussetzung gegenüber einem ständigen magischen Effekt. Das Ziel erfährt auch Verzerrung durch Runenzauber der Stufe 30 oder höher, es sei denn, der Vitki wirkt den Effekt auf sich selbst. Diese starken magischen Effekte sind immer andauernd, was bedeutet, dass das Ziel jeden Quartal, den der Effekt andauert, einen zusätzlichen Verzerrungspunkt erhält.
 
@@ -7061,7 +7061,7 @@ Als Ziel wirkt Raido auf einen Wagen, ein Schiff oder ein Rad, ebenso wie auf da
 >
 >Allgemein: Das Ziel erhält einen Bonus oder Abzug in Höhe der Magnitude dieses Effekts auf alle Fertigkeitswürfe, die während des Reisens abgelegt werden, wie Gebietskunde, Menschenkenntnis, Reiten oder Charme. Dies schließt berittenen Kampf nicht ein.
 >
->Allgemein: Das Ziel erhält einen Bonus oder Abzug in Höhe der Magnitude dieses Effekts auf alle natürlichen Fertigkeitswürfe, die mit Ausdauer zusammenhängen (aber nicht Schadensabsorption oder Runenzaubern).
+>Allgemein: Das Ziel erhält einen Bonus oder Abzug in Höhe der Magnitude dieses Effekts auf alle natürlichen Fertigkeitswürfe, die mit Ausdauer zusammenhängen (aber nicht Absorption oder Runenzaubern).
 >
 >Allgemein: Das Ziel erhält einen Bonus oder Abzug in Höhe der Magnitude dieses Effekts auf seine Initiative.
 >
@@ -7313,7 +7313,7 @@ Algiz bezieht sich fast nie direkt auf ein Ziel, obwohl sie wegen ihrer Symbolik
 
 >#### Algiz-Leitlinien
 >
->Allgemein: Die Schadensabsorption des Ziels wird um die Magnitude des Effekts erhöht oder verringert.
+>Allgemein: Die Absorption des Ziels wird um die Magnitude des Effekts erhöht oder verringert.
 >
 >Allgemein: Alle übernatürlichen Ziele mit einer Macht kleiner oder gleich der Stufe dieses Effekts, die mit der sekundären Rune des Zaubers verbunden sind, werden vom Ziel ferngehalten.
 >
@@ -7428,7 +7428,7 @@ Beachte, dass der Orden des Hermes allgemein als im Krieg befindlich mit dem Ord
 >
 >Langschwert (wenn verzaubert): Init +7, Ang +15, Vert +12, Sch +8
 >
->Schadensabsorption: +6 (+11 wenn verzaubert)
+>Absorption: +6 (+11 wenn verzaubert)
 >
 >Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 >
@@ -7459,7 +7459,7 @@ Beachte, dass der Orden des Hermes allgemein als im Krieg befindlich mit dem Ord
 >*Ich, Eirik Svennson, rufe Tyrs Gerissenheit an.* (T 25/+22) *Tiwaz 25, Methode I* Das Ziel erhält einen Bonus von +5 auf Verteidigungswürfe. Eirik ritzt die Runen typischerweise auf das Schwert eines anderen Kriegers, so dass der Effekt nur so lange andauert, wie er es führt.
 >
 >*Ich, Eirik Svennson, nenne meinen Helm alu.* (Z 25/+22)
->Algiz 25, Methode I Das Ziel erhält einen Bonus von +5 auf die Schadensabsorption. Eirik ritzt die Runen typischerweise auf seinen Helm, so dass der Effekt nur so lange andauert, wie er ihn trägt.
+>Algiz 25, Methode I Das Ziel erhält einen Bonus von +5 auf die Absorption. Eirik ritzt die Runen typischerweise auf seinen Helm, so dass der Effekt nur so lange andauert, wie er ihn trägt.
 >
 >*Eirik Svennson schützt vor den Tieren der Wildnis.* (Z 10/+7)
 >

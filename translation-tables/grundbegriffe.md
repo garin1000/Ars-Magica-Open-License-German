@@ -49,7 +49,7 @@
 | Fatigue | – | – | – | – | Erschöpfung | Erschöpfungszustand |
 | Fatigue Level | – | – | – | – | Erschöpfungsstufe | |
 | Filius / Filia | Filius | Filia | Filii | Filiae | Filius / Filia | Ehemaliger Lehrling, jetzt Magus |
-| Final Twilight | – | – | – | – | Das Endgültige Zwielicht | Magischer Zusammenbruch eines Magus, aus dem dieser nicht wiederkehrt |
+| Final Twilight | – | – | – | – | Endgültiges Zwielicht | Permanentes Verschwinden eines Magus; konsistent mit alterung-twilight.md |
 | Formulaic Magic | – | – | – | – | Formulaische Magie | Standardisierte Magie mit Gesten und Worten |
 | The Founders | – | – | – | – | Die Gründer | Die 12 Gründer des Ordens |
 | Gauntlet | – | – | – | – | Lehrlingsprüfung | Abschlussprüfung zum Magus |

@@ -57,7 +57,7 @@
 | Improved Might | Verbesserte Macht | +1 Machtwert (keine zusätzlichen Qualitätspunkte); mehrfach wählbar |
 | Improved Powers | Verbesserte Kräfte | 5 Meisterschaftspunkte für Kräfte; mehrfach wählbar |
 | Improved Recovery | Verbesserte Erholung | Machtpunkte in halber Zeit regenerieren; mehrfach wählbar |
-| Improved Soak | Verbesserte Schadensabsorption | +2 Schadensabsorption; mehrfach wählbar |
+| Improved Soak | Verbesserte Absorption | +2 Absorption; mehrfach wählbar |
 | Lesser Power | Mindere Macht | 25 Zauberstufen; formulaischer Effekt |
 | Minor Virtue | Kleine Tugend | Charakter erhält eine Kleine Tugend (Allgemein oder Übernatürlich) |
 | Personal Power | Persönliche Kraft | 25 Zauberstufen; eingeschränkter Effekt (Persönlich oder konstant) |
@@ -92,7 +92,7 @@
 | Reduced Initiative | Reduzierte Initiative | −3 Initiative einer natürlichen Waffe; mehrfach wählbar |
 | Reduced Might | Reduzierte Macht | −1 Machtwert; mehrfach wählbar |
 | Reduced Power | Reduzierte Kraft | −5 Meisterschaftspunkte von Kräften; mehrfach wählbar |
-| Reduced Soak | Reduzierte Schadensabsorption | −2 Schadensabsorption; mehrfach wählbar |
+| Reduced Soak | Reduzierte Absorption | −2 Absorption; mehrfach wählbar |
 | Susceptible to Deprivation | Anfällig für Entbehrung | Braucht Luft, Nahrung, Wasser wie Sterbliche |
 
 ---
