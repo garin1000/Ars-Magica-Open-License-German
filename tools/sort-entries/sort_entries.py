@@ -1,23 +1,29 @@
 #!/usr/bin/env python3
-"""Sortiert alphabetisch alle relevanten Abschnitte der deutschen Basisregeln.
+"""Sortiert alphabetisch relevante Abschnitte deutscher Ars-Magica-Regelwerke.
 
-Sortierte Abschnitte:
-  1. Liste der Tugenden — Link-Einträge innerhalb jeder Kategorie
-  2. Tugenden (Beschreibungen) — ####-Blöcke
-  3. Liste der Fehler — Link-Einträge innerhalb jeder Kategorie
-  4. Fehler (Beschreibungen) — ####-Blöcke
-  5. Fertigkeiten nach Typ — Link-Einträge innerhalb jeder Kategorie
-  6. Fertigkeitsliste — ####-Blöcke
-  7. Zauber (10 Formen) — #####-Blöcke innerhalb jeder STUFE
-  8. Zauberindex — Tabellenzeilen
-  9. Bestiariumsindex — Tabellenzeilen
- 10. Traditioneller Index — Tabellenzeilen (mit Untereinträgen)
+Unterstützt 5 Sortiertypen:
+  A. link_list    — Link-Einträge [Name](link) innerhalb von Kategorieüberschriften
+  B. desc_blocks  — ####-Blöcke (Tugenden, Fehler, Fertigkeiten)
+  C. spells       — #####-Blöcke innerhalb #### STUFE X
+  D. table        — Markdown-Tabellenzeilen
+  E. bold_blocks  — **Name:**-Absatzblöcke (Qualitäten, Mängel)
+
+Die zu sortierenden Abschnitte werden pro Datei in einer JSON-Config gespeichert
+(tools/sort-entries/configs/). Beim ersten Lauf wird die Config automatisch durch
+Strukturanalyse erzeugt.
 """
 
 import argparse
+import hashlib
+import json
 import os
 import re
 import sys
+from pathlib import Path
+
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+CONFIG_DIR = SCRIPT_DIR / "configs"
 
 
 # ---------------------------------------------------------------------------
@@ -56,6 +62,13 @@ def find_next_h2(lines: list[str], start: int) -> int:
     return len(lines)
 
 
+def find_next_h3_or_above(lines: list[str], start: int) -> int:
+    for i in range(start + 1, len(lines)):
+        if lines[i].startswith("## ") or lines[i].startswith("### "):
+            return i
+    return len(lines)
+
+
 def extract_link_name(line: str) -> str:
     m = re.match(r"\[(.+?)\]", line)
     return m.group(1) if m else line
@@ -64,6 +77,38 @@ def extract_link_name(line: str) -> str:
 def is_link_line(line: str) -> bool:
     stripped = line.strip()
     return stripped.startswith("[") and "](" in stripped
+
+
+def find_heading_line(lines: list[str], heading_text: str,
+                      occurrence: int = 1, start: int = 0,
+                      end: int | None = None) -> int:
+    if end is None:
+        end = len(lines)
+    count = 0
+    for i in range(start, end):
+        if lines[i].strip() == heading_text:
+            count += 1
+            if count == occurrence:
+                return i
+    return -1
+
+
+def build_heading_index(lines: list[str]) -> list[tuple[int, int, str]]:
+    """Gibt (Zeile, Ebene, Titel) für alle nicht-blockquotierten Überschriften."""
+    headings = []
+    for i, line in enumerate(lines):
+        if line.lstrip().startswith(">"):
+            continue
+        stripped = line.strip()
+        if not stripped.startswith("#"):
+            continue
+        level = 0
+        while level < len(stripped) and stripped[level] == "#":
+            level += 1
+        if level <= 5 and level < len(stripped) and stripped[level] == " ":
+            title = stripped[level + 1:]
+            headings.append((i, level, title))
+    return headings
 
 
 # ---------------------------------------------------------------------------
@@ -322,17 +367,372 @@ def sort_index_table(lines, section_start, section_end, keep_sub_entries=False):
 
 
 # ---------------------------------------------------------------------------
+# Typ E — Bold-Entry-Blöcke
+# ---------------------------------------------------------------------------
+
+_BOLD_ENTRY_RE = re.compile(r"^\*\*[^*]+\*\*")
+
+
+def _bold_name(line: str) -> str:
+    m = _BOLD_ENTRY_RE.match(line.strip())
+    if not m:
+        return line
+    name = m.group(0)[2:]
+    name = name[:name.index("**")]
+    return name.rstrip(":")
+
+
+def sort_bold_blocks(lines, section_start, section_end):
+    section = lines[section_start:section_end]
+    stats = {"entries": 0, "reordered": 0}
+
+    first_bold = -1
+    for i, line in enumerate(section):
+        stripped = line.strip()
+        if not stripped.startswith(">") and _BOLD_ENTRY_RE.match(stripped):
+            first_bold = i
+            break
+
+    if first_bold == -1:
+        return section, stats
+
+    preamble = section[:first_bold]
+
+    blocks = []
+    current_start = first_bold
+    postamble_start = len(section)
+
+    for i in range(first_bold + 1, len(section)):
+        stripped = section[i].strip()
+        if (stripped.startswith("#### ") or stripped.startswith("### ")
+                or stripped.startswith("## ")):
+            blocks.append(section[current_start:i])
+            postamble_start = i
+            break
+        if not stripped.startswith(">") and _BOLD_ENTRY_RE.match(stripped):
+            blocks.append(section[current_start:i])
+            current_start = i
+    else:
+        blocks.append(section[current_start:])
+        postamble_start = len(section)
+
+    if len(blocks) < 2:
+        return section, stats
+
+    stats["entries"] = len(blocks)
+
+    sorted_blocks = sorted(blocks, key=lambda b: sort_key_german(_bold_name(b[0])))
+    if sorted_blocks != blocks:
+        stats["reordered"] = sum(
+            1 for a, b in zip(blocks, sorted_blocks) if a[0] != b[0]
+        )
+
+    result = list(preamble)
+    for block in sorted_blocks:
+        result.extend(block)
+    if postamble_start < len(section):
+        result.extend(section[postamble_start:])
+
+    return result, stats
+
+
+# ---------------------------------------------------------------------------
+# Strukturanalyse
+# ---------------------------------------------------------------------------
+
+def _detect_spells(lines, start, end, headings):
+    has_stufe = False
+    has_h5 = False
+    for line_num, level, title in headings:
+        if not (start < line_num < end):
+            continue
+        if level == 4 and title.startswith("STUFE"):
+            has_stufe = True
+        if level == 5:
+            has_h5 = True
+    return has_stufe and has_h5
+
+
+def _detect_link_list(lines, start, end, headings):
+    sub_headings = [(h[0], h[1], h[2]) for h in headings
+                    if start < h[0] < end and h[1] in (3, 4)]
+    if not sub_headings:
+        return None
+
+    best_level = None
+    best_links = 0
+    best_cats = 0
+
+    for check_level in (3, 4):
+        level_headings = [(h[0], h[2]) for h in sub_headings if h[1] == check_level]
+        if not level_headings:
+            continue
+        total_links = 0
+        cats_with_links = 0
+        for idx, (h_line, _) in enumerate(level_headings):
+            h_end = level_headings[idx + 1][0] if idx + 1 < len(level_headings) else end
+            link_count = sum(1 for j in range(h_line, h_end) if is_link_line(lines[j]))
+            if link_count > 0:
+                total_links += link_count
+                cats_with_links += 1
+        if total_links > best_links:
+            best_level = check_level
+            best_links = total_links
+            best_cats = cats_with_links
+
+    if best_links < 10 or best_cats < 2:
+        return None
+    return {
+        "cat_level": "#" * best_level + " ",
+        "links": best_links,
+        "categories": best_cats,
+    }
+
+
+def _detect_table(lines, start, end):
+    table_header_line = -1
+    for i in range(start, end):
+        stripped = lines[i].strip()
+        if stripped.startswith("|") and "---" in stripped:
+            table_header_line = i - 1
+            break
+
+    if table_header_line < 0:
+        return None
+
+    data_rows = 0
+    has_sub_entries = False
+    text_cells = 0
+    for i in range(table_header_line + 2, end):
+        stripped = lines[i].strip()
+        if stripped.startswith("|") and stripped.endswith("|"):
+            data_rows += 1
+            cell = stripped.split("|")[1].strip() if "|" in stripped else ""
+            if cell.startswith("&nbsp;") or cell.startswith("*siehe"):
+                has_sub_entries = True
+            if cell and not cell.replace(".", "").replace(",", "").isdigit():
+                text_cells += 1
+        elif stripped == "":
+            break
+        else:
+            break
+
+    if data_rows < 20:
+        return None
+    if text_cells < data_rows // 2:
+        return None
+
+    result = {"rows": data_rows}
+    if has_sub_entries:
+        result["keep_sub_entries"] = True
+    return result
+
+
+def _analyze_group(lines, start, end, heading, subheading, sections, headings,
+                   occurrence=None):
+    h4_count = sum(1 for h in headings
+                   if h[1] == 4 and start < h[0] < end
+                   and not h[2].startswith("STUFE"))
+
+    bold_count = sum(1 for i in range(start, end)
+                     if not lines[i].lstrip().startswith(">")
+                     and _BOLD_ENTRY_RE.match(lines[i].strip()))
+
+    if h4_count >= 3:
+        entry = {"heading": heading, "type": "desc_blocks",
+                 "enabled": True, "note": f"{h4_count} H4-Blöcke"}
+        if subheading:
+            entry["subheading"] = subheading
+        if occurrence is not None:
+            entry["occurrence"] = occurrence
+        sections.append(entry)
+
+    if bold_count >= 3:
+        entry = {"heading": heading, "type": "bold_blocks",
+                 "enabled": True, "note": f"{bold_count} Fetteinträge"}
+        if subheading:
+            entry["subheading"] = subheading
+        if occurrence is not None:
+            entry["occurrence"] = occurrence
+        sections.append(entry)
+
+
+def analyze_file(lines: list[str]) -> list[dict]:
+    headings = build_heading_index(lines)
+    sections: list[dict] = []
+
+    h2_entries = [(h[0], h[2]) for h in headings if h[1] == 2]
+
+    h2_title_counts: dict[str, int] = {}
+    for _, title in h2_entries:
+        h2_title_counts[title] = h2_title_counts.get(title, 0) + 1
+
+    h2_title_seen: dict[str, int] = {}
+    for idx, (h2_line, h2_title) in enumerate(h2_entries):
+        h2_title_seen[h2_title] = h2_title_seen.get(h2_title, 0) + 1
+        occurrence = h2_title_seen[h2_title]
+        has_dup = h2_title_counts[h2_title] > 1
+
+        h2_end = h2_entries[idx + 1][0] if idx + 1 < len(h2_entries) else len(lines)
+        heading = f"## {h2_title}"
+
+        def make_entry(type_, extra=None):
+            e = {"heading": heading, "type": type_, "enabled": True}
+            if has_dup:
+                e["occurrence"] = occurrence
+            if extra:
+                e.update(extra)
+            return e
+
+        if _detect_spells(lines, h2_line, h2_end, headings):
+            sections.append(make_entry("spells", {"note": "#### STUFE + ##### Muster"}))
+            continue
+
+        link_info = _detect_link_list(lines, h2_line, h2_end, headings)
+        if link_info:
+            sections.append(make_entry("link_list", {
+                "cat_level": link_info["cat_level"],
+                "note": f"{link_info['links']} Links in {link_info['categories']} Kategorien",
+            }))
+            continue
+
+        table_info = _detect_table(lines, h2_line, h2_end)
+        if table_info:
+            extra = {"note": f"{table_info['rows']} Tabellenzeilen"}
+            if table_info.get("keep_sub_entries"):
+                extra["keep_sub_entries"] = True
+            sections.append(make_entry("table", extra))
+            continue
+
+        h3_in_section = [(h[0], h[2]) for h in headings
+                         if h[1] == 3 and h2_line < h[0] < h2_end]
+
+        occ = occurrence if has_dup else None
+        if h3_in_section:
+            for h3_idx, (h3_line, h3_title) in enumerate(h3_in_section):
+                h3_end = (h3_in_section[h3_idx + 1][0]
+                          if h3_idx + 1 < len(h3_in_section) else h2_end)
+                sub = f"### {h3_title}"
+                _analyze_group(lines, h3_line, h3_end, heading, sub,
+                               sections, headings, occurrence=occ)
+        else:
+            _analyze_group(lines, h2_line, h2_end, heading, None,
+                           sections, headings, occurrence=occ)
+
+    return sections
+
+
+# ---------------------------------------------------------------------------
+# Config-System
+# ---------------------------------------------------------------------------
+
+def _compute_hash(path: str) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(65536), b""):
+            h.update(chunk)
+    return f"sha256:{h.hexdigest()[:16]}"
+
+
+def _config_path_for(input_path: str) -> Path:
+    return CONFIG_DIR / f"{Path(input_path).stem}.json"
+
+
+def _section_key(sec: dict) -> str:
+    parts = [sec["heading"], sec.get("subheading", ""), sec["type"]]
+    if "occurrence" in sec:
+        parts.append(str(sec["occurrence"]))
+    return "|".join(parts)
+
+
+def _save_config(cfg_path: Path, config: dict) -> None:
+    cfg_path.parent.mkdir(parents=True, exist_ok=True)
+    cfg_path.write_text(
+        json.dumps(config, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+
+
+def generate_config(input_path: str, lines: list[str]) -> dict:
+    return {
+        "version": 1,
+        "source_file": Path(input_path).name,
+        "file_hash": _compute_hash(input_path),
+        "sections": analyze_file(lines),
+    }
+
+
+def load_or_create_config(input_path: str, lines: list[str],
+                          verbose: bool = False) -> dict:
+    cfg_path = _config_path_for(input_path)
+
+    if cfg_path.exists():
+        config = json.loads(cfg_path.read_text(encoding="utf-8"))
+        current_hash = _compute_hash(input_path)
+        if config.get("file_hash") != current_hash:
+            print(f"  HINWEIS: Datei hat sich seit letzter Analyse geändert.")
+            print(f"  Erneute Analyse mit --analyze empfohlen.")
+        return config
+
+    print(f"  Keine Config vorhanden — erzeuge automatisch …")
+    config = generate_config(input_path, lines)
+    _save_config(cfg_path, config)
+    enabled = [s for s in config["sections"] if s.get("enabled", True)]
+    print(f"  {len(enabled)} sortierbare Abschnitte erkannt, Config gespeichert:")
+    print(f"  {cfg_path}")
+    return config
+
+
+def analyze_and_save(input_path: str, lines: list[str]) -> dict:
+    cfg_path = _config_path_for(input_path)
+
+    new_sections = analyze_file(lines)
+
+    if cfg_path.exists():
+        old_config = json.loads(cfg_path.read_text(encoding="utf-8"))
+        old_by_key = {_section_key(s): s for s in old_config.get("sections", [])}
+        for sec in new_sections:
+            old = old_by_key.get(_section_key(sec))
+            if old is not None:
+                sec["enabled"] = old.get("enabled", True)
+
+    config = {
+        "version": 1,
+        "source_file": Path(input_path).name,
+        "file_hash": _compute_hash(input_path),
+        "sections": new_sections,
+    }
+    _save_config(cfg_path, config)
+    return config
+
+
+# ---------------------------------------------------------------------------
 # Hauptprogramm
 # ---------------------------------------------------------------------------
 
-SPELL_FORMS = [
-    "Animal-Zauber", "Aquam-Zauber", "Auram-Zauber", "Corpus-Zauber",
-    "Herbam-Zauber", "Ignem-Zauber", "Imaginem-Zauber", "Mentem-Zauber",
-    "Terram-Zauber", "Vim-Zauber",
-]
+def _resolve_section_range(lines: list[str], sec_cfg: dict) -> tuple[int, int]:
+    heading = sec_cfg["heading"]
+    occurrence = sec_cfg.get("occurrence", 1)
+    subheading = sec_cfg.get("subheading")
+
+    h_line = find_heading_line(lines, heading, occurrence)
+    if h_line == -1:
+        return -1, -1
+
+    h2_end = find_next_h2(lines, h_line)
+
+    if subheading:
+        sub_line = find_heading_line(lines, subheading, 1,
+                                     start=h_line, end=h2_end)
+        if sub_line == -1:
+            return -1, -1
+        sub_end = find_next_h3_or_above(lines, sub_line)
+        return sub_line, min(sub_end, h2_end)
+
+    return h_line, h2_end
 
 
-def process(input_path: str, output_dir: str) -> None:
+def process(input_path: str, output_dir: str, verbose: bool = False) -> None:
     with open(input_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
@@ -341,79 +741,43 @@ def process(input_path: str, output_dir: str) -> None:
             lines[i] += "\n"
 
     original_count = len(lines)
-    report = []
 
-    h2_index = {}
-    for i, line in enumerate(lines):
-        if line.startswith("## "):
-            title = line[3:].strip()
-            h2_index[title] = i
+    config = load_or_create_config(input_path, lines, verbose)
+    enabled_sections = [s for s in config.get("sections", [])
+                        if s.get("enabled", True)]
 
-    output = list(lines)
+    if not enabled_sections:
+        print(f"  Keine aktivierten Abschnitte — Datei wird unverändert kopiert.")
+        os.makedirs(output_dir, exist_ok=True)
+        output_path = os.path.join(output_dir, os.path.basename(input_path))
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.writelines(lines)
+        return
 
     sections_to_process = []
+    for sec_cfg in enabled_sections:
+        start, end = _resolve_section_range(lines, sec_cfg)
+        if start == -1:
+            name = sec_cfg["heading"]
+            if "subheading" in sec_cfg:
+                name += f" > {sec_cfg['subheading']}"
+            print(f"  WARNUNG: Abschnitt nicht gefunden: {name}")
+            continue
+        sections_to_process.append((sec_cfg, start, end))
 
-    if "Liste der Tugenden" in h2_index:
-        start = h2_index["Liste der Tugenden"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Liste der Tugenden", "link_list", start, end, "### "))
+    sections_to_process.sort(key=lambda s: s[1], reverse=True)
 
-    if "Tugenden" in h2_index:
-        start = h2_index["Tugenden"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Tugenden (Beschreibungen)", "desc_blocks", start, end))
+    output = list(lines)
+    report = []
 
-    if "Liste der Fehler" in h2_index:
-        start = h2_index["Liste der Fehler"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Liste der Fehler", "link_list", start, end, "### "))
-
-    if "Fehler" in h2_index:
-        start = h2_index["Fehler"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Fehler (Beschreibungen)", "desc_blocks", start, end))
-
-    if "Fertigkeiten nach Typ" in h2_index:
-        start = h2_index["Fertigkeiten nach Typ"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Fertigkeiten nach Typ", "link_list", start, end, "#### "))
-
-    if "Fertigkeitsliste" in h2_index:
-        start = h2_index["Fertigkeitsliste"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Fertigkeitsliste (Beschreibungen)", "desc_blocks", start, end))
-
-    for form in SPELL_FORMS:
-        if form in h2_index:
-            start = h2_index[form]
-            end = find_next_h2(lines, start)
-            sections_to_process.append((f"Zauber: {form}", "spells", start, end))
-
-    if "Zauberindex" in h2_index:
-        start = h2_index["Zauberindex"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Zauberindex", "table", start, end, False))
-
-    if "Bestiariumsindex" in h2_index:
-        start = h2_index["Bestiariumsindex"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Bestiariumsindex", "table", start, end, False))
-
-    if "Traditioneller Index" in h2_index:
-        start = h2_index["Traditioneller Index"]
-        end = find_next_h2(lines, start)
-        sections_to_process.append(("Traditioneller Index", "table", start, end, True))
-
-    sections_to_process.sort(key=lambda s: s[2], reverse=True)
-
-    for section_info in sections_to_process:
-        name = section_info[0]
-        stype = section_info[1]
-        start = section_info[2]
-        end = section_info[3]
+    for sec_cfg, start, end in sections_to_process:
+        stype = sec_cfg["type"]
+        name = sec_cfg["heading"]
+        if "subheading" in sec_cfg:
+            name += f" > {sec_cfg['subheading']}"
 
         if stype == "link_list":
-            cat_level = section_info[4]
+            cat_level = sec_cfg.get("cat_level", "### ")
             new_lines, stats = sort_link_list_section(output, start, end, cat_level)
             output[start:end] = new_lines
             report.append(
@@ -435,8 +799,15 @@ def process(input_path: str, output_dir: str) -> None:
                 f"{stats['reordered']} umsortiert"
             )
         elif stype == "table":
-            keep_sub = section_info[4]
+            keep_sub = sec_cfg.get("keep_sub_entries", False)
             new_lines, stats = sort_index_table(output, start, end, keep_sub)
+            output[start:end] = new_lines
+            report.append(
+                f"  {name}: {stats['entries']} Einträge, "
+                f"{stats['reordered']} umsortiert"
+            )
+        elif stype == "bold_blocks":
+            new_lines, stats = sort_bold_blocks(output, start, end)
             output[start:end] = new_lines
             report.append(
                 f"  {name}: {stats['entries']} Einträge, "
@@ -459,7 +830,7 @@ def process(input_path: str, output_dir: str) -> None:
     if original_count != output_count:
         print(f"  ABWEICHUNG: {output_count - original_count:+d}")
     else:
-        print("  identisch")
+        print("  ✓ identisch")
     print()
     print("Verarbeitete Abschnitte:")
     for line in sorted(report):
@@ -467,19 +838,44 @@ def process(input_path: str, output_dir: str) -> None:
     print("=" * 60)
 
 
+def print_analysis(config: dict) -> None:
+    sections = config.get("sections", [])
+    if not sections:
+        print("  Keine sortierbaren Abschnitte erkannt.")
+        return
+
+    print(f"  {len(sections)} Abschnitte erkannt:\n")
+    for sec in sections:
+        status = "✓" if sec.get("enabled", True) else "✗"
+        name = sec["heading"]
+        if "subheading" in sec:
+            name += f" > {sec['subheading']}"
+        note = sec.get("note", "")
+        print(f"  {status} [{sec['type']}] {name}")
+        if note:
+            print(f"    {note}")
+
+
 def main():
     parser = argparse.ArgumentParser(
-        description="Sortiert Abschnitte der deutschen Ars-Magica-Basisregeln."
+        description="Sortiert Abschnitte deutscher Ars-Magica-Regelwerke."
     )
     parser.add_argument(
-        "--input", "-i",
-        default="german-reviewed/Ars Magica Definitive Edition Basisregeln Deutsch.md",
+        "--input", "-i", required=True,
         help="Pfad zur Eingabedatei",
     )
     parser.add_argument(
         "--output-dir", "-o",
         default="german-ordered",
-        help="Ausgabeverzeichnis",
+        help="Ausgabeverzeichnis (Standard: german-ordered)",
+    )
+    parser.add_argument(
+        "--analyze", action="store_true",
+        help="Nur analysieren, Config erzeugen/aktualisieren",
+    )
+    parser.add_argument(
+        "--verbose", "-v", action="store_true",
+        help="Detaillierte Ausgabe",
     )
     args = parser.parse_args()
 
@@ -487,7 +883,26 @@ def main():
         print(f"Fehler: Eingabedatei nicht gefunden: {args.input}", file=sys.stderr)
         sys.exit(1)
 
-    process(args.input, args.output_dir)
+    if args.analyze:
+        with open(args.input, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+        for i in range(len(lines)):
+            if not lines[i].endswith("\n"):
+                lines[i] += "\n"
+
+        config = analyze_and_save(args.input, lines)
+        cfg_path = _config_path_for(args.input)
+
+        print("=" * 60)
+        print("ANALYSE")
+        print("=" * 60)
+        print(f"  Datei:   {args.input}")
+        print(f"  Config:  {cfg_path}")
+        print()
+        print_analysis(config)
+        print("=" * 60)
+    else:
+        process(args.input, args.output_dir, args.verbose)
 
 
 if __name__ == "__main__":

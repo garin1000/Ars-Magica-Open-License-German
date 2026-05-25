@@ -1,0 +1,656 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Sphären der Macht - Magie.md",
+  "file_hash": "sha256:d38af68b31c25442",
+  "sections": [
+    {
+      "heading": "## Autorenbiographien",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "9 Fetteinträge"
+    },
+    {
+      "heading": "## Inhalt<br>",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "9 Fetteinträge"
+    },
+    {
+      "heading": "## Was ist Magie?",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge"
+    },
+    {
+      "heading": "## Verankerungen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Natürliche Verankerungen"
+    },
+    {
+      "heading": "## Verankerungen",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Natürliche Verankerungen"
+    },
+    {
+      "heading": "## Verankerungen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Symptome der Auraschwankung"
+    },
+    {
+      "heading": "## Ausgerichtete Auren",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Auren, die Emotionen verstärken"
+    },
+    {
+      "heading": "## Ausgerichtete Auren",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "15 Fetteinträge",
+      "subheading": "### Auf Künste ausgerichtete Auren"
+    },
+    {
+      "heading": "## Ausgerichtete Auren",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Andere ausgerichtete Auren"
+    },
+    {
+      "heading": "## Regeln der Sphäre",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### In die Magische Sphäre"
+    },
+    {
+      "heading": "## Regeln der Sphäre",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Magisches Reisen"
+    },
+    {
+      "heading": "## Regeln der Sphäre",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "7 Fetteinträge",
+      "subheading": "### Fortschritt"
+    },
+    {
+      "heading": "## Magische Charaktererschaffung",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Konzept"
+    },
+    {
+      "heading": "## Magische Charaktererschaffung",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "5 Fetteinträge",
+      "subheading": "### Jahreszeit"
+    },
+    {
+      "heading": "## Qualitäten und Mängel",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "13 Fetteinträge",
+      "subheading": "### Große Magische Qualitäten"
+    },
+    {
+      "heading": "## Qualitäten und Mängel",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "16 Fetteinträge",
+      "subheading": "### Kleine Magische Qualitäten"
+    },
+    {
+      "heading": "## Qualitäten und Mängel",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "6 Fetteinträge",
+      "subheading": "### Große Magische Mängel"
+    },
+    {
+      "heading": "## Qualitäten und Mängel",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "13 Fetteinträge",
+      "subheading": "### Kleine Magische Mängel"
+    },
+    {
+      "heading": "## Fertigkeiten, Tugenden und Fehler",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "27 H4-Blöcke",
+      "subheading": "### Neue und modifizierte Tugenden"
+    },
+    {
+      "heading": "## Fertigkeiten, Tugenden und Fehler",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "11 Fetteinträge",
+      "subheading": "### Neue und modifizierte Tugenden"
+    },
+    {
+      "heading": "## Fertigkeiten, Tugenden und Fehler",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "25 H4-Blöcke",
+      "subheading": "### Neue und modifizierte Fehler"
+    },
+    {
+      "heading": "## Fertigkeiten, Tugenden und Fehler",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "15 Fetteinträge",
+      "subheading": "### Neue und modifizierte Fehler"
+    },
+    {
+      "heading": "## Fertigkeiten, Tugenden und Fehler",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Neue und modifizierte Fertigkeiten"
+    },
+    {
+      "heading": "## Fertigkeiten, Tugenden und Fehler",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Neue und modifizierte Fertigkeiten"
+    },
+    {
+      "heading": "## Fortschritt",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Transformation"
+    },
+    {
+      "heading": "## Fortschritt",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Gewöhnung"
+    },
+    {
+      "heading": "## Tugendtiere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Tugendtiere entwerfen"
+    },
+    {
+      "heading": "## Tugendtiere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "12 H4-Blöcke",
+      "subheading": "### Beispiel-Tugendtiere"
+    },
+    {
+      "heading": "## Tugendtiere",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "76 Fetteinträge",
+      "subheading": "### Beispiel-Tugendtiere"
+    },
+    {
+      "heading": "## Vögel von Nephelokokkygien",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "6 Fetteinträge"
+    },
+    {
+      "heading": "## Die Magischen Linien der Katzen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "27 H4-Blöcke",
+      "subheading": "### Große oder Mindere Magische Kräfte der Katzen"
+    },
+    {
+      "heading": "## Die Magischen Linien der Katzen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Persönliche Magische Kräfte der Katzen"
+    },
+    {
+      "heading": "## Drachen und Drachenvolk",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Drachen als Charaktere"
+    },
+    {
+      "heading": "## Drachen und Drachenvolk",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "46 Fetteinträge",
+      "subheading": "### Drachen als Charaktere"
+    },
+    {
+      "heading": "## Verwandelte Tiere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Beispiele verzerrter Tiere"
+    },
+    {
+      "heading": "## Verwandelte Tiere",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "38 Fetteinträge",
+      "subheading": "### Beispiele verzerrter Tiere"
+    },
+    {
+      "heading": "## Kreaturen abrichten",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Tiere zähmen"
+    },
+    {
+      "heading": "## Kreaturen abrichten",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Tiere zähmen"
+    },
+    {
+      "heading": "## Kreaturen abrichten",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Kunststücke, Tricks und Aufgaben"
+    },
+    {
+      "heading": "## Kreaturen abrichten",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "6 Fetteinträge",
+      "subheading": "### Kunststücke, Tricks und Aufgaben"
+    },
+    {
+      "heading": "## Magische Riesen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Riesen erschaffen"
+    },
+    {
+      "heading": "## Magische Riesen",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "19 Fetteinträge",
+      "subheading": "### Riesen erschaffen"
+    },
+    {
+      "heading": "## Magische Riesen",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "16 Fetteinträge",
+      "subheading": "### Nordische Riesen und Trolle"
+    },
+    {
+      "heading": "## Geistverehrer",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke"
+    },
+    {
+      "heading": "## Geistverehrer",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "16 Fetteinträge"
+    },
+    {
+      "heading": "## Magische Verwandte",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Atlantier"
+    },
+    {
+      "heading": "## Magische Verwandte",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "5 Fetteinträge",
+      "subheading": "### Flammentänzer"
+    },
+    {
+      "heading": "## Magische Verwandte",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Vergessene Götter"
+    },
+    {
+      "heading": "## Magische Verwandte",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "6 Fetteinträge",
+      "subheading": "### Lehmwanderer"
+    },
+    {
+      "heading": "## Magische Verwandte",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Verlorene Kinder"
+    },
+    {
+      "heading": "## Magische Verwandte",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "5 Fetteinträge",
+      "subheading": "### Seemenschen"
+    },
+    {
+      "heading": "## Magische Verwandte",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Waisengeborene"
+    },
+    {
+      "heading": "## Magische Verwandte",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Die Steinhäutigen"
+    },
+    {
+      "heading": "## Verwandelte Menschen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Ertrunkene"
+    },
+    {
+      "heading": "## Verwandelte Menschen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Wiedergänger, die wandelnden Toten"
+    },
+    {
+      "heading": "## Verwandelte Menschen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Geister als Charaktere"
+    },
+    {
+      "heading": "## Kräfte der Geister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "9 Fetteinträge"
+    },
+    {
+      "heading": "## Luftgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Florae und Fauni"
+    },
+    {
+      "heading": "## Luftgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "13 Fetteinträge",
+      "subheading": "### Imagines, die Geister der Sinneswahrnehmung"
+    },
+    {
+      "heading": "## Luftgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Eidola, die Geister der Emotionen"
+    },
+    {
+      "heading": "## Luftgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Ortsgeister, Genii Loci"
+    },
+    {
+      "heading": "## Die Benannten Geister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "9 Fetteinträge",
+      "subheading": "### Astra Planeta"
+    },
+    {
+      "heading": "## Beispiel-Ortsgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "9 Fetteinträge",
+      "subheading": "### Der Ätna"
+    },
+    {
+      "heading": "## Beispiel-Ortsgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "11 Fetteinträge",
+      "subheading": "### Die Rheinfälle"
+    },
+    {
+      "heading": "## Beispiel-Ortsgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "11 Fetteinträge",
+      "subheading": "### Die Wüste von al-Meraya"
+    },
+    {
+      "heading": "## Beispiel-Ortsgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Der Brienzersee"
+    },
+    {
+      "heading": "## Beispiel-Ortsgeister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "11 Fetteinträge",
+      "subheading": "### Aillwee-Höhle"
+    },
+    {
+      "heading": "## Geister",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Geister als Charaktere"
+    },
+    {
+      "heading": "## Geister",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "21 Fetteinträge",
+      "subheading": "### Geister als Charaktere"
+    },
+    {
+      "heading": "## Vis",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Außergewöhnliches Vis"
+    },
+    {
+      "heading": "## Vis",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Außergewöhnliches Vis"
+    },
+    {
+      "heading": "## Vis",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Zweckgebundenes Vis"
+    },
+    {
+      "heading": "## Vis",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "20 Fetteinträge",
+      "subheading": "### Vis-Lagerung"
+    },
+    {
+      "heading": "## Tugendkräuter und Tugendobjekte",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Tugendkräuter"
+    },
+    {
+      "heading": "## Tugendkräuter und Tugendobjekte",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "16 H4-Blöcke",
+      "subheading": "### Tugendobjekte"
+    },
+    {
+      "heading": "## Erwachte Bäume",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Tugendbäume"
+    },
+    {
+      "heading": "## Erwachte Gegenstände",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "15 Fetteinträge"
+    },
+    {
+      "heading": "## Kelpie",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "17 Fetteinträge"
+    },
+    {
+      "heading": "## Elementare",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Gestaltung von Elementaren"
+    },
+    {
+      "heading": "## Elementare",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Wasserelementare"
+    },
+    {
+      "heading": "## Elementare",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Luftelementare"
+    },
+    {
+      "heading": "## Elementare",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Feuerelementare"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Natter (Viperis)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "14 Fetteinträge",
+      "subheading": "### Bär (Ursus)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Wildschwein (Aper)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "13 Fetteinträge",
+      "subheading": "### Stier (Taurus)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Katze (Felis)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Falke (Falco)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "13 Fetteinträge",
+      "subheading": "### Pferd, Renner (Equus)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Pferd, Schlachtross (Equus)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "12 Fetteinträge",
+      "subheading": "### Hund (Canis)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "13 Fetteinträge",
+      "subheading": "### Löwe (Leo)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "14 Fetteinträge",
+      "subheading": "### Hirsch (Cervus)"
+    },
+    {
+      "heading": "## Tiere des Mythischen Europas",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "13 Fetteinträge",
+      "subheading": "### Wolf (Lupus)"
+    }
+  ]
+}

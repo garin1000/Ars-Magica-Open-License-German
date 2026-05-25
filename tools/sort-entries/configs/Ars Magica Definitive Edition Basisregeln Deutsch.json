@@ -1,0 +1,911 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica Definitive Edition Basisregeln Deutsch.md",
+  "file_hash": "sha256:19fdae69f4b9f1b7",
+  "sections": [
+    {
+      "heading": "## Gedenkseiten",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "49 Fetteinträge"
+    },
+    {
+      "heading": "## Abbildungsverzeichnis",
+      "type": "table",
+      "enabled": false,
+      "note": "22 Tabellenzeilen"
+    },
+    {
+      "heading": "## Inhaltsverzeichnis",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge"
+    },
+    {
+      "heading": "## Glossar",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "32 Fetteinträge"
+    },
+    {
+      "heading": "## Die Geschichte des Ordens",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Krisen des Ordens"
+    },
+    {
+      "heading": "## Charakter-Grundlagen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "8 H4-Blöcke",
+      "subheading": "### Beschreibungen der Eigenschaften"
+    },
+    {
+      "heading": "## Charakter-Grundlagen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Selbstvertrauen"
+    },
+    {
+      "heading": "## Charaktervorlagen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "19 Fetteinträge",
+      "subheading": "### Format"
+    },
+    {
+      "heading": "## Charaktervorlagen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Grog-Vorlagen"
+    },
+    {
+      "heading": "## Charaktervorlagen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Gefährten-Vorlagen"
+    },
+    {
+      "heading": "## Charaktervorlagen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "12 H4-Blöcke",
+      "subheading": "### Magus-Vorlagen"
+    },
+    {
+      "heading": "## Detaillierte Charaktererschaffung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Fertigkeiten"
+    },
+    {
+      "heading": "## Mythische Gefährten",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Feendoktoren"
+    },
+    {
+      "heading": "## Mythische Gefährten",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Geist-Anhänger"
+    },
+    {
+      "heading": "## Regeln und Richtlinien für Tugenden und Fehler",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke"
+    },
+    {
+      "heading": "## Typen von Tugenden und Fehlern",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "10 H4-Blöcke",
+      "subheading": "### Sozialer Status"
+    },
+    {
+      "heading": "## Liste der Tugenden",
+      "type": "link_list",
+      "enabled": true,
+      "cat_level": "### ",
+      "note": "319 Links in 11 Kategorien"
+    },
+    {
+      "heading": "## Tugenden",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "318 H4-Blöcke"
+    },
+    {
+      "heading": "## Liste der Fehler",
+      "type": "link_list",
+      "enabled": true,
+      "cat_level": "### ",
+      "note": "318 Links in 12 Kategorien"
+    },
+    {
+      "heading": "## Fehler",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "308 H4-Blöcke"
+    },
+    {
+      "heading": "## Fertigkeiten nach Typ",
+      "type": "link_list",
+      "enabled": true,
+      "cat_level": "#### ",
+      "note": "77 Links in 5 Kategorien"
+    },
+    {
+      "heading": "## Fertigkeitsliste",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "80 H4-Blöcke"
+    },
+    {
+      "heading": "## Fertigkeitsliste",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "7 Fetteinträge"
+    },
+    {
+      "heading": "## Maßgeschneiderte Konventserstellung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "11 Fetteinträge",
+      "subheading": "### Bibliothek"
+    },
+    {
+      "heading": "## Maßgeschneiderte Konventserstellung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Spezialisten"
+    },
+    {
+      "heading": "## Maßgeschneiderte Konventserstellung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "22 Fetteinträge",
+      "subheading": "### Haken"
+    },
+    {
+      "heading": "## Maßgeschneiderte Konventserstellung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "15 Fetteinträge",
+      "subheading": "### Vorzüge"
+    },
+    {
+      "heading": "## Maßgeschneiderte Konventserstellung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Konventsloyalität"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "14 Fetteinträge",
+      "subheading": "### Einkommensquellen"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Ausgaben"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "7 Fetteinträge",
+      "subheading": "### Ausgaben"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "9 H4-Blöcke",
+      "subheading": "### Jährliche Ausgabenkategorien"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Jährliche Ausgabenkategorien"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Kostenersparnis"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "9 Fetteinträge",
+      "subheading": "### Zusammenfassung der jährlichen Ausgaben"
+    },
+    {
+      "heading": "## Die Gabe",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Erster Eindruck"
+    },
+    {
+      "heading": "## Die Hermetischen Künste",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Techniken"
+    },
+    {
+      "heading": "## Die Hermetischen Künste",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "11 H4-Blöcke",
+      "subheading": "### Formen"
+    },
+    {
+      "heading": "## Grenzen der Magie",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "12 H4-Blöcke",
+      "subheading": "### Die Niederen Grenzen"
+    },
+    {
+      "heading": "## Optionen beim Zaubern",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Alle Zauber"
+    },
+    {
+      "heading": "## Optionen beim Zaubern",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Spontane Zauber"
+    },
+    {
+      "heading": "## Zaubermeisterschaft",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "14 H4-Blöcke",
+      "subheading": "### Besondere Fähigkeiten gemeisterter Zauber"
+    },
+    {
+      "heading": "## Gefahren",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "19 Fetteinträge",
+      "subheading": "### Patzer"
+    },
+    {
+      "heading": "## Gefahren",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Das Zwielicht"
+    },
+    {
+      "heading": "## Gefahren",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "12 Fetteinträge",
+      "subheading": "### Das Zwielicht"
+    },
+    {
+      "heading": "## Gefahren",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge",
+      "subheading": "### Certamen"
+    },
+    {
+      "heading": "## Mysterien",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Bjornaer – Das Herztier"
+    },
+    {
+      "heading": "## Mysterien",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Criamon – Das Enigma"
+    },
+    {
+      "heading": "## Mysterien",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Criamon – Das Enigma"
+    },
+    {
+      "heading": "## Mysterien",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Merinita – Feenmagie"
+    },
+    {
+      "heading": "## Mysterien",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Merinita – Feenmagie"
+    },
+    {
+      "heading": "## Mysterien",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Verditius – Verditius-Magie"
+    },
+    {
+      "heading": "## Mysterien",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Verditius – Verditius-Magie"
+    },
+    {
+      "heading": "## Traditionen des Hauses Ex Miscellanea",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Die Nemthengacha"
+    },
+    {
+      "heading": "## Grundlegende Laboraktivitäten",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Vis"
+    },
+    {
+      "heading": "## Zauber",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Zauber von einem Lehrer erlernen"
+    },
+    {
+      "heading": "## Verzauberungen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Arten von Artefakten"
+    },
+    {
+      "heading": "## Verzauberungen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Effekte einbetten"
+    },
+    {
+      "heading": "## Verzauberungen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "7 Fetteinträge",
+      "subheading": "### Effekte einbetten"
+    },
+    {
+      "heading": "## Labortexte",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Labortexte verwenden"
+    },
+    {
+      "heading": "## Vertraute",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "15 Fetteinträge",
+      "subheading": "### Vorschläge für Vertraute nach Kunst"
+    },
+    {
+      "heading": "## Vertraute",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge",
+      "subheading": "### Die erste Bindung"
+    },
+    {
+      "heading": "## Lehrlinge",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Deinen Lehrling ausbilden"
+    },
+    {
+      "heading": "## Lehrlinge",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Deinen Lehrling ausbilden"
+    },
+    {
+      "heading": "## Arkanes Experimentieren",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "8 Fetteinträge",
+      "subheading": "### Tabelle außergewöhnlicher Ergebnisse"
+    },
+    {
+      "heading": "## Arkane Entdeckung",
+      "type": "table",
+      "enabled": false,
+      "note": "241 Tabellenzeilen"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "10 H4-Blöcke",
+      "subheading": "### Laboratorienseigenschaften"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Struktur-Tugenden und -Fehler"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "12 Fetteinträge",
+      "subheading": "### Struktur-Tugenden und -Fehler"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Ausstattungs-Tugenden und -Fehler"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "13 Fetteinträge",
+      "subheading": "### Ausstattungs-Tugenden und -Fehler"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Übernatürliche Tugenden und Fehler"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "11 Fetteinträge",
+      "subheading": "### Übernatürliche Tugenden und Fehler"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "36 Fetteinträge",
+      "subheading": "### Labor-Features"
+    },
+    {
+      "heading": "## Zauberentwurf",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Reichweiten, Dauern, Ziele"
+    },
+    {
+      "heading": "## Zauberentwurf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "20 Fetteinträge",
+      "subheading": "### Reichweiten, Dauern, Ziele"
+    },
+    {
+      "heading": "## Zauberentwurf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Magische Sinne"
+    },
+    {
+      "heading": "## Zauberentwurf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "10 Fetteinträge",
+      "subheading": "### Magisches Handwerk"
+    },
+    {
+      "heading": "## Ziele und Größen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Requisiten"
+    },
+    {
+      "heading": "## Animal-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Aquam-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Auram-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Corpus-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Herbam-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Ignem-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Imaginem-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Mentem-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Terram-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Vim-Zauber",
+      "type": "spells",
+      "enabled": true,
+      "note": "#### STUFE + ##### Muster"
+    },
+    {
+      "heading": "## Fortschritt",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Bücher"
+    },
+    {
+      "heading": "## Bücher",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Bücher verfassen"
+    },
+    {
+      "heading": "## Bücher",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Bücher verfassen"
+    },
+    {
+      "heading": "## Bücher",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Preise für Bücher"
+    },
+    {
+      "heading": "## Verzerrung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Verzerrungspunkte erwerben"
+    },
+    {
+      "heading": "## Altern",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "8 Fetteinträge"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge",
+      "subheading": "### Kampfwerte"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "7 Fetteinträge",
+      "subheading": "### Bewegung im Kampf"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Gruppen"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Kampfoptionen"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Rüstung"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Rüstung"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "8 Fetteinträge",
+      "subheading": "### Nahkampfwaffen-Statistiken"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "9 Fetteinträge",
+      "subheading": "### Fernkampfwaffen-Statistiken"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Waffenbeschreibungen"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "34 Fetteinträge",
+      "subheading": "### Waffenbeschreibungen"
+    },
+    {
+      "heading": "## Wunden",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Wunden heilen"
+    },
+    {
+      "heading": "## Weitere Gefahren",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Schwächung"
+    },
+    {
+      "heading": "## Kreaturen einer Sphäre",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Magieresistenz und Penetration"
+    },
+    {
+      "heading": "## Kräfte der Kreatur",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge"
+    },
+    {
+      "heading": "## Format der Kreatur",
+      "type": "table",
+      "enabled": false,
+      "note": "22 Tabellenzeilen"
+    },
+    {
+      "heading": "## Kreaturen erschaffen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge"
+    },
+    {
+      "heading": "## Gewöhnliche Tiere erschaffen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### 2. Eigenschaften"
+    },
+    {
+      "heading": "## Gewöhnliche Tiere erschaffen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "47 Fetteinträge",
+      "subheading": "### 5. Eigenschaften"
+    },
+    {
+      "heading": "## Gewöhnliche Tiere erschaffen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Werte von Gestaltwandlern"
+    },
+    {
+      "heading": "## Kreaturen der Magie",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Abenteueridee:"
+    },
+    {
+      "heading": "## Feenwesen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Neue Tugenden und Fehler"
+    },
+    {
+      "heading": "## Höllische Kreaturen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Verderbte Tiere"
+    },
+    {
+      "heading": "## Die Macht der Frauen in der Öffentlichkeit",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Land besitzen"
+    },
+    {
+      "heading": "## Die Macht der Frauen in der Öffentlichkeit",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Frauen als Kriegerinnen"
+    },
+    {
+      "heading": "## Konversion aus der Vierten Edition",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Die ausführliche Antwort"
+    },
+    {
+      "heading": "## Wundenheilung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "9 Fetteinträge",
+      "subheading": "### Fernkampfwaffen-Statistiken"
+    },
+    {
+      "heading": "## Wundenheilung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Rüstungstafel"
+    },
+    {
+      "heading": "## Wundenheilung",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "8 Fetteinträge",
+      "subheading": "### Nahkampfwaffen-Statistiken"
+    },
+    {
+      "heading": "## Zauberregeln",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "19 H4-Blöcke",
+      "subheading": "### Zauber wirken"
+    },
+    {
+      "heading": "## Zauberregeln",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "22 Fetteinträge",
+      "subheading": "### Zauber wirken"
+    },
+    {
+      "heading": "## Laborregeln",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Laboraktivitäten"
+    },
+    {
+      "heading": "## Laborregeln",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Verzauberte Gegenstände"
+    },
+    {
+      "heading": "## Tabelle außergewöhnlicher Ergebnisse",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "8 Fetteinträge"
+    },
+    {
+      "heading": "## Saisonale Tätigkeiten",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Bücher schreiben"
+    },
+    {
+      "heading": "## Saisonale Tätigkeiten",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "13 Fetteinträge",
+      "subheading": "### Quellenqualitäten für den Fortschritt"
+    },
+    {
+      "heading": "## Zauberindex",
+      "type": "table",
+      "enabled": true,
+      "note": "360 Tabellenzeilen"
+    },
+    {
+      "heading": "## Bestiariumsindex",
+      "type": "table",
+      "enabled": true,
+      "note": "62 Tabellenzeilen"
+    },
+    {
+      "heading": "## Traditioneller Index",
+      "type": "table",
+      "enabled": true,
+      "note": "1535 Tabellenzeilen",
+      "keep_sub_entries": true
+    }
+  ]
+}

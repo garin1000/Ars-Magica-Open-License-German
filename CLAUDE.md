@@ -45,7 +45,7 @@ Du bist erfahrener Lektor für Rollenspielsysteme.
 ├── german-wip/               # Deutsche Übersetzungen in Bearbeitung
 ├── tools/                    # Dauerhafte Skripte und Hilfsdateien
 │   ├── build-html/           # HTML-Konvertierung (md_to_html.py, fuse.min.js)
-│   └── sort-entries/         # Alphabetische Sortierung (sort_entries.py)
+│   └── sort-entries/         # Alphabetische Sortierung (sort_entries.py, configs/)
 ├── translation-tables/       # Übersetzungstabellen und Terminologieregeln
 ├── formatting-rules/         # Formatierungsregeln für Statblöcke und Beschreibungen
 ├── lektorat/                 # Lektoratsergebnisse der Prüfagenten
@@ -85,9 +85,10 @@ Du bist erfahrener Lektor für Rollenspielsysteme.
 - [`README.md`](lektorat/README.md) dokumentiert **Namenskonventionen** und aktuellen Stand.
 
 ### `/german-ordered`
-- **Freigegebene Dateien** – automatisch erzeugte Versionen der Übersetzungen mit **alphabetisch sortierten Einträgen** (Tugenden, Fehler, Fertigkeiten, Zauber, Indizes).
-- Wird aus `german-reviewed/` durch das Kommando `/sort-entries` erzeugt (dieser erstellt und startet `tmp/sort_entries.py`).
-- Sortierte Abschnitte: Link-Listen, Beschreibungsblöcke, Zauber innerhalb jeder Stufe, Index-Tabellen.
+- **Freigegebene Dateien** – automatisch erzeugte Versionen der Übersetzungen mit **alphabetisch sortierten Einträgen** (Tugenden, Fehler, Fertigkeiten, Zauber, Indizes, Qualitäten).
+- Wird aus `german-reviewed/` durch das Kommando `/sort-entries <datei>` erzeugt (`tools/sort-entries/sort_entries.py`).
+- 5 Sortiertypen: Link-Listen, Beschreibungsblöcke, Zauber innerhalb jeder Stufe, Index-Tabellen, Bold-Entry-Blöcke.
+- Pro Datei existiert eine JSON-Config in `tools/sort-entries/configs/`, die bestimmt, welche Abschnitte sortiert werden.
 - Die Zeilenzahl bleibt bei der Sortierung identisch zur Eingabe.
 - Dient als **Eingabe** für `/build-html`.
 
