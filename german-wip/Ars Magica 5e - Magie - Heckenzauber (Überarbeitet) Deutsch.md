@@ -354,7 +354,7 @@ Vitkar-Fehler <br>
 Die Runengedichte<br>
 Odins Opfer<br>
 Varianten des Runenwirkens <br>
-Der Ältere Futhark <br>
+Das Ältere Futhark <br>
 Ansuz-Leitlinien<br>
 Berkanan-Leitlinien <br>
 Dagaz-Leitlinien <br>
@@ -380,7 +380,7 @@ Wunjo-Leitlinien  <br>
 Ihwaz-Leitlinien<br>
 Algiz-Leitlinien  <br>
 Der Angelsächsische Futhorc <br>
-Der Jüngere Futhark   <br>
+Das Jüngere Futhark   <br>
 Eirik Svennson, Krieger-Vitki 
 
 # Kapitel Eins: Einleitung
@@ -6467,7 +6467,7 @@ Die Runen werden oft in drei Gruppen zu je acht Buchstaben geordnet, die *Aettir
 >
 >\* wie für den Effekt angemessen
 
->#### Der Ältere Futhark
+>#### Das Ältere Futhark
 >
 >Die drei Aettir des Älteren Futhark sind nach drei Göttern benannt, die jeweils mit dem ersten Buchstaben ihrer Aett verbunden sind. Freya war eine nordische Göttin der Liebe und Ehe, Heimdall war der Gott, der beauftragt war, die Regenbogenbrücke zu bewachen, die von der Erde nach Asgard führt, und Tyr war der Gott der Gerechtigkeit und des Kampfes.
 >
@@ -7333,11 +7333,11 @@ Für die Dauer des Zaubereffekts können wilde Tiere nicht innerhalb von zehn Sc
 
 ### Modifizierte Runen
 
-Nachdem die Vitkir gelernt hatten, die ersten Runen zu verwenden, reisten viele von ihnen in verschiedene Teile der Welt und ließen sich dort nieder. Über Jahrhunderte an vielen gegenüberliegenden Küsten der Nordsee sich selbst überlassen, durchlief ihr Alphabet merkliche Veränderungen. Der Ältere Futhark, die zuvor beschriebenen Runen, wurden in den frühesten Zaubern und Inschriften der Vitkir verwendet, aber im Laufe der Zeit änderten sich die Namen und Bedeutungen der Runen, die Sprache wurde kompakter, und die Runenmeister begannen, weniger Zeichen zu verwenden. Diese Variante wurde als der Jüngere Futhark bekannt.
+Nachdem die Vitkir gelernt hatten, die ersten Runen zu verwenden, reisten viele von ihnen in verschiedene Teile der Welt und ließen sich dort nieder. Über Jahrhunderte an vielen gegenüberliegenden Küsten der Nordsee sich selbst überlassen, durchlief ihr Alphabet merkliche Veränderungen. Das Ältere Futhark, die zuvor beschriebenen Runen, wurden in den frühesten Zaubern und Inschriften der Vitkir verwendet, aber im Laufe der Zeit änderten sich die Namen und Bedeutungen der Runen, die Sprache wurde kompakter, und die Runenmeister begannen, weniger Zeichen zu verwenden. Diese Variante wurde als das Jüngere Futhark bekannt.
 
 In England erweiterten die Vitkir und nordischen Siedler das Alphabet stattdessen und fügten schließlich vier weitere Runen hinzu und veränderten die Bedeutung vieler anderer, was eine sehr andere Runenreihe hervorbrachte, die Futhorc genannt wird. Ihre Runengedichte wurden dann von den wohlmeinenden Mönchen bearbeitet, die sie aus der fremden Sprache ins Lateinische übersetzten, wobei Verweise auf Riesen, Dämonen und andere beängstigende Vorstellungen entfernt und der christliche Gott in viele der Zeilen eingefügt wurde.
 
-Dasselbe Magiesystem, das in diesem Kapitel beschrieben wird, kann verwendet werden, um mit diesen anderen Runenalphabeten Magie zu wirken, obwohl beide schwächer sind als der ursprüngliche Ältere Futhark. Die Magie des Jüngeren Futhark verwendet nur 16 der 24 Runen (wie im Kasten gezeigt) und erfordert daher weniger Erfahrung zur Entwicklung, ist aber auch weniger vielseitig – diese Zeichen erschließen weniger Runen, wenn sie erstmals in die Tradition eingeführt werden. Der angelsächsische Futhorc hat bis zu 33 Zeichen, und so wird die Kraft der Älteren Runen ebenfalls geschwächt, da die Erfahrung auf all diese zusätzlichen Runen verteilt wird.
+Dasselbe Magiesystem, das in diesem Kapitel beschrieben wird, kann verwendet werden, um mit diesen anderen Runenalphabeten Magie zu wirken, obwohl beide schwächer sind als das ursprüngliche Ältere Futhark. Die Magie des Jüngeren Futhark verwendet nur 16 der 24 Runen (wie im Kasten gezeigt) und erfordert daher weniger Erfahrung zur Entwicklung, ist aber auch weniger vielseitig – diese Zeichen erschließen weniger Runen, wenn sie erstmals in die Tradition eingeführt werden. Der angelsächsische Futhorc hat bis zu 33 Zeichen, und so wird die Kraft der Älteren Runen ebenfalls geschwächt, da die Erfahrung auf all diese zusätzlichen Runen verteilt wird.
 
 ### Hermetische Integration
 
@@ -7384,9 +7384,9 @@ Beachte, dass der Orden des Hermes allgemein als im Krieg befindlich mit dem Ord
 >| St        | ᛥ    | Stan    | „Stein"         | —               |
 >| Or        | ᛡ    | Ior     | „Wasserungeheuer" | —             |
 
->#### Der Jüngere Futhark
+>#### Das Jüngere Futhark
 >
->In Dänemark und Deutschland begann sich der Futhark im Laufe der Zeit weiterzuentwickeln, sowohl bei der Kommunikation als auch beim Zaubern. Viele der Namen und Bedeutungen der Runen änderten sich, als die Sprache verdichtet wurde, und die Runenmeister einigten sich schließlich auf einen Satz von 16 Runen statt der ursprünglichen 24. Statt drei Aettir aus je acht Runen hatte die erste Aett in diesem System nur sechs Runen und die anderen beiden hatten fünf. Es fehlen Gebo, Wunjo, Perth, Algiz, Ehwaz, Ingwaz, Dagaz und Othila. Diese Variante wurde als der Jüngere Futhark bekannt.
+>In Dänemark und Deutschland begann sich das Futhark im Laufe der Zeit weiterzuentwickeln, sowohl bei der Kommunikation als auch beim Zaubern. Viele der Namen und Bedeutungen der Runen änderten sich, als die Sprache verdichtet wurde, und die Runenmeister einigten sich schließlich auf einen Satz von 16 Runen statt der ursprünglichen 24. Statt drei Aettir aus je acht Runen hatte die erste Aett in diesem System nur sechs Runen und die anderen beiden hatten fünf. Es fehlen Gebo, Wunjo, Perth, Algiz, Ehwaz, Ingwaz, Dagaz und Othila. Diese Variante wurde als das Jüngere Futhark bekannt.
 >
 >| Buchstabe | Rune | Name    | Bedeutung     | Älterer Futhark |
 >| --------- | ---- | ------- | ------------- | --------------- |

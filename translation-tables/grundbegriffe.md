@@ -48,6 +48,7 @@
 | Familiar | – | – | – | – | Vertrauter | Magisch gebundenes Tier eines Magus |
 | Fatigue | – | – | – | – | Erschöpfung | Erschöpfungszustand |
 | Fatigue Level | – | – | – | – | Erschöpfungsstufe | |
+| Futhark | – | – | – | – | Futhark (n.) | Runenalphabet; Genus: **das** Futhark (Neutrum), nicht „der Futhark" |
 | Filius / Filia | Filius | Filia | Filii | Filiae | Filius / Filia | Ehemaliger Lehrling, jetzt Magus |
 | Final Twilight | – | – | – | – | Endgültiges Zwielicht | Permanentes Verschwinden eines Magus; konsistent mit alterung-twilight.md |
 | Formulaic Magic | – | – | – | – | Formulaische Magie | Standardisierte Magie mit Gesten und Worten |
