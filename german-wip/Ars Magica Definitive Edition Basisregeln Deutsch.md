@@ -23698,365 +23698,365 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 | Zaubername | Künste | Stufe | Seite |
 |------------|--------|-------|-------|
 | Aegis des Herdes (Aegis Of The Hearth) | ReVi | Allgemein | [370](#aegis-des-herdes) |
-| Amulett gegen Verwesung (Charm Against Putrefaction) | CrCo | 10 | [332](#amulett-gegen-verwesung) |
-| Angriff der zornigen Winde (Charge Of The Angry Winds) | CrAu | 15 | [326](#angriff-der-zornigen-winde) |
-| Atem des freien Himmels (Breath Of The Open Sky) | CrAu | 40 | [327](#atem-des-freien-himmels) |
-| Auf der Suche nach reinem Silber (Probe For Pure Silver) | InTe | 4 | [359](#auf-der-suche-nach-reinem-silber) |
-| Auf der Zungenspitze (Tip Of The Tongue) | PeMe | 5 | [355](#auf-der-zungenspitze) |
-| Auflösung des Phantombildes (Dispel The Phantom Image) | PeIm | Allgemein | [351](#auflösung-des-phantombildes) |
-| Aufstieg des federleichten Körpers (Rise Of The Feathery Body) | ReCo | 10 | [337](#aufstieg-des-federleichten-körpers) |
-| Aufwallender Zorn (Rising Ire) | CrMe | 15 | [353](#aufwallender-zorn) |
-| Auge des Arztes (Physician's Eye) | InCo | 5 | [333](#auge-des-arztes) |
-| Augen der Flamme (Eyes Of The Flame) | InIg | 35 | [345](#augen-der-flamme) |
-| Augen der Katze (Eyes Of The Cat) | MuCo | 5 | [333](#augen-der-katze) |
-| Augen der Äonen (Eyes Of The Eons) | InTe | 10 | [359](#augen-der-äonen) |
-| Augen des Adlers (Eyes Of The Eagle) | InIm | 25 | [349](#augen-des-adlers) |
-| Augen des tückischen Geländes (Eyes Of The Treacherous Terrain) | InTe | 15 | [359](#augen-des-tückischen-geländes) |
+| Qual des Tieres (Agony Of The Beast) | PeAn | 15 | [318](#qual-des-tieres) |
+| Gespenstische Luftgestalt (Air's Ghostly Form) | CrAu | 5 | [325](#gespenstische-luftgestalt) |
+| Bogen aus feurigen Bändern (Arc Of Fiery Ribbons) | CrIg | 25 | [344](#bogen-aus-feurigen-bändern) |
+| Der Arm des Säuglings (Arm Of The Infant) | MuCo | 20 | [334](#der-arm-des-säuglings) |
 | Aura der adligen Erscheinung (Aura Of Ennobled Presence) | MuIm | 10 | [350](#aura-der-adligen-erscheinung) |
 | Aura der rechtmäßigen Autorität (Aura Of Rightful Authority) | ReMe | 20 | [357](#aura-der-rechtmäßigen-autorität) |
-| Ausbruch der fegenden Flammen (Burst Of The Sweeping Flames) | ReIg | 25 | [347](#ausbruch-der-fegenden-flammen) |
-| Ausdauer der Berserker (Endurance Of The Berserkers) | ReCo | 15 | [338](#ausdauer-der-berserker) |
-| Austrocknender Wind (Parching Wind) | PeAq | 20 | [323](#austrocknender-wind) |
-| Befreiung des schreitenden Baumes (Freeing The Striding Tree) | ReHe | 30 | [343](#befreiung-des-schreitenden-baumes) |
-| Beruhigung des bewegten Herzens (Calm The Motion Of The Heart) | PeMe | 15 | [356](#beruhigung-des-bewegten-herzens) |
-| Berührung der Gänsefeder (Touch Of The Goose Feather) | PeCo | 5 | [335](#berührung-der-gänsefeder) |
-| Berührung der Perlen (Touch Of The Pearls) | InAq | 5 | [322](#berührung-der-perlen) |
-| Berührung des Midas (Touch Of Midas) | CrTe | 20 | [359](#berührung-des-midas) |
-| Herbeirufen der Mattigkeit (Invocation Of Weariness) | PeCo | 20 | [336](#herbeirufen-der-mattigkeit) |
-| Beschwörung der milchigen Augen (Incantation Of The Milky Eyes) | PeCo | 30 | [336](#beschwörung-der-milchigen-augen) |
-| Beschwörung der Toten (Incantation Of Summoning The Dead) | ReMe | 40 | [358](#beschwörung-der-toten) |
-| Beschwörung der unbestreitbaren Kälte (Conjuration Of The Indubitable Cold) | PeIg | 25 | [346](#beschwörung-der-unbestreitbaren-kälte) |
-| Beschwörung des faulen Weines (Incantation Of Putrid Wine) | MuAq | 15 | [322](#beschwörung-des-faulen-weines) |
-| Beschwörung des fernen Bildes (Summoning The Distant Image) | InIm | 25 | [350](#beschwörung-des-fernen-bildes) |
-| Beschwörung des geheilten Körpers (Incantation Of The Body Made Whole) | CrCo | 40 | [332](#beschwörung-des-geheilten-körpers) |
-| Besen der Winde (Broom Of The Winds) | CrAu | 15 | [326](#besen-der-winde) |
-| Besänftige die tobenden Flammen (Soothe The Raging Flames) | PeIg | 20 | [346](#besänftige-die-tobenden-flammen) |
-| Bild des Tieres (Image Of The Beast) | InAn | 5 | [316](#bild-des-tieres) |
-| Bildphantom (Image Phantom) | MuIm | 20 | [350](#bildphantom) |
-| Blick auf die wahre Gestalt (Sight Of The True Form) | InCo | Allgemein | [333](#blick-auf-die-wahre-gestalt) |
-| Blick der Viper (Viper's Gaze) | ReAn | 15 | [320](#blick-der-viper) |
-| Blick in den sterblichen Geist (Peering Into The Mortal Mind) | InMe | 30 | [354](#blick-in-den-sterblichen-geist) |
-| Blitz scharlachroter Flammen (Flash Of The Scarlet Flames) | CrIg | 15 | [344](#blitz-scharlachroter-flammen) |
-| Bogen aus feurigen Bändern (Arc Of Fiery Ribbons) | CrIg | 25 | [344](#bogen-aus-feurigen-bändern) |
-| Brunnen ohne Licht (Well Without Light) | PeIg | 25 | [346](#brunnen-ohne-licht) |
+| Den schlummernden Leichnam erwecken (Awaken The Slumbering Corpse) | ReCo | 25 | [338](#den-schlummernden-leichnam-erwecken) |
+| Kugel der abgründigen Flamme (Ball Of Abysmal Flame) | CrIg | 35 | [344](#kugel-der-abgründigen-flamme) |
+| Fluch des hinfälligen Leibes (Bane Of The Decrepit Body) | PeCo | 25 | [336](#fluch-des-hinfälligen-leibes) |
+| Tier winziger Gestalt (Beast Of Minuscule Proportions) | MuAn | 20 | [318](#tier-winziger-gestalt) |
+| Tier ungeheurer Größe (Beast Of Outlandish Size) | MuAn | 15 | [317](#tier-ungeheurer-größe) |
+| Das neu geformte Tier (Beast Remade, The) | MuAn | 25 | [318](#das-neu-geformte-tier) |
+| Wunde verbinden (Bind Wound) | CrCo | 10 | [332](#wunde-verbinden) |
+| Schwarzes Flüstern (Black Whisper) | PeMe | 40 | [356](#schwarzes-flüstern) |
+| Klinge der wütenden Flamme (Blade Of The Virulent Flame) | CrIg | 15 | [344](#klinge-der-wütenden-flamme) |
+| Segen der kindlichen Glückseligkeit (Blessing Of Childlike Bliss) | PeMe | 25 | [356](#segen-der-kindlichen-glückseligkeit) |
+| Den Giftzahn der Viper abstumpfen (Blunt The Viper's Fangs) | PeAn | 20 | [319](#den-giftzahn-der-viper-abstumpfen) |
+| Das üppige Festmahl (Bountiful Feast, The) | CrHe | 35 | [339](#das-üppige-festmahl) |
+| Die anrollende Welle brechen (Break The Oncoming Wave) | ReAq | 10 | [324](#die-anrollende-welle-brechen) |
+| Atem des freien Himmels (Breath Of The Open Sky) | CrAu | 40 | [327](#atem-des-freien-himmels) |
+| Hauch des Winters (Breath Of Winter) | ReAq | 15 | [324](#hauch-des-winters) |
 | Brücke aus Frost (Bridge Of Frost) | ReAq | 30 | [324](#brücke-aus-frost) |
 | Brücke aus Holz (Bridge Of Wood) | CrHe | 20 | [339](#brücke-aus-holz) |
-| Chaos der zornigen Wellen (Chaos Of The Angry Waves) | ReAq | 30 | [324](#chaos-der-zornigen-wellen) |
-| Communion des Zauberers (Wizard's Communion) | MuVi | Allgemein | [369](#communion-des-zauberers) |
-| Das (Form)-Gefüge auflösen (Unraveling The Fabric Of (Form)) | PeVi | Allgemein | [370](#das-form-gefüge-auflösen) |
-| Das abgetrennte Glied wird heil (Severed Limb Made Whole, The) | CrCo | 25 | [332](#das-abgetrennte-glied-wird-heil) |
-| Das Antlitz des Fremden (Disguise of the New Visage) (Disguise Of The New Visage) | MuCo | 15 | [333](#das-antlitz-des-fremden-disguise-of-the-new-visage) |
-| Das Auge des Weisen (Eye Of The Sage, The) | InCo | 30 | [333](#das-auge-des-weisen) |
-| Das Buch des tierischen Geistes öffnen (Opening The Tome Of The Animal's Mind) | InAn | 25 | [317](#das-buch-des-tierischen-geistes-öffnen) |
-| Das Ende der mächtigen Burg (End Of The Mighty Castle) | PeTe | 25 | [362](#das-ende-der-mächtigen-burg) |
-| Das enthüllte unsichtbare Auge (Invisible Eye Revealed, The) | InVi | Allgemein | [366](#das-enthüllte-unsichtbare-auge) |
-| Das Erdtor verschließen (Closing The Earth's Gate) | PeAq | 25 | [323](#das-erdtor-verschließen) |
-| Das erloschene Feuer der Leidenschaft (Passion's Lost Feeling) | PeMe | 25 | [356](#das-erloschene-feuer-der-leidenschaft) |
-| Das Feuer einfangen (Trapping The Fire) | MuIg | 25 | [346](#das-feuer-einfangen) |
-| Das Geschenk der Lebendigkeit (Gift Of Vigor, The) | ReCo | 20 | [338](#das-geschenk-der-lebendigkeit) |
-| Das Geschenk des Enigmas (Enigma's Gift, The) | CrVi | 30 | [365](#das-geschenk-des-enigmas) |
-| Das gezügelte Tier kommandieren (Commanding The Harnessed Beast) | ReAn | 30 | [320](#das-gezügelte-tier-kommandieren) |
-| Das neu geformte Tier (Beast Remade, The) | MuAn | 25 | [318](#das-neu-geformte-tier) |
-| Das Objekt wächst (Object Of Increased Size) | MuTe | 20 | [361](#das-objekt-wächst) |
-| Das Ohr für entfernte Stimmen (Ear For Distant Voices, The) | InIm | 20 | [349](#das-ohr-für-entfernte-stimmen) |
-| Das Portal des Hermes (Hermes' Portal) | ReTe | 75 | [364](#das-portal-des-hermes) |
-| Das Reittier des Zauberers (Wizard's Mount, The) | CrAn | 35 | [316](#das-reittier-des-zauberers) |
-| Das sanfte Tier (Gentle Beast, The) | ReAn | 25 | [320](#das-sanfte-tier) |
-| Das scharfe Auge des Bergmanns (Miner's Keen Eye, The) | InTe | 20 | [359](#das-scharfe-auge-des-bergmanns) |
-| Das steinerne Gedächtnis des ruhenden Geistes (Stone Tell Of The Mind That Sits) | InTe | 30 | [360](#das-steinerne-gedächtnis-des-ruhenden-geistes) |
-| Das Teilen der Wellen (Parting The Waves) | ReAq | 30 | [324](#das-teilen-der-wellen) |
-| Das verborgene Tal (Shrouded Glen, The) | ReMe | 40 | [358](#das-verborgene-tal) |
-| Das vielfarbige Flammenmeer (Many-Hued Conflagration, The) | MuIg | 5 | [345](#das-vielfarbige-flammenmeer) |
-| Das vom Zauberer losgelöste Bild (Image From The Wizard Torn) | ReIm | 35 | [352](#das-vom-zauberer-losgelöste-bild) |
-| Das Welken der Pflanze (Plant's Withering Bane) | PeHe | 20 | [341](#das-welken-der-pflanze) |
-| Das Werk des Zauberers unterdrücken (Suppressing The Wizard's Handiwork) | ReVi | Allgemein | [372](#das-werk-des-zauberers-unterdrücken) |
-| Das Wesen der Kreatur bündeln (Gather The Essence Of The Beast) | ReVi | 15 | [372](#das-wesen-der-kreatur-bündeln) |
-| Das widerspenstige Tier meistern (Mastering The Unruly Beast) | ReAn | 25 | [320](#das-widerspenstige-tier-meistern) |
-| Das üppige Festmahl (Bountiful Feast, The) | CrHe | 35 | [339](#das-üppige-festmahl) |
-| Den anspruchsvollen Zauber aufrechterhalten (Maintaining The Demanding Spell) | ReVi | Allgemein | [372](#den-anspruchsvollen-zauber-aufrechterhalten) |
-| Den Aschenpfad beschreiten (Treading The Ashen Path) | PeHe | 30 | [342](#den-aschenpfad-beschreiten) |
-| Den baumelnden Hampelmann heben (Lifting The Dangling Puppet) | ReCo | 15 | [338](#den-baumelnden-hampelmann-heben) |
-| Den Feenschleier durchdringen (Piercing The Faerie Veil) | InVi | 20 | [367](#den-feenschleier-durchdringen) |
-| Den Geruch der Magie verschleiern (Masking The Odor Of Magic) | PeVi | Allgemein | [369](#den-geruch-der-magie-verschleiern) |
-| Den Giftzahn der Viper abstumpfen (Blunt The Viper's Fangs) | PeAn | 20 | [319](#den-giftzahn-der-viper-abstumpfen) |
-| Den heimsuchenden Geist zur Ruhe betten (Lay To Rest The Haunting Spirit) | PeMe | Allgemein | [355](#den-heimsuchenden-geist-zur-ruhe-betten) |
-| Den heulenden Wolf lähmen (Cripple The Howling Wolf) | PeAn | 25 | [319](#den-heulenden-wolf-lähmen) |
-| Den immateriellen Tunnel öffnen (Opening The Intangible Tunnel) | ReVi | Allgemein | [372](#den-immateriellen-tunnel-öffnen) |
-| Den lebenden Baum formen (Twist The Living Tree) | ReHe | 25 | [343](#den-lebenden-baum-formen) |
-| Den Rat der Bäume einberufen (Calling The Council Of The Trees) | ReHe | 45 | [343](#den-rat-der-bäume-einberufen) |
-| Den schlummernden Baum erwecken (Stir The Slumbering Tree) | MuHe | 25 | [341](#den-schlummernden-baum-erwecken) |
-| Den schlummernden Leichnam erwecken (Awaken The Slumbering Corpse) | ReCo | 25 | [338](#den-schlummernden-leichnam-erwecken) |
-| Den Sensenmann überlisten (Cheating The Reaper) | CrCo | 30 | [332](#den-sensenmann-überlisten) |
-| Den tobenden Bären besänftigen (Soothe The Ferocious Bear) | ReAn | 10 | [319](#den-tobenden-bären-besänftigen) |
-| Den tobenden Wind besänftigen (Quiet The Raging Winds) | PeAu | 20 | [329](#den-tobenden-wind-besänftigen) |
-| Der Arm des Säuglings (Arm Of The Infant) | MuCo | 20 | [334](#der-arm-des-säuglings) |
-| Der Blick auf aktive Magien (Sight Of The Active Magics) | InVi | 40 | [367](#der-blick-auf-aktive-magien) |
-| Der innerste Gefährte (Inmost Companion) | MuMe | 40 | [355](#der-innerste-gefährte) |
-| Der Kamm der Erdwelle (Crest Of The Earth Wave) | ReTe | 20 | [363](#der-kamm-der-erdwelle) |
-| Der Karfunkel der Erde (Earth's Carbuncle, The) | ReTe | 15 | [363](#der-karfunkel-der-erde) |
-| Der kriechende Abgrund (Creeping Chasm) | ReTe | 30 | [363](#der-kriechende-abgrund) |
-| Der Kristallpfeil (Crystal Dart, The) | MuTe | 10 | [360](#der-kristallpfeil) |
-| Der mystische Turm (Conjuring The Mystic Tower) | CrTe | 35 | [359](#der-mystische-turm) |
+| Besen der Winde (Broom Of The Winds) | CrAu | 15 | [326](#besen-der-winde) |
+| Ausbruch der fegenden Flammen (Burst Of The Sweeping Flames) | ReIg | 25 | [347](#ausbruch-der-fegenden-flammen) |
+| Ruf des rauschenden Wassers (Call Of The Rushing Waters) | InAq | 15 | [322](#ruf-des-rauschenden-wassers) |
 | Der Ruf des Schlummers (Call To Slumber, The) | ReMe | 10 | [357](#der-ruf-des-schlummers) |
-| Der Schatten des erneuerten Lebens (Shadow Of Life Renewed, The) | CrCo | 75 | [332](#der-schatten-des-erneuerten-lebens) |
-| Der Schatten menschlichen Lebens (Shadow Of Human Life, The) | CrIm | 40 | [349](#der-schatten-menschlichen-lebens) |
-| Der Sinn für anhaltende Magie (Sense Of The Lingering Magic) | InVi | 30 | [367](#der-sinn-für-anhaltende-magie) |
-| Der Sprung der Heimkehr (Leap Of Homecoming, The) | ReCo | 35 | [338](#der-sprung-der-heimkehr) |
-| Der spurlose Schritt (Trackless Step) | ReTe | 10 | [363](#der-spurlose-schritt) |
-| Der Steinschlag (Cascade Of Rocks) | PeTe | 40 | [362](#der-steinschlag) |
-| Der stämmige Weinstock (Conjure The Sturdy Vine) | CrHe | 5 | [339](#der-stämmige-weinstock) |
-| Der Kuss des Todes (Kiss Of Death, The) | PeCo | 45 | [336](#der-kuss-des-todes) |
-| Der unsichtbare Arm (Unseen Arm) | ReTe | 5 | [362](#der-unsichtbare-arm) |
-| Der unsichtbare Träger (Unseen Porter, The) | ReTe | 10 | [363](#der-unsichtbare-träger) |
-| Der verräterische Speer (Treacherous Spear, The) | ReHe | 25 | [343](#der-verräterische-speer) |
-| Der wolkenlose Himmel kehrt zurück (Cloudless Sky Returned, The) | PeAu | 45 | [329](#der-wolkenlose-himmel-kehrt-zurück) |
-| Des Chirurgen heilende Berührung (Chirurgeon's Healing Touch, The) | CrCo | 20 | [332](#des-chirurgen-heilende-berührung) |
-| Des Seemanns Vorgeschmack auf den morgigen Tag (Sailor's Foretaste Of The Morrow) | InAu | 15 | [327](#des-seemanns-vorgeschmack-auf-den-morgigen-tag) |
-| Des Zauberers Herbst (Wizard's Autumn) | PeHe | 15 | [341](#des-zauberers-herbst) |
-| Des Zauberers Schritt zur Seite (Wizard's Sidestep) | ReIm | 10 | [352](#des-zauberers-schritt-zur-seite) |
-| Die anrollende Welle brechen (Break The Oncoming Wave) | ReAq | 10 | [324](#die-anrollende-welle-brechen) |
-| Die Beschwörung des Blitzes (Incantation Of Lightning, The) | CrAu | 35 | [327](#die-beschwörung-des-blitzes) |
-| Die Erde bricht auseinander (Earth Split Asunder, The) | ReTe | 30 | [364](#die-erde-bricht-auseinander) |
-| Die Gabel des Zauberers (Sorcerer's Fork, The) | MuVi | Allgemein | [368](#die-gabel-des-zauberers) |
-| Die gefangene Stimme (Captive Voice, The) | ReIm | 30 | [352](#die-gefangene-stimme) |
-| Die große Fäulnis (Great Rot, The) | PeHe | 25 | [341](#die-große-fäulnis) |
-| Die Holzschäfte abwehren (Repel The Wooden Shafts) | ReHe | 10 | [342](#die-holzschäfte-abwehren) |
-| Die Kappe des Falken (Falcon's Hood, The) | PeAn | 25 | [319](#die-kappe-des-falken) |
-| Die nachgebende Erde (Forgiving Earth, The) | ReTe | 10 | [363](#die-nachgebende-erde) |
-| Die Natur der Vis erkennen (Sense The Nature Of Vis) | InVi | 5 | [367](#die-natur-der-vis-erkennen) |
-| Die phantomhafte Gabe (Phantom Gift, The) | CrVi | 15 | [365](#die-phantomhafte-gabe) |
-| Die Schritte auf der Erde spüren (Sense The Feet That Tread The Earth) | InTe | 30 | [360](#die-schritte-auf-der-erde-spüren) |
-| Die schweigende Frage stellen (Posing The Silent Question) | InMe | 20 | [354](#die-schweigende-frage-stellen) |
-| Die Schärfe der Klinge (Edge Of The Razor) | MuTe | 20 | [361](#die-schärfe-der-klinge) |
-| Die stille Wacht (Silent Vigil, The) | MuCo | 45 | [335](#die-stille-wacht) |
-| Die unerbittliche Suche (Inexorable Search, The) | InCo | 20 | [333](#die-unerbittliche-suche) |
-| Die unnachgiebige Erde (Unyielding Earth) | ReTe | 10 | [363](#die-unnachgiebige-erde) |
-| Trage die unsichtbare Schleuder (Wielding The Invisible Sling) | ReTe | 10 | [363](#trage-die-unsichtbare-schleuder) |
-| Die unsichtbare Schleuder des Vilano (Invisible Sling Of Vilano) | ReTe | 10 | [363](#die-unsichtbare-schleuder-des-vilano) |
-| Die verblichenen Fäden erneuern (Restore The Faded Threads) | CrVi | Allgemein | [365](#die-verblichenen-fäden-erneuern) |
-| Die verborgene Natur ergründen (Probe Nature's Hidden Lore) | InHe | 4 | [340](#die-verborgene-natur-ergründen) |
+| Den Rat der Bäume einberufen (Calling The Council Of The Trees) | ReHe | 45 | [343](#den-rat-der-bäume-einberufen) |
 | Die verhasste Dürre herbeirufen (Calling The Odious Drought) | PeAq | 50 | [323](#die-verhasste-dürre-herbeirufen) |
-| Die Waage des magischen Gewichts (Scales Of The Magical Weight) | InVi | 5 | [366](#die-waage-des-magischen-gewichts) |
-| Die wachende Wacht (Watching Ward) | ReVi | Allgemein | [372](#die-wachende-wacht) |
-| Die wahre Ruhe des verletzten Tieres (True Rest Of The Injured Brute) | CrAn | 20 | [316](#die-wahre-ruhe-des-verletzten-tieres) |
-| Die wandelnde Leiche (Walking Corpse, The) | ReCo | 35 | [339](#die-wandelnde-leiche) |
-| Die weinende Wunde (Wound That Weeps, The) | PeCo | 15 | [335](#die-weinende-wunde) |
-| Die zerschmetternde Faust (Fist Of Shattering) | PeTe | 10 | [361](#die-zerschmetternde-faust) |
-| Die Zähne der Erdmutter (Teeth Of The Earth Mother) | MuTe | 35 | [361](#die-zähne-der-erdmutter) |
-| Dornenwand (Wall Of Thorns) | CrHe | 20 | [339](#dornenwand) |
-| Duft des friedvollen Schlummers (Scent Of Peaceful Slumber) | ReMe | 20 | [357](#duft-des-friedvollen-schlummers) |
-| Durch das unnachgiebige Tor schlüpfen (Pass The Unyielding Portal) | MuHe | 5 | [340](#durch-das-unnachgiebige-tor-schlüpfen) |
-| Durchbohrende Holzlanze (Piercing Shaft Of Wood) | MuHe | 10 | [341](#durchbohrende-holzlanze) |
-| Düsternis des Abends (Gloom Of Evening) | PeIg | 10 | [346](#düsternis-des-abends) |
-| Eigene Illusionen erkennen (Discern Own Illusions) | InIm | 15 | [349](#eigene-illusionen-erkennen) |
-| Einfühlung in den Wald (Intuition Of The Forest) | InHe | 10 | [340](#einfühlung-in-den-wald) |
-| Eis des Ertrinkens (Ice Of Drowning) | ReAq | 35 | [324](#eis-des-ertrinkens) |
-| Eisige Berührung des Winters (Winter's Icy Touch) | PeIg | 10 | [346](#eisige-berührung-des-winters) |
-| Eisiger Griff des Zauberers (Wizard's Icy Grip) | PeIg | 30 | [346](#eisiger-griff-des-zauberers) |
-| Enthüllte Mängel des sterblichen Fleisches (Revealed Flaws Of Mortal Flesh) | InCo | 10 | [333](#enthüllte-mängel-des-sterblichen-fleisches) |
-| Entzauberung (Disenchant) | PeVi | Allgemein | [370](#entzauberung) |
-| Erderschütterung (Earth Shock) | ReTe | 30 | [363](#erderschütterung) |
-| Erinnerung an nie gelebte Augenblicke (Recollection Of Memories Never Quite Lived) | MuMe | 4 | [355](#erinnerung-an-nie-gelebte-augenblicke) |
-| Erinnerung des fernen Traums (Memory Of The Distant Dream) | CrMe | 20 | [353](#erinnerung-des-fernen-traums) |
-| Erkennen der wahren und trügerischen Bilder (Discern The Images Of Truth And Falsehood) | InIm | Allgemein | [349](#erkennen-der-wahren-und-trügerischen-bilder) |
-| Erscheinung der heimsuchenden Geister (Vision Of The Haunting Spirits) | MuMe | 40 | [355](#erscheinung-der-heimsuchenden-geister) |
-| Erscheinungen der höllischen Schrecken (Visions Of The Infernal Terrors) | ReMe | 30 | [357](#erscheinungen-der-höllischen-schrecken) |
-| Ewige Auslöschung des Dämons (Demon's Eternal Oblivion) | PeVi | Allgemein | [370](#ewige-auslöschung-des-dämons) |
-| Falle der schlingenden Ranken (Trap Of The Entwining Vines) | CrHe | 15 | [339](#falle-der-schlingenden-ranken) |
-| Feiner Geschmack von Gift und Reinheit (Subtle Taste Of Poison And Purity) | InAq | 5 | [321](#feiner-geschmack-von-gift-und-reinheit) |
-| Fell und Haut verrotten (Decay Fur And Hide) | PeAn | 10 | [318](#fell-und-haut-verrotten) |
-| Fels aus zähem Lehm (Rock Of Viscid Clay) | MuTe | 15 | [361](#fels-aus-zähem-lehm) |
-| Feuerkleid (Coat Of Flame) | CrIg | 25 | [344](#feuerkleid) |
-| Finsternis des Zauberers (Wizard's Eclipse) | PeIg | 35 | [346](#finsternis-des-zauberers) |
-| Flamme in der Hand (Palm Of Flame) | CrIg | 5 | [343](#flamme-in-der-hand) |
-| Flammen aus gemeißeltem Eis (Flames Of Sculpted Ice) | MuIg | 35 | [346](#flammen-aus-gemeißeltem-eis) |
-| Flammen- und Rauchschauspiel (Show Of The Flames And Smoke) | MuIg | 10 | [345](#flammen-und-rauchschauspiel) |
-| Fledermausaugen (Eyes Of The Bat) | InAu | 25 | [327](#fledermausaugen) |
-| Fluch der Kirke (Curse Of Circe) | MuCo | 30 | [334](#fluch-der-kirke) |
-| Fluch der unangekündigten Seuche (Curse Of The Unportended Plague) | PeCo | 55 | [337](#fluch-der-unangekündigten-seuche) |
-| Fluch der unbändigen Zunge (Curse Of The Unruly Tongue) | ReCo | 5 | [337](#fluch-der-unbändigen-zunge) |
-| Fluch der Wüste (Curse Of The Desert) | PeAq | 25 | [323](#fluch-der-wüste) |
-| Fluch des aussätzigen Fleisches (Curse Of The Leprous Flesh) | PeCo | 25 | [336](#fluch-des-aussätzigen-fleisches) |
-| Fluch des faulenden Holzes (Curse Of The Rotted Wood) | PeHe | 5 | [341](#fluch-des-faulenden-holzes) |
-| Fluch des gefräßigen Schwarms (Curse Of The Ravenous Swarm) | CrAn | 50 | [316](#fluch-des-gefräßigen-schwarms) |
-| Fluch des gespenstischen Waldes (Curse Of The Haunted Forest) | MuHe | 60 | [341](#fluch-des-gespenstischen-waldes) |
-| Fluch des hinfälligen Leibes (Bane Of The Decrepit Body) | PeCo | 25 | [336](#fluch-des-hinfälligen-leibes) |
-| Flüsternde Winde (Whispering Winds) | InAu | 15 | [327](#flüsternde-winde) |
-| Frostiger Hauch der gesprochenen Lüge (Frosty Breath Of The Spoken Lie) | InMe | 20 | [354](#frostiger-hauch-der-gesprochenen-lüge) |
-| Fäden der unfreiwilligen Marionette (Strings Of The Unwilling Marionette) | ReCo | 25 | [338](#fäden-der-unfreiwilligen-marionette) |
-| Gabe der Bärenstärke (Gift Of The Bear's Fortitude) | MuCo | 25 | [334](#gabe-der-bärenstärke) |
-| Gabe der Froschbeine (Gift Of The Frog's Legs) | ReCo | 15 | [338](#gabe-der-froschbeine) |
-| Gabe der Vernunft (Gift Of Reason) | CrMe | 35 | [354](#gabe-der-vernunft) |
-| Gedanken im Kauderwelsch (Thoughts Within Babble) | InMe | 25 | [354](#gedanken-im-kauderwelsch) |
-| Geflecht aus Holz und Dornen (Tangle Of Wood And Thorns) | ReHe | 15 | [342](#geflecht-aus-holz-und-dornen) |
-| Geflüster durch das Schwarze Tor (Whispers Through The Black Gate) | InCo | 15 | [333](#geflüster-durch-das-schwarze-tor) |
-| Gefängnis aus Flammen (Prison Of Flames) | MuIg | 20 | [345](#gefängnis-aus-flammen) |
-| Geist des Tieres (Mind Of The Beast) | MuMe | 30 | [355](#geist-des-tieres) |
-| Gemach der Frühlingsbrisen (Chamber Of Spring Breezes) | CrAu | 5 | [325](#gemach-der-frühlingsbrisen) |
-| Geschichten der Asche (Tales Of The Ashes) | InIg | 5 | [345](#geschichten-der-asche) |
-| Geschmack der tauben Zunge (Taste Of The Dulled Tongue) | PeIm | 5 | [351](#geschmack-der-tauben-zunge) |
-| Geschmack von Gewürzen und Kräutern (Taste Of The Spices And Herbs) | MuIm | 5 | [350](#geschmack-von-gewürzen-und-kräutern) |
-| Geschmeidiges Eisen und steifes Seil (Supple Iron And Rigid Rope) | MuTe | 10 | [361](#geschmeidiges-eisen-und-steifes-seil) |
-| Gespenstische Luftgestalt (Air's Ghostly Form) | CrAu | 5 | [325](#gespenstische-luftgestalt) |
-| Gespräch mit Pflanze und Baum (Converse With Plant And Tree) | InHe | 25 | [340](#gespräch-mit-pflanze-und-baum) |
-| Gestalt des Waldläufers (Shape Of The Woodland Prowler) | MuCo | 25 | [334](#gestalt-des-waldläufers) |
-| Gestank der zwanzig Leichen (Stench Of The Twenty Corpses) | CrAu | 10 | [326](#gestank-der-zwanzig-leichen) |
-| Gewaltiger Wasserstrahl (Mighty Torrent Of Water) | CrAq | 20 | [321](#gewaltiger-wasserstrahl) |
-| Gewicht von tausend Höllen (Weight Of A Thousand Hells) | CrMe | 25 | [353](#gewicht-von-tausend-höllen) |
-| Griff der würgenden Hand (Grip Of The Choking Hand) | PeCo | 25 | [336](#griff-der-würgenden-hand) |
-| Grube der klaffenden Erde (Pit Of The Gaping Earth) | PeTe | 15 | [361](#grube-der-klaffenden-erde) |
-| Haltung des geduldigen Baumes (Stance Of The Patient Tree) | MuCo | 35 | [335](#haltung-des-geduldigen-baumes) |
-| Hauch des Winters (Breath Of Winter) | ReAq | 15 | [324](#hauch-des-winters) |
-| Heimsuchung des lebenden Geistes (Haunt Of The Living Ghost) | CrIm | 35 | [348](#heimsuchung-des-lebenden-geistes) |
-| Herr der Bäume (Lord Of The Trees) | ReHe | 25 | [343](#herr-der-bäume) |
-| Hitze der glühenden Schmiede (Heat Of The Searing Forge) | CrIg | 10 | [343](#hitze-der-glühenden-schmiede) |
-| Hornissenfeuer (Hornet Fire) | MuIg | 10 | [345](#hornissenfeuer) |
-| Hände der ergreifenden Erde (Hands Of The Grasping Earth) | ReTe | 15 | [363](#hände-der-ergreifenden-erde) |
-| Höllischer Todesrauch (Infernal Smoke Of Death) | MuAu | 40 | [328](#höllischer-todesrauch) |
-| Hülle falscher Erkenntnisse (Shell Of False Determinations) | CrVi | Allgemein | [365](#hülle-falscher-erkenntnisse) |
-| Hülle undurchdringlicher Mysterien (Shell Of Opaque Mysteries) | CrVi | Allgemein | [365](#hülle-undurchdringlicher-mysterien) |
-| Illusion der kühlen Flammen (Illusion Of Cool Flames) | PeIm | 10 | [351](#illusion-der-kühlen-flammen) |
-| Illusion des verschobenen Bildes (Illusion Of The Shifted Image) | ReIm | 10 | [352](#illusion-des-verschobenen-bildes) |
-| Illusion des versetzten Schlosses (Illusion Of The Misplaced Castle) | ReIm | 50 | [352](#illusion-des-versetzten-schlosses) |
-| Jupiters dröhnender Schlag (Jupiter's Resounding Blow) | CrAu | 10 | [326](#jupiters-dröhnender-schlag) |
+| Beruhigung des bewegten Herzens (Calm The Motion Of The Heart) | PeMe | 15 | [356](#beruhigung-des-bewegten-herzens) |
+| Die gefangene Stimme (Captive Voice, The) | ReIm | 30 | [352](#die-gefangene-stimme) |
+| Der Steinschlag (Cascade Of Rocks) | PeTe | 40 | [362](#der-steinschlag) |
 | Kammer der Unsichtbarkeit (Chamber Of Invisibility) | PeIm | 25 | [351](#kammer-der-unsichtbarkeit) |
-| Klare Sicht durch die Luft (True Sight Of The Air) | InAu | 15 | [327](#klare-sicht-durch-die-luft) |
-| Klarer Blick der Naiaden (Clear Sight Of The Naiad) | InAq | 5 | [321](#klarer-blick-der-naiaden) |
-| Klauen der Winde (Talons Of The Winds) | MuAu | 20 | [328](#klauen-der-winde) |
-| Klinge der wütenden Flamme (Blade Of The Virulent Flame) | CrIg | 15 | [344](#klinge-der-wütenden-flamme) |
-| Krampfender Griff des zerquetschten Herzens (Clenching Grasp Of The Crushed Heart) | PeCo | 40 | [336](#krampfender-griff-des-zerquetschten-herzens) |
+| Gemach der Frühlingsbrisen (Chamber Of Spring Breezes) | CrAu | 5 | [325](#gemach-der-frühlingsbrisen) |
+| Chaos der zornigen Wellen (Chaos Of The Angry Waves) | ReAq | 30 | [324](#chaos-der-zornigen-wellen) |
+| Angriff der zornigen Winde (Charge Of The Angry Winds) | CrAu | 15 | [326](#angriff-der-zornigen-winde) |
+| Amulett gegen Verwesung (Charm Against Putrefaction) | CrCo | 10 | [332](#amulett-gegen-verwesung) |
+| Den Sensenmann überlisten (Cheating The Reaper) | CrCo | 30 | [332](#den-sensenmann-überlisten) |
+| Des Chirurgen heilende Berührung (Chirurgeon's Healing Touch, The) | CrCo | 20 | [332](#des-chirurgen-heilende-berührung) |
 | Kreis der Bestienabwehr (Circle Of Beast Warding) | ReAn | 5 | [319](#kreis-der-bestienabwehr) |
 | Kreis der umschließenden Flammen (Circle Of Encompassing Flames) | CrIg | 35 | [344](#kreis-der-umschließenden-flammen) |
 | Kreisende Winde des Schutzes (Circling Winds Of Protection) | CrAu | 20 | [326](#kreisende-winde-des-schutzes) |
-| Kriechendes Öl (Creeping Oil) | CrAq | 15 | [321](#kriechendes-öl) |
-| Krämpfe der unkontrollierten Hand (Spasms Of The Uncontrolled Hand) | ReCo | 5 | [337](#krämpfe-der-unkontrollierten-hand) |
-| Kränze aus faulem Rauch (Wreaths Of Foul Smoke) | CrAu | 10 | [326](#kränze-aus-faulem-rauch) |
-| Kugel der abgründigen Flamme (Ball Of Abysmal Flame) | CrIg | 35 | [344](#kugel-der-abgründigen-flamme) |
-| Lampe ohne Flamme (Lamp Without Flame) | CrIg | 10 | [344](#lampe-ohne-flamme) |
-| Lichtschaft der Nacht (Light Shaft Of The Night) | ReIg | 20 | [347](#lichtschaft-der-nacht) |
-| Linderung der Schmerzen des Tieres (Soothe Pains Of The Beast) | CrAn | 20 | [316](#linderung-der-schmerzen-des-tieres) |
-| Lungen des Fisches (Lungs Of The Fish) | MuAq | 20 | [323](#lungen-des-fisches) |
-| Läuterung der eiternden Wunden (Purification Of The Festering Wounds) | CrCo | 20 | [332](#läuterung-der-eiternden-wunden) |
-| Magie verschleiern (Shroud Magic) | MuVi | Allgemein | [368](#magie-verschleiern) |
-| Mantel aus Nebel (Cloak Of Mist) | MuCo | 40 | [335](#mantel-aus-nebel) |
+| Schutzkreis gegen Dämonen (Circular Ward Against Demons) | ReVi | Allgemein | [371](#schutzkreis-gegen-dämonen) |
+| Klarer Blick der Naiaden (Clear Sight Of The Naiad) | InAq | 5 | [321](#klarer-blick-der-naiaden) |
+| Krampfender Griff des zerquetschten Herzens (Clenching Grasp Of The Crushed Heart) | PeCo | 40 | [336](#krampfender-griff-des-zerquetschten-herzens) |
 | Mantel aus schwarzen Federn (Cloak Of Black Feathers) | MuCo | 30 | [334](#mantel-aus-schwarzen-federn) |
+| Mantel aus Nebel (Cloak Of Mist) | MuCo | 40 | [335](#mantel-aus-nebel) |
 | Mantel der Entenfedern (Cloak Of The Duck's Feathers) | ReAq | 5 | [323](#mantel-der-entenfedern) |
-| Mauer aus schützendem Stein (Wall Of Protecting Stone) | CrTe | 25 | [359](#mauer-aus-schützendem-stein) |
-| Mondstrahl (Moonbeam) | CrIg | 3 | [343](#mondstrahl) |
+| Das Erdtor verschließen (Closing The Earth's Gate) | PeAq | 25 | [323](#das-erdtor-verschließen) |
+| Der wolkenlose Himmel kehrt zurück (Cloudless Sky Returned, The) | PeAu | 45 | [329](#der-wolkenlose-himmel-kehrt-zurück) |
+| Wolken von Regen und Donner (Clouds Of Rain And Thunder) | CrAu | 25 | [326](#wolken-von-regen-und-donner) |
+| Wolken des Sommerschnees (Clouds Of Summer Snow) | CrAu | 25 | [326](#wolken-des-sommerschnees) |
+| Wolken der donnernden Macht (Clouds Of Thunderous Might) | ReAu | 30 | [330](#wolken-der-donnernden-macht) |
+| Feuerkleid (Coat Of Flame) | CrIg | 25 | [344](#feuerkleid) |
+| Zwang der Geister der Nacht (Coerce The Spirits Of The Night) | ReMe | 20 | [357](#zwang-der-geister-der-nacht) |
+| Ranken der umschlingenden Pflanzen (Coils Of The Entangling Plants) | ReHe | 20 | [342](#ranken-der-umschlingenden-pflanzen) |
+| Trost des durchnässten Reisenden (Comfort Of The Drenched Traveler) | PeAq | 5 | [323](#trost-des-durchnässten-reisenden) |
+| Das gezügelte Tier kommandieren (Commanding The Harnessed Beast) | ReAn | 30 | [320](#das-gezügelte-tier-kommandieren) |
+| Verwirrung des wahnsinnigen Vibrierens (Confusion Of The Insane Vibrations) | ReIm | 30 | [352](#verwirrung-des-wahnsinnigen-vibrierens) |
+| Verwirrung des betäubten Willens (Confusion Of The Numbed Will) | ReMe | 15 | [357](#verwirrung-des-betäubten-willens) |
+| Beschwörung der unbestreitbaren Kälte (Conjuration Of The Indubitable Cold) | PeIg | 25 | [346](#beschwörung-der-unbestreitbaren-kälte) |
+| Der stämmige Weinstock (Conjure The Sturdy Vine) | CrHe | 5 | [339](#der-stämmige-weinstock) |
+| Der mystische Turm (Conjuring The Mystic Tower) | CrTe | 35 | [359](#der-mystische-turm) |
+| Gespräch mit Pflanze und Baum (Converse With Plant And Tree) | InHe | 25 | [340](#gespräch-mit-pflanze-und-baum) |
+| Der kriechende Abgrund (Creeping Chasm) | ReTe | 30 | [363](#der-kriechende-abgrund) |
+| Kriechendes Öl (Creeping Oil) | CrAq | 15 | [321](#kriechendes-öl) |
+| Der Kamm der Erdwelle (Crest Of The Earth Wave) | ReTe | 20 | [363](#der-kamm-der-erdwelle) |
+| Den heulenden Wolf lähmen (Cripple The Howling Wolf) | PeAn | 25 | [319](#den-heulenden-wolf-lähmen) |
+| Der Kristallpfeil (Crystal Dart, The) | MuTe | 10 | [360](#der-kristallpfeil) |
+| Fluch der Kirke (Curse Of Circe) | MuCo | 30 | [334](#fluch-der-kirke) |
+| Fluch der Wüste (Curse Of The Desert) | PeAq | 25 | [323](#fluch-der-wüste) |
+| Fluch des gespenstischen Waldes (Curse Of The Haunted Forest) | MuHe | 60 | [341](#fluch-des-gespenstischen-waldes) |
+| Fluch des aussätzigen Fleisches (Curse Of The Leprous Flesh) | PeCo | 25 | [336](#fluch-des-aussätzigen-fleisches) |
+| Fluch des gefräßigen Schwarms (Curse Of The Ravenous Swarm) | CrAn | 50 | [316](#fluch-des-gefräßigen-schwarms) |
+| Fluch des faulenden Holzes (Curse Of The Rotted Wood) | PeHe | 5 | [341](#fluch-des-faulenden-holzes) |
+| Fluch der unangekündigten Seuche (Curse Of The Unportended Plague) | PeCo | 55 | [337](#fluch-der-unangekündigten-seuche) |
+| Fluch der unbändigen Zunge (Curse Of The Unruly Tongue) | ReCo | 5 | [337](#fluch-der-unbändigen-zunge) |
+| Tanz der Stäbe (Dance Of The Staves) | ReHe | 5 | [342](#tanz-der-stäbe) |
+| Fell und Haut verrotten (Decay Fur And Hide) | PeAn | 10 | [318](#fell-und-haut-verrotten) |
+| Sintflut des reißenden Stroms (Deluge Of Rushing And Dashing) | CrAq | 40 | [321](#sintflut-des-reißenden-stroms) |
+| Ewige Auslöschung des Dämons (Demon's Eternal Oblivion) | PeVi | Allgemein | [370](#ewige-auslöschung-des-dämons) |
+| Verzweiflung der zitternden Fesseln (Despair Of The Quivering Manacles) | ReCo | 15 | [337](#verzweiflung-der-zitternden-fesseln) |
+| Eigene Illusionen erkennen (Discern Own Illusions) | InIm | 15 | [349](#eigene-illusionen-erkennen) |
+| Erkennen der wahren und trügerischen Bilder (Discern The Images Of Truth And Falsehood) | InIm | Allgemein | [349](#erkennen-der-wahren-und-trügerischen-bilder) |
+| Entzauberung (Disenchant) | PeVi | Allgemein | [370](#entzauberung) |
+| Das Antlitz des Fremden (Disguise of the New Visage) (Disguise Of The New Visage) | MuCo | 15 | [333](#das-antlitz-des-fremden-disguise-of-the-new-visage) |
+| Tarnung durch widrigen Geruch (Disguise Of The Putrid Aroma) | ReAn | 5 | [319](#tarnung-durch-widrigen-geruch) |
+| Verkleidung des verwandelten Bildes (Disguise Of The Transformed Image) | MuIm | 15 | [350](#verkleidung-des-verwandelten-bildes) |
+| Auflösung des Phantombildes (Dispel The Phantom Image) | PeIm | Allgemein | [351](#auflösung-des-phantombildes) |
+| Wams aus undurchdringlicher Seide (Doublet Of Impenetrable Silk) | MuAn | 15 | [318](#wams-aus-undurchdringlicher-seide) |
+| Traum des ruhenden Geistes (Dream Of The Mind That Sits) | InTe | 50 | [360](#traum-des-ruhenden-geistes) |
+| Staub zu Staub (Dust To Dust) | PeCo | 15 | [335](#staub-zu-staub) |
+| Das Ohr für entfernte Stimmen (Ear For Distant Voices, The) | InIm | 20 | [349](#das-ohr-für-entfernte-stimmen) |
+| Erderschütterung (Earth Shock) | ReTe | 30 | [363](#erderschütterung) |
+| Die Erde bricht auseinander (Earth Split Asunder, The) | ReTe | 30 | [364](#die-erde-bricht-auseinander) |
+| Unzerbrechliche Erde (Earth That Breaks No More) | MuTe | 20 | [361](#unzerbrechliche-erde) |
+| Der Karfunkel der Erde (Earth's Carbuncle, The) | ReTe | 15 | [363](#der-karfunkel-der-erde) |
+| Die Schärfe der Klinge (Edge Of The Razor) | MuTe | 20 | [361](#die-schärfe-der-klinge) |
+| Verzauberung der Gleichgültigkeit (Enchantment Of Detachment) | PeMe | 15 | [356](#verzauberung-der-gleichgültigkeit) |
+| Verzauberung des Seherbeckens (Enchantment Of The Scrying Pool) | InAq | 30 | [322](#verzauberung-des-seherbeckens) |
+| Das Ende der mächtigen Burg (End Of The Mighty Castle) | PeTe | 25 | [362](#das-ende-der-mächtigen-burg) |
+| Ausdauer der Berserker (Endurance Of The Berserkers) | ReCo | 15 | [338](#ausdauer-der-berserker) |
+| Das Geschenk des Enigmas (Enigma's Gift, The) | CrVi | 30 | [365](#das-geschenk-des-enigmas) |
+| Versklavung des sterblichen Geistes (Enslave The Mortal Mind) | ReMe | 40 | [358](#versklavung-des-sterblichen-geistes) |
+| Tausch der beiden Geister (Exchange Of The Two Minds) | ReMe | 55 | [358](#tausch-der-beiden-geister) |
+| Das Auge des Weisen (Eye Of The Sage, The) | InCo | 30 | [333](#das-auge-des-weisen) |
+| Fledermausaugen (Eyes Of The Bat) | InAu | 25 | [327](#fledermausaugen) |
+| Augen der Katze (Eyes Of The Cat) | MuCo | 5 | [333](#augen-der-katze) |
+| Augen des Adlers (Eyes Of The Eagle) | InIm | 25 | [349](#augen-des-adlers) |
+| Augen der Äonen (Eyes Of The Eons) | InTe | 10 | [359](#augen-der-äonen) |
+| Augen der Flamme (Eyes Of The Flame) | InIg | 35 | [345](#augen-der-flamme) |
+| Augen des tückischen Geländes (Eyes Of The Treacherous Terrain) | InTe | 15 | [359](#augen-des-tückischen-geländes) |
+| Die Kappe des Falken (Falcon's Hood, The) | PeAn | 25 | [319](#die-kappe-des-falken) |
+| Die zerschmetternde Faust (Fist Of Shattering) | PeTe | 10 | [361](#die-zerschmetternde-faust) |
+| Flammen aus gemeißeltem Eis (Flames Of Sculpted Ice) | MuIg | 35 | [346](#flammen-aus-gemeißeltem-eis) |
+| Blitz scharlachroter Flammen (Flash Of The Scarlet Flames) | CrIg | 15 | [344](#blitz-scharlachroter-flammen) |
 | Nebel der Verwirrung (Fog Of Confusion) | MuAu | 45 | [328](#nebel-der-verwirrung) |
+| Spuren schlüpfrigen Öls (Footsteps Of Slippery Oil) | CrAq | 5 | [320](#spuren-schlüpfrigen-öls) |
+| Die nachgebende Erde (Forgiving Earth, The) | ReTe | 10 | [363](#die-nachgebende-erde) |
+| Befreiung des schreitenden Baumes (Freeing The Striding Tree) | ReHe | 30 | [343](#befreiung-des-schreitenden-baumes) |
+| Frostiger Hauch der gesprochenen Lüge (Frosty Breath Of The Spoken Lie) | InMe | 20 | [354](#frostiger-hauch-der-gesprochenen-lüge) |
+| Das Wesen der Kreatur bündeln (Gather The Essence Of The Beast) | ReVi | 15 | [372](#das-wesen-der-kreatur-bündeln) |
+| Sammlung der stürmischen Macht (Gathering Of The Stormy Might) | ReAu | 40 | [330](#sammlung-der-stürmischen-macht) |
+| Das sanfte Tier (Gentle Beast, The) | ReAn | 25 | [320](#das-sanfte-tier) |
+| Sanfte Berührung des geläuterten Körpers (Gentle Touch Of The Purified Body) | CrCo | 20 | [332](#sanfte-berührung-des-geläuterten-körpers) |
+| Gabe der Vernunft (Gift Of Reason) | CrMe | 35 | [354](#gabe-der-vernunft) |
+| Gabe der Bärenstärke (Gift Of The Bear's Fortitude) | MuCo | 25 | [334](#gabe-der-bärenstärke) |
+| Gabe der Froschbeine (Gift Of The Frog's Legs) | ReCo | 15 | [338](#gabe-der-froschbeine) |
+| Das Geschenk der Lebendigkeit (Gift Of Vigor, The) | ReCo | 20 | [338](#das-geschenk-der-lebendigkeit) |
+| Düsternis des Abends (Gloom Of Evening) | PeIg | 10 | [346](#düsternis-des-abends) |
+| Die große Fäulnis (Great Rot, The) | PeHe | 25 | [341](#die-große-fäulnis) |
+| Griff der würgenden Hand (Grip Of The Choking Hand) | PeCo | 25 | [336](#griff-der-würgenden-hand) |
+| Wachstum des Kleingetiers (Growth Of The Creeping Things) | MuAn | 15 | [318](#wachstum-des-kleingetiers) |
+| Hände der ergreifenden Erde (Hands Of The Grasping Earth) | ReTe | 15 | [363](#hände-der-ergreifenden-erde) |
+| Heimsuchung des lebenden Geistes (Haunt Of The Living Ghost) | CrIm | 35 | [348](#heimsuchung-des-lebenden-geistes) |
+| Hitze der glühenden Schmiede (Heat Of The Searing Forge) | CrIg | 10 | [343](#hitze-der-glühenden-schmiede) |
+| Das Portal des Hermes (Hermes' Portal) | ReTe | 75 | [364](#das-portal-des-hermes) |
+| Hornissenfeuer (Hornet Fire) | MuIg | 10 | [345](#hornissenfeuer) |
+| Suche nach dem Wildkraut (Hunt For The Wild Herb) | InHe | 5 | [340](#suche-nach-dem-wildkraut) |
+| Sinn des Jägers (Hunter's Sense) | InAn | 30 | [317](#sinn-des-jägers) |
+| Eis des Ertrinkens (Ice Of Drowning) | ReAq | 35 | [324](#eis-des-ertrinkens) |
+| Illusion der kühlen Flammen (Illusion Of Cool Flames) | PeIm | 10 | [351](#illusion-der-kühlen-flammen) |
+| Illusion des versetzten Schlosses (Illusion Of The Misplaced Castle) | ReIm | 50 | [352](#illusion-des-versetzten-schlosses) |
+| Illusion des verschobenen Bildes (Illusion Of The Shifted Image) | ReIm | 10 | [352](#illusion-des-verschobenen-bildes) |
+| Das vom Zauberer losgelöste Bild (Image From The Wizard Torn) | ReIm | 35 | [352](#das-vom-zauberer-losgelöste-bild) |
+| Bild des Tieres (Image Of The Beast) | InAn | 5 | [316](#bild-des-tieres) |
+| Bildphantom (Image Phantom) | MuIm | 20 | [350](#bildphantom) |
+| Die Beschwörung des Blitzes (Incantation Of Lightning, The) | CrAu | 35 | [327](#die-beschwörung-des-blitzes) |
+| Beschwörung des faulen Weines (Incantation Of Putrid Wine) | MuAq | 15 | [322](#beschwörung-des-faulen-weines) |
+| Beschwörung der Toten (Incantation Of Summoning The Dead) | ReMe | 40 | [358](#beschwörung-der-toten) |
+| Beschwörung des geheilten Körpers (Incantation Of The Body Made Whole) | CrCo | 40 | [332](#beschwörung-des-geheilten-körpers) |
+| Beschwörung der milchigen Augen (Incantation Of The Milky Eyes) | PeCo | 30 | [336](#beschwörung-der-milchigen-augen) |
+| Die unerbittliche Suche (Inexorable Search, The) | InCo | 20 | [333](#die-unerbittliche-suche) |
+| Höllischer Todesrauch (Infernal Smoke Of Death) | MuAu | 40 | [328](#höllischer-todesrauch) |
+| Der innerste Gefährte (Inmost Companion) | MuMe | 40 | [355](#der-innerste-gefährte) |
+| Einfühlung in den Wald (Intuition Of The Forest) | InHe | 10 | [340](#einfühlung-in-den-wald) |
+| Unsichtbarkeit des stehenden Zauberers (Invisibility Of The Standing Wizard) | PeIm | 15 | [351](#unsichtbarkeit-des-stehenden-zauberers) |
+| Das enthüllte unsichtbare Auge (Invisible Eye Revealed, The) | InVi | Allgemein | [366](#das-enthüllte-unsichtbare-auge) |
+| Die unsichtbare Schleuder des Vilano (Invisible Sling Of Vilano) | ReTe | 10 | [363](#die-unsichtbare-schleuder-des-vilano) |
+| Herbeirufen der Mattigkeit (Invocation Of Weariness) | PeCo | 20 | [336](#herbeirufen-der-mattigkeit) |
+| Jupiters dröhnender Schlag (Jupiter's Resounding Blow) | CrAu | 10 | [326](#jupiters-dröhnender-schlag) |
+| Der Kuss des Todes (Kiss Of Death, The) | PeCo | 45 | [336](#der-kuss-des-todes) |
+| Lampe ohne Flamme (Lamp Without Flame) | CrIg | 10 | [344](#lampe-ohne-flamme) |
+| Den heimsuchenden Geist zur Ruhe betten (Lay To Rest The Haunting Spirit) | PeMe | Allgemein | [355](#den-heimsuchenden-geist-zur-ruhe-betten) |
+| Der Sprung der Heimkehr (Leap Of Homecoming, The) | ReCo | 35 | [338](#der-sprung-der-heimkehr) |
+| Sprung des Feuers (Leap Of The Fire) | ReIg | 10 | [347](#sprung-des-feuers) |
+| Den baumelnden Hampelmann heben (Lifting The Dangling Puppet) | ReCo | 15 | [338](#den-baumelnden-hampelmann-heben) |
+| Lichtschaft der Nacht (Light Shaft Of The Night) | ReIg | 20 | [347](#lichtschaft-der-nacht) |
+| Herr der Bäume (Lord Of The Trees) | ReHe | 25 | [343](#herr-der-bäume) |
+| Verlust eines flüchtigen Augenblicks (Loss Of But A Moment's Memory) | PeMe | 15 | [356](#verlust-eines-flüchtigen-augenblicks) |
+| Lungen des Fisches (Lungs Of The Fish) | MuAq | 20 | [323](#lungen-des-fisches) |
+| Den anspruchsvollen Zauber aufrechterhalten (Maintaining The Demanding Spell) | ReVi | Allgemein | [372](#den-anspruchsvollen-zauber-aufrechterhalten) |
+| Das vielfarbige Flammenmeer (Many-Hued Conflagration, The) | MuIg | 5 | [345](#das-vielfarbige-flammenmeer) |
+| Den Geruch der Magie verschleiern (Masking The Odor Of Magic) | PeVi | Allgemein | [369](#den-geruch-der-magie-verschleiern) |
+| Das widerspenstige Tier meistern (Mastering The Unruly Beast) | ReAn | 25 | [320](#das-widerspenstige-tier-meistern) |
+| Erinnerung des fernen Traums (Memory Of The Distant Dream) | CrMe | 20 | [353](#erinnerung-des-fernen-traums) |
+| Gewaltiger Wasserstrahl (Mighty Torrent Of Water) | CrAq | 20 | [321](#gewaltiger-wasserstrahl) |
+| Geist des Tieres (Mind Of The Beast) | MuMe | 30 | [355](#geist-des-tieres) |
+| Das scharfe Auge des Bergmanns (Miner's Keen Eye, The) | InTe | 20 | [359](#das-scharfe-auge-des-bergmanns) |
+| Spiegel der Umkehrung (Form) (Mirror Of Opposition (Form)) | MuVi | Allgemein | [368](#spiegel-der-umkehrung-form) |
 | Nebel des Wandels (Mists Of Change) | MuCo | 60 | [335](#nebel-des-wandels) |
+| Mondstrahl (Moonbeam) | CrIg | 3 | [343](#mondstrahl) |
+| Zorn des Neptun (Neptune's Wrath) | ReAq | 40 | [325](#zorn-des-neptun) |
+| Töne eines wohlklingenden Klangs (Notes Of A Delightful Sound) | MuIm | 10 | [350](#töne-eines-wohlklingenden-klangs) |
+| Das Objekt wächst (Object Of Increased Size) | MuTe | 20 | [361](#das-objekt-wächst) |
+| Vernichtung der metallenen Schranke (Obliteration Of The Metallic Barrier) | PeTe | 20 | [361](#vernichtung-der-metallenen-schranke) |
+| Den immateriellen Tunnel öffnen (Opening The Intangible Tunnel) | ReVi | Allgemein | [372](#den-immateriellen-tunnel-öffnen) |
+| Das Buch des tierischen Geistes öffnen (Opening The Tome Of The Animal's Mind) | InAn | 25 | [317](#das-buch-des-tierischen-geistes-öffnen) |
+| Qualen der ewigen Sorge (Pains Of The Perpetual Worry) | CrMe | 20 | [353](#qualen-der-ewigen-sorge) |
+| Flamme in der Hand (Palm Of Flame) | CrIg | 5 | [343](#flamme-in-der-hand) |
+| Schrecken der Elefantenmaus (Panic Of The Elephant's Mouse) | ReAn | 15 | [319](#schrecken-der-elefantenmaus) |
 | Panik des zitternden Herzens (Panic Of The Trembling Heart) | CrMe | 15 | [353](#panik-des-zitternden-herzens) |
+| Austrocknender Wind (Parching Wind) | PeAq | 20 | [323](#austrocknender-wind) |
+| Das Teilen der Wellen (Parting The Waves) | ReAq | 30 | [324](#das-teilen-der-wellen) |
+| Durch das unnachgiebige Tor schlüpfen (Pass The Unyielding Portal) | MuHe | 5 | [340](#durch-das-unnachgiebige-tor-schlüpfen) |
+| Das erloschene Feuer der Leidenschaft (Passion's Lost Feeling) | PeMe | 25 | [356](#das-erloschene-feuer-der-leidenschaft) |
+| Vergangenheit eines anderen (Past Of Another) | MuMe | 35 | [355](#vergangenheit-eines-anderen) |
+| Blick in den sterblichen Geist (Peering Into The Mortal Mind) | InMe | 30 | [354](#blick-in-den-sterblichen-geist) |
+| Wahrnehmung der widerstreitenden Motive (Perception Of The Conflicting Motives) | InMe | 15 | [354](#wahrnehmung-der-widerstreitenden-motive) |
 | Phantasma der menschlichen Gestalt (Phantasm Of The Human Form) | CrIm | 25 | [348](#phantasma-der-menschlichen-gestalt) |
 | Phantasma des sprechenden Hauptes (Phantasm Of The Talking Head) | CrIm | 10 | [348](#phantasma-des-sprechenden-hauptes) |
 | Phantasmisches Tier (Phantasmal Animal) | CrIm | 20 | [348](#phantasmisches-tier) |
 | Phantomfeuer (Phantasmal Fire) | CrIm | 20 | [348](#phantomfeuer) |
+| Die phantomhafte Gabe (Phantom Gift, The) | CrVi | 15 | [365](#die-phantomhafte-gabe) |
+| Auge des Arztes (Physician's Eye) | InCo | 5 | [333](#auge-des-arztes) |
+| Durchbohrende Holzlanze (Piercing Shaft Of Wood) | MuHe | 10 | [341](#durchbohrende-holzlanze) |
+| Den Feenschleier durchdringen (Piercing The Faerie Veil) | InVi | 20 | [367](#den-feenschleier-durchdringen) |
 | Pilum aus Feuer (Pilum Of Fire) | CrIg | 20 | [344](#pilum-aus-feuer) |
-| Qual des Tieres (Agony Of The Beast) | PeAn | 15 | [318](#qual-des-tieres) |
-| Qualen der ewigen Sorge (Pains Of The Perpetual Worry) | CrMe | 20 | [353](#qualen-der-ewigen-sorge) |
-| Ranken der umschlingenden Pflanzen (Coils Of The Entangling Plants) | ReHe | 20 | [342](#ranken-der-umschlingenden-pflanzen) |
-| Reichweite des Zauberers (Form) (Wizard's Reach (Form)) | MuVi | Allgemein | [369](#reichweite-des-zauberers-form) |
-| Ring der Abwehr gegen Geister (Ring Of Warding Against Spirits) | ReMe | Allgemein | [357](#ring-der-abwehr-gegen-geister) |
-| Ross der Rache (Steed Of Vengeance) | MuAn | 35 | [318](#ross-der-rache) |
-| Rostiger Verfall von zweihundert Jahren (Rusted Decay Of Ten-Score Years) | PeTe | 10 | [361](#rostiger-verfall-von-zweihundert-jahren) |
-| Ruf des rauschenden Wassers (Call Of The Rushing Waters) | InAq | 15 | [322](#ruf-des-rauschenden-wassers) |
-| Sammlung der stürmischen Macht (Gathering Of The Stormy Might) | ReAu | 40 | [330](#sammlung-der-stürmischen-macht) |
-| Sanfte Berührung des geläuterten Körpers (Gentle Touch Of The Purified Body) | CrCo | 20 | [332](#sanfte-berührung-des-geläuterten-körpers) |
-| Schatten vergangener Feuer (Shadows Of The Fires Past) | InIg | 15 | [345](#schatten-vergangener-feuer) |
-| Schauer des Lykanthropen (Shiver Of The Lycanthrope) | InAn | 10 | [317](#schauer-des-lykanthropen) |
-| Schlag des zürnenden Astes (Strike Of The Angered Branch) | ReHe | 15 | [342](#schlag-des-zürnenden-astes) |
-| Schleier der Unsichtbarkeit (Veil Of Invisibility) | PeIm | 20 | [351](#schleier-der-unsichtbarkeit) |
-| Schnipsen des Erwachens (Snap Of Awakening) | ReMe | 10 | [357](#schnipsen-des-erwachens) |
-| Schrecken der Elefantenmaus (Panic Of The Elephant's Mouse) | ReAn | 15 | [319](#schrecken-der-elefantenmaus) |
-| Schrei vor dem nahenden Schaft (Shriek Of The Impending Shafts) | InHe | 15 | [340](#schrei-vor-dem-nahenden-schaft) |
-| Schub des Zauberers (Form) (Wizard's Boost (Form)) | MuVi | Allgemein | [368](#schub-des-zauberers-form) |
-| Schutz vor Hitze und Flammen (Ward Against Heat And Flames) | ReIg | 25 | [347](#schutz-vor-hitze-und-flammen) |
-| Schutz vor Holz (Ward Against Wood) | ReHe | 25 | [343](#schutz-vor-holz) |
-| Schutz vor Regen (Ward Against Rain) | ReAu | 10 | [330](#schutz-vor-regen) |
-| Schutzwall gegen die Feen des Waldes (Ward Against Faeries Of The Wood) | ReHe | Allgemein | [342](#schutzwall-gegen-die-feen-des-waldes) |
-| Schutzkreis gegen Dämonen (Circular Ward Against Demons) | ReVi | Allgemein | [371](#schutzkreis-gegen-dämonen) |
-| Schutzwall gegen die Feen des Gebirges (Ward Against Faeries Of The Mountain) | ReTe | Allgemein | [362](#schutzwall-gegen-die-feen-des-gebirges) |
-| Schutzwall gegen die Feen der Lüfte (Ward Against Faeries Of The Air) | ReAu | Allgemein | [329](#schutzwall-gegen-die-feen-der-lüfte) |
-| Schwarzes Flüstern (Black Whisper) | PeMe | 40 | [356](#schwarzes-flüstern) |
-| Schwingen des aufsteigenden Windes (Wings Of The Soaring Wind) | CrAu | 30 | [326](#schwingen-des-aufsteigenden-windes) |
-| Segen der kindlichen Glückseligkeit (Blessing Of Childlike Bliss) | PeMe | 25 | [356](#segen-der-kindlichen-glückseligkeit) |
-| Seil aus Bronze (Rope Of Bronze) | MuHe | 15 | [341](#seil-aus-bronze) |
-| Sicht des durchsichtigen Motivs (Sight Of The Transparent Motive) | InMe | 10 | [354](#sicht-des-durchsichtigen-motivs) |
-| Sicht durch Wärmestrahlung (Vision Of Heat's Light) | InIg | 20 | [345](#sicht-durch-wärmestrahlung) |
-| Sieben-Meilen-Schritt (Seven-League Stride) | ReCo | 30 | [338](#sieben-meilen-schritt) |
-| Sinn des Jägers (Hunter's Sense) | InAn | 30 | [317](#sinn-des-jägers) |
-| Sinn für magische Macht (Sense Of Magical Power) | InVi | 2 | [366](#sinn-für-magische-macht) |
-| Sintflut des reißenden Stroms (Deluge Of Rushing And Dashing) | CrAq | 40 | [321](#sintflut-des-reißenden-stroms) |
+| Grube der klaffenden Erde (Pit Of The Gaping Earth) | PeTe | 15 | [361](#grube-der-klaffenden-erde) |
+| Das Welken der Pflanze (Plant's Withering Bane) | PeHe | 20 | [341](#das-welken-der-pflanze) |
+| Vergiftung des Willens (Poisoning The Will) | PeMe | 65 | [356](#vergiftung-des-willens) |
+| Die schweigende Frage stellen (Posing The Silent Question) | InMe | 20 | [354](#die-schweigende-frage-stellen) |
+| Übernatürliches Wachsen und Schrumpfen (Preternatural Growth And Shrinking) | MuCo | 15 | [333](#übernatürliches-wachsen-und-schrumpfen) |
+| Gefängnis aus Flammen (Prison Of Flames) | MuIg | 20 | [345](#gefängnis-aus-flammen) |
+| Auf der Suche nach reinem Silber (Probe For Pure Silver) | InTe | 4 | [359](#auf-der-suche-nach-reinem-silber) |
+| Die verborgene Natur ergründen (Probe Nature's Hidden Lore) | InHe | 4 | [340](#die-verborgene-natur-ergründen) |
+| Spähende Augen (Prying Eyes) | InIm | 5 | [349](#spähende-augen) |
 | Sog der himmelwärts strebenden Winde (Pull Of The Skybound Winds) | CrAu | 30 | [326](#sog-der-himmelwärts-strebenden-winde) |
 | Sog des nassen Grabes (Pull Of The Watery Grave) | ReAq | 35 | [325](#sog-des-nassen-grabes) |
-| Spiegel der Umkehrung (Form) (Mirror Of Opposition (Form)) | MuVi | Allgemein | [368](#spiegel-der-umkehrung-form) |
-| Sprung des Feuers (Leap Of The Fire) | ReIg | 10 | [347](#sprung-des-feuers) |
-| Spuren des Feenglühens (Tracks Of The Faerie Glow) | InTe | 25 | [359](#spuren-des-feenglühens) |
-| Spuren schlüpfrigen Öls (Footsteps Of Slippery Oil) | CrAq | 5 | [320](#spuren-schlüpfrigen-öls) |
-| Spähende Augen (Prying Eyes) | InIm | 5 | [349](#spähende-augen) |
-| Staub zu Staub (Dust To Dust) | PeCo | 15 | [335](#staub-zu-staub) |
-| Stein zu fallendem Staub (Stone To Falling Dust) | PeTe | 20 | [362](#stein-zu-fallendem-staub) |
-| Steinregen (Rain Of Stones) | MuAu | 20 | [328](#steinregen) |
-| Stille des erstickten Schalls (Silence Of The Smothered Sound) | PeIm | 20 | [351](#stille-des-erstickten-schalls) |
-| Stimme des Sees (Voice Of The Lake) | InAq | 25 | [322](#stimme-des-sees) |
+| Läuterung der eiternden Wunden (Purification Of The Festering Wounds) | CrCo | 20 | [332](#läuterung-der-eiternden-wunden) |
 | Stoß der sanften Welle (Push Of The Gentle Wave) | ReAq | 15 | [324](#stoß-der-sanften-welle) |
-| Suche nach dem Wildkraut (Hunt For The Wild Herb) | InHe | 5 | [340](#suche-nach-dem-wildkraut) |
-| Tanz der Stäbe (Dance Of The Staves) | ReHe | 5 | [342](#tanz-der-stäbe) |
-| Tarnung durch widrigen Geruch (Disguise Of The Putrid Aroma) | ReAn | 5 | [319](#tarnung-durch-widrigen-geruch) |
-| Tausch der beiden Geister (Exchange Of The Two Minds) | ReMe | 55 | [358](#tausch-der-beiden-geister) |
-| Thaumaturgische Verwandlung von Pflanzen in Eisen (Thaumaturgical Transformation Of Plants To Iron) | MuHe | 20 | [341](#thaumaturgische-verwandlung-von-pflanzen-in-eisen) |
-| Tier ungeheurer Größe (Beast Of Outlandish Size) | MuAn | 15 | [317](#tier-ungeheurer-größe) |
-| Tier winziger Gestalt (Beast Of Minuscule Proportions) | MuAn | 20 | [318](#tier-winziger-gestalt) |
+| Den tobenden Wind besänftigen (Quiet The Raging Winds) | PeAu | 20 | [329](#den-tobenden-wind-besänftigen) |
+| Ölregen (Rain Of Oil) | MuAu | 50 | [329](#ölregen) |
+| Steinregen (Rain Of Stones) | MuAu | 20 | [328](#steinregen) |
+| Erinnerung an nie gelebte Augenblicke (Recollection Of Memories Never Quite Lived) | MuMe | 4 | [355](#erinnerung-an-nie-gelebte-augenblicke) |
 | Tilgung des auffälligen Sigils (Removal Of The Conspicuous Sigil) | PeIm | 20 | [351](#tilgung-des-auffälligen-sigils) |
-| Traum des ruhenden Geistes (Dream Of The Mind That Sits) | InTe | 50 | [360](#traum-des-ruhenden-geistes) |
-| Trost des durchnässten Reisenden (Comfort Of The Drenched Traveler) | PeAq | 5 | [323](#trost-des-durchnässten-reisenden) |
-| Turm aus wirbelndem Wasser (Tower Of Whirling Water) | ReAq | 35 | [325](#turm-aus-wirbelndem-wasser) |
-| Töne eines wohlklingenden Klangs (Notes Of A Delightful Sound) | MuIm | 10 | [350](#töne-eines-wohlklingenden-klangs) |
-| Unsichtbarkeit des stehenden Zauberers (Invisibility Of The Standing Wizard) | PeIm | 15 | [351](#unsichtbarkeit-des-stehenden-zauberers) |
-| Unzerbrechliche Erde (Earth That Breaks No More) | MuTe | 20 | [361](#unzerbrechliche-erde) |
-| Verdrehung der Zunge (Twist Of The Tongue) | PeCo | 30 | [336](#verdrehung-der-zunge) |
-| Verfluchtes Wasser der Unfruchtbarkeit (Vile Water Of Sterility) | MuAq | 45 | [323](#verfluchtes-wasser-der-unfruchtbarkeit) |
-| Vergangenheit eines anderen (Past Of Another) | MuMe | 35 | [355](#vergangenheit-eines-anderen) |
-| Vergiftung des Willens (Poisoning The Will) | PeMe | 65 | [356](#vergiftung-des-willens) |
-| Verkleidung des verwandelten Bildes (Disguise Of The Transformed Image) | MuIm | 15 | [350](#verkleidung-des-verwandelten-bildes) |
-| Verlust eines flüchtigen Augenblicks (Loss Of But A Moment's Memory) | PeMe | 15 | [356](#verlust-eines-flüchtigen-augenblicks) |
-| Vernichtung der metallenen Schranke (Obliteration Of The Metallic Barrier) | PeTe | 20 | [361](#vernichtung-der-metallenen-schranke) |
-| Versiegele die Erde (Seal The Earth) | CrTe | 15 | [359](#versiegele-die-erde) |
-| Versklavung des sterblichen Geistes (Enslave The Mortal Mind) | ReMe | 40 | [358](#versklavung-des-sterblichen-geistes) |
-| Vertrauen des kindlichen Glaubens (Trust Of Childlike Faith) | PeMe | 10 | [356](#vertrauen-des-kindlichen-glaubens) |
-| Verwandlung des dornigen Stabs (Transformation Of The Thorny Staff) | MuHe | 10 | [341](#verwandlung-des-dornigen-stabs) |
-| Verwandlung der gefräßigen Bestie zur trägen Kröte (Transformation Of The Ravenous Beast To The Torpid Toad) | MuAn | 25 | [318](#verwandlung-der-gefräßigen-bestie-zur-trägen-kröte) |
-| Verwandlung in Wasser (Transform To Water) | MuCo | 40 | [335](#verwandlung-in-wasser) |
-| Verwirrung des betäubten Willens (Confusion Of The Numbed Will) | ReMe | 15 | [357](#verwirrung-des-betäubten-willens) |
-| Verwirrung des wahnsinnigen Vibrierens (Confusion Of The Insane Vibrations) | ReIm | 30 | [352](#verwirrung-des-wahnsinnigen-vibrierens) |
-| Verzauberung der Gleichgültigkeit (Enchantment Of Detachment) | PeMe | 15 | [356](#verzauberung-der-gleichgültigkeit) |
-| Verzauberung des Seherbeckens (Enchantment Of The Scrying Pool) | InAq | 30 | [322](#verzauberung-des-seherbeckens) |
-| Verzweiflung der zitternden Fesseln (Despair Of The Quivering Manacles) | ReCo | 15 | [337](#verzweiflung-der-zitternden-fesseln) |
-| Wachstum des Kleingetiers (Growth Of The Creeping Things) | MuAn | 15 | [318](#wachstum-des-kleingetiers) |
-| Wacht des Zauberers (Wizard's Vigil) | MuVi | Allgemein | [370](#wacht-des-zauberers) |
-| Wahrnehmung der widerstreitenden Motive (Perception Of The Conflicting Motives) | InMe | 15 | [354](#wahrnehmung-der-widerstreitenden-motive) |
-| Wams aus undurchdringlicher Seide (Doublet Of Impenetrable Silk) | MuAn | 15 | [318](#wams-aus-undurchdringlicher-seide) |
-| Wand aus lebendem Holz (Wall Of Living Wood) | CrHe | 25 | [339](#wand-aus-lebendem-holz) |
-| Schutzwall gegen die Feen der Gewässer (Ward Against Faeries Of The Waters) | ReAq | Allgemein | [323](#schutzwall-gegen-die-feen-der-gewässer) |
-| Schutzwall gegen die Bestien der Legende (Ward Against The Beasts Of Legend) | ReAn | Allgemein | [319](#schutzwall-gegen-die-bestien-der-legende) |
-| Weberfalle aus Spinnfäden (Weaver's Trap Of Webs) | CrAn | 35 | [316](#weberfalle-aus-spinnfäden) |
-| Wellen des Ertrinkens und Zerschmetterns (Waves Of Drowning And Smashing) | ReAq | 30 | [324](#wellen-des-ertrinkens-und-zerschmetterns) |
+| Die Holzschäfte abwehren (Repel The Wooden Shafts) | ReHe | 10 | [342](#die-holzschäfte-abwehren) |
 | Wiederherstellung des entweihten Körpers (Restoration Of The Defiled Body) | CrCo | 25 | [332](#wiederherstellung-des-entweihten-körpers) |
+| Die verblichenen Fäden erneuern (Restore The Faded Threads) | CrVi | Allgemein | [365](#die-verblichenen-fäden-erneuern) |
 | Wiederherstellung des verschobenen Bildes (Restore The Moved Image) | ReIm | Allgemein | [352](#wiederherstellung-des-verschobenen-bildes) |
-| Wind der weltlichen Stille (Wind Of Mundane Silence) | PeVi | Allgemein | [370](#wind-der-weltlichen-stille) |
+| Enthüllte Mängel des sterblichen Fleisches (Revealed Flaws Of Mortal Flesh) | InCo | 10 | [333](#enthüllte-mängel-des-sterblichen-fleisches) |
+| Ring der Abwehr gegen Geister (Ring Of Warding Against Spirits) | ReMe | Allgemein | [357](#ring-der-abwehr-gegen-geister) |
+| Aufstieg des federleichten Körpers (Rise Of The Feathery Body) | ReCo | 10 | [337](#aufstieg-des-federleichten-körpers) |
+| Aufwallender Zorn (Rising Ire) | CrMe | 15 | [353](#aufwallender-zorn) |
+| Fels aus zähem Lehm (Rock Of Viscid Clay) | MuTe | 15 | [361](#fels-aus-zähem-lehm) |
+| Zimmer der abgestandenen Luft (Room Of Stale Air) | PeAu | 15 | [329](#zimmer-der-abgestandenen-luft) |
+| Seil aus Bronze (Rope Of Bronze) | MuHe | 15 | [341](#seil-aus-bronze) |
+| Rostiger Verfall von zweihundert Jahren (Rusted Decay Of Ten-Score Years) | PeTe | 10 | [361](#rostiger-verfall-von-zweihundert-jahren) |
+| Des Seemanns Vorgeschmack auf den morgigen Tag (Sailor's Foretaste Of The Morrow) | InAu | 15 | [327](#des-seemanns-vorgeschmack-auf-den-morgigen-tag) |
+| Die Waage des magischen Gewichts (Scales Of The Magical Weight) | InVi | 5 | [366](#die-waage-des-magischen-gewichts) |
+| Duft des friedvollen Schlummers (Scent Of Peaceful Slumber) | ReMe | 20 | [357](#duft-des-friedvollen-schlummers) |
+| Versiegele die Erde (Seal The Earth) | CrTe | 15 | [359](#versiegele-die-erde) |
+| Sinn für magische Macht (Sense Of Magical Power) | InVi | 2 | [366](#sinn-für-magische-macht) |
+| Der Sinn für anhaltende Magie (Sense Of The Lingering Magic) | InVi | 30 | [367](#der-sinn-für-anhaltende-magie) |
+| Die Schritte auf der Erde spüren (Sense The Feet That Tread The Earth) | InTe | 30 | [360](#die-schritte-auf-der-erde-spüren) |
+| Die Natur der Vis erkennen (Sense The Nature Of Vis) | InVi | 5 | [367](#die-natur-der-vis-erkennen) |
+| Sieben-Meilen-Schritt (Seven-League Stride) | ReCo | 30 | [338](#sieben-meilen-schritt) |
+| Das abgetrennte Glied wird heil (Severed Limb Made Whole, The) | CrCo | 25 | [332](#das-abgetrennte-glied-wird-heil) |
+| Der Schatten menschlichen Lebens (Shadow Of Human Life, The) | CrIm | 40 | [349](#der-schatten-menschlichen-lebens) |
+| Der Schatten des erneuerten Lebens (Shadow Of Life Renewed, The) | CrCo | 75 | [332](#der-schatten-des-erneuerten-lebens) |
+| Schatten vergangener Feuer (Shadows Of The Fires Past) | InIg | 15 | [345](#schatten-vergangener-feuer) |
+| Gestalt des Waldläufers (Shape Of The Woodland Prowler) | MuCo | 25 | [334](#gestalt-des-waldläufers) |
+| Hülle falscher Erkenntnisse (Shell Of False Determinations) | CrVi | Allgemein | [365](#hülle-falscher-erkenntnisse) |
+| Hülle undurchdringlicher Mysterien (Shell Of Opaque Mysteries) | CrVi | Allgemein | [365](#hülle-undurchdringlicher-mysterien) |
+| Schauer des Lykanthropen (Shiver Of The Lycanthrope) | InAn | 10 | [317](#schauer-des-lykanthropen) |
+| Flammen- und Rauchschauspiel (Show Of The Flames And Smoke) | MuIg | 10 | [345](#flammen-und-rauchschauspiel) |
+| Schrei vor dem nahenden Schaft (Shriek Of The Impending Shafts) | InHe | 15 | [340](#schrei-vor-dem-nahenden-schaft) |
+| Magie verschleiern (Shroud Magic) | MuVi | Allgemein | [368](#magie-verschleiern) |
+| Das verborgene Tal (Shrouded Glen, The) | ReMe | 40 | [358](#das-verborgene-tal) |
+| Der Blick auf aktive Magien (Sight Of The Active Magics) | InVi | 40 | [367](#der-blick-auf-aktive-magien) |
+| Sicht des durchsichtigen Motivs (Sight Of The Transparent Motive) | InMe | 10 | [354](#sicht-des-durchsichtigen-motivs) |
+| Blick auf die wahre Gestalt (Sight Of The True Form) | InCo | Allgemein | [333](#blick-auf-die-wahre-gestalt) |
+| Stille des erstickten Schalls (Silence Of The Smothered Sound) | PeIm | 20 | [351](#stille-des-erstickten-schalls) |
+| Die stille Wacht (Silent Vigil, The) | MuCo | 45 | [335](#die-stille-wacht) |
+| Schnipsen des Erwachens (Snap Of Awakening) | ReMe | 10 | [357](#schnipsen-des-erwachens) |
+| Linderung der Schmerzen des Tieres (Soothe Pains Of The Beast) | CrAn | 20 | [316](#linderung-der-schmerzen-des-tieres) |
+| Den tobenden Bären besänftigen (Soothe The Ferocious Bear) | ReAn | 10 | [319](#den-tobenden-bären-besänftigen) |
+| Besänftige die tobenden Flammen (Soothe The Raging Flames) | PeIg | 20 | [346](#besänftige-die-tobenden-flammen) |
+| Die Gabel des Zauberers (Sorcerer's Fork, The) | MuVi | Allgemein | [368](#die-gabel-des-zauberers) |
+| Krämpfe der unkontrollierten Hand (Spasms Of The Uncontrolled Hand) | ReCo | 5 | [337](#krämpfe-der-unkontrollierten-hand) |
+| Haltung des geduldigen Baumes (Stance Of The Patient Tree) | MuCo | 35 | [335](#haltung-des-geduldigen-baumes) |
+| Ross der Rache (Steed Of Vengeance) | MuAn | 35 | [318](#ross-der-rache) |
+| Gestank der zwanzig Leichen (Stench Of The Twenty Corpses) | CrAu | 10 | [326](#gestank-der-zwanzig-leichen) |
+| Den schlummernden Baum erwecken (Stir The Slumbering Tree) | MuHe | 25 | [341](#den-schlummernden-baum-erwecken) |
+| Das steinerne Gedächtnis des ruhenden Geistes (Stone Tell Of The Mind That Sits) | InTe | 30 | [360](#das-steinerne-gedächtnis-des-ruhenden-geistes) |
+| Stein zu fallendem Staub (Stone To Falling Dust) | PeTe | 20 | [362](#stein-zu-fallendem-staub) |
+| Schlag des zürnenden Astes (Strike Of The Angered Branch) | ReHe | 15 | [342](#schlag-des-zürnenden-astes) |
+| Fäden der unfreiwilligen Marionette (Strings Of The Unwilling Marionette) | ReCo | 25 | [338](#fäden-der-unfreiwilligen-marionette) |
+| Feiner Geschmack von Gift und Reinheit (Subtle Taste Of Poison And Purity) | InAq | 5 | [321](#feiner-geschmack-von-gift-und-reinheit) |
+| Beschwörung des fernen Bildes (Summoning The Distant Image) | InIm | 25 | [350](#beschwörung-des-fernen-bildes) |
+| Geschmeidiges Eisen und steifes Seil (Supple Iron And Rigid Rope) | MuTe | 10 | [361](#geschmeidiges-eisen-und-steifes-seil) |
+| Das Werk des Zauberers unterdrücken (Suppressing The Wizard's Handiwork) | ReVi | Allgemein | [372](#das-werk-des-zauberers-unterdrücken) |
+| Geschichten der Asche (Tales Of The Ashes) | InIg | 5 | [345](#geschichten-der-asche) |
+| Klauen der Winde (Talons Of The Winds) | MuAu | 20 | [328](#klauen-der-winde) |
+| Geflecht aus Holz und Dornen (Tangle Of Wood And Thorns) | ReHe | 15 | [342](#geflecht-aus-holz-und-dornen) |
+| Geschmack der tauben Zunge (Taste Of The Dulled Tongue) | PeIm | 5 | [351](#geschmack-der-tauben-zunge) |
+| Geschmack von Gewürzen und Kräutern (Taste Of The Spices And Herbs) | MuIm | 5 | [350](#geschmack-von-gewürzen-und-kräutern) |
+| Die Zähne der Erdmutter (Teeth Of The Earth Mother) | MuTe | 35 | [361](#die-zähne-der-erdmutter) |
+| Thaumaturgische Verwandlung von Pflanzen in Eisen (Thaumaturgical Transformation Of Plants To Iron) | MuHe | 20 | [341](#thaumaturgische-verwandlung-von-pflanzen-in-eisen) |
+| Gedanken im Kauderwelsch (Thoughts Within Babble) | InMe | 25 | [354](#gedanken-im-kauderwelsch) |
+| Auf der Zungenspitze (Tip Of The Tongue) | PeMe | 5 | [355](#auf-der-zungenspitze) |
+| Berührung des Midas (Touch Of Midas) | CrTe | 20 | [359](#berührung-des-midas) |
+| Berührung der Gänsefeder (Touch Of The Goose Feather) | PeCo | 5 | [335](#berührung-der-gänsefeder) |
+| Berührung der Perlen (Touch Of The Pearls) | InAq | 5 | [322](#berührung-der-perlen) |
+| Turm aus wirbelndem Wasser (Tower Of Whirling Water) | ReAq | 35 | [325](#turm-aus-wirbelndem-wasser) |
+| Der spurlose Schritt (Trackless Step) | ReTe | 10 | [363](#der-spurlose-schritt) |
+| Spuren des Feenglühens (Tracks Of The Faerie Glow) | InTe | 25 | [359](#spuren-des-feenglühens) |
+| Verwandlung in Wasser (Transform To Water) | MuCo | 40 | [335](#verwandlung-in-wasser) |
+| Verwandlung der gefräßigen Bestie zur trägen Kröte (Transformation Of The Ravenous Beast To The Torpid Toad) | MuAn | 25 | [318](#verwandlung-der-gefräßigen-bestie-zur-trägen-kröte) |
+| Verwandlung des dornigen Stabs (Transformation Of The Thorny Staff) | MuHe | 10 | [341](#verwandlung-des-dornigen-stabs) |
+| Falle der schlingenden Ranken (Trap Of The Entwining Vines) | CrHe | 15 | [339](#falle-der-schlingenden-ranken) |
+| Das Feuer einfangen (Trapping The Fire) | MuIg | 25 | [346](#das-feuer-einfangen) |
+| Der verräterische Speer (Treacherous Spear, The) | ReHe | 25 | [343](#der-verräterische-speer) |
+| Den Aschenpfad beschreiten (Treading The Ashen Path) | PeHe | 30 | [342](#den-aschenpfad-beschreiten) |
+| Zitternder Schwung der Fackelflamme (Tremulous Vault Of The Torch's Flame) | ReIg | 5 | [347](#zitternder-schwung-der-fackelflamme) |
+| Die wahre Ruhe des verletzten Tieres (True Rest Of The Injured Brute) | CrAn | 20 | [316](#die-wahre-ruhe-des-verletzten-tieres) |
+| Klare Sicht durch die Luft (True Sight Of The Air) | InAu | 15 | [327](#klare-sicht-durch-die-luft) |
+| Vertrauen des kindlichen Glaubens (Trust Of Childlike Faith) | PeMe | 10 | [356](#vertrauen-des-kindlichen-glaubens) |
+| Verdrehung der Zunge (Twist Of The Tongue) | PeCo | 30 | [336](#verdrehung-der-zunge) |
+| Den lebenden Baum formen (Twist The Living Tree) | ReHe | 25 | [343](#den-lebenden-baum-formen) |
+| Das (Form)-Gefüge auflösen (Unraveling The Fabric Of (Form)) | PeVi | Allgemein | [370](#das-form-gefüge-auflösen) |
+| Der unsichtbare Arm (Unseen Arm) | ReTe | 5 | [362](#der-unsichtbare-arm) |
+| Der unsichtbare Träger (Unseen Porter, The) | ReTe | 10 | [363](#der-unsichtbare-träger) |
+| Die unnachgiebige Erde (Unyielding Earth) | ReTe | 10 | [363](#die-unnachgiebige-erde) |
+| Schleier der Unsichtbarkeit (Veil Of Invisibility) | PeIm | 20 | [351](#schleier-der-unsichtbarkeit) |
+| Verfluchtes Wasser der Unfruchtbarkeit (Vile Water Of Sterility) | MuAq | 45 | [323](#verfluchtes-wasser-der-unfruchtbarkeit) |
+| Blick der Viper (Viper's Gaze) | ReAn | 15 | [320](#blick-der-viper) |
+| Sicht durch Wärmestrahlung (Vision Of Heat's Light) | InIg | 20 | [345](#sicht-durch-wärmestrahlung) |
+| Erscheinung der heimsuchenden Geister (Vision Of The Haunting Spirits) | MuMe | 40 | [355](#erscheinung-der-heimsuchenden-geister) |
+| Erscheinungen der höllischen Schrecken (Visions Of The Infernal Terrors) | ReMe | 30 | [357](#erscheinungen-der-höllischen-schrecken) |
+| Stimme des Sees (Voice Of The Lake) | InAq | 25 | [322](#stimme-des-sees) |
+| Die wandelnde Leiche (Walking Corpse, The) | ReCo | 35 | [339](#die-wandelnde-leiche) |
+| Wand aus lebendem Holz (Wall Of Living Wood) | CrHe | 25 | [339](#wand-aus-lebendem-holz) |
+| Mauer aus schützendem Stein (Wall Of Protecting Stone) | CrTe | 25 | [359](#mauer-aus-schützendem-stein) |
+| Dornenwand (Wall Of Thorns) | CrHe | 20 | [339](#dornenwand) |
+| Schutzwall gegen die Feen der Lüfte (Ward Against Faeries Of The Air) | ReAu | Allgemein | [329](#schutzwall-gegen-die-feen-der-lüfte) |
+| Schutzwall gegen die Feen des Gebirges (Ward Against Faeries Of The Mountain) | ReTe | Allgemein | [362](#schutzwall-gegen-die-feen-des-gebirges) |
+| Schutzwall gegen die Feen der Gewässer (Ward Against Faeries Of The Waters) | ReAq | Allgemein | [323](#schutzwall-gegen-die-feen-der-gewässer) |
+| Schutzwall gegen die Feen des Waldes (Ward Against Faeries Of The Wood) | ReHe | Allgemein | [342](#schutzwall-gegen-die-feen-des-waldes) |
+| Schutz vor Hitze und Flammen (Ward Against Heat And Flames) | ReIg | 25 | [347](#schutz-vor-hitze-und-flammen) |
+| Schutz vor Regen (Ward Against Rain) | ReAu | 10 | [330](#schutz-vor-regen) |
+| Schutzwall gegen die Bestien der Legende (Ward Against The Beasts Of Legend) | ReAn | Allgemein | [319](#schutzwall-gegen-die-bestien-der-legende) |
+| Schutz vor Holz (Ward Against Wood) | ReHe | 25 | [343](#schutz-vor-holz) |
+| Die wachende Wacht (Watching Ward) | ReVi | Allgemein | [372](#die-wachende-wacht) |
+| Wellen des Ertrinkens und Zerschmetterns (Waves Of Drowning And Smashing) | ReAq | 30 | [324](#wellen-des-ertrinkens-und-zerschmetterns) |
+| Weberfalle aus Spinnfäden (Weaver's Trap Of Webs) | CrAn | 35 | [316](#weberfalle-aus-spinnfäden) |
+| Gewicht von tausend Höllen (Weight Of A Thousand Hells) | CrMe | 25 | [353](#gewicht-von-tausend-höllen) |
+| Brunnen ohne Licht (Well Without Light) | PeIg | 25 | [346](#brunnen-ohne-licht) |
+| Flüsternde Winde (Whispering Winds) | InAu | 15 | [327](#flüsternde-winde) |
+| Geflüster durch das Schwarze Tor (Whispers Through The Black Gate) | InCo | 15 | [333](#geflüster-durch-das-schwarze-tor) |
+| Trage die unsichtbare Schleuder (Wielding The Invisible Sling) | ReTe | 10 | [363](#trage-die-unsichtbare-schleuder) |
 | Wind im Rücken (Wind At The Back) | ReAu | 5 | [329](#wind-im-rücken) |
-| Wolken der donnernden Macht (Clouds Of Thunderous Might) | ReAu | 30 | [330](#wolken-der-donnernden-macht) |
-| Wolken des Sommerschnees (Clouds Of Summer Snow) | CrAu | 25 | [326](#wolken-des-sommerschnees) |
-| Wolken von Regen und Donner (Clouds Of Rain And Thunder) | CrAu | 25 | [326](#wolken-von-regen-und-donner) |
+| Wind der weltlichen Stille (Wind Of Mundane Silence) | PeVi | Allgemein | [370](#wind-der-weltlichen-stille) |
+| Schwingen des aufsteigenden Windes (Wings Of The Soaring Wind) | CrAu | 30 | [326](#schwingen-des-aufsteigenden-windes) |
+| Eisige Berührung des Winters (Winter's Icy Touch) | PeIg | 10 | [346](#eisige-berührung-des-winters) |
+| Des Zauberers Herbst (Wizard's Autumn) | PeHe | 15 | [341](#des-zauberers-herbst) |
+| Schub des Zauberers (Form) (Wizard's Boost (Form)) | MuVi | Allgemein | [368](#schub-des-zauberers-form) |
+| Communion des Zauberers (Wizard's Communion) | MuVi | Allgemein | [369](#communion-des-zauberers) |
+| Finsternis des Zauberers (Wizard's Eclipse) | PeIg | 35 | [346](#finsternis-des-zauberers) |
+| Eisiger Griff des Zauberers (Wizard's Icy Grip) | PeIg | 30 | [346](#eisiger-griff-des-zauberers) |
+| Das Reittier des Zauberers (Wizard's Mount, The) | CrAn | 35 | [316](#das-reittier-des-zauberers) |
+| Reichweite des Zauberers (Form) (Wizard's Reach (Form)) | MuVi | Allgemein | [369](#reichweite-des-zauberers-form) |
+| Des Zauberers Schritt zur Seite (Wizard's Sidestep) | ReIm | 10 | [352](#des-zauberers-schritt-zur-seite) |
+| Wacht des Zauberers (Wizard's Vigil) | MuVi | Allgemein | [370](#wacht-des-zauberers) |
 | Worte der flackernden Flamme (Words Of The Flickering Flame) | InIg | 35 | [345](#worte-der-flackernden-flamme) |
 | Worte der ungebrochenen Stille (Words Of The Unbroken Silence) | CrMe | 10 | [353](#worte-der-ungebrochenen-stille) |
-| Wunde verbinden (Bind Wound) | CrCo | 10 | [332](#wunde-verbinden) |
-| Zimmer der abgestandenen Luft (Room Of Stale Air) | PeAu | 15 | [329](#zimmer-der-abgestandenen-luft) |
-| Zitternder Schwung der Fackelflamme (Tremulous Vault Of The Torch's Flame) | ReIg | 5 | [347](#zitternder-schwung-der-fackelflamme) |
+| Die weinende Wunde (Wound That Weeps, The) | PeCo | 15 | [335](#die-weinende-wunde) |
 | Zorn der wirbelnden Winde und des Wassers (Wrath Of Whirling Winds And Water) | CrAu | 65 | [327](#zorn-der-wirbelnden-winde-und-des-wassers) |
-| Zorn des Neptun (Neptune's Wrath) | ReAq | 40 | [325](#zorn-des-neptun) |
-| Zwang der Geister der Nacht (Coerce The Spirits Of The Night) | ReMe | 20 | [357](#zwang-der-geister-der-nacht) |
-| Ölregen (Rain Of Oil) | MuAu | 50 | [329](#ölregen) |
-| Übernatürliches Wachsen und Schrumpfen (Preternatural Growth And Shrinking) | MuCo | 15 | [333](#übernatürliches-wachsen-und-schrumpfen) |
+| Kränze aus faulem Rauch (Wreaths Of Foul Smoke) | CrAu | 10 | [326](#kränze-aus-faulem-rauch) |
 
 ### Zauber-Leitlinien-Index
 

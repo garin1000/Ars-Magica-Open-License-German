@@ -63,11 +63,12 @@ Jeder Übersetzungs-Agent erhält folgende Anweisungen:
 2. **Übersetzungstabellen konsultieren:** Verwende ausschließlich die Begriffe aus den Übersetzungstabellen in `translation-tables/`. Abweichungen sind nicht zulässig.
 3. **Formatierungsregeln einhalten:** Statblöcke, Beschreibungen und Tabellen nach den Regeln in `formatting-rules/` formatieren.
 4. **Zeilensynchronität:** Die deutsche Übersetzung muss exakt dieselbe Zeilenzahl haben wie der englische Quellabschnitt. Jede Zeile muss ihrer englischen Entsprechung zugeordnet sein.
-5. **Natürliches Deutsch:** Übersetze in natürliches, flüssiges Deutsch. Übernimm keine englischen Satzkonstruktionen. Passe Satzstellung, Wortfolge und Ausdruck an die deutsche Sprache an.
-6. **Aussprachehinweise:** Für englische Leser gedachte Aussprachebeispiele (z. B. „(DAH-van ALL-ath)") werden weggelassen. Um die Zeilensynchronität zu erhalten, wird die weggelassene Zeile durch eine Leerzeile in der deutschen Datei ersetzt (oder der verbleibende Text so auf die Zeilen verteilt, dass die Gesamtzahl gleich bleibt).
-7. **Markdown:** Alle Markdown-Formatierungen (Überschriften, Links, Tabellen, Hervorhebungen) aus dem Original beibehalten.
-8. **Ergebnis schreiben:** Schreibe den übersetzten Abschnitt in die Zieldatei in `german-wip/`. Verwende den in Phase 0.4 bestimmten und vom Benutzer bestätigten deutschen Dateinamen. Der erste Abschnitt erstellt die Datei; alle weiteren Abschnitte hängen an.
-9. **Neue Begriffe identifizieren:** Sammle alle Fachbegriffe im Abschnitt, die **nicht** in den Übersetzungstabellen stehen – insbesondere Tugenden, Fehler, Fertigkeiten, Zaubersprüche, Konventsbegriffe, Kreaturen und sonstige spielmechanische Begriffe. Notiere für jeden Begriff: englischer Name, gewählte deutsche Übersetzung, Kategorie (Tugend/Fehler/Fertigkeit/Zauber/…) und ggf. Anmerkungen.
+5. **Reihenfolge nicht ändern:** Sortierte Listen (z. B. Zauberindex, Tugend-/Fehlerübersichten, Bestiariumsindex, Register) behalten die **Reihenfolge des englischen Originals**. Auch wenn die deutsche alphabetische Sortierung dadurch aufgebrochen wird, darf beim Übersetzen **nicht umsortiert** werden – die Zeilenzuordnung zwischen englischer und deutscher Datei hat Vorrang.
+6. **Natürliches Deutsch:** Übersetze in natürliches, flüssiges Deutsch. Übernimm keine englischen Satzkonstruktionen. Passe Satzstellung, Wortfolge und Ausdruck an die deutsche Sprache an.
+7. **Aussprachehinweise:** Für englische Leser gedachte Aussprachebeispiele (z. B. „(DAH-van ALL-ath)") werden weggelassen. Um die Zeilensynchronität zu erhalten, wird die weggelassene Zeile durch eine Leerzeile in der deutschen Datei ersetzt (oder der verbleibende Text so auf die Zeilen verteilt, dass die Gesamtzahl gleich bleibt).
+8. **Markdown:** Alle Markdown-Formatierungen (Überschriften, Links, Tabellen, Hervorhebungen) aus dem Original beibehalten.
+9. **Ergebnis schreiben:** Schreibe den übersetzten Abschnitt in die Zieldatei in `german-wip/`. Verwende den in Phase 0.4 bestimmten und vom Benutzer bestätigten deutschen Dateinamen. Der erste Abschnitt erstellt die Datei; alle weiteren Abschnitte hängen an.
+10. **Neue Begriffe identifizieren:** Sammle alle Fachbegriffe im Abschnitt, die **nicht** in den Übersetzungstabellen stehen – insbesondere Tugenden, Fehler, Fertigkeiten, Zaubersprüche, Konventsbegriffe, Kreaturen und sonstige spielmechanische Begriffe. Notiere für jeden Begriff: englischer Name, gewählte deutsche Übersetzung, Kategorie (Tugend/Fehler/Fertigkeit/Zauber/…) und ggf. Anmerkungen.
 
 ### Ablauf
 
@@ -97,7 +98,8 @@ Nach Abschluss aller Abschnitte prüfe die zusammengesetzte Zieldatei:
 2. **Markdown-Links:** Prüfe alle internen Markdown-Links (`[Text](#anker)`). Anker müssen auf tatsächlich existierende Überschriften in der deutschen Datei verweisen.
 3. **Abschnittsübergänge:** Lies die Übergangsstellen zwischen den Abschnitten und stelle sicher, dass keine Lücken, Überlappungen oder Brüche entstanden sind.
 4. **Terminologie-Stichproben:** Prüfe stichprobenartig 20 zentrale Fachbegriffe gegen die Übersetzungstabellen.
-5. **Vollständigkeit der Übersetzungstabellen:** Prüfe, ob alle im Supplement neu eingeführten Fachbegriffe (Tugenden, Fehler, Fertigkeiten, Zauber, Kreaturen usw.) in die jeweiligen Tabellendateien in `translation-tables/` eingetragen wurden. Fehlende Einträge sofort nachtragen.
+5. **Reihenfolge:** Prüfe, dass sortierte Listen (Zauberindex, Tugend-/Fehlerübersichten, Bestiariumsindex, Register) die Reihenfolge des englischen Originals beibehalten und nicht alphabetisch nach den deutschen Begriffen umsortiert wurden.
+6. **Vollständigkeit der Übersetzungstabellen:** Prüfe, ob alle im Supplement neu eingeführten Fachbegriffe (Tugenden, Fehler, Fertigkeiten, Zauber, Kreaturen usw.) in die jeweiligen Tabellendateien in `translation-tables/` eingetragen wurden. Fehlende Einträge sofort nachtragen.
 
 Korrigiere gefundene Fehler direkt. Dokumentiere alle vorgenommenen Korrekturen kurz.
 

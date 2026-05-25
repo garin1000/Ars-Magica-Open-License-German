@@ -28,15 +28,30 @@ Originalbücher, da diese nicht Teil der offenen Lizenz sind.
 
 ### Struktur des Repositories
 
-* /.claude/commands/translate.md: Ein Claude-Code-Befehl zum Starten der Übersetzung eines Regelwerks
+* /.claude/commands/: Claude-Code-Befehle (Übersetzung, Sortierung, HTML-Erzeugung u.a.)
 * /character-sheet: Deutscher Charakterbogen als ausfüllbares PDF mit einigen grundlegenden Berechnungen, erstellt in [Scribus](https://www.scribus.net/)
-* /formatting-rules: Formaiterregeln für bestimmte wiederkehrende Elemente zur Verwendung durch die KI
-* /german-reviewd: Die manuell überprüften, freigegebenen Dateien - nicht fehlerfrei, aber verwendbar
+* /formatting-rules: Formatierregeln für bestimmte wiederkehrende Elemente zur Verwendung durch die KI
+* /german-reviewed: Die manuell überprüften, freigegebenen Übersetzungen (Quelldateien für die Erzeugungskette)
+* /german-ordered: Automatisch sortierte Versionen der freigegebenen Übersetzungen (erzeugt durch `/sort-entries`)
+* /german-html: Self-contained HTML-Regelwerke mit Navigation und Suche (erzeugt durch `/build-html`)
 * /german-wip: Die aktuellen Arbeitsversionen, die noch bearbeitet werden
 * /lektorat: Verzeichnis für die Notizen der KI-Lektoratsagenten, in .gitignore
 * /original-english: Submodule-Verzeichnis für das [englische Original (Fork)](https://github.com/garin1000/Ars-Magica-Open-License)
+* /tools: Dauerhafte Skripte und Hilfsdateien (z.B. HTML-Konvertierung)
 * /tmp: Verzeichnis für temporäre Dateien während der automatischen Übersetzung
 * /translation-tables: Übersetzungstabellen für wichtige Spielbegriffe, Zauber, Talente, Fehler, etc. zum Nachschlagen für die KI und manuell
+
+### Erzeugungskette
+
+Die freigegebenen Übersetzungen durchlaufen eine zweistufige Erzeugungskette, bevor sie als HTML-Regelwerk vorliegen:
+
+```
+german-reviewed/  →  /sort-entries  →  german-ordered/  →  /build-html  →  german-html/
+(Quelldateien)       (Sortierung)      (sortierte Md)      (Konvertierung)  (HTML-Dateien)
+```
+
+1. **`/sort-entries`** sortiert Listen (Tugenden, Fehler, Fertigkeiten, Zauber, Indizes) alphabetisch nach deutschen Begriffen. Die Quelldateien in `german-reviewed/` behalten dabei die Reihenfolge des englischen Originals, damit die Zeilenzuordnung erhalten bleibt.
+2. **`/build-html`** erzeugt aus den sortierten Markdown-Dateien in `german-ordered/` self-contained HTML-Dateien mit einklappbarer Navigation und Fuzzy-Suche.
 
 ### Wie wird übersetzt?
 

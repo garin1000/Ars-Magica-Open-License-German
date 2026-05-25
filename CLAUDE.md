@@ -19,6 +19,7 @@ Du hast immense Erfahrung in der Übersetzung von Rollenspielregeln und Erweiter
 3. Prüfe den Satzbau und passe zu direkt aus dem Englischen übernommene Konstruktionen an **natürliches Deutsch** an.
 4. Achte darauf, dass die deutsche und die englische Version eines Buchs **immer dieselbe Anzahl Zeilen** haben und **Zeile für Zeile einander entsprechen**. Verlasse dich bei Korrekturarbeiten darauf, um die Komplexität der Arbeit zu verringern.
 5. **Aussprachehinweise** für englischsprachige Leser (z. B. „(DAH-van ALL-ath)") werden **weggelassen**. Um die Zeilensynchronität zu erhalten, wird die entstehende Leerzeile durch eine Leerzeile in der deutschen Datei ersetzt (oder der verbleibende Text so auf die Zeilen verteilt, dass die Gesamtzahl gleich bleibt).
+6. **Reihenfolge nicht ändern.** Sortierte Listen (z. B. Zauberindex, Tugend-/Fehlerübersichten, Bestiariumsindex, Register) behalten die **Reihenfolge des englischen Originals**. Auch wenn die deutsche alphabetische Sortierung dadurch aufgebrochen wird, darf beim Übersetzen **nicht umsortiert** werden – die Zeilenzuordnung zwischen englischer und deutscher Datei hat Vorrang. Die Dateien in `german-reviewed/` sind bereits entsprechend der englischen Reihenfolge sortiert und müssen so bleiben.
 
 ### Nach der Übersetzung
 - Prüfe die Korrektheit aller **Markdown-Links**, insbesondere wenn Überschriften modifiziert wurden.
@@ -39,7 +40,12 @@ Du bist erfahrener Lektor für Rollenspielsysteme.
 ```
 /
 ├── german-reviewed/          # ⛔ Schreibgeschützt – release-fertige deutsche Übersetzungen
+├── german-ordered/           # Automatisch sortierte Versionen (erzeugt durch /sort-entries)
+├── german-html/              # Self-contained HTML-Regelwerke (erzeugt durch /build-html)
 ├── german-wip/               # Deutsche Übersetzungen in Bearbeitung
+├── tools/                    # Dauerhafte Skripte und Hilfsdateien
+│   ├── build-html/           # HTML-Konvertierung (md_to_html.py, fuse.min.js)
+│   └── sort-entries/         # Alphabetische Sortierung (sort_entries.py)
 ├── translation-tables/       # Übersetzungstabellen und Terminologieregeln
 ├── formatting-rules/         # Formatierungsregeln für Statblöcke und Beschreibungen
 ├── lektorat/                 # Lektoratsergebnisse der Prüfagenten
@@ -65,6 +71,7 @@ Du bist erfahrener Lektor für Rollenspielsysteme.
 ### `/german-reviewed`
 - Diese Dateien werden von Claude **unter keinen Umständen verändert**.
 - Müssen Änderungen vorgenommen werden, erstelle eine **Arbeitskopie** in `/german-wip` und führe alle Änderungen dort durch.
+- Die Dateien in `german-reviewed/` sind die **Quelldateien** für die Erzeugungskette: `german-reviewed/` → (`/sort-entries`) → `german-ordered/` → (`/build-html`) → `german-html/`.
 - [`README.md`](german-reviewed/README.md) dient als **Dateiindex** der freigegebenen Übersetzungen.
 
 ### `/german-wip`
@@ -76,6 +83,22 @@ Du bist erfahrener Lektor für Rollenspielsysteme.
 - Dateiname: analog zur geprüften Quelldatei, z. B. `lektorat/core-rules-kap3.md`.
 - Inhalt: gefundene Fehler, Stilkorrekturen, offene Fragen – jeweils mit Zeilenverweis.
 - [`README.md`](lektorat/README.md) dokumentiert **Namenskonventionen** und aktuellen Stand.
+
+### `/german-ordered`
+- **Freigegebene Dateien** – automatisch erzeugte Versionen der Übersetzungen mit **alphabetisch sortierten Einträgen** (Tugenden, Fehler, Fertigkeiten, Zauber, Indizes).
+- Wird aus `german-reviewed/` durch das Kommando `/sort-entries` erzeugt (dieser erstellt und startet `tmp/sort_entries.py`).
+- Sortierte Abschnitte: Link-Listen, Beschreibungsblöcke, Zauber innerhalb jeder Stufe, Index-Tabellen.
+- Die Zeilenzahl bleibt bei der Sortierung identisch zur Eingabe.
+- Dient als **Eingabe** für `/build-html`.
+
+### `/german-html`
+- Self-contained HTML-Dateien der Regelwerke, erzeugt aus `german-ordered/` durch das Kommando `/build-html`.
+- Enthalten einklappbare Navigation (links, H1–H3), Fuzzy-Suche mit Fuse.js (rechts) und bildschirmoptimiertes CSS.
+- Keine externen Abhängigkeiten — alles inline in einer Datei pro Regelwerk.
+
+### `/tools`
+- Dauerhafte Skripte und Hilfsdateien für wiederkehrende Aufgaben.
+- Jedes Tool hat ein eigenes Unterverzeichnis (z.B. `tools/build-html/`).
 
 ### `/tmp/`
 - Verzeichnis für temporäre Dateien.
