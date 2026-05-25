@@ -449,12 +449,20 @@ body.search-open #search-field {
   border: 1px solid var(--border);
   padding: 6px 12px;
   text-align: left;
+}
+
+#main-content td, #main-content th {
+  max-width: 30em;
+}
+
+#main-content td:first-child,
+#main-content th:first-child {
   white-space: nowrap;
+  max-width: none;
 }
 
 #main-content td:last-child,
 #main-content th:last-child {
-  white-space: normal;
   max-width: 35em;
 }
 
