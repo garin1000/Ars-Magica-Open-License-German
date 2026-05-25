@@ -924,7 +924,8 @@ def build_html(body_html: str, nav_html: str, css: str, js: str,
 """
 
 
-def process(input_dir: str, output_dir: str) -> None:
+def process(input_dir: str, output_dir: str,
+            files: list[str] | None = None) -> None:
     fuse_path = SCRIPT_DIR / "fuse.min.js"
     if not fuse_path.is_file():
         print(f"Fehler: fuse.min.js nicht gefunden in {SCRIPT_DIR}", file=sys.stderr)
@@ -939,7 +940,20 @@ def process(input_dir: str, output_dir: str) -> None:
         logo_b64 = ""
         print(f"Warnung: Logo nicht gefunden: {logo_path}", file=sys.stderr)
 
-    md_files = sorted(Path(input_dir).glob("*.md"))
+    if files:
+        md_files = []
+        for f in files:
+            p = Path(f)
+            if not p.is_file():
+                print(f"Fehler: Datei nicht gefunden: {f}", file=sys.stderr)
+                sys.exit(1)
+            if p.suffix.lower() != ".md":
+                print(f"Fehler: Keine Markdown-Datei: {f}", file=sys.stderr)
+                sys.exit(1)
+            md_files.append(p)
+    else:
+        md_files = sorted(Path(input_dir).glob("*.md"))
+
     if not md_files:
         print(f"Keine .md-Dateien in {input_dir} gefunden.", file=sys.stderr)
         sys.exit(1)
@@ -987,13 +1001,17 @@ def main():
         "--output-dir", "-o", default="german-html",
         help="Ausgabeverzeichnis für HTML-Dateien",
     )
+    parser.add_argument(
+        "files", nargs="*",
+        help="Einzelne Markdown-Dateien (optional). Ohne Angabe: alle .md in --input-dir.",
+    )
     args = parser.parse_args()
 
-    if not os.path.isdir(args.input_dir):
+    if not args.files and not os.path.isdir(args.input_dir):
         print(f"Fehler: Verzeichnis nicht gefunden: {args.input_dir}", file=sys.stderr)
         sys.exit(1)
 
-    process(args.input_dir, args.output_dir)
+    process(args.input_dir, args.output_dir, args.files or None)
 
 
 if __name__ == "__main__":

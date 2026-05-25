@@ -1,6 +1,8 @@
 # HTML-Regelwerk erstellen
 
-Konvertiere die sortierten Markdown-Dateien in `german-ordered/` zu selbstständigen HTML-Dateien mit Navigation und Fuzzy-Suche.
+Konvertiere Markdown-Dateien aus `german-ordered/` zu selbstständigen HTML-Dateien mit Navigation und Fuzzy-Suche.
+
+**Argument (optional):** Pfad zu einer oder mehreren Markdown-Dateien. Ohne Argument werden alle `.md`-Dateien in `german-ordered/` konvertiert.
 
 ---
 
@@ -9,7 +11,7 @@ Konvertiere die sortierten Markdown-Dateien in `german-ordered/` zu selbstständ
 1. Führe das Konvertierungsskript aus:
 
 ```bash
-python3 tools/build-html/md_to_html.py
+python3 tools/build-html/md_to_html.py $ARGUMENTS
 ```
 
 2. Prüfe die Ausgabe:
