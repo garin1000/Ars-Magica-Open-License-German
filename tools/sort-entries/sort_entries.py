@@ -55,18 +55,36 @@ def sort_key_german(text: str) -> str:
 # Hilfsfunktionen
 # ---------------------------------------------------------------------------
 
+def _is_h1(line: str) -> bool:
+    return line.startswith("# ") and not line.startswith("## ")
+
+
 def find_next_h2(lines: list[str], start: int) -> int:
     for i in range(start + 1, len(lines)):
-        if lines[i].startswith("## "):
+        if lines[i].startswith("## ") or _is_h1(lines[i]):
             return i
     return len(lines)
 
 
 def find_next_h3_or_above(lines: list[str], start: int) -> int:
     for i in range(start + 1, len(lines)):
-        if lines[i].startswith("## ") or lines[i].startswith("### "):
+        if _is_h1(lines[i]) or lines[i].startswith("## ") or lines[i].startswith("### "):
             return i
     return len(lines)
+
+
+def _adjust_for_chapter_opener(lines: list[str], end: int) -> int:
+    """Bewegt end rückwärts, um vorausgehende --- + Zitatblock-Muster auszuschließen."""
+    i = end - 1
+    while i >= 0 and lines[i].strip() == "":
+        i -= 1
+    if i >= 0 and lines[i].strip().startswith(">"):
+        i -= 1
+        while i >= 0 and lines[i].strip() == "":
+            i -= 1
+    if i >= 0 and lines[i].strip() == "---":
+        return i
+    return end
 
 
 def extract_link_name(line: str) -> str:
@@ -174,14 +192,20 @@ def sort_description_blocks(lines, section_start, section_end):
     blocks = []
     current_block_start = first_h4
     for i in range(first_h4 + 1, len(section)):
-        if section[i].startswith("#### ") or section[i].startswith("## ") or section[i].startswith("### "):
+        if (section[i].startswith("#### ") or section[i].startswith("### ")
+                or section[i].startswith("## ") or _is_h1(section[i])):
             blocks.append(section[current_block_start:i])
             current_block_start = i
-            if section[i].startswith("## ") or section[i].startswith("### "):
+            if section[i].startswith("### ") or section[i].startswith("## ") or _is_h1(section[i]):
                 break
 
     if current_block_start < len(section) and section[current_block_start].startswith("#### "):
-        blocks.append(section[current_block_start:])
+        end_of_last = len(section)
+        for j in range(current_block_start + 1, len(section)):
+            if section[j].strip() == "---":
+                end_of_last = j
+                break
+        blocks.append(section[current_block_start:end_of_last])
 
     if not blocks:
         return section, stats
@@ -405,7 +429,7 @@ def sort_bold_blocks(lines, section_start, section_end):
     for i in range(first_bold + 1, len(section)):
         stripped = section[i].strip()
         if (stripped.startswith("#### ") or stripped.startswith("### ")
-                or stripped.startswith("## ")):
+                or stripped.startswith("## ") or _is_h1(stripped)):
             blocks.append(section[current_start:i])
             postamble_start = i
             break
@@ -720,6 +744,7 @@ def _resolve_section_range(lines: list[str], sec_cfg: dict) -> tuple[int, int]:
         return -1, -1
 
     h2_end = find_next_h2(lines, h_line)
+    h2_end = _adjust_for_chapter_opener(lines, h2_end)
 
     if subheading:
         sub_line = find_heading_line(lines, subheading, 1,
@@ -727,7 +752,9 @@ def _resolve_section_range(lines: list[str], sec_cfg: dict) -> tuple[int, int]:
         if sub_line == -1:
             return -1, -1
         sub_end = find_next_h3_or_above(lines, sub_line)
-        return sub_line, min(sub_end, h2_end)
+        adjusted = min(sub_end, h2_end)
+        adjusted = _adjust_for_chapter_opener(lines, adjusted)
+        return sub_line, adjusted
 
     return h_line, h2_end
 

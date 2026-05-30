@@ -7036,6 +7036,17 @@ Der Charakter ist gegenüber Umgebungsbedingungen zu empfindlich geworden, was s
 
 Dies ist ein häufiger Fehler für Charaktere, die durch eine starke Magie-Umgebung verzerrt werden.
 
+> #### Umgebungstemperaturen
+>
+> - Unnatürlich heiß
+> - So heiß wie neben einem lodernden Feuer, flüssiger Lava oder flüssigem Eisen
+> - Tropischer Mittag
+> - So warm wie an einem schönen Sommertag in Südeuropa
+> - Angenehm für normale Bewohner des Normannischen, Rhein-, Stonehenge- und Hibernischen Tribunals
+> - So kalt wie an einem frischen Wintertag in Westeuropa
+> - Arktischer Winter
+> - Unnatürlich kalt
+
 #### Vis-Verschwender
 *Groß, Hermetisch*<br>
 Wenn du rohes Vis einsetzt, verschwendest du ein Viertel (aufgerundet) der angewendeten Bauern. Das verlorene rohe Vis zählt nicht für den magischen Effekt, der bewirkt wird, zählt aber zur Gesamtzahl der Patzerwürfel, die du würfeln musst, wenn du eine Null würfelst. Du musst ein Drittel mehr Bauern als üblich einsetzen, wenn du einen Ritualzauber wirkst, und wenn du einen Kunstwert durch das Studieren von rohem Vis verbessern möchtest, musst du ein Drittel mehr Bauern als üblich verwenden. Dieser Fehler gilt für alle Gelegenheiten, bei denen du Vis einsetzt, einschließlich Certamen, Laborarbeit und dem Erhöhen der Penetration. Verschwendete Bauern zählen zur maximalen Anzahl, die du auf einmal einsetzen kannst. Wenn du zum Beispiel normalerweise 12 Bauern einsetzen würdest, musst du 16 einsetzen, und 4, ein Viertel der eingesetzten, werden verschwendet. Wenn du normalerweise 10 Bauern benötigen würdest, musst du 14 einsetzen, weil 4 Bauern verschwendet werden.
@@ -7055,17 +7066,6 @@ Deine Magie ist besonders schlecht darin, Magieresistenz zu durchdringen. Du hal
 #### Schwache Magieresistenz
 *Groß, Hermetisch*<br>
 Jede Form von Magieresistenz, die du erzeugst, ist unter relativ häufigen Umständen, die ein Gegner leicht nutzen kann, viel schwächer — etwa wenn du nass bist oder dem Zaubernden den Rücken zukehrst. Wenn die Bedingungen erfüllt sind, ziehe nicht die Stufe des Effekts von der Zaubersumme ab, bevor du die Penetration berechnest. Es wäre ratsam, deine Schwäche nicht zu vielen potenziellen Feinden bekannt zu machen.
-
-> #### Umgebungstemperaturen
->
-> - Unnatürlich heiß
-> - So heiß wie neben einem lodernden Feuer, flüssiger Lava oder flüssigem Eisen
-> - Tropischer Mittag
-> - So warm wie an einem schönen Sommertag in Südeuropa
-> - Angenehm für normale Bewohner des Normannischen, Rhein-, Stonehenge- und Hibernischen Tribunals
-> - So kalt wie an einem frischen Wintertag in Westeuropa
-> - Arktischer Winter
-> - Unnatürlich kalt
 
 #### Schwacher Parens
 *Klein, Hermetisch*<br>

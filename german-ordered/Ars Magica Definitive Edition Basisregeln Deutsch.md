@@ -6232,16 +6232,6 @@ Du kannst kein Geheimnis bewahren. Du musst dem ersten interessierten Gesprächs
 *Groß oder Klein, Persönlichkeit*<br>
 Du neigst dazu, über die kleinsten Angelegenheiten in Wut zu geraten, und deine Raserei, wenn du in einer wichtigen Sache durchkreuzt wirst, ist fürchterlich anzusehen.
 
----
-
-> Fackeln flackern unter einem hellen Aufleuchten von Magielicht! Unser Zauberer erleuchtet unsere eilige Reise mit seinem leuchtenden Stab, während unsere grimmigen Wachen unsere Schritte flankieren. Unser Konvent begrüßt uns nach Hause von den zerklüfteten Klippen, Zinnen gegen den Himmel gezeichnet, die den weiten, sich verdunkelnden Ozean überblicken, während die Sonne tief sinkt. Er hütet Geschichten tapferer Ritter, verschlagener Zauberer und ihrer treuen Gefährten. Unser Wagen rattert den gewundenen Pfad hinunter, bei peitschendem Wind dunkler Bedrohungen an unseren Ohren vorüber in Eile auf Sicherheit zu. Denn wir alle wissen, dass unsichtbare Gefahr in den tiefer werdenden Schatten lauert, jeden unserer Schritte vom Waldrand aus verfolgt und unseren Mut bei jedem Schritt auf die Probe stellt.
-
-# Kapitel 5: Fertigkeiten
-
-Fertigkeiten stehen für die Dinge, die ein Charakter im Laufe seines Lebens gelernt hat. Sie steigen im Verlauf einer Saga, da Menschen ständig weiterlernen.
-
-Fertigkeiten werden normalerweise verwendet, indem Eigenschaft + Fertigkeit + Würfelwurf addiert werden, wobei ein Schwierigkeitsgrad erreicht oder überschritten werden muss. Im Prinzip kann jede Eigenschaft mit jeder Fertigkeit kombiniert werden, doch manche Paarungen sind selten; Stärke + Kunde des Ordens des Hermes wird beispielsweise wohl kaum oft gefordert sein. Die passende Eigenschaft sollte anhand der Beschreibungen der Eigenschaften aus dem Charakterkapitel ([Seite 27](#eigenschaften)) gewählt werden, auch wenn die Regeln für Magie und Kampf die Paarungen für eine Reihe wichtiger Situationen festlegen.
-
 #### Kastrat
 *Klein, Allgemein*<br>
 Du wurdest vor der Pubertät kastriert, was dich bartlos und im Vergleich zu den meisten Männern etwas feminin wirken lässt. Soziale Würfe mit Charakteren aus der lateinischen Kultur erleiden eine –3-Strafe. Nach byzantinischem Recht darfst du nicht heiraten, kannst aber Kinder adoptieren. In der byzantinischen Kultur war dies möglicherweise ein kluger Karriereschachzug deiner Vormünder, da Eunuchen Machtpositionen erlangen können. Anderswo war es wahrscheinlich die Folge eines Unfalls oder Übergriffs. Dieser Fehler steht nur Charakteren zur Verfügung, die mit Hoden geboren wurden.
@@ -6636,17 +6626,6 @@ Deine Magie ist besonders schlecht darin, Magieresistenz zu durchdringen. Du hal
 *Groß, Hermetisch*<br>
 Jede Form von Magieresistenz, die du erzeugst, ist unter relativ häufigen Umständen, die ein Gegner leicht nutzen kann, viel schwächer — etwa wenn du nass bist oder dem Zaubernden den Rücken zukehrst. Wenn die Bedingungen erfüllt sind, ziehe nicht die Stufe des Effekts von der Zaubersumme ab, bevor du die Penetration berechnest. Es wäre ratsam, deine Schwäche nicht zu vielen potenziellen Feinden bekannt zu machen.
 
-> #### Umgebungstemperaturen
->
-> - Unnatürlich heiß
-> - So heiß wie neben einem lodernden Feuer, flüssiger Lava oder flüssigem Eisen
-> - Tropischer Mittag
-> - So warm wie an einem schönen Sommertag in Südeuropa
-> - Angenehm für normale Bewohner des Normannischen, Rhein-, Stonehenge- und Hibernischen Tribunals
-> - So kalt wie an einem frischen Wintertag in Westeuropa
-> - Arktischer Winter
-> - Unnatürlich kalt
-
 #### Schwache Persönlichkeit
 *Klein, Persönlichkeit*<br>
 Dieser Charakter empfindet weder stark für noch gegen irgendetwas und mangelt an den einzigartigen Eigenschaften, die die meisten Menschen wirklich hervorstechen lassen. Infolgedessen müssen alle Persönlichkeitszüge zwischen +1 und –1 liegen. Bei Persönlichkeitswürfen wird jedes Ergebnis über 6 lediglich als 6 behandelt. Der Charakter darf keine anderen Persönlichkeits-Fehler oder -Tugenden oder Fehler haben, die Persönlichkeitszüge verleihen. Je nach Persönlichkeit des Beobachters mag er wie ein völliger Mitläufer ohne eigene Meinung wirken, unsensibel, weil er selten starke Emotionen zeigt, oder einfach initiativlos für diejenigen, die Führung und Orientierung suchen. Diese Elemente führen in den meisten sozialen Situationen zu einem –1 oder schlechteren (nach Ermessen des Spielleiters) Modifikator, da er offensichtlich ein kalter Fisch ist. Schließlich wird er nie für seine große Loyalität oder seine fromme Natur bekannt sein und wird es schwer haben, Respekt zu gewinnen oder befördert zu werden. Sein mangelnder Enthusiasmus für die Kirche könnte insbesondere als Mangel an Glauben angesehen werden. Auf der positiven Seite mag er gelegentlich in einem positiven Licht erscheinen, da er niemals stark widerspricht.
@@ -7002,6 +6981,17 @@ Der Charakter ist gegenüber Umgebungsbedingungen zu empfindlich geworden, was s
 
 Dies ist ein häufiger Fehler für Charaktere, die durch eine starke Magie-Umgebung verzerrt werden.
 
+> #### Umgebungstemperaturen
+>
+> - Unnatürlich heiß
+> - So heiß wie neben einem lodernden Feuer, flüssiger Lava oder flüssigem Eisen
+> - Tropischer Mittag
+> - So warm wie an einem schönen Sommertag in Südeuropa
+> - Angenehm für normale Bewohner des Normannischen, Rhein-, Stonehenge- und Hibernischen Tribunals
+> - So kalt wie an einem frischen Wintertag in Westeuropa
+> - Arktischer Winter
+> - Unnatürlich kalt
+
 #### Viaticarus
 *Klein, Übernatürlich*<br>
 Zu einem Zeitpunkt in der Vergangenheit des Charakters war er dem Tode nahe, und infolgedessen spendete ihm ein Priester das Sakrament der Letzten Ölung. Der Zweck dieses Sakraments war es, ihn von allen lässlichen Sünden zu entbinden und ihn auf die Reise ins Jenseits (das Viatikum) vorzubereiten; aber wider alle Erwartungen überlebte er. Dies versetzt ihn in ein geistiges Niemandsland — nicht unter den Toten, aber auch nicht vollständig unter den Lebenden. Deshalb ist er immun gegen die Versuchungen von Dämonen und kann daher von ihrer Besessenheitsmacht nicht beeinflusst werden; er erscheint ihnen einfach nicht als eine Seele, die der Verderbnis bedarf. Allerdings hat seine Haut eine ungewöhnliche Blässe, und seine Augen sind eingefallen. Menschen mögen an ihm einen Leichengeruch wahrnehmen. Diese Effekte sind zunächst subtil, aber mit zunehmendem Alter ähnelt er immer mehr einer Leiche, was zu einem Abzug auf alle sozialen Interaktionswürfe in Höhe seines Gebrechlichkeitswerts führt.
@@ -7114,6 +7104,16 @@ Du genießt es entweder, übermäßige Mengen an Magie durch dich hindurchfließ
 #### Zyklische Magie (negativ)
 *Klein, Hermetisch*<br>
 Wie bei der hermetischen Tugend ist deine Magie auf einen Naturzyklus abgestimmt und zu bestimmten Zeiten weniger potent. Du hast eine –3-Strafe auf alle Laborsummen und Zauberwerte während dieser Zeit. Die Strafe gilt für Laborsummen, auch wenn die negative Phase nicht das gesamte Quartal umfasst. Der Zeitraum, in dem du im Nachteil bist, muss gleich lang sein wie der Zeitraum ohne Strafe.
+
+---
+
+> Fackeln flackern unter einem hellen Aufleuchten von Magielicht! Unser Zauberer erleuchtet unsere eilige Reise mit seinem leuchtenden Stab, während unsere grimmigen Wachen unsere Schritte flankieren. Unser Konvent begrüßt uns nach Hause von den zerklüfteten Klippen, Zinnen gegen den Himmel gezeichnet, die den weiten, sich verdunkelnden Ozean überblicken, während die Sonne tief sinkt. Er hütet Geschichten tapferer Ritter, verschlagener Zauberer und ihrer treuen Gefährten. Unser Wagen rattert den gewundenen Pfad hinunter, bei peitschendem Wind dunkler Bedrohungen an unseren Ohren vorüber in Eile auf Sicherheit zu. Denn wir alle wissen, dass unsichtbare Gefahr in den tiefer werdenden Schatten lauert, jeden unserer Schritte vom Waldrand aus verfolgt und unseren Mut bei jedem Schritt auf die Probe stellt.
+
+# Kapitel 5: Fertigkeiten
+
+Fertigkeiten stehen für die Dinge, die ein Charakter im Laufe seines Lebens gelernt hat. Sie steigen im Verlauf einer Saga, da Menschen ständig weiterlernen.
+
+Fertigkeiten werden normalerweise verwendet, indem Eigenschaft + Fertigkeit + Würfelwurf addiert werden, wobei ein Schwierigkeitsgrad erreicht oder überschritten werden muss. Im Prinzip kann jede Eigenschaft mit jeder Fertigkeit kombiniert werden, doch manche Paarungen sind selten; Stärke + Kunde des Ordens des Hermes wird beispielsweise wohl kaum oft gefordert sein. Die passende Eigenschaft sollte anhand der Beschreibungen der Eigenschaften aus dem Charakterkapitel ([Seite 27](#eigenschaften)) gewählt werden, auch wenn die Regeln für Magie und Kampf die Paarungen für eine Reihe wichtiger Situationen festlegen.
 
 ## Spezialisierungen
 
@@ -7634,14 +7634,6 @@ Die Fähigkeit zu singen, Musikinstrumente zu spielen und neue Musik zu komponie
 Du bist auf mystische Weise mit den Wegen der Wildnis verbunden. Ein Wurf auf Wahrnehmung + Natursinn gegen einen Schwierigkeitsgrad von 9 erlaubt dir, die Richtung nach Norden, das kommende Wetter oder die Anwesenheit natürlicher Gefahren oder Ressourcen zu bestimmen. Ein Wurf bringt nur eine Information zutage.<br>
 *Spezialisierungen:* Richtung, Wetter, Gefahren, Ressourcen. (Übernatürlich)
 
----
-
-# Kapitel 6: Konvente
-
-Der Konvent ist der einzelne wichtigste Charakter in den meisten ARS-MAGICA-Sagas, denn er ist der Charakter, an dem alle Spieler mitwirken. Er ist ihr Zuhause, eine sichere Basis und der Ort, an dem sie studieren, sich verbessern und magische Wunder erschaffen. Daher ist es sehr wichtig, ein Konzept für den Konvent zu entwickeln, da es einen starken Einfluss auf das Gefühl der Saga haben wird. Eine Saga, die in einem Konvent in einer verborgenen Regio im Herzen Konstantinopels spielt, wird sich stark von einer unterscheiden, die in einem Konvent angesiedelt ist, der eine große Burg auf einer Insel vor der Küste Schottlands belegt – und beide wiederum von einer Saga, deren Konvent in einer magischen Lichtung im Herzen eines verwunschenen Waldes in der Bretagne liegt.
-
-Obwohl das Konventskonzept großen Einfluss hat, bestimmt es nicht alles. Schließlich werden viele Geschichten die Magi von ihrem Konvent fortführen, und wenn die Spieltruppe entscheidet, dass sie eine bestimmte Art von Geschichten besonders mag, mögen die meisten Geschichten fern der Heimat stattfinden. Konvente können sogar verlegt werden – ein Vorhaben, das selbst eine Vielzahl von Geschichten hervorbringen wird. Das bedeutet, dass du zu Beginn ein Konzept wählen solltest, das dir gefällt, ohne befürchten zu müssen, für immer daran gebunden zu sein.
-
 #### Parma Magica\*
 Schutz vor Magie. Dies ist ein besonderes Ritual (kein Ritualzauber), dessen Vollzug etwa zwei Minuten dauert. Es erlaubt dir, das Fünffache deines Wertes in Parma Magica zu deiner Magieresistenz zu addieren, bis zum nächsten Sonnenauf- oder -untergang, je nachdem, was zuerst eintritt. Du darfst deine Parma Magica vorübergehend unterdrücken, indem du dich konzentrierst; dies entspricht dem Aufrechterhalten eines Zaubers mit Dauer Konzentration (siehe [Seite 215](#konzentration-1)). Solange sie aktiv ist, erfordert die Parma Magica keine Konzentration.
 
@@ -7792,6 +7784,14 @@ Das Zivilrecht ist das Recht des Römischen Reiches. Die meisten lokalen Rechtss
 #### Zweites Gesicht\*
 Du kannst durch illusorische Verhüllung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und du kannst auch von Natur aus unsichtbare Dinge wie Geister und die Grenzen zwischen Regio-Ebenen erkennen (siehe [Seite 420](#regiones)). Der Schwierigkeitsgrad, durch eine illusorische Verhüllung hindurchzusehen, beträgt normalerweise 6 + Magnitude der Macht des für die Wirkung verantwortlichen Geschöpfes oder 6 + Magnitude eines hermetischen Zaubers. Im Allgemeinen erlaubt dir diese Fertigkeit, durch hermetische Verhüllung mittels Imaginem hindurchzusehen, jedoch nicht durch andere Formen. Die Magieresistenz des verhüllten Geschöpfes, sofern vorhanden, beeinträchtigt dein Zweites Gesicht nicht. Wird etwas tatsächlich umgewandelt, etwa durch einen MuCo-Zauber, kannst du die echte Gestalt nicht ermitteln. Der Schwierigkeitsgrad, ein von Natur aus unsichtbares Ding zu sehen, beträgt normalerweise 9, und der Schwierigkeitsgrad für das Sehen von Regio-Ebenen ist auf [Seite 421](#regiones-betreten-und-verlassen) angegeben. Alle Würfe für Zweites Gesicht sind Wahrnehmung + Zweites Gesicht und sind fast immer schlichte Würfe.<br>
 *Spezialisierungen:* Regiones, unsichtbare Dinge, illusorische Verkleidungen, Feen, Geister. (Übernatürlich)
+
+---
+
+# Kapitel 6: Konvente
+
+Der Konvent ist der einzelne wichtigste Charakter in den meisten ARS-MAGICA-Sagas, denn er ist der Charakter, an dem alle Spieler mitwirken. Er ist ihr Zuhause, eine sichere Basis und der Ort, an dem sie studieren, sich verbessern und magische Wunder erschaffen. Daher ist es sehr wichtig, ein Konzept für den Konvent zu entwickeln, da es einen starken Einfluss auf das Gefühl der Saga haben wird. Eine Saga, die in einem Konvent in einer verborgenen Regio im Herzen Konstantinopels spielt, wird sich stark von einer unterscheiden, die in einem Konvent angesiedelt ist, der eine große Burg auf einer Insel vor der Küste Schottlands belegt – und beide wiederum von einer Saga, deren Konvent in einer magischen Lichtung im Herzen eines verwunschenen Waldes in der Bretagne liegt.
+
+Obwohl das Konventskonzept großen Einfluss hat, bestimmt es nicht alles. Schließlich werden viele Geschichten die Magi von ihrem Konvent fortführen, und wenn die Spieltruppe entscheidet, dass sie eine bestimmte Art von Geschichten besonders mag, mögen die meisten Geschichten fern der Heimat stattfinden. Konvente können sogar verlegt werden – ein Vorhaben, das selbst eine Vielzahl von Geschichten hervorbringen wird. Das bedeutet, dass du zu Beginn ein Konzept wählen solltest, das dir gefällt, ohne befürchten zu müssen, für immer daran gebunden zu sein.
 
 ## *Through the Aegis*
 
