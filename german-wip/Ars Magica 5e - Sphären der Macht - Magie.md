@@ -1035,7 +1035,7 @@ Um dieses Konzept anhand einer Analogie zu erklären, mögen Reisende die Magisc
 
 In einem Tempus kann die Zeit sehr seltsam zu vergehen scheinen, vielleicht angehalten und in endloser Wiederholung eines einzelnen Ereignisses oder einer Reihe von Ereignissen, oder rückwärts statt vorwärts verlaufend. Magische Wesen, die in diesen Gebieten leben, glauben oft, selbst Teil des Moments zu sein, sodass Reisende, die ein berühmtes Schlachtfeld zu entdecken scheinen, dort den Charakter finden und mit ihm sprechen können, der sich für den Feldherrn hält. Diese historischen Nachstellungen gelten unter den Befürwortern dieser Interpretation als peinlich genaue Abbilder der Geschichte, solange sie nicht von Außenstehenden verfälscht worden sind.
 
->## ABENTEUERIDEE: Südlich der Sonne
+>## Abenteueridee: Südlich der Sonne
 >
 >Wenn die Magische Sphäre direkt der mundanen Welt entspricht, so spekulieren manche Gelehrten der Magiekunde, müsste es möglich sein, dorthin direkt zu reisen, indem man über die äußersten Ränder des Mythischen Europas hinaus vordringt. Unter Berufung auf sagenhafte Erzählungen in antiken Geschichtswerken und dem Wunsch, die darin beschriebenen Länder noch vor seinem Tod zu sehen, gibt ein betagter Magus den Bau einer Flotte in Auftrag, die nach Süden segeln soll, jenseits des Äquators und um die *finis Africae* (den Rand Afrikas) herum, um Indien und das magische Königreich des Priesterkönigs Johannes zu erreichen. Er bittet jüngere Magi, ihn auf der Reise zu begleiten und Kunde von ihren Entdeckungen zurückzubringen, sobald sie ihr Ziel erreichen.
 >
@@ -1121,7 +1121,7 @@ Nahezu jeder Ort in der Magischen Sphäre wird von einer Sphären-**Grenze** umr
 
 Sphärengrenzen haben eine Stufe, die von 0 bis 10 reicht, wie bei Regiones, und diese wird als Bonus auf alle magischen Aktivitäten innerhalb des Gebiets addiert, wie eine Magieaura. (Dies kommt zum Bonus hinzu, den ein Charakter durch die konstante Magieaura von 10 erhält.) Ein Ort mit Grenzstufe 1 würde also einen Bonus von +11 auf magische Aktivitäten geben, während ein anderer Ort eine Grenzstufe von 10 haben und einen Bonus von +20 geben könnte. Übernatürliche Aktivitäten einer anderen Sphäre erhalten den Bonus nicht.
 
->## ABENTEUERIDEE: Verbrechen neu aufgerollt
+>## Abenteueridee: Verbrechen neu aufgerollt
 >
 >Ein Magus bekommt Besuch von jemandem, von dem er noch nie gehört hat – einem fast unvorstellbar alten Mann, der um eine private Audienz bittet. Dieser Mann teilt ihm mit, dass der Magus selbst eines Verbrechens angeklagt wurde, das er vor vielen Jahren beging, als er glaubte, niemand würde zusehen. Der Mann gibt sich als bestellter Verteidiger des Magus vor einem Gericht der Magie zu erkennen, bei dem die Klage gegen ihn erhoben wurde. Es handelt sich nicht um ein hermetisches Vergehen, sondern um ein Verbrechen der mundanen Gesellschaft, wie Mord oder Diebstahl, und der Verteidiger schildert einen Augenzeugenbericht des Geschehens, der unheimlich genau ist. Tatsächlich kann der Verteidiger gegen eine kleine Gebühr (vielleicht zehn Bauern Vis) den Magus in die Magische Sphäre bringen, zu einem Tempus, der die gesamten Ereignisse so lebendig zeigt, als wären sie beide bei der Tat anwesend gewesen. Dort können die beiden den Sachverhalt untersuchen und ihre Verteidigung vorbereiten.
 >
@@ -5451,7 +5451,7 @@ Nordische Mythen sprechen von Riesen, so groß wie Berge. Entweder sind diese Be
 
 Mit den Jotunnar verwandt ist ein Geschlecht skandinavischer **Trolle**. Der Begriff „Troll" ist mehrdeutig und bezeichnet allgemein ein magisches oder feenhaftes Menschenwesen mit übernatürlichen Kräften. Skandinavische Trolle ähneln extrem hässlichen oder missgestalteten Riesen. Sie sind gewöhnlich eher klein für Riesen (Größe +2 bis +4) und können monströse Merkmale wie Klauen oder Hauer aufweisen.
 
->## ABENTEUERIDEEN: Riesen
+>## Abenteuerideen: Riesen
 >
 >### Ein Höhlenkerker
 >
@@ -5612,7 +5612,7 @@ Der Spielleiter sollte über die Kräfte des Geistes entscheiden. Mit Zustimmung
 
 In den Alten Wegen von ihrer Großmutter tief im Wald aufgezogen, war Lise sechzehn, bevor sie einem anderen Menschen begegnete. Als sie ein Dorf entdeckte, besuchte sie es oft und verliebte sich sogar in einen der Leibeigenen. Auf der Suche nach einer Heirat ging sie zu einem Priester, um die Taufe zu empfangen, doch statt in ihrem Katechismus unterrichtet zu werden, wurde sie von ihm übel behandelt. Der Priester erzählte Lises Geliebtem Lügen, was zu dessen Zurückweisung führte. Sie floh aus dem Dorf und schwor, nie zurückzukehren. Im Wald schwelte ihr Hass auf den Priester (und damit auf die Kirche). Im Gedenken an die Lehren ihrer Großmutter suchte sie den heiligen Ort der Dunklen Mutter auf, eines chthonischen Geistes des tiefen Waldes und der fruchtbaren Erde, der guten Grund hatte, der Kirche zu grollen. Lise wurde die einzige Priesterin der Dunklen Mutter. Seitdem lebt sie in der Magischen Regio des Geistes mit Stärke 8, ihr Leben verlängert durch die Stasis-Kraft des Geistes, aber sie wurde schrecklich verzerrt.
 
->## ABENTEUERIDEE: Rache
+>## Abenteueridee: Rache
 >
 >Nachdem sie Macht und Wissen von ihrem geistigen Mentor angehäuft hat, ist Lise nun bereit, die Regio zu verlassen, die sie sowohl beschützt als auch verzerrt hat, und ihr Ziel zu verfolgen, die Welt von der Kirche zu befreien, einen Priester nach dem anderen. Sie ist gefährlich wahnsinnig; ihre Meinung über die gesamte Kirche basiert auf einer einzigen unglücklichen Erfahrung mit einem korrupten Priester. Da ihr Leben durch die Stasis-Kraft ihres Mentors verlängert wurde (siehe Kapitel 8: Geister, Häufige Kräfte), kann sie keine Magieaura verlassen, ohne dramatisch zu altern. Ihre erste Aufgabe besteht daher darin, die Magieaura ihres Genius Loci auszudehnen, um das Dorf zu umschließen; sobald die Kirche umgeben ist, kann sie das Dorf wieder betreten und ihre Rache vollziehen.
 
@@ -5653,7 +5653,7 @@ Der Charakter kann von jedem beliebigen Punkt im selben Wasserweg aus hören (si
 
 InIm 5 (Basis 1, +3 Wasserweg, +1 Konzentration): Große Macht (5 Stufen, –1 Kosten, 15 Stufen Penetration, 15 EP in Konzentration, +2 Init)
 
->## ABENTEUERIDEE: Frau aus Atlantis
+>## Abenteueridee: Frau aus Atlantis
 >
 >Im Konvent trifft die Nachricht ein, dass Fischer aus einer nahegelegenen Stadt eine Adlige im Meer gefangen haben. Die Frau ist sehr mürrisch und unzugänglich, obwohl sie nachdrücklich verkündet, sie sei Pavania — eine Prinzessin von Atlantis — und einfache Fischer seien unter ihrer Würde. Pavania kennt die Gabe, hat aber noch nie vom Orden des Hermes gehört, und wenn sie von den Kräften der Magi erfährt, wird sie verlangen, dass diese „den Makel der Oberwelt" von ihr entfernen. Als Gegenleistung verspricht Pavania, die Magi zu ihrem Zuhause zu führen, der versunkenen Stadt Atlantis, wo sie von ihrem dankbaren Vater, dem König von Atlantis, reich belohnt werden.
 >
@@ -5703,7 +5703,7 @@ Manche Menschen werden mit magischem Feuer im Blut geboren, und das gilt besonde
 
 Flammentänzer lieben gewöhnlich zwei Dinge: Feuer und Fleisch. Dies sind die Grundpfeiler jeder Zusammenkunft der Flammentänzer, sei es, dass sich mehrere versammeln, um ein Ereignis zu feiern, oder dass ein einzelner Flammentänzer andere dazu ermuntert, sich zu vergnügen. Sie können einem guten Lagerfeuer nach Einbruch der Dunkelheit nicht widerstehen, und sobald es richtig brennt, fühlen sie sich unweigerlich gedrängt, um die Flammen zu tanzen. Während dieses Tanzes ermüden sie nie. Flammentänzer haben manchmal andere Zwänge, doch was auch immer sie sein mögen, sie üben sie stets mit Feuer aus; Flammen sind Teil ihrer Natur. Wenn sie Musik spielen müssen, tun sie es, während ein Feuer brennt. Wenn sie trinken müssen, trinken sie neben einem knisternden Kamin. Wenn sie kämpfen müssen, kämpfen sie mit Feuer. Diese Tätigkeiten sind für sie untrennbar miteinander verbunden, sodass sie das eine nicht ohne das andere tun können.
 
->## ABENTEUERIDEE: Brennstoff für die Flammen
+>## Abenteueridee: Brennstoff für die Flammen
 >
 >Ein Schreiber erscheint im Konvent und bietet an, seine Fähigkeiten im Kopieren und Illuminieren von Büchern gegen Kost und Logis einzutauschen. Er sagt, er habe aus der Kirche fliehen müssen, in der er zuletzt gearbeitet hatte, als diese niederbrannte. Der Mann ist unwissentlich ein Flammentänzer, der das überwinden möchte, was er als seine niedere Natur betrachtet, doch seine Leidenschaften werden entfacht, wann immer er Bücher liest, in denen unzüchtige oder laszive Frauen vorkommen. Bestimmte Bibelpassagen entzündeten sein Begehren, und als Folge setzte er versehentlich das Gebäude in Brand. Er wird diese Schwäche nicht zugeben, wenn er es vermeiden kann, da er sie als private Strafe Gottes für seine Sünden ansieht — doch die Magi können seine Dienste nur sicher in Anspruch nehmen, solange sie dafür sorgen, dass er nichts Anstößiges liest, denn sonst könnte ihre eigene Bibliothek in Gefahr geraten.
 
@@ -5757,11 +5757,11 @@ MuVi Allgemein (Basiseffekt, +2 Stimme): Fokussierte Macht (10 Stufen, +5 Penetr
 
 (Beachte, dass dies die Version der Kraft ist, die als Tugend gewählt wird; eine als Magische Qualität gewählte würde vom Machtwert des Charakters abhängen.)
 
->## ABENTEUERIDEE: Keine Götter neben mir
+>## Abenteueridee: Keine Götter neben mir
 >
 >Während eines Aufenthalts in einem nahegelegenen Kloster hören die Charaktere von einem der Brüder die Geschichte eines neuen Novizen, der seit 30 Tagen in der Büßerzelle lebt und an einer ungewöhnlichen Form des Wahnsinns zu leiden scheint. Laut dem jungen Mann ist er Jupiter, der antike Gott des Himmels — oder zumindest war er es. Aus dem, was sie zwischen seinem Schluchzen und seinen gewalttätigen Ausbrüchen verstehen konnten, geht hervor, dass er hungrig und durstig war und zu einer Kirche ging, wo man ihm die Kommunion anbot. Er nahm sie an, und danach wurden ihm all seine großen Kräfte genommen. Er fühlt sich vom Göttlichen verraten, spürt aber zugleich Gottes Liebe und Gnade für sich. Die Mönche glauben, er habe das Potenzial, ein großer Heiliger zu werden, wenn er nur seine stolze Wahnvorstellung überwinden könnte, ein Gott zu sein. Wenn die Charaktere zu ihm gehen, werden sie feststellen, dass dieser Vergessene Gott glaubt, die Wahrheit zu sagen, dass er tatsächlich Magische Kräfte besitzt, aber auch über Wahren Glauben verfügt. Werden sich die Charaktere in seine Geschichte einmischen?
 
->## ABENTEUERIDEE: Die Bäume verschwören sich gegen uns
+>## Abenteueridee: Die Bäume verschwören sich gegen uns
 >
 >Als eine berühmte Persönlichkeit des Ordens des Hermes plötzlich stirbt (zum Beispiel Vinaria, die ehemalige Prima von Haus Merinita), nimmt ihr Körper die Gestalt eines Baumes an. In ihrem Testament gibt sie zu, eine Lehmwanderin gewesen zu sein, und erklärt, was das bedeutete. Ihre Worte legen nahe, dass es noch weitere Lehmwanderer im Orden gibt, da sie die Magi warnt, ihr Verhalten zu bessern. Die Angelegenheit wird einem Notfall-Tribunal vorgelegt, um diese anderen Baummenschen, die sich in ihrer Mitte verbergen, zu zwingen, sich zu offenbaren. Eine vertrauenswürdige Rotkappe, die den Charakteren bekannt ist — vielleicht Ash aus *Der gebrochene Bund von Calebais* — gesteht den Charakteren, dass sie ein weiterer dieser Bäume in Menschengestalt ist, und bittet sie, ihr Schutz vor mächtigeren Magi zu gewähren, die mit der Drohung eines Krieges ihre Geheimnisse erzwingen wollen.
 
@@ -5811,7 +5811,7 @@ Manche Kinder im Mythischen Europa werden in Familien geboren, die sich nicht um
 
 Ein Verlorenes Kind erscheint typischerweise zwischen fünf und 15 Jahre alt, und um eines zu spielen, sollte ein Charakter mit den Größen- und Eigenschaftsabzügen eines Kindes entworfen werden (aus Seite 29 von **Ars Magica** Fünfte Edition). Außerdem kann es angemessen sein, den Charakter mit Gerissenheit statt Intelligenz zu gestalten, wenn er nicht als Spielercharakter gedacht ist.
 
->## ABENTEUERIDEE: Entführt!
+>## Abenteueridee: Entführt!
 >
 >Während einer Reise durch einen nahegelegenen Wald erregt ein Spielercharakter die Aufmerksamkeit eines Verlorenen Kindes, ohne es zu wissen. Dieser Heranwachsende verliebt sich in den Charakter und beginnt, der Gruppe unauffällig zu folgen. Da das Kind magisch ist, interessiert es sich nicht für die Feinheiten des Werbens oder Umgarnens, sondern inszeniert stattdessen eine nächtliche Entführung und verschleppt den Charakter, in den es vernarrt ist. Wenn die anderen Charaktere erwachen, stellen sie fest, dass einer aus ihrer Mitte fehlt, und müssen der Spur in den Wald folgen, um ihren Freund zurückzuholen.
 
@@ -5831,7 +5831,7 @@ CrCo 20 (Basis 15, +1 Berührung): Ritualmacht (20 Stufen, –1 Machtkosten)
 
 Elementare sind die nicht-empfindungsfähige Verkörperung reiner elementarer Kräfte (siehe Kapitel 8: Magische Dinge). In einigen wenigen Seen, die über ganz Mythisches Europa verstreut sind, leben jedoch empfindungsfähige Kreaturen, die ansonsten Wasserelementaren ähneln. Diese Kreaturen bezeichnen sich selbst als Seemenschen, und sie verlassen manchmal ihre wässrigen Heimstätten, nehmen menschenähnliche Gestalt an und bereisen die Oberwelt. Die Seemenschen sind typischerweise gelassene Individuen und reisen gewöhnlich allein. Sie behaupten, ihre Reisen seien lediglich gelehrte Unternehmungen, um Informationen über die Oberwelt zu sammeln. Es ist unklar, ob die Seemenschen den Elementaren nur oberflächlich ähneln oder tatsächlich Elementare sind, die auf irgendeine Weise Intellekt erworben haben.
 
->## ABENTEUERIDEE: Menschen oder Machenschaften?
+>## Abenteueridee: Menschen oder Machenschaften?
 >
 >Einer der Magi freundet sich mit einem der Seemenschen an, dessen besonderes Interessengebiet auch ihre eigene magische Stärke ist, und sie entwirrt langsam die Einzelheiten der gesellschaftlichen Organisation seiner Art. Als sie von den „Bibliotheken" erfährt, die die Winter-Seemenschen verkörpern, wird sie von dem Wunsch getrieben, deren nahegelegene Unterwasser-Regio zu besuchen. Doch sie fragt sich auch, warum die Gesellschaft der Seemenschen auf diese scheinbar künstliche Weise aufgebaut ist — vielleicht sind die Seemenschen keine natürlichen Kreaturen, sondern eine magische Schöpfung irgendeiner Art.
 
@@ -5861,7 +5861,7 @@ Der Charakter formt ein Wasservolumen, das er sieht, zu einem Wasserelementar. D
 
 CrAq 40 (Basis: 25, +3 Sicht): Ritualmacht (x2) (40 Stufen, –2 Kosten)
 
->##ABENTEUERIDEE: Geisterhafter Lehrling
+>##Abenteueridee: Geisterhafter Lehrling
 >
 >Ein Magus auf der Suche nach einem Lehrling hört von einem Kind, das in einer entfernten Abtei lebt, die Pferde erschreckt und unnatürliche Kräfte zu besitzen scheint. Als er der Sache nachgeht, stellt er fest, dass das Kind nicht die Gabe besitzt, sondern etwas noch Ungewöhnlicheres ist — ein Waisengeborener.
 
@@ -5913,7 +5913,7 @@ Hoch über den Wolken liegt ein großes Himmelsmeer, eine magische Regio, die di
 
 Das Wolkenvolk ist menschlich, oder zumindest menschenähnlich, obwohl es auch andere Kreaturen mit ähnlichen Kräften geben mag. Gemäß ihrer mündlichen Überlieferung waren ihre Vorfahren Seeleute, die in einen gewaltigen Sturm auf See gerieten, der so mächtig war, dass er ihr Schiff packte und durch die Luft schleuderte. Sie fanden sich in einer großen schwarzen Wolke wieder, in der sie nichts als einander sehen konnten, nicht einmal das Schiff, obwohl das Schiff vom Fall keinen Schaden genommen zu haben schien. Fast ein Jahr lang segelten sie durch diese Wolke, bis sie eines Morgens erwachten und den Himmel wieder sehen konnten, und dass ihr Schiff reglos in der Luft schwebte, weit über dem blauen Meer unter ihnen. Bald entdeckten sie, dass sie während ihrer Prüfung seltsame Kräfte über den Wind erlangt hatten, und gemeinsam sprangen sie über Bord, denn sie wussten, die Luft würde sie auffangen. Kaum hatten sie den Sprung gewagt, begann das Schiff zu fallen, doch gemeinsam fingen sie es auf, füllten die Segel mit Wind und segelten weiter zu ihrem Bestimmungsort.
 
->## ABENTEUERIDEE: Segeln wie der Wind
+>## Abenteueridee: Segeln wie der Wind
 >
 >In einer Zeit, in der die Charaktere es eilig haben, irgendwohin zu gelangen, könnten sie einem Schiffskapitän begegnen, der anbietet, sie in einem Viertel der üblichen Zeit dorthin zu bringen — zu einem sehr hohen Preis. Falls er auch nur eine Ahnung hat, dass zur Gruppe ein Magus gehört, könnte er als Bezahlung etwa einen magischen Gegenstand verlangen. Er bleibt vage in den Einzelheiten, verspricht aber, dass sein Schiff die Reise problemlos in dieser Geschwindigkeit bewältigen kann. Er rät den Charakteren, für die Dauer der Reise in ihren Kabinen zu bleiben, doch alle, die nach draußen spähen, um die Quelle der mächtigen Winde zu entdecken, die sie hören, werden wohl einen Schock erleben, wenn sie erkennen, dass sie einige Wegstunden über der Erde durch den Himmel fliegen, auf einem Schiff des Wolkenvolks.
 
@@ -5957,7 +5957,7 @@ MuCo 15 (Basis 4, +2 Sonne, +1 konstant): Persönliche Kraft (15 Stufen, –2 Ma
 
 Diese Art Magischer Verwandter ist eher eine Gesellschaft, die jeden aufnimmt, der ein nachgewiesenes Interesse an Geschichte hat. Zeremoniell nennen sie sich die Hüter des Geheimnisses, obwohl sie sich als Einzelne Auditores oder „Hörer" nennen, ein Titel, der aus der Zeit vor dem Fall Roms stammen soll. Ihr Symbol besteht aus einem Topf und einem Nagel, jeder für sich: Der Topf steht für das Gefäß der Magischen Sphäre und die Geheimnisse, die sie enthält; und der Nagel steht für die Geschichte, mit seiner scharfen Spitze, die Dinge an ihrem Platz befestigt.
 
->## ABENTEUERIDEE: Der Menhir
+>## Abenteueridee: Der Menhir
 >
 >Während sie ein Dorf in den Bergen passieren, erfahren die Charaktere, dass die Bewohner in der vergangenen Nacht von einer Gruppe wild aussehender Banditen angegriffen wurden, starken und kräftigen Männern, die jeden Schwerthieb und Pfeil abwehrten, mit dem sie getroffen wurden, obwohl sie bei Morgengrauen flohen. Den Dorfbewohnern gelang es, einen der Jüngsten beim Abzug mit einer Jägerschlinge einzufangen. Doch nun sind die Seile, mit denen sie ihn gefesselt hatten, an einen großen Felsen auf der Lichtung gebunden, wo sie ihn festgehalten hatten, und von dem Jungen fehlt jede Spur. Vielleicht können die Charaktere das Rätsel lösen, was mit ihrem Gefangenen geschah, und die steinhäutigen Banditen entweder besiegen oder für ihren Konvent anwerben.
 
@@ -5965,7 +5965,7 @@ Die Auditores glauben, dass Magie schwächer wird, wenn das Wissen über sie sic
 
 Die Hüter des Geheimnisses sollen ihren Ursprung in magischen Schreibern und Gelehrten der klassischen Welt haben, Historikern, die zuerst von der Sphäre der Magie erfuhren und begannen, magische Ereignisse für die Nachwelt aufzuzeichnen. Dabei stellten sie fest, dass das, was sie beschrieben, aufhörte, überhaupt magisch zu sein. Zu ihnen gesellten sich Pilger und Diplomaten, jene, die herausfinden wollten, was sie beschützen mussten, und die mit magischen Kreaturen verhandelten, um den Schaden zu begrenzen, den diese der Magie als Ganzes zufügten. Einige Auditores haben ein starkes Moralempfinden und den Wunsch, für Gerechtigkeit zu sorgen, und haben es sich zur persönlichen Aufgabe gemacht, diejenigen zu bestrafen, die die Macht der Magie missbrauchen, und wiedergutzumachen, was sie angerichtet haben.
 
->## ABENTEUERIDEE: Gestohlener Ruhm
+>## Abenteueridee: Gestohlener Ruhm
 >
 >Nach einem besonders phantastischen Ereignis, bei dem die Charaktere ihre Magie zur Lösung eines Problems einsetzten, beginnt ein eingängiges Lied sich in der Region zu verbreiten, das den Erfolg einem lokalen Adeligen zuschreibt anstatt den Charakteren. Es mag sie noch beschreiben, aber in geringeren Rollen wie Weissager und Berater des Lords. Andere Ereignisse sind verwirrt oder sogar völlig falsch, und alle übernatürlichen Elemente werden schlicht entweder Gottes Willen oder dem Werk des Teufels zugeschrieben. Dies ist der Versuch eines der Hüter des Geheimnisses, den Schaden zu begrenzen, den die Charaktere seiner Meinung nach der Sphäre der Magie zugefügt haben, was sie erfahren können, wenn sie nachforschen, wer versucht, ihnen ihren Ruhm streitig zu machen.
 
@@ -6009,7 +6009,7 @@ Sobald er eine geeignete Wasserentität kontaktiert hat, muss der Charakter verh
 
 Nach einer erfolgreichen Verhandlung besteht der letzte Schritt darin, dass der Charakter sich selbst ertränkt — im Vertrauen auf seine Vereinbarung mit der Meereskreatur. Die Kreatur wird sich wahrscheinlich nicht täuschen lassen und möglicherweise gewaltsam beleidigt sein, wenn ein Charakter das „Ertrinken" unter dem Einfluss von Schutzmagie inszeniert (zum Beispiel *Lungen des Fisches*; **ArM5**, Seite 122). Wenn die Kreatur den Charakter rettet, wird er verwandelt und erhält die Große Übernatürliche Tugend: Verwandeltes (Wesen). Das Ertrinken und die Rettung des Charakters könnten denkbarerweise vor der Erfüllung der von der Kreatur gestellten Aufgabe erfolgen. Dies hängt von den genauen Verhandlungen zwischen dem Magus und der Kreatur ab.
 
->## ABENTEUERIDEE: Der Leuchtturmwärter
+>## Abenteueridee: Der Leuchtturmwärter
 >
 >Die Insel Geita liegt inmitten eines kleinen Archipels scharfer Felsen am Eingang des Vilnes-Fjords. Im Laufe der Jahrhunderte wären bei heftigen Stürmen viele Schiffe an den rauen Felsvorsprüngen der Insel zerschellt und gescheitert, wenn es nicht einen auf der Insel errichteten Leuchtturm gäbe. Der zurückgezogen lebende Leuchtturmwärter soll seit mehreren Jahrhunderten auf der Insel leben, und für neugierige Magi könnte er eine wertvolle Wissensquelle über die Region sein.
 >
@@ -6584,7 +6584,7 @@ Unter Theurgen kursiert das Gerücht, dass während besonders günstiger Himmels
 
 Ein Letum ist ein Todesgeist, und es gibt sie in verschiedenen Varianten, jede mit ihrem namensgebenden Anführer. Die Keres (angeführt von Ker) sind die Geister des gewaltsamen Todes und verkörpern den Tod in der Schlacht oder durch einen Unfall. Die Thanatoi (angeführt von Thanatos) stehen für einen friedlichen Tod, dessen Berührung sanft ist. Die Akyliden (angeführt von Akhlys) sind die düsteren grünen Töchter des Gifts und der Krankheit, und die Moroi (angeführt von Moros) führen die Verdammten ihrem vorbestimmten Untergang entgegen. Für diejenigen, die ein Letum sehen können, erscheint es als geflügelter Mensch, umschlungen von Schlangen; die gewalttätigen sind blutig und grässlich mit Raubvogelklauen, während die Thanatoi und Moroi gewöhnlich von angenehmem Aussehen, aber mit trauervollem Gesicht sind.
 
->## ABENTEUERIDEE: Eine feenhafte Apotheose
+>## Abenteueridee: Eine feenhafte Apotheose
 >
 >Ledea von Haus Merinita hat einen Heilkult um die Quelle eines Luftgeistes gegründet und bereits eine Reihe von Anhängerinnen gewonnen, hauptsächlich Hebammen und werdende Mütter. Der Geist ist seither durch diesen Kult zu einem Daimon geworden und genießt nun den Dienst, den seine Anhängerinnen ihm erweisen. Allerdings wendet sich der örtliche Klerus gegen den Aufstieg des Heidentums unter den Frauen der Region; auch dies geschieht auf Ledeas Betreiben. Sie hofft, dass der Geist, wenn die Kirche beginnt, „Hexen" zu verbrennen, sich genug um seine Gläubigen sorgen wird, um einzugreifen, was nach Ledeas Überzeugung eine Verwandlung des magischen Geistes in ein Feenwesen auslösen könnte. Diener der Charaktere könnten Opfer von Ledeas Machenschaften werden, oder sie könnten damit beauftragt werden, die Scherben aufzusammeln, wenn ihr Plan Früchte trägt.
 
@@ -7038,7 +7038,7 @@ Geister können für jede Jahreszeit entworfen werden. Wie lebende Menschen kön
 >Aus der Perspektive eines **Ars Magica** Fifth Edition-Spiels sind die Kräfte, die Persönlichkeit und die Rolle eines Geistes innerhalb der Geschichte wichtiger als sein metaphysischer Status. Was genau mit dem Geist einer Person nach dem Tod geschieht, kann im Geheimnisvollen belassen werden. Es sei darauf hingewiesen, dass Volkstraditionen bezüglich Geistern nicht genau mit der theologischen Lehre übereinstimmen. Wer kann schon sagen, ob die gelehrten Schriften der Bischöfe oder die Erzählungen alter Dorfweiber der Wahrheit näher sind?
 
 
->## ABENTEUERIDEE: Reue
+>## Abenteueridee: Reue
 >
 >Der Geist eines örtlichen Ritters, der vor einigen Jahren in der Schlacht fiel, spukt noch immer auf seinen ehemaligen Ländereien und terrorisiert die Umgebung, um die Lebenden zu zwingen, ihn zur Ruhe zu betten und das zu beenden, was er für die Qualen des Fegefeuers hält. Sir Giles glaubt, seine große Sünde sei gewesen, dass er einen anderen Ritter im Turnier tötete. Sein Eifer, Ruhm zu erlangen, war so groß, dass er seinen Gegner durch übermäßige Gewalt tötete. Er glaubt, wenn er sicherstellen kann, dass die Witwe seines Opfers gut versorgt wird, werde er in den Himmel kommen können. Tatsächlich irrt er sich gewaltig. Seine wahre Sünde ist der Stolz, der ihn dazu trieb, seinen Gegner zu töten, und der ihn selbst jetzt noch an wahrer Reue hindert. Erst wenn er erkennt, wie sein Stolz seiner Erlösung im Wege steht und wie er anderen Leid zugefügt hat, wird er wahrhaft ins Jenseits übergehen.
 
@@ -7139,7 +7139,7 @@ Diese Form von außergewöhnlichem Vis ahmt eine Mindere Verzauberung nach, gew�
 
 Im Allgemeinen hält der magische Effekt des besonderen Vis so lange an, wie das Vis intakt bleibt und nicht für hermetische Zwecke verwendet wird, doch die Spieltruppe kann der Anzahl der Verwendungen oder der Lebensdauer des Vis eine Obergrenze setzen wollen. Dies ist besonders angemessen für Vis, das durch den Aktivierungsprozess „verbraucht" wird. Zum Beispiel sollte ein Bauer Imaginem-Vis in Form von Pfefferkörnern, die jedes Essen, über das sie zerrieben werden, köstlich schmecken lassen, nicht ewig halten.
 
->## ABENTEUERIDEEN für Vis der Minderen Verzauberung
+>## Abenteuerideen für Vis der Minderen Verzauberung
 >
 >### Schuldige Geheimnisse
 >
@@ -7265,7 +7265,7 @@ Dieses Rego-Vis hat die Form eines Rosmarinzweigs. Wenn das Vis über dem Haupte
 
 (Basiseffekt 10, +1 Berührung, +3 Mond, +3 Bauwerk, +11 Stufen Penetration)
 
->## ABENTEUERIDEEN für zauberähnliches Vis
+>## Abenteuerideen für zauberähnliches Vis
 >
 >### Rätselhafte Äpfel
 >
@@ -7335,7 +7335,7 @@ Wenn ein Magus *Die Natur der Vis erkennen* auf Zweckgebundenes Vis wirkt, sind 
 
 Wenn Zweckgebundenes Vis verwendet wird, um einen Zauber mit der passenden Kombination von Künsten zu verstärken, wird das Vis behandelt, als wäre es doppelt so wirksam. Anders gesagt genießt ein Magus, der Zweckgebundenes Vis einsetzt, einen Vis-Bonus von +4 pro verwendetem Bauer. Zweckgebundenes Vis kann auch verwendet werden, um einen Zauber zu unterstützen, der nur eine der Technik- oder Form-Kombinationen nutzt, doch bietet das Zweckgebundene Vis dabei keinen Vorteil über das hinaus, was normales Vis gewährt. Ebenso ist das Vis doppelt so wirksam, wenn Zweckgebundenes Vis in einer Anwendung eingesetzt wird, die dieselbe Technik-Form-Kombination teilt — sei es beim Wirken eines Ritualzaubers oder beim Erschaffen eines magischen Gegenstands. Ein einzelner Bauer Zweckgebundenes Vis zählt als 2 Bauern Vis beim Wirken eines Rituals oder Erschaffen eines magischen Gegenstands, der die passende Kombination von Künsten verwendet. In jeder Situation, in der der Magus einen Patzerwurf machen muss, zählt das Zweckgebundene Vis ebenfalls doppelt.
 
->## ABENTEUERIDEEN für zauberähnliches Vis (Forts.)
+>## Abenteuerideen für zauberähnliches Vis (Forts.)
 >
 >### Die tödliche Dürre
 >
@@ -7638,7 +7638,7 @@ Alternativ kann ein Schwarzdorn der Tugend schlicht für 2 Bauern Perdo-Vis geer
 
 An einem Haselbaum der Tugend ist ein geschmeidiger Ast mit vollkommener Symmetrie gegabelt. Ein Magier kann diesen Ast zu einem Stab veredeln, der die Tugend Wünschelrutengehen (siehe **ArM5**, Seite 41) verleiht. Der Ast muss zu einem gegabelten Stab geformt und dann siebenmal an sieben verschiedenen Orten von mystischer Bedeutung vergraben und wieder ausgegraben werden (etwa an einer Kreuzung, neben einem alten Megalithen, an einer Heilquelle und so weiter). Der Stab muss an jedem Ort mindestens sieben Tage liegen bleiben. Vor der Veredelung enthält der symmetrische Ast 1 Bauer Intellego-Vis.
 
->## ABENTEUERIDEE: Krieg um den Wald
+>## Abenteueridee: Krieg um den Wald
 >
 >Da der Konvent zu viel Vis aus einem magischen Wald erntet, bemerken die Bäume und Waldgeister eine leichte Schwächung der lokalen Aura und nehmen Anstoß an den Aktivitäten der Magi. Die Bäume beginnen, von selbst zu erwachen und Reisende auf verschiedene Weise zu behindern: Sie senken ihre Äste, um Pfade zu blockieren, platzieren ihre Wurzeln dort, wo Passanten darüber stolpern, und so weiter. Wenn die Magi den Konflikt mit Äxten oder Feuer eskalieren, beleben die Florae oder der Genius Loci, der den Wald beschützt, die Bäume zur Selbstverteidigung.
 
@@ -7810,7 +7810,7 @@ Amiculum wurde als Talisman für seinen Meister verzaubert, einen hermetischen M
 
 Kelpies sind fleischfressende magische Kreaturen, die am Grund tiefer Süßwassertümpel leben. Ihre natürliche Gestalt ist ein sich windendes Gewirr aus öligen schwarzen Tentakeln und scharfen Schnäbeln, die in der Lage sind, die dickste Rüstung zu durchbohren, aber Kelpies besitzen auch die eigenartige Fähigkeit, sich in geschmeidige, schwarze Pferde zu verwandeln. In dieser Gestalt verströmt der Kelpiehengst ein moschusartiges Charisma, das ihm erlaubt, sich mit anderen Pferden anzufreunden; er führt sie an den Rand des Tümpels, wo sie gefräßig verschlungen werden. Eine weitere beliebte Jagdtechnik jener Kelpies, die in der Nähe einer Straße leben, besteht darin, müde Reisende zu suchen, die der Kelpie dazu verlockt, aufzusitzen. Sobald der Reisende aufgestiegen ist, stürzt der Kelpie kopfüber in seinen Tümpel – der Reiter ertrinkt und wird dann verspeist.
 
->## ABENTEUERIDEE: Der Schrei der Alraune
+>## Abenteueridee: Der Schrei der Alraune
 >
 >Ein Galgenbaum steht in einer schwachen Magieaura an einer Kreuzung nahe dem Konvent. Gelegentlich findet man eine Alraune der Tugend darunter wachsend. Der Leibarzt eines kränklichen Adligen hat eine Alraune geerntet, um seinen Herrn zu heilen, aber tragischerweise folgte der neugierige Sohn des Adligen dem Arzt heimlich und schaute zu genau hin – er wurde vom Schrei der Alraune getötet. Die Spielercharaktere könnten herbeigerufen werden, um das Verschwinden des Jungen zu untersuchen, oder der Arzt könnte zu ihnen kommen und um Hilfe bitten.
 
@@ -7884,7 +7884,7 @@ MuAn 15 (Basis 4, +2 Sonne, +1 dauerhafter Effekt): Mindere Macht (15 Stufen, �
 
 **Erscheinungsbild:** In seiner natürlichen Gestalt ist der Kelpie eine schwarze, amorphe und aufgeblähte Masse, bedeckt mit einem Sortiment muskulöser Tentakel, Mäuler, Schnäbel und Sinnesorgane. Er haust gewöhnlich am Grund eines tiefen, schattigen Tümpels. In Hengstgestalt erscheint der Kelpie als großes, kräftiges, schwarzes Pferd, wie es von einem wohlhabenden Ritter in die Schlacht geritten werden könnte.
 
->## ABENTEUERIDEE: Einen Kelpie brechen
+>## Abenteueridee: Einen Kelpie brechen
 >
 >Ein Clanchef in den schottischen Highlands wendet sich an den Konvent, weil er einen magischen Zaum in Auftrag geben möchte, mit dem er einen örtlichen Kelpie fangen und zähmen kann (dies ließe sich mit einem ReAn-Effekt erreichen). Der Häuptling beabsichtigt, den Kelpie zum Transport schwerer Steine zur Baustelle einer neuen Festung einzusetzen. Der rasche Bau der Festung mithilfe des Kelpies würde das Kräfteverhältnis unter den Highland-Clans verschieben – daher könnte die Unterstützung des Häuptlings als Einmischung in weltliche Angelegenheiten und somit als möglicher Verstoß gegen den Peripheren Kodex ausgelegt werden.
 
