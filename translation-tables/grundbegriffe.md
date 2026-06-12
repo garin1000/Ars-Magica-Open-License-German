@@ -64,6 +64,7 @@
 | High Crime | – | – | – | – | Hohes Vergehen | Verstoß gegen den Kodex; Strafe: Tod |
 | Hoplite | – | – | – | – | Hoplit | Vollstrecker von Ordensurteilen |
 | House | – | – | – | – | Haus | Gruppe von Gefolgsleuten eines Gründers |
+| Follower of (House) | – | – | – | – | Gefolgsmann / Gefolgsfrau (des Hauses …) | m. Gefolgsmann, f. Gefolgsfrau; Pl. Gefolgsleute |
 | The Infernal | – | – | – | – | Das Infernale | |
 | The Infernal Realm | – | – | – | – | Die Höllensphäre | Übernatürliche Sphäre der Hölle |
 | Lab Text | – | – | – | – | Labortext | Aufzeichnung von Laborarbeit |
