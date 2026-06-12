@@ -121,7 +121,7 @@
 | Feather Messenger | Federbote | |
 | Folk Magic | Volksmagie | |
 | Font of Knowledge | Quell des Wissens | |
-| Homing Instinct | Heimkehrinstinkt | SdM:M; kennt Weg zu Int-Wert vielen Orten; feste Arkane Verbindung |
+| Homing Instinct | Ortsgespür | SdM:M; kennt Weg zu Int-Wert vielen Orten; feste Arkane Verbindung |
 | (Land) Regio Network | (Land-)Regionetzwerk | SdM:M; Zugang zu Netzwerk von Regiones; Reisezeit 1 Durchmesser |
 | Leather Ripper | Lederzerreißer | |
 | Lesser Benediction | Kleine Segnung | |

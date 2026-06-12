@@ -68,16 +68,17 @@ Jeder Übersetzungs-Agent erhält folgende Anweisungen:
 7. **Aussprachehinweise:** Für englische Leser gedachte Aussprachebeispiele (z. B. „(DAH-van ALL-ath)") werden weggelassen. Um die Zeilensynchronität zu erhalten, wird die weggelassene Zeile durch eine Leerzeile in der deutschen Datei ersetzt (oder der verbleibende Text so auf die Zeilen verteilt, dass die Gesamtzahl gleich bleibt).
 8. **Markdown:** Alle Markdown-Formatierungen (Überschriften, Links, Tabellen, Hervorhebungen) aus dem Original beibehalten.
 9. **Ergebnis schreiben:** Schreibe den übersetzten Abschnitt in die Zieldatei in `german-wip/`. Verwende den in Phase 0.4 bestimmten und vom Benutzer bestätigten deutschen Dateinamen. Der erste Abschnitt erstellt die Datei; alle weiteren Abschnitte hängen an.
-10. **Neue Begriffe identifizieren:** Sammle alle Fachbegriffe im Abschnitt, die **nicht** in den Übersetzungstabellen stehen – insbesondere Tugenden, Fehler, Fertigkeiten, Zaubersprüche, Konventsbegriffe, Kreaturen und sonstige spielmechanische Begriffe. Notiere für jeden Begriff: englischer Name, gewählte deutsche Übersetzung, Kategorie (Tugend/Fehler/Fertigkeit/Zauber/…) und ggf. Anmerkungen.
+10. **Neue Begriffe identifizieren:** Sammle alle Fachbegriffe im Abschnitt, die **nicht** in den Übersetzungstabellen stehen – insbesondere Tugenden, Fehler, Fertigkeiten, Zaubersprüche, Konventsbegriffe, Kreaturen und sonstige spielmechanische Begriffe. **Prüfe jeden potenziell neuen Begriff außerordentlich gründlich gegen alle relevanten Tabellendateien**, bevor du ihn als „neu" einstufst – viele Begriffe sind bereits in einer der spezialisierten Tabellen erfasst. Notiere für jeden tatsächlich neuen Begriff: englischer Name, gewählte deutsche Übersetzung, Kategorie (Tugend/Fehler/Fertigkeit/Zauber/…), den Kontext, in dem der Begriff im Quelltext vorkommt (Satz oder Absatz), und ggf. Anmerkungen.
 
 ### Ablauf
 
 - Übersetze die Abschnitte **sequenziell**, damit die Zieldatei korrekt zusammengesetzt wird.
 - Melde nach jedem Abschnitt den Fortschritt: `[Abschnitt X/Y abgeschlossen – Zeilen M–N]`.
-- **Neue Begriffe nach jedem Abschnitt eintragen:** Wenn ein Abschnitt Begriffe enthält, die nicht in den Übersetzungstabellen stehen:
-  1. Lege dem Benutzer eine Liste der neuen Begriffe mit deinen Übersetzungsvorschlägen vor.
-  2. Warte auf Bestätigung oder Korrektur durch den Benutzer.
-  3. Trage die bestätigten Begriffe **sofort** in die jeweils passende Tabellendatei in `translation-tables/` ein:
+- **Neue Begriffe nach jedem Abschnitt zur Freigabe vorlegen:** Wenn ein Abschnitt Begriffe enthält, die nicht in den Übersetzungstabellen stehen:
+  1. **Gründliche Gegenprüfung:** Prüfe jeden gefundenen Begriff noch einmal gegen **alle** potenziell relevanten Tabellendateien (nicht nur die naheliegendste). Erst wenn sichergestellt ist, dass der Begriff in keiner Tabelle vorkommt, gilt er als neu.
+  2. Lege dem Benutzer eine Liste der neuen Begriffe mit deinen Übersetzungsvorschlägen vor. Zeige zu jedem Begriff den **Kontext** (den Satz oder Absatz aus dem Quelltext, in dem er vorkommt), damit der Benutzer die Übersetzung beurteilen kann.
+  3. **Der Benutzer kann Begriffe vor der Freigabe anpassen.** Warte auf Bestätigung oder Korrektur durch den Benutzer.
+  4. Trage die vom Benutzer freigegebenen Begriffe **sofort** in die jeweils passende Tabellendatei in `translation-tables/` ein:
      - Tugenden/Fehler → `tugenden-fehler.md`
      - Fertigkeiten → `fertigkeiten.md`
      - Zaubersprüche → `zauber-nach-form.md`
@@ -85,8 +86,8 @@ Jeder Übersetzungs-Agent erhält folgende Anweisungen:
      - Orden/Tribunale/Personenbezeichnungen → `orden-tribunale.md`
      - Kreaturen/Tiere → `tiere-kreaturen.md`
      - Sonstige Spielbegriffe → `grundbegriffe.md`
-  4. Halte das bestehende Tabellenformat der jeweiligen Datei exakt ein (Spalten, Legende, Sortierung).
-  5. Fahre erst mit dem nächsten Abschnitt fort, wenn alle neuen Begriffe eingetragen sind.
+  5. Halte das bestehende Tabellenformat der jeweiligen Datei exakt ein (Spalten, Legende, Sortierung).
+  6. Fahre erst mit dem nächsten Abschnitt fort, wenn alle neuen Begriffe eingetragen sind.
 
 ---
 
