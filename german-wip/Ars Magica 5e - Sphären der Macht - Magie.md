@@ -2349,7 +2349,7 @@ Diese Tugend repräsentiert einen Charakter, der sowohl das Blut von Riesen als 
 
 Der Charakter verfügt über eine magische Kraft, die er nach Belieben aktivieren kann. Sie wird wie eine Große Macht gestaltet, wie oben unter Große Qualitäten beschrieben, aber da der Charakter keinen Machtwert besitzt, kostet ihn die Aktivierung eine Anzahl von Erschöpfungsstufen gleich (den Machtpunktkosten der Kraft geteilt durch 5, aufgerundet). Diese Tugend kann mehrfach genommen werden. Du darfst Stufen gegen Meisterschaftspunkte eintauschen, wie üblich, und damit die Machtpunktkosten und somit die Erschöpfungskosten senken. Du darfst auch Stufen im Verhältnis eins zu eins ausgeben, um der Kraft Penetration zu verleihen; andernfalls hat sie eine Penetration von null, da der Charakter keinen Machtwert besitzt.
 
-
+#### Ortsgespür
 *Klein, Übernatürlich*
 
 Der Charakter weiß immer genau, wie er von seinem aktuellen Standort zu einer Anzahl von Orten gleich seinem Intelligenzwert gelangt (mindestens 1). Um einen Ort zum Repertoire des Charakters hinzuzufügen, muss er sich an diesem Ort befinden, der Ort muss unter freiem Himmel liegen (er darf also nicht in einem Gebäude sein), und der Spieler muss einen Intelligenz + Konzentration-Wurf gegen einen Schwierigkeitsgrad von 6 bestehen. Wenn dies die Anzahl bekannter Orte über die Grenze des Charakters hinaus erhöhen würde, muss ein anderer Ort „vergessen" werden.
