@@ -43,15 +43,21 @@ Falls das Submodul nicht aktuell ist, informiere den Benutzer und frage, ob du f
 
 Für jedes Dateipaar:
 
-1. **Referenz-Commit bestimmen:** Ermittle im **Hauptrepository** den letzten Commit, der die deutsche Übersetzungsdatei verändert hat:
-   ```bash
-   git log --format="%H" -1 -- "<pfad-zur-deutschen-datei>"
-   ```
-2. **Submodul-Stand zu diesem Zeitpunkt:** Ermittle, auf welchem Commit das Submodul `original-english/` zum Zeitpunkt dieses Parent-Commits stand:
-   ```bash
-   git ls-tree <parent-commit> -- original-english
-   ```
-   Das ergibt den Submodul-Commit-Hash `<old-submodule-commit>`.
+1. **Referenz-Commit bestimmen (zweistufig):**
+
+   **a) Primär — Tracking-Datei prüfen:** Lies `.translation-sync.json` (im Projektverzeichnis). Wenn ein Eintrag für die deutsche Datei existiert (prüfe sowohl den exakten Pfad als auch den alternativen Pfad in `german-reviewed/` bzw. `german-wip/`), verwende den gespeicherten `submodule_commit` als `<old-submodule-commit>`.
+
+   **b) Fallback — Alle Commits durchsuchen:** Wenn kein Eintrag in der Tracking-Datei existiert:
+   - Ermittle **alle** Commits, die die deutsche Datei verändert haben (in beiden Verzeichnissen, `german-reviewed/` und `german-wip/`):
+     ```bash
+     git log --format="%H" -- "<pfad-german-reviewed>" "<pfad-german-wip>"
+     ```
+   - Ermittle für **jeden** dieser Commits den Submodul-Stand:
+     ```bash
+     git ls-tree <commit> -- original-english
+     ```
+   - Verwende den **ältesten** (frühesten) Submodul-Commit-Hash als `<old-submodule-commit>`. Dies ist die konservativste Schätzung und zeigt alle Änderungen seit der ursprünglichen Übersetzung.
+   - Gib dem Benutzer einen Hinweis, dass dies der erste Lauf ohne Tracking-Daten ist und der Referenzpunkt geschätzt wurde.
 3. **Aktuellen Submodul-Stand ermitteln:**
    ```bash
    cd original-english && git rev-parse HEAD
@@ -203,6 +209,24 @@ Lies das Lektoratsergebnis und arbeite die Befunde ein:
 - Gesamtzeilenzahl: deutsch == englisch?
 - Alle Markdown-Links funktional?
 - Keine Reste von englischem Text in den aktualisierten Stellen?
+
+### 4.2a Sync-Tracking aktualisieren
+
+Aktualisiere `.translation-sync.json` im Projektverzeichnis: Trage für die bearbeitete deutsche Datei den **aktuellen** Submodul-Commit ein:
+```bash
+cd original-english && git rev-parse HEAD
+```
+Zusammen mit dem Pfad der englischen Quelldatei und dem aktuellen Datum. Format:
+```json
+{
+  "<pfad-zur-deutschen-datei>": {
+    "submodule_commit": "<aktueller-submodul-commit>",
+    "english_file": "<pfad-zur-englischen-datei>",
+    "last_sync": "<YYYY-MM-DD>"
+  }
+}
+```
+Erstelle die Datei, falls sie noch nicht existiert. Bestehende Einträge für andere Dateien beibehalten.
 
 ### 4.3 README aktualisieren
 

@@ -158,6 +158,24 @@ Führe eine letzte Kontrolle durch:
 - Alle Markdown-Links funktional?
 - Keine Reste von englischem Text in der deutschen Datei?
 
+### 5.1a Sync-Tracking schreiben
+
+Trage in `.translation-sync.json` (im Projektverzeichnis) einen Eintrag für die neue Übersetzung ein:
+```bash
+cd original-english && git rev-parse HEAD
+```
+Format:
+```json
+{
+  "<pfad-zur-deutschen-datei>": {
+    "submodule_commit": "<aktueller-submodul-commit>",
+    "english_file": "<pfad-zur-englischen-datei>",
+    "last_sync": "<YYYY-MM-DD>"
+  }
+}
+```
+Erstelle die Datei, falls sie noch nicht existiert. Bestehende Einträge für andere Dateien beibehalten.
+
 ### 5.2 README aktualisieren
 
 Aktualisiere `german-wip/README.md`: Trage die neue Übersetzungsdatei mit Titel, Quelldatei und Datum ein.
