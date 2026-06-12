@@ -580,4 +580,126 @@
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Hedge Magic Revised Edition (Atlas Games, 2011)*
+### Ergänzungen aus Houses of Hermes: True Lineages (HoH:TL)
+
+#### Hermetische Tugenden, Klein / Hermetic, Minor
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Colens Arcanorum | Colens Arcanorum | HoH:TL; Charakter ist Mitglied der Colentes Arcanorum (Haus Bonisagus) |
+
+#### Statustugenden, Klein / Social Status, Minor
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Tenens Occultorum | Tenens Occultorum | HoH:TL; Charakter ist Mitglied der Tenentes Occultorum (Haus Bonisagus) |
+
+#### Allgemeine Tugenden, Klein / General, Minor
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Linguist | Linguist | HoH:TL; Erleichtertes Sprachenlernen |
+
+#### Große Tugenden / Major Virtues (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Blood of Heroes | Heldenblut | HoH:TL; Mythischer Gefährte; doppelt so viele Tugenden wie Fehler; Heroische T&F |
+| Tamed Magic | Gezähmte Magie | HoH:TL; Gezügelte + Gefesselte Magie ohne Nachteile |
+
+#### Heroische Tugenden, Groß / Heroic, Major (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Charmed Life | Unter gutem Stern | HoH:TL; Patzer zählen nicht in chaotischen Situationen |
+| Invisible to Magic | Unsichtbar für Magie | HoH:TL; Durch Konzentration unsichtbar für Intellego |
+| Mythic Mimicry | Mythische Nachahmung | HoH:TL; Perfekte Stimm-/Handschriftnachahmung |
+| Vis Sensitivity | Vis-Gespür | HoH:TL; Vis durch Berührung erkennen |
+
+#### Heroische Tugenden, Klein / Heroic, Minor (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Gift of the Tongues | Gabe der Zungen | HoH:TL; Jede Sprache bei direkter Kommunikation verstehen |
+| Great Bearer | Großer Lastenträger | HoH:TL; Doppelte Traglast und Reiseausdauer |
+| Heroes' Birthright | Geburtsrecht der Helden | HoH:TL; Magische Kraft bis Stufe 15, mehrfach nehmbar |
+| Messenger's Memory | Botengedächtnis | HoH:TL; Kurze Botschaften wortwörtlich merken |
+| Mythic (Characteristic) | Mythische (Eigenschaft) | HoH:TL; +3 Bonus bei Spezialisierung, +1 Patzerwürfel |
+| Sure Traveler | Sicherer Reisender | HoH:TL; Verirrt sich nie, unbeeindruckt von Wetter |
+
+#### Statustugenden, Klein / Social Status, Minor (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Lone Redcap | Einzelgänger-Rotkappe | HoH:TL; Rotkappe ohne Hausanbindung |
+
+#### Heroische Fehler / Heroic Flaws (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Heroic Personality | Heroische Persönlichkeit | HoH:TL; Klein; Pflicht bei Heldenblut; SL kann Handlungen diktieren |
+| Tragic (Characteristic) | Tragische (Eigenschaft) | HoH:TL; Klein; −3 bei Spezialisierung, +1 Patzerwürfel |
+
+#### Feenblut-Varianten / Faerie Blood Variants (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Bloodcap | Blutkappe | HoH:TL; Feenblut-Variante für Haus Mercere; +1 Ausdauer |
+| Samovily Blood | Samovilenblut | HoH:TL; Klein, Übernatürlich; Feenblut-Variante bulgarischer Herkunft |
+
+#### Große Übernatürliche Tugenden / Supernatural, Major (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Dhampir | Dhampir | HoH:TL; Halbvampirisches Kind; transsilvanisches Feenwesen |
+
+#### Kleine Übernatürliche Tugenden / Supernatural, Minor (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Folk Dancer | Volkstänzer | HoH:TL; Rudimentäre heidnische Tanzmagie-Tradition |
+
+#### Kleine Hermetische Tugenden / Hermetic, Minor (HoH:TL, Kap. 4)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Harenarius | Harenarius | HoH:TL; Lat. „Mensch des Sandes"; zwei Certamen-Schulen instinktiv meistern |
+| Leadworker | Bleigießer | HoH:TL; Nekromantische Fluchtafel-Tradition (Katadesmoi/Kolossoi) des Aita-Kults |
+| Nyktophylax | Nyktophylax | HoH:TL; Griech. „Nachtwache"; Sonne-Zauber enden mittags/mitternachts |
+
+#### Geschichte-Tugenden / Story Virtues (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Hermetic Patron | Hermetischer Patron | HoH:TL; Mächtiger Magus als Gönner |
+| Legacy | Vermächtnis | HoH:TL; Nachkomme eines legendären Magus/Rotkappen |
+
+#### Geschichte-Fehler / Story Flaws (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Illegitimate Lineage | Illegitime Abstammung | HoH:TL; Mercere-Magus ohne Blutslinie zum Gründer |
+
+#### Hermetische Fehler, Klein / Hermetic, Minor
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Painful Magic | Schmerzhafte Magie | HoH:TL; Zaubern verursacht körperliche Schmerzen |
+| Fettered Magic | Gekettete Magie | HoH:TL; Alle Zauber/aktivierte Gegenstände sind Arkane Verbindungen zum Zauberer |
+| Stockade Parma Magica | Palisaden-Parma Magica | HoH:TL; Parma kann nicht unterdrückt werden; freundliche Zauber müssen durchdringen |
+
+#### Allgemeine Fehler, Klein / General, Minor
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Palsied Hands | Zittrige Hände | HoH:TL; Hände zittern, erschwert feinmotorische Tätigkeiten |
+
+#### Geschichte-Fehler, Klein / Story, Minor
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Fostered Apprentice | Fremdlehrling | HoH:TL; Lehrling wurde in Fremdlehre gegeben (Haus Bonisagus) |
+
+---
+
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Hedge Magic Revised Edition (Atlas Games, 2011); Houses of Hermes: True Lineages (Atlas Games, 2005)*

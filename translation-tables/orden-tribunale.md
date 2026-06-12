@@ -102,6 +102,60 @@
 | venditor (pl. venditores) | Venditor (Venditores) | Kapitel 2 | Lat. Fachbegriff für Handelsvertreter von Haus Verditius; im DE-Text unübersetzt belassen – korrekt |
 | voting sigil | Abstimmungs-Sigil | Kapitel 2 | Kompositum zur Unterscheidung vom Zauberer-Sigil (Persönlichkeitsausdruck); Tabelle kennt nur „Sigil" |
 
+### Ergänzungen aus Houses of Hermes: True Lineages (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Erstes Auftreten | Anmerkung |
+|---|---|---|---|
+| Advocate | Advokat | Kap. 2 (Guernicus) | Rolle: Verteidiger vor dem Tribunal |
+| Inner council / Inner tier | Innerer Rat / Innere Ebene | Kap. 2 (Guernicus) | Sechs Guernicus-Magi plus Primus; interne Angelegenheiten |
+| Boukoloi | Boukoloi | Kap. 1 (Bonisagus) | Griech. Eigenname; erster (niedrigster) Rang der Magi Bonisagi |
+| Cannophori | Cannophori | Kap. 1 (Bonisagus) | Griech. Eigenname; dritter Rang der Magi Bonisagi |
+| Colens Arcanorum | Colens Arcanorum | Kap. 1 (Bonisagus) | Lat. Singular von Colentes Arcanorum; auch Kleine Hermetische Tugend |
+| Colentes Arcanorum | Colentes Arcanorum | Kap. 1 (Bonisagus) | Lat. Eigenname; innerer Zirkel des Hauses Bonisagus |
+| Colloquium Delectorum | Colloquium Delectorum | Kap. 1 (Bonisagus) | Lat. Eigenname; innerer Zirkel des Hauses Bonisagus |
+| Dabbler (Magic Theory spec.) | Dilettant | Kap. 1 (Bonisagus) | Spezialisierung Magietheorie: kreative R/D/T-Kombinationen |
+| Daduchos | Daduchos | Kap. 1 (Bonisagus) | Griech. Eigenname; zweiter Rang der Magi Bonisagi |
+| Dendrophori | Dendrophori | Kap. 1 (Bonisagus) | Griech. Eigenname; vierter (höchster) Rang unter dem Primus |
+| Harmonizer (Magic Theory spec.) | Harmonisierer | Kap. 1 (Bonisagus) | Spezialisierung Magietheorie: Integration nicht-hermetischer Magie |
+| Magi Bonisagi | Magi Bonisagi | Kap. 1 (Bonisagus) | Bonisagus-Linie innerhalb des Hauses (Theorie-Forscher) |
+| Magi Trianomae | Magi Trianomae | Kap. 1 (Bonisagus) | Trianoma-Linie innerhalb des Hauses (Diplomaten) |
+| Conciliarius (pl. Conciliarii) | Conciliarius (Pl. Conciliarii) | Kap. 4 (Tremere) | Lat.; Ratsmitglied mit eigenem Sigil; nimmt am Dezennalrat teil |
+| Cult of Heroes | Kult der Helden | Kap. 3 (Mercere) | Merkurische Unter-Gemeinschaft; sucht potenzielle Halbgötter |
+| Decennial(s) | Dezennale(n) | Kap. 4 (Tremere) | Alle-zehn-Jahre-Versammlung der Conciliarii in Coeris |
+| Dragon Banner | Drachenbanner | Kap. 4 (Tremere) | Verzaubertes Kampfbanner eines Exarchen |
+| Exarch (pl. Exarchs) | Exarch (Pl. Exarchen) | Kap. 4 (Tremere) | Ranghöchster Tremere unter dem Primus; beaufsichtigt Tribunale |
+| Exarchate | Exarchat | Kap. 4 (Tremere) | Einflussgebiet eines Exarchen |
+| Lancea Magica | Lancea Magica | Kap. 1 (Bonisagus) | Lat. „Magische Lanze"; verbotener Angriff, der die Parma Magica durchdringt |
+| Legatus | Legatus | Kap. 4 (Tremere) | Lat.; Feldkommandant und Erbe des Primus im Krieg |
+| Architects (specialist) | Architekten | Kap. 4 (Tremere) | Spezialistenrolle: Terram-Spezialisten, Festungsbau |
+| Artificers (specialist) | Handwerker | Kap. 4 (Tremere) | Spezialistenrolle: Ritualgegenstand- und Artefakthersteller |
+| Assessor | Gutachter | Kap. 4 (Tremere) | Spezialistenrolle: Diplomat/Kaufmann/Spion mit Sanfter Gabe |
+| Auxiliaries | Hilfstruppen | Kap. 4 (Tremere) | Sterbliche Soldaten im Dienst des Hauses |
+| Disputants | Disputanten | Kap. 4 (Tremere) | Spezialistenrolle: Certamen-Experten |
+| Master of Auxiliaries | Meister der Hilfstruppen | Kap. 4 (Tremere) | Spezialistenrolle: Anführer sterblicher Soldaten |
+| Nauarchos | Nauarchos | Kap. 4 (Tremere) | Spezialistenrolle: Marineoffiziere; griech. Eigenname |
+| Physicians (specialist) | Ärzte | Kap. 4 (Tremere) | Spezialistenrolle: Heiler und Nekromanten |
+| Scouts (specialist) | Kundschafter | Kap. 4 (Tremere) | Spezialistenrolle: Aufklärung und Erkundung |
+| Signalers | Signalgeber | Kap. 4 (Tremere) | Spezialistenrolle: Kommunikation und Illusion |
+| Mercer House | Mercere-Haus | Kap. 3 (Mercere) | Stützpunkt der Rotkappen in einem Tribunal |
+| Mutantes | Mutantes | Kap. 3 (Mercere) | Lat. Eigenname; Unterlinie spezialisiert auf Verwandlungsmagie |
+| Order of Miscellany | Orden der Verschiedenheit | Kap. 2 (Guernicus) | Historisch; Pralix' Organisation, Vorgänger von Haus Ex Miscellanea |
+| Outer council / Outer tier | Äußerer Rat / Äußere Ebene | Kap. 2 (Guernicus) | Hausvertreter und Vorsitzende Quaesitores; externe Angelegenheiten |
+| Presiding Quaesitor | Vorsitzender Quaesitor | Kap. 2 (Guernicus) | Quaesitor, der einem Tribunal vorsitzt |
+| Quaesitor cum auctoritate | Quaesitor cum auctoritate | Kap. 2 (Guernicus) | Lat. Amtsbezeichnung: Quaesitor mit gültigem Beglaubigungsschreiben |
+| Secutor | Secutor | Kap. 4 (Tremere) | Lat.; Sieger des Conciliarius-Duells; darf den Primus herausfordern |
+| Senior Mercere | Oberster Mercere | Kap. 2 (Guernicus) | Ranghöchster Mercere-Vertreter eines Tribunals; verwaltet Tribunalskasse |
+| Tribune | Tribun (Pl. Tribune) | Kap. 4 (Tremere) | Vom Exarchen ernannter lokaler Sprecher bei Tribunalssitzungen |
+| Reception house | Empfangshaus | Kap. 2 (Guernicus) | Gästehaus außerhalb der Mauern von Magvillus |
+| Seekers | Sucher | Kap. 1 (Bonisagus) | Bonisagus-Magi auf der Suche nach verlorenem Wissen |
+| Tabula Geographica Magica | Tabula Geographica Magica | Kap. 1 (Bonisagus) | Lat. Katalog magischer Stätten und Regiones |
+| Tenens Occultorum | Tenens Occultorum | Kap. 1 (Bonisagus) | Lat. Singular von Tenentes Occultorum; auch Kleine Statustugend |
+| Tenentes Occultorum | Tenentes Occultorum | Kap. 1 (Bonisagus) | Lat. Eigenname; innerer Zirkel des Hauses Bonisagus |
+| Terrae-Magus | Terrae-Magus | Kap. 2 (Guernicus) | Lat. Eigenname; Erdmagie-Spezialist |
+| Traditionalist (Magic Theory spec.) | Traditionalist | Kap. 1 (Bonisagus) | Spezialisierung Magietheorie: hermetische Grenzen durchbrechen |
+| Traditionalists / Transitionalists | Traditionalisten / Transitionalisten | Kap. 2 (Guernicus) | Zwei politische Strömungen innerhalb von Haus Guernicus |
+| Vexillations | Vexillationen | Kap. 4 (Tremere) | Organisationseinheiten aus römischer Militärtradition |
+
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License)*
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Houses of Hermes: True Lineages (Atlas Games, 2005)*

@@ -432,5 +432,65 @@
 | Wizard's Vigil | Wacht des Zauberers | MuVi | MuVi; konsistent verwendet |
 | Wind Of Mundane Silence | Wind der weltlichen Stille | PeVi | PeVi; ~~verworfene Variante: Wind der gewöhnlichen Stille~~ |
 
+
+### Ergänzungen aus Houses of Hermes: True Lineages (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Form | Anmerkung |
+|---|---|---|---|
+| Aura of Inconsequence | Aura der Bedeutungslosigkeit | ReMe25 | HoH:TL; Beiläufige Aufmerksamkeit ablenken |
+| Bitter Taste of Betrayal | Bitterer Geschmack des Verrats | InVi15 | HoH:TL; Aktive Magie durch bitteren Geschmack erkennen |
+| By His Works | An seinen Werken | CrMe5 | HoH:TL; Eigene Erinnerung auffrischen |
+| Call for Justice | Ruf nach Gerechtigkeit | ReVi | HoH:TL; Großes Ritual: Nemesis anrufen |
+| Circle of Clarity | Kreis der Klarheit | PeVi Gen | HoH:TL; Vim-Effekte im Kreis auflösen |
+| Curse of Mars | Fluch des Mars | ReMe | HoH:TL; Großes Ritual: Nation mit Zwist verfluchen |
+| Curse of Thoth | Fluch des Thoth | PeVi | HoH:TL; Großes Ritual: Gruppe mit Unglück verfluchen |
+| Cutting the Cords | Die Bande durchtrennen | PeVi Gen Rit. | HoH:TL; Vertrautenbindung dauerhaft trennen |
+| Dream of the Artifice | Traum des Kunstwerks | InTe50 | HoH:TL; Erinnerungen künstlicher Steinobjekte ergründen |
+| Dream of the Forged | Traum des Geschmiedeten | InTe55 Rit. | HoH:TL; Erinnerungen von Metallgegenständen ergründen |
+| Ear of Truth | Ohr der Wahrheit | InMe30 | HoH:TL; Wahrheit/Lüge beim Hören erkennen |
+| Impression of the Faded Sigil | Eindruck des verblassten Sigils | InVi30 | HoH:TL; Technik/Form/Sigil einer Spur identifizieren |
+| Odor of Lingering Magic | Geruch der verbleibenden Magie | InVi30 | HoH:TL; Aktive Magie/Spuren riechen |
+| Pierce the Magic Veil | Den Magieschleier durchdringen | InVi20 | HoH:TL; Analogon zu „Piercing the Faerie Veil" für Magie-Regiones |
+| Reveal the Lingering Spirit | Den verweilenden Geist enthüllen | InMe30 | HoH:TL; Unsichtbare Geister wahrnehmen |
+| Sight of the Molting Magus | Sicht des sich häutenden Magus | InCo25 | HoH:TL; Corpus-Material in Sichtlinie erkennen |
+| Sight of the Sigil | Sicht des Sigils | InVi50 | HoH:TL; Magie/Spuren sehen mit vollen Details |
+| Tell of the Forged | Erzählung des Geschmiedeten | InTe45 | HoH:TL; Mit Metallgegenstand kommunizieren |
+| The Discerning Eye | Das Unterscheidende Auge | InIm Gen | HoH:TL; Illusionen von Wirklichkeit unterscheiden |
+| The Good Witness | Der Gute Zeuge | CrMe25 | HoH:TL; Tageserinnerung bei Zielperson auffrischen |
+| The Oath of Truth | Der Eid der Wahrheit | PeCo | HoH:TL; Kleines Ritual: Wahrheitseid |
+| The Penitent's Confession | Das Geständnis des Büßers | ReMe30 | HoH:TL; Zielperson berichtet wahrheitsgemäß |
+| The Whole from the Part | Das Ganze aus dem Teil | InCo20 | HoH:TL; Geistiges Bild anhand Arkaner Verbindung |
+| The Will of Alatheia | Der Wille der Alatheia | PeCo | HoH:TL; Kleines Ritual: Schwur, Handlung zu unterlassen |
+| Trust Me | Vertrau mir | ReMe20 | HoH:TL; Haltung normalisieren (kein Ausspähen) |
+| Veil All Eyes | Schleier aller Augen | ReMe(An) | HoH:TL; Kleines Ritual: mental unsichtbar |
+| Wisdom of Athena | Weisheit der Athene | CrMe | HoH:TL; Kleines Ritual: +5 auf Menschenkenntnis/Intrige |
+| Sight of Alatheia | Sicht der Alatheia | InVi | HoH:TL; Kleines Ritual: Zweites Gesicht Wert 5 |
+| Hunter's Lethal Arrow | Tödlicher Pfeil des Jägers | PeAn40 | HoH:TL; Mutantum-Zauber: Tier sofort zerstören |
+| Shape of the Ancient Kite | Gestalt des alten Milan | MuCo40 | HoH:TL; Mutantum-Zauber: Verwandlung in Milan |
+| The Tireless Flight | Der unermüdliche Flug | ReCo20 | HoH:TL; Mutantum-Zauber: Selbstflug ohne Ermüdung |
+| Sense the True Path | Den wahren Pfad erspüren | InTe15 | HoH:TL; Mutantum-Zauber: Richtung zum nächsten Pfad |
+| Twinning the Tome | Verdoppelung des Folianten | CrAn50 Rit. | HoH:TL; Mutantum-Zauber: Buchkopie |
+| The Transformed Folio | Der verwandelte Foliant | MuAn45 Rit. | HoH:TL; Mutantum-Zauber: Buch in anderes Material |
+| (Phys. Char.) of the Followers | (Körp. Eigensch.) der Gefolgsleute | CrCo35 Rit. | HoH:TL; Kult der Helden: Eigenschaft +1 |
+| (Phys. Char.) of the Heroes | (Körp. Eigensch.) der Helden | CrCo60 Rit. | HoH:TL; Kult der Helden: Eigenschaft +3 |
+| (Mental Char.) of the Followers | (Geist. Eigensch.) der Gefolgsleute | CrMe35 Rit. | HoH:TL; Kult der Helden: Eigenschaft +1 |
+| (Mental Char.) of the Heroes | (Geist. Eigensch.) der Helden | CrMe60 Rit. | HoH:TL; Kult der Helden: Eigenschaft +3 |
+| Mercury's Blessing | Merkurs Segen | CrVi25 Rit. | HoH:TL; Kult der Helden: Merkurische Magie für ein Jahr |
+| A Simple Method for Rapid Vallation | Eine einfache Methode zur schnellen Vallation | CrTe35 | HoH:TL; Granitmauer 500 Schritt mit Wehrgang |
+| A Window of Singular Direction | Ein Fenster der einseitigen Sicht | MuTe15 | HoH:TL; Einseitig durchsichtige Wand |
+| Arming the Legion of the Dead | Bewaffnung der Legion der Toten | MuMe70 Rit. | HoH:TL; Massenversion für Geisterarmee |
+| Call the Fallen Eagles from the Mist | Die gefallenen Adler aus dem Nebel rufen | ReMe65 Rit. | HoH:TL; Massenbeschwörung heidnischer Geister |
+| Exactly to Scale | Exakt maßstabsgetreu | ReAq10 | HoH:TL; Präzises Zeichnen/Kartenherstellung |
+| False Prophecy | Falsche Prophezeiung | MuMe30 | HoH:TL; Veränderung von Traumerinnerungen |
+| Love's Unfaithful Witness | Der treulose Zeuge der Liebe | InTe35 | HoH:TL; Schmuck über Träger befragen |
+| Spectral Quinreme | Geisterquinquereme | MuMe50 | HoH:TL; Geisterschiff für Menschentransport |
+| Swords of Silver and Moonlight | Schwerter aus Silber und Mondlicht | MuMe40 | HoH:TL; Geisterausrüstung stofflich machen |
+| The Face in the Mirror | Das Gesicht im Spiegel | ReMe40 | HoH:TL; Kontrollierte Geisterbesessenheit |
+| The Unfaithful Favor | Der treulose Gunstbeweis | ReAn45 | HoH:TL; Seidentuch als Fernmordwaffe |
+| To Mark with Umbrage | Mit Düsternis zeichnen | CrIm30 | HoH:TL; Visuelle Markierung von Truppen |
+| To See as Others See | Sehen wie andere sehen | InAn40 | HoH:TL; Fernspionage über Tiere |
+| Venomous Velites | Giftige Velites | CrAn45 | HoH:TL; Giftiger Skorpionschwarm mit Rego-Requisit |
+| Voices from Hollow Spaces | Stimmen aus hohlen Räumen | ReMe25 | HoH:TL; Geisterbindung an Objekte/Orte |
+
 ---
-*Quellen: Zauberübersetzungstabelle.md (Ars Magica Definitive Edition, Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License) · ArM_DE_Zusatztermini.md*
+*Quellen: Zauberübersetzungstabelle.md (Ars Magica Definitive Edition, Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License) · ArM_DE_Zusatztermini.md · Houses of Hermes: True Lineages (Atlas Games, 2005)*

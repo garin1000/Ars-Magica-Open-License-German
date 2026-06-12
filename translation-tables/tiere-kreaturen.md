@@ -149,4 +149,19 @@
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License) · Deutsche Übersetzung (ArsMagica_DE_Gesamt_work.md)*
+### Ergänzungen aus Houses of Hermes: True Lineages (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Cataphract | Kataphraktos | HoH:TL; Geist eines berittenen oström. Schwergepanzerten |
+| Common White Wolves | Gemeine Weiße Wölfe | HoH:TL; Magisches Tier, von Tremeres Vertrautem abstammend |
+| Ethereal Fisherman Spiders | Ätherische Fischerspinnen | HoH:TL; Magisches Tier, soziale Spinnen, fangen Geister |
+| Fire Hawk / Fire Kite | Feuerfalke | HoH:TL; Magisches Tier, Greifvogel mit Feuerkräften |
+| Legionary (ghost) | Legionär | HoH:TL; Geist eines gefallenen römischen Legionärs |
+| Moro | Moro | HoH:TL; Feenkreatur, Vampirsäugling; balkanische Folklore |
+| Shadow Owl | Schatteneule | HoH:TL; Magisches Tier, Greifvogel mit Geisterkräften |
+| Wili | Wili | HoH:TL; Feenkreatur, Geist einer verstorbenen Braut; slawische Folklore |
+
+---
+
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License) · Deutsche Übersetzung (ArsMagica_DE_Gesamt_work.md) · Houses of Hermes: True Lineages (Atlas Games, 2005)*

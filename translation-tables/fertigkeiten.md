@@ -101,6 +101,13 @@
 | (Form) Resistance\* | Übernatürlich | (Form-)Resistenz | Nur mit Machtwert; Bonus auf Widerstand gegen die Form; addiert sich zur Magieresistenz (nicht zur Parma) |
 | Magical Meditation\* | Übernatürlich | Magische Meditation | Nur mit Machtwert; beschleunigte Machtpunkt-Erholung in Magieaura; verhindert Gewöhnung |
 
+
+### Ergänzungen aus Houses of Hermes: True Lineages (HoH:TL)
+
+| Englisch (EN) | Typ | Deutsch (DE) | Anmerkung |
+|---|---|---|---|
+| Legion Lore | Arkane | Legionskunde | HoH:TL; Wissen über römische Legionsstrukturen (Geisterarmeen) |
+
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024) · Ars Magica 5e – Sphären der Macht: Magie (Atlas Games)*
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024) · Ars Magica 5e – Sphären der Macht: Magie (Atlas Games) · Houses of Hermes: True Lineages (Atlas Games, 2005)*

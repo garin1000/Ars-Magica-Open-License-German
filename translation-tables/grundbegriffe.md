@@ -204,6 +204,8 @@
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
+| Ars Magica Definitive Edition (Core Rules) | Ars Magica Definitive Edition (Basisregeln) | Kernregelwerk; Abk. EN **ArM5** / **ArMDE**, DE **ArM5** / **ArMDE** |
+| Houses of Hermes: True Lineages | Häuser des Hermes: Wahre Linien | Supplementband; Abk. EN **HoH:TL**, DE **HdH:WL** |
 | Realms of Power | Sphären der Macht | Supplementreihe; Abk. **SdM** |
 | Realms of Power: Magic | Sphären der Macht: Magie | Abk. **SdM:M** |
 | Realms of Power: Faerie | Sphären der Macht: Feenwelt | Abk. **SdM:F** |
@@ -216,10 +218,11 @@
 |---|---|---|
 | Story Seed | ABENTEUERIDEE | Abschnittskopf in Spielleiterteilen; **immer in Großbuchstaben**; nicht „Geschichtssamen" oder „Abenteuerkeim" |
 
-### Guardians of the Forests: The Rhine Tribunal (GotF)
+### Guardians of the Forests: The Rhine Tribunal (GotF) / Wächter des Waldes: Das Rhein-Tribunal (WdW)
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
+| Guardians of the Forests: The Rhine Tribunal | Wächter des Waldes: Das Rhein-Tribunal | Supplementband; Abk. EN **GotF**, DE **WdW** |
 | Seelie Court | Lichthof | GotF Kap. 8 – wohlwollende Feenherrscher; schottisch-irischer Ursprungsbegriff ohne feste dt. Entsprechung |
 | Unseelie Court | Dunkler Hof | GotF Kap. 8 – feindliche Feenherrscher; adjektivisch auch „unseliger Hof" |
 | Rowan Gild | Ebereschenreisgilde | GotF – historische Gilde im Rheintribunal; „Rowan" = Eberesche (Sorbus aucuparia), nicht Eibe |
@@ -384,4 +387,93 @@
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Ars Magica 4th Edition dt. Ausgabe (Wizards of the Coast, 1996); Hedge Magic Revised Edition (Atlas Games, 2011)*
+### Ergänzungen aus Houses of Hermes: True Lineages (HoH:TL)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Acute Sense | Geschärfter Sinn | Quaesitoriale Fähigkeit zur Wahrnehmung magischer Spuren |
+| Duresca Scrolls | Duresca-Schriftrollen | Historische Dokumente des Hauses Guernicus mit frühen Präzedenzfällen |
+| Fenicil's Rituals | Fenicils Rituale | Spezielle nicht-hermetische Rituale; Große und Kleine Rituale |
+| Acclaim Score | Ansehenswert | Wertungsstufe des Ansehens im Haus (1–5) |
+| Apprentice Snatching | Lehrlingsklau | Umgangssprache für das Nehmen fremder Lehrlinge durch Haus Bonisagus |
+| Breakthrough Points | Durchbruchpunkte | Angesammelte Punkte bis zum Durchbruch (Originäre Forschung) |
+| Certamen Schools | Certamen-Schulen | Kampfstile für hermetische Duelle (Gladiator, Andabatus, Bestiarius, Knochenbeißer, Charon, Essedarius, Gladiatrix, Hoplomachus, Laquerius, Provocator, Pumilius, Retiarius, Sagittarius, Scissor, Velites) |
+| Figurine Magic | Figurenmagie | Magie durch Figuren/Statuetten; Beispielentdeckung der Originären Forschung |
+| Folios | Folios | Sammlungen von Labortexten, die innerhalb des Hauses Bonisagus geteilt werden |
+| Followers of Belin | Gefolgsleute Belins | Rotkappen-Gesellschaft der Eliteboten |
+| Forfeit Immunity | Verwirkung der Immunität | Hermetisches Rechtsprinzip: Wer den Kodex bricht, verwirkt seinen Schutz |
+| Gate of Eurydice | Tor der Eurydike | Abgrund unter Coeris; Bestattungsstätte der Tremere |
+| Fosterage | Fremdlehre | System des Lehrlingsaustauschs zwischen Magi Bonisagi |
+| Fostering | in Fremdlehre geben/stehen | Vorgangsform: „Lehrlinge in Fremdlehre geben" |
+| Goliards | Goliarden | Gesellschaft fahrender Poeten und Künstler unter Rotkappen |
+| Harnessing (Mutantum) | Zügelung | Vorzeitiges Beenden eines Zaubers durch Konzentration |
+| Hermetic Integration | Hermetische Integration | Vollständige Integration eines Durchbruchs in die hermetische Theorie |
+| House Acclaim | Ansehen im Haus | Sozialmechanik innerhalb von Haus Bonisagus |
+| House Acclaim Points | Haus-Ansehenspunkte | Punkte, die den Rang innerhalb des Hauses bestimmen |
+| House Utilities | Einrichtungen des Hauses | Sammelbegriff für Ressourcen und Mechaniken eines Hauses |
+| Life Boost | Lebensstärkung | Beispiel-Durchbruch der Hermetischen Integration |
+| Mastered Spell Special Abilities | Spezialfähigkeiten gemeisterter Zauber | Zusätzliche Fähigkeiten durch Zaubermeisterschaft |
+| Parma Magica Folds | Parma-Magica-Faltungen | Neue Anwendungsweisen der Parma Magica; jede ein Großer Durchbruch |
+| Risk Modifier | Risikomodifikator | +1 bis +3; beeinflusst Tabellenwurf bei Originärer Forschung |
+| Stabilize (a Discovery) | Stabilisieren (einer Entdeckung) | Exakte Wiederholung eines Experiments nach einer Entdeckung |
+| Tethering (Mutantum) | Fesselung | Übergabe der Zauberkontrolle an andere Person/Objekt |
+| Tethered Casting | Gefesseltes Zaubern | Meisterschaftsfähigkeit: Zauberkontrolle übergeben (Mutantes) |
+| Ceremonial Casting | Zeremonielles Zaubern | Meisterschaftsfähigkeit: zeremonielle Methoden (Kult des Merkur) |
+| Disguised Casting | Getarntes Zaubern | Meisterschaftsfähigkeit: Sigil unterdrücken/fälschen (Kult des Merkur) |
+| Lab Mastery | Labormeisterschaft | Meisterschaftsfähigkeit: Meisterschaftswert zur Laborsumme (Kult des Merkur) |
+| Learn from Mistakes | Aus Fehlern lernen | Meisterschaftsfähigkeit: EP bei Patzer/knappem Scheitern (Kult des Merkur) |
+| Stalwart Casting | Standhaftes Zaubern | Meisterschaftsfähigkeit: weniger Erschöpfung (Kult des Merkur) |
+| Boosted Casting | Verstärktes Zaubern | Meisterschaftsfähigkeit: R/D/T per Vis erhöhen (Mutantes) |
+| Harnessed Casting | Gezügeltes Zaubern | Meisterschaftsfähigkeit: Zauber jederzeit beenden (Mutantes) |
+| Mercere's Portals | Merceres Portale | Magische Transportportale des Hauses Mercere |
+| Mutantum Magic | Mutantum-Magie | Verwandlungsmagie der Mutantes (Haus Mercere) |
+| Promotion by Force | Aufstieg durch Stärke | Tremere-Tradition: Rangaufstieg durch Certamen-Sieg |
+| Realm-Aligned Spells | Sphärengebundene Zauber | Zauber, die auf eine übernatürliche Sphäre ausgerichtet sind |
+| Amicus (pl. Amici) | Amicus (Pl. Amici) | Lat.; enger Freund eines Magus, durch Freundschaftseid gebunden |
+| Banishment from Tribunal | Verbannung aus einem Tribunal | Strafform: Aufenthaltsverbot im Tribunalsgebiet |
+| Automata | Automaten | Magische Konstrukte, bereitgestellt von Verditius-Quaesitores |
+| Blacklisting | Schwarze Liste | Verweigerung der Konventsanerkennung durch Rotkappen |
+| Bloodcaps | Blutkappen | Rotkappen mit Feenblut aus England/Schottland |
+| Boosting (Mutantum) | Verstärkung | Erhöhung von R/D/T durch Vis-Aufwand |
+| Bounty | Kopfgeld | Vis-Belohnung für Beseitigung von Bedrohungen auf Reiserouten |
+| Case ruling | Fall-Entscheidung | Tribunalsentscheidung aus einem Strafverfahren |
+| Casting tokens | Zaubertokens | Gegenstände, die Passage durch den Aegis des Herdes gewähren |
+| Death of familiar | Tod des Vertrauten | Schwerste Strafform unterhalb des Zugs der Magier |
+| Doctrine, The | Die Doktrin | Tremere-Methode der Kriegsführung und Lebensphilosophie |
+| Defense principle | Verteidigungsvertreter | Partei, die die Verteidigung vor dem Tribunal vertritt |
+| Directed proxy | Gebundene Stimmrechtsvertretung | Stellvertretung mit konkreten Abstimmungsanweisungen |
+| Endorsing testimony | Beglaubigung von Aussagen | Magische Überprüfung der Wahrhaftigkeit durch Quaesitor |
+| Extromission | Extromission | Aussenden magischer Spezies aus den Augen (Wahrnehmungsmethode) |
+| Familiar Bond Enchantment | Verzauberung der Vertrautenbindung | Höchste Verzauberung der Vertrautenbindung |
+| Free proxy | Freie Stimmrechtsvertretung | Stellvertretung nach Ermessen des Stellvertreters |
+| Investing items | Bereitung von Artefakten | Strafform: verzauberte Gegenstände (Bereitete Artefakte) anfertigen |
+| Letter of authority | Vollmachtsschreiben | Ermächtigung durch einen Quaesitor für Ermittlungshandlungen |
+| Lien | Pfandrecht | Vis-Darlehen gegen Nutzung einer Vis-Quelle |
+| Loss of familiar | Verlust des Vertrauten | Strafform: Durchtrennung der Bande zum Vertrauten |
+| Negative magnitude | Negative Magnitude | Zustand alter Zauberspuren nach Erreichen von Magnitude 0 |
+| Notary (Redcap) | Notar | Rotkappe mit Quaesitor-Vollmacht für bindende Verträge |
+| Pawnbrokers | Bauernhändler | Rotkappen-Gesellschaft; Vis-Handel in Bauern-Form |
+| Join or Die | Beitritt oder Tod | Tribunalsentscheidung: friedlichen Zauberern muss Mitgliedschaft angeboten werden |
+| Private hearing | Nichtöffentliche Anhörung | Vorverhandlung vor dem Vorsitzenden Quaesitor |
+| Principle (legal) | Verfahrensvertreter | Sammelbezeichnung für Anklage-/Verteidigungsvertreter |
+| Proposal ruling | Vorschlags-Entscheidung | Tribunalsentscheidung über einen Vorschlag (ohne Strafverfahren) |
+| Prosecution principle | Anklagevertreter | Partei, die die Anklage vor dem Tribunal vertritt |
+| Proxy voting / Proxy | Stimmrechtsvertretung / Stellvertreter | System der Stimmabgabe durch einen Vertreter |
+| Public hearing | Öffentliche Anhörung | Hauptverhandlung vor dem versammelten Tribunal |
+| Publishing (a case) | Veröffentlichung (eines Falls) | Förmliche Bekanntgabe der Anklage |
+| Sanctum Law | Sanctumrecht | Rechtsnormen zum Schutz von Sancta |
+| Sanctum mark | Sanctumzeichen | Kennzeichnung eines Textes/Objekts mit Sanctum-Schutz |
+| Seasonal rate | Quartalssatz | Vergütungssatz pro Quartal für Quaesitor-Ermittlungen |
+| Seasons of service | Dienstquartale | Strafform: Dienst für Mercere oder Guernicus |
+| Sigil ghosts | Sigil-Phantome | Umgangssprache; Stimmsigile Verstorbener, die unrechtmäßig weiter genutzt werden |
+| Summary judgment | Summarisches Urteil | Sofortige Entscheidung durch den Vorsitzenden Quaesitor |
+| Testimony of testimony | Mittelbare Aussage | Verlesung einer schriftlichen Aussage eines abwesenden Zeugen |
+| Tribunal coffers | Tribunalskasse | Gemeinsame Kasse eines Tribunals, verwahrt vom Praeco |
+| Spell Traces | Zauberspuren | Rückstände gewirkter Magie, aufspürbar durch Quaesitores |
+| Vagrancy | Hausunsässigkeit | Vergehen: keinem Haus oder Tribunal zugehörig |
+| Trianoma's Cipher | Trianomas Chiffre | Geheimcode der Magi Trianomae (Haus Bonisagus) |
+| Waters of Forgetfulness | Wasser der Vergessenheit | Magische Wasser in Coeris; Vis-Quelle und Robe-Farbstoff |
+
+---
+
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Ars Magica 4th Edition dt. Ausgabe (Wizards of the Coast, 1996); Hedge Magic Revised Edition (Atlas Games, 2011); Houses of Hermes: True Lineages (Atlas Games, 2005)*

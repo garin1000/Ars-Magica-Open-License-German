@@ -58,14 +58,14 @@
 | 7 | `Persönlichkeitseigenschaften:` | ✓ | |
 | 8 | `Reputationen:` | ○ | Bei keinen: weglassen oder `Keine.` |
 | 9 | `Kampf:` | ✓ | |
-| 10 | `Schadensabsorption:` | ✓ | |
+| 10 | `Absorption:` | ✓ | |
 | 11 | `Erschöpfungsstufen:` | ✓ | |
 | 12 | `Wundabzüge:` | ✓ | |
 | 13 | `Fertigkeiten:` | ✓ | |
 | 14 | `Künste:` | ✓ | |
 | 15 | `Zwielichtnarben:` | ○ | Nur wenn vorhanden; sonst `Keine` |
 | 16 | `Ausrüstung:` | ○ | |
-| 17 | `Behinderung:` | ✓ | |
+| 17 | `Belastung:` | ✓ | |
 | 18 | `Bekannte Zauber:` | ✓ | |
 | 19 | `Erscheinungsbild:` | ○ | Fließtext |
 
@@ -83,12 +83,12 @@
 | 8 | `Persönlichkeitseigenschaften:` | ✓ | |
 | 9 | `Reputationen:` | ○ | |
 | 10 | `Kampf:` | ✓ | |
-| 11 | `Schadensabsorption:` | ✓ | |
+| 11 | `Absorption:` | ✓ | |
 | 12 | `Erschöpfungsstufen:` | ✓ | |
 | 13 | `Wundabzüge:` | ✓ | |
 | 14 | `Fertigkeiten:` | ✓ | |
 | 15 | `Ausrüstung:` | ○ | |
-| 16 | `Behinderung:` | ✓ | |
+| 16 | `Belastung:` | ✓ | |
 | 17 | `Erscheinungsbild:` | ○ | |
 
 ### 3.3 Kreatur ohne Machtwert (gewöhnliches Tier)
@@ -103,7 +103,7 @@
 | 6 | `Persönlichkeitseigenschaften:` | ✓ | |
 | 7 | `Reputationen:` | ○ | |
 | 8 | `Kampf:` | ✓ | |
-| 9 | `Schadensabsorption:` | ✓ | |
+| 9 | `Absorption:` | ✓ | |
 | 10 | `Erschöpfungsstufen:` | ○ | |
 | 11 | `Wundabzüge:` | ✓ | |
 | 12 | `Fertigkeiten:` | ○ | |
@@ -122,14 +122,14 @@
 | 6 | `Persönlichkeitseigenschaften:` | ✓ | |
 | 7 | `Rufe:` | ○ | Statt `Reputationen:` |
 | 8 | `Kampf:` | ✓ | |
-| 9 | `Schadensabsorption:` | ✓ | |
+| 9 | `Absorption:` | ✓ | |
 | 10 | `Erschöpfungsstufen:` | ○ | |
 | 11 | `Wundabzüge:` | ✓ | |
 | 12 | `Fertigkeiten:` | ○ | |
 | 13 | `Kräfte:` | ✓ | |
 | 14 | `Vis:` | ○ | |
 | 15 | `Ausrüstung:` | ○ | |
-| 16 | `Behinderung:` | ○ | |
+| 16 | `Belastung:` | ○ | |
 | 17 | `Erscheinungsbild:` | ○ | |
 
 ---
@@ -205,11 +205,11 @@ Kampf:
 
 Jede Option in einer Zeile mit `-`. Spaltenreihenfolge: **Init, Ang, Vert, Sch**. Nicht anwendbare Werte: `n/v`. Freitext zu Kampfbesonderheiten (z. B. Hitze beim Angriff) als eigener Absatz nach der Liste, vor `Schadensabsorption`.
 
-### 4.8 Schadensabsorption
+### 4.8 Absorption
 
 ```
-Schadensabsorption: +0
-Schadensabsorption: +8 (vollständige Metallschuppenrüstung)
+Absorption: +0
+Absorption: +8 (vollständige Metallschuppenrüstung)
 ```
 
 Quelle in Klammern nur wenn spielrelevant.
@@ -267,11 +267,11 @@ Ausrüstung: Langer Speer mit als Talisman verzaubertem Schaft, eingebettet mit 
 
 Verzauberte Gegenstände mit deutschem Effektnamen, Technik-Form-Kürzel, Stufe und Nutzungsbeschränkung. Langlebigkeitsritual im Ausrüstungsfeld, kein eigener Abschnitt.
 
-### 4.15 Behinderung
+### 4.15 Belastung
 
 ```
-Behinderung: 0(2)
-Behinderung: 4 (4)
+Belastung: 0(2)
+Belastung: 4 (4)
 ```
 
 Format: `Wert(Last)` oder `Wert (Last)` — beide Varianten kommen vor.
@@ -363,7 +363,7 @@ Fließtext. Empfohlene Reihenfolge: äußere Beschreibung → Hintergrund/Persö
 | Stalwart Casting | Standhaftes Zaubern |
 | Still Casting | Regloses Zaubern |
 | Subtle Casting | Dezentes Zaubern |
-| Tethered Casting | Verankertes Zaubern |
+| Tethered Casting | Gefesseltes Zaubern |
 | Unravelling | Auflösung |
 
 ---
@@ -393,7 +393,7 @@ Kampf:
 - Faust: Init +2, Ang +5, Vert +6, Sch +2
 - Langer Speer: Init +5, Ang +9, Vert +8, Sch +9
 
-Schadensabsorption: +0
+Absorption: +0
 
 Erschöpfungsstufen: OK, 0, 0, -2, -4, Bewusstlos
 
@@ -407,7 +407,7 @@ Zwielichtnarben: Die Schatten in seiner Kapuze sind ungewöhnlich tief; nahegele
 
 Ausrüstung: Langer Speer (Talisman; Die Wunde, die weint, PeCo 15, Penetration 0, 50 Anwendungen pro Tag; +4-Bonus auf Distanzzerstörung). Langlebigkeitsritual: Laborsumme 35, +7 Alterungsbonus
 
-Behinderung: 0(2)
+Belastung: 0(2)
 
 Bekannte Zauber:
 - Ewige Auslöschung des Dämons (PeVi 30/+30*), Meisterschaft 1 (Schnellzaubern)
@@ -437,7 +437,7 @@ Persönlichkeitseigenschaften: Zurückgezogen +5, Unveränderlich +3, Stolz +2
 Kampf:
 - Kriegshammer: Init -1, Ang +11, Vert +3, Sch +15
 
-Schadensabsorption: +10
+Absorption: +10
 
 Wundabzüge: -1 (1-7), -3 (8-14), -5 (15-21), Kampfunfähig (22-28), Tot (29+)
 

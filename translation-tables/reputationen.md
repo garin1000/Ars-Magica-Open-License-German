@@ -108,7 +108,7 @@ Ein zufälliger Zeuge hat von einem Charakter gehört, wenn Stresswurf + Reputat
 | Failed Scholar | Gescheiterter Gelehrter | Akademisch | 2 (–) | Nicht bestandene Abschluss­prüfung |
 | Failed Monastic Life | Gescheitertes Klosterleben | Lokal / Kirchlich | 2 (–) | Aus dem Orden ausgetreten |
 | Feral Scent | Wildgeruch | Lokal | 2 (–) | Unrein |
-| Lone Redcap | Einzelgänger-Rotmütze | Hermetisch (Haus) | 2 (–) | Entfremdet von Haus Mercere |
+| Lone Redcap | Einzelgänger-Rotkappe | Hermetisch (Haus) | 2 (–) | Entfremdet von Haus Mercere |
 | Outlaw (Minor) | Geächteter (Klein) | Lokal | 2 (–) | Ächtergrund (frei wählbar) |
 | Outlaw (Major) | Geächteter (Groß) | Lokal | 3 (–) | Bekannter Geächteter |
 | Outsider (Major) | Außenseiter (Groß) | Lokal/Regional | 1–3 (–) | Zugehörigkeit zu gemiedener Gruppe |
