@@ -48,6 +48,7 @@
 | Exotic Casting | Exotisches Zaubern | |
 | Fast Caster | Schneller Zauberer | |
 | Flawless Magic | Makellose Magie | |
+| Forge-Companion | Schmiedegefährte | Verditius; Bonus bei gemeinsamer Laborarbeit |
 | Free Study | Freies Studium | |
 | Gorgiastic | Gorgiast | Haus-Criamon-Begriff für abtrünnige Magi, die das Haus verlassen haben |
 | Harnessed Magic | Gezügelte Magie | |
@@ -58,6 +59,7 @@
 | Magic Sensitivity | Magiegespür | |
 | Major Magical Focus | Großer Magischer Fokus | |
 | Mastered Spells | Gemeisterte Zauber | |
+| Masterpiece | Meisterstück | Verditius; Lehrlingsprüfungs-Artefakt behalten |
 | Minor Magical Focus | Kleiner Magischer Fokus | |
 | Potent Spell | Potenter Zauber | |
 | Puissant Art | Begabung in (Kunst) | |
@@ -141,6 +143,7 @@
 | Sense Passions | Leidenschaften spüren | |
 | Skinchanger | Tierwandler | |
 | Summon Animals | Tiere rufen | |
+| Unbound Tongue | Ungebundene Zunge | Kann in nicht-menschlicher Gestalt menschliche Sprachen sprechen und zaubern |
 | Variable Power | Variable Kraft | SdM:M; Kraft wird stärker basierend auf Alter, Machtwert, Verwicklung oder Fertigkeit |
 | Voice of the (Land) | Stimme des/der (Land) | SdM:M; kann mit Kreaturen eines bestimmten Lebensraums sprechen |
 | Wilderness Sense | Natursinn | |
@@ -177,6 +180,7 @@
 | Inoffensive to (Beings) | Unauffällig für (Wesen) | SdM:M; Gabe/Magische Ausstrahlung stört einen Wesentyp nicht |
 | Affinity with Ability | Affinität zu (Fertigkeit) | |
 | Apt Student | Begabter Schüler | |
+| Cautious with (Ability) | Vorsichtig mit (Fertigkeit) | Weniger Patzerwürfel bei bestimmter Fertigkeit |
 | Arcane Lore | Arkanes Wissen | Zugang zu arkanem Wissen ohne Arkane Fertigkeit |
 | Book Learner | Bücherwurm | |
 | Clear Thinker | Klarer Denker | |
@@ -195,6 +199,8 @@
 | Great Characteristic | Hervorragende Eigenschaft | |
 | Improved Characteristics | Verbesserte Eigenschaften | |
 | Inspirational | Inspirierend | |
+| Intuition | Intuition | Natürliche Feinfühligkeit; bei Glücksentscheidungen Chance auf richtige Wahl |
+| Natural Leader | Natürlicher Anführer | Dominante Persönlichkeit; +3 auf soziale Situationen bei Führung |
 | Keen Vision | Scharfe Sicht | |
 | Large | Großgewachsen | SdM:M-Hinweis: bei magischen Charakteren ohne Stärke-/Schnelligkeit-Modifikation |
 | Lightning Reflexes | Blitzreflexe | |
@@ -301,6 +307,7 @@
 | Short-Lived Magic | Kurzlebige Magie | |
 | Short-Ranged Magic | Kurzreichweitige Magie | |
 | Slow Caster | Langsamer Zauberer | |
+| Spontaneous Casting Tools | Spontane Zauberwerkzeuge | Verditius; muss Zauberwerkzeuge auch für spontane Zauber einsetzen |
 | Study Requirement | Studienbedingung | |
 | Susceptibility to Warping | Anfälligkeit für Verzerrung | |
 | Twilight Prone | Zwielicht-anfällig | |
@@ -360,6 +367,7 @@
 | Driven | Getrieben | |
 | Envious | Neidisch | |
 | Greedy | Gierig | |
+| Grudge | Groll | Starker Groll gegen jemanden im eigenen sozialen Umfeld |
 | Hatred | Hass | |
 | Humble | Demütig | |
 | Infamous | Berüchtigt | |
@@ -369,6 +377,7 @@
 | Overconfident | Überheblich | |
 | Proud | Stolz | |
 | Reckless | Rücksichtslos | |
+| Secretive | Geheimniskrämerisch | Neigt dazu, Geheimnisse vor Sodales zu bewahren |
 | Temperate | Gemäßigt | |
 | Timid | Furchtsam | |
 | Visions | Visionen | |
@@ -397,6 +406,7 @@
 | Vendetta | Vendetta | |
 | Magic (Being) Companion | Magischer (Wesen-)Gefährte | SdM:M; Klein; begleitet von intelligentem magischem Wesen |
 | Servant of the (Land) | Diener des/der (Land) | SdM:M; Groß; von mächtiger Kreatur gerettet; muss Aufgabe erfüllen |
+| Supernatural Nuisance | Übernatürliche Plage | Groß; übernatürliche Wesen mischen sich geringfügig ins Leben ein |
 | Vow | Gelübde | |
 | Wanderlust | Wanderlust | SdM:M; Groß; kann nicht länger als ein Quartal am selben Ort bleiben |
 | Ward | Mündel | |

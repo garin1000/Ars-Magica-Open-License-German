@@ -27,13 +27,13 @@ Leite den deutschen Dateinamen aus dem englischen Quelldateinamen ab:
 
 1. **Übersetzungstabellen konsultieren:** Schlage alle im Dateinamen enthaltenen Fachbegriffe in den Übersetzungstabellen nach (z. B. Tribunalnamen in `orden-tribunale.md`, Hausnamen, Sphären in `sphären-mächte.md`, allgemeine Begriffe in `grundbegriffe.md` usw.). Diese Begriffe **müssen** gemäß der Tabellen übersetzt werden.
 2. **Übriger Titeltext:** Übersetze die restlichen Titelbestandteile in natürliches Deutsch.
-3. **Namensschema:** Behalte das Muster des englischen Dateinamens bei (Edition, Untertitel, Ergänzung), ersetze aber alle englischen Bestandteile durch ihre deutschen Entsprechungen. Hänge ` Deutsch` vor der Dateiendung an.
+3. **Namensschema:** Behalte das Muster des englischen Dateinamens bei (Edition, Untertitel, Ergänzung), ersetze aber alle englischen Bestandteile durch ihre deutschen Entsprechungen. **Kein ` Deutsch`-Suffix anhängen.**
 4. **Bestätigung:** Zeige dem Benutzer den vorgeschlagenen Dateinamen zusammen mit dem Übersetzungsplan aus 0.3 und warte auf Bestätigung.
 
 *Beispiel:*
 - EN: `Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md`
 - → „Rhine Tribunal" → „Rheintribunal" (aus `orden-tribunale.md`)
-- DE: `Ars Magica 5e - Wächter der Wälder - Das Rheintribunal Deutsch.md`
+- DE: `Ars Magica 5e - Wächter der Wälder - Das Rheintribunal.md`
 
 ### 0.5 Übersetzungstabellen und Regeln laden
 
@@ -68,14 +68,19 @@ Jeder Übersetzungs-Agent erhält folgende Anweisungen:
 7. **Aussprachehinweise:** Für englische Leser gedachte Aussprachebeispiele (z. B. „(DAH-van ALL-ath)") werden weggelassen. Um die Zeilensynchronität zu erhalten, wird die weggelassene Zeile durch eine Leerzeile in der deutschen Datei ersetzt (oder der verbleibende Text so auf die Zeilen verteilt, dass die Gesamtzahl gleich bleibt).
 8. **Markdown:** Alle Markdown-Formatierungen (Überschriften, Links, Tabellen, Hervorhebungen) aus dem Original beibehalten.
 9. **Ergebnis schreiben:** Schreibe den übersetzten Abschnitt in die Zieldatei in `german-wip/`. Verwende den in Phase 0.4 bestimmten und vom Benutzer bestätigten deutschen Dateinamen. Der erste Abschnitt erstellt die Datei; alle weiteren Abschnitte hängen an.
-10. **Neue Begriffe identifizieren:** Sammle alle Fachbegriffe im Abschnitt, die **nicht** in den Übersetzungstabellen stehen – insbesondere Tugenden, Fehler, Fertigkeiten, Zaubersprüche, Konventsbegriffe, Kreaturen und sonstige spielmechanische Begriffe. **Prüfe jeden potenziell neuen Begriff außerordentlich gründlich gegen alle relevanten Tabellendateien**, bevor du ihn als „neu" einstufst – viele Begriffe sind bereits in einer der spezialisierten Tabellen erfasst. Notiere für jeden tatsächlich neuen Begriff: englischer Name, gewählte deutsche Übersetzung, Kategorie (Tugend/Fehler/Fertigkeit/Zauber/…), den Kontext, in dem der Begriff im Quelltext vorkommt (Satz oder Absatz), und ggf. Anmerkungen.
+10. **Neue Begriffe identifizieren:** Sammle alle Fachbegriffe im Abschnitt, die potenziell neu sind – insbesondere Tugenden, Fehler, Fertigkeiten, Zaubersprüche, Konventsbegriffe, Kreaturen und sonstige spielmechanische Begriffe. **Prüfe jeden einzelnen Begriff mit `grep -rni` gegen die folgenden Quellen, bevor du ihn als „neu" einstufst:**
+    - `grep -rni "BEGRIFF" translation-tables/` – durchsucht **alle** Tabellendateien
+    - `grep -ni "BEGRIFF" german-reviewed/Ars Magica Definitive Edition Basisregeln.md` – durchsucht die **Basisregeln**
+    - `grep -rni "BEGRIFF" german-reviewed/` – durchsucht **alle bereits übersetzten Dateien**
+    
+    Ein Begriff gilt **nur dann als neu**, wenn er in **keiner** dieser drei Quellen vorkommt. Verlasse dich nicht auf das Lesen der Tabellen allein – viele Begriffe (insbesondere Tugenden, Fehler und Fertigkeiten) sind zwar in den Basisregeln übersetzt, fehlen aber in den Übersetzungstabellen. Wenn ein Begriff in den Basisregeln gefunden wird, verwende **exakt die dort verwendete Übersetzung**. Notiere für jeden tatsächlich neuen Begriff: englischer Name, gewählte deutsche Übersetzung, Kategorie (Tugend/Fehler/Fertigkeit/Zauber/…), den Kontext, in dem der Begriff im Quelltext vorkommt (Satz oder Absatz), und ggf. Anmerkungen.
 
 ### Ablauf
 
 - Übersetze die Abschnitte **sequenziell**, damit die Zieldatei korrekt zusammengesetzt wird.
 - Melde nach jedem Abschnitt den Fortschritt: `[Abschnitt X/Y abgeschlossen – Zeilen M–N]`.
 - **Neue Begriffe nach jedem Abschnitt zur Freigabe vorlegen:** Wenn ein Abschnitt Begriffe enthält, die nicht in den Übersetzungstabellen stehen:
-  1. **Gründliche Gegenprüfung:** Prüfe jeden gefundenen Begriff noch einmal gegen **alle** potenziell relevanten Tabellendateien (nicht nur die naheliegendste). Erst wenn sichergestellt ist, dass der Begriff in keiner Tabelle vorkommt, gilt er als neu.
+  1. **Gründliche Gegenprüfung mit grep:** Prüfe jeden gefundenen Begriff **per `grep -rni`** gegen (a) alle Dateien in `translation-tables/`, (b) `german-reviewed/Ars Magica Definitive Edition Basisregeln.md` und (c) alle anderen Dateien in `german-reviewed/`. Erst wenn der Begriff in **keiner** dieser Quellen vorkommt, gilt er als neu. Wenn der Begriff in den Basisregeln oder einer reviewed-Datei gefunden wird, verwende **exakt die dort verwendete Übersetzung** und trage den fehlenden Begriff in die passende Tabellendatei nach.
   2. Lege dem Benutzer eine Liste der neuen Begriffe mit deinen Übersetzungsvorschlägen vor. Zeige zu jedem Begriff den **Kontext** (den Satz oder Absatz aus dem Quelltext, in dem er vorkommt), damit der Benutzer die Übersetzung beurteilen kann.
   3. **Der Benutzer kann Begriffe vor der Freigabe anpassen.** Warte auf Bestätigung oder Korrektur durch den Benutzer.
   4. Trage die vom Benutzer freigegebenen Begriffe **sofort** in die jeweils passende Tabellendatei in `translation-tables/` ein:
@@ -116,7 +121,7 @@ Der Lektorats-Agent prüft die Übersetzung abschnittweise (Abschnitte à ~800 Z
 
 1. **Englischen und deutschen Text parallel lesen** (jeweils denselben Zeilenbereich).
 2. **Zeilensynchronität prüfen:** Stimmt die Zuordnung Zeile für Zeile?
-3. **Terminologie prüfen:** Jeden Fachbegriff gegen die Übersetzungstabellen in `translation-tables/` prüfen. Jede Abweichung ist ein Fehler.
+3. **Terminologie prüfen:** Jeden Fachbegriff per `grep -rni` gegen die Übersetzungstabellen in `translation-tables/` **und** gegen die Dateien in `german-reviewed/` (insbesondere die Basisregeln) prüfen. Jede Abweichung ist ein Fehler. Begriffe, die in den Basisregeln etabliert sind aber in den Tabellen fehlen, sind ebenfalls als Fehler zu melden, wenn die Übersetzung von der Basisregel-Version abweicht.
 4. **Natürliches Deutsch prüfen:** Zu direkt aus dem Englischen übernommene Satzkonstruktionen identifizieren und Alternativen vorschlagen.
 5. **Formatierung prüfen:** Statblöcke, Tabellen und Markdown-Formatierung gegen die Regeln in `formatting-rules/` prüfen.
 6. **Vollständigkeit prüfen:** Wurde etwas ausgelassen, hinzugefügt oder inhaltlich verändert?

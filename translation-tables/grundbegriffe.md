@@ -212,6 +212,169 @@
 | Realms of Power: Faerie | Sphären der Macht: Feenwelt | Abk. **SdM:F** |
 | Realms of Power: The Divine | Sphären der Macht: Das Göttliche | Abk. **SdM:D** |
 | Realms of Power: The Infernal | Sphären der Macht: Das Infernale | Abk. **SdM:I** |
+| Houses of Hermes: Mystery Cults | Häuser des Hermes: Mysterienkulte | Supplementband; Abk. EN **HoH:MC**, DE **HdH:MK** |
+| Houses of Hermes: Societates | Häuser des Hermes: Societates | Supplementband; Abk. EN **HoH:S**, DE **HdH:S**; lat. „Gemeinschaften" |
+| The Mysteries Revised Edition | Die Mysterien (Überarbeitete Ausgabe) | Supplementband; Abk. EN **TMRE**, DE **DM:ÜA** |
+| Art & Academe | Kunst & Gelehrsamkeit | Supplementband; Abk. EN **A&A**, DE **K&G** |
+| City & Guild | Stadt & Gilde | Supplementband; Abk. EN **C&G**, DE **S&G** |
+| Lords of Men | Herrscher der Menschen | Supplementband; Abk. EN **LoM**, DE **HdM** |
+| The Church | Die Kirche | Supplementband; Abk. EN **TC**, DE **DK** |
+| The Lion and the Lily: The Normandy Tribunal | Der Löwe und die Lilie: Das Normannische Tribunal | Supplementband; Abk. EN **L&L**, DE **L&L** |
+| Mythic Locations | Mythische Orte | Supplementband; Abk. EN **ML**, DE **MO** |
+| Transforming Mythic Europe | Gestalten des Mythischen Europas | Supplementband; Abk. EN **TME**, DE **GdME** |
+| Hedge Magic Revised Edition | Heckenzauber (Überarbeitete Ausgabe) | Supplementband; Abk. EN **HM:RE**, DE **HZ:ÜA** |
+
+### The Mysteries Revised Edition (TMRE) / Die Mysterien (Überarbeitete Ausgabe) (DM:ÜA)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Potency | Potenz | Bonus eines Potenten Zaubers aus Zauberwerkzeugen |
+| Potency Bonus | Potenzbonus | Addiere Potenz zum Zauberwert |
+| Potent spell | Potenter Zauber | Zauber mit Potenz durch Zauberwerkzeuge |
+| Hermetic Theurgy | Hermetische Theurgie | Mysterientugend; Anrufung übernatürlicher Wesenheiten |
+| Names of Power | Namen der Macht | Mysterientugend; Kenntnis der wahren Namen mächtiger Wesen |
+| Invocation Magic | Anrufungsmagie | Mysterientugend; Anrufung von Wesen zur Verstärkung von Zaubern |
+| Hermetic Synthemata | Hermetische Synthemata | Mysterientugend; Verwendung materieller Symbole zur Verbindung |
+| Ascendancy to the Hall of Heroes | Aufstieg in die Halle der Helden | Mysterientugend; Aufstieg zum übernatürlichen Status |
+
+### Houses of Hermes: Mystery Cults (HoH:MC) / Häuser des Hermes: Mysterienkulte (HdH:MK)
+
+#### Haus Bjornaer / House Bjornaer
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Huntress in the Wood | Jägerin im Wald | Geheimgesellschaft innerhalb des Hauses Bjornaer |
+| Gathering of Twelve Years | Versammlung der Zwölf Jahre | Alle-zwölf-Jahre-Versammlung des Hauses |
+| Harmonists / Concordiarii | Harmonisten / Concordiarii (lat.) | Fraktion: Einklang von Mensch und Natur |
+| Wilderists / Feritarii | Wildisten / Feritarii (lat.) | Fraktion: Wildnis vor Menschen schützen |
+| Clan (Bjornaer) | Clan | Grundlegende Organisationseinheit des Hauses; sechs Clans |
+| Sept | Sippe | Untereinheit eines Clans |
+| catulus (pl. catuli) | Catulus (Pl. Catuli) | Lat.; Lehrling des Hauses Bjornaer („Jungtier") |
+| uswaurpa | Uswaurpa | Got.; Beiname für Magi, die sich vor der Einweihung verwandelt haben |
+| sleeping years | Schlafende Jahre | Ausbildungsphase: von Erschließung der Künste bis zum Ritual der Zwölf Jahre |
+| awakened years | Erwachte Jahre | Ausbildungsphase: vom Ritual der Zwölf Jahre bis zur Aufnahme in den Orden |
+| Eagle Elder | Adlerältester | Ratsfunktion: Nachrichten des Ordens |
+| Bear Elder | Bärenältester | Ratsfunktion: politische Entscheidungen |
+| Horse Elder | Pferdeältester | Ratsfunktion: Nachrichten aus dem Haus |
+| Seat of the Bear/Wolf/Swan/Horse/Stag/Eagle/Fox | Sitz des Bären/Wolfs/Schwans/Pferdes/Hirsches/Adlers/Fuchses | Sieben Ratssitze des Bjornaer-Rats |
+| Dream Magic | Traummagie | Tugend; Verweis auf DM:ÜA |
+| Awakening | Erweckung | Tugend; Verweis auf Merinita-Naturmysterien |
+| ancestor site | Ahnenstätte | Ort mit Kraft der Ahnen |
+| ancestor spirit | Ahnengeist | Geist eines Tierahnen |
+| Great Beast | Großes Tier | Bjornaer-Magus, der dauerhaft zum Inneren Herztier geworden ist |
+| epitome | Idealtypus | Inneres Herztier: perfektes Exemplar seiner Art |
+| chimera (inner heartbeast) | Chimäre | Inneres Herztier: Verschmelzung mehrerer Kreaturen |
+| probationer | Anwärter | Bjornaer-Lehrling vor der Einweihung |
+| atavism | Atavismus | Erwerb von Ahneneigenschaften durch Einweihung |
+| Theriomorphy | Theriomorphie | Hausmysterium: Verwandlung in Tiergestalt |
+| Sensory Magic | Sinnesmagie | Kleines Hausmysterium: Zauber über Sinneswahrnehmungen |
+| Secret Name | Geheimer Name | Kleines Hausmysterium: magischer Schutzname |
+| Hidden Shape | Verborgene Gestalt | Aspekt des Herztiers; schlummernde Tiergestalt |
+| Mythic Feat | Mythische Tat | Übernatürliche Fähigkeit des Inneren Herztiers |
+| Refinement (Mystery) | Verfeinerung (Mysterium) | Weitere Einweihung zur Verbesserung des Inneren Herztiers |
+| embryonic Script | Embryonales Skript | Einweihungsskript, das jede Verfeinerung einweihen kann |
+| Resonant Bonus | Resonanzbonus | Bonus auf die Einweihungssumme durch den Typ des Inneren Herztiers |
+| Sensory Targets | Sinnesziele | Neue Zielkategorien: Geschmack, Textur, Geruch, Klang, Schauspiel |
+| Pack Mentality | Rudelmentalität | Kleiner Persönlichkeitsfehler; Mitläufer, kein Anführer |
+| Haemagmomancy | Hämagmomantie | Weissagungsmethode durch Blut |
+
+#### Haus Criamon / House Criamon
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Clutch | Gelege | Organisationseinheit des Hauses Criamon |
+| Hypostasis | Hypostase | Criamons Zuflucht außerhalb der Zeit |
+| Inspirato | Inspirato | Ozean magischer Energie; Eigenname |
+| Spharios | Spharios | Zustand vollkommener Harmonie; Eigenname |
+| Alam | Alam | Mystischer Zustand jenseits der Sphären; Eigenname |
+| Apt Action / Aptness | Rechtes Handeln | Moralische Korrektheit im Sinne Criamons |
+| Transmission | Übertragung | Weitergabe von Weisheit (Criamon-spezifisch) |
+| Repose | Entrückung | Criamons Alternative zum Tod; bewusster Übergang ins Endgültige Zwielicht |
+| Adulteration | Verfälschung | Psychische Unreinheit eines Magus, materiell geworden |
+| Inscription on the Soul | Einschreibung in die Seele | Mysterientugend |
+| Path of the Body | Pfad des Körpers | Criamon-Pfad |
+| Path of Seeming | Pfad des Scheins | Criamon-Pfad |
+| Path of Strife | Pfad des Streits | Criamon-Pfad |
+| Path of Walking Backwards | Pfad des Rückwärtsgehens | Criamon-Pfad |
+| Path of the Mirror | Pfad des Spiegels | Pfad der Primi |
+| Winding Path | Gewundener Pfad | Pfad der Unentschlossenen |
+| Psychodrama | Psychodrama | Allegorische Meditationsgeschichte |
+| Pass Through Seeming | Durchschreiten des Scheins | Station/Fähigkeit |
+| Keeper of the Path | Hüter des Pfades | Rolle innerhalb eines Criamon-Pfades |
+| Path of Beacons | Pfad der Leuchtfeuer | Criamon-Pfad |
+| Dance That Heals | Tanz, der heilt | Große Übernatürliche Tugend (Criamon) |
+| Speech with the Silent | Gespräch mit den Stummen | Große Übernatürliche Tugend (Criamon) |
+| Stigmatic Catalyst | Stigmatischer Katalysator | Kleiner Übernatürlicher Fehler (Criamon) |
+| Malignant Magus | Bösartiger Magus | Kleiner Geschichte-Fehler (Criamon) |
+| Predictive Stigmata | Vorhersagende Stigmata | Kleiner Geschichte-Fehler (Criamon) |
+
+#### Haus Verditius / House Verditius
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Verditius Elder Runes | Ältere Verditius-Runen | Kleines Inneres Hausmysterium; mächtigere Urform der Verditius-Runen |
+| Bind Curse | Fluch binden | Großes Inneres Hausmysterium |
+| Embrace of Boethius | Umarmung des Boethius | PeMe 35 Ritual zur Hausaufnahme |
+| Prone to Chance | Risikofreudig | Kleiner Prüfungsfehler; Magus muss stets experimentieren |
+| Averse to Risk | Risikoscheu | Kleiner Prüfungsfehler; Magus darf nie experimentieren |
+| Vulcanalia | Vulcanalia | Römisches Fest am 23. August; Eigenname |
+| Hobbled | Verkrüppelt | Kleiner Allgemeiner Fehler; beide Beine schwer geschädigt |
+| Confraternity Member | Bruderschaftsmitglied | Kleiner Geschichte-Fehler |
+| Primogeniture Lineage | Primogenitur-Abstammungslinie | Kleiner Hermetischer Fehler |
+| Covet Device | Gegenstandsgier | Persönlichkeitszug; zwanghafte Bindung an abgestimmten Gegenstand |
+| Craft Automata | Automatenkunst | Große Hermetische Tugend / Fertigkeit |
+
+#### Haus Merinita / House Merinita
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Arcadian Travel | Arkadische Reise | Kleines Hausmysterium |
+| Symbolic Magic | Symbolische Magie | Mysterientugend |
+| Charm Magic | Sympathiemagie | Kleines Volksmysterium; sympathetische Zeichen in Zaubern |
+| Guardian of Nature | Hüterin der Natur | Mysterientugend |
+| Nature Lore | Naturkunde | Fertigkeit/Mysterientugend |
+| Animae Magic | Animae-Magie | Großes Arkadisches Mysterium |
+| Perpetuity | Beständigkeit | Mysterientugend |
+| Independent Study | Eigenständiges Studium | Kleine Allgemeine Tugend |
+| Alluring to (Beings) | Anziehend für (Wesen) | Kleine Allgemeine Tugend |
+| Vulnerable Magic | Verwundbare Magie | Großer Hermetischer Fehler |
+| Binding the Gift | Bindung der Gabe | Kleines Hausmysterium; Feenvertrauter |
+| Wayfarers | Weltengänger | Merinita-Gesellschaft; Arkadien-Experten |
+| Keepers of the Thousand Tales | Hüter der Tausend Geschichten | Merinita-Gesellschaft |
+| Shadow-Masters | Schattenmeister | Merinita-Gesellschaft |
+| Cult of Vesta | Vestakult | Merinita-Gesellschaft |
+| The Sundered Realms | Die getrennten Sphären | Gesellschaftsthema (Feensphäre vs. Magiesphäre) |
+| Great Play | Großes Spiel | Schattenmeister-Turnier |
+
+#### Haus Flambeau / House Flambeau
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Societas Flambonis | Societas Flambonis | Lat. Eigenname; Gemeinschaft des Flambeau |
+| School of the Founder | Schule des Gründers | Flambeau-Kampfstil (Feuermagie) |
+| School of Ramius | Schule des Ramius | Flambeau-Kampfstil (Nahkampf) |
+| School of Apromor | Schule des Apromor | Flambeau-Kampfstil (Perdo) |
+| Fireheart | Feuerherz | Flambeaus Talisman (Feueropal) |
+| Horn of the Champions | Horn der Streiter | Magisches Artefakt in Castra Solis |
+| castellan | Kastellan | Hüter des Horns der Streiter |
+| Levant Tribunal | Levante-Tribunal | Tribunal im Heiligen Land |
+| Order of Suleiman | Orden Suleimans | Muslimischer Magierorden |
+| Cabal Legacy | Kabalen-Vermächtnis | Tugend; Verweis auf DM:ÜA S. 20 |
+| Method Caster | Methodischer Zauberer | Tugend; feste Zauberroutine |
+| Adjuration | Adjuration | Göttliche Kraft: Beschwören, Beherrschen, Bannen übernatürlicher Wesen; Eigenname beibehalten (SdM:D) |
+| flamen (pl. flamines) | Flamen (Pl. Flamines) | Lat.; merkurischer Priester |
+| Dimicatio | Dimicatio | Lat. Eigenname; Flambeau-Turnierdisziplin (magischer Einzelkampf) |
+| Wizards' Melee | Buhurt der Magier | Flambeau-Turnierdisziplin (Gruppenkampf Magus + Grogs) |
+| School of Boreas | Schule des Boreas | Flambeau-Kampfstil (Kälte, Perdo Ignem) |
+| Schools of Sebastian | Schulen des Sebastian | Sammelbezeichnung für Flambeau-Kampfstile mit Formen außer Ignem |
+| School of Vilano | Schule des Vilano | Flambeau-Kampfstil (indirekte Angriffe, Rego Terram) |
+| League (Jerbiton) | Liga / Ligen | Jerbiton-Organisation |
+| Paradoxography | Paradoxographie | Jerbiton-Kunstform |
+| Lacunae | Lacunae | Lat.; magische Lücken |
+| Eristic Moots | Eristische Versammlungen | Tytalus-Versammlungsform |
+| Cabals | Kabalen | Tytalus-Organisationseinheit |
+| Calliclean Ethics | Kallikleische Ethik | Tytalus-Philosophie |
+| Hippian Ethics | Hippianische Ethik | Tytalus-Philosophie |
 
 ### Redaktionelle Konventionen / Editorial Conventions
 
