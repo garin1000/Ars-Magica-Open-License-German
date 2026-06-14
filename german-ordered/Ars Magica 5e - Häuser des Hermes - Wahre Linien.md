@@ -2291,6 +2291,48 @@ Andere Tatorte werden nicht rechtzeitig entdeckt, um Zauberspurenmagie einzusetz
 
 ### Zauber und Leitlinien
 
+#### Creo-Mentem-Leitlinien
+
+**Stufe 4:** Stellt eine Erinnerung an ein kurzes Ereignis in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Die betroffene Erinnerung kann nicht umfangreicher sein als eine kurze Unterhaltung (zwei bis drei Runden).
+
+**Stufe 5:** Stellt eine Erinnerung an ein Ereignis in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Die betroffene Erinnerung kann nicht umfangreicher sein als etwa zwei Minuten.
+
+**Stufe 10:** Stellt eine Erinnerung an die Ereignisse eines Tages in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Ereignisse werden erinnert, als hätten sie erst vor einer Stunde stattgefunden.
+
+#### Creo-Mentem-Zauber
+
+##### An seinen Werken
+
+**R:** Pers, **D:** Konz, **T:** Ind, **Stufe 5**
+
+Frischt eine bestimmte Erinnerung im Geist des Zaubernden auf; solange noch ein Fragment davon vorhanden ist, wird dieser Zauber sie wiederherstellen. Einmal aufgefrischt, kann der Zaubernde die vervollkommnete Erinnerung halten, solange er sich konzentriert. Das Studieren der Erinnerung erzeugt effektiv eine neue Erinnerung, die nach dem Ende des Zaubers nicht verblasst. Dieser Zauber wurde geschaffen, um Quaesitores die perfekte Erinnerung an Zauber-Sigile zu ermöglichen, denen sie begegnen. Der Zauber kann auch zum Erinnern anderer Einzelheiten eines kurzen Ereignisses genutzt werden, wie Gesichter oder Stimmen. Dieser Zauber wird häufig zur doppelten Überprüfung von Identifizierungen eingesetzt.
+
+(Basis 4, +1 Konz)
+
+##### Der Gute Zeuge
+
+**R:** Berührung, **D:** Sonne, **T:** Ind, **Stufe 25**
+
+Frischt die Erinnerung an einen Tag im Geist der Zielperson auf; solange noch ein Fragment davon vorhanden ist, wird dieser Zauber sie wiederherstellen. Die Zielperson wird beim Wirken des Zaubers gebeten, sich an ein Ereignis an dem fraglichen Tag zu erinnern. Ereignisse dieses Tages werden erinnert, als hätten sie erst vor einer Stunde stattgefunden. Je nachdem, wie lange der Tag zurückliegt, kann ein bestimmtes Ereignis vollständig verschwunden sein, abhängig davon, wie einprägsam es war. So können manche Einzelheiten perfekt erinnert werden und andere vollständig fehlen.
+
+(Basis 10, +1 Berührung, +2 Sonne)
+
+#### Creo-Vim-Leitlinien
+
+**Allg:** Frischt alle Zauberspuren innerhalb des Ziels auf, die sich in negativer Magnitude befinden und weniger als die Magnitude der Leitlinie -1 betragen.
+
+#### Creo-Vim-Zauber
+
+##### Die verblichenen Fäden erneuern
+
+**R:** Berührung, **D:** Dchm, **T:** Kreis, **Stufe allg**
+
+Sobald eine Spur gefunden oder vermutet wird, wird dieser Zauber eingesetzt, um sie untersuchbar zu machen. Dieser Zauber stellt Zauberspuren vorübergehend in einen frischen Zustand wieder her (als wären sie gerade erloschen). Der Zauber stellt Zauberspuren mit negativer Magnitude bis zur Magnitude dieses Zaubers -3 wieder her. Die Spur muss noch vorhanden sein, um betroffen zu werden (Magnitude -9 oder höher). Somit ist die maximale wirksame Stufe dieses Zaubers 50.
+
+Versionen dieses Zaubers existieren auch für alle Standardziele. Die Dauer Durchmesser ist normalerweise lang genug, um Intellego-Vim-Untersuchungen der Zauberspuren durchzuführen.
+
+(Basis, +1 Berührung, +1 Dchm)
+
 #### Intellego-Corpus-Zauber
 
 ##### Das Ganze aus dem Teil
@@ -2319,32 +2361,6 @@ Eine verstärkte Version von *Erkennen der wahren und trügerischen Bilder*. Du 
 
 (Basis, +2 Sonne, +1 Verstärkter Effekt)
 
-#### Creo-Mentem-Leitlinien
-
-**Stufe 4:** Stellt eine Erinnerung an ein kurzes Ereignis in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Die betroffene Erinnerung kann nicht umfangreicher sein als eine kurze Unterhaltung (zwei bis drei Runden).
-
-**Stufe 5:** Stellt eine Erinnerung an ein Ereignis in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Die betroffene Erinnerung kann nicht umfangreicher sein als etwa zwei Minuten.
-
-**Stufe 10:** Stellt eine Erinnerung an die Ereignisse eines Tages in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Ereignisse werden erinnert, als hätten sie erst vor einer Stunde stattgefunden.
-
-#### Creo-Mentem-Zauber
-
-##### An seinen Werken
-
-**R:** Pers, **D:** Konz, **T:** Ind, **Stufe 5**
-
-Frischt eine bestimmte Erinnerung im Geist des Zaubernden auf; solange noch ein Fragment davon vorhanden ist, wird dieser Zauber sie wiederherstellen. Einmal aufgefrischt, kann der Zaubernde die vervollkommnete Erinnerung halten, solange er sich konzentriert. Das Studieren der Erinnerung erzeugt effektiv eine neue Erinnerung, die nach dem Ende des Zaubers nicht verblasst. Dieser Zauber wurde geschaffen, um Quaesitores die perfekte Erinnerung an Zauber-Sigile zu ermöglichen, denen sie begegnen. Der Zauber kann auch zum Erinnern anderer Einzelheiten eines kurzen Ereignisses genutzt werden, wie Gesichter oder Stimmen. Dieser Zauber wird häufig zur doppelten Überprüfung von Identifizierungen eingesetzt.
-
-(Basis 4, +1 Konz)
-
-##### Der Gute Zeuge
-
-**R:** Berührung, **D:** Sonne, **T:** Ind, **Stufe 25**
-
-Frischt die Erinnerung an einen Tag im Geist der Zielperson auf; solange noch ein Fragment davon vorhanden ist, wird dieser Zauber sie wiederherstellen. Die Zielperson wird beim Wirken des Zaubers gebeten, sich an ein Ereignis an dem fraglichen Tag zu erinnern. Ereignisse dieses Tages werden erinnert, als hätten sie erst vor einer Stunde stattgefunden. Je nachdem, wie lange der Tag zurückliegt, kann ein bestimmtes Ereignis vollständig verschwunden sein, abhängig davon, wie einprägsam es war. So können manche Einzelheiten perfekt erinnert werden und andere vollständig fehlen.
-
-(Basis 10, +1 Berührung, +2 Sonne)
-
 #### Intellego-Mentem-Zauber
 
 ##### Ohr der Wahrheit
@@ -2354,38 +2370,6 @@ Frischt die Erinnerung an einen Tag im Geist der Zielperson auf; solange noch ei
 Der Zaubernde kann erkennen, ob er die Wahrheit hört oder nicht. Wenn die Magieresistenz eines Sprechers den verstärkten Sinn blockiert, nimmt der Zaubernde dies als eine Abwesenheit wahr. Viele Quaesitores entwickeln eine hohe Meisterschaftsstufe für diesen Zauber und setzen ihn mit der Fähigkeit Geschärfter Sinn mit großer Wirkung ein.
 
 (Basis 10, +1 Konz, +3 Hören)
-
-#### Rego-Mentem-Zauber
-
-##### Vertrau mir
-
-**R:** Auge, **D:** Sonne, **T:** Ind, **Stufe 20**
-
-Gelegentlich muss ein Quaesitor Sterbliche direkt befragen, typischerweise Grogs und Gefährten. Dieser Zauber kann eingesetzt werden, um den Vorgang weniger aufwändig und ergiebiger zu gestalten. Der Effekt erzeugt einfach eine ausgleichende Kraft auf den Geist der Zielperson. Die Gabe selbst wird in keiner Weise beeinflusst, nur der Geist der Zielperson.
-
-Der Zauber ist so mächtig wie *Aura der rechtmäßigen Autorität*, aber subtiler. Er wirkt nur darauf hin, die Haltung der Zielperson gegenüber dem Zaubernden zu normalisieren, sie nicht gehorsam oder unnatürlich wohlgesinnt zu machen. Da die betroffene Person ihren freien Willen behält, gilt dieser Effekt nicht als Ausspähen. Eine Befragung unter Einsatz von *Aura der rechtmäßigen Autorität* gilt dagegen als Ausspähen.
-
-(Basis 5, +1 Auge, +2 Sonne)
-
-##### Das Geständnis des Büßers
-
-**R:** Auge, **D:** Konz, **T:** Ind, **Stufe 30**
-
-Die Zielperson wird wahrheitsgemäß und bereitwillig über ihre Beteiligung an allem berichten, worüber der Magus sie befragt. Die Zielperson wird ihr Bestes tun, den Magus so umfassend wie möglich zu informieren; sie wird nicht in belanglosen Details abschweifen, übermäßig wörtlich sein oder auf irgendeine andere Weise ausweichen. Sie kann verwandte Angelegenheiten zur Sprache bringen, nach denen nicht speziell gefragt wurde, wenn sie aufrichtig glaubt, dass dies von Interesse sein könnte.
-
-Dieser Effekt gilt als Ausspähen und verursacht Verzerrung, weshalb sich nur sehr wenige Magi ihm freiwillig unterziehen werden. Magi können jedoch gestatten, dass dieser Zauber auf ihre Bediensteten angewandt wird.
-
-(Basis 20, +1 Auge, +1 Konz)
-
-##### Aura der Bedeutungslosigkeit
-
-**R:** Berührung, **D:** Sonne, **T:** Spez, **Stufe 25**
-
-Gelegentlich muss ein Quaesitor Ermittlungen in der sterblichen Gesellschaft durchführen. Inspiriert durch das nicht-hermetische Ritual *Schleier aller Augen* (siehe unten) kann dieser Zauber eingesetzt werden, um das Vermeiden sterblicher Aufmerksamkeit zu unterstützen. Dieser Zauber kann entweder auf den Magus selbst oder einen Verbündeten gewirkt werden; diese Person ist der Empfänger. Zu jedem Zeitpunkt während der Wirkungsdauer des Zaubers geraten Personen unter den Einfluss dieses Zaubers, indem sie den Empfänger ansehen. Der Zauber hört auf, Personen zu beeinflussen, sobald sie wegblicken. Das Ziel des Zaubers wird als Z: Bauwerk eingestuft. Die Penetration des Zaubers sollte beim Wirken notiert werden, da sie während der gesamten Wirkungsdauer gilt.
-
-Dieser Zauber lenkt einfach beiläufige Aufmerksamkeit vom Empfänger ab. Sofern der Empfänger nicht auf sich aufmerksam macht oder ein Beobachter aktiv wachsam ist, werden die Leute ihn nicht beachten. Wenn ein Charakter einen Grund hat, aufmerksam zu sein, ist ihm ein Wah-+-Aufmerksamkeit-Wurf von 12+ erlaubt, um den Empfänger zu bemerken. Die Auffällige Gabe senkt den Schwierigkeitsgrad auf 9+. Wenn der Magus darauf achtet, unauffällig zu sein, kann der Schwierigkeitsgrad erhöht werden. Quaesitores mit fähigen Gefährten wirken diesen Zauber oft auf sich selbst, um sterbliche Ermittlungen nicht durch ihre Anwesenheit zu gefährden. Allerdings reagieren Tiere weiterhin normal auf den Magus.
-
-(Basis 3, +1 Berührung, +2 Sonne, +3 Spez)
 
 #### Intellego-Terram-Leitlinien
 
@@ -2428,22 +2412,6 @@ Wie *Traum des ruhenden Geistes*, aber auf künstliche Steinobjekte anwendbar, w
 Wie *Traum des ruhenden Geistes*, aber auch auf Metallgegenstände anwendbar. Die Kooperation des Geistes ist nicht erforderlich, aber wie immer liegt der Detailgrad der Erinnerung im Ermessen des Spielleiters.
 
 (Basis 40, +1 Berührung, +2 Sonne)
-
-#### Creo-Vim-Leitlinien
-
-**Allg:** Frischt alle Zauberspuren innerhalb des Ziels auf, die sich in negativer Magnitude befinden und weniger als die Magnitude der Leitlinie -1 betragen.
-
-#### Creo-Vim-Zauber
-
-##### Die verblichenen Fäden erneuern
-
-**R:** Berührung, **D:** Dchm, **T:** Kreis, **Stufe allg**
-
-Sobald eine Spur gefunden oder vermutet wird, wird dieser Zauber eingesetzt, um sie untersuchbar zu machen. Dieser Zauber stellt Zauberspuren vorübergehend in einen frischen Zustand wieder her (als wären sie gerade erloschen). Der Zauber stellt Zauberspuren mit negativer Magnitude bis zur Magnitude dieses Zaubers -3 wieder her. Die Spur muss noch vorhanden sein, um betroffen zu werden (Magnitude -9 oder höher). Somit ist die maximale wirksame Stufe dieses Zaubers 50.
-
-Versionen dieses Zaubers existieren auch für alle Standardziele. Die Dauer Durchmesser ist normalerweise lang genug, um Intellego-Vim-Untersuchungen der Zauberspuren durchzuführen.
-
-(Basis, +1 Berührung, +1 Dchm)
 
 #### Intellego-Vim-Leitlinien
 
@@ -2521,6 +2489,38 @@ Dieser Zauber löst jeden aktiven Vim-Effekt innerhalb des Kreises auf, dessen Z
 Als Tribunalsstrafe eingesetzt, erfordert dieser Zauber die aktive Mitwirkung des verurteilten Magus. Die Bande zwischen Magus und Vertrautem werden dauerhaft durchtrennt, wenn das Doppelte der Stufe dieses Zaubers + ein Stresswürfel (kein Patzer) die höchste dem Vertrauten gegebene Verzauberung übersteigt (dies kann die Verzauberung der Vertrautenbindung sein). Dies ist eine überaus schmerzhafte und emotional traumatisierende Erfahrung für beide Seiten. Nach der Durchtrennung der Bande empfinden sowohl der Magus als auch der ehemalige Vertraute die Gegenwart des anderen als unerträglich. Ein Vertrauter flieht normalerweise in die Wildnis und meidet jeden künftigen Kontakt mit Magi. Der ehemalige Vertraute kann üblicherweise nicht erneut gebunden werden.
 
 (Basis, +1 Berührung)
+
+#### Rego-Mentem-Zauber
+
+##### Vertrau mir
+
+**R:** Auge, **D:** Sonne, **T:** Ind, **Stufe 20**
+
+Gelegentlich muss ein Quaesitor Sterbliche direkt befragen, typischerweise Grogs und Gefährten. Dieser Zauber kann eingesetzt werden, um den Vorgang weniger aufwändig und ergiebiger zu gestalten. Der Effekt erzeugt einfach eine ausgleichende Kraft auf den Geist der Zielperson. Die Gabe selbst wird in keiner Weise beeinflusst, nur der Geist der Zielperson.
+
+Der Zauber ist so mächtig wie *Aura der rechtmäßigen Autorität*, aber subtiler. Er wirkt nur darauf hin, die Haltung der Zielperson gegenüber dem Zaubernden zu normalisieren, sie nicht gehorsam oder unnatürlich wohlgesinnt zu machen. Da die betroffene Person ihren freien Willen behält, gilt dieser Effekt nicht als Ausspähen. Eine Befragung unter Einsatz von *Aura der rechtmäßigen Autorität* gilt dagegen als Ausspähen.
+
+(Basis 5, +1 Auge, +2 Sonne)
+
+##### Das Geständnis des Büßers
+
+**R:** Auge, **D:** Konz, **T:** Ind, **Stufe 30**
+
+Die Zielperson wird wahrheitsgemäß und bereitwillig über ihre Beteiligung an allem berichten, worüber der Magus sie befragt. Die Zielperson wird ihr Bestes tun, den Magus so umfassend wie möglich zu informieren; sie wird nicht in belanglosen Details abschweifen, übermäßig wörtlich sein oder auf irgendeine andere Weise ausweichen. Sie kann verwandte Angelegenheiten zur Sprache bringen, nach denen nicht speziell gefragt wurde, wenn sie aufrichtig glaubt, dass dies von Interesse sein könnte.
+
+Dieser Effekt gilt als Ausspähen und verursacht Verzerrung, weshalb sich nur sehr wenige Magi ihm freiwillig unterziehen werden. Magi können jedoch gestatten, dass dieser Zauber auf ihre Bediensteten angewandt wird.
+
+(Basis 20, +1 Auge, +1 Konz)
+
+##### Aura der Bedeutungslosigkeit
+
+**R:** Berührung, **D:** Sonne, **T:** Spez, **Stufe 25**
+
+Gelegentlich muss ein Quaesitor Ermittlungen in der sterblichen Gesellschaft durchführen. Inspiriert durch das nicht-hermetische Ritual *Schleier aller Augen* (siehe unten) kann dieser Zauber eingesetzt werden, um das Vermeiden sterblicher Aufmerksamkeit zu unterstützen. Dieser Zauber kann entweder auf den Magus selbst oder einen Verbündeten gewirkt werden; diese Person ist der Empfänger. Zu jedem Zeitpunkt während der Wirkungsdauer des Zaubers geraten Personen unter den Einfluss dieses Zaubers, indem sie den Empfänger ansehen. Der Zauber hört auf, Personen zu beeinflussen, sobald sie wegblicken. Das Ziel des Zaubers wird als Z: Bauwerk eingestuft. Die Penetration des Zaubers sollte beim Wirken notiert werden, da sie während der gesamten Wirkungsdauer gilt.
+
+Dieser Zauber lenkt einfach beiläufige Aufmerksamkeit vom Empfänger ab. Sofern der Empfänger nicht auf sich aufmerksam macht oder ein Beobachter aktiv wachsam ist, werden die Leute ihn nicht beachten. Wenn ein Charakter einen Grund hat, aufmerksam zu sein, ist ihm ein Wah-+-Aufmerksamkeit-Wurf von 12+ erlaubt, um den Empfänger zu bemerken. Die Auffällige Gabe senkt den Schwierigkeitsgrad auf 9+. Wenn der Magus darauf achtet, unauffällig zu sein, kann der Schwierigkeitsgrad erhöht werden. Quaesitores mit fähigen Gefährten wirken diesen Zauber oft auf sich selbst, um sterbliche Ermittlungen nicht durch ihre Anwesenheit zu gefährden. Allerdings reagieren Tiere weiterhin normal auf den Magus.
+
+(Basis 3, +1 Berührung, +2 Sonne, +3 Spez)
 
 ## Fenicils Rituale
 
@@ -3121,17 +3121,17 @@ Du darfst deinen Meisterschaftswert und alle damit verbundenen Spezialfähigkeit
 > 
 > Gefesseltes Zaubern
 
-#### Verstärktes Zaubern
-
-(Mutantes)
-
-Wenn du diesen Zauber wirkst, kannst du Vis einsetzen, um die Reichweite, Dauer, Zielgröße oder Größe um eine Magnitude pro ausgegebenem Bauern zu erhöhen. Du kannst mehr als einen Aspekt desselben Zaubers erhöhen. Du kannst keinen der Parameter verringern und die Grenzen der Formulaischen Magie nicht überschreiten, es sei denn, der Zauber ist bereits ein Ritual. Zaubererfolg, Erschöpfungsverlust und Penetration werden alle auf Grundlage der ursprünglichen Stufe des Zaubers berechnet, aber du fügst einen zusätzlichen Patzerwürfel für jeden eingesetzten Bauern Vis hinzu.
-
-#### Zeremonielles Zaubern
+#### Aus Fehlern lernen
 
 (Kult des Merkur)
 
-Du darfst beim Wirken dieses Zaubers zeremonielle Methoden anwenden, wodurch die Zauberdauer verlängert wird und du deine Artes Liberales und Philosophiae zu deiner Summe addierst. Diese Fähigkeit kann nicht für Ritualzauber genommen werden, die immer zeremonielles Zaubern erfordern.
+Wenn du in einer Sitzung zum ersten Mal bei einem Wurf für diesen Zauber patzt oder ihn um genau einen Punkt verfehlst, erhältst du fünf Erfahrungspunkte für die Meisterschaft dieses Zaubers. Der Wurf muss sich im Verlauf der Geschichte auf natürliche Weise ergeben.
+
+#### GEFESSELTES ZAUBERN
+
+(Mutantes)
+
+Du kannst die Kontrolle über diesen Zauber an eine andere Person übergeben, die anschließend als Zauberer behandelt wird, oder an einen Gegenstand, der den Zauber wie ein Aufgeladenes Artefakt für dessen Dauer hält und ihn wirkt, wenn ein geeignetes Ziel in Reichweite kommt. Diese Fähigkeit kann nicht für Ritualzauber genommen werden.
 
 #### Getarntes Zaubern
 
@@ -3151,23 +3151,23 @@ Du kannst die Wirkung dieses Zaubers nach Belieben beenden, indem du dich einfac
 
 Du verstehst die Theorie dieses Zaubers so vollkommen, dass du deinen Zaubermeisterschaftswert zu deiner Laborsumme addieren darfst, wenn du Effekte entwirfst, die ihm ähnlich sind (siehe Ähnliche Zauber, **Ars Magica** 5th Edition, Seite 101). Dies gilt zusätzlich zum normalen Bonus für ähnliche Zauber.
 
-#### Aus Fehlern lernen
-
-(Kult des Merkur)
-
-Wenn du in einer Sitzung zum ersten Mal bei einem Wurf für diesen Zauber patzt oder ihn um genau einen Punkt verfehlst, erhältst du fünf Erfahrungspunkte für die Meisterschaft dieses Zaubers. Der Wurf muss sich im Verlauf der Geschichte auf natürliche Weise ergeben.
-
 #### Standhaftes Zaubern
 
 (Kult des Merkur)
 
 Dieser Zauber ist für dich weniger anstrengend. Wenn es ein Ritual ist, verlierst du beim Wirken normale Erschöpfung statt Langzeiterschöpfung und nur halb so viele Erschöpfungsstufen, aufgerundet (aber immer mindestens eine). Wenn es ein formulaischer Zauber ist, verlierst du niemals Erschöpfungsstufen aufgrund einer niedrigen Zaubersumme, selbst wenn der Zauber nicht gelingt.
 
-#### GEFESSELTES ZAUBERN
+#### Verstärktes Zaubern
 
 (Mutantes)
 
-Du kannst die Kontrolle über diesen Zauber an eine andere Person übergeben, die anschließend als Zauberer behandelt wird, oder an einen Gegenstand, der den Zauber wie ein Aufgeladenes Artefakt für dessen Dauer hält und ihn wirkt, wenn ein geeignetes Ziel in Reichweite kommt. Diese Fähigkeit kann nicht für Ritualzauber genommen werden.
+Wenn du diesen Zauber wirkst, kannst du Vis einsetzen, um die Reichweite, Dauer, Zielgröße oder Größe um eine Magnitude pro ausgegebenem Bauern zu erhöhen. Du kannst mehr als einen Aspekt desselben Zaubers erhöhen. Du kannst keinen der Parameter verringern und die Grenzen der Formulaischen Magie nicht überschreiten, es sei denn, der Zauber ist bereits ein Ritual. Zaubererfolg, Erschöpfungsverlust und Penetration werden alle auf Grundlage der ursprünglichen Stufe des Zaubers berechnet, aber du fügst einen zusätzlichen Patzerwürfel für jeden eingesetzten Bauern Vis hinzu.
+
+#### Zeremonielles Zaubern
+
+(Kult des Merkur)
+
+Du darfst beim Wirken dieses Zaubers zeremonielle Methoden anwenden, wodurch die Zauberdauer verlängert wird und du deine Artes Liberales und Philosophiae zu deiner Summe addierst. Diese Fähigkeit kann nicht für Ritualzauber genommen werden, die immer zeremonielles Zaubern erfordern.
 
 ### Merceres Portale
 
@@ -3217,6 +3217,18 @@ Dieser Zauber erzeugt eine nahezu perfekte Kopie des Einbands und jeder Seite ei
 
 (Basis 5, +1 Berührung, +2 Gruppe, +5 Komplexität, +1 Requisiten; Verstärkt)
 
+#### Intellego Terram Mutantum-Zauber
+
+##### Den wahren Pfad erspüren
+
+**R:** Arkane Verbindung, **D:** Konzentration, **T:** Ind, **Level 15**
+
+Du kannst die Richtung jedes Ortes erspüren, zu dem du eine Arkane Verbindung besitzt. Du spürst einen instinktiven Zug zu seiner relativen Position, während du dich konzentrierst, obwohl du einfache Wahrnehmungswürfe gegen einen Schwierigkeitsgrad von 6+ ablegen musst, um auf dem Weg zu bleiben, wenn du zu Fuß durch Wälder oder Unterholz reist, und falls sich dein Ziel bewegt, steigt der Schwierigkeitsgrad dieses Wurfs je nach Geschwindigkeit.
+
+Der Zauber ist gefesselt, sodass er von einem anderen kontrolliert werden kann, und verstärkt, sodass er bei Bedarf länger andauern kann.
+
+(Basis 2, +4 Arkane Verbindung, +1 Konzentration; Verstärkt, Gefesselt)
+
 #### Muto Animal Mutantum-Zauber
 
 ##### Der verwandelte Foliant
@@ -3227,16 +3239,6 @@ Dieser Zauber verwandelt alle Seiten eines Buches für die Dauer des Zaubers in 
 (Basis 1, +1 Berührung, +4 Jahr, +2 Gruppe, +5 Komplexität; Verstärkt, Gezügelt)
 
 Der unermüdliche Flug (S. 102): Ändere die Berechnungsinformationen wie folgt: (Basis 10, +1 Berührung, +1 Konzentration; Verstärkt, Gezügelt, Gefesselt) 
-
-#### Perdo Animal Mutantum-Zauber
-
-##### Tödlicher Pfeil des Jägers
-
-**R:** Berührung, **D:** Durchmesser, **T:** Ind, **Level 40**
-
-Dieser Zauber fügt einem Tier eine tödliche Wunde zu, als wäre ihm das Herz durchbohrt worden. Den Zauber zu wirken, während man beabsichtigt, das Tier zu berühren, ist gefährlich, da es mehrere Minuten dauern kann, bis es stirbt, und es in dieser Zeit wild um sich schlagen oder den Zauberer angreifen kann. Aus diesem Grund fesseln Milvi den Zauber gewöhnlich an einen Pfeil oder Wurfspeer (obwohl jede Art von Fessel verwendet werden kann), was es ihnen erlaubt, ihn im Verborgenen aus sicherer Entfernung zu wirken. Das Tier wird sterben, nachdem es getroffen wurde, und die verlängerte Dauer stellt sicher, dass der Zauberer nach dem Wirken des Zaubers genug Zeit hat, den Pfeil abzuschießen.
-
-(Basis 30, +1 Berührung, +1 Durchmesser; Gefesselt)
 
 #### Muto Corpus Mutantum-Zauber
 
@@ -3250,6 +3252,16 @@ Du verwandelst das Ziel in einen Habicht, Milan oder anderen kleinen Greifvogel,
 
 (Basis 20, +1 Berührung, +3 Mond; Gezügelt, Gefesselt)
 
+#### Perdo Animal Mutantum-Zauber
+
+##### Tödlicher Pfeil des Jägers
+
+**R:** Berührung, **D:** Durchmesser, **T:** Ind, **Level 40**
+
+Dieser Zauber fügt einem Tier eine tödliche Wunde zu, als wäre ihm das Herz durchbohrt worden. Den Zauber zu wirken, während man beabsichtigt, das Tier zu berühren, ist gefährlich, da es mehrere Minuten dauern kann, bis es stirbt, und es in dieser Zeit wild um sich schlagen oder den Zauberer angreifen kann. Aus diesem Grund fesseln Milvi den Zauber gewöhnlich an einen Pfeil oder Wurfspeer (obwohl jede Art von Fessel verwendet werden kann), was es ihnen erlaubt, ihn im Verborgenen aus sicherer Entfernung zu wirken. Das Tier wird sterben, nachdem es getroffen wurde, und die verlängerte Dauer stellt sicher, dass der Zauberer nach dem Wirken des Zaubers genug Zeit hat, den Pfeil abzuschießen.
+
+(Basis 30, +1 Berührung, +1 Durchmesser; Gefesselt)
+
 #### Rego Corpus Mutantum-Zauber
 
 ##### Der unermüdliche Flug
@@ -3261,18 +3273,6 @@ Das Ziel spürt für die Dauer des Zaubers keine Erschöpfung, was es ihm erlaub
 Der Zauber ist gefesselt, sodass das Ziel den Effekt kontrollieren kann, was es ihm erlaubt, die Konzentration zu beenden, wenn es sein Ziel erreicht hat und Zeit zur Erholung hat. Er ist auch verstärkt, sodass die Dauer bei Bedarf auf bis zu einen Monat verlängert werden kann, und gezügelt, sodass das Ziel ihn trotzdem jederzeit nach Belieben beenden kann.
 
 (Basis 10, +1 Berührung, +3 Mond; Verstärkt, Gezügelt, Gefesselt)
-
-#### Intellego Terram Mutantum-Zauber
-
-##### Den wahren Pfad erspüren
-
-**R:** Arkane Verbindung, **D:** Konzentration, **T:** Ind, **Level 15**
-
-Du kannst die Richtung jedes Ortes erspüren, zu dem du eine Arkane Verbindung besitzt. Du spürst einen instinktiven Zug zu seiner relativen Position, während du dich konzentrierst, obwohl du einfache Wahrnehmungswürfe gegen einen Schwierigkeitsgrad von 6+ ablegen musst, um auf dem Weg zu bleiben, wenn du zu Fuß durch Wälder oder Unterholz reist, und falls sich dein Ziel bewegt, steigt der Schwierigkeitsgrad dieses Wurfs je nach Geschwindigkeit.
-
-Der Zauber ist gefesselt, sodass er von einem anderen kontrolliert werden kann, und verstärkt, sodass er bei Bedarf länger andauern kann.
-
-(Basis 2, +4 Arkane Verbindung, +1 Konzentration; Verstärkt, Gefesselt)
 
 ### Andere Zauber
 
@@ -3354,11 +3354,113 @@ Nur „Heroische" Charaktere können Heroische Tugenden und Fehler nehmen. Das s
 
 ### Tugenden
 
-#### Verstärkte Magie
+#### Botengedächtnis
+
+*Klein, Heroisch*
+
+Du kannst dir Wort für Wort alle kurzen Botschaften merken, die du im letzten Jahr gehört oder gelesen hast. Du musst dich konzentrieren, wenn du die Botschaft zum ersten Mal liest oder hörst, aber danach kannst du sie exakt wiedergeben oder kopieren, und du kannst sogar personalisierte Details wie Tonfall und Handschrift erinnern, obwohl du diese Nuancen möglicherweise nicht perfekt reproduzieren kannst. Während du dich an Auszüge längerer Werke erinnern magst, wie eine einstündige Rede oder ein Buch, ist es dir unmöglich, mehr als einige wenige ausgewählte Passagen auswendig zu lernen.
+
+#### Einzelgänger-Rotkappe
+
+*Klein, Status*
+
+Du bist eine Rotkappe, die keine Verbindungen zu einem Mercere-Haus unterhält und daher keine magischen Gegenstände und Langlebigkeitstränke erhält. Du beginnst weiterhin mit 300 Erfahrungspunkten für deine fünfzehn Jahre als Lehrling und erhältst die Vorteile der Tugend Vielgereist, aber du bist von den anderen Rotkappen in deiner Gegend entfremdet und hast eine schlechte Reputation (Einzelgänger) der Stufe 2 innerhalb deines Hauses.
+
+Du musst weiterhin zwei Quartale pro Jahr dem Botentragen und der Ausführung anderer Dienste für den Orden widmen, denn wenn du es nicht tust, besteht die Möglichkeit, dass du zum Orbus erklärt und aus deinem Haus geworfen wirst. Diese Arbeit reicht zum Lebensunterhalt, wenn du keinem Konvent angehörst, es sei denn, du nimmst den Fehler Arm und musst ein drittes Quartal arbeiten. Wenn du die Tugend Wohlhabend nimmst, kannst du deine Position mit nur einem Quartal Aufwand pro Jahr halten. Dieser soziale Status ist mit jedem anderen weltlichen Sozialen-Status-Tugend vereinbar, die es dir vernünftigerweise erlauben würde, deinen Dienst als Rotkappe auszuüben, wie etwa Händler oder Bettelmönch.
+
+#### Gabe der Zungen
+
+*Klein, Heroisch*
+
+Du kannst jede Sprache verstehen und sprechen, solange du direkt mit jemandem kommunizierst, der diese Sprache fließend beherrscht. Andere, die deine Worte hören und diese Sprache verstehen, können verstehen, was du sagst. Du kannst kein Gespräch in mehreren Sprachen gleichzeitig führen, aber du kannst als Übersetzer für zwei oder mehr Personen dienen, die diese Tugend nicht besitzen.
+
+#### Geburtsrecht der Helden
+
+*Klein, Heroisch*
+
+Du besitzt eine besondere magische Kraft, die du nach Belieben hervorrufen und beenden kannst, oder die ständig aktiv ist. Sie sollte als hermetischer Effekt von nicht mehr als Stufe 15 entworfen werden, der wie die Tugend Mythisches Blut in **Ars Magica** 5th Edition (Seite 47) in Bezug auf Worte und Gesten funktioniert. Es sollte etwas in deinem Hintergrund geben, das erklärt, warum du auf diese Weise gesegnet wurdest, über das bloße Besitzen von Heldenblut hinaus – vielleicht ist es eine Belohnung für deine heroischen Taten, oder dir wurde die Kraft gegeben, um dir bei der Vollendung einer wichtigen Aufgabe zu helfen. Diese Tugend kann mehrfach genommen werden, um ein mächtigeres Geburtsrecht anzuzeigen, und ist kompatibel mit Mythisches Blut, obwohl keine deiner angesammelten Kräfte Effekte über Stufe 30 haben kann.
+
+#### Gefesselte Magie
 
 *Klein, Hermetisch*
 
-Indem du einen Bauern Vis beim Wirken formulaischer Zauber einsetzt, kannst du die Reichweite, Dauer, Zielgröße oder Größe des Effekts um eine Magnitude „verstärken". Du kannst dies mehrmals für denselben Zauber tun. Zum Beispiel würde das Verstärken der Reichweite von Berührung auf Sicht und der Zielgröße von Individuum auf Gruppe dich vier Bauern Vis kosten. Du kannst keinen der Parameter des Zaubers verringern und die Grenzen der Formulaischen Magie nicht überschreiten. Zaubererfolg, Erschöpfungsverlust und Penetration werden alle auf Grundlage der ursprünglichen Stufe des Zaubers berechnet, aber du fügst einen zusätzlichen Patzerwürfel für jeden eingesetzten Bauern Vis hinzu. Dies hat keine Wirkung auf Spontane oder Ritualzauber, obwohl du weiterhin wie gewohnt Vis zur Verstärkung deiner Penetration einsetzen kannst. Beachte, dass Magi mit Mutantum-Magie (unten) zwar Zauber erfinden können, die dies ermöglichen, aber Zauber, die nicht dafür entworfen wurden, nicht ohne diese Tugend verstärken können.
+Du kannst die Kontrolle über deine Nicht-Ritual-Zauber an andere übergeben, als wären sie der Zauberer, wobei du die Magie für die Dauer des Zaubers an sie „fesselst". Du kannst einen Zauber auch an einen Gegenstand fesseln, der den Zauber dann auf ein geeignetes Ziel überträgt, wenn es in Reichweite kommt. Dies kann sogar geschehen, wenn du einen Effekt in einem magischen Gegenstand aktivierst. Ein Nebeneffekt dieser Art von Magie ist jedoch, dass alle deine Zauber und die Effekte aller von dir aktivierten magischen Gegenstände Arkane Verbindungen zu dir sind.
+
+#### Gezähmte Magie
+
+*Groß, Hermetisch*
+
+Du besitzt das Äquivalent sowohl von Gezügelter Magie als auch Gefesselter Magie, leidest aber nicht unter den inhärenten Nachteilen dieser Tugenden. Das heißt, du kannst auch die Prinzipien der Mutantum-Magie anwenden, um jeden deiner spontanen oder formulaischen Zauber oder die Effekte magischer Gegenstände, die du aktivierst, zu verändern, aber deine Zauber und Effekte sind keine Arkanen Verbindungen zu dir und erlöschen nicht bei deinem Tod. Diese Tugend darf nur von Charakteren genommen werden, die auch Mutantum-Magie zu Spielbeginn besitzen (siehe oben).
+
+#### Gezügelte Magie
+
+*Klein, Hermetisch*
+
+Du hast große Kontrolle über deine Zauber. Du kannst jeden deiner Zauber einfach durch Konzentration aufheben. Du kannst sogar die Magie in magischen Gegenständen aufheben, die du erschaffen hast. Der Vorgang des Aufhebens deiner Magie sollte so behandelt werden, als würdest du einen Zauber wirken, was Zeitablauf und Konzentration betrifft. Wenn du abgelenkt wirst und einen Konzentrationswurf nicht schaffst, kann in einer späteren Runde ein weiterer Versuch unternommen werden. Zauber und magische Gegenstände können über jede Entfernung aufgehoben werden, aber sobald sie aufgehoben sind, musst du einen Zauber neu wirken oder eine Kraft in einem magischen Gegenstand neu einbetten, um den Effekt erneut zu starten.
+
+Der Nachteil ist, dass bei deinem Tod alle deine Zauber und magischen Gegenstände erlöschen.
+
+#### Großer Lastenträger
+
+*Klein, Heroisch*
+
+Du kannst doppelt so viel auf deinem Rücken tragen, bevor du belastet wirst, solange du Zeit hast, dich und deine Ausrüstung ordentlich zurechtzulegen. Teile deine Last durch zwei, bevor du deine Behinderung berechnest. Du kannst auch doppelt so weit reisen, bevor du durch eine Reise erschöpft wirst.
+
+#### Magische Gegenstände
+
+*Klein, Allgemein*
+
+Du beginnst mit 25 zusätzlichen Stufen an magischen Startgegenständen über das hinaus, was du normalerweise hättest, und die Rate, mit der deine Gegenstände verbessert werden, steigt um eine Stufe pro Jahr. Dies liegt wahrscheinlich an deiner außergewöhnlichen Hingabe an das Haus oder daran, dass du eine Reihe von Gegenständen von anderen Rotkappen geerbt hast. Du musst eine Rotkappe sein, um diese Tugend zu nehmen, und du kannst sie mehrfach nehmen, obwohl kein einzelner Effekt in einem deiner Gegenstände größer als Stufe 30 sein darf.
+
+#### Mutantum-Magie
+
+*Klein, Hermetisch*
+
+Du stammst aus der Mutantum-Linie ab und kannst daher formulaische Zauber und magische Gegenstände erfinden, die Verstärkung, Zügelung und Fesselung nutzen (siehe Mutantum-Magie unter Magieregeln weiter oben). Du darfst auch die Tugend Gezähmte Magie nehmen, und die Hälfte deiner Startzauber darf „gezähmte" Versionen gewöhnlicher Zauber sein. Die meisten Charaktere mit Mutantum-Magie gehören Haus Mercere an und betrachten sich als Mutantes, und alle müssen durch Blut vom Gründer oder einem seiner Vorfahren abstammen.
+
+#### Mythische (Eigenschaft)
+
+*Klein, Heroisch*
+
+Aufgrund deines großen angeborenen Potenzials darfst du eine Spezialisierung für eine deiner positiven Eigenschaften wählen, ähnlich einer Fertigkeits-Spezialisierung. Wann immer dieser spezifische Umstand auf einen deiner Würfe für diese Eigenschaft zutrifft, darfst du deinen Wert behandeln, als wäre er um eins höher, und wenn du einen möglichen Patzer würfelst, reduzierst du die Anzahl der Würfel um einen. Du darfst diese Tugend mehrfach nehmen, jedoch nicht für dieselbe Eigenschaft.
+
+Hier sind einige Vorschläge für Spezialisierungen für jede Eigenschaft.
+
+*Intelligenz:* brillante Ideen, schneller Denker, großes Wissen
+
+*Wahrnehmung:* bemerkt Details, Überblick, auf Veränderungen eingestellt
+
+*Stärke:* tödliche Schläge, athletische Fähigkeit, rohe Kraft
+
+*Ausdauer:* unermüdlicher Wille, eiserne Konstitution, Ausdauer des Bacchus
+
+*Präsenz:* betörende Augen, gebietende Präsenz, furchteinflößende Visage
+
+*Kommunikation:* fruchtbarer Autor, mitreißender Redner, starker Anführer
+
+*Geschicklichkeit:* flinke Finger, legendäres Zielen, unerbittlicher Angreifer
+
+*Schnelligkeit:* blitzschnelle Verteidigung, plötzliche Schläge, Kurzstreckenläufer
+
+#### Mythische Nachahmung
+
+*Groß, Heroisch*
+
+Diese Tugend gewährt alle Fähigkeiten des *Botengedächtnisses* (siehe oben), aber darüber hinaus bist du so versiert im Auswendiglernen und Wiedergeben von Botschaften, dass du Berichte jeder Länge erinnern und die Stimme oder Handschrift des Verfassers perfekt nachbilden kannst, sodass sie vom Original nicht zu unterscheiden ist. Sobald du etwas von einer Person gehört oder gelesen hast, kannst du deren Stimme oder Schreibstil leicht nachahmen und perfekte Imitationen erstellen, wenn du dazu geneigt bist. Mit einem Quartal Aufwand kannst du sogar ein ganzes Buch auswendig lernen und es in einem weiteren Quartal danach reproduzieren, obwohl du in der Lage gewesen sein musst, den Inhalt zu verstehen, um dies akkurat zu tun.
+
+#### Sicherer Reisender
+
+*Klein, Heroisch*
+
+Solange du die Route zuvor bereits zurückgelegt hast, verirrst du dich niemals auf einer Reise, und du darfst +3 auf alle Überlebenswürfe addieren, die auf dem Finden deines Weges durch unbekanntes Gelände basieren. Du wirst niemals durch Wetter, schlechte Straßen oder andere widrige Reisebedingungen beeinträchtigt; du kommst durch, egal was passiert, und brauchst nahezu genauso lange wie unter idealen Umständen. Wenn du andere Reisende anführst, kannst du die Reise für alle beschleunigen, indem du sie ermutigst, dein Tempo zu halten. Dies gilt nicht, wenn du die Reisemittel nicht kontrollierst (in einem Wagen mitfahren, auf einem Schiff reisen); dann bist du deinem Fahrer ausgeliefert.
+
+#### Unsichtbar für Magie
+
+*Groß, Heroisch*
+
+Durch Konzentration kannst du dich vorübergehend für Magie unsichtbar machen, was verhindern kann, dass Intellego-Zauber dich entdecken, und andere Zauber, die dich direkt als Ziel haben, wirkungslos machen kann. Dies schützt dich nicht gegen Flächenzauber; wenn ein Zauber etwas erschafft und versucht, dich damit zu treffen, bleibt dir nur die Möglichkeit, auszuweichen.
+
+Du musst für jeden Zauber in jeder Runde, in der du betroffen wärst, einen Ausdauer + Konzentrationswurf gegen einen Schwierigkeitsgrad von 3 + (3 x Magnitude des Zaubers) ablegen. Zum Beispiel würde das Ausweichen vor *Die weinende Wunde* (PeCo15) eine Summe von mindestens 12 erfordern, während *Gewicht von tausend Höllen* (CrMe25) 18 oder mehr bräuchte. Wenn du Magieresistenz besitzt, prüfe zunächst, ob der Zauber dich „sehen" kann, und löse dann die Penetration wie gewohnt auf. Der Versuch, andere Handlungen auszuführen, während du für Magie unsichtbar bist, erfordert zusätzliche Konzentrationswürfe, aber du musst nicht wissen, woher die Zauber kommen, um dich für sie unsichtbar zu machen.
 
 #### Unter gutem Stern
 
@@ -3424,113 +3526,11 @@ Das Glück lächelt dir zu und schützt dich oft vor den zufälligen Folgen des 
 > 
 > Magische Gegenstände
 
-#### Gabe der Zungen
-
-*Klein, Heroisch*
-
-Du kannst jede Sprache verstehen und sprechen, solange du direkt mit jemandem kommunizierst, der diese Sprache fließend beherrscht. Andere, die deine Worte hören und diese Sprache verstehen, können verstehen, was du sagst. Du kannst kein Gespräch in mehreren Sprachen gleichzeitig führen, aber du kannst als Übersetzer für zwei oder mehr Personen dienen, die diese Tugend nicht besitzen.
-
-#### Großer Lastenträger
-
-*Klein, Heroisch*
-
-Du kannst doppelt so viel auf deinem Rücken tragen, bevor du belastet wirst, solange du Zeit hast, dich und deine Ausrüstung ordentlich zurechtzulegen. Teile deine Last durch zwei, bevor du deine Behinderung berechnest. Du kannst auch doppelt so weit reisen, bevor du durch eine Reise erschöpft wirst.
-
-#### Gezügelte Magie
+#### Verstärkte Magie
 
 *Klein, Hermetisch*
 
-Du hast große Kontrolle über deine Zauber. Du kannst jeden deiner Zauber einfach durch Konzentration aufheben. Du kannst sogar die Magie in magischen Gegenständen aufheben, die du erschaffen hast. Der Vorgang des Aufhebens deiner Magie sollte so behandelt werden, als würdest du einen Zauber wirken, was Zeitablauf und Konzentration betrifft. Wenn du abgelenkt wirst und einen Konzentrationswurf nicht schaffst, kann in einer späteren Runde ein weiterer Versuch unternommen werden. Zauber und magische Gegenstände können über jede Entfernung aufgehoben werden, aber sobald sie aufgehoben sind, musst du einen Zauber neu wirken oder eine Kraft in einem magischen Gegenstand neu einbetten, um den Effekt erneut zu starten.
-
-Der Nachteil ist, dass bei deinem Tod alle deine Zauber und magischen Gegenstände erlöschen.
-
-#### Geburtsrecht der Helden
-
-*Klein, Heroisch*
-
-Du besitzt eine besondere magische Kraft, die du nach Belieben hervorrufen und beenden kannst, oder die ständig aktiv ist. Sie sollte als hermetischer Effekt von nicht mehr als Stufe 15 entworfen werden, der wie die Tugend Mythisches Blut in **Ars Magica** 5th Edition (Seite 47) in Bezug auf Worte und Gesten funktioniert. Es sollte etwas in deinem Hintergrund geben, das erklärt, warum du auf diese Weise gesegnet wurdest, über das bloße Besitzen von Heldenblut hinaus – vielleicht ist es eine Belohnung für deine heroischen Taten, oder dir wurde die Kraft gegeben, um dir bei der Vollendung einer wichtigen Aufgabe zu helfen. Diese Tugend kann mehrfach genommen werden, um ein mächtigeres Geburtsrecht anzuzeigen, und ist kompatibel mit Mythisches Blut, obwohl keine deiner angesammelten Kräfte Effekte über Stufe 30 haben kann.
-
-#### Unsichtbar für Magie
-
-*Groß, Heroisch*
-
-Durch Konzentration kannst du dich vorübergehend für Magie unsichtbar machen, was verhindern kann, dass Intellego-Zauber dich entdecken, und andere Zauber, die dich direkt als Ziel haben, wirkungslos machen kann. Dies schützt dich nicht gegen Flächenzauber; wenn ein Zauber etwas erschafft und versucht, dich damit zu treffen, bleibt dir nur die Möglichkeit, auszuweichen.
-
-Du musst für jeden Zauber in jeder Runde, in der du betroffen wärst, einen Ausdauer + Konzentrationswurf gegen einen Schwierigkeitsgrad von 3 + (3 x Magnitude des Zaubers) ablegen. Zum Beispiel würde das Ausweichen vor *Die weinende Wunde* (PeCo15) eine Summe von mindestens 12 erfordern, während *Gewicht von tausend Höllen* (CrMe25) 18 oder mehr bräuchte. Wenn du Magieresistenz besitzt, prüfe zunächst, ob der Zauber dich „sehen" kann, und löse dann die Penetration wie gewohnt auf. Der Versuch, andere Handlungen auszuführen, während du für Magie unsichtbar bist, erfordert zusätzliche Konzentrationswürfe, aber du musst nicht wissen, woher die Zauber kommen, um dich für sie unsichtbar zu machen.
-
-#### Einzelgänger-Rotkappe
-
-*Klein, Status*
-
-Du bist eine Rotkappe, die keine Verbindungen zu einem Mercere-Haus unterhält und daher keine magischen Gegenstände und Langlebigkeitstränke erhält. Du beginnst weiterhin mit 300 Erfahrungspunkten für deine fünfzehn Jahre als Lehrling und erhältst die Vorteile der Tugend Vielgereist, aber du bist von den anderen Rotkappen in deiner Gegend entfremdet und hast eine schlechte Reputation (Einzelgänger) der Stufe 2 innerhalb deines Hauses.
-
-Du musst weiterhin zwei Quartale pro Jahr dem Botentragen und der Ausführung anderer Dienste für den Orden widmen, denn wenn du es nicht tust, besteht die Möglichkeit, dass du zum Orbus erklärt und aus deinem Haus geworfen wirst. Diese Arbeit reicht zum Lebensunterhalt, wenn du keinem Konvent angehörst, es sei denn, du nimmst den Fehler Arm und musst ein drittes Quartal arbeiten. Wenn du die Tugend Wohlhabend nimmst, kannst du deine Position mit nur einem Quartal Aufwand pro Jahr halten. Dieser soziale Status ist mit jedem anderen weltlichen Sozialen-Status-Tugend vereinbar, die es dir vernünftigerweise erlauben würde, deinen Dienst als Rotkappe auszuüben, wie etwa Händler oder Bettelmönch.
-
-#### Magische Gegenstände
-
-*Klein, Allgemein*
-
-Du beginnst mit 25 zusätzlichen Stufen an magischen Startgegenständen über das hinaus, was du normalerweise hättest, und die Rate, mit der deine Gegenstände verbessert werden, steigt um eine Stufe pro Jahr. Dies liegt wahrscheinlich an deiner außergewöhnlichen Hingabe an das Haus oder daran, dass du eine Reihe von Gegenständen von anderen Rotkappen geerbt hast. Du musst eine Rotkappe sein, um diese Tugend zu nehmen, und du kannst sie mehrfach nehmen, obwohl kein einzelner Effekt in einem deiner Gegenstände größer als Stufe 30 sein darf.
-
-#### Botengedächtnis
-
-*Klein, Heroisch*
-
-Du kannst dir Wort für Wort alle kurzen Botschaften merken, die du im letzten Jahr gehört oder gelesen hast. Du musst dich konzentrieren, wenn du die Botschaft zum ersten Mal liest oder hörst, aber danach kannst du sie exakt wiedergeben oder kopieren, und du kannst sogar personalisierte Details wie Tonfall und Handschrift erinnern, obwohl du diese Nuancen möglicherweise nicht perfekt reproduzieren kannst. Während du dich an Auszüge längerer Werke erinnern magst, wie eine einstündige Rede oder ein Buch, ist es dir unmöglich, mehr als einige wenige ausgewählte Passagen auswendig zu lernen.
-
-#### Mutantum-Magie
-
-*Klein, Hermetisch*
-
-Du stammst aus der Mutantum-Linie ab und kannst daher formulaische Zauber und magische Gegenstände erfinden, die Verstärkung, Zügelung und Fesselung nutzen (siehe Mutantum-Magie unter Magieregeln weiter oben). Du darfst auch die Tugend Gezähmte Magie nehmen, und die Hälfte deiner Startzauber darf „gezähmte" Versionen gewöhnlicher Zauber sein. Die meisten Charaktere mit Mutantum-Magie gehören Haus Mercere an und betrachten sich als Mutantes, und alle müssen durch Blut vom Gründer oder einem seiner Vorfahren abstammen.
-
-#### Mythische (Eigenschaft)
-
-*Klein, Heroisch*
-
-Aufgrund deines großen angeborenen Potenzials darfst du eine Spezialisierung für eine deiner positiven Eigenschaften wählen, ähnlich einer Fertigkeits-Spezialisierung. Wann immer dieser spezifische Umstand auf einen deiner Würfe für diese Eigenschaft zutrifft, darfst du deinen Wert behandeln, als wäre er um eins höher, und wenn du einen möglichen Patzer würfelst, reduzierst du die Anzahl der Würfel um einen. Du darfst diese Tugend mehrfach nehmen, jedoch nicht für dieselbe Eigenschaft.
-
-Hier sind einige Vorschläge für Spezialisierungen für jede Eigenschaft.
-
-*Intelligenz:* brillante Ideen, schneller Denker, großes Wissen
-
-*Wahrnehmung:* bemerkt Details, Überblick, auf Veränderungen eingestellt
-
-*Stärke:* tödliche Schläge, athletische Fähigkeit, rohe Kraft
-
-*Ausdauer:* unermüdlicher Wille, eiserne Konstitution, Ausdauer des Bacchus
-
-*Präsenz:* betörende Augen, gebietende Präsenz, furchteinflößende Visage
-
-*Kommunikation:* fruchtbarer Autor, mitreißender Redner, starker Anführer
-
-*Geschicklichkeit:* flinke Finger, legendäres Zielen, unerbittlicher Angreifer
-
-*Schnelligkeit:* blitzschnelle Verteidigung, plötzliche Schläge, Kurzstreckenläufer
-
-#### Mythische Nachahmung
-
-*Groß, Heroisch*
-
-Diese Tugend gewährt alle Fähigkeiten des *Botengedächtnisses* (siehe oben), aber darüber hinaus bist du so versiert im Auswendiglernen und Wiedergeben von Botschaften, dass du Berichte jeder Länge erinnern und die Stimme oder Handschrift des Verfassers perfekt nachbilden kannst, sodass sie vom Original nicht zu unterscheiden ist. Sobald du etwas von einer Person gehört oder gelesen hast, kannst du deren Stimme oder Schreibstil leicht nachahmen und perfekte Imitationen erstellen, wenn du dazu geneigt bist. Mit einem Quartal Aufwand kannst du sogar ein ganzes Buch auswendig lernen und es in einem weiteren Quartal danach reproduzieren, obwohl du in der Lage gewesen sein musst, den Inhalt zu verstehen, um dies akkurat zu tun.
-
-#### Sicherer Reisender
-
-*Klein, Heroisch*
-
-Solange du die Route zuvor bereits zurückgelegt hast, verirrst du dich niemals auf einer Reise, und du darfst +3 auf alle Überlebenswürfe addieren, die auf dem Finden deines Weges durch unbekanntes Gelände basieren. Du wirst niemals durch Wetter, schlechte Straßen oder andere widrige Reisebedingungen beeinträchtigt; du kommst durch, egal was passiert, und brauchst nahezu genauso lange wie unter idealen Umständen. Wenn du andere Reisende anführst, kannst du die Reise für alle beschleunigen, indem du sie ermutigst, dein Tempo zu halten. Dies gilt nicht, wenn du die Reisemittel nicht kontrollierst (in einem Wagen mitfahren, auf einem Schiff reisen); dann bist du deinem Fahrer ausgeliefert.
-
-#### Gezähmte Magie
-
-*Groß, Hermetisch*
-
-Du besitzt das Äquivalent sowohl von Gezügelter Magie als auch Gefesselter Magie, leidest aber nicht unter den inhärenten Nachteilen dieser Tugenden. Das heißt, du kannst auch die Prinzipien der Mutantum-Magie anwenden, um jeden deiner spontanen oder formulaischen Zauber oder die Effekte magischer Gegenstände, die du aktivierst, zu verändern, aber deine Zauber und Effekte sind keine Arkanen Verbindungen zu dir und erlöschen nicht bei deinem Tod. Diese Tugend darf nur von Charakteren genommen werden, die auch Mutantum-Magie zu Spielbeginn besitzen (siehe oben).
-
-#### Gefesselte Magie
-
-*Klein, Hermetisch*
-
-Du kannst die Kontrolle über deine Nicht-Ritual-Zauber an andere übergeben, als wären sie der Zauberer, wobei du die Magie für die Dauer des Zaubers an sie „fesselst". Du kannst einen Zauber auch an einen Gegenstand fesseln, der den Zauber dann auf ein geeignetes Ziel überträgt, wenn es in Reichweite kommt. Dies kann sogar geschehen, wenn du einen Effekt in einem magischen Gegenstand aktivierst. Ein Nebeneffekt dieser Art von Magie ist jedoch, dass alle deine Zauber und die Effekte aller von dir aktivierten magischen Gegenstände Arkane Verbindungen zu dir sind.
+Indem du einen Bauern Vis beim Wirken formulaischer Zauber einsetzt, kannst du die Reichweite, Dauer, Zielgröße oder Größe des Effekts um eine Magnitude „verstärken". Du kannst dies mehrmals für denselben Zauber tun. Zum Beispiel würde das Verstärken der Reichweite von Berührung auf Sicht und der Zielgröße von Individuum auf Gruppe dich vier Bauern Vis kosten. Du kannst keinen der Parameter des Zaubers verringern und die Grenzen der Formulaischen Magie nicht überschreiten. Zaubererfolg, Erschöpfungsverlust und Penetration werden alle auf Grundlage der ursprünglichen Stufe des Zaubers berechnet, aber du fügst einen zusätzlichen Patzerwürfel für jeden eingesetzten Bauern Vis hinzu. Dies hat keine Wirkung auf Spontane oder Ritualzauber, obwohl du weiterhin wie gewohnt Vis zur Verstärkung deiner Penetration einsetzen kannst. Beachte, dass Magi mit Mutantum-Magie (unten) zwar Zauber erfinden können, die dies ermöglichen, aber Zauber, die nicht dafür entworfen wurden, nicht ohne diese Tugend verstärken können.
 
 #### Vis-Gespür
 
@@ -3583,6 +3583,12 @@ Wenn du stirbst, enden alle deine Zauber abrupt und alle magischen Gegenstände,
 
 Alle deine Zauber und die Effekte aller von dir aktivierten magischen Gegenstände sind Arkane Verbindungen zu dir. Dies deutet darauf hin, dass du eine natürliche Begabung für Mutantum-Magie haben könntest, oder du könntest diesen Fehler zusammen mit Gezähmter Magie nehmen, um ein unvollkommenes Verständnis deines Talents darzustellen. Du kannst diesen Fehler nicht zusammen mit Gefesselter Magie nehmen, da diese den Effekt bereits beinhaltet.
 
+#### Heide
+
+*Groß, Geschichte*
+
+Du folgst nicht den Lehren der Kirche und wurdest nie getauft. Dies neigt dazu, Autoritätspersonen im Mythischen Europa zu verärgern und einfache Leute zu erschrecken, die davon erfahren. Du begehst keine christlichen Feiertage und versuchst, Kirchenmännern und dem Dominium aus dem Weg zu gehen. Du kannst jedoch nicht so tun, als würdest du mitmachen, denn du glaubst, dass es deinen Göttern missfallen und ihren Zorn auf dich ziehen würde – du könntest schwerwiegende übernatürliche Konsequenzen erleiden, wenn du die Kommunion empfängst oder andere Götter als deine eigenen anzubeten scheinst. Du darfst mit Magiekunde oder Feenkunde beginnen, je nach den Besonderheiten deines Glaubens. (Dies ist kein Fehler in Gebieten des Mythischen Europa mit substanziellen heidnischen Bevölkerungen, aber um 1220 sind die einzigen solchen Gebiete in Teilen des Novgorod-Tribunals.)
+
 #### Hermetischer Patron
 
 *Klein, Geschichte*
@@ -3605,18 +3611,6 @@ Du darfst Persönlichkeitseigenschaften von bis zu +5 oder –5 nehmen und hast 
 
 Du bist in Haus Mercere aufgewachsen, stammst aber nicht durch Blut von Mercere oder einem seiner Erben ab und wirst daher nicht als „wahrer Mercere" betrachtet. Deswegen folgen dir Rotkappen nicht und bewundern dich nicht, wie sie es bei anderen Magi tun, und Begabte Merceres halten dich für minderwertig. Du hast eine schlechte Reputation (Illegitim) innerhalb des Hauses auf Stufe 2 und erhältst keine besonderen Vorteile für die Zugehörigkeit zu Haus Mercere, wie zinsfreie Darlehen, Verträge über magische Gegenstände oder kostenlose Vis-Tauschgeschäfte. Dein Parens hat wahrscheinlich ebenfalls eine schlechte Reputation. Nur durch vorbildlichen Dienst am Orden und die Aufnahme legitimer Lehrlinge, die von Rotkappen oder anderen Magi abstammen, die vom Gründer abstammen, wird man dir dein Erbe verzeihen.
 
-#### Vermächtnis
-
-*Klein, Geschichte*
-
-Du stammst von einem legendären Magus oder einer legendären Rotkappe der Vergangenheit ab, oder du besitzt ein solches Potenzial, dass man annimmt, du werdest zu ähnlicher Größe aufsteigen. Deswegen wird dir von Magi deines Hauses, denen solche Dinge wichtig sind, großer Respekt entgegengebracht, gleichwertig mit Hermetisches Ansehen. Du darfst auch Heroische Tugenden und Fehler nehmen, wenn sie zu deiner Abstammungslinie passen. Allerdings wird auch erwartet, dass du deiner Reputation gerecht wirst, indem du große Taten vollbringst, und dir werden weitaus schwierigere Aufgaben als deinen Gleichrangigen zugeteilt. Als Rotkappe wirst du nicht einfach gebeten, Botschaften zu überbringen, denn deine zugewiesenen Pflichten werden größere Gefahren und weitaus mehr Aufwand erfordern.
-
-#### Heide
-
-*Groß, Geschichte*
-
-Du folgst nicht den Lehren der Kirche und wurdest nie getauft. Dies neigt dazu, Autoritätspersonen im Mythischen Europa zu verärgern und einfache Leute zu erschrecken, die davon erfahren. Du begehst keine christlichen Feiertage und versuchst, Kirchenmännern und dem Dominium aus dem Weg zu gehen. Du kannst jedoch nicht so tun, als würdest du mitmachen, denn du glaubst, dass es deinen Göttern missfallen und ihren Zorn auf dich ziehen würde – du könntest schwerwiegende übernatürliche Konsequenzen erleiden, wenn du die Kommunion empfängst oder andere Götter als deine eigenen anzubeten scheinst. Du darfst mit Magiekunde oder Feenkunde beginnen, je nach den Besonderheiten deines Glaubens. (Dies ist kein Fehler in Gebieten des Mythischen Europa mit substanziellen heidnischen Bevölkerungen, aber um 1220 sind die einzigen solchen Gebiete in Teilen des Novgorod-Tribunals.)
-
 #### Tragische (Eigenschaft)
 
 *Klein, Heroisch*
@@ -3634,6 +3628,12 @@ Du musst eine Spezialisierung für eine deiner negativen Eigenschaften wählen, 
 *Kommunikation:* nervöser Redner, unbeabsichtigt beleidigend, unverständlich
 
 *Geschicklichkeit:* leicht aus dem Gleichgewicht zu bringen, zwei linke Hände, schlechtes Zielen *Schnelligkeit:* oft überrascht, schwerfälliger Lauf, leichtes Ziel
+
+#### Vermächtnis
+
+*Klein, Geschichte*
+
+Du stammst von einem legendären Magus oder einer legendären Rotkappe der Vergangenheit ab, oder du besitzt ein solches Potenzial, dass man annimmt, du werdest zu ähnlicher Größe aufsteigen. Deswegen wird dir von Magi deines Hauses, denen solche Dinge wichtig sind, großer Respekt entgegengebracht, gleichwertig mit Hermetisches Ansehen. Du darfst auch Heroische Tugenden und Fehler nehmen, wenn sie zu deiner Abstammungslinie passen. Allerdings wird auch erwartet, dass du deiner Reputation gerecht wirst, indem du große Taten vollbringst, und dir werden weitaus schwierigere Aufgaben als deinen Gleichrangigen zugeteilt. Als Rotkappe wirst du nicht einfach gebeten, Botschaften zu überbringen, denn deine zugewiesenen Pflichten werden größere Gefahren und weitaus mehr Aufwand erfordern.
 
 #### Wucherer
 
@@ -4616,10 +4616,6 @@ Zu Beginn jedes Certamen wählt jeder Kämpfer, ob er als Anhänger seiner Schul
 
 Magi werden in der Schule ihres Meisters erzogen. Magi, die während der Lehrzeit nicht im Certamen unterrichtet wurden, werden Mitglied einer Schule, indem sie ein Quartal bei einem erfahrenen Mitglied der Schule studieren. Die meisten Schulen sind lose Gruppen von Magi, die auf ähnliche Weise duellieren, aber manche Schulen haben nach Ermessen der Spieltruppe politische Hierarchien.
 
-#### Gladiator
-
-Die Schule des Schwertmanns ist der Stil des Gründers Tremere, wie er in den Grundregeln beschrieben wird. Es ist ein ausgewogener, einfacher Stil, für den viele Lehrer verfügbar sind. Gerüchte halten sich, dass es eine Reihe geheimer Techniken für diese Schule gibt, die engagierten Anhängern erlauben, Vis wirksamer einzusetzen als andere Magi. Die Tremere behandeln diese Gerüchte als Angriff auf ihre Integrität — verlören andere Magi das Vertrauen in das Certamen-System, würde das dem Haus schaden. Die gemeinsamen Illusionen der Schule des Schwertmanns tendieren zur Menschengestalt und sind stark vom Sigil des Magus beeinflusst.
-
 #### Andabatus
 
 Anhänger der Schule des Blindkampfes nutzen wilde, chaotische Angriffe, um Duelle schnell zu beenden, während sie Treffer gegen sich selbst hinnehmen. Der Andabatus addiert einen Bonus auf seine Angriffssumme bis zum Doppelten seines Finesse-Wertes, akzeptiert aber auch einen gleichen Abzug auf seine Verteidigungssumme. Im Stil des Andabata zu kämpfen erlaubt einem Magus, einen Bonus auf seine Angriffssumme bis zu seinem Finesse-Wert zu akzeptieren, aber der Abzug beträgt das Doppelte des Bonus. Die gemeinsame Illusion des Certamen wogt und verliert den Fokus, wenn ein Andabatus kämpft, denn seine Technik ist instinktiv, unpräzise und geht davon aus, dass der Gegner ihn treffen wird.
@@ -4628,12 +4624,6 @@ Anhänger der Schule des Blindkampfes nutzen wilde, chaotische Angriffe, um Duel
 
 Ausschließlich von Mitgliedern des Hauses Bjornaer angewandt, erlauben die Techniken der Schule der Bestien ihnen, ihren Herztier-Wert anstelle ihres Finesse-Wertes während Duellen in der Muto-Form oder wenn es um ihre eigenen Körper geht einzusetzen. In Muto Corpus- oder Muto Animal-Duellen können sie das Doppelte ihres Herztier-Wertes zu ihrer Widerstandssumme addieren. Bjornaer, die in der Bestiarius-Technik dilettieren, addieren ihren Herztier-Wert auf ihren Widerstand.
 
-#### Knochenbeißer
-
-Diese Technik basiert auf den magischen Praktiken bestimmter irischer Barden und wurde von Magi des Hauses Diedne in den Orden gebracht. Sie erlaubt einem Magus, sich selbst zu verletzen, um Erschöpfung zu widerstehen oder die Stärke seines nächsten Angriffs zu erhöhen. Die engagierten Anhänger dieser Technik starben im Schismakrieg. Jene, die in diesem Stil kämpfen, fügen sich selbst eine Leichte Wunde zu und ignorieren entweder den Verlust der nächsten zwei Erschöpfungsstufen oder addieren zehn Punkte auf ihre nächste Angriffssumme. Traditionell beißt der Magus durch die Spitze des linken Daumens bis auf den Knochen.
-
-Im Jahr 1220 beißen die wenigen Magi, die diese Technik praktizieren, stattdessen auf ihre Zunge. Gelegentliches versehentliches Zungenbeißen kommt beim Certamen vor, sodass dies nicht wie eine offenkundig druidische Praxis aussieht. Es ist für diese Magi sehr schwierig, sich heimlich mehr als eine Körperstufe Schaden zuzufügen, da dies sich in der gemeinsamen Illusion widerspiegelt, mit Elementen von Blut und Feuer.
-
 #### Charon
 
 Eher ein Trick als eine Schule, benannt nach dem Fährmann auf dem Fluss Styx, darf ein Magus, der im Stil des Charon kämpft, am Ende des Certamen zwei Zauber auf einen Gegner wirken. Er tut dies, indem er in einer früheren Runde des Certamen einen Zauber still und ohne Gesten wirkt (Intelligenz + Konzentration von 15+), ihn dann bis zur Runde aufrechterhält, von der er glaubt, es sei die letzte, was vor dem Angriffswurf erklärt werden muss (Intelligenz + Konzentration von 12+ jede Runde). Liegt er richtig, wandert dieser Zauber entlang der Arkanen Verbindung, die das Certamen-Duell bietet, zusammen mit dem Zauber, den er in der Runde nach Abschluss des Certamen wirkt. Diesen Trick anzuwenden ist wahrscheinlich ein Verstoß gegen den Peripheren Kodex, aber er ist erst kürzlich aufgetaucht, und kein Tribunal hat ihn bisher behandelt. Gerüchte besagen, dass es eine Schule des Charon gibt, deren Mitglieder viele Zauber auf jene wirken können, die sie im Certamen besiegen.
@@ -4641,6 +4631,10 @@ Eher ein Trick als eine Schule, benannt nach dem Fährmann auf dem Fluss Styx, d
 #### Essedarius
 
 Die Techniken des Streitwagenfahrers sind auffällig und einschüchternd. Sie unterwerfen Feinde psychologisch. Nach einem erfolgreichen Angriff kann der Essedarius wählen, keinen Schaden zuzufügen und stattdessen den Eindruck eines mächtigen und furchtbaren Angriffs zu erzeugen, der nur um Haaresbreite scheiterte. Die Absicht ist, den Feind zur Aufgabe zu verängstigen, was eintreten kann, wenn er einen Tapfer-Wurf von 3 + 2 pro Erschöpfungsstufe, auf die der Essedarius in diesem Certamen verzichtet hat, nicht besteht. Magi, die in diesem Stil kämpfen, können einen ähnlichen Tapfer-Wurf erzwingen, aber der Schwierigkeitsgrad beträgt 3 + 2 pro Erschöpfungsstufe, auf die in dieser Runde des Kampfes verzichtet wurde.
+
+#### Gladiator
+
+Die Schule des Schwertmanns ist der Stil des Gründers Tremere, wie er in den Grundregeln beschrieben wird. Es ist ein ausgewogener, einfacher Stil, für den viele Lehrer verfügbar sind. Gerüchte halten sich, dass es eine Reihe geheimer Techniken für diese Schule gibt, die engagierten Anhängern erlauben, Vis wirksamer einzusetzen als andere Magi. Die Tremere behandeln diese Gerüchte als Angriff auf ihre Integrität — verlören andere Magi das Vertrauen in das Certamen-System, würde das dem Haus schaden. Die gemeinsamen Illusionen der Schule des Schwertmanns tendieren zur Menschengestalt und sind stark vom Sigil des Magus beeinflusst.
 
 #### Gladiatrix
 
@@ -4668,6 +4662,12 @@ Manche Mitglieder dieser Schule glauben, dass sie eine komplizierte Form des Tea
 #### Hoplomachus
 
 Dieser Stil, benannt nach Kriegern, die in Nachahmung der griechischen Hopliten gerüstet sind, opfert viele Vorteile zugunsten erhöhter Defensivkraft. Ein Hoplomachus kann Initiativewettbewerbe nicht gewinnen, außer gegen einen anderen Hoplomachus. Jede Runde reduziert der Hoplomachus seine Angriffssumme um bis zu seinen Finesse-Wert und erhöht dann seine Verteidigungssumme um bis zum Doppelten dieses Abzugs. In einer Runde, in der der Hoplomachus gänzlich auf einen Angriff verzichtet, erhält seine Verteidigungssumme einen Bonus des Dreifachen seines Finesse-Wertes. Andere Magi, die im Stil des Hoplomachus kämpfen, können in einer Runde auf den Angriff verzichten und einen Bonus auf ihre Verteidigungssumme in Höhe des Doppelten ihres Finesse-Wertes erhalten. Die vom Hoplomachus kontrollierte Hälfte der gemeinsamen Illusion tendiert dazu, langsam, aber ärgerlich beharrlich und schadensresistent zu sein.
+
+#### Knochenbeißer
+
+Diese Technik basiert auf den magischen Praktiken bestimmter irischer Barden und wurde von Magi des Hauses Diedne in den Orden gebracht. Sie erlaubt einem Magus, sich selbst zu verletzen, um Erschöpfung zu widerstehen oder die Stärke seines nächsten Angriffs zu erhöhen. Die engagierten Anhänger dieser Technik starben im Schismakrieg. Jene, die in diesem Stil kämpfen, fügen sich selbst eine Leichte Wunde zu und ignorieren entweder den Verlust der nächsten zwei Erschöpfungsstufen oder addieren zehn Punkte auf ihre nächste Angriffssumme. Traditionell beißt der Magus durch die Spitze des linken Daumens bis auf den Knochen.
+
+Im Jahr 1220 beißen die wenigen Magi, die diese Technik praktizieren, stattdessen auf ihre Zunge. Gelegentliches versehentliches Zungenbeißen kommt beim Certamen vor, sodass dies nicht wie eine offenkundig druidische Praxis aussieht. Es ist für diese Magi sehr schwierig, sich heimlich mehr als eine Körperstufe Schaden zuzufügen, da dies sich in der gemeinsamen Illusion widerspiegelt, mit Elementen von Blut und Feuer.
 
 #### Laquerius
 

@@ -215,6 +215,7 @@
 | Strong-Willed | Willensstark | |
 | Student of (Realm) | Student der (Sphäre) | |
 | Tough | Zäh | |
+| Troupe Upbringing | Zirkuserziehung | Aufgewachsen in einer Wandertruppe |
 | Unaging | Nicht-Alternd | |
 | Venus's Blessing | Venussegen | |
 | Warrior | Krieger | |

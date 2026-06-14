@@ -3430,7 +3430,7 @@ Das Glück lächelt dir zu und schützt dich oft vor den zufälligen Folgen des 
 
 Du kannst jede Sprache verstehen und sprechen, solange du direkt mit jemandem kommunizierst, der diese Sprache fließend beherrscht. Andere, die deine Worte hören und diese Sprache verstehen, können verstehen, was du sagst. Du kannst kein Gespräch in mehreren Sprachen gleichzeitig führen, aber du kannst als Übersetzer für zwei oder mehr Personen dienen, die diese Tugend nicht besitzen.
 
-### Großer Lastenträger
+#### Großer Lastenträger
 
 *Klein, Heroisch*
 
@@ -3484,7 +3484,7 @@ Du kannst dir Wort für Wort alle kurzen Botschaften merken, die du im letzten J
 
 Du stammst aus der Mutantum-Linie ab und kannst daher formulaische Zauber und magische Gegenstände erfinden, die Verstärkung, Zügelung und Fesselung nutzen (siehe Mutantum-Magie unter Magieregeln weiter oben). Du darfst auch die Tugend Gezähmte Magie nehmen, und die Hälfte deiner Startzauber darf „gezähmte" Versionen gewöhnlicher Zauber sein. Die meisten Charaktere mit Mutantum-Magie gehören Haus Mercere an und betrachten sich als Mutantes, und alle müssen durch Blut vom Gründer oder einem seiner Vorfahren abstammen.
 
-### Mythische (Eigenschaft)
+#### Mythische (Eigenschaft)
 
 *Klein, Heroisch*
 

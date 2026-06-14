@@ -376,6 +376,19 @@
 | Calliclean Ethics | Kallikleische Ethik | Tytalus-Philosophie |
 | Hippian Ethics | Hippianische Ethik | Tytalus-Philosophie |
 
+#### Haus Jerbiton / House Jerbiton
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Ceremony of Welcome / Festival of Welcome | Aufnahmezeremonie / Fest des Willkommens | Jährliche Feier im Tribunal der Hohen Alpen |
+| Steward of the House | Seneschall des Hauses | Verwalter zwischen Primaten; residiert in Valnastium |
+| antigones | Antigonen | Neue Jerbiton-Generation nach dem Fall Konstantinopels |
+| Gastronomers | Gastronomen | Jerbiton-Liga für Festmähler |
+| Itinerarium | Itinerarium | Bildungsreise junger Jerbiton-Lehrlinge |
+| Symposium | Symposium | Abendessen mit Debatte vor Tribunalen |
+| Black Lineage | Schwarze Linie | Katzen-Abstammungslinie vom Vertrauten des Gründers |
+| Nepotism | Günstlingswirtschaft | Praxis, Familienmitglieder als Agenten einzusetzen |
+
 ### Redaktionelle Konventionen / Editorial Conventions
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
