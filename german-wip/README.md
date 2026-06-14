@@ -17,7 +17,7 @@ Aktive Arbeitsdateien für laufende Übersetzungen und Korrekturen.
 | `Ars Magica 5e - Sphären der Macht - Magie.md` | Vollständige deutsche Übersetzung von „Realms of Power: Magic" (SdM:M) | 1–8821 | 2026-06-12 (Sync-Update: massive Umstrukturierung des EN-Originals übertragen – Überschriftenebenen, Textblöcke verschoben, Tabellen reformatiert, neue Zauber übersetzt) |
 | `Ars Magica 5e - Häuser des Hermes - Wahre Linien.md` | Vollständige deutsche Übersetzung von „Houses of Hermes: True Lineages" (HdH:WL) | 1–5011 | 2026-06-12 |
 | `Ars Magica Definitive Edition Basisregeln.md` | Vollständige deutsche Übersetzung der „Definitive Edition (Core Rules)" | 1–25723 | 2026-06-12 (Sync-Update: 2 Leerzeilen ergänzt für neue Errata-Einträge im EN-Original) |
-| `Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md` | Vollständige deutsche Übersetzung von „Houses of Hermes: Mystery Cults" (HdH:MK) | 1–5105 | 2026-06-13 |
+| `Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md` | Vollständige deutsche Übersetzung von „Houses of Hermes: Mystery Cults" (HdH:MK) | 1–5057 | 2026-06-14 (Sync-Update: 145 Änderungsstellen aus EN-Original übertragen – Überschriftenebenen, Blockquote-Formatierung, Absätze verschoben, Zauberblock-Format, OCR-Korrekturen, neue Absätze übersetzt) |
 
 ---
 
