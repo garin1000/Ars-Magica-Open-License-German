@@ -380,7 +380,7 @@
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
-| Story Seed | ABENTEUERIDEE | Abschnittskopf in Spielleiterteilen; **immer in Großbuchstaben**; nicht „Geschichtssamen" oder „Abenteuerkeim" |
+| Story Seed | Abenteueridee | Abschnittskopf in Spielleiterteilen; nicht „Geschichtssamen" oder „Abenteuerkeim" |
 
 ### Guardians of the Forests: The Rhine Tribunal (GotF) / Wächter des Waldes: Das Rhein-Tribunal (WdW)
 
