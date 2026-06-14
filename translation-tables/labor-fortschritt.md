@@ -72,6 +72,15 @@
 | Crisis | Krise | Bei Alterung |
 | Mystery Initiation | Mysterieneinweihung | |
 | Initiation Script | Einweihungsskript | |
+| Initiation Total | Einweihungssumme | Präsenz + (Haus-)Kunde + Skriptbonus |
+| Initiation Target Level | Einweihungs-Zielstufe | Abhängig von Tugendart (Klein/Groß) und ob Mystagoge die Tugend kennt |
+| Script bonus | Skriptbonus | Bonus eines Einweihungsskripts auf die Einweihungssumme |
+| Mystagogue | Mystagoge | Leiter einer Mysterieneinweihung |
+| Initiate (noun) | Einzuweihender / Eingeweihter | Empfänger einer Mysterieneinweihung |
+| Initiation Ordeal | Einweihungsprüfung | Erhalt eines Fehlers / Verlust einer Tugend als Preis der Einweihung |
+| Initiation Quest | Einweihungsqueste | Langwierige Reise mit Herausforderungen als Einweihungspreis |
+| Initiation Sacrifice | Einweihungsopfer | Opfer von Zeit, Reichtum, Wissen oder Macht |
+| Exoteric (Mystery) | Exoterisch (Mysterium) | Äußeres (Haus-)Mysterium; Gegensatz zu esoterisch/innerem Mysterium |
 | Warping | Verzerrung | |
 | Warping Points | Verzerrungspunkte | |
 | Twilight (Wizard's Twilight) | Das Zwielicht | |

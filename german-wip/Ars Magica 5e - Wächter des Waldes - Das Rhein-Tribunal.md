@@ -3286,7 +3286,7 @@ Der Konvent besteht aus zwei baulichen Anlagen, beide im selben Tal am Rand der 
 >#### Abenteueridee: Das Geheimnis ist gelüftet
 >Es erscheint erstaunlich, dass dieser Konvent so lange bestehen konnte, während eine Hälfte seiner Mitglieder völlig unwissend über das jährliche Menschenopfer der anderen Hälfte war. Offensichtlich ist hier irgendein übernatürlicher Einfluss am Werk, der verhindert, dass Geheimnisse ausgeplaudert werden. Sollten Severicus und seine Filii je herausfinden, was jedes Jahr auf dem Berg vor sich geht, wären sie entsetzt und bestürzt. Sie könnten Anklagen wegen Diabolismus erheben, versuchen, die heidnischen Magi vorbeugend zu verfolgen, oder, falls alles scheitert, ihnen den Krieg der Zauberer erklären. Dies könnte sowohl im Rhein- als auch im Transsilvanischen Tribunal Folgen haben.
 >
->Alternativ wissen die Tremere tatsächlich, was vor sich geht, entscheiden sich aber, es zu ignorieren. Angesichts der Haltung des Hauses Tremere gegenüber Religion im Allgemeinen und Menschenopfern im Besonderen (siehe *Houses of Hermes: True Lineages*) ist dies höchst ungewöhnlich — was darauf hindeutet, dass die Tremere in diesem Fall einen sehr guten Grund haben zu schweigen.
+>Alternativ wissen die Tremere tatsächlich, was vor sich geht, entscheiden sich aber, es zu ignorieren. Angesichts der Haltung des Hauses Tremere gegenüber Religion im Allgemeinen und Menschenopfern im Besonderen (siehe *Häuser des Hermes: Wahre Linien*) ist dies höchst ungewöhnlich — was darauf hindeutet, dass die Tremere in diesem Fall einen sehr guten Grund haben zu schweigen.
 
 ### Berg Radhost
 

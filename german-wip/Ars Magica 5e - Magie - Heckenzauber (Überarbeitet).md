@@ -11,7 +11,7 @@ Hermetische Magi glauben, die unangefochtenen Meister der Magie im Mythischen Eu
 
 Diese „Heckenzauberer" würden dem vehement widersprechen.
 
-Heckenzauber – Überarbeitete Ausgabe liefert alle Informationen, die nötig sind, um einen Heckenzauberer aus einer von sechs verschiedenen Traditionen zu spielen oder diese als Verbündete oder Widersacher für einen hermetischen Konvent einzuführen. Die Mathematici sind gelehrte Magier, die sich an Universitäten sammeln, während Volkshexen ihr Handwerk in den Dörfern ausüben. Elementaristen beherrschen die Bausteine der Wirklichkeit, während Gruagachan im Dienst der Gerechtigkeit Flüche und Segen verteilen. Nachtwandler verlassen ihre Körper, um für den Wohlstand ihrer Heimat zu kämpfen, während im hohen Norden die Vitkir als Runenmagier geduldig warten.
+Heckenzauber (Überarbeitete Ausgabe) liefert alle Informationen, die nötig sind, um einen Heckenzauberer aus einer von sechs verschiedenen Traditionen zu spielen oder diese als Verbündete oder Widersacher für einen hermetischen Konvent einzuführen. Die Mathematici sind gelehrte Magier, die sich an Universitäten sammeln, während Volkshexen ihr Handwerk in den Dörfern ausüben. Elementaristen beherrschen die Bausteine der Wirklichkeit, während Gruagachan im Dienst der Gerechtigkeit Flüche und Segen verteilen. Nachtwandler verlassen ihre Körper, um für den Wohlstand ihrer Heimat zu kämpfen, während im hohen Norden die Vitkir als Runenmagier geduldig warten.
 
 # Credits
 
@@ -401,11 +401,11 @@ Im Laufe der Jahrhunderte hatten Heckentraditionen ein gespanntes Verhältnis zu
 
 Es ist auch wichtig zu beachten, dass der Begriff „Heckenzauberer" in diesem Buch zwar für jeden Angehörigen einer Hecken-Tradition verwendet wird, der Orden des Hermes selbst aber gewöhnlich nur jene als „richtige" Zauberer betrachtet, die die Gabe besitzen. Schwache, unBegabte Heckenzauberer werden daher oft weder für würdig befunden, dem Orden beizutreten, noch als lohnenswert genug erachtet, um sie zu töten.
 
-Drei Gruppen von Magi interessieren sich wirklich für Heckentraditionen: eifrige Hopliten, die bisweilen das Land auf der Suche nach Heckenzauberern durchstreifen, um sich mit ihnen im Kampf zu messen; die Linie des Pralix (siehe *Houses of Hermes: Societates*, Seite 126), die versucht, Heckenzauberer in das Haus Ex Miscellanea einzuladen; und hermetische Theoretiker, die das Wissen der Heckentraditionen plündern und die Macht der hermetischen Magie erweitern wollen.
+Drei Gruppen von Magi interessieren sich wirklich für Heckentraditionen: eifrige Hopliten, die bisweilen das Land auf der Suche nach Heckenzauberern durchstreifen, um sich mit ihnen im Kampf zu messen; die Linie des Pralix (siehe *Häuser des Hermes: Gemeinschaften*, Seite 126), die versucht, Heckenzauberer in das Haus Ex Miscellanea einzuladen; und hermetische Theoretiker, die das Wissen der Heckentraditionen plündern und die Macht der hermetischen Magie erweitern wollen.
 
 ### Konvertiten zum Orden
 
-Manchmal tritt ein Heckenzauberer dem Orden des Hermes bei und wird Mitglied des Hauses Ex Miscellanea. *Houses of Hermes: Societates* beschreibt das Haus Ex Miscellanea im Detail, einschließlich der Stellung neu konvertierter Heckenzauberer im Haus und im weiteren Orden.
+Manchmal tritt ein Heckenzauberer dem Orden des Hermes bei und wird Mitglied des Hauses Ex Miscellanea. *Häuser des Hermes: Gemeinschaften* beschreibt das Haus Ex Miscellanea im Detail, einschließlich der Stellung neu konvertierter Heckenzauberer im Haus und im weiteren Orden.
 
 Wenn du einen einzelnen Begabten Heckenzauberer-Charakter spielen möchtest, der dem Orden des Hermes beigetreten ist, verwende die Charaktererschaffungsregeln der Hecken-Tradition bis zu dem Zeitpunkt, an dem der Charakter den Eid des Hermes schwört. Sobald der Charakter den Eid des Hermes geschworen hat, erhält er die freie Sozialer-Status-Tugend Hermetischer Magus (siehe ArM5, Seite 43), die alle anderen Sozialen Status ersetzt, und setzt dann die Charaktererschaffung fort, als wäre er ein hermetischer Magus. Er kann in der Arkanen Fertigkeit Parma Magica und jeder anderen Fertigkeit unterrichtet werden, die einem normalen hermetischen Magus-Charakter zugänglich ist; er kann auch an einigen Mysterienkults teilnehmen. Er ist jedoch nicht in der Lage, hermetische Künste zu erlernen, es sei denn, seine Gabe wird für die hermetischen Künste erschlossen. Dies ist häufig unmöglich und kann seine Heckenzauber-Kräfte zerstören (siehe unten und ArM5, Seite 106–107).
 
@@ -512,7 +512,7 @@ Ein Charakter, dessen Gabe erschlossen wurde, muss beim Versuch, eine neue Über
 
 >#### Erschließung der Künste
 >
->Die hermetische Erschließung der Künste ist das Äquivalent des Ordens des Hermes zur Erschließung der Gabe. Regeln hierfür finden sich in ArM5 (Seite 106) und erneut in Houses of Hermes: Societates (Seite 128), aber sie behandeln nicht die Möglichkeit, dass die Gabe des Lehrlings bereits von einer anderen Tradition erschlossen wurde. Wenn ein Magus versucht, die Künste eines Lehrlings zu erschließen, dessen Gabe bereits von einer Hecken-Tradition erschlossen wurde, werden 30 zur erforderlichen Intellego-Vim-Laborsumme des Magus addiert.
+>Die hermetische Erschließung der Künste ist das Äquivalent des Ordens des Hermes zur Erschließung der Gabe. Regeln hierfür finden sich in ArM5 (Seite 106) und erneut in Häuser des Hermes: Gemeinschaften (Seite 128), aber sie behandeln nicht die Möglichkeit, dass die Gabe des Lehrlings bereits von einer anderen Tradition erschlossen wurde. Wenn ein Magus versucht, die Künste eines Lehrlings zu erschließen, dessen Gabe bereits von einer Hecken-Tradition erschlossen wurde, werden 30 zur erforderlichen Intellego-Vim-Laborsumme des Magus addiert.
 
 #### Sozialer Nachteil der Gabe
 
@@ -544,7 +544,7 @@ Originäre Forschung (entweder durch die Heckenzauberer selbst oder durch hilfre
 
 #### Beschleunigte Fertigkeiten
 
-Beschleunigte Fertigkeiten sind das Gegenstück zu Schwierigen Künsten, eingeführt in *Houses of Hermes: Societates*. Sie werden auf dieselbe Weise wie Künste gesteigert und kosten einen Erfahrungspunkt für einen Wert von 1; bei der Charaktererschaffung sind sie nicht in ihrer Stufe beschränkt, werden aber ansonsten in jeder Hinsicht als Fertigkeiten behandelt.
+Beschleunigte Fertigkeiten sind das Gegenstück zu Schwierigen Künsten, eingeführt in *Häuser des Hermes: Gemeinschaften*. Sie werden auf dieselbe Weise wie Künste gesteigert und kosten einen Erfahrungspunkt für einen Wert von 1; bei der Charaktererschaffung sind sie nicht in ihrer Stufe beschränkt, werden aber ansonsten in jeder Hinsicht als Fertigkeiten behandelt.
 
 #### Bevorzugte Fertigkeiten
 
@@ -726,7 +726,7 @@ Während des Spiels kann ein Heckenzauberer-Charakter Fertigkeiten und Künste a
 
 #### Einweihungen
 
-Einige Heckentraditionen vermitteln einige ihrer Kräfte durch Einweihungsriten. Diese ähneln den Einweihungsriten hermetischer Mysterienkults; vollständige Regeln dafür sind in Houses of Hermes: Mystery Cults und The Mysteries Revised Edition abgedruckt.
+Einige Heckentraditionen vermitteln einige ihrer Kräfte durch Einweihungsriten. Diese ähneln den Einweihungsriten hermetischer Mysterienkults; vollständige Regeln dafür sind in Häuser des Hermes: Mysterienkulte und Die Mysterien (Überarbeitete Ausgabe) abgedruckt.
 
 Das allgemeine Verfahren für eine Einweihung in einer Hecken-Tradition ist, dass ein Mitglied der Hecken-Tradition (der Mystagoge) den Charakter (den Einzuweihenden) bei einer Aufgabe oder einer Reihe von Aufgaben anleitet, die für die Tradition mystische Bedeutung haben und in der Regel mindestens ein Quartal in Anspruch nehmen. Nach Abschluss der Aufgabe(n) wird eine Einweihungssumme berechnet und mit einem Schwierigkeitsgrad verglichen. Wird der Schwierigkeitsgrad überschritten, ist die Einweihung erfolgreich, und der Einzuweihende erlangt eine neue Kraft (gewöhnlich als Tugend dargestellt). Wenn der Mystagoge die Kraft nicht persönlich beherrscht, erhöht sich der Schwierigkeitsgrad um 3 (bei einer Kleinen Tugend) oder um 9 (bei einer Großen Tugend). Dies ist am häufigsten der Fall, wenn der Charakter als sein eigener Mystagoge fungiert und versucht, sich selbst einzuweihen. Einige Heckentraditionen bieten den Charakteren nicht die Möglichkeit, sich selbst einzuweihen – auch wenn die Gründer der Tradition dies möglicherweise beherrschten.
 
@@ -825,7 +825,7 @@ Der auf diese Weise erzeugte Effekt kann von anderen hermetischen Magi reproduzi
 >
 >### Der Plagiator
 >
->Andere Magi werden darauf aufmerksam, dass der Magus Einsichten von einem Heckenzauberer lernt, und sind abfällig über seine Methoden. Selbst wenn der Durchbruch bedeutend und erfolgreich ist, wird der Magus nicht als dessen Urheber verehrt. Der Magus erlangt eine Reputation für minderwertige Forschung, und ein Bonisagus-Magus erhält kein Ansehen für die Vollendung dieses Durchbruchs (siehe *Houses of Hermes: True Lineages*, Seite 21), es sei denn, er kann seine Fachkollegen davon überzeugen, dass der Heckenzauberer nur einen geringen Beitrag zum Projekt geleistet hat. Diese Geschichte ist besonders geeignet, wenn der Heckenzauberer ein Spielercharakter ist.
+>Andere Magi werden darauf aufmerksam, dass der Magus Einsichten von einem Heckenzauberer lernt, und sind abfällig über seine Methoden. Selbst wenn der Durchbruch bedeutend und erfolgreich ist, wird der Magus nicht als dessen Urheber verehrt. Der Magus erlangt eine Reputation für minderwertige Forschung, und ein Bonisagus-Magus erhält kein Ansehen für die Vollendung dieses Durchbruchs (siehe *Häuser des Hermes: Wahre Linien*, Seite 21), es sei denn, er kann seine Fachkollegen davon überzeugen, dass der Heckenzauberer nur einen geringen Beitrag zum Projekt geleistet hat. Diese Geschichte ist besonders geeignet, wenn der Heckenzauberer ein Spielercharakter ist.
 
 ### Nach dem Durchbruch
 
@@ -833,7 +833,7 @@ Kleine Durchbrüche sind sofort im Spiel verwendbar und für alle hermetischen M
 
 Große und Hermetische Durchbrüche müssen hermetischen Magi direkt vermittelt werden. Eine Fertigkeit kann auf die übliche Weise gelehrt werden, entweder persönlich oder durch Bücher. Der Entdecker wandelt seine Durchbruchpunkte in Erfahrungspunkte in der neuen Fertigkeit um, sodass ein Magus, der 50 Durchbruchpunkte zur Integration einer Fertigkeit angesammelt hat, mit einem Wert von 4 beginnen würde.
 
-Eine neue Tugend kann nach den normalen Regeln für Mysterien eingeweiht werden. Der Entdecker erhält die Tugend, wenn er die Integration abschließt, und muss nicht selbst eingeweiht werden. Er muss ein Einweihungsskript entwerfen, nach den Regeln in *The Mysteries Revised Edition*.
+Eine neue Tugend kann nach den normalen Regeln für Mysterien eingeweiht werden. Der Entdecker erhält die Tugend, wenn er die Integration abschließt, und muss nicht selbst eingeweiht werden. Er muss ein Einweihungsskript entwerfen, nach den Regeln in *Die Mysterien (Überarbeitete Ausgabe)*.
 
 Einen Großen oder Hermetischen Durchbruch zu erfinden, der kein Unterrichten erfordert, erfordert einen weiteren Großen Durchbruch, der entweder nach diesen Regeln oder den Regeln für Originäre Forschung erzielt werden kann. Gelingt dies, kann jeder Magus einen Effekt unter Verwendung des Durchbruchs erschaffen, solange er einen Labortext besitzt, und den Durchbruch dann frei verwenden. Wie bei Kleinen Durchbrüchen gilt dasselbe für jeden Magus, der von einem Magus in Künsten oder Zaubern unterrichtet wird, der den Durchbruch versteht.
 
@@ -847,7 +847,7 @@ Einen Großen oder Hermetischen Durchbruch zu erfinden, der kein Unterrichten er
 
 >#### Originäre Forschung und Alte Magie
 >
->Houses of Hermes: True Lineages enthält Regeln für Originäre Forschung – das Hinzufügen von Merkmalen zur hermetischen Magie, die allein auf der Inspiration eines Magus beruhen. Die Integration von Heckentraditionen ist tendenziell schneller und sicherer, hat aber zwei Nachteile. Erstens kann der Magus nur auf die Durchbrüche abzielen, die in der Hecken-Tradition vorhanden sind. Zweitens muss er sein Labor verlassen und (möglicherweise unkooperative) Einsichtsquellen finden. Aus der Perspektive des Spielleiters können dies natürlich Vorteile sein.
+>Häuser des Hermes: Wahre Linien enthält Regeln für Originäre Forschung – das Hinzufügen von Merkmalen zur hermetischen Magie, die allein auf der Inspiration eines Magus beruhen. Die Integration von Heckentraditionen ist tendenziell schneller und sicherer, hat aber zwei Nachteile. Erstens kann der Magus nur auf die Durchbrüche abzielen, die in der Hecken-Tradition vorhanden sind. Zweitens muss er sein Labor verlassen und (möglicherweise unkooperative) Einsichtsquellen finden. Aus der Perspektive des Spielleiters können dies natürlich Vorteile sein.
 >
 >Die beiden Regelwerke sind ähnlich, und beide Ansätze können für einen einzelnen Durchbruch verwendet werden. Das bedeutet, dass Durchbruchpunkte aus der Integration zu Durchbruchpunkten aus Originärer Forschung addiert werden können, um festzustellen, ob ein Durchbruch erzielt wurde.
 >
@@ -1090,7 +1090,7 @@ Der Spielleiter sollte diese elementaren Eigenschaften nutzen, um den Elementari
 
 ## Elementaristische Formen
 
-Jede der Formen kann potenziell Elementare und andere übernatürliche Wesen beeinflussen, die mit den vier Elementen verbunden sind, sowie die vier Körpersäfte und Tiere oder andere Naturphänomene, abhängig von der Art der Elementaristischen Techniken, mit denen sie kombiniert werden. Weitere Informationen über Elementare finden sich in Sphären der Macht: Magie, Seiten 132-139, und das Studium der Medizin und Philosophiae wird in Kunst & Akademie ausführlicher behandelt.
+Jede der Formen kann potenziell Elementare und andere übernatürliche Wesen beeinflussen, die mit den vier Elementen verbunden sind, sowie die vier Körpersäfte und Tiere oder andere Naturphänomene, abhängig von der Art der Elementaristischen Techniken, mit denen sie kombiniert werden. Weitere Informationen über Elementare finden sich in Sphären der Macht: Magie, Seiten 132-139, und das Studium der Medizin und Philosophiae wird in Kunst & Gelehrsamkeit ausführlicher behandelt.
 
 ### Elementaristische Luft
 
@@ -1188,7 +1188,7 @@ Ein Patzer beim Herbeirufungswurf bedeutet, dass der Elementarist die Kontrolle 
 
 #### Medizinisch
 
-Mit Medizinischer Magie kann der Charakter Herbeirufen einsetzen, um die Körpersäfte im menschlichen Körper zu verändern, Krankheiten zu heilen und Krisen zu überwinden. Dies könnte als Herbeirufen der notwendigen Körpersäfte betrachtet werden, um den Körper in sein natürliches Gleichgewicht zurückzuführen, obwohl dies keine Wirkung auf Wunden hat, die nicht durch Entbehrung, Krankheit oder Altern verursacht wurden. Herbeirufen kann die Körpersäfte auch stark genug aus dem Gleichgewicht bringen, um eine Krankheit zu verursachen, indem die Körpersäfte aus dem Körper gezogen werden. Der Elementarmediziner muss das Ziel berühren, und wenn du die Krankheitsregeln aus Kunst & Akademie verwendest, bestimmt die Herbeirufen-Summe die Stärke der Krankheit, die verursacht oder geheilt wird. Andernfalls beeinflusst eine Herbeirufen-Summe, die der Größe des Ziels entspricht (wie in der obigen Tabelle aufgeführt), eine Krankheit, die einer Leichten Wunde oder einer geringfügigen Krankheit entspricht; eine Magnitude mehr beeinflusst eine Krankheit, die einer Mittelschweren Wunde oder einer ernsthaften Krankheit entspricht, zwei Magnituden mehr für eine Schwere Wunde oder eine schwere Krankheit, und drei Magnituden mehr für eine Lähmende Wunde oder eine kritische Krankheit. Die in der Herbeirufen-Summe verwendete Elementaristische Form sollte die Form sein, die am besten zur Art der Krankheit passt, und dieser Effekt muss die Magieresistenz des Ziels penetrieren, falls vorhanden.
+Mit Medizinischer Magie kann der Charakter Herbeirufen einsetzen, um die Körpersäfte im menschlichen Körper zu verändern, Krankheiten zu heilen und Krisen zu überwinden. Dies könnte als Herbeirufen der notwendigen Körpersäfte betrachtet werden, um den Körper in sein natürliches Gleichgewicht zurückzuführen, obwohl dies keine Wirkung auf Wunden hat, die nicht durch Entbehrung, Krankheit oder Altern verursacht wurden. Herbeirufen kann die Körpersäfte auch stark genug aus dem Gleichgewicht bringen, um eine Krankheit zu verursachen, indem die Körpersäfte aus dem Körper gezogen werden. Der Elementarmediziner muss das Ziel berühren, und wenn du die Krankheitsregeln aus Kunst & Gelehrsamkeit verwendest, bestimmt die Herbeirufen-Summe die Stärke der Krankheit, die verursacht oder geheilt wird. Andernfalls beeinflusst eine Herbeirufen-Summe, die der Größe des Ziels entspricht (wie in der obigen Tabelle aufgeführt), eine Krankheit, die einer Leichten Wunde oder einer geringfügigen Krankheit entspricht; eine Magnitude mehr beeinflusst eine Krankheit, die einer Mittelschweren Wunde oder einer ernsthaften Krankheit entspricht, zwei Magnituden mehr für eine Schwere Wunde oder eine schwere Krankheit, und drei Magnituden mehr für eine Lähmende Wunde oder eine kritische Krankheit. Die in der Herbeirufen-Summe verwendete Elementaristische Form sollte die Form sein, die am besten zur Art der Krankheit passt, und dieser Effekt muss die Magieresistenz des Ziels penetrieren, falls vorhanden.
 
 #### Philosophisch
 
@@ -2018,7 +2018,7 @@ Eine Volkshexe kann ein Tier als Vertrauten an sich binden. Dies ist eine Labora
 
 **BINDUNGSSUMME FÜR VOLKSHEXEN-VERTRAUTE:** 10 + Größe des Vertrauten + Magische Macht des Vertrauten
 
-Es ist für eine Volkshexe recht einfach, ein kleines, nicht-magisches Tier (wie eine Katze, die eine negative Größe hat) als Vertrauten zu binden, und viele Volkshexen tun dies. Es ist deutlich schwieriger für Volkshexen mit niedrigen Tierverständnis-Laborsummen, ein Tier mit Magischer Macht zu binden, weshalb magische Vertraute selten sind. Der Anhang „Buch der Weltlichen Tiere" in Sphären der Macht: Magie und das Bjornaer-Kapitel von Houses of Hermes: Mystery Cults (Seite 38) enthalten Werte für weltliche Tiere, die als Vertraute geeignet sein können. Sphären der Macht: Magie enthält auch Regeln zur Erschaffung magischer Tiere.
+Es ist für eine Volkshexe recht einfach, ein kleines, nicht-magisches Tier (wie eine Katze, die eine negative Größe hat) als Vertrauten zu binden, und viele Volkshexen tun dies. Es ist deutlich schwieriger für Volkshexen mit niedrigen Tierverständnis-Laborsummen, ein Tier mit Magischer Macht zu binden, weshalb magische Vertraute selten sind. Der Anhang „Buch der Weltlichen Tiere" in Sphären der Macht: Magie und das Bjornaer-Kapitel von Häuser des Hermes: Mysterienkulte (Seite 38) enthalten Werte für weltliche Tiere, die als Vertraute geeignet sein können. Sphären der Macht: Magie enthält auch Regeln zur Erschaffung magischer Tiere.
 
 Eine Volkshexe kann nur einen gebundenen Vertrauten haben, darf aber einen neuen binden, wenn der aktuelle stirbt.
 
@@ -2223,7 +2223,7 @@ An jedem Sabbattermin gibt es nur ein begrenztes Zeitfenster, in dem diese hilfr
 
 >#### ABENTEUERIDEE: Der Große Sabbat
 >
->Manche Magi behaupten, von einem Großen Sabbat zu wissen, der alle 101 Jahre stattfindet und an dem Volkshexen aus dem gesamten Mythischen Europa teilnehmen. Doch angesichts der unorganisierten Natur der Volkshexen findet ein solches Ereignis wahrscheinlich nur in ihrer Vorstellung statt. Im Stonehenge-Tribunal trifft sich jedoch eine kleine Anzahl von Volkshexen-Zirkeln tatsächlich jedes Jahr zu Allerheiligen zu einem Fest, das sie in der Tat Großer Sabbat nennen. Im Rheintribunal trifft sich eine andere Gruppe von Zirkeln zu einem Großen Sabbat, der in der Walpurgisnacht am Hexenaltar auf dem Blocksberg (dem Brocken) abgehalten wird (siehe *Guardians of the Forests*, Seite 80). Magi, die zufällig auf diese Ereignisse stoßen, könnten über eine derart organisierte Aktivität beunruhigt sein und sogar spekulieren, dass diese „Schattentribunale" Beweise für Flüchtlinge des Schismakriegs sind – oder deren Nachkommen –, die sich als Volkshexen tarnen.
+>Manche Magi behaupten, von einem Großen Sabbat zu wissen, der alle 101 Jahre stattfindet und an dem Volkshexen aus dem gesamten Mythischen Europa teilnehmen. Doch angesichts der unorganisierten Natur der Volkshexen findet ein solches Ereignis wahrscheinlich nur in ihrer Vorstellung statt. Im Stonehenge-Tribunal trifft sich jedoch eine kleine Anzahl von Volkshexen-Zirkeln tatsächlich jedes Jahr zu Allerheiligen zu einem Fest, das sie in der Tat Großer Sabbat nennen. Im Rheintribunal trifft sich eine andere Gruppe von Zirkeln zu einem Großen Sabbat, der in der Walpurgisnacht am Hexenaltar auf dem Blocksberg (dem Brocken) abgehalten wird (siehe *Wächter des Waldes*, Seite 80). Magi, die zufällig auf diese Ereignisse stoßen, könnten über eine derart organisierte Aktivität beunruhigt sein und sogar spekulieren, dass diese „Schattentribunale" Beweise für Flüchtlinge des Schismakriegs sind – oder deren Nachkommen –, die sich als Volkshexen tarnen.
 
 ### Erschaffung eines Hexenzirkels
 
@@ -2556,7 +2556,7 @@ Anders als bei einem normalen Integrationsergebnis gewinnt der erfindende Charak
 >
 >**Lang verlorene Macht**
 >
->Die Magi der Linie des Pralix (siehe *Houses of Hermes: Societates*, Seite 126) erzielen diesen Durchbruch und erschließen die Künste einer Reihe von Lehrlingen mithilfe der Behutsamen Erschließung. Den neuen Lehrlingen wird dann Zugang zu einer geheimen Bibliothek gewährt, die viele Bücher enthält, die im Laufe der Jahrhunderte von zum Orden des Hermes konvertierten Heckenzauberern geschrieben wurden. Durch das Studium des Bücherbestands können die Lehrlinge exotische Übernatürliche Fertigkeiten erlernen, die dem Orden des Hermes als verloren galten.
+>Die Magi der Linie des Pralix (siehe *Häuser des Hermes: Gemeinschaften*, Seite 126) erzielen diesen Durchbruch und erschließen die Künste einer Reihe von Lehrlingen mithilfe der Behutsamen Erschließung. Den neuen Lehrlingen wird dann Zugang zu einer geheimen Bibliothek gewährt, die viele Bücher enthält, die im Laufe der Jahrhunderte von zum Orden des Hermes konvertierten Heckenzauberern geschrieben wurden. Durch das Studium des Bücherbestands können die Lehrlinge exotische Übernatürliche Fertigkeiten erlernen, die dem Orden des Hermes als verloren galten.
 >
 >**Unterwanderung durch den Orden Odins**
 >
@@ -3111,7 +3111,7 @@ Der Fetch ist ein magischer Geist, der ein Aspekt der Persönlichkeit des Charak
 
 >#### Geistermagie
 >
->Die Magie der Gruagachan kann die Toten oder ihre Geister nicht beeinflussen. Einige Gruagachan sind jedoch in der Lage, Geister über andere Machtquellen zu kontaktieren, zu beschwören und zu befehligen. Sollte ein Spieler einen solchen Charakter erstellen wollen, möge er die Regeln für Ars Goetica konsultieren (Herrschaftssphären: Das Infernale, Seite 114).
+>Die Magie der Gruagachan kann die Toten oder ihre Geister nicht beeinflussen. Einige Gruagachan sind jedoch in der Lage, Geister über andere Machtquellen zu kontaktieren, zu beschwören und zu befehligen. Sollte ein Spieler einen solchen Charakter erstellen wollen, möge er die Regeln für Ars Goetica konsultieren (Sphären der Macht: Das Infernale, Seite 114).
 
 #### Extraktion der Seele aus ihrer Hülle
 **Einweihungs-Schwierigkeitsgrad:** 21/30<br>
@@ -3499,7 +3499,7 @@ Wenn die Stufe des Zaubers plus eines einzelnen Stresswürfels die Stufe des ang
 NeFl Stufe Gen<br>
 R: Gespräch, D: Mom, Z: Ind
 
-Wenn die Stufe des Zaubers plus eines einzelnen Stresswürfels das Doppelte der Zauberstufe des angezielten Zaubers erreicht oder übertrifft, wird er entfernt. Um die äquivalente Zauberstufe einer Übernatürlichen Fertigkeit zu bestimmen, verwende den Fertigkeitswert x 5. Siehe Houses of Hermes: Societates, Ex Miscellanea, Seite 104. Ein Gruagach muss lediglich die Zauberstufe eines Fluchs, den er selbst gewirkt hat, erreichen oder übertreffen, um ihn zu entfernen.
+Wenn die Stufe des Zaubers plus eines einzelnen Stresswürfels das Doppelte der Zauberstufe des angezielten Zaubers erreicht oder übertrifft, wird er entfernt. Um die äquivalente Zauberstufe einer Übernatürlichen Fertigkeit zu bestimmen, verwende den Fertigkeitswert x 5. Siehe Häuser des Hermes: Gemeinschaften, Ex Miscellanea, Seite 104. Ein Gruagach muss lediglich die Zauberstufe eines Fluchs, den er selbst gewirkt hat, erreichen oder übertreffen, um ihn zu entfernen.
 
 (Basis)
 
@@ -3581,7 +3581,7 @@ Für die Dauer des Zaubers wächst der Zaubernde zu Riesengröße heran. Die Gr�
 NeGe Stufe Gen<br>
 R: Gespräch, D: Mom, Z: Ind
 
-Wenn die Stufe des Zaubers plus eines einzelnen Stresswürfels das Doppelte der Zauberstufe des die Verwandlung verursachenden Zaubers erreicht oder übertrifft, wird er aufgehoben. Um die äquivalente Zauberstufe einer Übernatürlichen Fertigkeit zu bestimmen, verwende den Fertigkeitswert x 5. Siehe Houses of Hermes: Societates, Ex Miscellanea, Seite 104. Ein Gruagach muss lediglich die Zauberstufe eines Zaubers, den er selbst gewirkt hat, erreichen oder übertreffen, um das Ziel in seine ursprüngliche Gestalt zurückkehren zu lassen.
+Wenn die Stufe des Zaubers plus eines einzelnen Stresswürfels das Doppelte der Zauberstufe des die Verwandlung verursachenden Zaubers erreicht oder übertrifft, wird er aufgehoben. Um die äquivalente Zauberstufe einer Übernatürlichen Fertigkeit zu bestimmen, verwende den Fertigkeitswert x 5. Siehe Häuser des Hermes: Gemeinschaften, Ex Miscellanea, Seite 104. Ein Gruagach muss lediglich die Zauberstufe eines Zaubers, den er selbst gewirkt hat, erreichen oder übertreffen, um das Ziel in seine ursprüngliche Gestalt zurückkehren zu lassen.
 
 (Basis)
 
@@ -3745,7 +3745,7 @@ Wenn ein Charakter einen Verzerrungswert von 10 erreicht, ist die Transformation
 
 **Vermindertes Wissen:** Der Gruagach verliert Erfahrungspunkte in einer bereits vorhandenen Kunst in Höhe des Verzerrungswerts des Charakters + einfachem Würfel.
 
-\* Ein Charakter mit dem Fehler Abstoßend (siehe *Realms of Power: The Infernal*, Seite 89) erleidet einen Abzug von –6 auf alle Würfe, die Vertrauen erfordern. Der Charakter erhält einen kleinen Vorteil als Begleitung seiner monströsen Erscheinung. Schuppen gewähren +3 Absorption, und Hörner, Reißzähne und Klauen können im Kampf eingesetzt werden und haben dieselben Initiative-, Angriffs-, Verteidigungs- und Schadensmodifikatoren wie Dolche.
+\* Ein Charakter mit dem Fehler Abstoßend (siehe *Sphären der Macht: Das Infernale*, Seite 89) erleidet einen Abzug von –6 auf alle Würfe, die Vertrauen erfordern. Der Charakter erhält einen kleinen Vorteil als Begleitung seiner monströsen Erscheinung. Schuppen gewähren +3 Absorption, und Hörner, Reißzähne und Klauen können im Kampf eingesetzt werden und haben dieselben Initiative-, Angriffs-, Verteidigungs- und Schadensmodifikatoren wie Dolche.
 
 ## Gruagachan in eurer Saga
 
@@ -4033,7 +4033,7 @@ Der Verzerrungsprozess der Kolduni verwandelt sie nicht in Trolle, sondern folgt
 
 #### Charaktere
 
-Kolduni verwenden die gleichen grundlegenden Regeln zur Charaktererschaffung, die zuvor beschrieben wurden. Neben ihren Künsten widmen Kolduni ihre Zeit häufig dem Erlernen von Chirurgie, Kräuterkunde, Koldovali-Theorie, Koldun-Kunde, Feenkunde und Magiekunde. Kolduni können den Sozialen Status Weiser oder Ausgestoßener besitzen. Neben den erforderlichen und Bevorzugten Tugenden umfassen passende Tugenden und Fehler: Feenblut, Vorahnungen, Zweites Gesicht, Student der Feensphäre, Feenfreund und Visionen. Siehe Realms of Power: Faerie für zusätzliche Tugenden, Fehler und Geschichtsideen.
+Kolduni verwenden die gleichen grundlegenden Regeln zur Charaktererschaffung, die zuvor beschrieben wurden. Neben ihren Künsten widmen Kolduni ihre Zeit häufig dem Erlernen von Chirurgie, Kräuterkunde, Koldovali-Theorie, Koldun-Kunde, Feenkunde und Magiekunde. Kolduni können den Sozialen Status Weiser oder Ausgestoßener besitzen. Neben den erforderlichen und Bevorzugten Tugenden umfassen passende Tugenden und Fehler: Feenblut, Vorahnungen, Zweites Gesicht, Student der Feensphäre, Feenfreund und Visionen. Siehe Sphären der Macht: Feenwelt für zusätzliche Tugenden, Fehler und Geschichtsideen.
 
 ## Integration der Gruagach-Magie
 
@@ -4142,7 +4142,7 @@ Frei, Sozialer Status
 
 Der Charakter ist Mitglied der magischen Tradition der Mathematici von Bologna. Der Charakter darf Zauberformeln wirken und Laboraktivitäten nach den Regeln dieses Kapitels durchführen. Um diesen Sozialen Status zu besitzen, muss der Charakter mindestens eine Heckentechnik und -form aus diesem Kapitel haben.
 
-Ein Mathematicus muss zudem einen Sozialen Status besitzen, der seine Rolle in der weltlichen Gesellschaft definiert; geeignete Beispiele umfassen: Kleriker, Edelmann, Landadliger, Magister in Artibus, Bettelmönch oder Priester. Die in den Kapiteln über Universitäten und Medizin von Art & Academe aufgeführten Sozialen Status sind sehr passend, ebenso wie jene in Sphären der Macht: Das Göttliche, Seiten 92–93. Diese Listen sind nicht erschöpfend, und die Spieltruppe darf zusätzliche Soziale Status einbeziehen, die für den Charakter des Gelehrten Magiers angemessen sind. Das Maß an Freiheit, das ein Mathematicus zum Studieren hat, basiert auf seinem anderen Sozialen Status oder darauf, ob er die Tugend Wohlhabend oder den Fehler Arm besitzt.
+Ein Mathematicus muss zudem einen Sozialen Status besitzen, der seine Rolle in der weltlichen Gesellschaft definiert; geeignete Beispiele umfassen: Kleriker, Edelmann, Landadliger, Magister in Artibus, Bettelmönch oder Priester. Die in den Kapiteln über Universitäten und Medizin von Kunst & Gelehrsamkeit aufgeführten Sozialen Status sind sehr passend, ebenso wie jene in Sphären der Macht: Das Göttliche, Seiten 92–93. Diese Listen sind nicht erschöpfend, und die Spieltruppe darf zusätzliche Soziale Status einbeziehen, die für den Charakter des Gelehrten Magiers angemessen sind. Das Maß an Freiheit, das ein Mathematicus zum Studieren hat, basiert auf seinem anderen Sozialen Status oder darauf, ob er die Tugend Wohlhabend oder den Fehler Arm besitzt.
 
 **Die Mächte anrufen**<br>
 Groß, Übernatürlich
@@ -4153,7 +4153,7 @@ ten ausführlich beschrieben. Siehe Magie der Gelehrten Magier: Abschwächung vo
 **Mythische Alchemie**<br>
 Groß, Übernatürlich
 
-Diese Tugend verleiht dem Charakter einen Wert von 1 in der Übernatürlichen Fertigkeit Mythische Alchemie. Mythische Alchemisten können tatsächlich Arten von Atomen durch die Anwendung magischer statt philosophischer Techniken in andere Arten von Atomen umwandeln. Diese Fertigkeit erfordert stets mindestens ein Quartal Arbeit in einem ordnungsgemäß ausgestatteten alchemistischen Laboratorium. Die hier beschriebenen Regeln bauen auf den Regeln für Alchemisten in *Art & Academe*, Kapitel 5: Experimentelle Philosophie, auf.
+Diese Tugend verleiht dem Charakter einen Wert von 1 in der Übernatürlichen Fertigkeit Mythische Alchemie. Mythische Alchemisten können tatsächlich Arten von Atomen durch die Anwendung magischer statt philosophischer Techniken in andere Arten von Atomen umwandeln. Diese Fertigkeit erfordert stets mindestens ein Quartal Arbeit in einem ordnungsgemäß ausgestatteten alchemistischen Laboratorium. Die hier beschriebenen Regeln bauen auf den Regeln für Alchemisten in *Kunst & Gelehrsamkeit*, Kapitel 5: Experimentelle Philosophie, auf.
 
 Kurzgefasst: Eine Formel wird in einem Quartal erfunden, indem 5 Erfahrungspunkte erworben werden. Formeln werden wie Zauber beschrieben, mit einem einzelnen Parameter namens Veränderung, der die Magnitude der Änderung beschreibt. Die Formel wird verwendet, um in einem Quartal eine Reagenz herzustellen, unter Verwendung einer Laborsumme gleich Intelligenz + Philosophiae, und der Alchemist muss Punkte über der Stufe der Formel ansammeln, genau wie beim Erfinden eines Zaubers. Mythische Alchemisten sind ihren nicht-magischen Kollegen darin überlegen, und sie dürfen ihre Mythische Alchemie zu ihren Laborsummen für die Herstellung beliebiger alchemistischer Reagenzien addieren.
 
@@ -4161,7 +4161,7 @@ Charaktere mit dieser Tugend können Formeln ersinnen, die Leitlinien für alche
 
 Gelehrte Magier mit der Tugend Mythische Alchemie dürfen Vis gewinnen und überführen, wie in ArM5, Seite 94, beschrieben. Der Mythische Alchemist verwendet seine Succurro-Magicam-Laborsumme, um die Anzahl der Bauern Vim-Vis zu bestimmen, die er aus einer Magieaura gewinnen kann. Ersetze den Wert des Charakters in Mythische Alchemie durch die Magietheorie, um die Anzahl der Bauern zu bestimmen, die ein Charakter in einem einzelnen Quartal verwenden darf.
 
-Mythische Alchemisten können auch die Rohmaterialien für einen Handwerker so aufbereiten, dass der Schwierigkeitsgrad für die Herstellung Überlegener, Exzellenter oder Wunderbarer Gegenstände gesenkt wird; siehe City & Guild, Seiten 63–73. Der Alchemist stellt eine Reagenz in Form der Hauptkomponente des herzustellenden Gegenstands her. Um zum Beispiel überlegene Schwerter oder Rüstungen herzustellen, müsste der Alchemist das verwendete Metall behandeln, nicht aber das Leder für den Griff oder die Riemen. Der Alchemist darf genug Rohmaterialien aufbereiten, damit ein Handwerker sie in einem Quartal verwenden kann (City & Guild, Seite 68). Dieser Vorgang erfordert kein Vis. Eine Geringfügige Veränderung zieht 1 vom Handwerks-Schwierigkeitsgrad ab, eine Kleine Veränderung zieht 2 ab, eine Erhebliche Veränderung zieht 3 ab und eine Große Veränderung zieht 4 ab.
+Mythische Alchemisten können auch die Rohmaterialien für einen Handwerker so aufbereiten, dass der Schwierigkeitsgrad für die Herstellung Überlegener, Exzellenter oder Wunderbarer Gegenstände gesenkt wird; siehe Stadt & Gilde, Seiten 63–73. Der Alchemist stellt eine Reagenz in Form der Hauptkomponente des herzustellenden Gegenstands her. Um zum Beispiel überlegene Schwerter oder Rüstungen herzustellen, müsste der Alchemist das verwendete Metall behandeln, nicht aber das Leder für den Griff oder die Riemen. Der Alchemist darf genug Rohmaterialien aufbereiten, damit ein Handwerker sie in einem Quartal verwenden kann (Stadt & Gilde, Seite 68). Dieser Vorgang erfordert kein Vis. Eine Geringfügige Veränderung zieht 1 vom Handwerks-Schwierigkeitsgrad ab, eine Kleine Veränderung zieht 2 ab, eine Erhebliche Veränderung zieht 3 ab und eine Große Veränderung zieht 4 ab.
 
 Die Umwandlung eines komplexen Elements in ein ähnliches komplexes Element ist eine Geringfügige Veränderung, wenn sich die Art der Substanz nicht ändert; zum Beispiel die Umwandlung von walisischem Kupfer in kornisches Kupfer (das einen leicht anderen Glanz besitzt). Eine Kleine Veränderung kann eine Umwandlung der Spezies bewirken; zum Beispiel unedles Metall in unedles Metall oder verarbeitete Flüssigkeit in verarbeitete Flüssigkeit. Und eine Erhebliche Veränderung kann die Gattung ändern; zum Beispiel unedles Metall in Edelmetall oder Öl in Säure. Große Veränderungen können höhere Kategorien der Gattung betreffen; so kann zum Beispiel Holz in Zinn verwandelt werden. Feststoffe müssen bei jeder Umwandlung Feststoffe bleiben, und Flüssigkeiten müssen Flüssigkeiten bleiben, und dies gilt auch bei der Umwandlung von einfacher Materie in komplexe Materie und umgekehrt. Jede Dosis einer umwandelnden Reagenz erfordert einen Bauer Vim-Vis oder Vis der entsprechenden Form für je 5 Punkte (aufgerundet) der endgültigen Stufe der Reagenz. Ein Mythischer Alchemist kann in einem Quartal eine Anzahl von Bauern Vis handhaben, die dem Doppelten seines Mythische-Alchemie-Werts entspricht; dies kann die Anzahl der Dosen begrenzen, die er unabhängig von seiner Laborsumme oder vorhandenen Labortexten herstellen kann.
 
@@ -4920,7 +4920,7 @@ Salutem-Zauberformeln befassen sich mit der Gesundheit des Ziels. Dies ist breit
 >
 >Generell: Gewähre +2 Bonus auf die Absorption einer Person gegen eine breite Schadenskategorie pro Stufe des Basiseffekts.
 >
->Generell: Gewähre +1 Bonus auf die Ausdauer einer Person für Krankheitsvermeidungswürfe für eine einzelne Krankheit pro Stufe des Basiseffekts. Siehe das Medizin-Kapitel von Art & Academe.
+>Generell: Gewähre +1 Bonus auf die Ausdauer einer Person für Krankheitsvermeidungswürfe für eine einzelne Krankheit pro Stufe des Basiseffekts. Siehe das Medizin-Kapitel von Kunst & Gelehrsamkeit.
 >
 >Generell: Gewähre +1 Bonus auf die Ausdauer einer Person für Würfe zur Vermeidung von Gifteffekten pro Stufe des Basiseffekts.
 >
@@ -5022,7 +5022,7 @@ Dieses Amulett gewährt dem Träger einen Bonus von +2 auf seinen Lebensbedingun
 
 >#### Vulnero-Salutem-Leitlinien
 >
->Die Vulnero-Salutem-Zauberformeln folgen den Leitlinien für Perdo-Corpus-Zauber sehr genau. Alle Fragen bezüglich der Anwendung einer Vulnero-Salutem-Zauberformel sollten auf dieselbe Weise gelöst werden, wie ein Perdo-Corpus-Zauber derselben Stufe gelöst werden würde. Für eine ausführliche Erörterung von Krankheiten siehe das Medizin-Kapitel von *Art & Academe*.
+>Die Vulnero-Salutem-Zauberformeln folgen den Leitlinien für Perdo-Corpus-Zauber sehr genau. Alle Fragen bezüglich der Anwendung einer Vulnero-Salutem-Zauberformel sollten auf dieselbe Weise gelöst werden, wie ein Perdo-Corpus-Zauber derselben Stufe gelöst werden würde. Für eine ausführliche Erörterung von Krankheiten siehe das Medizin-Kapitel von *Kunst & Gelehrsamkeit*.
 >
 >Stufe 3: Füge dem Körper oberflächlichen Schaden zu.
 >
@@ -5133,7 +5133,7 @@ Gelehrte Magier werden allein wahrscheinlich keine bedeutende Herausforderung f�
 
 ### Geschichte der Mathematici
 
-Die meisten innerhalb des Ordens des Hermes glauben, dass die von den Gelehrten Magiern praktizierte Magie von der Kartuschenmagie des alten Ägypten abstammt, die der Vorläufer der Defixio-Magie war, die von den chthonischen Kulten des Römischen Reiches praktiziert wurde. (Siehe das Kapitel Defixio-Magie in Ancient Magic, Seite 41, für weitere Informationen.) Nur wenige hermetische Magi haben die Magie der Gelehrten Magier in nennenswertem Umfang studiert, doch die meisten glauben, dass sie ein relativ schwaches und unbedeutendes Überbleibsel einer mächtigeren Magie ist, die als Tugend der Bleigießer des Hauses Tremere vollständig in den Orden integriert wurde (Houses of Hermes: True Lineages, Seite 143). Nur wenige der Zauberer der Mathematici wissen oder kümmern sich um die Geschichte ihrer Magie. Stattdessen konzentrieren sie sich auf die praktischeren Aspekte – das Ansammeln von Zauberformeln und die Verbesserung ihrer Fähigkeiten in deren Anwendung.
+Die meisten innerhalb des Ordens des Hermes glauben, dass die von den Gelehrten Magiern praktizierte Magie von der Kartuschenmagie des alten Ägypten abstammt, die der Vorläufer der Defixio-Magie war, die von den chthonischen Kulten des Römischen Reiches praktiziert wurde. (Siehe das Kapitel Defixio-Magie in Ancient Magic, Seite 41, für weitere Informationen.) Nur wenige hermetische Magi haben die Magie der Gelehrten Magier in nennenswertem Umfang studiert, doch die meisten glauben, dass sie ein relativ schwaches und unbedeutendes Überbleibsel einer mächtigeren Magie ist, die als Tugend der Bleigießer des Hauses Tremere vollständig in den Orden integriert wurde (Häuser des Hermes: Wahre Linien, Seite 143). Nur wenige der Zauberer der Mathematici wissen oder kümmern sich um die Geschichte ihrer Magie. Stattdessen konzentrieren sie sich auf die praktischeren Aspekte – das Ansammeln von Zauberformeln und die Verbesserung ihrer Fähigkeiten in deren Anwendung.
 
 #### Universität von Bologna
 
@@ -5141,7 +5141,7 @@ Bologna, im Norden Italiens gelegen, beherbergt eine der großen Universitäten 
 
 Obwohl es Begabte Mitglieder in der Gilde der Magister geben mag, unterrichten diese selten Studenten der Universität. Die sozialen Auswirkungen der Gabe verursachen viele Probleme für einen Magier, der Studenten unterrichtet, und ein Mathematicus mit einer Auffälligen Gabe wäre völlig unfähig, im universitären Umfeld Schüler anzuwerben. Stattdessen bleiben die Begabten Magier im Verborgenen, wo sie jene unterweisen, die daran interessiert sind, ihre Magie zu erlernen. Diese Begabten Magier sind gezwungen, ihren Lebensunterhalt auf andere Weise zu verdienen, und üben gewöhnlich einen Beruf aus, der keine häufige Interaktion mit der Öffentlichkeit erfordert. Sie können auch von den Studiengebühren ihrer Schüler abhängen oder Geld durch den Verkauf ihrer Amulette verdienen.
 
-Die Studenten von Bologna haben den Ruf, entspannt, nachlässig und sogar revolutionär zu sein. Diese anti-autoritäre Haltung könnte zum Wunsch der Studenten beitragen, Fächer jenseits des normalen Lehrplans zu erlernen. Für weitere Informationen über die Universität von Bologna oder das Führen einer Saga in Bologna siehe das Universitätskapitel von Art & Academe.
+Die Studenten von Bologna haben den Ruf, entspannt, nachlässig und sogar revolutionär zu sein. Diese anti-autoritäre Haltung könnte zum Wunsch der Studenten beitragen, Fächer jenseits des normalen Lehrplans zu erlernen. Für weitere Informationen über die Universität von Bologna oder das Führen einer Saga in Bologna siehe das Universitätskapitel von Kunst & Gelehrsamkeit.
 
 >#### ABENTEUERIDEE: Historische Erkundung
 >
@@ -5343,7 +5343,7 @@ Ein besonders mächtiges Mitglied der Mathematici von Bologna könnte eingeladen
 
 ## Alternative Traditionen
 
-Es besteht kein Erfordernis, dass die Mathematici ihren Sitz in Bologna haben, und jede der Universitätsstädte – wie Oxford, Cambridge, Paris, Montpellier oder Salamanca – ist gleichermaßen geeignet. Siehe das Universitätskapitel von Art & Academe für eine Beschreibung der Universitäten im Mythischen Europa. Mit wenig Aufwand können die Magier an jedem dieser Orte angesiedelt werden. Darüber hinaus kann die Magie dieses Kapitels für andere magische Traditionen verwendet werden.
+Es besteht kein Erfordernis, dass die Mathematici ihren Sitz in Bologna haben, und jede der Universitätsstädte – wie Oxford, Cambridge, Paris, Montpellier oder Salamanca – ist gleichermaßen geeignet. Siehe das Universitätskapitel von Kunst & Gelehrsamkeit für eine Beschreibung der Universitäten im Mythischen Europa. Mit wenig Aufwand können die Magier an jedem dieser Orte angesiedelt werden. Darüber hinaus kann die Magie dieses Kapitels für andere magische Traditionen verwendet werden.
 
 ### Mythische Alchemisten
 
@@ -5355,7 +5355,7 @@ Mythische Alchemisten nutzen ihre Magie, um mächtige magische Tränke herzustel
 
 #### Geschichte und Kultur
 
-Die im alten Ägypten entwickelte okkulte Wissenschaft der Alchemie wird seit Jahrtausenden praktiziert. Die alten Griechen und Römer waren mit ihren Geheimnissen wohl vertraut, doch mit dem Untergang des Römischen Reiches ging das Wissen um die Alchemie dem Westen beinahe verloren und überlebte nur in Fragmenten. Die Alchemisten des Mythischen Europas haben kürzlich neue Einsichten in diese Kunst gewonnen. Im Jahr 1144 übersetzte Robert von Chester Morienus Romanus' Liber de Compositione Alchemiae ins Lateinische und machte es damit zum ersten dem Westen zugänglichen arabischen Alchemie-Werk. Um 1220 sind viele weitere Abhandlungen über Alchemie im Mythischen Europa verfügbar – sowohl aus dem Arabischen übersetzte griechische und römische Klassiker als auch von arabischen Praktikern verfasste alchemistische Texte. Für eine ausführliche Darstellung siehe das Kapitel Experimentelle Philosophie in Art & Academe.
+Die im alten Ägypten entwickelte okkulte Wissenschaft der Alchemie wird seit Jahrtausenden praktiziert. Die alten Griechen und Römer waren mit ihren Geheimnissen wohl vertraut, doch mit dem Untergang des Römischen Reiches ging das Wissen um die Alchemie dem Westen beinahe verloren und überlebte nur in Fragmenten. Die Alchemisten des Mythischen Europas haben kürzlich neue Einsichten in diese Kunst gewonnen. Im Jahr 1144 übersetzte Robert von Chester Morienus Romanus' Liber de Compositione Alchemiae ins Lateinische und machte es damit zum ersten dem Westen zugänglichen arabischen Alchemie-Werk. Um 1220 sind viele weitere Abhandlungen über Alchemie im Mythischen Europa verfügbar – sowohl aus dem Arabischen übersetzte griechische und römische Klassiker als auch von arabischen Praktikern verfasste alchemistische Texte. Für eine ausführliche Darstellung siehe das Kapitel Experimentelle Philosophie in Kunst & Gelehrsamkeit.
 
 Obwohl alchemistische Texte der gebildeten Bevölkerung des Mythischen Europas zugänglich sind, äußern Alchemisten und alchemistische Autoren beständig die Sorge, ihre Geheimnisse vor der breiten Bevölkerung, vor den Unwissenden und vor den Unverständigen zu bewahren, aus Furcht vor dem Schaden, den sie anrichten könnten. Natürlich erkennen manche Alchemisten auch an, dass eine weite Verbreitung der Geheimnisse der Alchemie die Macht jedes einzelnen Praktizierenden vermindern würde. Ungeachtet des Grundes sind die meisten Mythischen Alchemisten äußerst zurückhaltend, ihre Kräfte anderen zu offenbaren. Sie schreiben in Chiffren und sprechen in Gleichnissen, um sicherzustellen, dass nur jene das Wissen erlangen, die seiner würdig sind.
 
@@ -5411,7 +5411,7 @@ Die Weisen Leute ersetzen die Fertigkeit Handwerk: Zauber durch Artes Liberales 
 
 Weise Leute beginnen ihre magische Ausbildung oft erst in ihrer Jugend. Die Lehrzeit der Weisen Leute dauert im Allgemeinen drei bis fünf Jahre, kann aber länger dauern, wenn ein Kind früh im Leben eine Begabung zeigt und von einem Lehrer entdeckt wird. Für jedes Ausbildungsjahr darf der Spieler 16 Erfahrungspunkte in Fertigkeiten oder Künsten und 8 Stufen an Zauberformeln ausgeben.
 
-Obwohl die Weisen Leute nach denselben grundlegenden Regeln wie oben beschrieben erstellt werden, besitzen sie selten dieselben Fertigkeiten wie die Mathematici. Neben ihren Künsten widmen Weise Leute ihre Zeit häufig dem Erlernen von Handwerk: Zauber, Chirurgie, Feenkunde, Menschenkenntnis, Kräuterwissen und Magiekunde. Weise Leute besitzen gewöhnlich den Sozialen Status Weise Frau/Weiser Mann. Neben den erforderlichen und bevorzugten Tugenden sind folgende Tugenden und Fehler geeignet: Sanfte Gabe, Feenblut, Zweites Gesicht, Student der Feensphäre, Feenfreund und Visionen. Für weitere geeignete Tugenden und Fehler siehe Sphären der Macht: Feen.
+Obwohl die Weisen Leute nach denselben grundlegenden Regeln wie oben beschrieben erstellt werden, besitzen sie selten dieselben Fertigkeiten wie die Mathematici. Neben ihren Künsten widmen Weise Leute ihre Zeit häufig dem Erlernen von Handwerk: Zauber, Chirurgie, Feenkunde, Menschenkenntnis, Kräuterwissen und Magiekunde. Weise Leute besitzen gewöhnlich den Sozialen Status Weise Frau/Weiser Mann. Neben den erforderlichen und bevorzugten Tugenden sind folgende Tugenden und Fehler geeignet: Sanfte Gabe, Feenblut, Zweites Gesicht, Student der Feensphäre, Feenfreund und Visionen. Für weitere geeignete Tugenden und Fehler siehe Sphären der Macht: Feenwelt.
 
 ## Integration der Magie der Gelehrten Magier
 
@@ -5527,7 +5527,7 @@ Die folgenden Tugenden sind für Nachtwandler nicht erforderlich, werden aber vo
 
 #### Geist
 
-Nachtwandler, deren Körper stirbt, während ihr Phantastikum abwesend ist, sind gewöhnlich gezwungen, als Geister durch die Welt zu wandeln, bis ihre vorbestimmte Todesstunde kommt. In mindestens einer Nachtwandler-Tradition wird jedes Mitglied zu einem der ruhelosen Toten, sofern keine Schutzmaßnahmen an ihrer Leiche vorgenommen werden. Diese Geister werden den Toten, gegen die die Nachtwandler kämpfen, sehr ähnlich und behalten viele ihrer Fähigkeiten aus dem Leben, einschließlich der Fähigkeit, körperliche Gestalt anzunehmen. Weiteres Material zu geisterhaften Spielercharakteren findet sich in *Herrschaftssphären: Magie*.
+Nachtwandler, deren Körper stirbt, während ihr Phantastikum abwesend ist, sind gewöhnlich gezwungen, als Geister durch die Welt zu wandeln, bis ihre vorbestimmte Todesstunde kommt. In mindestens einer Nachtwandler-Tradition wird jedes Mitglied zu einem der ruhelosen Toten, sofern keine Schutzmaßnahmen an ihrer Leiche vorgenommen werden. Diese Geister werden den Toten, gegen die die Nachtwandler kämpfen, sehr ähnlich und behalten viele ihrer Fähigkeiten aus dem Leben, einschließlich der Fähigkeit, körperliche Gestalt anzunehmen. Weiteres Material zu geisterhaften Spielercharakteren findet sich in *Sphären der Macht: Magie*.
 
 #### Große Reinigende Berührung
 
@@ -5537,7 +5537,7 @@ Viele Nachtwandler sind Heiler. Einige besitzen übernatürliche Kräfte wie die
 
 Nachtwandler nutzen diese Fertigkeit, um ihre Feinde im Wachzustand aufzuspüren. In Norditalien nutzen sie diese Fertigkeit auch, um Flüche zu brechen. Die in diesem Gebiet und vielen anderen heimischen infernalen Hexen erschaffen Flüche, die kleine Zauber in der Nähe ihrer Opfer erfordern, damit die Wirkung anhält. Während sie ihre Dörfer patrouillieren, können die Nachtwandler diese Fluchanker aufspüren und ihren Standort notieren. Am folgenden Tag, wenn sie erwachen, entfernen die Nachtwandler diese Zauber.
 
-Einige Nachtwandler brechen Flüche mithilfe chthonischer Kräfte, wie im Ergänzungsband Herrschaftssphären: Das Infernale beschrieben.
+Einige Nachtwandler brechen Flüche mithilfe chthonischer Kräfte, wie im Ergänzungsband Sphären der Macht: Das Infernale beschrieben.
 
 >#### Mit einer Glückshaube geboren
 >
@@ -5633,7 +5633,7 @@ Die folgenden Versuche der Geisterreise gelingen automatisch:
 >
 >Um das Tier-Phantastikum eines Charakters zu entwerfen, nutze das folgende System.
 >
->Grundwerte: Finde die Werte für die Tierart im Anhang Buch der weltlichen Bestien in *Herrschaftssphären: Magie*, oder verwende die Regeln in *Häuser des Hermes: Mysterienkulte*, um das weltliche Tier zu entwerfen. Die Werte für die fünf häufigsten für den Kampf verwendeten Gestalten finden sich in einem Kasten.
+>Grundwerte: Finde die Werte für die Tierart im Anhang Buch der weltlichen Bestien in *Sphären der Macht: Magie*, oder verwende die Regeln in *Häuser des Hermes: Mysterienkultee*, um das weltliche Tier zu entwerfen. Die Werte für die fünf häufigsten für den Kampf verwendeten Gestalten finden sich in einem Kasten.
 >
 >Eigenschaften: Der Charakter hat in beiden Formen denselben Intelligenzwert. Für alle anderen Eigenschaften gilt: Haben sowohl die Art als auch der Charakter einen negativen Wert, verwende den niedrigeren. Haben sowohl die Art als auch der Charakter einen positiven Wert, verwende den höheren. Haben der Charakter und die Art einen positiven und einen negativen Wert, addiere die beiden Werte.
 >
@@ -5712,13 +5712,13 @@ In den meisten Regionen genießen infernale Hexen, Zauberer, Dämonen und die To
 
 Einige regionale Nachtwandler-Traditionen kämpfen gegen andere Nachtwandler aus benachbarten Regionen, einige kämpfen gegen die Toten, und andere stellen sich den Dienern des Infernalen.
 
-Feindliche Nachtwandler werden nach denselben Regeln wie Spielercharaktere entworfen. Um schnell einen feindlichen Nachtwandler in menschlicher Gestalt zu erschaffen, verwende einfach einen geeigneten Grog und gib ihm eine Waffenfertigkeit, die zur geforderten regionalen Tradition passt. Geeignete Gegner für einen Charakter, der in Tierform kämpft, können schnell erstellt werden, indem man die eigenen Kampfwerte des Spielercharakters nimmt und sie je nach Erfahrungsgrad des Feindes verbessert oder verschlechtert. Feinde in Elementarform können mit Werten für Elementare aus Herrschaftssphären: Magie dargestellt werden, oder sie verwenden kosmetisch abgewandelte Versionen der Werte, die für Taltós weiter unten in diesem Kapitel gegeben werden.
+Feindliche Nachtwandler werden nach denselben Regeln wie Spielercharaktere entworfen. Um schnell einen feindlichen Nachtwandler in menschlicher Gestalt zu erschaffen, verwende einfach einen geeigneten Grog und gib ihm eine Waffenfertigkeit, die zur geforderten regionalen Tradition passt. Geeignete Gegner für einen Charakter, der in Tierform kämpft, können schnell erstellt werden, indem man die eigenen Kampfwerte des Spielercharakters nimmt und sie je nach Erfahrungsgrad des Feindes verbessert oder verschlechtert. Feinde in Elementarform können mit Werten für Elementare aus Sphären der Macht: Magie dargestellt werden, oder sie verwenden kosmetisch abgewandelte Versionen der Werte, die für Taltós weiter unten in diesem Kapitel gegeben werden.
 
 Werte für die Toten können auf zwei Arten schnell erstellt werden. Die Werte jedes lebenden Menschen können für einen Geist verwendet werden, da ein Geist, wenn er vom Phantastikum eines Nachtwandlers angetroffen wird, den Anschein von Körperlichkeit besitzt. Geister gehören zu den beliebtesten Kreaturen der Ars-Magica-Reihe, und jene aus anderen Ergänzungsbänden können als Gegner in Betracht gezogen werden.
 
 Die Toten, denen Nachtwandler begegnen, haben einige ungewöhnliche Merkmale, die verwendet werden können, um sie unverwechselbar zu machen. Sie werden oft als von unstillbarem Durst getrieben beschrieben. Deshalb verderben sie Wein und greifen in einigen Fällen Menschen an. Manche, wie die deutschen Nachzehrer, sind die Geister von Menschen, die mit Glückshauben geboren wurden. Diese haben einen höheren Machtwert und zeigen eine größere Beharrlichkeit und Zerstörungskraft als andere Tote.
 
-Die Diener des Infernalen können in drei Klassen betrachtet werden. Die Nachtwandler, die dem Bösen dienen und von den Benandanti Malandanti genannt werden, werden entweder nach diesen Regeln oder nach den Regeln in Herrschaftssphären: Das Infernale entworfen. Die niederen Dämonen, denen Nachtwandler begegnen, stammen tendenziell aus den schwächsten Klassen, wie den Versuchern, und sind die Diener eines menschlichen Hauptmanns der Malandanti, der ein Mitglied einer der mächtigeren in Herrschaftssphären: Das Infernale beschriebenen Infernalistengruppen sein kann. In jenen Regionen, in denen der Hauptmann der bösen Mächte besonders mächtig ist, ist auch der Hauptmann der Mächte des Guten entsprechend mächtig; er sollte über Kräfte verfügen, die nach den Regeln für jene entworfen sind, denen das Göttliche beisteht, wie in Herrschaftssphären: Das Göttliche beschrieben. Kein Nachtwandler hat je behauptet, dass eine Schlacht durch den Kampf zwischen den beiden Hauptleuten entschieden wurde: Spielercharaktere sollten in jeder Nachtschlacht eine bedeutende Rolle spielen.
+Die Diener des Infernalen können in drei Klassen betrachtet werden. Die Nachtwandler, die dem Bösen dienen und von den Benandanti Malandanti genannt werden, werden entweder nach diesen Regeln oder nach den Regeln in Sphären der Macht: Das Infernale entworfen. Die niederen Dämonen, denen Nachtwandler begegnen, stammen tendenziell aus den schwächsten Klassen, wie den Versuchern, und sind die Diener eines menschlichen Hauptmanns der Malandanti, der ein Mitglied einer der mächtigeren in Sphären der Macht: Das Infernale beschriebenen Infernalistengruppen sein kann. In jenen Regionen, in denen der Hauptmann der bösen Mächte besonders mächtig ist, ist auch der Hauptmann der Mächte des Guten entsprechend mächtig; er sollte über Kräfte verfügen, die nach den Regeln für jene entworfen sind, denen das Göttliche beisteht, wie in Sphären der Macht: Das Göttliche beschrieben. Kein Nachtwandler hat je behauptet, dass eine Schlacht durch den Kampf zwischen den beiden Hauptleuten entschieden wurde: Spielercharaktere sollten in jeder Nachtschlacht eine bedeutende Rolle spielen.
 
 In einigen Regionen befehligen Dämonen die Heerscharen des Feindes. Ein Charakter, der einen dämonischen Hauptmann besiegen kann, kann gewöhnlich dessen Heer in die Flucht schlagen und den Mächten des Guten einen überwältigenden Sieg bescheren. Den dämonischen Hauptmann zu finden ist gewöhnlich leicht, da die meisten einen großen, dunklen Wimpel führen. Dies erlaubt ihren Untergebenen zu wissen, wo ihr Anführer ist, was das Entsenden von Boten erleichtert, verrät aber seine Position an heldenhafte Nachtwandler.
 
@@ -5850,7 +5850,7 @@ Die Herrin ist absichtlich anonym und verbietet Spekulationen über ihren Namen,
 
 Milizen, die an rivalisierende Feenlords oder -ladys verloren gehen, kämpfen an ihren besonderen Tagen nicht mehr gegen Diener des Infernalen. Stattdessen messen sie sich mit dunklen Feen in Schlachten, die wichtig erscheinen, aber in vielen Gebieten bedeutungslos sind. Solche Feen-Nachtwandler können dennoch als Spielercharaktere nützlich sein, da sie die Fähigkeit besitzen, Feenflüche zu brechen und mit den Feentoten zu interagieren, aber sie können dem Zweck der Herrin nicht mehr dienen.
 
-Nach den Nachtfesten der Benandanti kann die Herrin die verzehrten Tiere zum Leben erwecken. Die Benandanti legen alle Tierknochen in die Häute, und ihre Schutzherrin berührt den Haufen, was das Tier ins Leben zurückholt. Fehlen Knochen, müssen sie durch kleine Stücke Erlenholz ersetzt werden. Sind Knochen gebrochen, wird das auferstandene Tier am entsprechenden Körperteil geschwächt sein. Selbst bei korrekter Auferstehung kann Vieh, das von der Prozession verzehrt wurde, nicht mehr arbeiten. Einige Nachtwandler einer Tradition im hohen Norden Europas behaupten, dass die Tiere besser und stärker zurückkehren, nachdem sie gefressen wurden. (Diese Tradition verleiht dem Opfer die Tugend Verwandeltes Tier, wie in Herrschaftssphären: Magie beschrieben.)
+Nach den Nachtfesten der Benandanti kann die Herrin die verzehrten Tiere zum Leben erwecken. Die Benandanti legen alle Tierknochen in die Häute, und ihre Schutzherrin berührt den Haufen, was das Tier ins Leben zurückholt. Fehlen Knochen, müssen sie durch kleine Stücke Erlenholz ersetzt werden. Sind Knochen gebrochen, wird das auferstandene Tier am entsprechenden Körperteil geschwächt sein. Selbst bei korrekter Auferstehung kann Vieh, das von der Prozession verzehrt wurde, nicht mehr arbeiten. Einige Nachtwandler einer Tradition im hohen Norden Europas behaupten, dass die Tiere besser und stärker zurückkehren, nachdem sie gefressen wurden. (Diese Tradition verleiht dem Opfer die Tugend Verwandeltes Tier, wie in Sphären der Macht: Magie beschrieben.)
 
 Einiges ist über die Herrin bekannt. Sie ist schön und kann sowohl jung als auch alt erscheinen. Ihre Haut fühlt sich manchmal haarig an. Sie kann sich frei mit jedem Tier unterhalten, außer mit Eseln. Sie sagt, dies liege daran, dass ein Esel den Messias getragen habe und sie daher mit Seinem Kreuz gezeichnet seien, was bedeute, dass sie nicht ihre Untertanen sind.
 
@@ -6154,7 +6154,7 @@ Vitkir-Charaktere dürfen bis zu zehn Fehler wählen, um zehn Tugenden auszuglei
 >
 >Die Vitkir sind in den Geschichten und Berichten stets Männer, doch dies liegt wahrscheinlich an den Rollen, die Männer und Frauen in der nordischen Kultur typischerweise einnehmen, und nicht daran, dass Frauen die Runenmagie nicht erlernen können. Es gibt viele Erzählungen von Frauen, die während der Wikingerzeit andere Arten von Magie praktizierten, insbesondere als mystische Seherinnen und Prophetinnen. Es ist unwahrscheinlich, dass Vitkir-Meister in früheren Jahren Mädchen als Lehrlinge genommen hätten, doch da die Vitkir seltener werden, sind sie möglicherweise bereitwilliger, alle Kinder mit der Gabe zu unterrichten, die gefunden werden können.
 >
->Wikingerfrauen besaßen auch eine Form der Magie namens Seiðr. Dies war eine Art Hexerei, die das gemeine Volk für böse und unrein hielt, und sie mieden jene, die sie praktizierten. Während die Magie der Runen als ein Geschenk an die Männer von Odin galt, wurde Seiðr den Frauen zuerst von einer Riesin namens Gullveig gelehrt, von der es hieß, sie sei so böse gewesen, dass sie die Gier unter den Göttern einführte. Für Charakterideen und Regeln zur Erschaffung eines Charakters mit dieser Art von Kraft siehe die verschiedenen Formen verdorbener Magie und infernaler Heckentraditionen in Herrschaftssphären: Das Infernale.
+>Wikingerfrauen besaßen auch eine Form der Magie namens Seiðr. Dies war eine Art Hexerei, die das gemeine Volk für böse und unrein hielt, und sie mieden jene, die sie praktizierten. Während die Magie der Runen als ein Geschenk an die Männer von Odin galt, wurde Seiðr den Frauen zuerst von einer Riesin namens Gullveig gelehrt, von der es hieß, sie sei so böse gewesen, dass sie die Gier unter den Göttern einführte. Für Charakterideen und Regeln zur Erschaffung eines Charakters mit dieser Art von Kraft siehe die verschiedenen Formen verdorbener Magie und infernaler Heckentraditionen in Sphären der Macht: Das Infernale.
 
 >#### Vitkar-Tugenden
 >

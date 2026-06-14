@@ -486,7 +486,7 @@ Ein Ort mit einer Magieaura ist ein Ort, an dem die Dinge in irgendeiner Weise d
 
 Magi diskutieren seit Langem über das genaue Wesen dieser Magieauren, in denen sich ihre Konvente befinden. Die meisten stimmen darin überein, dass in solchen Gebieten die Grenze zwischen der irdischen Welt und der Magiesphäre schwächer ist, sodass ein gewisses Maß der magischen Energie jener reinen Sphäre durchsickern und die Region unter dem Einfluss der Aura durchdringen kann. Es ist allgemein anerkannt, dass diese grundlegende magische Energie die Form von „fluidem Vis" annimmt, obwohl die Meinungen über die genaue Natur dieses Phänomens auseinandergehen. Während dieses fluide Vis überall vorhanden ist, strömt es in magische Gebiete hinein und wird von ihnen angezogen; dort sammelt und konzentriert es sich und bildet eine Aura der Macht.
 
->## Theorien zu Magieauren
+>#### Theorien zu Magieauren
 >
 >Auren übernatürlicher Macht fallen in den Zuständigkeitsbereich der hermetischen Kunst Vim, doch die hermetische Theorie und das Verständnis dieses Themas sind unvollständig. Viele Intellego-Vim-Zauber für Auren funktionieren zuverlässig, aber Zauber, die eine Veränderung einer Aura bewirken sollen, sind oft wirkungslos oder unvorhersehbar. Einige Magi sind sogar gestorben oder in das Endgültige Zwielicht eingetreten, als sie versuchten, die Aura ihres Konvents zu verstärken. Diese Unvollständigkeit der Theorie liegt zum Teil an einem Mangel an Übereinstimmung unter den Magi. Es gibt zwei Hauptbereiche, in denen die Meinungen auseinandergehen. Erstens ist da die philosophische Frage, was genau das „fluide Vis" ist und woher (oder was) es seinen Ursprung hat. Zweitens gibt es die etwas praktischere Frage, wie genau die Aktivitäten von Magi Magieauren beeinflussen.
 >
@@ -556,7 +556,43 @@ Eine solche Aura kann auch unter den Eisschollen des fernen Nordens zu finden se
 
 Durch Verzerrung werden die Bewohner unempfindlich gegen Schwefel in Luft und Wasser und können hohe Temperaturen ertragen. Geeignete Kleine Fehler sind Schwacher Geschmackssinn oder Schwacher Geruchssinn sowie Kälteempfindlichkeit (siehe Kapitel 4: Charaktere, Neue und Modifizierte Fehler). Die offensichtliche geeignete Kleine Tugend ist eine passende Mindere Immunität.
 
->## Beispiele für Auren mit mehreren Verankerungen
+#### Wasser
+
+**Verankerung 1:** Sanfter Regen fällt fast ununterbrochen, außer wenn Nebel herrscht. Es gibt kaum Boden, der nicht von Wasser bedeckt ist. Ein besonders schöner oder mächtiger Wasserfall.
+
+**Verankerung 2:** Regen fällt ununterbrochen, oft heftig, oder es herrscht stets dichter Nebel. Im Inneren eines großen Wasserfalls oder tief unter der Oberfläche eines Sees.
+
+Durch Verzerrung passen sich die Bewohner an, um klar durch den Nebel zu sehen, und werden vom Niederschlag nicht beeinträchtigt. Geeignete Kleine Fehler sind Lichtempfindlichkeit (siehe Kapitel 4: Charaktere, Neue und Modifizierte Fehler), eine Schwäche für natürliche Gewässer und Entstellt aufgrund von Schwimmhäuten zwischen den Fingern oder Haut, die rissig wird und sich abschält, wenn sie nicht dauerhaft nass gehalten wird. Geeignete Tugenden wären Wünschelrutengehen oder Große Immunität: Ertrinken.
+
+#### Wind
+
+**Verankerung 1:** Wind weht ununterbrochen und fällt nie unter eine lebhafte Brise, ungeachtet des Wetters in der Umgebung, und attraktive oder kurios geformte Wolken jagen über den Himmel. Wind wirbelt beständig um einen kleinen permanenten Tornado; Wolken winden sich zu spiralförmigen Gebilden.
+
+**Verankerung 2:** Ein Sturm tobt die meiste Zeit, oft mit aufgetürmten dunklen Wolken; in ihren oberen Schichten rasen Unwetter.
+
+Durch Verzerrung werden die Bewohner unempfindlich gegen den ständigen Wind und passen sich an, um Geräusche und Gerüche selbst bei Gegenwind wahrzunehmen. Geeignete Kleine Fehler sind Scharfes Gehör oder Scharfer Geruchssinn (siehe Kapitel 4: Charaktere, Neue und Modifizierte Fehler) oder die Fähigkeit, Visionen in Wolkenformen zu sehen.
+
+### Übernatürliche Verankerungen
+
+Eine übernatürliche Verankerung ist schlicht eine, die keinen natürlichen Ursprung hat, sondern durch Sterbliche, magische Wesen oder Vis verursacht wird. Einzelne Verankerungen können einen Wert bis zu 5 haben, und Kombinationen solcher Verankerungen können einen übernatürlichen Aurawert von bis zu 5 hervorbringen, wie oben beschrieben. Solche Verankerungen gehören gewöhnlich einem der folgenden Typen an: Magische Monumente, Magische Rückstände, Magische Wesen oder Vis-Quellen.
+
+#### Magische Monumente
+
+Antike Gebäude oder Konstruktionen, die stark mit Magie assoziiert werden, können eine Verankerung darstellen. Beispiele sind Tempel, Menhire, Steinkreise, Pyramiden, Höhlenmalereien und Teile antiker Konvente. Als Faustregel kann diesen Orten ein Verankerungspunkt für jedes volle Jahrhundert aktiver Nutzung zugewiesen werden. So hat beispielsweise ein Stehender Stein im Konvent Durenmar, der seit über vier Jahrhunderten genutzt wird, einen Verankerungswert von 4.
+
+#### Magische Rückstände
+
+Orte, die Zeuge äußerst mächtiger oder legendärer Magie geworden sind, können eine Verankerung darstellen, wenn die Magie einen dauerhaften Abdruck hinterlassen hat. Solche Stätten sind gewöhnlich mit einem bestimmten Ereignis verbunden. Es wird empfohlen, diesen Orten einen Verankerungswert gleich (Ritualzauber-Stufenäquivalent der Magie − 40) / 10 zu geben, abgerundet. So könnte beispielsweise der Ort eines Wirkens des Zaubers der Stufe 75 *Der Schatten des erneuerten Lebens* einen Verankerungswert von 3 haben.
+
+#### Magische Wesen
+
+Bestimmte Arten magischer Wesen — seien es Tiere, Pflanzen, Geister, Elementare und so weiter — bilden Verankerungen. Jeder Ort, an dem sie derzeit leben und den sie seit mindestens einem Jahr bewohnen, hat einen Verankerungswert gleich (Machtwert des Wesens / 10), abgerundet. Eine Höhle beispielsweise, die von einem Drachen mit einem Machtwert von 40 bewohnt wird, hat einen Verankerungswert von 4. Wenn ein solches Wesen wegzieht oder vernichtet wird, sinkt der Verankerungswert um einen Punkt pro Jahr, bis er verschwindet. Der Ort des Todes oder Begräbnisses eines magischen Wesens oder ein Ort, an dem ein magisches Wesen mindestens die Hälfte seines Lebens verbracht hat, besitzt eine permanente Verankerung gleich (Machtwert des Wesens / 20), abgerundet. Andere Arten magischer Wesen erzeugen keine Aura, sind aber oft stattdessen von einer anderen Magieaura (etwa einer, die an einem Monument entsteht) als Wohnstatt abhängig.
+
+#### Vis-Quellen
+
+Orte, an denen sich rohes Vis manifestiert, können ebenfalls eine Verankerung für eine Magieaura bilden, insbesondere wenn die Vis-Ernte groß ist. Ob die Aura das Vis zum Erscheinen bringt oder umgekehrt, ist Gegenstand einiger Debatten, obwohl die meisten Magi glauben, dass eine Vis-Ernte ein Nebenprodukt einer Aura ist, nicht deren Ursache. Als Faustregel kann einer Vis-Quelle, die sich nicht bereits in Gegenwart einer Verankerung befindet, ein Verankerungswert gleich (pro Jahr geerntete Vis-Bauern / 3) zugewiesen werden, abgerundet. Eine Vis-Quelle beispielsweise, die sechs Bauern liefert, könnte einen Verankerungswert von 2 haben.
+
+>### Beispiele für Auren mit mehreren Verankerungen
 >
 >**Basis-Aurawert 3:** Ein sehr hoher Wasserfall, der sich in mehrere weiße Flechten aufteilt, während er über Felsen hinabstürzt, Gischt sprühend (natürliche Verankerung 1), der stets die Morgensonne einfängt und ringsum Regenbögen wirft (natürliche Verankerung 1), bevor er mit donnerndem Getöse in einen sehr tiefen Tümpel stürzt (natürliche Verankerung 1).
 >
@@ -574,64 +610,7 @@ Durch Verzerrung werden die Bewohner unempfindlich gegen Schwefel in Luft und Wa
 >
 >**Basis-Aurawert 7:** Eine Wolke, aufgetürmt zur groben Form eines Palastes (natürliche Verankerung 2), die periodisch von einem Hurrikan zerrissen und danach in anderer Form wiederhergestellt wird (natürliche Verankerung 2); Luftelementare sind hier beheimatet (übernatürliche Verankerung 2) und Winde sind hier an den Tagundnachtgleichen besonders stark (natürliche Verankerung 1). Diese Aura ist höchstwahrscheinlich auf Auram ausgerichtet.
 
-#### Wasser
-
-**Verankerung 1:** Sanfter Regen fällt fast ununterbrochen, außer wenn Nebel herrscht. Es gibt kaum Boden, der nicht von Wasser bedeckt ist. Ein besonders schöner oder mächtiger Wasserfall.
-
-**Verankerung 2:** Regen fällt ununterbrochen, oft heftig, oder es herrscht stets dichter Nebel. Im Inneren eines großen Wasserfalls oder tief unter der Oberfläche eines Sees.
-
-Durch Verzerrung passen sich die Bewohner an, um klar durch den Nebel zu sehen, und werden vom Niederschlag nicht beeinträchtigt. Geeignete Kleine Fehler sind Lichtempfindlichkeit (siehe Kapitel 4: Charaktere, Neue und Modifizierte Fehler), eine Schwäche für natürliche Gewässer und Entstellt aufgrund von Schwimmhäuten zwischen den Fingern oder Haut, die rissig wird und sich abschält, wenn sie nicht dauerhaft nass gehalten wird. Geeignete Tugenden wären Wünschelrutengehen oder Große Immunität: Ertrinken.
-
-#### Wind
-
-**Verankerung 1:** Wind weht ununterbrochen und fällt nie unter eine lebhafte Brise, ungeachtet des Wetters in der Umgebung, und attraktive oder kurios geformte Wolken jagen über den Himmel. Wind wirbelt beständig um einen kleinen permanenten Tornado; Wolken winden sich zu spiralförmigen Gebilden.
-
-**Verankerung 2:** Ein Sturm tobt die meiste Zeit, oft mit aufgetürmten dunklen Wolken; in ihren oberen Schichten rasen Unwetter.
-
-Durch Verzerrung werden die Bewohner unempfindlich gegen den ständigen Wind und passen sich an, um Geräusche und Gerüche selbst bei Gegenwind wahrzunehmen. Geeignete Kleine Fehler sind Scharfes Gehör oder Scharfer Geruchssinn (siehe Kapitel 4: Charaktere, Neue und Modifizierte Fehler) oder die Fähigkeit, Visionen in Wolkenformen zu sehen.
-
-
-### Übernatürliche Verankerungen
-
-Eine übernatürliche Verankerung ist schlicht eine, die keinen natürlichen Ursprung hat, sondern durch Sterbliche, magische Wesen oder Vis verursacht wird. Einzelne Verankerungen können einen Wert bis zu 5 haben, und Kombinationen solcher Verankerungen können einen übernatürlichen Aurawert von bis zu 5 hervorbringen, wie oben beschrieben. Solche Verankerungen gehören gewöhnlich einem der folgenden Typen an: Magische Monumente, Magische Rückstände, Magische Wesen oder Vis-Quellen.
-
-#### Magische Monumente
-
-Antike Gebäude oder Konstruktionen, die stark mit Magie assoziiert werden, können eine Verankerung darstellen. Beispiele sind Tempel, Menhire, Steinkreise, Pyramiden, Höhlenmalereien und Teile antiker Konvente. Als Faustregel kann diesen Orten ein Verankerungspunkt für jedes volle Jahrhundert aktiver Nutzung zugewiesen werden. So hat beispielsweise ein Stehender Stein im Konvent Durenmar, der seit über vier Jahrhunderten genutzt wird, einen Verankerungswert von 4.
-
-#### Magische Rückstände
-
-Orte, die Zeuge äußerst mächtiger oder legendärer Magie geworden sind, können eine Verankerung darstellen, wenn die Magie einen dauerhaften Abdruck hinterlassen hat. Solche Stätten sind gewöhnlich mit einem bestimmten Ereignis verbunden. Es wird empfohlen, diesen Orten einen Verankerungswert gleich (Ritualzauber-Stufenäquivalent der Magie − 40) / 10 zu geben, abgerundet. So könnte beispielsweise der Ort eines Wirkens des Zaubers der Stufe 75 *Der Schatten des erneuerten Lebens* einen Verankerungswert von 3 haben.
-
-### Magische Wesen
-
-Bestimmte Arten magischer Wesen — seien es Tiere, Pflanzen, Geister, Elementare und so weiter — bilden Verankerungen. Jeder Ort, an dem sie derzeit leben und den sie seit mindestens einem Jahr bewohnen, hat einen Verankerungswert gleich (Machtwert des Wesens / 10), abgerundet. Eine Höhle beispielsweise, die von einem Drachen mit einem Machtwert von 40 bewohnt wird, hat einen Verankerungswert von 4. Wenn ein solches Wesen wegzieht oder vernichtet wird, sinkt der Verankerungswert um einen Punkt pro Jahr, bis er verschwindet. Der Ort des Todes oder Begräbnisses eines magischen Wesens oder ein Ort, an dem ein magisches Wesen mindestens die Hälfte seines Lebens verbracht hat, besitzt eine permanente Verankerung gleich (Machtwert des Wesens / 20), abgerundet. Andere Arten magischer Wesen erzeugen keine Aura, sind aber oft stattdessen von einer anderen Magieaura (etwa einer, die an einem Monument entsteht) als Wohnstatt abhängig.
-
-### Vis-Quellen
-
-Orte, an denen sich rohes Vis manifestiert, können ebenfalls eine Verankerung für eine Magieaura bilden, insbesondere wenn die Vis-Ernte groß ist. Ob die Aura das Vis zum Erscheinen bringt oder umgekehrt, ist Gegenstand einiger Debatten, obwohl die meisten Magi glauben, dass eine Vis-Ernte ein Nebenprodukt einer Aura ist, nicht deren Ursache. Als Faustregel kann einer Vis-Quelle, die sich nicht bereits in Gegenwart einer Verankerung befindet, ein Verankerungswert gleich (pro Jahr geerntete Vis-Bauern / 3) zugewiesen werden, abgerundet. Eine Vis-Quelle beispielsweise, die sechs Bauern liefert, könnte einen Verankerungswert von 2 haben.
-
->## Jährlicher Auramodifikator
->
->Am Ende eines jeden Jahres ist der jährliche Auramodifikator die Summe aller relevanten Effekte aus der folgenden Tabelle. Er kann +9 nicht überschreiten und nicht unter −9 liegen.
->
->Wenn die Magieaura zeitlich schwankt (beispielsweise zwischen Tag und Nacht in der Stärke wechselt oder von Jahreszeit zu Jahreszeit), gilt als Basis-Aurawert der am häufigsten vorkommende Wert; dieser wird für Vergleiche herangezogen. Treten zwei Stärken gleich häufig auf, wird der niedrigere der beiden genommen. Gibt es eine Regio, ist der Aurawert die Aurastärke auf der obersten Ebene.
->
->| Effekt | Addition<br>zum Modifikator |
->| Aktueller Aurawert weicht vom Basis-Aurawert ab | +3 × (Basis-Aurawert<br>− aktueller<br>Aurawert) |
->| Stärkere fremde Magieaura grenzt an die Aura | +2 |
->| Stärkere fremde Feenaura grenzt an die Aura | +1 |
->| Stärkere fremde Göttliche Aura grenzt an die Aura | −6 |
->| Stärkere fremde Infernale Aura grenzt an die Aura | −2 |
->| Magische Aktivität (Laborarbeit und Nicht-Ritual-Zauber)<br>eines typischen Frühlings-Konvents | +1 |
->| Magische Aktivität (Laborarbeit und Nicht-Ritual-Zauber)<br>eines typischen Sommer-Konvents | +2 |
->| Magische Aktivität (Laborarbeit und Nicht-Ritual-Zauber)<br>eines typischen Herbst- oder Winter-Konvents | +3 |
->| Nützlicher magischer Patzer (2 oder mehr Verzerrungspunkte erhalten) | +1 |
->| Schädlicher magischer Patzer (2 oder mehr Verzerrungspunkte erhalten) | −1 |
->| Einsatz von Vis (3 oder mehr Pfund) bei Studium,<br>Zaubern oder Certamen | +1 pro Vorfall |
->| Vis-Gewinnung aus der Aura | −1 pro Vorfall (ein Quartal durch<br>einen Magus) |
-
-### Auraschwankungsregeln
+## Auraschwankungsregeln
 
 Die Stärke einer Magieaura entspricht nicht immer ihrem Basis-Aurawert; insbesondere können schwache Magieauren sogar ohne Verankerung entstehen, obwohl solche Auren eher selten und gewöhnlich kurzlebig sind. Die Handlungen von Magi (und anderen Zauberern) und die Gegenwart einer fremden Aura, die an die Aura grenzt, können bewirken, dass ihr Wert höher oder niedriger als der Basis-Aurawert wird.
 
@@ -647,98 +626,100 @@ Der Spielleiter kann die Aura des Spielerkonvents ebenso überwachen wie andere 
 
 Im normalen Verlauf der Dinge werden Aktivitäten, die der Aura nützen, meist durch die Vis-Gewinnung aufgewogen. Allerdings kann ein Konvent, der unablässig und gierig Vis gewinnt, feststellen, dass seine Aura vorübergehend an Stärke verliert, während ein vis-reicher Konvent, der verschwenderisch mit Ritualmagie umgeht, feststellen könnte, dass seine Aura mit der Zeit zunimmt. Einige alte Herbst-Konvente haben allein durch die Aktivitäten ihrer Magi eine recht starke Magieaura aufgebaut, obwohl sie nur über schwache Verankerungen verfügen.
 
->## Tabelle Aurastärkung
->
->Wirf einen Stresswürfel und addiere den jährlichen Auramodifikator, oder wähle ein passendes Ergebnis. Sofern nicht anders angegeben, ist jedes Ergebnis vorübergehend und hält höchstens ein Jahr an. Gibt es eine Regio, gelten Erhöhungen der Aurastärke nur für die oberste Ebene.
->
->#### Ergebnis: Patzer
->
->Regio-Ebene erscheint: Das Gebiet, in dem sich die Aura befindet, wird zu einer Regio, falls es nicht bereits eine ist, mit einer mundänen Ebene und einer obersten Ebene, deren Aura dem Gesamt-Aurawert entspricht. Gibt es bereits eine Regio, erscheint eine neue Ebene. Alle Anwesenden in der Aura erhalten 3 Verzerrungspunkte. Regiones können sowohl harmlos als auch problematisch erscheinen (siehe unten).
->
->**Ergebnis: 0–6** Keine Veränderung der Aura.
->
->#### Ergebnis: 7+
->
->Symptome der Aurastärkung werden bemerkt: Siehe den Kasten für einige Vorschläge.
->
->#### Ergebnis: 9
->
->Latente Aurastärkung: 3 zum Auramodifikator des nächsten Jahres addieren.
->
->#### Ergebnis: 10
->
->Spontane magische Effekte: Kleine zufällige magische Effekte treten spontan auf; alle Personen, die von solchen Effekten betroffen sind, erhalten einen Verzerrungspunkt. Zauberwerte für spontane Magie erhalten einen Bonus von bis zu +3.
->
->#### Ergebnis: 11
->
->Vorübergehende Auraerhöhung: Der Aurawert steigt für ein Quartal um 1.
->
->#### Ergebnis: 12
->
->Vis-Erzeugung: 1 bis 3 Bauern Vis manifestieren sich spontan in der Aura. Entweder wird die Ernte einer bestehenden Vis-Quelle erhöht, oder das Vis erscheint an anderer Stelle, typischerweise wachsend oder sich zusammenballend, was nicht unbedingt bemerkt werden muss. Dieser Effekt ist vorübergehend, aber das gewonnene Vis ist real und permanent.
->
->#### Ergebnis: 13
->
->Stellen stärkerer Aura: Die Aurastärke steigt um 1 in einem Teil der Aura, etwa einem Raum oder Labor, vielleicht im Zentrum der Aura. Jeder mundäne Bewohner dieses Aurateils erhält einen Verzerrungspunkt.
->
->#### Ergebnis: 14
->
->Aura dehnt sich aus (permanent): Die Aura dehnt sich um einige Schritt nach außen aus, sodass sie mehr physischen Raum einnimmt.
->
->#### Ergebnis: 15–20
->
->Aktueller Aurawert steigt um 1 (permanent).
->
->#### Ergebnis: 21+
->
->Zweimal auf dieser Tabelle neu würfeln, wobei jedes Ergebnis von 21+ als 20 behandelt wird.
->
->## Tabelle Auraschwächung
->
->Wirf einen Stresswürfel und addiere den jährlichen Auramodifikator (das Minuszeichen ignorierend), oder wähle ein passendes Ergebnis. Sofern nicht anders angegeben, ist jedes Ergebnis vorübergehend und hält höchstens ein Jahr an. Gibt es eine Regio, gelten Verringerungen der Aurastärke nur für die oberste Ebene.
->
->#### Ergebnis: Patzer
->
->Regio-Ebene verschwindet: Gibt es eine Regio, verschwindet eine ihrer Ebenen (siehe unten). Alle Anwesenden auf dieser Ebene erhalten 3 Verzerrungspunkte. Gibt es keine Regio, entsteht eine neue Regio, aber alle Gebäude und Bewohner in dem Gebiet ziehen sich auf die magische Ebene zurück und hinterlassen die mundäne Ebene verlassen und frei von jeglichen Anzeichen von Magie. Alle Anwesenden in der Aura erhalten 3 Verzerrungspunkte.
->
->**Ergebnis: 0–6** Keine Veränderung der Aura.
->
->#### Ergebnis: 7+
->
->Symptome der Auraschwächung werden bemerkt: Siehe den Kasten für einige Vorschläge.
->
->#### Ergebnis: 9
->
->Latente Auraschwächung: 3 vom Auramodifikator des nächsten Jahres abziehen.
->
->#### Ergebnis: 10
->
->Spontane Magie unterdrückt: Zauberwerte für spontane Magie erhalten einen Abzug von bis zu −3.
->
->#### Ergebnis: 11
->
->Vorübergehende Auraverringerung: Der Aurawert sinkt für ein Quartal um 1.
->
->#### Ergebnis: 12
->
->Vis-Schwund: 1 bis 3 Bauern Vis in der Aura vergehen und verlieren ihre magische Kraft. Entweder wird die Ernte einer bestehenden Vis-Quelle verringert, oder irgendwo in der Aura gelagertes Vis verfällt, etwa durch Verrottung, Schrumpfung oder Austrocknung, was nicht unbedingt bemerkt werden muss. Dieser Effekt ist vorübergehend, aber der Verlust von Vis ist real und permanent.
->
->#### Ergebnis: 13
->
->Stellen schwächerer Aura: Die Aurastärke sinkt um 1 in einem Teil der Aura, etwa einem Raum oder Labor, vielleicht am Rand der Aura.
->
->#### Ergebnis: 14
->
->Aura zieht sich zusammen (permanent): Die Aura zieht sich um einige Schritt nach innen zusammen, sodass sie weniger physischen Raum einnimmt.
->
->**Ergebnis: 15–20**
->
->Aktueller Aurawert sinkt um 1 (permanent).
->
->#### Ergebnis: 21+
->
->Zweimal auf dieser Tabelle neu würfeln, wobei jedes Ergebnis von 21+ als 20 behandelt wird.
->
+#### Jährlicher Auramodifikator
+
+Am Ende eines jeden Jahres ist der jährliche Auramodifikator die Summe aller relevanten Effekte aus der folgenden Tabelle. Er kann +9 nicht überschreiten und nicht unter −9 liegen.
+
+Wenn die Magieaura zeitlich schwankt (beispielsweise zwischen Tag und Nacht in der Stärke wechselt oder von Jahreszeit zu Jahreszeit), gilt als Basis-Aurawert der am häufigsten vorkommende Wert; dieser wird für Vergleiche herangezogen. Treten zwei Stärken gleich häufig auf, wird der niedrigere der beiden genommen. Gibt es eine Regio, ist der Aurawert die Aurastärke auf der obersten Ebene.
+
+| Effekt | Addition<br>zum Modifikator |
+| ----- | ------ |
+| Aktueller Aurawert weicht vom Basis-Aurawert ab | +3 × (Basis-Aurawert<br>− aktueller<br>Aurawert) |
+| Stärkere fremde Magieaura grenzt an die Aura | +2 |
+| Stärkere fremde Feenaura grenzt an die Aura | +1 |
+| Stärkere fremde Göttliche Aura grenzt an die Aura | −6 |
+| Stärkere fremde Infernale Aura grenzt an die Aura | −2 |
+| Magische Aktivität (Laborarbeit und Nicht-Ritual-Zauber)<br>eines typischen Frühlings-Konvents | +1 |
+| Magische Aktivität (Laborarbeit und Nicht-Ritual-Zauber)<br>eines typischen Sommer-Konvents | +2 |
+| Magische Aktivität (Laborarbeit und Nicht-Ritual-Zauber)<br>eines typischen Herbst- oder Winter-Konvents | +3 |
+| Nützlicher magischer Patzer (2 oder mehr Verzerrungspunkte erhalten) | +1 |
+| Schädlicher magischer Patzer (2 oder mehr Verzerrungspunkte erhalten) | −1 |
+| Einsatz von Vis (3 oder mehr Pfund) bei Studium,<br>Zaubern oder Certamen | +1 pro Vorfall |
+| Vis-Gewinnung aus der Aura | −1 pro Vorfall (ein Quartal durch<br>einen Magus) |
+
+#### Tabelle Aurastärkung
+
+Wirf einen Stresswürfel und addiere den jährlichen Auramodifikator, oder wähle ein passendes Ergebnis. Sofern nicht anders angegeben, ist jedes Ergebnis vorübergehend und hält höchstens ein Jahr an. Gibt es eine Regio, gelten Erhöhungen der Aurastärke nur für die oberste Ebene.
+
+**Ergebnis: Patzer**  
+Regio-Ebene erscheint: Das Gebiet, in dem sich die Aura befindet, wird zu einer Regio, falls es nicht bereits eine ist, mit einer mundänen Ebene und einer obersten Ebene, deren Aura dem Gesamt-Aurawert entspricht. Gibt es bereits eine Regio, erscheint eine neue Ebene. Alle Anwesenden in der Aura erhalten 3 Verzerrungspunkte. Regiones können sowohl harmlos als auch problematisch erscheinen (siehe unten).
+
+**Ergebnis: 0–6**  
+Keine Veränderung der Aura.
+
+**Ergebnis: 7+**  
+Symptome der Aurastärkung werden bemerkt: Siehe den Kasten für einige Vorschläge.
+
+**Ergebnis: 9**  
+Latente Aurastärkung: 3 zum Auramodifikator des nächsten Jahres addieren.
+
+**Ergebnis: 10**  
+Spontane magische Effekte: Kleine zufällige magische Effekte treten spontan auf; alle Personen, die von solchen Effekten betroffen sind, erhalten einen Verzerrungspunkt. Zauberwerte für spontane Magie erhalten einen Bonus von bis zu +3.
+
+**Ergebnis: 11**  
+Vorübergehende Auraerhöhung: Der Aurawert steigt für ein Quartal um 1.
+
+**Ergebnis: 12**  
+Vis-Erzeugung: 1 bis 3 Bauern Vis manifestieren sich spontan in der Aura. Entweder wird die Ernte einer bestehenden Vis-Quelle erhöht, oder das Vis erscheint an anderer Stelle, typischerweise wachsend oder sich zusammenballend, was nicht unbedingt bemerkt werden muss. Dieser Effekt ist vorübergehend, aber das gewonnene Vis ist real und permanent.
+
+**Ergebnis: 13**  
+Stellen stärkerer Aura: Die Aurastärke steigt um 1 in einem Teil der Aura, etwa einem Raum oder Labor, vielleicht im Zentrum der Aura. Jeder mundäne Bewohner dieses Aurateils erhält einen Verzerrungspunkt.
+
+**Ergebnis: 14**  
+Aura dehnt sich aus (permanent): Die Aura dehnt sich um einige Schritt nach außen aus, sodass sie mehr physischen Raum einnimmt.
+
+**Ergebnis: 15–20**
+Aktueller Aurawert steigt um 1 (permanent).
+
+**Ergebnis: 21+**  
+Zweimal auf dieser Tabelle neu würfeln, wobei jedes Ergebnis von 21+ als 20 behandelt wird.
+
+#### Tabelle Auraschwächung
+
+Wirf einen Stresswürfel und addiere den jährlichen Auramodifikator (das Minuszeichen ignorierend), oder wähle ein passendes Ergebnis. Sofern nicht anders angegeben, ist jedes Ergebnis vorübergehend und hält höchstens ein Jahr an. Gibt es eine Regio, gelten Verringerungen der Aurastärke nur für die oberste Ebene.
+
+**Ergebnis: Patzer**  
+Regio-Ebene verschwindet: Gibt es eine Regio, verschwindet eine ihrer Ebenen (siehe unten). Alle Anwesenden auf dieser Ebene erhalten 3 Verzerrungspunkte. Gibt es keine Regio, entsteht eine neue Regio, aber alle Gebäude und Bewohner in dem Gebiet ziehen sich auf die magische Ebene zurück und hinterlassen die mundäne Ebene verlassen und frei von jeglichen Anzeichen von Magie. Alle Anwesenden in der Aura erhalten 3 Verzerrungspunkte.
+
+**Ergebnis: 0–6**  
+Keine Veränderung der Aura.
+
+**Ergebnis: 7+**
+Symptome der Auraschwächung werden bemerkt: Siehe den Kasten für einige Vorschläge.
+
+**Ergebnis: 9**  
+Latente Auraschwächung: 3 vom Auramodifikator des nächsten Jahres abziehen.
+
+**Ergebnis: 10**  
+Spontane Magie unterdrückt: Zauberwerte für spontane Magie erhalten einen Abzug von bis zu −3.
+
+**Ergebnis: 11**  
+Vorübergehende Auraverringerung: Der Aurawert sinkt für ein Quartal um 1.
+
+**Ergebnis: 12**  
+Vis-Schwund: 1 bis 3 Bauern Vis in der Aura vergehen und verlieren ihre magische Kraft. Entweder wird die Ernte einer bestehenden Vis-Quelle verringert, oder irgendwo in der Aura gelagertes Vis verfällt, etwa durch Verrottung, Schrumpfung oder Austrocknung, was nicht unbedingt bemerkt werden muss. Dieser Effekt ist vorübergehend, aber der Verlust von Vis ist real und permanent.
+
+**Ergebnis: 13**  
+Stellen schwächerer Aura: Die Aurastärke sinkt um 1 in einem Teil der Aura, etwa einem Raum oder Labor, vielleicht am Rand der Aura.
+
+**Ergebnis: 14**  
+Aura zieht sich zusammen (permanent): Die Aura zieht sich um einige Schritt nach innen zusammen, sodass sie weniger physischen Raum einnimmt.
+
+**Ergebnis: 15–20**  
+Aktueller Aurawert sinkt um 1 (permanent).
+
+**Ergebnis: 21+**  
+Zweimal auf dieser Tabelle neu würfeln, wobei jedes Ergebnis von 21+ als 20 behandelt wird.
 
 ### Symptome der Auraschwankung
 
@@ -764,11 +745,11 @@ Eine stärkere Magieaura tendiert dazu, die Exzentrizität und Kreativität ihre
 
 Wenn eine Magieaura stärker wird, können ehemals stumme Kreaturen und Gegenstände Empfindungsfähigkeit, Intelligenz oder die Fähigkeit zu sprechen entwickeln. Wenn die Aura schwindet, können solche Wesen ihren Verstand getrübt finden oder verstummen.
 
-### Zeichen und Übernatürliche Fertigkeiten
+#### Zeichen und Übernatürliche Fertigkeiten
 
 Die Stärkung einer Magieaura kann sich in einer Zunahme von Omen, Visionen und Träumen niederschlagen, die von den Bewohnern erfahren und beobachtet werden. Oder sie können andere seltsame neue Fähigkeiten entwickeln. Wenn eine Aura schwächer wird, werden solche Vorkommnisse seltener, Zeichen werden undeutlich und unheimliche Talente gehen verloren. Als Faustregel kann für jeden Punkt, um den der Aurawert steigt, ein Bewohner (unwissentlich) eine neue Übernatürliche Tugend erhalten, oder ein Charakter mit einer bestehenden Übernatürlichen Fertigkeit kann 20 Erfahrungspunkte in dieser Fertigkeit erhalten. Am besten wählt man einen Charakter, der kürzlich einen Verzerrungswert von 5 erreicht hat und sich somit für eine neue Kleine Tugend qualifiziert. Dieser Prozess kann umgekehrt werden, wenn die Aura schwächer wird; ein Charakter mit einer Übernatürlichen Fertigkeit verliert 20 Erfahrungspunkte. Sinkt der Fertigkeitswert dadurch auf null, kann die Fertigkeit nicht mehr eingesetzt werden.
 
->## Abenteuerideen zur Auraschwankung
+>### Abenteuerideen zur Auraschwankung
 >
 >#### Kreaturenkomfort
 >
@@ -832,15 +813,18 @@ Wenn der Aurawert einer Regio steigt, wird gewöhnlich die Stärke der obersten 
 >
 >#### Neue Creo-Vim-Zauber
 >
->**Den Quell des Konvents Nähren** CrVi Allgemein
+>##### **Den Quell des Konvents Nähren** 
+>CrVi General  
+>R: Berührung, D: Mom, Z: Grenze, Ritual, Req: Muto
 >
 >R: Berührung, D: Mom, Z: Grenze, Ritual. Bewirkt einen sofortigen Wurf auf der Tabelle Aurastärkung für die Magieaura, in der er gewirkt wird, mit einem Modifikator gleich der Magnitude des Zaubers minus fünf, wobei die Anzahl der Patzerwürfel für diesen Wurf und für nachfolgende jährliche Würfe um eins erhöht wird. Der Modifikator muss 0 oder größer sein, die niedrigstmögliche Zauberstufe ist daher 25. Der jährliche Auramodifikator (einschließlich des +1-Bonus durch das Wirken dieses Zaubers) wird nicht zum Wurf addiert. Wird das Wirken dieses Zaubers verpatzt, könnte ein geeignetes Ergebnis sein, wie oben zu würfeln, aber stattdessen auf der Tabelle Auraschwächung, oder den Wurf zu einem automatischen Patzer zu machen, was das Regio-Ergebnis zur Folge hat.
 >
 >(Basiseffekt, +1 Berührung, +4 Grenze)
 >
->**Die Subtilen Wirklichkeiten Schichten** CrVi Allgemein
->
+>##### **Die Feinen Wirklichkeiten Schichten** 
+>CrVi General  
 >R: Berührung, D: Mom, Z: Grenze, Ritual, Req: Muto
+>Req: Muto
 >
 >Eine Variante von *Den Quell des Konvents Nähren*; dieser Zauber bewirkt ebenfalls einen sofortigen Wurf auf der Tabelle Aurastärkung für die Magieaura, in der er gewirkt wird, mit einem Modifikator gleich der Magnitude des Zaubers minus 6, wobei jedoch ein Wurf von 2 als 0 behandelt wird und die Anzahl der Patzerwürfel für diesen Wurf und für nachfolgende jährliche Würfe um fünf erhöht wird, sodass eine Regio (oder neue Regio-Ebenen) etwas wahrscheinlicher wird. Der Modifikator muss 0 oder größer sein, die niedrigstmögliche Zauberstufe ist daher 30.
 >
@@ -856,9 +840,10 @@ Wenn der Aurawert einer Regio steigt, wird gewöhnlich die Stärke der obersten 
 >
 >#### Neuer Perdo-Vim-Zauber
 >
->**Die Überflüssigen Wirklichkeiten Abtragen** PeVi 30
->
->R: Berührung, D: Mom, Z: Grenze, Ritual, Req: Muto
+>##### **Die Überflüssigen Wirklichkeiten Abtragen** PeVi 30
+>PeVi 30  
+>R: Touch, D: Mom, T: Boundary, Ritual  
+>Req: Muto
 >
 >Eine umgekehrte Variante von *Die Subtilen Wirklichkeiten Schichten*; dieser Zauber bewirkt einen sofortigen Wurf auf der Tabelle Auraschwächung für die Magische Regio, in der er gewirkt wird, mit einem Modifikator gleich 0, wobei ein Wurf von 2 als 0 behandelt wird und die Anzahl der Patzerwürfel für diesen Wurf und für nachfolgende jährliche Würfe um fünf erhöht wird. Ergibt sich ein Patzer, tritt der gewünschte Effekt ein, nämlich die Zerstörung der Regio-Ebene, in der der Zauber gewirkt wurde. Selbst wenn dieser Zauber die anvisierte Regio-Ebene nicht sofort beseitigt, könnten die zusätzlichen Patzerwürfel für nachfolgende Würfe in späteren Jahren dazu führen, dass sie später verschwindet. Je nach Wurfergebnis kann dieser Zauber den (wahrscheinlich) ungewollten Nebeneffekt haben, stattdessen die Aura zu schwächen. Wird das Wirken dieses Zaubers verpatzt, könnten geeignete Ergebnisse sein, wie oben zu würfeln, aber stattdessen auf der Tabelle Aurastärkung, unbeabsichtigt die falsche Regio-Ebene zu zerstören oder die Struktur der Regio anderweitig zu korrumpieren.
 >
@@ -876,16 +861,17 @@ Es gibt einige Magieauren, die eine direkte Wirkung auf die Emotionen und das Ve
 
 Für aufmerksame Betrachter kann die Natur der Aura in ihrer Umgebung erkennbar sein. Bei niedrigen Aurastufen zeigen Dinge, die ihre gesamte oder den Großteil ihrer Zeit in der Aura verbringen, leichte Veränderungen im Einklang mit der Natur der Aura. Bei höheren Stufen werden die Effekte stärker und machen sich auch bei Dingen bemerkbar, die nur vorübergehend unter ihrem Einfluss stehen. Auf den höchsten Stufen sind die Verstärkungen sehr offensichtlich, und die dort lebenden Kreaturen sind Archetypen, die die Eigenschaft oder das Gefühl verkörpern.
 
+**Tabelle Aura-Effekt**  
+
+| Aurastufe | Anpassung der Persönlichkeitseigenschaft |
+|------------|------------------------------|
+| 1–3        | +1                           |
+| 4–6        | +2                           |
+| 7–10       | +3                           |
+
 Beispiele für solche emotionsverstärkenden Auren sind:
 
 **Aggressiv:** Blätter sind spitz und haben scharfe Kanten, viele Pflanzen haben große, scharfe Dornen; Blüten verstreuen reizenden Pollen; Düfte sind unangenehm. Insekten und Tiere sind aggressiver als normal und haben die Bewaffnung (größere Hörner und Klauen, größere Stacheln, schärfere Zähne usw.), um dem Nachdruck zu verleihen; auf hohen Stufen erwerben einige Kreaturen natürliche Waffen, die für ihre Art nicht normal sind. Klingenwaffen werden schärfer. Menschen werden aggressiver, sodass spontane Kämpfe ausbrechen.
-
-| Auraeffekt-Tabelle |
-| Aurastufe | Anpassung der Persönlichkeitseigenschaft |
-|---|---|
-| 1–3 | +1 |
-| 4–6 | +2 |
-| 7–10 | +3 |
 
 **Sorglos:** Kreaturen zeigen weniger Wachsamkeit als üblich; Menschen werden entspannt und verlieren in den stärkeren Auren jede Motivation, etwas anderes zu tun, als es sich bequem zu machen.
 
@@ -893,13 +879,13 @@ Beispiele für solche emotionsverstärkenden Auren sind:
 
 **Respektvoll:** Menschen werden mehr um die Gefühle und das Wohlergehen anderer besorgt, zunächst anderer Menschen, dann von Kreaturen und Pflanzen; in den stärksten Auren erwerben sie eine so extreme Ehrfurcht vor dem Leben, dass es unmöglich wird, auf Gras zu treten.
 
->## Beispiel: Ausgerichtete Aura
+>#### Beispiel: Ausgerichtete Aura
 >
 >Zwei der Grogs des Konvents eskortieren Bernard, einen jungen Novizen, zurück zum Priorat, in dem er lebt. Sie müssen durch den Wald, aber er versichert ihnen, dass er den Weg kennt. Schon bald haben sie sich verlaufen und betreten ein Gebiet unter dem Einfluss eines uralten Stehenden Steins. Es beginnt dunkel zu werden, und so beschließen sie, für die Nacht ein provisorisches Lager aufzuschlagen. Bernard hat bereits Angst vor den Gefahren, die er überall um sich herum wahrnimmt, aber er vertraut auf sein Gebet und sagt nichts, als er sich hinlegt und zu schlafen versucht.
 >
 >Sie haben an einem Ort mit einer Magieaura der Stufe 3 gelagert, die Furcht hervorruft. Die Grogs Paul (normalerweise Tapfer +3) und Ignatio (normalerweise Mutig +2) fühlen sich angesichts der seltsamen Geräusche in der Dunkelheit etwas weniger zuversichtlich als üblich. Ihre Persönlichkeitseigenschaften werden um Furchtsam +1 angepasst und stehen nun bei +2 und +1. Bernard ist normalerweise Feige +2, aber die Aura hat dies auf +3 verstärkt, und bald fleht er die anderen an, ihre Schwerter zu ziehen und ihn vor den wilden Bestien zu beschützen, von denen er weiß, dass sie kommen, um sie aufzufressen.
 
->## Abenteueridee: Einförmigkeit
+>#### Abenteueridee: Einförmigkeit
 >
 >Eine Schriftrolle in Harco berichtet von einem möglicherweise einzigartigen Ort mit einer Magieaura, den einst eine Rotkappe besuchte. Sie beschreibt, wie sie durch eine Gegend wanderte, die für das Gebiet, das sie durchquerte, völlig typisch war, und bald feststellte, dass die Umgebung immer einförmiger und schließlich frei von erkennbaren Orientierungspunkten wurde. Es wurde in alle Richtungen so gleich, dass sie sich desorientiert fühlte und fürchtete, sich in dieser eintönigen Landschaft zu verirren. Schließlich fand sie den Weg hinaus, oder wurde von einem Bewohner jenes faden Ortes geholfen, konnte aber nicht mit Sicherheit sagen, wo sie gewesen war.
 
@@ -957,25 +943,25 @@ Es gibt sehr wenige Auren mit Ausrichtungen, die sich manifestieren und nicht Te
 
 **Ablenkend:** Charaktere tagträumen oder ihre Aufmerksamkeit schweift umher. Konzentrationswürfe sollten häufiger verlangt werden, und bei Aurastufen von 5+ ist Konzentration schwer aufrechtzuerhalten (Schwierigkeitsgrade um 3 höher als normal ansetzen).
 
->## Eine Aura ausrichten
->
->Die Bibliothek in Durenmar enthält mehrere Berichte über Experimente, um einer bestehenden Magieaura absichtlich eine Ausrichtung aufzuprägen. Ein Forscher versuchte, mithilfe eines verzauberten Gegenstands wiederholt Creo-Ignem-Zauber über einen langen Zeitraum zu wirken, in der Hoffnung, eine Aura auf Ignem auszurichten — ohne Erfolg. Ein anderer setzte Grogs dazu ein, Witze zu erzählen und Schelmenlieder zu singen, in der Hoffnung, eine Auraausrichtung auf Fröhlichkeit zu erzeugen. Bislang wurde kein zuverlässiger Weg entdeckt, eine Ausrichtung aufzuprägen, obwohl schwere Patzer bei mehr als einer Gelegenheit nachteilige Ausrichtungen hervorgebracht haben.
+### Eine Aura ausrichten
 
->## Konventsvorzüge und -haken
->
->Bei der Gestaltung eines Konvents kann die Spieltruppe aus den folgenden Optionen wählen, zusätzlich zu jenen in **ArM5**, Kapitel 6 und *Konvente*, Kapitel 2. Die Aura darf nur >eine Ausrichtung haben, aber diese kann sowohl einen Vorzug als auch einen Haken hervorbringen.
->
->#### Großer Geländevorzug
->
->**Hervorragende Aura:** Die Magieaura des Konvents hat eine Ausrichtung, die den meisten in ihr Befindlichen zugutekommt. Sie besitzt beispielsweise die Eigenschaft „glückbringend" oder ist günstig für Heilung.
->
->#### Kleiner Geländevorzug
->
->**Günstige Aura:** Die Magieaura des Konvents hat eine Ausrichtung, die eine bestimmte Aktivität begünstigt. Sie ist beispielsweise auf eine der Künste ausgerichtet oder besitzt eine Eigenschaft, die häufig vorteilhaft ist, wie „aufmerksam" oder „respektvoll".
->
->#### Kleiner Geländehaken
->
->**Problematische Aura:** Die Magieaura des Konvents hat eine Ausrichtung, die Aktivitäten, die eigentlich einfach sein sollten, manchmal viel schwieriger macht und dadurch Geschichten provoziert. Eine auf Perdo ausgerichtete Aura wäre ein Beispiel, ebenso wie eine, die auf „Voreiligkeit" oder „Unhöflichkeit" ausgerichtet ist.
+Die Bibliothek in Durenmar enthält mehrere Berichte über Experimente, um einer bestehenden Magieaura absichtlich eine Ausrichtung aufzuprägen. Ein Forscher versuchte, mithilfe eines verzauberten Gegenstands wiederholt Creo-Ignem-Zauber über einen langen Zeitraum zu wirken, in der Hoffnung, eine Aura auf Ignem auszurichten — ohne Erfolg. Ein anderer setzte Grogs dazu ein, Witze zu erzählen und Schelmenlieder zu singen, in der Hoffnung, eine Auraausrichtung auf Fröhlichkeit zu erzeugen. Bislang wurde kein zuverlässiger Weg entdeckt, eine Ausrichtung aufzuprägen, obwohl schwere Patzer bei mehr als einer Gelegenheit nachteilige Ausrichtungen hervorgebracht haben.
+
+#### Konventsvorzüge und -haken
+
+Bei der Gestaltung eines Konvents kann die Spieltruppe aus den folgenden Optionen wählen, zusätzlich zu jenen in **ArM5**, Kapitel 6 und *Konvente*, Kapitel 2. Die Aura darf nur >eine Ausrichtung haben, aber diese kann sowohl einen Vorzug als auch einen Haken hervorbringen.
+
+##### Großer Geländevorzug
+
+**Hervorragende Aura:** Die Magieaura des Konvents hat eine Ausrichtung, die den meisten in ihr Befindlichen zugutekommt. Sie besitzt beispielsweise die Eigenschaft „glückbringend" oder ist günstig für Heilung.
+
+##### Kleiner Geländevorzug
+
+**Günstige Aura:** Die Magieaura des Konvents hat eine Ausrichtung, die eine bestimmte Aktivität begünstigt. Sie ist beispielsweise auf eine der Künste ausgerichtet oder besitzt eine Eigenschaft, die häufig vorteilhaft ist, wie „aufmerksam" oder „respektvoll".
+
+###### Kleiner Geländehaken
+
+**Problematische Aura:** Die Magieaura des Konvents hat eine Ausrichtung, die Aktivitäten, die eigentlich einfach sein sollten, manchmal viel schwieriger macht und dadurch Geschichten provoziert. Eine auf Perdo ausgerichtete Aura wäre ein Beispiel, ebenso wie eine, die auf „Voreiligkeit" oder „Unhöflichkeit" ausgerichtet ist.
 
 # Kapitel Drei: Die Magische Sphäre
 
@@ -1003,7 +989,7 @@ Kosmen beziehen sich gewöhnlich auf Dinge in der mundanen Welt, aber nicht imme
 
 Kosmen ähneln oberflächlich der mundanen Welt, doch viele Naturgesetze sind dort oft außer Kraft gesetzt, besonders jene, die die Geographie betreffen, und die natürliche Tendenz der Dinge, nach unten zu fallen (was moderne Menschen gewöhnlich als Schwerkraft bezeichnen). Zum Beispiel könnte der Mikrokosmos eines Edelsteins ein aufwendiges System glatter, polierter Tunnel sein, die sich ständig überkreuzen und sogar im Raum überlappen. Ein Reisender kann einen Gang hinabsteigen und sich oben wiederfinden, und wenn er zufällig etwas fallen lässt, könnte es endlos weiterfallen und alle paar Stunden an ihm vorbeirasen.
 
->## ABENTEUERIDEE: Der hartnäckige Sommer
+>#### ABENTEUERIDEE: Der hartnäckige Sommer
 >
 >Ein wohlhabender Konvent hat ein ungewöhnliches Problem: Der Sommer hat sich nie in den Herbst verwandelt, und der Winter ist ausgeblieben. Die Temperatur der gesamten Region ist während der ganzen Herbstzeit auf einem warmen Niveau geblieben und zeigt keinerlei Anzeichen dafür, sich für den Winter abzukühlen. Im nächsten Jahr drohen Dürre und Hungersnot. Dann hat einer der Bewohner des Konvents eine Vision: Mit der Hilfe eines menschlichen Eindringlings hat der Herr des Sommers die Herrin des Winters gefangen genommen und hält sie in seinem magischen Wald gefangen. Diese Tat hat das Klima der Region aus dem Gleichgewicht gebracht, denn der natürlichen Ordnung zufolge übergibt der Sommer seine Macht jeden Herbst an den Winter, und der Winter übergibt seine Macht im Frühling an den Sommer.
 >
@@ -1027,15 +1013,7 @@ Es ist manchen Reisenden möglich, die „Gewässer" zwischen Insulae zu durchqu
 
 Die Kultur dieser Version der Magischen Sphäre ist bemerkenswert exotisch. Eine insulare Stadt könnte äußerst fremdartig wirken, mit seltsam geformter Architektur, merkwürdigen Tieren und sehr befremdlichen Sitten unter ihren Bewohnern. Andere Inseln mögen abgeschieden und karg erscheinen, übersät mit Bauwerken aus zusammengetragenen Materialien, und Menschen, die dort gestrandet sind oder die so sehr von der Macht der Magie verändert wurden, dass sie ohne sie nicht mehr leben können.
 
-### Seiten der Geschichte
-
-Eine Vorstellung, die besonders akademisch veranlagte Charaktere ansprechen mag, ist die Idee, dass die Magische Sphäre eine Art Aufzeichnung der Ereignisse der mundanen Welt darstellt – eine Reise in die Magische Sphäre gleicht einer Reise durch die Erinnerungen der Vergangenheit. Dieser Ansicht nach ist jeder Ort in der Magischen Sphäre ein bestimmter Moment der Geschichte, genannt **Tempus** (Plural *Tempora*). Je weiter Reisende sich von der mundanen Welt entfernen, desto ältere Aufzeichnungen finden sie vor, sodass die mächtigsten magischen Orte und Dinge besonders altertümlich sind. Diese Idee ist besonders unter Magi des Hauses Criamon beliebt, von denen viele glauben, dass das Zwielicht ein Ort außerhalb des Kreislaufs der Zeit ist und dass sie dort die Vergangenheit durch ihr Handeln in der Gegenwart verändern können.
-
-Um dieses Konzept anhand einer Analogie zu erklären, mögen Reisende die Magische Sphäre als das Buch des Heiligen Petrus beschreiben, in dem alle Gedanken und Taten eines Menschen für den Jüngsten Tag aufgezeichnet sind. Jeder Moment in der Erzählung des Betroffenen ist eine einzelne Seite im Buch, und durch Umblättern der Seiten kann der Heilige Petrus von einem Moment zum nächsten im Leben dieses Menschen reisen, vorwärts oder rückwärts durch das Buch, um besser beurteilen zu können, wie gut der Mensch sein Leben gelebt hat. Ebenso können Reisende in der Magischen Sphäre von einem Tempus zum nächsten gelangen und verschiedene Ereignisse in der Geschichte des Betroffenen besuchen.
-
-In einem Tempus kann die Zeit sehr seltsam zu vergehen scheinen, vielleicht angehalten und in endloser Wiederholung eines einzelnen Ereignisses oder einer Reihe von Ereignissen, oder rückwärts statt vorwärts verlaufend. Magische Wesen, die in diesen Gebieten leben, glauben oft, selbst Teil des Moments zu sein, sodass Reisende, die ein berühmtes Schlachtfeld zu entdecken scheinen, dort den Charakter finden und mit ihm sprechen können, der sich für den Feldherrn hält. Diese historischen Nachstellungen gelten unter den Befürwortern dieser Interpretation als peinlich genaue Abbilder der Geschichte, solange sie nicht von Außenstehenden verfälscht worden sind.
-
->## Abenteueridee: Südlich der Sonne
+>#### Abenteueridee: Südlich der Sonne
 >
 >Wenn die Magische Sphäre direkt der mundanen Welt entspricht, so spekulieren manche Gelehrten der Magiekunde, müsste es möglich sein, dorthin direkt zu reisen, indem man über die äußersten Ränder des Mythischen Europas hinaus vordringt. Unter Berufung auf sagenhafte Erzählungen in antiken Geschichtswerken und dem Wunsch, die darin beschriebenen Länder noch vor seinem Tod zu sehen, gibt ein betagter Magus den Bau einer Flotte in Auftrag, die nach Süden segeln soll, jenseits des Äquators und um die *finis Africae* (den Rand Afrikas) herum, um Indien und das magische Königreich des Priesterkönigs Johannes zu erreichen. Er bittet jüngere Magi, ihn auf der Reise zu begleiten und Kunde von ihren Entdeckungen zurückzubringen, sobald sie ihr Ziel erreichen.
 >
@@ -1057,7 +1035,23 @@ In einem Tempus kann die Zeit sehr seltsam zu vergehen scheinen, vielleicht ange
 >
 >Angenommen, die Charaktere finden schließlich das Königreich des Priesterkönigs Johannes, und er erklärt sich bereit, den Magus als seinen Untertan aufzunehmen, müssen die Charaktere dann heimkehren, um ihren Preis einzufordern. Leider werden sie feststellen, dass ihre *Sprung der Heimkehr*-Zauber nicht mehr funktionieren, da sie ihre Arkanen Verbindungen zur mundanen Welt verloren haben. Sie müssen denselben Weg zurückreisen oder eine andere Route finden, die in ihre Heimat führt.
 
->## Empedokles hatte manchmal Recht
+### Seiten der Geschichte
+
+Eine Vorstellung, die besonders akademisch veranlagte Charaktere ansprechen mag, ist die Idee, dass die Magische Sphäre eine Art Aufzeichnung der Ereignisse der mundanen Welt darstellt – eine Reise in die Magische Sphäre gleicht einer Reise durch die Erinnerungen der Vergangenheit. Dieser Ansicht nach ist jeder Ort in der Magischen Sphäre ein bestimmter Moment der Geschichte, genannt **Tempus** (Plural *Tempora*). Je weiter Reisende sich von der mundanen Welt entfernen, desto ältere Aufzeichnungen finden sie vor, sodass die mächtigsten magischen Orte und Dinge besonders altertümlich sind. Diese Idee ist besonders unter Magi des Hauses Criamon beliebt, von denen viele glauben, dass das Zwielicht ein Ort außerhalb des Kreislaufs der Zeit ist und dass sie dort die Vergangenheit durch ihr Handeln in der Gegenwart verändern können.
+
+Um dieses Konzept anhand einer Analogie zu erklären, mögen Reisende die Magische Sphäre als das Buch des Heiligen Petrus beschreiben, in dem alle Gedanken und Taten eines Menschen für den Jüngsten Tag aufgezeichnet sind. Jeder Moment in der Erzählung des Betroffenen ist eine einzelne Seite im Buch, und durch Umblättern der Seiten kann der Heilige Petrus von einem Moment zum nächsten im Leben dieses Menschen reisen, vorwärts oder rückwärts durch das Buch, um besser beurteilen zu können, wie gut der Mensch sein Leben gelebt hat. Ebenso können Reisende in der Magischen Sphäre von einem Tempus zum nächsten gelangen und verschiedene Ereignisse in der Geschichte des Betroffenen besuchen.
+
+In einem Tempus kann die Zeit sehr seltsam zu vergehen scheinen, vielleicht angehalten und in endloser Wiederholung eines einzelnen Ereignisses oder einer Reihe von Ereignissen, oder rückwärts statt vorwärts verlaufend. Magische Wesen, die in diesen Gebieten leben, glauben oft, selbst Teil des Moments zu sein, sodass Reisende, die ein berühmtes Schlachtfeld zu entdecken scheinen, dort den Charakter finden und mit ihm sprechen können, der sich für den Feldherrn hält. Diese historischen Nachstellungen gelten unter den Befürwortern dieser Interpretation als peinlich genaue Abbilder der Geschichte, solange sie nicht von Außenstehenden verfälscht worden sind.
+
+>#### ABENTEUERIDEE: Verbrechen neu aufgerollt
+>
+>Ein Magus bekommt Besuch von jemandem, von dem er noch nie gehört hat – einem fast unvorstellbar alten Mann, der um eine private Audienz bittet. Dieser Mann teilt ihm mit, dass der Magus selbst eines Verbrechens angeklagt wurde, das er vor vielen Jahren beging, als er glaubte, niemand würde zusehen. Der Mann gibt sich als bestellter Verteidiger des Magus vor einem Gericht der Magie zu erkennen, bei dem die Klage gegen ihn erhoben wurde. Es handelt sich nicht um ein hermetisches Vergehen, sondern um ein Verbrechen der mundanen Gesellschaft, wie Mord oder Diebstahl, und der Verteidiger schildert einen Augenzeugenbericht des Geschehens, der unheimlich genau ist. Tatsächlich kann der Verteidiger gegen eine kleine Gebühr (vielleicht zehn Bauern Vis) den Magus in die Magische Sphäre bringen, zu einem Tempus, der die gesamten Ereignisse so lebendig zeigt, als wären sie beide bei der Tat anwesend gewesen. Dort können die beiden den Sachverhalt untersuchen und ihre Verteidigung vorbereiten.
+>
+>Wenn die Schuld des Magus offensichtlich erscheint, schlägt der Verteidiger dem Angeklagten vor, in den folgenden Quartalen Wiedergutmachung für seine Tat zu leisten. Wenn besondere Umstände für seine Unschuld sprechen, sammeln sie so viele Beweise wie möglich. Dann bringt der Verteidiger den Magus in die mundane Welt zurück und verspricht, in einem Jahr wiederzukommen, um ihn zu seinem Prozess zu begleiten. Er warnt den Magus auch, dass andere am Gericht ihn beobachten werden und wissen, was er tut, sodass er nicht an Flucht oder weitere Verbrechen denken sollte.
+>
+>Nachdem ein Jahr vergangen ist, kehrt der Verteidiger nicht zurück, und es gibt keine Nachricht von diesem angeblichen Gericht der Magie. Wurde der Magus hereingelegt, oder ist dem Verteidiger etwas zugestoßen? Vielleicht hat das Gericht den Fall fallen gelassen, oder vielleicht haben sie ihn in seiner Abwesenheit für schuldig befunden. Es könnte ratsam sein, dass der Magus einen Weg findet, selbst vor Gericht zu erscheinen und sich zu verteidigen, statt darauf zu warten, dass der Verteidiger ihn abholt.
+
+>#### Empedokles hatte manchmal Recht
 >
 >Viele Magi des Hauses Criamon lehren, dass die Zeit ein großer Kreis ist und dass Teile der Magischen Sphäre, die sie Zwielicht nennen, außerhalb dieses Kreislaufs der Zeit existieren – Ideen, die auf einen antiken Philosophen namens Empedokles zurückgehen (siehe Haus Criamon, *Häuser des Hermes: Mysterienkultee*). Indem sie die Magische Sphäre betreten, glauben sie, die Ketten abwerfen zu können, die sie an die physische Welt binden, um der endlosen Wiederholung der Geschichte zu entkommen, die diese repräsentiert, und dass es ihre eigenen Handlungen sind, die bestimmen, was sie dort vorfinden werden, ob Gutes oder Schlechtes.
 >
@@ -1087,7 +1081,7 @@ Arkane Verbindungen zu Dingen außerhalb der Magischen Sphäre werden unterbroch
 
 Die gesamte Magische Sphäre hat eine Magieaura von 10.
 
-### In die Magische Sphäre
+#### In die Magische Sphäre
 
 Einen Übergang zur Magischen Sphäre von der mundanen Welt aus zu finden, ist an sich schon eine große Entdeckung, denn es gibt nur drei Wege, auf denen Reisende von der einen in die andere gelangen können. Dieselben Methoden ermöglichen auch das Reisen innerhalb der Magischen Sphäre und können einen Reisenden manchmal auf magischem Wege zwischen Regiones und anderen der Magie zugeordneten Orten in der mundanen Welt transportieren, wobei die Person die Magische Sphäre nur kurz durchquert.
 
@@ -1120,14 +1114,6 @@ Die Magische Sphäre ist ein scheinbar unendliches Geflecht miteinander verbunde
 Nahezu jeder Ort in der Magischen Sphäre wird von einer Sphären-**Grenze** umrissen. Dies ähnelt der Art, wie verschiedene Stufen einer Magieregio durch eine Regiogrenze voneinander getrennt sind.
 
 Sphärengrenzen haben eine Stufe, die von 0 bis 10 reicht, wie bei Regiones, und diese wird als Bonus auf alle magischen Aktivitäten innerhalb des Gebiets addiert, wie eine Magieaura. (Dies kommt zum Bonus hinzu, den ein Charakter durch die konstante Magieaura von 10 erhält.) Ein Ort mit Grenzstufe 1 würde also einen Bonus von +11 auf magische Aktivitäten geben, während ein anderer Ort eine Grenzstufe von 10 haben und einen Bonus von +20 geben könnte. Übernatürliche Aktivitäten einer anderen Sphäre erhalten den Bonus nicht.
-
->## Abenteueridee: Verbrechen neu aufgerollt
->
->Ein Magus bekommt Besuch von jemandem, von dem er noch nie gehört hat – einem fast unvorstellbar alten Mann, der um eine private Audienz bittet. Dieser Mann teilt ihm mit, dass der Magus selbst eines Verbrechens angeklagt wurde, das er vor vielen Jahren beging, als er glaubte, niemand würde zusehen. Der Mann gibt sich als bestellter Verteidiger des Magus vor einem Gericht der Magie zu erkennen, bei dem die Klage gegen ihn erhoben wurde. Es handelt sich nicht um ein hermetisches Vergehen, sondern um ein Verbrechen der mundanen Gesellschaft, wie Mord oder Diebstahl, und der Verteidiger schildert einen Augenzeugenbericht des Geschehens, der unheimlich genau ist. Tatsächlich kann der Verteidiger gegen eine kleine Gebühr (vielleicht zehn Bauern Vis) den Magus in die Magische Sphäre bringen, zu einem Tempus, der die gesamten Ereignisse so lebendig zeigt, als wären sie beide bei der Tat anwesend gewesen. Dort können die beiden den Sachverhalt untersuchen und ihre Verteidigung vorbereiten.
->
->Wenn die Schuld des Magus offensichtlich erscheint, schlägt der Verteidiger dem Angeklagten vor, in den folgenden Quartalen Wiedergutmachung für seine Tat zu leisten. Wenn besondere Umstände für seine Unschuld sprechen, sammeln sie so viele Beweise wie möglich. Dann bringt der Verteidiger den Magus in die mundane Welt zurück und verspricht, in einem Jahr wiederzukommen, um ihn zu seinem Prozess zu begleiten. Er warnt den Magus auch, dass andere am Gericht ihn beobachten werden und wissen, was er tut, sodass er nicht an Flucht oder weitere Verbrechen denken sollte.
->
->Nachdem ein Jahr vergangen ist, kehrt der Verteidiger nicht zurück, und es gibt keine Nachricht von diesem angeblichen Gericht der Magie. Wurde der Magus hereingelegt, oder ist dem Verteidiger etwas zugestoßen? Vielleicht hat das Gericht den Fall fallen gelassen, oder vielleicht haben sie ihn in seiner Abwesenheit für schuldig befunden. Es könnte ratsam sein, dass der Magus einen Weg findet, selbst vor Gericht zu erscheinen und sich zu verteidigen, statt darauf zu warten, dass der Verteidiger ihn abholt.
 
 Wie Kreaturen mit Macht ist jede Grenze einer bestimmten Form der Magie zugeordnet, wie Animal, Auram, Aquam und so weiter. Wie bei ausgerichteten Auren (siehe Kapitel 2: Magieauren) macht dies Effekte, die mit dieser Form verbunden sind, mächtiger, indem der Grenzbonus verdoppelt wird. Innerhalb einer Corpus-Grenze der Stufe 4 würden Corpus-Effekte also einen Bonus von +18 erhalten (4 × 2 für die Grenze, +10 für die Aura). Wie Regiones bringen Grenzen jedoch auch ein größeres Risiko mit sich und fügen jedem Wurf, der vom Magieaura-Bonus profitiert, eine Anzahl von Patzerwürfeln gleich der Grenzstufe hinzu.
 
@@ -1216,10 +1202,6 @@ Während Reisende durch die Leere ziehen, erkennen sie möglicherweise die geist
 
 All diese Bilder sind substanzlos, wie Relikte in der Magischen Sphäre. Sie können Reisende in der Leere nicht beeinflussen, und Reisende können sie nicht beeinflussen. Es gibt einige substanzielle Dinge in der Leere, gewöhnlich Dinge, die aus der Welt jenseits in die Leere gebracht wurden, doch diese sind selten und werden von ihren Besitzern, den dort heimischen Wesen, eifersüchtig gehütet. Diese Wesen sind Daimonen, mächtige magische Kreaturen, die in der Leere leben, sie aber ohne die Bildung eines Aspekts nicht verlassen können (siehe Kapitel 7: Magische Geister).
 
->## Ist dies das Zwielicht?
->
->Obwohl viele Magi die Zwielichtleere bei diesem Namen nennen, ist nicht absolut sicher, ob dies der Ort ist, an den Magi gehen, wenn sie im Zwielicht sind. Insbesondere konnten Reisende, die glauben, in der Zwielichtleere Magi getroffen zu haben, nicht bestätigen, dass diese Magi zum Zeitpunkt des Treffens im Zwielicht waren, und Magi, die ins Zwielicht gegangen sind und während ihres Erlebnisses Reisende trafen, können nicht sicher sein, ob diese Reisenden nicht Erscheinungen oder Hirngespinste ihrer Einbildung waren. Andererseits ist die Zwielichtleere sehr groß, und nur wenige der Magi, die dorthin reisen können, haben gezielt nach anderen Magi gesucht, um dieses Phänomen zu untersuchen. Die Argumente dafür sind hauptsächlich indirekt: Magi in der Zwielichtleere sind von der mundanen Welt und der Zeit auf ganz ähnliche Weise unberührt wie Magi im Zwielicht, und es gibt keine anderen offensichtlichen Kandidaten für Orte, an die Magi in diesem Moment gehen könnten. Viele Magi des Hauses Criamon glauben allerdings nicht, dass die Zwielichtleere der Ort ist, an den Magi im Endgültigen Zwielicht gehen, da sie ihnen nicht vollständig außerhalb des Kreislaufs der Zeit zu sein scheint.
-
 Reisende in der Leere sind gegen die Widrigkeiten der Natur immun: Sie müssen nicht essen, trinken oder atmen. Sie altern überhaupt nicht und erleiden keine Gewöhnung (siehe Kapitel 4: Magische Charaktere). Ihre Wunden heilen weder noch verschlimmern sie sich auf natürliche Weise, und sie gewinnen keine langfristige Erschöpfung zurück. Für Charaktere ohne Machtwert oder Charaktere, deren Machtwert nicht zur Provinz passt, in der sie reisen, ist die Zwielichtleere genau wie das Erleben des Zwielichts. Sie sind substanzlos und von ihrer Umgebung unbeeinflusst.
 
 In der Leere erhalten Charaktere keine Erfahrung, aber sie sammeln auch kein Vis an wie im Rest der Magischen Sphäre. Sie sind im Wesentlichen unbeeinflusst von der in ihren Provinzen verbrachten Zeit, sodass Reisende die Leere einfach durchqueren können, ohne mit ihrer Umgebung zu interagieren. Manche Reisende können sich jedoch auch dafür entscheiden, die Leere zu erkunden, und diese Abenteuer können zu weiteren Belohnungen führen, wenn der Reisende die Umgebung begreifen und erfolgreich navigieren kann.
@@ -1234,7 +1216,9 @@ Wie wenn ein Magus das Zwielicht versteht, hat eine positive Erfahrung in der Zw
 
 Während dieses Prozesses erlebt der Charakter die Leere im Allgemeinen als eine Reihe von Entscheidungen. Es heißt, alles in der Leere sei mit allem anderen verbunden, und jede Wahl dient dazu, die unzähligen Möglichkeiten dessen, was der Reisende sucht, auf eine einzige Sache einzugrenzen. Angenommen, ein Magus sucht eine Freundin in der Corpus-Provinz, eine junge Criamon-Maga, die für verschollen gilt. Er verlässt den Pfad, auf dem er die Leere betreten hat, und trifft auf zwei Gestalten, einen Mann und eine Frau. Er spricht die Frau an, die beiseitetritt, um ihn vorbeizulassen. Dann sieht er eine alte Frau und ein junges Mädchen, und als er das Mädchen an der Schulter berührt, weist es auf den Gang hinter ihr. Weitere Entscheidungen unterscheiden die Farbe ihrer Züge, ihr Temperament, wann sie lebte, wo sie aufwuchs und so weiter.
 
->## Sinne in der Leere
+Der Reisende mag sich nie der Auswirkungen seiner Entscheidungen bewusst sein oder wissen, welche Eigenschaften durch eine gegebene Reihe von Möglichkeiten unterschieden werden, weshalb es nicht leicht ist, die Erfahrung zu begreifen. Außerdem gilt: Je übernatürlicher der Reisende ist, desto schwerer fällt ihm der Erfolg, da sein größerer Einfluss auf seine Umgebung es ihm erschwert, etwas anderes als sich selbst zu finden.
+
+>### Sinne in der Leere
 >
 >Reisende in der Zwielichtleere nehmen nur Species wahr, die mit der Provinz verbunden sind, in der sie reisen. Hier einige Ideen, wie das sein könnte.
 >
@@ -1258,7 +1242,9 @@ Während dieses Prozesses erlebt der Charakter die Leere im Allgemeinen als eine
 >
 >**Vim:** Die Vim-Provinz vereint gewöhnlich die Eigenschaften anderer Sphären zu einer seltsamen übernatürlichen Mischung. Magische Dinge sind für Vim-Zugeordnete sichtbar und werden mit steigender Magnitude heller, doch viele der Regeln, die die Orte in der Magischen Sphäre zu befolgen scheinen, gelten in dieser Sphäre nicht immer. Zauber und magische Effekte erscheinen gewöhnlich mit Eigenschaften der Sphäre, die ihrer Form entspricht, ebenso wie magische Wesen. Göttliche, Fee- und Infernale Kräfte oder Wesen sind nicht sichtbar, es sei denn, sie sind irgendwie der Magie zugeordnet (wie infernale Kräfte, die als magisch getarnt sind, oder Feenzauber, die mit der Feenmagie des Hauses Merinita gewirkt wurden).
 
-Der Reisende mag sich nie der Auswirkungen seiner Entscheidungen bewusst sein oder wissen, welche Eigenschaften durch eine gegebene Reihe von Möglichkeiten unterschieden werden, weshalb es nicht leicht ist, die Erfahrung zu begreifen. Außerdem gilt: Je übernatürlicher der Reisende ist, desto schwerer fällt ihm der Erfolg, da sein größerer Einfluss auf seine Umgebung es ihm erschwert, etwas anderes als sich selbst zu finden.
+>#### Ist dies das Zwielicht?
+>
+>Obwohl viele Magi die Zwielichtleere bei diesem Namen nennen, ist nicht absolut sicher, ob dies der Ort ist, an den Magi gehen, wenn sie im Zwielicht sind. Insbesondere konnten Reisende, die glauben, in der Zwielichtleere Magi getroffen zu haben, nicht bestätigen, dass diese Magi zum Zeitpunkt des Treffens im Zwielicht waren, und Magi, die ins Zwielicht gegangen sind und während ihres Erlebnisses Reisende trafen, können nicht sicher sein, ob diese Reisenden nicht Erscheinungen oder Hirngespinste ihrer Einbildung waren. Andererseits ist die Zwielichtleere sehr groß, und nur wenige der Magi, die dorthin reisen können, haben gezielt nach anderen Magi gesucht, um dieses Phänomen zu untersuchen. Die Argumente dafür sind hauptsächlich indirekt: Magi in der Zwielichtleere sind von der mundanen Welt und der Zeit auf ganz ähnliche Weise unberührt wie Magi im Zwielicht, und es gibt keine anderen offensichtlichen Kandidaten für Orte, an die Magi in diesem Moment gehen könnten. Viele Magi des Hauses Criamon glauben allerdings nicht, dass die Zwielichtleere der Ort ist, an den Magi im Endgültigen Zwielicht gehen, da sie ihnen nicht vollständig außerhalb des Kreislaufs der Zeit zu sein scheint.
 
 ### Fortschritt
 
@@ -1269,36 +1255,29 @@ Im Allgemeinen können nur hermetische, übernatürliche oder allgemeine Tugende
 Charaktere erleben nicht mehr als eine Transformation pro Quartal, obwohl sie nicht ihr gesamtes Vis auf einmal aufbrauchen müssen. Neue Tugenden oder Fehler brauchen möglicherweise etwas Zeit, um sich nach der Rückkehr des Charakters aus der Magischen Sphäre zu manifestieren, was ihm Zeit gibt, sich an sein neues und verbessertes Selbst zu gewöhnen. Wenn eine Tugend oder ein Fehler in eine andere Tugend oder einen anderen Fehler transformiert wird, sollten die beiden in irgendeiner Weise verwandt sein, und Charaktere können keine Tugenden oder Fehler transformieren, die die Charaktererschaffung betreffen, wie eine Affinität mit einer Fertigkeit oder Begabter Parens.
 
 **Vis:** 0
-
 Eine Kleine Tugend in eine andere Kleine Tugend, einen Kleinen Fehler in einen anderen Kleinen Fehler, eine Große Tugend in eine andere Große Tugend oder einen Großen Fehler in einen anderen Großen Fehler umwandeln
 
 **Vis:** 5
-
 Eine Kleine Tugend und einen Kleinen Fehler erhalten
 
 **Vis:** 10
-
 Eine Kleine Tugend erhalten
 
 **Vis:** 15
-
 Eine Große Tugend und einen Großen Fehler erhalten
 
 **Vis:** 20
-
 Eine Kleine Tugend in eine Große Tugend, einen Kleinen Fehler in eine Kleine Tugend oder einen Großen Fehler in einen Kleinen Fehler umwandeln
 
 **Vis:** 25
-
 Eine Große Tugend und einen Kleinen Fehler erhalten
 
 **Vis:** 30
-
 Eine Große Tugend erhalten
 
 Eine häufig durch Transformation erlangte Große Tugend ist Verwandeltes (Wesen), die dem Charakter einen Magischen Machtwert verleiht und in Kapitel 4: Magische Kreaturen ausführlicher beschrieben wird.
 
->## Positive und negative Eigenschaften
+>#### Positive und negative Eigenschaften
 >
 >Charaktere können magischer werden, indem sie die Zwielichtleere erkunden und begreifen. Eine verbreitete Art, wie sich dies manifestiert, sind Zwielichtnarben und Essenzielle Eigenschaften (beschrieben in Kapitel 3: Magische Charaktere, Essenzielle Eigenschaften). Diese sind typischerweise mit der Provinz verbunden, in der der Charakter gereist ist, wie die folgenden Wirkungsvorschläge zeigen.
 >
@@ -1330,7 +1309,15 @@ Hermetische Standardmagie kann jedoch die einzigartigen Merkmale der Magischen S
 
 Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu erweitern. Alle in diesem Abschnitt angegebenen Leitlinien werden durch einen einzigen Kleinen Durchbruch verfügbar, der 30 Durchbruchspunkte erfordert (siehe *Häuser des Hermes: Wahre Linien*, Seite 26). Ein Magus darf jedoch erst mit der Erforschung eines solchen Durchbruchs beginnen, nachdem er die Magische Sphäre besucht und es entweder mit Relikten oder Grenzen zu tun gehabt hat, wenn auch nicht unbedingt durch seine eigene Magie.
 
+Ein Magus, der in der Magischen Sphäre Vis statt Erfahrung ansammelt, kann diese Vis-Bauern auch in eine Erkenntnis zur magischen Manipulation der Magischen Sphäre umwandeln (siehe *Alte Magie*, Seite 8). Für jeden Bauer Vis, den er in eine Erkenntnis umwandelt, hat der zugehörige Effekt eine Magnitude. Diese Erkenntnis ermöglicht es dem Magus, einen einzelnen Effekt gemäß den unten angegebenen Leitlinien zu erschaffen; die Einzelheiten des Effekts sollten die Erlebnisse des Magus in der Magischen Sphäre widerspiegeln. Ein Magus kann pro Quartal nur eine Erkenntnis erlangen.
 
+Da dies ein Kleiner Durchbruch ist, kann ein Magus auch Zugang zu den Leitlinien erlangen, indem er einen Zauber aus einem Labortext erfindet, der von einem Magus erstellt wurde, der die Forschung abgeschlossen hat. (Labortexte für Effekte, die während des Forschungsprozesses erschaffen wurden, sind hierfür unbrauchbar.) Es ist durchaus möglich, dass dieser Durchbruch in der Geschichte des Ordens bereits erzielt, aber nicht weit verbreitet wurde; die meisten Magi interessieren sich nicht sonderlich für die Magische Sphäre.
+
+Diese neuen Effekte können das Reisen in der Magischen Sphäre erleichtern und angenehmer machen, indem sie Relikte und Grenzen magisch manipulieren oder sogar Reisende von oder in die mundane Welt transportieren. Diese Effekte schöpfen jedoch aus den besonderen magischen Eigenschaften der Magischen Sphäre und funktionieren daher nur dort oder über Verbindungen zwischen der Magischen Sphäre und der mundanen Welt. Charaktere mit Magischer Macht gelten als Verbindung zur Magischen Sphäre, der Form ihrer Macht entsprechend.
+
+Beachte, dass die einzigen Arkanen Verbindungen zwischen der mundanen Welt und der Magischen Sphäre Relikte und Grenzen sind, da alle anderen unzugänglich werden, sobald sie aus der einen in die andere gebracht werden. Bedenke auch, dass in der Magischen Sphäre alle Umgebungsdauern unter Jahr für ein Quartal gelten und dass ein Ritual mit der Dauer Jahr tatsächlich permanent ist. Sobald diese Effekte aus der Magischen Sphäre herausgebracht werden, kehren sie zu ihrer ursprünglichen Dauer zurück, und wenn diese abgelaufen ist, endet der Effekt sofort.
+
+Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die Leitlinien sind dieselben, ungeachtet des Ziels. Du kannst diese Leitlinien auch zur Gestaltung von Kräften für magische Kreaturen verwenden.
 
 >#### Neue Creo-Leitlinien
 >
@@ -1346,20 +1333,16 @@ Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu
 >
 >#### Neue Creo-Zauber
 >
->**Locus des Gelehrten**
->
+>##### **Locus des Gelehrten**
 >CrIm 20
->
 >R: Berührung, D: Mom, Z: Ind, Ritual
 >
 >Mit diesem Zauber erschafft der Zaubernde eine Zeichnung seines Aufenthaltsorts als Relikt, illuminiert auf einer Seite in einem Buch, das er bei sich trägt. Indem er diesen Zauber an mehreren verschiedenen Orten wirkt, erstellt der Zaubernde eine Karte, die mit InIm-Zaubern genutzt werden kann, um leichter durch die Magische Sphäre zu reisen.
 >
 >(Basis 15, +1 Berührung)
 >
->**Verehrung der Magischen Insel**
->
+>##### **Verehrung der Magischen Insel**
 >CrAq 50
->
 >R: Berührung, D: Mom, Z: Grenze, Ritual
 >
 >Dieses Ritual erhöht die Stärke einer Aquam-Grenze in der Magischen Sphäre permanent um eins, auf ein Maximum von 5. Dies verstärkt tatsächlich die Aura in der Region um 1, oder um 2 beim Wirken von Aquam-Effekten.
@@ -1376,16 +1359,16 @@ Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu
 >
 >#### Neue Intellego-Zauber
 >
->**Die Pfade durch die Leere erkennen** InAu 20
->
+>##### **Die Pfade durch die Leere erkennen** InAu 20
+>InAu 20  
 >R: Per, D: Konz, Z: Sicht
 >
 >Dieser Zauber ermöglicht es dem Zaubernden, die Stufe aller Grenzen oder Relikte zu erkennen, die er sehen kann und die mit Auram verbunden sind, und durch jede von ihnen in die Zwielichtleere zu treten, wenn er es wünscht.
 >
 >(Basis 3, +1 Konz, +4 Sicht)
 >
->**Die mystische Pforte begreifen** InHe 30
->
+>##### **Die mystische Pforte begreifen** InHe 30
+>InHe 30  
 >R: Berührung, D: Mom, Z: Bauwerk
 >
 >Der Zaubernde kann durch das Relikt einer Holzkonstruktion in der Magischen Sphäre in die Zwielichtleere blicken und andere mit einem Bonus von +9 auf seine Reliktreisesumme hindurchführen.
@@ -1404,35 +1387,21 @@ Es ist allerdings nicht besonders schwierig, hermetische Magie um diesen Fall zu
 >
 >#### Neue Muto-Zauber
 >
->**Fackel des sphärengebundenen Feiernden** MuIg 25
->
+>##### **Fackel des sphärengebundenen Feiernden** MuIg 25
+>MuIg 25  
 >R: Berührung, D: Sonne, Z: Ind
 >
 >Für die Dauer des Zaubers kann das Ziel feurige Objekte in der mundanen Welt mit der Magie der Magischen Sphäre beeinflussen, als hätte es Magische Macht verbunden mit Ignem. Es könnte zum Beispiel einen Intellego-Ignem-Effekt nutzen, um durch eine Flamme in die Magische Sphäre zu blicken und durch sie in einen Mikrokosmos dieser Flamme zu gelangen.
 >
 >(Basis 10, +1 Berührung, +2 Sonne)
 >
->**Visionen des Olymp**
->
+>##### **Visionen des Olymp**
 >MuMe 35
->
 >R: Berührung, D: Durchmesser, Z: Gruppe
 >
 >Dieser Zauber bewirkt, dass eine Gruppe intelligenter Wesen in der Mentem-Provinz der Zwielichtleere für andere außerhalb der Zwielichtleere wahrnehmbar wird. Ein Reisender in der Zwielichtleere könnte sich zum Beispiel zum Unterschlupf einer bestimmten Kreatur durchschlagen, mit der er kommunizieren möchte. Dieser Effekt macht die Kreatur in der Lage, ihn und mehrere andere für die Dauer zu sehen und zu hören, als wären sie Relikte an dem Ort, an dem diese Kreatur lebt.
 >
 >(Basis 15, +1 Berührung, +1 Durchmesser, +2 Gruppe)
-
-Ein Magus, der in der Magischen Sphäre Vis statt Erfahrung ansammelt, kann diese Vis-Bauern auch in eine Erkenntnis zur magischen Manipulation der Magischen Sphäre umwandeln (siehe *Alte Magie*, Seite 8). Für jeden Bauer Vis, den er in eine Erkenntnis umwandelt, hat der zugehörige Effekt eine Magnitude. Diese Erkenntnis ermöglicht es dem Magus, einen einzelnen Effekt gemäß den unten angegebenen Leitlinien zu erschaffen; die Einzelheiten des Effekts sollten die Erlebnisse des Magus in der Magischen Sphäre widerspiegeln. Ein Magus kann pro Quartal nur eine Erkenntnis erlangen.
-
-Da dies ein Kleiner Durchbruch ist, kann ein Magus auch Zugang zu den Leitlinien erlangen, indem er einen Zauber aus einem Labortext erfindet, der von einem Magus erstellt wurde, der die Forschung abgeschlossen hat. (Labortexte für Effekte, die während des Forschungsprozesses erschaffen wurden, sind hierfür unbrauchbar.) Es ist durchaus möglich, dass dieser Durchbruch in der Geschichte des Ordens bereits erzielt, aber nicht weit verbreitet wurde; die meisten Magi interessieren sich nicht sonderlich für die Magische Sphäre.
-
-Diese neuen Effekte können das Reisen in der Magischen Sphäre erleichtern und angenehmer machen, indem sie Relikte und Grenzen magisch manipulieren oder sogar Reisende von oder in die mundane Welt transportieren. Diese Effekte schöpfen jedoch aus den besonderen magischen Eigenschaften der Magischen Sphäre und funktionieren daher nur dort oder über Verbindungen zwischen der Magischen Sphäre und der mundanen Welt. Charaktere mit Magischer Macht gelten als Verbindung zur Magischen Sphäre, der Form ihrer Macht entsprechend.
-
-Beachte, dass die einzigen Arkanen Verbindungen zwischen der mundanen Welt und der Magischen Sphäre Relikte und Grenzen sind, da alle anderen unzugänglich werden, sobald sie aus der einen in die andere gebracht werden. Bedenke auch, dass in der Magischen Sphäre alle Umgebungsdauern unter Jahr für ein Quartal gelten und dass ein Ritual mit der Dauer Jahr tatsächlich permanent ist. Sobald diese Effekte aus der Magischen Sphäre herausgebracht werden, kehren sie zu ihrer ursprünglichen Dauer zurück, und wenn diese abgelaufen ist, endet der Effekt sofort.
-
-Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die Leitlinien sind dieselben, ungeachtet des Ziels. Du kannst diese Leitlinien auch zur Gestaltung von Kräften für magische Kreaturen verwenden.
-
->## Neue Zauber und Zauber-Leitlinien der Magischen Sphäre (Forts.)
 >
 >#### Neue Perdo-Leitlinien
 >
@@ -1448,8 +1417,8 @@ Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die 
 >
 >#### Neue Perdo-Zauber
 >
->**Wenn Fortuna blinzelt** PeCo 10
->
+>##### **When Fortuna Blinks** 
+>PeCo 10  
 >R: Per, D: Mom, Z: Ind
 >
 >Der Magus verschwindet für einen Moment aus der Magischen Sphäre, lang genug, um einem tödlichen Schlag oder einem Feuerstoß oder jeder anderen unmittelbaren Bedrohung zu entgehen. Wenn die Gefahr physischer Natur ist, wie ein großer Fels, der auf den Magus fällt, erscheint er neben oder auf dem im Weg stehenden Material wieder, niemals darunter oder darin.
@@ -1458,8 +1427,8 @@ Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die 
 >
 >(Basis 10)
 >
->**Ruhe des Ewigen Augenblicks** PeCo 35
->
+>##### **Ruhe des Ewigen Augenblicks** PeCo 35
+>PeCo 35  
 >R: Berührung, D: Jahr, Z: Ind, Ritual
 >
 >Dieses Ritual, das innerhalb der Magischen Sphäre oder von einem Charakter mit Corpus-Macht gewirkt werden muss, lässt das Ziel in der Zwielichtleere verschwinden. Solange es andauert, ist es, als existierte es nicht; es wird keine Erinnerung an die Zwischenzeit haben, wenn und falls es zurückkehrt. Beachte, dass der Effekt, wenn er in der Magischen Sphäre gewirkt wird, tatsächlich permanent ist. Ein Magus, der sicherstellen will, dass er nicht mehr altert, könnte diesen Effekt auf sich selbst anwenden und zuvor ein Relikt seiner selbst erschaffen, das als Verbindung dienen kann, um ihn zurückzuholen.
@@ -1480,16 +1449,16 @@ Die folgenden Zauber verwenden eine Vielzahl von Formen als Beispiele, aber die 
 >
 >#### Neue Rego-Zauber
 >
->**Der Bau der Nachtdachse** ReAn(Te) 20
->
+>##### **Der Bau der Nachtdachse** 
+>ReAn(Te) 20  
 >R: Berührung, D: Mom, Z: Gruppe
 >
 >Versetzt die Ziele von der Animal-Provinz in die Terram-Provinz der Zwielichtleere. Dies kann ihnen ermöglichen, die Leere durch ein Terram-Relikt oder eine Terram-Grenze zu verlassen.
 >
 >(Basis 5, +1 Berührung, +2 Gruppe)
 >
->**Schnelle Schwingen zeitloser Tage** ReVi 20
->
+>##### **Schnelle Schwingen zeitloser Tage** ReVi 20
+>ReVi 20  
 >R: Per, D: Mom, Z: Ind
 >
 >Die Dauer der Reise des Zaubernden durch die Zwielichtleere wird um drei Stufen gegenüber seiner anfänglichen Geschwindigkeitsstufe reduziert. Mit einer Geschwindigkeitsstufe von 6 würde der Zaubernde nach einem Jahr in die Magische Sphäre zurückkehren, und dieser Zauber würde seine Geschwindigkeitsstufe auf 18 erhöhen, was bedeutet, dass er nach nur einem Tag hervortritt.
@@ -1516,12 +1485,6 @@ Schließlich verfügen magische Charaktere dank ihres Machtwerts über eine gehe
 
 Diese Regeln zeigen, wie man Charaktere mit Magischer Macht erschafft, zur Verwendung als Gefährtencharaktere wie Vertraute oder geisterhafte Wächter, als Gegner für eine Geschichte rund um die Magiesphäre oder zur Besetzung anderer Rollen in einer laufenden Saga wie magische Diener, Kontakte, Verbündete, Feinde oder Ressourcen eines Konvents. Sie gelten für Charaktere, die das Spiel mit Magischer Macht beginnen, unabhängig davon, ob sie damit geboren wurden oder auf irgendeine Weise durch Magie verwandelt wurden – es gibt auch Wege für Charaktere ohne Magische Macht, diese zu erlangen, doch solche Charaktere sollten auf normale Weise erschaffen und die entsprechende Tugend erst später in der Saga erhalten, anstatt diese Regeln zu verwenden.
 
-### Konzept
-
-Der erste Schritt bei der Erschaffung eines magischen Charakters besteht darin, seine wesentlichen Eigenschaften und seine Gestalt zu bestimmen – das, was oft als seine „Wahre Gestalt" bezeichnet wird. Dies ist im Grunde das, was der Charakter wäre, wenn er nicht magisch wäre, obwohl er natürliche Vorteile haben kann, die ihn besonders für die Magiesphäre geeignet machen. Die Wahre Gestalt bestimmt vieles am Charakter, einschließlich seines Aussehens und instinktiven Verhaltens, und legt auch die anfänglichen Eigenschaftswerte und die Startgröße des Charakters fest.
-
-Sobald du die Wahre Gestalt des Charakters bestimmt hast, solltest du seine Basiseigenschaften festlegen.
-
 >## Zusammenfassung der Magischen Charaktererschaffung
 >
 >#### 1. WÄHLE EIN CHARAKTERKONZEPT
@@ -1546,36 +1509,17 @@ Sobald du die Wahre Gestalt des Charakters bestimmt hast, solltest du seine Basi
 >
 >Wähle passende Ausrüstung, Kampfwerte, Selbstvertrauen (falls zutreffend) und Inhärentes Vis. Wähle mindestens drei Persönlichkeitseigenschaften, die das Verhalten des Charakters beschreiben, und eine Essenzielle Eigenschaft, die seine Wahre Gestalt beschreibt.
 
+>#### SCs und NSCs
+>
+>Jeder magische Charakter in **Ars Magica** wird auf die gleiche Weise erschaffen, unabhängig von seiner Rolle in der Saga, sodass es praktisch keinen Unterschied zwischen einem „Spielercharakter" und einem „Nichtspielercharakter" gibt. Dennoch ist es manchmal nützlich, einen Charakter zu erschaffen, der mächtiger oder weniger mächtig ist als die anderen, vielleicht als Antagonist in einem Konflikt oder als vorübergehender Verbündeter für andere Charaktere in der Saga – als Spielleiter solltest du dich frei fühlen, diesen Charakteren jeden Machtwert zuzuweisen, der für ihren Zweck angemessen erscheint, ohne Rücksicht auf ihre Rolle in der Saga, und ihnen jegliche Tugenden oder Qualitäten zu geben, ohne sich darum zu sorgen, ob die Charaktere richtig ausbalanciert sind. Du kannst auch Charakterleitfäden (siehe den Kasten oben) verwenden, um diese Werte leichter lesbar zu machen, sodass du den Charakter vollständiger ausarbeiten kannst, falls er stärker in die Saga eingebunden wird, damit er langfristig geeignet ist.
+
+### Konzept
+
+Der erste Schritt bei der Erschaffung eines magischen Charakters besteht darin, seine wesentlichen Eigenschaften und seine Gestalt zu bestimmen – das, was oft als seine „Wahre Gestalt" bezeichnet wird. Dies ist im Grunde das, was der Charakter wäre, wenn er nicht magisch wäre, obwohl er natürliche Vorteile haben kann, die ihn besonders für die Magiesphäre geeignet machen. Die Wahre Gestalt bestimmt vieles am Charakter, einschließlich seines Aussehens und instinktiven Verhaltens, und legt auch die anfänglichen Eigenschaftswerte und die Startgröße des Charakters fest.
+
 Wie bei jedem anderen Charakter solltest du mit allen acht Werten bei 0 beginnen und 7 Punkte zuweisen – negative Punkte in einer Eigenschaft ergeben positive Punkte in einer anderen, wobei sie in diesem Stadium +3 oder –3 nicht überschreiten sollten. Diese sollten so zugewiesen werden, wie es angemessen erscheint, unabhängig davon, ob die Gestalt des Charakters in der Lage wäre, diese Werte zu nutzen, etwa wenn der Charakter ein unbelebter Gegenstand oder sogar nur ein Produkt der Vorstellungskraft ist.
 
 Du solltest auch entscheiden, ob der Charakter intelligent ist oder nicht. Viele magische Wesen besitzen menschliche Intelligenz, da die Kraft der Magiesphäre einen Charakter oft geistig ebenso wie körperlich beeinflusst, obwohl dies bei Tieren ungewöhnlich und bei magischen Dingen wie Elementaren äußerst selten ist. Obwohl es möglich ist, einen wiederkehrenden Charakter zu spielen, der nicht wie ein Mensch denkt, wird dies im Allgemeinen nicht empfohlen (siehe den Kasten Gerissenheits-Charaktere).
-
->## Auren und Machterholung
->
->Magische Charaktere können Machtpunkte schneller regenerieren, wenn sie in einer Magieaura ruhen, wobei der magische Charakter wie sterbliche Charaktere bei der Erschöpfungserholung während des Ruhens keiner anstrengenden Tätigkeit nachgehen darf. Die Zeit, in der sich der gesamte Machtvorrat des Charakters auffüllt, hängt von der Stärke der Aura ab, modifiziert durch die Magnitude des Machtwerts des Charakters, wie unten dargestellt.
->
->GESAMTE ERHOLUNGSZEIT: Zwischensumme = Aura – (Machtwert / 5), dann Tabelle konsultieren
->
->| ZWISCHENSUMME | ERHOLUNGSZEIT  |
->|---|---|
->| 0             | 24 Stunden     |
->| 1             | 12 Stunden     |
->| 2             | 6 Stunden      |
->| 3             | 3 Stunden      |
->| 4             | 90 Minuten     |
->| 5             | 45 Minuten     |
->| 6             | 22 Minuten     |
->| 7             | 10 Minuten     |
->| 8             | 5 Minuten      |
->| 9             | 2 Minuten      |
->
->Um zu bestimmen, wie schnell einzelne Machtpunkte regeneriert werden, teile die Erholungszeit durch den Machtwert des Charakters.
->
->ERHOLUNGSRATE: 1 Machtpunkt pro (Erholungszeit / Machtwert)
->
->In einer Magieaura von 3 regeneriert ein Charakter mit Machtwert 10 alle Machtpunkte in 12 Stunden, also 1 Machtpunkt pro 1 Std. 12 Min. Ruhezeit.
->
->In mächtigen Auren regenerieren sich Charaktere mit niedrigem Machtwert nahezu augenblicklich, was sie besonders gefährlich macht, wenn man ihnen auch nur wenige Sekunden Ruhe gönnt.
 
 Während dieses Schritts solltest du auch die Tugenden und Fehler des Charakters wählen, die die natürlichen Vor- und Nachteile seiner Wahren Gestalt darstellen. Zuerst solltest du eine von vier Spezialtugenden nehmen, die den Typ des magischen Wesens beschreiben, das du spielst. Diese werden im Folgenden beschrieben und umfassen **Magisches Tier**, **Magischer Mensch**, **Magischer Geist** und **Magisches Ding**. (Es gibt auch eine Tugend namens Verwandeltes (Wesen), die einem Charakter einen Machtwert verleiht, aber sie ist für normale Charaktere gedacht, die ihn im Spielverlauf erhalten, nicht für die Verwendung mit diesen Regeln.)
 
@@ -1585,11 +1529,21 @@ Du kannst dann so viele zusätzliche Fehlerpunkte nehmen, wie dem Charakter norm
 
 Nachdem du die Auswahl von Tugenden und Fehlern abgeschlossen hast, bestimme die Größe des Charakters und passe seine Stärke und Schnelligkeit an, indem du das Doppelte der Größe zur Stärke addierst und die Größe von der Schnelligkeit abziehst. (Bei negativer Größe ziehst du das Doppelte dieses Wertes von der Stärke ab und addierst ihn zur Schnelligkeit.) Die Größe kann auch später im Erschaffungsprozess erhöht oder verringert werden, daher solltest du die Größe immer danach wählen, wie der Charakter aussehen würde, wenn er nicht magisch wäre.
 
+>### Gerissenheits-Charaktere
+>
+>Charaktere mit tierischer Intelligenz machen im Allgemeinen weniger Spaß zu spielen als Charaktere mit menschlicher Intelligenz, da Gerissenheit einschränkt, was der Charakter vernünftigerweise wissen kann. Unintelligente Charaktere beschäftigen sich hauptsächlich mit ihrer nächsten Mahlzeit oder dem, was sie an diesem Tag tun werden, planen aber selten für die weniger unmittelbare Zukunft. Sie lernen oder studieren nur, wenn sie von einem intelligenten Meister trainiert werden, erhalten daher selten Erfahrungspunkte auf anderem Wege als durch Gewöhnung, und sie können Fertigkeiten, die sie nicht natürlich besitzen, nicht steigern. Sie können keine Selbstvertrauenspunkte einsetzen, es sei denn, sie haben die Tugend Wildheit. Sie können Anweisungen befolgen, doch wenn sie einer Situation begegnen, die eine Entscheidung oder ein Urteil erfordert, sind sie dazu nicht in der Lage; sie brechen die Aufgabe entweder ab oder kehren zu ihrem Meister zurück, um Anleitung zu erhalten. Sie mögen eine Persönlichkeit zu haben scheinen, aber sie interagieren mit Menschen oder anderen ihrer Art nur auf oberflächlicher und vorhersagbarer Ebene, da sie ausschließlich von ihren natürlichen Instinkten als Reaktion auf Reize angetrieben werden.
+>
+>Da die Kraft der Magiesphäre dazu neigt, Charaktere im Laufe der Zeit zu verbessern, kann der Spieler eines unintelligenten Charakters, wann immer dieser bedeutend von der Magiesphäre verändert wird – etwa durch das Erlangen einer Tugend oder eines Fehlers durch Verzerrung oder Exposition gegenüber der Magiesphäre –, seinen Gerissenheitswert in Intelligenz umwandeln. Die meisten regulären Spielercharaktere werden intelligent sein, da es keine mechanischen Vorteile gibt, einen unintelligenten Charakter zu spielen.
+
 #### Magische Tiere
 
 Magische Tiere sind die häufigste Art magischer Charaktere; ihre Wahre Gestalt ist die eines Tieres. Größtenteils sehen sie aus wie die Tiere, auf denen sie basieren, obwohl sie größer, wilder oder seltsamer erscheinen können als gewöhnliche Tiere. Um einen magischen Tiercharakter zu erstellen, kannst du die Werte des gewöhnlichen Tiers als Charakterleitfaden verwenden (siehe den Kasten Charakterleitfäden). Diese können direkt dem Anhang Buch der Gewöhnlichen Tiere entnommen oder mithilfe der Regeln im Bjornaer-Kapitel von *Häuser des Hermes: Mysterienkulte* (Seiten 38–43) erstellt werden, wobei zu beachten ist, dass Tiere, die mit jenen Regeln erstellt werden, kostenlose Eigenschaften besitzen, die ihre Basiseigenschaften und andere natürliche Merkmale bestimmen, und dass diese sich von den unten beschriebenen Magischen Qualitäten unterscheiden.
 
->## Charakterleitfäden
+Alle magischen Tiere besitzen die angeborenen Äquivalente der Fehler Keine Hände und Stumm. Darüber hinaus haben gewöhnliche Tiere üblicherweise mehrere Mindestfertigkeitswerte sowie erforderliche Tugenden und Fehler, und diese gelten auch für magische Tiercharaktere, die auf diesen Tieren basieren, mit der Ausnahme, dass Persönlichkeitsfehler optional sind – der Spieler kann sie stattdessen als Persönlichkeitseigenschaften nehmen. Viele magische Tiere nehmen zudem die Tugend Unempfindlich gegenüber der Gabe (siehe Neue und Modifizierte Tugenden weiter unten).
+
+Während der Machtwert-Phase der Charaktererschaffung musst du die Größe des Charakters von seinem Machtwert abziehen, oder sie addieren, wenn die Größe negativ ist. (Dies ändert nicht die Anzahl der Magischen Qualitäten, die der Charakter erhält, wie unten beschrieben.)
+
+>### Charakterleitfäden
 >
 >Um einen magischen Charakter, der eine Nebenrolle in einem Abenteuer erfüllen soll, oder einen Charakter, der nicht regelmäßig mit dem Konvent der anderen Charaktere in Kontakt steht, schnell zu beschreiben, kann der Spielleiter einen **Charakterleitfaden** anstelle eines vollständigen Charakterblatts verwenden. Dies ist eine Zusammenfassung der Anforderungen für die Gestaltung magischer Charaktere, die einem bestimmten Typ oder Zweck in der Saga entsprechen, wie eine Art magisches Tier oder eine Rasse magischer Menschen. Er legt fest, was der Charakter *haben muss*, um in der Spielsitzung zu funktionieren, ignoriert aber andere Aspekte des Charakters, die wahrscheinlich nicht ins Spiel kommen.
 >
@@ -1608,8 +1562,8 @@ Magische Tiere sind die häufigste Art magischer Charaktere; ihre Wahre Gestalt 
 >**Kräfte:** Falls der Charakter Kräfte besitzt, sollten sie hier beschrieben werden.
 >
 >Die im Bestiariumsteil von **ArM5** (Seiten 193–194) aufgeführten magischen Charaktere können als Charakterleitfäden verwendet werden, ebenso wie die Tiere im Anhang Buch der Gewöhnlichen Tiere oder solche, die mit den Regeln in *Häuser des Hermes: Mysterienkulte* auf den Seiten 38–43 erstellt wurden.
->
->## Charakterleitfaden: Ein Magischer Jagdhund
+
+>### Charakterleitfaden: Ein Magischer Jagdhund
 >
 >**Machtwert:** 0–10 (Animal)
 >
@@ -1643,10 +1597,6 @@ Magische Tiere sind die häufigste Art magischer Charaktere; ihre Wahre Gestalt 
 >
 >Dies ist ein beispielhafter Charakterleitfaden für einen magischen Jagdhund, wie etwa einen, der zu einem Charakter mit dem Fehler Magischer Tiergefährte gehört. Er enthält alles, was ein Spielleiter braucht, um die Kreatur für eine Spielsitzung zu führen, und falls sie als dauerhafter Charakter zur Saga stoßen sollte, könnten die übrigen Details (Fehler, Mängel, Jahreszeit und die restlichen Fertigkeiten) mithilfe der Regeln zur Magischen Charaktererschaffung schnell ausgearbeitet werden.
 
-Alle magischen Tiere besitzen die angeborenen Äquivalente der Fehler Keine Hände und Stumm. Darüber hinaus haben gewöhnliche Tiere üblicherweise mehrere Mindestfertigkeitswerte sowie erforderliche Tugenden und Fehler, und diese gelten auch für magische Tiercharaktere, die auf diesen Tieren basieren, mit der Ausnahme, dass Persönlichkeitsfehler optional sind – der Spieler kann sie stattdessen als Persönlichkeitseigenschaften nehmen. Viele magische Tiere nehmen zudem die Tugend Unempfindlich gegenüber der Gabe (siehe Neue und Modifizierte Tugenden weiter unten).
-
-Während der Machtwert-Phase der Charaktererschaffung musst du die Größe des Charakters von seinem Machtwert abziehen, oder sie addieren, wenn die Größe negativ ist. (Dies ändert nicht die Anzahl der Magischen Qualitäten, die der Charakter erhält, wie unten beschrieben.)
-
 #### Magische Menschen
 
 Magische Menschen sind typischerweise mit Corpus verbunden, wurden aber ansonsten so sehr von der Magiesphäre verändert, dass sie in ihrer natürlichen Gestalt nicht mehr als Menschen durchgehen können. Sie sind vielleicht der am einfachsten zu gestaltende Charaktertyp, da sie größtenteils wie andere menschliche Charaktere gestaltet werden. Allerdings haben alle magischen Menschen auch ein monströses Aussehen, das ihnen einen Abzug von –6 auf alle sozialen Interaktionen mit gewöhnlichen Menschen oder Tieren gibt (siehe Große Mängel weiter unten). Das bedeutet nicht unbedingt, dass der Charakter hässlich ist, nur dass er auf offensichtliche Weise übernatürlich ist: Er könnte beispielsweise in einem Nimbus aus goldenem Licht erstrahlen oder unnatürlich dünn oder alt wirken.
@@ -1658,15 +1608,15 @@ Obwohl magische Charaktere mit der Gabe existieren, ist es schwierig, einen solc
 Es gibt magische Charaktere, die aus ansonsten unbeweglicher Materie jeglicher Form bestehen und durch die rohe Kraft der Natur und den Einfluss der Magiesphäre belebt werden. Dies kann lebendige Dinge einschließen, wie einen magischen Baum oder eine Tierstatue, die zu Fleisch geworden ist, oder unbelebte Dinge, die aus nichts als Rohmaterial bestehen, das durch Magie zusammengehalten wird. In beiden Fällen ist der Charakter für seinen Machtwert von seiner Größe abhängig – um mehr Macht zu erlangen, muss seine Wahre Gestalt irgendwie größer werden. Die folgende Tabelle zeigt die Mindestgröße, die für jeden Machtwert erforderlich ist.
 
 | Machtwert | Mindestgröße |
-|---|---|
-| 0         | –21          |
-| 1         | –18          |
-| 2         | –15          |
-| 3         | –12          |
-| 4         | –9           |
-| 5         | –6           |
-| 10        | –3           |
-| 15        | 0            |
+| ---| --- |
+| 0  | –21 |
+| 1  | –18 |
+| 2  | –15 |
+| 3  | –12 |
+| 4  | –9  |
+| 5  | –6  |
+| 10 | –3  |
+| 15 | 0   |
 | (+5)      | (+3)         |
 
 Ein Magisches Ding kann entweder physisch größer werden, indem es etwas aus seiner Umgebung in sich aufnimmt, oder metaphorisch, indem es Teil von etwas wird, das magischer ist als es selbst. Diese Beziehung hängt davon ab, dass das Magische Ding in ständigem Kontakt mit der größeren Entität steht – werden sie getrennt, verringert sich der Machtwert des Charakters sofort, bis sie wieder vereint sind. Beispielsweise könnte ein magisches Schwert seinen Machtwert erhöhen, indem es einen menschlichen Träger bekommt, aber sollte diese Person die Waffe jemals ablegen oder verlieren, würde es die gesamte Kraft einbüßen, die es durch die Ausdehnung seiner magischen Natur in diese Person investiert hatte, bis sie wieder vereint sind.
@@ -1687,12 +1637,6 @@ Gespenster, die als Charaktere gespielt werden, sind sich stets ihrer Unkörperl
 
 Um einen Geist als magischen Charakter zu gestalten, beginne mit den Eigenschaften für ein physisches Wesen: einen Menschen, ein Tier oder sogar einen unbelebten Gegenstand. Beispielsweise könnte ein Imaginem-Geist, der auf dem Klang eines Hundebellens basiert, wie ein Hund aussehen, während das Gespenst eines Menschen so erscheinen könnte wie diese Person im Moment ihres Todes. Ein Feuergeist könnte wie eine Säule aus Rauch und Flammen aussehen. Innerhalb der Magischen Sphäre oder unter anderen Wesen mit derselben Art von Macht ist dies die Wahre Gestalt des Charakters.
 
->## Gerissenheits-Charaktere
->
->Charaktere mit tierischer Intelligenz machen im Allgemeinen weniger Spaß zu spielen als Charaktere mit menschlicher Intelligenz, da Gerissenheit einschränkt, was der Charakter vernünftigerweise wissen kann. Unintelligente Charaktere beschäftigen sich hauptsächlich mit ihrer nächsten Mahlzeit oder dem, was sie an diesem Tag tun werden, planen aber selten für die weniger unmittelbare Zukunft. Sie lernen oder studieren nur, wenn sie von einem intelligenten Meister trainiert werden, erhalten daher selten Erfahrungspunkte auf anderem Wege als durch Gewöhnung, und sie können Fertigkeiten, die sie nicht natürlich besitzen, nicht steigern. Sie können keine Selbstvertrauenspunkte einsetzen, es sei denn, sie haben die Tugend Wildheit. Sie können Anweisungen befolgen, doch wenn sie einer Situation begegnen, die eine Entscheidung oder ein Urteil erfordert, sind sie dazu nicht in der Lage; sie brechen die Aufgabe entweder ab oder kehren zu ihrem Meister zurück, um Anleitung zu erhalten. Sie mögen eine Persönlichkeit zu haben scheinen, aber sie interagieren mit Menschen oder anderen ihrer Art nur auf oberflächlicher und vorhersagbarer Ebene, da sie ausschließlich von ihren natürlichen Instinkten als Reaktion auf Reize angetrieben werden.
->
->Da die Kraft der Magiesphäre dazu neigt, Charaktere im Laufe der Zeit zu verbessern, kann der Spieler eines unintelligenten Charakters, wann immer dieser bedeutend von der Magiesphäre verändert wird – etwa durch das Erlangen einer Tugend oder eines Fehlers durch Verzerrung oder Exposition gegenüber der Magiesphäre –, seinen Gerissenheitswert in Intelligenz umwandeln. Die meisten regulären Spielercharaktere werden intelligent sein, da es keine mechanischen Vorteile gibt, einen unintelligenten Charakter zu spielen.
-
 Geister gelten allgemein als unsterblich, doch wenn die Wahre Gestalt eines magischen Geistes irgendwie zerstört oder verbannt wird, hört er auf, als Charakter zu existieren. Er mag später zurückkehren und genauso aussehen wie zuvor, aber für Spielzwecke ist dieser neue Geist im Wesentlichen ein anderes Wesen. Magi, die mit den Geheimnissen der magischen Theurgie vertraut sind, könnten jede Manifestation einen „Aspekt" des Originals nennen.
 
 Magische Geister haben immer eine angeborene Magische Ausstrahlung, die für sie sehr schwer zu überwinden ist. Selbst die Geister von Magi, die die Sanfte Gabe besaßen, machen andere durch ihre Anwesenheit sehr unwohl.
@@ -1711,10 +1655,6 @@ Magische Geister haben immer eine angeborene Magische Ausstrahlung, die für sie
 
 Der nächste Schritt bei der Erschaffung magischer Charaktere ist die Bestimmung der Erfahrung des Charakters mit der Welt, in der er lebt. In **Ars Magica** wird die Anzahl der Erfahrungspunkte eines Startcharakters normalerweise durch sein Alter bestimmt, da Charaktere im Laufe eines Jahres Erfahrung sammeln. Magische Charaktere können zwar weiterhin Erfahrung sammeln und sich wie andere Charaktere entwickeln, doch dies ist schwieriger und nicht etwas, das sie jedes Jahr tun können. Ein sehr alter magischer Charakter ist nicht unbedingt erfahrener als einer, der erst seit Kurzem existiert, da er sich in der Zwischenzeit möglicherweise nicht so viel oder so oft weiterentwickelt hat.
 
->## SCs und NSCs
->
->Jeder magische Charakter in **Ars Magica** wird auf die gleiche Weise erschaffen, unabhängig von seiner Rolle in der Saga, sodass es praktisch keinen Unterschied zwischen einem „Spielercharakter" und einem „Nichtspielercharakter" gibt. Dennoch ist es manchmal nützlich, einen Charakter zu erschaffen, der mächtiger oder weniger mächtig ist als die anderen, vielleicht als Antagonist in einem Konflikt oder als vorübergehender Verbündeter für andere Charaktere in der Saga – als Spielleiter solltest du dich frei fühlen, diesen Charakteren jeden Machtwert zuzuweisen, der für ihren Zweck angemessen erscheint, ohne Rücksicht auf ihre Rolle in der Saga, und ihnen jegliche Tugenden oder Qualitäten zu geben, ohne sich darum zu sorgen, ob die Charaktere richtig ausbalanciert sind. Du kannst auch Charakterleitfäden (siehe den Kasten oben) verwenden, um diese Werte leichter lesbar zu machen, sodass du den Charakter vollständiger ausarbeiten kannst, falls er stärker in die Saga eingebunden wird, damit er langfristig geeignet ist.
-
 **Jahreszeit** ist ein neuer Spielwert, der bei magischen Charakteren das Alter ersetzt und anzeigt, wie erfahren der Charakter im Vergleich zu anderen Charakteren ist. Ähnlich wie Magi dieses Konzept zur Beschreibung der Entwicklung ihrer Konvente verwenden, unterteilt die Jahreszeit die Existenz eines magischen Charakters in vier verschiedene Abschnitte: Frühling, Sommer, Herbst und Winter.
 
 **Frühlings-Charaktere** sind unterentwickelt, wie Kinder, die sich noch an ihre Gestalt gewöhnen. Sie sind erst vor Kurzem entstanden und haben wenig praktische Erfahrung mit der Magischen Sphäre oder der sterblichen Welt. Ein Frühlings-Mensch wäre etwa fünf Jahre alt. Obwohl sie wenig praktische Erfahrung haben, neigen sie auch dazu, Wissen und neue Ideen zu suchen.
@@ -1728,10 +1668,10 @@ Der nächste Schritt bei der Erschaffung magischer Charaktere ist die Bestimmung
 Die Jahreszeit bestimmt die Starterfahrungspunkte des Charakters. Wähle die Jahreszeit, die den Charakter am besten beschreibt, und konsultiere die folgende Tabelle. Diese Punkte können wie bei jedem anderen Startcharakter ausgegeben werden; du benötigst eine entsprechende Tugend oder einen Fehler, um Fertigkeiten zu erwerben, die nicht Allgemein sind. Wenn dein Charakterkonzept angeborene Fertigkeiten beinhaltet (wie es bei vielen Tieren der Fall ist), musst du deine Startpunkte zuerst für diese Werte ausgeben.
 
 | Jahreszeit des Charakters | Starterfahrung |
-|---|---|
-| Frühling                   | 120            |
-| Sommer                     | 360            |
-| Herbst                     | 720            |
+| ------ | ---- |
+| Frühling | 120  |
+| Sommer | 360  |
+| Herbst | 720  |
 | Winter                     | 1200           |
 
 Dies werden mit ziemlicher Sicherheit zu wenige Erfahrungspunkte sein, um den Charakter angemessen zu beschreiben, aber du kannst im nächsten Schritt dieses Prozesses als Teil der magischen Natur des Charakters zusätzliche Erfahrung gewinnen.
@@ -1745,11 +1685,11 @@ Dies werden mit ziemlicher Sicherheit zu wenige Erfahrungspunkte sein, um den Ch
 Du musst den Machtwert des Charakters festlegen und die magische Form, mit der die Macht des Charakters verbunden sein wird (üblicherweise basierend auf der Wahren Gestalt des Charakters). Der Machtwert bestimmt die übernatürliche Stärke des Charakters und sollte je nach Machtgrad der Saga und der Rolle, die der Charakter darin spielen wird, variieren. Dies ist wahrscheinlich der wichtigste Wert auf dem Charakterblatt, da alle Kräfte des Charakters und alles an seiner magischen Natur daraus folgt, daher folgen hier einige Richtlinien, um dir bei der Wahl eines angemessenen Startwerts zu helfen.
 
 | Machtgrad   | Grog | Gefährte | Magus |
-|---|---|---|---|
-| Niedrig     | 0    | 5        | 10    |
-| Mittel      | 3    | 10       | 20    |
-| Hoch        | 5    | 15       | 30    |
-| Legendär    | 10   | 25       | 50    |
+| --------- | ---- | --------- | ----- |
+| Niedrig   | 0    | 5         | 10    |
+| Mittel    | 3    | 10        | 20    |
+| Hoch      | 5    | 15        | 30    |
+| Legendär  | 10   | 25        | 50    |
 
 **In dieser Tabelle entspricht ein Grog-Charakter** ungefähr der Machtstufe eines Grogs, auch wenn er nicht unbedingt den Konvent beschützt oder als Leibwächter eines anderen Charakters fungiert. Die Rolle eignet sich am besten für Charaktere, die von mehreren Spielern der Spieltruppe geteilt werden oder die als direkte Erweiterung eines anderen Charakters gespielt werden – oft eine gute Wahl für einen Vertrauten oder einen Charakter wie einen Geisterhaften Wächter.
 
@@ -1765,13 +1705,48 @@ Sobald du den Machtwert des Charakters festgelegt hast, erhältst du dieselbe Pu
 
 Siehe Qualitäten und Mängel weiter unten für eine Liste, wie diese Punkte ausgegeben werden können.
 
+>### Auren und Machterholung
+>
+>Magische Charaktere können Machtpunkte schneller regenerieren, wenn sie in einer Magieaura ruhen, wobei der magische Charakter wie sterbliche Charaktere bei der Erschöpfungserholung während des Ruhens keiner anstrengenden Tätigkeit nachgehen darf. Die Zeit, in der sich der gesamte Machtvorrat des Charakters auffüllt, hängt von der Stärke der Aura ab, modifiziert durch die Magnitude des Machtwerts des Charakters, wie unten dargestellt.
+>
+>GESAMTE ERHOLUNGSZEIT: Zwischensumme = Aura – (Machtwert / 5), dann Tabelle konsultieren
+>
+>| ZWISCHENSUMME | ERHOLUNGSZEIT  |
+>|---|---|
+>| 0             | 24 Stunden     |
+>| 1             | 12 Stunden     |
+>| 2             | 6 Stunden      |
+>| 3             | 3 Stunden      |
+>| 4             | 90 Minuten     |
+>| 5             | 45 Minuten     |
+>| 6             | 22 Minuten     |
+>| 7             | 10 Minuten     |
+>| 8             | 5 Minuten      |
+>| 9             | 2 Minuten      |
+>
+>Um zu bestimmen, wie schnell einzelne Machtpunkte regeneriert werden, teile die Erholungszeit durch den Machtwert des Charakters.
+>
+>ERHOLUNGSRATE: 1 Machtpunkt pro (Erholungszeit / Machtwert)
+>
+>In einer Magieaura von 3 regeneriert ein Charakter mit Machtwert 10 alle Machtpunkte in 12 Stunden, also 1 Machtpunkt pro 1 Std. 12 Min. Ruhezeit.
+>
+>In mächtigen Auren regenerieren sich Charaktere mit niedrigem Machtwert nahezu augenblicklich, was sie besonders gefährlich macht, wenn man ihnen auch nur wenige Sekunden Ruhe gönnt.
+
+### Letzte Schritte
+
+Magische Charaktere werden wie Standardcharaktere abgeschlossen: Stelle sicher, dass er mindestens drei Persönlichkeitseigenschaften hat und dass alle Reputationen beschrieben sind. Wenn der Charakter intelligent ist, kein Grog ist und nicht den Fehler Geringes Selbstwertgefühl hat, oder wenn der Charakter die Tugend Wildheit besitzt, gib ihm einen Selbstvertrauenswert von 1 und 3 Selbstvertrauenspunkte zu Beginn.
+
+Jeder magische Charakter hat eine besondere Persönlichkeitseigenschaft, typischerweise bei +3, die seine Wahre Gestalt beschreibt. Diese ist gewöhnlich etwas Einfaches wie „Rabe", „Mensch" oder „Baum" und wird durch ein Sternchen (*) von anderen Persönlichkeitseigenschaften unterschieden. Dies ist eine Essenzielle Eigenschaft (siehe Essenzielle Eigenschaften weiter unten), die sicherstellt, dass der Charakter nicht gegen seine grundlegende Natur handelt; der Charakter kann nicht entgegen dieser Eigenschaft handeln, und Magie kann den Charakter nicht dazu zwingen, sich ihr zuwider zu verhalten.
+
+Du solltest alle Kampfwerte des Charakters berechnen, einschließlich seiner Absorption und Wundstufenbereiche, und ihm jede Ausrüstung zuweisen, von der du dir vorstellen kannst, dass er sie vernünftigerweise erworben und instand gehalten haben könnte, wobei die Stärke und Belastung des Charakters zu beachten sind. Berechne schließlich das Inhärente Vis des Charakters, wobei du Art, Fundort und Menge wählst (diese entspricht typischerweise seinem Machtwert geteilt durch 5, aufgerundet).
+
 #### Beispiel: Aeolus
 
 *Für den Machtwert erscheint ein Basiswert von 10 für Aeolus' Rolle im Konvent angemessen (es ist eine Saga mittlerer Macht und Erik wird ihn als Gefährten spielen), und diese Macht ist offensichtlich mit Animal verbunden. Da er ein magisches Tier ist, wird sein Machtwert durch seine Größe angepasst, was ihm einen Wert von 8 gibt. Er hat außerdem 10 Punkte, um Magische Qualitäten zu erwerben.*
 
 *Erik nimmt eine Mindere Macht, die es Aeolus erlaubt, sein Aussehen zu verändern, einen Stufe-15-Effekt, und wandelt die 10 verbleibenden Zauberstufen in 2 Meisterschaftspunkte um, wodurch die Aktivierungskosten von 2 Machtpunkten auf 0 sinken. Dann nimmt er Sprachbegabung, da Aeolus ein sprechendes Pferd ist. Er gibt Aeolus außerdem drei weitere Kleine Tugenden: Venussegen, Unempfindlich gegenüber der Gabe und Verbesserte Eigenschaften, womit er seine Intelligenz auf 0 anhebt. Die verbleibenden Punkte gibt er für Verbesserte Fertigkeiten aus, da Aeolus viel Zeit mit Victor in der sterblichen Welt verbracht hat, was ihm 300 weitere Erfahrungspunkte zum Ausgeben gibt. Erik sieht keine Mängel, die besonders zum Charakter passen, und beschließt, dass er mit der Zuweisung von Qualitäten fertig ist.*
 
->## Aeolus, Magisches Pferd
+>#### Aeolus, Magisches Pferd
 >
 >**Machtwert:** 8 (Animal)
 >
@@ -1819,6 +1794,8 @@ Siehe Qualitäten und Mängel weiter unten für eine Liste, wie diese Punkte aus
 
 *Es wäre möglich, Aeolus als Grog statt als Gefährten zu erstellen, da alle seine Tugenden, Fehler und Qualitäten Klein sind. Für eine Saga mittlerer Macht* *hätte er einen Machtwert von 1 und nur 3 Punkte für Qualitäten zum Ausgeben, obwohl er Mängel nehmen könnte, um die Differenz auszugleichen.*
 
+
+
 >## Magische Kräfte
 >
 >Es gibt vier Magische Qualitäten, die einem Charakter magische Kräfte verleihen, und diese Kräfte werden wie hermetische Effekte von vier verschiedenen Typen gestaltet. Jede Qualität beinhaltet eine Anzahl Zauberstufen, Machtkosten und einen Initiativewert, die je nach Art der Kraft variieren. Diese werden hier zum leichten Vergleich zusammengefasst. Beachte, dass mit Ausnahme von Minderer Macht und Persönlicher Kraft alle diese Qualitäten Groß sind. Es gibt auch Tugend-Äquivalente für Charaktere ohne Machtwert (siehe Neue und Modifizierte Tugenden weiter unten).
@@ -1843,13 +1820,148 @@ Siehe Qualitäten und Mängel weiter unten für eine Liste, wie diese Punkte aus
 >| Ritualmacht          | 25           | Ritual         | Magnitude           | Sck – (Magnitude × 2)  |
 >| Persönliche Kraft    | 25           | Eingeschränkt  | (Magnitude / 2)     | Sck – (Magnitude / 2)  |
 
-### Letzte Schritte
-
-Magische Charaktere werden wie Standardcharaktere abgeschlossen: Stelle sicher, dass er mindestens drei Persönlichkeitseigenschaften hat und dass alle Reputationen beschrieben sind. Wenn der Charakter intelligent ist, kein Grog ist und nicht den Fehler Geringes Selbstwertgefühl hat, oder wenn der Charakter die Tugend Wildheit besitzt, gib ihm einen Selbstvertrauenswert von 1 und 3 Selbstvertrauenspunkte zu Beginn.
-
-Jeder magische Charakter hat eine besondere Persönlichkeitseigenschaft, typischerweise bei +3, die seine Wahre Gestalt beschreibt. Diese ist gewöhnlich etwas Einfaches wie „Rabe", „Mensch" oder „Baum" und wird durch ein Sternchen (*) von anderen Persönlichkeitseigenschaften unterschieden. Dies ist eine Essenzielle Eigenschaft (siehe Essenzielle Eigenschaften weiter unten), die sicherstellt, dass der Charakter nicht gegen seine grundlegende Natur handelt; der Charakter kann nicht entgegen dieser Eigenschaft handeln, und Magie kann den Charakter nicht dazu zwingen, sich ihr zuwider zu verhalten.
-
-Du solltest alle Kampfwerte des Charakters berechnen, einschließlich seiner Absorption und Wundstufenbereiche, und ihm jede Ausrüstung zuweisen, von der du dir vorstellen kannst, dass er sie vernünftigerweise erworben und instand gehalten haben könnte, wobei die Stärke und Belastung des Charakters zu beachten sind. Berechne schließlich das Inhärente Vis des Charakters, wobei du Art, Fundort und Menge wählst (diese entspricht typischerweise seinem Machtwert geteilt durch 5, aufgerundet).
+>### Häufige Magische Kräfte
+>
+>Die folgenden Kräfte sind bei Wesen der Magiesphäre verbreitet und sind gute Beispiele für die Art von Dingen, die ein magischer Charakter tun könnte.
+>
+>##### Handwerker der (Form)
+>Variable Punkte, Init gleich (Sck – 5), zugehörige Form
+>R: variiert, D: variiert, Z: variiert
+>
+>Dupliziert eine Reihe nicht-ritueller Creo- oder Rego-Zauber der angegebenen hermetischen Form, zu Kosten von 1 Machtpunkt pro Magnitude des Effekts. Die Stufe des Effekts darf nicht größer sein als der Machtwert der Kreatur oder 25, je nachdem, welcher Wert niedriger ist. Diese Kraft betrifft nur eine Form, aber manche Kreaturen besitzen diese Kraft mehrfach für verschiedene Formen.
+>
+>Cr(Form) oder Re(Form) 25: Fokussierte Macht
+>
+>##### Das rohe (Element) beleben
+>4 Punkte, Init gleich (Sck – 10), zugehörige elementare Form
+>R: Berührung, D: Mom, Z: Ind, Ritual
+>
+>Diese ritualartige Kraft verfeinert (erschafft) einen Elementar des entsprechenden Typs (siehe Kapitel 8: Magische Dinge, Elementare) aus einer ausreichenden Menge rohen elementaren Materials. Der Elementar kann jeden Machtwert unterhalb desjenigen der Kreatur haben, die diese Kraft einsetzt. Der Elementar steht automatisch unter der Kontrolle der Kreatur; diese Kraft kann auch dazu verwendet werden, Elementare unter Kontrolle zu bringen, die nicht von der Kreatur selbst erschaffen wurden, muss in diesem Fall aber die Macht des Elementars durchdringen. Wenn die Kreatur den Elementar nicht mehr benötigt, erlischt ihre Kontrolle, aber der Elementar bleibt bestehen.
+>
+>CrFo 30 (Basis 25, +1 Berührung): Ritualmacht ×2 (30 Stufen, –2 Machtkosten, +2 Init)
+>
+>##### Pferdegestalt
+>2 Punkte, Init gleich (Sck – 2), Animal  
+>R: Per, D: Sonne, Z: Ind
+>
+>Der Charakter kann sich bis zum Sonnenauf- oder -untergang in ein Pferd verwandeln.
+>
+>MuFo 25 (Basis 10, +2 Sonne, +1 Größe): Persönliche Kraft (25 Stufen)
+>
+>##### Flug des Kolibris
+>0 Punkte, Init gleich (Sck – 2), zugehörige Form
+>R: Per, D: Sonne, Z: Ind
+>
+>Der Charakter kann in jede Richtung durch die Luft fliegen, einfach indem er sich konzentriert. Wenn er abgelenkt wird, geht diese Kontrolle verloren, aber die Kraft hält den Charakter weiterhin unbegrenzt in der Luft.
+>
+>ReFo 15 (Basis 4, +2 Sonne, konstant): Persönliche Kraft (15 Stufen, –2 Machtkosten)
+>
+>##### (Großen Fehler) auferlegen
+>10 Punkte, Init gleich (Sck – 20), Vim   
+>R: Berührung, D: Mom, Z: Ind, Ritual
+>
+>Erlegt dem Opfer den genannten Großen Fehler auf. Jede Kreatur kann mehr als eine Kraft dieser Art besitzen, die jeweils einen anderen Fehler auferlegt. Die Kreatur kann entscheiden, ob der Fehler dauerhaft oder vorübergehend auferlegt wird. Bei dauerhafter Auferlegung ist die Kraft eine ritualartige Kraft und kostet Punkte vom Machtwert der Kreatur ebenso wie von ihrem Machtvorrat (siehe Ritualmacht weiter unten). Bei vorübergehender Auferlegung werden die für diese Kraft ausgegebenen Machtpunkte erst dann regeneriert, wenn ihre Wirkung zurückgenommen wird.
+>
+>Kein hermetisches Äquivalent: Ritualmacht ×2
+>
+>##### (Kleinen Fehler) auferlegen
+>
+>5 Punkte, Init gleich (Sck – 10), Vim  
+>R: Berührung, D: Mom, Z: Ind, Ritual
+>
+>Erlegt dem Opfer den genannten Fehler auf. Jede Kreatur kann mehr als eine Kraft dieser Art besitzen, die jeweils einen anderen Fehler auferlegt. Die Kreatur kann entscheiden, ob der Fehler dauerhaft oder vorübergehend auferlegt wird. Bei dauerhafter Auferlegung ist die Kraft eine ritualartige Kraft und kostet Punkte vom Machtwert der Kreatur ebenso wie von ihrem Machtvorrat (siehe Ritualmacht weiter unten). Bei vorübergehender Auferlegung werden die für diese Kraft ausgegebenen Machtpunkte erst dann regeneriert, wenn ihre Wirkung zurückgenommen wird.
+>
+>Kein hermetisches Äquivalent: Ritualmacht
+>
+>##### Tüchtigkeit in (Fertigkeit) verleihen
+>
+>4 Punkte, Init gleich (Sck – 3), Corpus   
+>R: Stimme, D: Sonne, Z: Gruppe
+>
+>Verleiht Tüchtigkeit in einer bestimmten Tätigkeit. Für jeden investierten Machtpunkt können zehn Personen einen Bonus von +1 auf alle Würfe in einer allgemeinen Situation erhalten (wie Kampf oder Waldhandwerk); oder 1 Person kann einen Bonus von +3 auf eine bestimmte Summe oder Fertigkeit erhalten (wie Absorption oder Jagen). Machtpunkte, die für diese Kraft ausgegeben werden, werden erst regeneriert, wenn ihre Wirkung zurückgenommen wird.
+>
+>MuCo 20 (Basis 2, +2 Stimme, +2 Sonne, +2 Gruppe): Mindere Macht (20 Stufen, +1 Init)
+>
+>##### (Große Tugend) verleihen
+>
+>10 Punkte, Init gleich (Sck – 20), Vim  
+>R: Berührung, D: Mom, Z: Ind, Ritual
+>
+>Verleiht dem Ziel die genannte Große Tugend. Jede Kreatur kann mehr als eine Kraft dieser Art besitzen, die jeweils eine andere Tugend verleiht. Die Kreatur kann entscheiden, ob die Tugend dauerhaft oder vorübergehend verliehen wird. Bei dauerhafter Verleihung ist die Kraft eine ritualartige Kraft und kostet Punkte vom Machtwert der Kreatur ebenso wie von ihrem Machtvorrat (siehe Ritualmacht weiter unten). Bei vorübergehender Verleihung werden die für diese Kraft ausgegebenen Machtpunkte erst dann regeneriert, wenn ihre Wirkung zurückgenommen wird.
+>
+>Kein hermetisches Äquivalent: Ritualmacht ×2
+>
+>##### (Kleine Tugend) verleihen
+>
+>5 Punkte, Init gleich (Sck – 10), Vim  
+>R: Berührung, D: Mom, Z: Ind, Ritual
+>
+>Verleiht dem Ziel die genannte Kleine Tugend. Jede Kreatur kann mehr als eine Kraft dieser Art besitzen, die jeweils eine andere Tugend verleiht. Die Kreatur kann entscheiden, ob die Tugend dauerhaft oder vorübergehend verliehen wird. Bei dauerhafter Verleihung ist die Kraft eine ritualartige Kraft und kostet Punkte vom Machtwert der Kreatur ebenso wie von ihrem Machtvorrat (siehe Ritualmacht oben). Bei vorübergehender Verleihung werden die für diese Kraft ausgegebenen Machtpunkte erst dann regeneriert, wenn ihre Wirkung zurückgenommen wird.
+>
+>Kein hermetisches Äquivalent: Ritualmacht
+>
+>##### Führung
+>
+>3 Punkte, Init gleich (Sck +1), Mentem  
+>R: Stimme, D: Konz, Z: Gruppe
+>
+>Beeinflusst eine Gruppe von Wesen subtil in Richtung eines bestimmten Handlungsverlaufs. Manche Kreaturen können mit dieser Kraft die Bewegung einer Gruppe lenken und sie zu einem gewünschten Ort führen. Andere Kreaturen können Menschen zu unbedachten, mutigen oder weisen Handlungen leiten. Jedes Mal, wenn diese Kraft eingesetzt wird, kann sie die Handlungen einer einzelnen Person für einen Tag subtil beeinflussen. Der Spielleiter sollte dem Charakter ähnlich wie bei der Tugend Gesunder Menschenverstand Ratschläge geben, mit dem Unterschied, dass der Ratschlag den Zielen der Kreatur dient, nicht denen des Charakters. Es besteht kein Zwang, diesem Ratschlag zu folgen.
+>
+>ReMe 30 (Basis 5, +2 Stimme, +1 Konz, +2 Gruppe): Große Macht (30 Stufen, +4 Init)
+>
+>##### Hände des Magischen Tiers
+>
+>0 Punkte, Init (Sck – 2), entspr. Form  
+>R: Berührung, D: Sonne, Z: Ind
+>
+>Dies ermöglicht einem Tier, einen Gegenstand zu manipulieren und zu tragen, als hätte es menschliche Hände und eine Stärke von +5. Der Charakter muss sich konzentrieren, um etwas anderes zu tun als den Gegenstand zu tragen, einschließlich des Ablegens oder Aufnehmens eines anderen Gegenstands.
+>
+>ReTe 15 (Basis 3, +1 Berührung, +2 Sonne, +1 konstant): Persönliche Kraft (15 Stufen, –2 Machtkosten)
+>
+>##### Heilung
+>
+>3 Punkte, Init gleich (Sck – 9), Animal oder Corpus
+>R: Touch, D: Mom, T: Ind, Ritual
+>
+>Heilt einen Menschen oder ein Tier – die schwerste Wunde des Ziels verbessert sich um eine Stufe. Die Heilung tritt ein, wenn der Empfänger eine bestimmte Handlung vollzieht, wie aus einer heiligen Quelle zu trinken oder einen Schwur zu leisten. Dies ist eine Ritualmacht, die sowohl vom Machtwert der Kreatur als auch von ihrem Machtvorrat abzieht (siehe Ritualmacht weiter unten). Wenn die Kraft einem Genius Loci gehört und die Zielkreatur in dessen Locus heimisch ist, werden alle Wunden geheilt, nicht nur die schwerste.
+>
+>CrCo 30 (Basis 25, +1 Berührung): Ritualmacht ×2 (30 Stufen, –3 Machtkosten, +1 Init)
+>
+>##### Menschengestalt
+>
+>1 Punkt, Init gleich (Sck – 2), Corpus  
+>R: Per, D: Sonne, Z: Ind
+>
+>Der Charakter verwandelt sich in die Gestalt eines normalen Menschen, was ihm ermöglicht, sich relativ unbemerkt durch die sterbliche Gesellschaft zu bewegen.
+>
+>MuFo 20 (Basis 10, +2 Sonne): Persönliche Kraft (20 Stufen, –1 Machtkosten)
+>
+>##### Meister der (Form)
+>
+>Variable Punkte, Init gleich (Sck – Machtkosten), zugehörige Form
+>R: variiert, D: variiert, Z: variiert
+>
+>Dupliziert eine Reihe nicht-ritueller Muto- oder Perdo-Zauber der angegebenen hermetischen Form, zu Kosten von 1 Machtpunkt pro Magnitude des Effekts. Die Stufe des Effekts darf nicht größer sein als der Machtwert der Kreatur oder 25, je nachdem, welcher Wert niedriger ist. Diese Kraft betrifft nur eine Form, aber manche Kreaturen besitzen diese Kraft mehrfach für verschiedene Formen.
+>
+>Mu(Form) oder Pe(Form) 25: Fokussierte Macht
+>
+>##### Eidesschwur
+>
+>10 Punkte, Init gleich (Sck – 10), Vim  
+>R: Berührung, D: Mom, Z: Gruppe, Ritual
+>
+>Erzwingt die Macht eines feierlich geleisteten Eides zwischen zwei oder mehr Parteien. Alle Parteien müssen dem Eid aus freiem Willen zustimmen, und er muss die Magieresistenz aller Parteien durchdringen, um wirksam zu werden. Wenn ein Teilnehmer des Eides versucht, in direktem Widerspruch dazu zu handeln, wird er sich dessen sofort bewusst. Wenn er dennoch fortfährt, wird er mit einem Kleinen Fehler geschlagen. Dieser Fehler kann durch erneutes Schwören des Eides vor den ursprünglichen Teilnehmern aufgehoben werden. Diese Kraft besteht, bis es keine Aufzeichnung des Eides mehr gibt, weder in den Erinnerungen der Teilnehmer noch in schriftlicher Form. Neue Teilnehmer können dem Eid hinzugefügt werden, indem sie ihn in Anwesenheit der Kreatur schwören, sofern diese die ursprünglichen Machtkosten erneut aufbringt. Anders als bei der Kraft (Fehler) auferlegen regenerieren sich die für den Eidesschwur aufgewendeten Machtpunkte normal.
+>
+>Kein hermetisches Äquivalent: Ritualmacht.
+>
+>##### Sicht über die Sicht hinaus
+>
+>1 Punkt, Init gleich Sck, entspr. Form  
+>R: Per, D: Konz, Z: Gesicht
+>
+>Alle fünf Sinne der Kreatur wirken auf Entfernung, so weit die Kreatur sehen kann. Dies macht die Kreatur übernatürlich aufmerksam für alles, was geschieht, und es ist außerordentlich schwierig, sie zu überraschen.
+>
+>InIm 30 (Basis 5, +1 Konz, +4 Sicht): Persönliche Kraft ×2 (20 Stufen, –2 Machtkosten, +2 Init)
 
 ## Qualitäten und Mängel
 
@@ -1859,7 +1971,7 @@ Qualitäten und Mängel sind für Charaktere mit Magischer Macht wichtig, weil s
 
 Die meisten Qualitäten und Mängel können mehrfach genommen werden, aber Charaktere in der Grog-Rolle dürfen keine Großen Qualitäten oder Mängel nehmen, genau wie sie keine Großen Tugenden oder Fehler nehmen können.
 
-Der Begriff Qualitäten wird auch für die natürlichen Vorteile verwendet, die die Eigenschaften eines gewöhnlichen Tiers bestimmen, zu finden im Bjornaer-Kapitel von *House of Hermes: Mystery Cults*, Seiten 40–43. Diese „gewöhnlichen Qualitäten" sind für magische Charaktere nicht erforderlich und sollten nicht auf dem Charakterblatt aufgeführt werden, um Verwirrung zu vermeiden. Sie sind jedoch besonders nützlich, um die erforderlichen Werte eines magischen Tiercharakters zu bestimmen (siehe den Kasten Charakterleitfäden oben).
+Der Begriff Qualitäten wird auch für die natürlichen Vorteile verwendet, die die Eigenschaften eines gewöhnlichen Tiers bestimmen, zu finden im Bjornaer-Kapitel von *Häuser des Hermes: Mysterienkulte*, Seiten 40–43. Diese „gewöhnlichen Qualitäten" sind für magische Charaktere nicht erforderlich und sollten nicht auf dem Charakterblatt aufgeführt werden, um Verwirrung zu vermeiden. Sie sind jedoch besonders nützlich, um die erforderlichen Werte eines magischen Tiercharakters zu bestimmen (siehe den Kasten Charakterleitfäden oben).
 
 Menschliche Charaktere mit Magischer Macht dürfen Heroische Tugenden und Fehler (*Häuser des Hermes: Wahre Linien*, Seiten 104–109) als Magische Qualitäten und Mängel nehmen.
 
@@ -1895,83 +2007,6 @@ Diese Qualität kann mehrfach genommen werden. In diesem Fall werden die Auswirk
 
 Verbleibende Zauberstufen können verwendet werden, um die Effektstufe anderer Großer oder Minderer Mächte zu erhöhen, oder in Meisterschaftspunkte umgewandelt werden, wobei fünf volle Effektstufen einen Meisterschaftspunkt ergeben. Diese können wie die durch die Kleine Qualität Verbesserte Kräfte gewonnenen Meisterschaftspunkte auf jede der Großen oder Minderen Mächte des Charakters angewandt werden.
 
-**Verbesserte (Eigenschaft):** Erhöhe eine
-
->## Häufige Magische Kräfte
->
->Die folgenden Kräfte sind bei Wesen der Magiesphäre verbreitet und sind gute Beispiele für die Art von Dingen, die ein magischer Charakter tun könnte.
->
->### Handwerker der (Form)
->
->Variable Punkte, Init gleich (Sck – 5), zugehörige Form
->
->R: variiert, D: variiert, Z: variiert
->
->Dupliziert eine Reihe nicht-ritueller Creo- oder Rego-Zauber der angegebenen hermetischen Form, zu Kosten von 1 Machtpunkt pro Magnitude des Effekts. Die Stufe des Effekts darf nicht größer sein als der Machtwert der Kreatur oder 25, je nachdem, welcher Wert niedriger ist. Diese Kraft betrifft nur eine Form, aber manche Kreaturen besitzen diese Kraft mehrfach für verschiedene Formen.
->
->Cr(Form) oder Re(Form) 25: Fokussierte Macht
->
->### Das rohe (Element) beleben
->
->4 Punkte, Init gleich (Sck – 10), zugehörige elementare Form
->
->R: Berührung, D: Mom, Z: Ind, Ritual
->
->Diese ritualartige Kraft verfeinert (erschafft) einen Elementar des entsprechenden Typs (siehe Kapitel 8: Magische Dinge, Elementare) aus einer ausreichenden Menge rohen elementaren Materials. Der Elementar kann jeden Machtwert unterhalb desjenigen der Kreatur haben, die diese Kraft einsetzt. Der Elementar steht automatisch unter der Kontrolle der Kreatur; diese Kraft kann auch dazu verwendet werden, Elementare unter Kontrolle zu bringen, die nicht von der Kreatur selbst erschaffen wurden, muss in diesem Fall aber die Macht des Elementars durchdringen. Wenn die Kreatur den Elementar nicht mehr benötigt, erlischt ihre Kontrolle, aber der Elementar bleibt bestehen.
->
->CrFo 30 (Basis 25, +1 Berührung): Ritualmacht ×2 (30 Stufen, –2 Machtkosten, +2 Init)
->
->### Pferdegestalt
->
->2 Punkte, Init gleich (Sck – 2), Animal R: Per, D: Sonne, Z: Ind
->
->Der Charakter kann sich bis zum Sonnenauf- oder -untergang in ein Pferd verwandeln.
->
->MuFo 25 (Basis 10, +2 Sonne, +1 Größe): Persönliche Kraft (25 Stufen)
->
->### Flug des Kolibris
->
->0 Punkte, Init gleich (Sck – 2), zugehörige Form
->
->R: Per, D: Sonne, Z: Ind
->
->Der Charakter kann in jede Richtung durch die Luft fliegen, einfach indem er sich konzentriert. Wenn er abgelenkt wird, geht diese Kontrolle verloren, aber die Kraft hält den Charakter weiterhin unbegrenzt in der Luft.
->
->ReFo 15 (Basis 4, +2 Sonne, konstant): Persönliche Kraft (15 Stufen, –2 Machtkosten)
->
->### (Großen Fehler) auferlegen
->
->10 Punkte, Init gleich (Sck – 20), Vim R: Berührung, D: Mom, Z: Ind, Ritual
->
->Erlegt dem Opfer den genannten Großen Fehler auf. Jede Kreatur kann mehr als eine Kraft dieser Art besitzen, die jeweils einen anderen Fehler auferlegt. Die Kreatur kann entscheiden, ob der Fehler dauerhaft oder vorübergehend auferlegt wird. Bei dauerhafter Auferlegung ist die Kraft eine ritualartige Kraft und kostet Punkte vom Machtwert der Kreatur ebenso wie von ihrem Machtvorrat (siehe Ritualmacht weiter unten). Bei vorübergehender Auferlegung werden die für diese Kraft ausgegebenen Machtpunkte erst dann regeneriert, wenn ihre Wirkung zurückgenommen wird.
->
->Kein hermetisches Äquivalent: Ritualmacht ×2
->
->### (Kleinen Fehler) auferlegen
->
->5 Punkte, Init gleich (Sck – 10), Vim R: Berührung, D: Mom, Z: Ind, Ritual
->
->Erlegt dem Opfer den genannten Fehler auf. Jede Kreatur kann mehr als eine Kraft dieser Art besitzen, die jeweils einen anderen Fehler auferlegt. Die Kreatur kann entscheiden, ob der Fehler dauerhaft oder vorübergehend auferlegt wird. Bei dauerhafter Auferlegung ist die Kraft eine ritualartige Kraft und kostet Punkte vom Machtwert der Kreatur ebenso wie von ihrem Machtvorrat (siehe Ritualmacht weiter unten). Bei vorübergehender Auferlegung werden die für diese Kraft ausgegebenen Machtpunkte erst dann regeneriert, wenn ihre Wirkung zurückgenommen wird.
->
->Kein hermetisches Äquivalent: Ritualmacht
->
->### Tüchtigkeit in (Fertigkeit) verleihen
->
->4 Punkte, Init gleich (Sck – 3), Corpus R: Stimme, D: Sonne, Z: Gruppe
->
->Verleiht Tüchtigkeit in einer bestimmten Tätigkeit. Für jeden investierten Machtpunkt können zehn Personen einen Bonus von +1 auf alle Würfe in einer allgemeinen Situation erhalten (wie Kampf oder Waldhandwerk); oder 1 Person kann einen Bonus von +3 auf eine bestimmte Summe oder Fertigkeit erhalten (wie Absorption oder Jagen). Machtpunkte, die für diese Kraft ausgegeben werden, werden erst regeneriert, wenn ihre Wirkung zurückgenommen wird.
->
->MuCo 20 (Basis 2, +2 Stimme, +2 Sonne, +2 Gruppe): Mindere Macht (20 Stufen, +1 Init)
->
->### (Große Tugend) verleihen
->
->10 Punkte, Init gleich (Sck – 20), Vim R: Berührung, D: Mom, Z: Ind, Ritual
->
->Verleiht dem Ziel die genannte Große Tugend. Jede Kreatur kann mehr als eine Kraft dieser Art besitzen, die jeweils eine andere Tugend verleiht. Die Kreatur kann entscheiden, ob die Tugend dauerhaft oder vorübergehend verliehen wird. Bei dauerhafter Verleihung ist die Kraft eine ritualartige Kraft und kostet Punkte vom Machtwert der Kreatur ebenso wie von ihrem Machtvorrat (siehe Ritualmacht weiter unten). Bei vorübergehender Verleihung werden die für diese Kraft ausgegebenen Machtpunkte erst dann regeneriert, wenn ihre Wirkung zurückgenommen wird.
->
->Kein hermetisches Äquivalent: Ritualmacht ×2
-
-
 Verbesserte (Eigenschaft): Erhöhe eine Eigenschaft, die bereits +5 oder mehr beträgt, um eins. Dieser Bonus wird angewandt, bevor die Stärke und Schnelligkeit des Charakters für die Größe angepasst werden, sodass ein Charakter mit Größe +2 und Schnelligkeit +3 (Schnelligkeit +5, bevor die Größe abgezogen wird) mit dieser Qualität seine Schnelligkeit auf +4 erhöhen könnte. Diese Qualität kann mehrfach genommen werden.
 
 **Magische Meditation:** Diese Qualität verleiht dem Charakter die Übernatürliche Fertigkeit Magische Meditation auf 1 (siehe Neue und Modifizierte Fertigkeiten weiter unten).
@@ -1979,76 +2014,6 @@ Verbesserte (Eigenschaft): Erhöhe eine Eigenschaft, die bereits +5 oder mehr be
 **Große Tugend:** Der Charakter erhält eine Große Tugend, üblicherweise entweder Allgemein oder Übernatürlich (Magie), als Vorteil seiner magischen Natur. Beachte, dass diese Qualität zwar mehrfach genommen werden kann, aber nur Tugenden, die es einem Charakter erlauben, sie mehrfach zu nehmen, auch mehrfach dupliziert werden dürfen. Außerdem muss der magische Charakter die Voraussetzungen oder Einschränkungen einer Tugend erfüllen. Beispielsweise kann nur ein magischer Charakter mit der Gabe (oder der oben beschriebenen Qualität Begabt) hermetische Tugenden nehmen.
 
 **Natürliches Aussehen:** Der Charakter erscheint als normaler Mensch ohne Spuren seiner magischen Natur. So wie die Sanfte Gabe alle Spuren der Gabe bei einem Magus verbirgt, ermöglicht dies Magischen Menschen, ihr inhärent monströses Aussehen zu verbergen, und Magischen Dingen in menschlicher oder tierischer Gestalt, wie lebendiges Fleisch und Blut zu wirken, anstatt wie belebte Materie.
-
->## Häufige Magische Kräfte (Forts.)
->
->### (Kleine Tugend) verleihen
->
->5 Punkte, Init gleich (Sck – 10), Vim R: Berührung, D: Mom, Z: Ind, Ritual
->
->Verleiht dem Ziel die genannte Kleine Tugend. Jede Kreatur kann mehr als eine Kraft dieser Art besitzen, die jeweils eine andere Tugend verleiht. Die Kreatur kann entscheiden, ob die Tugend dauerhaft oder vorübergehend verliehen wird. Bei dauerhafter Verleihung ist die Kraft eine ritualartige Kraft und kostet Punkte vom Machtwert der Kreatur ebenso wie von ihrem Machtvorrat (siehe Ritualmacht oben). Bei vorübergehender Verleihung werden die für diese Kraft ausgegebenen Machtpunkte erst dann regeneriert, wenn ihre Wirkung zurückgenommen wird.
->
->Kein hermetisches Äquivalent: Ritualmacht
->
->### Führung
->
->3 Punkte, Init gleich (Sck +1), Mentem R: Stimme, D: Konz, Z: Gruppe
->
->Beeinflusst eine Gruppe von Wesen subtil in Richtung eines bestimmten Handlungsverlaufs. Manche Kreaturen können mit dieser Kraft die Bewegung einer Gruppe lenken und sie zu einem gewünschten Ort führen. Andere Kreaturen können Menschen zu unbedachten, mutigen oder weisen Handlungen leiten. Jedes Mal, wenn diese Kraft eingesetzt wird, kann sie die Handlungen einer einzelnen Person für einen Tag subtil beeinflussen. Der Spielleiter sollte dem Charakter ähnlich wie bei der Tugend Gesunder Menschenverstand Ratschläge geben, mit dem Unterschied, dass der Ratschlag den Zielen der Kreatur dient, nicht denen des Charakters. Es besteht kein Zwang, diesem Ratschlag zu folgen.
->
->ReMe 30 (Basis 5, +2 Stimme, +1 Konz, +2 Gruppe): Große Macht (30 Stufen, +4 Init)
->
->### Hände des Magischen Tiers
->
->0 Punkte, Init (Sck – 2), zugehörige Form R: Berührung, D: Sonne, Z: Ind
->
->Dies ermöglicht einem Tier, einen Gegenstand zu manipulieren und zu tragen, als hätte es menschliche Hände und eine Stärke von +5. Der Charakter muss sich konzentrieren, um etwas anderes zu tun als den Gegenstand zu tragen, einschließlich des Ablegens oder Aufnehmens eines anderen Gegenstands.
->
->ReTe 15 (Basis 3, +1 Berührung, +2 Sonne, +1 konstant): Persönliche Kraft (15 Stufen, –2 Machtkosten)
->
->### Heilung
->
->3 Punkte, Init gleich (Sck – 9), Animal oder Corpus
->
->R: Berührung, D: Mom, Z: Ind, Ritual
->
->Heilt einen Menschen oder ein Tier – die schwerste Wunde des Ziels verbessert sich um eine Stufe. Die Heilung tritt ein, wenn der Empfänger eine bestimmte Handlung vollzieht, wie aus einer heiligen Quelle zu trinken oder einen Schwur zu leisten. Dies ist eine Ritualmacht, die sowohl vom Machtwert der Kreatur als auch von ihrem Machtvorrat abzieht (siehe Ritualmacht weiter unten). Wenn die Kraft einem Genius Loci gehört und die Zielkreatur in dessen Locus heimisch ist, werden alle Wunden geheilt, nicht nur die schwerste.
->
->CrCo 30 (Basis 25, +1 Berührung): Ritualmacht ×2 (30 Stufen, –3 Machtkosten, +1 Init)
->
->### Menschengestalt
->
->1 Punkt, Init gleich (Sck – 2), Corpus R: Per, D: Sonne, Z: Ind
->
->Der Charakter verwandelt sich in die Gestalt eines normalen Menschen, was ihm ermöglicht, sich relativ unbemerkt durch die sterbliche Gesellschaft zu bewegen.
->
->MuFo 20 (Basis 10, +2 Sonne): Persönliche Kraft (20 Stufen, –1 Machtkosten)
->
->### Meister der (Form)
->
->Variable Punkte, Init gleich (Sck – Machtkosten), zugehörige Form
->
->R: variiert, D: variiert, Z: variiert
->
->Dupliziert eine Reihe nicht-ritueller Muto- oder Perdo-Zauber der angegebenen hermetischen Form, zu Kosten von 1 Machtpunkt pro Magnitude des Effekts. Die Stufe des Effekts darf nicht größer sein als der Machtwert der Kreatur oder 25, je nachdem, welcher Wert niedriger ist. Diese Kraft betrifft nur eine Form, aber manche Kreaturen besitzen diese Kraft mehrfach für verschiedene Formen.
->
->Mu(Form) oder Pe(Form) 25: Fokussierte Macht
->
->### Eidesschwur
->
->10 Punkte, Init gleich (Sck – 10), Vim R: Berührung, D: Mom, Z: Gruppe, Ritual
->
->Erzwingt die Macht eines feierlich geleisteten Eides zwischen zwei oder mehr Parteien. Alle Parteien müssen dem Eid aus freiem Willen zustimmen, und er muss die Magieresistenz aller Parteien durchdringen, um wirksam zu werden. Wenn ein Teilnehmer des Eides versucht, in direktem Widerspruch dazu zu handeln, wird er sich dessen sofort bewusst. Wenn er dennoch fortfährt, wird er mit einem Kleinen Fehler geschlagen. Dieser Fehler kann durch erneutes Schwören des Eides vor den ursprünglichen Teilnehmern aufgehoben werden. Diese Kraft besteht, bis es keine Aufzeichnung des Eides mehr gibt, weder in den Erinnerungen der Teilnehmer noch in schriftlicher Form. Neue Teilnehmer können dem Eid hinzugefügt werden, indem sie ihn in Anwesenheit der Kreatur schwören, sofern diese die ursprünglichen Machtkosten erneut aufbringt. Anders als bei der Kraft (Fehler) auferlegen regenerieren sich die für den Eidesschwur aufgewendeten Machtpunkte normal.
->
->Kein hermetisches Äquivalent: Ritualmacht.
->
->### Sicht über die Sicht hinaus
->
->1 Punkt, Init gleich Sck, zugehörige Form R: Per, D: Konz, Z: Sicht
->
->Alle fünf Sinne der Kreatur wirken auf Entfernung, so weit die Kreatur sehen kann. Dies macht die Kreatur übernatürlich aufmerksam für alles, was geschieht, und es ist außerordentlich schwierig, sie zu überraschen.
->
->InIm 30 (Basis 5, +1 Konz, +4 Sicht): Persönliche Kraft ×2 (20 Stufen, –2 Machtkosten, +2 Init)
 
 **Keine Erschöpfung:** Der Charakter ist unermüdlich, was bedeutet, dass er keine Erschöpfungsstufen hat, keine Erschöpfungsabzüge erleidet, keine Erschöpfungswürfe ablegen muss und nicht bewusstlos werden kann. Er kann sich auch nicht wie andere Charaktere anstrengen, aber er kann den Verlust einer Erschöpfungsstufe durch Ausgabe eines Selbstvertrauenspunkts simulieren, falls nötig.
 
@@ -2059,7 +2024,6 @@ Der Charakter muss nicht schlafen, was bedeutet, dass er tatsächlich zwei zusä
 Neben der Reduzierung des Machtvorrats des Charakters erfordern Ritualmächte auch, dass der Spieler bei jeder Aktivierung des Effekts für jeden Punkt der Machtkosten eins vom Machtwert des Charakters abzieht. Diese verlorene Macht kann sich im Laufe der Zeit im Ermessen des Spielleiters zurückbilden, aber mit einer wesentlich langsameren Rate als die Erholung verlorener Machtpunkte. Beispielsweise könnte jeder Punkt verlorenen Machtwerts erfordern, dass der Charakter ein ganzes Quartal in einer Magieaura von nicht weniger als (sein Machtwert / 5) ruht, oder vielleicht Vis derselben Art wie sein Machtwert konsumiert, in einer Anzahl Bauern gleich seinem ursprünglichen Machtwert.
 
 Alternativ kann der Charakter anstelle der Reduzierung seines Machtwerts einen Selbstvertrauenspunkt für jeden Machtpunkt der Aktivierungskosten verlieren. Er kann dies jederzeit tun, wenn er genügend Selbstvertrauenspunkte hat, selbst wenn die Anzahl der Selbstvertrauenspunkte den Selbstvertrauenswert des Charakters übersteigen würde. Wenn der Charakter Selbstvertrauen aufgrund der Tugend Wildheit besitzt, kann er sie nur unter den mit dieser Tugend verbundenen besonderen Umständen zur Aktivierung der Ritualmacht einsetzen.
-
 
 **Vis-Beherrschung:** Der Charakter kann einen Teil seiner Magie als Vis manifestieren. Jeder Bauer manifestiert sich in derselben Form wie die mit dem Machtwert des Charakters verbundene und kostet den Charakter entweder einen Selbstvertrauenspunkt oder reduziert den permanenten Machtwert des Charakters um eins.
 
@@ -2182,64 +2146,7 @@ Sofern nicht anders angegeben, sind alle unten beschriebenen übernatürlichen T
 
 ### Neue und modifizierte Tugenden
 
-**Atlantische Magie**
-
-*Klein, Hermetisch*
-
-Der Magus oder ein Vorfahre in seiner Traditionslinie hat die Magie verbannter Atlantier studiert und dabei mehrere nützliche Erweiterungen der Hermetischen Magie entwickelt. Der Magus hat Zugang zu einer speziellen Reichweite: Wasserweg, einer speziellen Dauer: Sturm und einem speziellen Ziel: Gewässer, die er bei Spontaner Magie sowie in Formulaischen oder Rituellen Zaubern verwenden kann.
-
-**Wasserweg** *(Reichweite)***:** Der Magus kann jeden und alles als Ziel wählen, der/das sich auf (oder in) demselben Wasserweg wie er befindet. Zum Beispiel ist ein Fluss, ein Kanal, ein See oder ein Meer ein Wasserweg. Nebenflüsse eines Flusses gelten als derselbe Wasserweg wie der Hauptfluss, sind aber *nicht* derselbe Wasserweg wie andere Nebenflüsse des Hauptflusses. In manchen Fällen muss die Spieltruppe entscheiden, wo genau ein Wasserweg beginnt und ein anderer endet.
-
-Der Magus muss beim Wirken des Zaubers den Wasserweg berühren, und das Ziel muss entweder ebenfalls den Wasserweg berühren oder darauf schwimmen (zum Beispiel in einem Boot). Eine Person am Ufer eines Flusses kann nicht mit diesem Zauber als Ziel gewählt werden. Der Magus muss das Ziel nicht sehen können, aber er muss es auf irgendeine Weise wahrnehmen können, es sei denn, der Zauber ist ein Intellego-Effekt, mit dem festgestellt werden soll, ob sich etwas im Wasserweg befindet.
-
-Für die Bestimmung der Zauberstufe entspricht Wasserweg der Reichweite Sicht.
-
-**Sturm** *(Dauer)***:** Ein Zauber mit dieser Dauer muss während eines Sturms gewirkt werden und hält bis zum Ende des Sturms an. Normalerweise dauert ein Sturm einige Minuten oder Stunden, aber manche großen Stürme können tagelang anhalten. Die Form des Zaubers muss entweder Aquam oder Auram sein, aber der Zauber wird nicht unbedingt auf den Sturm selbst gewirkt.
-
-Die Dauer eines völlig natürlichen Sturms kann schnell abgeschätzt werden, indem man einen Stresswürfel wirft und das Ergebnis durch 2 teilt — das ergibt die Anzahl der Stunden, die der Sturm andauern wird. Ein Patzer hat keine Konsequenzen, außer dass der Sturm innerhalb von Minuten nachlässt. Der Spielleiter sollte die Dauer des Sturms geheim bestimmen — ein InAu-Zauber oder ein Natursinn-Fertigkeitswurf könnte diese Information jedoch leicht offenbaren.
-
-Für die Bestimmung der Zauberstufe entspricht Sturm der Dauer Konzentration.
-
-**Gewässer** *(Ziel)***:** Ein Zauber mit diesem Ziel betrifft ein ganzes Gewässer, ob es sich um einen See, einen Fluss oder ein Meer handelt. Verwende dieselben Richtlinien wie beim Wasserweg, um zu bestimmen, wo ein Gewässer beginnt und endet.
-
-Für die Bestimmung der Zauberstufe entspricht Gewässer der Zielgröße Bauwerk (denke daran, die Magnitude des Zaubers für ein sehr großes Gewässer wie ein Meer oder den Ozean zu erhöhen).
-
-#### Machtkomponist
-
-*Groß, Übernatürlich*
-
-Der Charakter ist ein anerkannter Komponist magischer Musik. Das bedeutet, dass er andere Charaktere Machtlieder lehren kann. Ein solches Lied erlaubt es dem Charakter, der es lernt, die Wirkung einer einzelnen Kraft des Komponisten nachzubilden, indem er Vis der entsprechenden Form in Höhe von (1 + den Machtpunktkosten der Kraft) aufwendet. Zum Beispiel muss ein Vogel, dem beigebracht wird, *Ruf den Schwarm* zu singen, jedes Mal, wenn er das Lied singt, 3 Animal-Vis aufwenden.
-
-In einem Quartal kann der Charakter ein einzelnes Lied einer Anzahl von Charakteren gleich seinem Führung-Fertigkeitswert lehren, und die Schüler behalten die Fähigkeit, das Lied zu singen, nur für ein Jahr.
-
-**Essenzielle Tugend** *Groß oder Klein, Allgemein*
-
-Der Charakter erhält eine allgemein vorteilhafte Essenzielle Eigenschaft von entweder +3 bei Klein oder +6 bei Groß, die entweder Würfe positiv beeinflusst, die mit einer bestimmten Eigenschaft in bestimmten Situationen verbunden sind, wie Intuitiv +3 oder Gutes Zielen +6, oder dem Charakter eine vorteilhafte Persönlichkeitseigenschaft verleiht, die Teil seiner essenziellen Natur ist und nicht durch Magie beeinflusst werden kann (siehe Essenzielle Eigenschaften, weiter unten).
-
-Du kannst diese Tugend mehrfach nehmen, solange du jedes Mal eine andere Essenzielle Eigenschaft wählst.
-
-#### Vis-Gewinner der (Form)
-
-*Klein, Hermetisch*
-
-Der Magus kann (Form-)Vis aus einer Magieaura extrahieren, aber nur, wenn die Merkmale der Aura die Form verkörpern. Zum Beispiel könnte eine Aura an den Ufern eines Sees Aquam verkörpern, eine Aura an einer Begräbnisstätte verkörpert Corpus usw. Die Extraktion von Vis auf diese Weise ist eine Laborarbeit; der Magus extrahiert eine Anzahl von Vis-Bauern gleich einem Zehntel seiner Creo-Vim-(Form-)Laborsumme (aufgerundet). Natürlich benötigt er dafür auch ein Labor in der Aura, und selbstverständlich kann der Magus sich stattdessen auch für die Extraktion von Vim-Vis entscheiden (siehe **ArM5**, Seite 91). Diese Tugend kann mehrfach genommen werden (einmal für jede Form).
-
-#### Wildheit
-
-*Klein, Allgemein*
-
-Diese Tugend darf nur von magischen Charakteren genommen werden, die als Grogs gespielt werden, die keine Intelligenz besitzen oder die den Fehler Geringes Selbstwertgefühl haben.
-
-Der Charakter verfügt über Selbstvertrauenspunkte wie ein Magus- oder Gefährten-Charakter, aber du darfst diese Selbstvertrauenspunkte nur in bestimmten Situationen einsetzen, in denen die natürliche Wildheit des Charakters ausgelöst wird. Beschreibe den Umstand, der das Selbstvertrauen des Charakters aktiviert, und nimm drei Punkte, die du einsetzen kannst, wenn diese Bedingungen erfüllt sind.
-
->## Möglicher Missbrauch von Stürmen
->
->Ein ReAu-Zauber mit Dauer Sturm, der darauf abzielt, „einen Sturm wüten zu lassen", wird *nicht* dazu führen, dass ein Sturm unbegrenzt anhält. Er wird den Sturm so lange wüten lassen, wie seine ursprüngliche Lebensdauer betrug. Ein ReAu-Zauber mit einer Dauer von Sonne kann natürlich verwendet werden, um einen Sturm einen Tag lang aufrechtzuerhalten, und wiederholtes Wirken eines solchen Zaubers wird den Sturm anwesend halten, bis der Zauberer aufgibt.
->
->Ebenso wird ein CrAu-Zauber mit Dauer Sturm *keinen* unbegrenzt andauernden Sturm erschaffen. Er erschafft lediglich einen Sturm, der für die Dauer des vor dem Wirken des Zaubers bereits existierenden Sturms anhält. Das heißt, wenn zuvor kein Sturm existierte, hat dieser Zauber keine Wirkung. Ein CrAu-Zauber mit Dauer Sturm, der auf einen existierenden Sturm gewirkt wird, hilft jedoch, den Sturm davor zu schützen, durch PeAu-Effekte aufgelöst zu werden, bevor er natürlich abklingen sollte. Ein CrAu-Zauber mit einer Dauer von Sonne kann natürlich verwendet werden, um einen Sturm mit einer Dauer von einem Tag zu erschaffen.
-
-
->## Neue Tugenden
+>#### Neue Tugenden
 >
 >**Spezial**
 >
@@ -2315,6 +2222,63 @@ Der Charakter verfügt über Selbstvertrauenspunkte wie ein Magus- oder Gefährt
 >
 >Magisches Konventsmitglied
 
+Atlantische Magie
+
+*Klein, Hermetisch*
+
+Der Magus oder ein Vorfahre in seiner Traditionslinie hat die Magie verbannter Atlantier studiert und dabei mehrere nützliche Erweiterungen der Hermetischen Magie entwickelt. Der Magus hat Zugang zu einer speziellen Reichweite: Wasserweg, einer speziellen Dauer: Sturm und einem speziellen Ziel: Gewässer, die er bei Spontaner Magie sowie in Formulaischen oder Rituellen Zaubern verwenden kann.
+
+**Wasserweg** *(Reichweite)***:** Der Magus kann jeden und alles als Ziel wählen, der/das sich auf (oder in) demselben Wasserweg wie er befindet. Zum Beispiel ist ein Fluss, ein Kanal, ein See oder ein Meer ein Wasserweg. Nebenflüsse eines Flusses gelten als derselbe Wasserweg wie der Hauptfluss, sind aber *nicht* derselbe Wasserweg wie andere Nebenflüsse des Hauptflusses. In manchen Fällen muss die Spieltruppe entscheiden, wo genau ein Wasserweg beginnt und ein anderer endet.
+
+Der Magus muss beim Wirken des Zaubers den Wasserweg berühren, und das Ziel muss entweder ebenfalls den Wasserweg berühren oder darauf schwimmen (zum Beispiel in einem Boot). Eine Person am Ufer eines Flusses kann nicht mit diesem Zauber als Ziel gewählt werden. Der Magus muss das Ziel nicht sehen können, aber er muss es auf irgendeine Weise wahrnehmen können, es sei denn, der Zauber ist ein Intellego-Effekt, mit dem festgestellt werden soll, ob sich etwas im Wasserweg befindet.
+
+Für die Bestimmung der Zauberstufe entspricht Wasserweg der Reichweite Sicht.
+
+**Sturm** *(Dauer)***:** Ein Zauber mit dieser Dauer muss während eines Sturms gewirkt werden und hält bis zum Ende des Sturms an. Normalerweise dauert ein Sturm einige Minuten oder Stunden, aber manche großen Stürme können tagelang anhalten. Die Form des Zaubers muss entweder Aquam oder Auram sein, aber der Zauber wird nicht unbedingt auf den Sturm selbst gewirkt.
+
+Die Dauer eines völlig natürlichen Sturms kann schnell abgeschätzt werden, indem man einen Stresswürfel wirft und das Ergebnis durch 2 teilt — das ergibt die Anzahl der Stunden, die der Sturm andauern wird. Ein Patzer hat keine Konsequenzen, außer dass der Sturm innerhalb von Minuten nachlässt. Der Spielleiter sollte die Dauer des Sturms geheim bestimmen — ein InAu-Zauber oder ein Natursinn-Fertigkeitswurf könnte diese Information jedoch leicht offenbaren.
+
+Für die Bestimmung der Zauberstufe entspricht Sturm der Dauer Konzentration.
+
+>#### Möglicher Missbrauch von Stürmen
+>
+>Ein ReAu-Zauber mit Dauer Sturm, der darauf abzielt, „einen Sturm wüten zu lassen", wird *nicht* dazu führen, dass ein Sturm unbegrenzt anhält. Er wird den Sturm so lange wüten lassen, wie seine ursprüngliche Lebensdauer betrug. Ein ReAu-Zauber mit einer Dauer von Sonne kann natürlich verwendet werden, um einen Sturm einen Tag lang aufrechtzuerhalten, und wiederholtes Wirken eines solchen Zaubers wird den Sturm anwesend halten, bis der Zauberer aufgibt.
+>
+>Ebenso wird ein CrAu-Zauber mit Dauer Sturm *keinen* unbegrenzt andauernden Sturm erschaffen. Er erschafft lediglich einen Sturm, der für die Dauer des vor dem Wirken des Zaubers bereits existierenden Sturms anhält. Das heißt, wenn zuvor kein Sturm existierte, hat dieser Zauber keine Wirkung. Ein CrAu-Zauber mit Dauer Sturm, der auf einen existierenden Sturm gewirkt wird, hilft jedoch, den Sturm davor zu schützen, durch PeAu-Effekte aufgelöst zu werden, bevor er natürlich abklingen sollte. Ein CrAu-Zauber mit einer Dauer von Sonne kann natürlich verwendet werden, um einen Sturm mit einer Dauer von einem Tag zu erschaffen.
+
+**Gewässer** *(Ziel)***:** Ein Zauber mit diesem Ziel betrifft ein ganzes Gewässer, ob es sich um einen See, einen Fluss oder ein Meer handelt. Verwende dieselben Richtlinien wie beim Wasserweg, um zu bestimmen, wo ein Gewässer beginnt und endet.
+
+Für die Bestimmung der Zauberstufe entspricht Gewässer der Zielgröße Bauwerk (denke daran, die Magnitude des Zaubers für ein sehr großes Gewässer wie ein Meer oder den Ozean zu erhöhen).
+
+#### Machtkomponist
+
+*Groß, Übernatürlich*
+
+Der Charakter ist ein anerkannter Komponist magischer Musik. Das bedeutet, dass er andere Charaktere Machtlieder lehren kann. Ein solches Lied erlaubt es dem Charakter, der es lernt, die Wirkung einer einzelnen Kraft des Komponisten nachzubilden, indem er Vis der entsprechenden Form in Höhe von (1 + den Machtpunktkosten der Kraft) aufwendet. Zum Beispiel muss ein Vogel, dem beigebracht wird, *Ruf den Schwarm* zu singen, jedes Mal, wenn er das Lied singt, 3 Animal-Vis aufwenden.
+
+In einem Quartal kann der Charakter ein einzelnes Lied einer Anzahl von Charakteren gleich seinem Führung-Fertigkeitswert lehren, und die Schüler behalten die Fähigkeit, das Lied zu singen, nur für ein Jahr.
+
+Essenzielle Tugend
+*Groß oder Klein, Allgemein*
+
+Der Charakter erhält eine allgemein vorteilhafte Essenzielle Eigenschaft von entweder +3 bei Klein oder +6 bei Groß, die entweder Würfe positiv beeinflusst, die mit einer bestimmten Eigenschaft in bestimmten Situationen verbunden sind, wie Intuitiv +3 oder Gutes Zielen +6, oder dem Charakter eine vorteilhafte Persönlichkeitseigenschaft verleiht, die Teil seiner essenziellen Natur ist und nicht durch Magie beeinflusst werden kann (siehe Essenzielle Eigenschaften, weiter unten).
+
+Du kannst diese Tugend mehrfach nehmen, solange du jedes Mal eine andere Essenzielle Eigenschaft wählst.
+
+#### Vis-Gewinner der (Form)
+
+*Klein, Hermetisch*
+
+Der Magus kann (Form-)Vis aus einer Magieaura extrahieren, aber nur, wenn die Merkmale der Aura die Form verkörpern. Zum Beispiel könnte eine Aura an den Ufern eines Sees Aquam verkörpern, eine Aura an einer Begräbnisstätte verkörpert Corpus usw. Die Extraktion von Vis auf diese Weise ist eine Laborarbeit; der Magus extrahiert eine Anzahl von Vis-Bauern gleich einem Zehntel seiner Creo-Vim-(Form-)Laborsumme (aufgerundet). Natürlich benötigt er dafür auch ein Labor in der Aura, und selbstverständlich kann der Magus sich stattdessen auch für die Extraktion von Vim-Vis entscheiden (siehe **ArM5**, Seite 91). Diese Tugend kann mehrfach genommen werden (einmal für jede Form).
+
+#### Wildheit
+
+*Klein, Allgemein*
+
+Diese Tugend darf nur von magischen Charakteren genommen werden, die als Grogs gespielt werden, die keine Intelligenz besitzen oder die den Fehler Geringes Selbstwertgefühl haben.
+
+Der Charakter verfügt über Selbstvertrauenspunkte wie ein Magus- oder Gefährten-Charakter, aber du darfst diese Selbstvertrauenspunkte nur in bestimmten Situationen einsetzen, in denen die natürliche Wildheit des Charakters ausgelöst wird. Beschreibe den Umstand, der das Selbstvertrauen des Charakters aktiviert, und nimm drei Punkte, die du einsetzen kannst, wenn diese Bedingungen erfüllt sind.
+
 #### Fokussierte Macht
 
 *Groß, Übernatürlich*
@@ -2349,7 +2313,7 @@ Diese Tugend repräsentiert einen Charakter, der sowohl das Blut von Riesen als 
 
 Der Charakter verfügt über eine magische Kraft, die er nach Belieben aktivieren kann. Sie wird wie eine Große Macht gestaltet, wie oben unter Große Qualitäten beschrieben, aber da der Charakter keinen Machtwert besitzt, kostet ihn die Aktivierung eine Anzahl von Erschöpfungsstufen gleich (den Machtpunktkosten der Kraft geteilt durch 5, aufgerundet). Diese Tugend kann mehrfach genommen werden. Du darfst Stufen gegen Meisterschaftspunkte eintauschen, wie üblich, und damit die Machtpunktkosten und somit die Erschöpfungskosten senken. Du darfst auch Stufen im Verhältnis eins zu eins ausgeben, um der Kraft Penetration zu verleihen; andernfalls hat sie eine Penetration von null, da der Charakter keinen Machtwert besitzt.
 
-#### Ortsgespür
+Heimkehrinstinkt
 *Klein, Übernatürlich*
 
 Der Charakter weiß immer genau, wie er von seinem aktuellen Standort zu einer Anzahl von Orten gleich seinem Intelligenzwert gelangt (mindestens 1). Um einen Ort zum Repertoire des Charakters hinzuzufügen, muss er sich an diesem Ort befinden, der Ort muss unter freiem Himmel liegen (er darf also nicht in einem Gebäude sein), und der Spieler muss einen Intelligenz + Konzentration-Wurf gegen einen Schwierigkeitsgrad von 6 bestehen. Wenn dies die Anzahl bekannter Orte über die Grenze des Charakters hinaus erhöhen würde, muss ein anderer Ort „vergessen" werden.
@@ -2402,8 +2366,7 @@ Diese Tugend verändert die Größe eines magischen Charakters, modifiziert aber
 
 Der Charakter verfügt über eine in irgendeiner Weise eingeschränkte Kraft, die als Mindere Macht gestaltet wird, wie oben unter Kleine Magische Qualitäten beschrieben. Die Aktivierung kostet den Charakter eine Anzahl von Erschöpfungsstufen gleich (den Machtkosten der Kraft geteilt durch 5, aufgerundet). Diese Tugend kann mehrfach genommen werden. Du darfst Stufen gegen Meisterschaftspunkte eintauschen, wie üblich, und damit die Machtpunktkosten und somit die Erschöpfungskosten senken. Du darfst auch Stufen im Verhältnis eins zu eins ausgeben, um der Kraft Penetration zu verleihen; andernfalls hat sie eine Penetration von null, da der Charakter keinen Machtwert besitzt.
 
-
-**Magisches Tier**
+#### Magisches Tier
 
 *Spezial*
 
@@ -2415,7 +2378,8 @@ Der Charakter ist ein magisches Tier, entweder ein perfektes Exemplar seiner Art
 
 Der Charakter ist ein magischer Mensch, vielleicht ein Nachfahre eines uralten Geschlechts magischer Wesen oder auf andere Weise mit Magie in seinem Blut gesegnet, geboren mit einem Machtwert und dem Mangel Monströses Aussehen (obwohl er nicht unbedingt hässlich ist). Er sollte nach den Regeln für Magische Menschen bei der Erschaffung Magischer Charaktere gestaltet werden.
 
-**Magischer Geist** *Spezial*
+#### Magischer Geist
+*Spezial*
 
 Der Charakter ist ein Geist, eine Erinnerung, ein Abbild oder eine Idee, die durch die Kraft der Magie zum Leben erweckt wurde. Er wird mit einem Machtwert nach den Regeln für Magische Geister bei der Erschaffung Magischer Charaktere gestaltet. Solche Charaktere sind unkörperlich und haben stets den Fehler Magische Ausstrahlung, als besäßen sie die Gabe, und nur eine Sanfte Ausstrahlung kann diesen Effekt mildern. Wenn der Charakter die Qualität Begabt besitzt, erhält er stattdessen eine Auffällige Magische Ausstrahlung.
 
@@ -2538,6 +2502,76 @@ Der Charakter kann mit jeder Kreatur sprechen, deren natürlicher Lebensraum ein
 
 ### Neue und modifizierte Fehler
 
+>#### Neue Fehler
+>
+>**Groß, Hermetisch**
+>
+>Magische Umgebungsbedingung
+>
+>**Groß, Sozialer Status**
+>
+>Magisches Ungeheuer
+>
+>**Groß, Geschichte**
+>
+>Diener des/der (Land)
+>
+>Wanderlust
+>
+>**Groß, Übernatürlich**
+>
+>Schnelles Altern
+>
+>Auffällige Magische Ausstrahlung
+>
+>An Magie gebunden
+>
+>Hunger nach (Form-)Magie
+>
+>**Groß, Allgemein**
+>
+>Essenzieller Fehler
+>
+>**Klein, Persönlichkeit**
+>
+>Verzerrte Sinne
+>
+>**Klein, Sozialer Status**
+>
+>Magischer Freund
+>
+>**Klein, Geschichte**
+>
+>Magischer (Wesen-)Gefährte
+>
+>**Klein, Übernatürlich**
+>
+>Schädliche Umstände
+>
+>Schwindende Kraft
+>
+>Verbannter Atlantier
+>
+>(Form-)Monstrosität
+>
+>Monströses Blut
+>
+>Eingeschränkte Kraft
+>
+>Langsame Kraft
+>
+>**Klein, Allgemein**
+>
+>Verankert im/am (Land)
+>
+>Umgebungsempfindlichkeit
+>
+>Essenzieller Fehler
+>
+>Abstoßend für (Wesen)
+>
+>Schlechte Konzentration
+
 #### Verankert im/am (Land)
 
 *Klein, Allgemein*
@@ -2658,76 +2692,6 @@ Der Charakter war wiederholt Magie ausgesetzt und ist dadurch auf Magie zum Übe
 
 Der Charakter wird von einem intelligenten magischen Wesen begleitet, einem, das klug genug ist, Befehle zu befolgen oder aus eigener Initiative zu missachten, und das der Charakter regelmäßig versorgen muss. Dies könnte ein Tier, ein Geist, ein menschenähnliches Wesen oder sogar ein belebter Gegenstand sein. Gestalte dieses Wesen als magischen Charakter mit dem Sozialer-Status-Fehler Magischer Freund (siehe unten), und beachte, dass das Wesen umso unabhängiger wird, je höher sein Machtwert ist. Ein Grog-Charakter könnte im Wesentlichen eine Erweiterung des Willens des Charakters sein, während ein Gefährten-Charakter Anweisungen befolgen, aber oft tun könnte, was er für das Beste hält, und ein Magus-Charakter herablassend oder wild sein könnte und selten auf andere als eigene Initiative hin handelt.
 
->## Neue Fehler
->
->**Groß, Hermetisch**
->
->Magische Umgebungsbedingung
->
->**Groß, Sozialer Status**
->
->Magisches Ungeheuer
->
->**Groß, Geschichte**
->
->Diener des/der (Land)
->
->Wanderlust
->
->**Groß, Übernatürlich**
->
->Schnelles Altern
->
->Auffällige Magische Ausstrahlung
->
->An Magie gebunden
->
->Hunger nach (Form-)Magie
->
->**Groß, Allgemein**
->
->Essenzieller Fehler
->
->**Klein, Persönlichkeit**
->
->Verzerrte Sinne
->
->**Klein, Sozialer Status**
->
->Magischer Freund
->
->**Klein, Geschichte**
->
->Magischer (Wesen-)Gefährte
->
->**Klein, Übernatürlich**
->
->Schädliche Umstände
->
->Schwindende Kraft
->
->Verbannter Atlantier
->
->(Form-)Monstrosität
->
->Monströses Blut
->
->Eingeschränkte Kraft
->
->Langsame Kraft
->
->**Klein, Allgemein**
->
->Verankert im/am (Land)
->
->Umgebungsempfindlichkeit
->
->Essenzieller Fehler
->
->Abstoßend für (Wesen)
->
->Schlechte Konzentration
-
 (Abgesehen davon, andere Arten magischer Gefährten zu ermöglichen, erlaubt diese Version des Fehlers es, einen Magischen Tiergefährten zu nehmen, dessen Machtwert besser zur Machtstufe der Saga und der Rolle des Charakters darin passt.)
 
 #### Magischer Freund
@@ -2820,7 +2784,7 @@ Der Charakter ist übermäßig empfindlich gegenüber Umgebungsbedingungen gewor
 
 **Kälteempfindlich:** Du funktionierst bei Temperaturen, die erheblich über der Norm für deinen Teil der Welt liegen, normal. Du verlierst 1 Erschöpfungsstufe für jede Stunde, die du in einer Umgebung verbringst, die zwei oder mehr Stufen unter deinen gewohnten Bedingungen auf der Umgebungstemperaturtabelle liegt (siehe Kasten). Deine Reaktionen auf Hitze sind um 2 in ihrer Intensität reduziert (siehe **ArM5**, Seite 181).
 
->## Umgebungstemperaturen
+>#### Umgebungstemperaturen
 >
 >- Unnatürlich heiß
 >- So heiß wie neben einem wütenden Feuer, geschmolzener Lava oder geschmolzenem Eisen
@@ -2843,17 +2807,7 @@ Neben der Fähigkeit, Tiere zu trainieren und zu versorgen (wie in **ArM5**, Sei
 
 **Spezialisierungen:** magische Wesen einer bestimmten Form, eine Art magischer Wesen (Magische Geister, Magische Dinge), eine bestimmte Art des Umgangs (Fertigkeiten trainieren, Loyalität wecken). (Allgemein)
 
-#### (Form-)Resistenz
-
-Nur Charaktere mit einem Machtwert können diese Fertigkeit besitzen.
-
-Durch den Kontakt mit einer bestimmten magischen Form hat der Charakter einen natürlichen Widerstand gegen Dinge entwickelt, die mit dieser Form verbunden sind, auf dieselbe Weise, wie Magi durch das Studium der Magie der zugehörigen Hermetischen Form widerstandsfähiger werden. Du darfst den Wert des Charakters in dieser Fertigkeit als Bonus auf Versuche addieren, Schaden durch Dinge dieser Form zu widerstehen (wie in den Beispielen auf den Seiten 78–79 von **ArM5** beschrieben). Zum Beispiel darfst du deinen Wert in Vim-Resistenz zu deiner Absorption gegen Schaden addieren, der durch deine eigenen magischen Kräfte verursacht wird.
-
-Wie Formboni bei Magi erhöht dies auch die Magieresistenz eines magischen Charakters gegen Zauber dieser Form, ist aber nur mit Magischer Macht kompatibel; es addiert sich nicht zur Parma Magica.
-
-**Spezialisierungen:** eine einzelne Schadensquelle dieser Form. (Übernatürlich)
-
->## Soziale Fertigkeiten und Magische Wesen
+>#### Soziale Fertigkeiten und Magische Wesen
 >
 >Wenn eine Person zu einem magischen Wesen wird, hört sie auf, menschlich zu sein, und daher sind einige soziale Fertigkeiten nicht mehr nützlich, um ihr Verhalten oder ihre Motivationen zu beschreiben. Dasselbe Prinzip gilt für soziale Fertigkeiten, die sich mit dem Training von Tieren und anderen unintelligenten Wesen befassen, da diese, wenn sie magisch werden, oft auch intelligent werden (siehe Kapitel 5: Magische Tiere, Training).
 >
@@ -2885,6 +2839,16 @@ Wie Formboni bei Magi erhöht dies auch die Magieresistenz eines magischen Chara
 >
 >**Unterrichten:** Kann mit jedem intelligenten Wesen verwendet werden.
 
+#### (Form-)Resistenz
+
+Nur Charaktere mit einem Machtwert können diese Fertigkeit besitzen.
+
+Durch den Kontakt mit einer bestimmten magischen Form hat der Charakter einen natürlichen Widerstand gegen Dinge entwickelt, die mit dieser Form verbunden sind, auf dieselbe Weise, wie Magi durch das Studium der Magie der zugehörigen Hermetischen Form widerstandsfähiger werden. Du darfst den Wert des Charakters in dieser Fertigkeit als Bonus auf Versuche addieren, Schaden durch Dinge dieser Form zu widerstehen (wie in den Beispielen auf den Seiten 78–79 von **ArM5** beschrieben). Zum Beispiel darfst du deinen Wert in Vim-Resistenz zu deiner Absorption gegen Schaden addieren, der durch deine eigenen magischen Kräfte verursacht wird.
+
+Wie Formboni bei Magi erhöht dies auch die Magieresistenz eines magischen Charakters gegen Zauber dieser Form, ist aber nur mit Magischer Macht kompatibel; es addiert sich nicht zur Parma Magica.
+
+**Spezialisierungen:** eine einzelne Schadensquelle dieser Form. (Übernatürlich)
+
 #### Magische Meditation\*
 
 Nur Charaktere mit einem Machtwert können diese Fertigkeit besitzen.
@@ -2910,42 +2874,35 @@ Es gibt jedoch einen relativ einfachen Weg, diese Einschränkung zu umgehen. Wen
 
 Charaktere mit der Tugend Begabt können Übernatürliche Fertigkeiten wie andere Charaktere mit der Gabe erlernen, müssen aber zusätzlich zu ihrem Machtwert auch die Summe ihrer Werte in allen anderen Übernatürlichen Fertigkeiten abziehen. Sie können Vis ausgeben, um diesen Abzug wie üblich auszugleichen, können jedoch in einem einzelnen Quartal nicht mehr Bauern einsetzen, als ihrem Machtwert entspricht. Begabte magische Charaktere können auch neue Tugenden und Fehler durch einen Mysterienkult auf dieselbe Weise wie Magi initiieren (beschrieben in *Die Mysterien (Überarbeitete Ausgabe)* und *Häuser des Hermes: Mysterienkultee*). Schließlich lernen magische Kreaturen, die als Vertraute hermetischer Magi gebunden sind, wie in ArM5 (Seite 105) angegeben, auf die gleiche Weise wie Menschen und behalten diese Fertigkeiten, wenn die Vertrautenbindung gelöst wird.
 
+>#### Magische Qualitäten und Einweihungsskripte
+>
+>Es ist möglich, anderen magischen Wesen neue Magische Qualitäten beizubringen, indem man ein Buch darüber schreibt, aber dies ist ein unglaublich seltenes Phänomen, da nur wenige magische Charaktere lesen und schreiben können. Ein solches Buch könnte einem Einweihungsskript für einen besonders esoterischen Mysterienkult ähneln (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seiten 15–18), und es kann nach Ermessen der Spieltruppe von einem Mystagogen für die Initiation einer passenden Tugend angepasst werden. Bücher über andere mystische Themen — wie Magiekunde oder die Organisationskunde eines Mysterienkults —, die Einweihungsskripte enthalten, können ebenfalls als Transformations-Studienquellen behandelt werden, wenn sie besonders auf die betreffende Magische Qualität zutreffen, wiederum mit Zustimmung der Spieltruppe.
+
 ### Transformation
 
 Transformation ist der Begriff für das Herbeiführen dauerhafter Verbesserungen an der Gestalt eines magischen Charakters, die ihn magischer machen, ohne zu verändern, was er im Kern ist. Aus diesem Grund können diese Verbesserungen nicht gegen die essenzielle Natur des Charakters verstoßen — ein magischer Hund, der magischer wird, muss immer noch ein magischer Hund sein, auch wenn er die Fähigkeit zu fliegen, Feuer zu speien oder sich in eine menschliche Gestalt zu verwandeln erlangt. Jedes Mal, wenn ein Charakter den Prozess der Transformation durchläuft, sollte die Spieltruppe sich einig sein, dass die Veränderung nicht grundlegend mit seiner wahren Gestalt in Konflikt steht, andernfalls kann die Transformation auf diese Weise nicht stattfinden.
 
->## Magische Qualitäten und Einweihungsskripte
->
->Es ist möglich, anderen magischen Wesen neue Magische Qualitäten beizubringen, indem man ein Buch darüber schreibt, aber dies ist ein unglaublich seltenes Phänomen, da nur wenige magische Charaktere lesen und schreiben können. Ein solches Buch könnte einem Einweihungsskript für einen besonders esoterischen Mysterienkult ähneln (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seiten 15–18), und es kann nach Ermessen der Spieltruppe von einem Mystagogen für die Initiation einer passenden Tugend angepasst werden. Bücher über andere mystische Themen — wie Magiekunde oder die Organisationskunde eines Mysterienkults —, die Einweihungsskripte enthalten, können ebenfalls als Transformations-Studienquellen behandelt werden, wenn sie besonders auf die betreffende Magische Qualität zutreffen, wiederum mit Zustimmung der Spieltruppe.
-
 Die grundlegende Mechanik der Transformation nutzt Erfahrungspunkte. Magische Charaktere können neue Qualitäten und Mängel erlangen, indem sie Erfahrungspunkte für ihr Studium aufwenden. Dies können Erfahrungspunkte sein, die durch Übung, Abenteuer oder einen Lehrer gewonnen wurden, der die gewünschte Qualität besitzt. (Das Üben einer Qualität, die man bereits besitzt, mit der Absicht, sie zu verbessern, hat eine Studiensumme von 5.) Man muss weiterhin den Machtwert des Charakters von der Studiensumme abziehen, wie oben beschrieben, und wie üblich kann der Charakter diesen Abzug durch den Konsum von Vis ausgleichen. Die Anzahl der für jeden Qualitätstyp nötigen Erfahrungspunkte ist in der folgenden Tabelle aufgeführt.
 
-#### Erfahrungspunkte: 0
-
+Erfahrungspunkte: 10
 Eine Tugend in eine Magische Qualität desselben Typs (Groß oder Klein) umwandeln, einen Fehler in einen Magischen Mangel desselben Typs umwandeln, eine Magische Qualität in eine andere Magische Qualität desselben Typs umwandeln oder einen Magischen Mangel in einen anderen Magischen Mangel desselben Typs umwandeln.
 
-#### Erfahrungspunkte: 5
-
+Erfahrungspunkte: 15
 Eine Kleine Magische Qualität und einen Kleinen Magischen Mangel erlangen
 
-#### Erfahrungspunkte: 10
-
+Erfahrungspunkte: 20
 Eine Kleine Magische Qualität erlangen
 
-#### Erfahrungspunkte: 15
-
+Erfahrungspunkte: 25
 Eine Große Magische Qualität und einen Großen Magischen Mangel erlangen
 
-#### Erfahrungspunkte: 20
-
+Erfahrungspunkte: 30
 Eine Kleine Magische Qualität in eine Große Magische Qualität umwandeln, einen Kleinen Magischen Mangel in eine Kleine Magische Qualität umwandeln oder einen Großen Magischen Mangel in einen Kleinen Magischen Mangel umwandeln
 
-#### Erfahrungspunkte: 25
-
+**Erfahrungspunkte: 25**  
 Eine Große Magische Qualität und einen Kleinen Magischen Mangel erlangen
 
-#### Erfahrungspunkte: 30
-
+**Erfahrungspunkte: 30**  
 Eine Große Magische Qualität erlangen
 
 Magische Charaktere können auch Vis als Transformations-Studienquelle konsumieren und die Erfahrungspunkte ausgeben, um neue Qualitäten und Mängel zu erlangen, ohne ihren Machtwert von der Fortschrittssumme abzuziehen. Der Charakter muss eine Anzahl von Bauern Vis beliebigen Typs gleich seinem Machtwert einsetzen. Dann wird ein Stresswürfel geworfen und der Bonus für die Aura, in der der Charakter studiert, addiert. Das Ergebnis ist die Anzahl der gewonnenen Erfahrungspunkte. Wenn eine 0 gewürfelt wird, muss für je 5 vom Charakter konsumierte Bauern Vis ein Patzerwürfel geworfen werden, und jeder Patzer gibt dem Charakter einen Kleinen Mangel, bzw. einen Großen Mangel für je drei Patzer.
@@ -2991,7 +2948,29 @@ Magische Charaktere können sich auch gegen die Gewöhnung schützen, indem sie 
 
 Das vielleicht häufigste Beispiel dafür ist die Bindung zwischen Magus und Vertrautem, bei der der Vertraute durch magische Bande an den Magus gebunden wird, die ihm helfen, der Gewöhnung zu widerstehen — dies erklärt, warum viele intelligente magische Kreaturen bereit sind, sich der Bindung zu unterwerfen, da es bedeutet, dass sie nie wieder Gewöhnung erleiden werden. Ein weiteres Beispiel ist ein magisches Wesen, das als Wächter für einen nicht-magischen Charakter agiert und seine Kräfte einsetzt, um seinen Schützling das ganze Jahr über zu beschützen und zu beraten — auf diese Weise sichert es sein eigenes Überleben.
 
->## Vis-Konsum
+Die folgende Tabelle zeigt die Anzahl der Quartale pro Jahr, in denen der Charakter sein Gegenstück mit seinen Kräften beeinflussen muss (basierend auf seinem Machtwert), oder von der Magie seines Gegenstücks beeinflusst werden muss (basierend auf der Stufe des Effekts), um die Gewöhnung zu vermeiden. Die erste Spalte zeigt, wie viele Quartale konstanter Effekte nötig sind, die zweite zeigt Quartale mit Effekten, die regelmäßig angewandt werden (ungefähr einmal täglich), und die letzte zeigt Quartale mit Effekten, die nur gelegentlich angewandt werden (ungefähr einmal wöchentlich). Zum Beispiel müsste ein magischer Charakter mit Macht 15 einen weltlichen Charakter drei Quartale lang jedes Jahr ständig beeinflussen, und ein Effekt der Stufe 30, der von einem Charakter ohne Machtwert gewirkt wird, schützt einen magischen Charakter, wenn er in zwei von vier Quartalen ständig aktiv ist.
+
+**Quartale pro Jahr**
+
+| Effektstufe oder Machtwert | Konstanter Effekt | Regelmäßiger Effekt | Gelegentlicher Effekt |
+|-----------------------------|-------------------|---------------------|-----------------------|
+| 0                           | -                 | -                   | -                     |
+| 1–10                        | 4                 | -                   | -                     |
+| 11–20                       | 3                 | -                   | -                     |
+| 21–30                       | 2                 | 4                   | -                     |
+| 31–40                       | 1                 | 2                   | 4                     |
+| 41–50                       | 1                 | 1                   | 2                     |
+| 51+                         | 1                 | 1                   | 1                     |
+
+Am Ende jedes Jahres sollte der Spielleiter feststellen, ob der magische Charakter sein Gegenstück in ausreichendem Maße beeinflusst hat oder von seinem Gegenstück beeinflusst wurde, um die Gewöhnung zu verhindern. (Magische Charaktere, die in irgendeiner Form einem Konvent zugeordnet sind, sollten diese Anforderung leicht erfüllen können.)
+
+#### Vis
+
+Magische Charaktere können Vis konsumieren, um sicherzustellen, dass sie keine Gewöhnung erleiden. Ein magischer Charakter ist in jedem Jahr sicher, in dem er (Magischer Machtwert / 2) Bauern magisches Vis beliebigen Typs konsumiert. Zum Beispiel müsste ein Charakter mit Magischer Macht 15 jedes Jahr 8 Bauern Vis finden. So überleben viele magische Kreaturen in der Wildnis, indem sie Vis aufspüren und sich davon ernähren. Mit Vorausplanung können magische Charaktere mit Zugang zu viel Vis es lange Zeit fernab der Magie aushalten.
+
+Immer wenn ein magischer Charakter die Gewöhnung durch den Konsum von Vis vermeidet, muss der Spieler einen Wurf auf der Vis-Konsum-Tabelle ablegen. Dies bestimmt, wie die Vis-Zufuhr den Charakter im Laufe der Zeit beeinflusst, da das Überleben durch Vis interessante Nebeneffekte haben kann und immer ein gewisses Maß an übernatürlichem Risiko birgt.
+
+>#### Vis-Konsum
 >
 >Immer wenn ein magischer Charakter die Gewöhnung durch den Konsum von Vis vermeidet, wird ein Stresswürfel geworfen und die folgende Tabelle konsultiert. Die Anzahl der Patzerwürfel entspricht der Anzahl der konsumierten Bauern Vis.
 >
@@ -3012,27 +2991,6 @@ Das vielleicht häufigste Beispiel dafür ist die Bindung zwischen Magus und Ver
 >
 >**Transformation:** Der Charakter wird durch den Prozess der magischen Transformation zum Besseren verändert und erhält eine Anzahl von Erfahrungspunkten gleich dem Wurfergebnis, die auf eine neue Qualität angewandt werden können (siehe Transformation, oben) oder auf passende Fertigkeiten. Der Charakter muss seinen Machtwert nicht von dieser Fortschrittssumme abziehen, es sei denn, der Charakter ist Begabt und möchte eine neue Übernatürliche Fertigkeit erlernen.
 
-Die folgende Tabelle zeigt die Anzahl der Quartale pro Jahr, in denen der Charakter sein Gegenstück mit seinen Kräften beeinflussen muss (basierend auf seinem Machtwert), oder von der Magie seines Gegenstücks beeinflusst werden muss (basierend auf der Stufe des Effekts), um die Gewöhnung zu vermeiden. Die erste Spalte zeigt, wie viele Quartale konstanter Effekte nötig sind, die zweite zeigt Quartale mit Effekten, die regelmäßig angewandt werden (ungefähr einmal täglich), und die letzte zeigt Quartale mit Effekten, die nur gelegentlich angewandt werden (ungefähr einmal wöchentlich). Zum Beispiel müsste ein magischer Charakter mit Macht 15 einen weltlichen Charakter drei Quartale lang jedes Jahr ständig beeinflussen, und ein Effekt der Stufe 30, der von einem Charakter ohne Machtwert gewirkt wird, schützt einen magischen Charakter, wenn er in zwei von vier Quartalen ständig aktiv ist.
-
-Quartale pro Jahr
-| Effektstufe oder Machtwert | Konstanter Effekt | Regelmäßiger Effekt | Gelegentlicher Effekt |
-|-----------------------------|-------------------|---------------------|-----------------------|
-| 0                           | -                 | -                   | -                     |
-| 1–10                        | 4                 | -                   | -                     |
-| 11–20                       | 3                 | -                   | -                     |
-| 21–30                       | 2                 | 4                   | -                     |
-| 31–40                       | 1                 | 2                   | 4                     |
-| 41–50                       | 1                 | 1                   | 2                     |
-| 51+                         | 1                 | 1                   | 1                     |
-
-Am Ende jedes Jahres sollte der Spielleiter feststellen, ob der magische Charakter sein Gegenstück in ausreichendem Maße beeinflusst hat oder von seinem Gegenstück beeinflusst wurde, um die Gewöhnung zu verhindern. (Magische Charaktere, die in irgendeiner Form einem Konvent zugeordnet sind, sollten diese Anforderung leicht erfüllen können.)
-
-#### Vis
-
-Magische Charaktere können Vis konsumieren, um sicherzustellen, dass sie keine Gewöhnung erleiden. Ein magischer Charakter ist in jedem Jahr sicher, in dem er (Magischer Machtwert / 2) Bauern magisches Vis beliebigen Typs konsumiert. Zum Beispiel müsste ein Charakter mit Magischer Macht 15 jedes Jahr 8 Bauern Vis finden. So überleben viele magische Kreaturen in der Wildnis, indem sie Vis aufspüren und sich davon ernähren. Mit Vorausplanung können magische Charaktere mit Zugang zu viel Vis es lange Zeit fernab der Magie aushalten.
-
-Immer wenn ein magischer Charakter die Gewöhnung durch den Konsum von Vis vermeidet, muss der Spieler einen Wurf auf der Vis-Konsum-Tabelle ablegen. Dies bestimmt, wie die Vis-Zufuhr den Charakter im Laufe der Zeit beeinflusst, da das Überleben durch Vis interessante Nebeneffekte haben kann und immer ein gewisses Maß an übernatürlichem Risiko birgt.
-
 ## Essenzielle Eigenschaften
 
 Ein Teil der Kraft der Magiesphäre ist dem Streben nach unveränderlichen Idealen gewidmet, das die Dinge auf der grundlegendsten Ebene mehr zu dem macht, was sie sind. Daher entwickeln Charaktere mit einem Magischen Machtwert nicht so leicht neue Persönlichkeitseigenschaften und erhöhen oder verringern ihre bestehenden Persönlichkeitseigenschaften nicht ohne Weiteres. Ihre Persönlichkeitseigenschaften werden **essenziell**, was bedeutet, dass sie ein unveränderlicher Teil des Wesens des Charakters sind. Allerdings bestimmen diese Essenziellen Eigenschaften auch, wie magische Charaktere sich verhalten, und so werden sie zu einer Art magischem Schutz — magische Effekte, die einen Charakter zwingen würden, gegen seine Essenziellen Eigenschaften zu handeln, schlagen stets auf geheimnisvolle Weise fehl.
@@ -3052,6 +3010,41 @@ Tugendtiere sind bei hermetischen Magi äußerst begehrt, weil sie sich bestens 
 Kein hermetischer Versuch, ein Tugendtier zu erschaffen, war bislang erfolgreich; solche Versuche resultieren in einem Verwandelten Tier, sofern die Kreatur den Experimentierprozess und die Verzerrung überlebt. Viele Magi vergleichen die Tugendtiere mit einem Begabten Menschen und machen sich so in ihrer Arroganz selbst zum Inbegriff der menschlichen Spezies.
 
 Der Kadaver eines Tugendtiers enthält typischerweise 1 Bauern Vis pro 5 Punkte (oder Bruchteil davon) des Machtwerts, den es besaß; und oft kann der Körperteil, der dieses Vis enthält, von einem Heckenzauberer zu einem Tugendobjekt gemacht werden (siehe Kapitel 8: Magische Dinge).
+
+>#### Empfohlene Vertraute nach Kunst
+>
+>Die Künste, die zur Bindung eines Vertrauten verwendet werden, müssen entweder dem Tier selbst oder seinen Kräften entsprechen (siehe **ArM5**, Seite 104). Die folgende Liste erweitert die Vorschläge in **ArM5** für Tiere, die zu bestimmten Künsten passen könnten.
+>
+>**Creo:** Biber, Adler, Eidechse, Pelikan, Wiesel, jedes Tier, das sich selbst regenerieren kann
+>
+>**Intellego:** Katze (Schildpatt), Krähe, Ziege, Rabe, Specht, Kröte, jedes Tier mit scharfen Sinnen, jedes Tier, von dem man glaubt, es sage die Zukunft voraus
+>
+>**Muto:** Katze (weiß oder Schildpatt), Fuchs, Hase, Motten und Schmetterlinge, Kröte, andere Amphibien
+>
+>**Perdo:** Natter, Igel, Salamander, Spitzmaus, Wiesel, jedes giftige Tier
+>
+>**Rego:** Dachs, Katze (schwarz), Hahn, Hund, Löwe, Eule, Wolf, jeder Rudelführer oder ähnlich dominantes Tier
+>
+>**Animal:** jedes Tier
+>
+>**Aquam:** Blässhuhn, Ente, Frosch, Eisvogel, Otter, Schwan, jedes amphibische oder semiaquatische Tier
+>
+>**Auram:** Krähe, Eisvogel, Spinne, jeder Vogel oder jede Fledermaus
+>
+>**Corpus:** Caladrius, Katze, Hund, Gans, Alraune (siehe Kapitel 8: Magische Dinge, Tugendkräuter)
+>
+>**Herbam:** Biber, Alraune (siehe Kapitel 8: Magische Dinge, Tugendkräuter), Affe, Eichhörnchen, Specht
+>
+>**Ignem:** Adler, Herkinia, Salamander, Scitalis (siehe Drachen), sehr kleine Drachen
+>
+>**Imaginem:** Chamäleon (Eidechse), Grille, Elster, Rebhuhn, Pfau, Scitalis (siehe Drachen)
+>
+>**Mentem:** Menschenaffe, Katze (schwarz oder Schildpatt), Fuchs, Eule, Wolf, jedes Tier mit einem Intelligenzwert (vor der Bindung)
+>
+>**Terram:** Dachs, Igel, Frettchen, Frosch, Fuchs, Maulwurf, Maus
+>
+>**Vim:** Wiedehopf, jedes magische Tier
+
 
 ### Tugendtiere entwerfen
 
@@ -3093,10 +3086,9 @@ Tiere haben typischerweise natürliche Waffen in Form von Zähnen, Klauen oder H
 
 Denke daran, die Größe eines Tugendtiers vom anfänglichen Machtwert abzuziehen, um den endgültigen Machtwert zu erhalten. Dies beeinflusst nicht die für Magische Qualitäten verfügbaren Punkte.
 
-
 ### Beispiel-Tugendtiere
 
-#### Black Boar of the Bog
+#### Schwarzer Eber des Sumpfes
 
 Machtwert: 20 (Animal)
 
@@ -3112,13 +3104,17 @@ Tugenden und Fehler: Magisches Tier; Magischer Streiter; Wege des Waldes; Berser
 
 Magische Qualitäten und Mängel: Gigantisch, Große Macht (x2); Tierresistenz, Ignem-Resistenz, Verbesserte Fertigkeiten (x3), Verbesserter Angriff (x2), Verbesserter Schaden (x2), Verbesserte Erschöpfung (x3), Verbesserte Absorption (x2), Kleine Tugend: Hervorragende Eigenschaft (Ausdauer), Kleine Tugend: Zäh, Terram-Resistenz; Monströses Aussehen; Anfällig für Entbehrung
 
-Persönlichkeitseigenschaften: Territorial\* +6, Rachsüchtig\*+6, Eber\* +3, Tapfer\* +3, Neugierig –1 Reputationen: Streitsüchtig 2 (lokal)
+**Persönlichkeitseigenschaften:** Territorial\* +6, Rachsüchtig\*+6, Eber\* +3, Tapfer\* +3, Neugierig –1 
+
+**Reputation:** Streitsüchtig 2 (lokal)
 
 Kampf:
 
 *Hauer:* Initiative +1, Angriff +14, Verteidigung +9, Schaden +11
 
-Absorption: +12 (+17 bei Einsatz von *Beschütze die Herde*) Erschöpfungsstufen: OK, 0/0, –2/ –2, –4/–4, Bewusstlos
+**Widerstand:** +12 (+17 bei Einsatz von *Beschütze die Herde*) 
+
+**Erschöpfungsstufen:** OK, 0/0, –2/ –2, –4/–4, Bewusstlos
 
 Wundabzüge: 0 (1–7), –2 (8–14), –4 (15–21), Kampfunfähig (22–28), Tot (29+)
 
@@ -3127,7 +3123,6 @@ Fertigkeiten: Tierumgang 4 (Eber), Tierresistenz 4 (Klauen), (Gebiets-)Kunde 5 (
 Kräfte:
 
 *Beschütze die Herde*, 5 Punkte, Init –4, Animal
-
 R: Berührung, D: Sonne, Z: Gruppe
 
 Wenn diese Kraft eingesetzt wird, erhalten der Eber und alle seine tierischen Verbündeten einen Bonus von +5 auf ihre Absorption für eine Sonnendauer.
@@ -3135,7 +3130,6 @@ Wenn diese Kraft eingesetzt wird, erhalten der Eber und alle seine tierischen Ve
 MuAn 50 (Basis 25, +1 Berührung, +2 Sonne, +2 Gruppe): Große Macht (45 Stufen, –1 Machtkosten)
 
 *Schrecken des anstürmenden Ebers*, 3 Punkte, Init –2, Animal oder Mentem
-
 R: Stimme, D: Sonne, Z: Ind
 
 Jeder oder alles, was der Eber angreift, wird von tödlicher Furcht vor dem Eber für eine Sonnendauer überwältigt. Das Ziel muss sofort vor dem Eber fliehen und zögert, ihm jemals wieder gegenüberzutreten.
@@ -3144,47 +3138,15 @@ ReMe(An) 25 (Basis 4, +2 Stimme, +2 Sonne, +1 Spezialeffekt: nachhallender Effek
 
 Natürliche Waffen: Die Hauer des Ebers sind Init +0, Ang +4, Vert +2, Sch +5.
 
-Vis: 2 Bauern Animal-Vis in jedem Hauer. Erscheinungsbild: Ein sehr großer, schwarzer Eber mit blutroten Hauern und gelben Augen.
+**Vis:** 2 Bauern Animal-Vis in jedem Hauer.
 
-Der Black Boar bewacht einen sumpfigen Teil eines größeren Waldes, der voller knorriger Bäume ist. Das dichte Blätterdach des Waldes verleiht ihm eine bedrohliche Atmosphäre, doch er ist voller Wildtiere. Dieser Abschnitt des Waldes ist ein Zufluchtsort für Pflanzenfresser, weil der Black Boar ihn eifersüchtig bewacht. Er greift alle großen Raubtiere und Menschen an, die das Gebiet betreten, ungeachtet ihrer Absichten gegenüber den Bewohnern. Der Black Boar ist ein Einzelgänger, leiht aber allen Bewohnern seines Gebiets, die angegriffen werden, bereitwillig seinen Schutz.
+**Erscheinungsbild:** Ein sehr großer, schwarzer Eber mit blutrot verfärbten Hauern und gelben Augen.
+
+Der Schwarze Eber bewacht einen sumpfigen Teil eines größeren Waldes, der voller knorriger Bäume ist. Das dichte Blätterdach des Waldes verleiht ihm eine bedrohliche Atmosphäre, doch er ist voller Wildtiere. Dieser Abschnitt des Waldes ist ein Zufluchtsort für Pflanzenfresser, weil der Schwarze Eber ihn eifersüchtig bewacht. Er greift alle großen Raubtiere und Menschen an, die das Gebiet betreten, ungeachtet ihrer Absichten gegenüber den Bewohnern. Der Schwarze Eber ist ein Einzelgänger, leiht aber allen Bewohnern seines Gebiets, die angegriffen werden, bereitwillig seinen Schutz.
 
 Die Hauer des Ebers können angereichert werden, indem man sie einen Monat lang im Blut des Ebers einweicht und dann mit den Hauern den Todesstoß gegen ein Raubtier führt, das das Gebiet des Ebers bejagt hatte. Geschieht dies, erhält jeder Charakter, der die Hauer im Kampf trägt, die Tugend Berserker.
 
->## Empfohlene Vertraute nach Kunst
->
->Die Künste, die zur Bindung eines Vertrauten verwendet werden, müssen entweder dem Tier selbst oder seinen Kräften entsprechen (siehe **ArM5**, Seite 104). Die folgende Liste erweitert die Vorschläge in **ArM5** für Tiere, die zu bestimmten Künsten passen könnten.
->
->**Creo:** Biber, Adler, Eidechse, Pelikan, Wiesel, jedes Tier, das sich selbst regenerieren kann
->
->**Intellego:** Katze (Schildpatt), Krähe, Ziege, Rabe, Specht, Kröte, jedes Tier mit scharfen Sinnen, jedes Tier, von dem man glaubt, es sage die Zukunft voraus
->
->**Muto:** Katze (weiß oder Schildpatt), Fuchs, Hase, Motten und Schmetterlinge, Kröte, andere Amphibien
->
->**Perdo:** Natter, Igel, Salamander, Spitzmaus, Wiesel, jedes giftige Tier
->
->**Rego:** Dachs, Katze (schwarz), Hahn, Hund, Löwe, Eule, Wolf, jeder Rudelführer oder ähnlich dominantes Tier
->
->**Animal:** jedes Tier
->
->**Aquam:** Blässhuhn, Ente, Frosch, Eisvogel, Otter, Schwan, jedes amphibische oder semiaquatische Tier
->
->**Auram:** Krähe, Eisvogel, Spinne, jeder Vogel oder jede Fledermaus
->
->**Corpus:** Caladrius, Katze, Hund, Gans, Alraune (siehe Kapitel 8: Magische Dinge, Tugendkräuter)
->
->**Herbam:** Biber, Alraune (siehe Kapitel 8: Magische Dinge, Tugendkräuter), Affe, Eichhörnchen, Specht
->
->**Ignem:** Adler, Herkinia, Salamander, Scitalis (siehe Drachen), sehr kleine Drachen
->
->**Imaginem:** Chamäleon (Eidechse), Grille, Elster, Rebhuhn, Pfau, Scitalis (siehe Drachen)
->
->**Mentem:** Menschenaffe, Katze (schwarz oder Schildpatt), Fuchs, Eule, Wolf, jedes Tier mit einem Intelligenzwert (vor der Bindung)
->
->**Terram:** Dachs, Igel, Frettchen, Frosch, Fuchs, Maulwurf, Maus
->
->**Vim:** Wiedehopf, jedes magische Tier
-
-#### Black Dog of the Moor
+#### Schwarzer Hund des Moors
 
 Machtwert: 25 (Animal)
 
@@ -3225,59 +3187,38 @@ Fertigkeiten: Tierumgang 5 (Hundeartige), Tierresistenz 4 (Klauen), (Gebiets-)Ku
 Kräfte:
 
 *Nase des Bluthundes*, 1 Punkt, Init –2, Corpus oder Animal
-
 R: Arkane Verbindung, D: Konz, Z: Ind
 
-Sobald der Black Dog die Witterung einer Kreatur aufnimmt, kann er sie bis ans Ende der Welt verfolgen. Wenn der Black Dog sich am selben Ort wie die Beute aufhält oder einen persönlichen Gegenstand von ihr untersucht und einen Wahrnehmungswurf gegen Schwierigkeitsgrad 6 schafft, nimmt der Black Dog die Witterung der Kreatur auf. Solange der Black Dog die Beute verfolgt, kennt er immer die Richtung des kürzesten Weges zur Beute.
+Sobald der Schwarze Hund die Witterung einer Kreatur aufnimmt, kann er sie bis ans Ende der Welt verfolgen. Wenn der Schwarze Hund sich am selben Ort wie die Beute aufhält oder einen persönlichen Gegenstand von ihr untersucht und einen Wahrnehmungswurf gegen Schwierigkeitsgrad 6 schafft, nimmt der Schwarze Hund die Witterung der Kreatur auf. Solange der Schwarze Hund die Beute verfolgt, kennt er immer die Richtung des kürzesten Weges zur Beute.
 
 InCo(An) 25 (Basis 3, +4 Arkane Verbindung, +1 Konz, +1 Spezialeffekt: Witterung dient als Arkane Verbindung): Große Macht x2 (25 Stufen, –2 Machtkosten, +65 EP in Penetration) *Hundeartige beherrschen*, 1 Punkt, Init –3, Animal
 
+*Hundeartige beherrschen*, 1 Punkt, Init –3, Animal  
 R: Stimme, D: Sonne, Z: Gruppe
 
-Jeder Hundeartige, der die Stimme des Black Dog hört, ist stark geneigt, seinen Befehlen zu gehorchen. Dies ähnelt dem Zauber *Aura der Rechtmäßigen Autorität*.
+Jeder Hundeartige, der die Stimme des Schwarzen Hundes hört, ist stark geneigt, seinen Befehlen zu gehorchen. Dies ähnelt dem Zauber *Aura der Rechtmäßigen Autorität*.
 
 ReAn 35 (Basis 5, +2 Stimme, +2 Sonne, +2 Gruppe): Große Macht (35 Stufen, –3 Machtkosten)
 
-*Anführer des Rudels*, 2 Punkte, Init –3, Animal R: Stimme, D: Sonne, Z: Gruppe
+*Anführer des Rudels*, 2 Punkte, Init –3, Animal  
+R: Stimme, D: Sonne, Z: Gruppe
 
-Wenn der Black Dog in einer Gruppe von Hundeartigen anwesend ist, kämpfen sie als ausgebildete Gruppe und alle ihre Angriffswürfe erhalten +2. ReAn 40 (Basis 10, +2 Stimme, +2 Sonne, +2 Gruppe): Große Macht (40 Stufen, –2 Machtkosten)
+Wenn der Schwarze Hund in einer Gruppe von Hundeartigen anwesend ist, kämpfen sie als ausgebildete Gruppe und alle ihre Angriffswürfe erhalten +2. ReAn 40 (Basis 10, +2 Stimme, +2 Sonne, +2 Gruppe): Große Macht (40 Stufen, –2 Machtkosten)
 
-*Schattengestalt*, 1 Punkt, Init –3, Animal R: Persönlich, D: Konz, Z: Ind
+*Schattengestalt*, 1 Punkt, Init –3, Animal  
+R: Per, D: Konz, Z: Ind
 
-Wenn der Black Dog einen Schatten betritt, der groß genug ist, seine Größe +1 zu bedecken, kann er die Gestalt eines Schattens annehmen. In Schattengestalt erhält der Black Dog +4 auf alle Schleichenwürfe und ist von physischen Angriffen unbetroffen.
+Wenn der Schwarze Hund einen Schatten betritt, der groß genug ist, seine Größe +1 zu bedecken, kann er die Gestalt eines Schattens annehmen. In Schattengestalt erhält der Schwarze Hund +4 auf alle Schleichenwürfe und ist von physischen Angriffen unbetroffen.
 
 MuAn 35 (Basis 30, +1 Konz): Große Macht (35 Stufen, –3 Machtkosten)
 
-Natürliche Waffen: Der Biss des Black Dog ist Init 0, Ang +4, Vert +1, Sch +3.
+Natürliche Waffen: Der Biss des Schwarzen Hundes ist Init 0, Ang +4, Vert +1, Sch +3.
 
 Vis: 5 Bauern Animal-Vis in seinem Fell.
 
 Erscheinungsbild: Ein gigantischer, schwarzer Jagdhund, der einem monströsen Rottweiler ähnelt.
 
-
->## Abenteuerideen zu Tugendtieren
->
->### Die Torheit eines Adligen
->
->Der Sohn eines örtlichen Adligen wird besessen von den Geschichten über einen monströsen schwarzen Eber, der nicht getötet werden kann. Der Erbe wird bei der Jagd auf den Black Boar of the Bog getötet und der Adlige schwört Rache an dem Tier. Der Berater des Adligen kommt und bittet die Charaktere um Hilfe bei der Bekämpfung des Ebers. Die Magi erkennen, dass der Berater ihnen etwas verschweigt. In Wahrheit hielt der Berater den Erben für untauglich zu herrschen und überredete ihn zur Jagd auf das Tier, in dem Wissen, dass es ihn wahrscheinlich töten würde. Nun fürchtet der Berater, dass sein Herrn dasselbe Schicksal ereilt, oder schlimmer noch, dass seine Rolle beim Tod des Erben ans Licht kommt.
->
->### Jagd auf den Black Dog
->
->Ein örtlicher Adliger schlägt seine Hunde, wenn die Jagd erfolglos ist. Nachdem ein Black Dog of the Moor dies beobachtet, greift er den Adligen an und befreit die Hunde. Während der Adlige den Black Dog jagt, stört er die Vis-Sammlung des Konvents, belästigt die örtlichen Feen und macht sich allgemein lästig. Schließlich verlangt der Adlige die Unterstützung des Konvents bei der Jagd auf das magische Tier. Ein Problem ergibt sich, als die Charaktere entdecken, dass eine mächtige Maga sich mit dem Black Dog verbündet hat, der seine Fährtenkräfte mit großem Erfolg einsetzt, um ihre Feinde im Zuge eines Zugs der Magier aufzuspüren. Die Maga ermutigt den Black Dog, den Adligen zu töten, dessen Ländereien weit von ihrem Konvent entfernt sind. Die Charaktere sind gezwungen, in dem Streit zu vermitteln.
->
->### Der gefangene Caladrius
->
->Sowohl Könige als auch Magi schätzen den Caladrius für seine Heilkräfte sehr. Ein derart mächtiger Charakter hat einen Caladrius gefangen und plant, ihn bis zu seiner nächsten Alterungskrise zu behalten. Der gütige Vogel möchte nur freigelassen werden, damit er seine Heilkraft für andere einsetzen kann. Vielleicht findet er einen Weg, die Charaktere um Hilfe zu bitten, oder er entkommt von allein und die Charaktere werden beschuldigt, ihn gestohlen zu haben.
->
->### Der Schrei des Hahns
->
->Unsichtbare Dämonen (in Geisterform) haben ein Dorf seit Jahren heimgesucht, doch ein Hahn der Tugend hat sie ferngehalten. Kürzlich hat der magische Hahn einen Kampf gegen einen weltlichen Vogel verloren und aufgehört zu krähen, sodass die Dämonen nun frei sind, die Dorfbewohner zu terrorisieren. Die Charaktere können entweder die Geister selbst konfrontieren oder einen Weg finden, das Selbstvertrauen des Vogels wiederherzustellen.
->
->### Der Hengst als Führer
->
->Die Charaktere müssen jemanden oder etwas in der Camargue aufspüren. Der Große Hengst der Camargue kennt das Gebiet besser als jede andere lebende Kreatur. Wie nähern sie sich ihm, um seine Hilfe zu erbitten? Der Hengst und seine Herde fliehen vor allen Menschen. Sobald die Charaktere in der Lage sind, mit dem Hengst zu kommunizieren — was können sie ihm im Austausch für seine Informationen anbieten?
-
-Der Black Dog of the Moor ist ein Beispiel für eine Kreaturenklasse, die als Schwarze Hunde bezeichnet wird. Die Schwarzen Hunde tragen viele verschiedene Namen, da sie in ganz Nordeuropa bekannt sind — Irland (Coinn Iotair), Wales (Cwn Annwn), England (Gytrash), Isle of Man (Mauthe Dhoog), Frankreich (Rongeur D'os) und Bretagne (Youdic Dogs). Die Schwarzen Hunde sind Einzelgänger und haben klar abgegrenzte Lebensräume. Sie durchstreifen oft ein Moor, einen Sumpf oder eine verlassene Burg.
+Der Schwarzer Hund des Moors ist ein Beispiel für eine Kreaturenklasse, die als Schwarze Hunde bezeichnet wird. Die Schwarzen Hunde tragen viele verschiedene Namen, da sie in ganz Nordeuropa bekannt sind — Irland (Coinn Iotair), Wales (Cwn Annwn), England (Gytrash), Isle of Man (Mauthe Dhoog), Frankreich (Rongeur D'os) und Bretagne (Youdic Dogs). Die Schwarzen Hunde sind Einzelgänger und haben klar abgegrenzte Lebensräume. Sie durchstreifen oft ein Moor, einen Sumpf oder eine verlassene Burg.
 
 Manche Menschen glauben, diese Hunde seien Agenten des Infernalen, aber dies beruht weitgehend auf Angst vor dem Unbekannten und der Gewohnheit der Hunde, ihr Revier nachts zu durchstreifen. Ein Schwarzer Hund behauptet seine Dominanz über sein Revier, indem er nächtlichen Reisenden dicht folgt oder sie jagt. Ein Schwarzer Hund greift nie an, es sei denn, seine Beute greift zuerst an, und dann schleppt der Schwarze Hund die Person fort, die nie wieder gesehen wird.
 
@@ -3293,7 +3234,9 @@ Machtwert: 14 (Animal)
 
 Eigenschaften: Ger –1, Wah +2, Prä +1, Kom –2, Stä –4, Aus +3, Ges +1, Sck +2
 
-Größe: –2 Jahreszeit: Frühling
+**Größe:** −2
+
+**Jahreszeit:** Frühling
 
 Tugenden und Fehler: Magisches Tier; Magischer Freund; Essenzielle Tugend (prächtige Erscheinung), Unempfindlich gegenüber der Gabe, Mindere Immunität (gegen nicht-tödliche Krankheiten); Nichtkämpfer, Mitfühlend (klein)
 
@@ -3315,21 +3258,23 @@ Fertigkeiten: Athletik 3 (Fliegen), Aufmerksamkeit 4 (Nahrung), Raufen 2 (Auswei
 
 Kräfte:
 
-*Heilender Blick*, 4 Punkte, Init –14, Corpus R: Auge, D: Mom, Z: Ind
-
+*Heilender Blick*, 4 Punkte, Init –14, Corpus  
+R: Blick, D: Mom, Z: Ind
+ 
 Durch den Blick in die Augen einer Person kann der Caladrius jede nicht-tödliche Krankheit aus einem Kranken in sich selbst ziehen. Dies entfernt jede Krankheit bis zur Stärke Kampfunfähig oder löst eine kritische oder geringere Alterungskrise auf. Der Caladrius muss sofort zur Sonne emporfliegen, sonst kehrt die Krankheit zum Patienten zurück (dies ist eine Eingeschränkte Kraft).
 
 CrCo 40 (Basis 30, +1 Auge, +1 wirkt entweder auf Krankheit oder Alterung): Ritualmacht x2 *Magie* (40 Stufen, –2 Machtkosten), Verbesserte Kräfte (–2 Machtkosten)
 
 *Die Leiden sterblichen Fleisches wahrnehmen*, 0 Punkte, Init +1, Corpus
-
 R: Persönlich, D: Mom, Z: Sicht
 
 Mit dem Blick kann der Caladrius alle Krankheiten einer Person und deren Schweregrad erkennen.
 
 InCo 25 (Basis 5, +4 Sicht): Persönliche Kraft (25 Stufen), Verbesserte Kräfte (–3 Machtkosten)
 
-Vis: 3 Corpus (1 in jedem Auge, 1 in den Flügeln) Erscheinungsbild: Der Caladrius ist ein prächtiger, ganz weißer Vogel, der einem Reiher ähnelt (aber mit kürzeren Beinen und Schnabel). Er hat einen langen, anmutig geschwungenen Hals und einen kurzen, leicht nach unten gebogenen Schnabel.
+**Vis:** 3 Corpus (1 in jedem Auge, 1 in den Flügeln)
+
+**Erscheinungsbild:** Der Caladrius ist ein prächtiger, ganz weißer Vogel, der einem Reiher ähnelt (aber mit kürzeren Beinen und Schnabel). Er hat einen langen, anmutig geschwungenen Hals und einen kurzen, leicht nach unten gebogenen Schnabel.
 
 Ein Caladrius ist ein mystischer Vogel, der von königlichen Haushalten sehr begehrt wird. Er kann feststellen, ob eine kranke Person leben oder sterben wird. Wenn der Patient sterben soll, wendet sich der Caladrius traurig von ihm ab, aber wenn er leben soll, blickt er ihm tief in die Augen und zieht die Krankheit in sich selbst. Dann fliegt er der Sonne entgegen, so hoch, dass die Sonnenstrahlen die Krankheit verbrennen (dem Caladrius selbst schaden sie nicht).
 
@@ -3343,7 +3288,9 @@ Machtwert: 9 (Animal)
 
 Eigenschaften: Ger –2, Wah +2, Prä +2, Kom 0, Stä –6, Aus 0, Ges +2, Sck +4
 
-Größe: –3 Jahreszeit: Frühling
+**Größe:** –3
+
+**Jahreszeit:** Frühling
 
 Selbstvertrauenswert: 1 (3)
 
@@ -3351,7 +3298,9 @@ Tugenden und Fehler: Magisches Tier; Magischer Streiter; Essenzielle Tugend (sto
 
 Magische Qualitäten und Mängel: Große Macht; Verbesserte Macht, Verbesserte Kräfte, Kleine Tugend: Gespür für Heiliges und Unheiliges; Anfällig für Entbehrung
 
-Persönlichkeitseigenschaften: Hahn\* +3, Stolz +3 Reputationen: Stolz (lokal) 3
+**Persönlichkeitseigenschaften:** Hahn\* +3, Stolz +3 
+
+**Reputation:** Stolz 3 (lokal)
 
 Kampf:
 
@@ -3370,7 +3319,6 @@ Fertigkeiten: Athletik 1 (Balancieren), Aufmerksamkeit 3 (unsichtbare Geister), 
 Kräfte:
 
 *Die Geister der Nacht vertreiben*, 0 Punkte, Init +4, Mentem
-
 R: Persönlich, D: Sonne, Z: Klang
 
 Wenn der Hahn der Tugend kräht, werden alle nachtaktiven Geister, die den Klang hören (und deren Magieresistenz sie nicht schützt), von Panik ergriffen und fliehen aus dem Gebiet, wobei sie bis zum nächsten Sonnenaufgang oder -untergang fernbleiben. Diese Kraft wirkt gegen Geister jeder Sphäre, solange sie nur nachts aktiv sind (einschließlich der meisten Gespenster und einiger Dämonen und dunkler Feenwesen, nach Ermessen des Spielleiters).
@@ -3391,7 +3339,11 @@ Machtwert: 15 (Animal)
 
 Eigenschaften: Int 0, Wah +1, Prä +1, Kom –3, Stä +5, Aus +3, Ges +1, Sck +4
 
-Größe: +2 Jahreszeit: Sommer Selbstvertrauenswert: 1 (3)
+Größe: +2
+
+**Jahreszeit:** Sommer 
+
+**Vertrauenswert:** 1 (3)
 
 Tugenden und Fehler: Magisches Tier; Magischer Streiter; Hervorragende Eigenschaft (Schnelligkeit), Verbesserte Eigenschaften, Ausdauernd, Willensstark; Überheblich; Enge Familienbande, Höherer Zweck (die Herde beschützen)
 
@@ -3416,20 +3368,19 @@ Fertigkeiten: Tierumgang 5 (Pferde), Tierresistenz 4 (Klauen), (Gebiets-)Kunde 7
 Kräfte:
 
 *Die Schritte auf der Erde spüren*, 2 Punkte, Konstant, Terram
-
 R: Berührung, D: Sonne, Z: Teil
 
 Der Hengst spürt, was sich auf dem Boden in einer Meile Umkreis bewegt. Er kann Richtung, Entfernung, Gewicht, Anzahl und Fortbewegungsart der sich bewegenden Dinge bestimmen. (Siehe **ArM5**, Seite 154).
 
 InTe 40 (Basis 4, +1 Berührung, +2 Sonne, +1 Teil, +3 Größe, +1 Konstant): Große Macht (40 Stufen, –2 Machtkosten)
 
-*Sprint des Zephyrs*, 1 Punkt, Init +2, Animal R: Persönlich, D: Durchmesser, Z: Ind
+*Sprint des Zephyrs*, 1 Punkt, Init +2, Animal  
+R: Per, D: Durchmesser, Z: Ind
 
 Das Pferd kann für relativ kurze Strecken mit erstaunlicher Geschwindigkeit galoppieren. Unbelastet kann es eine Wegstunde in einem Durchmesser zurücklegen. Für jede Beladungsstufe des Pferdes ist ein Durchmesser zusätzlich zur Reisezeit zu addieren. ReAn 20 (Basis 15, +1 Durchmesser): Persönliche Kraft (20 Stufen, –1 Machtkosten)
 
 
 *Der ungehinderte Wanderer*, 3 Punkte, Konstant, Animal
-
 R: Persönlich, D: Sonne, Z: Ind
 
 Dieses Ross wird von schlechtem Gelände nicht behindert und kann selbst auf dem schlechtesten Terrain mit Höchstgeschwindigkeit reisen, wobei es 30 Meilen am Tag schafft. Es kann sogar offenes Wasser und Schluchten überqueren, ohne vom Boden getragen zu werden, dies aber nur im Trab.
@@ -3437,7 +3388,6 @@ Dieses Ross wird von schlechtem Gelände nicht behindert und kann selbst auf dem
 ReAn 25 (Basis 10, Sonne +2, +1 Konstant): Persönliche Kraft (25 Stufen)
 
 *Großer Sprung*, 0 Punkte, Init +2, Animal
-
 R: Persönlich, D: Mom, Z: Ind
 
 Der Hengst ist in der Lage, augenblicklich bis zu 30 Schritt vertikal oder 50 Schritt horizontal zu springen. Der Hengst muss einen Geschicklichkeit – Belastung Stresswurf von 0+ schaffen, um ohne Verletzung zu landen.
@@ -3446,7 +3396,9 @@ ReAn 15 (Basis 15): Persönliche Kraft (15 Stufen, –2 Machtkosten)
 
 Natürliche Waffen: Die Hufe des Hengstes sind Init +2, Ang +2, Vert +2, Sch +1.
 
-Vis: 3 Bauern Animal-Vis in seinen Hufen. Erscheinungsbild: Ein wunderschöner weißer Hengst.
+**Vis:** 3 Bauern Animal-Vis in seinen Hufen.
+
+**Erscheinungsbild:** Ein wunderschöner weißer Hengst.
 
 Die Camargue ist eine große, flache und sumpfige Deltaregion der Rhône. In den Sümpfen leben die magischen, wilden Pferde der Camargue. Sie sind eine Herde, die schneller laufen und höher springen kann als jedes weltliche Pferd.
 
@@ -3478,6 +3430,8 @@ Persönlichkeitseigenschaften: Löwe\* +3, Tapfer\* +3, Wild +3, Gnädig +3
 
 Reputationen: Gefährliches Tier 4 (lokal) Kampf:
 
+**Kampf:**
+
 *Große Klauen:* Init +1, Angriff +19, Verteidigung +17, Schaden +10
 
 *Große Zähne:* Init +1, Angriff +17, Verteidigung +14, Schaden +9
@@ -3493,28 +3447,28 @@ Fertigkeiten: (Gebiets-)Kunde 4 (Waldtiere), Tierverständnis 5 (Katzenartige), 
 Kräfte:
 
 *Furchteinflößendes Brüllen*, 3 Punkte, Init +2, Animal oder Mentem
-
 R: Persönlich, D: Durchmesser, Z: Klang
 
 Ein Löwe der Tugend kann ein Brüllen ausstoßen, das alle, die es hören, in Schrecken erstarren lässt. Diese Kraft wirkt sowohl auf Menschen als auch auf Tiere.
 
 ReAn(Me) 30 (Basis 5, +1 Durchmesser, +3 Klang, +1 Mentem-Requisit): Große Macht (30 Stufen, +2 Initiative, 10 EP Penetration)
 
-*Spurloser Schritt*, 1 Punkt, Init 0, Terram R: Berührung, D: Konz, Z: Ind
+*Spurloser Schritt*, 1 Punkt, Init 0, Terram  
+R: Berührung, D: Konz, Z: Ind
 
 Indem er mit seinem Schwanz den Boden hinter sich fegt, kann ein Löwe der Tugend seine Spuren beim Gehen verwischen. Die Notwendigkeit, seinen Schwanz zu benutzen, macht dies zu einer Eingeschränkten Kraft.
 
 ReTe 10 (Basis 4, +1 Berührung, +1 Konz): Mindere Macht (10 Stufen, –1 Machtkosten, 15 EP Konzentration; Machtkosten gleich Magnitude, um die Kriterien für eine Mindere Macht zu erfüllen)
 
 *Kreis der Tierbannnung*, 1 Punkt, Init +2, Animal
-
 R: Berührung, D: Ring, Z: Kreis
 
 Ein Löwe der Tugend kann einen Kreis auf dem Boden ziehen, den kein weltliches Tier überqueren kann. Er nutzt dies manchmal, um Beute zu fangen.
 
 ReAn 5 (Basis 2, +1 Berührung, +2 Ring): Mindere Macht (5 Stufen, +2 Initiative, 10 EP Penetration; Machtkosten gleich Magnitude, um die Kriterien für eine Mindere Macht zu erfüllen)
 
-*Schlaf mit offenen Augen*, 0 Punkte, Init n/v, Animal R: Persönlich, D: Sonne, Z: Ind
+*Schlaf mit offenen Augen*, 0 Punkte, Init n/v, Animal  
+R: Per, D: Sonne, Z: Ind
 
 Ein Löwe der Tugend schläft mit offenen Augen, sodass Feinde Schwierigkeiten haben, ihn zu überraschen.
 
@@ -3558,7 +3512,6 @@ Reputationen: Hinterhältig 2 (lokal)
 
 Kampf:
 
-
 *Klauen:* Init +1, Angriff +12, Verteidigung +11, Schaden +3
 
 *Zähne:* Init +2, Angriff +12, Verteidigung +8, Schaden +2
@@ -3574,7 +3527,6 @@ Fertigkeiten: Athletik 3 (Anspringen), Aufmerksamkeit 2 (Hinterhalt legen), Rauf
 Kräfte:
 
 *Wohlriechender Atem*, 2 Punkte, Init +1, Animal oder Mentem
-
 R: Persönlich, D: Konz, Z: Geruch
 
 Der Atem des Panthers hat einen unwiderstehlichen, würzigen Duft, als stammten alle Gewürze der Welt daher. Jeder Mensch oder jedes Tier, das ihn riecht, wird betört, es sei denn, ein Ausdauerwurf gegen Schwierigkeitsgrad 9 gelingt. Betörte Opfer folgen dem Duft dorthin, wo der Panther im Hinterhalt liegt. Der Atem des Panthers reist mit dem Wind und ist unter idealen Bedingungen bis zu 100 Schritt weit wirksam. Drachen sind gegen seine Wirkung immun.
@@ -3613,7 +3565,9 @@ Die Zunge eines Panthers der Tugend kann die Fertigkeit Betörung mit einem Wert
 
 **Persönlichkeitseigenschaften:** Rabe\* +3, Versteht Vorzeichen\* (Intelligenz) +3, Morbide +3, Fürsorglich +2
 
-**Reputationen:** Unglücksbringer (lokal) 2 **Kampf:**
+**Reputation:** Unglücksbringer 2 (lokal) 
+
+**Kampf:**
 
 *Ausweichen:* Init +5, Angriff n/v, Verteidigung +12, Schaden n/v
 
@@ -3626,8 +3580,6 @@ Die Zunge eines Panthers der Tugend kann die Fertigkeit Betörung mit einem Wert
 **Wundabzüge**: –1 (1), –3 (2), –5 (3), Kampfunfähig (4), Tot (5+)
 
 **Fertigkeiten:** Athletik 3 (Fliegen), Aufmerksamkeit 3 (glänzende Gegenstände), Raufen 3 (Ausweichen), Jagen 1 (Wühlmäuse), Vorahnungen 4 (Mord), Zweites Gesicht 4 (Geister), Schleichen 1 (sich in Bäumen verstecken), Überleben 3 (Felder) **Vis:** 2 Intellego, 1 in jedem Auge
-
-*Sphären der Macht*
 
 Das Tugendtier Rabe ist ein Unglücksvogel. Es kann viele Katastrophen vorhersehen und erscheint absichtlich als rätselhaftes Warnzeichen vor Menschen. Es tut dies nicht aus Hilfsbereitschaft, sondern weil es gerne Angst und Bestürzung verursacht.
 
@@ -3671,29 +3623,29 @@ Das Vis in einem Tugendtier Rabe wird angereichert, indem man den gesamten Kadav
 
 **Kräfte:**
 
-
+*Die Hitze des Feuers verschlingen*, 0 Punkte, Init +14
 Ignem
-
 R: Berührung, D: Momentan, Z: Individuum
 
 Das Tugendtier Salamander kann jedes Feuer, das es berührt, sofort löschen, selbst den heißesten Ofen. Wenn das Feuer sehr groß ist, wird nur ein Radius von drei Schritt um den Salamander herum gelöscht. Selbst wenn es diese Kraft nicht einsetzt, ist das Tugendtier Salamander durch Hitze und Flammen völlig unversehrt.
 
 PeIg 15 (Basis 4, +1 Berührung, +1 Teil, +2 Größe): Große Macht (15 Stufen, +5 Initiative, –2 Machtkosten)
 
-*Gespür der hellen Flamme*, 0 Punkte, Init n/v, Ignem R: Persönlich, D: Sonne, Z: Gehör
+*Gespür der hellen Flamme*, 0 Punkte, Init n/v, Ignem  
+R: Per, D: Sonne, Z: Gehör
 
 Das Tugendtier Salamander kann Feuer aufspüren, als ob es über einen Gehörsinn dafür verfügte. Diese Kraft ist ständig aktiv.
 
 InIg 15 (Basis 2, +2 Sonne, +3 Gehör, +1 ständiger Effekt): Persönliche Kraft (15 Stufen, –2 Machtkosten)
 
-*Den Brunnen vergiften*, 1 Punkt, Init +9, Aquam R: Berührung, D: Mond, Z: Individuum
+*Den Brunnen vergiften*, 1 Punkt, Init +9, Aquam  
+R: Berührung, D: Mond, Z: Ind
 
 Das Tugendtier Salamander kann Wasser (oder andere Flüssigkeit) durch Berührung vergiften. Die betroffene Menge ist das Zehnfache des individuellen Basiszielvolumens. Das Material bleibt für die Dauer Mond giftig; bei Einnahme fügt es jedem, der einen Ausdauerwurf gegen einen Schwierigkeitsgrad von 12 nicht besteht, eine Kampfunfähig machende Wunde zu. Da das Gift magisch ist, kann Magieresistenz vor seinen Auswirkungen schützen. Das Tugendtier Salamander ruft diese Kraft automatisch auf, wenn es stirbt.
 
 MuAq 45 (Basis 10, +1 Berührung, +3 Mond, +1 Größe): Große Macht (45 Stufen, –3 Machtkosten)
 
 *Die Frucht des Weinstocks vergiften*, 4 Punkte, Init +9, Herbam
-
 R: Berührung, D: Mond, Z: Individuum
 
 Ebenso kann das Tugendtier Salamander durch Berührung eines Obstbaums oder einer essbaren Pflanze diese Pflanze giftig machen. Die Auswirkungen des Gifts sind identisch mit denen der Kraft „Den Brunnen vergiften" (siehe oben).
@@ -3701,7 +3653,6 @@ Ebenso kann das Tugendtier Salamander durch Berührung eines Obstbaums oder eine
 MuHe 50 (Basis 20 (neue Leitlinie), +1 Berührung, +3 Mond, +2 Größe): Große Macht (50 Stufen), Verbesserte Kräfte (1 Meisterschaftspunkt, –1 Machtkosten)
 
 *Giftige Haut*, 0 Punkte, Init n/v, Aquam
-
 R: Berührung, D: Sonne, Z: Individuum
 
 Schließlich ist die Haut des Tugendtier Salamanders ständig mit einem Kontaktgift überzogen, das jedem, der es berührt und einen Ausdauerwurf gegen einen Schwierigkeitsgrad von 12 nicht besteht, eine Kampfunfähig machende Wunde zufügt. Magieresistenz schützt normal gegen diesen Effekt. CrAq 40 (Basis 20, +1 Berührung, +2 Sonne, +1 ständiger Effekt): Große Macht (40 Stufen, –2 Machtkosten), Verbesserte Kräfte (2 Meisterschaftspunkte, –2 Machtkosten)
@@ -3716,36 +3667,6 @@ Ein Tugendtier Salamander ist von Natur aus sehr kalt und sucht jede Wärmequell
 
 Der Körper eines Tugendtier Salamanders wird, wenn man ihn über Glut von Erlenholz räuchert und trocknet, zu einem Tugendobjekt angereichert. Wenn er an Hände, Herz und Stirn gehalten wird (eine Notwendige Bedingung), verleiht er dem Besitzer Immunität gegen Feuer, solange dieser ihn berührt.
 
->## Abenteuerideen für Tugendtiere (Fortsetzung)
->
->### Unter Penteles Schutz
->
->Die Magi folgen Geschichten über einen wundersamen Garten zu einem magischen Ort, der von vielen Tugendtieren bewohnt wird. Doch alle Tiere dort stehen unter dem Schutz von Pentele. Wenn ein Kommunikationsmittel gefunden werden kann, ist Pentele möglicherweise bereit, die Charaktere sein Reich erkunden und sogar dort jagen zu lassen, vorausgesetzt, sie erweisen ihm einen Gefallen (etwa einen kleinen Drachen zu vertreiben, der in der Nähe lebt).
->
->### Der Köder des Panthers
->
->Der Konvent oder seine Nachbarn leiden unter mysteriösen Tierverschwinden. Viehdiebstahl ist in den meisten Teilen des Mythischen Europas ein schweres Vergehen; vielerorts wird er mit dem Tod bestraft. Der Verdacht könnte auf die Magi fallen, aber ein Tugendtier Panther ist in Wahrheit der Schuldige. Unvorsichtige Charaktere, die Nachforschungen anstellen, könnten selbst dem Köder des Panthers zum Opfer fallen.
->
->### Ein schlechtes Omen
->
->Ein Tugendtier Rabe kann ein neuartiger, wenn auch etwas plumper Weg sein, eine Geschichte einzuleiten, in der dem Konvent etwas Schlimmes widerfährt. Die *Aegis des Herdes* hält ihn draußen, daher muss er sein Vorzeichen an Grogs oder Konventsbewohner überbringen, deren tägliche Geschäfte sie vor die Konventsmauern führen.
->
->### Kaltblütiger Eindringling
->
->Ein Tugendtier Salamander findet seinen Weg in den Konvent — sein Machtwert ist hoch genug, dass er eine schwache *Aegis des Herdes* durchdringen kann. Auf seiner nie endenden Suche nach Wärme löscht es Kochfeuer, bringt die Schmiede des Hufschmieds zum Erlöschen und findet schließlich seinen Weg in die Labore der Magi. Die Kreatur ist so klein, dass sie leicht durch Ritzen unter Türen kriechen oder sich im Stroh auf den Böden verstecken kann. Grogs und Konventsbewohner sind wahrscheinlich vom Tugendtier Salamander wegen seines Gifts verängstigt, obwohl es mit mundänen Mitteln recht leicht zu töten ist (wenn man es finden kann). Ein ehrgeiziger Magus möchte das Tugendtier Salamander vielleicht als Vertrauten, aber die Kreatur interessiert sich wenig für Menschen und lässt sich nicht leicht anfreunden.
->
->### Eine Magische Beute
->
->Die Charaktere brauchen die Heilkraft im Geweih eines Tugendtier Hirschs, um einen kranken Freund zu heilen. Sie können den Hirsch entweder jagen oder versuchen, eines seiner vergrabenen Geweihe zu finden. In vielen Teilen des Mythischen Europas ist die Jagd auf Großwild ein Privileg des Adels. Die Charaktere könnten der Wilderei bezichtigt werden, oder sie könnten feststellen, dass der örtliche Adlige den Tugendtier Hirsch für sich selbst jagt. Da der Hirsch die Tugend Wege des Waldes und einen beeindruckenden Athletik-Wert besitzt, kann er eine schwer zu erlegende Beute sein.
->
->### Der Weiße Hüter
->
->Ohne Wissen der Magi jagen ihre Grogs im Wald des Weißen Hirsches des Waldes. Dies riskiert nicht nur Ärger mit dem örtlichen Adligen, der Wilderer hängt, sondern der Weiße Hirsch ist davon verärgert. Der Hirsch greift jeden Grog an, der den Wald betritt. Wenn Magi beginnen, die Grogs zu begleiten, erbeutet oder verschlingt der Hirsch so viele der Vis-Quellen des Konvents, wie er finden kann. Die Magi müssen das Vertrauen des Hirsches gewinnen und einen Waffenstillstand vermitteln oder ihn vernichten. Wenn die Charaktere den Weißen Hirsch töten, wird der Hirschbestand rasch dezimiert und ein Rudel infernaler Wölfe übernimmt die Kontrolle über den Wald.
->
->### Was die Eule sah
->
->Die Weise Eule des Waldes wird Zeuge, wie die Charaktere etwas tun, das sie lieber geheim halten würden. Ein Quaesitor entdeckt das geringfügige Vergehen und bringt es beim nächsten Tribunal zur Sprache. Die Charaktere fragen sich, wie der Quaesitor ihre Missetaten aufgedeckt hat, bis sie auf der Rückreise einer magischen Eule begegnen, die stundenlang reden möchte. Wenn die Charaktere sich an der Eule rächen, verlieren sie eine potenziell wertvolle Informationsquelle über mächtige magische Kreaturen, Vis-Quellen und verborgene Regiones im Wald.
-
 #### Tugendtier Hirsch
 
 *...[W]enn der Hirsch weiß, wo die Schlange ist, geht er hin und füllt sein Maul mit Wasser und spuckt es dorthin, wo die Schlange ist, und zieht sie heraus ... und zertritt sie mit seinen Hufen und tötet sie so.*
@@ -3756,7 +3677,9 @@ Der Körper eines Tugendtier Salamanders wird, wenn man ihn über Glut von Erlen
 
 **Eigenschaften:** Ger –2, Wah +2, Prä +2, Kom –3, Stä +4, Aus +3, Ges +1, Sck +2
 
-**Größe:** +2 **Jahreszeit:** Sommer **Selbstvertrauenswert:** 1 (3)
+**Größe:** +2 **Jahreszeit:** Sommer
+
+**Vertrauenswert:** 1 (3)
 
 **Tugenden und Fehler:** Magisches Tier; Magisches Ungeheuer; Wege des Waldes; Essenzielle Tugend (gesund, klein), Wildheit (wenn in die Enge getrieben), Hervorragende Schnelligkeit, Mindere Immunität (Fieber), Ausdauernd, Begabung in Athletik; Hass (auf Schlangen, groß); Höherer Zweck (seine Herde beschützen), Eingeschränkte Kraft (x2)
 
@@ -3782,14 +3705,14 @@ Der Körper eines Tugendtier Salamanders wird, wenn man ihn über Glut von Erlen
 
 **Kräfte:**
 
-*Heilung*, 3 Punkte, Init –8, Animal R: Persönlich, D: Momentan, Z: Individuum
+*Heilung*, 3 Punkte, Init –8, Animal  
+R: Per, D: Mom, Z: Ind
 
-> Der Hirsch kann eine seiner eigenen Schweren oder geringeren Wunden heilen. Dies ist eine Eingeschränkte Kraft: Der Hirsch muss das Kraut Diptam fressen, um sie zu aktivieren.
+Der Hirsch kann eine seiner eigenen Schweren oder geringeren Wunden heilen. Dies ist eine Eingeschränkte Kraft: Der Hirsch muss das Kraut Diptam fressen, um sie zu aktivieren.
 
-> CrAn 25 (Basiseffekt): Ritualmacht (25 Stufen), Verbesserte Kräfte (2 Meisterschaftspunkte, –2 Machtkosten)
+CrAn 25 (Basiseffekt): Ritualmacht (25 Stufen), Verbesserte Kräfte (2 Meisterschaftspunkte, –2 Machtkosten)
 
 *Das Gift der Schlange aufhalten*, 0 Punkte, Init n/v, Aquam
-
 R: Persönlich, D: Sonne, Z: Individuum
 
 Das Tugendtier Hirsch ist magisch gegen Gift geschützt. Jedes Gift, das in den Körper des Hirsches eingebracht wird, zeigt keine Wirkung bis zum nächsten Sonnenaufgang oder Sonnenuntergang (je nachdem, welcher zuerst kommt). Diese Kraft aktiviert sich, wann immer ein solches Gift eingebracht wird, und hat daher ein Intellego-Requisit.
@@ -3797,7 +3720,6 @@ Das Tugendtier Hirsch ist magisch gegen Gift geschützt. Jedes Gift, das in den 
 Re(In)Aq 20 (Basis 5, +2 Sonne, +1 Intellego-Requisit): Persönliche Kraft (20 Stufen, –1 Machtkosten), Verbesserte Kräfte (1 Meisterschaftspunkt, –1 Machtkosten)
 
 *Den Schlangenbiss lindern*, 1 Punkt, Init +1, Aquam
-
 R: Persönlich, D: Momentan, Z: Individuum
 
 Ein Tugendtier Hirsch kann jedes Gift, das sich bereits in seinem Körper befindet, dauerhaft neutralisieren. Dies ist eine Eingeschränkte Kraft, für die der Hirsch Wasser trinken muss, um sie zu aktivieren.
@@ -3850,35 +3772,36 @@ Das rechte Geweih eines Tugendtier Hirschs kann angereichert werden, indem man e
 
 **Kräfte:**
 
-*Verteidigung der Herde*, 2 Punkte, Init –1, Animal R: Stimme, D: Sonne, Z: Gruppe
+*Verteidigung der Herde*, 2 Punkte, Init –1, Animal  
+R: Stimme, D: Sonne, Z: Gruppe
 
 Wenn der Weiße Hirsch in einer Gruppe von Hirschen anwesend ist, kämpfen die Hirsche als ausgebildete Gruppe und alle ihre Verteidigungswürfe erhalten einen Bonus von +2.
 
 ReAn 40 (Basis 10, +2 Stimme, +2 Sonne, +2 Gruppe): Große Macht (40 Stufen, –2 Machtkosten)
 
 *Raubtier verwirren*, 0 Punkte, Init +2, Animal oder Mentem
-
 R: Stimme, D: Sonne, Z: Individuum
 
 Diese Kraft erlaubt es dem Hirsch, seine Feinde — sowohl Mensch als auch Tier — in einer ähnlichen Weise wie *Verwirrung des betäubten Willens* (**ArM5**, Seite 151) zu verwirren. Das Opfer der Kraft muss den Hirsch sehen können, um betroffen zu sein.
 
 ReMe(An) 20 (Basis 4, +2 Stimme, +2 Sonne): Große Macht (20 Stufen, –2 Machtkosten, 15 EP in Penetration +1 Init)
 
-*Großer Sprung*, 0 Punkte, Init +1, Animal R: Persönlich, D: Momentan, Z: Individuum
+*Großer Sprung*, 0 Punkte, Init +1, Animal  
+R: Per, D: Mom, Z: Ind
 
 > Der Hirsch kann augenblicklich bis zu 30 Schritt vertikal oder 50 Schritt horizontal springen. Der Hirsch muss einen Geschicklichkeit – Belastung-Stresswurf von 0+ schaffen, um ohne Verletzung zu landen.
 
 > ReAn 15 (Basis 15): Persönliche Kraft (15 Stufen, –2 Machtkosten)
 
 *Schrei der nahenden Geschosse*, 1 Punkt, Konstant, Herbam
-
 R: Persönlich, D: Sonne, Z: Gehör
 
 Wirkt wie der gleichnamige Zauber. Addiert +9 auf Verteidigungswerte gegen Holzwaffen, wenn der Hirsch Platz zum Ausweichen hat, und ermöglicht es ihm, hölzerne Geschosse, die aus mehr als 10 Schritt Entfernung abgefeuert werden, automatisch zu vermeiden. (Siehe **ArM5**, Seite 136).
 
 InHe 20 (Basis 2, +2 Sonne, +3 Gehör, +1 Konstant): Persönliche Kraft (20 Stufen, –1 Machtkosten)
 
-*Spurloser Schritt*, 0 Punkte, Konstant, Terram R: Persönlich, D: Sonne, Z: Individuum
+*Spurloser Schritt*, 0 Punkte, konstant, Terram  
+R: Per, D: Sonne, Z: Ind
 
 Der Hirsch hinterlässt keine Spuren in der Erde, außer wenn er stehen bleibt, etwa um zu fressen, zu schlafen oder zu kämpfen.
 
@@ -3906,7 +3829,9 @@ Das Geweih des Weißen Hirsches kann angereichert werden, indem man es bei Vollm
 
 **Jahreszeit:** Sommer
 
-**Selbstvertrauenswert:** 1 (3) **Tugenden und Fehler:** Magisches Tier; Magischer
+**Vertrauenswert:** 1 (3) 
+
+**Tugenden und Fehler:** Magisches Tier; Magischer
 
 Streiter; Natursinn, Verbesserte Eigenschaften (x2); Klatschbase, Indiskret; Wichtigtuer, Nachtaktiv
 
@@ -3929,7 +3854,6 @@ Streiter; Natursinn, Verbesserte Eigenschaften (x2); Klatschbase, Indiskret; Wic
 **Kräfte:**
 
 *Beute lähmen*, 0 Punkte, Init +5, Corpus oder Animal.
-
 R: Auge, D: Konzentration, Z: Individuum
 
 Jede Kreatur, die Blickkontakt mit der Eule aufnimmt, kann sich nicht bewegen und nur leise wimmern oder stöhnen. Das Ziel kann sich nur bewegen, wenn es einen Stärkewurf gegen einen Schwierigkeitsgrad von 9 besteht.
@@ -3948,34 +3872,55 @@ Die Eule kann die menschliche Sprache verstehen. Sie meidet im Allgemeinen den d
 
 Der Eulenschädel kann angereichert werden, indem man ihn in Wasser mit seltenen Ölen und Salbei kocht, bis kein Fleisch mehr übrig ist. Der Schädel muss dann ein Quartal lang am höchsten Punkt des höchsten Baumes im Wald aufbewahrt werden, in dem die Eule gelebt hat. Danach besitzt der Charakter, solange er den Schädel um den Hals trägt, die Tugend Gabe der Zungen.
 
->## Abenteuerideen für Bestiarien
+>#### Abenteuerideen zu Tugendtieren
 >
->- Ein habgieriger Magus hat äthiopische Ameisen herbeigeschafft, um Gold für ihn zu schürfen, doch nun kann er das Gold nicht von seinen Wächtern bekommen. Er bittet den Konvent um Hilfe, aber es gibt zu viele riesige **Tugendtier-Ameisen**, um sie einfach im Kampf zu besiegen.
+>**Die Torheit eines Adligen**
 >
->- Etwas fällt Bäume in einem Feenwald. Die Feen geben den benachbarten Menschen die Schuld (vielleicht dem Konvent), aber eine **Tugendtier-Antilope** ist in Wirklichkeit dafür verantwortlich.
+>Der Sohn eines örtlichen Adligen wird besessen von den Geschichten über einen monströsen schwarzen Eber, der nicht getötet werden kann. Der Erbe wird bei der Jagd auf den Schwarzen Eber des Sumpfes getötet und der Adlige schwört Rache an dem Tier. Der Berater des Adligen kommt und bittet die Charaktere um Hilfe bei der Bekämpfung des Ebers. Die Magi erkennen, dass der Berater ihnen etwas verschweigt. In Wahrheit hielt der Berater den Erben für untauglich zu herrschen und überredete ihn zur Jagd auf das Tier, in dem Wissen, dass es ihn wahrscheinlich töten würde. Nun fürchtet der Berater, dass sein Herrn dasselbe Schicksal ereilt, oder schlimmer noch, dass seine Rolle beim Tod des Erben ans Licht kommt.
 >
->- Ein Magus, der allzu gerne Zauber in der Öffentlichkeit wirkt, bekommt einen ungebetenen Bewunderer: einen **Tugendtier-Affen**, der beginnt, seine magischen Gesten nachzuahmen. Das ist eine geringfügige Belästigung, bis der Affe anfängt, den Hut, die Roben, die Bücher und den Talisman des Magus zu stehlen, um magischer auszusehen.
+>Jagd auf den Schwarzen Hund
 >
->- Magi wollen den Balsam vom Baum der **Tugendtier-Natter** (oder den Edelstein von ihrer Stirn) und erfahren von ihrer Verwundbarkeit durch Musik. Wie können sie ihre Verteidigung überwinden?
+>Ein örtlicher Adliger schlägt seine Hunde, wenn die Jagd erfolglos ist. Nachdem ein Schwarzer Hund des Moors dies beobachtet, greift er den Adligen an und befreit die Hunde. Während der Adlige den Schwarzen Hund jagt, stört er die Vis-Sammlung des Konvents, belästigt die örtlichen Feen und macht sich allgemein lästig. Schließlich verlangt der Adlige die Unterstützung des Konvents bei der Jagd auf das magische Tier. Ein Problem ergibt sich, als die Charaktere entdecken, dass eine mächtige Maga sich mit dem Schwarzen Hund verbündet hat, der seine Fährtenkräfte mit großem Erfolg einsetzt, um ihre Feinde im Zuge eines Zugs der Magier aufzuspüren. Die Maga ermutigt den Schwarzen Hund, den Adligen zu töten, dessen Ländereien weit von ihrem Konvent entfernt sind. Die Charaktere sind gezwungen, in dem Streit zu vermitteln.
 >
->- Ein **Tugendtier-Biber** hat flussabwärts vom Konvent einen riesigen Damm errichtet, sodass der Konvent überflutet wird, als das Land, auf dem er steht, rasch unter einem künstlichen See versinkt.
+>Der gefangene Caladrius
 >
->- Der König der **Tugendtier-Bienen** weigert sich, dem Tugendtier Löwe Tribut zu zahlen. Beide Herrscher bitten die Magi, in dem Konflikt Partei zu ergreifen. Siehe auch „Der Honig der Könige" in *Konvente*, Seite 75.
+>Sowohl Könige als auch Magi schätzen den Caladrius für seine Heilkräfte sehr. Ein derart mächtiger Charakter hat einen Caladrius gefangen und plant, ihn bis zu seiner nächsten Alterungskrise zu behalten. Der gütige Vogel möchte nur freigelassen werden, damit er seine Heilkraft für andere einsetzen kann. Vielleicht findet er einen Weg, die Charaktere um Hilfe zu bitten, oder er entkommt von allein und die Charaktere werden beschuldigt, ihn gestohlen zu haben.
 >
->- Die Krähen in einem magischen Gebiet machen es den Magi schwer, andere Tugendtiere zu jagen, weil die Krähen die Tiere ständig vor den Fallen und Hinterhalten der Charaktere warnen. Was sie nicht wissen: Es handelt sich in Wirklichkeit um eine **Tugendtier-Krähe**.
+>**Der Schrei des Hahns**
 >
->- Ein Bauer entdeckt zufällig, dass sein Hund Wunden mit seiner Zunge heilen kann, und beginnt, ihn seinen Nachbarn zur Hilfe zu bringen. Sobald sich die Nachricht vom „wundertätigen" Hund verbreitet, stehlen Diebe den **Tugendtier-Hund** und versuchen, ihn gewinnbringend einzusetzen. Wenn die Magi davon erfahren, versuchen sie, den Hund seinem Besitzer zurückzugeben, oder nehmen sie ihn für sich? Man bedenke die Treue des Hundes zu seinem ursprünglichen Herrn.
+>Unsichtbare Dämonen (in Geisterform) haben ein Dorf seit Jahren heimgesucht, doch ein Hahn der Tugend hat sie ferngehalten. Kürzlich hat der magische Hahn einen Kampf gegen einen weltlichen Vogel verloren und aufgehört zu krähen, sodass die Dämonen nun frei sind, die Dorfbewohner zu terrorisieren. Die Charaktere können entweder die Geister selbst konfrontieren oder einen Weg finden, das Selbstvertrauen des Vogels wiederherzustellen.
 >
->- Ein Schiff mit einem wichtigen Passagier ist gesunken. Einige Überlebende sahen einen Delphin, der den Passagier auf seinem Rücken davontrug. Wohin hat der **Tugendtier-Delphin** ihn gebracht?
+>**Der Hengst als Führer**
 >
->- Magi suchen den Brunnen, an dem sich **Tugendtier-Adler** verjüngen, von dem sie magische Eigenschaften vermuten. Den Adlern zu folgen ist natürlich leichter gesagt als getan. Liegt die Magie im Brunnen oder im Adler?
+>Die Charaktere müssen jemanden oder etwas in der Camargue aufspüren. Der Große Hengst der Camargue kennt das Gebiet besser als jede andere lebende Kreatur. Wie nähern sie sich ihm, um seine Hilfe zu erbitten? Der Hengst und seine Herde fliehen vor allen Menschen. Sobald die Charaktere in der Lage sind, mit dem Hengst zu kommunizieren — was können sie ihm im Austausch für seine Informationen anbieten?
 >
->- Ein Heckenzauberer hat einen Weg gefunden, mit dem **Tugendtier-Echeneis** zu kommunizieren, und arbeitet nun eng mit einer Piratenbande zusammen. Der Fisch hält vorbeifahrende Schiffe an, damit die Piraten sie überfallen können.
+>Unter Penteles Schutz
 >
->- Ein weiser alter Elefant war Zeuge lang zurückliegender Ereignisse, die für die Magi von großem Interesse sind. Die Charaktere müssen zunächst den richtigen Elefanten finden. Dann besteht der **Tugendtier-Elefant** darauf, dass sie ihm eine Alraunenwurzel geben, bevor er kooperiert.
+>Die Magi folgen Geschichten über einen wundersamen Garten zu einem magischen Ort, der von vielen Tugendtieren bewohnt wird. Doch alle Tiere dort stehen unter dem Schutz von Pentele. Wenn ein Kommunikationsmittel gefunden werden kann, ist Pentele möglicherweise bereit, die Charaktere sein Reich erkunden und sogar dort jagen zu lassen, vorausgesetzt, sie erweisen ihm einen Gefallen (etwa einen kleinen Drachen zu vertreiben, der in der Nähe lebt).
 >
->- Ein **Tugendtier-Fuchs** möchte in den Konvent gelangen, doch die *Aegis des Herdes* hält ihn draußen. Also stellt sich der Fuchs tot und hofft, hineingetragen zu werden, wo er dann zum Leben erwacht, um Unfug zu treiben.
-Die Eule kann lautlos fliegen und besitzt außergewöhnliche Sinne. Sie kann bei Nacht ebenso gut sehen wie bei Tag. Die Eule kennt die Wälder sehr gut und überwacht die Aktivitäten in ihnen aufmerksam. Die Eule befragt die Tiere im ganzen Wald und teilt die gesammelten Informationen mit, obwohl die meisten nicht-magischen Tiere wenig Interesse an ihren Neuigkeiten haben.
+>**Der Köder des Panthers**
+>
+>Der Konvent oder seine Nachbarn leiden unter mysteriösen Tierverschwinden. Viehdiebstahl ist in den meisten Teilen des Mythischen Europas ein schweres Vergehen; vielerorts wird er mit dem Tod bestraft. Der Verdacht könnte auf die Magi fallen, aber ein Tugendtier Panther ist in Wahrheit der Schuldige. Unvorsichtige Charaktere, die Nachforschungen anstellen, könnten selbst dem Köder des Panthers zum Opfer fallen.
+>
+>**Ein böses Omen**
+>
+>Ein Tugendtier Rabe kann ein neuartiger, wenn auch etwas plumper Weg sein, eine Geschichte einzuleiten, in der dem Konvent etwas Schlimmes widerfährt. Die *Aegis des Herdes* hält ihn draußen, daher muss er sein Vorzeichen an Grogs oder Konventsbewohner überbringen, deren tägliche Geschäfte sie vor die Konventsmauern führen.
+>
+>Kaltblütiger Eindringling
+>
+>Ein Tugendtier Salamander findet seinen Weg in den Konvent — sein Machtwert ist hoch genug, dass er eine schwache *Aegis des Herdes* durchdringen kann. Auf seiner nie endenden Suche nach Wärme löscht es Kochfeuer, bringt die Schmiede des Hufschmieds zum Erlöschen und findet schließlich seinen Weg in die Labore der Magi. Die Kreatur ist so klein, dass sie leicht durch Ritzen unter Türen kriechen oder sich im Stroh auf den Böden verstecken kann. Grogs und Konventsbewohner sind wahrscheinlich vom Tugendtier Salamander wegen seines Gifts verängstigt, obwohl es mit mundänen Mitteln recht leicht zu töten ist (wenn man es finden kann). Ein ehrgeiziger Magus möchte das Tugendtier Salamander vielleicht als Vertrauten, aber die Kreatur interessiert sich wenig für Menschen und lässt sich nicht leicht anfreunden.
+>
+>**Eine magische Beute**
+>
+>Die Charaktere brauchen die Heilkraft im Geweih eines Tugendtier Hirschs, um einen kranken Freund zu heilen. Sie können den Hirsch entweder jagen oder versuchen, eines seiner vergrabenen Geweihe zu finden. In vielen Teilen des Mythischen Europas ist die Jagd auf Großwild ein Privileg des Adels. Die Charaktere könnten der Wilderei bezichtigt werden, oder sie könnten feststellen, dass der örtliche Adlige den Tugendtier Hirsch für sich selbst jagt. Da der Hirsch die Tugend Wege des Waldes und einen beeindruckenden Athletik-Wert besitzt, kann er eine schwer zu erlegende Beute sein.
+>
+>**Der Weiße Wächter**
+>
+>Ohne Wissen der Magi jagen ihre Grogs im Wald des Weißen Hirsches des Waldes. Dies riskiert nicht nur Ärger mit dem örtlichen Adligen, der Wilderer hängt, sondern der Weiße Hirsch ist davon verärgert. Der Hirsch greift jeden Grog an, der den Wald betritt. Wenn Magi beginnen, die Grogs zu begleiten, erbeutet oder verschlingt der Hirsch so viele der Vis-Quellen des Konvents, wie er finden kann. Die Magi müssen das Vertrauen des Hirsches gewinnen und einen Waffenstillstand vermitteln oder ihn vernichten. Wenn die Charaktere den Weißen Hirsch töten, wird der Hirschbestand rasch dezimiert und ein Rudel infernaler Wölfe übernimmt die Kontrolle über den Wald.
+>
+>**Was die Eule sah**
+>
+>Die Weise Eule des Waldes wird Zeuge, wie die Charaktere etwas tun, das sie lieber geheim halten würden. Ein Quaesitor entdeckt das geringfügige Vergehen und bringt es beim nächsten Tribunal zur Sprache. Die Charaktere fragen sich, wie der Quaesitor ihre Missetaten aufgedeckt hat, bis sie auf der Rückreise einer magischen Eule begegnen, die stundenlang reden möchte. Wenn die Charaktere sich an der Eule rächen, verlieren sie eine potenziell wertvolle Informationsquelle über mächtige magische Kreaturen, Vis-Quellen und verborgene Regiones im Wald.
 
 ### Kreaturen aus den Bestiarien
 
@@ -4011,7 +3956,58 @@ Die wilde **Tugendtier-Ziege** ist der beste Kletterer unter allen Tieren, und i
 
 Die **Tugendtier-Gans** ist ein guter Wächter und kann den Geruch von Menschen besser wahrnehmen als jedes andere Tier. In der Antike warnten Gänse die Stadt Rom vor einem Angriff der Gallier. Das Fett einer Gans hat medizinische Eigenschaften.
 
->## Abenteuerideen für Bestiarien (Fortsetzung)
+Der **Tugendtier-Hase** ist leichtfüßig, schnell und furchtsam. Er kann sein Geschlecht wechseln, sodass er manchmal männlich und manchmal weiblich ist. Plinius der Ältere schreibt, dass die Hasen der Alpen im Winter von Schnee leben, was sie weiß werden lässt.
+
+Die **Tugendtier-Herkynie** ist ein Vogel, der im Wald Süddeutschlands lebt. Ihre Federn leuchten so hell, dass sie nachts den Weg eines Reisenden erhellen können.
+
+Der **Tugendtier-Wiedehopf** ist ein unreinlicher Vogel, der sein Nest aus Schmutz baut und in der Nähe von Friedhöfen zu Hause ist. Sein Blut und sein Herz sind mächtige Zutaten für schwarze Magie (siehe Tugendobjekte in Kapitel Acht: Magische Dinge).
+
+Der **Tugendtier-Eisvogel** wird auf Lateinisch Halcyon genannt. Er legt seine Eier am Meeresufer mitten im Winter ab, auf dem Höhepunkt der Sturmsaison. Das Meer wird dann für eine Zeit von zwei Wochen ruhig; Seeleute sind stets dankbar für diese „halkyonischen Tage".
+
+Der **Tugendtier-Luchs** hat ein scharfes Sehvermögen. Seine ungewöhnlichste Eigenschaft ist, dass sein Urin zu einem halbedelsteinfarbenen, flammenähnlichen Stein erhärtet (Lyncuriam genannt). Der Luchs verbirgt diese Steine stets, indem er sie vergräbt.
+
+Die **Tugendtier-Maus** kann, wie der Frosch, spontan aus dem Erdreich geboren werden. Plinius der Ältere schreibt, dass manche Mäuse instinktiv an Eisen nagen und dass Mäuse die fruchtbarsten aller Tiere sind.
+
+Die **Tugendtier-Eule** kann andere Vögel mit ihrem Blick in den Bann schlagen; wenn sie gefangen wird, kann die Eule ihre Fänger dazu bezaubern, sie freizulassen. Eine Eule tagsüber zu sehen, gilt weithin als schlechtes Omen.
+
+Der **Tugendtier-Pelikan** kann seine toten Nachkommen wiederbeleben. Wenn die jungen Pelikane erwachsen sind, schlagen sie auf ihren Elternteil ein. Der erwachsene Pelikan wird zornig und schlägt mit übermäßiger Kraft zurück, wobei er sie tötet. Dann durchsticht der Elternteil seine eigene Seite und vergießt sein Blut über die toten Nestlinge, womit er sie wieder zum Leben erweckt.
+
+Das **Tugendtier-Wiesel** ist laut der Bibel ein unreines Tier (Levitikus 11,29). Sein übler Gestank verpestet die Umgebung seines Baus. Allerdings versteht das Wiesel etwas von Medizin und kann sogar seine Jungen wiederbeleben, falls sie getötet werden. Das Wiesel ist ein Feind der Schlangen und das einzige Tier, das einen Basilisken töten kann (wobei das Wiesel dabei ebenfalls stirbt).
+
+Der **Tugendtier-Wal** ist noch größer als ein normaler Wal. Aus seinem Maul strömt ein süßer Duft, der kleine Fische in ihr Verderben lockt (größere Fische erkennen die Gefahr und halten sich fern). Er sonnt sich monate- oder jahrelang, bis sein Rücken mit Sand und sogar kleinen Pflanzen bedeckt ist. Wenn Seeleute den Wal für eine Insel halten und von Bord gehen, erwacht der Wal und taucht ins Meer ab.
+
+Der **Tugendtier-Wolf** ist für seine Gefräßigkeit wohlbekannt. Er kann von allem leben: Pflanzen, Erde, sogar dem Wind; doch er hungert vor allem nach Fleisch. Richtet ein Wolf seinen Blick auf seine Beute, wird die Kreatur gelähmt und verstummt. Die weißen Wölfe des Hauses Tremere (siehe *Häuser des Hermes: Wahre Linien*, Seite 129) ähneln den Tugendtier-Wölfen stark, mit dem Unterschied, dass ein Tugendtier-Wolf Gerissenheit statt Intelligenz besitzt.
+
+Wenn sich der **Tugendtier-Specht** auf einen Baum setzt, fallen alle Nägel oder Keile, die in den Baum getrieben wurden, sofort heraus. Spechte wurden im antiken Rom zur Deutung von Vorzeichen verwendet.
+
+>#### Abenteuerideen für Bestiarien
+>
+>- Ein habgieriger Magus hat äthiopische Ameisen herbeigeschafft, um Gold für ihn zu schürfen, doch nun kann er das Gold nicht von seinen Wächtern bekommen. Er bittet den Konvent um Hilfe, aber es gibt zu viele riesige **Tugendtier-Ameisen**, um sie einfach im Kampf zu besiegen.
+>
+>- Etwas fällt Bäume in einem Feenwald. Die Feen geben den benachbarten Menschen die Schuld (vielleicht dem Konvent), aber eine **Tugendtier-Antilope** ist in Wirklichkeit dafür verantwortlich.
+>
+>- Ein Magus, der allzu gerne Zauber in der Öffentlichkeit wirkt, bekommt einen ungebetenen Bewunderer: einen **Tugendtier-Affen**, der beginnt, seine magischen Gesten nachzuahmen. Das ist eine geringfügige Belästigung, bis der Affe anfängt, den Hut, die Roben, die Bücher und den Talisman des Magus zu stehlen, um magischer auszusehen.
+>
+>- Magi wollen den Balsam vom Baum der **Tugendtier-Natter** (oder den Edelstein von ihrer Stirn) und erfahren von ihrer Verwundbarkeit durch Musik. Wie können sie ihre Verteidigung überwinden?
+>
+>- Ein **Tugendtier-Biber** hat flussabwärts vom Konvent einen riesigen Damm errichtet, sodass der Konvent überflutet wird, als das Land, auf dem er steht, rasch unter einem künstlichen See versinkt.
+>
+>- Der König der **Tugendtier-Bienen** weigert sich, dem Tugendtier Löwe Tribut zu zahlen. Beide Herrscher bitten die Magi, in dem Konflikt Partei zu ergreifen. Siehe auch „Der Honig der Könige" in *Konvente*, Seite 75.
+>
+>- Die Krähen in einem magischen Gebiet machen es den Magi schwer, andere Tugendtiere zu jagen, weil die Krähen die Tiere ständig vor den Fallen und Hinterhalten der Charaktere warnen. Was sie nicht wissen: Es handelt sich in Wirklichkeit um eine **Tugendtier-Krähe**.
+>
+>- Ein Bauer entdeckt zufällig, dass sein Hund Wunden mit seiner Zunge heilen kann, und beginnt, ihn seinen Nachbarn zur Hilfe zu bringen. Sobald sich die Nachricht vom „wundertätigen" Hund verbreitet, stehlen Diebe den **Tugendtier-Hund** und versuchen, ihn gewinnbringend einzusetzen. Wenn die Magi davon erfahren, versuchen sie, den Hund seinem Besitzer zurückzugeben, oder nehmen sie ihn für sich? Man bedenke die Treue des Hundes zu seinem ursprünglichen Herrn.
+>
+>- Ein Schiff mit einem wichtigen Passagier ist gesunken. Einige Überlebende sahen einen Delphin, der den Passagier auf seinem Rücken davontrug. Wohin hat der **Tugendtier-Delphin** ihn gebracht?
+>
+>- Magi suchen den Brunnen, an dem sich **Tugendtier-Adler** verjüngen, von dem sie magische Eigenschaften vermuten. Den Adlern zu folgen ist natürlich leichter gesagt als getan. Liegt die Magie im Brunnen oder im Adler?
+>
+>- Ein Heckenzauberer hat einen Weg gefunden, mit dem **Tugendtier-Echeneis** zu kommunizieren, und arbeitet nun eng mit einer Piratenbande zusammen. Der Fisch hält vorbeifahrende Schiffe an, damit die Piraten sie überfallen können.
+>
+>- Ein weiser alter Elefant war Zeuge lang zurückliegender Ereignisse, die für die Magi von großem Interesse sind. Die Charaktere müssen zunächst den richtigen Elefanten finden. Dann besteht der **Tugendtier-Elefant** darauf, dass sie ihm eine Alraunenwurzel geben, bevor er kooperiert.
+>
+>- Ein **Tugendtier-Fuchs** möchte in den Konvent gelangen, doch die *Aegis des Herdes* hält ihn draußen. Also stellt sich der Fuchs tot und hofft, hineingetragen zu werden, wo er dann zum Leben erwacht, um Unfug zu treiben.
+Die Eule kann lautlos fliegen und besitzt außergewöhnliche Sinne. Sie kann bei Nacht ebenso gut sehen wie bei Tag. Die Eule kennt die Wälder sehr gut und überwacht die Aktivitäten in ihnen aufmerksam. Die Eule befragt die Tiere im ganzen Wald und teilt die gesammelten Informationen mit, obwohl die meisten nicht-magischen Tiere wenig Interesse an ihren Neuigkeiten haben.
 >
 >- Die Magi befreunden eine scharfäugige **Tugendtier-Ziege** und überzeugen sie, in ihrem Gebiet nach Fremden Ausschau zu halten. Ein rivalisierender Konvent, der gerne Grenzen überschreitet, erhebt den Vorwurf der magischen Ausspähung.
 >
@@ -4041,30 +4037,6 @@ Die **Tugendtier-Gans** ist ein guter Wächter und kann den Geruch von Menschen 
 >
 >- Einer der Magi nimmt einen **Tugendtier-Specht** als Vertrauten. Doch der Vogel neigt dazu, seinem Käfig zu entkommen, und wenn er es tut, hinterlässt er eine Spur der Verwüstung, da jedes hölzerne Möbelstück, auf dem er sich niederlässt, umgehend auseinanderfällt. Als beim letzten Ausbruch eine Innenwand des Hauptgebäudes des Konvents einstürzt, haben die anderen Magi genug.
 
-Der **Tugendtier-Hase** ist leichtfüßig, schnell und furchtsam. Er kann sein Geschlecht wechseln, sodass er manchmal männlich und manchmal weiblich ist. Plinius der Ältere schreibt, dass die Hasen der Alpen im Winter von Schnee leben, was sie weiß werden lässt.
-
-Die **Tugendtier-Herkynie** ist ein Vogel, der im Wald Süddeutschlands lebt. Ihre Federn leuchten so hell, dass sie nachts den Weg eines Reisenden erhellen können.
-
-Der **Tugendtier-Wiedehopf** ist ein unreinlicher Vogel, der sein Nest aus Schmutz baut und in der Nähe von Friedhöfen zu Hause ist. Sein Blut und sein Herz sind mächtige Zutaten für schwarze Magie (siehe Tugendobjekte in Kapitel Acht: Magische Dinge).
-
-Der **Tugendtier-Eisvogel** wird auf Lateinisch Halcyon genannt. Er legt seine Eier am Meeresufer mitten im Winter ab, auf dem Höhepunkt der Sturmsaison. Das Meer wird dann für eine Zeit von zwei Wochen ruhig; Seeleute sind stets dankbar für diese „halkyonischen Tage".
-
-Der **Tugendtier-Luchs** hat ein scharfes Sehvermögen. Seine ungewöhnlichste Eigenschaft ist, dass sein Urin zu einem halbedelsteinfarbenen, flammenähnlichen Stein erhärtet (Lyncuriam genannt). Der Luchs verbirgt diese Steine stets, indem er sie vergräbt.
-
-Die **Tugendtier-Maus** kann, wie der Frosch, spontan aus dem Erdreich geboren werden. Plinius der Ältere schreibt, dass manche Mäuse instinktiv an Eisen nagen und dass Mäuse die fruchtbarsten aller Tiere sind.
-
-Die **Tugendtier-Eule** kann andere Vögel mit ihrem Blick in den Bann schlagen; wenn sie gefangen wird, kann die Eule ihre Fänger dazu bezaubern, sie freizulassen. Eine Eule tagsüber zu sehen, gilt weithin als schlechtes Omen.
-
-Der **Tugendtier-Pelikan** kann seine toten Nachkommen wiederbeleben. Wenn die jungen Pelikane erwachsen sind, schlagen sie auf ihren Elternteil ein. Der erwachsene Pelikan wird zornig und schlägt mit übermäßiger Kraft zurück, wobei er sie tötet. Dann durchsticht der Elternteil seine eigene Seite und vergießt sein Blut über die toten Nestlinge, womit er sie wieder zum Leben erweckt.
-
-Das **Tugendtier-Wiesel** ist laut der Bibel ein unreines Tier (Levitikus 11,29). Sein übler Gestank verpestet die Umgebung seines Baus. Allerdings versteht das Wiesel etwas von Medizin und kann sogar seine Jungen wiederbeleben, falls sie getötet werden. Das Wiesel ist ein Feind der Schlangen und das einzige Tier, das einen Basilisken töten kann (wobei das Wiesel dabei ebenfalls stirbt).
-
-Der **Tugendtier-Wal** ist noch größer als ein normaler Wal. Aus seinem Maul strömt ein süßer Duft, der kleine Fische in ihr Verderben lockt (größere Fische erkennen die Gefahr und halten sich fern). Er sonnt sich monate- oder jahrelang, bis sein Rücken mit Sand und sogar kleinen Pflanzen bedeckt ist. Wenn Seeleute den Wal für eine Insel halten und von Bord gehen, erwacht der Wal und taucht ins Meer ab.
-
-Der **Tugendtier-Wolf** ist für seine Gefräßigkeit wohlbekannt. Er kann von allem leben: Pflanzen, Erde, sogar dem Wind; doch er hungert vor allem nach Fleisch. Richtet ein Wolf seinen Blick auf seine Beute, wird die Kreatur gelähmt und verstummt. Die weißen Wölfe des Hauses Tremere (siehe *Häuser des Hermes: Wahre Linien*, Seite 129) ähneln den Tugendtier-Wölfen stark, mit dem Unterschied, dass ein Tugendtier-Wolf Gerissenheit statt Intelligenz besitzt.
-
-Wenn sich der **Tugendtier-Specht** auf einen Baum setzt, fallen alle Nägel oder Keile, die in den Baum getrieben wurden, sofort heraus. Spechte wurden im antiken Rom zur Deutung von Vorzeichen verwendet.
-
 ## Vögel von Nephelokokkygien
 
 **Geerbte Tugenden:** Heimkehrinstinkt, Scharfe Sicht, Blitzreflexe.
@@ -4081,7 +4053,11 @@ Um die Regio von Nephelokokkygien zu betreten, muss ein Charakter normalerweise 
 
 Vögel von Nephelokokkygien jeder Jahreszeit können außerhalb der Regio angetroffen werden — die meisten Frühlings- und Sommer-Charaktere verlassen die Regio täglich, um die Morgendämmerung zu begrüßen, aber ältere Vögel bleiben lange Zeit innerhalb der Regio. Mitten im Winter wird eine Vogelversammlung abgehalten, an der alle Vögel von Nephelokokkygien teilnehmen müssen; wenn ein Charakter nicht teilnimmt, wird er von den anderen Vögeln von Nephelokokkygien geächtet. Gewöhnlich wird auf der Versammlung wenig Wichtiges besprochen, aber in den Wochen vor der Versammlung werden neue Lieder aufgeführt und kritisiert. Das Einstudieren neuer Lieder und das Studium der Lieder anderer nimmt einen Vogel-von-Nephelokokkygien-Charakter ein ganzes Quartal in Anspruch (dies ist eines der Quartale, die einem Gefährten-Charakter normalerweise nicht zur Verfügung stehen). Winter-Charaktere der Vögel von Nephelokokkygien besitzen häufig die Große Übernatürliche Tugend: Machtkomponist.
 
->## Charakterleitfaden Vogel von Nephelokokkygien
+>#### Abenteueridee: Göttliche Torwächter
+>
+>Laut dem griechischen Dramatiker Aristophanes (*Die Vögel*: Tractatus Qualität 5 in Magiekunde) wurde die Stadt Nephelokokkygien errichtet, um die Kommunikation zwischen Erde und Himmel abzufangen; die Vögel verschworen sich demnach, sich als Torwächter der göttlichen Intervention einzusetzen. Es ist unklar, ob dies jemals zutraf, und sicherlich wird das Göttliche heute nicht durch Nephelokokkygien vermittelt. Dennoch behauptete Philomela (eine Schwalbe, die die Schwägerin von Tereus, dem König der Vögel, ist) in einem Gespräch, das vor über hundert Jahren in Durenmar aufgezeichnet wurde, dass die Turmspitze von Tereus in der Stadt tatsächlich Aufzeichnungen von Gebeten enthält, die über die Jahrhunderte gesprochen wurden und die er aus eigenen Gründen aufbewahrt hat. Philomela erklärte nicht, wie die Vögel Zugang zu den Gebeten erhielten oder wie die Aufzeichnungen erstellt wurden, aber Antworten auf diese Fragen könnten Magi interessieren. Der Überlieferung nach wurde Philomela von Tereus vergewaltigt und ihr die Zunge herausgerissen, sodass die Befragte möglicherweise nicht wirklich Philomela war; alternativ könnte sie geheilt worden sein und diese Geschichte erzählt haben, um Tereus aus Rache Ärger zu bereiten.
+
+>### Charakterleitfaden Vogel von Nephelokokkygien
 >
 >**Magische Macht:** 11+ (Auram) *(Hinweis: +4 für Größe).*
 >
@@ -4111,57 +4087,51 @@ Vögel von Nephelokokkygien jeder Jahreszeit können außerhalb der Regio angetr
 >
 >**Kräfte:**
 >
->*Luft zum Fliegen,* 1 Punkt, Init: 0, Auram R: Sicht, D: Konzentration, Z: Gruppe Siehe unten.
+>*Luft zum Fliegen,* 1 Punkt, Init: 0, Auram  
+>R: Sicht, D: Konz, Z: Gruppe  
+>Siehe unten.
 >
->*Den Schwarm rufen,* 1 Punkt, Init: 0, Animal R: Spezial, D: Durchmesser, Z: Gruppe Siehe unten.
+>*Den Schwarm rufen,* 1 Punkt, Init: 0, Animal  
+>R: Spezial, D: Durchm, Z: Gruppe  
+>Siehe unten.
 >
 >**Vis:** Auram-Vis in den Federn.
 
->## Abenteueridee: Göttliche Torwächter
->
->Laut dem griechischen Dramatiker Aristophanes (*Die Vögel*: Tractatus Qualität 5 in Magiekunde) wurde die Stadt Nephelokokkygien errichtet, um die Kommunikation zwischen Erde und Himmel abzufangen; die Vögel verschworen sich demnach, sich als Torwächter der göttlichen Intervention einzusetzen. Es ist unklar, ob dies jemals zutraf, und sicherlich wird das Göttliche heute nicht durch Nephelokokkygien vermittelt. Dennoch behauptete Philomela (eine Schwalbe, die die Schwägerin von Tereus, dem König der Vögel, ist) in einem Gespräch, das vor über hundert Jahren in Durenmar aufgezeichnet wurde, dass die Turmspitze von Tereus in der Stadt tatsächlich Aufzeichnungen von Gebeten enthält, die über die Jahrhunderte gesprochen wurden und die er aus eigenen Gründen aufbewahrt hat. Philomela erklärte nicht, wie die Vögel Zugang zu den Gebeten erhielten oder wie die Aufzeichnungen erstellt wurden, aber Antworten auf diese Fragen könnten Magi interessieren. Der Überlieferung nach wurde Philomela von Tereus vergewaltigt und ihr die Zunge herausgerissen, sodass die Befragte möglicherweise nicht wirklich Philomela war; alternativ könnte sie geheilt worden sein und diese Geschichte erzählt haben, um Tereus aus Rache Ärger zu bereiten.
-
 #### Kräfte der Vögel von Nephelokokkygien
 
-**Den Schwarm befehligen**
-
-1 Punkt, Init: Sck–4, Animal R: Stimme, D: Sonne, Z: Gruppe
+##### Den Schwarm befehligen
+1 Punkt, Init: Sck–4, Animal
+R: Stimme, D: Sonne, Z: Gruppe
 
 Der Charakter kann einer Gruppe von bis zu 100 Vögeln trillernde Befehle geben. Die Vögel werden versuchen, jeden Befehl zu befolgen, den sie verstehen können (gewöhnliche Vögel können Befehle etwa auf dem Niveau eines Hundes verstehen), aber sie werden nichts offensichtlich Selbstmörderisches tun, und wenn die Vögel eine Magieresistenz besitzen, muss diese Kraft sie durchdringen. Die Kraft wirkt für die Dauer Sonne, und nach Ablauf dieser Zeit handeln die Vögel aus eigenem Antrieb.
 
 ReAn 35 (Basis 5, +2 Stimme, +2 Sonne, +2 Gruppe): Große Macht (35 Stufen, –3 Kosten)
 
-**Das Lied der Krähe**
-
+##### Das Lied der Krähe
 2 Punkte, Init: Sck–4, Corpus
-
 R: Stimme, D: Spezial, Z: Individuum
 
 Der Charakter singt dieses Lied auf eine Zielperson, und beim nächsten Mal, wenn das Ziel schläft, wird ein Alterungswurf für es durchgeführt, wobei 5 auf das Ergebnis addiert wird — selbst wenn die Person normalerweise noch zu jung für Alterungswürfe ist. Diese Kraft muss die Magieresistenz des Ziels durchdringen, um wirksam zu sein.
 
 PeCo 40 (Basis 15, +2 Stimme, +3 Spezialdauer): Große Macht (40 Stufen, –2 Kosten)
 
-**Luft zum Fliegen**
-
+##### Luft zum Fliegen  
 1 Punkt, Init: Sck–4, Auram
-
 R: Sicht, D: Konzentration, Z: Gruppe
 
 Solange der Charakter diese Melodie singt, bleibt das Wetter in der Umgebung ruhig und mild. Dies neutralisiert auch jedes magisch erzeugte schlechte Wetter, sofern die Magnitude des verursachenden Effekts geringer ist als der Machtwert des Charakters / 5 (aufgerundet). Diese Kraft hat die Dauer Konzentration.
 
 ReAu 35 (Basis 5, +3 Sicht, +1 Konzentration, +2 Gruppe): Große Macht (35 Stufen, –3 Kosten)
 
-**Den Schwarm rufen**
-
+##### Den Schwarm rufen
 1 Punkt, Init: Sck–4, Animal
-
 R: Spezial, D: Durchmesser, Z: Gruppe
 
 Wenn sich der Charakter unter freiem Himmel befindet, kann er ein Lied singen, das eine Wolke gewöhnlicher Vögel um ihn herum herbeiruft. Ab der nächsten Runde treffen 10 Vögel pro Runde ein, jede Runde über den nächsten Durchmesser hinweg. Die Art der Vögel, die eintreffen, hängt vom Standort ab; auf See werden es hauptsächlich Möwen, Kormorane und Sturmtaucher sein. Wenn sie ankommen, versuchen die Vögel, sich um den Charakter zu versammeln und greifen dabei alle anderen Charaktere an, die im Weg stehen. Wenn ihnen kein Auftrag erteilt wird, zerstreuen sich die Vögel langsam über die nächsten Stunden. Diese Kraft allein verleiht dem Charakter keine inhärente Fähigkeit, den Schwarm zu befehligen.
 
 ReAn 35 (Basis 2, +4 Spezialreichweite, +1 Durchmesser, +2 Gruppe +2 Gruppengröße): Große Macht (35 Stufen, –3 Kosten)
 
-#### Flug
+##### Flug
 
 Die Vögel von Nephelokokkygien können fliegen. Dies ist weder eine Übernatürliche Fertigkeit noch eine Kraft: Die Knochen des Charakters sind hohl und leicht, er hat kräftige, gefiederte Schwingen, und er hat einen Schwanz. Er ist ein Vogel. Das Manövrieren wird als Spezialisierung der Fertigkeit Athletik dargestellt (**ArM5**, Seite 64). Der Charakter kann normalerweise ohne Wurf abheben und hat für dieses Manöver eine Initiative von Sck + Athletik (Fliegen). Unter extremen Umständen (z. B. während eines Sturms) kann ein Wurf (Geschicklichkeit + Athletik (Fliegen) + Stresswürfel) erforderlich sein, um abzuheben.
 
@@ -4169,43 +4139,7 @@ Die Vögel von Nephelokokkygien können fliegen. Dies ist weder eine Übernatür
 
 Drei Katzenfamilien können ihre Abstammung – über Generationen von Vertrauten und verzerrte, intelligente Vorfahren – auf die Vertrauten der Gründer oder deren erste Lehrlinge zurückführen. Jede dieser Familien, Linien genannt, besitzt eine mündliche Überlieferung und eine eigenständige Kultur. Sie haben viele magische Merkmale, die sich nahezu sicher vererben – ein ungewöhnliches Merkmal bei magischen Tieren.
 
-#### Schwarze Linie
-
-Die Schwarze Linie der Katzen stammt vom Vertrauten des Gründers Jerbiton ab, einem Prinzen der ägyptischen Katzen, der von den großen Königinnen des antiken Bubastis abstammte. Das Zentrum der Schwarzen Linie ist die Domus Magna von Jerbiton, Valnastium im Tribunal der Großen Alpen, wo ihr gewählter Monarch herrscht. Doch Katzen dieser Linie sind ihren Magi zu vielen Konventen und Städten in ganz Europa gefolgt. Sie sind aristokratische, distanzierte Katzen. Die Mitglieder der Schwarzen Linie sehen ihre Aufgabe als Beschützer des Heims.
-
-**Häufige Tugenden (oder Qualitäten):** Betörung, Klatschbase, Große Macht, Intuition, Mindere Macht, Glück, Magiegespür, Durchdringender Blick, Schutz, Zweites Gesicht, Selbstbewusst, Willensstark, Wahrer Glaube, Wohlhabend (hat menschliche Diener, bekommt 3 Quartale pro Jahr zum Studieren).
-
-**Häufige Fehler (oder Mängel):** Klatschbase, Schützling (Ort), Gierig, Einmischer, Optimistisch, Überempfindlich, Stolz, Gemäßigt, Visionen, Schwäche.
-
-**Häufige Magische Kräfte:** Aura der Rechtmäßigen Autorität, Angst der Maus, Gefängnis für Mäuse und Vögel, Spähende Augen, Gang des Wächters.
-
-#### Weiße Linie
-
-Die Weiße Linie stammt vom Vertrauten des Gründers Mercere ab, und ihre Mitglieder finden sich in den Konventen seines Hauses. Sie sind nachsichtige, freundliche Katzen. Sie sehen ihre Aufgabe als Beschützer von Menschen. Viele adoptieren einen bestimmten Menschen, mit dem sie reisen.
-
-**Häufige Tugenden (oder Qualitäten):** Gesunder Menschenverstand, Wildheit, Große Macht, Scharfe Sicht, Mindere Macht, Blitzreflexe, Vorahnungen, Schnelle Genesung, Zweites Gesicht, Gestaltwandler (werkzeugverwendende, zweibeinige Form), Soziale Kontakte, Zäh, Krieger (addiert auf Raufen oder konventionelle Waffen bei Gestaltwandlern), Vielgereist.
-
->## Katzen als Beispiel
->
->Dieser Abschnitt über Katzen demonstriert die Methode zur Konstruktion magischer Tiere. Spielleiter, die parallele Kräftesets für andere Arten entwerfen, sollten relevante Kräfte aus diesen Listen übernehmen und ihre Namen an die jeweilige Art anpassen. Sie sollten denselben mechanischen Richtlinien folgen, um neue Kräfte zu erschaffen. Ideen für Kräfte lassen sich durch Erforschung der Folklore der jeweiligen Art im Internet finden – besonders auf den Seiten von Züchtern – sowie durch das Studium mittelalterlicher Bestiarien. Im Fall der Katzen ergibt dies eine enorme Menge an Material, von dem vieles ignoriert wurde, weil es im Europa von 1220 nicht bekannt ist. So ist etwa das Katzenverbrennen eine spätere Praxis.
-
-**Häufige Fehler (oder Mängel):** Klatschbase, Sorglos, Zwang (Revier), Schützling (Besitzer), Fehlendes Ohr, Fehlendes Auge, Überheblich, Rücksichtslos.
-
-**Häufige Magische Kräfte:** Katze wie ein Schatten, Menschen werden leicht verlegt, Unauffälligkeit, Klare Sicht durch die Luft
-
-#### Schildpattlinie
-
-Diese Katzenlinie ist seit vor der Gründung des Ordens mit keltischen Zauberkundigen verbunden. Die Linie spaltete sich nach dem Schismakrieg in zwei Gruppen, mit einem Katzenkönig in Schottland und einem im Rheinland. Möglicherweise hatte sie Verbindungen zu Haus Diedne. Diese Linie ist vor allem für ihre Fähigkeit bekannt, die Zukunft vorherzusagen.
-
-Männliche Schildpattkatzen sind sehr selten und häufiger magisch als weibliche. Sie neigen zu geschlechtsgemischten Verhaltensweisen, die Menschen nicht bemerken, die aber für andere Katzen offensichtlich und abstoßend sind. Wenn dies eine bedeutende Rolle in der Kampagne spielt, sollten männliche Schildpattkatzen den Fehler Geschlechtsuntypisch wählen.
-
-**Häufige Tugenden (oder Qualitäten):** Gesunder Menschenverstand, Wünschelrutengehen (benötigt keinen Stab), Betörung, Große Macht, Feenblut, Wildheit, Gigantisch, Scharfe Sicht, Großgewachsen, Mindere Macht, Mindere Reinigende Berührung (Warzen), Ausdauernd, Vorahnungen, Kraftreserven, Schnelle Genesung, Zweites Gesicht, Gestaltwandler (Mensch), Gestaltwandler (wenn die Katze auch Großgewachsen oder Gigantisch hat, kann sie zwischen zwei Gestalten wechseln), Natursinn
-
-**Häufige Fehler (oder Mängel):** Magische Ausstrahlung, Wilde Erziehung, Ungerecht beurteilt, Zurückgezogen, Geschlechtsuntypisch (männliche Katzen dieser Farbe sind extrem selten und neigen zu femininem Verhalten).
-
-**Häufige Magische Kräfte:** Kühe leer saugen, Den heimsuchenden Geist zur Ruhe betten, Meister des Unterholzes, Spurlose Passage, Geflüster durch das Schwarze Tor.
-
->## Katzencharakter-Vorlage
+>#### Katzencharakter-Vorlage
 >
 >Die unveränderten Werte für Katzen finden sich im Anhang Buch der Weltlichen Bestien. Alle dort aufgeführten Tugenden, Fehler, Fertigkeiten und Eigenschaften sollten in den meisten Fällen vor anderen Gegenständen desselben Typs erworben werden, wenn ein Charakter erstellt wird.
 >
@@ -4227,6 +4161,42 @@ Männliche Schildpattkatzen sind sehr selten und häufiger magisch als weibliche
 >
 >**Vis:** 3 Bauern, Animal, in den Augen. (Machtwert geteilt durch 5, aufgerundet)
 
+>#### Katzen als Beispiel
+>
+>Dieser Abschnitt über Katzen demonstriert die Methode zur Konstruktion magischer Tiere. Spielleiter, die parallele Kräftesets für andere Arten entwerfen, sollten relevante Kräfte aus diesen Listen übernehmen und ihre Namen an die jeweilige Art anpassen. Sie sollten denselben mechanischen Richtlinien folgen, um neue Kräfte zu erschaffen. Ideen für Kräfte lassen sich durch Erforschung der Folklore der jeweiligen Art im Internet finden – besonders auf den Seiten von Züchtern – sowie durch das Studium mittelalterlicher Bestiarien. Im Fall der Katzen ergibt dies eine enorme Menge an Material, von dem vieles ignoriert wurde, weil es im Europa von 1220 nicht bekannt ist. So ist etwa das Katzenverbrennen eine spätere Praxis.
+
+#### Schwarze Linie
+
+Die Schwarze Linie der Katzen stammt vom Vertrauten des Gründers Jerbiton ab, einem Prinzen der ägyptischen Katzen, der von den großen Königinnen des antiken Bubastis abstammte. Das Zentrum der Schwarzen Linie ist die Domus Magna von Jerbiton, Valnastium im Tribunal der Großen Alpen, wo ihr gewählter Monarch herrscht. Doch Katzen dieser Linie sind ihren Magi zu vielen Konventen und Städten in ganz Europa gefolgt. Sie sind aristokratische, distanzierte Katzen. Die Mitglieder der Schwarzen Linie sehen ihre Aufgabe als Beschützer des Heims.
+
+**Häufige Tugenden (oder Qualitäten):** Betörung, Klatschbase, Große Macht, Intuition, Mindere Macht, Glück, Magiegespür, Durchdringender Blick, Schutz, Zweites Gesicht, Selbstbewusst, Willensstark, Wahrer Glaube, Wohlhabend (hat menschliche Diener, bekommt 3 Quartale pro Jahr zum Studieren).
+
+**Häufige Fehler (oder Mängel):** Klatschbase, Schützling (Ort), Gierig, Einmischer, Optimistisch, Überempfindlich, Stolz, Gemäßigt, Visionen, Schwäche.
+
+**Häufige Magische Kräfte:** Aura der Rechtmäßigen Autorität, Angst der Maus, Gefängnis für Mäuse und Vögel, Spähende Augen, Gang des Wächters.
+
+#### Weiße Linie
+
+Die Weiße Linie stammt vom Vertrauten des Gründers Mercere ab, und ihre Mitglieder finden sich in den Konventen seines Hauses. Sie sind nachsichtige, freundliche Katzen. Sie sehen ihre Aufgabe als Beschützer von Menschen. Viele adoptieren einen bestimmten Menschen, mit dem sie reisen.
+
+**Häufige Tugenden (oder Qualitäten):** Gesunder Menschenverstand, Wildheit, Große Macht, Scharfe Sicht, Mindere Macht, Blitzreflexe, Vorahnungen, Schnelle Genesung, Zweites Gesicht, Gestaltwandler (werkzeugverwendende, zweibeinige Form), Soziale Kontakte, Zäh, Krieger (addiert auf Raufen oder konventionelle Waffen bei Gestaltwandlern), Vielgereist.
+
+**Häufige Fehler (oder Mängel):** Klatschbase, Sorglos, Zwang (Revier), Schützling (Besitzer), Fehlendes Ohr, Fehlendes Auge, Überheblich, Rücksichtslos.
+
+**Häufige Magische Kräfte:** Katze wie ein Schatten, Menschen werden leicht verlegt, Unauffälligkeit, Klare Sicht durch die Luft
+
+#### Schildpattlinie
+
+Diese Katzenlinie ist seit vor der Gründung des Ordens mit keltischen Zauberkundigen verbunden. Die Linie spaltete sich nach dem Schismakrieg in zwei Gruppen, mit einem Katzenkönig in Schottland und einem im Rheinland. Möglicherweise hatte sie Verbindungen zu Haus Diedne. Diese Linie ist vor allem für ihre Fähigkeit bekannt, die Zukunft vorherzusagen.
+
+Männliche Schildpattkatzen sind sehr selten und häufiger magisch als weibliche. Sie neigen zu geschlechtsgemischten Verhaltensweisen, die Menschen nicht bemerken, die aber für andere Katzen offensichtlich und abstoßend sind. Wenn dies eine bedeutende Rolle in der Kampagne spielt, sollten männliche Schildpattkatzen den Fehler Geschlechtsuntypisch wählen.
+
+**Häufige Tugenden (oder Qualitäten):** Gesunder Menschenverstand, Wünschelrutengehen (benötigt keinen Stab), Betörung, Große Macht, Feenblut, Wildheit, Gigantisch, Scharfe Sicht, Großgewachsen, Mindere Macht, Mindere Reinigende Berührung (Warzen), Ausdauernd, Vorahnungen, Kraftreserven, Schnelle Genesung, Zweites Gesicht, Gestaltwandler (Mensch), Gestaltwandler (wenn die Katze auch Großgewachsen oder Gigantisch hat, kann sie zwischen zwei Gestalten wechseln), Natursinn
+
+**Häufige Fehler (oder Mängel):** Magische Ausstrahlung, Wilde Erziehung, Ungerecht beurteilt, Zurückgezogen, Geschlechtsuntypisch (männliche Katzen dieser Farbe sind extrem selten und neigen zu femininem Verhalten).
+
+**Häufige Magische Kräfte:** Kühe leer saugen, Den heimsuchenden Geist zur Ruhe betten, Meister des Unterholzes, Spurlose Passage, Geflüster durch das Schwarze Tor.
+
 ### Magische Kräfte
 
 Spieler, die Katzen entwerfen, wählen eine magische Kraft für jeden Kauf der Qualitäten Große Macht oder Mindere Macht. Jede dieser Qualitäten kann mehrfach erworben werden. Jede Katze darf jede Kraft erwerben, aber manche werden häufig bei Katzen einer bestimmten Linie gesehen. Kräfte, die häufig bei einem bestimmten Stamm auftreten, sind oben in den Linienbeschreibungen aufgelistet.
@@ -4242,216 +4212,174 @@ Die angegebenen Machtpunktkosten gelten für eine Mindere Version der Kraft. Fü
 
 Der Initiativebonus für eine Mindere Macht ist gleich der Schnelligkeit der Katze − (Magnitude × 2). Für eine Große Macht ist der Initiativebonus gleich der Schnelligkeit der Katze − (Magnitude / 2).
 
-#### Aura der Rechtmäßigen Autorität
-
+##### Aura der Rechtmäßigen Autorität
 4 Punkte, Mentem
-
 R: Auge, D: Sonne, Z: Ind
 
 Dieser Effekt wird verwendet, um den Schock zu überwinden, den sprechende Katzen verursachen. Er neigt Menschen außerdem dazu, Befehlen zu gehorchen. (**ArM5**, Seite 151)
 
 (20 Zauberstufen: Basis 5, +1 Auge, +2 Sonne)
 
-#### Brombeerkatze
-
-oder *Vorgetäuschte Unschuld*, 5 Punkte, Mentem R: Auge, D: Mom, Z: Gruppe
+##### Brombeerkatze
+oder *Vorgetäuschte Unschuld*, 5 Punkte, Mentem  
+R: Auge, D: Mom, Z: Gruppe
 
 Diese Kraft veranlasst eine Gruppe von Personen, etwas zu vergessen, das die Katze getan hat, ähnlich wie der Spruch *Verlust eines flüchtigen Augenblicks* (**ArM5**, Seite 151). Der Name stammt vom Glauben, dass in der Brombeersaison geborene Katzen Unfug in sich haben.
 
 (25 Zauberstufen: Basis 10, +1 Auge, +2 Gruppe)
 
-#### Fluch des Rheuma
-
+##### Fluch des Rheuma
 2 Punkte, Corpus
-
 R: Berührung, D: Mom, Z: Ind
 
 Wenn eine Person die Katze berührt, entwickelt sie Rheuma in dem betroffenen Glied. Diese Kraft wird traditionell gegen diejenigen eingesetzt, die Katzen treten.
 
 (10 Zauberstufen: Basis 5, wie bei Lähmung in der Tabelle auf **ArM5**, Seite 133, +1 Berührung)
 
-#### Energie entziehen
-
+##### Energie entziehen
 3 Punkte, Corpus
-
 R: Berührung oder Auge, D: Mom, Z: Ind
 
 Diese Kraft, ähnlich dem *Herbeirufen der Mattigkeit* (**ArM5**, Seite 133), hat entweder eine Berührungs- oder Augen-Reichweite; dies variiert je nach Katze.
 
 (15 Zauberstufen: Basis 10, +1 Berührung oder Auge)
 
-#### Angst der Maus
-
+##### Angst der Maus
 3 Punkte, Mentem
-
 R: Auge, D: Sonne, Z: Ind
 
 Diese Kraft, ähnlich der *Panik des zitternden Herzens* (**ArM5**, Seite 148), wird oft verwendet, um Menschen Angst vor der Katze einzujagen. Viele Katzen haben alternative emotionale Effekte.
 
 (15 Zauberstufen: Basis 4, +1 Auge, +2 Sonne)
 
-#### Katzenwiegenlied
-
+##### Katzenwiegenlied
 oder *Die Menschen sicher eingebettet lassen*, 2 Punkte, Mentem
-
 R: Stimme, D: Mom, Z: Ind
 
 Dies ist eine Version von *Der Ruf des Schlummers* (**ArM5**, Seite 151).
 
 (10 Zauberstufen: Basis 4, +2 Stimme)
 
-#### Menschen werden leicht verlegt
-
+##### Menschen werden leicht verlegt
 4 Punkte, Corpus
-
 R: Ark, D: Konz, Z: Ind
 
 Eine Version der *Unerbittlichen Suche* (**ArM5**, Seite 131). Die Karten, die Katzen verwenden, sind eine Mischung aus Gerüchen und Texturen und ergeben für Menschen wenig Sinn. Dies erfordert eine Arkane Verbindung, daher markieren Katzen oft Menschen, die sie wiederfinden möchten, indem sie sich an ihnen reiben.
 
 (20 Zauberstufen: Basis 3, +4 Ark, +1 Konz)
 
-#### Unglaublich Niedlich
-
+##### Unglaublich Niedlich
 2 Punkte, Mentem
-
 R: Berührung oder Auge, D: Durchmesser, Z: Ind
 
 Diese Fähigkeit, ähnlich dem *Vertrauen des kindlichen Glaubens* (**ArM5**, Seite 150), erlaubt es der Katze, so bezaubernd zu werden, dass sie die Rationalität anderer beeinträchtigt. Manche Katzen haben eine Augenkontakt-Version dieser Fähigkeit, während andere eine Berührungs-Kraft besitzen, ausgelöst durch das Streicheln der Katze.
 
 (10 Zauberstufen: Basis 4, +1 Auge oder Berührung, +1 Durchmesser)
 
-#### Makrelensky
-
+##### Makrelensky
 4 Punkte, Auram
-
 R: Berührung, D: Mom, Z: Gruppe
 
 Eine Version von *Des Seemanns Vorgeschmack auf den morgigen Tag* (**ArM5**, Seite 127).
 
 (20 Zauberstufen: Basis 4, +1 Berührung, +2 Gruppe, +1 Größe)
 
-#### Meister des Unterholzes
-
+##### Meister des Unterholzes
 2 Punkte, Herbam
-
 R: Berührung, D: Sonne, Z: Gruppe
 
 Eine Version der *Einfühlung in den Wald* (**ArM5**, Seite 136).
 
 (10 Zauberstufen: Basis 1, +1 Berührung, +2 Sonne, +2 Gruppe)
 
-#### Leichte Allergie
-
+##### Leichte Allergie
 2 Punkte, Corpus
-
 R: Sicht, D: Mom, Z: Ind
 
 Eine Sicht-Version von *Berührung der Gänsefeder* (**ArM5**, Seite 132).
 
 (10 Zauberstufen: Basis 3, +3 Sicht)
 
-#### Gegenstände mit dem Geist bewegen
-
+##### Gegenstände mit dem Geist bewegen
 6 Punkte, Terram
-
 R: Sicht, D: Konz, Z: Ind
 
 Eine Sicht-Version des *Unsichtbaren Arms* (**ArM5**, Seite 155), von Katzen verwendet, um Gegenstände zu manipulieren – wenn keine Menschen verfügbar sind.
 
 (30 Zauberstufen: Basis 2, +3 Sicht, +1 Konz)
 
-#### Durch das unnachgiebige Tor schlüpfen
-
+##### Durch das unnachgiebige Tor schlüpfen
 1 Punkt; Herbam
-
 R: Berührung, D: Durchmesser, Z: Ind
 
 Eine Version des gleichnamigen Spruches, verwendet wenn keine Menschen verfügbar sind, um Türen zu öffnen. (**ArM5**, Seite 137)
 
 (5 Zauberstufen: Basis 3, +1 Berührung, +1 Durchmesser.)
 
-#### Gefängnis für Mäuse und Vögel
-
+##### Gefängnis für Mäuse und Vögel
 1 Punkt, Animal
-
 R: Berührung, D: Ring, Z: Kreis
 
 Dies ist eine Version des *Kreis der Bestienabwehr* (**ArM5**, Seite 120). Sie wird manchmal in Verbindung mit den unten beschriebenen Großen Magischen Kräften eingesetzt.
 
 (5 Zauberstufen: Basis 2, +1 Berührung, +2 Ring)
 
-#### Spähende Augen
-
+##### Spähende Augen
 1 Punkt, Imaginem
-
 R: Berührung, D: Konz, Z: Raum
 
 Dieser Effekt wird verwendet, um in Gebäude und Räume zu blicken, während man ein Haus oder eine Stadt patrouilliert. Man beachte, dass eine Katze, die das Dach eines Raumes berührt, in ihn hineinschauen kann. (**ArM5**, Seite 144).
 
 (5 Zauberstufen: Basis 1, +1 Berührung, +1 Konz, +2 Raum)
 
-
-#### Den Atem aussaugen
-
+##### Den Atem aussaugen
 3 Punkte, Corpus
-
 R: Auge oder Berührung, D: Mom, Z: Ind
 
 Die Katze verursacht einen Asthmaanfall mit denselben Auswirkungen wie der *Griff der würgenden Hand* (**ArM5**, Seite 133), jedoch mit entweder Augen- oder Berührungs-Reichweite (zu wählen bei der Erschaffung der Katze).
 
 (15 Zauberstufen: Basis 10, +1 Auge oder Berührung)
 
-#### Kühe leer saugen
-
+##### Kühe leer saugen
 3 Punkte, Animal
-
 R: Berührung, D: Konz, Z: Ind
 
 Diese Kraft wird verwendet, um eine Kuh zum Milchgeben zu bringen, während eine Katze an deren Eutern saugt. Katzen, die sich mit Milch vollfüllen, haben oft Schwierigkeiten, die Konzentration aufrechtzuerhalten, daher findet man häufig Katzen, die in Gruppen arbeiten, um eine Kuh abwechselnd festzuhalten.
 
 (15 Zauberstufen: Basis 5, +1 Berührung, +1 Konz)
 
-#### Die Toten ersticken
-
-Kosten gleich (Magnitude / 5), Mentem R: Stimme, D: Mom, Z: Ind
+##### Die Toten ersticken
+Kosten gleich (Magnitude / 5), Mentem  
+R: Stimme, D: Mom, Z: Ind
 
 Manche Katzen können einen Effekt erzeugen, der dem Spruch *Den heimsuchenden Geist zur Ruhe betten* (**ArM5**, Seite 150) ähnelt, indem sie auf dem Grab des Geistes sitzen oder schlafen. Wenn mehrere Katzen auf demselben Grab schlafen, werden ihre Penetrationswerte addiert und der höchste Stufeneffekt gilt, so dass selbst mächtige Geister auf diese Weise mit ausreichend Zusammenarbeit und Ausdauer vernichtet werden können. Dies erfordert keinen Gang des Wächters, obwohl niemand sicher weiß, warum.
 
 (Zauberstufen variieren. Basiseffekt)
 
-#### Blick der Viper
-
+##### Blick der Viper
 3 Punkte, Animal
-
 R: Auge, D: Konz, Z: Ind
 
 Eine Variante des gleichnamigen Spruches (**ArM5**, Seite 120), verwendet um Beute zu immobilisieren.
 
 (15 Zauberstufen: Basis 5, +1 Auge, +1 Konzentration)
 
-#### Die Toten erwecken
-
+##### Die Toten erwecken
 4 Punkte, Corpus
-
 R: Berührung, D: Konz, Z: Ind
 
 Manche Katzen sind in der Lage, Leichname zu beleben, indem sie über sie springen – eine Kraft ähnlich einer Berührungs-Version von *Den schlummernden Leichnam erwecken* (**ArM5**, Seite 134)*.* Berichte über diese Kraft sind in Osteuropa am häufigsten und könnten sich auf infernal verdorbene Katzen beziehen. Manche Katzen behaupten, die Toten mit ihrem nächtlichen Gesang erwecken zu können, aber dies könnte eine Metapher sein.
 
-
-#### Gang des Wächters
-
+##### Gang des Wächters
 Magnitude-Punkte, Vim.
-
 R: Stimme, D: Mom, Z: Gruppe
 
 Katzen der Schwarzen Linie nutzen diese Kraft, um ihre anderen Kräfte zu kombinieren. Dies erlaubt ihren Ritualen, die Magieresistenz von Kreaturen zu durchdringen, gegen die sie Schutzkreise errichten möchten. Es ist eine Variante der *Communion des Zauberers.* Die Verwendung des Gangs des Wächters ist gefährlich, da das Hinzufügen zu vieler Katzen einen fatalen Patzer sehr wahrscheinlich macht, weshalb die Katzen diese Kraft sparsam einsetzen.
 
 (Zauberstufen variieren je nach Basiseffekt.)
 
-#### Geflüster durch das Schwarze Tor
-
+##### Geflüster durch das Schwarze Tor
 3 Punkte, Corpus
-
 R: Berührung, D: Konz, Z: Ind
 
 Die Fähigkeit, mit Leichen zu sprechen, findet sich am häufigsten bei Schildpattkatzen (**ArM5**, Seite 130).
@@ -4464,37 +4392,35 @@ Die Schwarzen Katzen, die Haus Jerbiton dienen, verfügen über eine Gruppe von 
 
 Die Schutzkräfte, die Katzen der Schwarzen Linie häufig zur Verfügung stehen, umfassen Nachbildungen der folgenden Sprüche. Verschiedene Katzen haben unterschiedliche Magnitudenstufen in diesen Kräften.
 
-#### Schutzkreis gegen Dämonen
-
+##### Schutzkreis gegen Dämonen
 Magnitude-Punkte, Vim
-
 R: Berührung, Z: Ring, D: Kreis
 
 Siehe **ArM5**, Seite 162 für eine ausführlichere Beschreibung dieses Effekts.
 
 (Zauberstufen variieren je nach Basisspruch)
 
-#### Schutzwall gegen die Bestien der Legende
-
+##### Schutzwall gegen die Bestien der Legende
 Magnitude-Punkte, Animal
-
 R: Berührung, Z: Ring, D: Kreis
 
 Siehe **ArM5**, Seite 120 für eine ausführlichere Beschreibung dieses Effekts.
 
 (Zauberstufen variieren je nach Basisspruch)
 
-#### Schutzwall gegen die Feen des Waldes
-
+##### Schutzwall gegen die Feen des Waldes
 Magnitude-Punkte, Herbam
-
 R: Berührung, Z: Ring, D: Kreis
 
 Siehe **ArM5**, Seite 138 für eine ausführlichere Beschreibung dieses Effekts.
 
 (Zauberstufen variieren je nach Basisspruch)
 
-#### Ring der Abwehr gegen Geister** Magnitude-Punkte, Mentem R: Berührung, Z: Ring, D: Kreis Siehe **ArM5**, Seite 151 für eine ausführlichere Beschreibung dieses Effekts.
+##### Ring der Abwehr gegen Geister
+Magnitude-Punkte, Mentem  
+R: Berührung, Z: Ring, D: Kreis
+
+Siehe **ArM5**, Seite 162 für eine ausführlichere Beschreibung dieses Effekts.
 
 (Zauberstufen variieren je nach Basisspruch)
 
@@ -4508,64 +4434,54 @@ Alle Persönlichen Kräfte der magischen Katzenlinien haben:
 - Kosten in Zauberstufen für die Charaktererstellung, angegeben direkt vor dem Detail, das die Zauberstufe erklärt.
 - Einen Penetrationswert = Machtwert der Katze − (5 × Kosten der Kraft) + Penetrationsbonus der Katze. Dieser Bonus wurde für die unten stehenden Beispielkräfte nicht berechnet.
 
-#### Katze wie ein Schatten
-
+##### Katze wie ein Schatten
 2 Punkte, Init: Sck −1, Imaginem
-
 R: Per, D: Sonne, Z: Ind
 
 Eine persönliche Version des *Schleier der Unsichtbarkeit*, wie auf **ArM5**, Seite 146.
 
 (15 Zauberstufen: Basis 4, +2 Sonne, +1 wechselndes Bild)
 
-#### Felianthrope
-
-2 Punkte, Init: Sck−1, Animal R: Per, D: Sonne, Z: Ind
+##### Felianthrope
+2 Punkte, Init: Sck–1, Animal  
+R: Per, D: Sonne, Z: Ind
 
 Die Katze nimmt menschliche Gestalt an. Dies ist eine Persönliche Version von *Das neu geformte Tier* (**ArM5**, Seite 119).
 
 (20 Zauberstufen: Basis 10, +2 Sonne, kein Aufschlag für Requisit)
 
-#### Unauffälligkeit
-
+##### Unauffälligkeit
 1 Punkt, Init: Sck−1, Imaginem
-
 R: Per, D: Sonne, Z: Ind
 
 Eine Persönliche Version der *Unsichtbarkeit des stehenden Zauberers* (**ArM5**, Seite 146) (10 Zauberstufen: Basis 4, +2 Sonne)
 
-#### Aufgeplustert und Fauchend
-
-1 Punkt, Init: Sck−1, Animal R: Per, D: Sonne, Z: Ind
+##### Aufgeplustert und Fauchend
+1 Punkt, Init: Sck–1, Animal  
+R: Per, D: Sonne, Z: Ind
 
 Die Katze plustert sich zum Kampf auf, und Magie verleiht ihr zusätzliche Masse. Eine Persönliche Version des *Tiers ungeheurer Größe* (**ArM5**, Seite 118).
 
 (10 Zauberstufen: Basis 4, +2 Sonne)
 
-#### Widerstand gegen Klauen
-
+##### Widerstand gegen Klauen
 1 Punkt, Init: Sck−1, Animal
-
 R: Per, D: Sonne, Z: Ind
 
 Das Fell der Katze wird widerstandsfähig gegen Schaden. Eine Persönliche Version des *Wams aus undurchdringlicher Seide* (**ArM5**, Seite 118.)
 
 (10 Zauberstufen: Basis 4, +2 Sonne)
 
-#### Klare Sicht durch die Luft
-
+##### Klare Sicht durch die Luft
 2 Punkte, Init: Sck−1, Auram
-
 R: Per, D: Sonne, Z: Sicht
 
 Eine Version des gleichnamigen Spruches (**ArM5**, Seite 127).
 
 (15 Zauberstufen: Basis 1, +2 Sonne, +4 Sicht)
 
-#### Spurlose Passage
-
+##### Spurlose Passage
 2 Punkte, Init: Sck−1, Terram
-
 R: Berührung, D: Sonne, Z: Ind
 
 Eine Version des Spruches *Der spurlose Schritt* (**ArM5**, Seite 155).
@@ -4576,7 +4492,7 @@ Eine Version des Spruches *Der spurlose Schritt* (**ArM5**, Seite 155).
 
 Drachen sind die größten und furchteinflößendsten der sterblichen Kreaturen. Sie sind berühmt für ihre Gerissenheit, Boshaftigkeit und Gier nach Schätzen. Mit den Drachen verwandt, aber weniger mächtig, ist eine Vielzahl reptilienartiger Kreaturen: die Schlangen, Draken und Lindwürmer.
 
-**Schlangen** sind die geringsten unter den Verwandten der Drachen, kaum mehr als verherrlichte Nattern. Sie haben fast immer einen giftigen Biss oder Stachel. Darüber hinaus besitzen viele die Fähigkeit, ihre Opfer zu bezaubern. Basilisken (siehe *Guardians of the Forest*, Seite 61) sind die mächtigsten der Schlangen. Sterbliche verwenden den Begriff „Schlange“ austauschbar sowohl für Drachen als auch für Nattern; wenn Magi den Begriff streng verwenden, meinen sie eine schlangenartige übernatürliche Kreatur, die keine genaue weltliche Entsprechung hat.
+**Schlangen** sind die geringsten unter den Verwandten der Drachen, kaum mehr als verherrlichte Nattern. Sie haben fast immer einen giftigen Biss oder Stachel. Darüber hinaus besitzen viele die Fähigkeit, ihre Opfer zu bezaubern. Basilisken (siehe *Wächter des Waldes*, Seite 61) sind die mächtigsten der Schlangen. Sterbliche verwenden den Begriff „Schlange“ austauschbar sowohl für Drachen als auch für Nattern; wenn Magi den Begriff streng verwenden, meinen sie eine schlangenartige übernatürliche Kreatur, die keine genaue weltliche Entsprechung hat.
 
 **Draken** sind Karikaturen von Drachen, meist in irgendeiner Weise missgestaltet. Sie sind tendenziell weniger intelligent als echte Drachen, können aber eine gewisse raubtiertypische Gerissenheit besitzen. Alle Draken haben Beine (entweder zwei oder vier), und viele haben Flügel, obwohl ihre Flügel häufig zu verkümmert für tatsächlichen Flug sind. Einige Draken haben mehrere Köpfe. Draken haben gewöhnlich einen gefährlichen Atem, der feurig, giftig oder krankheitserregend sein kann. Magi im hohen Norden des Mythischen Europas haben von kältebewohnenden Draken berichtet, die statt Feuer einen tödlichen Frost speien. Die kleinsten Draken sind nicht größer als ein Huhn, während die größten schwerer als ein Elefant sein können.
 
@@ -4613,6 +4529,27 @@ Drachen und ihr Volk können jeder Jahreszeit angehören. Schlangen sind eher Fr
 
 Wenn die Kreatur als Kampfgegner gedacht ist, ist es wichtig, dass sie eine gute Raufen-Fertigkeit besitzt. Ihre Kampfwerte können durch Qualitäten weiter verbessert werden.
 
+>#### Klaue und Fang
+>
+>Die Waffenwerte für die Klauen und Zähne eines Drachen lauten wie folgt. Drachen größer als Größe +2 haben gewöhnlich große Klauen und/oder große Zähne.
+>
+>| Init | Ang | Vert | Sch |
+>|---|---|---|---|
+>| −1 | +2 | +3 | +2 |
+>| 0 | +5 | +3 | +4 |
+>| 0 | +3 | +1 | +1 |
+>| 0 | +4 | +1 | +3 |
+
+>#### Option: Umschlingungsangriffe
+>
+>Mittelalterliche Bestiarien berichten von Drachen, die Elefanten mit ihren Schwänzen oder Windungen erdrosseln. Viele Drachen und ihre geringeren Verwandten können durch Umschlingung angreifen. Diese Fähigkeit ist besonders häufig bei Lindwürmern und großen Schlangen. Die folgenden Umschlingungsregeln sind optional. Wenn du den Kampf unkompliziert halten möchtest, ignoriere einfach die in diesem Kapitel für Drachen aufgeführten Umschlingungsangriffe.
+>
+>Ein Drache kann nur ein Opfer umschlingen, dessen Größe kleiner als seine eigene ist. Die Umschlingung basiert auf den Ringerregeln (siehe „Nicht-tödlicher Kampf“ auf Seite 174 von **ArM5**). Die Angriffssumme wird mit der Fertigkeit Raufen berechnet, und ein Umschlingungsangriff hat die folgenden Waffenwerte: Init 0, Ang +3, Vert 0, Sch n/v
+>
+>Solange der Drache den Griff aufrechterhält, gilt sein Gegner als der Luft beraubt (siehe **ArM5**, Seite 180). Das Opfer muss alle 30 Sekunden, also alle fünf Runden, einen Ausdauerwurf ablegen oder die normalen Auswirkungen der Entbehrung erleiden. Umschlingung ist eine langsame Methode, einen Gegner zu töten.
+>
+>Sobald der Drache einen Gegner erfolgreich gegriffen hat (und mit der Umschlingung begonnen hat), kann er in nachfolgenden Runden weiter umschlingen und trotzdem mit seinen Klauen oder dem Biss angreifen. Diese Angriffe können gegen das gegriffene Opfer oder gegen einen anderen Gegner gerichtet sein.
+
 #### Machtwert und Qualitäten
 
 Wenn der Drache einer der Spielercharaktere oder deren enge Verbündete sein soll, weise einen Machtwert gemäß dem gewünschten Machtlevel der Saga zu (siehe Kapitel 4: Magische Charaktere, Erschaffung magischer Charaktere).
@@ -4633,7 +4570,7 @@ Drachen sollten Qualitäten für alle speziellen Angriffe wählen, die sie besit
 
 Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten Verbesserter Angriff, Verbesserte Verteidigung, Verbesserter Schaden und Verbesserte Absorption verbessert werden. Besonders wichtig ist es, die Verteidigungswerte sehr großer Drachen zu verbessern, da sie andernfalls durch ihre schlechten Schnelligkeitswerte (aufgrund der Auswirkungen ihrer Größe) verwundbar wären.
 
->## Charakterleitfaden: Ein Scitalis
+>#### Charakterleitfaden: Ein Scitalis
 >
 >**Magische Macht:** 5 (Animal)
 >
@@ -4664,7 +4601,6 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 >**Kräfte:**
 >
 >*Blendende Erscheinung*, 0 Punkte, Init −3, Mentem oder Animal
->
 >R: Per, D: Konz, Z: Spektakel
 >
 >Der Scitalis kann seine wundersamen Farben und seine Erscheinung nutzen, um jene zu betäuben, die ihn anblicken. Die Opfer stehen mit offenem Mund staunend da, unfähig sich zu bewegen, zu sprechen oder zu handeln, solange der Scitalis sich konzentriert. Er nutzt diese Kraft, um seine Beute zu fangen, denn er ist ein langsam sich bewegendes Geschöpf.
@@ -4672,7 +4608,6 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 >ReMe(An) 45 (Basis 15, +1 Konz, +4 Spektakel, +1 Animal-Requisit): Große Macht (45 Stufen, −1 Machtkosten), Verbesserte Kräfte (−3 Machtkosten), Große Macht (teilweise, −1 Machtkosten)
 >
 >*Gift*, 0 Punkte, Init n/v, Aquam
->
 >R: Berührung, D: Sonne, Z: Ind
 >
 >Die Giftzähne des Scitalis sondern ein Gift ab, das eine Mittelschwere Wunde verursacht (wenn es die Magieresistenz durchdringt), sofern das Opfer keinen Ausdauerwurf gegen einen Schwierigkeitsgrad von 9 schaffen kann.
@@ -4693,7 +4628,11 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 
 **Eigenschaften:** Int −2, Wah +1, Prä −2, Kom −2, Stä +4, Aus +2, Ges +2, Sck +2
 
-**Größe:** +1 **Jahreszeit:** Sommer **Selbstvertrauenswert:** 1 (3)
+**Größe:** +1 
+
+**Jahreszeit:** Sommer 
+
+**Vertrauenswert:** 1 (3)
 
 **Tugenden und Fehler:** Magisches Tier; Magisches Ungeheuer; Hervorragende Stärke, Großgewachsen, Durchdringender Blick, Zäh; Besessenheit (Reputation)
 
@@ -4719,14 +4658,14 @@ Die Kampfwerte eines Drachen können durch großzügigen Einsatz der Qualitäten
 
 **Kräfte:**
 
-*Feuerhauch,* 1 Punkt, Init +1, Ignem R: Stimme, D: Mom, Z: Ind
+*Flammenstoß,* 1 Punkt, Init +1, Ignem  
+R: Stimme, D: Mom, Z: Ind
 
 Varkos kann einen kohlkopfgroßen Feuerball etwa 15 Schritt weit speien, der +5 Schaden verursacht.
 
 CrIg 10 (Basis 4, +2 Stimme): Große Macht (10 Stufen)
 
 *Flammenstrom,* 2 Punkte, Init +1, Ignem
-
 R: Stimme, D: Mom, Z: Gruppe
 
 Mit einiger Anstrengung kann Varkos einen eindrucksvollen Flammenstrom von etwa 30 Schritt Länge und fünf Schritt Breite ausstoßen. Alle in diesem Bereich erleiden +15 Feuerschaden.
@@ -4740,27 +4679,6 @@ CrIg 35 (Basis 15, +2 Stimme, +2 Gruppe): Große Macht (35 Stufen, −1 Machtkos
 Varkos ist ein Feuerdrake, der verzweifelt als furchteinflößender Drache gelten will. Er kennt sich recht gut mit Drachengeschichten aus und gibt sein Bestes, sich wie die Drachen der Legende zu verhalten. (Sein Schatzhort macht gute Fortschritte; er ist fast groß genug, um zwei Handkörbe zu füllen.) Varkos lebt in einer Höhle mit Blick auf einen Gebirgspass, von dem aus er aufbricht, um Vieh zu reißen und gelegentlich einen Heuhaufen in Brand zu setzen. Normalerweise versucht er, Menschen zu verscheuchen, statt ihnen wehzutun; tote Männer erzählen keine Geschichten, und Varkos arbeitet hart daran, sich eine Reputation aufzubauen. In letzter Zeit hat er genug Mut aufgebracht, Reisende um ihren Schatz zu berauben, und freut sich auf die Zeit, wenn verängstigte Dorfbewohner ihm sein erstes Jungfrauenopfer bringen werden. (Er hat keine Ahnung, was genau eine Jungfrau ist oder was echte Drachen mit ihnen machen sollen.)
 
 Einer der Gründe, warum Varkos so sehr versucht, furchteinflößend zu sein, ist, dass er eine Gefährtin anlocken will. Das Leben in einer Höhle in den Bergen kann einsam und ziemlich langweilig sein. Er genießt seine Begegnungen mit Menschen, weil sie ihm die Gelegenheit geben, mit jemandem zu reden, wenn auch nur kurz. Leider ist Varkos kein besonders guter Gesprächspartner; er ist hauptsächlich daran interessiert, Geschichten über Drachen zu hören. Charaktere könnten sich mit ihm anfreunden, wenn sie vorgeben, Angst vor ihm zu haben, einige unterhaltsame Geschichten erzählen und versprechen, wilde Geschichten darüber zu verbreiten, wie sie dem „Drachen der Berge“ begegneten und kaum mit dem Leben davonkamen.
-
->## Klaue und Fang
->
->Die Waffenwerte für die Klauen und Zähne eines Drachen lauten wie folgt. Drachen größer als Größe +2 haben gewöhnlich große Klauen und/oder große Zähne.
->
->| Init | Ang | Vert | Sch |
->|---|---|---|---|
->| −1 | +2 | +3 | +2 |
->| 0 | +5 | +3 | +4 |
->| 0 | +3 | +1 | +1 |
->| 0 | +4 | +1 | +3 |
-
->## Option: Umschlingungsangriffe
->
->Mittelalterliche Bestiarien berichten von Drachen, die Elefanten mit ihren Schwänzen oder Windungen erdrosseln. Viele Drachen und ihre geringeren Verwandten können durch Umschlingung angreifen. Diese Fähigkeit ist besonders häufig bei Lindwürmern und großen Schlangen. Die folgenden Umschlingungsregeln sind optional. Wenn du den Kampf unkompliziert halten möchtest, ignoriere einfach die in diesem Kapitel für Drachen aufgeführten Umschlingungsangriffe.
->
->Ein Drache kann nur ein Opfer umschlingen, dessen Größe kleiner als seine eigene ist. Die Umschlingung basiert auf den Ringerregeln (siehe „Nicht-tödlicher Kampf“ auf Seite 174 von **ArM5**). Die Angriffssumme wird mit der Fertigkeit Raufen berechnet, und ein Umschlingungsangriff hat die folgenden Waffenwerte: Init 0, Ang +3, Vert 0, Sch n/v
->
->Solange der Drache den Griff aufrechterhält, gilt sein Gegner als der Luft beraubt (siehe **ArM5**, Seite 180). Das Opfer muss alle 30 Sekunden, also alle fünf Runden, einen Ausdauerwurf ablegen oder die normalen Auswirkungen der Entbehrung erleiden. Umschlingung ist eine langsame Methode, einen Gegner zu töten.
->
->Sobald der Drache einen Gegner erfolgreich gegriffen hat (und mit der Umschlingung begonnen hat), kann er in nachfolgenden Runden weiter umschlingen und trotzdem mit seinen Klauen oder dem Biss angreifen. Diese Angriffe können gegen das gegriffene Opfer oder gegen einen anderen Gegner gerichtet sein.
 
 #### Arkliss, ein Drache der Marschländer
 
@@ -4798,15 +4716,20 @@ Einer der Gründe, warum Varkos so sehr versucht, furchteinflößend zu sein, is
 
 **Kräfte:**
 
-*Beherrschung,* 1 Punkt, Init +1, Mentem R: Auge, D: Mond, Z: Ind
+*Beherrschung,* 1 Punkt, Init +1, Mentem  
+R: Auge, D: Mond, Z: Ind
 
 Indem sie einer Person in die Augen blickt, kann Arkliss diese ihrem Willen unterwerfen. Das Opfer wird einen mündlichen Befehl nach besten Kräften ausführen, muss aber in der Lage sein, Arkliss' Anweisungen zu verstehen. Normalerweise wollen Menschen keinen Augenkontakt mit Arkliss herstellen. Um diese Kraft einzusetzen, muss sie ihr Opfer überraschen. ReMe 40 (Basis 20, +1 Auge, +3 Mond):
 
 Große Macht (40 Stufen, −2 Machtkosten), Verbesserte Kräfte (1 Meisterschaftspunkt, −1 Machtkosten)
 
+*Pestilenzhauch*, 1 Punkt, Init +1, Auram  
+R: Berührung, D: Durchmesser, Z: Gruppe 
+
 *Pestilenzatem*, 1 Punkt, Init +1, Auram R: Berührung, D: Durchmesser, Z: Gruppe Arkliss kann einen widerlichen, schweren Nebel ausatmen, der jeden im Umkreis von fünf Schritt mit einer Krankheit infiziert und eine Mittelschwere Wunde verursacht, sofern das Opfer keinen Ausdauerwurf gegen einen Schwierigkeitsgrad von 9 schafft. CrAu 30 (Basis 10, +1 Berührung, +1 Durchmesser, +2 Gruppe): Große Macht (30 Stufen, −2 Machtkosten, 10 EP Penetration)
 
-*Lungen des Fisches*, 0 Punkte, Init n/v, Aquam R: Berührung, D: Sonne, Z: Teil
+*Lungen des Fisches*, 0 Punkte, Init n/v, Aquam  
+R: Berührung, D: Sonne, Z: Teil
 
 Wie der Spruch auf Seite 122 von **ArM5**. Diese Kraft ist dauerhaft aktiv.
 
@@ -4820,35 +4743,17 @@ Arkliss ist ein kleiner, aber wilder Drache, der seinen Hort am Grund eines Moor
 
 Arkliss verwendete 1 Meisterschaftspunkt ihrer Qualität Verbesserte Kräfte für ihre Kraft *Lungen des Fisches* und 1 für *Beherrschung* und gab die verbleibenden 3 Punkte für 15 EP in Penetration aus.
 
->## Drachen-Abenteuerideen
->
->### Eine Schillernde Schlange
->
->Auf dem Weg zu einem Besuch bei einem wichtigen Magus oder Adligen stoßen die Charaktere auf einen Scitalis, der versucht, sie zu beißen, während sie gebannt dastehen. Was sie nicht wissen: Der Scitalis war eine Warnung wohlwollender Mächte, denn er nimmt ihren bevorstehenden Besuch vorweg – als sie an ihrem Ziel ankommen, versucht ihr Gastgeber, sie mit verschwenderischen Geschenken und Gastfreundschaft zu beeindrucken, während er insgeheim plant, sie auszunutzen.
->
->### Der Weniger-als-Tödliche „Drache"
->
->Die Charaktere werden von Varkos, dem Feuerdraken, überfallen, der ihren gesamten Schatz fordert. Sie beginnen ein Gespräch mit dem „Drachen“, und Varkos genießt es so sehr, dass er vergisst, sie auszurauben. Später erfahren die Charaktere von einem jungen Ritter, der sich eine Reputation aufbauen will, indem er den „Drachen der Berge“ erschlägt. Der Ritter hat eine magische Salbe erlangt, die ihn vor Flammen schützt, so dass ein Kampf zwischen ihm und Varkos ausgeglichen sein könnte. Können die Charaktere einen tödlichen Kampf verhindern?
->
->### Ein Glitschiger Dieb
->
->Wie die meisten Drachen ist Arkliss von Schätzen besessen. Sie hat einen Plan ausgeheckt, um das wohlhabendste Anwesen ihres Bezirks auszurauben – das zufällig der Konvent der Spielercharaktere ist. Sie schickt mehrere beherrschte Bauern hinein, die sich als Hausierer oder Pilger ausgeben. Um Mitternacht trifft Arkliss ein und nutzt ihre Beherrschungs-Kraft, um etwaige Wächter auszuschalten, damit ihre Schergen den Ort plündern können. Arkliss weiß nichts über verzauberte Gegenstände, aber wenn sie durch ihre Schergen erfährt, wie hoch die Magi solche Dinge schätzen, unternimmt sie besondere Anstrengungen, sie für ihren Hort zu stehlen.
->
->### Ein Begehrliches Geschöpf
->
->Die Magi und ihre Gefährten genießen die Gastfreundschaft eines örtlichen Adligen, als plötzlich die Festhalle heftig erzittert und ein Donnergrollen durch das Tal hallt. Ohne ihr Wissen hat ein Lindwurm ihre Ankunft beobachtet und einen Blick auf einen besonders wertvollen Gegenstand unter ihren Habseligkeiten erhascht. Die Bestie will diesen Gegenstand für sich und wird ihre Geiseln nicht freilassen, bis der Gegenstand herausgegeben wird.
->
->### Der Schreiber der Schlange
->
->Polymathes, der drakonische Bibliothekar, hat über die Jahre einige hermetische Bücher erworben und entschieden, dass es Zeit ist, seine Sammlung zu erweitern. Als wahrer Kenner will er nur Bücher von hoher Qualität. Er ist gewiss nicht bereit, etwas aus seiner eigenen Sammlung herzugeben, aber er würde jemanden zu seinem Hort kommen und ein Buch kopieren lassen, als Gegenleistung für einen neuen Band als Bezahlung. Wenn der Kopist gute Arbeit leistet, beschließt Polymathes, diese Person (auf unbestimmte Zeit) einzustellen, um weitere hermetische Bücher zu kopieren und zu tauschen. Da er ein Drache ist, formuliert er dies nicht als Bitte.
-
 #### Polymathes, der Drakonische Bibliothekar
 
 **Magische Macht:** 41 (Animal)
 
 **Eigenschaften:** Int +5, Wah +4, Prä +8, Kom +3, Stä +12, Aus +8, Ges +3, Sck –4
 
-**Größe:** +7 **Jahreszeit:** Winter **Selbstvertrauenswert:** 3 (9)
+**Größe:** +7 
+
+**Jahreszeit:** Winter 
+
+**Vertrauenswert:** 3 (9)
 
 **Tugenden und Fehler:** Magisches Tier; Magisches Ungeheuer; Große Immunität (Hitze und Feuer); Arkanes Wissen, Gebildet, Verbesserte Eigenschaften (x35), Begabung in Raufen, Zweites Gesicht, Selbstbewusst (x2); Essenzieller Fehler (Habgierig, groß)
 
@@ -4877,14 +4782,12 @@ Arkliss verwendete 1 Meisterschaftspunkt ihrer Qualität Verbesserte Kräfte fü
 *Meister der Illusionen,* 1–5 Punkte, Init –1, Imaginem: Polymathes kann spontan das Erscheinungsbild von allem verändern, was er berührt, wobei er spontan den Effekt eines Muto-Imaginem-Zaubers der fünften Magnitude oder weniger erzeugt, zu Kosten von einem Machtpunkt pro Magnitude. (Fokussierte Macht)
 
 *Feueratem*, 2 Punkte, Init +3, Ignem.
-
 R: Stimme, D: Mom, Z: Ind
 
 Polymathes kann einen Feuerstrom von 50 Schritt Länge und 10 Schritt Breite ausspeien. Jeder, der sich in seinem Pfad befindet, erleidet einen Stresswürfel +45 Schaden durch die Flammen; ein Charakter kann versuchen auszuweichen mit einem Sck + Athletik-Wurf; wenn der Wurf gegen einen Schwierigkeitsgrad von 12 gelingt, wird der Charakter nur angesengt und erleidet einen Stresswürfel +15 Schaden. CrIg 50 (Basis 40, +2 Stimme): Große Macht (50 Stufen), Verbesserte Kräfte
 (partiell, –3 Machtkosten)
 
 *In den Sterblichen Geist Blicken*, 2 Punkte, Init +3, Mentem
-
 R: Sicht, D: Mom, Z: Ind
 
 (partiell, –3 Machtkosten)
@@ -4897,7 +4800,9 @@ InMe 40 (Basis 25, +3 Sicht): Große Macht (40 Stufen, –2 Machtkosten)
 
 Polymathes' Blut ist ein tödliches Gift, das seine Wirksamkeit neun Tage lang nach dem Vergießen behält. Wenn es jemandem gelingt, Polymathes eine Wunde zuzufügen, und er später im Kampf einen Patzer würfelt, hat ein Blutstropfen die Haut des unglücklichen Charakters getroffen, und der Spieler muss einen Ausdauerwurf von 12+ schaffen, oder der Charakter stirbt augenblicklich. CrAq 45 (Basis 25, +3 Daueräquivalent zu Mond, +1 kontinuierlicher Effekt): Große Macht (45 Stufen, –1 Machtkosten), Verbesserte Kräfte (partiell, –3 Machtkosten), Verbesserte Kräfte (partiell, –1 Machtkosten)
 
-Verbesserte Kräfte (partiell, 15 EP in Penetration) **Vis:** 9 Intellego im Herzen
+Verbesserte Kräfte (partiell, 15 EP in Penetration) 
+
+**Vis:** 9 Intellego im Herzen
 
 **Erscheinungsbild:** Polymathes gleicht einer gedrungenen Echse von etwa 8 Metern Schulterhöhe bis zum Hinterteil, mit einem dünnen, geschmeidigen Hals von etwa 5 Metern Länge und einem peitschenartigen Schwanz ähnlicher Länge. Er ist von schimmernden goldenen Schuppen bedeckt, die so hart wie Eisen sind. Seine großen Flügel sind anmutig und beweglich, und er hat die Angewohnheit, mit ihnen zu gestikulieren, wenn er aufgeregt wird, zum Nachteil Umstehender.
 
@@ -4905,7 +4810,7 @@ Polymathes ist so etwas wie ein Zwerg unter Drachen, aber er ist uralter und mag
 
 Polymathes ist von Gier nach Schätzen genauso verzehrt wie jeder seinesgleichen. Doch der Reichtum, den er begehrt, ist nicht Geld, sondern Wissen. Er besitzt einen prächtigen Hort seltener Bücher und Schriftrollen, von denen einige sehr alt sind. Es gibt auch einige Zehntausend Goldmünzen, die Polymathes in seinen jüngeren Tagen angehäuft hat, bevor er die feineren Dinge des Lebens zu schätzen lernte. Er hat seine Schätze sorgfältig in Stapeln angeordnet und schläft zusammengerollt zwischen ihnen. Er liest die Bücher von Zeit zu Zeit (daher seine Grundkenntnisse in akademischen Fertigkeiten), aber er ist in erster Linie als Sammler interessiert. Er ist davon besessen, seine Sammlung mit allen ihm zur Verfügung stehenden Mitteln zu erweitern. (Es wäre höchst unklug, in seiner Gegenwart die Große Bibliothek von Durenmar zu erwähnen.)
 
->## Charakterleitfaden: Ein Lindwurm
+>#### Charakterleitfaden: Ein Lindwurm
 >
 >*Nun kroch der Wurm hinab zu seiner Tränke, und die Erde bebte allenthalben um ihn, und er schnaubte Gift hervor ...*
 >
@@ -4945,13 +4850,15 @@ Polymathes ist von Gier nach Schätzen genauso verzehrt wie jeder seinesgleichen
 >
 >**Kräfte:**
 >
->*Giftiger Atem*, 2 Punkte, Init –3, Auram R: Berührung, D: Durchmesser, Z: Gruppe
+>*Giftiger Atem*, 2 Punkte, Init –3, Auram  
+>R: Berührung, D: Durchm, Z: Gruppe
 >
 >Der Lindwurm kann eine Wolke aus schwarzem Rauch von fünf Schritt Durchmesser ausspeien, die Opfer mit einem Kontaktgift überzieht (Schwierigkeitsgrad 9, verursacht eine Schwere Wunde).
 >
 >CrAu 35 (Basis 15, +1 Berührung, +1 Durchmesser, +2 Gruppe): Große Macht (35 Stufen, +1 Init, –2 Machtkosten)
 >
->*Giftiger Biss*, 0 Punkte, Init n/v, Aquam R: Berührung, D: Sonne, Z: Ind
+>*Giftiger Biss*, 0 Punkte, Init n/v, Aquam  
+>R: Berührung, D: Sonne, Z: Ind
 >
 >Der Biss des Lindwurms hat dieselbe giftige Wirkung wie sein Atem, kostet aber keine Machtpunkte.
 >
@@ -4967,6 +4874,28 @@ Polymathes ist von Gier nach Schätzen genauso verzehrt wie jeder seinesgleichen
 >
 >Dieser Charakterleitfaden kann „wie er ist" verwendet oder im Detail vervollständigt werden, indem bis zu 4 Punkte an Tugenden und Fehlern sowie 175 Erfahrungspunkte für Fertigkeiten hinzugefügt werden. Für einen mächtigeren Lindwurm können auch Macht und Qualitäten hinzugefügt werden.
 
+>#### Drachen-Abenteuerideen
+>
+>Eine Schillernde Schlange
+>
+>Auf dem Weg zu einem Besuch bei einem wichtigen Magus oder Adligen stoßen die Charaktere auf einen Scitalis, der versucht, sie zu beißen, während sie gebannt dastehen. Was sie nicht wissen: Der Scitalis war eine Warnung wohlwollender Mächte, denn er nimmt ihren bevorstehenden Besuch vorweg – als sie an ihrem Ziel ankommen, versucht ihr Gastgeber, sie mit verschwenderischen Geschenken und Gastfreundschaft zu beeindrucken, während er insgeheim plant, sie auszunutzen.
+>
+>Der Weniger-als-Tödliche „Drache"
+>
+>Die Charaktere werden von Varkos, dem Feuerdraken, überfallen, der ihren gesamten Schatz fordert. Sie beginnen ein Gespräch mit dem „Drachen“, und Varkos genießt es so sehr, dass er vergisst, sie auszurauben. Später erfahren die Charaktere von einem jungen Ritter, der sich eine Reputation aufbauen will, indem er den „Drachen der Berge“ erschlägt. Der Ritter hat eine magische Salbe erlangt, die ihn vor Flammen schützt, so dass ein Kampf zwischen ihm und Varkos ausgeglichen sein könnte. Können die Charaktere einen tödlichen Kampf verhindern?
+>
+>**Ein listiger Dieb**
+>
+>Wie die meisten Drachen ist Arkliss von Schätzen besessen. Sie hat einen Plan ausgeheckt, um das wohlhabendste Anwesen ihres Bezirks auszurauben – das zufällig der Konvent der Spielercharaktere ist. Sie schickt mehrere beherrschte Bauern hinein, die sich als Hausierer oder Pilger ausgeben. Um Mitternacht trifft Arkliss ein und nutzt ihre Beherrschungs-Kraft, um etwaige Wächter auszuschalten, damit ihre Schergen den Ort plündern können. Arkliss weiß nichts über verzauberte Gegenstände, aber wenn sie durch ihre Schergen erfährt, wie hoch die Magi solche Dinge schätzen, unternimmt sie besondere Anstrengungen, sie für ihren Hort zu stehlen.
+>
+>**Eine habgierige Kreatur**
+>
+>Die Magi und ihre Gefährten genießen die Gastfreundschaft eines örtlichen Adligen, als plötzlich die Festhalle heftig erzittert und ein Donnergrollen durch das Tal hallt. Ohne ihr Wissen hat ein Lindwurm ihre Ankunft beobachtet und einen Blick auf einen besonders wertvollen Gegenstand unter ihren Habseligkeiten erhascht. Die Bestie will diesen Gegenstand für sich und wird ihre Geiseln nicht freilassen, bis der Gegenstand herausgegeben wird.
+>
+>**Der Schreiber der Schlange**
+>
+>Polymathes, der drakonische Bibliothekar, hat über die Jahre einige hermetische Bücher erworben und entschieden, dass es Zeit ist, seine Sammlung zu erweitern. Als wahrer Kenner will er nur Bücher von hoher Qualität. Er ist gewiss nicht bereit, etwas aus seiner eigenen Sammlung herzugeben, aber er würde jemanden zu seinem Hort kommen und ein Buch kopieren lassen, als Gegenleistung für einen neuen Band als Bezahlung. Wenn der Kopist gute Arbeit leistet, beschließt Polymathes, diese Person (auf unbestimmte Zeit) einzustellen, um weitere hermetische Bücher zu kopieren und zu tauschen. Da er ein Drache ist, formuliert er dies nicht als Bitte.
+
 ## Verwandelte Tiere
 
 Mächtige mystische Effekte verursachen Verzerrung bei Menschen wie Tieren gleichermaßen. Hermetische Magi verwenden häufig den Begriff Verwandeltes Tier, um jene Tiere zu bezeichnen, die durch Magie verzerrt worden sind. Hermetische Taxonomen machen eine wichtige Unterscheidung zwischen Verwandelten Tieren und anderen Tieren mit magischen Eigenschaften, wie Tugendtieren: Die magischen Eigenschaften eines Verwandelten Tieres stehen in keinerlei Zusammenhang mit den natürlichen Eigenschaften des Tieres, sondern sind stattdessen eng mit dem magischen Ereignis verbunden, das die Verwandlung verursacht hat. Verwandelte Tiere erhalten durch ihre Verwandlung zudem keinen Machtwert und werden dadurch nicht zu Wesen, die der Magiesphäre angehören.
@@ -4974,6 +4903,22 @@ Mächtige mystische Effekte verursachen Verzerrung bei Menschen wie Tieren gleic
 ### Verzerrung
 
 Tiere erhalten Verzerrungspunkte auf dieselbe Weise wie Menschen (**ArM5**, Seiten 167–168). Sobald ein Tier einen Verzerrungswert von 1 erreicht, erwirbt es einen Kleinen Fehler, und es erhält einen weiteren Kleinen Fehler, wenn sein Verzerrungswert 3 erreicht. Bei einem Verzerrungswert von 5 wird eine Kleine Tugend erlangt, und weitere Erhöhungen des Verzerrungswerts führen zum Erwerb Großer Fehler. Man beachte, dass ein Tier, das eine Kleine Tugend erwirbt (weil es einen Verzerrungswert von 5 erreicht hat), keine Verzerrungspunkte mehr allein durch den Aufenthalt in derselben Art von Aura erhält.
+
+>#### Kleiner Konventsaufhänger: Verzerrtes Vieh
+>
+>Der Konvent hat eine große Population an Tieren, die durch den langen Umgang mit dem Konvent verzerrt worden sind. Eine Minderheit der Tiere besitzt ungewöhnliche und nützliche Kräfte, aber die Anwesenheit von Monstrositäten zieht weltliche Aufmerksamkeit und Misstrauen auf den Konvent. Wenn die Population an Monstrositäten groß genug ist, können die Tiere zur Gewinnung von Muto-Vis gezüchtet werden — dies wird durch die Zuweisung einer entsprechenden Vis-Quellen-Vergünstigung an den Konvent dargestellt.
+
+>#### Ein Tier absichtlich verzerren
+>
+>Ein Käfig der Wandlung ist ein verzauberter Gegenstand, der dazu bestimmt ist, ein Tier schnell zu verzerren und es monströs werden zu lassen, indem er einen Effekt ähnlich dem *Geschenk des Enigmas* (**ArM5**, Seite 157) verwendet. Dies geschieht in der Hoffnung, dass das Tier danach getötet und für Muto-Vis geerntet werden kann. Die Verwendung eines Käfigs der Wandlung wird von den meisten Magi als unangenehm betrachtet, und viele Bjornaer- und Merinita-Magi empfinden den Gegenstand als abscheulich.
+>
+>##### Käfig der Wandlung
+>CrVi Stufe 30 Pen +0, 1/Tag  
+>R: Berührung, D: Mom, Z: Ind
+>
+>Der Käfig der Wandlung ist ein Eisenkäfig, groß genug, um ein Tier der Größe +1 gefangen zu halten. Wenn er aktiviert wird, verleiht der Käfig dem Gefangenen im Käfig 5 Verzerrungspunkte — was normalerweise ausreicht, um dem Gefangenen einen Verzerrungswert von 1 und einen Kleinen Fehler zu verleihen (**ArM5**, Seiten 167–168). Die Absicht ist, dass das Tier den Kleinen Übernatürlichen Fehler (Form-)Monstrosität erhält, aber es gibt keine Garantie, dass ein bestimmter Fehler vom Tier erworben wird, und andere Fehler könnten das Tier schwer kontrollierbar oder sogar gefährlich machen. Ein hermetischer Magus, der in einer Version des Käfigs der Wandlung gefangen wird, die mit Penetration ausgestattet wurde, könnte stattdessen ins Zwielicht eintreten (**ArM5**, Seite 88).
+>
+>(Effekt: Basis 25, +1 Berührung; Modifikationen: Keine)
 
 #### Tugenden und Fehler durch Verzerrung
 
@@ -4991,11 +4936,15 @@ Im Folgenden werden einige Beispiele für Tiere aufgeführt, die sich durch den 
 
 **Größe:** –3
 
-**Verzerrungswert:** 1 (0) **Selbstvertrauenswert:** 0
+**Verzerrungswert:** 1 (0) 
+
+**Vertrauenswert:** 0
 
 **Tugenden und Fehler:** Perfekte Balance, Begabung in Aufmerksamkeit, Spitze Ohren, Aquam-Monstrosität
 
-**Persönlichkeitseigenschaften:** Neugierig +4, Kühn +1 **Reputationen:** Magisches Tier 2 (lokal)
+**Persönlichkeitseigenschaften:** Neugierig +4, Kühn +1 
+
+**Reputation:** Magisches Tier 2 (lokal)
 
 **Kampf:**
 
@@ -5023,25 +4972,27 @@ Fischer in der Champagne erzählen Geschichten von einer Katze, die in einem Neb
 
 Der Bonisagus-Magus Yonnlius, derzeit ein Meister im Rheintribunal, behauptet, die Katze vor einigen Jahren gefangen und untersucht zu haben. Seine Vermutung ist, dass eine Katze verzerrt wurde, nachdem sie in eine mächtige magische Regio im Fluss Seine gefallen war, als sie versuchte, vom Flussufer aus Fische zu fangen. Aus den Aufzeichnungen in Durenmar geht nicht hervor, ob Yonnlius auch diese Regio lokalisierte, obwohl er anmerkt, dass das Tier nach Abschluss seiner Untersuchung unversehrt freigelassen wurde.
 
->## Kleiner Konventsaufhänger: Verzerrtes Vieh
->
->Der Konvent hat eine große Population an Tieren, die durch den langen Umgang mit dem Konvent verzerrt worden sind. Eine Minderheit der Tiere besitzt ungewöhnliche und nützliche Kräfte, aber die Anwesenheit von Monstrositäten zieht weltliche Aufmerksamkeit und Misstrauen auf den Konvent. Wenn die Population an Monstrositäten groß genug ist, können die Tiere zur Gewinnung von Muto-Vis gezüchtet werden — dies wird durch die Zuweisung einer entsprechenden Vis-Quellen-Vergünstigung an den Konvent dargestellt.
-
 #### Der Hund, der flog (Canis Volata)
 
 **Eigenschaften:** Ger 0, Wah +2, Prä –4, Kom 0, Stä 0, Aus +2, Ges +1, Sck +2
 
 **Größe:** –1
 
-**Verzerrungswert:** 3 (0) **Selbstvertrauenswert:** 0
+**Verzerrungswert:** 3 (0) 
+
+**Vertrauenswert:** 0
 
 **Tugenden und Fehler:** Verbesserte Eigenschaften, Ausdauernd, Spitze Ohren, Auram-Monstrosität, Verzerrte Sinne (geräuschempfindlich), Rücksichtslos
 
-**Persönlichkeitseigenschaften:** Paranoid +3 **Reputationen:** Fliegender Hund 2 (lokal)
+**Persönlichkeitseigenschaften:** Paranoid +3
+
+**Reputation:** Fliegender Hund 2 (lokal)
 
 **Kampf:**
 
 *Biss*: Init +2, Ang +8, Vert +7, Sch +1 **Absorption:** +2
+
+**Widerstand:** +2
 
 **Erschöpfungsstufen:** OK, 0/0, –1, –3, –5, Bewusstlos
 
@@ -5059,31 +5010,21 @@ Die Stadt Hersfeld in Mitteldeutschland (siehe *Wächter des Waldes*, Seite 86) 
 
 Der fliegende Hund ist sehr scheu und fürchtet sich sowohl vor anderen Tieren als auch vor Menschen. Sie versteckt sich immer noch in der Nähe der Stadt Hersfeld und überlebt, indem sie städtischen Abfall durchstöbert. Der Hund war einst ein Jagdhund und wurde verwandelt, nachdem er sich in der Nähe einer magischen Explosion wiederfand, obwohl dies eigentlich in einer weit entfernten, gebirgigen Gegend des Mythischen Europa geschah — von der aus er flog. Ein Magus, der den fliegenden Hund findet, könnte neugierig auf die Quelle der magischen Explosion werden und in der Lage sein, seinen Flugweg zurückzuverfolgen.
 
->## Ein Tier absichtlich verzerren
->
->Ein Käfig der Wandlung ist ein verzauberter Gegenstand, der dazu bestimmt ist, ein Tier schnell zu verzerren und es monströs werden zu lassen, indem er einen Effekt ähnlich dem *Geschenk des Enigmas* (**ArM5**, Seite 157) verwendet. Dies geschieht in der Hoffnung, dass das Tier danach getötet und für Muto-Vis geerntet werden kann. Die Verwendung eines Käfigs der Wandlung wird von den meisten Magi als unangenehm betrachtet, und viele Bjornaer- und Merinita-Magi empfinden den Gegenstand als abscheulich.
->
->### Käfig der Wandlung
->
->CrVi Stufe 30 Pen +0, 1/Tag R: Berührung, D: Mom, Z: Ind
->
->Der Käfig der Wandlung ist ein Eisenkäfig, groß genug, um ein Tier der Größe +1 gefangen zu halten. Wenn er aktiviert wird, verleiht der Käfig dem Gefangenen im Käfig 5 Verzerrungspunkte — was normalerweise ausreicht, um dem Gefangenen einen Verzerrungswert von 1 und einen Kleinen Fehler zu verleihen (**ArM5**, Seiten 167–168). Die Absicht ist, dass das Tier den Kleinen Übernatürlichen Fehler (Form-)Monstrosität erhält, aber es gibt keine Garantie, dass ein bestimmter Fehler vom Tier erworben wird, und andere Fehler könnten das Tier schwer kontrollierbar oder sogar gefährlich machen. Ein hermetischer Magus, der in einer Version des Käfigs der Wandlung gefangen wird, die mit Penetration ausgestattet wurde, könnte stattdessen ins Zwielicht eintreten (**ArM5**, Seite 88).
->
->(Effekt: Basis 25, +1 Berührung; Modifikationen: Keine)
-
 #### Die Mäuse, die die Scheune verbrannten (Mus Flammeus)
 
 **Eigenschaften:** Ger 0, Wah 1, Prä –3, Kom –4, Stä –18, Aus +1, Ges +3, Sck +8
 
 **Größe:** –10
 
-**Verzerrungswert:** 1 (0) **Selbstvertrauenswert:** 0
+**Verzerrungswert:** 1 (0) 
+
+**Vertrauenswert:** 0
 
 **Tugenden und Fehler:** Blitzreflexe, Spitze Ohren, Furchtsam, (Ignem-)Monstrosität,
 
-Schlechtes Sehvermögen
+**Persönlichkeitseigenschaften:** Schüchtern +3 
 
-**Persönlichkeitseigenschaften:** Furchtsam +3 **Reputationen:** Ungeziefer 1 (lokal)
+**Reputation:** Ungeziefer 1 (lokal)
 
 **Kampf:**
 
@@ -5115,19 +5056,23 @@ Mit Genehmigung des Spielleiters kann jedes magische Tier mit tierischem Verstan
 
 Unabhängig davon, ob der Charakter, der ein Tier zähmt, ein Magus, ein magischer Charakter oder ein weltlicher Abrichter ist: Das Zähmen ist eine Quartalstätigkeit, und der Charakter sammelt jedes Quartal eine Anzahl von Punkten für das Zähmen des Tieres an. Das Zähmen ist abgeschlossen, wenn die angesammelte Gesamtpunktzahl die Macht der Kreatur übersteigt. Punkte werden nur zwischen aufeinanderfolgenden Quartalen angesammelt; wenn der Charakter in der Zwischenzeit etwas anderes tut, gehen bereits gesammelte Punkte verloren. Punkte für das Zähmen von Tieren können nicht zwischen Abrichtern übertragen werden.
 
-#### Benötigte Punkte zum Zähmen einer Kreatur: Macht der Kreatur
+Benötigte Punkte zum Zähmen einer Kreatur: Macht der Kreatur
 
 In allen Fällen muss der Zähmer in der Lage sein, während des gesamten Quartals täglich mit der Kreatur zu interagieren. Wenn die Kreatur ein gewalttätiges Temperament hat, benötigt der Zähmer möglicherweise eine Art Schutz (magisch oder anderweitig).
 
 Wenn der Zähmer genügend Punkte erzeugen kann, um eine Kreatur in einem einzigen Quartal zu zähmen, kann er seine Punktesumme auf das Zähmen mehrerer Kreaturen derselben Art aufteilen, aber er kann nicht mehr zusätzliche Kreaturen zähmen, als sein Fertigkeitswert in Tierumgang beträgt.
 
+>#### Tierverständnis
+>
+>Ein Charakter mit Tierverständnis (**ArM5**, Seite 62) kann mit Tieren sprechen, einschließlich einiger magischer Tiere. Ein solcher Charakter kann versuchen, mit jedem Tier zu verhandeln (ungeachtet dessen, ob es gezähmt ist oder nicht), indem er seine Fertigkeit Tierumgang einsetzt, und es so überzeugen, eine Aufgabe auszuführen. Dies ergibt kein gezähmtes Tier, sondern lediglich ein Tier, das beschlossen hat, einer bestimmten Anweisung zu gehorchen. Tierverständnis wird zu Zähmsummen addiert, und der Charakter kann einem gezähmten Tier komplexere Befehle erteilen. Das Tier gehorcht diesen Befehlen nicht eher, aber es kann dem Charakter ermöglichen, ein Tier besser als Kundschafter oder Informant einzusetzen. Ein weiterer wichtiger Nutzen von Tierverständnis besteht darin, ein Tier, das sich weigert, eine gefährliche Aufgabe auszuführen, davon zu überzeugen, dass die Aufgabe doch nicht gefährlich ist.
+
+>#### Weltliche Tiere zähmen
+>
+>Auch weltliche Tiere können gezähmt werden, und (nur für diesen Zweck) haben weltliche Tiere eine effektive (Animal-)Macht von 1 + 2 mal Selbstvertrauenswert. Man beachte, dass das Zähmen eines Tieres eine soziale Aktivität ist, weshalb Abzüge durch die Gabe auf die pro Quartal angesammelten Punkte angewendet werden; Kreaturen mit Magischer Macht sind auf diese Weise oft nicht von der Gabe betroffen. Einige beispielhafte weltliche Tiere werden im Anhang Buch der Weltlichen Tiere beschrieben, und *Häuser des Hermes: Mysterienkultee* (Seite 38) beschreibt eine Methode zur Generierung von Werten für weltliche Tiere.
+
 #### Ein hermetischer Abrichter
 
 Für einen Magus ist das Zähmen eines Tieres eine Laboraktivität, und die Kreatur muss im Labor untergebracht werden. Natürlich kann dies bei einer sehr großen Kreatur den Bau eines neuen Labors erforderlich machen. Die Anzahl der Punkte, die der Magus pro Quartal ansammelt, basiert auf der Rego-(Form-)Laborsumme des Magus (einschließlich Boni, siehe Kasten), die unter Verwendung der für die Kreatur passenden hermetischen Form berechnet wird — Aquam für einen Kelpie, Ignem für einen Feuerelementar und so weiter.
-
->## Weltliche Tiere zähmen
->
->Auch weltliche Tiere können gezähmt werden, und (nur für diesen Zweck) haben weltliche Tiere eine effektive (Animal-)Macht von 1 + 2 mal Selbstvertrauenswert. Man beachte, dass das Zähmen eines Tieres eine soziale Aktivität ist, weshalb Abzüge durch die Gabe auf die pro Quartal angesammelten Punkte angewendet werden; Kreaturen mit Magischer Macht sind auf diese Weise oft nicht von der Gabe betroffen. Einige beispielhafte weltliche Tiere werden im Anhang Buch der Weltlichen Tiere beschrieben, und *Häuser des Hermes: Mysterienkultee* (Seite 38) beschreibt eine Methode zur Generierung von Werten für weltliche Tiere.
 
 **Pro Quartal von einem hermetischen Abrichter angesammelte Zähmpunkte: Re(Fo)-Laborsumme – Macht der Kreatur**
 
@@ -5157,7 +5102,6 @@ Ein weltlicher Abrichter kann ebenfalls versuchen, ein Tier zu zähmen. Er erzeu
 
 Im Allgemeinen wird ein weltlicher Abrichter nur in der Lage sein, Tiere mit einem geringen Machtwert erfolgreich zu zähmen.
 
-
 ### Kunststücke, Tricks und Aufgaben
 
 Sobald ein Tier gezähmt ist, kann es von Charakteren mit Intelligenz (Int) als Eigenschaft befehligt werden. Das Tier kann von jedem solchen Charakter mit der Fertigkeit Tierumgang befehligt werden oder von einem Charakter, dem das Tier treu ergeben ist (siehe unten). Ungeachtet der Methode, die zum Zähmen des Tieres verwendet wurde: Einmal gezähmt, gilt es nicht als unter einem anhaltenden mystischen Effekt stehend.
@@ -5176,10 +5120,6 @@ Jeder Charakter mit der Fertigkeit Tierumgang kann ein gezähmtes Tier abrichten
 
 Normalerweise kann ein Tier nur in Fertigkeiten abgerichtet werden, in denen es bereits einen Wert besitzt, da andere Fertigkeiten seine Fähigkeiten übersteigen.
 
->## Tierverständnis
->
->Ein Charakter mit Tierverständnis (**ArM5**, Seite 62) kann mit Tieren sprechen, einschließlich einiger magischer Tiere. Ein solcher Charakter kann versuchen, mit jedem Tier zu verhandeln (ungeachtet dessen, ob es gezähmt ist oder nicht), indem er seine Fertigkeit Tierumgang einsetzt, und es so überzeugen, eine Aufgabe auszuführen. Dies ergibt kein gezähmtes Tier, sondern lediglich ein Tier, das beschlossen hat, einer bestimmten Anweisung zu gehorchen. Tierverständnis wird zu Zähmsummen addiert, und der Charakter kann einem gezähmten Tier komplexere Befehle erteilen. Das Tier gehorcht diesen Befehlen nicht eher, aber es kann dem Charakter ermöglichen, ein Tier besser als Kundschafter oder Informant einzusetzen. Ein weiterer wichtiger Nutzen von Tierverständnis besteht darin, ein Tier, das sich weigert, eine gefährliche Aufgabe auszuführen, davon zu überzeugen, dass die Aufgabe doch nicht gefährlich ist.
-
 Doch die Spieltruppe kann diese Einschränkung von Fall zu Fall lockern, beispielsweise um einem Pferd das Schwimmen beizubringen. Am Ende jedes Quartals, das für das Abrichten einer Fertigkeit aufgewendet wird, die das Tier noch nicht besitzt, ist ein Treuetest für das Tier gegen einen Schwierigkeitsgrad von 6 zu würfeln. Wenn dieser Treuetest fehlschlägt, erhält das Tier keine Trainingserfahrung und das Quartal ist verschwendet. Treuetests sind nicht erforderlich, um bestehende Fertigkeiten zu verbessern.
 
 #### Ausgebildete Gruppen
@@ -5195,19 +5135,15 @@ Wenn mehrere Charaktere einem Tier widersprüchliche Befehle erteilen, gehorcht 
 **Tier befehligen: Präsenz + Tierumgang (oder Reiten oder Magiekunde) + Stresswürfel gegen Schwierigkeitsgrad**
 
 **Schwierigkeitsgrad:** Automatischer Erfolg
-
 Die Aufgabe nutzt eine Fertigkeit, die die Kreatur besitzt, und die Kreatur hat dies schon viele Male zuvor getan.
 
 **Schwierigkeitsgrad:** 6
-
 Das Tier führt diese Aufgabe nicht oft aus und/oder die Situation ist stressig für das Tier.
 
 **Schwierigkeitsgrad:** 9
-
 Die Aufgabe ist eine komplexe Abfolge von Teilaufgaben, die vom Tier erfordert, sich für einen längeren Zeitraum zu konzentrieren — mindestens mehrere Runden; oder es handelt sich um eine neue Aufgabe, die die Kreatur noch nie zuvor ausgeführt hat.
 
 **Schwierigkeitsgrad:** 12
-
 Die Kreatur fürchtet einen Teil der Aufgabe. Man beachte, dass hier die Wahrnehmung der Furcht durch das Tier entscheidend ist. Die meisten Tiere würden einen Kampf oder Feuer fürchten. Wenn die Kreatur keinen Selbstvertrauenswert besitzt, muss außerdem ein Treuetest gegen einen Schwierigkeitsgrad von 6 bestanden werden, um die Aufgabe durchzuführen.
 
 
@@ -5219,9 +5155,9 @@ Dieses Kapitel behandelt vier große Gruppen Magischer Menschen. Erstens die Rie
 
 ## Magische Riesen
 
-*Unter [den Riesen] war ein abscheuliches Ungeheuer, Goëmagot genannt, von zwölf Ellen Wuchs und so ungeheurer Kraft, dass er mit einem einzigen Ruck eine Eiche entwurzelte, als wäre es ein Haselzweig. Eines Tages ... kam dieser Riese mit zwanzig Gefährten unter die Briten, unter denen er ein fürchterliches Gemetzel anrichtete.*
-
-— Geoffrey von Monmouth, *Geschichte der Könige Britanniens*
+>*Unter [den Riesen] war ein abscheuliches Ungeheuer, Goëmagot genannt, von zwölf Ellen Wuchs und so ungeheurer Kraft, dass er mit einem einzigen Ruck eine Eiche entwurzelte, als wäre es ein Haselzweig. Eines Tages ... kam dieser Riese mit zwanzig Gefährten unter die Briten, unter denen er ein fürchterliches Gemetzel anrichtete.*
+>
+>— Geoffrey von Monmouth, *Geschichte der Könige Britanniens*
 
 Es gibt Riesen, die der Göttlichen und der Höllensphäre angehören (die Nephilim; siehe *Sphären der Macht: Das Göttliche*, Seiten 16–17 und *Sphären der Macht: Das Infernale*, Seite 27), aber die große Mehrheit der Riesen ist entweder Magisch oder Feenhaft. (Feenriesen werden in einem zukünftigen Ergänzungsband für **Ars Magica** Fünfte Edition vorgestellt.) Einige sogenannte Riesen sind lediglich Menschen mit Riesenblut (siehe **ArM5**, Seite 43) und besitzen überhaupt keinen Machtwert; von diesen kann man nicht sagen, dass sie einer Sphäre angehören.
 
@@ -5229,7 +5165,13 @@ Der typische Riese ähnelt einem großen Menschen mit Größe +2 bis etwa +6. So
 
 Manches Volk glaubt, Riesen seien die verfluchten Nachkommen Kains. Magi neigen eher zu der Ansicht, dass sie die fernen Abkömmlinge urzeitlicher Riesen sind, deren Größe und Macht durch Generationen der Vermischung mit Menschen gemindert wurde. Oder es ist möglich, dass einige Riesen ein verzauberter Ableger der menschlichen Rasse sind. Ihre Vorfahren könnten durch mächtige Verzerrung verwandelt oder einem gewaltigen, längst vergessenen Ritual unterworfen worden sein.
 
->## Urzeitliche Riesen
+Magische Riesen errichten ihre Behausungen gewöhnlich weit entfernt von den Wohnstätten der Menschen. Sie vermeiden längeren Kontakt mit dem Dominion, weshalb, wie Landpriester gern sagen, sie heute seltener sind als in heidnischer Vorzeit. Gewöhnlich nehmen sie in Höhlen oder Burgruinen Wohnung, bauen aber manchmal stattdessen riesige Häuser. Sie können sich durch Jagen und Sammeln ernähren, durch Viehzucht, durch Plündern und Räuberei, oder durch eine Kombination aus diesen dreien. Manche Riesen sind Einzelgänger, doch es ist ebenso üblich, dass eine Gruppe von Riesen zusammenlebt.
+
+In der Regel sind Riesen plump, gewalttätig und grausam. Sowohl Riesen als auch Riesinnen sind derb in Erscheinung und Auftreten. Sie sind fast immer hässlich und weisen manchmal auffällige Missbildungen auf. Männliche Riesen neigen zu Arroganz und Prahlerei; ihr Stolz macht sie leicht zu Gewalt zu provozieren. Viele Riesen zeigen zudem die Laster der Völlerei oder Trunksucht. Sie sind schwer von Begriff, können aber eine gewisse niedere Gerissenheit an den Tag legen. Einige wenige Riesen sind friedlich oder gar sanftmütig, doch die meisten sind wild und bösartig.
+
+Die meisten Riesen werden von den Formen Corpus und Mentem beeinflusst. Sie verfügen gewöhnlich über ein begrenztes Repertoire an magischen Kräften, oft nichts weiter als ihre gewaltige Größe.
+
+>#### Urzeitliche Riesen
 >
 >Die urzeitlichen Riesen sind gewaltige Kreaturen, die in den Mythologien vieler Kulturen vorkommen. Sie gelten gewöhnlich als die Kinder der Protogonoi (siehe Kapitel 7: Magische Geister, Urgeister), und als Vorfahren der Götter und Daimonen. Theurgen ordnen diese urzeitlichen Riesen als Kosmokratoren ein und betrachten sie als geisthafte Wesen, soweit derart ungeheuer mächtige Kreaturen überhaupt kategorisiert werden können.
 >
@@ -5241,7 +5183,7 @@ Manches Volk glaubt, Riesen seien die verfluchten Nachkommen Kains. Magi neigen 
 >
 >Urzeitliche Riesen sollten als Kosmokratoren-Geister erschaffen werden (siehe Kapitel 7: Magische Geister, Urgeister), da die folgenden Regeln für Riesen nicht für Kreaturen ausgelegt sind, die so groß sind wie ganze Gebirgszüge (oder noch größer — mehrere Mythen behaupten, die Welt sei aus dem Körper eines erschlagenen urzeitlichen Riesen erschaffen worden). Sie gehören zu den mächtigsten Kreaturen im Mythischen Europa und sind in ihrer Machtebene mit Erzengeln vergleichbar.
 
->## Riesen in den mittelalterlichen Ritterromanen
+>#### Riesen in den mittelalterlichen Ritterromanen
 >
 >Riesen erscheinen gelegentlich in den mittelalterlichen Ritterromanen, wie Chrétien de Troyes' epischen Gedichten über die Ritter der Tafelrunde. Riesen in diesen Erzählungen sind fast immer brutale Bösewichte. Mit den Regeln in diesem Kapitel kannst du ähnliche Gegner für die Helden deiner eigenen Geschichten entwerfen.
 >
@@ -5251,27 +5193,11 @@ Manches Volk glaubt, Riesen seien die verfluchten Nachkommen Kains. Magi neigen 
 >
 >Der Beispielriese Barcas in diesem Kapitel basiert auf Ferragus, einem Riesen, der gegen den Helden Roland in einem der Ritterromane kämpfte (*Geschichte des Lebens Karls des Großen und Rolands,* auch bekannt als der Pseudo-Turpin).
 
-Magische Riesen errichten ihre Behausungen gewöhnlich weit entfernt von den Wohnstätten der Menschen. Sie vermeiden längeren Kontakt mit dem Dominion, weshalb, wie Landpriester gern sagen, sie heute seltener sind als in heidnischer Vorzeit. Gewöhnlich nehmen sie in Höhlen oder Burgruinen Wohnung, bauen aber manchmal stattdessen riesige Häuser. Sie können sich durch Jagen und Sammeln ernähren, durch Viehzucht, durch Plündern und Räuberei, oder durch eine Kombination aus diesen dreien. Manche Riesen sind Einzelgänger, doch es ist ebenso üblich, dass eine Gruppe von Riesen zusammenlebt.
-
-In der Regel sind Riesen plump, gewalttätig und grausam. Sowohl Riesen als auch Riesinnen sind derb in Erscheinung und Auftreten. Sie sind fast immer hässlich und weisen manchmal auffällige Missbildungen auf. Männliche Riesen neigen zu Arroganz und Prahlerei; ihr Stolz macht sie leicht zu Gewalt zu provozieren. Viele Riesen zeigen zudem die Laster der Völlerei oder Trunksucht. Sie sind schwer von Begriff, können aber eine gewisse niedere Gerissenheit an den Tag legen. Einige wenige Riesen sind friedlich oder gar sanftmütig, doch die meisten sind wild und bösartig.
-
-Die meisten Riesen werden von den Formen Corpus und Mentem beeinflusst. Sie verfügen gewöhnlich über ein begrenztes Repertoire an magischen Kräften, oft nichts weiter als ihre gewaltige Größe.
-
 ### Riesen erschaffen
 
 Technisch gesehen könnte jedes Wesen von menschlicher Gestalt, aber größer als menschliche Größe, als Riese betrachtet werden. Dieses Kapitel befasst sich hauptsächlich mit gigantischen Wesen, die in keine andere Kategorie fallen: menschenartige Riesen, im Gegensatz zu großen Elementaren oder Ähnlichem. Riesen erhalten ihre enorme Größe durch die Qualität Gigantisch (siehe Kapitel 4: Magische Charaktere, Große Magische Qualitäten).
 
-#### Konzept
-
-Riesen können würdige Kampfgegner für Gefährten oder kampferprobte Magi sein. Mit etwas Fantasie kann man sich auch andere mögliche Geschichtenrollen für Riesen vorstellen. Vielleicht müssen die Charaktere beispielsweise eine Brücke oder ein anderes Bauwerk in kurzer Zeit errichten und kommen auf die Idee, einen Riesen als Arbeiter anzuwerben. Ein weiser Riese könnte vom Spielleiter als Quelle alter Legenden eingesetzt werden, als Führer in eine Magische Regio oder als Anwender von Runenmagie (siehe *Alte Magie,* Seiten 133–141).
-
-Riesen größer als Größe +2 eignen sich kaum als Spielercharaktere — überlege sorgfältig, bevor du sie als solche einsetzt. Dies liegt hauptsächlich daran, dass Riesen im Kampf sehr formidabel sind, was es dem Spielleiter erschwert, Gegner zu entwerfen, die mächtig genug sind, den Riesen herauszufordern, aber schwach genug, die anderen Spielercharaktere nicht zu überfordern. Zudem könnte die panische Reaktion, die ein drei Meter großer Riese unter Sterblichen hervorrufen würde, die meisten Sagas ernsthaft entgleisen lassen.
-
-Die meisten Riesen werden von Corpus-Magie beeinflusst, aber einige sind stattdessen eng mit einer der elementaren Formen verbunden (am häufigsten Terram).
-
-Riesen sollten nach den Regeln für Magische Menschen in Kapitel 4 erschaffen werden. Beachte, dass Riesen die Qualität Gigantisch besitzen, die ihre Stärke erhöht und ihre Schnelligkeit verringert. Wende die Auswirkungen dieser Qualität *nach* dem Kauf der Eigenschaften an.
-
->## Wie groß ist ein Riese?
+>#### Wie groß ist ein Riese?
 >
 >Die folgende Tabelle gibt ungefähre Größen und Gewichte für eine Figur menschlicher Proportionen an. Sie setzt voraus, dass die Körperdichte unabhängig von der Größe konstant bleibt. Größen unter +1 sind zum Vergleich aufgeführt. Die Angaben zu Größe und Gewicht dienen lediglich als Orientierung. In **Ars Magica** Fünfte Edition wird die Größe und das Gewicht eines Charakters durch seine Größeneigenschaft bestimmt, nicht umgekehrt: Ein Grog mit 90 kg kann seine Größe nicht auf +1 erhöhen, nur weil er 10 kg zunimmt (es sei denn, der Charakter wird nach Ermessen des Spielleiters tatsächlich Fettleibig). Ein besonders großer und schlanker Charakter könnte etwas größer sein als der normale Bereich für seine Größe, oder ein stämmiger könnte etwas mehr wiegen, als die Tabelle nahelegt.
 >
@@ -5295,6 +5221,16 @@ Riesen sollten nach den Regeln für Magische Menschen in Kapitel 4 erschaffen we
 >
 >Der berühmteste Riese im Mythischen Europa, Goliath von Gath (aus der Bibel), war neuneinhalb Fuß groß: Größe +2. Die Nephilim, die in *Sphären der Macht: Das Göttliche* als 300 Ellen (ca. 150 Meter) groß beschrieben werden, wären Größe +18 und würden etwa 54.000 Tonnen wiegen.
 
+#### Konzept
+
+Riesen können würdige Kampfgegner für Gefährten oder kampferprobte Magi sein. Mit etwas Fantasie kann man sich auch andere mögliche Geschichtenrollen für Riesen vorstellen. Vielleicht müssen die Charaktere beispielsweise eine Brücke oder ein anderes Bauwerk in kurzer Zeit errichten und kommen auf die Idee, einen Riesen als Arbeiter anzuwerben. Ein weiser Riese könnte vom Spielleiter als Quelle alter Legenden eingesetzt werden, als Führer in eine Magische Regio oder als Anwender von Runenmagie (siehe *Alte Magie,* Seiten 133–141).
+
+Riesen größer als Größe +2 eignen sich kaum als Spielercharaktere — überlege sorgfältig, bevor du sie als solche einsetzt. Dies liegt hauptsächlich daran, dass Riesen im Kampf sehr formidabel sind, was es dem Spielleiter erschwert, Gegner zu entwerfen, die mächtig genug sind, den Riesen herauszufordern, aber schwach genug, die anderen Spielercharaktere nicht zu überfordern. Zudem könnte die panische Reaktion, die ein drei Meter großer Riese unter Sterblichen hervorrufen würde, die meisten Sagas ernsthaft entgleisen lassen.
+
+Die meisten Riesen werden von Corpus-Magie beeinflusst, aber einige sind stattdessen eng mit einer der elementaren Formen verbunden (am häufigsten Terram).
+
+Riesen sollten nach den Regeln für Magische Menschen in Kapitel 4 erschaffen werden. Beachte, dass Riesen die Qualität Gigantisch besitzen, die ihre Stärke erhöht und ihre Schnelligkeit verringert. Wende die Auswirkungen dieser Qualität *nach* dem Kauf der Eigenschaften an.
+
 Riesen haben keine weiteren verpflichtenden Tugenden oder Fehler, können aber beliebige Tugenden und Fehler wählen (außer offensichtlich widersprüchlichen Fehlern wie Zierlicher Körperbau oder Zwerg) innerhalb des normalen Kontingents für Charaktere. Einige Vorschläge umfassen:
 
 **Tugenden:** Große Immunität, Wege des (Landes); Tierverständnis, Natursinn, Berserker, Begabung in (Kampffertigkeit), Kraftreserven, Spitze Ohren, Zäh, Krieger. (Wähle für einen echten Riesen nicht Riesenblut; verwende stattdessen die Qualität Gigantisch.)
@@ -5317,7 +5253,9 @@ Weitere häufige Qualitäten für Riesen sind Tugenden, die Stärke oder Zähigk
 
 Die traditionellen Waffen für Riesen in mittelalterlichen Erzählungen sind Keulen oder Knüppel. Berechne die Kampfwerte wie üblich, wobei du beachtest, wie die Qualität Gigantisch die Stärke und Schnelligkeit des Riesen beeinflusst.
 
->## Riesen im Kampf
+Die Persönlichkeitseigenschaften eines Riesen können ein gutes Mittel sein, um seine derbe Natur widerzuspiegeln. Erwäge Wahlmöglichkeiten wie Grausam, Tölpelhaft, Trunkenbold, Wütend, Stolz oder Leichtgläubig.
+
+>#### Riesen im Kampf
 >
 >Die Kampfregeln von **Ars Magica Fünfte Edition** sind auf Charaktere menschlicher Größe ausgelegt. Bei Kämpfen zwischen Menschen und Riesen gelten einige besondere Erwägungen. Wie auf Seite 192 von **ArM5** angemerkt, entspricht ein Unterschied von drei Größenpunkten ungefähr einem zehnfachen Masseunterschied. Dieser Gewichtsvorteil verschafft Riesen in bestimmten Kampfsituationen einen Vorteil. So erscheint es beispielsweise nicht plausibel, dass ein 80 kg schwerer Mann einen 800 kg schweren Riesen mühelos ringen und festhalten könnte!
 >
@@ -5327,9 +5265,7 @@ Die traditionellen Waffen für Riesen in mittelalterlichen Erzählungen sind Keu
 >
 >Riesen unterliegen Corpus-Zaubern, aber das Standardziel Individuum für Corpus ist eine Person der Größe +1 oder kleiner. Die meisten Corpus-Zauber sind nicht dafür ausgelegt, ein Wesen von der Größe eines Riesen zu beeinflussen.
 
-Die Persönlichkeitseigenschaften eines Riesen können ein gutes Mittel sein, um seine derbe Natur widerzuspiegeln. Erwäge Wahlmöglichkeiten wie Grausam, Tölpelhaft, Trunkenbold, Wütend, Stolz oder Leichtgläubig.
-
->## Charakterleitfaden: Ein typischer Riese
+>#### Charakterleitfaden: Ein typischer Riese
 >
 >**Magische Macht:** 12 (Corpus)
 >
@@ -5401,6 +5337,8 @@ Die Persönlichkeitseigenschaften eines Riesen können ein gutes Mittel sein, um
 
 *Faust:* Init 0, Ang +10, Vert +8, Sch +6 **Absorption:** +9
 
+**Widerstand:** +9
+
 **Wundabzüge:** –1 (1–7), –3 (8–14), –5 (16–21), Kampfunfähig (22+), Tot (29+)
 
 **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
@@ -5451,29 +5389,15 @@ Nordische Mythen sprechen von Riesen, so groß wie Berge. Entweder sind diese Be
 
 Mit den Jotunnar verwandt ist ein Geschlecht skandinavischer **Trolle**. Der Begriff „Troll" ist mehrdeutig und bezeichnet allgemein ein magisches oder feenhaftes Menschenwesen mit übernatürlichen Kräften. Skandinavische Trolle ähneln extrem hässlichen oder missgestalteten Riesen. Sie sind gewöhnlich eher klein für Riesen (Größe +2 bis +4) und können monströse Merkmale wie Klauen oder Hauer aufweisen.
 
->## Abenteuerideen: Riesen
->
->### Ein Höhlenkerker
->
->Ein Riese namens Morag wurde von einer Gruppe Diabolisten aus seiner Heimat tief in den Bergen vertrieben. Er ist in die Gegend nahe dem Konvent gewandert und hat begonnen, das traditionelle Handwerk seines Volkes auszuüben: Raub. Seine erste Tat bestand darin, einen örtlichen Ritter in einen Hinterhalt zu locken und gefangen zu nehmen, den er nun in einer Höhle festhält — der Eingang ist mit einem Felsbrocken versiegelt, der so schwer ist, dass selbst Morag einen kräftigen Hebel braucht, um ihn zu lösen. Wenn die Charaktere den Riesen einfach erschlagen, können sie seinen Gefangenen möglicherweise nie befreien. Andererseits sinnt Morag auf Rache an den Diabolisten und könnte überredet werden, sich mit den Charakteren zusammenzutun, um sie zu vernichten.
->
->Verwende den Charakterleitfaden für „Ein typischer Riese" für Morags Werte.
->
->### Ein unstillbarer Durst
->
->Kürzlich stahlen einige nahe Bewohner eines von Barcas' Schafen, und nachdem er die Übeltäter bestraft hatte, entdeckte er ihren Weinschlauch und entwickelte eine Vorliebe für Alkohol. Nun plündert und raubt sich Barcas seinen Weg Richtung Zivilisation und trinkt Wein und Bier gallonweise, wo immer er welches aufstöbert. Vielleicht liegt der Konvent in seinem Weg, oder nahe Sterbliche bitten die Magi um Hilfe. Wenn Barcas mit genügend Bier versorgt und am Reden gehalten werden kann (das heißt am Prahlen), verrät er schließlich, dass er eine „unbedeutende" Schwäche hat. Alternativ kann Barcas beschämt werden und abziehen, wenn ein Charakter es schafft, ihn in einem Ringkampf zu besiegen.
->
->### Stürmische See
->
->Der Kapitän eines bestimmten Schiffes, das die nördlichen Meere befährt, hat einen Pakt mit Rok geschlossen. Der Riese fährt auf dem Schiff des Kapitäns mit (ein Teil des Laderaums ist als seine Kabine eingerichtet) und beschwört Stürme gegen rivalisierende Handelsschiffe. Neben der hübschen Füllung der Taschen des Kapitäns (und des Riesen) beginnen ihre Aktivitäten, den Schiffsverkehr merklich zu stören. Da die Übeltäter ständig in Bewegung sind, wäre es schwierig, die mysteriösen Stürme zu ihrer Quelle zurückzuverfolgen, besonders wenn Magi verschiedener Konvente und Tribunale zu unterschiedlichen Schlussfolgerungen über die Ursache gelangen. Einmal entdeckt, kann Rok im Kampf besiegt oder einfach mit einer saftigen Bestechung abgekauft werden.
-
 #### Rok, der Sturmriese
 
 **Magische Macht:** 28 (Auram)
 
 **Eigenschaften:** Int –2, Wah 0, Prä +2, Kom –2, Stä +10, Aus +2, Ges +1, Sck –2
 
-**Größe:** +4 **Jahreszeit:** Sommer **Selbstvertrauenswert:** 1 (3)
+Größe: +2 Jahreszeit: Herbst
+
+**Vertrauenswert:** 1 (3)
 
 **Tugenden und Fehler:** Magischer Mensch; Arkanes Wissen, Berserker, Kraftreserven; Habgierig (groß)
 
@@ -5501,19 +5425,21 @@ Mit den Jotunnar verwandt ist ein Geschlecht skandinavischer **Trolle**. Der Beg
 
 **Kräfte:**
 
+*Meister der Wilden Winde,* 1–5 Punkte, Init –7, Auram 
+
 *Meister der Wilden Winde,* 1–5 Punkte, Init –7, Auram Rok kann spontan Creo-Auram-Effekte der fünften Magnitude oder weniger erzeugen, die gewaltige Winde oder Hagel hervorrufen. Einer seiner bevorzugten Effekte ist *Ansturm der Zornigen Winde* (**ArM5**, Seite 125).
 
 (Fokussierte Macht)
 
 *Sammlung der Stürmischen Macht,* 2 Punkte, Init –3, Auram.
-
 R: Sicht, D: Konz, Z: Gruppe
 
 Wie der Zauber auf Seite 129 von **ArM5**. ReAu 40 (Basis 5, +3 Sicht, +2 Gruppe,
 
 +2 Größe): Große Macht (40 Stufen, –2 Machtkosten)
 
-*Wahre Sicht der Luft,* 0 Punkte, Init n/v, Auram. R: Per, D: Sonne, Z: Vision
+*Klare Sicht durch die Luft,* 0 Punkte, Init n/v, Auram.  
+R: Per, D: Sonne, Z: Vision
 
 Wie der Zauber auf Seite 127 von **ArM5**. Diese Fähigkeit ist ständig aktiv.
 
@@ -5526,6 +5452,22 @@ InAu 20 (Basis 1, +2 Sonne, +4 Vision, +1 kontinuierlicher Effekt): Persönliche
 **Vis:** 6 Auram in Händen
 
 **Erscheinungsbild:** Rok ist ein wild aussehender Riese mit langem, wehendem Haar und einem Bart, der von den kleinen Winden, die ständig um ihn herumwirbeln, zerzaust wird. Er ist etwa 4,50 Meter groß. Er kleidet sich nach der Art der Nordmänner vergangener Tage, einschließlich — wenn er sich zum Kampf rüstet — eines eisernen Helms und eines Kettenhemds. Rok ist unter den Sturmriesen so etwas wie ein Schwächling, da er eines der kleineren Mitglieder dieses mächtigen und furchteinflößenden Geschlechts ist. Im Kampf nutzt er seine Macht über die Winde, um einen *Ansturm der Zornigen Winde*-Effekt zu erzeugen, der es ihm ermöglicht, Gruppen von Gegnern aufzubrechen und Feinde auf Abstand zu halten, bis er ein einzelnes Opfer auswählen kann, das er mit seiner Axt angreift.
+
+>#### Abenteuerideen: Riesen
+>
+>**Ein Höhlenkäfig**
+>
+>Ein Riese namens Morag wurde von einer Gruppe Diabolisten aus seiner Heimat tief in den Bergen vertrieben. Er ist in die Gegend nahe dem Konvent gewandert und hat begonnen, das traditionelle Handwerk seines Volkes auszuüben: Raub. Seine erste Tat bestand darin, einen örtlichen Ritter in einen Hinterhalt zu locken und gefangen zu nehmen, den er nun in einer Höhle festhält — der Eingang ist mit einem Felsbrocken versiegelt, der so schwer ist, dass selbst Morag einen kräftigen Hebel braucht, um ihn zu lösen. Wenn die Charaktere den Riesen einfach erschlagen, können sie seinen Gefangenen möglicherweise nie befreien. Andererseits sinnt Morag auf Rache an den Diabolisten und könnte überredet werden, sich mit den Charakteren zusammenzutun, um sie zu vernichten.
+>
+>Verwende den Charakterleitfaden für „Ein typischer Riese" für Morags Werte.
+>
+>Ein unstillbarer Durst
+>
+>Kürzlich stahlen einige nahe Bewohner eines von Barcas' Schafen, und nachdem er die Übeltäter bestraft hatte, entdeckte er ihren Weinschlauch und entwickelte eine Vorliebe für Alkohol. Nun plündert und raubt sich Barcas seinen Weg Richtung Zivilisation und trinkt Wein und Bier gallonweise, wo immer er welches aufstöbert. Vielleicht liegt der Konvent in seinem Weg, oder nahe Sterbliche bitten die Magi um Hilfe. Wenn Barcas mit genügend Bier versorgt und am Reden gehalten werden kann (das heißt am Prahlen), verrät er schließlich, dass er eine „unbedeutende" Schwäche hat. Alternativ kann Barcas beschämt werden und abziehen, wenn ein Charakter es schafft, ihn in einem Ringkampf zu besiegen.
+>
+>**Stürmische See**
+>
+>Der Kapitän eines bestimmten Schiffes, das die nördlichen Meere befährt, hat einen Pakt mit Rok geschlossen. Der Riese fährt auf dem Schiff des Kapitäns mit (ein Teil des Laderaums ist als seine Kabine eingerichtet) und beschwört Stürme gegen rivalisierende Handelsschiffe. Neben der hübschen Füllung der Taschen des Kapitäns (und des Riesen) beginnen ihre Aktivitäten, den Schiffsverkehr merklich zu stören. Da die Übeltäter ständig in Bewegung sind, wäre es schwierig, die mysteriösen Stürme zu ihrer Quelle zurückzuverfolgen, besonders wenn Magi verschiedener Konvente und Tribunale zu unterschiedlichen Schlussfolgerungen über die Ursache gelangen. Einmal entdeckt, kann Rok im Kampf besiegt oder einfach mit einer saftigen Bestechung abgekauft werden.
 
 ### Nichtmenschliche Riesen
 
@@ -5600,7 +5542,9 @@ Der Spielleiter sollte über die Kräfte des Geistes entscheiden. Mit Zustimmung
 
 *Handwerker der Erde*, variable Punkte, Init – (Machtkosten + 1), Terram.
 
-*Das Rohe Erdreich Beleben*, 6 Punkte, Init –11, Terram. *Führung*, 3 Punkte, Init 0, Mentem
+*Die rohe Erde beleben*, 6 Punkte, Init –11, Terram. 
+
+*Führung*, 3 Punkte, Init 0, Mentem
 
 *Eidolon*, 1 Punkte, Init –1, Imaginem: Lise kann diese Kraft nutzen, um ihre scheinbare Erscheinung in die einer viel jüngeren Frau zu verwandeln.
 
@@ -5612,7 +5556,7 @@ Der Spielleiter sollte über die Kräfte des Geistes entscheiden. Mit Zustimmung
 
 In den Alten Wegen von ihrer Großmutter tief im Wald aufgezogen, war Lise sechzehn, bevor sie einem anderen Menschen begegnete. Als sie ein Dorf entdeckte, besuchte sie es oft und verliebte sich sogar in einen der Leibeigenen. Auf der Suche nach einer Heirat ging sie zu einem Priester, um die Taufe zu empfangen, doch statt in ihrem Katechismus unterrichtet zu werden, wurde sie von ihm übel behandelt. Der Priester erzählte Lises Geliebtem Lügen, was zu dessen Zurückweisung führte. Sie floh aus dem Dorf und schwor, nie zurückzukehren. Im Wald schwelte ihr Hass auf den Priester (und damit auf die Kirche). Im Gedenken an die Lehren ihrer Großmutter suchte sie den heiligen Ort der Dunklen Mutter auf, eines chthonischen Geistes des tiefen Waldes und der fruchtbaren Erde, der guten Grund hatte, der Kirche zu grollen. Lise wurde die einzige Priesterin der Dunklen Mutter. Seitdem lebt sie in der Magischen Regio des Geistes mit Stärke 8, ihr Leben verlängert durch die Stasis-Kraft des Geistes, aber sie wurde schrecklich verzerrt.
 
->## Abenteueridee: Rache
+>#### Abenteueridee: Rache
 >
 >Nachdem sie Macht und Wissen von ihrem geistigen Mentor angehäuft hat, ist Lise nun bereit, die Regio zu verlassen, die sie sowohl beschützt als auch verzerrt hat, und ihr Ziel zu verfolgen, die Welt von der Kirche zu befreien, einen Priester nach dem anderen. Sie ist gefährlich wahnsinnig; ihre Meinung über die gesamte Kirche basiert auf einer einzigen unglücklichen Erfahrung mit einem korrupten Priester. Da ihr Leben durch die Stasis-Kraft ihres Mentors verlängert wurde (siehe Kapitel 8: Geister, Häufige Kräfte), kann sie keine Magieaura verlassen, ohne dramatisch zu altern. Ihre erste Aufgabe besteht daher darin, die Magieaura ihres Genius Loci auszudehnen, um das Dorf zu umschließen; sobald die Kirche umgeben ist, kann sie das Dorf wieder betreten und ihre Rache vollziehen.
 
@@ -5639,25 +5583,21 @@ Atlantier-Charaktere können mit Kräften erschaffen werden, die die besondere R
 
 **Geerbte Fehler:** Verbannter Atlantier, Persönlichkeitsfehler in Verbindung mit dem Exil (zum Beispiel Deprimiert).
 
-**Erlass des Atlantiers** 1 Punkt, Init: Sck+1, Animal R: Wasserweg, D: Konz, T: Ind
+##### Erlass des Atlantiers 
+1 Punkt, Init: Sck+1, Animal  
+R: Wasserweg, D: Konz, Z: Ind
 
 Der Charakter kann eine Wasserkreatur innerhalb desselben Wasserwegs herbeirufen (siehe Kapitel 4: Charaktere, Neue und modifizierte Tugenden, Atlantische Magie) und ihr befehlen, eine Aufgabe auszuführen. Delfine sind besonders begierig, Atlantiern zu gefallen, und versuchen stets, einer Herbeirufung zu folgen, selbst unter erheblichem Risiko für sich selbst. Andere Wasserkreaturen gehorchen einer Herbeirufung nur, wenn ein Wurf auf Präsenz + Führung gegen einen Schwierigkeitsgrad von 6 + Größe der Kreatur gelingt. Die Kraft muss außerdem die Magieresistenz einer Magischen Kreatur durchdringen, um wirksam zu sein. Der Charakter kann versuchen, entweder ein bestimmtes Individuum oder eine bestimmte Art von Kreatur herbeizurufen; in letzterem Fall antwortet die nächste dieser Art. Natürlich kann es, wenn die Wasserkreatur weit entfernt ist, beträchtliche Zeit dauern, bis sie zum Standort des Charakters schwimmt.
 
 ReAn 10 (Basis 2, +3 Wasserweg, +1 Konz): Große Macht (10 Stufen, 30 Stufen Penetration, +2 Init)
 
-**Flüstern der Tiefe**
-
-0 Punkte, Init: Sck+1, Imaginem R: Wasserweg, D: Konz, T: Ind
+##### Murmeln der Tiefe
+0 Punkte, Init: Sck+1, Imaginem  
+R: Wasserweg, D: Konz, Z: Ind
 
 Der Charakter kann von jedem beliebigen Punkt im selben Wasserweg aus hören (siehe Kapitel 4: Charaktere, Neue und modifizierte Tugenden, Atlantische Magie).
 
 InIm 5 (Basis 1, +3 Wasserweg, +1 Konzentration): Große Macht (5 Stufen, –1 Kosten, 15 Stufen Penetration, 15 EP in Konzentration, +2 Init)
-
->## Abenteueridee: Frau aus Atlantis
->
->Im Konvent trifft die Nachricht ein, dass Fischer aus einer nahegelegenen Stadt eine Adlige im Meer gefangen haben. Die Frau ist sehr mürrisch und unzugänglich, obwohl sie nachdrücklich verkündet, sie sei Pavania — eine Prinzessin von Atlantis — und einfache Fischer seien unter ihrer Würde. Pavania kennt die Gabe, hat aber noch nie vom Orden des Hermes gehört, und wenn sie von den Kräften der Magi erfährt, wird sie verlangen, dass diese „den Makel der Oberwelt" von ihr entfernen. Als Gegenleistung verspricht Pavania, die Magi zu ihrem Zuhause zu führen, der versunkenen Stadt Atlantis, wo sie von ihrem dankbaren Vater, dem König von Atlantis, reich belohnt werden.
->
->Glauben die Magi ihr? Wie entfernen sie „den Makel der Oberwelt"? Selbst wenn Pavania die Wahrheit sagt, wer (oder was) ist der König von Atlantis, und was würde er als „Belohnung" betrachten?
 
 #### Kinder von Atlantiern
 
@@ -5665,7 +5605,7 @@ Manchmal wird einem verbannten Atlantier ein Kind geboren. Ein solcher Charakter
 
 Einige wenige Magi haben die Magie verbannter Atlantier studiert; ein Magus mit diesem Erbe besitzt die Kleine Hermetische Tugend: Atlantische Magie (siehe Kapitel 4: Charaktere). Eine Möglichkeit, diese Tugend in einer Saga zu nutzen, wäre als Grundlage eines Hermetischen Mysterienkults.
 
->## Atlantier-Charakterleitfaden
+>#### Atlantier-Charakterleitfaden
 >
 >**Magische Macht:** 10+ (Aquam)
 >
@@ -5697,13 +5637,19 @@ Einige wenige Magi haben die Magie verbannter Atlantier studiert; ein Magus mit 
 >
 >**Vis:** Aquam-Vis im Blut.
 
+>#### Abenteueridee: Frau aus Atlantis
+>
+>Im Konvent trifft die Nachricht ein, dass Fischer aus einer nahegelegenen Stadt eine Adlige im Meer gefangen haben. Die Frau ist sehr mürrisch und unzugänglich, obwohl sie nachdrücklich verkündet, sie sei Pavania — eine Prinzessin von Atlantis — und einfache Fischer seien unter ihrer Würde. Pavania kennt die Gabe, hat aber noch nie vom Orden des Hermes gehört, und wenn sie von den Kräften der Magi erfährt, wird sie verlangen, dass diese „den Makel der Oberwelt" von ihr entfernen. Als Gegenleistung verspricht Pavania, die Magi zu ihrem Zuhause zu führen, der versunkenen Stadt Atlantis, wo sie von ihrem dankbaren Vater, dem König von Atlantis, reich belohnt werden.
+>
+>Glauben die Magi ihr? Wie entfernen sie „den Makel der Oberwelt"? Selbst wenn Pavania die Wahrheit sagt, wer (oder was) ist der König von Atlantis, und was würde er als „Belohnung" betrachten?
+
 ### Flammentänzer
 
 Manche Menschen werden mit magischem Feuer im Blut geboren, und das gilt besonders für jene, die als Flammentänzer bekannt sind — Männer und Frauen, die von der Kraft des Feuers besessen sind. Einige sagen, sie seien von einem Feuergeist bewohnt, andere glauben, sie seien von einem Fieber oder Wahnsinn ergriffen, und wenige halten sie für nichts weiter als Hedonisten, die an Leidenschaft und Vergnügen Freude haben. Was auch immer der Fall sein mag, die Flammentänzer verkörpern Feuer, dem in einem menschlichen Körper Leben eingehaucht wurde.
 
 Flammentänzer lieben gewöhnlich zwei Dinge: Feuer und Fleisch. Dies sind die Grundpfeiler jeder Zusammenkunft der Flammentänzer, sei es, dass sich mehrere versammeln, um ein Ereignis zu feiern, oder dass ein einzelner Flammentänzer andere dazu ermuntert, sich zu vergnügen. Sie können einem guten Lagerfeuer nach Einbruch der Dunkelheit nicht widerstehen, und sobald es richtig brennt, fühlen sie sich unweigerlich gedrängt, um die Flammen zu tanzen. Während dieses Tanzes ermüden sie nie. Flammentänzer haben manchmal andere Zwänge, doch was auch immer sie sein mögen, sie üben sie stets mit Feuer aus; Flammen sind Teil ihrer Natur. Wenn sie Musik spielen müssen, tun sie es, während ein Feuer brennt. Wenn sie trinken müssen, trinken sie neben einem knisternden Kamin. Wenn sie kämpfen müssen, kämpfen sie mit Feuer. Diese Tätigkeiten sind für sie untrennbar miteinander verbunden, sodass sie das eine nicht ohne das andere tun können.
 
->## Abenteueridee: Brennstoff für die Flammen
+>#### ABENTEUERIDEE: Brennstoff für die Flammen
 >
 >Ein Schreiber erscheint im Konvent und bietet an, seine Fähigkeiten im Kopieren und Illuminieren von Büchern gegen Kost und Logis einzutauschen. Er sagt, er habe aus der Kirche fliehen müssen, in der er zuletzt gearbeitet hatte, als diese niederbrannte. Der Mann ist unwissentlich ein Flammentänzer, der das überwinden möchte, was er als seine niedere Natur betrachtet, doch seine Leidenschaften werden entfacht, wann immer er Bücher liest, in denen unzüchtige oder laszive Frauen vorkommen. Bestimmte Bibelpassagen entzündeten sein Begehren, und als Folge setzte er versehentlich das Gebäude in Brand. Er wird diese Schwäche nicht zugeben, wenn er es vermeiden kann, da er sie als private Strafe Gottes für seine Sünden ansieht — doch die Magi können seine Dienste nur sicher in Anspruch nehmen, solange sie dafür sorgen, dass er nichts Anstößiges liest, denn sonst könnte ihre eigene Bibliothek in Gefahr geraten.
 
@@ -5713,17 +5659,17 @@ Flammentänzer lieben gewöhnlich zwei Dinge: Feuer und Fleisch. Dies sind die G
 
 **Häufige Fehler:** Schnelles Altern, Zwang (etwas im Zusammenhang mit Feuer)
 
-**Ausdauer des Flammentänzers** 1 Punkt, Init (Sck – 2), Corpus R: Per, D: Sonne, T: Ind
+##### Ausdauer des Flammentänzers 
+1 Punkt, Init (Sck – 2), Corpus  
+R: Per, D: Sonne, Z: Ind
 
 Der Charakter fühlt sich unverletzt und ohne Erschöpfung, bis die Sonne auf- oder untergeht. (Siehe *Ausdauer der Berserker*, **ArM5** Seite 134.)
 
-**Magie**
-
 ReCo 20 (Basis 10, +2 Sonne): Persönliche Kraft (20 Stufen, –1 Machtkosten)
 
-**Lass das Feuer lodern**
-
-0 Punkte (+10 Macht), Init (Sck – 3), Ignem R: Berührung, D: Mom, T: Ind
+##### Lass das Feuer lodern
+0 Punkte (+10 Macht), Init (Sck – 3), Ignem  
+R: Berührung, D: Mom, Z: Ind
 
 Der Charakter setzt ein einzelnes Ziel in Brand, das leicht entflammbar ist, wie feuchtes Holz, bis zur Größe eines Hauses.
 
@@ -5745,10 +5691,8 @@ Vergessene Götter haben typischerweise eine Art von Schwerpunkt — eine Art vo
 
 **Häufige Fehler:** Stolz (Groß) oder Heide (siehe Kapitel 4: Charaktere)
 
-**Zauberergemeinschaft**
-
+##### Zauberergemeinschaft
 Variabel, Init (Sck – 5), Vim
-
 R: Stimme, D: Mom, T: Ind
 
 Wie der Zauber auf Seite 160 von **Ars Magica** Fünfte Edition kann der Charakter 10 Stufen zu einem mit *Gemeinschaft* gewirkten Zauber beitragen, indem er eine Erschöpfungsstufe ausgibt.
@@ -5757,13 +5701,9 @@ MuVi Allgemein (Basiseffekt, +2 Stimme): Fokussierte Macht (10 Stufen, +5 Penetr
 
 (Beachte, dass dies die Version der Kraft ist, die als Tugend gewählt wird; eine als Magische Qualität gewählte würde vom Machtwert des Charakters abhängen.)
 
->## Abenteueridee: Keine Götter neben mir
+>#### ABENTEUERIDEE: Keine Götter neben mir
 >
 >Während eines Aufenthalts in einem nahegelegenen Kloster hören die Charaktere von einem der Brüder die Geschichte eines neuen Novizen, der seit 30 Tagen in der Büßerzelle lebt und an einer ungewöhnlichen Form des Wahnsinns zu leiden scheint. Laut dem jungen Mann ist er Jupiter, der antike Gott des Himmels — oder zumindest war er es. Aus dem, was sie zwischen seinem Schluchzen und seinen gewalttätigen Ausbrüchen verstehen konnten, geht hervor, dass er hungrig und durstig war und zu einer Kirche ging, wo man ihm die Kommunion anbot. Er nahm sie an, und danach wurden ihm all seine großen Kräfte genommen. Er fühlt sich vom Göttlichen verraten, spürt aber zugleich Gottes Liebe und Gnade für sich. Die Mönche glauben, er habe das Potenzial, ein großer Heiliger zu werden, wenn er nur seine stolze Wahnvorstellung überwinden könnte, ein Gott zu sein. Wenn die Charaktere zu ihm gehen, werden sie feststellen, dass dieser Vergessene Gott glaubt, die Wahrheit zu sagen, dass er tatsächlich Magische Kräfte besitzt, aber auch über Wahren Glauben verfügt. Werden sich die Charaktere in seine Geschichte einmischen?
-
->## Abenteueridee: Die Bäume verschwören sich gegen uns
->
->Als eine berühmte Persönlichkeit des Ordens des Hermes plötzlich stirbt (zum Beispiel Vinaria, die ehemalige Prima von Haus Merinita), nimmt ihr Körper die Gestalt eines Baumes an. In ihrem Testament gibt sie zu, eine Lehmwanderin gewesen zu sein, und erklärt, was das bedeutete. Ihre Worte legen nahe, dass es noch weitere Lehmwanderer im Orden gibt, da sie die Magi warnt, ihr Verhalten zu bessern. Die Angelegenheit wird einem Notfall-Tribunal vorgelegt, um diese anderen Baummenschen, die sich in ihrer Mitte verbergen, zu zwingen, sich zu offenbaren. Eine vertrauenswürdige Rotkappe, die den Charakteren bekannt ist — vielleicht Ash aus *Der gebrochene Bund von Calebais* — gesteht den Charakteren, dass sie ein weiterer dieser Bäume in Menschengestalt ist, und bittet sie, ihr Schutz vor mächtigeren Magi zu gewähren, die mit der Drohung eines Krieges ihre Geheimnisse erzwingen wollen.
 
 ### Lehmwanderer
 
@@ -5774,6 +5714,10 @@ Es heißt, dass einmal pro Generation einer dieser Baumgeister in menschlicher G
 Ein Lehmwanderer zu sein ist ein großes Geheimnis, und die meisten von ihnen halten es nicht für klug, es mit anderen zu teilen. Stattdessen geben sie vor, anderen an der Natur interessierten Gruppen anzugehören, oder treten Organisationen bei, die jedem offenstehen, und lenken deren Mitglieder zu Entscheidungen, die ihren eigenen Interessen dienen. Ein Beispiel dafür ist die Gruppe der Rotkappen, die als Zerbrochene Äste bekannt ist und die in ihrer Liebe zur Natur und ihrer Achtung vor der Wildnis vereint ist. Ihre Gründerin war eine Lehmwanderin, die zur Rotkappe des Ordens des Hermes wurde, und so wissen neue Lehmwanderer, die sich für Magi interessieren, oft, dass sie bei diesem Haus Anschluss suchen sollten.
 
 Lehmwanderer sind typischerweise scheu und ungesellig und verbringen gewöhnlich mehrere Jahre damit, sich an Menschen zu gewöhnen, bevor sie sich ihnen anschließen. Eine Methode, die sie dafür nutzen, besteht darin, einen Ort ganz in der Nähe von Menschen aufzusuchen, vielleicht direkt am Rand der Felder eines Dorfes, und sich in einen Baum zu verwandeln. In dieser Gestalt können sie dann die Menschen beobachten und lernen, bis sie sich bereit fühlen, deren Gemeinschaft beizutreten. Das kann viele Jahre dauern.
+
+>#### ABENTEUERIDEE: Die Bäume verschwören sich gegen uns
+>
+>Als eine berühmte Persönlichkeit des Ordens des Hermes plötzlich stirbt (zum Beispiel Vinaria, die ehemalige Prima von Haus Merinita), nimmt ihr Körper die Gestalt eines Baumes an. In ihrem Testament gibt sie zu, eine Lehmwanderin gewesen zu sein, und erklärt, was das bedeutete. Ihre Worte legen nahe, dass es noch weitere Lehmwanderer im Orden gibt, da sie die Magi warnt, ihr Verhalten zu bessern. Die Angelegenheit wird einem Notfall-Tribunal vorgelegt, um diese anderen Baummenschen, die sich in ihrer Mitte verbergen, zu zwingen, sich zu offenbaren. Eine vertrauenswürdige Rotkappe, die den Charakteren bekannt ist — vielleicht Ash aus *Der gebrochene Bund von Calebais* — gesteht den Charakteren, dass sie ein weiterer dieser Bäume in Menschengestalt ist, und bittet sie, ihr Schutz vor mächtigeren Magi zu gewähren, die mit der Drohung eines Krieges ihre Geheimnisse erzwingen wollen.
 
 #### Lehmwanderer-Werte
 
@@ -5793,13 +5737,17 @@ Der Charakter verwandelt sich in einen Baum, bis die Sonne untergeht. (Siehe **A
 
 MuCo(He) 35 (Basis 25, +2 Sonne): Persönliche Kraft x2 (35 Stufen, –3 Machtkosten)
 
-**Schritt des ungeduldigen Menschen** 0 Punkte, Init (Sck – 1), Corpus R: Per, D: Sonne, T: Ind
+##### Schritt des Ungeduldigen Menschen
+0 Punkte, Init (Sck – 1), Corpus  
+R: Per, D: Sonne, Z: Ind
 
 Der Charakter verwandelt sich in einen Menschen, bis die Sonne untergeht. (Dies ist für Lehmwanderer gedacht, die als magischer Charakter mit einem Baum als wahrer Gestalt gestaltet werden.)
 
 MuHe(Co) 25 (Basis 5, +2 Sonne, +2 Größe): Persönliche Kraft x2 (25 Stufen, –3 Machtkosten, +2 Init)
 
-**Wandel unter den Ahnen** 1 Punkt, Init (Sck – 4), Herbam R: Per, D: Mom, T: Ind
+##### Wandeln unter den Uralten 
+1 Punkt, Init (Sck – 4), Herbam  
+R: Per, D: Mom, Z: Ind
 
 Der Charakter kann in die Herbam-Provinz der Zwielichtleere blicken und durch das Relikt eines Baumes hindurchgehen, um andere an einen anderen Ort zu führen, was ihm einen Bonus auf sein Relikt-Reisen von +18 verleiht.
 
@@ -5811,7 +5759,7 @@ Manche Kinder im Mythischen Europa werden in Familien geboren, die sich nicht um
 
 Ein Verlorenes Kind erscheint typischerweise zwischen fünf und 15 Jahre alt, und um eines zu spielen, sollte ein Charakter mit den Größen- und Eigenschaftsabzügen eines Kindes entworfen werden (aus Seite 29 von **Ars Magica** Fünfte Edition). Außerdem kann es angemessen sein, den Charakter mit Gerissenheit statt Intelligenz zu gestalten, wenn er nicht als Spielercharakter gedacht ist.
 
->## Abenteueridee: Entführt!
+>#### ABENTEUERIDEE: Entführt!
 >
 >Während einer Reise durch einen nahegelegenen Wald erregt ein Spielercharakter die Aufmerksamkeit eines Verlorenen Kindes, ohne es zu wissen. Dieser Heranwachsende verliebt sich in den Charakter und beginnt, der Gruppe unauffällig zu folgen. Da das Kind magisch ist, interessiert es sich nicht für die Feinheiten des Werbens oder Umgarnens, sondern inszeniert stattdessen eine nächtliche Entführung und verschleppt den Charakter, in den es vernarrt ist. Wenn die anderen Charaktere erwachen, stellen sie fest, dass einer aus ihrer Mitte fehlt, und müssen der Spur in den Wald folgen, um ihren Freund zurückzuholen.
 
@@ -5821,7 +5769,9 @@ Ein Verlorenes Kind erscheint typischerweise zwischen fünf und 15 Jahre alt, un
 
 **Häufige Fehler:** Große Verfluchung (wächst nicht aus den Größen- und Eigenschaftsabzügen der Kindheit heraus), Soziale Beeinträchtigung (verhält sich wie ein Kind)
 
-**Heile die Wunden ungestümer Jugend** 3 Punkte, Init (Sck – 8), Corpus R: Berührung, D: Mom, T: Ind
+##### Heile die Wunden ungestümer Jugend 
+3 Punkte, Init (Sck – 8), Corpus  
+R: Berührung, D: Mom, Z: Ind
 
 Der Charakter heilt dauerhaft eine einzelne Leichte Wunde.
 
@@ -5831,13 +5781,13 @@ CrCo 20 (Basis 15, +1 Berührung): Ritualmacht (20 Stufen, –1 Machtkosten)
 
 Elementare sind die nicht-empfindungsfähige Verkörperung reiner elementarer Kräfte (siehe Kapitel 8: Magische Dinge). In einigen wenigen Seen, die über ganz Mythisches Europa verstreut sind, leben jedoch empfindungsfähige Kreaturen, die ansonsten Wasserelementaren ähneln. Diese Kreaturen bezeichnen sich selbst als Seemenschen, und sie verlassen manchmal ihre wässrigen Heimstätten, nehmen menschenähnliche Gestalt an und bereisen die Oberwelt. Die Seemenschen sind typischerweise gelassene Individuen und reisen gewöhnlich allein. Sie behaupten, ihre Reisen seien lediglich gelehrte Unternehmungen, um Informationen über die Oberwelt zu sammeln. Es ist unklar, ob die Seemenschen den Elementaren nur oberflächlich ähneln oder tatsächlich Elementare sind, die auf irgendeine Weise Intellekt erworben haben.
 
->## Abenteueridee: Menschen oder Machenschaften?
->
->Einer der Magi freundet sich mit einem der Seemenschen an, dessen besonderes Interessengebiet auch ihre eigene magische Stärke ist, und sie entwirrt langsam die Einzelheiten der gesellschaftlichen Organisation seiner Art. Als sie von den „Bibliotheken" erfährt, die die Winter-Seemenschen verkörpern, wird sie von dem Wunsch getrieben, deren nahegelegene Unterwasser-Regio zu besuchen. Doch sie fragt sich auch, warum die Gesellschaft der Seemenschen auf diese scheinbar künstliche Weise aufgebaut ist — vielleicht sind die Seemenschen keine natürlichen Kreaturen, sondern eine magische Schöpfung irgendeiner Art.
-
 Die Seen, in denen die Seemenschen leben — darunter der Balaton (nahe Budapest), der Loch Dee (in Schottland) und der Bodensee (in Deutschland) — enthalten alle magische Regiones tief unter der Wasseroberfläche. Es wurde spekuliert, dass alle Seen durch eine Kombination aus Unterwassertunneln und magischen Portalen verbunden sind. Magi haben durchaus beobachtet, dass wenn ein einzelner Seemensch von einer bestimmten Tatsache erfährt, etwa dem Bau eines Konvents, dieses Wissen sich rasch zu seinen Artgenossen in anderen Seen in ganz Mythischem Europa verbreitet. Während des Schismakriegs sollen einige Mitglieder von Haus Diedne dieses Netzwerk genutzt haben, um rasch durch Mythisches Europa zu reisen und es als alternatives Netzwerk von Mercere-Portalen zu verwenden (siehe *Häuser des Hermes: Wahre Linien*, Seite 80). Aus diesem Grund sind die meisten Magi den Seemenschen gegenüber misstrauisch, und einige behaupten sogar, die Seemenschen gewährten noch immer Flüchtlingen aus Haus Diedne Unterschlupf. Die Seemenschen ihrerseits sind wenig mitteilsam, was sowohl die Existenz des Seennetzwerks als auch ihre frühere Beziehung zu Haus Diedne angeht — wenn man sie bedrängt, behaupten sie, die hermetische Politik nicht zu verstehen — und der Orden des Hermes ist sich über das wahre Ausmaß der Kräfte der Seemenschen unsicher. Kluge Magi raten jedoch zur Vorsicht und verweisen auf einen Angriff auf den Balaton, der von fünf Magi des Hauses Tremere in den letzten Jahren des Schismakriegs durchgeführt wurde, als Warnung. Was genau geschah, ist unklar, aber weder die Tremere noch ihre Begleiter kehrten jemals an die Seeoberfläche zurück.
 
 Die Gesellschaft der Seemenschen ist streng nach jahreszeitlichen Linien aufgeteilt. Frühlings-Charaktere leben innerhalb der See-Regiones und wagen sich selten hinaus. Wenn der Charakter zum Sommer übergeht, beginnt er Ausflüge in die Welt zu unternehmen, und wenn er zum Herbst wird, schließt er sich einer ad hoc gegründeten Societas an, die einem bestimmten Interesse gewidmet ist, dem er sich mit Eifer widmet. Eine Societas könnte zum Beispiel dem Studium der Bäume, der Berge oder der Stadt Paris gewidmet sein. Wenn er zum Winter übergeht, kehrt der Charakter in die See-Regio zurück. Dann ist unklar, was genau mit einem Winter-Seemenschen geschieht — selbst Seemenschen anderer Jahreszeiten sind vage in den Einzelheiten. Es scheint jedoch, dass Winter-Seemenschen in eine tiefe Ebene der See-Regio hinabsteigen, wo sie wie große, empfindungsfähige Bibliotheken in ihrem Fachgebiet wirken und gleichzeitig das Netzwerk, das die See-Regiones verbindet, aufrechterhalten und überwachen. Es ist auch möglich, dass die Winter-Seemenschen schließlich als Frühlings-Charaktere wiedergeboren werden. Der Orden des Hermes weiß nichts darüber, wie die Gesellschaft der Seemenschen organisiert ist.
+
+>#### ABENTEUERIDEE: Menschen oder Machenschaften?
+>
+>Einer der Magi freundet sich mit einem der Seemenschen an, dessen besonderes Interessengebiet auch ihre eigene magische Stärke ist, und sie entwirrt langsam die Einzelheiten der gesellschaftlichen Organisation seiner Art. Als sie von den „Bibliotheken" erfährt, die die Winter-Seemenschen verkörpern, wird sie von dem Wunsch getrieben, deren nahegelegene Unterwasser-Regio zu besuchen. Doch sie fragt sich auch, warum die Gesellschaft der Seemenschen auf diese scheinbar künstliche Weise aufgebaut ist — vielleicht sind die Seemenschen keine natürlichen Kreaturen, sondern eine magische Schöpfung irgendeiner Art.
 
 #### Seemenschen-Werte
 
@@ -5845,30 +5795,24 @@ Die Gesellschaft der Seemenschen ist streng nach jahreszeitlichen Linien aufgete
 
 **Geerbte Fehler:** Berüchtigt (hermetische Reputation)
 
-**Abbild-Gestalt**
-
-1 Punkt, Init: Konstant, Aquam R: Per, D: Konstant, T: Ind
+##### Abbild-Gestalt
+1 Punkt, Init: Konstant, Aquam  
+R: Per, D: Konstant, Z: Ind
 
 Der Charakter kann die physische Gestalt von allem annehmen, was er berührt — er formt seinen Körper zu einem durchsichtigen, wässrigen Abbild des Ziels um. Da dies ein konstanter Effekt ist, kann der Charakter seine Gestalt frei verändern, ohne diese Kraft aktivieren zu müssen. Allerdings dauert eine Verwandlung eine Runde, während der der Kontakt zwischen dem Charakter und dem Ziel aufrechterhalten werden muss. Das Abbild des Ziels besteht offensichtlich aus Wasser, wird selbst bei oberflächlichster weltlicher Prüfung nicht mit dem Original verwechselt und kann auch durch hermetische Magie vom Original unterschieden werden. Der Charakter kann nur Gestalten annehmen, die innerhalb von 1 Größenbereich seiner natürlichen Gestalt liegen — ein Charakter der Größe 0 kann also Gestalten von Größe –1 bis Größe +1 annehmen. Die Veränderung ist größtenteils kosmetisch, da der Charakter nur die Gestalt des Ziels annimmt; er erhält weder Fähigkeiten noch Kräfte, und seine Eigenschaften bleiben unverändert. Wenn das Ziel jedoch gehen oder sprechen kann, kann das Abbild dies ebenfalls tun — allerdings kann er nur Sprachen verwenden, die er bereits beherrscht.
 
 MuAq 20 (Basis 5, +2 Sonne, +1 konstanter Effekt): Persönliche Kraft (20 Stufen, –1 Kosten)
 
-**Die Wasser befehligen**
-
-6 Punkte, Init: Sck–16, Aquam R: Sicht, D: Mom, T: Ind, Ritual
+##### Gebiete den Wassern
+6 Punkte, Init: Sck–16, Aquam  
+R: Sicht, D: Mom, Z: Ind, Ritual
 
 Der Charakter formt ein Wasservolumen, das er sieht, zu einem Wasserelementar. Dies hat denselben Effekt wie der Zauber *Das rohe Wasser verdünnen* (siehe Kapitel 8: Magische Dinge, Elementare), jedoch mit Reichweite Sicht.
 
 CrAq 40 (Basis: 25, +3 Sicht): Ritualmacht (x2) (40 Stufen, –2 Kosten)
 
->##Abenteueridee: Geisterhafter Lehrling
->
->Ein Magus auf der Suche nach einem Lehrling hört von einem Kind, das in einer entfernten Abtei lebt, die Pferde erschreckt und unnatürliche Kräfte zu besitzen scheint. Als er der Sache nachgeht, stellt er fest, dass das Kind nicht die Gabe besitzt, sondern etwas noch Ungewöhnlicheres ist — ein Waisengeborener.
-
-**Erinnerung des Wassers**
-
+##### Erinnerung des Wassers
 2-5, Init: Sck–5, Aquam
-
 R: Berührung, D: Konz, T: Ind.
 
 Der Charakter erhält ein geistiges Bild eines Fragments der Vergangenheit eines Wasservolumens, das er berührt. Das Fragment der Vergangenheit hat die Länge von Konzentration und könnte die Orte umfassen, durch die das Wasser geflossen ist, wenn das Volumen ein Fluss ist, oder die Personen, die einen Raum betreten haben, wenn das Volumen in einer Amphore in dem Raum enthalten ist. Die Punktkosten hängen von der chronologischen Distanz der abgerufenen Wassererinnerungen ab. Eine Erinnerung bis zu einem Durchmesser alt kostet 2 Machtpunkte, bis zu einer Sonne alt 3 Machtpunkte, bis zu einem Mond alt 4 Machtpunkte, und eine Erinnerung bis zu einem Jahr alt 5 Machtpunkte. Ältere Erinnerungen sind nicht zugänglich.
@@ -5880,6 +5824,10 @@ InAq 25 (Basis: 3, +1 Berührung, +1 Konz, +4 Spezialeffekt): Fokussierte Macht:
 Die Waisengeborenen sind ein seltsames Phänomen im Mythischen Europa, und tatsächlich würden viele sagen, dass sie unmöglich sind. Sie werden von Eltern gezeugt, von denen einer oder beide seit langem tot sind, und jenseits des Schleiers geboren, der die körperliche Welt von der Geisterwelt trennt. Daher der Begriff „Waisengeborener" — sie sind im Grunde von der Empfängnis an Waisen. Sie sind jedoch echte Menschen und werden typischerweise in die Welt der Lebenden zurückgebracht und dorthin gebracht, wo man sich um sie kümmern wird. Die meisten werden in Klöstern oder Stiften aufgezogen, bis sie mündig werden, oder in anderen wohltätigen Einrichtungen, die bereit sind, Kinder ohne lebende Eltern aufzunehmen.
 
 Waisengeborene Kinder entwickeln typischerweise schon früh seltsame Kräfte, etwa die Fähigkeit, Geister zu sehen und mit ihnen zu interagieren, oder die Kraft, zu verschwinden und an einem beliebigen Ort wieder aufzutauchen. Wenn sie älter werden, werden sie beinahe durchsichtig, so dass sie keinen Schatten werfen und Tiere leicht verschrecken. Außerdem sind die Eltern Waisengeborener Kinder selten zufrieden damit, sie in Ruhe zu lassen, und mischen sich oft in ihr Leben ein, obwohl sie sich möglicherweise nicht erinnern, warum oder in welcher Beziehung sie zu dem Kind stehen. Geisterhafte Eltern sind sehr selbstbezogen und haben oft Schwierigkeiten, sich überhaupt daran zu erinnern, dass sie Kinder haben. Wie ein Geisterhafter Wächter können sie auf den Charakter aufpassen, aber unregelmäßig, da sie noch eigene Ziele und Wünsche haben.
+
+>####ABENTEUERIDEE: Geisterhafter Lehrling
+>
+>Ein Magus auf der Suche nach einem Lehrling hört von einem Kind, das in einer entfernten Abtei lebt, die Pferde erschreckt und unnatürliche Kräfte zu besitzen scheint. Als er der Sache nachgeht, stellt er fest, dass das Kind nicht die Gabe besitzt, sondern etwas noch Ungewöhnlicheres ist — ein Waisengeborener.
 
 #### Waisengeborener-Werte
 
@@ -5897,10 +5845,8 @@ Der Charakter wird körperlos wie ein Geist und kann durch feste Objekte hindurc
 
 MuCo(Me) 35 (Basis 30, +1 Konz): Große Macht (35 Stufen, –3 Machtkosten)
 
-**Geisterhafte Gestalt/Physische Gestalt**
-
+##### **Geisterhafte Gestalt/Physische Gestalt**
 0 Punkte, konstant, Mentem
-
 R: Per, D: Sonne, T: Ind
 
 Der Charakter kann mit geisterhaften Wesen interagieren, als ob er ebenfalls geisterhaft wäre, oder mit körperlichen Wesen, als ob er körperlich wäre.
@@ -5913,17 +5859,21 @@ Hoch über den Wolken liegt ein großes Himmelsmeer, eine magische Regio, die di
 
 Das Wolkenvolk ist menschlich, oder zumindest menschenähnlich, obwohl es auch andere Kreaturen mit ähnlichen Kräften geben mag. Gemäß ihrer mündlichen Überlieferung waren ihre Vorfahren Seeleute, die in einen gewaltigen Sturm auf See gerieten, der so mächtig war, dass er ihr Schiff packte und durch die Luft schleuderte. Sie fanden sich in einer großen schwarzen Wolke wieder, in der sie nichts als einander sehen konnten, nicht einmal das Schiff, obwohl das Schiff vom Fall keinen Schaden genommen zu haben schien. Fast ein Jahr lang segelten sie durch diese Wolke, bis sie eines Morgens erwachten und den Himmel wieder sehen konnten, und dass ihr Schiff reglos in der Luft schwebte, weit über dem blauen Meer unter ihnen. Bald entdeckten sie, dass sie während ihrer Prüfung seltsame Kräfte über den Wind erlangt hatten, und gemeinsam sprangen sie über Bord, denn sie wussten, die Luft würde sie auffangen. Kaum hatten sie den Sprung gewagt, begann das Schiff zu fallen, doch gemeinsam fingen sie es auf, füllten die Segel mit Wind und segelten weiter zu ihrem Bestimmungsort.
 
->## Abenteueridee: Segeln wie der Wind
+Es gibt noch andere Kräfte, die diese Magischen Verwandten angeblich besitzen, etwa die Fähigkeit, Vis von der Spitze einer Wolke zu ernten oder auf ihrer Oberfläche zu gehen wie auf weicher Erde. Man sagt, die Seeleute mit dieser Fähigkeit ankern ihre Schiffe oft an den Wolken, damit sie nicht fallen, während diejenigen unter ihnen, die das Schiff steuern, ruhen und sich nicht konzentrieren können. Charaktere in der Auram-Sphäre der Magischen Sphäre könnten ein solches Schiff weit über sich sehen, an Wolken hängend und wie ein Pendel schwankend.
+
+>#### ABENTEUERIDEE: Segeln wie der Wind
 >
 >In einer Zeit, in der die Charaktere es eilig haben, irgendwohin zu gelangen, könnten sie einem Schiffskapitän begegnen, der anbietet, sie in einem Viertel der üblichen Zeit dorthin zu bringen — zu einem sehr hohen Preis. Falls er auch nur eine Ahnung hat, dass zur Gruppe ein Magus gehört, könnte er als Bezahlung etwa einen magischen Gegenstand verlangen. Er bleibt vage in den Einzelheiten, verspricht aber, dass sein Schiff die Reise problemlos in dieser Geschwindigkeit bewältigen kann. Er rät den Charakteren, für die Dauer der Reise in ihren Kabinen zu bleiben, doch alle, die nach draußen spähen, um die Quelle der mächtigen Winde zu entdecken, die sie hören, werden wohl einen Schock erleben, wenn sie erkennen, dass sie einige Wegstunden über der Erde durch den Himmel fliegen, auf einem Schiff des Wolkenvolks.
 
-Es gibt noch andere Kräfte, die diese Magischen Verwandten angeblich besitzen, etwa die Fähigkeit, Vis von der Spitze einer Wolke zu ernten oder auf ihrer Oberfläche zu gehen wie auf weicher Erde. Man sagt, die Seeleute mit dieser Fähigkeit ankern ihre Schiffe oft an den Wolken, damit sie nicht fallen, während diejenigen unter ihnen, die das Schiff steuern, ruhen und sich nicht konzentrieren können. Charaktere in der Auram-Sphäre der Magischen Sphäre könnten ein solches Schiff weit über sich sehen, an Wolken hängend und wie ein Pendel schwankend.
-
 #### Wolkenvolk-Werte
 
-**Geerbte Tugenden:** Große Macht: *Auf dem Wind segeln* **Häufige Fehler:** Wanderlust
+**Vererbte Tugenden:** Große Macht: *Den Wind besegeln*
 
-**Auf dem Wind segeln** 0 Punkte, Init (Sck – 2), Auram R: Berührung, D: Konz, T: Ind
+**Häufige Fehler:** Wanderlust
+
+##### Den Wind besegeln 
+0 Punkte, Init (Sck – 2), Auram  
+R: Berührung, D: Konz, Z: Ind
 
 Der Charakter kann Winde erzeugen, die stark genug sind, ihn vom Boden zu heben und durch die Luft zu tragen. Wenn mehr als ein Charakter diese Kraft besitzt, ist es möglich, ein kleines Boot anzuheben und zu steuern, oder sogar ein Schiff, wenn drei oder mehr zusammenwirken.
 
@@ -5943,29 +5893,35 @@ Solche Menschen sollen ausgezeichnete Grogs für Konvente abgeben, die in Gebirg
 
 **Häufige Fehler:** Arthritis, Große Verfluchung (wird in unbewegte Steinsäule verwandelt, bis die Sonne untergeht, wenn von natürlichem Sonnenlicht getroffen), Nachtaktiv
 
-**Körper aus Stein** 0 Punkte, konstant, Terram R: Per, D: Sonne, T: Ind Der Charakter erhält verbesserte Raufenwerte, die keinen nicht-tödlichen Schaden verursachen können. Diese Werte sind Init +X, Ang +2X, Vert +X, Sch +2X, wobei X entweder der (Machtwert / 5) oder sein (Alter / 10) des Charakters ist.
+##### Körper aus Stein 
+0 Punkte, konstant, Terram  
+R: Per, D: Sonne, Z: Ind 
+
+Der Charakter erhält verbesserte Raufenwerte, die keinen nicht-tödlichen Schaden verursachen können. Diese Werte sind Init +X, Ang +2X, Vtd +X, Scha +2X, wobei X entweder der (Machtwert / 5) oder das (Alter / 10) des Charakters ist.
 
 MuCo(Te) 15 (Basis 3, +2 Sonne, +1 konstant, +1 Requisit): Persönliche Kraft (15 Stufen, –2 Machtkosten, Variable Kräfte)
 
-**Haut aus Stein** 0 Punkte, konstant, Terram R: Per, D: Sonne, T: Ind
+##### Haut aus Stein 
+0 Punkte, konstant, Terram  
+R: Per, D: Sonne, Z: Ind
 
 Der Charakter wird widerstandsfähiger gegen Schaden und erhält einen +1-Bonus auf die Absorption und einen –1-Abzug auf die Initiative für je 10 Jahre seines Alters oder jede Magnitude seines Machtwerts.
 
 MuCo 15 (Basis 4, +2 Sonne, +1 konstant): Persönliche Kraft (15 Stufen, –2 Machtkosten, Variable Kräfte)
 
+>#### ABENTEUERIDEE: Der Menhir
+>
+>Während sie ein Dorf in den Bergen passieren, erfahren die Charaktere, dass die Bewohner in der vergangenen Nacht von einer Gruppe wild aussehender Banditen angegriffen wurden, starken und kräftigen Männern, die jeden Schwerthieb und Pfeil abwehrten, mit dem sie getroffen wurden, obwohl sie bei Morgengrauen flohen. Den Dorfbewohnern gelang es, einen der Jüngsten beim Abzug mit einer Jägerschlinge einzufangen. Doch nun sind die Seile, mit denen sie ihn gefesselt hatten, an einen großen Felsen auf der Lichtung gebunden, wo sie ihn festgehalten hatten, und von dem Jungen fehlt jede Spur. Vielleicht können die Charaktere das Rätsel lösen, was mit ihrem Gefangenen geschah, und die steinhäutigen Banditen entweder besiegen oder für ihren Konvent anwerben.
+
 ### Hüter des Geheimnisses
 
 Diese Art Magischer Verwandter ist eher eine Gesellschaft, die jeden aufnimmt, der ein nachgewiesenes Interesse an Geschichte hat. Zeremoniell nennen sie sich die Hüter des Geheimnisses, obwohl sie sich als Einzelne Auditores oder „Hörer" nennen, ein Titel, der aus der Zeit vor dem Fall Roms stammen soll. Ihr Symbol besteht aus einem Topf und einem Nagel, jeder für sich: Der Topf steht für das Gefäß der Magischen Sphäre und die Geheimnisse, die sie enthält; und der Nagel steht für die Geschichte, mit seiner scharfen Spitze, die Dinge an ihrem Platz befestigt.
-
->## Abenteueridee: Der Menhir
->
->Während sie ein Dorf in den Bergen passieren, erfahren die Charaktere, dass die Bewohner in der vergangenen Nacht von einer Gruppe wild aussehender Banditen angegriffen wurden, starken und kräftigen Männern, die jeden Schwerthieb und Pfeil abwehrten, mit dem sie getroffen wurden, obwohl sie bei Morgengrauen flohen. Den Dorfbewohnern gelang es, einen der Jüngsten beim Abzug mit einer Jägerschlinge einzufangen. Doch nun sind die Seile, mit denen sie ihn gefesselt hatten, an einen großen Felsen auf der Lichtung gebunden, wo sie ihn festgehalten hatten, und von dem Jungen fehlt jede Spur. Vielleicht können die Charaktere das Rätsel lösen, was mit ihrem Gefangenen geschah, und die steinhäutigen Banditen entweder besiegen oder für ihren Konvent anwerben.
 
 Die Auditores glauben, dass Magie schwächer wird, wenn das Wissen über sie sich verbreitet, dass ein Teil dessen, was Magie mächtig macht, ihr inhärentes Mysterium ist. Sie sehen es als ihre Pflicht an, dafür zu sorgen, dass Magie geheim bleibt und dass jene Wesen, die Magie ausüben, vor der Gesellschaft im Allgemeinen verborgen bleiben. Ihnen zufolge sind öffentliche Zurschaustellungen von Magie Verbrechen gegen die Natur.
 
 Die Hüter des Geheimnisses sollen ihren Ursprung in magischen Schreibern und Gelehrten der klassischen Welt haben, Historikern, die zuerst von der Sphäre der Magie erfuhren und begannen, magische Ereignisse für die Nachwelt aufzuzeichnen. Dabei stellten sie fest, dass das, was sie beschrieben, aufhörte, überhaupt magisch zu sein. Zu ihnen gesellten sich Pilger und Diplomaten, jene, die herausfinden wollten, was sie beschützen mussten, und die mit magischen Kreaturen verhandelten, um den Schaden zu begrenzen, den diese der Magie als Ganzes zufügten. Einige Auditores haben ein starkes Moralempfinden und den Wunsch, für Gerechtigkeit zu sorgen, und haben es sich zur persönlichen Aufgabe gemacht, diejenigen zu bestrafen, die die Macht der Magie missbrauchen, und wiedergutzumachen, was sie angerichtet haben.
 
->## Abenteueridee: Gestohlener Ruhm
+>#### ABENTEUERIDEE: Gestohlener Ruhm
 >
 >Nach einem besonders phantastischen Ereignis, bei dem die Charaktere ihre Magie zur Lösung eines Problems einsetzten, beginnt ein eingängiges Lied sich in der Region zu verbreiten, das den Erfolg einem lokalen Adeligen zuschreibt anstatt den Charakteren. Es mag sie noch beschreiben, aber in geringeren Rollen wie Weissager und Berater des Lords. Andere Ereignisse sind verwirrt oder sogar völlig falsch, und alle übernatürlichen Elemente werden schlicht entweder Gottes Willen oder dem Werk des Teufels zugeschrieben. Dies ist der Versuch eines der Hüter des Geheimnisses, den Schaden zu begrenzen, den die Charaktere seiner Meinung nach der Sphäre der Magie zugefügt haben, was sie erfahren können, wenn sie nachforschen, wer versucht, ihnen ihren Ruhm streitig zu machen.
 
@@ -5975,6 +5931,8 @@ Die Hüter des Geheimnisses sollen ihren Ursprung in magischen Schreibern und Ge
 
 **Häufige Fehler:** Einmischer
 
+#### Die fernen Wahrheiten wahrnehmen
+2 Punkte, Init: Sck −1, Imaginem
 R: Ark, D: Konz, T: Raum
 
 Der Charakter kann sehen und hören, was an jedem Ort geschieht, zu dem er eine Arkane Verbindung besitzt, wobei er Bilder und Ereignisse aus der Perspektive des Ziels wahrnimmt.
@@ -6009,7 +5967,7 @@ Sobald er eine geeignete Wasserentität kontaktiert hat, muss der Charakter verh
 
 Nach einer erfolgreichen Verhandlung besteht der letzte Schritt darin, dass der Charakter sich selbst ertränkt — im Vertrauen auf seine Vereinbarung mit der Meereskreatur. Die Kreatur wird sich wahrscheinlich nicht täuschen lassen und möglicherweise gewaltsam beleidigt sein, wenn ein Charakter das „Ertrinken" unter dem Einfluss von Schutzmagie inszeniert (zum Beispiel *Lungen des Fisches*; **ArM5**, Seite 122). Wenn die Kreatur den Charakter rettet, wird er verwandelt und erhält die Große Übernatürliche Tugend: Verwandeltes (Wesen). Das Ertrinken und die Rettung des Charakters könnten denkbarerweise vor der Erfüllung der von der Kreatur gestellten Aufgabe erfolgen. Dies hängt von den genauen Verhandlungen zwischen dem Magus und der Kreatur ab.
 
->## Abenteueridee: Der Leuchtturmwärter
+>#### ABENTEUERIDEE: Der Leuchtturmwärter
 >
 >Die Insel Geita liegt inmitten eines kleinen Archipels scharfer Felsen am Eingang des Vilnes-Fjords. Im Laufe der Jahrhunderte wären bei heftigen Stürmen viele Schiffe an den rauen Felsvorsprüngen der Insel zerschellt und gescheitert, wenn es nicht einen auf der Insel errichteten Leuchtturm gäbe. Der zurückgezogen lebende Leuchtturmwärter soll seit mehreren Jahrhunderten auf der Insel leben, und für neugierige Magi könnte er eine wertvolle Wissensquelle über die Region sein.
 >
@@ -6032,12 +5990,6 @@ Während Geister die körperlosen Seelen der Toten sind, erzählen mittelalterli
 Obwohl ein Wiedergänger an einen physischen Körper gebunden ist, ist seine belebende Kraft ein Geist. Manche Magi betrachten sie als eine besondere Unterklasse der Geister (siehe Kapitel 7: Geister, Gespenster). Wie Gespenster sind Magische Wiedergänger durch ein überwältigendes persönliches Bedürfnis mit der Welt der Lebenden verbunden. Ihre Motivationen und Persönlichkeiten sind so vielfältig wie die von Gespenstern.
 
 Die physischen Werte eines Wiedergängers können auch für Leichname verwendet werden, die durch Zauber wie *Der wandelnde Leichnam* (**ArM5**, Seite 135) belebt wurden. Solche Automaten sind keine übernatürlichen Wesen und haben keinen Machtwert (und daher keine Magieresistenz).
-
->## Option: Widerstand gegen stechende Waffen
->
->Stechende Waffen wie Speere und Pfeile sind gegen Lebende wirksam, aber möglicherweise weniger gegen die wandelnden Toten. Solche Waffen brechen kaum Knochen oder hacken Gliedmaßen ab. Die Spieltruppe kann Wiedergängern einen zusätzlichen Absorptionsbonus von +10 gegen solche Waffen gewähren, oder sie einfach für völlig unwirksam erklären.
-
->**Ars Magica** Fünfte Edition unterscheidet Waffen nicht formal in Kategorien wie „stechend", daher muss die Spieltruppe, wenn sie diese Option verwendet, gelegentlich nach eigenem Ermessen entscheiden, ob eine Waffe als stechende Waffe zählt.
 
 #### Gestaltung von Wiedergängern
 
@@ -6063,6 +6015,12 @@ Verschiedene Legenden berichten von besonderen Methoden, mit denen Helden die wa
 
 Mittelalterliche Erzählungen und Illustrationen zeigen sowohl leichenartige wandelnde Tote als auch belebte Skelette. Das Wort „Zombie" stammt aus der Neuen Welt (Haiti) und würde von Charakteren im Mythischen Europa nicht verwendet.
 
+>#### Option: Widerstand gegen stechende Waffen
+>
+>Stechende Waffen wie Speere und Pfeile sind gegen Lebende wirksam, aber möglicherweise weniger gegen die wandelnden Toten. Solche Waffen brechen kaum Knochen oder hacken Gliedmaßen ab. Die Spieltruppe kann Wiedergängern einen zusätzlichen Absorptionsbonus von +10 gegen solche Waffen gewähren, oder sie einfach für völlig unwirksam erklären.
+
+>**Ars Magica** Fünfte Edition unterscheidet Waffen nicht formal in Kategorien wie „stechend", daher muss die Spieltruppe, wenn sie diese Option verwendet, gelegentlich nach eigenem Ermessen entscheiden, ob eine Waffe als stechende Waffe zählt.
+
 #### Leichname mit Magie beleben
 
 Zauberer können Leichname mithilfe von Rego-Corpus-Zaubern (oder bestimmten nicht-hermetischen Kräften) beleben. Solche Leichname verwenden dieselben Werte wie ein Wiedergänger, mit folgenden Änderungen:
@@ -6071,7 +6029,13 @@ Er besitzt die Qualitäten Keine Erschöpfung und Verbesserte Absorption, die im
 
 Ein durch einen Zauber belebter Leichnam hat keinen Machtwert oder Selbstvertrauenswert. Seine Raufen-Fertigkeit beträgt nominell 3, obwohl die Spieltruppe als optionale Regel dem Leichnam eine Raufen-Fertigkeit in Höhe der Finesse des Zaubernden zuweisen kann.
 
->## Charakterleitfaden: Wiedergänger, leichenartige Gestalt
+Ein durch dämonische Besessenheit oder die Manifestationskraft eines Magischen Geistes belebter Leichnam hat einen Machtwert in Höhe der Kosten dieser Kraft. Er verwendet den Selbstvertrauenswert des besitzenden Geistes, falls vorhanden. Der kontrollierende Geist kann seine Kräfte möglicherweise durch den besessenen Leichnam einsetzen (abhängig von der Beschreibung der besitzenden Kraft).
+
+*Sphären der Macht: Das Infernale* enthält Regeln für Dämonen, die Leichname beleben können, auf Seite 75.
+
+Ungeachtet der Art, wie der Leichnam belebt wurde, können seine unbewaffneten Angriffe durch Magieresistenz blockiert werden.
+
+>#### Charakterleitfaden: Wiedergänger, leichenartige Gestalt
 >
 >**Magische Macht:** 9 (Corpus)
 >
@@ -6099,13 +6063,15 @@ Ein durch einen Zauber belebter Leichnam hat keinen Machtwert oder Selbstvertrau
 >
 >**Kräfte:**
 >
->*Odem der Verderbnis*, 1 Punkt, Init +2, Auram R: Speziell, D: Mom, T: Ind
+>*Atem der Verderbnis*, 1 Punkt, Init +2, Auram  
+>R: Spezial, D: Mom, Z: Ind
 >
 >Der wandelnde Leichnam kann üble Dünste ausatmen und eine Person innerhalb von 2 Schritt mit einer Krankheit infizieren (Schwierigkeitsgrad 9, Wirkung wie eine Mittelschwere Wunde).
 >
 >CrAu 20 (Basis 10, +2 Reichweite entspricht Stimme): Große Macht (teilweise, 20 Stufen, +3 Initiative, –1 Machtkosten)
 >
->*Aufstieg aus dem Grab*, 1 Punkt, Init –1, Terram R: Berührung, D: Durchmesser, T: Teil
+>*Auferstehung aus dem Grab*, 1 Punkt, Init –1, Terram  
+>R: Berührung, D: Durchmesser, Z: Teil
 >
 >Der Wiedergänger kann die Erde über seinem Grab für einen Durchmesser öffnen, so dass er ein- oder austreten kann. Der Boden schließt sich dann wieder, ohne Spuren der Störung zu hinterlassen.
 >
@@ -6117,21 +6083,7 @@ Ein durch einen Zauber belebter Leichnam hat keinen Machtwert oder Selbstvertrau
 >
 >**Erscheinungsbild:** Ein verschrumpelter, lederartiger Leichnam; seine Augen glühen vor unnatürlicher Wut.
 
-Ein durch dämonische Besessenheit oder die Manifestationskraft eines Magischen Geistes belebter Leichnam hat einen Machtwert in Höhe der Kosten dieser Kraft. Er verwendet den Selbstvertrauenswert des besitzenden Geistes, falls vorhanden. Der kontrollierende Geist kann seine Kräfte möglicherweise durch den besessenen Leichnam einsetzen (abhängig von der Beschreibung der besitzenden Kraft).
-
-*Sphären der Macht: Das Infernale* enthält Regeln für Dämonen, die Leichname beleben können, auf Seite 75.
-
-Ungeachtet der Art, wie der Leichnam belebt wurde, können seine unbewaffneten Angriffe durch Magieresistenz blockiert werden.
-
-### Daimonen und Helden
-
-Legenden berichten von menschlichen Zauberern, die das Geheimnis der Unsterblichkeit entschlüsselt und den Aufstieg in die Halle der Helden erreicht haben, und so zu Daimonen der Magischen Sphäre wurden (siehe Kapitel 7: Geister). Der Vorgang, ein unsterblicher Geist zu werden, wird Apotheose genannt. Er ist das höchste Ziel mehrerer Mysterienkulte. Die mystischen Gruppen, die die Apotheose anstreben, zusammen mit Regeln für die Verwandlung selbst, sind in *Die Mysterien (Überarbeitete Ausgabe)* (Seiten 82–86) beschrieben.
-
-### Lebende Geister
-
-Theurgen behaupten, es müsse einem menschlichen Zauberer möglich sein, seinen eigenen Geist magisch an einen physischen Ort zu binden und dabei etwas wie ein Gespenst zu werden, aber seinen menschlichen Willen (und seine magischen Kräfte) zu behalten. Gerüchte sprechen von Mysterienkulten, die sich der Verfolgung genau dieses Geheimnisses widmen. Einzelheiten finden sich in *Die Mysterien (Überarbeitete Ausgabe)* (Seiten 70–74).
-
->## Charakterleitfaden: Wiedergänger, Skelettgestalt
+>#### Charakterleitfaden: Wiedergänger, Skelettgestalt
 >
 >**Magische Macht:** 6 (Corpus)
 >
@@ -6157,7 +6109,8 @@ Theurgen behaupten, es müsse einem menschlichen Zauberer möglich sein, seinen 
 >
 >**Kräfte:**
 >
->*Aufstieg aus dem Grab*, 2 Punkte, Init +2, Terram R: Berührung, D: Durchmesser, T: Teil
+>*Auferstehung aus dem Grab*, 2 Punkte, Init +2, Terram  
+>R: Berührung, D: Durchmesser, Z: Teil
 >
 >Das Skelett kann die Erde über seinem Grab für einen Durchmesser öffnen, so dass es ein- oder austreten kann. Die Erde schließt sich dann wieder, ohne Spuren der Störung zu hinterlassen.
 >
@@ -6170,6 +6123,15 @@ Theurgen behaupten, es müsse einem menschlichen Zauberer möglich sein, seinen 
 >**Erscheinungsbild:** Ein grinsendes Skelett, dessen knöcherne Finger so scharf sind wie Klauen.
 >
 >Ein menschliches Skelett wiegt weit weniger als ein lebender Mensch, daher hat ein belebtes Skelett die Größe –2.
+
+
+### Daimonen und Helden
+
+Legenden berichten von menschlichen Zauberern, die das Geheimnis der Unsterblichkeit entschlüsselt und den Aufstieg in die Halle der Helden erreicht haben, und so zu Daimonen der Magischen Sphäre wurden (siehe Kapitel 7: Geister). Der Vorgang, ein unsterblicher Geist zu werden, wird Apotheose genannt. Er ist das höchste Ziel mehrerer Mysterienkulte. Die mystischen Gruppen, die die Apotheose anstreben, zusammen mit Regeln für die Verwandlung selbst, sind in *Die Mysterien (Überarbeitete Ausgabe)* (Seiten 82–86) beschrieben.
+
+### Lebende Geister
+
+Theurgen behaupten, es müsse einem menschlichen Zauberer möglich sein, seinen eigenen Geist magisch an einen physischen Ort zu binden und dabei etwas wie ein Gespenst zu werden, aber seinen menschlichen Willen (und seine magischen Kräfte) zu behalten. Gerüchte sprechen von Mysterienkulten, die sich der Verfolgung genau dieses Geheimnisses widmen. Einzelheiten finden sich in *Die Mysterien (Überarbeitete Ausgabe)* (Seiten 70–74).
 
 ### Magi im Endgültigen Zwielicht
 
@@ -6199,11 +6161,15 @@ Ein Geist nimmt keinen physischen Raum ein und hat kein Gewicht; daher ist die G
 
 Wie im Kapitel „Charaktere" erwähnt, haben alle Geister den Fehler Magische Ausstrahlung. In ihrer natürlichen Form können sie andere Geister wahrnehmen, ohne die Tugend Zweites Gesicht zu benötigen.
 
->## Taxonomie der Unsichtbaren Welt
+>#### Taxonomie der Unsichtbaren Welt
 >
 >Das Wort **Geist** (vom lateinischen *spiritus*, „Atem") ist ein allgemeiner Begriff für ein Wesen ohne materielle Existenz. Allerdings vermischt der Begriff zwei recht unterschiedliche Phänomene. Es gibt Geister, die als solche erschaffen wurden, und Geister, die als Menschen erschaffen wurden, aber seither aufgehört haben, materielle Wesen zu sein. Um diese beiden zu unterscheiden, wird das Wort **Genius** für die erstere Art verwendet und **Animus** für die letztere. In diesem Buch schließen wir, wenn wir von „Geistern" sprechen, sowohl Genii als auch Animi in diese Kategorie ein; wo jedoch eine Regel nur für eines dieser Wesen gilt, verwenden wir den entsprechenden Begriff.
 >
 >Die Genii umfassen technisch alles, was nie eine physische Existenz hatte; aber Engel und Dämonen werden üblicherweise als von den Genii getrennt betrachtet. Einige Genii existieren in den sublunaren Regionen (die Dämonen und die eigentlichen Genii), und einige in den Himmeln (die Engel). Die Genii, die in der Magischen Sphäre selbst wohnen, sind mächtige Wesen, die **Daimones** oder Benannte Geister genannt werden; wohingegen jene Geister auf der Erde von weit geringerer Macht sind und **Luftgeister** genannt werden.
+
+>#### Zaubergeister
+>
+>Eingeweihte in das Mysterium der Hermetischen Theurgie (*Die Mysterien (Überarbeitete Ausgabe)*, Kapitel 9) können Geister beschwören, deren einzige Kraft darin besteht, die Effekte eines bestimmten Zaubers oder einer bestimmten Form zu duplizieren. Ein Zaubergeist hat einen Machtwert von mindestens der Stufe des Zaubers, und die Dauer des Beschwörungszaubers bestimmt, wie lange der Geist dem Theurgen zur Verfügung steht, bereit, seine Kraft auf dessen Befehl einzusetzen. Es ist umstritten, ob diese Geister eine eigene Klasse bilden oder ob sie Varianten der anderen Gruppen von Luftgeistern sind, aber nur Theurgen haben Interesse an solch feinen Punkten geistiger Taxonomie.
 
 #### Jahreszeit und Fertigkeiten
 
@@ -6221,26 +6187,18 @@ Die körperlose, unsterbliche und unermüdliche Form eines Geistes muss nicht al
 
 Geister besitzen üblicherweise ein bis fünf übernatürliche Kräfte, und dieser Abschnitt beschreibt viele der häufigsten. Allgemeine Richtlinien für Kräfte finden sich in Kapitel 4: Magische Charaktere. Einige dieser Kräfte ähneln jenen, die für die Waldgeister in *Wächter des Waldes: Das Rhein-Tribunal* verfügbar sind. Die hier gegebenen Details überarbeiten und aktualisieren jene Beschreibungen. Diese Kräfte können auch für andere Kreaturen als Geister verwendet werden. Selbstverständlich muss jede Kraft, die ein anderes Wesen betrifft, dessen Magieresistenz durchdringen. Kräfte, die Ritualzaubern ähneln, reduzieren den Machtwert des Geistes dauerhaft ebenso wie den Machtvorrat; der Machtwert kann gemäß dem in Kapitel 4: Magische Charaktere beschriebenen Mechanismus wiederhergestellt werden.
 
-**Mensch beherrschen**
-
-2 Punkte, Init gleich Sck, Mentem R: Berührung, D: Konz, Z: Ind
+##### Mensch beherrschen
+2 Punkte, Init gleich Sck, Mentem  
+R: Berührung, D: Konz, Z: Ind
 
 Wenn diese Kraft penetriert, übt der Geist direkte Kontrolle über das Ziel aus. Er kann Befehle erteilen, die das Ziel nach besten Kräften ausführt; jedoch kann das Ziel versuchen, die Kontrolle des Geistes jedes Mal zu brechen, wenn es gebeten wird, etwas Komplexes (etwas, das den Einsatz einer Fertigkeit, eines Zaubers oder einer magischen Kraft erfordern würde), Gefährliches oder seiner Natur Zuwiderlaufendes zu tun. Um sich zu befreien, würfelt das Ziel einen Intelligenzwurf gegen einen Schwierigkeitsgrad von 9 + Magnitude des Machtwerts des Geistes. Dieser Intelligenzwurf wird durch passende Persönlichkeitseigenschaften des Ziels modifiziert. Beispielsweise wird ein Charakter, der zum Kampf befohlen wird, durch seine Persönlichkeitseigenschaft Aggressiv benachteiligt, könnte aber durch seine Persönlichkeitseigenschaft Feige begünstigt werden. Wo mehrere Eigenschaften zutreffen könnten, wird diejenige verwendet, die den größten Modifikator ergibt, ob positiv oder negativ. Wenn der Intelligenzwurf fehlschlägt, muss das Ziel dem Geist gehorchen, erhält aber einen kumulativen Bonus von +1 auf seinen nächsten Versuch, die Kontrolle des Geistes zu brechen.
 
 ReMe 30 (Basis 20, +1 Berührung, +1 Konz): Große Macht (30 Stufen, –1 Machtkosten, +3 Init)
 
->## Geister als Vis-Quelle
->
->Die immateriellen Körper von Geistern enthalten rohes Vis, typischerweise 1 Bauer einer passenden Form pro Magnitude ihres Machtwerts, obwohl Geister mit einem Machtwert unter 5 nicht genügend Macht besitzen, um auch nur einen einzelnen Bauern darzustellen. Wird der Geist in immaterieller Form erschlagen, kann das Vis automatisch in einen physischen Behälter destilliert werden; dies geschieht üblicherweise nur, wenn der Geist eine starke Bindung an die materielle Welt hat, etwa ein Gespenst, ein Elementargeist oder ein Genius Loci. Viele Geister haben jedoch solche Bindungen nicht, und bei ihrem Tod verbleibt das Vis in nicht-materieller Form und muss in physische Form umgewandelt werden (unter Verwendung einer Variante von *Die Essenz des Tieres sammeln*), damit es von einem physischen Wesen genutzt werden kann. Wird ein Aspekt eines Daimons zerstört, kann dieser wählen, ob er den immateriellen Körper zurückruft oder nicht; nur wenn der Körper verbleibt, bleibt auch das Vis bestehen. Der Einsatz von Magie, die den Machtwert eines Geistes zerstört, reduziert die Menge an Vis entsprechend, sodass ein auf diese Weise vollständig zerstörter Geist überhaupt kein Vis hinterlässt.
->
->Die Kraft *Den Schleier des Fleisches anlegen* (siehe unten) erschafft einen physischen Körper, der bei Tötung normales materielles Vis enthält. Die Kraft *Präsenz* (siehe unten) führt dazu, dass sich Vis am gewohnten Aufenthaltsort des Geistes ansammelt, und das Ernten dieses Vis schadet dem Geist nicht (obwohl es ihn verärgern könnte).
 
-**Den Schleier des Fleisches anlegen**
-
+##### **Den Schleier des Fleisches anlegen**
 5 Punkte, Init gleich Sck – 3, passende Form (Mindere Macht) ODER
-
 0 Punkte, Init gleich Sck – 1, passende Form (Große Macht)
-
 R: Berührung, D: Sonne, Z: Ind
 
 Erzeugt und belebt einen Körper aus Fleisch, Holz oder elementarer Materie. Ein Geist mit dieser Kraft hat eine einzige körperliche Form, die er annehmen kann; obwohl einige Geister diese Kraft mehr als einmal besitzen und daher mehr als eine physische Gestalt bilden können, können solche Geister dennoch nur einen Körper gleichzeitig verwenden. Der mit dieser Kraft erschaffene Körper hat die gleichen physischen Werte wie der Geist, kann aber eine maximale Größe von +1 haben. Die Erschaffung eines größeren Körpers erfordert eine zusätzliche Magnitude pro weitere 3 Größenpunkte und erfordert somit den Erwerb einer weiteren Magischen Qualität Große oder Mindere Macht, um die zusätzlichen Stufen abzudecken.
@@ -6251,73 +6209,63 @@ Cr(Re) Form 25 (Basis 5, +1 Berührung, +2 Sonne, +1 Requisit): Mindere Macht (2
 
 Cr(Re) Form 25 (Basis 5, +1 Berührung, +2 Sonne, +1 Requisit): Große Macht (25 Stufen, –3 Machtkosten, +2 Init)
 
-**Eidolon**
+>#### Geister als Vis-Quelle
+>
+>Die immateriellen Körper von Geistern enthalten rohes Vis, typischerweise 1 Bauer einer passenden Form pro Magnitude ihres Machtwerts, obwohl Geister mit einem Machtwert unter 5 nicht genügend Macht besitzen, um auch nur einen einzelnen Bauern darzustellen. Wird der Geist in immaterieller Form erschlagen, kann das Vis automatisch in einen physischen Behälter destilliert werden; dies geschieht üblicherweise nur, wenn der Geist eine starke Bindung an die materielle Welt hat, etwa ein Gespenst, ein Elementargeist oder ein Genius Loci. Viele Geister haben jedoch solche Bindungen nicht, und bei ihrem Tod verbleibt das Vis in nicht-materieller Form und muss in physische Form umgewandelt werden (unter Verwendung einer Variante von *Die Essenz des Tieres sammeln*), damit es von einem physischen Wesen genutzt werden kann. Wird ein Aspekt eines Daimons zerstört, kann dieser wählen, ob er den immateriellen Körper zurückruft oder nicht; nur wenn der Körper verbleibt, bleibt auch das Vis bestehen. Der Einsatz von Magie, die den Machtwert eines Geistes zerstört, reduziert die Menge an Vis entsprechend, sodass ein auf diese Weise vollständig zerstörter Geist überhaupt kein Vis hinterlässt.
+>
+>Die Kraft *Den Schleier des Fleisches anlegen* (siehe unten) erschafft einen physischen Körper, der bei Tötung normales materielles Vis enthält. Die Kraft *Präsenz* (siehe unten) führt dazu, dass sich Vis am gewohnten Aufenthaltsort des Geistes ansammelt, und das Ernten dieses Vis schadet dem Geist nicht (obwohl es ihn verärgern könnte).
 
-0 Punkte, Init gleich Sck, Imaginem R: Berührung, D: Konz, Z: Ind
+##### Eidolon
+0 Punkte, Init gleich Sck, Imaginem  
+R: Berührung, D: Konz, Z: Ind
 
 Erschafft eine illusionäre Form, die für materielle Wesen sichtbar und hörbar ist. Der Geist kann mit jeder Version dieser Kraft, die er besitzt, eine einzelne Form erschaffen. Das Bild kann sich bewegen und sprechen, wie es der Geist lenkt, und besteht, bis der Geist keine weitere Verwendung dafür hat.
 
 CrIm 15 (Basis 2, +1 Berührung, +1 Konz, +2 Bewegung auf Befehl, +1 Komplexität): Große Macht (15 Stufen, +2 Init, –2 Machtkosten; 15 Stufen Überschuss)
 
-**Geisterberührung**
-
+##### Geisterberührung
 Variable Kosten, Init gleich (Sck – ausgegebene Machtpunkte), Terram
-
 R: variabel, D: variabel, Z: variabel
 
 Bewegt Gegenstände, die nicht von einem anderen gehalten oder befestigt sind. Für 1 Machtpunkt können maximal 5 Pfund bewegt werden; jeder zusätzliche Machtpunkt verdoppelt dieses Gewichtslimit. Wird der Gegenstand mit Wucht geschleudert, benötigt der Geist die Fertigkeit Wurfwaffe und verursacht +5 Schaden pro ausgegebenem Machtpunkt. Besitzt der Geist eine Kampffertigkeit, kann er bei Verwendung dieser Kraft mit einem Gegenstand in den Kampf eintreten (die meisten Waffen wiegen weniger als 10 Pfund) und verwendet seine Eigenschaften, um Kampfsummen wie gewöhnlich zu berechnen. Alle physischen Angriffe mit dieser Kraft müssen Magieresistenz durchdringen. Die Kraft hält an, bis der Gegenstand vom Geist losgelassen wird.
 
 ReTe 25: Fokussierte Macht
 
-**Manifestation**
-
-4 oder mehr Punkte, Init gleich (Sck – ausgegebene Machtpunkte), Animal oder Herbam R: Berührung, D: Konz, Z: Ind oder Gruppe
+##### Manifestation
+4 oder mehr Punkte, Init gleich (Sck – ausgegebene Machtpunkte), Animal oder Herbam   
+R: Berührung, D: Konz, Z: Ind oder Gruppe
 
 Manifestiert das Bewusstsein des Geistes in Tieren oder Pflanzenleben, die er berührt, verleiht ihnen vorübergehend einen Machtwert in Höhe der ausgegebenen Machtpunkte und kontrolliert ihre Handlungen. Es ist ein Rego-Herbam-Effekt der Stufe 20, um eine Pflanze von einem Schritt Durchmesser zu kontrollieren (Kosten: 4 Machtpunkte), und ein Rego-Animal der Stufe 25, um eine einzelne Kreatur der Größe +1 zu kontrollieren (Kosten: 5 Machtpunkte). Für zusätzliche 2 Machtpunkte kann eine Gruppe von zehn Standardkreaturen oder -pflanzen (oder die entsprechende Masse) kontrolliert werden. Für jeweils 2 weitere ausgegebene Machtpunkte wird die Masse der kontrollierten Kreaturen oder Pflanzen mit 10 multipliziert. Der Geist kann nicht mehr Machtpunkte für diese Kraft ausgeben als die Magnitude seines Machtwerts. Pflanzen können belebt (siehe Kapitel 8: Magische Dinge, Magische Pflanzen) oder mit unnatürlicher Geschwindigkeit zum Wachsen gebracht werden. So kann beispielsweise ein Fleck Unkraut über Nacht emporsprießen, während ein Baum in einem Monat aus einem Sämling heranwachsen kann. Menschen und andere empfindungsfähige Wesen können durch diese Kraft nicht kontrolliert werden. Diese Kraft eignet sich besonders für Genii Loci, die als alles berührend gelten, was sich innerhalb ihres Herrschaftsbereichs an Pflanzen oder Kreaturen befindet.
 
 ReHe 20 oder mehr (Basis 10, +1 Berührung, +1 Konz) oder ReAn 25 oder mehr (Basis 15, +1 Berührung, +1 Konz): Fokussierte Macht x 2
 
->## Daimones
->
->Die **Daimones** oder Benannten Geister verkörpern die Elemente der Schöpfung, von den mächtigen Protogonoi und den Intelligenzen der Planetenkörper bis hinunter zu den Geistern heiliger Haine. Aufgestiegene Magi und Helden der Vorzeit (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seiten 137–140) gehören ebenfalls zu den Daimones. Obwohl sie als Benannte Geister bekannt sind, bedeutet dies nicht, dass andere Geister keine persönlichen Namen hätten; vielmehr ist damit die komplexe Abfolge von Silben und rituellen Gesten gemeint, die einen Wahren Namen ausmachen (siehe unten, Geister und Magie).
->
->### Neue Tugend: Daimon
->
->Kostenlos, Sozialer Status (nur Geister)
->
->Diese kostenlose Tugend wird von allen Daimones besessen. Alle Daimones haben einen Selbstvertrauenswert von mindestens 1. Ein Daimon ist ein permanenter Bewohner der Magischen Sphäre und kann die materielle Welt nicht betreten; stattdessen erschafft er einen Aspekt als seinen Agenten auf Erden. Ein Aspekt kann mit einem Augenblick des Gedankens erschaffen oder zerstört werden und kostet keine Machtpunkte zum Erschaffen. Jeder Aspekt gleicht einem eigenständigen Geist mit einigen oder allen Eigenschaften und Kräften des ursprünglichen Geistes, aber einem eigenen Machtwert (üblicherweise nur ein Bruchteil des Eltern-Daimons) und einem eigenen Vorrat an Machtpunkten. Ein Aspekt kann verbrauchte Machtpunkte nicht regenerieren; vielmehr wird er aufgelöst, wenn er erschöpft ist, und bei Bedarf durch einen anderen Aspekt ersetzt. Das Besiegen oder Zerstören des Aspekts hat keine Auswirkung auf den ursprünglichen Daimon, außer vielleicht auf dessen Haltung gegenüber den Urhebern dieser Taten. An einem Aspekt können keine dauerhaften Veränderungen vorgenommen werden, da sie nie von Dauer sind. Nur der Aspekt wird jemals durch Magie gefangen oder gebunden, und der Daimon kann entkommen, indem er den Aspekt verwirft. Ein Aspekt kann nicht innerhalb weniger Meilen eines anderen Aspekts desselben Daimons erscheinen, und kein Aspekt kann an denselben Ort (wie vom Spielleiter definiert) innerhalb eines Tages nach dem Verlassen zurückkehren. Nicht alle vom selben Daimon erschaffenen Aspekte müssen identisch sein; für verschiedene Funktionen entworfen, können sie unterschiedliche Kräfte und Machtwerte besitzen.
->
->Ein Aspekt ist eine ständige Arkane Verbindung von unbegrenzter Dauer, die in ständigem geistigem Kontakt mit ihrem Daimon steht. Obwohl ein Aspekt dazu verwendet werden kann, Zauber Arkaner Reichweite gegen seinen Eltern-Daimon zu richten, verfügen nur wenige Magi über genügend Macht, um solche Zauber den höheren Machtwert des Daimons selbst durchdringen zu lassen. Ein fehlgeschlagener Versuch, einen Daimon auf diese Weise zum Ziel zu machen, kann sich für den vorwitzigen Magus als sehr gefährlich erweisen!
-
-
-
-**Materieller Anker**
-
+##### Materieller Anker  
 1, 2, 3 oder 4 Punkte, Init gleich (Sck – 2x Machtkosten), Vim
-
 R: Berührung, D: Mom, Z: Ind, Ritual
 
 Diese ritualartige Kraft bildet entweder eine Arkane Verbindung zu einer bestimmten Person oder einem bestimmten Ort, oder macht einen Gegenstand zu einer Arkanen Verbindung zum Geist selbst. Wenn die Verbindung Stunden oder Tage dauern soll, kostet sie nur 1 Punkt; eine Verbindung, die Wochen oder Monate dauert, kostet 2 Punkte; Jahre oder Jahrzehnte kosten 3 Punkte; und Arkane Verbindungen von unbegrenzter Dauer kosten 4 Punkte. Der Geist muss sich am physischen Ort des Gegenstands befinden, den er zur Arkanen Verbindung machen will, und muss wie üblich Magieresistenz durchdringen.
 
 Kein hermetisches Äquivalent: Ritualmacht
 
-**Präsenz**
-
-0 Punkte, konstant, Imaginem R: AV, D: Sonne, Z: Ind
+##### Präsenz
+0 Punkte, konstant, Imaginem  
+R: Ark, D: Sonne, Z: Ind
 
 Verleiht Bewusstsein über alles, was innerhalb der Grenzen eines bestimmten, vom Geist gewählten Herrschaftsbereichs geschieht. Im Wesentlichen ist der Geist deckungsgleich mit seinem zugehörigen Landschaftsmerkmal, sodass er gleichzeitig überall innerhalb seiner Grenzen anwesend ist. Verdopple den Machtwert eines Geistes mit dieser Kraft für die Berechnung der Verankerungsstärke (siehe Bildung von Magieauren). Der Machtwert des Geistes bestimmt die mögliche Größe des Gebiets: ein Raum (5–10 Machtwert), ein Bauwerk (15–25 Machtwert) oder eine Standard-Grenze (30+ Machtwert). Bei Daimones fügt jeder 5 Machtwerte über 30 einen Größenmodifikator von 1 zur Basis-Grenze hinzu; ein Luftgeist oder Animus kann unabhängig vom Machtwert immer nur eine Basis-Grenze kontrollieren. Das vom Geist kontrollierte Gebiet kann eine jährliche Ernte von (Machtwert/10) Bauern Vis einer passenden Form hervorbringen, das sich als physische Objekte innerhalb der kontrollierten Region manifestiert. Das Ernten dieses Vis untergräbt den Machtwert des Geistes nicht. Diese Kraft wird von allen Genii Loci und vielen Gespenstern besessen.
 
 InIm 30 (Basis 2, +4 AV, +2 Sonne, +1 konstanter Effekt, +1 nicht-hermetische Effekte): Große Macht (30 Stufen, –3 Macht; 5 Stufen Überschuss)
 
-**Regio**
+##### Regio
+15 Punkte, Init gleich (Sck – 30), Vim  
+R: Berührung, D: Mom, Z: Grenze, Ritual 
 
 15 Punkte, Init gleich (Sck – 30), Vim R: Berührung, D: Mom, Z: Grenze, Ritual Diese Kraft eignet sich nur für Geister mit der Kraft *Präsenz*. Bei Anwendung der Kraft bildet sich eine Magieregio an einem Teil der vom Geist bewohnten Landschaft. Die Regio hat eine einzelne Ebene, die eine Magieaura besitzt, die 1 Punkt höher ist als die Magieaura der Landschaft, aus der sie hervorging (eine Aura von 1 bildet sich, wenn keine übernatürliche Aura oder eine Göttliche, Feen- oder Infernale Aura vorhanden ist). Diese Kraft kann mehr als einmal eingesetzt werden, um zusätzliche Ebenen der Regio zu erschaffen; jede zusätzliche Ebene hat eine Aura, die 2 Punkte stärker ist als die vorherige Ebene, bis zu einem Maximum von 10. Die Inhalte jeder Ebene werden vom Geist bestimmt, stehen aber immer in engem Zusammenhang mit seiner Natur. Der Geist kontrolliert den Zugang zu den verschiedenen Ebenen der Regio und kann eine wirksame Falle oder ein Versteck schaffen, indem er sich in die zweite oder höhere Ebene zurückzieht und die erste Ebene vollständig versiegelt. Machtpunkte, die für diese Ritualmacht ausgegeben werden, werden dauerhaft vom Machtwert des Geistes sowie seinem Machtvorrat abgezogen.
 
 Kein hermetisches Äquivalent: Ritualmacht x 3
 
-**Stasis**
-
-10 Punkte, Init gleich (Sck – 20), Vim R: Berührung, D: Mom, Z: Grenze, Ritual
+##### Stasis
+10 Punkte, Init gleich (Sck – 20), Vim  
+R: Berührung, D: Mom, Z: Grenze, Ritual
 
 Der Geist kann ein definiertes Gebiet mit einer Magieaura, wie eine Höhle, eine Lichtung oder eine Regioebene, derart entlegen und abgeschlossen von der Außenwelt machen, dass der Lauf der Zeit selbst verändert wird. Ein sterblicher Bewohner hier würfelt weiterhin normal auf Alterung und verwendet die Aurastärke als Lebensbedingungsmodifikator. Allerdings werden alle Alterungspunkte als Verzerrungspunkte statt als Alterungspunkte auf den Charakter angewendet. Ein Alterungsergebnis, das entweder genügend Alterungspunkte für die nächste Stufe der Gebrechlichkeit oder eine Krise ergibt, fügt stattdessen genügend Verzerrungspunkte zu, um die nächste Stufe des Verzerrungswerts zu erreichen. Magi müssen dennoch auf Zwielicht prüfen, wenn sie durch Alterung auf diese Weise zwei oder mehr Verzerrungspunkte erleiden. Die Wahrnehmung der vergehenden Jahre und Erinnerungen an das frühere Leben des Charakters werden allmählich verschwommen. Behalte die Gesamtzahl der statt Alterung erhaltenen Verzerrungspunkte im Auge (nicht aus anderen Quellen); werden 50 oder mehr Punkte auf diese Weise angesammelt (gleichbedeutend mit einer Gebrechlichkeit von 4 oder mehr), kann der Charakter eine Magieaura nicht verlassen, ohne an der plötzlichen Ansammlung seiner versäumten Jahre zu sterben, aber er kann sich aus dem geschützten Bereich bewegen, solange er innerhalb einer Magieaura verbleibt. Dies könnte es ermöglichen, dass legendäre Gestalten aus Jahrhunderten der Vergangenheit noch immer fortbestehen, tief verborgen an einem geheimen Ort und beschützt von einem mächtigen Geist. Machtpunkte, die für diese ritualartige Kraft ausgegeben werden, werden dauerhaft vom Machtwert des Geistes sowie seinem Machtvorrat abgezogen.
 
@@ -6396,24 +6344,6 @@ Diese ungewöhnlichen Geister (Singular *Imago*, „Abbild") sind die Verkörper
 
 Geister der Sinneswahrnehmung besitzen gewöhnlich eine Kraft, die einen bestimmten Effekt nachbildet, der ihrer jeweiligen Sinnesspezies entspricht: Ein Geist des Geruchs verwesenden Fleisches könnte beispielsweise *Gestank von zwanzig Leichen* duplizieren.
 
->## Abenteuerideen für Luftgeister
->
->### Die Menagerie
->
->Die Luftgeister von Kreaturen und Pflanzen sind relativ schwach, aber was würde passieren, wenn eine Vielzahl von ihnen zusammenwirkte? Ein Magus beschließt, diese Idee zu testen, und beginnt, Florae und Fauni aus der gesamten Umgebung zu sammeln. Schon bald bemerken jedoch selbst die örtlichen Dorfbewohner eine Dämpfung der Lebendigkeit, als ob ein undefinierbarer Trübsinn über dem Land liegt. Unterdessen stellt sich die Frage: Wie lange können die gefangenen Geister fern von ihren natürlichen Orten überleben, und welchen Effekt hofft der Magus mit ihnen zu erzielen?
->
->### Gefangen!
->
->Ein Lehrling und einer der Grogs werden ausgesandt, um Vis von einer normalerweise zuverlässigen Quelle zu sammeln, die sich in einem Höhlensystem nahe dem Konvent befindet. Sobald sie die Höhlen betreten, beginnen sie, seltsame flehende Rufe zu hören, die ihre Namen rufen und weinen – sie ahnen nicht, dass die Geräusche von einem gelangweilten Zwergenstimme-Imago erzeugt werden, der nur mit ihnen „spielen" will. Sie folgen, doch schon bald verirren sie sich, als die widerhallende Stimme sie tiefer in das Labyrinth der Tunnel führt. Als sie versuchen umzukehren, bricht ein Teil der Decke ein und fängt sie in einer isolierten Kammer ohne Ausweg.
->
->### Ein selbstherrlicher Geist
->
->Ein besonders arroganter Magus mit dem Fehler Verwechslung hat unwissentlich einen Geist der Emotionen erzeugt – den seines eigenen Selbstwertgefühls. Das Eidolon glaubt, das Los seines „Zwillings" zu verbessern, indem es sich in seine Angelegenheiten einmischt und sein Ansehen steigert, aber in Wirklichkeit verärgert es seine Verbündeten mit seinem überheblichen Auftreten.
->
->### Die Leiden der Welt
->
->Porphyrion von Tytalus behauptet, das Gefäß der Pandora unter dem Senat in Rom gefunden zu haben. Wurde Roms Macht von der Kontrolle über die Lugra abgeleitet? Angenommen, das Gefäß, das er besitzt, ist wirklich das, was er behauptet – was gedenkt Porphyrion, zuletzt in Paris gesichtet, nun mit dem Gefäß zu tun?
-
 #### Zwergenstimme-Imago
 
 **Magische Macht:** 15 (Imaginem)
@@ -6428,7 +6358,9 @@ Geister der Sinneswahrnehmung besitzen gewöhnlich eine Kraft, die einen bestimm
 
 **Persönlichkeitseigenschaften:** Schelmisch +3, Echo
 
-**Reputationen:** Mörderisch 1 (Lokal) **Kampf:**
+**Reputation:** Mörderisch 1 (lokal) 
+
+**Kampf:**
 
 *Geworfener Stein:* Init +3, Ang +4, Vert n/v Sch +5
 
@@ -6460,10 +6392,6 @@ Menschen, die mit starker Magie in Berührung kommen, erschaffen manchmal unbewu
 
 Ein Großer Persönlichkeitsfehler kann einen Geist mit einer Magischen Macht von 30 erzeugen. Kleine Persönlichkeitsfehler ziehen einen Geist mit Machtwert 20 an. Andernfalls hat der Geist einen Machtwert gleich (5 x Persönlichkeitseigenschaft). Negative Persönlichkeitseigenschaften können nicht verwendet werden, um einen Geist dieser Emotion zu beschwören, können aber einen Geist der entgegengesetzten Emotion herbeirufen. Beachte, dass der Geist des Zorns ein wahrhaft mächtiger Daimon wäre; häufiger vorkommende Eidola sind die Geister des Zorns einer Person, nicht der Schutzgeist der Emotion als Ganzes. Diejenigen, die Geister sehen können, berichten, dass Eidola in menschlicher Form erscheinen, als Abbild des „Besitzers" des Geistes, aber mit einer Karikatur der Emotion im Gesicht.
 
->## Zaubergeister
->
->Eingeweihte in das Mysterium der Hermetischen Theurgie (*Die Mysterien (Überarbeitete Ausgabe)*, Kapitel 9) können Geister beschwören, deren einzige Kraft darin besteht, die Effekte eines bestimmten Zaubers oder einer bestimmten Form zu duplizieren. Ein Zaubergeist hat einen Machtwert von mindestens der Stufe des Zaubers, und die Dauer des Beschwörungszaubers bestimmt, wie lange der Geist dem Theurgen zur Verfügung steht, bereit, seine Kraft auf dessen Befehl einzusetzen. Es ist umstritten, ob diese Geister eine eigene Klasse bilden oder ob sie Varianten der anderen Gruppen von Luftgeistern sind, aber nur Theurgen haben Interesse an solch feinen Punkten geistiger Taxonomie.
-
 #### Der Geist der Selbstherrlichkeit
 
 **Magische Macht:** 10 (Mentem)
@@ -6478,7 +6406,9 @@ Ein Großer Persönlichkeitsfehler kann einen Geist mit einer Magischen Macht vo
 
 **Magische Qualitäten und Mängel**: Große Macht (Gabe der Selbstsicherheit), Große Macht (Der stolzierende Pfau); Mindere Macht (Den Schleier des Fleisches anlegen), Kleine Tugend: Verbesserte Eigenschaften x3
 
-**Persönlichkeitseigenschaften:** Stolz +3\*, Neidisch +2 **Fertigkeiten:** Zechen 3 (Selbstherrlichkeit aufblähen), Charme 4 (Feinde), Handwerk: Geschichten 3 (über sich selbst), Etikette 4 (sich ins beste Licht rücken), Menschenkenntnis 4 (den Charakter, der ihn erzeugte), Täuschung 4 (Übertreibung), Intrige 4 (Verbündete gegeneinander aufhetzen), Führung 4 (Niedrigergestellte), Penetration 3 (Mentem)
+**Persönlichkeitseigenschaften:** Stolz +3\*, Neidisch +2
+
+**Fertigkeiten:** Zechen 3 (Selbstherrlichkeit aufblähen), Charme 4 (Feinde), Handwerk: Geschichten 3 (über sich selbst), Etikette 4 (sich ins beste Licht rücken), Menschenkenntnis 4 (den Charakter, der ihn erzeugte), Täuschung 4 (Übertreibung), Intrige 4 (Verbündete gegeneinander aufhetzen), Führung 4 (Niedrigergestellte), Penetration 3 (Mentem)
 
 **Kräfte:**
 
@@ -6502,6 +6432,10 @@ Genii Loci sind die Geister natürlicher Landschaftsmerkmale und gehören zu den
 
 Auf den ersten Blick erscheinen Genii Loci den Geistern der Elemente oder Pflanzen ähnlich, aber es gibt einen wichtigen Unterschied. Ein Genius Loci ist nicht der Geist eines bestimmten Objekts, sondern des Ortes, an dem dieses Objekt ruht, seines **Locus**. Der Geist bewohnt seinen Locus mittels der Kraft Präsenz. Eine Flora mag in einem einzelnen Baum residieren, während ein Genius Loci gleichzeitig in allen Bäumen eines Waldes anwesend sein kann. Ein Genius Loci kann seinen Locus ebenso wenig verlassen wie eine Person ihre Haut; die beiden sind untrennbar miteinander verbunden. Ein Genius Loci beschützt seinen Locus und die Pflanzen und Kreaturen, die darin wohnen, mit Nachdruck und setzt seine Kräfte ein, um sicherzustellen, dass der Locus nicht geschädigt wird. Einige, insbesondere Daimones, sind auch die Beschützer der Menschen, die innerhalb ihres Locus wohnen, und verfügen möglicherweise über die Kraft Tugend verleihen, um ihre auserwählten Menschen zu stärken. Ein Genius Loci mag je nach seiner Natur die Geister der Objekte und Lebewesen innerhalb seines Locus als seine Kinder oder Untertanen betrachten; oder er mag sie vertreiben oder gefangen halten und sich selbst zum einzigen geistigen Bewohner des Locus machen.
 
+>#### ABENTEUERIDEE: Eine feenhafte Apotheose
+>
+>Ledea von Haus Merinita hat einen Heilkult um die Quelle eines Luftgeistes gegründet und bereits eine Reihe von Anhängerinnen gewonnen, hauptsächlich Hebammen und werdende Mütter. Der Geist ist seither durch diesen Kult zu einem Daimon geworden und genießt nun den Dienst, den seine Anhängerinnen ihm erweisen. Allerdings wendet sich der örtliche Klerus gegen den Aufstieg des Heidentums unter den Frauen der Region; auch dies geschieht auf Ledeas Betreiben. Sie hofft, dass der Geist, wenn die Kirche beginnt, „Hexen" zu verbrennen, sich genug um seine Gläubigen sorgen wird, um einzugreifen, was nach Ledeas Überzeugung eine Verwandlung des magischen Geistes in ein Feenwesen auslösen könnte. Diener der Charaktere könnten Opfer von Ledeas Machenschaften werden, oder sie könnten damit beauftragt werden, die Scherben aufzusammeln, wenn ihr Plan Früchte trägt.
+
 #### Dschinne
 
 **Magische, Feen- oder Infernale Macht:** 10 – 40 (Dschinne können mit jeder Form verbunden sein)
@@ -6514,17 +6448,37 @@ Jeder Dschinn teilt, ungeachtet seiner Sphärenzugehörigkeit, dieselbe Große V
 
 ### Lugra, Geister der Mühsal
 
-**Magische Macht:** 5 – 20 (Vim) **Typische Kräfte:** Mensch beherrschen und Meisterschaft über (eine bestimmte Mühsal)
+**Magische Macht:** 5 – 20 (Vim) 
+
+**Typische Kräfte:** Mensch beherrschen und Meisterschaft über (eine bestimmte Mühsal)
 
 Die Lugra (wörtlich „Plagen") oder Kakodaimones sind die Geister der Mühsale des Lebens, die die Menschheit heimsuchen. Oft mit Dämonen verwechselt, ziehen diese Geister keine Befriedigung aus ihren Bemühungen und haben keinen bestimmten Grund, einzelne Individuen ins Visier zu nehmen. Ein Lugra führt eine parasitäre Existenz und legt seine besondere Art von Elend einem zufällig gewählten Wirt auf, bevor er zu einem anderen weiterzieht. Die griechische Legende berichtet, wie die freundlichen und hilfreichen Gegenstücke der Lugra von den Göttern auf den Olymp gerufen wurden, weshalb solche Wesen weiser, schöner und langlebiger als die Menschheit sind. Einige christliche Magi glauben, dass die Lugra erschaffen wurden, als Gott seinen Fluch über Adam aussprach und ihn aus Eden vertrieb. Ungeachtet ihres Ursprungs sind die Lugra die Geister des Alters und der Krankheit, der Streitigkeiten und der List, der schweren Arbeit und der vergeblichen Mühe.
 
->## Das Gefäß der Pandora
+>#### Das Gefäß der Pandora
 >
 >*Doch die verhasste Eris (Streit) gebar den schmerzvollen Ponos (Mühsal) und Lethe (Vergessen) und Limos (Hunger) und die Algea (Schmerzen), die Hysminai (Kampfesstreite) und die Makhai (Schlachten), die Phonoi (Morde) und die Androktasiai (Totschläge), die Neikea (Zwiste), die Pseudologoi (Lügen), die Amphilogiai (Streitgespräche) und Dysnomia (Gesetzlosigkeit) und Ate (Verblendung), die einander wesensgleich sind, und Horkos (Eid), der mehr Schaden anrichtet als jeder andere unter den irdischen Menschen, wenn einer wissentlich einen falschen Eid schwört.*
 >
 >— Hesiod, „Theogonie" 226
 >
 >Die Kinder der Eris wurden in einem Gefäß eingesperrt, um sie von der Menschheit fernzuhalten, doch die verhängnisvoll neugierige Pandora öffnete das Gefäß und entließ die Lugra auf die Erde. Nur Elpis („Hoffnung") verblieb im Gefäß, sodass die Menschheit Zugang zu den Gaben dieses Wesens behielt. Viele Magi und Zauberer haben das berüchtigte Gefäß der Pandora gesucht, in dem Glauben, dass es die Lugra dem Willen seines Besitzers unterwerfen könne; oder, altruistischer, die Lugra einfangen und die Menschheit von ihren Übeln befreien könne.
+
+>#### Abenteuerideen für Luftgeister
+>
+>**Die Menagerie**
+>
+>Die Luftgeister von Kreaturen und Pflanzen sind relativ schwach, aber was würde passieren, wenn eine Vielzahl von ihnen zusammenwirkte? Ein Magus beschließt, diese Idee zu testen, und beginnt, Florae und Fauni aus der gesamten Umgebung zu sammeln. Schon bald bemerken jedoch selbst die örtlichen Dorfbewohner eine Dämpfung der Lebendigkeit, als ob ein undefinierbarer Trübsinn über dem Land liegt. Unterdessen stellt sich die Frage: Wie lange können die gefangenen Geister fern von ihren natürlichen Orten überleben, und welchen Effekt hofft der Magus mit ihnen zu erzielen?
+>
+>**Trapped!**
+>
+>Ein Lehrling und einer der Grogs werden ausgesandt, um Vis von einer normalerweise zuverlässigen Quelle zu sammeln, die sich in einem Höhlensystem nahe dem Konvent befindet. Sobald sie die Höhlen betreten, beginnen sie, seltsame flehende Rufe zu hören, die ihre Namen rufen und weinen – sie ahnen nicht, dass die Geräusche von einem gelangweilten Zwergenstimme-Imago erzeugt werden, der nur mit ihnen „spielen" will. Sie folgen, doch schon bald verirren sie sich, als die widerhallende Stimme sie tiefer in das Labyrinth der Tunnel führt. Als sie versuchen umzukehren, bricht ein Teil der Decke ein und fängt sie in einer isolierten Kammer ohne Ausweg.
+>
+>Ein selbstherrlicher Geist
+>
+>Ein besonders arroganter Magus mit dem Fehler Verwechslung hat unwissentlich einen Geist der Emotionen erzeugt – den seines eigenen Selbstwertgefühls. Das Eidolon glaubt, das Los seines „Zwillings" zu verbessern, indem es sich in seine Angelegenheiten einmischt und sein Ansehen steigert, aber in Wirklichkeit verärgert es seine Verbündeten mit seinem überheblichen Auftreten.
+>
+>Die Leiden der Welt
+>
+>Porphyrion von Tytalus behauptet, das Gefäß der Pandora unter dem Senat in Rom gefunden zu haben. Wurde Roms Macht von der Kontrolle über die Lugra abgeleitet? Angenommen, das Gefäß, das er besitzt, ist wirklich das, was er behauptet – was gedenkt Porphyrion, zuletzt in Paris gesichtet, nun mit dem Gefäß zu tun?
 
 ## Die Benannten Geister
 
@@ -6534,6 +6488,17 @@ Daimones wohnen in der Magischen Sphäre und entsenden nur Aspekte ihrer selbst 
 
 Jeder Aspekt eines Daimons sollte so erstellt werden, als wäre er ein eigenständiger Geist. Er hat seinen eigenen Machtwert (der bis zum Machtwert des Daimons reichen kann), seine eigenen Tugenden und Fehler, Magischen Qualitäten und Mängel sowie Fertigkeiten.
 
+>#### Daimones
+>
+>Die **Daimones** oder Benannten Geister verkörpern die Elemente der Schöpfung, von den mächtigen Protogonoi und den Intelligenzen der Planetenkörper bis hinunter zu den Geistern heiliger Haine. Aufgestiegene Magi und Helden der Vorzeit (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seiten 137–140) gehören ebenfalls zu den Daimones. Obwohl sie als Benannte Geister bekannt sind, bedeutet dies nicht, dass andere Geister keine persönlichen Namen hätten; vielmehr ist damit die komplexe Abfolge von Silben und rituellen Gesten gemeint, die einen Wahren Namen ausmachen (siehe unten, Geister und Magie).
+>
+>#### Neue Tugend: Daimon
+>Kostenlos, Sozialer Status (nur Geister)
+>
+>Diese kostenlose Tugend wird von allen Daimones besessen. Alle Daimones haben einen Selbstvertrauenswert von mindestens 1. Ein Daimon ist ein permanenter Bewohner der Magischen Sphäre und kann die materielle Welt nicht betreten; stattdessen erschafft er einen Aspekt als seinen Agenten auf Erden. Ein Aspekt kann mit einem Augenblick des Gedankens erschaffen oder zerstört werden und kostet keine Machtpunkte zum Erschaffen. Jeder Aspekt gleicht einem eigenständigen Geist mit einigen oder allen Eigenschaften und Kräften des ursprünglichen Geistes, aber einem eigenen Machtwert (üblicherweise nur ein Bruchteil des Eltern-Daimons) und einem eigenen Vorrat an Machtpunkten. Ein Aspekt kann verbrauchte Machtpunkte nicht regenerieren; vielmehr wird er aufgelöst, wenn er erschöpft ist, und bei Bedarf durch einen anderen Aspekt ersetzt. Das Besiegen oder Zerstören des Aspekts hat keine Auswirkung auf den ursprünglichen Daimon, außer vielleicht auf dessen Haltung gegenüber den Urhebern dieser Taten. An einem Aspekt können keine dauerhaften Veränderungen vorgenommen werden, da sie nie von Dauer sind. Nur der Aspekt wird jemals durch Magie gefangen oder gebunden, und der Daimon kann entkommen, indem er den Aspekt verwirft. Ein Aspekt kann nicht innerhalb weniger Meilen eines anderen Aspekts desselben Daimons erscheinen, und kein Aspekt kann an denselben Ort (wie vom Spielleiter definiert) innerhalb eines Tages nach dem Verlassen zurückkehren. Nicht alle vom selben Daimon erschaffenen Aspekte müssen identisch sein; für verschiedene Funktionen entworfen, können sie unterschiedliche Kräfte und Machtwerte besitzen.
+>
+>Ein Aspekt ist eine ständige Arkane Verbindung von unbegrenzter Dauer, die in ständigem geistigem Kontakt mit ihrem Daimon steht. Obwohl ein Aspekt dazu verwendet werden kann, Zauber Arkaner Reichweite gegen seinen Eltern-Daimon zu richten, verfügen nur wenige Magi über genügend Macht, um solche Zauber den höheren Machtwert des Daimons selbst durchdringen zu lassen. Ein fehlgeschlagener Versuch, einen Daimon auf diese Weise zum Ziel zu machen, kann sich für den vorwitzigen Magus als sehr gefährlich erweisen!
+
 ### Theoi
 
 **Magische Macht:** 30 – 50 (Vim)
@@ -6542,7 +6507,7 @@ Jeder Aspekt eines Daimons sollte so erstellt werden, als wäre er ein eigenstä
 
 Die Theoi („Götter" im Griechischen) ist ein informeller Titel, der den mächtigsten der Daimones verliehen wird. Diese Gruppe gehörte selten zu den beliebtesten Gottheiten eines Pantheons; stattdessen erfüllten sie Nebenrollen als Aspekte der Natur, Richter der Gerechtigkeit und Verkörperungen kultureller Aspekte. Sie waren stets sowohl den Feengöttern als auch der Menschheit fern. Grundsätzlich kümmern sich Geister der Magie nicht darum, ob sie Verehrer haben oder nicht, und waren deshalb selten im Zentrum eines heidnischen Kults. Die Mythen des antiken Griechenlands sind im Mythischen Europa beispielsweise nur schlecht in Erinnerung geblieben, aber die meisten Gelehrten kennen die Hauptfiguren oberflächlich. Allerdings sind es Nebenfiguren wie Helios, Prometheus und Pallas, die die Reihen der Theoi füllen; nicht Zeus oder seine Geschwister und Kinder. Zu den Theoi gehören auch jene Geister, die einen Kult angezogen haben, weil sie ein Ideal verkörpern; einige Flambeau-Magi betrachten Mithras, den Kriegsgott der römischen Legionen, als einen Theos, der Ehre und Loyalität verkörpert, den vollkommenen Soldaten.
 
->## Genii, Götter und Verehrung
+>#### Genii, Götter und Verehrung
 >
 >Die Mehrzahl der Götter sind Feenmächte, keine magischen. Einige Feen sehnen sich aktiv nach menschlicher Verehrung; ihre gesamte Existenz mag davon abhängen. Diese intensive Faszination für die sterbliche Welt macht sie weitaus wahrscheinlicher zum Zentrum eines heidnischen Kults, ob vergangen oder gegenwärtig. Einige Theurgen behaupten, dass magische Geister den Kosmos lenken, ihn nach göttlichem Plan ordnen und betreiben. Es heißt, dass vor langer Zeit einige dieser Geister – die ersten Feen – entdeckten, dass die Verehrung der Menschheit ihnen Macht über ihr zugeteiltes Maß hinaus verleihen konnte, und sie wurden die ersten Götter. In einem Konflikt namens **Titanomachie** („Krieg der Titanen") inszenierten die Feengötter einen Umsturz und vertrieben die gleichgültigen und abgehobenen Geister der Magie von den Thronen der Welt. Zeus und seine Brüder banden die Titanen in der Unterwelt; Odin und seine Brüder formten die bewohnbare Welt aus den Körpern der erschlagenen Jotnar; und die Kinder der Danu trieben die Fomoire in die Unterwelt jenseits der Neunten Welle. Die Lenkung der Schöpfung floss weiterhin durch die gefangenen Geister, wurde jedoch von den neuen Göttern gelenkt, die sie zum Wohl ihrer Verehrer einsetzten.
 >
@@ -6584,10 +6549,6 @@ Unter Theurgen kursiert das Gerücht, dass während besonders günstiger Himmels
 
 Ein Letum ist ein Todesgeist, und es gibt sie in verschiedenen Varianten, jede mit ihrem namensgebenden Anführer. Die Keres (angeführt von Ker) sind die Geister des gewaltsamen Todes und verkörpern den Tod in der Schlacht oder durch einen Unfall. Die Thanatoi (angeführt von Thanatos) stehen für einen friedlichen Tod, dessen Berührung sanft ist. Die Akyliden (angeführt von Akhlys) sind die düsteren grünen Töchter des Gifts und der Krankheit, und die Moroi (angeführt von Moros) führen die Verdammten ihrem vorbestimmten Untergang entgegen. Für diejenigen, die ein Letum sehen können, erscheint es als geflügelter Mensch, umschlungen von Schlangen; die gewalttätigen sind blutig und grässlich mit Raubvogelklauen, während die Thanatoi und Moroi gewöhnlich von angenehmem Aussehen, aber mit trauervollem Gesicht sind.
 
->## Abenteueridee: Eine feenhafte Apotheose
->
->Ledea von Haus Merinita hat einen Heilkult um die Quelle eines Luftgeistes gegründet und bereits eine Reihe von Anhängerinnen gewonnen, hauptsächlich Hebammen und werdende Mütter. Der Geist ist seither durch diesen Kult zu einem Daimon geworden und genießt nun den Dienst, den seine Anhängerinnen ihm erweisen. Allerdings wendet sich der örtliche Klerus gegen den Aufstieg des Heidentums unter den Frauen der Region; auch dies geschieht auf Ledeas Betreiben. Sie hofft, dass der Geist, wenn die Kirche beginnt, „Hexen" zu verbrennen, sich genug um seine Gläubigen sorgen wird, um einzugreifen, was nach Ledeas Überzeugung eine Verwandlung des magischen Geistes in ein Feenwesen auslösen könnte. Diener der Charaktere könnten Opfer von Ledeas Machenschaften werden, oder sie könnten damit beauftragt werden, die Scherben aufzusammeln, wenn ihr Plan Früchte trägt.
-
 Unter den Leti sind die Erinnyen vielleicht die berühmtesten – chthonische Geister, die Verbrechen gegen die natürliche und moralische Ordnung mit einem rachsüchtigen Tod ahnden. Diese Geister nutzen die Kraft *Materieller Anker*, um ihre Beute zu markieren, und verfolgen und quälen sie dann mit ihren anderen Kräften, bevor sie einen unangenehmen Tod sicherstellen.
 
 ### Andere Daimones
@@ -6618,15 +6579,7 @@ Alle Magi können Luftgeister mittels der Kunst Rego als Teil der hermetischen S
 
 Hermetische Magie ist weniger tauglich, den Aspekt eines Daimons zu beschwören. Zwar sind alle hermetischen Magi fähig, einen Ritualzauber zu erfinden, um den Aspekt eines bestimmten Daimons herbeizurufen, doch können sie dies nur tun, wenn sie über einen Labortext oder einen Lehrer verfügen, der den Zauber bereits kennt. Ferner muss der Zauber des Nicht-Theurgen eine Basisstufe haben, die dem doppelten Machtwert des Daimons entspricht. Nicht-Theurgen müssen im Allgemeinen *Gemeinschaft der Zauberer* einsetzen, um eine ausreichende Penetration für einen solchen Zauber zu erreichen. Diejenigen, die in das Mysterium der Hermetischen Theurgie eingeweiht sind, können diese Zauber ohne Labortext oder Lehrer erfinden. Ferner braucht ein Hermetischer Theurg keinen so mächtigen Ausgangszauber; stattdessen kann er wiederholt einen Ritualzauber niedrigerer Stufe (und damit höherer Penetration) wirken und den Erfolg durch Beharrlichkeit statt durch rohe Macht erreichen. Hermetische Theurgen können auch Synthemata erforschen und einsetzen, um Penetrationssummen zu verbessern (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Kapitel 9: Hermetische Theurgie für weitere Details zu den Fähigkeiten dieser Magi).
 
-### Geister und nicht-hermetische Magie
-
-Die Goetischen Künste bilden die Grundlage der nicht-hermetischen Magie, die verwendet wird, um Geister aus jeder der drei irdischen Sphären zu beschwören und zu kontrollieren. Es gibt vier Goetische Künste – namentlich Herbeirufen, Schwächen, Binden und Befehligen –, die alle Große Übernatürliche Tugenden sind und als Künste gesteigert werden. Weitere Informationen finden sich in *Sphären der Macht: Das Infernale*, Kapitel 11: Ars Goetia.
-
-Die Goetische Kunst des Herbeirufens kann der Magie-, Feen- oder Infernalen Sphäre zugeordnet sein und wird verwendet, um Geister zum Ort des Zauberers zu rufen. Die Künste des Schwächens, Bindens und Befehlens sind alle der Infernalen Sphäre zugeordnet. Die Anwender dieser Magien müssen nicht böse sein, aber die Natur dieser Künste befleckt jede damit geleistete Arbeit. Diese Künste stehlen Geistern Macht, zwingen sie in Gegenstände oder Wesen, oder fordern Gehorsam vom Geist.
-
-Andere Traditionen von Zauberern, die Geister kontrollieren, finden sich in zukünftigen Quellenbänden für **Ars Magica** Fünfte Ausgabe.
-
->## Arkane Verbindungen, Wahre Namen und Synthemata
+>#### Arkane Verbindungen, Wahre Namen und Synthemata
 >
 >Auf den ersten Blick scheinen Geister keine **Arkanen Verbindungen** zu erzeugen, da sie keine festen Körper besitzen, um diese hervorzubringen. Allerdings dient jede weltliche Darstellung eines Luftgeistes als Arkane Verbindung zu diesem Geist. Beispielsweise dient ein Feuer als Arkane Verbindung zum Luftgeist dieses Feuers. Ein sich umwerbendes Paar kann als Arkane Verbindung zum Geist, der aus ihrer Liebe geboren wurde, verwendet werden, und so weiter. Der physische Ort eines Genius Loci ist eine Arkane Verbindung zu diesem Geist, unabhängig davon, ob es sich um einen Daimon oder einen Luftgeist handelt. Geister, die die Kraft *Materieller Anker* verwenden, können absichtlich Arkane Verbindungen bilden. Der Name eines Luftgeistes dient als Arkane Verbindung von unbegrenzter Dauer zu diesem Geist; obwohl der Name eines Daimons dies nicht tut (man muss stattdessen seinen Wahren Namen erforschen, siehe unten). Im Allgemeinen sind Daimones widerstandsfähiger gegen die Bildung Arkaner Verbindungen, und diese treten nur unter wenigen ausgewählten Umständen auf, etwa bei Verwendung der Kraft *Materieller Anker*.
 >
@@ -6634,16 +6587,7 @@ Andere Traditionen von Zauberern, die Geister kontrollieren, finden sich in zuk�
 >
 >**Synthemata** sind Zeichen, Symbole oder Losungsworte, die einen Magier an eine übernatürliche Kreatur binden; jedes Wesen mit einem Machtwert hat Synthemata, unabhängig davon, ob es auch einen Wahren Namen besitzt. Theurgische Zauber beinhalten diese magischen Worte in der Zauberformel; obwohl sie keine tatsächliche Macht verleihen, sind sie für die korrekte Ausführung dieser Magie notwendig und bleiben ein Geheimnis des Handwerks. Einige Magi und Heckenzauberer haben die Fähigkeit, die korrekten Synthemata in ihre Magie einzuweben als intensiven und mächtigen Kanal zu einem Geist, sodass sie ihn durch diesen Kanal befehligen können. Tugenden, um solche Magie zu wirken, werden in *Die Mysterien (Überarbeitete Ausgabe)*, Seiten 86–88 beschrieben. Die Kenntnis des Wahren Namens einer Kreatur addiert 5 zu allen Laborsummen, um Synthemata für dasselbe Wesen zu erforschen.
 
-
-## Beispiel-Ortsgeister
-
-Dieser Abschnitt listet mehrere Beispiel-Ortsgeister (Genii Loci) auf, zusammen mit Vorschlägen für magisch beeinflusste Charaktere, die sie bewohnen könnten. Charaktere, die einem solchen magischen Geist über einen längeren Zeitraum ausgesetzt waren, können auf verschiedene Weise magische Kräfte erwerben. Eine Person kann in einem Gebiet geboren sein, das von einem Genius Loci durchdrungen ist, und so eine mystische Verbindung zum Geist entwickelt haben; in diesem Fall kann der Charakter einfach mit den entsprechenden Tugenden und Fehlern erstellt werden. Eine Person kann durch den Einsatz der Kräfte Tugend verleihen oder Fehler auferlegen eines Geistes segensreiche oder nachteilige Effekte erhalten. Die Person mag den Geist erfreut oder erzürnt haben, oder sie mag von ihm besessen sein. Alternativ kann sie mit dem Geist im Austausch gegen Macht verhandelt haben, vielleicht indem sie Dienstbarkeit anbot. Bedeutende Abkommen können einen Pakt darstellen (der die Tugend Geistiger Pakt verleiht), und sie werden oft durch den Einsatz der Kraft Eidesschwur eines Genius Loci erzwungen. Magi könnten sogar in der Lage sein, eine tiefe mystische Kommunion mit einem solchen Geist einzugehen, um Mysterientugenden zu initiieren. Charaktere, die lange Zeit unter dem Einfluss eines Geistes standen, haben möglicherweise einen Verzerrungswert entwickelt und können daher neben einer mystischen Tugend auch einen oder mehrere Fehler erworben haben, wie in **ArM5**, Seite 168 beschrieben. Viele, aber nicht alle Genii Loci neigen zu einer allgemeinen Abneigung gegen das Eindringen von Menschen in ihre Herrschaftsbereiche.
-
-Jeder der aufgelisteten Genii Loci ist ein bestimmter Ort im Mythischen Europa. Sie dienen jedoch gleichermaßen als Beispiele für Arten geografischer Merkmale, die anderswo auftreten können, sodass du sie leicht an andere Orte anpassen kannst, wenn du es wünschst. Für weitere Details zu den Kräften der hier aufgeführten Geister siehe die Listen weiter oben in diesem Kapitel und in Kapitel 4: Charaktere, Allgemeine Kräfte. Die jedem Beispiel zugeordneten Charaktere können als Abenteuerideen dienen.
-
-Zahlreiche Beispiele für Wald-Genii-Loci finden sich auch in *Wächter des Waldes: Das Rhein-Tribunal*. Ein mächtiger Höhlen-Genius-Loci befindet sich in der Höhle der Zuckenden Schatten, der Domus Magna von Haus Criamon, in den Alpen; siehe *Häuser des Hermes: Mysterienkultee* für weitere Details.
-
->## Neue Geisterzauber und Zauber-Leitlinien
+>### Neue Geisterzauber und Zauber-Leitlinien
 >
 >Alle Zauber zum Beschwören, Wahrnehmen oder Kontrollieren eines Geistes müssen seine Magische Macht durchdringen. Der Aspekt eines Daimons kann kontrolliert werden, aber Daimones lösen den Aspekt üblicherweise auf, wenn ein Magus dies versucht.
 >
@@ -6661,9 +6605,10 @@ Zahlreiche Beispiele für Wald-Genii-Loci finden sich auch in *Wächter des Wald
 >
 >**Stufe 5:** Spüre jede übernatürliche Kreatur, deren Macht mit der Form verbunden ist.
 >
->### Beispielzauber: Den Feuerwandler wahrnehmen
->
->InIg 30 R: Pers, D: Konz, Z: Gesicht
+>### Beispielzauber: 
+>##### Den Feuerwandler wahrnehmen
+>InIg 30  
+>R: Per, D: Konz, Z: Gesicht
 >
 >In den Augen des Zaubernden erscheinen alle Kreaturen mit einem Machtwert, der Ignem zugeordnet ist (und deren Machtwert niedriger als die Penetrationssumme des Zaubernden ist), in einen roten Schimmer getaucht. Dieser Zauber ermöglicht es dem Zaubernden beispielsweise, einen Feuerelementar von einem normalen Feuer zu unterscheiden, einen Feuersalamander der Tugend von einer gewöhnlichen Eidechse zu erkennen und Feuergeister zu sehen, die normalerweise unsichtbar sind, ebenso wie Kreaturen anderer Sphären, die mit Feuer verbunden sind, ausgenommen Dämonen.
 >
@@ -6685,6 +6630,22 @@ Zahlreiche Beispiele für Wald-Genii-Loci finden sich auch in *Wächter des Wald
 >
 >**Stufe 15:** Beschwöre einen Luftgeist einer bestimmten Sphäre.
 
+### Geister und nicht-hermetische Magie
+
+Die Goetischen Künste bilden die Grundlage der nicht-hermetischen Magie, die verwendet wird, um Geister aus jeder der drei irdischen Sphären zu beschwören und zu kontrollieren. Es gibt vier Goetische Künste – namentlich Herbeirufen, Schwächen, Binden und Befehligen –, die alle Große Übernatürliche Tugenden sind und als Künste gesteigert werden. Weitere Informationen finden sich in *Sphären der Macht: Das Infernale*, Kapitel 11: Ars Goetia.
+
+Die Goetische Kunst des Herbeirufens kann der Magie-, Feen- oder Infernalen Sphäre zugeordnet sein und wird verwendet, um Geister zum Ort des Zauberers zu rufen. Die Künste des Schwächens, Bindens und Befehlens sind alle der Infernalen Sphäre zugeordnet. Die Anwender dieser Magien müssen nicht böse sein, aber die Natur dieser Künste befleckt jede damit geleistete Arbeit. Diese Künste stehlen Geistern Macht, zwingen sie in Gegenstände oder Wesen, oder fordern Gehorsam vom Geist.
+
+Andere Traditionen von Zauberern, die Geister kontrollieren, finden sich in zukünftigen Quellenbänden für **Ars Magica** Fünfte Ausgabe.
+
+## Beispiel-Ortsgeister
+
+Dieser Abschnitt listet mehrere Beispiel-Ortsgeister (Genii Loci) auf, zusammen mit Vorschlägen für magisch beeinflusste Charaktere, die sie bewohnen könnten. Charaktere, die einem solchen magischen Geist über einen längeren Zeitraum ausgesetzt waren, können auf verschiedene Weise magische Kräfte erwerben. Eine Person kann in einem Gebiet geboren sein, das von einem Genius Loci durchdrungen ist, und so eine mystische Verbindung zum Geist entwickelt haben; in diesem Fall kann der Charakter einfach mit den entsprechenden Tugenden und Fehlern erstellt werden. Eine Person kann durch den Einsatz der Kräfte Tugend verleihen oder Fehler auferlegen eines Geistes segensreiche oder nachteilige Effekte erhalten. Die Person mag den Geist erfreut oder erzürnt haben, oder sie mag von ihm besessen sein. Alternativ kann sie mit dem Geist im Austausch gegen Macht verhandelt haben, vielleicht indem sie Dienstbarkeit anbot. Bedeutende Abkommen können einen Pakt darstellen (der die Tugend Geistiger Pakt verleiht), und sie werden oft durch den Einsatz der Kraft Eidesschwur eines Genius Loci erzwungen. Magi könnten sogar in der Lage sein, eine tiefe mystische Kommunion mit einem solchen Geist einzugehen, um Mysterientugenden zu initiieren. Charaktere, die lange Zeit unter dem Einfluss eines Geistes standen, haben möglicherweise einen Verzerrungswert entwickelt und können daher neben einer mystischen Tugend auch einen oder mehrere Fehler erworben haben, wie in **ArM5**, Seite 168 beschrieben. Viele, aber nicht alle Genii Loci neigen zu einer allgemeinen Abneigung gegen das Eindringen von Menschen in ihre Herrschaftsbereiche.
+
+Jeder der aufgelisteten Genii Loci ist ein bestimmter Ort im Mythischen Europa. Sie dienen jedoch gleichermaßen als Beispiele für Arten geografischer Merkmale, die anderswo auftreten können, sodass du sie leicht an andere Orte anpassen kannst, wenn du es wünschst. Für weitere Details zu den Kräften der hier aufgeführten Geister siehe die Listen weiter oben in diesem Kapitel und in Kapitel 4: Charaktere, Allgemeine Kräfte. Die jedem Beispiel zugeordneten Charaktere können als Abenteuerideen dienen.
+
+Zahlreiche Beispiele für Wald-Genii-Loci finden sich auch in *Wächter des Waldes: Das Rhein-Tribunal*. Ein mächtiger Höhlen-Genius-Loci befindet sich in der Höhle der Zuckenden Schatten, der Domus Magna von Haus Criamon, in den Alpen; siehe *Häuser des Hermes: Mysterienkultee* für weitere Details.
+
 ### Der Ätna
 
 Ein mächtiger und gewalttätiger Feuergeist, Adranus, schlummert unter einem Berg auf der Mittelmeerinsel Sizilien. Er hat eine Abneigung gegen die einheimische Bevölkerung entwickelt, seit diese ihn vor langer Zeit nicht mehr als Gott verehrte. Dennoch ist er zufrieden, wenn die Sterblichen seinen Hängen fernbleiben und in einem Zustand respektvoller Furcht leben, doch sollten sie zu kühn, respektlos oder vergesslich werden, wird sich der Genius Loci ärgern und sein Schlaf wird gestört. Sein Zorn baut sich allmählich auf, bis das Bedürfnis, seine Wut abzulassen, überwältigend wird, woraufhin der Vulkan mit spektakulärer und verheerender Kraft ausbricht. Von den wenigen, die sich auf die kahlen und felsigen Hänge des Berges wagen, ist bekannt, dass sie den Verstand verlieren.
@@ -6697,11 +6658,17 @@ In der Antike wurde Adranus von den primitiven Bewohnern Siziliens als Feuergott
 
 **Jahreszeit:** Winter
 
-**Eigenschaften:** Int +3, Wah +3, Prä +2, Kom +2, Stä +3, Aus +2, Ges –1, Sck –2 **Selbstvertrauenswert:** 1 (3 Punkte)
+**Eigenschaften:** Int +3, Wah +3, Prä +2, Kom +2, Stä +3, Aus +2, Ges –1, Sck –2 
+
+**Vertrauenswert:** 1 (3 Punkte)
 
 **Tugenden und Fehler:** Magischer Geist, Daimon; Wege der Berge; Verbesserte Eigenschaften x5; Raserei, Jähzornig
 
-**Magische Qualitäten und Mängel:** Fokussierte Macht x12, Große Macht, Ritualmacht x9; Kleine Tugend x2; Reduzierte Fertigkeiten x18 **Persönlichkeitseigenschaften:** Jähzornig +6, Schlummernd +3 **Reputationen:** Bringer von Tod und Zerstörung 5 (Lokal)
+**Magische Qualitäten und Mängel:** Fokussierte Macht x12, Große Macht, Ritualmacht x9; Kleine Tugend x2; Reduzierte Fertigkeiten x18
+
+**Persönlichkeitseigenschaften:** Zornig +6, Schlummernd +3 
+
+**Reputation:** Bringer von Tod und Zerstörung 5 (lokal)
 
 **Fertigkeiten:** Sizilienkunde 6 (Berge), Magiekunde 8 (Unterwelt)
 
@@ -6785,28 +6752,6 @@ Die Durchfahrt entlang der oberen Abschnitte des Rheins, eines der großen Flüs
 
 Der Geist einer Wüste in den heißen, trockenen Landen des südlichen Iberien hat einen unerträglichen Durst nach Wasser und saugt alle Regenfälle und Gewässer aus, die in ihn hineinfließen. Er hat auch den Drang, sich auszubreiten, auf benachbarte Ländereien überzugreifen und diese auszudörren. Jeder Versuch der nahen Bewohner, ihn durch Bewässerung zu zähmen oder zu beseitigen, wird Verärgerung hervorrufen, obwohl er jedes in sein Gebiet geleitete Wasser gierig aufsaugen wird. Diese unbewohnte Region wird von den örtlichen Mauren im Allgemeinen gemieden, abgesehen von gelegentlichen Verrückten und Mystikern, die sich hineinwagen und selten zurückkehren. Die Bürger von al-Meraya sind gezwungen, ihren Lebensunterhalt durch Handel zu bestreiten, da der ausgedörrte Einfluss der Wüste die meiste Landwirtschaft auf ihrem Land zum Scheitern bringt. Der Geist kann sich als jede Wüstenkreatur manifestieren.
 
->## Abenteuerideen für Ortsgeister
->
->### Feuer und Zorn
->
->Maria, eine junge Frau, die in einem Dorf nicht weit vom Ätna lebt, empfindet eine seltsame Empathie für Feuer und kann die Aktivität des Vulkans durch ihre Träume vorhersagen (sie hat den Fehler Visionen). Ihre schwangere Mutter war die einzige Überlebende, als der Vulkan vor einer Generation das Dorf zerstörte – nur sie beachtete die Warnungen und konnte auf wundersame Weise entkommen. Maria, mit demselben Talent wie ihre Mutter geboren, macht düstere Vorhersagen über einen bevorstehenden Ausbruch und fleht die Dorfbewohner an, den Feuergeist zu besänftigen, um ihn zu verhindern. Diese jedoch verspotten ihr heidnisches Gemurmel, und so sieht es danach aus, als würde der Feuergeist tatsächlich mit Rache zurückkehren.
->
->### Allein in der Wildnis
->
->Ein alter Eremit, Ismail, lebt schon so lange in der Wüste von al-Meraya, wie irgendjemand sich erinnern kann. Die drückende Hitze und die verdorrte Landschaft scheinen ihm nichts auszumachen, und er hat die Fähigkeit, mit dem Geist zu kommunizieren. Er kann verborgenes Wasser in der Wüste finden (dank seiner Tugend Wünschelrutengehen, die er durch Verzerrung erlangt hat) und hat eine unheimliche Gabe, vorherzusagen, wann die Regenfälle kommen werden. Bei einer örtlichen Dürre könnte man ihn um Hilfe aufsuchen. Er gestattet dem Wüstengeist auch, von ihm Besitz zu ergreifen, damit dieser mit der Außenwelt kommunizieren kann.
->
->### Der entfesselte Strom
->
->Schwall, ein älterer und zurückgezogener Magus mit großer Beherrschung von Aquam, hat sich mit dem Flussgeist des Rheins angefreundet und sein verborgenes Sanctum in einer Regio an den Wasserfällen eingerichtet. Er gehörte früher dem Rheinkonvent Rheinstein an, doch seit dessen Zerstörung hat man nichts mehr von ihm gehört. Schwall fürchtet den Beginn seines Endgültigen Zwielichts – mächtige magische Effekte und der Einfluss des Geistes haben ihm viele Verzerrungspunkte und Zwielichtnarben eingebracht – und sucht eine Art von Unsterblichkeit, indem er sein eigenes Bewusstsein mystisch mit dem des Geistes verschmilzt und sich selbst in Wasser verwandelt. Er hofft auch, die Befreiung des Geistes von den Fällen zu erreichen, was wahrscheinlich Handel und Besiedlung entlang des Flusses verwüsten würde, da der Flussgeist in gewaltigen Sturzfluten und Überschwemmungen schwelgt.
->
->### Der begünstigte Fischer
->
->Wecelo ist ein Meisterfischer, der den Brienzersee besser zu befahren vermag als irgendjemand, an den sich die Dorfbewohner erinnern können. Als junger Mann war er unter einer Gruppe von Bootsleuten, die in einem Sturm auf dem See verloren gingen. Vielleicht weil er die Gunst oder das Mitleid des Seegeistes auf sich zog, war er der Einzige, der vor dem Ertrinken gerettet wurde. Seither verspürt er eine große Sehnsucht, am See zu bleiben. Wecelo wird wahrscheinlich von jedem aufgesucht, der eine Überfahrt über (oder in) den See sucht oder sich für seine Bewohner interessiert, ob Fische oder andere.
->
->### Höhle der Wunder
->
->Ciaran, ein verwilderter Junge, lebt in der Aillwee-Höhle und stiehlt im Auftrag des Geistes Dinge aus einem nahen Dorf. Im Gegenzug bietet ihm die Höhle Schutz und Nahrung. Als Baby wurde der Junge in der Höhle ausgesetzt und man glaubte, er sei umgekommen. Doch der Genius Loci sorgte für sein Überleben und hat ihn adoptiert. Ciaran kann beim Versuch angetroffen werden, Reisende in der Nähe zu bestehlen, und ihre Suche nach ihrem vermissten Hab und Gut könnte sie zur Höhle und ihren verborgenen Reichtümern führen.
-
 #### al-Meraya
 
 **Magische Macht:** 40 (Terram)
@@ -6823,7 +6768,9 @@ Der Geist einer Wüste in den heißen, trockenen Landen des südlichen Iberien h
 
 **Persönlichkeitseigenschaften:** Durstig +5, Wunsch nach Ausdehnung +2
 
-**Reputationen:** Unbewohnbare Wüste 3 (Lokal) **Fertigkeiten:** Iberienkunde 6 (Wüsten), Magiekunde 4 (muslimische Länder), Überleben 8 (Wüsten)
+**Reputation:** Unbewohnbare Wüste 3 (lokal) 
+
+**Fertigkeiten:** Iberienkunde 6 (Wüsten), Magiekunde 4 (islamische Lande), Überleben 8 (Wüsten)
 
 **Kräfte:**
 
@@ -6921,7 +6868,9 @@ Ein unterirdischer Geist der Leere hat die Gestalt eines gewundenen Höhlensyste
 
 **Persönlichkeitseigenschaften:** Verlangen nach glänzenden Gegenständen +3, Plagegeist +2
 
-**Reputationen:** Ort ohne Wiederkehr 1 (Lokal) **Fertigkeiten:** An-Bhoireann-Kunde 3 (Untergrund), Magiekunde 2 (Unterirdische Kreaturen)
+**Reputation:** Ort ohne Wiederkehr 1 (lokal) 
+
+**Fertigkeiten:** An-Bhoireann-Kunde 3 (unterirdisch), Magiekunde 2 (unterirdische Kreaturen)
 
 **Kräfte:**
 
@@ -6945,13 +6894,33 @@ Ein unterirdischer Geist der Leere hat die Gestalt eines gewundenen Höhlensyste
 
 **Erscheinungsbild**: Die Aillwee-Höhle ist tatsächlich ein System mehrerer Höhlen unter einer felsigen Wildnis, die als An Bhoireann (der Burren) bekannt ist, im Westen Hibernias. Sie ist mit vielen Stalaktiten und Stalagmiten übersät, und ein kleiner unterirdischer Fluss schlängelt sich gewunden hindurch.
 
+>#### Abenteuerideen für Ortsgeister
+>
+>**Feuer und Zorn**
+>
+>Maria, eine junge Frau, die in einem Dorf nicht weit vom Ätna lebt, empfindet eine seltsame Empathie für Feuer und kann die Aktivität des Vulkans durch ihre Träume vorhersagen (sie hat den Fehler Visionen). Ihre schwangere Mutter war die einzige Überlebende, als der Vulkan vor einer Generation das Dorf zerstörte – nur sie beachtete die Warnungen und konnte auf wundersame Weise entkommen. Maria, mit demselben Talent wie ihre Mutter geboren, macht düstere Vorhersagen über einen bevorstehenden Ausbruch und fleht die Dorfbewohner an, den Feuergeist zu besänftigen, um ihn zu verhindern. Diese jedoch verspotten ihr heidnisches Gemurmel, und so sieht es danach aus, als würde der Feuergeist tatsächlich mit Rache zurückkehren.
+>
+>Allein in der Wildnis
+>
+>Ein alter Eremit, Ismail, lebt schon so lange in der Wüste von al-Meraya, wie irgendjemand sich erinnern kann. Die drückende Hitze und die verdorrte Landschaft scheinen ihm nichts auszumachen, und er hat die Fähigkeit, mit dem Geist zu kommunizieren. Er kann verborgenes Wasser in der Wüste finden (dank seiner Tugend Wünschelrutengehen, die er durch Verzerrung erlangt hat) und hat eine unheimliche Gabe, vorherzusagen, wann die Regenfälle kommen werden. Bei einer örtlichen Dürre könnte man ihn um Hilfe aufsuchen. Er gestattet dem Wüstengeist auch, von ihm Besitz zu ergreifen, damit dieser mit der Außenwelt kommunizieren kann.
+>
+>Der entfesselte Strom
+>
+>Schwall, ein älterer und zurückgezogener Magus mit großer Beherrschung von Aquam, hat sich mit dem Flussgeist des Rheins angefreundet und sein verborgenes Sanctum in einer Regio an den Wasserfällen eingerichtet. Er gehörte früher dem Rheinkonvent Rheinstein an, doch seit dessen Zerstörung hat man nichts mehr von ihm gehört. Schwall fürchtet den Beginn seines Endgültigen Zwielichts – mächtige magische Effekte und der Einfluss des Geistes haben ihm viele Verzerrungspunkte und Zwielichtnarben eingebracht – und sucht eine Art von Unsterblichkeit, indem er sein eigenes Bewusstsein mystisch mit dem des Geistes verschmilzt und sich selbst in Wasser verwandelt. Er hofft auch, die Befreiung des Geistes von den Fällen zu erreichen, was wahrscheinlich Handel und Besiedlung entlang des Flusses verwüsten würde, da der Flussgeist in gewaltigen Sturzfluten und Überschwemmungen schwelgt.
+>
+>Der begünstigte Fischer
+>
+>Wecelo ist ein Meisterfischer, der den Brienzersee besser zu befahren vermag als irgendjemand, an den sich die Dorfbewohner erinnern können. Als junger Mann war er unter einer Gruppe von Bootsleuten, die in einem Sturm auf dem See verloren gingen. Vielleicht weil er die Gunst oder das Mitleid des Seegeistes auf sich zog, war er der Einzige, der vor dem Ertrinken gerettet wurde. Seither verspürt er eine große Sehnsucht, am See zu bleiben. Wecelo wird wahrscheinlich von jedem aufgesucht, der eine Überfahrt über (oder in) den See sucht oder sich für seine Bewohner interessiert, ob Fische oder andere.
+>
+>**Höhle der Wunder**
+>
+>Ciaran, ein verwilderter Junge, lebt in der Aillwee-Höhle und stiehlt im Auftrag des Geistes Dinge aus einem nahen Dorf. Im Gegenzug bietet ihm die Höhle Schutz und Nahrung. Als Baby wurde der Junge in der Höhle ausgesetzt und man glaubte, er sei umgekommen. Doch der Genius Loci sorgte für sein Überleben und hat ihn adoptiert. Ciaran kann beim Versuch angetroffen werden, Reisende in der Nähe zu bestehlen, und ihre Suche nach ihrem vermissten Hab und Gut könnte sie zur Höhle und ihren verborgenen Reichtümern führen.
+
 ## Geister
 
-*Wie der Tag den Lebenden gehört, so ist die Nacht den Toten gegeben.*
-
-— Thietmar von Merseburg,
-
-Bischof von Utrecht
+>*Wie der Tag den Lebenden gehört, so ist die Nacht den Toten gegeben.*
+>
+>— Thietmar von Merseburg, Bischof von Utrecht
 
 Nicht alle Geister gehören der Magiesphäre an; es gibt auch infernale und feenhafte Geister. Magische Geister bleiben durch ein überwältigendes Gefühl oder ein persönliches Bedürfnis an die Welt gebunden. Wenn diese Bindung irgendwie aufgelöst wird, scheidet der Geist aus der Welt und kehrt niemals zurück.
 
@@ -6967,7 +6936,15 @@ Erscheinungen besitzen gewöhnlich alle Erinnerungen und Fertigkeiten, die sie z
 
 Die meisten anderen Arten von Geistern sind weniger klar bei Verstand als Erscheinungen. Eine weitere breite Kategorie von Geistern, die Magi als **Schatten** bezeichnen, gleichen verzerrten Spiegelungen einst lebender Menschen. Wie Erscheinungen sind Schatten durch eine überwältigende emotionale Bindung mit der Welt der Lebenden verbunden; doch anders als Erscheinungen werden sie von dieser Verbindung so stark beeinflusst, dass sie ihre gesamte Existenz beherrscht. Sie werden zu einer Art geistiger Karikatur ihres früheren Selbst, umgeformt durch ihre eigenen Leidenschaften und das Trauma des Todes. Obwohl Schatten zur Vernunft fähig sind, existieren sie dauerhaft in einem Zustand intensiver Emotionen, der ihr Denken trübt und beherrscht.
 
->## Die ruhelosen Toten in der mittelalterlichen Legende
+Die Erinnerungen der Schatten sind nur in Angelegenheiten vollständig, die mit ihren weltlichen Bindungen zusammenhängen. Alle anderen Erinnerungen sind verworren und bruchstückhaft. Zum Beispiel wird sich der Schatten eines Mannes, der an der Pest starb und dabei auch seine geliebte Frau und Kinder verlor, an jedes Detail seiner Familie erinnern, sich aber an seine Nachbarn nur dunkel erinnern und möglicherweise überhaupt keine Erinnerungen an seine eigene Kindheit haben. Schatten neigen zu einem verzerrten Zeitempfinden, das oft darauf beschränkt ist, die wenigen Tage oder sogar Stunden vor ihrem eigenen Tod immer wieder zu durchleben. Sie sind oft wahnhaft und können neue Menschen und Umgebungen mit solchen verwechseln, die ihnen zu Lebzeiten vertraut waren. Es fällt ihnen schwer, sich an lebende Menschen zu erinnern, denen sie nach ihrem eigenen Tod begegnen, was es erschwert, eine neue Beziehung zu ihnen aufzubauen.
+
+Geisterhafte Wächter, wie das Beispiel auf Seite 193 von **ArM5**, sind Schatten mit einer emotionalen Bindung, über einen anderen Charakter zu wachen (jemanden, den sie zu Lebzeiten kannten).
+
+Eine weitere wichtige Kategorie von Geistern sind **Spektren** — Geister, die hartnäckig die Rollen fortsetzen, die sie zu Lebzeiten hatten. Geisterhafte Bergleute, die bei einem Stolleneinbruch starben, geisterhafte Seeleute, deren Schiff die Gewässer heimsucht, in denen es sank, oder geisterhafte Soldaten, die in bestimmten Nächten erscheinen, um ihre letzte Schlacht nachzustellen, sind allesamt Beispiele für Spektren. Sie unterscheiden sich von Erscheinungen und Schatten dadurch, dass ihre Bindungen an die Welt weniger persönlich und stärker mit ihrer Tätigkeit oder Rolle verbunden sind. Da ihre weltlichen Bindungen recht abstrakt sind, kann es schwierig sein, sie zur Ruhe zu betten, indem man diese Bindungen auflöst.
+
+Einige in der Kirche glauben, dass Spektren Seelen sind, die für gottloses Verhalten bestraft werden, doch Magi neigen eher zu der Ansicht, dass sie eine Art Abbild eines menschlichen Geistes sind, das durch eine Kombination aus traumatischem Tod und einem unbekannten mystischen Phänomen entstanden ist. Manche Magi halten sie nicht für Geister, sondern für eine Art Luftgeist. Die geisterhaften Soldaten der Armee des Hauses Tremere (siehe *Häuser des Hermes: Wahre Linien*, Seiten 126–127) sind Spektren.
+
+>#### Die ruhelosen Toten in der mittelalterlichen Legende
 >
 >Mittelalterliche Erzählungen und Illustrationen der ruhelosen Toten stellen sie auf verschiedene Weisen dar. Mit den Regeln in diesem Buch kannst du deine eigenen ruhelosen Toten entwerfen, um deinen Geistergeschichten ein authentisch mittelalterliches Flair zu verleihen.
 >
@@ -6977,13 +6954,25 @@ Die meisten anderen Arten von Geistern sind weniger klar bei Verstand als Ersche
 >
 >In einigen wenigen mittelalterlichen Geschichten haben Geister die Fähigkeit, ihre Gestalt zu ändern. Der Geist, der Snowball angriff, hatte die Form einer Krähe, als er ihn verwundete; er nahm auch die Gestalten eines Hundes, einer Ziege und eines Mannes an. Wenn ein Geist nicht-menschliche Formen annehmen kann, können diese Formen symbolische Hinweise auf die Natur des Geistes geben. Zum Beispiel könnte die Form eines Hundes Treue symbolisieren.
 
-Die Erinnerungen der Schatten sind nur in Angelegenheiten vollständig, die mit ihren weltlichen Bindungen zusammenhängen. Alle anderen Erinnerungen sind verworren und bruchstückhaft. Zum Beispiel wird sich der Schatten eines Mannes, der an der Pest starb und dabei auch seine geliebte Frau und Kinder verlor, an jedes Detail seiner Familie erinnern, sich aber an seine Nachbarn nur dunkel erinnern und möglicherweise überhaupt keine Erinnerungen an seine eigene Kindheit haben. Schatten neigen zu einem verzerrten Zeitempfinden, das oft darauf beschränkt ist, die wenigen Tage oder sogar Stunden vor ihrem eigenen Tod immer wieder zu durchleben. Sie sind oft wahnhaft und können neue Menschen und Umgebungen mit solchen verwechseln, die ihnen zu Lebzeiten vertraut waren. Es fällt ihnen schwer, sich an lebende Menschen zu erinnern, denen sie nach ihrem eigenen Tod begegnen, was es erschwert, eine neue Beziehung zu ihnen aufzubauen.
-
-Geisterhafte Wächter, wie das Beispiel auf Seite 193 von **ArM5**, sind Schatten mit einer emotionalen Bindung, über einen anderen Charakter zu wachen (jemanden, den sie zu Lebzeiten kannten).
-
-Eine weitere wichtige Kategorie von Geistern sind **Spektren** — Geister, die hartnäckig die Rollen fortsetzen, die sie zu Lebzeiten hatten. Geisterhafte Bergleute, die bei einem Stolleneinbruch starben, geisterhafte Seeleute, deren Schiff die Gewässer heimsucht, in denen es sank, oder geisterhafte Soldaten, die in bestimmten Nächten erscheinen, um ihre letzte Schlacht nachzustellen, sind allesamt Beispiele für Spektren. Sie unterscheiden sich von Erscheinungen und Schatten dadurch, dass ihre Bindungen an die Welt weniger persönlich und stärker mit ihrer Tätigkeit oder Rolle verbunden sind. Da ihre weltlichen Bindungen recht abstrakt sind, kann es schwierig sein, sie zur Ruhe zu betten, indem man diese Bindungen auflöst.
-
-Einige in der Kirche glauben, dass Spektren Seelen sind, die für gottloses Verhalten bestraft werden, doch Magi neigen eher zu der Ansicht, dass sie eine Art Abbild eines menschlichen Geistes sind, das durch eine Kombination aus traumatischem Tod und einem unbekannten mystischen Phänomen entstanden ist. Manche Magi halten sie nicht für Geister, sondern für eine Art Luftgeist. Die geisterhaften Soldaten der Armee des Hauses Tremere (siehe *Häuser des Hermes: Wahre Linien*, Seiten 126–127) sind Spektren.
+>#### Woher kommen Geister?
+>
+>Einige Geister sind infernalen Ursprungs: verdrehte Seelen, die gesandt werden, um die Lebenden zu plagen oder zu verderben (siehe *Sphären der Macht: Das Infernale*, Seite 36). Es gibt auch feenhafte Geister. Magische Geister stammen aus der Magiesphäre (dies lässt sich mit Intellego-Vim-Zaubern beweisen), doch diese einfache Tatsache erklärt nicht vollständig eine häufige Form des Spuks.
+>
+>Im Mythischen Europa akzeptiert die Westkirche das Konzept des Fegefeuers — eine Art Vorzimmer des Himmels, in dem die Seelen der Toten Strafe erleiden, um von Sünden gereinigt zu werden, die sie zu Lebzeiten begangen haben. Die Geister von Menschen, die diesem Glauben (zu Lebzeiten) folgten, behaupten häufig, aus dem Fegefeuer die Welt der Lebenden zu besuchen, und können tatsächlich lebhafte Beschreibungen der Qualen geben, die sie dort erleiden.
+>
+>Die Kirche lehrt, dass bestimmte religiöse Handlungen — Gebete, Messen und Almosengeben im Namen des Verstorbenen — den Weg einer Seele durch das Fegefeuer in den Himmel beschleunigen können. Manche Geister (insbesondere Erscheinungen) erbitten genau diese Gefälligkeiten von den Lebenden. Doch für Geschichtszwecke kann es nützlich sein, einen Geist eine aktivere Form der Unterstützung erbitten zu lassen, etwa die Erfüllung einer Aufgabe im Namen des Geistes.
+>
+>Kirchengelehrte sind sich nicht einig darüber, wo sich das Fegefeuer im Verhältnis zur Erde, zum Himmel und zur Hölle befindet. Eine verbreitete Hypothese besagt, dass die Seelen der Toten den Tag im Fegefeuer im Zentrum der Erde verbringen und nachts zurückkehren, um die irdischen Orte zu besuchen, an denen sie ihre Sünden begangen haben. Einige Magi vermuten, dass Geister aus geheimnisvollen Gründen auf der Erde ankommen, indem sie durch die Magische Sphäre reisen.
+>
+>Die Geister selbst verstehen ihre eigene Situation nicht immer — tatsächlich wissen manche nicht einmal, dass sie tot sind. Der Tod verleiht dem Geist einer Person kein besonderes Wissen oder besondere Einsicht. Magische Geister sind darauf angewiesen, ihre eigenen Schlüsse über die seltsame und verwirrende Erfahrung zu ziehen, ein ruheloser Geist zu werden. Es überrascht nicht, dass sie ihren neuen Zustand gewöhnlich in den Begriffen ihres eigenen Glaubens beschreiben. So mag der Geist eines längst verstorbenen römischen Bürgers sagen, er habe in der Unterwelt gewandert, während der eines christlichen Bauern behaupten würde, im Fegefeuer zu leiden.
+>
+>Was nicht klar ist, ist, ob die Schlussfolgerungen der Geister tatsächlich zutreffen. Während einige von ihnen sicherlich glauben, das Jenseits in vertrauter Form zu erleben, könnte dies eine kunstvolle Wahnvorstellung sein. Einige Magi sagen, dass das Trauma des Todes den Geist einer Person dazu bringen könnte, sich in eine Art private Traumwelt zurückzuziehen, die (für den Geist) innerhalb der Magischen Sphäre greifbar wird.
+>
+>Die meisten anderen Glaubensrichtungen, einschließlich Judentum, Islam und der Ostkirche, akzeptieren das Konzept des Fegefeuers nicht. Geister, die (zu Lebzeiten) diesen Glaubensrichtungen angehörten, behaupten nie, aus dem Fegefeuer zu kommen, obwohl sie sagen mögen, sie kämen aus dem Limbus oder einem anderen Ort. Magi sind geteilter Meinung darüber, was dies bedeutet. Einige (im Allgemeinen jene von außerhalb der Westkirche) sagen, es liege daran, dass das Fegefeuer nicht wirklich existiere. Andere sagen, das Fegefeuer existiere, aber nur jene des „wahren" Glaubens kämen dorthin. Wieder andere sagen, dass das Studium von Geistern auf Erden niemals schlüssig sein könne, da es keine Möglichkeit gebe festzustellen, ob die Geister wahnhaft seien. Eine extremere Ansicht besagt, dass einige oder sogar alle Geister in Wirklichkeit verkleidete Dämonen seien, die Lügen erfinden, damit Menschen an den Lehren ihrer Religion zweifeln.
+>
+>Was feststeht, ist, dass wenn ein Geist um Gebete oder Messen bittet, das Gewähren dieser Dinge dem Geist gewöhnlich ermöglicht, zu seinem ewigen Schicksal überzugehen, was auch immer es sein mag. Ob dies daran liegt, dass sie tatsächlich wirken, oder weil der Geist nur glaubt, dass sie wirken werden, ist von geringer praktischer Bedeutung.
+>
+>Aus der Perspektive eines **Ars Magica** Fifth Edition-Spiels sind die Kräfte, die Persönlichkeit und die Rolle eines Geistes innerhalb der Geschichte wichtiger als sein metaphysischer Status. Was genau mit dem Geist einer Person nach dem Tod geschieht, kann im Geheimnisvollen belassen werden. Es sei darauf hingewiesen, dass Volkstraditionen bezüglich Geistern nicht genau mit der theologischen Lehre übereinstimmen. Wer kann schon sagen, ob die gelehrten Schriften der Bischöfe oder die Erzählungen alter Dorfweiber der Wahrheit näher sind?
 
 ### Geister als Charaktere
 
@@ -7016,31 +7005,6 @@ Geister können für jede Jahreszeit entworfen werden. Wie lebende Menschen kön
 **Schatten**, die einen Teil ihres Wissens und ihrer Fertigkeiten verloren haben, lassen sich am einfachsten als Sommer-Charaktere darstellen, könnten aber auch als Frühlings- oder Herbst-Charaktere funktionieren.
 
 **Spektren**, die den Großteil ihres Wissens und ihrer Fertigkeiten verloren haben, sollten Frühlings-Charaktere (oder gelegentlich Sommer-Charaktere) sein.
-
->## Woher kommen Geister?
->
->Einige Geister sind infernalen Ursprungs: verdrehte Seelen, die gesandt werden, um die Lebenden zu plagen oder zu verderben (siehe *Sphären der Macht: Das Infernale*, Seite 36). Es gibt auch feenhafte Geister. Magische Geister stammen aus der Magiesphäre (dies lässt sich mit Intellego-Vim-Zaubern beweisen), doch diese einfache Tatsache erklärt nicht vollständig eine häufige Form des Spuks.
->
->Im Mythischen Europa akzeptiert die Westkirche das Konzept des Fegefeuers — eine Art Vorzimmer des Himmels, in dem die Seelen der Toten Strafe erleiden, um von Sünden gereinigt zu werden, die sie zu Lebzeiten begangen haben. Die Geister von Menschen, die diesem Glauben (zu Lebzeiten) folgten, behaupten häufig, aus dem Fegefeuer die Welt der Lebenden zu besuchen, und können tatsächlich lebhafte Beschreibungen der Qualen geben, die sie dort erleiden.
->
->Die Kirche lehrt, dass bestimmte religiöse Handlungen — Gebete, Messen und Almosengeben im Namen des Verstorbenen — den Weg einer Seele durch das Fegefeuer in den Himmel beschleunigen können. Manche Geister (insbesondere Erscheinungen) erbitten genau diese Gefälligkeiten von den Lebenden. Doch für Geschichtszwecke kann es nützlich sein, einen Geist eine aktivere Form der Unterstützung erbitten zu lassen, etwa die Erfüllung einer Aufgabe im Namen des Geistes.
->
->Kirchengelehrte sind sich nicht einig darüber, wo sich das Fegefeuer im Verhältnis zur Erde, zum Himmel und zur Hölle befindet. Eine verbreitete Hypothese besagt, dass die Seelen der Toten den Tag im Fegefeuer im Zentrum der Erde verbringen und nachts zurückkehren, um die irdischen Orte zu besuchen, an denen sie ihre Sünden begangen haben. Einige Magi vermuten, dass Geister aus geheimnisvollen Gründen auf der Erde ankommen, indem sie durch die Magische Sphäre reisen.
->
->Die Geister selbst verstehen ihre eigene Situation nicht immer — tatsächlich wissen manche nicht einmal, dass sie tot sind. Der Tod verleiht dem Geist einer Person kein besonderes Wissen oder besondere Einsicht. Magische Geister sind darauf angewiesen, ihre eigenen Schlüsse über die seltsame und verwirrende Erfahrung zu ziehen, ein ruheloser Geist zu werden. Es überrascht nicht, dass sie ihren neuen Zustand gewöhnlich in den Begriffen ihres eigenen Glaubens beschreiben. So mag der Geist eines längst verstorbenen römischen Bürgers sagen, er habe in der Unterwelt gewandert, während der eines christlichen Bauern behaupten würde, im Fegefeuer zu leiden.
->
->Was nicht klar ist, ist, ob die Schlussfolgerungen der Geister tatsächlich zutreffen. Während einige von ihnen sicherlich glauben, das Jenseits in vertrauter Form zu erleben, könnte dies eine kunstvolle Wahnvorstellung sein. Einige Magi sagen, dass das Trauma des Todes den Geist einer Person dazu bringen könnte, sich in eine Art private Traumwelt zurückzuziehen, die (für den Geist) innerhalb der Magischen Sphäre greifbar wird.
->
->Die meisten anderen Glaubensrichtungen, einschließlich Judentum, Islam und der Ostkirche, akzeptieren das Konzept des Fegefeuers nicht. Geister, die (zu Lebzeiten) diesen Glaubensrichtungen angehörten, behaupten nie, aus dem Fegefeuer zu kommen, obwohl sie sagen mögen, sie kämen aus dem Limbus oder einem anderen Ort. Magi sind geteilter Meinung darüber, was dies bedeutet. Einige (im Allgemeinen jene von außerhalb der Westkirche) sagen, es liege daran, dass das Fegefeuer nicht wirklich existiere. Andere sagen, das Fegefeuer existiere, aber nur jene des „wahren" Glaubens kämen dorthin. Wieder andere sagen, dass das Studium von Geistern auf Erden niemals schlüssig sein könne, da es keine Möglichkeit gebe festzustellen, ob die Geister wahnhaft seien. Eine extremere Ansicht besagt, dass einige oder sogar alle Geister in Wirklichkeit verkleidete Dämonen seien, die Lügen erfinden, damit Menschen an den Lehren ihrer Religion zweifeln.
->
->Was feststeht, ist, dass wenn ein Geist um Gebete oder Messen bittet, das Gewähren dieser Dinge dem Geist gewöhnlich ermöglicht, zu seinem ewigen Schicksal überzugehen, was auch immer es sein mag. Ob dies daran liegt, dass sie tatsächlich wirken, oder weil der Geist nur glaubt, dass sie wirken werden, ist von geringer praktischer Bedeutung.
->
->Aus der Perspektive eines **Ars Magica** Fifth Edition-Spiels sind die Kräfte, die Persönlichkeit und die Rolle eines Geistes innerhalb der Geschichte wichtiger als sein metaphysischer Status. Was genau mit dem Geist einer Person nach dem Tod geschieht, kann im Geheimnisvollen belassen werden. Es sei darauf hingewiesen, dass Volkstraditionen bezüglich Geistern nicht genau mit der theologischen Lehre übereinstimmen. Wer kann schon sagen, ob die gelehrten Schriften der Bischöfe oder die Erzählungen alter Dorfweiber der Wahrheit näher sind?
-
-
->## Abenteueridee: Reue
->
->Der Geist eines örtlichen Ritters, der vor einigen Jahren in der Schlacht fiel, spukt noch immer auf seinen ehemaligen Ländereien und terrorisiert die Umgebung, um die Lebenden zu zwingen, ihn zur Ruhe zu betten und das zu beenden, was er für die Qualen des Fegefeuers hält. Sir Giles glaubt, seine große Sünde sei gewesen, dass er einen anderen Ritter im Turnier tötete. Sein Eifer, Ruhm zu erlangen, war so groß, dass er seinen Gegner durch übermäßige Gewalt tötete. Er glaubt, wenn er sicherstellen kann, dass die Witwe seines Opfers gut versorgt wird, werde er in den Himmel kommen können. Tatsächlich irrt er sich gewaltig. Seine wahre Sünde ist der Stolz, der ihn dazu trieb, seinen Gegner zu töten, und der ihn selbst jetzt noch an wahrer Reue hindert. Erst wenn er erkennt, wie sein Stolz seiner Erlösung im Wege steht und wie er anderen Leid zugefügt hat, wird er wahrhaft ins Jenseits übergehen.
 
 #### Sir Giles, ein geisterhafter Ritter
 
@@ -7086,14 +7050,14 @@ Geister können für jede Jahreszeit entworfen werden. Wie lebende Menschen kön
 
 *Den Körperlichen Schleier Anlegen,* 5 Punkte, Init –1, Corpus: Sir Giles kann materielle Gestalt annehmen. (Mindere Macht)
 
-*Das Phantomross Reiten,* 2 Punkte, Init 0, Animal R: Berührung, D: Sonne, Z: Ind
+*Auf dem Geisterross reiten,* 2 Punkte, Init 0, Animal  
+R: Berührung, D: Sonne, Z: Ind
 
 Wenn Sir Giles körperliche Gestalt annimmt, kann er auch sein Schlachtross für zusätzliche Machtkosten materialisieren. Er kann das Pferd nach Belieben wieder auflösen, dank des Rego-Requisits. Verwende die Werte für ein Schlachtross aus dem Anhang Buch der weltlichen Bestien.
 
 Cr(Re)An 40 (Basis 15, +1 Berührung, +2 Sonne, +1 Rego-Requisit, +1 Größe): Große Macht (40 Stufen, –2 Machtkosten)
 
 *Unsichtbarkeit,* 1 Punkt, Init 0, Imaginem
-
 R: Berührung, D: Konzentration, Z: Gruppe
 
 Selbst in materieller Gestalt können Sir Giles und sein Pferd nach Belieben unsichtbar werden (obwohl sie durch Zweites Gesicht noch gesehen werden können).
@@ -7101,6 +7065,7 @@ Selbst in materieller Gestalt können Sir Giles und sein Pferd nach Belieben uns
 PeIm 20 (Basis 4, +1 Berührung, +1 Konzentration, +2 Gruppe): Große Macht (teilweise: 20 Stufen, –1 Machtkosten, 5 EP Konzentration)
 
 *Im Traum Reiten,* 1 Punkt, Init 0, Mentem
+R: Touch, D: Sun, T: Ind 
 
 R: Berührung, D: Sonne, Z: Ind Wenn er in Geistform ist, kann Sir Giles in die Träume einer schlafenden Person eindringen, deren Namen er kennt, und sie mit Albträumen eines wütenden, dunklen Ritters quälen. Das Opfer muss einen Ausdauerwurf gegen einen Schwierigkeitsgrad in Höhe von Sir Giles' Präsenz + Führung bestehen oder eine Langzeit-Erschöpfungsstufe
 
@@ -7110,9 +7075,12 @@ CrMe 15 (Basis 4, +1 Berührung, +2 Sonne): Große Macht (teilweise: 15 Stufen, 
 
 **Belastung:** 2 (4) **Vis:** 4 Mentem in der Lanze
 
-verlieren.
-
 **Erscheinungsbild:** Sir Giles ist eine magische Erscheinung — ein geisterhafter Ritter in schwarzem Kettenhemd, der auf einem furchterregenden schwarzen Schlachtross reitet. Sein Schild und sein Waffenrock sind einfarbig schwarz ohne jedes heraldische Zeichen, und auf seinem Helm sitzt ein Helmzier in der Form eines Hahns. Wenn er seinen Helm abnimmt, erscheint er als ein recht stattlicher, gepflegter Ritter, dessen Gesicht einen Ausdruck wilden Stolzes zeigt.
+
+>#### ABENTEUERIDEE: Reue
+>
+>Der Geist eines örtlichen Ritters, der vor einigen Jahren in der Schlacht fiel, spukt noch immer auf seinen ehemaligen Ländereien und terrorisiert die Umgebung, um die Lebenden zu zwingen, ihn zur Ruhe zu betten und das zu beenden, was er für die Qualen des Fegefeuers hält. Sir Giles glaubt, seine große Sünde sei gewesen, dass er einen anderen Ritter im Turnier tötete. Sein Eifer, Ruhm zu erlangen, war so groß, dass er seinen Gegner durch übermäßige Gewalt tötete. Er glaubt, wenn er sicherstellen kann, dass die Witwe seines Opfers gut versorgt wird, werde er in den Himmel kommen können. Tatsächlich irrt er sich gewaltig. Seine wahre Sünde ist der Stolz, der ihn dazu trieb, seinen Gegner zu töten, und der ihn selbst jetzt noch an wahrer Reue hindert. Erst wenn er erkennt, wie sein Stolz seiner Erlösung im Wege steht und wie er anderen Leid zugefügt hat, wird er wahrhaft ins Jenseits übergehen.
+
 
 
 # Kapitel Acht: Magische Dinge
@@ -7139,118 +7107,109 @@ Diese Form von außergewöhnlichem Vis ahmt eine Mindere Verzauberung nach, gew�
 
 Im Allgemeinen hält der magische Effekt des besonderen Vis so lange an, wie das Vis intakt bleibt und nicht für hermetische Zwecke verwendet wird, doch die Spieltruppe kann der Anzahl der Verwendungen oder der Lebensdauer des Vis eine Obergrenze setzen wollen. Dies ist besonders angemessen für Vis, das durch den Aktivierungsprozess „verbraucht" wird. Zum Beispiel sollte ein Bauer Imaginem-Vis in Form von Pfefferkörnern, die jedes Essen, über das sie zerrieben werden, köstlich schmecken lassen, nicht ewig halten.
 
->## Abenteuerideen für Vis der Minderen Verzauberung
->
->### Schuldige Geheimnisse
->
->Der Klatschbase des Konvents erfährt von den Eigenschaften des außergewöhnlichen Spähglases aus Intellego-Vis und „leiht" es sich, um die Angelegenheiten der anderen Konventsbewohner zu beobachten. Der Klatschbase wird Zeuge eines Verbrechens und ist hin- und hergerissen zwischen der Entlarvung des Übeltäters (und damit auch der Enthüllung seines eigenen Diebstahls) und dem Geschehenlassen des unbestraften Verbrechens. Sollte der Klatschbase vortreten und den Verbrecher identifizieren, aber nicht seine eigenen Missetaten, klingt seine Geschichte unglaubwürdig; er besteht den Test des *Frostigen Hauchs der gesprochenen Lüge* nicht und wird selbst zum Verdächtigen.
->
->### Ein eisiger Fund
->
->Ein örtlicher Adliger hat die Quelle des außergewöhnlichen Eiszapfens aus Perdo-Vis entdeckt und hat mehrere Bauern in seinem Keller, der einen kleinen Raum auf Gefriertemperaturen hält. Er genießt es, seinen Besuchern zu imponieren, indem er ihnen an den heißesten Sommertagen gekühlte Getränke serviert. Versuchen die Magi, um das Vis zu handeln, das der Adlige nicht billig hergibt, oder nehmen sie es einfach?
->
->### Schlecht durchdachte Erleuchtung
->
->Ein skrupelloser örtlicher Priester hat die außergewöhnliche Lichtkugel aus Ignem-Vis entdeckt und nutzt sie, um „Wunder" zu inszenieren und den Verkauf seiner gefälschten Artefakte zu steigern. Ein Freund des Konvents erfährt von den Aktivitäten des Priesters und bittet die Charaktere, der Sache nachzugehen.
->
->### Frühlingsbrisen
->
->Die erste Frühlingsbrise in einem magischen Tal erzeugt mehrere Bauern außergewöhnliches Staubteufel-Auram-Vis. Sollte jemand das gesamte Vis ernten, kommt der Frühling nicht ins Tal. Pflanzen blühen nicht, Tiere gebären nicht, und der Sommer kommt erst, wenn mindestens 1 Bauer des Vis ins Tal zurückgebracht wird.
->
->### Unnatürliche Instinkte
->
->Ein Wegelagerer entdeckt eine Quelle von außergewöhnlichem Mistelzweig-Herbam-Vis und seine Kräfte. Er nutzt es, um seine Räuberbande auszustatten. Sie nutzen ihre Kräfte, um einen nahegelegenen Wald zu kontrollieren und einer Gefangennahme zu entgehen. Die Räuber hindern die Charaktere daran, ihre üblichen Besucher zu empfangen, und belästigen jene, die es wagen, sich in den Diebeswald zu begeben.
->
->### Lachen und Freude
->
->In einem nahen Dorf, in dem die Alten Wege noch geachtet werden, werden örtliche Paare in einem ganz besonderen Hain getraut. Das erste freudige Lachen der Braut und des Bräutigams nach der Vollendung der Ehegelübde enthält außergewöhnliches Lach-Mentem-Vis. Wie kommen Außenseiter mit fragwürdigen sozialen Fähigkeiten jedes Jahr an eine Einladung? Wenn sie anwesend sind, wie stellen sie sicher, dass das Paar aufrichtig lacht, wenn Träger der Gabe anwesend sind?
->
->### Der verzerrte Zauberer
->
->Ein Magus mit hoher Parma Magica entdeckt mehrere Bauern außergewöhnliches Schwefel-Vim-Vis und tauscht es an einen jüngeren Magus mit schwächerer Parma Magica. Der Magus verfällt ins Zwielicht des Zauberers. Als er zurückkehrt, erhebt er Anklage gegen den älteren Magus beim nächsten Tribunal.
-
-#### Spähglas aus Intellego
-
+Spähglas aus Intellego
 Vis InIm Stufe 14
-
 Pen 0, konstanter Effekt
-
 R: Berührung, D: Sonne, Z: Raum
 
 Dieses Intellego-Vis hat die Form eines kleinen Glasstücks. Wenn das Glas gegen eine Wand gehalten wird, kann der Charakter hindurchsehen, als wäre das Glas ein Fenster in den Raum. Das Glas liefert keine Beleuchtung und erlaubt es dem Charakter nicht, Dinge zu sehen, die von Gegenständen im Raum verdeckt werden.
 
 (Effekt: Basis 1, +1 Berührung, +2 Sonne, +2 Raum; Modifikationen +1 2 Anwendungen pro Tag, +3 Umgebungsauslöser)
 
-#### Eiszapfen aus Perdo-Vis PeIg Stufe 25
-
+Eiszapfen aus Perdo-Vis PeIg Stufe 25
 Pen +12, konstanter Effekt
-
 R: Berührung, D: Sonne, Z: Ind
 
 Dieser Eiszapfen aus Perdo-Vis schmilzt niemals. Jeder, der ihn berührt, verliert eine Erschöpfungsstufe. Wenn mehrere Bauern des Vis im selben Bereich gelagert werden, kühlen sie einen Raum bis zu unangenehmer Kälte herunter. Wenn ein Stab oder mehr im selben Raum gelagert wird, verliert jeder, der ihn betritt, eine Erschöpfungsstufe pro Durchmesser im Raum, es sei denn, er ist durch schwere Winterkleidung geschützt.
 
 (Effekt: Basis 4, +1 Berührung, +2 Sonne; Modifikationen +1 2 Anwendungen pro Tag, +3 Umgebungsauslöser, +6 Penetration)
 
-#### Staubteufel aus Auram-Vis
-
+Staubteufel aus Auram-Vis
 CrAu Stufe 9
-
 Pen 0, konstanter Effekt
-
 R: Berührung, D: Sonne, Z: Ind
 
 Dieser kleine Wirbelwind aus Auram-Vis sorgt für einen ständigen Strom frischer Luft, der die Luft auch in einem luftdichten Raum atembar hält. Das Auram-Vis kann nur mit Magie oder in einem hermetisch versiegelten Behälter transportiert werden.
 
 (Effekt: Basis 1, +1 Berührung, +2 Sonne, +1 unnatürlich; Modifikationen +1 2 Anwendungen pro Tag, +3 Umgebungsauslöser)
 
-**Mistelzweig aus Herbam-Vis** InHe Stufe 14 Pen 0, konstanter Effekt R: Berührung, D: Sonne, Z: Gruppe
+**Mistelzweig aus Herbam-Vis**  
+InHe Stufe 14 Pen 0, konstanter Effekt  
+R: Berührung, D: Sonne, Z: Gruppe
 
 Die Mistel wächst auf dem ältesten Baum des Waldes. Wenn sie richtig geerntet wird, enthält sie Herbam-Vis. Jeder, der den Mistelzweig bei sich trägt, erlangt ein intuitives Verständnis des Waldes, in dem die Mistel wuchs. Dies gewährt +3 auf alle naturbezogenen Würfe, wenn der Charakter sich im Wald befindet.
 
 (Effekt: Basis 1, +1 Berührung, +2 Sonne, +2 Gruppe; Modifikationen +1 2 Anwendungen pro Tag, +3 Umgebungsauslöser)
 
-**Lichtkugel aus Ignem-Vis** CrIg Stufe 14 Pen 0, konstanter Effekt R: Persönlich, D: Sonne, Z: Ind
+**Lichtkugel aus Ignem-Vis**  
+CrIg Stufe 14 Pen 0, konstanter Effekt  
+R: Per, D: Sonne, Z: Ind
 
 Dieser Bauer Ignem-Vis hat die Form einer Lichtkugel. Sie leuchtet hell und bietet eine Beleuchtung, die einem bewölkten Tag entspricht, in einem Bereich von etwa zehn Schritt Durchmesser, zentriert auf das Vis. Der Bereich um das Vis ist beleuchtet, es sei denn, das Vis ist in einem undurchsichtigen Behälter eingeschlossen.
 
 (Effekt: Basis 4, +2 Sonne; Modifikationen +1 2 Anwendungen pro Tag, +3 Umgebungsauslöser)
 
 **Lachen aus Mentem-Vis**
-
-ReMe Stufe 30 Pen 0, unbegrenzt R: Berührung, D: Sonne, Z: Ind
+ReMe Stufe 30 Pen 0, unbegrenzt  
+R: Touch, D: Sun, T: Ind
 
 Wenn dieses Vis eingefangen wird, wird jeder, der sein Lachen hört, von überwältigender Freude erfüllt. Der Zuhörer vergisst alle irdischen Sorgen und wird von Glückseligkeit überwältigt. Passende Persönlichkeitseigenschafts-Würfe werden um +5 modifiziert, und der Zuhörer erleidet –2 auf alle Würfe, die Denken oder Konzentration erfordern. Das Lachen ist sehr leise und nur zu vernehmen, wenn der physische Gegenstand, der das Vis enthält, gehalten wird.
 
 (Effekt: Basis 4, +1 Berührung, +2 Sonne, +1 komplexer Effekt; Modifikationen +10 Unbegrenzt)
 
 **Schwefel aus Vim-Vis**
-
 CrVm Stufe 25
-
 Pen +10, konstanter Effekt
-
 R: Berührung, D: Mom, Z: Ind
 
 Dieses Vim-Vis hat die Form eines Schwefelbröckchens, das einen starken Schwefelgeruch verströmt. Jeder, der mit dem Vis in Berührung kommt, erhält einen Magieschub, der dazu führt, dass das Ziel einen Verzerrungspunkt erhält.
 
 (Effekt: Basis 5, +1 Berührung; Modifikationen +10 Unbegrenzt, +5 Penetration)
 
+>#### ABENTEUERIDEEN für Vis der Minderen Verzauberung
+>
+>**Schuldige Geheimnisse**
+>
+>Der Klatschbase des Konvents erfährt von den Eigenschaften des außergewöhnlichen Spähglases aus Intellego-Vis und „leiht" es sich, um die Angelegenheiten der anderen Konventsbewohner zu beobachten. Der Klatschbase wird Zeuge eines Verbrechens und ist hin- und hergerissen zwischen der Entlarvung des Übeltäters (und damit auch der Enthüllung seines eigenen Diebstahls) und dem Geschehenlassen des unbestraften Verbrechens. Sollte der Klatschbase vortreten und den Verbrecher identifizieren, aber nicht seine eigenen Missetaten, klingt seine Geschichte unglaubwürdig; er besteht den Test des *Frostigen Hauchs der gesprochenen Lüge* nicht und wird selbst zum Verdächtigen.
+>
+>**Ein frostiger Fund**
+>
+>Ein örtlicher Adliger hat die Quelle des außergewöhnlichen Eiszapfens aus Perdo-Vis entdeckt und hat mehrere Bauern in seinem Keller, der einen kleinen Raum auf Gefriertemperaturen hält. Er genießt es, seinen Besuchern zu imponieren, indem er ihnen an den heißesten Sommertagen gekühlte Getränke serviert. Versuchen die Magi, um das Vis zu handeln, das der Adlige nicht billig hergibt, oder nehmen sie es einfach?
+>
+>Schlecht durchdachte Erleuchtung
+>
+>Ein skrupelloser örtlicher Priester hat die außergewöhnliche Lichtkugel aus Ignem-Vis entdeckt und nutzt sie, um „Wunder" zu inszenieren und den Verkauf seiner gefälschten Artefakte zu steigern. Ein Freund des Konvents erfährt von den Aktivitäten des Priesters und bittet die Charaktere, der Sache nachzugehen.
+>
+>**Frühlingsbrisen**
+>
+>Die erste Frühlingsbrise in einem magischen Tal erzeugt mehrere Bauern außergewöhnliches Staubteufel-Auram-Vis. Sollte jemand das gesamte Vis ernten, kommt der Frühling nicht ins Tal. Pflanzen blühen nicht, Tiere gebären nicht, und der Sommer kommt erst, wenn mindestens 1 Bauer des Vis ins Tal zurückgebracht wird.
+>
+>**Unnatürliche Instinkte**
+>
+>Ein Wegelagerer entdeckt eine Quelle von außergewöhnlichem Mistelzweig-Herbam-Vis und seine Kräfte. Er nutzt es, um seine Räuberbande auszustatten. Sie nutzen ihre Kräfte, um einen nahegelegenen Wald zu kontrollieren und einer Gefangennahme zu entgehen. Die Räuber hindern die Charaktere daran, ihre üblichen Besucher zu empfangen, und belästigen jene, die es wagen, sich in den Diebeswald zu begeben.
+>
+>**Lachen und Freude**
+>
+>In einem nahen Dorf, in dem die Alten Wege noch geachtet werden, werden örtliche Paare in einem ganz besonderen Hain getraut. Das erste freudige Lachen der Braut und des Bräutigams nach der Vollendung der Ehegelübde enthält außergewöhnliches Lach-Mentem-Vis. Wie kommen Außenseiter mit fragwürdigen sozialen Fähigkeiten jedes Jahr an eine Einladung? Wenn sie anwesend sind, wie stellen sie sicher, dass das Paar aufrichtig lacht, wenn Träger der Gabe anwesend sind?
+>
+>**Der verzerrte Zauberer**
+>
+>Ein Magus mit hoher Parma Magica entdeckt mehrere Bauern außergewöhnliches Schwefel-Vim-Vis und tauscht es an einen jüngeren Magus mit schwächerer Parma Magica. Der Magus verfällt ins Zwielicht des Zauberers. Als er zurückkehrt, erhebt er Anklage gegen den älteren Magus beim nächsten Tribunal.
+
 #### Zauberähnliches Vis
 
 Manches außergewöhnliche Vis erzeugt einen magischen Effekt, der einen hochstufigen Zauber nachahmt, gewöhnlich der 60. Stufe oder niedriger. Im Gegensatz zu Vis der Minderen Verzauberung kann zauberähnliches Vis keinen dauerhaften magischen Effekt erzeugen und wird am Ende des Effekts vollständig verbraucht. Die Aktivierung des Vis erfordert möglicherweise, dass es vom Empfänger des Effekts konsumiert wird, oder es verwelkt und zerfällt auf andere offensichtliche Weise bei Erlöschen der Magie. In jedem Fall erschöpft die Wirkung des magischen Effekts das Vis vollständig. Der magische Effekt erfordert im Allgemeinen ein bestimmtes auslösendes Ereignis oder besondere Umstände, um den zauberähnlichen Effekt auszulösen.
 
 **Samen aus Creo-Vis**
-
 CrHe Stufe 40
-
 R: Per, D: Mom, Z: Ind, Ritual
 
 Dieses Creo-Vis hat die Form eines Samens von einem Obstbaum. Wenn er gepflanzt wird, wächst der Samen sofort zu einem ausgewachsenen, nicht-magischen Baum heran, der mit den entsprechenden Früchten beladen ist. Der Samen muss nicht tief in die Erde gepflanzt werden; er wächst zur Reife heran, wenn er nur mit einer Handvoll Erde bedeckt wird. Aber der Baum überlebt nur, wenn er an einem geeigneten Ort und in einem passenden Klima gepflanzt wird.
 
 (Basis 40)
 
-**Eschenzweig aus Muto-Vis** MuCo Kombinierte Stufe 35
-
+**Eschenzweig aus Muto-Vis**  
+MuCo Kombinierte Stufe 35  
 R: Berührung, D: Sonne, Z: Ind
 
 Dieses Muto-Vis ist in einem Zweig einer Esche enthalten. Die Esche ist als der Baum Odins bekannt, und mancher glaubt, dass sie Erfolg im Kampf verleiht. Wenn der Träger dieses Muto-Vis einen Angriffswurf im Kampf ausführt, erhält er die Tugenden Kraftreserven und Zähigkeit für Sonnendauer.
@@ -7258,59 +7217,39 @@ Dieses Muto-Vis ist in einem Zweig einer Esche enthalten. Die Esche ist als der 
 (Basis 2, +1 Berührung, +2 Sonne (5) und *Gabe der Bärenstärke*, +1 Berührung (30))
 
 **Rosmarinzweig aus Rego-Vis**
-
-ReHe Stufe 56 R: Berührung, D: Mond, Z: Bauwerk, Ritual
+ReHe Stufe 56  
+R: Berührung, D: Mond, Z: Bauwerk, Ritual
 
 Dieses Rego-Vis hat die Form eines Rosmarinzweigs. Wenn das Vis über dem Haupteingang eines Hauses aufgehängt wird, schützt es alle innerhalb der Behausung vor Feenkreaturen des Waldes mit Macht 10 oder weniger. Das Aufhängen des Rosmarins über einer Tür verbraucht das Vis vollständig. Der Effekt hat eine Penetrationssumme von 11.
 
 (Basiseffekt 10, +1 Berührung, +3 Mond, +3 Bauwerk, +11 Stufen Penetration)
 
->## Abenteuerideen für zauberähnliches Vis
->
->### Rätselhafte Äpfel
->
->Ein sehr alter Apfelbaum steht im Herzen eines uralten Waldes. Der erste Apfel, der jeden Herbst auf natürliche Weise vom Baum fällt, enthält zauberähnliches Samen-Creo-Vis. Ein vom Baum genommener Apfel enthält kein Vis. Wenn die Charaktere zu spät im Herbst ankommen, wird der Boden mit Äpfeln des magischen Baumes bedeckt sein. Die Äpfel sind köstlich, und örtliche Tiere könnten sie fressen, bevor die Charaktere eintreffen.
->
->### Der Raufbold und der Zweig
->
->Ein hitzköpfiger Lehrling wird damit beauftragt, zauberähnliches Eschenzweig-Muto-Vis zu sammeln, aber der Meister erklärt die besonderen Kräfte des Vis nicht und weist den Lehrling nur an, Kampf um jeden Preis zu vermeiden. Der Lehrling gehorcht nicht und wird gebeten zu erklären, warum das Vis erschöpft ist, als er zum Konvent zurückkehrt.
->
->### Wechselbalg
->
->Eine Feenlady schickt ihre Diener jede Frühlings-Tagundnachtgleiche aus, um ein Kleinkind zu holen und es durch einen Wechselbalg zu ersetzen. Die Dorfbewohner kennen diesen Brauch und verwenden zauberähnliches Rosmarinzweig-Rego-Vis, um ihre Kinder zu schützen. Die Charaktere können das Vis nicht ernten, ohne sich mit den Dorfbewohnern auseinanderzusetzen. Sollte die Feenlady entdecken, dass die Charaktere ihren Versuch vereiteln, ein Kleinkind zu holen, ist sie ihnen gegenüber sehr ungehalten.
->
->### Giftiges Vis
->
->Ein Animal-Magus sammelt mehrere Bauern zauberähnliches Ei-Animal-Vis, untersucht aber nie deren besondere Eigenschaften. An einem besonders warmen Tag füllt sich das Labor des Magus mit giftigen Schlangen. Wenn eine der Schlangen entkommt, könnte der Konvent im folgenden Frühling von ihnen überrannt werden.
-
 **Ei aus Animal-Vis**
-
 CrAn Stufe 30
-
 R: Berührung, D: Mom, Z: Gruppe, Ritual
 
 Dieses Animal-Vis hat die Form eines lederartigen Schlangeneies. Wenn das Ei eine Stunde lang auf die Temperatur eines warmen Frühlingstages erwärmt wird, schlüpfen ausgewachsene Giftschlangen aus dem Ei. Ein Einfachwürfel + 14 bestimmt die Anzahl der schlüpfenden Schlangen.
 
 (Basis 10, +1 Berührung, +2 Gruppe, +1 Größe)
 
-**Tropfen Quellwasser aus Aquam-Vis** CrAq Stufe 20
-
+**Tropfen Quellwasser aus Aquam-Vis**  
+CrAq Stufe 20  
 R: Berührung, D: Mom, Z: Ind, Ritual
 
 Dieses Aquam-Vis hat die Form eines Wassertropfens aus einer magischen Quelle. Wenn das Vis jemals mit der bloßen Erde in Berührung kommt, bildet sich an dieser Stelle eine schnell fließende Quelle. Die Quelle bildet sich nicht, wenn es den Boden eines Gebäudes berührt, aber eine Quelle entsteht auf jedem Stück Boden, selbst wenn es massiver Fels ist.
 
 (Basis 5, +1 Berührung)
 
-**Schafgarbe aus Corpus-Vis** CrCo Stufe 40
-
+**Schafgarbe aus Corpus-Vis** 
+CrCo Stufe 40  
 R: Berührung, D: Mom Z: Ind, Ritual
 
 Dieses Corpus-Vis hat die Form von Schafgarbe, die auch als Soldatenkraut bekannt ist. Wenn die Blätter der Pflanze zerdrückt und auf die Wunden eines Charakters aufgetragen werden, heilen sie vollständig. Die Pflanze heilt nur körperliche Verletzungen und hat keine Wirkung auf Wundenstufen, die durch Krankheit oder Gift verursacht wurden, noch stellt sie fehlende Gliedmaßen wieder her.
 
 (Basis 35, +1 Berührung)
 
-**Kristall aus Imaginem-Vis** PeIm Stufe 20
-
+**Kristall aus Imaginem-Vis**  
+PeIm Stufe 20  
 R: Berührung, D: Sonne, Z: Ind
 
 Dieses Imaginem-Vis hat die Form eines Bergkristalls. Wenn ein Charakter den Kristall im Sonnenlicht ans Auge hält, wird der Charakter unsichtbar wie durch den *Schleier der Unsichtbarkeit*. Der Charakter bleibt unsichtbar, bis die Magie endet.
@@ -7318,12 +7257,46 @@ Dieses Imaginem-Vis hat die Form eines Bergkristalls. Wenn ein Charakter den Kri
 (Wie *Schleier der Unsichtbarkeit*, **ArM5**, Seite 146)
 
 **Silbermünze aus Terram-Vis** MuCo(Te) Stufe 45
-
+Level 45  
 R: Per, D: Mond, Z: Ind
 
 Dieses Terram-Vis hat die Form einer Silbermünze im Besitz einer kleinen Fee. Wenn ein Charakter die Münze ohne Erlaubnis der Fee nimmt, verwandelt er sich das nächste Mal, wenn er unter der Mittagssonne steht, für Monddauer in Stein. Die Auswirkungen, eine Statue zu sein, sind in der Zauberbeschreibung für *Die stille Wacht* beschrieben. (Siehe **ArM5**, Seite 132). Der Charakter kann den Effekt nicht vorzeitig beenden.
 
 (Basis 25, +3 Mond, +1 für Spezialeffekt)
+
+>#### ABENTEUERIDEEN für zauberähnliches Vis
+>
+>**Rätselhafte Äpfel**
+>
+>Ein sehr alter Apfelbaum steht im Herzen eines uralten Waldes. Der erste Apfel, der jeden Herbst auf natürliche Weise vom Baum fällt, enthält zauberähnliches Samen-Creo-Vis. Ein vom Baum genommener Apfel enthält kein Vis. Wenn die Charaktere zu spät im Herbst ankommen, wird der Boden mit Äpfeln des magischen Baumes bedeckt sein. Die Äpfel sind köstlich, und örtliche Tiere könnten sie fressen, bevor die Charaktere eintreffen.
+>
+>Der Raufbold und der Zweig
+>
+>Ein hitzköpfiger Lehrling wird damit beauftragt, zauberähnliches Eschenzweig-Muto-Vis zu sammeln, aber der Meister erklärt die besonderen Kräfte des Vis nicht und weist den Lehrling nur an, Kampf um jeden Preis zu vermeiden. Der Lehrling gehorcht nicht und wird gebeten zu erklären, warum das Vis erschöpft ist, als er zum Konvent zurückkehrt.
+>
+>**Wechselbalg**
+>
+>Eine Feenlady schickt ihre Diener jede Frühlings-Tagundnachtgleiche aus, um ein Kleinkind zu holen und es durch einen Wechselbalg zu ersetzen. Die Dorfbewohner kennen diesen Brauch und verwenden zauberähnliches Rosmarinzweig-Rego-Vis, um ihre Kinder zu schützen. Die Charaktere können das Vis nicht ernten, ohne sich mit den Dorfbewohnern auseinanderzusetzen. Sollte die Feenlady entdecken, dass die Charaktere ihren Versuch vereiteln, ein Kleinkind zu holen, ist sie ihnen gegenüber sehr ungehalten.
+>
+>**Giftiges Vis**
+>
+>Ein Animal-Magus sammelt mehrere Bauern zauberähnliches Ei-Animal-Vis, untersucht aber nie deren besondere Eigenschaften. An einem besonders warmen Tag füllt sich das Labor des Magus mit giftigen Schlangen. Wenn eine der Schlangen entkommt, könnte der Konvent im folgenden Frühling von ihnen überrannt werden.
+>
+>**Die tödliche Dürre**
+>
+>Eine Dürre trifft die Region, Ernten verdorren und Flüsse schrumpfen zu einem Rinnsal. Wenn der Konvent einem Dorf hilft, indem er sein zauberähnliches Tropfen-Quellwasser-Aquam-Vis einsetzt, flehen auch andere Dörfer den Konvent um Hilfe an. Weisen die Charaktere die Dorfbewohner ab und überlassen sie dem wahrscheinlichen Hungertod, oder geben sie ihre knappen Ressourcen aus, um ihnen zu helfen, obwohl kaum Aussicht auf Gegenleistung von den im Wesentlichen machtlosen Bauern besteht?
+>
+>**Die Macht der Heilung**
+>
+>Ein Berater eines örtlichen Herrn hat die Quelle von zauberähnlichem Schafgarbe-Corpus-Vis entdeckt und es benutzt, um seinen Herrn davon zu überzeugen, dass er große Heilkräfte besitzt. Wenn die Charaktere das Vis ernten, verfolgt der Berater sie bis zu ihrem Konvent und informiert seinen Herrn über den Diebstahl.
+>
+>**Die ruhelosen Toten**
+>
+>Ein Bauer findet zauberähnliches Kristall-Imaginem-Vis und macht sich versehentlich unsichtbar. Er kehrt nach Hause zurück, und das Dorf glaubt, er sei gestorben und spuke nun herum. Als er wieder sichtbar wird, vertreiben die verängstigten Dorfbewohner ihn aus ihren Häusern. Der Bauer glaubt, er sei zu einem wandelnden Toten geworden, und reist zum Konvent, um seinen „dunklen Herren" zu dienen, und bittet darum, zur Ruhe gebettet zu werden, wenn sein Dienst vollendet ist.
+>
+>**Die unbewegliche Rotkappe**
+>
+>Ein gieriger Kaufmann versucht, eine kleine Fee zu betrügen. Die Fee legt mehrere Münzen aus, darunter eine aus zauberähnlichem Silbermünze-Terram-Vis, und sagt dem Kaufmann, er solle die nehmen, die ihm zusteht. Doch anstatt die einzelne Münze selbst zu nehmen, schickt der Kaufmann die Rotkappe des Konvents, um *alle* Münzen als Begleichung seiner Schuld bei den Magi einzusammeln. Die Charaktere erwarten einen wichtigen Besuch der nun unbeweglichen Rotkappe und sind gezwungen, sie zu finden und zu befreien. Sollten sie die Münze bis zur Fee zurückverfolgen, hilft er den Charakteren, den Fluch aufzuheben, aber nur unter der Bedingung, dass sie den Kaufmann bestrafen.
 
 ### Zweckgebundenes Vis
 
@@ -7334,24 +7307,6 @@ Wenn ein Magus *Die Natur der Vis erkennen* auf Zweckgebundenes Vis wirkt, sind 
 #### Zauberverwendung
 
 Wenn Zweckgebundenes Vis verwendet wird, um einen Zauber mit der passenden Kombination von Künsten zu verstärken, wird das Vis behandelt, als wäre es doppelt so wirksam. Anders gesagt genießt ein Magus, der Zweckgebundenes Vis einsetzt, einen Vis-Bonus von +4 pro verwendetem Bauer. Zweckgebundenes Vis kann auch verwendet werden, um einen Zauber zu unterstützen, der nur eine der Technik- oder Form-Kombinationen nutzt, doch bietet das Zweckgebundene Vis dabei keinen Vorteil über das hinaus, was normales Vis gewährt. Ebenso ist das Vis doppelt so wirksam, wenn Zweckgebundenes Vis in einer Anwendung eingesetzt wird, die dieselbe Technik-Form-Kombination teilt — sei es beim Wirken eines Ritualzaubers oder beim Erschaffen eines magischen Gegenstands. Ein einzelner Bauer Zweckgebundenes Vis zählt als 2 Bauern Vis beim Wirken eines Rituals oder Erschaffen eines magischen Gegenstands, der die passende Kombination von Künsten verwendet. In jeder Situation, in der der Magus einen Patzerwurf machen muss, zählt das Zweckgebundene Vis ebenfalls doppelt.
-
->## Abenteuerideen für zauberähnliches Vis (Forts.)
->
->### Die tödliche Dürre
->
->Eine Dürre trifft die Region, Ernten verdorren und Flüsse schrumpfen zu einem Rinnsal. Wenn der Konvent einem Dorf hilft, indem er sein zauberähnliches Tropfen-Quellwasser-Aquam-Vis einsetzt, flehen auch andere Dörfer den Konvent um Hilfe an. Weisen die Charaktere die Dorfbewohner ab und überlassen sie dem wahrscheinlichen Hungertod, oder geben sie ihre knappen Ressourcen aus, um ihnen zu helfen, obwohl kaum Aussicht auf Gegenleistung von den im Wesentlichen machtlosen Bauern besteht?
->
->### Die Macht der Heilung
->
->Ein Berater eines örtlichen Herrn hat die Quelle von zauberähnlichem Schafgarbe-Corpus-Vis entdeckt und es benutzt, um seinen Herrn davon zu überzeugen, dass er große Heilkräfte besitzt. Wenn die Charaktere das Vis ernten, verfolgt der Berater sie bis zu ihrem Konvent und informiert seinen Herrn über den Diebstahl.
->
->### Die ruhelosen Toten
->
->Ein Bauer findet zauberähnliches Kristall-Imaginem-Vis und macht sich versehentlich unsichtbar. Er kehrt nach Hause zurück, und das Dorf glaubt, er sei gestorben und spuke nun herum. Als er wieder sichtbar wird, vertreiben die verängstigten Dorfbewohner ihn aus ihren Häusern. Der Bauer glaubt, er sei zu einem wandelnden Toten geworden, und reist zum Konvent, um seinen „dunklen Herren" zu dienen, und bittet darum, zur Ruhe gebettet zu werden, wenn sein Dienst vollendet ist.
->
->### Die unbewegliche Rotkappe
->
->Ein gieriger Kaufmann versucht, eine kleine Fee zu betrügen. Die Fee legt mehrere Münzen aus, darunter eine aus zauberähnlichem Silbermünze-Terram-Vis, und sagt dem Kaufmann, er solle die nehmen, die ihm zusteht. Doch anstatt die einzelne Münze selbst zu nehmen, schickt der Kaufmann die Rotkappe des Konvents, um *alle* Münzen als Begleichung seiner Schuld bei den Magi einzusammeln. Die Charaktere erwarten einen wichtigen Besuch der nun unbeweglichen Rotkappe und sind gezwungen, sie zu finden und zu befreien. Sollten sie die Münze bis zur Fee zurückverfolgen, hilft er den Charakteren, den Fluch aufzuheben, aber nur unter der Bedingung, dass sie den Kaufmann bestrafen.
 
 #### Studium
 
@@ -7423,12 +7378,9 @@ Die Baupunkte für außergewöhnliches Vis sind variabel und hängen von den bes
 
 Das Übertragen von speziellem, Zweckgebundenem oder einzigartigem Vis aus seiner natürlichen Form in eine andere Gestalt zerstört die besonderen Kräfte, die im Vis enthalten sind. Aus diesem Grund sind Magi oft gezwungen, unkörperliche Formen von Vis in speziellen Behältern zu transportieren. Auram-Vis könnte in Form einer Brise, eines Dufts oder Nebels vorkommen — all das kann in einer Glasphiole mit Korken oder Wachsversiegelung aufbewahrt werden. Der Magus muss die Phiole oder das Siegel brechen, um das Vis zu verwenden. Ebenso kann Vis oft in Klang oder Licht enthalten sein. Dieses Vis ist schwieriger zu transportieren. Ein Magus muss ein magisches Gerät erschaffen, um dieses unkörperliche Vis zu transportieren und zu lagern.
 
-**Behälter für flüchtiges Vis**
-
+##### **Behälter für flüchtiges Vis**
 ReVi Stufe 24
-
 Pen 0, 12/Tag
-
 R: Stimme, D: Mom, Z: Ind
 
 Dieses Gerät ist eine verzauberte Muschelschale. Der Halter kann sie verwenden, um unkörperliches Vis in hörbarer Form 12 Mal pro Tag einzufangen oder freizusetzen. Wenn die Muschelschale unkörperliches Vis enthält und ans Ohr gehalten wird, ist der Klang des Vis zu hören. Derselbe Effekt kann auch in einen Kristall eingebettet werden, um leuchtendes Vis aufzubewahren. Je mehr Vis das Gerät enthält, desto heller leuchtet es oder desto lauter klingt es.
@@ -7441,19 +7393,15 @@ Viele unbelebte Gegenstände resonieren mit bestimmten Aspekten der Magiesphäre
 
 Wie bei Tugendtieren ist es schwer vorherzusagen, welche Kräfte ein Magisches Ding hervorbringen (also entweder ein Tugendkraut oder ein Tugendobjekt). Zumeist findet man solche Dinge innerhalb einer Magieaura, doch nicht alle Pflanzen innerhalb einer Aura sind Tugendkräuter. Jene, die es sind, lassen sich daran erkennen, dass sie vollkommene Symmetrie besitzen, ohne Makel und in den lebendigsten Farbtönen. Ebenso sind alle Edelsteine der Tugend makellos, doch nicht alle makellosen Edelsteine besitzen jene vollkommene Eigenschaft, die sie tugendhaft macht. Die vielleicht einzige zuverlässige Quelle für Tugendobjekte sind die Überreste von Tugendtieren; das Vis in manchen dieser Kreaturen konzentriert sich in einem bestimmten Körperteil und entfaltet nach geeigneter Behandlung durch einen Heckenzauberer eine besondere Kraft. Zum Beispiel kann die Zunge einer Tugendschlange eine magische Fähigkeit verleihen, überzeugend zu lügen, und die Mähne eines Tugendlöwen macht ihren Träger so tapfer wie ihren ursprünglichen Besitzer.
 
->## Ein Magisches Ding veredeln
->
->Ein Tugendkraut oder Tugendobjekt enthält typischerweise 1 oder 2 Bauern Vis. Ohne Veredelung sind dies und etwaige Form- und Materialboni die einzigen Eigenschaften solcher Dinge. Jeder mit der Fertigkeit Magiekunde kann ein Magisches Ding veredeln und so seine verborgenen Kräfte aktivieren; das Wissen darüber, welche Kräfte ein Magisches Ding besitzen könnte, fällt unter diese Fertigkeit. Um festzustellen, welche Kräfte ein Magisches Ding haben könnte, lege einen Intelligenz + Magiekunde-Wurf gegen einen Schwierigkeitsgrad von 9 ab. Bei Erfolg kennt der Charakter die magischen Kräfte, die das Magische Ding verleihen kann, und die Methode, es zu veredeln. Manche Magischen Dinge können mehr als eine mögliche Tugend besitzen; beim Veredeln solcher Gegenstände muss der Magiekundige entscheiden, welche Kraft er aktivieren möchte. Ist diese Entscheidung einmal getroffen, kann sie nicht rückgängig gemacht werden.
+### Ein Magisches Ding veredeln
 
->## Heckenzauberer und veredelte Magische Dinge
->
->Die Mechanik der Veredelung eines Magischen Dings ermöglicht es einem unBegabten Charakter, geringfügige magische Kräfte zu erlangen. Solche Charaktere könnten aktiv nach bestimmten Kräutern oder Objekten suchen, um ihre Magie auszuüben. Sie werden niemals eine Bedrohung für einen hermetischen Magus darstellen und werden vom Orden des Hermes weitgehend ignoriert. Die archetypische weise Frau eines Dorfes könnte Immergrün der Tugend sammeln (das die Tugend Venussegen verleiht) als Liebeszauber oder Eisenkraut der Tugend (Ausdauernde Konstitution) und Stiefmütterchen der Tugend (das Mindere Reinigende Berührung: Kindbettfieber verleiht) zur Unterstützung bei der Geburt einsetzen. Ebenso könnte ein Natürlicher Magier einen Topas der Tugend veredeln, um seinem Herrn die Tugend Inspirierend zu verleihen, oder einen Saphir der Tugend (der Intuition verleiht), um seinen astrologischen Berechnungen einen Anschein von Vorhersage zu geben. Die Verzerrungspunkte, die durch diese Effekte anfallen, werden die weise Frau allmählich entstellen oder den Natürlicher Magier mit Fehlern in den Wahnsinn treiben.
+Ein Tugendkraut oder Tugendobjekt enthält typischerweise 1 oder 2 Bauern Vis. Ohne Veredelung sind dies und etwaige Form- und Materialboni die einzigen Eigenschaften solcher Dinge. Jeder mit der Fertigkeit Magiekunde kann ein Magisches Ding veredeln und so seine verborgenen Kräfte aktivieren; das Wissen darüber, welche Kräfte ein Magisches Ding besitzen könnte, fällt unter diese Fertigkeit. Um festzustellen, welche Kräfte ein Magisches Ding haben könnte, lege einen Intelligenz + Magiekunde-Wurf gegen einen Schwierigkeitsgrad von 9 ab. Bei Erfolg kennt der Charakter die magischen Kräfte, die das Magische Ding verleihen kann, und die Methode, es zu veredeln. Manche Magischen Dinge können mehr als eine mögliche Tugend besitzen; beim Veredeln solcher Gegenstände muss der Magiekundige entscheiden, welche Kraft er aktivieren möchte. Ist diese Entscheidung einmal getroffen, kann sie nicht rückgängig gemacht werden.
 
 Veredelung erfordert kein Laboratorium, aber ein magisches Verfahren ist notwendig; siehe die nachfolgenden Beschreibungen für beispielhafte Veredelungen. Nicht alles Vis kann veredelt werden, nur solches, das von einem Tugendtier, Tugendkraut oder Tugendobjekt stammt. Die Veredelung verzaubert das Rohe Vis im Ding, und es kann fortan nicht mehr als Vis verwendet oder aus dem Gegenstand extrahiert werden. Dies erfordert ein Quartal ununterbrochener magischer Arbeit und eine ausreichend hohe Veredelungssumme:
 
 **Veredelungssumme: Intelligenz + Magiekunde + Aura**
 
-> > **Veredelungsschwierigkeitsgrad: 9**
+> **Veredelungsschwierigkeitsgrad: 9**
 
 Jeder, der ein Magisches Ding am Körper trägt, erwirbt eine Tugend aus seiner Magie, vorausgesetzt, der Charakter besitzt keine Magieresistenz. Magische Dinge können über magische Schutzkreise getragen werden, aber ihre Kräfte werden durch eine Aegis des Herdes beliebiger Stufe unterdrückt. Der Gegenstand muss intakt und unbeschädigt bleiben, um seine Tugend zu verleihen.
 
@@ -7461,47 +7409,47 @@ Tugendkräuter verlieren typischerweise ihre Wirkung im Laufe der Zeit und halte
 
 Veredelte Magische Dinge haben auch Nachteile. Erstens verleiht ein Magisches Ding, das eine Große Tugend gewährt, auch einen Kleinen Fehler. Kleine Tugenden ziehen nicht immer einen Fehler nach sich, manche jedoch schon. Die hermetischen Tugenden Einschränkung und Notwendige Bedingung können als Kleine Fehler genommen werden, die nur die vom Magischen Ding verliehene Kraft betreffen. So könnte ein Kraut, das eine Große Immunität gegen Krankheit verleiht, auch eine Einschränkung verleihen, dass die Immunität nicht wirkt, wenn der Träger sich die Haare schneidet oder kämmt. Zweitens verleiht ein veredeltes Magisches Ding Verzerrungspunkte wie ein Konstanter Effekt Niedriger Stärke (**ArM5**, Seite 168).
 
-### Tugendkräuter
+>#### Heckenzauberer und veredelte Magische Dinge
+>
+>Die Mechanik der Veredelung eines Magischen Dings ermöglicht es einem unBegabten Charakter, geringfügige magische Kräfte zu erlangen. Solche Charaktere könnten aktiv nach bestimmten Kräutern oder Objekten suchen, um ihre Magie auszuüben. Sie werden niemals eine Bedrohung für einen hermetischen Magus darstellen und werden vom Orden des Hermes weitgehend ignoriert. Die archetypische weise Frau eines Dorfes könnte Immergrün der Tugend sammeln (das die Tugend Venussegen verleiht) als Liebeszauber oder Eisenkraut der Tugend (Ausdauernde Konstitution) und Stiefmütterchen der Tugend (das Mindere Reinigende Berührung: Kindbettfieber verleiht) zur Unterstützung bei der Geburt einsetzen. Ebenso könnte ein Natürlicher Magier einen Topas der Tugend veredeln, um seinem Herrn die Tugend Inspirierend zu verleihen, oder einen Saphir der Tugend (der Intuition verleiht), um seinen astrologischen Berechnungen einen Anschein von Vorhersage zu geben. Die Verzerrungspunkte, die durch diese Effekte anfallen, werden die weise Frau allmählich entstellen oder den Natürlicher Magier mit Fehlern in den Wahnsinn treiben.
 
-Es folgen einige beispielhafte Tugendkräuter und die Vorteile, die sie nach der Veredelung bieten.
-
-#### Tausendgüldenkraut
-
-Tausendgüldenkraut der Tugend wird von Hexen verwendet, um die Kraft des Fliegens als Große Macht zu erlangen. Die Blätter müssen im Mondlicht getrocknet und dann ein Quartal lang in starkem Schnaps eingelegt werden. Dieser muss dann in solcher Menge getrunken werden, dass der Trinkende kaum noch stehen kann (Berauschung ist eine Notwendige Bedingung dieser Kraft), woraufhin der Zecher und bis zu 12 weitere Personen abheben können. Alle Flieger müssen in enger Nähe bleiben und in dieselbe Richtung reisen. Jeder, der an dem Kraut teilnimmt, verliert eine Erschöpfungsstufe. Unveredelt ist Tausendgüldenkraut der Tugend 2 Bauern Rego-Vis wert. ReCo 30 (Basis 15, +1 Konzentration, +2 Gruppe): Große Macht (30 Stufen, –2 Macht-(Erschöpfungs-)Kosten)
-
-#### Fünffingerkraut
-
-Diese hübsche gelbe Blume mit fünf Blütenblättern enthält als Fünffingerkraut der Tugend 1 Bauer Mentem-Vis. Sie kann erfolgreich veredelt werden, indem man sie zwischen zwei feine Glimmerplatten presst und dann für ein Quartal in einer Zinnbüchse vergräbt. Dann wird jedem, der sie unter seine Zunge legt, eine Fülle von Beredsamkeit und die Tugend Inspirierend zuteil.
-
->## Hermetische Magi und veredelte Magische Dinge
+>#### Hermetische Magi und veredelte Magische Dinge
 >
 >Ein Magus kann gewöhnlich nicht von einem veredelten Magischen Ding profitieren: Selbst ohne seine Parma Magica verleihen ihm seine Formen eine Magieresistenz von mindestens null. Ferner haben nur wenige Magi ausreichende Kenntnisse nicht-hermetischer Magie (also der Fertigkeit Magiekunde), um eine Veredelung durchführen zu können. Dennoch haben manche Magi eine Verwendung für veredelte Magische Dinge gefunden.
 >
 >Ein Magus kann den Gegenstand auf die übliche Weise in ein verzaubertes Artefakt einbauen; so verleiht zum Beispiel ein veredelter Topas der Tugend (siehe unten), der in ein bereitetes Artefakt eingefasst wird, dem Träger die Tugend Begabung in Führung zusätzlich zu allen hermetischen Verzauberungen, solange der Träger keine Magieresistenz besitzt. Die Veredelung eines Magischen Dings beeinflusst nicht seine Form- und Materialboni, doch das inhärente Vis des Magischen Dings kann nicht zur Verzauberung beitragen, da es im Veredelungsprozess verbraucht wurde. Ein bereitetes Artefakt aus einem veredelten Magischen Ding kann nur dann zum Talisman gemacht werden, wenn der Magus den Gegenstand selbst veredelt hat. Als Talisman ignoriert das Magische Ding die Magieresistenz seines Besitzers und ist der einzige Weg, auf dem ein Magus die verliehene Tugend erlangen kann. Ein Magisches Ding, das zum Talisman gemacht wird, verzerrt seinen Schöpfer nicht.
 
-#### Fenchel
+### Tugendkräuter
+
+Es folgen einige beispielhafte Tugendkräuter und die Vorteile, die sie nach der Veredelung bieten.
+
+**Tausendgüldenkraut**
+
+Tausendgüldenkraut der Tugend wird von Hexen verwendet, um die Kraft des Fliegens als Große Macht zu erlangen. Die Blätter müssen im Mondlicht getrocknet und dann ein Quartal lang in starkem Schnaps eingelegt werden. Dieser muss dann in solcher Menge getrunken werden, dass der Trinkende kaum noch stehen kann (Berauschung ist eine Notwendige Bedingung dieser Kraft), woraufhin der Zecher und bis zu 12 weitere Personen abheben können. Alle Flieger müssen in enger Nähe bleiben und in dieselbe Richtung reisen. Jeder, der an dem Kraut teilnimmt, verliert eine Erschöpfungsstufe. Unveredelt ist Tausendgüldenkraut der Tugend 2 Bauern Rego-Vis wert. ReCo 30 (Basis 15, +1 Konzentration, +2 Gruppe): Große Macht (30 Stufen, –2 Macht-(Erschöpfungs-)Kosten)
+
+**Fünffingerkraut**
+
+Diese hübsche gelbe Blume mit fünf Blütenblättern enthält als Fünffingerkraut der Tugend 1 Bauer Mentem-Vis. Sie kann erfolgreich veredelt werden, indem man sie zwischen zwei feine Glimmerplatten presst und dann für ein Quartal in einer Zinnbüchse vergräbt. Dann wird jedem, der sie unter seine Zunge legt, eine Fülle von Beredsamkeit und die Tugend Inspirierend zuteil.
+
+**Fenchel**
 
 Der Fenchel der Tugend hat eine fleischige Knolle und hohe, gerade Blütenstängel mit duftenden Samen. Er enthält 2 Bauern Vim-Vis. Um veredelt zu werden, muss ein Fenchel an einem dem heiligen Michael (oder einem anderen mächtigen Geist kriegerischer Miene) geweihten Tag gepflückt und in Lammwolle und Schlangenhaut gewickelt für ein Quartal in einer Schwertscheide aufbewahrt werden. Der Stängel des Fenchels wird hart wie Holz, und wenn er als Zauberstab geschwungen wird, vertreibt er böse Geister (eine Große Macht). Jede Kreatur mit einer Infernalen Macht von 25 oder weniger verliert 5 Punkte Infernaler Macht, doch jeder Angriff kostet den Träger eine Erschöpfungsstufe. Der Besitzer muss enthaltsam bleiben (gemäß dem Fehler), sonst schwindet seine Kraft.
 
 PeVi (Basis 5, +1 Berührung): Große Macht (10 Stufen, +35 Penetration, –1 Macht-(Erschöpfungs-)Kosten)
 
-#### Mistel
+**Mistel**
 
 Die parasitäre Mistel der Tugend verleiht die Gabe der Prophezeiung. Sie muss von einem Apfelbaum geschnitten werden, ohne dass ein einziges Blatt den Boden berührt. Das Schnittende wird dann gegen die Haut über der linken Brust gebunden und für ein Quartal bedeckt gelassen. Das Kraut zeigt seine erfolgreiche Veredelung an, indem es im Fleisch des Trägers Wurzeln schlägt. Der Wirt der Pflanze erlangt die Übernatürliche Fertigkeit Weissagung & Zeichendeutung (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seiten 58–62). Die durch die Mistel der Tugend verliehene Weissagungsmethode ist einzigartig; der Wahrsager verzehrt die Beeren und empfängt mystische Visionen, die zeremonielle Boni von Träume +2, Herbam +5 und Absichten +1 gewähren. Das Kraut ernährt sich direkt von seinem Herzblut und verleiht eine Gebrechliche Konstitution. Nach zwei Jahren verwelkt die Pflanze und stirbt ab. Unveredelt ist Mistel der Tugend 2 Bauern Intellego-Vis wert.
 
-#### Poleiminze
+**Poleiminze**
 
 Die Poleiminze ist eine kriechende Pflanze ähnlich der Minze mit Büscheln winziger purpurfarbener Blüten. Die Poleiminze der Tugend enthält 1 Bauer Corpus-Vis. Als Allheilkraut bekannt, bestimmt der Stern, der bei der Veredelung dieses Heilkrauts regiert, welches Leiden es heilt: Mars schützt vor Durchfall; Venus vor Pocken; Merkur vor Nierensteinen; Jupiter vor Fieber; und Saturn vor Fallsucht. Das Kraut muss sorgfältig mit dem klarsten Harz einer vom Blitz getroffenen Kiefer bemalt werden; jede Woche wird für ein Quartal eine neue Lackschicht aufgetragen. Ein einfaches Streichen des Krauts über Herz oder Stirn verleiht diese Große Reinigende Berührung. Der Heiler sei jedoch gewarnt, denn Teufel werden versuchen, das Werk, das er mit diesem Kraut gewirkt hat, zunichtezumachen (tatsächlich ein Wahn).
 
-#### Immergrün
+**Immergrün**
 
 Das intensive Blau des Immergrüns der Tugend verleiht Venussegen. Der Liebesbedürftige muss genug vollkommene Blüten unter jenen finden, die von brünstigen Hirschen zertrampelt wurden, um einen Kranz zu flechten, der um den Hals des Leithirsches gehängt wird. Nach neunzig Tagen ist die einzig verbliebene Blüte dieses Kranzes veredelt worden. Der wiedergewonnene Kranz verleiht auch den Ungestüm jugendlicher Liebe, die keine Hemmung kennt, ihr Objekt der Zuneigung zu verfolgen (also den Fehler Rücksichtslos). Unveredelt ist Immergrün der Tugend 1 Bauer Mentem-Vis wert.
 
-### Tugendobjekte
-
-Die Tugenden vieler Tugendobjekte lassen sich anhand der Form- und Materialboni als Inspiration ableiten, wobei der Schwerpunkt eher auf Materialien als auf Formen liegt. Jeder Gegenstand, der auf natürliche Weise Vis enthält und einen Form- und Materialbonus auf eine bestimmte Kunst verleiht, kann veredelt werden, um Begabung in (Kunst) zu verleihen, doch Tugendobjekte sind für Magi selten von Nutzen, da sie eine Penetration von null haben und die Verzerrung, die sie verursachen.
-
->## Form- und Materialboni für Tugendkräuter
+>#### Form- und Materialboni für Tugendkräuter
 >
 >**Tausendgüldenkraut:** +3 Flug
 >
@@ -7509,45 +7457,51 @@ Die Tugenden vieler Tugendobjekte lassen sich anhand der Form- und Materialboni 
 >
 >**Fenchel:** +5 Geister vertreiben, +5 böse Geister vertreiben, +2 Träume
 >
->**Mistel:** +7 Weissagung **Poleiminze:** +3 Heilung
+>**Mistel:** +7 Weissagung 
+>
+>**Poleiminze:** +3 Heilung
 >
 >**Immergrün:** +3 Liebe, +1 Treue oder Zuneigung
 
-#### Amethyst
+### Tugendobjekte
+
+Die Tugenden vieler Tugendobjekte lassen sich anhand der Form- und Materialboni als Inspiration ableiten, wobei der Schwerpunkt eher auf Materialien als auf Formen liegt. Jeder Gegenstand, der auf natürliche Weise Vis enthält und einen Form- und Materialbonus auf eine bestimmte Kunst verleiht, kann veredelt werden, um Begabung in (Kunst) zu verleihen, doch Tugendobjekte sind für Magi selten von Nutzen, da sie eine Penetration von null haben und die Verzerrung, die sie verursachen.
+
+**Amethyst**
 
 Ein Amethyst der Tugend enthält 1 Bauer Mentem-Vis und verleiht, wenn er ordnungsgemäß veredelt wird, die Kleine Übernatürliche Tugend Mindere Immunität gegen Trunkenheit (**ArM5**, Seite 44). Um diesen Vorteil zu erlangen, muss der Stein die Haut des Trinkenden berühren, daher wird er üblicherweise in ein Schmuckstück gefasst. Das Veredelungsritual erfordert die Zubereitung eines Getränks ohne berauschende Wirkung aus dem stärksten verfügbaren Gärgetränk. Sobald die Magierin sich von der Unbedenklichkeit der Flüssigkeit überzeugt hat, wahrscheinlich indem sie selbst reichlich davon trinkt, muss der Stein einen Monat lang darin eingelegt werden. Der gesamte Prozess der Zubereitung, Prüfung und Einlegung sollte ungefähr ein Quartal dauern.
 
-#### Blutstein
+**Blutstein**
 
 Ein ordnungsgemäß veredelter Blutstein der Tugend verleiht dem Träger die Kleine Allgemeine Tugend Schnelle Genesung (**ArM5**, Seite 48), solange er mit dem Stein in Berührung ist und im Bett bleibt, ohne sich geistig oder körperlich anzustrengen. Die Veredelung erfordert, dass der Stein mindestens einen Monat lang in Schlamm aufbewahrt wird, der von einem Ort mit bekannten Heilkräften stammt, gefolgt von wiederholtem Waschen in Wasser, das einer Quelle mit nachgewiesener Heilwirkung entnommen wurde. Vor der Veredelung enthält der Stein 1 Bauer Creo-Vis. Die gesamte Angelegenheit – einen geeigneten Schlammfundort zu finden, das Wasser zu sammeln und die Prozedur durchzuführen – sollte ungefähr ein Quartal dauern.
 
-#### Bufonites
+**Bufonites**
 
 Ein Krötenstein oder Bufonites der Tugend ist ein matt-grauer Stein, der 2 Bauern Intellego-Vis enthält und nach der Veredelung eine Mindere Macht besitzt, die Gift erkennt. Er verfärbt sich rosa oder matt-rot bei Berührung mit Gift.
 
 Die Veredelung erfordert, dass der Stein einer lebenden Tugendkröte aus dem Kopf entfernt wird. Danach muss der Stein auf rotem Tuch aufbewahrt werden, bis er in ein angemessen feines Schmuckstück oder in ein Trinkgefäß bzw. eine Platte gefasst wird. Der gesamte Vorgang sollte ungefähr ein Quartal dauern. InAq 15 (Basis 3, +2 Sonne, +1 Berührung (Ziel), +1 dauerhafter Effekt): Mindere Macht (15 Stufen, –2 Machtkosten (Erschöpfung))
 
-#### Opal
+**Opal**
 
 Ein Opal der Tugend enthält 2 Bauern Terram-Vis. Wird er ordnungsgemäß veredelt, verleiht er die Kleine Heldenhafte Tugend Sicherer Reisender (siehe *Häuser des* *Hermes: Wahre Linien*, Seite 107), erzeugt aber auch einen kleinen Persönlichkeitsfehler. Der Fehler sollte vom Spielleiter gewählt werden, gegebenenfalls in Absprache mit dem Spieler, und könnte durchaus etwas sein, das Mitreisende verärgert. Die Veredelung besteht darin, den Gegenstand ein Quartal lang zum höchsten Punkt der Umgebung zu bringen, von dem aus der Magier in alle Richtungen freie Sicht hat.
 
-#### Saphir
+**Saphir**
 
 Ein Saphir der Tugend, der 1 Bauer Intellego-Vis enthält, kann veredelt werden, um die Kleine Allgemeine Tugend Intuition (**ArM5**, Seite 44) zu verleihen. Er muss im Verlauf eines Quartals dem Licht des Vollmonds ausgesetzt und zu allen anderen Zeiten in violettfarbenen Stoff eingewickelt aufbewahrt werden, um die Veredelung zu bewirken und aufrechtzuerhalten. Der Benutzer muss in den Edelstein blicken, um die Intuition zu nutzen, daher wird er zur leichteren Handhabung üblicherweise in einen Ring gefasst.
 
-#### Muschelschale
+**Muschelschale**
 
 Die Muschelschale der Tugend verleiht nach der Veredelung die Kleine Allgemeine Tugend Zäh (**ArM5**, Seite 49). Um den Nutzen zu erlangen, muss der Besitzer die Muschel tragen oder bei sich führen. Der Veredelungsprozess könnte erfordern, dass die Muschel ein Quartal lang in den Sturzbach eines mächtigen Wasserfalls gelegt wird. Eine Muschel, die diese Tortur übersteht, hat sich als veredelt erwiesen. Vor der Veredelung enthält eine Muschelschale der Tugend 1 Bauer Terram-Vis.
 
-#### Smaragd
+**Smaragd**
 
 Wenn man einen Smaragd der Tugend in das Nest einer Schlange legt und drei Monate später zurückkehrt und sowohl den Edelstein als auch die Schlange noch vorfindet, wurde er veredelt. Er verleiht dem Träger dann die Kleine Übernatürliche Tugend Tierverständnis (**ArM5**, Seite 40), mit der Einschränkung, dass sie nur auf Schlangen anwendbar ist. Vor der Veredelung enthält der Edelstein 2 Bauern Animal-Vis.
 
-#### Gagat
+**Gagat**
 
 Ein veredeltes Stück Gagat der Tugend verleiht die Kleine Allgemeine Tugend Begabung in Schleichen (**ArM5**, Seite 48). Der Veredelungsprozess besteht darin, es ein Quartal lang an einem Ort zu verstecken, an dem sich regelmäßig Menschen versammeln, wobei das Versteck einmal im Monat gewechselt wird. Die Tugend geht verloren, wenn jemand anderes als der Besitzer den Gagat sieht. Vor der Veredelung enthält Gagat der Tugend 1 Bauer Perdo-Vis.
 
-#### Topas
+**Topas**
 
 Ein Topas der Tugend verleiht nach der Veredelung die Kleine Allgemeine Tugend Begabung in Führung (**ArM5**, Seite 48). Die Prozedur für die Veredelung besteht darin, Fell, Federn oder Zähne eines Tieres zu beschaffen, das als Anführer eines Rudels oder einer Herde bekannt ist, diese dann mit goldener Kordel oder goldenem Faden an den Stein zu binden und das Bündel ein Quartal lang an einem hohen Ort aufzubewahren. Vor der Veredelung enthält der Tugendelstein 1 Bauer Mentem-Vis.
 
@@ -7555,22 +7509,43 @@ Ein Topas der Tugend verleiht nach der Veredelung die Kleine Allgemeine Tugend B
 
 Manche nennen diese geformten Steine lusus naturae – Launen der Natur – und behaupten, sie würden sich im Erdreich durch die schöpferische Kraft der vis plastica bilden. Andere sagen, geformte Steine entstünden durch bestimmte Gestirnkonstellationen, die den Boden und das Gestein mit vis formativa befruchten. Wieder andere behaupten, sie entstünden durch die Individualisierung von Gegenständen mittels einer Verdichtung von Dämpfen, die durch Gärungsprozesse in tiefer liegenden Gesteinsschichten freigesetzt werden. Einige wenige behaupten, sie seien Spiegelungen urzeitlicher Schöpfungsfehler.
 
-#### Clach Crubain
+**Clach Crubain**
 
 Es gibt einen geformten Stein, der wie ein von Arthritisschmerzen verkrümmter Körper gebogen ist und Clach Crubain der Tugend genannt wird. Er enthält 1 Bauer Perdo-Vis. Wird er ordnungsgemäß veredelt, verleiht das Tragen des Steins nahe am Körper die Kleine Übernatürliche Tugend Mindere Immunität (Arthritis) (**ArM5**, Seite 44).
 
 Der Veredelungsprozess erfordert die Beschaffung einer Menge reinen Öls, wahrscheinlich durch das Pressen frisch gepflückter, makelloser Oliven oder durch Auspressen ölhaltiger Nüsse. Alternativ kann Öl tierischen Ursprungs verwendet werden, sofern die Herkunft hinreichend besonders ist. Das Öl muss über den gesamten Stein gerieben und bei Sonnenlicht trocknen gelassen werden, das stark genug ist, den Stein zu erwärmen. Der Vorgang muss dreimal wiederholt werden und sollte ungefähr ein Quartal dauern.
 
-#### Ovum Anguinum
+**Ovum Anguinum**
 
 Ein Schlangenei oder Ovum Anguinum der Tugend ist ein blasser, nahezu kugelförmiger, geformter Stein mit einem regelmäßigen Muster kleiner Erhebungen auf der Oberfläche. Er kann durch die Kleine Allgemeine Tugend Verbesserte Eigenschaften (Ausdauer +2) (**ArM5**, Seite 43) Schutz vor Gift und Krankheit verleihen. Eine Abwandlung des Veredelungsprozesses kann alternativ Verbesserte Kommunikation (+2) verleihen, die dem Träger zu Erfolg in Rechtsstreitigkeiten und Ähnlichem verhilft. Eine weitere Variante verleiht die Kleine Allgemeine Tugend Zäh, die +3 auf die Absorption gibt (**ArM5**, Seite 49). Vor der Veredelung enthält der Stein 2 Bauern Creo-Vis.
 
 Der Veredelungsprozess erfordert, dass man sich zur Sommersonnenwende an einen Ort begibt, an dem sich Schlangen versammeln und umeinander winden. Während die Schlangen sich winden, bildet sich ein Schaumball, der in die Luft aufsteigt. Wenn man hochspringen und diesen in einem Tuch auffangen kann, bevor er zu Boden fällt, ihn dann über einen Fluss trägt, den die Schlangen nicht durchschwimmen können, und den Stein einen Monat lang im Schaum aufbewahrt, ist der Prozess abgeschlossen. Den richtigen Ort zu finden und den Vorgang durchzuführen, sollte ungefähr ein Quartal dauern.
 
+**Donnerkeil**
 
->## Form- und Materialboni für Tugendobjekte
+Bestimmte spitze Steine, Donnerkeile der Tugend genannt, fallen während der heftigsten Gewitter wie Pfeile vom Himmel. Ein solcher Stein enthält 1 Bauer Auram-Vis. Ein ordnungsgemäß veredelter verleiht der Person, die ihn bei sich trägt, einen Bannkreis gegen Dämonen der Lüfte als Große Macht, der alle derartigen Kreaturen mit einem Machtwert von 10 oder weniger fernhält. Der Stein muss in der Hand gehalten werden, um zu wirken (eine Notwendige Bedingung).
+
+Der Veredelungsprozess besteht darin, ihn hoch oben an einem Ast eines Baumes zu befestigen, der vom Blitz getroffen wurde, und ihn dort während dreier Stürme zu belassen. Er muss mindestens drei Monate dort bleiben, und länger, wenn Stürme selten sind. ReAu 20 (Basis 4, +1 Berührung, +2 Sonne, +1 dauerhafter Effekt): Große Macht (20 Stufen, +20 Penetration, –2 Machtkosten (Erschöpfung))
+
+**Cornu Ammonis**
+
+Ein Ammonshorn oder Cornu Ammonis der Tugend ist ein gewundener Stein wie ein versteinerter Wurm, der gelbe Kristalle oder Körner enthält, die wie Gold aussehen. Er enthält 2 Bauern Intellego-Vis. Laut Plinius kann er prophetische Visionen in Träumen hervorrufen. Nach ordnungsgemäßer Veredelung verleiht er jedem, der mit dem Stein unter dem Kopf schläft, vielleicht unter einem Kissen oder etwas Stroh, den Kleinen Übernatürlichen Fehler Visionen (**ArM5**, Seite 60). Die Visionen kommen als Träume.
+
+Die Veredelung erfordert das Trinken eines Gebräus aus halluzinogenen Pilzen oder Kräutern. Unter dem Einfluss des Tranks erfährt der Trinkende den Aufenthaltsort eines Tieres im Winterschlaf (z. B. einer Haselmaus). Der Stein muss über den Winter im Nest des Tieres liegen gelassen werden, um seine Kraft zu aktivieren.
+
+**Glossopetrae**
+
+Eine Steinerne Natterzunge oder Glossopetrae der Tugend enthält 1 Bauer Aquam-Vis und kann veredelt werden, um als Gegenmittel gegen flüssige Gifte zu dienen. Der vergiftete Charakter verliert eine Erschöpfungsstufe, statt eine Wunde zu erleiden. Um benutzt zu werden, muss der Stein in die verdächtige Flüssigkeit gelegt und mindestens zwei Durchmesser lang stehen gelassen werden. Die Veredelung erfordert den Fang einer Giftschlange, der das Gift abgemolken wird. Der Stein wird einen Monat lang in diesem Gift eingelegt, dann jeden Abend einen weiteren Monat lang in frischem, sauberem Regenwasser gewaschen, das in einer besonderen Schale aufgefangen wurde. Der Stein sollte in Schlangenhaut aufbewahrt werden. PeAq 20 (Basis 10, +1 Berührung, +1 Teil): Mindere Macht (20 Stufen, –1 Machtkosten (Erschöpfung))
+
+**Feenbrote**
+
+Diese geformten Steine, Fairy Loaves der Tugend genannt, haben die Form recht flacher, runder Brötchen und enthalten jeweils 1 Bauer Muto-Vis. Ein veredelter Stein dieser Art zeigt eine Mindere Macht und hält Milch frisch, wenn er am Ort der Milchaufbewahrung gelagert wird. Die Veredelung erfordert einen Besuch in einer Feenaura oder Verhandlungen mit einer niederen Fee, was ungefähr ein Quartal in Anspruch nimmt. MuAq 15 (Basis 2, +2 Sonne, +2 Raum, +1 dauerhafter Effekt): Mindere Macht (15 Stufen, –2 Machtkosten (Erschöpfung)).
+
+>#### Form- und Materialboni für Tugendobjekte
 >
->**Clach Crubain:** +2 Arthritis **Bufonites:** +3 Gift erkennen
+>**Clach Crubain:** +2 Arthritis 
+>
+>**Bufonites:** +3 Gift erkennen
 >
 >**Ovum Anguinum:** +2 gegen Infektion und Gift, +2 Rechtsargumente, +2 Verletzung widerstehen
 >
@@ -7578,27 +7553,9 @@ Der Veredelungsprozess erfordert, dass man sich zur Sommersonnenwende an einen O
 >
 >**Cornu Ammonis:** +3 Visionen und Träume beeinflussen
 >
->**Glossopetrae:** +5 Schlangengift widerstehen **Fairy Loaves:** +4 Milch frisch halten
-
-#### Donnerkeil
-
-Bestimmte spitze Steine, Donnerkeile der Tugend genannt, fallen während der heftigsten Gewitter wie Pfeile vom Himmel. Ein solcher Stein enthält 1 Bauer Auram-Vis. Ein ordnungsgemäß veredelter verleiht der Person, die ihn bei sich trägt, einen Bannkreis gegen Dämonen der Lüfte als Große Macht, der alle derartigen Kreaturen mit einem Machtwert von 10 oder weniger fernhält. Der Stein muss in der Hand gehalten werden, um zu wirken (eine Notwendige Bedingung).
-
-Der Veredelungsprozess besteht darin, ihn hoch oben an einem Ast eines Baumes zu befestigen, der vom Blitz getroffen wurde, und ihn dort während dreier Stürme zu belassen. Er muss mindestens drei Monate dort bleiben, und länger, wenn Stürme selten sind. ReAu 20 (Basis 4, +1 Berührung, +2 Sonne, +1 dauerhafter Effekt): Große Macht (20 Stufen, +20 Penetration, –2 Machtkosten (Erschöpfung))
-
-#### Cornu Ammonis
-
-Ein Ammonshorn oder Cornu Ammonis der Tugend ist ein gewundener Stein wie ein versteinerter Wurm, der gelbe Kristalle oder Körner enthält, die wie Gold aussehen. Er enthält 2 Bauern Intellego-Vis. Laut Plinius kann er prophetische Visionen in Träumen hervorrufen. Nach ordnungsgemäßer Veredelung verleiht er jedem, der mit dem Stein unter dem Kopf schläft, vielleicht unter einem Kissen oder etwas Stroh, den Kleinen Übernatürlichen Fehler Visionen (**ArM5**, Seite 60). Die Visionen kommen als Träume.
-
-Die Veredelung erfordert das Trinken eines Gebräus aus halluzinogenen Pilzen oder Kräutern. Unter dem Einfluss des Tranks erfährt der Trinkende den Aufenthaltsort eines Tieres im Winterschlaf (z. B. einer Haselmaus). Der Stein muss über den Winter im Nest des Tieres liegen gelassen werden, um seine Kraft zu aktivieren.
-
-#### Glossopetrae
-
-Eine Steinerne Natterzunge oder Glossopetrae der Tugend enthält 1 Bauer Aquam-Vis und kann veredelt werden, um als Gegenmittel gegen flüssige Gifte zu dienen. Der vergiftete Charakter verliert eine Erschöpfungsstufe, statt eine Wunde zu erleiden. Um benutzt zu werden, muss der Stein in die verdächtige Flüssigkeit gelegt und mindestens zwei Durchmesser lang stehen gelassen werden. Die Veredelung erfordert den Fang einer Giftschlange, der das Gift abgemolken wird. Der Stein wird einen Monat lang in diesem Gift eingelegt, dann jeden Abend einen weiteren Monat lang in frischem, sauberem Regenwasser gewaschen, das in einer besonderen Schale aufgefangen wurde. Der Stein sollte in Schlangenhaut aufbewahrt werden. PeAq 20 (Basis 10, +1 Berührung, +1 Teil): Mindere Macht (20 Stufen, –1 Machtkosten (Erschöpfung))
-
-#### Fairy Loaves
-
-Diese geformten Steine, Fairy Loaves der Tugend genannt, haben die Form recht flacher, runder Brötchen und enthalten jeweils 1 Bauer Muto-Vis. Ein veredelter Stein dieser Art zeigt eine Mindere Macht und hält Milch frisch, wenn er am Ort der Milchaufbewahrung gelagert wird. Die Veredelung erfordert einen Besuch in einer Feenaura oder Verhandlungen mit einer niederen Fee, was ungefähr ein Quartal in Anspruch nimmt. MuAq 15 (Basis 2, +2 Sonne, +2 Raum, +1 dauerhafter Effekt): Mindere Macht (15 Stufen, –2 Machtkosten (Erschöpfung)).
+>**Glossopetrae:** +5 Schlangengift widerstehen 
+>
+>**Feenbrote:** +4 Milch frisch halten
 
 ## Erwachte Bäume
 
@@ -7612,43 +7569,7 @@ Verschiedene Baumarten haben verschiedene Persönlichkeiten. Eichen sind standha
 
 Bestimmte Zauber oder magische Effekte können einen Baum über seinen gewöhnlichen erwachten Zustand hinaus mobil machen wie ein Tier (wenn auch ein träges). Hermetische Zauber wie *Herr der Bäume* oder *Ruf an den Rat der Bäume* können diese Wirkung haben, ebenso wie die nicht-hermetischen Kräfte vieler Naturgeister (am häufigsten durch die Kraft *Handwerker der Herbam*; siehe Kapitel 4: Magische Charaktere, Häufige Kräfte). Ein Baum kann auch belebt werden, wenn ein Geist die Kraft *Manifestation* (Kapitel 8: Geister, Häufige Kräfte von Geistern) nutzt, um ihn zu bewohnen. Ein durch einen Zauber oder Effekt belebter Baum hat keinen Machtwert, aber ein durch *Manifestation* belebter erhält vorübergehend einen Machtwert in Höhe der Aktivierungskosten der Kraft.
 
-### Tugendbäume
-
-Tugendbäume sind gewöhnlich erwacht, besitzen jedoch keinen Machtwert. Sie werden eher von Luftgeistern (siehe Kapitel 7: Geister, Florae und Faunae) begleitet als andere Bäume.
-
-Das Vis in einem Tugendbaum gehört zu einer Kunst, die mit den inhärenten magischen Kräften des Baumes zusammenhängt, in einer Menge von üblicherweise 1 bis 3 Bauern. Wie Kräuter können Tugendbäume veredelt werden, um magische Amulette oder Gegenstände herzustellen, die Tugenden verleihen. Im Gegensatz zu Kräutern ist nur ein kleiner Teil des Baumes dafür nötig: der Teil, in dem die gesamte inhärente Kraft des Baumes ruht. Das Veredeln dieses Gegenstands oder das Sammeln des Vis des Baumes erschöpft die magischen Kräfte des Baumes. Manchmal kann ein Tugendbaum diese verlorenen Eigenschaften im Laufe der Zeit wieder auffüllen, andernfalls wird er dauerhaft nicht-magisch. (Der Spielleiter sollte je nach den Erfordernissen der Saga entscheiden, ob ein bestimmter Tugendbaum erneuerbar ist oder nicht.)
-
-Von Tugendbäumen zu unterscheiden sind Bäume, die Vis hervorbringen, deren magische Eigenschaften aber nicht stark genug hervortreten, um für eine Veredelung in Frage zu kommen. Solche Bäume können Vis derselben Kunst liefern wie Tugendbäume derselben Art oder einfach Herbam-Vis hervorbringen. Vis tragende Bäume füllen ihr Vis nach der Ernte üblicherweise (aber nicht immer) wieder auf, was sie zu einer häufigen Vis-Quelle für Konvente macht.
-
-#### Schwarzdorn
-
-Der Schwarzdorn blüht im Spätwinter oder zeitigen Frühling, noch bevor seine Blätter austreiben. Unter dem Neumond, während der Baum blüht, können die Dornen eines Schwarzdorns der Tugend von einem Magier veredelt werden, der die entsprechende Kunde besitzt. Die Magierin muss die 13 längsten, schärfsten Dornen finden. Sie salbt jeden davon mit einem Tropfen Menschenblut, solange sie noch am Baum sind (üblicherweise sticht sie einfach ihren eigenen oder den Finger eines Assistenten an jedem Dorn), an verschiedenen Nächten, unter verschiedenen Mondphasen, während sie die entsprechenden Beschwörungen rezitiert.
-
-Wenn sie fertig ist, können die Dornen benutzt werden, um Flüche auszusprechen. Sie verleihen eine Kraft ähnlich der Tugend Verhexung (siehe *Sphären der Macht: Das Infernale*, Seite 92), jedoch mit zwei Einschränkungen. Erstens kann die Anwenderin nur ein Opfer verfluchen, zu dem sie eine Arkane Verbindung besitzt: Sie muss eine Wachsfigur des Ziels anfertigen und sie mit einem veredelten Dorn durchstechen. Zweitens kann jeder der 13 Dornen nur einmal verwendet werden. (Zusammen bilden diese Einschränkungen eine Einschränkung). Zu beachten ist, dass die durch den Schwarzdorn der Tugend verliehene Verhexungskraft der Magiesphäre zugeordnet ist, nicht der Höllensphäre.
-
-Alternativ kann ein Schwarzdorn der Tugend schlicht für 2 Bauern Perdo-Vis geerntet werden.
-
->## Option: Raufen-Fertigkeit für Belebte Bäume
->
->Der Einfachheit halber können Spieltruppen allen belebten Bäumen einfach eine Standard-Raufen-Fertigkeit von 3 (spezialisiert auf „Ast") zuweisen. Eine komplexere Alternative besteht darin, jedem Baum eine eigene Raufen-Fertigkeit zuzuweisen und seine Kampfwerte entsprechend neu zu berechnen.
->
->Nach dieser Regel hat ein durch einen Zauber belebter Baum eine Raufen-Fertigkeit in Höhe der Finesse des Zaubernden. Ein durch einen Geist mittels Manifestation belebter Baum hat dieselbe Raufen-Fertigkeit wie der Geist und verwendet die Geschicklichkeit und die geistigen Eigenschaften des Geistes (aber die Stärke, Ausdauer und Schnelligkeit des Baumes).
-
-#### Hasel
-
-An einem Haselbaum der Tugend ist ein geschmeidiger Ast mit vollkommener Symmetrie gegabelt. Ein Magier kann diesen Ast zu einem Stab veredeln, der die Tugend Wünschelrutengehen (siehe **ArM5**, Seite 41) verleiht. Der Ast muss zu einem gegabelten Stab geformt und dann siebenmal an sieben verschiedenen Orten von mystischer Bedeutung vergraben und wieder ausgegraben werden (etwa an einer Kreuzung, neben einem alten Megalithen, an einer Heilquelle und so weiter). Der Stab muss an jedem Ort mindestens sieben Tage liegen bleiben. Vor der Veredelung enthält der symmetrische Ast 1 Bauer Intellego-Vis.
-
->## Abenteueridee: Krieg um den Wald
->
->Da der Konvent zu viel Vis aus einem magischen Wald erntet, bemerken die Bäume und Waldgeister eine leichte Schwächung der lokalen Aura und nehmen Anstoß an den Aktivitäten der Magi. Die Bäume beginnen, von selbst zu erwachen und Reisende auf verschiedene Weise zu behindern: Sie senken ihre Äste, um Pfade zu blockieren, platzieren ihre Wurzeln dort, wo Passanten darüber stolpern, und so weiter. Wenn die Magi den Konflikt mit Äxten oder Feuer eskalieren, beleben die Florae oder der Genius Loci, der den Wald beschützt, die Bäume zur Selbstverteidigung.
-
-#### Eiche
-
-Die Eiche wird mit Stürmen und Blitzen in Verbindung gebracht. Holz aus dem Kern einer Eiche der Tugend kann zu einem Gegenstand verarbeitet werden, der eine Mindere Immunität gegen Blitz verleiht, nachdem es ordnungsgemäß veredelt wurde. Der Veredelungsprozess besteht darin, das Holz im Verlauf eines Quartals mit Räucherwerk und dem Rauch brennender Kräuter zu trocknen. Mindestens einmal während dieses Vorgangs muss das Holz unter freiem Himmel bei Blitzschlag ins Freie gebracht werden. Der fertige, veredelte Gegenstand kann in jede beliebige Form und Größe geschnitzt werden (begrenzt nur durch die Größe des ursprünglichen Baumes). Ist er ein tragbarer Gegenstand, verleiht er dem Besitzer die Mindere Immunität. Wird er in ein Holzschiff oder Bauwerk eingebaut, verleiht er dem gesamten Gebäude die Immunität.
-
-Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-Vis.
-
->## Charakterleitfaden: Ein Belebter Baum
+>#### Charakterleitfaden: Ein Belebter Baum
 >
 >**Magische Macht:** Keine, oder Aktivierungskosten der *Manifestation* (Herbam)
 >
@@ -7684,7 +7605,49 @@ Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-V
 >
 >Ein belebter Baum kann seine Gliedmaßen und Wurzeln bewegen und sich auch entwurzeln und umherschlurfen, wenn die Zauberbeschreibung dies gestattet. Zu diesem Zweck wird *Manifestation* als gleichwertig mit dem Zauber *Den schreitenden Baum befreien* (**ArM5**, Seite 139) behandelt.
 
->## Charakterleitfaden: Eine Alraunwurzel der Tugend
+>#### Option: Raufen-Fertigkeit für Belebte Bäume
+>
+>Der Einfachheit halber können Spieltruppen allen belebten Bäumen einfach eine Standard-Raufen-Fertigkeit von 3 (spezialisiert auf „Ast") zuweisen. Eine komplexere Alternative besteht darin, jedem Baum eine eigene Raufen-Fertigkeit zuzuweisen und seine Kampfwerte entsprechend neu zu berechnen.
+>
+>Nach dieser Regel hat ein durch einen Zauber belebter Baum eine Raufen-Fertigkeit in Höhe der Finesse des Zaubernden. Ein durch einen Geist mittels Manifestation belebter Baum hat dieselbe Raufen-Fertigkeit wie der Geist und verwendet die Geschicklichkeit und die geistigen Eigenschaften des Geistes (aber die Stärke, Ausdauer und Schnelligkeit des Baumes).
+
+>#### ABENTEUERIDEE: Krieg um den Wald
+>
+>Da der Konvent zu viel Vis aus einem magischen Wald erntet, bemerken die Bäume und Waldgeister eine leichte Schwächung der lokalen Aura und nehmen Anstoß an den Aktivitäten der Magi. Die Bäume beginnen, von selbst zu erwachen und Reisende auf verschiedene Weise zu behindern: Sie senken ihre Äste, um Pfade zu blockieren, platzieren ihre Wurzeln dort, wo Passanten darüber stolpern, und so weiter. Wenn die Magi den Konflikt mit Äxten oder Feuer eskalieren, beleben die Florae oder der Genius Loci, der den Wald beschützt, die Bäume zur Selbstverteidigung.
+
+### Tugendbäume
+
+Tugendbäume sind gewöhnlich erwacht, besitzen jedoch keinen Machtwert. Sie werden eher von Luftgeistern (siehe Kapitel 7: Geister, Florae und Faunae) begleitet als andere Bäume.
+
+Das Vis in einem Tugendbaum gehört zu einer Kunst, die mit den inhärenten magischen Kräften des Baumes zusammenhängt, in einer Menge von üblicherweise 1 bis 3 Bauern. Wie Kräuter können Tugendbäume veredelt werden, um magische Amulette oder Gegenstände herzustellen, die Tugenden verleihen. Im Gegensatz zu Kräutern ist nur ein kleiner Teil des Baumes dafür nötig: der Teil, in dem die gesamte inhärente Kraft des Baumes ruht. Das Veredeln dieses Gegenstands oder das Sammeln des Vis des Baumes erschöpft die magischen Kräfte des Baumes. Manchmal kann ein Tugendbaum diese verlorenen Eigenschaften im Laufe der Zeit wieder auffüllen, andernfalls wird er dauerhaft nicht-magisch. (Der Spielleiter sollte je nach den Erfordernissen der Saga entscheiden, ob ein bestimmter Tugendbaum erneuerbar ist oder nicht.)
+
+Von Tugendbäumen zu unterscheiden sind Bäume, die Vis hervorbringen, deren magische Eigenschaften aber nicht stark genug hervortreten, um für eine Veredelung in Frage zu kommen. Solche Bäume können Vis derselben Kunst liefern wie Tugendbäume derselben Art oder einfach Herbam-Vis hervorbringen. Vis tragende Bäume füllen ihr Vis nach der Ernte üblicherweise (aber nicht immer) wieder auf, was sie zu einer häufigen Vis-Quelle für Konvente macht.
+
+#### Schwarzdorn
+
+Der Schwarzdorn blüht im Spätwinter oder zeitigen Frühling, noch bevor seine Blätter austreiben. Unter dem Neumond, während der Baum blüht, können die Dornen eines Schwarzdorns der Tugend von einem Magier veredelt werden, der die entsprechende Kunde besitzt. Die Magierin muss die 13 längsten, schärfsten Dornen finden. Sie salbt jeden davon mit einem Tropfen Menschenblut, solange sie noch am Baum sind (üblicherweise sticht sie einfach ihren eigenen oder den Finger eines Assistenten an jedem Dorn), an verschiedenen Nächten, unter verschiedenen Mondphasen, während sie die entsprechenden Beschwörungen rezitiert.
+
+Wenn sie fertig ist, können die Dornen benutzt werden, um Flüche auszusprechen. Sie verleihen eine Kraft ähnlich der Tugend Verhexung (siehe *Sphären der Macht: Das Infernale*, Seite 92), jedoch mit zwei Einschränkungen. Erstens kann die Anwenderin nur ein Opfer verfluchen, zu dem sie eine Arkane Verbindung besitzt: Sie muss eine Wachsfigur des Ziels anfertigen und sie mit einem veredelten Dorn durchstechen. Zweitens kann jeder der 13 Dornen nur einmal verwendet werden. (Zusammen bilden diese Einschränkungen eine Einschränkung). Zu beachten ist, dass die durch den Schwarzdorn der Tugend verliehene Verhexungskraft der Magiesphäre zugeordnet ist, nicht der Höllensphäre.
+
+Alternativ kann ein Schwarzdorn der Tugend schlicht für 2 Bauern Perdo-Vis geerntet werden.
+
+#### Hasel
+
+An einem Haselbaum der Tugend ist ein geschmeidiger Ast mit vollkommener Symmetrie gegabelt. Ein Magier kann diesen Ast zu einem Stab veredeln, der die Tugend Wünschelrutengehen (siehe **ArM5**, Seite 41) verleiht. Der Ast muss zu einem gegabelten Stab geformt und dann siebenmal an sieben verschiedenen Orten von mystischer Bedeutung vergraben und wieder ausgegraben werden (etwa an einer Kreuzung, neben einem alten Megalithen, an einer Heilquelle und so weiter). Der Stab muss an jedem Ort mindestens sieben Tage liegen bleiben. Vor der Veredelung enthält der symmetrische Ast 1 Bauer Intellego-Vis.
+
+#### Eiche
+
+Die Eiche wird mit Stürmen und Blitzen in Verbindung gebracht. Holz aus dem Kern einer Eiche der Tugend kann zu einem Gegenstand verarbeitet werden, der eine Mindere Immunität gegen Blitz verleiht, nachdem es ordnungsgemäß veredelt wurde. Der Veredelungsprozess besteht darin, das Holz im Verlauf eines Quartals mit Räucherwerk und dem Rauch brennender Kräuter zu trocknen. Mindestens einmal während dieses Vorgangs muss das Holz unter freiem Himmel bei Blitzschlag ins Freie gebracht werden. Der fertige, veredelte Gegenstand kann in jede beliebige Form und Größe geschnitzt werden (begrenzt nur durch die Größe des ursprünglichen Baumes). Ist er ein tragbarer Gegenstand, verleiht er dem Besitzer die Mindere Immunität. Wird er in ein Holzschiff oder Bauwerk eingebaut, verleiht er dem gesamten Gebäude die Immunität.
+
+Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-Vis.
+
+#### Eberesche
+
+Aus einer Eberesche der Tugend kann ein Magier ein Schutzamulett fertigen. Die roten Beeren der Eberesche tragen einen fünfzackigen Stern; eine ordnungsgemäße Veredelung des Amuletts erfordert die Auswahl nur jener Beeren, die vollkommene Sterne aufweisen. Der Magier zerdrückt einige dieser Beeren zusammen mit bestimmten Kräutern (unter anderem Basilikum und Raute) und reinem Regenwasser, und in diesem Sud tränkt er zwei Zweige desselben Baumes, von dem die Beeren stammen. Frische Beeren (nur solche mit vollkommenen Sternen) und Kräuter müssen jeden Tag von einem Vierteljahrestag (Sonnenwende oder Tagundnachtgleiche) bis zum nächsten hinzugefügt werden. Die beiden rotgefärbten Zweige werden dann mit rotem Faden zu einem gleicharmigen Kreuz gebunden.
+
+Das fertige Amulett verleiht eine Tugend Mindere Magische Macht (siehe Kapitel 4: Magische Charaktere, Neue Tugenden). Sein Effekt ist identisch mit einem hermetischen Rego-Vim-Bannkreis (siehe **ArM5**, Seite 161) der Stufe 10 und Penetration 10, mit einem Ziel: Individuum statt Kreis, der seinen Träger gegen Kreaturen einer übernatürlichen Sphäre schützt (Magie, Hölle oder Fee, aber nicht Göttlich – die Sphäre muss vom Magier bei der Anfertigung des Amuletts gewählt werden). Das Amulett verliert seine Kraft nach sieben Jahren.
+
+>#### Charakterleitfaden: Eine Alraunwurzel der Tugend
 >
 >**Magische Macht:** 5
 >
@@ -7715,7 +7678,6 @@ Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-V
 >**Kräfte:**
 >
 >*Tödlicher Schrei*, 0 Punkte, Init +6, Corpus oder Animal
->
 >R: Per, D: Mom, Z: Schall
 >
 >Der Schrei der Alraunwurzel ist für alle tödlich, die ihn hören (Taubheit ist eine wirksame Verteidigung). Sie kann diese Kraft nur in dem Moment einsetzen, in dem sie aus dem Erdreich gezogen wird.
@@ -7736,11 +7698,9 @@ Vor der Veredelung enthält das Kernholz einer Eiche der Tugend 2 Bauern Auram-V
 >
 >Eine veredelte Alraunwurzel (aber nicht eine, die als Homunculus gebunden wurde) dient nicht freiwillig und wird versuchen, Unheil anzurichten, wenn sie kann.
 
-#### Eberesche
-
-Aus einer Eberesche der Tugend kann ein Magier ein Schutzamulett fertigen. Die roten Beeren der Eberesche tragen einen fünfzackigen Stern; eine ordnungsgemäße Veredelung des Amuletts erfordert die Auswahl nur jener Beeren, die vollkommene Sterne aufweisen. Der Magier zerdrückt einige dieser Beeren zusammen mit bestimmten Kräutern (unter anderem Basilikum und Raute) und reinem Regenwasser, und in diesem Sud tränkt er zwei Zweige desselben Baumes, von dem die Beeren stammen. Frische Beeren (nur solche mit vollkommenen Sternen) und Kräuter müssen jeden Tag von einem Vierteljahrestag (Sonnenwende oder Tagundnachtgleiche) bis zum nächsten hinzugefügt werden. Die beiden rotgefärbten Zweige werden dann mit rotem Faden zu einem gleicharmigen Kreuz gebunden.
-
-Das fertige Amulett verleiht eine Tugend Mindere Magische Macht (siehe Kapitel 4: Magische Charaktere, Neue Tugenden). Sein Effekt ist identisch mit einem hermetischen Rego-Vim-Bannkreis (siehe **ArM5**, Seite 161) der Stufe 10 und Penetration 10, mit einem Ziel: Individuum statt Kreis, der seinen Träger gegen Kreaturen einer übernatürlichen Sphäre schützt (Magie, Hölle oder Fee, aber nicht Göttlich – die Sphäre muss vom Magier bei der Anfertigung des Amuletts gewählt werden). Das Amulett verliert seine Kraft nach sieben Jahren.
+>#### ABENTEUERIDEE: Der Schrei der Alraune
+>
+>Ein Galgenbaum steht in einer schwachen Magieaura an einer Kreuzung nahe dem Konvent. Gelegentlich findet man eine Alraune der Tugend darunter wachsend. Der Leibarzt eines kränklichen Adligen hat eine Alraune geerntet, um seinen Herrn zu heilen, aber tragischerweise folgte der neugierige Sohn des Adligen dem Arzt heimlich und schaute zu genau hin – er wurde vom Schrei der Alraune getötet. Die Spielercharaktere könnten herbeigerufen werden, um das Verschwinden des Jungen zu untersuchen, oder der Arzt könnte zu ihnen kommen und um Hilfe bitten.
 
 ## Erwachte Gegenstände
 
@@ -7785,7 +7745,6 @@ Macht: *Umhang der Entenfedern*, Mindere Macht: *Bleiche die Spuren der Reise*, 
 *Umhang der Entenfedern*, 0 Punkte, Konstant, Aquam: Siehe **ArM5**, Seite 124.
 
 *Bleiche die Spuren der Reise*, 0 Punkte, Init –1, Animal und Terram
-
 R: Per, D: Mom, Z: Ind
 
 Wenn aktiviert, werden alle Schmutz- und Reiseflecken vom Umhang entfernt, und alle kleinen Risse und Einrisse (alles kleiner als eine Leichte Wunde) werden sofort ausgebessert.
@@ -7793,7 +7752,6 @@ Wenn aktiviert, werden alle Schmutz- und Reiseflecken vom Umhang entfernt, und a
 Cr(Pe)An(Te) 20 (Basis 15, +1 Requisit): Mindere Macht (20 Stufen, –1 Machtkosten), Meisterschaftspunkt von *Umhang der Entenfedern* (–1 Machtkosten)
 
 *Die Wolke aus Wolle*, 0 Punkte, Init –1, Animal und Corpus
-
 R: Per, D: Konz, Z: Ind
 
 Für die Dauer der Kraft kann Amiculum durch die Luft schweben und sich langsam in jede Richtung bewegen. Während des Schwebens kann er das Gewicht von bis zu zwei Menschen tragen.
@@ -7810,19 +7768,19 @@ Amiculum wurde als Talisman für seinen Meister verzaubert, einen hermetischen M
 
 Kelpies sind fleischfressende magische Kreaturen, die am Grund tiefer Süßwassertümpel leben. Ihre natürliche Gestalt ist ein sich windendes Gewirr aus öligen schwarzen Tentakeln und scharfen Schnäbeln, die in der Lage sind, die dickste Rüstung zu durchbohren, aber Kelpies besitzen auch die eigenartige Fähigkeit, sich in geschmeidige, schwarze Pferde zu verwandeln. In dieser Gestalt verströmt der Kelpiehengst ein moschusartiges Charisma, das ihm erlaubt, sich mit anderen Pferden anzufreunden; er führt sie an den Rand des Tümpels, wo sie gefräßig verschlungen werden. Eine weitere beliebte Jagdtechnik jener Kelpies, die in der Nähe einer Straße leben, besteht darin, müde Reisende zu suchen, die der Kelpie dazu verlockt, aufzusitzen. Sobald der Reisende aufgestiegen ist, stürzt der Kelpie kopfüber in seinen Tümpel – der Reiter ertrinkt und wird dann verspeist.
 
->## Abenteueridee: Der Schrei der Alraune
->
->Ein Galgenbaum steht in einer schwachen Magieaura an einer Kreuzung nahe dem Konvent. Gelegentlich findet man eine Alraune der Tugend darunter wachsend. Der Leibarzt eines kränklichen Adligen hat eine Alraune geerntet, um seinen Herrn zu heilen, aber tragischerweise folgte der neugierige Sohn des Adligen dem Arzt heimlich und schaute zu genau hin – er wurde vom Schrei der Alraune getötet. Die Spielercharaktere könnten herbeigerufen werden, um das Verschwinden des Jungen zu untersuchen, oder der Arzt könnte zu ihnen kommen und um Hilfe bitten.
-
 Es ist möglich, einen Kelpie zu zähmen und als furchterregendes Reittier – oder sogar als Lasttier – abzurichten, und einige Magi haben dies getan. Ein Kelpie als Reittier besitzt eine eigenständige Magieresistenz, ermüdet nicht leicht, ist sehr schnell und sieht eindrucksvoll, aber nicht offensichtlich magisch aus – zumindest in Hengstgestalt. Ein abgerichteter Kelpie kann einfache mündliche Anweisungen verstehen, einschließlich wann er die Gestalt wechseln soll, und kann in Hengstgestalt auch geritten werden, wobei die Fertigkeit Reiten verwendet wird. Ein Kelpie ist ein magisches Ding und muss daher in einer Magieaura (üblicherweise einem Tümpel) ruhen, um seinen Machtvorrat wieder aufzufüllen.
 
 Der hier beschriebene Kelpie ist eine magische Kreatur, die mit tiefen Tümpeln assoziiert wird. Allerdings können ähnliche Feenkreaturen existieren.
 
 #### Charakterleitfaden: Ein Kelpie
 
-**Magische Macht:** 20 (Aquam) **Eigenschaften:**
+**Magische Macht:** 20 (Aquam) 
 
-> (Natürliche Gestalt) Ger +1, Wah +1, Prä 0, Kom –2, Stä +8, Aus +2, Ges +1, Sck –2 (Hengstgestalt) Ger +1, Wah +1, Prä +3, Kom –2, Stä +6, Aus +3, Ges +1, Sck –1
+**Eigenschaften:**
+
+(Natürliche Gestalt) Schl +1, Wah +1, Prä 0, Kom –2, Stä +8, Aus +2, Ges +1, Sck –2 
+
+(Hengstgestalt) Schl +1, Wah +1, Prä +3, Kom –2, Stä +6, Aus +3, Ges +1, Sck –1
 
 **Größe:** +3
 
@@ -7834,7 +7792,11 @@ Der hier beschriebene Kelpie ist eine magische Kreatur, die mit tiefen Tümpeln 
 
 **Qualitäten und Mängel:** Große Macht; Verbesserter Angriff (x5), Verbesserter Schaden (x4), Verbesserte Verteidigung (x4), Verbesserte Initiative (x2), Verbesserte Absorption (x3), Mindere Macht (x2)
 
-**Persönlichkeitseigenschaften:** Wild +3, Verlockend +1 **Reputationen:** Schwarzes Pferd auf der Straße 3 (lokal) **Kampf:** (Natürliche Gestalt)
+**Persönlichkeitseigenschaften:** Grimmig +3, Verlockend +1 
+
+**Reputation:** Schwarzes Pferd auf der Straße 3 (lokal) 
+
+**Kampf:** (Natürliche Gestalt)
 
 *Tentakel:* Init +4, Ang +10, Vert +11, Sch +8
 
@@ -7855,21 +7817,20 @@ Der hier beschriebene Kelpie ist eine magische Kreatur, die mit tiefen Tümpeln 
 **Kräfte:**
 
 *Pferdemetamorphose*, 3 Punkte, Init –5, Aquam
-
 R: Per, D: Sonne, Z: Ind
 
 Der Kelpie schleudert sich aus seinem Tümpel, und mitten im Flug verwandelt sich die Masse schleimiger Tentakel in einen glänzend schwarzen Hengst. Der Kelpie kann nach Belieben ohne zusätzlichen Machtpunkteeinsatz in seine natürliche Gestalt zurückkehren, aber wenn der Kelpie in Hengstgestalt vollständig mit Wasser durchtränkt wird, muss ein Ausdauerwurf gegen Schwierigkeitsgrad 9 bestanden werden, andernfalls kehrt er in seine natürliche Gestalt zurück.
 
 MuAq(An) 25 (Basis 10, +2 Sonne, +1 komplexer Effekt): Mindere Macht (25 Stufen)
 
-*Pferdecharisma*, 2 Punkte, Init –7, Imaginem R: Sicht, D: Sonne, Z: Ind
+*Pferdisches Charisma*, 2 Punkte, Init –7, Imaginem  
+R: Sicht, D: Sonne, Z: Ind
 
 Der Kelpie macht sich für sein Opfer verführerisch. Dies gelingt automatisch, wenn das Opfer eine Gerissenheitseigenschaft hat, aber wenn das Opfer eine Intelligenzeigenschaft hat, widersteht ein Intelligenzwurf gegen Schwierigkeitsgrad 9 dem Effekt (Erschöpfungsabzüge gelten, was müde Reisende besonders anfällig macht). Ein Opfer mit Gerissenheit folgt der Führung eines Kelpies, den es anziehend findet, während ein intelligentes Opfer gewöhnlich versucht, den Kelpie zu reiten oder zu fangen. Diese Kraft kann nur eingesetzt werden, wenn der Kelpie in Hengstgestalt ist.
 
 CrIm 40 (Basis 5, +3 Sicht, +2 Sonne, +2 komplexer Effekt): Große Macht (40 Stufen, –2 Kosten)
 
 *Flinker Fuß*, 0 Punkte, Konstant, Animal:
-
 R: Per, D: Konstant, Z: Ind
 
 In Hengstgestalt kann der Kelpie etwa mit der dreifachen Geschwindigkeit eines normalen Pferdes reisen (er kann einen Reiter rund 150 Kilometer an einem Tag tragen).
@@ -7884,7 +7845,7 @@ MuAn 15 (Basis 4, +2 Sonne, +1 dauerhafter Effekt): Mindere Macht (15 Stufen, �
 
 **Erscheinungsbild:** In seiner natürlichen Gestalt ist der Kelpie eine schwarze, amorphe und aufgeblähte Masse, bedeckt mit einem Sortiment muskulöser Tentakel, Mäuler, Schnäbel und Sinnesorgane. Er haust gewöhnlich am Grund eines tiefen, schattigen Tümpels. In Hengstgestalt erscheint der Kelpie als großes, kräftiges, schwarzes Pferd, wie es von einem wohlhabenden Ritter in die Schlacht geritten werden könnte.
 
->## Abenteueridee: Einen Kelpie brechen
+>####ABENTEUERIDEE: Einen Kelpie brechen
 >
 >Ein Clanchef in den schottischen Highlands wendet sich an den Konvent, weil er einen magischen Zaum in Auftrag geben möchte, mit dem er einen örtlichen Kelpie fangen und zähmen kann (dies ließe sich mit einem ReAn-Effekt erreichen). Der Häuptling beabsichtigt, den Kelpie zum Transport schwerer Steine zur Baustelle einer neuen Festung einzusetzen. Der rasche Bau der Festung mithilfe des Kelpies würde das Kräfteverhältnis unter den Highland-Clans verschieben – daher könnte die Unterstützung des Häuptlings als Einmischung in weltliche Angelegenheiten und somit als möglicher Verstoß gegen den Peripheren Kodex ausgelegt werden.
 
@@ -7896,53 +7857,53 @@ Der Vorgang der Bildung eines Elementars wird **Verfeinerung** genannt. Dabei ne
 
 Einmal verfeinert, existiert der Elementar, bis er zerstört wird; Elementare altern nicht, haben keinen Bedarf an Nahrung und erliegen keinen Krankheiten. Sie unterliegen Impulsen, die sie je nach ihrer elementaren Zusammensetzung zu bestimmten Handlungen treiben, besitzen aber keine Denkfähigkeit im herkömmlichen Sinne.
 
+>#### Ein Exkurs in die Physik
+>
+>Das Universum besteht aus Bausteinen, die **Atome** genannt werden (von *atomas*, was „unteilbar" bedeutet). Es gibt vier Sorten von Atomen, und jedes Atom besitzt zwei Qualitäten, die seine Natur bestimmen: Erde ist kalt und trocken; Wasser ist kalt und feucht; Luft ist heiß und feucht; und Feuer ist heiß und trocken. Die **Korpuskeln** der Atome sind die grundlegenden Bausteine aller Materie und besitzen Größe, Form und Farbe. Korpuskeln der Erde sind Würfel, die des Wassers Ikosaeder (geformt wie ein 20-seitiger Würfel), Luftkorpuskeln sind Oktaeder (ein achtseitiger Würfel) und Feuerkorpuskeln sind Tetraeder (ein vierseitiger Würfel oder eine Pyramide). Die Größe der Korpuskeln bestimmt die Art der Materie, die sie bilden. Kleine tetraedrische Korpuskeln bilden das feine blaue Feuer, das dem Himmel seine Farbe verleiht; hingegen bestehen große, rauchige Flammen aus den größten Feuerkorpuskeln. Luft, die dünn und rein ist, besteht aus kleinen Oktaedern; während Nebel aus großen, dichten Oktaedern besteht. Öl erhält seine Dickflüssigkeit durch seine großen Wasserkorpuskeln; aber sehr feine Atome bilden flüchtige Flüssigkeiten wie Weingeist. Fels besteht aus großen und schweren Korpuskeln; während Sand aus viel feineren Würfeln besteht.
+>
+>Die feuchte Qualität veranlasst ein Ding, sich seinen äußeren Bedingungen anzupassen, während Trockenheit ein Ding dazu bringt, seine eigene Form und Grenzen zu definieren. Folglich neigen feuchte Dinge dazu, flüchtig und ausdehnend zu sein, da sie Räume in ihrer Umgebung füllen können, während trockene Dinge fest und strukturiert sind. Hitze veranlasst Materie, sich zu trennen und ihresgleichen zu suchen, aber Kälte fördert die Vermischung von Materie und die Gerinnung. Die Welt besteht aus vier Regionen elementarer Materie, wobei die selbstformenden trockenen Elemente die innerste Schicht der Erde und die äußerste Schicht des Feuers bilden. Die beiden kalten Elemente sinken zum Erdmittelpunkt, während die beiden heißen sich zu trennen und aufzusteigen suchen, so dass die endgültige Reihenfolge von der Mitte aus Erde, Wasser, Luft und Feuer lautet. Jenseits der Feuerregion liegt die Mondsphäre, die die materielle und die himmlische Sphäre voneinander trennt. Weitere Einzelheiten zu diesem Thema finden sich in *Kunst & Wissenschaft*.
+
 ### Magie und Elementare
 
 Manche Magi, die in Elementarmagie bewandert sind, erschaffen und binden routinemäßig Elementare an ihren Willen, doch die primitive Empfindungsfähigkeit dieser Wesen, kombiniert mit der Schwierigkeit, die geeigneten Rohstoffe und das benötigte Vis zu beschaffen, führt dazu, dass die meisten sich nicht damit befassen. Rituelle Creo-Zauber können Elementare erschaffen, und sie können mit Rego-Magie kontrolliert werden. Neue Leitlinien für diese Effekte werden im nebenstehenden Kasten gegeben. Darüber hinaus können Standard-Rego-Leitlinien auch Bannkreise (oder Gefängnisse) für Elementare mit Zaubern erzeugen, die Kreaturen der Magiesphäre betreffen, und Perdo-Vim-Zauber können die Magische Macht zerstören, die ihre einfachen Körper belebt.
 
 Andere Zauber, die die elementaren Formen betreffen, können versehentlich einen Elementar zur Verfeinerung bringen, wenn sie auf ausreichend reine Materie gewirkt werden, die bereits erheblich verzerrt ist, wie sie etwa in einer Magieaura vorkommt. Die Entstehung eines Elementars ist eine mögliche Folge jedes verpatzten Zaubers oder Laborexperiments, das eine elementare Form einbezieht und in einer Magieaura durchgeführt wird. Ebenso kann Magie, die dazu dient, ein Element zu reinigen, einen ähnlichen Effekt haben – mehr als ein Flambeau-Magus hat versucht, seine Flammen heißer zu machen, und versehentlich einen Feuerelementar verfeinert.
 
->## Neue Elementarzauber und Zauberleitlinien
+>### Neue Elementarzauber und Zauberleitlinien
 >
 >**Creo (elementare Form)**
 >
 >**Stufe 25:** Erschaffe einen Elementar aus einer Grundmenge elementarer Materie (Ritual)
 >
->### Muto (elementare Form)
+>#### Muto (elementare Form)
 >
 >**Allgemein:** Verwandle einen Teil des Elementarkörpers in eine andere Art Materie desselben Elements (Erde zu Staub, Wind zu Rauch usw.), wodurch der Machtvorrat des Elementars um die Stufe des Zaubers +10 reduziert wird. Wenn der Elementar durch diesen Effekt nicht zerstört wird, kann er nach Ablauf der Dauer diese Macht wiederherstellen, indem er die Materie wieder absorbiert.
 >
->### Rego (elementare Form)
+>#### Rego (elementare Form)
 >
 >**Stufe 5:** Kontrolliere einen Elementar vollständig
 >
->### Perdo (elementare Form)
+>#### Perdo (elementare Form)
 >
 >**Allgemein:** Zerstöre genug Materie, um den Machtwert eines Elementars um die Stufe des Zaubers +10 zu reduzieren
 >
->### Neue Elementarzauber
+>#### Neue Elementarzauber
 >
->**Verfeinere das rohe Wasser** Creo Aquam 30 R: Berührung, D: Mom, Z: Ind, Ritual
+>##### Das rohe Wasser verfeinern 
+>Creo Aquam 30  
+>R: Touch, D: Mom, T: Ind, Ritual
 >
 >Dieser Ritualzauber verfeinert eine Grundmenge Wasser (bis zu einem Tümpel von 5 Schritt Durchmesser und 2 Schritt Tiefe), um einen Wasserelementar ins Dasein zu rufen. In seiner maximalen Größe hat der Elementar einen Machtwert von 15 und eine Größe von 0, aber kleinere Wasserkörper erzeugen kleinere Elementare. Die Charakterleitfäden weiter unten im Kapitel beschreiben typische Elementare, die von diesem Zauber erschaffen werden. Für größere (und somit mächtigere) Elementare muss dieser Zauber mit einem Größenmodifikator auf das Ziel erfunden werden, wobei jede Anwendung des Modifikators +3 Größe verleiht. Da die Größe den Machtwert bestimmt (siehe weiter unten), verleiht 1 zusätzliche Größenmagnitude einem Elementar einen Machtwert von 20 (Größe +3), 2 einen Machtwert von 25 (Größe +6) usw. Dieser Zauber muss den Machtwert des erzeugten Elementars nicht durchdringen; bis zur Vollendung des Zaubers existiert der Elementar nicht.
 >
 >(Basis 25, +1 Berührung)
 >
->#### Befiehl dem Lebenden Feuer
->
+>##### Befiehl dem Lebenden Feuer
 >Rego Ignem 20
->
 >R: Stimme, D: Konz, Z: Ind
 >
 >Dieser Zauber erlaubt es dem Zaubernden, die Handlungen eines Feuerelementars bis zur Größe 0 zu kontrollieren, wenn die Penetrationssumme die Magische Macht des Elementars übersteigt. Für größere Elementare werden Versionen des Zaubers mit einem Größenmodifikator auf das Ziel benötigt. Wenn ein Elementar bereits unter übernatürlicher Kontrolle steht, ist der zuletzt eingesetzte Zauber oder die zuletzt eingesetzte Kraft maßgebend.
 >
 >(Basis 5, +2 Stimme, +1 Konz)
-
->## Ein Exkurs in die Physik
->
->Das Universum besteht aus Bausteinen, die **Atome** genannt werden (von *atomas*, was „unteilbar" bedeutet). Es gibt vier Sorten von Atomen, und jedes Atom besitzt zwei Qualitäten, die seine Natur bestimmen: Erde ist kalt und trocken; Wasser ist kalt und feucht; Luft ist heiß und feucht; und Feuer ist heiß und trocken. Die **Korpuskeln** der Atome sind die grundlegenden Bausteine aller Materie und besitzen Größe, Form und Farbe. Korpuskeln der Erde sind Würfel, die des Wassers Ikosaeder (geformt wie ein 20-seitiger Würfel), Luftkorpuskeln sind Oktaeder (ein achtseitiger Würfel) und Feuerkorpuskeln sind Tetraeder (ein vierseitiger Würfel oder eine Pyramide). Die Größe der Korpuskeln bestimmt die Art der Materie, die sie bilden. Kleine tetraedrische Korpuskeln bilden das feine blaue Feuer, das dem Himmel seine Farbe verleiht; hingegen bestehen große, rauchige Flammen aus den größten Feuerkorpuskeln. Luft, die dünn und rein ist, besteht aus kleinen Oktaedern; während Nebel aus großen, dichten Oktaedern besteht. Öl erhält seine Dickflüssigkeit durch seine großen Wasserkorpuskeln; aber sehr feine Atome bilden flüchtige Flüssigkeiten wie Weingeist. Fels besteht aus großen und schweren Korpuskeln; während Sand aus viel feineren Würfeln besteht.
->
->Die feuchte Qualität veranlasst ein Ding, sich seinen äußeren Bedingungen anzupassen, während Trockenheit ein Ding dazu bringt, seine eigene Form und Grenzen zu definieren. Folglich neigen feuchte Dinge dazu, flüchtig und ausdehnend zu sein, da sie Räume in ihrer Umgebung füllen können, während trockene Dinge fest und strukturiert sind. Hitze veranlasst Materie, sich zu trennen und ihresgleichen zu suchen, aber Kälte fördert die Vermischung von Materie und die Gerinnung. Die Welt besteht aus vier Regionen elementarer Materie, wobei die selbstformenden trockenen Elemente die innerste Schicht der Erde und die äußerste Schicht des Feuers bilden. Die beiden kalten Elemente sinken zum Erdmittelpunkt, während die beiden heißen sich zu trennen und aufzusteigen suchen, so dass die endgültige Reihenfolge von der Mitte aus Erde, Wasser, Luft und Feuer lautet. Jenseits der Feuerregion liegt die Mondsphäre, die die materielle und die himmlische Sphäre voneinander trennt. Weitere Einzelheiten zu diesem Thema finden sich in *Kunst & Wissenschaft*.
 
 ### Gestaltung von Elementaren
 
@@ -7971,17 +7932,35 @@ Nach der Zuweisung der Eigenschaften wird die übliche Größenanpassung vorgeno
 
 Alle Elementare besitzen ein intuitives Verständnis der Umgebung, die sie hervorgebracht hat, was der Tugend Wege des (Landes) entspricht. Da sie weder lebendig noch wirklich empfindungsfähig sind, leiden sie zudem unter den Fehlern Schlechtes Gedächtnis, Kurze Aufmerksamkeitsspanne und Einfältig.
 
->## Elementare Abenteuerideen
+>#### Größe, Machtwert und Eigenschaften von Elementaren
 >
->#### Das Vergessene Kind
+>Wie bei anderen Magischen Dingen (siehe Kapitel 3: Magische Charaktere) ist die Größe eines Elementars von dem für ihn gewählten Machtwert abhängig und wird nicht mit Magischen Qualitäten oder Mängeln erworben. Der Machtwert eines Elementars bestimmt auch seine typischen Eigenschaften. Die nachfolgende Tabelle gibt Werte für die acht Eigenschaften bei verschiedenen Machtwerten an. Jeder dieser Eigenschaftssätze wurde mit Magischen Qualitäten und Mängeln erworben, die sich exakt aufheben und so Gesamtkosten von null ergeben.
+>
+>| Macht | Größe | Eigenschaften |
+>|---|---|---|
+>| 1 | –18 | +2, +2, +1, +1, +1, 0, –1, –1 |
+>| 5 | –6 | +3, +2, +1, +1, 0, 0, –1, –2 |
+>| 10 | –3 | +3, +3, +1, +1, 0, 0, –1, –3 |
+>| 15 | 0 | +4, +3, +2, +1, 0, 0, –2, –4 |
+>| 20 | +3 | +6, +5, +2, +2, +1, 0, –5, –6 |
+>| 25 | +6 | +7, +6, +2, +2, +1, 0, –6, –7 |
+>| 30 | +9 | +8, +6, +2, +2, +1, 0, –6, –8 |
+>| 35 | +12 | +9, +7, +2, +2, +1, 0, –7, –9 |
+>| 40 | +15 | +10, +8, +2, +2, +1, 0, –8, –10 |
+>| 45 | +18 | +11, +9, +2, +2, +1, 0, –9, –11 |
+>| 50 | +21 | +12, +9, +2, +2, +1, 0, –9, –12 |
+
+>#### Elementare Abenteuerideen
+>
+>**Das vergessene Kind**
 >
 >Ein Magus setzt *Beschwörung des Blitzes* (oder einen ähnlichen Zauber der 6. Magnitude oder höher) in einer Magieaura ein, was den letzten Verzerrungspunkt zufügt, der nötig ist, um einen Elementar zu verfeinern. Ohne zu wissen, was er getan hat, zieht er weiter. Der Elementar, den er unwissentlich erschaffen hat, bereitet den Einheimischen endlose Schwierigkeiten. Schließlich entdeckt der Magus seinen Fehler und muss wiedergutmachen, was er angerichtet hat.
 >
->#### Das Unversöhnliche Meer
+>**Das gnadenlose Meer**
 >
 >Besorgt darüber, dass seit einer Weile nichts von einem Kollegen zu hören war, werden die Spieler-Magi ausgesandt, um nachzusehen, ob etwas nicht stimmt. Der Magus – ein Experte in Aquam – entdeckte einen Weg, den Machtwert (und die Größe) seines Wasserelementars zu erhöhen, indem er rohes Aquam-Vis mittels Transfer (**ArM5**, Seite 94) in eine ausreichende Menge reiner Elementarmaterie übertrug. Das durchdrungene Wasser wurde dann vom Elementar absorbiert, während der Magus einen Creo-Aquam-Zauber (mit einem Vim-Requisit) eigener Erfindung wirkte. Unglücklicherweise für den Magus wurde der Elementar zu mächtig, als dass er ihn kontrollieren konnte, und er ist nun in seinem Sanctum gefangen. Alternativ könnten die Charaktere lediglich auf sein zerschmettertes Labor und seine Labortexte stoßen und die damit verbundene Gefahr nicht erkennen, die in der Wiedererschaffung seines Werks liegt.
 >
->#### Mittagessen in den Vis-Vorräten
+>**Mittagessen in den Vis-Vorräten**
 >
 >Die Charaktere entdecken etwas Terram-Vis in einem Klumpen Ton, der in einer Region ohne mystische Aura liegt. Sie bringen es in ihren Konvent und lagern es in ihren Vis-Vorräten ein. Nun, da es sich in einer Magieaura befindet, kann der Elementar beginnen, seinen erschöpften Machtvorrat wiederherzustellen, und er konsumiert das übrige Terram-Vis der Magi, um sich selbst zu vergrößern. Wenn die Charaktere das nächste Mal ihre Vis-Vorräte besuchen, erwartet sie eine Überraschung.
 
@@ -8000,25 +7979,6 @@ Alle Elementare haben eine obligatorische Große Macht (*Zermalmen*, *Ertränken
 Elementare sind nicht lebendig, daher können sie keine Wunden erleiden; stattdessen trennt jeder Treffer etwas von ihrer Substanz von ihrer belebenden Kraft ab. In der Praxis funktioniert dies genauso wie das Zufügen von Wunden an einem lebenden Wesen, aber jede Wunde reduziert auch den Machtvorrat des Elementars um eine Anzahl Punkte, die dem Wundabzug entspricht. Eine Lähmende Wunde entzieht 5 Machtpunkte, genau wie eine Schwere Wunde. Der Machtwert des Elementars ändert sich nicht, daher ist es nach einer Verwundung nicht nötig, die Größe neu zu berechnen.
 
 Ein Elementar, dessen Machtvorrat auf null reduziert wird, erleidet die üblichen Auswirkungen dieses Zustands (siehe Kapitel 4: Magische Charaktere, Kampfunfähigkeit und Erschöpfter Machtvorrat). Ein Elementar verliert darüber hinaus jedoch seine belebende Kraft und wird unbelebt. In diesem Zustand kann er leicht für rohes Vis gehalten werden. Sobald der Elementar einen Punkt Machtvorrat regeneriert, kann er sich wieder bewegen, aber da alle Elementare den Mangel Vorübergehende Macht besitzen, fällt ihnen die Machterholung schwer. Ein Elementar könnte viele Jahre lang ruhen, bevor das Vorhandensein der richtigen Vis-Art ihn wieder zum Pseudoleben erweckt.
-
-
->## Größe, Machtwert und Eigenschaften von Elementaren
->
->Wie bei anderen Magischen Dingen (siehe Kapitel 3: Magische Charaktere) ist die Größe eines Elementars von dem für ihn gewählten Machtwert abhängig und wird nicht mit Magischen Qualitäten oder Mängeln erworben. Der Machtwert eines Elementars bestimmt auch seine typischen Eigenschaften. Die nachfolgende Tabelle gibt Werte für die acht Eigenschaften bei verschiedenen Machtwerten an. Jeder dieser Eigenschaftssätze wurde mit Magischen Qualitäten und Mängeln erworben, die sich exakt aufheben und so Gesamtkosten von null ergeben.
->
->| Macht | Größe | Eigenschaften |
->|---|---|---|
->| 1 | –18 | +2, +2, +1, +1, +1, 0, –1, –1 |
->| 5 | –6 | +3, +2, +1, +1, 0, 0, –1, –2 |
->| 10 | –3 | +3, +3, +1, +1, 0, 0, –1, –3 |
->| 15 | 0 | +4, +3, +2, +1, 0, 0, –2, –4 |
->| 20 | +3 | +6, +5, +2, +2, +1, 0, –5, –6 |
->| 25 | +6 | +7, +6, +2, +2, +1, 0, –6, –7 |
->| 30 | +9 | +8, +6, +2, +2, +1, 0, –6, –8 |
->| 35 | +12 | +9, +7, +2, +2, +1, 0, –7, –9 |
->| 40 | +15 | +10, +8, +2, +2, +1, 0, –8, –10 |
->| 45 | +18 | +11, +9, +2, +2, +1, 0, –9, –11 |
->| 50 | +21 | +12, +9, +2, +2, +1, 0, –9, –12 |
 
 Die während des physischen Kampfes vom Körper des Elementars abgebrochenen Teile enthalten Vis; siehe Kapitel 3: Magische Charaktere, Magische Mängel, Vorübergehende Macht für weitere Einzelheiten. Dieses Vis ist bei Wasser- und Erdelementaren leicht zu sammeln, bei Luft- und Feuerelementaren weniger. Dieses Vis kann von einem Magus verwendet werden, um Zauber zu speisen, bevor der Elementar zerstört wird, obwohl es oft schwierig ist, es mitten im Kampf einzusammeln. Zusätzlich versucht der Elementar instinktiv, seine Materie mit sich selbst wiederzuvereinigen, und schafft es möglicherweise, das Vis wieder zu absorbieren und seinen Machtvorrat aufzufüllen. Wenn ein Elementar durch Zerstörung seiner Materie geschädigt wird – mittels Perdo-(Form)- oder Perdo-Vim-Zaubern, oder Wasser gegen einen Feuerelementar, zum Beispiel – dann wird auch das Vis zerstört.
 
@@ -8039,8 +7999,8 @@ Ein Erdelementar der Größe 0 ist ein Felsblock von ungefähr einem Schritt Dur
 Alle Erdelementare besitzen diese Kraft:
 
 **Zermalmen**
-
-0 Punkte, Init gleich (Sck–2), Terram R: Berührung, D: Sonne, Z: Ind
+0 Punkte, Init gleich (Sck–2), Terram  
+R: Berührung, D: Sonne, Z: Ind
 
 Der Elementar schlägt mit seinen schweren Gliedern auf einen Gegner ein, was einen normalen Nahkampfangriff erfordert. Wenn der Elementar mindestens die gleiche Größe wie sein Gegner hat, kann ein erfolgreicher Zermalmenangriff ihn am Boden festnageln, und der Elementar addiert seinen (Machtwert/5, aufgerundet) zu seiner Ringkampf-Stärke, um sein Opfer am Entkommen zu hindern (**ArM5**, Seite 174). Wenn der Elementar erfolgreich ringt, wird jede Ausrüstung seines Opfers beschädigt; zerbrechliche Gegenstände werden zerstört, robuste Gegenstände werden zerbrochen (und bei erneuter Einwirkung dieser Kraft zerstört), und Metallgegenstände werden beschädigt (und bei erneuter Einwirkung zerbrochen).
 
@@ -8049,21 +8009,22 @@ Re(Pe)Te 30 (Basis 3, +1 Berührung, +2 Sonne, +2 Stein betreffen, +1 Requisit, 
 Manche Erdelementare besitzen die folgenden Kräfte. Andere Kräfte ahmen typischerweise Terram-Zauber nach, insbesondere Rego-Terram-Zauber.
 
 **Die Rote Berührung**
-
-1 Punkt, Init gleich (Sck + 5), Terram R: Berührung, D: Mom, Z: Ind
+1 Punkt, Init gleich (Sck + 5), Terram  
+R: Berührung, D: Mom, Z: Ind
 
 Die Berührung des Elementars kann Metall rosten lassen; jedes Mal, wenn er im Kampf von einem Metallobjekt getroffen wird oder ein Wesen mit Metallrüstung erfolgreich trifft, kann er dieses Metall in ein vollständig verrostetes Objekt verwandeln, das zu Staub zerfällt.
 
 PeTe 10 (Basis 3, +1 Berührung, +2 Metall betreffen): Große Macht (10 Stufen, –1 Machtkosten, +7 Init)
 
-
-1 Punkt, Init gleich (Sck + 4), Aquam R: Berührung, D: Mom, Z: Teil
+**Durst stillen**  
+1 Punkt, Init gleich (Sck + 4), Aquam  
+R: Berührung, D: Mom, Z: Teil
 
 Erdelementare sind immer durstig, und direkter Kontakt mit dem Elementar entzieht dem Ziel Wasser und fügt eine Erschöpfungsstufe Schaden zu. Sobald alle Erschöpfungsstufen aufgebraucht sind, fügen aufeinanderfolgende Treffer (oder Kontaktrunden) eine Leichte Wunde, dann eine Mittelschwere Wunde, dann eine Schwere Wunde zu, und so weiter. Erschöpfungsstufen können durch das Trinken von mindestens einem Liter Wasser (für ein Individuum der Größe 0) wiederhergestellt werden, während Wunden normal heilen.
 
 PeAq 15 (Basis 5, +1 Berührung, +1 Teil): Große Macht (15 Stufen, –1 Machtkosten, +6 Init)
 
->## Charakterleitfaden: Ein Erdelementar
+>#### Charakterleitfaden: Ein Erdelementar
 >
 >**Magische Macht:** 15 (Terram)
 >
@@ -8102,10 +8063,7 @@ PeAq 15 (Basis 5, +1 Berührung, +1 Teil): Große Macht (15 Stufen, –1 Machtko
 >**Vis:** 3 Bauern Terram, im Körper
 >
 >**Hinweis:** Dieser Elementar wurde in einer Höhle mit einer Magieaura verfeinert und bewacht die darin befindliche Vis-Quelle mit leidenschaftlicher Wildheit.
->
->die gegenüberliegenden Ufer seines Meeres oder sogar jemanden, der auf demselben Erdreich steht, durch das Wasser, das den Boden feucht macht. Jemand, der auf einer Stein- oder Holzoberfläche steht, wäre für ihn jedoch unsichtbar. Wer die Sinne mit dem Elementar teilen kann, sieht, was er sieht.
->
->InIm 20 (Basis 1, +4 Arkane Verbindung, +1 Konz, +2 Raum): Mindere Macht (20 Stufen, +1 Init).
+
 
 ### Wasserelementare
 
@@ -8120,8 +8078,8 @@ Eine Lympha der Größe 0 bildet einen Wassertümpel von etwa 120 cm Durchmesser
 Alle Wasserelementare besitzen diese Kraft:
 
 **Ertränken**
-
-0 Punkte, Init gleich (Sck – 2), Aquam R: Berührung, D: Sonne, Z: Ind
+0 Punkte, Init gleich (Sck – 2), Aquam  
+R: Berührung, D: Sonne, Z: Ind
 
 Nach einem erfolgreichen Nahkampfangriff kann der Elementar ein Ziel, dessen Größe kleiner als seine eigene ist, verschlingen und versuchen, es zu ertränken, was einen Wurf zur Vermeidung von Entbehrung erfordert (**ArM5**, Seite 180–181). Das Opfer kann jede Runde versuchen, seinem Griff zu entkommen, indem es die Ringenregeln verwendet (ArM, Seite 174).
 
@@ -8130,22 +8088,22 @@ ReAq(Co) 30 (Basis 5, +1 Berührung, +2 Sonne, +1 Requisit, +1 dauerhafter Effek
 Manche Wasserelementare besitzen die folgenden Kräfte. Andere Kräfte ahmen typischerweise Aquam-Zauber nach, insbesondere Rego-Aquam-Zauber.
 
 **Eisige Berührung**
-
-1 Punkt, Init gleich (Sck + 4), Ignem R: Berührung, D: Mom, Z: Ind
+1 Punkt, Init gleich (Sck + 4), Ignem  
+R: Berührung, D: Mom, Z: Ind
 
 Die Berührung der Lympha entzieht einem Ziel Wärme und verursacht +10 Schaden. Dieser Schaden wird ohne den Vorteil von Rüstung absorbiert, da der wässrige Körper des Elementars durch jeden Schutz hindurchsickert.
 
 PeIg 15 (Basis 10, +1 Berührung): Große Macht (15 Stufen, –1 Machtkosten, +6 Init).
 
 **Sicht des Flusses**
-
-2 Punkte, Init gleich (Sck – 1), Imaginem R: Arkane Verbindung, D: Konz, Z: Raum
+2 Punkte, Init gleich (Sck – 1), Imaginem  
+R: Ark, D: Konz, Z: Raum
 
 Der Elementar kann jeden Ort wahrnehmen, zu dem er eine ununterbrochene Wasserverbindung hat, ungeachtet der Entfernung. So kann er jeden auf demselben Fluss sehen, die gegenüberliegenden Ufer seines Meeres oder sogar jemanden, der auf demselben Erdreich steht, durch das Wasser, das den Boden feucht macht. Jemand, der auf einer Stein- oder Holzoberfläche steht, wäre für ihn jedoch unsichtbar. Wer die Sinne mit dem Elementar teilen kann, sieht, was er sieht.
 
 InIm 20 (Basis 1, +4 Arkane Verbindung, +1 Konz, +2 Raum): Mindere Macht (20 Stufen, +1 Init).
 
->## Charakterleitfaden: Ein Wasserelementar
+>#### Charakterleitfaden: Ein Wasserelementar
 >
 >**Magische Macht:** 15 (Aquam)
 >
@@ -8200,8 +8158,8 @@ Ein Nebelfleck bildet einen Elementar der Größe 0; ein Zephyrus der Größe +4
 Alle Luftelementare besitzen diese Kraft:
 
 **Ersticken**
-
-0 Punkte, Init gleich (Sck – 2), Auram R: Berührung, D: Sonne, Z: Ind
+0 Punkte, Init gleich (Sck – 2), Auram   
+R: Berührung, D: Sonne, Z: Ind
 
 Der Elementar umgibt seinen Gegner und dringt in seine Lungen ein, was einen Wurf zur Vermeidung von Entbehrung erfordert (**ArM5**, Seite 180–181). Um dem Elementar zu entkommen, muss das Opfer sich von ihm entfernen; sein luftiger Körper kann einfach durchschritten werden, aber der Elementar verfolgt sein Opfer normalerweise. Vergleiche Stresswürfe auf Schnelligkeit + Athletik des Opfers und des Elementars (wobei Machtwert/5 für die Athletik des Elementars verwendet wird); der höchste gewinnt. Der Fluchtversuch erfordert einen Erschöpfungswurf für die anstrengende Handlung (**ArM5**, 178).
 
@@ -8210,9 +8168,7 @@ PeAu(Co) 30 (Basis 5, +1 Berührung, +2 Sonne, +1 Requisit, +1 dauerhafter Effek
 Manche Luftelementare besitzen die folgenden Kräfte. Andere Kräfte ahmen typischerweise Auram-Zauber nach, insbesondere Rego-Auram-Zauber.
 
 **Auflösung**
-
 3 Punkte, Init gleich Sck, Animal, Corpus oder Terram
-
 R: Stimme, D: Mom, Z: Ind
 
 Der Zusammenhalt eines Basis-Individuums von Terram geht verloren, sodass es schmilzt, als würde es stark erhitzt, obwohl die Kraft dem Objekt keine Hitze zuführt. Rüstung tropft von ihrem Träger, Schwerter kollabieren wie schmelzende Butter und so weiter. Am Ende der Runde verfestigt sich die Materie wieder in ihrer neuen Form. Wenn der Gegenstand verzaubert ist, muss die Penetration des Elementars das Fünffache der insgesamt investierten Vis-Bauern übersteigen. Die Feuchtigkeit lebender Körper schützt sie vor einem solch verheerenden Effekt; dennoch sind Haare, Zehennägel, Zähne, Klauen und Knochen alle betroffen, was +15 Schaden verursacht und den Schutz durch Rüstung ignoriert.
@@ -8220,14 +8176,14 @@ Der Zusammenhalt eines Basis-Individuums von Terram geht verloren, sodass es sch
 MuTe(Aq, Co, An) 25 (Basis 3, +2 Stimme, +2 Metall betreffen, +2 Menschen und Tiere betreffen): Große Macht (25 Stufen, –2 Machtkosten, +3 Init).
 
 **Jupiters Berührung**
-
-1 Punkt, Init gleich (Sck – 1), Auram R: Berührung, D: Mom, Z: Ind
+1 Punkt, Init gleich (Sck – 1), Auram  
+R: Berührung, D: Mom, Z: Ind
 
 Die Berührung des Elementars verursacht einen Blitz gleißender Entladungen, der +30 Schaden zufügt. Diese Kraft ist für einen Blitz- oder Sturmelementar geeignet.
 
 CrAu 30 (Basis 5, +1 Berührung, +4 unnatürlich): Große Macht (30 Stufen, –2 Machtkosten, +2 Init).
 
->## Charakterleitfaden: Ein Luftelementar
+>#### Charakterleitfaden: Ein Luftelementar
 >
 >**Magische Macht:** 15 (Auram)
 >
@@ -8277,7 +8233,37 @@ Ein Phlegethus erscheint als Ansammlung von Flammen, die sich naturwidrig bewege
 
 Ein Phlegethus der Größe 0 hat die Ausmaße eines typischen Lagerfeuers. Das Feuer eines vom Blitz getroffenen Baums würde einen Feuerelementar der Größe +6 hervorbringen, und ein Vulkan ist in der Lage, die größten Phlegethi hervorzubringen, bis zu Größe +21. Der Körper eines Feuerelementars besteht vollständig aus Feuer. Der Elementar kann nur Oberflächen überqueren, die aus potenziell brennbarem Material bestehen; je brennbarer es ist, desto schneller kann er sich bewegen. Durch typische Vegetation in einem gemäßigten Klima kann sich ein Feuerelementar mit der Geschwindigkeit eines laufenden Menschen bewegen. Er kann auch eine Lücke aus nicht brennbarem Untergrund (wie nacktem Fels) von einer Breite bis zu seinem Machtwert in Fuß überspringen. Waffen sind gegen einen Phlegethus wirkungslos; sie gleiten einfach durch den Elementar hindurch und können Feuer fangen. Eine Wasserquelle, die kleiner als die Größe des Elementars ist, wird bei Kontakt verdampft. Größere Wasserquellen löschen den Körper des Elementars und fügen „Wunden" zu, als wäre es Feuerschaden; typischerweise +5 bis +10 Schaden, aber möglicherweise mehr, abhängig von der Menge. Erfolgreiche Wasserangriffe zerstören jegliches Ignem-Vis, das in der verdampften Materie vorhanden gewesen sein könnte.
 
->## Charakterleitfaden: Ein Feuerelementar
+#### Beispielkräfte
+
+Alle Feuerelementare besitzen diese Kraft:
+
+**Brennen**
+0 Punkte, Init gleich (Sck–2), Ignem
+R: Berührung, D: Sonne, Z: Ind
+
+Jeder, der einen Feuerelementar berührt oder von ihm berührt wird, erleidet Schaden in Höhe eines Stresswürfels plus dem aktuellen Machtvorrat des Wesens. Dies ist der übliche Nahkampfangriff eines Phlegethus. Jedes brennbare Material fängt bei Kontakt Feuer; typischerweise fügt brennende Kleidung ihrem Träger +10 Schaden pro Runde zu, bis sie gelöscht wird. Jedes Metall, das länger als eine Runde mit dem Körper des Elementars in Kontakt kommt, erhitzt sich und verursacht die Wirkung von *Hitze der Sengenden Schmiede*, aber dies gilt nicht für Waffen, die im Kampf gegen ihn eingesetzt werden.
+
+Cr(Re)Ig 30 (Basis 5, +1 Berührung, +2 Sonne, +1 Requisit, +1 dauerhafter Effekt): Große Macht (30 Stufen, –3 Machtkosten, +1 Init)
+
+Manche Feuerelementare besitzen die folgenden Kräfte. Andere Kräfte ahmen typischerweise Ignem-Zauber nach, insbesondere Rego-Ignem-Zauber.
+
+**Faszination**
+3 Punkte, Init gleich (Sck + 4), Mentem  
+R: Auge, D: Sonne, Z: Ind
+
+Die wirbelnden Farben in den Flammen des Elementars können alle betören, die ihn sehen. Jene, die einen Intelligenzwurf gegen einen Schwierigkeitsgrad von 9 nicht bestehen, starren den Elementar mit offenem Mund an und sind handlungsunfähig. Dieser Wurf darf einmal pro Runde wiederholt werden.
+
+ReMe 15 (Basis 4, +1 Auge, +2 Sonne): Große Macht (15 Stufen, –1 Machtkosten, +6 Init).
+
+**Hitze der Sengenden Schmiede**
+1 Punkt, Init gleich (Sck + 6), Ignem  
+R: Stimme, D: Mom, Z: Ind
+
+Wie der gleichnamige Creo-Ignem-Zauber. Beachte, dass diese Kraft auf Distanz wirkt, während die Kraft *Brennen* nur Gegenstände betrifft, die den Elementar berühren.
+
+CrIg 10 (Basis 4, +2 Stimme): Große Macht (10 Stufen, –1 Machtkosten, +7 Init)
+
+>#### Charakterleitfaden: Ein Feuerelementar
 >
 >**Magische Macht:** 15 (Ignem)
 >
@@ -8318,48 +8304,6 @@ Ein Phlegethus der Größe 0 hat die Ausmaße eines typischen Lagerfeuers. Das F
 >**Vis:** 3 Bauern Ignem, im Körper.
 >
 >**Hinweis:** Dieser Elementar entstand aus einem Blitzeinschlag in einen magisch durchdrungenen Baum (vielleicht eine Vis-Quelle) und besitzt die erschreckende Fähigkeit, weitere Feuerelementare hervorzubringen, was er tut, wenn man ihn mit Wasser bekämpft.
->
->#### Beispielkräfte
->
->Alle Feuerelementare besitzen diese Kraft:
->
->**Brennen**
->
->0 Punkte, Init gleich (Sck–2), Ignem R: Berührung, D: Sonne, Z: Ind
-
-#### Beispielkräfte
-
-Alle Feuerelementare besitzen diese Kraft:
-
-**Brennen**
-
-0 Punkte, Init gleich (Sck–2), Ignem
-
-R: Berührung, D: Sonne, Z: Ind
-
-Jeder, der einen Feuerelementar berührt oder von ihm berührt wird, erleidet Schaden in Höhe eines Stresswürfels plus dem aktuellen Machtvorrat des Wesens. Dies ist der übliche Nahkampfangriff eines Phlegethus. Jedes brennbare Material fängt bei Kontakt Feuer; typischerweise fügt brennende Kleidung ihrem Träger +10 Schaden pro Runde zu, bis sie gelöscht wird. Jedes Metall, das länger als eine Runde mit dem Körper des Elementars in Kontakt kommt, erhitzt sich und verursacht die Wirkung von *Hitze der Sengenden Schmiede*, aber dies gilt nicht für Waffen, die im Kampf gegen ihn eingesetzt werden.
-
-Cr(Re)Ig 30 (Basis 5, +1 Berührung, +2 Sonne, +1 Requisit, +1 dauerhafter Effekt): Große Macht (30 Stufen, –3 Machtkosten, +1 Init)
-
-Manche Feuerelementare besitzen die folgenden Kräfte. Andere Kräfte ahmen typischerweise Ignem-Zauber nach, insbesondere Rego-Ignem-Zauber.
-
-**Faszination**
-
-3 Punkte, Init gleich (Sck + 4), Mentem R: Auge, D: Sonne, Z: Ind
-
-Die wirbelnden Farben in den Flammen des Elementars können alle betören, die ihn sehen. Jene, die einen Intelligenzwurf gegen einen Schwierigkeitsgrad von 9 nicht bestehen, starren den Elementar mit offenem Mund an und sind handlungsunfähig. Dieser Wurf darf einmal pro Runde wiederholt werden.
-
-ReMe 15 (Basis 4, +1 Auge, +2 Sonne): Große Macht (15 Stufen, –1 Machtkosten, +6 Init).
-
-**Hitze der Sengenden Schmiede**
-
-1 Punkt, Init gleich (Sck + 6), Ignem R: Stimme, D: Mom, Z: Ind
-
-Wie der gleichnamige Creo-Ignem-Zauber. Beachte, dass diese Kraft auf Distanz wirkt, während die Kraft *Brennen* nur Gegenstände betrifft, die den Elementar berühren.
-
-CrIg 10 (Basis 4, +2 Stimme): Große Macht (10 Stufen, –1 Machtkosten, +7 Init)
-
-
 
 # Anhang: Buch der Mundänen Bestien
 
@@ -8389,8 +8333,7 @@ Eigenschaften sind Merkmale des Tiers, die seine Fähigkeiten beeinflussen. Sieh
 
 ### Neue Tugenden für Tiere
 
-**Wildheit**
-
+Wildheit
 *Klein, nur Tiere*
 
 Wie ein Magus oder Gefährtencharakter hast du Selbstvertrauenspunkte. Im Gegensatz zu einem menschlichen Charakter darfst du deine Selbstvertrauenspunkte nur in Situationen einsetzen, in denen deine natürliche tierische Wildheit ausgelöst wird, etwa beim Verteidigen deines Baus oder im Kampf gegen einen natürlichen Feind. Beschreibe eine Situation, die deinen Selbstvertrauenswert aktiviert, und nimm drei Punkte, die du verwenden kannst, wenn diese Umstände eintreten.
@@ -8419,13 +8362,19 @@ Die folgenden Tiere können in jeder **Ars Magica 5th Edition**-Saga verwendet w
 
 **Eigenschaften:** Hinterhältiger Jäger, Abstoßendes Äußeres, Glitschig, Giftig
 
-**Persönlichkeitseigenschaften:** Feindselig +2 **Reputationen:** Giftig (lokal) 4
+**Persönlichkeitseigenschaften:** Feindlich +2 
+
+**Reputation:** Giftig 4 (lokal)
 
 **Kampf:**
 
 *Giftzähne:* Init +3, Ang +8, Vert +7\*, Sch –7; \* +6 auf Verteidigung gegen Ringangriffe **Absorption:** +2
 
-**Erschöpfungsstufen:** OK, –1, –3, –5, Bewusstlos **Wundabzüge:** –1 (1), –3 (2), –5 (3), Kampfunfähig (4), Tot (5+)
+**Absorption:** +2
+
+**Erschöpfungsstufen:** OK, –1, –3, –5, Bewusstlos 
+
+**Wundabzüge:** –1 (1), –3 (2), –5 (3), Kampfunfähig (4), Tot (5+)
 
 **Fertigkeiten:** Aufmerksamkeit 2 (Beute), Raufen 2 (Giftzähne), Jagen 4 (Nagetiere), Schleichen 4 (Beute anschleichen), Überleben 3 (Grasland)
 
@@ -8497,7 +8446,11 @@ Laut Plinius dem Älteren schläft der Bärenmann vierzig Tage im Winter und die
 
 **Eigenschaften:** Aggressiv, Zäh, Herdentier, Unermüdlich, Zähes Fell
 
-**Persönlichkeitseigenschaften:** Tapfer +4, Wütend +3 **Reputationen:** Übellaunig (lokal) 2 **Kampf:**
+**Persönlichkeitseigenschaften:** Tapfer +4, Zornig +3 
+
+**Reputation:** Jähzornig 2 (lokal) 
+
+**Kampf:**
 
 *Hauer:* Init +1, Ang +10, Vert +9, Sch +7
 
@@ -8533,7 +8486,9 @@ Wildschweine variieren stark in der Größe, von acht Stein (ca. 50 kg) bis übe
 
 **Eigenschaften:** Aggressiv, Gezähmt, Zähes Fell
 
-**Persönlichkeitseigenschaften:** Aggressiv +2 **Reputationen:** Stark 4 (lokal)
+**Persönlichkeitseigenschaften:** Aggressiv +2 
+
+**Reputation:** Stark 4 (lokal)
 
 **Kampf:**
 
@@ -8569,7 +8524,9 @@ In Spanien machen die maurischen Adligen an Festtagen ein Schauspiel daraus, Sti
 
 **Eigenschaften:** Hinterhältiger Jäger, Schlau, Guter Springer, Geschickter Kletterer, Dickes Fell
 
-**Persönlichkeitseigenschaften:** Neugierig +4, Furchtsam +2 **Reputationen:** Böse 2 (lokal) Diese Reputation ist in keltischen Gebieten am stärksten und in anderen Gegenden schwächer oder unbekannt.
+**Persönlichkeitseigenschaften:** Neugierig +4, Schüchtern +2 
+
+**Reputation:** Böse 2 (lokal) Diese Reputation ist in keltischen Gebieten am stärksten und in anderen Gegenden schwächer oder unbekannt.
 
 **Kampf:**
 
@@ -8579,7 +8536,9 @@ In Spanien machen die maurischen Adligen an Festtagen ein Schauspiel daraus, Sti
 
 **Absorption:** +1
 
-**Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos **Wundabzüge:** –1 (1–2), –3 (3–4), –5 (5–6), Kampfunfähig (7–8), Tot (9+)
+**Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos 
+
+**Wundabzüge:** –1 (1–2), –3 (3–4), –5 (5–6), Kampfunfähig (7–8), Tot (9+)
 
 **Fertigkeiten:** Athletik 3 (Springen), Aufmerksamkeit 4+2 (bei Nacht), Raufen 2 (Klauen), Jagen 4 (Mäuse), Schleichen 4 (Anschleichen)
 
@@ -8601,9 +8560,13 @@ Katzen fliehen im Allgemeinen vor jedem Gegner, der größer ist als sie selbst.
 
 **Selbstvertrauenswert:** 1 (3)
 
-**Tugenden und Fehler:** Wildheit (Sturzangriff), Scharfe Sicht, Gebrechliche Konstitution **Eigenschaften:** Gewandter Flieger, Schnellflieger, Scharfe Augen, Verfolgungsjäger, Zusätzliche Natürliche Waffen
+**Tugenden und Fehler:** Wildheit (Sturzflugangriff), Scharfe Sicht, Gebrechliche Konstitution 
 
-**Persönlichkeitseigenschaften:** Wild +3 **Reputationen:** Keine
+**Qualitäten:** Geschickter Flieger, Schneller Flieger, Scharfe Augen, Verfolgungsjäger, Zusätzliche Natürliche Waffen
+
+**Persönlichkeitseigenschaften:** Grimmig +3 
+
+**Reputation:** Keine
 
 **Kampf:**
 
@@ -8639,7 +8602,9 @@ Andere, kleinere Falkenarten haben Größe –4. Alle Falken sind schnelle Flieg
 
 **Eigenschaften:** Gezähmt, Schnellläufer, Guter Springer, Herdentier, Imponierendes Äußeres, Unermüdlich
 
-**Persönlichkeitseigenschaften:** Scheu +3, Tapfer –2 **Reputationen:** Keine
+**Persönlichkeitseigenschaften:** Schreckhaft +3, Tapfer –2 
+
+**Reputation:** Keine
 
 **Kampf:**
 
@@ -8673,9 +8638,13 @@ Jedes leichte Pferd — Renner, Streitross oder Zelter — erhält +3 auf Würfe
 
 **Tugenden und Fehler:** Wildheit (wenn im Kampf geritten), Verbesserte Eigenschaften, Ausdauernd, Stolz (Klein)
 
-**Eigenschaften:** Gezähmt, Schnellläufer, Herdentier, Imponierendes Äußeres, Unermüdlich **Persönlichkeitseigenschaften:** Loyal +2, Tapfer +1
+**Qualitäten:** Gezähmt, Schnellläufer, Herdentier, Imponierendes Äußeres, Unermüdlich 
 
-**Reputationen:** Aggressiv (lokal) 1 **Kampf:**
+**Persönlichkeitseigenschaften:** Treu +2, Tapfer +1
+
+**Reputation:** Aggressiv 1 (lokal) 
+
+**Kampf:**
 
 *Hufe:* Init +1, Ang +7, Vert +5, Sch +7
 
@@ -8715,6 +8684,8 @@ Wie alle Pferde ist das Schlachtross ein schneller Läufer und erhält einen Bon
 
 *Biss:* Init +2, Ang +8, Vert +7, Sch +1 **Absorption:** +2
 
+**Widerstand:** +2
+
 **Erschöpfungsstufen:** OK, 0/0, –1, –3, –5, Bewusstlos
 
 **Wundabzüge:** –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20), Tot (21+)
@@ -8743,7 +8714,9 @@ Ein Hundrudel kann als ausgebildete Gruppe unter der Führung eines menschlichen
 
 **Eigenschaften:** Aggressiv, Hinterhältiger Jäger, Schlau, Guter Springer, Zäh, Imponierendes Äußeres, Große Klauen, Große Zähne, Zähes Fell, Stimmgewaltig
 
-**Persönlichkeitseigenschaften:** Tapfer +5, Wild +5 **Reputationen:** Wild (lokal) 4
+**Persönlichkeitseigenschaften:** Tapfer +5, Grimmig +5 
+
+**Reputation:** Grimmig 4 (lokal)
 
 **Kampf:**
 
@@ -8819,7 +8792,9 @@ Der Rothirsch ist ein bevorzugtes Jagdwild. An manchen Orten darf ihn nur der Ad
 
 **Eigenschaften:** Aggressiv, Zäh, Scharfer Geruchssinn, Rudeltier/Rudelführer, Verfolgungsjäger, Spitze Ohren, Dickes Fell, Stimmgewaltig
 
-**Persönlichkeitseigenschaften:** Tapfer +3, Feige +3 **Reputationen:** Blutrünstig (lokal) 4
+**Persönlichkeitseigenschaften:** Tapfer +3, Feige +3 
+
+**Reputation:** Blutdürstig 4 (lokal)
 
 **Kampf:**
 
@@ -8844,5 +8819,3 @@ Wölfe werden vom einfachen Volk sehr gefürchtet. Man jagt sie mit großen Hund
 Die oben genannten Fehler spiegeln die mittelalterliche Wahrnehmung des Wolfs als mutwilligen, blutrünstigen Killer wider. Einzelne Wölfe, wie der Tierische Begleiter eines Spielercharakters, können anstelle des Zwangs einen anderen Persönlichkeitsfehler einsetzen. Ein Wolf als Tierischer Begleiter, der Vieh reißt, könnte Geschichten empfindlich stören. Unabhängig von der tatsächlichen Persönlichkeit eines solchen Wolfs werden Sterbliche ihn wahrscheinlich mit großer Furcht und Misstrauen behandeln.
 
 Der Anführer eines Wolfsrudels hat die zusätzliche Fertigkeit Führung 5 (Wölfe). Ein Rudel kann als ausgebildete Gruppe kämpfen, wenn sein Anführer anwesend ist. Ein Wolfsrudel ist außerordentlich gefährlich.
-
-

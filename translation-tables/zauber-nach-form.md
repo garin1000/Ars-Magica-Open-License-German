@@ -38,6 +38,8 @@
 | Growth Of The Creeping Things | Wachstum des Kleingetiers | MuAn15 | |
 | Doublet Of Impenetrable Silk | Wams aus undurchdringlicher Seide | MuAn15 | |
 | Weaver's Trap Of Webs | Weberfalle aus Spinnfäden | CrAn35 | |
+| Summoning the Creeping Death | Beschwörung des Kriechenden Todes | Cr(Re)An25 | HdH:S |
+| Fury of the Charging Bull | Raserei des Stürmenden Stiers | ReAn20 | HdH:S |
 
 ---
 
@@ -76,6 +78,9 @@
 | Enchantment Of The Scrying Pool | Verzauberung des Seherbeckens | InAq30 | |
 | Waves Of Drowning And Smashing | Wellen des Ertrinkens und Zerschmetterns | ReAq30 | |
 | Neptune's Wrath | Zorn des Neptun | ReAq40 | |
+| Dagger of Ice | Eisdolch | Cr(Re)Aq10 | HdH:S |
+| Alchemist's Revenge | Rache des Alchemisten | CrAq25 | HdH:S |
+| Shackles of the Frozen Ice | Fesseln des Gefrorenen Eises | ReAq10 | HdH:S |
 
 ---
 
@@ -115,6 +120,8 @@
 | Room Of Stale Air | Zimmer der abgestandenen Luft | PeAu15 | |
 | Wrath Of Whirling Winds And Water | Zorn der wirbelnden Winde und des Wassers | CrAu65 | |
 | Rain Of Oil | Ölregen | MuAu50 | |
+| Catapult of the Mighty Winds | Katapult der Mächtigen Winde | Cr(Re)Au30 | HdH:S |
+| Curse of the Evil Humors | Fluch der Bösen Säfte | MuAu25 | HdH:S |
 
 ---
 
@@ -176,6 +183,7 @@
 | Restoration Of The Defiled Body | Wiederherstellung des entweihten Körpers | CrCo25 | |
 | Bind Wound | Wunde verbinden | CrCo10 | |
 | Preternatural Growth And Shrinking | Übernatürliches Wachsen und Schrumpfen | MuCo15 | |
+| Wizard's Leap | Sprung des Zauberers | ReCo15 | HdH:S |
 
 ---
 
@@ -218,6 +226,8 @@
 | Thaumaturgical Transformation Of Plants To Iron | Thaumaturgische Verwandlung von Pflanzen in Eisen | MuHe20 | |
 | Transformation Of The Thorny Staff | Verwandlung des dornigen Stabs | MuHe10 | |
 | Wall Of Living Wood | Wand aus lebendem Holz | CrHe25 | |
+| Aegis of Unbreakable Wood | Aegis des Unzerbrechlichen Holzes | MuHe15 | HdH:S |
+| Tree Falling in the Forest | Des Waldes fallender Riese | Pe(Re)He35 | HdH:S |
 
 ---
 
@@ -259,6 +269,10 @@
 | Leap Of The Fire | Sprung des Feuers | ReIg10 | |
 | Words Of The Flickering Flame | Worte der flackernden Flamme | InIg35 | |
 | Tremulous Vault Of The Torch's Flame | Zitternder Schwung der Fackelflamme | ReIg5 | |
+| Test of the Flames | Prüfung der Flammen | CrIg15 | HdH:S |
+| Last Flight of the Phoenix | Letzter Flug des Phönix | CrIg50 | HdH:S |
+| Quench the Raging Conflagration | Lösche den Wütenden Brand | PeIg20 | HdH:S |
+| The Obedient Fire | Das Gehorsame Feuer | ReIg20 | HdH:S |
 
 ---
 
@@ -345,6 +359,7 @@
 | Perception Of The Conflicting Motives | Wahrnehmung der widerstreitenden Motive | InMe15 | |
 | Words Of The Unbroken Silence | Worte der ungebrochenen Stille | CrMe10 | |
 | Coerce The Spirits Of The Night | Zwang der Geister der Nacht | ReMe20 | |
+| Heart of the Lion | Herz des Löwen | CrMe15 | HdH:S |
 
 ---
 
@@ -393,6 +408,12 @@
 | Earth That Breaks No More | Unzerbrechliche Erde | MuTe20 | |
 | Obliteration Of The Metallic Barrier | Vernichtung der metallenen Schranke | PeTe20 | |
 | Seal The Earth | Versiegele die Erde | CrTe15 | |
+| Sword from the Unseen Scabbard | Schwert aus der Unsichtbaren Scheide | CrTe15 | HdH:S |
+| Silvery Scales of the Knight | Silberne Schuppen des Ritters | CrTe(An)30 | HdH:S |
+| Hardness of Adamantine | Härte des Adamant | MuTe25 | HdH:S |
+| Undoing the Stonemason's Handiwork | Des Maurers Werk zunichte | PeTe15 | HdH:S |
+| Hauberk of Sublime Lightness | Panzerhemd Erhabener Leichtigkeit | PeTe30 | HdH:S |
+| Ominous Levitation of the Weighty Stone | Bedrohliches Schweben des Gewichtigen Steins | ReTe15 | HdH:S |
 
 ---
 
