@@ -926,45 +926,49 @@ Jeder Wald besitzt eine Reihe weiterer Mächte, von denen einige Beispiele im Fo
 
 **Stillstand** (15 Punkte, Init 0, Vim): Ein bestimmter innerer Teil des Waldes kann so abgelegen und von der Außenwelt abgeschlossen sein, dass der Lauf der Zeit selbst verändert wird. Sterbliche, die hier leben, altern nicht (keine Alterungspunkte werden angesammelt), solange sie dort verbleiben. Jedoch verschwimmen ihre Wahrnehmung der vergangenen Jahre und Erinnerungen an ihr früheres Leben allmählich, und sie werden nach Jahrzehnten oder mehr im Wald Verzerrung erleiden. Dies könnte es Magi oder anderen legendären Persönlichkeiten aus vergangenen Jahrhunderten ermöglichen, verborgen tief in einem mächtigen Wald zu bestehen. Eine Voraussetzung für diese seltene Macht ist das Vorhandensein einer Regio mit einer Aura hoher Stufe. Eine etwas häufigere, geringere Variante ist die Tugend verleihen-Macht (Nicht alternd).
 
+**Tugend verleihen** (5 Punkte für eine kleine Tugend, 10 Punkte für eine große Tugend, Init 0, Vim): Der Geist kann denjenigen, die er begünstigt, eine bestimmte Tugend verleihen. Jeder Geist kann mehr als eine Macht dieser Art besitzen, wobei jede eine andere Tugend verleiht. In den meisten Fällen verblasst die Wirkung der Tugend, wenn der Besitzer zu lange von der Machtquelle des Geistes entfernt bleibt.
+
+**Wetter beherrschen** (10 Punkte, Init 0, Auram): Der Waldgeist kann das Wetter über seinem Gebiet in erheblichem Maße verändern, muss jedoch in gewissem Maß dem laufenden Quartal angemessen bleiben, da alle Wälder dem Wandel der Jahreszeiten unterworfen sind.
+
 >#### Die Bäume Deutschlands
 >
 >Jede der Baumarten, die in Deutschland gefunden werden kann, wurde von den alten Stämmen als von besonderer Bedeutung angesehen, oft mit einem bestimmten Gott verbunden. „Bei Eiche, Esche und Weißdorn" ist ein verbreiteter Schwur, der sich erhalten hat — diese drei waren die wichtigsten Bäume. Jede Holzart hat einen oder mehrere Form- und Materialboni (siehe **Ars Magica** 5. Edition, Seite 110), die den unten aufgeführten Eigenschaften entsprechen. Wird ein gesamter lebender Baum verzaubert, werden alle solchen Boni verdreifacht. (Es ist sehr selten, aber nicht unbekannt, dass ein hermetischer Magus einen lebenden Baum als magischen Gegenstand verzaubert.)
 >
->**Die Erle** ist ein alter Königsbaum. Da ihr Holz wasserbeständig ist, wurde es für Fundamente verwendet; ihre Rinde liefert einen königlichen roten Farbstoff. *+2 Königlichkeit, +1 Verfall widerstehen*
->
 >**Der Apfelbaum** ist berühmt für sein langes Leben und die regenerativen Eigenschaften von Äpfeln. Er ist auch der Baum der Menschheit. *+1 Langlebigkeit, +1 Corpus*
+>
+>**Die Birke** ist der erste Baum, der offene Flächen im Wald wieder besiedelt, und ist daher ein Symbol der Wiedergeburt. *+3 Geburt, +1 Creo*
+>
+>**Die Buche** ist ein Baum des Lernens, da Buchentafeln im Altertum als Schreibtafeln verwendet wurden. *+3 Wissen*
+>
+>**Die Eberesche** ist wie die Esche ein magischer Baum, aber die Eberesche wird mit der wohlwollenden Seite der Kunst assoziiert, besonders dem Schutz vor bösartigen Zaubersprüchen. *+4 Schutz vor bösartiger Magie, +1 Vim*
+>
+>**Die Eibe** ist mit ihrer Verbindung zu Friedhöfen der Baum der Toten. Ihre Beeren wurden von den Alten gegessen, um mystische Visionen zu empfangen. *+2 Leichen, +2 Visionen*
+>
+>**Die Eiche** ist der Sommerkönig im Gegensatz zur Stechpalme. Sie wird auch mit den heidnischen Donnergöttern wie Donar und Jupiter in Verbindung gebracht. *+7 Schutz vor Stürmen*
+>
+>**Die Erle** ist ein alter Königsbaum. Da ihr Holz wasserbeständig ist, wurde es für Fundamente verwendet; ihre Rinde liefert einen königlichen roten Farbstoff. *+2 Königlichkeit, +1 Verfall widerstehen*
 >
 >**Die Esche** wird traditionell zur Herstellung von Speeren und Pfeilschäften verwendet. Sie war dem Kriegsgott Wotan heilig und mit Tod und Bösen verbunden. *+2 Menschen schaden*
 >
 >**Die Espe** ist ein Heilungsbaum, besonders gegen Fieber, aber Espenstäbe werden auch zum Ausmessen einer Leiche vor der Fertigung des Sargs verwendet. *+5 Fieber heilen, +2 Krankheit heilen*
 >
->**Die Buche** ist ein Baum des Lernens, da Buchentafeln im Altertum als Schreibtafeln verwendet wurden. *+3 Wissen*
->
->**Die Birke** ist der erste Baum, der offene Flächen im Wald wieder besiedelt, und ist daher ein Symbol der Wiedergeburt. *+3 Geburt, +1 Creo*
+>**Die Hasel** wird mit Wahrsagung, Weisheit und Urteilsvermögen verbunden. *+3 Wahrsagung, +1 gutes Urteil*
 >
 >**Der Holunder** wird seit langem mit Magie und Hexerei in Verbindung gebracht. *+4 bösartige Magie, +1 Vim*
 >
->**Die Ulme** ist ebenfalls ein Todesbaum und wird seit langem zur Herstellung von Särgen verwendet. *+2 Tod und Verfall*
->
->**Die Tanne** wird mit Dunkelheit und bösen Geistern assoziiert. *+3 Dunkelheit, +1 bösartige Feen*
->
->**Der Weißdorn** mit seinen Dornen ist ein Baum des Schutzes und der Abwehr. *+3 Schutzwälle*
->
->**Die Hasel** wird mit Wahrsagung, Weisheit und Urteilsvermögen verbunden. *+3 Wahrsagung, +1 gutes Urteil*
->
->**Die Stechpalme** ist der Winterkönig, Herrscher der dunklen Jahreshälfte. Ihre stacheligen Blätter gelten als schlechtes Omen, besonders im Hinblick auf das Verursachen von Wunden. *+2 Wunden zufügen, +2 Schmerzen zufügen*
+>**Die Kiefer** ist das Gegenteil ihrer Schwester, der Tanne, und wird wegen der weißlichen Farbe ihrer Rinde mit Licht und Erleuchtung verbunden. *+3 Licht, +1 freundliche Feen*
 >
 >**Die Linde** wurde von den Slawen als erhabener Baum angesehen, der mit Lada, ihrer Göttin der Liebe, verbunden war. Die Deutschen glauben, dass die Linde, die nie vom Blitz getroffen wird, ein Glücksbaum ist, und errichten Wegschreine unter ihr. Sie wird auch oft in Städten gepflanzt, um deren Schutz zu gewähren, und ihr Holz wird zur Herstellung von Schilden verwendet. *+2 Schutz vor Waffen, +1 gutes Glück*
 >
->**Die Eiche** ist der Sommerkönig im Gegensatz zur Stechpalme. Sie wird auch mit den heidnischen Donnergöttern wie Donar und Jupiter in Verbindung gebracht. *+7 Schutz vor Stürmen*
+>**Die Stechpalme** ist der Winterkönig, Herrscher der dunklen Jahreshälfte. Ihre stacheligen Blätter gelten als schlechtes Omen, besonders im Hinblick auf das Verursachen von Wunden. *+2 Wunden zufügen, +2 Schmerzen zufügen*
 >
->**Die Kiefer** ist das Gegenteil ihrer Schwester, der Tanne, und wird wegen der weißlichen Farbe ihrer Rinde mit Licht und Erleuchtung verbunden. *+3 Licht, +1 freundliche Feen*
+>**Die Tanne** wird mit Dunkelheit und bösen Geistern assoziiert. *+3 Dunkelheit, +1 bösartige Feen*
 >
->**Die Eberesche** ist wie die Esche ein magischer Baum, aber die Eberesche wird mit der wohlwollenden Seite der Kunst assoziiert, besonders dem Schutz vor bösartigen Zaubersprüchen. *+4 Schutz vor bösartiger Magie, +1 Vim*
+>**Die Ulme** ist ebenfalls ein Todesbaum und wird seit langem zur Herstellung von Särgen verwendet. *+2 Tod und Verfall*
 >
 >**Die Weide** ist mit ihrer Fähigkeit, aus dem kleinsten Zweig wieder zu wachsen, ein kraftvolles Symbol der Heilung und Verjüngung. *+4 Gliedmaßen wiederherstellen, +1 Wunden heilen*
 >
->**Die Eibe** ist mit ihrer Verbindung zu Friedhöfen der Baum der Toten. Ihre Beeren wurden von den Alten gegessen, um mystische Visionen zu empfangen. *+2 Leichen, +2 Visionen*
+>**Der Weißdorn** mit seinen Dornen ist ein Baum des Schutzes und der Abwehr. *+3 Schutzwälle*
 >
 >Konventionelle Werte sind für Waldgeister nicht relevant; stattdessen erhalten sie einen Machtwert, Persönlichkeitseigenschaften und nur eine Liste besonderer Mächte. Normalerweise ist es unmöglich, diese Geister auf konventionelle Weise zu bekämpfen, da sie sich im gesamten Wald manifestieren — in seinen Pflanzen, seinen Tieren, sogar in den Felsen und dem Boden und dem Wasser, das hindurchfließt. In diesem Kapitel werden vier Beispielgeister vorgestellt, die eng miteinander verbunden sind; die folgenden Kapitel enthalten viele Beispiele von Waldgeistern, die an bestimmte Orte gebunden sind. Es mag viele weitere solcher *Genii Loci* geben, sowohl mächtige als auch schwache, in den anderen Wäldern des Rheintribunals und noch weiter entfernt.
 
@@ -985,10 +989,6 @@ Jeder Wald besitzt eine Reihe weiterer Mächte, von denen einige Beispiele im Fo
 >September: Die Weidenmaid (Machtvorrat 50) zwingt den Erlenprinzen (Machtvorrat 20) in eine Ehe und ertränkt ihn dann in ihrem Waldfluss. Sein Geist wird im Erlenwald wiedergeboren. Die Kämpfe zwischen König Stechpalme und König Eiche sind unentschieden (beide haben Machtvorrat 35). Feenauren: Stechpalmenwald 1, Erlenwald 0, Eichenwald 1, Weidenwald 3.
 >
 >Oktober: König Eiche (Machtvorrat 30) muss seine Ressourcen gefährlich überdehnen, um seiner Niederlage durch seinen Gegner (Machtvorrat 40) zu entgehen.
-
-**Tugend verleihen** (5 Punkte für eine kleine Tugend, 10 Punkte für eine große Tugend, Init 0, Vim): Der Geist kann denjenigen, die er begünstigt, eine bestimmte Tugend verleihen. Jeder Geist kann mehr als eine Macht dieser Art besitzen, wobei jede eine andere Tugend verleiht. In den meisten Fällen verblasst die Wirkung der Tugend, wenn der Besitzer zu lange von der Machtquelle des Geistes entfernt bleibt.
-
-**Wetter beherrschen** (10 Punkte, Init 0, Auram): Der Waldgeist kann das Wetter über seinem Gebiet in erheblichem Maße verändern, muss jedoch in gewissem Maß dem laufenden Quartal angemessen bleiben, da alle Wälder dem Wandel der Jahreszeiten unterworfen sind.
 
 ### Die Höfe der Jahreszeiten
 
@@ -1663,14 +1663,14 @@ Persönlichkeitseigenschaften: Zurückgezogen +3, Künstlerisch +2, Intensiv +1
 
 Ricardus lebt etwas abseits der anderen Magi Durenmars – sein Sanctum am südlichen Rand des Konvents ist ein großes Gebäude, dessen Wände größtenteils aus Glas gebaut sind. Angesichts der Kosten und der kleinen Größe von Fenstern des 13. Jahrhunderts ist es ein bemerkenswertes und einzigartiges Bauwerk, bestehend aus Tausenden von zarten, bleigerahmten Scheiben, die von Holzbalken getragen werden. Dies ist ein Labor, das hochgradig auf Herbam spezialisiert ist und allerlei sonderbare und exotische Pflanzen beherbergt, aus denen Ricardus es geschafft hat, mehrere verschiedene Vis-Arten in einer Methode zu kultivieren, die der Vis-Gewinnung ähnelt. Obwohl seine Arbeit von Bedeutung zu sein scheint, werden seine Bemühungen, seine Entdeckungen mitzuteilen, als mangelhaft wahrgenommen – oder zumindest kann niemand ein Wort von dem verstehen, was er sagt, trotz seiner ernsthaften und freundlichen Art. Von Murion und ihren Anhängern kaum besser als ein Heckenzauberer angesehen, wird seine fortgesetzte Anwesenheit in Durenmar nur wegen seiner äußersten Nützlichkeit bei der Vis-Ernte und seiner regelmäßigen Beiträge zu den Konventsvorräten geduldet.
 
-**TANDALINE, GEFOLGSMÄNNIN DES BONISAGUS**
+**TANDALINE, GEFOLGSFRAU DES BONISAGUS**
 
 Alter: 78 (Meisterin)<br>
 Persönlichkeitseigenschaften: Undurchdringlich +3, Blasiert +1, Mitfühlend +1
 
 Tandaline, eine blasse und schlanke Frau, deren Augen auf hypnotische Weise beständig die Farbe zu wechseln scheinen, gilt seit mehreren Jahrzehnten als Meisterin sowohl in Muto als auch in Auram; sie sucht nach weiterer Erkenntnis in ihrer bevorzugten Form durch den bemerkenswerten Prozess, sich selbst vorübergehend in Dampf zu verwandeln. Sie entstammt jedoch der politisch orientierten Abstammungslinie der Trianoma. Sie ist die engste Vertraute der Murion, die sie zur Tenens Occultorum ernannt hat (vgl. *Häuser des Hermes: Wahre Abstammungslinien*), und deren politische Neigungen größtenteils mit ihren eigenen übereinstimmen, obwohl sie als freie Denkerin und hoch angesehene Maga in eigenem Recht gilt. Im Rahmen ihrer Pflichten nimmt Tandaline es auf sich, mit vielen Magi ihres Hauses schriftlich in Kontakt zu bleiben, und sie setzt ihre beträchtlichen politischen Verbindungen ein, um großen Ärger für jeden zu verursachen, von dem berichtet wird, dass er einen Bonisagus-Magus misshandelt.
 
-**WINFRIDA, GEFOLGSMÄNNIN DES GUERNICUS**
+**WINFRIDA, GEFOLGSFRAU DES GUERNICUS**
 
 Alter: 27 (Gesellin)<br>
 Persönlichkeitseigenschaften: Sehnsucht nach einem besseren Leben +2, Selbstbewusst –1, Bestimmt –2
@@ -1838,7 +1838,7 @@ Obwohl sie Quaesitorin ist, ist Winfrida jung, unerfahren und ein wenig ängstli
 
 #### WEITERE MAGI
 
-Es gibt drei weitere Bonisagus-Magi in Durenmar sowie drei Magi des Meisterranges aus anderen Häusern. Einer dieser Magi ist Gudrun Tigurina, Gefolgsmännin des Verditius, die den Titel der Kunsthandwerkerin inne hat. Ein anderer ist Xavier von Haus Mercere, das einzige Begabte Mitglied seines Hauses im Tribunal und dessen Archivar, der in Durenmar wohnt, da es eines der beiden offiziellen Mercere-Häuser im Rheintribunal ist. Horst von Fengheld (vgl. Kapitel 8: Mitteldeutschland, Fengheld) ist jedoch der Anführer der Rotkappen des Tribunals im anderen Mercere-Haus, was Xavier gut passt. Durenmar kann auch bis zu sechs Peregrinatoren beherbergen und stellt stets sicher, dass mindestens ein Vertreter jeder Gilde ansässig ist. Es gibt eine lange Warteliste für einen Gastaufenthalt in Durenmar, und Magi sind oft bereit, absurde Abkommen mit dem Konvent einzugehen, um uneingeschränkten Zugang zur Großen Bibliothek zu erhalten. Von solchen Gastmagi wird in der Regel erwartet, dass sie während ihres Aufenthalts einem rheinischen Lehrling die Gildenausbildung erteilen, was zwei Jahreszeiten in Anspruch nimmt. Die Bonisagus-Magi, Mitglieder und Gäste gleichermaßen, teilen die Arbeitslast einer weiteren Jahreszeit Ausbildung für alle rheinischen Lehrlinge.
+Es gibt drei weitere Bonisagus-Magi in Durenmar sowie drei Magi des Meisterranges aus anderen Häusern. Einer dieser Magi ist Gudrun Tigurina, Gefolgsfrau des Verditius, die den Titel der Kunsthandwerkerin inne hat. Ein anderer ist Xavier von Haus Mercere, das einzige Begabte Mitglied seines Hauses im Tribunal und dessen Archivar, der in Durenmar wohnt, da es eines der beiden offiziellen Mercere-Häuser im Rheintribunal ist. Horst von Fengheld (vgl. Kapitel 8: Mitteldeutschland, Fengheld) ist jedoch der Anführer der Rotkappen des Tribunals im anderen Mercere-Haus, was Xavier gut passt. Durenmar kann auch bis zu sechs Peregrinatoren beherbergen und stellt stets sicher, dass mindestens ein Vertreter jeder Gilde ansässig ist. Es gibt eine lange Warteliste für einen Gastaufenthalt in Durenmar, und Magi sind oft bereit, absurde Abkommen mit dem Konvent einzugehen, um uneingeschränkten Zugang zur Großen Bibliothek zu erhalten. Von solchen Gastmagi wird in der Regel erwartet, dass sie während ihres Aufenthalts einem rheinischen Lehrling die Gildenausbildung erteilen, was zwei Jahreszeiten in Anspruch nimmt. Die Bonisagus-Magi, Mitglieder und Gäste gleichermaßen, teilen die Arbeitslast einer weiteren Jahreszeit Ausbildung für alle rheinischen Lehrlinge.
 
 ### Konventsbewohner
 
@@ -1875,6 +1875,20 @@ Dankmar hat enge, vorsichtige Kontakte zu den dunklen Feenwesen des Schwarzwalde
 
 ### Magi
 
+**SCHADRIT, MAGA EX MISCELLANEA**
+
+Alter: etwa 160 (Meisterin)<br>
+Persönlichkeitseigenschaften: Bösartig +5, Rachsüchtig +4, Kaltherzig +3
+
+Schadrit ist eine ehemalige Schülerin des Hauses Bonisagus und ehemalige Bewohnerin Durenmars. Als Aschlaranda von Bonisagus in Durenmar wieder auftauchte (vgl. Kapitel 3: Tribunalsgeschichte und Gepflogenheiten, Der Schismakrieg), brachte sie Schadrit mit, und diese schloss ihre Ausbildung in Durenmar ab. Als Aschlaranda aus dem Haus Bonisagus ausgestoßen wurde, war Schadrit nur noch ein Jahr von ihrer Lehrlingsprüfung entfernt, musste aber dasselbe Schicksal wie ihre Meisterin erleiden. Gemeinsam gründeten sie einen Konvent und nannten ihn Dankmar in Anlehnung an den Geburtsort des Ordens. Schadrit ist wahrhaft uralt und nur noch wenige Jahrzehnte von der Vollendung ihres zweiten Jahrhunderts entfernt. Ihr Langlebigkeitstrank hat ihr Aussehen nicht so gut erhalten wie ihr Alter, und sie ist eine ausgemergelte Vettel, die sich in einem bauschigen schwarzen Gewand mit tiefer Kapuze hüllt. Ihr Gesicht ist so tief von Falten durchfurcht, dass ihre Züge kaum erkennbar sind, außer ihrer langen, leberfleckenübersäten Nase. Schadrit hat eine Expertise in Feenmagie entwickelt und ist vielleicht die einzige Praktikerin außerhalb des Hauses Merinita. Sie ist bösartig bis zur reinen Boshaftigkeit und regiert Dankmar mit eiserner Hand.
+
+**ORPHEDRA, GEFOLGSFRAU DER MERINITA**
+
+Alter: 139 (Meisterin)<br>
+Persönlichkeitseigenschaften: Grausam +3, Furchterregend +3, Optimistisch –2
+
+Orphedra ist die Verbindung des Konvents zu den Feenwesen ihres Heimwaldes. Sie wurde vor zehn Jahrzehnten in Irencillia ausgebildet, fand jedoch jenen Konvent eher erdrückend als belebend, da sie die Dunkelheit des urwüchsigen Waldes vorzieht. Orphedra ist dünn wie ein Stock und trägt ihr Haar in einem straffen Knoten, was ihre kantigen Züge und unnatürlich glatte Haut betont. Orphedra ist die am meisten verachtete der Magi bei den Konventsbewohnern; sie sehen Schadrit selten und verehren Jiphella, aber Orphedra hat eine Ausstrahlung, bei der einem die Haut kriecht. Von Natur aus in Feenmagie aufgehend (sie war es, die Schadrit unterrichtete), neigt sie zu den dunklen Feenwesen und spezialisiert sich auf Illusionen, Kälte, Dunkelheit und Furcht. Sie hat einen Pakt mit den örtlichen Bockmännern (siehe oben) geschlossen, die das Gebiet um den Konvent herum patrouillieren.
+
 **JIPHELLA, MAGA EX MISCELLANEA**
 
 Alter: 73 (Meisterin)<br>
@@ -1893,20 +1907,6 @@ und hübsch, besonders im Vergleich zum Rest ihres Konvents. Sie ist die Tochter
 >Das Benediktinerkloster St. Georgen, 1084 als kleine Tochterkirche von Hirsau gegründet, hatte eine sehr leidvolle Geschichte. Andere Klöster im Schwarzwald, die in das Herrschaftsgebiet des Königs des Schwarzen Berges eindrangen, sahen sich unheimlichen Angriffen und unerklärlichen Unfällen ausgesetzt – dem Verschwinden von Mönchen, dem Verderben von Ernten, sogar Erdrutschen und Erdbeben – aber keines war so sehr von der Wildnis selbst belagert wie St. Georgen. Als das tiefste Eindringen des Dominiums in den Wald stellt es die größte Bedrohung für seine uralte Macht dar. St. Georgen war – oder war vielmehr – nur ein bescheidener Ort, bewohnt von bescheidenen Mönchen, dennoch trug der Klang seiner Kirchenglocke bis zum spirituellen Herzen des Waldes bei den Sieben Wasserfällen. So scheint der Wald selbst mit Gewalt gegen das Kloster zurückgeschlagen zu haben. Angesichts dieser übernatürlichen Angriffe wurde es mehr als einmal verlassen, doch die Mönche kehrten stets zurück.
 >
 >Die jüngste und scheinbar letzte Episode in der Geschichte von St. Georgen ereignete sich 1208. Reisende fanden die Gebäude und Felder in Trümmern vor, massiv von seltsamen dunklen Ranken überwuchert; die verrenkten und missgestalteten Leichen der toten Mönche hingen und steckten darin fest, mit Ausdrücken des Entsetzens auf den Gesichtern. Als sich die Nachricht von diesem unheimlichen Ereignis im Orden des Hermes verbreitete, vermuteten viele, dass die Magi von Dankmar darin verwickelt seien. Die Frage wurde beim jüngsten Tribunal von 1214 angesprochen, aber Jiphella, die einzige Vertreterin Dankmars bei der Zusammenkunft, wies jede Beteiligung zurück. Streng genommen wäre die Zerstörung des Klosters in Übereinstimmung mit dem Urteil der „Hüter der Wälder" gewesen (vgl. Kapitel 3: Tribunalsgeschichte und Gepflogenheiten, Geschichte), obwohl das Tribunal eine solch drastische Lösung nie offen gutheißen würde. Da es keine sterblichen Zeugen gab, war der Kodex des Hermes nicht gebrochen worden, und das Tribunal ordnete aufgrund der Ergebnisse einer knappen Abstimmung keine Untersuchung der Angelegenheit an.
-
-**ORPHEDRA, GEFOLGSMÄNNIN DER MERINITA**
-
-Alter: 139 (Meisterin)<br>
-Persönlichkeitseigenschaften: Grausam +3, Furchterregend +3, Optimistisch –2
-
-Orphedra ist die Verbindung des Konvents zu den Feenwesen ihres Heimwaldes. Sie wurde vor zehn Jahrzehnten in Irencillia ausgebildet, fand jedoch jenen Konvent eher erdrückend als belebend, da sie die Dunkelheit des urwüchsigen Waldes vorzieht. Orphedra ist dünn wie ein Stock und trägt ihr Haar in einem straffen Knoten, was ihre kantigen Züge und unnatürlich glatte Haut betont. Orphedra ist die am meisten verachtete der Magi bei den Konventsbewohnern; sie sehen Schadrit selten und verehren Jiphella, aber Orphedra hat eine Ausstrahlung, bei der einem die Haut kriecht. Von Natur aus in Feenmagie aufgehend (sie war es, die Schadrit unterrichtete), neigt sie zu den dunklen Feenwesen und spezialisiert sich auf Illusionen, Kälte, Dunkelheit und Furcht. Sie hat einen Pakt mit den örtlichen Bockmännern (siehe oben) geschlossen, die das Gebiet um den Konvent herum patrouillieren.
-
-**SCHADRIT, MAGA EX MISCELLANEA**
-
-Alter: etwa 160 (Meisterin)<br>
-Persönlichkeitseigenschaften: Bösartig +5, Rachsüchtig +4, Kaltherzig +3
-
-Schadrit ist eine ehemalige Schülerin des Hauses Bonisagus und ehemalige Bewohnerin Durenmars. Als Aschlaranda von Bonisagus in Durenmar wieder auftauchte (vgl. Kapitel 3: Tribunalsgeschichte und Gepflogenheiten, Der Schismakrieg), brachte sie Schadrit mit, und diese schloss ihre Ausbildung in Durenmar ab. Als Aschlaranda aus dem Haus Bonisagus ausgestoßen wurde, war Schadrit nur noch ein Jahr von ihrer Lehrlingsprüfung entfernt, musste aber dasselbe Schicksal wie ihre Meisterin erleiden. Gemeinsam gründeten sie einen Konvent und nannten ihn Dankmar in Anlehnung an den Geburtsort des Ordens. Schadrit ist wahrhaft uralt und nur noch wenige Jahrzehnte von der Vollendung ihres zweiten Jahrhunderts entfernt. Ihr Langlebigkeitstrank hat ihr Aussehen nicht so gut erhalten wie ihr Alter, und sie ist eine ausgemergelte Vettel, die sich in einem bauschigen schwarzen Gewand mit tiefer Kapuze hüllt. Ihr Gesicht ist so tief von Falten durchfurcht, dass ihre Züge kaum erkennbar sind, außer ihrer langen, leberfleckenübersäten Nase. Schadrit hat eine Expertise in Feenmagie entwickelt und ist vielleicht die einzige Praktikerin außerhalb des Hauses Merinita. Sie ist bösartig bis zur reinen Boshaftigkeit und regiert Dankmar mit eiserner Hand.
 
 ### Konventsbewohner
 
@@ -3286,7 +3286,7 @@ Der Konvent besteht aus zwei baulichen Anlagen, beide im selben Tal am Rand der 
 >#### Abenteueridee: Das Geheimnis ist gelüftet
 >Es erscheint erstaunlich, dass dieser Konvent so lange bestehen konnte, während eine Hälfte seiner Mitglieder völlig unwissend über das jährliche Menschenopfer der anderen Hälfte war. Offensichtlich ist hier irgendein übernatürlicher Einfluss am Werk, der verhindert, dass Geheimnisse ausgeplaudert werden. Sollten Severicus und seine Filii je herausfinden, was jedes Jahr auf dem Berg vor sich geht, wären sie entsetzt und bestürzt. Sie könnten Anklagen wegen Diabolismus erheben, versuchen, die heidnischen Magi vorbeugend zu verfolgen, oder, falls alles scheitert, ihnen den Krieg der Zauberer erklären. Dies könnte sowohl im Rhein- als auch im Transsilvanischen Tribunal Folgen haben.
 >
->Alternativ wissen die Tremere tatsächlich, was vor sich geht, entscheiden sich aber, es zu ignorieren. Angesichts der Haltung des Hauses Tremere gegenüber Religion im Allgemeinen und Menschenopfern im Besonderen (siehe *Houses of Hermes: True Lineages*) ist dies höchst ungewöhnlich — was darauf hindeutet, dass die Tremere in diesem Fall einen sehr guten Grund haben zu schweigen.
+>Alternativ wissen die Tremere tatsächlich, was vor sich geht, entscheiden sich aber, es zu ignorieren. Angesichts der Haltung des Hauses Tremere gegenüber Religion im Allgemeinen und Menschenopfern im Besonderen (siehe *Häuser des Hermes: Wahre Linien*) ist dies höchst ungewöhnlich — was darauf hindeutet, dass die Tremere in diesem Fall einen sehr guten Grund haben zu schweigen.
 
 ### Berg Radhost
 

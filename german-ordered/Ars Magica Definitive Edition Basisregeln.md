@@ -80,6 +80,8 @@ Markdown-Version unter Open License von OriginalMadman, https://github.com/Origi
 
 
 
+
+
 ---
 
 ## Tritt ein in eine mittelalterliche Welt der Magie und des Mythos
@@ -288,16 +290,16 @@ Dezember 2024
 | BOOK OF HOURS, SIMON BENING                       | 182, 495                                                                                                   |
 | CLOISTERS APOCALYPSE                              | 55, 56, 76, 121, 125, 157, 163, 173, 218, 220, 273, 292, 393, 475, 515, 523, 535                          |
 | Dante's Commedia                                  | 535                                                                                                        |
-| DER NATUREN BLOEME, JACOB VAN MAERLANT            | 553, 555, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568                                           |
 | Dover Celtic Design Archive                       | 34, 65, 66, 171, 173, 176, 184, 191, 208, 241, 257, 276, 345, 359, 389, 397, 441, 451, 484, 495, 511, 514 |
 | Jean Fouquet                                      | 409                                                                                                        |
 | MASTER OF CATHERINE OF CLEVES, LIEVEN VAN LATHEM  | 426                                                                                                        |
-| THE METROPOLITAN MUSEUM OF ART OPEN ACCESS        | 501                                                                                                        |
 | More Beasts                                       | 256, 556, 557                                                                                              |
+| DER NATUREN BLOEME, JACOB VAN MAERLANT            | 553, 555, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568                                           |
 | New York Public Library Digital Collections       | 3, 25, 61, 534                                                                                             |
+| THE METROPOLITAN MUSEUM OF ART OPEN ACCESS        | 501                                                                                                        |
 | THE UNICORN TAPESTRIES                            | 425, 526, 568                                                                                              |
-| Wikimedia Commons                                 | 96, 119, 252, 308, 392, 463, 505                                                                           |
 | Verschiedene Quellen                              | 135, 159, 186, 257, 298, 316, 324, 361, 398                                                               |
+| Wikimedia Commons                                 | 96, 119, 252, 308, 392, 463, 505                                                                           |
 
 ## Inhaltsverzeichnis
 
@@ -634,7 +636,7 @@ Seit dem Schismakrieg befindet sich der Orden in einem Zustand relativen Frieden
 
 Der Orden des Hermes ist in zwölf Häuser unterteilt, von denen alle außer Ex Miscellanea in gewisser Weise von einem der Zwölf Gründer abstammen. Dieser Abschnitt gibt einen kurzen Überblick über die Häuser, doch es ist wichtig, sich zu vergegenwärtigen, dass Individuen innerhalb eines Hauses sehr unterschiedlich sein können.
 
-Die zwölf Häuser gliedern sich in drei Gruppen. Vier davon (Bonisagus, Guernicus, Mercere und Tremere) sind wahre Abstammungslinien, zusammengesetzt aus jenen, die von jemandem ausgebildet wurden, der von jemandem ausgebildet wurde (und so weiter), der vom Gründer des Hauses ausgebildet wurde. Diesen Häusern kann man nicht nachträglich beitreten. Diese Häuser werden im Ergänzungsband *Houses of Hermes: True Lineages* beschrieben. Vier weitere (Bjornaer, Criamon, Merinita und Verditius) sind Mysterienkulte; Magi können diesen Häusern durch Einweihung in den Kult beitreten. Solche Einweihungen lehren das Äußere Mysterium des Kultes, die einzige Kultfertigkeit, die nicht weitgehend geheim gehalten wird. Ihre geheimen Mysterien und viel mehr Einzelheiten über die Häuser sind in *Houses of Hermes: Mystery Cults* dargelegt. Die letzten vier (Ex Miscellanea, Flambeau, Jerbiton und Tytalus) sind Zusammenschlüsse von Magi mit gemeinsamen Interessen. Es ist verhältnismäßig leicht, diesen Häusern nach der Ausbildung beizutreten, und Magi, die das Gefühl haben, in ihrem alten Haus nicht hineinzupassen, tun dies oft. Ex Miscellanea insbesondere nimmt jeden auf, der die Gabe besitzt, ein wenig Latein und Magietheorie beherrscht und eine Parma Magica errichten kann – und viele Mitglieder werden dem Nachwuchs die letzten drei beibringen. Die Interessen und Aktivitäten dieser Häuser werden in *Houses of Hermes: Societates* behandelt.
+Die zwölf Häuser gliedern sich in drei Gruppen. Vier davon (Bonisagus, Guernicus, Mercere und Tremere) sind wahre Abstammungslinien, zusammengesetzt aus jenen, die von jemandem ausgebildet wurden, der von jemandem ausgebildet wurde (und so weiter), der vom Gründer des Hauses ausgebildet wurde. Diesen Häusern kann man nicht nachträglich beitreten. Diese Häuser werden im Ergänzungsband *Häuser des Hermes: Wahre Linien* beschrieben. Vier weitere (Bjornaer, Criamon, Merinita und Verditius) sind Mysterienkulte; Magi können diesen Häusern durch Einweihung in den Kult beitreten. Solche Einweihungen lehren das Äußere Mysterium des Kultes, die einzige Kultfertigkeit, die nicht weitgehend geheim gehalten wird. Ihre geheimen Mysterien und viel mehr Einzelheiten über die Häuser sind in *Häuser des Hermes: Mysterienkulte* dargelegt. Die letzten vier (Ex Miscellanea, Flambeau, Jerbiton und Tytalus) sind Zusammenschlüsse von Magi mit gemeinsamen Interessen. Es ist verhältnismäßig leicht, diesen Häusern nach der Ausbildung beizutreten, und Magi, die das Gefühl haben, in ihrem alten Haus nicht hineinzupassen, tun dies oft. Ex Miscellanea insbesondere nimmt jeden auf, der die Gabe besitzt, ein wenig Latein und Magietheorie beherrscht und eine Parma Magica errichten kann – und viele Mitglieder werden dem Nachwuchs die letzten drei beibringen. Die Interessen und Aktivitäten dieser Häuser werden in *Häuser des Hermes: Gemeinschaften* behandelt.
 
 Es ist nur möglich, gleichzeitig Mitglied eines einzigen Hauses zu sein.
 
@@ -646,7 +648,7 @@ Aufgrund ihrer Natur sind Bjornaer-Magi nicht in der Lage, die notwendigen Bindu
 
 Das Haus ist in sechs Clans unterteilt. Clan Arelie kümmert sich um die Bewahrung der Vergangenheit, Clan Ilfetu ist für die Einweihung von Hausmitgliedern zuständig, Clan Maruhs strebt nach Selbsterkenntnis, Clan Midusulf führt, Clan Sirnas schützt, und Clan Wilkis hegt Magi und stärkt das Haus. Philosophisch ist das Haus gespalten zwischen den Harmonisten, die möchten, dass Menschen und Natur in Einklang miteinander leben, und den Wildisten, die die Menschen zurück in die Städte drängen und die Wildnis wieder zu ihrer Vorherrschaft zurückführen wollen. Die Wildisten-Philosophie war die ursprüngliche Philosophie des Hauses, während der erste Harmonist Hérisson war, ein Magus des zehnten Jahrhunderts, dessen Ideen erst nach dem Schismakrieg populär wurden.
 
-Die Prima des Hauses ist Falke, und seine Domus Magna ist Crintera im Rheintribunal, beschrieben in [*Guardians of the Forests*, Seite 92](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#crintera>). Der frühere Primus, Erzmagus Urgen, ist der Anführer des Clans Midusulf und im Haus nach wie vor bedeutsam; er sitzt in seinem Rat und wohnt in Crintera.
+Die Prima des Hauses ist Falke, und seine Domus Magna ist Crintera im Rheintribunal, beschrieben in [*Wächter des Waldes*, Seite 92](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#crintera>). Der frühere Primus, Erzmagus Urgen, ist der Anführer des Clans Midusulf und im Haus nach wie vor bedeutsam; er sitzt in seinem Rat und wohnt in Crintera.
 
 Dieses Haus ist ein Mysterienkult, und die Fähigkeit, die Gestalt des Herztieres anzunehmen, ist das Äußere Mysterium (siehe [Seite 233](#bjornaer--das-herztier)).
 
@@ -654,7 +656,7 @@ Dieses Haus ist ein Mysterienkult, und die Fähigkeit, die Gestalt des Herztiere
 
 Haus Bonisagus ist in zwei Strömungen geteilt: die politische und die theoretische. Theoretische Bonisagus-Magi konzentrieren sich darauf, die Grenzen der hermetischen Magie zurückzudrängen, und sind die unbestrittenen Meister der Magietheorie. Politische Bonisagus-Magi, oft „Magi Trianomae" genannt, konzentrieren sich darauf, den Orden zusammenzuhalten, und zeichnen sich durch politisches Geschick aus.
 
-Die derzeitige Prima ist Erzmaga Murion, eine vollendete Politikerin, die in Durenmar im Rheintribunal residiert (siehe [*Guardians of the Forests*, Seite 51](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#durenmar>)). Das Haus erinnert sich typischerweise besser an seine Forscher als an seine Politiker: Gestalten wie Notatus, der erste Primus, der die Aegis des Herdes erschuf, und Conciatta, die die hermetische Magie erweiterte, um die anderen übernatürlichen Mächte direkt zu beeinflussen (Das Göttliche, die Feensphäre und das Infernale) (siehe *Legends of Hermes*, Kapitel Zwei). Unter den zeitgenössischen Mitgliedern ist Erzmagus Relisius für seinen christlichen Glauben und sein Eintreten für Harmonie zwischen Magie und dem Göttlichen bekannt (siehe *Tales of Power*, Kapitel Vier: *Encroaching Dominion*).
+Die derzeitige Prima ist Erzmaga Murion, eine vollendete Politikerin, die in Durenmar im Rheintribunal residiert (siehe [*Wächter des Waldes*, Seite 51](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#durenmar>)). Das Haus erinnert sich typischerweise besser an seine Forscher als an seine Politiker: Gestalten wie Notatus, der erste Primus, der die Aegis des Herdes erschuf, und Conciatta, die die hermetische Magie erweiterte, um die anderen übernatürlichen Mächte direkt zu beeinflussen (Das Göttliche, die Feensphäre und das Infernale) (siehe *Legends of Hermes*, Kapitel Zwei). Unter den zeitgenössischen Mitgliedern ist Erzmagus Relisius für seinen christlichen Glauben und sein Eintreten für Harmonie zwischen Magie und dem Göttlichen bekannt (siehe *Tales of Power*, Kapitel Vier: *Encroaching Dominion*).
 
 ### Haus Criamon
 
@@ -672,7 +674,7 @@ Dieses Haus ist ein Mysterienkult, und das Mysterium im Herzen des Kultes ist da
 
 Dies ist eine große, vielfältige und ausgesprochen unorganisierte Ansammlung von Magi. Obwohl ursprünglich von Pralix als Konkurrentin zum Orden des Hermes gegründet, wurde diese Vereinigung als eigenständiges Haus anerkannt. Es akzeptiert Zauberer aller Art, manche nur dem Namen nach hermetisch, deren Magie aus vielen verschiedenen Traditionen stammt. Magi Ex Miscellanea werden von ihren zahlreichen Kritikern innerhalb des Ordens oft als Heckenzauberer bezeichnet, obwohl die meisten hermetische Magie genauso gut beherrschen wie jeder andere Magus.
 
-Magi des Hauses Ex Miscellanea haben sehr wenig gemein und gehören vielen verschiedenen Traditionen innerhalb des Hauses an, wobei jede Tradition ihre eigenen Stärken und Schwächen hat. Viele dieser Traditionen werden in *Houses of Hermes: Societates* näher beschrieben.
+Magi des Hauses Ex Miscellanea haben sehr wenig gemein und gehören vielen verschiedenen Traditionen innerhalb des Hauses an, wobei jede Tradition ihre eigenen Stärken und Schwächen hat. Viele dieser Traditionen werden in *Häuser des Hermes: Gemeinschaften* näher beschrieben.
 
 Der Primus des Hauses ist Ebroin, ein verhältnismäßig junger Magus, der vor vier Jahren gewählt wurde, als erklärt wurde, die frühere Prima, Immanola, sei ins Endgültige Zwielicht eingegangen. Er hat Ambitionen, das Haus von seiner Domus Magna Cad Gadu im Stonehenge-Tribunal aus zu beleben.
 
@@ -686,7 +688,7 @@ Während sich die meisten Anhänger des Hauses Flambeau auf Feuermagie spezialis
 
 Haus Flambeau ist eine Versammlung von Gleichgesinnten. Während die meisten Anhänger des Hauses an direktes Handeln und Kampf glauben, gibt es im Haus auch eine starke Tradition der Ehre und des Rittertums, was sie in vielerlei Hinsicht zu den Rittern des Ordens macht. Dies gilt besonders unter dem derzeitigen Primus, Garus, der das Haus von seiner Domus Magna Castra Solis im Languedoc-Tribunal führt (siehe [*Faith & Flame*, Seite 67](<Ars Magica 5e - Faith & Flame - The Provencal Tribunal.md#castra-solis>)). Die ursprüngliche Domus Magna des Hauses war Val Negra, ebenfalls im Languedoc-Tribunal, doch sie ist seit Jahrzehnten, wenn nicht gar Jahrhunderten in einer Regio verloren. Flambeaus zweite Schülerin, Elaine, setzte seine Tradition der Feuermagie fort und diente als Hoplit (siehe Haus Guernicus, weiter unten). Sie war auch eine bedeutende Gelehrte und Autorin und verfasste mehrere Texte, die bis heute wichtig sind, darunter die *Ars Flambonis*, eine Summa über Ignem (Stufe 14, Qualität 12), die mit Anekdoten über den Gründer gespickt ist und im Haus besondere Beliebtheit genießt.
 
-Unter den zeitgenössischen Mitgliedern ist Erzmaga Geirlaug vom Konvent Montverte im Normannischen Tribunal besonders bemerkenswert, ebenso sehr wegen ihres hohen Alters wie wegen ihrer großen Macht. Sie verlässt selten ihren Turm, ist aber eine Meisterin von Ignem und hat ihren Konvent nach wie vor fest im Griff (siehe [*The Lion and the Lily*, Seite 58](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#montverte>)).
+Unter den zeitgenössischen Mitgliedern ist Erzmaga Geirlaug vom Konvent Montverte im Normannischen Tribunal besonders bemerkenswert, ebenso sehr wegen ihres hohen Alters wie wegen ihrer großen Macht. Sie verlässt selten ihren Turm, ist aber eine Meisterin von Ignem und hat ihren Konvent nach wie vor fest im Griff (siehe [*Der Löwe und die Lilie*, Seite 58](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#montverte>)).
 
 ### Haus Guernicus
 
@@ -710,7 +712,7 @@ Mitglieder des Hauses Jerbiton werden in weltlichem Studium, den Künsten und de
 
 Fortunata von Jerbiton war eine mächtige Geistermeisterin des elften Jahrhunderts, die viele nicht-hermetische Feinde besiegte und Wissen und Macht aus vielen Mysterien sammelte. Sie wurde durch hermetische Feinde ins Exil gezwungen und verschwand kurz nach 1120 ins Endgültige Zwielicht. Ihre Schriften sollen Informationen darüber enthalten, wie man die Macht erlangen kann, die sie besaß (siehe *Legends of Hermes*, Kapitel Drei, für weitere Informationen).
 
-In der Gegenwart ist Erzmagus Mathieus von Konstantinopel, der nach der Stadt, in der er ausgebildet wurde, benannt ist, aber seit vielen Jahren in Paris lebt, dafür bekannt, das Studium der Magie aufgegeben zu haben, da es ihm nicht der Mühe wert schien. Viele Jahre lang schien er keinen Lebenszweck zu haben, doch seit dem Fall Konstantinopels ist er viel aktiver geworden (siehe [*The Lion and the Lily*, Seite 87](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#archmagus-mathieus-of-constantinople-filius-of-maria-of-constantinople-follower-of-jerbiton>)). Erzmagus Edward von Milton hingegen ist dafür bekannt, dem Konvent der Schola Pythagoranis in Cambridge vorzustehen, die beansprucht, als Keimzelle für die neue Universität in jener Stadt gedient zu haben (siehe *Art and Academe*, Seite 112).
+In der Gegenwart ist Erzmagus Mathieus von Konstantinopel, der nach der Stadt, in der er ausgebildet wurde, benannt ist, aber seit vielen Jahren in Paris lebt, dafür bekannt, das Studium der Magie aufgegeben zu haben, da es ihm nicht der Mühe wert schien. Viele Jahre lang schien er keinen Lebenszweck zu haben, doch seit dem Fall Konstantinopels ist er viel aktiver geworden (siehe [*Der Löwe und die Lilie*, Seite 87](<Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md#archmagus-mathieus-of-constantinople-filius-of-maria-of-constantinople-follower-of-jerbiton>)). Erzmagus Edward von Milton hingegen ist dafür bekannt, dem Konvent der Schola Pythagoranis in Cambridge vorzustehen, die beansprucht, als Keimzelle für die neue Universität in jener Stadt gedient zu haben (siehe *Kunst & Gelehrsamkeit*, Seite 112).
 
 ### Haus Mercere
 
@@ -732,7 +734,7 @@ Obwohl das Haus von Merinita gegründet wurde, hatte sie selbst wenig Interesse 
 
 Quendalon kehrte zwei Jahre später zurück, seine Augen durch Rubine ersetzt, und verkündete eine neue Richtung für das Haus. Myanar widersetzte sich dem, und innerhalb des Hauses brach Krieg aus. Schließlich siegte Quendalon, und die Merinita wandten sich dem Studium der Feen zu. Quendalon diente als Primus, zumindest dem Namen nach, bis zum Ende des zehnten Jahrhunderts, obwohl er in der zweiten Hälfte jenes Jahrhunderts kaum Kontakt zu seinem Haus hatte. Einige Magi vermuten noch heute, dass der zurückgekehrte Quendalon tatsächlich eine Fee war.
 
-Der derzeitige Primus ist Handri, der in der Domus Magna Irencillia im Rheintribunal lebt. Die frühere Prima, Vinaria, lebt ebenfalls dort. Im Jahr 1202 verschwand sie ähnlich wie Quendalon und ließ Handri das Ruder übernehmen. Als Vinaria jedoch 1209 zurückkehrte, unternahm sie keine Schritte, die Kontrolle über das Haus zurückzugewinnen, und lebt seither still in Irencillia (siehe *Guardians of the Forests*, Seite 104).
+Der derzeitige Primus ist Handri, der in der Domus Magna Irencillia im Rheintribunal lebt. Die frühere Prima, Vinaria, lebt ebenfalls dort. Im Jahr 1202 verschwand sie ähnlich wie Quendalon und ließ Handri das Ruder übernehmen. Als Vinaria jedoch 1209 zurückkehrte, unternahm sie keine Schritte, die Kontrolle über das Haus zurückzugewinnen, und lebt seither still in Irencillia (siehe *Wächter des Waldes*, Seite 104).
 
 Lucian der Gelehrte ist ein älterer Magus, der im Konvent Aegea auf dem Grund des Ägäischen Meeres im Tribunal von Theben lebt. Er ist bekannt für seine tiefe Kenntnis der literarischen Traditionen des Byzantinischen Reiches und des antiken Griechenland und soll in die Geheimnisse der Geschichtenmagie eingeweiht worden sein (siehe *The Sundered Eagle*, Seite 81). Dama, die Praeco des Languedoc-Tribunals, wurde 993 geboren. Sie versank 1061 ins Zwielicht, tauchte aber 19 Jahre später wieder auf und ist bis heute aktiv. Sie ist eines von nur zwei Mitgliedern des Konvents Mimizan und soll einen Mysterienkult anführen, der nicht Teil des Hauses Merinita ist (siehe *Faith & Flame*, Seiten 29 und 64).
 
@@ -748,7 +750,7 @@ Haus Tremere ist eine wahre Abstammungslinie. Alle seine Mitglieder können eine
 
 Darüber hinaus behalten Tremere-Magi die Abstimmungs-Sigile ihrer Filii (siehe [Seite 224](#sigile)), bis der Filius den Parens im Certamen besiegt oder der Parens stirbt. Wenn ein Tremere-Magus, der sein eigenes Sigil nicht hält, einen Lehrling ausbildet, wird das Sigil des neuen Magus vom Parens des ausbildenden Magus gehalten – vorausgesetzt, jener Magus hält sein eigenes Sigil. Falls er es nicht tut, wird das Sigil die Kette weiter nach oben weitergegeben, bis es einen Magus erreicht, der sein eigenes Sigil hält. Infolge dieser Gepflogenheit sind die Stimmen des Hauses Tremere in sehr wenigen Händen konzentriert.
 
-Die Domus Magna ist Coeris im Transsilvanischen Tribunal, und die Prima ist Poena. Sie soll die Namen, magischen Stärken und Vorlieben jedes Mitglieds ihres Hauses kennen sowie jedes anderen Magus, der ihr nützlich sein könnte. Was auch immer die Wahrheit dahinter sei, sie verwaltet die Projekte des gesamten Hauses mit ungewöhnlicher Effizienz (siehe *Against the Dark*, Seite 21). Die Stellvertreterin des Hauses (anders als andere Häuser hat Tremere tatsächlich eine solche Position) ist Erzmaga Monica Ierne, eine Maga, die ursprünglich aus dem Stonehenge-Tribunal stammt und eine Meisterin der Kampfmagie ist. Sie ist nicht für die Position der Prima geeignet und hat dies öffentlich eingestanden, ist aber eine hervorragende Feldkommandantin (siehe *Against the Dark*, Seite 30). Erzmagus Stentorius ist genau das, was andere Magi sich vorstellen, wenn sie an ein älteres, mächtiges Mitglied des Hauses Tremere denken. Er ist der Anführer von Fengheld, dem größten Konvent im Rheintribunal, und hält drei Fünftel der Sigile der Tremere-Magi jenes Tribunals, während er zudem das Haus dort anführt. Selbst in einem Tribunal, das die Domus Magnae und Primi der Häuser Bonisagus, Bjornaer und Merinita beherbergt, hält er möglicherweise mehr politische Macht als jeder andere einzelne Magus (siehe *Guardians of the Forests*, Seite 84).
+Die Domus Magna ist Coeris im Transsilvanischen Tribunal, und die Prima ist Poena. Sie soll die Namen, magischen Stärken und Vorlieben jedes Mitglieds ihres Hauses kennen sowie jedes anderen Magus, der ihr nützlich sein könnte. Was auch immer die Wahrheit dahinter sei, sie verwaltet die Projekte des gesamten Hauses mit ungewöhnlicher Effizienz (siehe *Against the Dark*, Seite 21). Die Stellvertreterin des Hauses (anders als andere Häuser hat Tremere tatsächlich eine solche Position) ist Erzmaga Monica Ierne, eine Maga, die ursprünglich aus dem Stonehenge-Tribunal stammt und eine Meisterin der Kampfmagie ist. Sie ist nicht für die Position der Prima geeignet und hat dies öffentlich eingestanden, ist aber eine hervorragende Feldkommandantin (siehe *Against the Dark*, Seite 30). Erzmagus Stentorius ist genau das, was andere Magi sich vorstellen, wenn sie an ein älteres, mächtiges Mitglied des Hauses Tremere denken. Er ist der Anführer von Fengheld, dem größten Konvent im Rheintribunal, und hält drei Fünftel der Sigile der Tremere-Magi jenes Tribunals, während er zudem das Haus dort anführt. Selbst in einem Tribunal, das die Domus Magnae und Primi der Häuser Bonisagus, Bjornaer und Merinita beherbergt, hält er möglicherweise mehr politische Macht als jeder andere einzelne Magus (siehe *Wächter des Waldes*, Seite 84).
 
 ### Haus Tytalus
 
@@ -756,7 +758,7 @@ Die Philosophie der Tytalus-Magi besteht darin, alle Formen des Konflikts zu mei
 
 Haus Tytalus ist nahezu das genaue Gegenteil von Haus Tremere. Wo die Tremere an Stabilität und Respekt gegenüber den Älteren glauben, glauben Tytalus-Magi an ständigen Wandel und daran, ihre Älteren immer wieder herauszufordern, bis man schließlich siegen kann. Die Gründer der beiden Häuser wurden von derselben Zauberin ausgebildet, Guorna der Fauligen, und kämpften häufig über ihre gegensätzlichen Vorstellungen von der richtigen Lebensweise.
 
-Auf ihrer nie endenden Suche nach Konflikten gingen die Anführer des Hauses Tytalus im zehnten Jahrhundert zu weit und fielen den Machenschaften von Dämonen zum Opfer. Jene Meister der Intrige glaubten hochmütig, die dunklen Kräfte meistern zu können, doch trotz ihrer Geschicklichkeit waren sie nicht in der Lage, die Hölle zu überlisten. Die Anführer wurden für ihr Verbrechen des Diabolismus hingerichtet, und Haus Tytalus ist seitdem misstrauisch beäugt worden. Dies wurde nicht dadurch erleichtert, dass zwei Magi, Buliste und Harpax, beide beanspruchen, Primus (bzw. Prima, im Falle von Buliste) zu sein. Buliste war die neunte Prima, versank aber ins Zwielicht. Harpax beanspruchte daraufhin das Recht, zehnter Primus zu werden. Als Buliste jedoch aus dem Zwielicht auftauchte, weigerte sie sich, seine Position anzuerkennen; er seinerseits weigerte sich nachzugeben. Die beiden kämpfen noch immer um die Kontrolle über das Haus und seine Domus Magna, Fudarus, im Normannischen Tribunal (siehe *The Lion and the Lily*, Seite 41). Die Magi des Hauses Tytalus wählen Seiten, doch die meisten von ihnen scheinen dies allein der Herausforderung wegen zu tun und nicht, weil sie dem einen oder anderen wirklich loyal ergeben wären.
+Auf ihrer nie endenden Suche nach Konflikten gingen die Anführer des Hauses Tytalus im zehnten Jahrhundert zu weit und fielen den Machenschaften von Dämonen zum Opfer. Jene Meister der Intrige glaubten hochmütig, die dunklen Kräfte meistern zu können, doch trotz ihrer Geschicklichkeit waren sie nicht in der Lage, die Hölle zu überlisten. Die Anführer wurden für ihr Verbrechen des Diabolismus hingerichtet, und Haus Tytalus ist seitdem misstrauisch beäugt worden. Dies wurde nicht dadurch erleichtert, dass zwei Magi, Buliste und Harpax, beide beanspruchen, Primus (bzw. Prima, im Falle von Buliste) zu sein. Buliste war die neunte Prima, versank aber ins Zwielicht. Harpax beanspruchte daraufhin das Recht, zehnter Primus zu werden. Als Buliste jedoch aus dem Zwielicht auftauchte, weigerte sie sich, seine Position anzuerkennen; er seinerseits weigerte sich nachzugeben. Die beiden kämpfen noch immer um die Kontrolle über das Haus und seine Domus Magna, Fudarus, im Normannischen Tribunal (siehe *Der Löwe und die Lilie*, Seite 41). Die Magi des Hauses Tytalus wählen Seiten, doch die meisten von ihnen scheinen dies allein der Herausforderung wegen zu tun und nicht, weil sie dem einen oder anderen wirklich loyal ergeben wären.
 
 ### Haus Verditius
 
@@ -848,7 +850,7 @@ Der Periphere Kodex besteht aus allen Entscheidungen, die seit der Gründung des
 
 Theoretisch ist die einzige Strafe für den Verstoß gegen den Kodex der Tod. In der Praxis verhängen Tribunale dies nur selten und begnügen sich stattdessen mit Vis-Bußen, Zeitaufwand für Dienste oder anderen geringeren Strafen. Diese Strafen werden jedoch durch die letzte Sanktion gestützt, und die Weigerung, sich der von einem Tribunal verhängten Strafe zu unterwerfen, gilt stets als Grund für die Todesstrafe. Diese wird durch die Erklärung eines Zuges der Magier durchgesetzt, der den Täter aus dem Orden ausstößt und ihn damit des Schutzes des Kodex beraubt. Dies wird als „Ordensbann" bezeichnet, und Magi, über die ein Zug der Magier verhängt wurde, sind als „ordensverstoßene Magi" bekannt. Da die Besitztümer des Verbrechers nach Überlieferung denen zugesprochen werden, die ihn töten, sind mächtige Magi häufig daran interessiert, bei der Jagd auf die Täter zu helfen.
 
-Weitaus mehr Informationen über den Peripheren Kodex und seine Durchsetzung finden sich in *Houses of Hermes: True Lineages*, ab Seite 45.
+Weitaus mehr Informationen über den Peripheren Kodex und seine Durchsetzung finden sich in *Häuser des Hermes: Wahre Linien*, ab Seite 45.
 
 ### Beraubung der magischen Kraft
 
@@ -908,7 +910,7 @@ Das Großtribunal behandelt Angelegenheiten, die den gesamten Orden betreffen, u
 
 Jedes Regionaltribunal besteht theoretisch aus allen Magi, die in einem bestimmten Gebiet Europas leben. Diese Gebiete sind grob durch Entscheidungen des Großtribunals festgelegt, doch die Magi in ihnen können den Namen des Tribunals nach Belieben ändern und die Mitgliedschaftsvoraussetzungen frei festlegen. Im Allgemeinen wechselt man sein Tribunal nicht, wenn man einen Konvent in einem anderen Tribunal besucht, und verschiedene Tribunale können unterschiedliche Regeln darüber haben, wie lange ein Besuch sein kann. Regionaltribunale tagen alle sieben Jahre, und die Rotkappen sind verpflichtet, dafür zu sorgen, dass jeder Magus im Tribunal eine Einladung erhalten hat. Ansonsten folgen sie den normalen Regeln für Tribunale.
 
-Für die Grenzen und Namen der Regionaltribunale siehe die Karte auf [Seite 494](#kapitel-14-mythisches-europa). Es sei angemerkt, dass die Grenzen nur annähernd angegeben sind, da bisher keine Streitigkeiten entstanden sind, die eine genaue Festlegung erfordert hätten. Sechs der Tribunale wurden in Ergänzungsbänden für Ars Magica 5. Edition detailliert beschrieben: *Guardians of the Forests* (das Rheintribunal), *The Lion and the Lily* (das Normannische Tribunal), *The Sundered Eagle* (das Tribunal von Theben), *Against the Dark* (das Transsilvanische Tribunal), *The Contested Isle* (das Hibernische Tribunal) und *Faith & Flame* (das Languedoc-Tribunal).
+Für die Grenzen und Namen der Regionaltribunale siehe die Karte auf [Seite 494](#kapitel-14-mythisches-europa). Es sei angemerkt, dass die Grenzen nur annähernd angegeben sind, da bisher keine Streitigkeiten entstanden sind, die eine genaue Festlegung erfordert hätten. Sechs der Tribunale wurden in Ergänzungsbänden für Ars Magica 5. Edition detailliert beschrieben: *Wächter des Waldes* (das Rheintribunal), *Der Löwe und die Lilie* (das Normannische Tribunal), *The Sundered Eagle* (das Tribunal von Theben), *Against the Dark* (das Transsilvanische Tribunal), *The Contested Isle* (das Hibernische Tribunal) und *Faith & Flame* (das Languedoc-Tribunal).
 
 ## Der Orden und die Gesellschaft
 
@@ -962,7 +964,7 @@ Mächtige, isolierte Zauberer werden nachdrücklich zum Beitritt aufgefordert un
 
 Es gibt einen Fall, in dem die „Beitritt oder Tod"-Politik strikt durchgesetzt wird. Jeder nicht-hermetische Zauberer, der die Parma Magica oder eine andere Form der allgemeinen Magieresistenz erlernt, muss dem Orden des Hermes beitreten oder wird gejagt. Der Orden ist sich nahezu einig in der Meinung, dass dieses Monopol unbedingt gewahrt werden muss.
 
-Weitere Informationen über nicht-hermetische Zauberer finden sich in *Hedge Magic Revised Edition* und *Rival Magic* sowie in den Regionalbänden für Gebiete außerhalb des Mythischen Europas: *The Cradle and the Crescent*, *Between Sand and Sea* und *Lands of the Nile*.
+Weitere Informationen über nicht-hermetische Zauberer finden sich in *Heckenzauber (Überarbeitete Ausgabe)* und *Rival Magic* sowie in den Regionalbänden für Gebiete außerhalb des Mythischen Europas: *The Cradle and the Crescent*, *Between Sand and Sea* und *Lands of the Nile*.
 
 ---
 
@@ -2249,11 +2251,11 @@ Um ein Kind zu erstellen, verwende die normalen Regeln und modifiziere dann alle
 
 | Alter | Modifikator | Größenmodifikator |
 | ----- | ----------- | ----------------- |
-| 6-7   | -4          | -2                |
-| 8-9   | -3          | -2                |
 | 10-11 | -2          | -2                |
 | 12-13 | -1          | -1                |
 | 14+   | Keiner      | Keiner            |
+| 6-7   | -4          | -2                |
+| 8-9   | -3          | -2                |
 
 Weit mehr Informationen zum Spiel von Kindercharakteren werden in *Apprentices* geboten, einschließlich, wie Tugenden und Fehler gehandhabt werden und wie sich diese mit dem Alter des Charakters verändern. Wenn du keinen Zugang zu diesem Buch hast, verwende dein bestes Urteilsvermögen.
 
@@ -2343,12 +2345,12 @@ Bei hermetischen Magi solltest du beachten, dass Intelligenz für hermetische La
 
 | Wert | Kosten      |
 | ---- | ----------- |
-| +3   | 6           |
-| +2   | 3           |
-| +1   | 1           |
 | 0    | 0           |
+| +1   | 1           |
 | -1   | Erhalte 1   |
+| +2   | 3           |
 | -2   | Erhalte 3   |
+| +3   | 6           |
 | -3   | Erhalte 6   |
 
 > ### Beispiel: Darius von Flambeau
@@ -2365,11 +2367,11 @@ Das Alter deines Charakters bestimmt den Höchstwert, den sie bei der Charaktere
 
 | Alter      | Maximaler Fertigkeitswert |
 | ---------- | ------------------------- |
-| unter 30   | 5                         |
 | 30-35      | 6                         |
 | 36-40      | 7                         |
 | 41-45      | 8                         |
 | 46+        | 9                         |
+| unter 30   | 5                         |
 
 #### Frühe Kindheit
 
@@ -2891,11 +2893,11 @@ Da Sozialer-Status-Tugenden und -Fehler den Platz eines Charakters in der Gesell
 
 | Kategorie               | Tugenden / Fehler                                                                                                     |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Kostenlose Tugenden** | Lehrling, Konventsbewohner, Handwerker, Haustier, Hermetischer Magus, Arbeiter, Händler, Bezahlte Rechte, Bauer, Wanderer |
-| **Kleine Tugenden**     | Custos, Faktor, Gescheiterter Lehrling, Schmiede-Gefährte, Edelmann/frau, Einsame Rotkappe, Söldnerhauptmann, Handelsabenteurer, Weiser |
+| **Große Fehler**        | Geächteter, Außenseiter                                                                                               |
 | **Große Tugenden**      | Capo, Partner, Rotkappe, Venditor                                                                                     |
 | **Kleine Fehler**       | Gebrandmarkter Verbrecher, Begleittier, Ausgestoßener, Anführer von Geächteten, Außenseiter, Wucherer                |
-| **Große Fehler**        | Geächteter, Außenseiter                                                                                               |
+| **Kleine Tugenden**     | Custos, Faktor, Gescheiterter Lehrling, Schmiede-Gefährte, Edelmann/frau, Einsame Rotkappe, Söldnerhauptmann, Handelsabenteurer, Weiser |
+| **Kostenlose Tugenden** | Lehrling, Konventsbewohner, Handwerker, Haustier, Hermetischer Magus, Arbeiter, Händler, Bezahlte Rechte, Bauer, Wanderer |
 
 #### Westliches Christentum
 
@@ -3357,15 +3359,15 @@ Allgemeine Tugenden und Fehler umfassen alles andere. Die meisten bieten Boni od
 
 ## Tugenden
 
-#### Älterer Barde
-*Klein, Sozialer Status*<br>
-Der Charakter hat fünf oder sechs Jahre an einer Bardenschule verbracht und ist entsprechend als Cano oder Cli eingestuft. Der Charakter besitzt eine Lokale Reputation von 2, die seinen Ruhm als Geschichtenerzähler widerspiegelt.
+#### Akademische Vertiefung (Fach)
+*Klein, Allgemein*<br>
+Der Charakter hat sich auf eines der sieben Fächer der Artes Liberales spezialisiert und die anderen sechs dabei vernachlässigt. Er darf +3 zu seinem Artes-Liberales-Wert für dieses Fach addieren. Allerdings muss er 1 von allen Artes-Liberales-Würfen und -Summen für die nicht spezialisierten Fächer abziehen. Bonus und Abzug sind in jeden Gesamtwert einzurechnen, für den Artes Liberales verwendet wird – einschließlich des Schreibens von Büchern. Diese Tugend ist unvereinbar mit der Tugend Begabung in Artes Liberales. Begabung in Artes Liberales bedeutet, dass ein Charakter mit allen sieben freien Künsten besonders vertraut ist, während Akademische Spezialisierung bedeutet, dass der Charakter eine freie Kunst auf Kosten der anderen vertieft hat.
 
-Der Charakter hat ein Mindestalter von 22 Jahren, und Du kannst bei der Charaktererschaffung Erfahrungspunkte für jede Sphärenkunde ausgeben, auch wenn Du andernfalls keine Arkanen Fertigkeiten erwerben könntest. Der Charakter sollte mindestens eine Gebiets-, Sphären- oder Organisationskunde mit einem Wert von 5 haben und erhält 90 zusätzliche Erfahrungspunkte für Gedächtniskunst, Beruf: Geschichtenerzähler, Beruf: Dichter, jede Gebietskunde, jede Organisationskunde, Feenkunde oder Magiekunde. Dieser Sozialer Status ist nur in Hibernia verfügbar.
+Mit Zustimmung der Spieltruppe kann diese Tugend auf Philosophiae ausgeweitet werden. Für andere Fertigkeiten außer Artes Liberales und Philosophiae ist sie nicht zulässig.
 
-#### Älterer Meister
-*Groß, Sozialer Status*<br>
-Der Charakter ist seit einigen Jahren ein wohlhabender Zunftmeister und hat eine Autoritätsstellung in seiner Zunft erreicht. Er kennt die Zunftangelegenheiten und beteiligt sich an der Selbstverwaltung der Zunft. Er kann mehrere Werkstätten besitzen und eine große Anzahl von Arbeitern beschäftigen. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten erwerben.
+#### Begabter Laborlehrling
+*Klein, Hermetisch*<br>
+Du verarbeitest die Anweisungen anderer sehr leicht. Du erhältst einen +6-Bonus auf Laborsummen, wenn du nach den Labortexten anderer arbeitest, einschließlich der Neuerfindung von Zaubern.
 
 #### Affinität zu (Fertigkeit)
 *Klein, Allgemein*<br>
@@ -3375,12 +3377,6 @@ Alle Fortschrittssummen für eine Fertigkeit werden um die Hälfte erhöht, aufg
 *Klein, Hermetisch*<br>
 Deine Fortschrittssummen für eine hermetische Kunst werden um die Hälfte erhöht, aufgerundet. Bei der Charaktererschaffung werden alle in diese Kunst investierten Erfahrungspunkte ebenfalls um die Hälfte erhöht (aufgerundet), und du darfst die normalen empfohlenen Grenzen überschreiten. Du kannst diese Tugend zweimal nehmen, für zwei verschiedene Künste.
 
-#### Akademische Vertiefung (Fach)
-*Klein, Allgemein*<br>
-Der Charakter hat sich auf eines der sieben Fächer der Artes Liberales spezialisiert und die anderen sechs dabei vernachlässigt. Er darf +3 zu seinem Artes-Liberales-Wert für dieses Fach addieren. Allerdings muss er 1 von allen Artes-Liberales-Würfen und -Summen für die nicht spezialisierten Fächer abziehen. Bonus und Abzug sind in jeden Gesamtwert einzurechnen, für den Artes Liberales verwendet wird – einschließlich des Schreibens von Büchern. Diese Tugend ist unvereinbar mit der Tugend Begabung in Artes Liberales. Begabung in Artes Liberales bedeutet, dass ein Charakter mit allen sieben freien Künsten besonders vertraut ist, während Akademische Spezialisierung bedeutet, dass der Charakter eine freie Kunst auf Kosten der anderen vertieft hat.
-
-Mit Zustimmung der Spieltruppe kann diese Tugend auf Philosophiae ausgeweitet werden. Für andere Fertigkeiten außer Artes Liberales und Philosophiae ist sie nicht zulässig.
-
 #### 'Alim
 *Klein, Sozialer Status*<br>
 Du bist ein Mitglied der religiösen Elite. Du kannst ein kleiner Amtsträger sein, etwa ein Muezzin oder ein Imam, oder eine bedeutende Persönlichkeit, wie ein Mufti (jemand, der offiziell dazu berechtigt ist, ein Rechtsgutachten zu erteilen) oder ein Qadi (Richter). Du kannst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
@@ -3389,9 +3385,13 @@ Du bist ein Mitglied der religiösen Elite. Du kannst ein kleiner Amtsträger se
 *Klein, Allgemein*<br>
 Einmal pro Spielsitzung kann ein Spieler, dessen Charakter diese Tugend hat, einen Patzerwürfel neu würfeln. Der Charakter hat sich im Voraus auf genau diesen Misserfolg vorbereitet und hat einen Notfallplan, den der Spieler beschreiben muss.
 
-#### Alleskönner
+#### Anziehend auf (Wesen)
 *Klein, Allgemein*<br>
-Der Charakter kann sich fast allem zuwenden. Er erleidet keine zusätzlichen Patzerwürfel, wenn er einen Fertigkeitswurf für eine Fertigkeit versucht, in der er keinen Wert hat (siehe [Seite 157](#fertigkeiten-ohne-wert)). Handelt es sich um eine mit Sternchen markierte Fertigkeit, kann er einen Wurf so versuchen, als hätte er einen Wert von null, mit drei zusätzlichen Patzerwürfeln, sofern und nur sofern er normalerweise Fertigkeiten dieses Typs nehmen kann. Charaktere ohne diese Tugend können überhaupt keinen Wurf auf eine mit Sternchen markierte Fertigkeit versuchen, ohne zumindest einen Erfahrungspunkt darin zu haben. So muss er beispielsweise über eine Tugend verfügen, die Arkane Fertigkeiten erlaubt, um einen ungeübten Magiekunde-Wurf zu versuchen. Einige Fertigkeiten sind von dieser Tugend ausgenommen, darunter solche, die nicht gewürfelt werden (wie Parma Magica oder Penetration) sowie alle Übernatürlichen Fertigkeiten (für die jeweils eine eigene Tugend erforderlich ist, nicht nur der Typ). Die Spieltruppe kann von Fall zu Fall weitere Ausnahmen festlegen, doch diese Tugend soll dem Charakter ermöglichen, Dinge zu versuchen, die normalerweise eine Ausbildung erfordern würden.
+Diese Tugend ist mit einer von drei Klassen von Wesen verbunden: gewöhnlichen Tieren, Feen oder magischen Wesen. Die letzten beiden umfassen Charaktere, die durch übernatürliche Tugenden oder Fehler mit der Feensphäre bzw. der Magiesphäre verbunden sind, sowie Wesen mit Feenmacht oder Magischer Macht.
+
+Diese Wesen fühlen sich seltsam zum Charakter hingezogen und vertrauen oder gehorchen ihm gewöhnlich ohne Nachdenken. Er erhält +3 auf Kommunikations- und Präsenzwürfe, um sie zu beeinflussen. Charaktere, die auf Wesen dieser Art abstoßend wirken, können diese Tugend nicht nehmen, einschließlich jener, die die Gabe oder eine Magische Ausstrahlung besitzen, obwohl Charaktere, die auf sie harmlos wirken, oder die Sanfte Gabe besitzen, dies dürfen.
+
+Zu beachten ist, dass Anziehend auf Magische Wesen zwar hermetische Magi betreffen kann, die Parma Magica diesen Effekt jedoch abwehrt, da sie auch gegen die sozialen Nachteile der Gabe schützt. Machtwert und andere Formen allgemeiner Magieresistenz hindern diesen Effekt nicht.
 
 #### Almogaten
 *Klein, Sozialer Status*<br>
@@ -3411,29 +3411,21 @@ Diese Charaktere stammen von der Iberischen Halbinsel, und wenn sie besonders we
 *Groß oder Klein, Übernatürlich, Befleckt*<br>
 Der Charakter kann jede menschliche Gestalt annehmen, solange sie nicht erkennbar zu einem bestimmten Menschen gehört. Der Charakter entwickelt diese Fähigkeit, weil sein Körper die nahezu gasförmige Eigenschaft dämonischen Fleisches angenommen hat; daher sind alle scheinbaren Veränderungen in Größe oder körperlicher Verfassung rein äußerlich und beeinflussen die Spielwerte des Charakters nicht. Manche amorphen Menschen können um Mitternacht eine einzige Gestalt wählen – das ist die Große Form der Tugend. Ihre Kleine Form erlaubt dem Charakter nur dann eine Gestaltsveränderung, wenn er eine bedeutsame Handlung vollzogen hat, die mit der Besessenheit des beteiligten Dämons verknüpft ist. Der Charakter kann nur dann zu seiner Geburtsgestalt zurückkehren, wenn er die Bedingungen der Verwandlung erfüllt hat oder wenn er unfreiwillig die Gestalt wechselt – beim Sterben oder beim Betreten geweihten Bodens.
 
-#### Angesehener Student
-*Allgemein, Klein*<br>
-Der Charakter ist der Sohn eines Adligen oder eines wohlhabenden Kaufmanns und an einer Universität eingeschrieben, die auf Zivilrecht oder Medizin spezialisiert ist. Er hat eine kleine Gruppe von Bediensteten bei sich – zwei oder drei Diener, die ihm an der Universität zur Hand gehen. Er wurde von einem Privatlehrer in Artes Liberales und Latein unterrichtet und kann bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Der Charakter muss eine Tugend des Sozialen Status wählen, um seinen Stand im Bildungsweg widerzuspiegeln.
+#### Tierverständnis
+*Klein, Übernatürlich*<br>
+Du kannst mit Tieren kommunizieren, als wären sie Menschen. Die Wahl dieser Tugend verleiht dir die Fertigkeit Tierverständnis 1 ([Seite 159](#tierumgang)).
 
-#### Anhaltende Magie
-*Klein, Hermetisch*<br>
-Die Effekte deiner Zauber dauern in der Regel länger als gewöhnlich an (obwohl Konzentrations-, Momentan- und Ringzauber genau das bleiben). Der Spielleiter würfelt heimlich einen einfachen Würfel; multipliziere die normale Dauer des Zaubers mit dem gewürfelten Wert. Das ist in der Regel, aber nicht immer, von Vorteil. Diese Tugend beeinflusst nicht die Dauer von Ritualzaubern.
+#### Lehrling
+*Frei, Sozialer Status*<br>
+Diese Tugend kann von einem Kindercharakter genommen werden, der die Gabe besitzt und mit Zustimmung der Spieltruppe von einem erfahrenen hermetischen Magus angenommen wurde. Du bist ein Discipulus und wirst eine umfangreiche magische Ausbildung erhalten, mit dem Potenzial, selbst ein hermetischer Magus zu werden. Allerdings musst du den Anordnungen deines Meisters gehorchen, seine Botengänge erledigen und seine rigorose Ausbildung erdulden – und du magst wie ein Sklave behandelt werden.
 
-#### Anziehend auf (Wesen)
+#### Begabter Schüler
 *Klein, Allgemein*<br>
-Diese Tugend ist mit einer von drei Klassen von Wesen verbunden: gewöhnlichen Tieren, Feen oder magischen Wesen. Die letzten beiden umfassen Charaktere, die durch übernatürliche Tugenden oder Fehler mit der Feensphäre bzw. der Magiesphäre verbunden sind, sowie Wesen mit Feenmacht oder Magischer Macht.
+Du lernst besonders gut von anderen. Wenn du von jemandem unterrichtet oder ausgebildet wirst, addiere fünf zur Quellenqualität.
 
-Diese Wesen fühlen sich seltsam zum Charakter hingezogen und vertrauen oder gehorchen ihm gewöhnlich ohne Nachdenken. Er erhält +3 auf Kommunikations- und Präsenzwürfe, um sie zu beeinflussen. Charaktere, die auf Wesen dieser Art abstoßend wirken, können diese Tugend nicht nehmen, einschließlich jener, die die Gabe oder eine Magische Ausstrahlung besitzen, obwohl Charaktere, die auf sie harmlos wirken, oder die Sanfte Gabe besitzen, dies dürfen.
-
-Zu beachten ist, dass Anziehend auf Magische Wesen zwar hermetische Magi betreffen kann, die Parma Magica diesen Effekt jedoch abwehrt, da sie auch gegen die sozialen Nachteile der Gabe schützt. Machtwert und andere Formen allgemeiner Magieresistenz hindern diesen Effekt nicht.
-
-#### Archieunuch
-*Groß, Sozialer Status*<br>
-Du hast den Status und die Privilegien der bedeutendsten und talentiertesten Eunuchen, der Archieunuchen, erreicht. Obwohl du selbst kein Herrscher bist, verlässt sich ein Herrscher wahrscheinlich auf dich, um wirksam zu regieren, und hat dir daher beträchtliche Vollmachten erteilt, in seinem Namen zu handeln. Aufgrund dieses Status und dieser Bedeutung übst du erheblichen Einfluss auf den niederen Adel aus. Du kannst entweder als Regionalverwalter, wichtiger Höfling oder General dienen, und zahlreiche Diener sowie möglicherweise weitere untergeordnete Eunuchen stehen unter deinem Befehl. Dir wurde eine Unterkunft zugewiesen, entweder innerhalb einer Burg oder eines Palastes oder anderswo. Aufgrund deiner Bildung kannst du während der Charaktererschaffung Akademische Fertigkeiten erwerben. Dieser Soziale Status ist im östlichen Römischen Reich mit seiner Hauptstadt Konstantinopel zu finden und existiert nicht in Westeuropa oder weiten Teilen der muslimischen Welt. Diese Tugend steht nur männlichen Charakteren zur Verfügung, die zudem Eunuchen sein müssen.
-
-#### Aristotelische Ausbildung
-*Klein, Allgemein*<br>
-Der Charakter wurde in der Neuen Aristotelischen Lehre ausgebildet und hat seinen Unterricht von einem Lehrer erhalten, der kürzlich übersetzte Aristoteles-Texte anstelle des üblichen Lehrplans verwendet. Der Charakter erhält einen +1-Bonus auf Artes-Liberales-Würfe für Grammatik, Logik und Rhetorik sowie einen +1-Bonus bei der Berechnung von Disputatio-Summen (siehe *Art and Academe*, [Seite 103](#nicht-alternd), für Details). Ein Magus mit dieser Tugend kann +1 zu seinen Laborsummen addieren, wenn er versucht, die Neue Aristotelische Lehre mit der Magietheorie zu verbinden (wie auf [Seite 11](#nicht-alternd) von *Art and Academe* beschrieben). Diese Tugend ist mit Begabung in Artes Liberales vereinbar.
+#### Begabung für (Sünde)
+*Klein, Allgemein, Befleckt*<br>
+Diese Sammel-Tugend steht für jene kleineren Wirkungen, die Dämonen ihren Opfern verleihen, damit sie effektiver sündigen können – und daher häufiger. Jede Begabung für eine bestimmte Sünde addiert +3 auf alle Würfe in einem sehr begrenzten Umfeld, das mit der Besessenheit eines Dämons verknüpft ist. Als Beispiele können Charaktere Begabungen für Taschendiebstahl, für geschickten Ehebruch oder für das Vergiften von Menschen haben.
 
 #### Arkanes Wissen
 *Klein, Allgemein*<br>
@@ -3441,9 +3433,13 @@ Du kannst während der Charaktererschaffung Arkane Fertigkeiten erwerben. Sofern
 
 Ein begabter Charakter, der kein hermetischer Magus ist und die Parma Magica kennt, muss den Großen Geschichte-Fehler Feind: Gesamter Orden des Hermes nehmen, da Magi durch ihren Eid verpflichtet sind, den Charakter auf der Stelle zu töten, sofern er nicht sofort dem Orden beitritt. Ein solcher Charakter kann in einer normalen Saga nicht gespielt werden, da die anderen Spielercharaktere ihn töten müssen.
 
-#### Arzt von Salerno
+#### Archieunuch
+*Groß, Sozialer Status*<br>
+Du hast den Status und die Privilegien der bedeutendsten und talentiertesten Eunuchen, der Archieunuchen, erreicht. Obwohl du selbst kein Herrscher bist, verlässt sich ein Herrscher wahrscheinlich auf dich, um wirksam zu regieren, und hat dir daher beträchtliche Vollmachten erteilt, in seinem Namen zu handeln. Aufgrund dieses Status und dieser Bedeutung übst du erheblichen Einfluss auf den niederen Adel aus. Du kannst entweder als Regionalverwalter, wichtiger Höfling oder General dienen, und zahlreiche Diener sowie möglicherweise weitere untergeordnete Eunuchen stehen unter deinem Befehl. Dir wurde eine Unterkunft zugewiesen, entweder innerhalb einer Burg oder eines Palastes oder anderswo. Aufgrund deiner Bildung kannst du während der Charaktererschaffung Akademische Fertigkeiten erwerben. Dieser Soziale Status ist im östlichen Römischen Reich mit seiner Hauptstadt Konstantinopel zu finden und existiert nicht in Westeuropa oder weiten Teilen der muslimischen Welt. Diese Tugend steht nur männlichen Charakteren zur Verfügung, die zudem Eunuchen sein müssen.
+
+#### Aristotelische Ausbildung
 *Klein, Allgemein*<br>
-Der Charakter hat die berühmte Schule von Salerno besucht, die bedeutendste Stätte medizinischen Wissens. Er trägt nicht nur die Reputation der Schule mit sich (was ihm die Reputation Arzt von Salerno 2 verleiht), sondern hat auch einzigartige medizinische Verfahren erlernt, wie etwa die Zubereitung von Betäubungsmitteln. Diese Tugend gewährt zusätzliche 50 Erfahrungspunkte, die für Medizin, Philosophiae und medizinische Formeln ausgegeben werden können (sofern Du die Regeln aus *Art and Academe*, Kapitel Fünf verwendest). Um diese Tugend zu wählen, musst Du Akademische Fertigkeiten erlernen dürfen.
+Der Charakter wurde in der Neuen Aristotelischen Lehre ausgebildet und hat seinen Unterricht von einem Lehrer erhalten, der kürzlich übersetzte Aristoteles-Texte anstelle des üblichen Lehrplans verwendet. Der Charakter erhält einen +1-Bonus auf Artes-Liberales-Würfe für Grammatik, Logik und Rhetorik sowie einen +1-Bonus bei der Berechnung von Disputatio-Summen (siehe *Kunst & Gelehrsamkeit*, [Seite 103](#nicht-alternd), für Details). Ein Magus mit dieser Tugend kann +1 zu seinen Laborsummen addieren, wenn er versucht, die Neue Aristotelische Lehre mit der Magietheorie zu verbinden (wie auf [Seite 11](#nicht-alternd) von *Kunst & Gelehrsamkeit* beschrieben). Diese Tugend ist mit Begabung in Artes Liberales vereinbar.
 
 #### Atlantische Magie
 *Klein, Hermetisch*<br>
@@ -3470,6 +3466,1178 @@ Zur Bestimmung der Spruchstufe entspricht Gewässer derselben Zielstufe wie Bauw
 > Ein ReAu-Zauber mit Sturm-Dauer, der darauf abzielt, „einen Sturm toben zu lassen", führt nicht zu einem Sturm, der unendlich lange andauert. Er hält den Sturm für seine ursprüngliche Lebensdauer am Toben. Ein ReAu-Zauber mit der Dauer Sonne kann selbstverständlich dazu verwendet werden, einen Sturm einen Tag lang toben zu lassen, und wiederholte Anwendungen eines solchen Zaubers halten den Sturm so lange aufrecht, bis der Zaubernde aufgibt.
 >
 > Ebenso erschafft ein CrAu-Zauber mit Sturm-Dauer keinen Sturm, der unendlich lange andauert. Er erschafft lediglich einen Sturm, der für die Dauer des Sturms andauert, der vor dem Wirken des Zaubers vorhanden war. Das heißt: Wenn zuvor kein Sturm existierte, hat dieser Zauber keine Wirkung. Ein CrAu-Zauber mit der Dauer Sturm, der auf einen bestehenden Sturm gewirkt wird, hilft jedoch, den Sturm davor zu bewahren, durch PeAu-Effekte vor seinem natürlichen Ende aufgelöst zu werden. Ein CrAu-Zauber mit der Dauer Sonne kann natürlich dazu verwendet werden, einen Sturm mit einer Dauer von einem Tag zu erschaffen.
+
+#### Baccalaureus
+*Klein, Sozialer Status*<br>
+Der Charakter hat ein dreijähriges Studium an einer Universität abgeschlossen und den Baccalaureus Artium (Bakkalaureat der Künste) erworben. Er ist in der Regel zwischen 16 und 19 Jahre alt und hat 90 Erfahrungspunkte, die er für Latein und Artes Liberales ausgeben kann – 30 Erfahrungspunkte pro abgeschlossenem Studienjahr. Nach seinem Abschluss stehen ihm vielfältige Möglichkeiten offen: Er kann seine Universitätslaufbahn fortsetzen, außerordentliche Vorlesungen halten, während er auf den Magister-in-Artibus-Abschluss hinarbeitet; an einer Dom- oder Weltlichschule unterrichten; als Privatlehrer für eine Adelsfamilie tätig werden; oder eine Stelle im kirchlichen oder weltlichen Bereich finden. Der Charakter hat eine Akademische Reputation von 1.
+
+Diese Tugend ist mit den Tugenden Hermetischer Magus, Bettelbruder und Priester vereinbar und kann auch von einem weiblichen Charakter genommen werden, jedoch nur dann, wenn sie (oder war) in Salerno Medizin studiert.
+
+#### Barde
+*Frei, Sozialer Status*<br>
+Der Charakter hat eine Bardenschule besucht und nach vier Jahren die Prüfung bestanden, wodurch er den Titel Fili im Rang des Dos erlangt hat. Dies verschafft ihm unter den einheimischen Iren eine gewisse Anerkennung, die einer Lokalen Reputation von 1 entspricht. Er sollte nicht jünger als 20 Jahre sein. Du solltest die Tugend Gebildet (Bardisch) nehmen, um die erhaltene Ausbildung darzustellen. Dieser Soziale Status gilt nur in Irland.
+
+#### Pedell
+*Klein, Sozialer Status*<br>
+Der Charakter ist ein Assistent eines Universitätsdekans. Er ist ein verdienter Stadtbewohner oder Student, der von der Universität angestellt wurde, um das Universitätssignet bei Umzügen zu tragen, Gebühren und Bußgelder einzuziehen, Pflichtbekanntmachungen bei Universitätsversammlungen vorzulesen und Disputationen anzukündigen. Der Charakter kann während der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
+
+#### Bienenkönig
+*Groß, Übernatürlich*<br>
+Das Bienenkönigstum ist das Ergebnis einer Abstammung von bestimmten Feen und damit eine Form von Feenblut. Es verleiht folgende Vorteile:
+
+Bienenkönige scheinen nach dem Erreichen der Reife nicht zu altern, doch jeder Bienenkönig, der nicht durch äußere Umstände stirbt, stirbt an einer schnell verlaufenden Krankheit genau ein Jahrhundert nach seiner Geburt.
+
+Jeder Bienenkönig kann jede Bienengruppe anweisen, jede Handlung durchzuführen, zu der sie physisch in der Lage sind, selbst wenn dies zu ihrem Tod führt. Übliche Anweisungen wie das Angreifen von Menschen, die Erhöhung der Bienenhauspopulation oder das Bauen von Wachsobjekten werden weiterhin ausgeführt, bis die Anweisung widerrufen wird (Penetration 50). Einfache Befehle von einem Satz oder kürzer können mündlich erteilt werden.
+
+Bienenkönige können Bienen komplexe Botschaften übermitteln, indem sie eine einzige Biene auf der Zunge des Bienenkönigs landen lassen. Diese Biene fungiert dann als Repräsentant des Königs gegenüber dem Bienenstock. Bienenkönige können die Sprache von Bienenstöcken verstehen und können die Gedanken von Bienen lesen, die sie berühren.
+
+Bienenkönige werden niemals von einer Bienenart gestochen. Ein angreifender Bienenschwarm wird als Umwelteffekt behandelt, nicht als feindliche Kampfgruppe. Der Schwarm verursacht automatisch +10 Schaden pro Runde. Dieser Schaden kann normal absorbiert werden.
+
+Zu beachten ist, dass Bienen im Mythischen Europa Könige haben, keine Königinnen, doch ein weiblicher Charakter mit dieser Tugend kann sich selbst nach Belieben Bienenkönigin nennen.
+
+Dies ist eine Übernatürliche Tugend, und du kannst sie nicht verlieren, wenn du als Magus ausgebildet wirst (siehe [Seite 269](#lehrlinge-1)). Wenn dein Meister die Fähigkeit nicht erhalten kann, kannst du nicht ausgebildet werden.
+
+#### Berserker
+*Klein, Allgemein*<br>
+Du bist in der Lage, in Kampfsituationen oder bei frustrierenden Umständen in einen blinden Wutanfall zu verfallen. Du erhältst automatisch die Persönlichkeitseigenschaft Wütend +2 (oder mehr, nach deiner Wahl). Jedes Mal, wenn du eine Wunde erleidest oder einem Feind eine zufügst, würfle einen Stresswürfel und addiere deinen Wütend-Wert. Ein Ergebnis von 9 oder mehr bedeutet, dass du in Raserei verfällst. Der Spielleiter kann auch dann einen Wurf verlangen, wenn du stark frustriert bist. Du kannst absichtlich versuchen, in Raserei zu verfallen. In diesem Fall brauchst du nur 6 oder mehr, wenn du eine Wunde erhältst oder einem Feind eine zufügst, oder 9 oder mehr, wenn du weder verwundet wurdest noch eine Wunde verursacht hast. Während du rasend bist, erhältst du +2 auf Angriffs- und Absorptionswerte, erleidest jedoch einen -2-Abzug auf die Verteidigung. Während du rasend bist, kannst du dich nicht zurückziehen, zögerst nicht anzugreifen und gewährst keine Gnade. Wenn du noch rasend bist, aber keine Feinde mehr vorhanden sind, greifst du deine Freunde an. Du kannst einmal pro Runde würfeln, um dich zu beruhigen, falls du es wünschst; dies erfordert einen Stresswurf + Wahrnehmung – Wütend gegen einen Schwierigkeitsgrad von 6. Du kannst Kampffertigkeiten bei der Charaktererschaffung erlernen.
+
+#### Blut der Nephilim
+*Groß, Übernatürlich*<br>
+
+Du hast das Blut der Engel in deinen Adern und stammst von den großen Helden des Antediluvianischen Zeitalters ab, den Nephilim. Sofern du nicht die Tugend Mythischer Gefährte nimmst, ist dein Erbe etwas verdünnt, wenn auch noch immer bedeutsam.
+
+Deine Größe wird auf +1 erhöht und steigt für jedes Jahrhundert, das du lebst, um weitere +1.
+
+Du kannst während der Charaktererschaffung Dominiumkunde erlernen, ohne die Kleine Tugend Arkanes Wissen nehmen zu müssen.
+
+Du alterst unglaublich langsam und kannst Hunderte von Jahren leben. Du musst erst nach dem Alter von 150 einen Alterungswurf vornehmen, und zwar nur einmal alle zehn Jahre, und erhältst –5 auf Alterungswürfe. Du profitierst weder von Langlebigkeitsritualen noch von Magie oder übernatürlichen Kräften, die das Altern oder die Gebrechlichkeit verlangsamen oder lindern. Sobald du deinen ersten Gebrechlichkeitspunkt erwirbst, wird es für dich zunehmend schwieriger, neue Dinge zu lernen: Ziehe dein Alter ÷ 10 von allen Fortschrittssummen ab, obwohl die Fortschrittssumme für ein Quartal nicht unter 1 fallen kann.
+
+Aufgrund deiner gewaltigen Größe musst du riesige Mengen Nahrung zu dir nehmen (entsprechend dem Tagesbedarf von drei normalen Menschen) und hast den Kleinen Persönlichkeits-Fehler Gierig (der als einer deiner normalen Fehler zählt). Wenn du auch nur einen einzigen Tag ohne Nahrung bleibst, verfällst du in einen tiefen Schlaf, eine Art übernatürlichen Winterschlaf. Du verhungerst in (2 + dein Göttlicher Machtwert) Tagen, sofern du nicht mit deinem eigenen Körpergewicht an Nahrung versorgt wirst. Nach dem Erwachen erleidest du eine Anzahl verlorener Langzeiterschöpfungsstufen, die der Anzahl der Tage entspricht, an denen du ohne Nahrung warst. (Zu beachten ist, dass diese Tugend selbst keinen Göttlichen Machtwert verleiht; siehe Starkes Engelserbe weiter unten.)
+
+Du kannst nicht die Gabe oder Wahren Glauben, Hermetische Tugenden oder Fehler, Methoden oder Kräfte (siehe *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, Seiten 46–56), Tugenden wie Riesen-, Mythisches oder Feenblut, Fehler wie Schnelles Altern oder Werwolf, oder Tugenden oder Fehler nehmen, die deine Größe beeinflussen. Ein Nachkomme der Nephilim ohne Göttlichen Machtwert könnte theoretisch übernatürliche Kräfte (außer Göttlichen Methoden und Kräften) aus irgendeiner Sphäre erlernen, aber das ist sehr selten. Magi und Grogs dürfen diese Tugend nicht nehmen.
+
+#### Bücherwurm
+*Klein, Allgemein*<br>
+Du hast ein Talent für das Verstehen der Schriften anderer. Wenn du aus Büchern lernst, behandle sie so, als wären sie drei Qualitätsstufen höher als sie tatsächlich sind.
+
+#### Verstärkte Magie
+*Klein, Hermetisch*<br>
+Indem du beim Wirken von Formulaischen Zaubern einen Bauern Vis ausgibst, kannst du Reichweite, Dauer, Ziel oder Größe des Effekts um eine Magnitude „verstärken". Du kannst dies für denselben Zauber mehrmals tun.
+
+Zum Beispiel würde das Verstärken der Reichweite von Berührung auf Sicht und des Ziels von Individuum auf Gruppe vier Bauern Vis kosten. Du kannst keinen der Parameter des Zaubers verringern und nicht die Grenzen Formulaischer Magie überschreiten. Zaubererfolg, Erschöpfungsverlust und Penetration werden alle auf Grundlage der ursprünglichen Spruchstufe berechnet, aber du addierst für jeden verwendeten Bauern Vis einen zusätzlichen Patzerwürfel. Dies hat keine Wirkung auf Spontane oder Ritualzauber, obwohl du Vis weiterhin normal zur Steigerung deiner Penetration verwenden kannst.
+
+#### Bruder Kaplan
+*Klein, Sozialer Status*<br>
+Du bist Priester eines Kreuzzugsritterordens, was ähnlich ist wie bei anderen Priestern, außer dass dein Gelübde neben der Keuschheit auch Gehorsam und Armut umfassen sollte. Außerhalb deines Ordens bist du nur dem Papst gegenüber verantwortlich. Du kannst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Du trägst das markante Symbol deines Ordens auf deinem Surkot, der in der Regel grün gefärbt ist. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
+
+#### Bruder Ritter
+*Klein, Sozialer Status*<br>
+Du bist Ritter in einem heiligen Kreuzzugsorden, und es ist deine Pflicht, jederzeit bereit zu sein, gegen die Ungläubigen zu kämpfen. Du hast ein lebenslanges Gelübde des Gehorsams, der Armut und der Keuschheit abgelegt und bist nur deinen Vorgesetzten und dem Papst gegenüber verantwortlich. Sofern du nicht Arm bist, kannst du hochwertige Waffen und Rüstung sowie zwei Pferde besitzen. Du kannst während der Charaktererschaffung Akademische und Kampffertigkeiten nehmen. Du trägst das Symbol deines Ordens auf deinem markanten Surkot, der in der Regel reinweiß (Templer, Hospitaliter) oder golden (Deutschritter) ist. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
+
+#### Bruder Sergeant
+*Klein, Sozialer Status*<br>
+Du bist Mitglied eines Kreuzzugsritterordens, aber weder Ritter noch Adliger. Du hast ein lebenslanges Gelübde des Gehorsams, der Armut und der Keuschheit abgelegt, doch dies wird bei dir möglicherweise nicht so streng durchgesetzt wie bei einem Bruderritter. Du bist nur deinen Ordensoberen und dem Papst gegenüber verantwortlich. Sofern du nicht Arm bist, kannst du hochwertige Waffen und Rüstung sowie zwei Pferde besitzen. Du kannst während der Charaktererschaffung auch Kampffertigkeiten nehmen. Du trägst das markante Symbol deines Ordens auf deinem Surkot, der in der Regel schwarz oder grau gefärbt ist. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
+
+#### Bürokrat
+*Klein, Sozialer Status*<br>
+Du bist Mitglied der Zivilbehörde, wahrscheinlich ein Katib (Schreiber oder Sekretär) oder Watha'iqi (Verfasser von Rechtsdokumenten). Du kannst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
+
+#### Capo
+*Groß, Sozialer Status*<br>
+Der Charakter leitet ein Handelsunternehmen, das Niederlassungen in mindestens zwei Städten hat. *Stadt & Gilde*, Kapitel 7, enthält weitere Details dazu. Ein Capo, der auch Partner im Unternehmen ist, nimmt nicht die Tugend Partner, sondern wählt entsprechend seinen Verhältnissen Arm oder Reich.
+
+#### Domschulmeister
+*Groß, Sozialer Status*<br>
+Der Charakter unterrichtet an einer Domschule, einer der vielen, die das Mythische Europa durchziehen. Er ist mindestens (30 – Intelligenz) Jahre alt und muss Werte von 5 in Latein und Artes Liberales sowie einen Unterrichten-Wert von mindestens 3 haben. Er kann jede Akademische Fertigkeit erlernen und sie seinen Schülern beibringen. In der Regel ist er kein Universitätsmensch, sondern wurde an einer Domschule ausgebildet. Er erhält 240 zusätzliche Erfahrungspunkte, die für Akademische Fertigkeiten und Unterrichten ausgegeben werden können. Der Charakter hat eine Akademische Reputation von 2.
+
+Diese Tugend ist mit den Tugenden Baccalaureus und Priester vereinbar. Charaktere mit höheren Universitätsabschlüssen sollten stattdessen jene Tugenden nehmen; ein Magister oder Doktor gewinnt keinen zusätzlichen Status durch das Unterrichten an einer Domschule. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
+
+#### Vorsichtiger Zauberer
+*Klein, Hermetisch*<br>
+Du gehst sehr sorgfältig mit Magie um und scheitest weniger leicht auf spektakuläre Weise, wenn du doch scheiterst. Du würfelst beim Wirken von Zaubern (ob Ritual-, Formulaisch- oder Spontanzauber) und beim Arbeiten im Laboratorium drei Patzerwürfel weniger. Diese Tugend kann die Anzahl der gewürfelten Patzerwürfel nicht unter einen senken. Ihre Wirkung wird jedoch vor allen anderen Effekten angewendet, die Patzerwürfel reduzieren, wie z. B. Zaubermeisterschaft (siehe [Seite 225](#zaubermeisterschaft)), und diese können die Anzahl der Patzerwürfel auf null reduzieren.
+
+#### Vorsichtig mit (Fertigkeit)
+*Klein, Allgemein*<br>
+Du gehst mit einer bestimmten Fertigkeit sehr sorgfältig um und scheitest bei ihrer Anwendung weniger leicht auf spektakuläre Weise. Du würfelst zwei Patzerwürfel weniger als normal, wann immer du für diese Fertigkeit Patzerwürfel würfeln musst. Dies kann bedeuten, dass du keine Patzerwürfel würfelst. Diese Tugend kann für jede Fertigkeit gelten, selbst für eine, die du bei der Charaktererschaffung nicht erlernen kannst.
+
+#### Clan Ilfetu
+*Klein, Hermetisch*<br>
+Der Charakter ist Mitglied des Clans Ilfetu innerhalb des Hauses Bjornaer und hat eine zusätzliche Ausbildung in den Ritualen des Hauses erhalten. Du erhältst 50 zusätzliche Erfahrungspunkte, die für Haus-Bjornaer-Kunde, Magiekunde (mit einer Spezialisierung auf die Großen Tiere) und Gotisch, die tote Sprache, die das Haus für alle seine Rituale verwendet, ausgegeben werden können. Es ist möglich, dass der Magus auch in das Esoterische Mysterium der Weissagung und Zeichendeutung eingeweiht wurde (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seite 58); wenn dies der Fall ist, muss jene Tugend mit dem normalen Kontingent von zehn Punkten an Tugenden und Fehlern erworben werden. Clan Ilfetu lehrt die Weissagungsmethode der Hämagomantie, also die Weissagung durch Beobachtung der Blutspritzer verwundeter Tiere; dies gibt folgende Boni auf Weissagung und Zeichendeutung: +5 Familie, +3 Corpus. Siehe *Häuser des Hermes: Mysterienkulte*, Seite 12, für weitere Details zu Haus Bjornaer und der Rolle des Clans Ilfetu.
+
+#### Klarer Denker
+*Klein, Allgemein*<br>
+Du denkst logisch und rational. Du erhältst einen +3-Bonus auf alle Würfe, um Lügen, Verwirrung, Betäubung und Hinterlist zu widerstehen – ob magisch oder weltlich.
+
+#### Kleriker
+*Klein, Sozialer Status*<br>
+Du bist Mitglied des gebildeten Standes und entweder ein professioneller Schreiber, Buchhalter, Anwalt, Student oder Amtsträger. Aufgrund deiner Ausbildung kannst du während der Charaktererschaffung Akademische Fertigkeiten erwerben. Wenn du männlich bist, kannst du in Niederen Weihen sein (Akolyth, Exorzist, Lektor oder Türhüter); in diesem Fall kannst du heiraten und profitierst trotzdem von der Zugehörigkeit zum Klerus und bist damit dem kanonischen statt dem weltlichen Recht unterworfen. Männliche Charaktere können auch Subdiakone oder Diakone sein, die zwei kleineren Heiligen Weihen, in denen von ihnen normalerweise erwartet wird, unverheiratet zu sein. Wenn sie jedoch bereits verheiratet waren und vollständige sexuelle Enthaltsamkeit versprechen, können sie dennoch in diese Weihen ordiniert werden. Ein Mann darf nach der Ordination in Heilige Weihen nicht mehr heiraten. Wer in Heiligen Weihen steht, untersteht ebenfalls dem kanonischen statt dem weltlichen Recht. Die Große Tugend Wohlhabend und der Große Fehler Arm wirken sich normal auf dich aus. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung, doch weibliche Charaktere dürfen keine Niederen oder Heiligen Weihen empfangen.
+
+#### Tiere befehligen
+*Groß, Übernatürlich, Befleckt*<br>
+Der Charakter hat die Fähigkeit, gewöhnliche Vertreter einer Tierart mental zu befehligen, die in der Regel mit dem Dämon assoziiert wird, der ihn gezeichnet hat. Zu jeder Zeit kann der Charakter bis zu 12 menschengroße Tiere befehligen und sie anweisen, selbstmörderische Handlungen durchzuführen. Kleinere Tiere können in weit größeren Mengen befehligt werden, sodass manche Charaktere Insektenschwärme oder Hunderte von Ratten befehligen können.
+
+#### Befehlende Aura
+*Frei, Übernatürlich*<br>
+Diese übernatürliche Kraft wird Charakteren entweder vom Papst oder direkt vom Göttlichen verliehen. Sie ist ein inhärenter Vorteil des Kirchenamtes. Die meisten Charaktere mit dieser Tugend haben auch die Tugend Sozialer Status: Höherer Klerus.
+
+Der Charakter besitzt eine Kraft, die dem Hermetischen Zauber Aura der Rechtmäßigen Autorität ([Seite 357](#aura-der-rechtmäßigen-autorität)) entspricht, jedoch mit Reichweite Stimme; diese Kraft hat keinen Kosten und keine Penetration. Der Charakter hat außerdem eine Magieresistenz und einen Absorptionsbonus, die von seinem Rang in der Kirche abhängen. Wenn der Charakter eine Reliquie trägt, wird diese Magieresistenz zu der der Reliquie addiert.
+
+*Papst:* Magieresistenz 25, Absorptionsbonus +5.
+
+*Kardinal oder Legatus a latere:* Magieresistenz 20, Absorptionsbonus +4.
+
+*Legatus missus:* Magieresistenz 15, Absorptionsbonus +3.
+
+*Erzbischof:* Magieresistenz 10, Absorptionsbonus +2.
+
+Päpstliche Legaten sind Vertreter des Papstes. Wenn der Legatus missus – ein niedrigerer Rang mit begrenzten Vollmachten – seine Mission verzögert oder von ihr abweicht, hört seine Befehlsaura auf zu wirken, bis er Buße getan hat. Die Befehlsaura geht auch verloren, wenn ein Legatus missus seine Mission abschließt.
+
+Einige weltliche Herrscher, die vom Papst ordiniert wurden (hauptsächlich Könige und Kaiser), haben ebenfalls eine Befehlsaura. Siehe *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, Seite 42.
+
+#### Gesunder Menschenverstand
+*Klein, Allgemein*<br>
+Wann immer du dabei bist, etwas zu tun, das dem gesunden Menschenverstand im Spielumfeld widerspricht, macht dich der gesunde Menschenverstand (der Spielleiter) auf den Fehler aufmerksam. Dies ist eine ausgezeichnete Tugend für einen Anfänger, da sie jede Hilfe legitimiert, die der Spielleiter leisten könnte.
+
+#### Verschlungener Geist
+*Klein, Allgemein, Befleckt*<br>
+Der Charakter ist so häufig den Machenschaften von Dämonen ausgesetzt, dass er ein Gespür dafür entwickelt hat, wie ihre Gedanken funktionieren. Der Charakter erhält einen +3-Bonus auf alle Infernalkunde-Würfe, um zu bestimmen, was ein Dämon tun wird, und hat ein Gespür – ähnlich der Tugend Gesunder Menschenverstand –, das ihn davon abhält, im Umgang mit Dämonen dumme Dinge zu tun.
+
+#### Leichenmagie
+*Groß, Übernatürlich*<br>
+Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Leichenmagie mit einem Wert von 1.
+
+#### Konventsbewohner
+*Frei, Sozialer Status*<br>
+Du bist Mitglied des Konventspersonals und hast dort möglicherweise dein ganzes Leben verbracht. Du wirst vom Konvent versorgt, sodass dein Lebensstandard durch die Mittel des Konvents und nicht durch deine eigenen bestimmt wird. Du kannst nicht die Große Tugend Wohlhabend oder den Großen Fehler Arm nehmen.
+
+#### Zunftausbildung
+*Klein, Allgemein*<br>
+Dieser Charakter hat während seiner Lehre eine überdurchschnittliche Ausbildung von einem Handwerksmeister oder einer professionellen Zunft erhalten. Wie Krieger und Gebildet verleiht diese Tugend einen Bonus von 50 Erfahrungspunkten. Diese müssen für Handwerk- oder Berufsfertigkeiten, Feilschen oder Organisationskunde: Zunft ausgegeben werden.
+
+#### Handwerkerheiler
+*Klein, Übernatürlich*<br>
+Wie die Schmiede der alten Überlieferungen kann der Charakter Wunden auf magische Weise heilen, indem er sie mit den Werkzeugen seines Handwerks berührt. Dies ist eine seltene und geheimnisvolle Kraft, die hermetische Magi nicht verstehen oder nachahmen können, und es ist üblich, dass diese Tugend familiären Blutlinien folgt. Die Wahl dieser Tugend verleiht dem Charakter die Fertigkeit Handwerkerheiler mit einem Wert von 1.
+
+#### Handwerker
+*Frei, Sozialer Status*<br>
+Du lebst davon, Waren herzustellen und zu verkaufen. Du bist wahrscheinlich ein freier Stadtbewohner, könntest aber auch vom Land stammen. Die Große Tugend Wohlhabend und der Große Fehler Arm wirken sich normal auf dich aus.
+
+#### Fluchschleudern
+*Groß, Übernatürlich*<br>
+Charaktere mit dieser Tugend sind in der Lage, Krankheiten und Flüche zu heilen, indem sie diese auf eine andere Person übertragen. Die Wahl dieser Tugend verleiht die Übernatürliche Fertigkeit Fluchschleudern 1.
+
+#### Custos
+*Klein, Sozialer Status*<br>
+Du bist Angestellter eines Konvents, hast aber innerhalb seiner Mauern einen hohen Status. Du kannst ein Grog, ein Spezialist oder ein Verwalter sein. Du kannst während der Charaktererschaffung eine Gruppe eingeschränkter Fertigkeiten erwerben: entweder Kampf-, Akademische oder Arkane Fertigkeiten. Wenn du Kampf- oder Arkane Fertigkeiten wählst, kannst du trotzdem lernen, Latein zu sprechen, auch wenn du es nicht lesen oder schreiben kannst. Als Konventsangestellter wird dein Reichtum durch den Wohlstand des Konvents bestimmt, und du kannst nicht die Tugend Wohlhabend oder den Fehler Arm nehmen. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung.
+
+Diese Tugend kann auch für Angestellte anderer Institutionen gelten, wie z. B. eines Adelshaushalts oder eines Klosters.
+
+#### Zyklische Magie (positiv)
+*Klein, Hermetisch*<br>
+Deine Magie ist auf einen Naturzyklus abgestimmt (z. B. solar, lunar oder saisonal) und ist daher zu bestimmten Zeiten besonders potent. Zu diesen Zeiten erhältst du einen +3-Bonus auf alle Zauberwerte. Der Bonus gilt auch für Laborsummen, wenn der positive Teil des Zyklus die gesamte Saison abdeckt. Der Zyklus deiner Magie muss regelmäßig und vom Spielleiter genehmigt sein. Außerdem muss der Zeitraum, in dem der Bonus gilt, gleich lang sein wie der Zeitraum, in dem er nicht gilt.
+
+#### Todesprophezeiung
+*Groß, Allgemein*<br>
+Du bist in Bezug auf dein Schicksal gesegnet oder verflucht. Jemand (ein Zauberer, eine Fee oder eine andere übernatürliche Kreatur) hat eine Bedingung an deinen Tod geknüpft, und bis diese Bedingung erfüllt ist, wirst du nicht sterben, obwohl du schwer verletzt werden kannst. Du heilst normal, kannst aber nicht an Wunden oder Alter sterben. Zu deinem Unglück kann das Schicksal oder schlechte Planung die Bedingungen auf unerwartete Weise herbeiführen. Wenn zum Beispiel deine Todesprophezeiung besagt, dass du nur Wildschweine fürchten sollst, solltest du vorsichtig sein mit Männern, die Wildschweine in ihrem Wappen tragen, oder mit Gasthäusern, die nach Wildschweinen benannt sind – zusätzlich zu dem rein weltlichen Tier. Diese Symbolik ist möglicherweise nicht offensichtlich: Ein Mann, der in seinem Dorf als Schwein bekannt ist, könnte auch als Wildschwein zählen.
+
+Der Spielleiter muss die Prophezeiung im Hinterkopf behalten und faire Warnungen zu Gegenständen im Zusammenhang mit der Prophezeiung geben. Dies ist eine Große Tugend, weil der Charakter weiß, dass er mit wahnsinnigen Risiken davonkommen kann; die Prophezeiung heimlich auf ihn loszulassen ist eine unfaire Art, den Wert der Tugend zu negieren. Spieler dürfen diese Tugend nur mit Zustimmung des Spielleiters oder der Spieltruppe nehmen.
+
+#### Gewandte Form
+*Klein, Hermetisch*<br>
+Du bist mit einer Form besonders geschickt. Du erleidest keine Abzüge auf die Zaubersumme beim Wirken von Zaubern dieser Form mit nicht-standardmäßiger Stimmgebung/Gestik (siehe [Seite 216](#worte-und-gesten)), einschließlich des vollständigen Verzichts auf Stimme oder Gesten, weil du dich in einer nicht-menschlichen Form befindest. Zauber mit Reichweite Stimme haben weiterhin eine Reichweite, die davon abhängt, wie laut du sprichst.
+
+#### Dämonisches Blut
+*Groß, Übernatürlich, Befleckt*<br>
+Der Charakter hat einen Dämon als Elternteil und wurde von seinem höllischen Vater oder seiner höllischen Mutter für eine bestimmte Aufgabe gezeugt. Aufgrund dessen ist sie ein Höllisches Wesen und besitzt einen Infernalen Machtwert (Corpus) von 5. Dies verleiht ihr Magieresistenz. Ihr Körper enthält auch einen Bauern Corpus-Vis, der erst nach ihrem Tod gewonnen werden kann. Sie ist gegen Verzerrung jeglicher Art immun, muss nicht essen oder trinken und kann kein Kind bekommen; sie verspürt jedoch die natürlichen Triebe, die mit diesen Tätigkeiten verbunden sind, und kann aufgefordert werden, Persönlichkeitswürfe abzulegen, um ihren Begierden zu widerstehen.
+
+Sie hat bis zu 30 Stufen Höllischer Kräfte, die durch Ausgeben von Machtpunkten eingesetzt werden können. Gestalte die Effekte mithilfe Hermetischer Zauberrichtlinien oder der Maleficia-Richtlinien (siehe *Sphären der Macht: Das Infernale*, Kapitel 10: Die Maleficia), unter Berücksichtigung der Kräfte des dämonischen Elternteils. Die Machtkosten für jede Kraft entsprechen ihrer Magnitude geteilt durch zwei, abgerundet (mindestens jedoch ein Punkt). Diese können als konstante Effekte gestaltet sein, die auf die übliche Weise entworfen werden (Dauer Sonne, zwei Anwendungen pro Tag und ein Umgebungsauslöser, siehe [Seite 257](#wirkungsanpassungen)); ihr Machtvorrat wird in diesem Fall stets um die Kosten einer solchen Kraft verringert, und sie kann diese Kräfte nicht abschalten. Der Initiativewert jeder Kraft ist die Schnelligkeit des Charakters.
+
+Sie ist sich ihrer wahren Herkunft möglicherweise nicht bewusst; in diesem Fall hat sie wahrscheinlich entweder den Fehler Wahnvorstellung oder den Fehler Fabrizierte Unwissenheit, um ihre außergewöhnlichen Fähigkeiten zu erklären. Sie steht unter der besonderen Aufmerksamkeit der Hölle und sollte daher diese Tugend mit einem Geschichte-Fehler ausgleichen, der diese Aufmerksamkeit widerspiegelt, z. B. Tragisches Leben. Der Charakter kann während der Charaktererschaffung Infernalkunde erlernen, ohne die Kleine Tugend Arkanes Wissen nehmen zu müssen.
+
+Ihr ist fast ständig ein kleiner Dämon zugeteilt, der in der Regel in geistiger Form bleibt und über sie wacht; wenn nötig, schützt er sie im Auftrag ihres Schöpfers/Elternteils. Dieser Dämon ist ein Ruach, der seine Unheilsmacht einsetzen kann, um ihre Feinde zu verderben. Wenn sie ihrer dämonischen Herkunft nicht bewusst ist, hält sie sich entweder für ungewöhnlich glücklich oder betrachtet den begleitenden Dämon als einen Magischen oder Göttlichen Geist. Dieser begleitende Dämon bedeutet jedoch, dass ihr dämonisches Elternteil sie jederzeit finden und über ihre Aktivitäten auf dem Laufenden gehalten werden kann.
+
+Das Leben einer Charakter mit Dämonischem Blut ist kurz – ungefähr halb so lang wie das eines reinblütigen Menschen. Ihr effektives Alter (das beim Erschaffen eines Langlebigkeitsrituals und beim Würfeln auf der Alterungstabelle wie ihr tatsächliches Alter gilt) steigt für jedes vergangene Jahr um zwei Jahre, und du musst einmal pro Jahr zwei Alterungswürfe vornehmen, sobald ihr effektives Alter 35 erreicht. Es gibt keine Möglichkeit, dies zu stoppen oder zu verlangsamen, außer durch Langlebigkeitsrituale, sofern sie jemanden dazu überreden kann, eines für sie herzustellen. Sie zeigt jedoch keine Anzeichen von Alterung; erworbene Alterungspunkte werden nicht auf ihre Eigenschaften angewendet, zählen aber weiterhin als Erfahrungspunkte für die Gebrechlichkeit.
+
+Du kannst nicht die Tugend Höllische Segnungen nehmen, die in *Sphären der Macht: Das Infernale* beschrieben wird; die Tugend Dämonische Kräfte ersetzt jene Tugend für den dämonisch Geblüteten. Du kannst keine Tugend nehmen, die sie mit einer anderen Sphäre als der Höllensphäre verbindet. Außerdem kannst du nicht die Tugend Kein Altern oder den Fehler Schnelles Altern nehmen. Sie kann keine Kinder haben und daher auch keine Schützlinge dieser Art.
+
+#### Dämonische Macht
+*Klein, Übernatürlich*<br>
+Du kannst diese Tugend nur nehmen, wenn dein Charakter die Tugend Dämonisches Blut hat. Ihr Infernaler Machtwert steigt um 2 Punkte. Bei ihrem Tod enthält ihr Körper eine Anzahl von Bauern Corpus-Vis, die ihrem (Infernalen Machtwert / 5), aufgerundet, entspricht. Du kannst diese Tugend mehr als einmal nehmen, obwohl sie nicht mehr als die Hälfte der gesamten Tugenden des Charakters ausmachen darf.
+
+#### Dämonische Kräfte
+*Klein, Übernatürlich*<br>
+Nur ein Charakter mit der Tugend Dämonisches Blut kann Dämonische Kräfte haben. Er erhält 20 zusätzliche Stufen Höllischer Kräfte, zusätzlich zu den durch Dämonisches Blut gewährten Stufen. Du kannst diese Tugend ebenfalls mehr als einmal nehmen, obwohl sie nicht mehr als die Hälfte der gesamten Tugenden des Charakters ausmachen darf.
+
+#### Teufelskind
+*Frei, Mythischer Gefährte*<br>
+Diese Tugend hat keine Kosten und kann nur für einen Mythischen Gefährten genommen werden, der von dämonischen Eltern geboren wurde. Der Charakter erhält nach Wahl des Spielers die Kleine Tugend Dämonische Macht oder Dämonische Kräfte kostenlos.
+
+#### Diedne-Magie
+*Groß, Hermetisch*<br>
+Deine magische Abstammung und Tradition stammt von den Druiden und dem unterworfenen ehemaligen Haus Diedne, was dich besonders geschickt in Spontaner Magie macht. Wenn du einen Spontanzauber wirkst, ohne Erschöpfung aufzuwenden, kannst du wählen, ob du durch 5 oder durch 2 teilst. Wenn du durch 5 teilst, brauchst du keinen Stresswürfel zu werfen und kannst keinen Patzer erleiden, wie es normalerweise der Fall ist. Wenn du durch 2 teilst, musst du einen Stresswürfel werfen und kannst einen Patzer erleiden.
+
+Wenn du Erschöpfung beim Wirken eines Spontanzaubers aufwendest, wird die niedrigste anwendbare Kunst verdoppelt, bevor die Gesamtsumme durch zwei geteilt wird. Du würfelst weiterhin einen Stresswürfel und kannst einen Patzer erleiden.
+
+Du musst deine Abstammung vor dem Orden verborgen halten, was dir einen Großen Geschichte-Fehler einbringt – Dunkles Geheimnis ist eine naheliegende Wahl, aber du kannst mit Zustimmung der Spieltruppe einen anderen wählen. Dies ist zusätzlich zu deiner normalen Zahl an Fehlern und gewährt dir keine Punkte, mit denen du Tugenden kaufen kannst.
+
+#### Doktor der (Fakultät)
+*Groß, Sozialer Status*<br>
+Der Charakter hat eine der höheren Fakultäten einer Universität in Medizin, Zivil- oder Kanonischem Recht oder Theologie abgeschlossen, nachdem er bereits seine Magister-in-Artibus-Lizenz erworben hat, und darf Kommilitonen unterrichten. Der Charakter kann überall unterrichten, auch an einer Universität, die er nicht besucht hat. Dies ist die höchste Bildungslizenz im Mythischen Europa. Ein Doktor der Medizin trägt auch den Titel Magister in Medicina, da er in der Regel an einer der südlichen Universitäten ausgebildet wurde.
+
+Ein Charakter, der das Spiel mit dieser Tugend beginnt, muss mindestens (27 – Intelligenz) Jahre alt sein. Er muss einen Wert von 5 in Latein, Artes Liberales und der Fertigkeit haben, die seiner Fakultät entspricht. Der Charakter hat zehn Jahre an einer Universität verbracht und erhält 300 zusätzliche Erfahrungspunkte, die für Latein und Akademische Fertigkeiten ausgegeben werden müssen. Er beginnt das Spiel außerdem mit einer Akademischen Reputation von 3.
+
+Wie andere berufstätige Charaktere muss er zwei Quartale pro Jahr in seiner Profession tätig sein, entweder lehrend oder an einem weltlichen oder kirchlichen Gericht arbeitend. Sowohl die Tugend Wohlhabend als auch der Fehler Arm sind zulässig, aber Spieler müssen entscheiden, welches Missgeschick einem solch gelehrten Akademiker widerfahren ist, wenn er Arm ist, wofür er eine Schlechte Reputation auf Stufe 2 erhält.
+
+Diese Tugend ist mit den Tugenden Hermetischer Magus, Bettelbruder und Priester vereinbar. Sie steht nur männlichen Charakteren zur Verfügung, mit Ausnahme von Doktoren der Medizin, die in Salerno graduiert haben. Diese Universität bildet tatsächlich weibliche Ärztinnen aus.
+
+> #### Tiercharaktere
+>
+> Ein Tier kann Persönlichkeit haben und wie ein Mensch sehr viel zu Geschichten beitragen. Trotz offensichtlicher Einschränkungen kann es sehr viel Spaß machen, eines als Grog zu spielen, wahrscheinlich während man auch menschliche Grogs spielt. Weitere Details zu Tiercharakteren finden sich in *Grogs*, Seite 136,
+>
+> doch Spieler sollten sich nicht scheuen, einfach die Statistiken für ein weltliches Tier aus Kapitel 13 zu verwenden. Übernatürliche Tiere sind komplexer, und Regeln für sie finden sich in den Sphären-der-Macht-Ergänzungsbänden, insbesondere in *Sphären der Macht: Feenwelt* (Seite 50) und *Sphären der Macht: Magie* (Kapitel 5).
+
+#### Haustier
+*Frei, Sozialer Status, nur Tiere*<br>
+Der Charakter ist ein Tier, das Eigentum eines Konvents oder Charakters ist und mit Nahrung und Unterkunft versorgt wird. Von ihm wird erwartet, dass er seinem Herrn im Gegenzug für diese Versorgung dient, sei es als Reittier, Lasttier, Jagdtier oder dergleichen.
+
+#### Wünschelrutengehen
+*Klein, Übernatürlich*<br>
+Du besitzt die Fähigkeit, nahe gelegene Dinge mithilfe einer Wünschelrute (üblicherweise ein gegabelter Stock) und deines eigenen intuitiven Sinns aufzuspüren. Die Wahl dieser Tugend verleiht dir die Fertigkeit Wünschelruten 1 ([Seite 164](#wünschelrutengehen-1)).
+
+#### Staubwirbel
+*Klein, Übernatürlich*<br>
+Diese Variante der Tierwandler-Tugend erlaubt es dem Charakter, die Gestalt eines Tamzawit – also eines Staubteufels, eines kleinen Wirbelwinds, der Staub mit sich trägt – anzunehmen. Sie wird zu einem Staubwirbel der Größe +1, kann die Form jederzeit annehmen und ihre Bewegung selbst lenken. Anstelle eines Umhangs oder einer Tierhaut ist das Fokusobjekt dieser Tugend ein Glasamulett, das aus Sand einer Magiesphäre-Aura geformt wurde.
+
+#### Gebildet
+*Klein, Allgemein*<br>
+Du hast eine Grammatikschule besucht und möglicherweise eine Universität oder Kathedralschule besucht. Du darfst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Während der Charaktererschaffung erhältst du zusätzliche 50 Erfahrungspunkte, die du auf Latein und Artes Liberales verwenden musst.
+
+#### Gebildet (Bardisch)
+*Klein, Allgemein*<br>
+Der Charakter hat eine der großen Bardenschulen in Hibernia besucht, entweder um eine Ausbildung zu erhalten (in welchem Fall er die anspruchsvolle Prüfung nicht abgelegt haben muss) oder um eine Ausbildung als Barde zu beginnen (in welchem Fall du auch eine entsprechende bardische Sozialer-Status-Tugend nehmen solltest). Für Ober- oder Meisterbarden stellt diese Tugend zusätzliche Studienjahre dar. Du erhältst 50 zusätzliche Erfahrungspunkte, die du auf Gedächtniskunst, Beruf: Geschichtenerzähler, Beruf: Dichter, jede Gebietskunde oder jede Organisationskunde verwenden kannst.
+
+#### Gebildet (Islamisch)
+*Klein, Allgemein*<br>
+Du hast eine Moschee oder eine Koranschule besucht und darfst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Du erhältst bei der Charaktererschaffung 50 zusätzliche Erfahrungspunkte, die du auf einige oder alle der folgenden Fertigkeiten verwenden musst: Arabisch, Persisch, Griechisch, Latein, Theologie: Islam, Islamisches Recht und Artes Liberales.
+
+#### Gebildet (Hebräisch)
+*Klein, Allgemein*<br>
+Dein Charakter hat ein Beit ha-Midrash oder eine Yeshivah besucht und darf bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Dein Charakter erhält 50 zusätzliche Erfahrungspunkte, die auf einige oder alle der folgenden Fertigkeiten verteilt werden können: Hebräisch, Aramäisch, Theologie: Judentum und Jüdische Kunde. Charaktere aus Iberien oder dem Orient dürfen einen Teil dieser Punkte auch auf Arabisch verwenden.
+
+#### Gebildet (Weltlich)
+*Klein, Allgemein*<br>
+Diese Form der weltlichen Unterweisung, die Tutoren den Nachkommen von Kaufmannshäusern erteilen, betont praktische Fähigkeiten, die den Schüler für eine Führungsrolle im Familienunternehmen geeignet machen. Der Charakter darf bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Er erhält außerdem 50 zusätzliche Erfahrungspunkte, die auf Akademische Fertigkeiten, Feilschen, die Organisationskunde des Unternehmens des Charakters, Beruf: Kaufmann oder die Handelssprache der Region des Unternehmens (üblicherweise Latein, Griechisch oder Arabisch) verteilt werden müssen.
+
+#### Elementarmagie
+*Groß, Hermetisch*<br>
+Du wurdest in der Fähigkeit ausgebildet, rohe elementare Formen (Aquam, Auram, Ignem und Terram) zu manipulieren, und betrachtest sie als zusammenhängendes Ganzes statt als vier getrennte Künste. Wann immer du Erfahrung aus einer Quelle erhältst, die einer dieser Künste gewidmet ist, erhältst du die Hälfte der Quellenqualität (aufgerundet) als Erfahrungspunkte in jeder der drei anderen Künste. Wenn du beispielsweise Ignem aus einem Buch mit einer Quellenqualität von 13 studierst, erhältst du jeweils 7 Erfahrungspunkte in Aquam, Auram und Terram.
+
+Weise während der Charaktererschaffung alle deine Erfahrungspunkte in Künste zu. Weise dann die Hälfte der Erfahrungspunkte, die du jeder der elementaren Formen zugeteilt hast, jeweils den anderen elementaren Formen zu. Addiere diese Bonuserfahrungspunkte erst dann tatsächlich zur betreffenden Form, wenn du die Berechnung aller Bonuserfahrungspunkte abgeschlossen hast. Wenn du beispielsweise je 10 Erfahrungspunkte auf Aquam, Auram und Terram und 21 Erfahrungspunkte auf Ignem vergibst, solltest du Ignem 15 Bonuserfahrungspunkte (je 5 aus Aquam, Auram und Terram) zuweisen und jeweils 21 Bonuserfahrungspunkte auf Aquam, Auram und Terram verteilen (11 aus Ignem und je 5 aus den anderen beiden Formen).
+
+Darüber hinaus gilt: Wenn ein Zauber, der eine dieser Formen als primäre Form hat, ein anderes Element als Requisit benötigt, verwendest du die primäre Form zur Berechnung der Gesamtwerte, selbst wenn das Requisit niedriger ist.
+
+#### Verbitterung
+*Groß, Übernatürlich*<br>
+Du kannst jemanden gegenüber einem Ziel deiner Wahl feindlich stimmen. Die Wahl dieser Tugend verleiht dir die Fertigkeit Verbitterung 1.
+
+#### Emir
+*Klein, Sozialer Status*<br>
+Dies entspricht der Ritter-Tugend, doch aufgrund der recht anderen Erziehung muslimischer Emire bist du wahrscheinlich ebenso versiert in Jagd, religiösen Lehren und Kultur wie in kriegerischen Belangen.
+
+#### Bezaubernde (Fertigkeit)
+*Klein, Übernatürlich*<br>
+Wenn du dich darauf konzentrierst, kannst du mit einer bestimmten Art künstlerischen Ausdrucks magisch Gefühle und Überzeugungen in anderen hervorrufen: Musik, Tanz, Zeichnen, Geschichtenerzählen oder sogar Handwerk. Die Wahl dieser Tugend verleiht dir die Fertigkeit Bezaubernde (Fertigkeit) 1 ([Seite 164](#bezaubernde-fertigkeit-1)).
+
+#### Ausdauernde Konstitution
+*Klein, Allgemein*<br>
+Du kannst Schmerz und Erschöpfung ertragen. Verringere die Abzüge für verringerte Erschöpfungsstufen um einen Punkt und reduziere deinen Gesamtabzug aus Wunden um einen Punkt (jedoch nicht unter null). Du erhältst außerdem +3 auf Würfe, um Schmerz zu widerstehen.
+
+#### Anhaltende Magie
+*Klein, Hermetisch*<br>
+Die Effekte deiner Zauber dauern in der Regel länger als gewöhnlich an (obwohl Konzentrations-, Momentan- und Ringzauber genau das bleiben). Der Spielleiter würfelt heimlich einen einfachen Würfel; multipliziere die normale Dauer des Zaubers mit dem gewürfelten Wert. Das ist in der Regel, aber nicht immer, von Vorteil. Diese Tugend beeinflusst nicht die Dauer von Ritualzaubern.
+
+#### Das Enigma
+*Klein, Hermetisch*<br>
+Du wurdest in das Äußere Mysterium des Enigmas eingeweiht (siehe [Seite 235](#enigmatische-weisheit-1)) und bist damit Mitglied des Hauses Criamon. Du hast einen Wert von 1 in Enigmatischer Weisheit. Beachte, dass alle Criamon-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
+
+#### Verführer der Massen
+*Klein, Allgemein, Befleckt*<br>
+Der Charakter besitzt eine Version der Inspirierend-Tugend, die jedoch ausschließlich dazu eingesetzt werden kann, Menschen zu bösen Taten zu verleiten. Der Charakter wirkt dabei demagogisch statt heldenhaft und kann eine Gruppe, die er in Raserei versetzt hat, nicht mehr kontrollieren. Der Aufwiegler zwingt Einzelpersonen einer Gruppe dazu, Persönlichkeitseigenschafts-Würfe auf die jeweilige Sünde vorzunehmen, zu der er sie zu verleiten sucht, mit einem Bonus von +5 oder mehr.
+
+#### Betörung
+*Groß, Übernatürlich*<br>
+Du besitzt die Macht, den Willen einer anderen Person zu beherrschen, indem du ihr in die Augen starrst und ihr einen verbalen Befehl erteilst. Die Wahl dieser Tugend verleiht dir die Fertigkeit Betörung 1 ([Seite 164](#betörung-1)).
+
+#### Eunuch
+*Klein, Sozialer Status*<br>
+Du wurdest ausgebildet und trainiert, um der byzantinischen Adelsschicht als Hofbeamter, Verwalter, Kammerherr, Schreiber, Jurist oder Buchhalter zu dienen. Du bist wahrscheinlich bei einem Hof, einem niederen Adligen oder einem Konvent angestellt. Es ist dir auch möglich, eine Laufbahn in der östlichen Kirche einzuschlagen, da einige Klöster Eunuchen aufnehmen. Aufgrund deiner Ausbildung darfst du bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung, die zeugungsunfähig sein müssen, nicht bloß sexuell enthaltsam. Dies kann durch Kastration bedingt sein (siehe den Kastratus-Fehler auf Seite 122), muss es aber nicht.
+
+#### Exotisches Zaubern
+*Klein, Hermetisch*<br>
+Der Magus verwendet nicht-hermetische Methoden, um hermetische Zauber zu wirken. Er muss zwar nach wie vor offensichtliche rituelle Handlungen vollziehen, doch sind diese nicht dieselben Worte und Gesten, die im Orden als Teil der Magietheorie gelehrt werden, und andere Magi, die mit der Tradition des Magus nicht vertraut sind, haben große Mühe, zu erkennen, welchen Zauber er wirkt. Jeder Versuch, die Form seines magischen Effekts zu bestimmen ([Seite 217](#schnellzaubern)), wird gegen einen Schwierigkeitsgrad von 15 vorgenommen, ohne dass die Magnitude des Effekts wie üblich davon abgezogen wird. Besitzt der Charakter übernatürliche Fertigkeiten, wendet er für das Wirken seiner hermetischen Magie dieselben Methoden an, die er auch für seine nicht-hermetische Magie verwendet. Der Magus kann nicht wählen, stattdessen die üblichen hermetischen Methoden zu verwenden, kann aber in der üblichen Weise auf Worte und Gesten verzichten oder diese reduzieren ([Seite 216](#worte-und-gesten)).
+
+#### Vis-Gewinner der (Form)
+*Klein, Hermetisch*<br>
+Der Magus kann (Form)-Vis aus einer Magiesphären-Aura gewinnen, jedoch nur, wenn die Merkmale der Aura die Form verkörpern. Eine Aura am Ufer eines Sees verkörpert beispielsweise Aquam, eine Aura an einer Begräbnisstätte verkörpert Corpus usw. Die Vis-Gewinnung auf diese Weise ist eine Laboratoriumstätigkeit; der Magus gewinnt eine Anzahl Bauern Vis, die einem Zehntel seiner Creo-Vim-(Form)-Laborsumme entspricht (aufgerundet). Offensichtlich benötigt er dafür auch ein Laboratorium in der Aura, und natürlich kann der Magus auch wählen, stattdessen Vim-Vis zu gewinnen (siehe [Seite 250](#vis-gewinnung)). Diese Tugend kann mehrfach gewählt werden (einmal für jede Form).
+
+#### Auge des Hephaistos
+*Klein, Übernatürlich*<br>
+Der Charakter kann die Qualität eines gefertigten Gegenstands intuitiv einschätzen. Ist der Gegenstand in irgendeiner Weise fehlerhaft, wird er sich dessen durch bloßes Berühren sofort bewusst. Er hat auch eine Chance festzustellen, ob ein Gegenstand magisch ist. Für übernatürliche Gegenstände, die von einem Handwerker hergestellt wurden, wird ein Wahrnehmung + Wahrnehmungs-Fertigkeit + Stresswürfelwurf gegen einen Schwierigkeitsgrad von 9 vorgenommen. Bei Erfolg kennt der Charakter die Stärke des Gegenstands. Für hermetisch verzauberte Gegenstände oder solche, die von anderen Zauberern hergestellt wurden, wird ein Wahrnehmung + Wahrnehmungs-Fertigkeit + Stresswürfelwurf gegen einen Schwierigkeitsgrad von 12 vorgenommen. Bei Erfolg weiß der Charakter, dass der Gegenstand verzaubert ist, hat aber keine Ahnung, wie oder welche Kräfte er haben könnte. Das Patzen bei einem dieser Würfe führt zu falschen Informationen. Diese Tugend liefert keine Informationen über die Aktionen oder Befehle, die nötig sind, um die Kräfte eines Gegenstands auszulösen.
+
+Hephaistos war ein heidnischer Gott der Handwerker, hauptsächlich der Metallurgen. Für christliche Charaktere ist es passender, diese Tugend als Auge des Heiligen Dunstan zu bezeichnen.
+
+#### Stoffreißer
+*Klein, Übernatürlich*<br>
+Der Charakter besitzt die übernatürliche Fähigkeit, jedes gefertigte Ding zu zerreißen, das aus Pflanzen- oder Tierfasern besteht. Dies erlaubt ihr, Segel zu zerstören, den Riemen zu lösen, der einzelne Rüstungsteile hält, das Zaumzeug eines Pferdes zu sprengen, einen Sack zu platzen zu lassen und eine Hose mit dem Geist zu zerfetzen. Sie gibt eine Erschöpfungsstufe aus, um die Fähigkeit zu aktivieren, und kann pro ausgegebener Erschöpfungsstufe nur ein Objekt zum Ziel machen. Es handelt sich um einen PeAn(He)-25-Effekt mit +0 Penetration, der weder Worte noch Gesten erfordert.
+
+#### Faktor
+*Klein, Sozialer Status*<br>
+Der Charakter verwaltet die Interessen eines Handelshauses in einer einzigen Stadt. Das verleiht dem Charakter eine starke gesellschaftliche Stellung und Verbindungen zu vielen anderen Regionen; weitere Einzelheiten finden sich in *Stadt und Zunft*. Viele Faktoren sind Juniorpartner in ihren Unternehmen und wählen stattdessen die Partner-Tugend.
+
+#### Feenblut
+*Klein, Übernatürlich*<br>
+Irgendwo in deiner Ahnenreihe findet sich eine Fee, und diese Verwandtschaft verleiht dir ein intuitives Gespür für die Beweggründe und Persönlichkeiten dieser übernatürlichen Wesen. Feen fühlen sich in deiner Nähe wohler als bei anderen Menschen und könnten mit der Zeit sogar das sterbliche Blut in deinen Adern vergessen.
+
+Du alterst langsamer und erhältst -1 auf alle Alterungswürfe.
+
+Charaktere mit Feenblut können Feenkunde bereits bei der Charaktererschaffung erlernen.
+
+Art des Feenbluts (eines auswählen oder ein ähnliches erschaffen):
+
+*Blut des Bienenkönigs:* Die Nachkommen von Bienenkönigen können Bienen, die sie berühren, einfache Anweisungen erteilen und die dominierenden Gedanken von Bienenvölkern verstehen. Sie können Bienen keine Anweisungen geben, die sie töten würden, außer Kriegerbienen zum Angriff zu befehlen, da Kriegerbienen so bereit sind zu sterben (Penetration 25).
+
+*Zwergenblut:* Du stammst von den Meisterhandwerkern der Feen ab und erhältst +1 Bonus auf jeden Gesamtwert, der eine Handwerks-Fertigkeit einschließt.
+
+*Koboldblut:* Deine Vorfahren waren die hinterlistigen Bewohner der Untergrundschatten, und du erhältst +1 Bonus auf alle Gesamtwerte, die Schleichen betreffen.
+
+*Satyrblut:* Die Satyrn sind für ihre Lüsternheit bekannt. Du erhältst +1 Bonus auf Kommunikations- und Präsenz-Gesamtwerte im Umgang mit sexuell kompatiblen Charakteren.
+
+*Sidhe-Blut:* Du stammst von einer der adeligen Feen ab, die die Lande des Sommers und des Sonnenlichts beherrschen. Aufgrund der auffälligen und ungewöhnlichen Qualitäten deiner Natur erhältst du +1 auf deine Präsenz, jedoch nicht über +3 hinaus. Viele Sterbliche könnten dich faszinierend oder verführerisch finden.
+
+*Spinnen-Blut:* Ein Charakter mit Spinnen-Blut kann täglich sein oder ihr eigenes Körpergewicht an Fasern in Stoff umwandeln, indem er diese einfach berührt. Alte Stoffe oder Produkte aus Stofffasern können mit derselben Fähigkeit aufgewebt werden, was jedoch auf das maximale Gewicht an Stoff angerechnet wird, das ein Charakter pro Tag verändern kann. Einige Spinnen, insbesondere jene, die als Gefährten von Magi gedient haben, erschaffen stattdessen andere nützliche Gegenstände wie Zelte, Seile oder Segel im gleichen Gewicht. Diese Charaktere entstammen einer einzigen Familienlinie, die ihren Ursprung in der Nähe von Gent hat; weitere Details über das Leben der meisten Familienmitglieder finden sich in *Der Löwe und die Lilie*, Seite 97.
+
+*Undinen-Blut:* Die Undinen sind die Wasserfeen, und du erhältst +2 Bonus auf alle Aktionen, die unter Wasser durchgeführt werden, was teilweise etwaige Abzüge ausgleicht.
+
+#### Feendoktor
+*Frei, Mythischer Gefährte*<br>
+Diese Tugend macht dich zum Feendoktor und Mythischen Gefährten ([Seite 63](#mythische-gefährten-2)). Du erhältst die Wünschelrutengehen-Tugend kostenlos.
+
+#### Feenmagie
+*Klein, Hermetisch*<br>
+Du wurdest in das Äußere Mysterium der Feenmagie eingeweiht (siehe [Seite 236](#feenmagie-2)) und bist damit Mitglied des Hauses Merinita. Du besitzt die Fertigkeit Feenmagie 1. Beachte, dass alle Merinita-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
+
+#### Feengeprägte Magie
+*Groß, Hermetisch*<br>
+Die Erfahrungen des Charakters mit Feen und der Feensphäre haben ihn dazu gebracht, Zauber sehr schnell zu erfinden; für ihn wirken formulaische Zauber wie angeborene Kräfte, die man durch Beobachtung und Experimentieren erlernen kann.
+
+Daher kann er sich Zauber außerhalb des Laboratoriums selbst beibringen. Du kannst Erfahrungspunkte aus Exposition, Abenteuern und Übung auf Zauber verwenden, die du normalerweise erfinden könntest und die Feenkräfte oder andere übernatürliche Effekte nachahmen, die dein Charakter in diesem Quartal beobachtet hat.
+
+Um einen Zauber auf diese Weise zu erfinden, muss die Summe aus Technik + Form + Intelligenz + Magietheorie des Magus mindestens (Zauberstufe – 10) betragen, und du musst eine Anzahl von Erfahrungspunkten aufwenden, die (der Magnitude des Zaubers + 4) entspricht. Zauber der Stufe 5 oder niedriger kosten ihre Stufe in Erfahrungspunkten (jedoch stets mindestens 1). Ein Zauber der Stufe 2 kostet beispielsweise 2 Erfahrungspunkte, ein Zauber der Stufe 15 kostet 7 Erfahrungspunkte. Der Magus kann auf diese Weise keine Ritualzauber erfinden.
+
+Kennt der Magus bereits einen Zauber, der dem zu erfindenden ähnlich ist (siehe Ähnliche Zauber, [Seite 260](#ähnliche-zauber)), werden alle Erfahrungspunkte, die du zum Erlernen dieses Zaubers aufwendest, um die Hälfte erhöht, aufgerundet. Das bedeutet, dass ein Zauber der Stufe 25 statt 9 nur 6 Erfahrungspunkte kosten würde.
+
+Diese Tugend schließt auch die Tugend Zauberimprovisation ein. Das bedeutet, du kannst die Magnitude eines bekannten formulaischen Zaubers als Bonus zu deiner Zaubersumme hinzufügen, wenn du spontan einen ähnlichen Zauber wirkst.
+
+Wenn du diese Tugend bei der Charaktererschaffung wählst, solltest du normalerweise den Feenaufgewachsen-Fehler wählen. Da der Meister des Magus ihn auch über die menschliche Gesellschaft unterrichten musste, hatte er wahrscheinlich weniger Zeit, ihm hermetische Magie beizubringen. Es ist möglich, dass der Lehrling formulaische Zauber schnell genug selbst erfunden hat, um dies auszugleichen, aber du könntest den Schwacher-Parens-Fehler wählen, um diese Einschränkung seiner Lehrzeit anzudeuten.
+
+#### Gescheiterter Lehrling
+*Klein, Sozialer Status*<br>
+Du warst einst bei einem Magus in der Lehre, aber irgendetwas hat dich daran gehindert, deine Ausbildung abzuschließen. Vielleicht war deine Gabe unvollständig, oder ein schweres Missgeschick hat sie dir ganz geraubt. Du kannst immer noch für deinen früheren Meister oder für den Konvent in irgendeiner anderen Eigenschaft arbeiten. Magi heißen dich willkommen und haben Mitgefühl für dich – jedenfalls jene, die zu solchen Gefühlen fähig sind. Du darfst bei der Charaktererschaffung Akademische, Arkane und Kampf-Fertigkeiten erwerben und bist mit dem Leben der Magi vertraut. Du darfst die Gabe nicht besitzen, aber wenn deine Gabe nicht vollständig vernichtet wurde, hast du möglicherweise einige Übernatürliche Fertigkeiten. Die Wohlstand-Tugend und der Arm-Fehler wirken sich normal auf dich aus.
+
+#### Falkner
+*Klein, Sozialer Status*<br>
+Der Charakter dressiert Falken und Habichte für einen adeligen Gönner und ist für die Ausbildung, Zucht und Gesundheit der Tiere verantwortlich. Er hat oft einen persönlichen Diener zur Unterstützung und ist ein wichtiges Mitglied des Adelshaushalts, das mit großem Respekt behandelt wird. Er sollte die Fertigkeit Beruf: Falkner besitzen, die die Pflege der Vögel, die Behandlung ihrer Krankheiten sowie die Beschaffung und Zucht von Falken und Habichten regelt. Die Fertigkeit Tierumgang wird für die Dresur der Falken verwendet. Ein Spezialist für Nicht-Falken, wie zum Beispiel Habichte, wird als Austringer bezeichnet.
+
+Ein Falkner erhält bei der Charaktererschaffung 50 zusätzliche Erfahrungspunkte, die auf folgende Fertigkeiten verwendet werden können: Tierumgang, Gebietskunde, Etikette, Jagen, Latein, Beruf: Falkner und Reiten. Viele Falkner sind auch Gebildet.
+
+#### Fällt wie eine Katze
+*Klein, Allgemein*<br>
+Der Charakter wird durch Stürze aus bis zur dreifachen eigenen Körperhöhe nicht verletzt, oder bis zur sechsfachen Höhe, wenn er seinen Fall abfedern kann, indem er sich an Fenstersimsen festhält, durch Markisen bricht oder auf dem Weg nach unten an Ästen hängenbleibt. Aus größeren Höhen erleidet der Charakter Aufprallschaden von +1 für jeden zusätzlichen Fuß, wenn er auf einem harten Untergrund landet, oder für jeden zusätzlichen vier Fuß, wenn er auf einem weichen Untergrund landet.
+
+#### Vertrautheit mit den Feen
+*Klein, Übernatürlich*<br>
+Du besitzt ein natürliches Verständnis für die Eigenheiten der Feen, vielleicht weil du Zeit unter ihnen verbracht hast. Du erhältst +2 auf alle Würfe, die soziale Interaktion mit Feen beinhalten. Du erhältst außerdem die Effekte der Gesunder-Menschenverstand-Tugend, jedoch nur wenn die Situation Feen betrifft. Du darfst Feenkunde bei der Charaktererschaffung erwerben, selbst wenn du normalerweise keine Arkanen Fertigkeiten nehmen kannst.
+
+#### Berühmt
+*Klein, Allgemein*<br>
+Du hast eine gute Reputation der Stufe 4. Wähle eine beliebige Reputation (sie muss nicht gerechtfertigt sein) und einen Typ.
+
+#### Schneller Zauberer
+*Klein, Hermetisch*<br>
+Deine Magie erfordert weniger Zeit als die anderer Magi. Du erhältst +3 auf Initiative zum Zaubern im Kampf und +3 auf Würfe zur Bestimmung der Schnellzauber-Geschwindigkeit.
+
+#### Federbote
+*Klein, Übernatürlich*<br>
+Diese Tugend steht nur einem Charakter zur Verfügung, der die Form eines Vogels annehmen kann (was auch ihre natürliche Form sein kann). Sie kann schmerzlos eine Feder von ihrem Körper ablösen und diese als Federkiel zum Schreiben verwenden, wobei sie deren Bewegungen telepathisch kontrolliert, solange er sich in Sichtweite befindet. Der Kiel benötigt keine Tinte; er erzeugt sie magisch. Nach Abschluss des Schreibens kann der Charakter die Feder wieder befestigen, wenn er sich in Vogelform befindet. Die Qualität des Charakters als Schreiber unterscheidet sich nicht zwischen menschlicher und Vogelform. Der Charakter kann in Vogelform auch Federn abziehen, sich in einen Menschen verwandeln und die fallen gelassenen Federn gedanklich weiterhin kontrollieren. Diese Tugend ist besonders mit einer nordafrikanischen magischen Tradition namens „Töchter der Vier Väter" verbunden (siehe *Zwischen Sand und Meer*, Seite 107).
+
+#### Wildheit
+*Klein, Allgemein, nur Tiere*<br>
+Wie Gefährten- und Magus-Charaktere besitzt dieser Charakter Selbstvertrauenspunkte. Diese Selbstvertrauenspunkte können jedoch nur in Situationen eingesetzt werden, in denen seine natürliche tierische Wildheit ausgelöst wird, etwa wenn er seinen Bau verteidigt oder gegen einen natürlichen Feind kämpft. Beschreibe eine Situation, die das Selbstvertrauen seiner Art auslöst, und nimm 3 Selbstvertrauenspunkte und einen Selbstvertrauenswert von 1, die eingesetzt werden können, wenn diese Umstände eintreten.
+
+#### Fida'i
+*Klein, Sozialer Status*<br>
+Der Charakter ist ein Attentäter der Nizari-Ismaeliten. Ein Fida'i ist ein ergebenes Mitglied der Sekte, das bereit ist, auf deren Befehl zu sterben, und sollte daher erwägen, den Treueeid- oder Pflichtgebunden-Fehler zu nehmen. Wenn er sich nicht auf einer Mission befindet, trägt ein Fida'i Weiß mit einem roten Gürtel, einer roten Mütze oder roten Stiefeln. Er wurde im präzisen Einsetzen von Dolchen und Klingen sowie in der Verkleidung ausgebildet. Fida'i dürfen bei der Charaktererschaffung Kampffertigkeiten erwerben. Wenn er seiner Loyalität gegenüber der Sekte beweist, kann er zum Lasiq aufsteigen.
+
+Diese Sozialer-Status-Tugend kann von einem Charakter gewählt werden, der weit entfernt von der Heimat der Nizaris lebt, da Attentäter auf Missionen gesandt werden und weit weggeschickt werden können. Ein solcher Charakter sollte einen Geschichte-Fehler haben, der seine Mission darstellt, und den Sozialen Status wählen, den er vorgibt zu haben. Weitere Einzelheiten zu den Nizaris finden sich in *Die Wiege und der Halbmond*, ab Seite 162.
+
+#### Verstecktes Diebesgut finden
+*Klein, Allgemein*<br>
+Ein Charakter mit dieser Tugend erhält +9 Bonus auf Wahrnehmungswürfe beim Durchsuchen eines abgegrenzten Raumes nach versteckten Gegenständen, sofern er den Inhalt des Raumes ungestört umherräumen kann.
+
+#### Makellose Magie
+*Groß, Hermetisch*<br>
+Du meisterst automatisch jeden Zauber, den du lernst. Alle deine Zauber beginnen mit einem Wert von 1 in der entsprechenden Zaubermeisterschafts-Fertigkeit. Du kannst für jeden deiner Zauber eine andere Spezialisierung wählen. Darüber hinaus werden alle deine Fortschrittssummen für Zaubermeisterschafts-Fertigkeiten verdoppelt.
+
+#### Flexible Formulaische Magie
+*Groß, Hermetisch*<br>
+Du kannst die Effekte formulaischer Zauber in geringem Maße variieren und dabei dennoch die Vorteile des Wirkens bekannter Magie nutzen. Du kannst die Zauberstufe um eine Magnitude anheben oder senken, um eine (und nur eine) der Kategorien Reichweite, Dauer, Zielgröße und Zielkategorie um einen Schritt anzuheben oder zu senken, solange dabei keine der normalen Einschränkungen für formulaische Magie verletzt wird. Du kannst alternativ auch einen (und nur einen) dieser Parameter in einen anderen Parameter der gleichen Stufe ändern, ohne die Zauberstufe zu verändern, solange dabei keine der normalen Einschränkungen für formulaische Magie verletzt wird. Zaubererfolg, Erschöpfungsverlust und Penetration werden alle auf Grundlage der endgültig veränderten Zauberstufe berechnet. Du kannst Ritualmagie nicht auf diese Weise manipulieren.
+
+#### Fokussierte Macht
+*Groß, Übernatürlich*<br>
+Der Charakter besitzt eine übernatürliche Macht mit einem engen Wirkungsbereich, wie beispielsweise die Fähigkeit, Spontane Zauber zu wirken, die mit einem einzigen Magietyp verbunden sind. Diese Macht ist vergleichbar mit einem magischen Fokus, da alle möglichen Effekte mit einer Spezialisierung zusammenhängen müssen, die enger gefasst ist als eine einzelne hermetische Form. Die Beispiele für den Großen Magischen Fokus zeigen den Umfang dieser Macht.
+
+Diese Tugend gewährt einen Pool von 25 Punkten. Die maximale Effektstufe und die Penetration beginnen beide bei null. Es kostet 2 Punkte, die maximale Effektstufe um 1 anzuheben, und 1 Punkt, die Penetration um 1 anzuheben. Mit 25 Punkten lässt sich also eine maximale Stufe von 10 mit einer Penetration von 5, oder eine maximale Stufe von 5 mit einer Penetration von 15, oder eine Kombination dazwischen erzielen. Die Macht hat einen Initiativewert gleich der Schnelligkeit des Charakters abzüglich der maximalen Magnitude des Effekts. Der Charakter kann jeden Effekt innerhalb des Wirkungsbereichs der Macht erzeugen, bis zur Stufe des Effekts.
+
+Das Aktivieren dieser Macht kostet eine Erschöpfungsstufe für Effekte der Stufe 25 oder niedriger, zwei Erschöpfungsstufen für Effekte der Stufe 26 bis 50 und drei für Effekte der Stufe 51 bis 75.
+
+Diese Tugend kann mehr als einmal gewählt werden, und die gewonnenen Punkte können addiert werden.
+
+Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden werden. Wenn du Zugang zu anderen Büchern hast, wie *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, *Sphären der Macht: Das Infernale*, *Sphären der Macht: Feenwelt* oder *Heckenzauber (Überarbeitete Ausgabe)*, kannst du die Macht auf einem anderen System übernatürlicher Kräfte aufbauen, um etwas Charaktergerechteres zu erhalten. Beachte dabei, dass Effektstufen in verschiedenen Systemen unterschiedliche Bedeutung haben können, und du möglicherweise die Kosten einer Effektstufe anpassen möchtest. Die Macht muss derselben übernatürlichen Sphäre zugeordnet sein wie das System, auf dem sie basiert. (Wenn du Zugang zu anderen Büchern hast, möchtest du möglicherweise Mächte, die auf hermetischer Magie basieren, auf die Magiesphäre beschränken.)
+
+#### Volksmagie
+*Klein, Übernatürlich*<br>
+Der Charakter ist in der Lage, durch sein Wissen von Bruchstücken okkulten Wissens sehr geringe Magie zu wirken. Wähle eine (Sphären-)Kunde als Schlüsselfertigkeit für diese Magie; er darf diese Fertigkeit bereits bei der Charaktererschaffung erlernen, auch wenn er normalerweise keine Arkanen Fertigkeiten erwerben kann. Die Wahl der (Sphären-)Kunde bestimmt auch, welcher übernatürlichen Sphäre seine Magie für die Zwecke der Auramodifikatoren zugeordnet ist. Er kann nur Zauber in einem engen Bereich erschaffen, der eine der folgenden vier Optionen sein muss:
+
+*Abwehr:* Erschafft einen Ward gegen Tiere oder übernatürliche Kreaturen. Verwendet die Leitlinien für Rego Animal oder Rego Vim.
+
+*Divination:* Erschafft magische Sinne, die Gesundheit, Reichtum und Gemütszustand wahrnehmen. Verwendet die Leitlinien für Intellego Corpus, Intellego Mentem und Intellego Terram.
+
+*Heilung:* Gewährt einen Genesungsbonus für Wunden oder Krankheiten und unterstützt die Geburt von Kindern und Vieh. Verwendet die Leitlinien für Creo Corpus oder Creo Animal. Infernalkunde kann nicht verwendet werden, um diese Art von Effekten zu erzeugen.
+
+*Böser Blick:* Verursacht geringfügige Bosheiten wie Schmerzen, Ernteschäden, Haarausfall, Niesen und dergleichen. Verwendet die Leitlinien für Perdo Corpus, Perdo Animal oder Perdo Herbam. Dominiumkunde kann nicht verwendet werden, um diese Art von Effekten zu erzeugen.
+
+Um einen Zauber zu wirken, muss der Charakter eine Erschöpfungsstufe aufwenden, ob der Zauber gelingt oder misslingt. Er muss außerdem mindestens 15 Minuten damit verbringen, den Zauber vorzubereiten, während er ununterbrochene Konzentration und Zugang zu seinen „magischen" Materialien benötigt (die zwar erforderlich, aber ohne Nutzen für den Zauberwurf sind). Der Zauber wird genau wie ein hermetischer Zauber entworfen. Die Zaubersumme entspricht (Ausdauer + (Sphären-)Kunde + Auramodifikator + Stresswürfel) / 2. Die Penetration wird auf die übliche Weise berechnet: Zauberwert – Zauberstufe + Penetrationsmodifikatoren. Du kannst diese Tugend mehrfach wählen, um Fachkenntnis in einer anderen Zauberkategorie zu erwerben. Jedes Mal, wenn du diese Tugend wählst, kannst du sie derselben Sphäre wie zuvor zuordnen oder eine andere wählen, obwohl ein Charakter keinen Zugang zu sowohl der Göttlichen als auch der Höllensphäre haben kann.
+
+#### Quell des Wissens
+*Klein, Übernatürlich*<br>
+Du hast übernatürlichen Zugang zu Informationen, die du nie erlernt hast. Diese Tugend verleiht dir die Fertigkeit Quell des Wissens 1.
+
+#### Schmiedegefährte
+*Klein, Sozialer Status*<br>
+Der Charakter ist ein unBegabter Handwerker, der einem Verditius-Magus angegliedert ist und für ihn in seinem Labor arbeitet. Du erhältst 50 zusätzliche Erfahrungspunkte, die du verwenden kannst, um die spezifischen Handwerke zu steigern, die sein Meister ausübt. Als Mitglied seines Haushalts genießt sie Schutz und Unterstützung, aber sie ist nicht durch irgendein rechtliches Regelwerk des Ordens des Hermes geschützt.
+
+#### Unscheinbares Gesicht
+*Klein, Allgemein*<br>
+Dieser Charakter wird niemals der sein, der auffällt oder aus einer Menge herausgesucht wird. Momente nachdem man mit ihm gesprochen hat, können die wenigsten Menschen eine angemessene Beschreibung von ihm geben. Ihm werden oft Dinge nachgesehen, weil die Leute nicht sicher sind, ob es tatsächlich er war. Wenn andere Charaktere einen Wurf vornehmen müssen, um ihn zu identifizieren, geschieht dies mit –3. Auf der negativen Seite ist diese Eigenschaft unvereinbar mit großer Schönheit, Charisma oder befehlsgewaltiger Präsenz. Tugenden wie Venussegen oder Inspirierend sind ausgeschlossen, obwohl Venusfluch möglich wäre.
+
+#### Freie Ausdrucksfähigkeit
+*Klein, Allgemein*<br>
+Du besitzt die Vorstellungskraft und Kreativität, die benötigt werden, um eine neue Ballade zu komponieren oder ein originelles Bild zu malen, und hast das Potenzial, ein großer Künstler zu werden. Du erhältst +3 Bonus auf alle Würfe, um ein neues Kunstwerk zu schaffen.
+
+#### Freies Studium
+*Klein, Hermetisch*<br>
+Du bist besser darin, Dinge selbst herauszufinden, als Bücher zu wälzen. Addiere +3 zur Quellenqualität beim Studium aus rohem Vis.
+
+#### Furchteinflößende Erscheinung
+*Klein, Übernatürlich*<br>
+Du bist in der Lage, durch dein Auftreten großes Entsetzen zu wecken. Dies kann auf zwei Arten funktionieren: Entweder bist du in der Lage, dein Gesicht zu einer Schreckensvision zu verzerren (häufig, wenn die Präsenz unter null liegt), oder du strahlst eine Aura der Ehrfurcht und Pracht aus, die andere in die Knie zwingt (häufig, wenn die Präsenz über null liegt).
+
+Jeder, der deine Furchteinflößende Erscheinung miterlebt, muss sofort einen Tapfer-Persönlichkeitseigenschaftswurf gegen einen Schwierigkeitsgrad von 3 ablegen. Addiere deine Präsenz zum Schwierigkeitsgrad, ohne etwaige Minuszeichen zu berücksichtigen (zum Beispiel macht eine Präsenz von +3 oder -3 den Schwierigkeitsgrad zu 6). Bei einem Misserfolg versuchen sie entweder, deine unmittelbare Nähe zu fliehen, oder werden von deiner Pracht eingeschüchtert.
+
+Bleiben die Betroffenen in deiner Nähe (weil sie beeindruckt sind oder weil sie gefangen sind), können sie den Tapfer-Wurf alle zwei Minuten erneut versuchen. Sobald eine Person von der Furchteinflößenden Erscheinung betroffen war und sich von deren Effekten erholt hat, kann sie nicht erneut davon betroffen werden; allerdings wirst du eine entsprechende Reputation (wie Furchteinflößend oder Ehrfurchtgebietend) mit einem Wert von 2 bei jenen erwerben, die du betroffen hast, was deine Beziehungen zu ihnen färben wird.
+
+Dieser Effekt hat eine Penetrationssumme von 0.
+
+#### Geschlechtswechsel
+*Klein, Übernatürlich*<br>
+Jeden Mitternacht kann der Charakter wählen, das Geschlecht zu wechseln. Die männliche und weibliche Form des Charakters sind über alle Verwandlungen hinweg konsistent und sehen einander üblicherweise wie Blutsverwandte aus. Die Persönlichkeitseigenschaften des Charakters können sich zwischen den Formen leicht unterscheiden. Schwangere Charaktere können diese Fähigkeit nicht nutzen.
+
+#### Sanfte Gabe
+*Groß, Hermetisch*<br>
+Im Gegensatz zu anderen Magi, deren magische Natur normale Menschen und Tiere beunruhigt, ist deine Gabe subtil und still. Du leidest nicht unter den üblichen Abzügen im Umgang mit Menschen und Tieren.
+
+#### Edelmann / Edelfrau
+*Klein, Sozialer Status*<br>
+Du bist ein rangniederes Mitglied (möglicherweise unehelich) einer Adelsfamilie. Du hast keinen Erbanspruch bei deinen Verwandten, wirst aber dennoch als eines der Ihren behandelt und kannst als „Herr" oder „Dame" angesprochen werden. Du lebst wahrscheinlich in der Nähe des Konvents bei deinen Verwandten. Obwohl es dir an nichts mangelt, besitzt du keinen großen eigenen Reichtum. Du kannst gelegentlich deine Familie bitten, teure Ausrüstung für dich zu kaufen, wirst aber eine überzeugende Begründung benötigen. Von dir wird erwartet, dass du deine Verwandten einen Großteil der Zeit bedienst, andernfalls verlierst du die Vorteile der Familie (obwohl du deinen gesellschaftlichen Stand behältst, wenn du deinen normalen Lebensstil anderweitig aufrechterhalten kannst). Die Wohlstand-Tugend und der Arm-Fehler wirken sich normal auf dich aus.
+
+#### Geisterhafter Hüter
+*Groß, Allgemein*<br>
+Ein Geist wacht über dich. Es könnte sich um einen Großelternteil, einen Jugendfreund oder eine andere Person handeln, die sich genug um dich sorgt, um nach dem Tod bei dir zu bleiben. Der Geist ist für alle außer dir und jenen mit dem Zweiten Gesicht unsichtbar und unhörbar (siehe [Seite 170](#zweites-gesicht-1)). Er kann sehen und hören, was um dich herum geschieht, und ist ein ausgezeichneter Spion, da er einmal täglich für bis zu eine halbe Stunde deine Nähe verlassen kann. Der Tod hinterlässt Menschen jedoch nicht in ihrem normalen Geisteszustand, sodass der Geist wahrscheinlich einige Eigenheiten hat, die ihn unzuverlässig machen – er könnte dich sogar ermutigen, ihm auf die andere Seite zu folgen. Der Geist verfügt über 300 Erfahrungspunkte in verschiedenen Fertigkeiten, die er verwenden kann, um dich zu beraten, und Geister dürfen jede Fertigkeit besitzen. Siehe [Seite 457](#geisterwächter) für ein Beispiel eines geistigen Wächters. Dies ist eine spezifischere Version des Magischen Wächters (siehe weiter unten) und ein Beispiel für jene Tugend.
+
+#### Die Gabe
+*Frei, Besonders*<br>
+Du besitzt die Fähigkeit, Magie zu wirken. Vollständige Einzelheiten finden sich weiter oben auf [Seite 63](#die-gabe).
+
+#### Guter Lehrer
+*Klein, Allgemein*<br>
+Du kannst neue Konzepte und Fähigkeiten mit großer Leichtigkeit vermitteln. Addiere drei zur Qualität aller Bücher, die du schreibst, und fünf zur Quellenqualität für jeden, der bei dir studiert.
+
+#### Riesenblut
+*Groß, Allgemein*<br>
+Das Blut der alten Rassen der Riesen fließt in deinen Adern. Obwohl du nicht so groß bist wie deine Vorfahren, kannst du bis zu acht Fuß groß werden und bis zu 500 Pfund wiegen. Deine Größe beträgt +2, sodass du Wunden in Schritten von 7 Punkten erleidest, anstatt der üblichen 5 (siehe [Seite 404](#zierlicher-körperbau)). Du erhältst außerdem +1 sowohl auf Stärke als auch auf Ausdauer. Dieser Bonus kann deine Werte in diesen Eigenschaften auf bis zu +6 anheben. Du kannst diese Tugend nicht zusammen mit Großgewachsen ([Seite 89](#wunden)), Zierlicher Körperbau ([Seite 145](#zwerg)) oder Zwerg ([Seite 126](#großgewachsen)) nehmen.
+
+#### Gorgiast
+*Klein, Hermetisch*<br>
+Diese Magi oder ihre Vorfahren haben die Lehren des Hauses Criamon abgelehnt und das Haus verlassen. Diese Magi dürfen nach der Charaktererschaffung Werte in Enigmatischer Weisheit und Hauskundige: Criamon besitzen. Der Wert der Enigmatischen Weisheit des Charakters kann ohne die Hilfe von Criamon-Magi oder einen magischen Durchbruch 4 nicht überschreiten. Haus Criamon versucht, Gorgiast-Magi zur Rückkehr zu bewegen. Gorgiast-Magi haben in der Regel keine Criamon-Markierungen, entwickeln diese jedoch, wenn sie beginnen, den Ursachen der Dinge nachzuforschen; weitere Details finden sich in *Häuser des Hermes: Mysterienkultee*, Haus Criamon.
+
+#### Klatschbase
+*Klein, Allgemein*<br>
+Du verfügst über regelmäßige soziale Kontakte in der Gegend, die dir allerlei Informationen über lokale gesellschaftliche und politische Vorgänge liefern. Bei einem einfachen Wurf von 6+, erfährst du interessante Neuigkeiten fast vor allen anderen. Du behandelst alle lokalen Reputationen als doppelt so hoch wie ihren tatsächlichen Wert. Mit einigen gezielt platzierten Worten kannst du möglicherweise neue Reputationen verleihen (ob verdient oder nicht). Du hast höchstwahrscheinlich selbst eine Reputation – als Klatschbase.
+
+#### Hervorragende (Eigenschaft)
+*Klein, Allgemein*<br>
+Du kannst jede Eigenschaft, die bereits einen Wert von mindestens +3 hat, um einen Punkt anheben, auf höchstens +5. Beschreibe genau, was an dir diese Steigerung verursacht (wie zum Beispiel schiere körperliche Masse, eine schlanke Figur oder extremes Charisma). Du kannst diese Tugend zweimal für dieselbe Eigenschaft und für mehr als eine Eigenschaft nehmen.
+
+#### Große Segnung
+*Groß, Übernatürlich*<br>
+Du wurdest von einer übernatürlichen Macht gesegnet. Die Auswirkungen der Segnung sollten mit anderen Großen Tugenden vergleichbar sein. (Siehe Kasten für Beispiele.)
+
+> #### Beispiele für Große Segnungen
+>
+> ##### Flug
+>
+> Du bist in der Lage zu fliegen, ohne Flügel zu benötigen. Jedes Mal, wenn du dich in die Luft erhebst, verlierst du eine Langzeit-Erschöpfungsstufe und kannst maximal eine Stunde in der Luft bleiben, wobei du in dieser Stunde bis zu fünfzig Meilen zurücklegen kannst. Sobald du den Boden berührst, endet dein aktueller Flug, unabhängig davon, wie viel von deiner Stunde noch verbleibt. Du benötigst ein Hilfsmittel zum Fliegen, wie einen Teppich oder einen Stab, aber jedes Hilfsmittel des entsprechenden Typs genügt.
+>
+> ##### Wahres Sehen
+>
+> Du wirst selten durch Glamour oder Illusionen getäuscht, die das Aussehen von etwas verändern (obwohl ein falsches Bild, das das Aussehen eines bestimmten Dings nicht verändert, wie das eines Creo-Imaginem-Zaubers, dich dennoch täuscht). Darüber hinaus kannst du stets die wahre Form eines gestaltwandelnden Wesens erkennen (allerdings nicht die Mitglieder des Hauses Bjornaer, da sowohl ihre menschliche als auch ihre tierische Form „wahre" Formen sind). Diese Macht hat eine Penetration von 20.
+>
+> ##### Allgemein beliebt
+>
+> Jeder, der dich kennt, ist dein Freund. Du erhältst +3 Bonus auf alle sozialen Würfe mit Personen, die dich seit mehr als einem Monat kennen. Wer versucht, gegen dich vorzugehen, indem er die Gefühle oder Meinungen anderer beeinflusst, erhält +3 auf alle Schwierigkeitsgrade. Dieser Effekt hat eine Penetration von 0.
+
+#### Große Immunität
+*Groß, Übernatürlich*<br>
+Du bist vollständig immun gegen eine Gefahr, die sowohl häufig als auch potenziell tödlich ist. Du könntest beispielsweise gegen Feuer oder gegen Eisenwaffen (und nur Eisenwaffen) immun sein. Du darfst keine Immunität gegen Altern nehmen – siehe stattdessen die kleine Tugend Nicht alternd ([Seite 114](#nicht-alternd)). Diese Immunität gilt für gewöhnliche und magische Varianten der Sache. Wenn du gegen Feuer immun bist, bist du auch gegen magisch erschaffenes Feuer immun.
+
+Eine wichtige Möglichkeit ist die Immunität gegen Entbehrung, was bedeutet, dass du keinen Erschöpfungs- oder Wundenverlust durch den Mangel an Luft, Nahrung oder Wasser erleidest. Du kannst jedoch keine Langzeit-Erschöpfungsstufen ohne Ruhe und Versorgung wiedererlangen, und wenn du verletzt bist, könnte Entbehrung dazu führen, dass sich deine Wunden verschlechtern.
+
+Du kannst diese Tugend mehr als einmal nehmen, jedes Mal mit einer anderen Immunität.
+
+#### Große Macht
+*Groß, Übernatürlich*<br>
+Der Charakter besitzt eine übernatürliche Macht, die er nach Belieben aktivieren kann. Wenn du die Tugend einmal nimmst, ist dies eine einzelne Macht, die einem formulaischen hermetischen Zauber der Stufe 50 oder niedriger entspricht. Du kannst auch Stufen eins-zu-eins aufwenden, um der Macht Penetration zu verleihen; andernfalls hat sie eine Penetration von null.
+
+Diese Tugend kann mehr als einmal genommen werden, und die Stufen werden zusammengezählt, um mehrere Mächte zu erschaffen. Ein Charakter, der die Tugend zweimal nimmt, könnte beispielsweise eine Macht der Stufe 60 mit einer Penetration von 0 und eine zweite Macht mit einer Stufe und Penetration von je 20 besitzen. Standardmäßig sollte es eine Macht pro Tugend geben, da diese Tugend für Mächte gedacht ist, die einzeln bedeutsam sind. Siehe Mindere Macht ([Seite 90](#mindere-macht)), wenn dein Charakter mehrere kleinere Mächte haben soll. Die Spieltruppe kann dem Charakter jedoch erlauben, mehr Mächte zu nehmen, wenn sie einen starken thematischen Zusammenhang haben.
+
+Die Macht hat eine Initiative gleich der Schnelligkeit des Charakters – (Magnitude der Macht / 2) (abgerundet). Das Aktivieren kostet eine Erschöpfungsstufe, wenn ihre Stufe 50 oder niedriger ist, oder zwei Erschöpfungsstufen, wenn ihre Stufe 51 bis 100 beträgt. Noch höhere Effektstufen sind wahrscheinlich nicht sinnvoll.
+
+Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden werden. Wenn du Zugang zu anderen Büchern hast, wie *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, *Sphären der Macht: Das Infernale*, *Sphären der Macht: Feenwelt* oder *Heckenzauber (Überarbeitete Ausgabe)*, kannst du die Macht auf einem anderen System übernatürlicher Kräfte aufbauen, um etwas Charaktergerechteres zu erhalten. Beachte dabei, dass Effektstufen in verschiedenen Systemen unterschiedliche Bedeutung haben können, und du möglicherweise die Anzahl der Effektstufen anpassen möchtest. Die Macht muss derselben übernatürlichen Sphäre zugeordnet sein wie das System, auf dem sie basiert. (Wenn du Zugang zu anderen Büchern hast, möchtest du möglicherweise Mächte, die auf hermetischer Magie basieren, auf die Magiesphäre beschränken.)
+
+#### Große Reinigende Berührung
+*Groß, Übernatürlich*<br>
+Du kannst mit einer Berührung und dem Aufwand einer Erschöpfungsstufe eine einzelne schwere Krankheit heilen. Diese Krankheit sollte entweder lebensbedrohlich oder schwer behindernd sein und eine sein, von der Menschen sich normalerweise nicht von selbst erholen. Du musst die Krankheit, die du heilen kannst, beim Nehmen dieser Tugend festlegen, und du kannst nur diese Krankheit heilen. Du kannst nur eine Krankheit wählen, keine anderen Arten von Verletzungen oder Unglück. Weitere Informationen zu Krankheiten finden sich auf [Seite 406](#krankheiten), und in *Artes et Academiae*, [Seite 45](#krankheiten), finden sich ausführlichere Details.
+
+#### Schutzengel
+*Groß, Allgemein*<br>
+Du hast gelernt, die Worte eines göttlichen Wächters zu vernehmen, der dir praktische und spirituelle Ratschläge erteilt. Der Engel flüstert dir ins Ohr und sagt dir, was geistlich – und nicht materiell – das Beste für dich ist. Er billigt Gewalt nur, wenn ein heiliger Grund vorliegt, was oft schwer zu belegen ist. Handelst du gegen den Rat des Engels, kann er dich verlassen, bis du deinen Weg korrigiert hast. Der Engel hat nur ein begrenztes Bewusstsein von deinen Gedanken, doch wenn du laut sprichst, kann er hören und sich mit dir unterhalten.
+
+Dein Schutzengel kann auch auf zwei praktische Weisen helfen. Erstens kann er dir einen Bonus von +5 auf die Absorption gewähren. Zweitens kann er dir eine Magieresistenz von 15 verleihen. Diese Magieresistenz ist nicht mit der Parma Magica eines Magus oder der Magieresistenz aus den meisten anderen Quellen vereinbar, addiert sich jedoch zur Magieresistenz, die aus Glaubenspunkten resultiert (siehe Seite 419). Der Engel gewährt dir diese Boni nur, wenn du im Einklang mit Gottes Willen handelst.
+
+#### Gast des Hauses Criamon
+*Klein, Hermetisch*<br>
+Magi mit dieser Tugend sind politisch gesehen Mitglieder des Hauses Criamon, können jedoch nach den Regeln für jedes andere Haus erschaffen werden. Gäste werden aus vielen Gründen eine Mitgliedschaft angeboten, die Criamon als politische Formalität betrachtet, und ihnen wird so Zuflucht in diesem Haus gewährt. Die Spieltruppe und der Spieler sollten gemeinsam bestimmen, warum der Charakter es für notwendig erachtete, beim diesem Haus Zuflucht zu suchen.
+
+#### Gilden-Lehrling
+*Klein, Sozialer Status*<br>
+Der Charakter ist ein Jugendlicher im Alter zwischen 10 und 20 Jahren, der bei einem Gildenmeister oder Gesellen sein Handwerk erlernt. Er hat einen Vertrag mit seinem Meister abgeschlossen, der seine Ausbildung garantiert. Der Charakter kann weder vom Fehler Arm noch von der Tugend Wohlhabend profitieren, da er im Wesentlichen das Eigentum seines Meisters ist, bis er den Rang eines Gesellen erreicht. Der größte Teil seiner Zeit wird auf eine Weise verbracht, die sein Meister bestimmt.
+
+#### Gildendekan
+*Groß, Sozialer Status*<br>
+Der Charakter ist die oberste Autorität seiner Gilde, derjenige, der viele der wichtigen Entscheidungen trifft, mit denen die Gilde konfrontiert wird, und der sie politisch vertritt. Der Charakter ist in die Stadtpolitik, in langfristige Handelskontakte sowie in Verhandlungen mit anderen Gilden und örtlichen Handwerkern eingebunden. Die Stadtbevölkerung betrachtet ihn als bedeutendes und angesehenes Mitglied ihrer Gemeinschaft. Du kannst Akademische Fertigkeiten bei der Charaktererschaffung wählen.
+
+#### Gildenmeister
+*Klein, Sozialer Status*<br>
+Der Charakter ist ein Gildenmeister und darf sein Handwerk legal in der Stadt ausüben sowie Gesellen für sich arbeiten lassen. Er nimmt an den Aktivitäten der Gilde teil und gilt als einwandfreies Mitglied. Du kannst Akademische Fertigkeiten bei der Charaktererschaffung wählen.
+
+#### Gezügelte Magie
+*Klein, Hermetisch*<br>
+Du hast große Kontrolle über deine Zauber. Du kannst jeden deiner Zauber einfach durch Konzentration aufheben. Du kannst sogar die Magie in Zauberartefakten aufheben, die du erschaffen hast. Das Aufheben deiner Magie sollte für Timing- und Konzentrationszwecke so behandelt werden, als würdest du einen Zauber wirken. Wirst du abgelenkt und misslingt dir ein Konzentrationswurf, kann in einer späteren Runde ein weiterer Versuch unternommen werden. Zauber und Zauberartefakte können über jede Entfernung hinweg aufgehoben werden, doch sobald sie aufgehoben wurden, musst du einen Zauber neu wirken oder eine Kraft in einem Zauberartefakt neu einbetten, um den Effekt erneut zu starten.
+
+Der Nachteil ist, dass beim Tod alle deine Zauber und Zauberartefakte erlöschen.
+
+#### Herztier
+*Klein, Hermetisch*<br>
+Du wurdest in das Äußere Mysterium des Herztieres eingeweiht (siehe [Seite 233](#bjornaer-das-herztier)) und bist damit ein Mitglied des Hauses Bjornaer. Du beginnst mit der Fertigkeit Herztier 1. Beachte, dass alle Bjornaer-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
+
+#### Hermetische Erfahrung
+*Klein, Allgemein*<br>
+Der Charakter hat Erfahrung mit den Magi des Ordens des Hermes. Vielleicht ist er derzeit in einem Konvent beschäftigt, hat einst in der Gefolgschaft eines Magus gedient oder hatte sonstige Geschäfte oder Auseinandersetzungen mit diesen. In jedem Fall hast du zusätzliche 50 Erfahrungspunkte, die du für Ordenskunde, Magiekunde oder Latein ausgeben kannst. Du kannst keine anderen Erfahrungspunkte für Magiekunde oder Latein ausgeben, es sei denn, der Charakter hat eine weitere Tugend oder einen Fehler, der dies erlaubt. Diese Tugend kann von jedem Grog oder Konventsbewohner genommen werden, oder von jenen, die eine außergewöhnlich enge Beziehung zum Orden des Hermes hatten. Sie kann auch von einem Magus genommen werden, hat aber normalerweise keinen Nutzen.
+
+#### Hermetischer Magus
+*Frei, Sozialer Status*<br>
+Du bist Mitglied des Ordens des Hermes. Alle Magi müssen dies als ihren Sozialen Status nehmen, und nur Magi dürfen es nehmen.
+
+#### Hermetisches Ansehen
+*Klein, Hermetisch*<br>
+Aufgrund irgendeines Aspekts in deiner Vergangenheit blicken andere Magi zu dir auf, auch wenn du dir ihren Respekt nicht verdient hast. Manche beneiden dich, und die meisten werden sicherlich mehr von dir erwarten als von anderen. Du erhältst eine Reputation der Stufe 4 innerhalb des Ordens.
+
+#### Verhexung
+*Groß, Übernatürlich*<br>
+Der Charakter hat die Fähigkeit, ihre Feinde zu verfluchen, indem sie unheilvolle Prophezeiungen über deren Zukunft ausspricht, die sich zu bewahrheiten pflegen. Dies verleiht ihr die Übernatürliche Fertigkeit Verhexung mit einem Wert von 1. Diese Tugend ist am häufigsten mit der Höllensphäre verbunden.
+
+#### Heimfindungsinstinkt
+*Klein, Übernatürlich*<br>
+Der Charakter weiß stets genau, wie er von seinem aktuellen Standort zu einer Anzahl von Orten gelangt, die seinem Intelligenzwert entspricht (mindestens jedoch 1). Um einen Ort in das Repertoire des Charakters aufzunehmen, muss er sich an diesem Ort befinden, der Ort muss im Freien liegen (darf also beispielsweise nicht im Inneren eines Gebäudes sein), und der Spieler muss einen Intelligenz + Konzentrations-Wurf gegen einen Schwierigkeitsgrad von 6 schaffen. Würde dies die Anzahl der bekannten Orte über das Limit des Charakters hinaus erhöhen, muss ein anderer Ort „vergessen" werden.
+
+Darüber hinaus hat der Charakter eine feste Arkane Verbindung zu den Orten, die er kennt, die auf die übliche Weise genutzt werden kann ([Seite 219](#arkane-verbindungen)). Diese Arkane Verbindung ist ein Artefakt des Geistes und kann daher nicht an einen anderen Charakter weitergegeben werden.
+
+#### Durchdrungen vom Geist der (Form)
+*Klein, Hermetisch*<br>
+Der Magus hat einen Teil der Kräfte eines Elementarwesens oder eines anderen magischen Objekts absorbiert (vielleicht durch Verzehr). Dieser Vorgang trübt den Magus, sodass jedes Wesen mit einer Magischen Macht, die mit der Form dieser Tugend verknüpft ist, seine Natur in der Nähe wahrnehmen kann. Schwache Kreaturen werden in der Regel Angst vor dem Magus haben, während mächtige versuchen werden, ihn zu töten.
+
+Wann immer der Magus einen Zauber wirkt oder eine Laborarbeit ausführt, die Vis der gewählten Form erfordert, kann er langfristige Erschöpfungsstufen als Ersatz für die Vis einsetzen. Jede verlorene langfristige Erschöpfungsstufe verringert den Vis-Bedarf des Zaubers oder Effekts um 1. Beim Wirken eines Zaubers gehen die Erschöpfungsstufen nach dem Zaubern verloren. Bei Laborarbeiten hält der Erschöpfungsverlust für die Dauer des Laborprozesses an (also mindestens ein Quartal), und als Vis-Ersatz eingesetzte Erschöpfungsstufen zählen nicht zur Vis-Ausgabenbeschränkung des Magus pro Quartal. Der Magus erleidet den Erschöpfungsabzug auf seine Laborsumme.
+
+Beachte, dass das Studieren von Vis keine Laborarbeit ist, weshalb der Magus beim Vis-Studium keine Erschöpfungsstufen als Vis-Ersatz einsetzen kann.
+
+Als Beispiel: Ein Magus, der den Zauber Verzauberung des Spionagepools als Ritual wirkt (InAq 30, [Seite 322](#verzauberung-des-seherbeckens)), benötigt 6 Bauern irgendeiner Kombination aus Intellego- und Aquam-Vis. Ist der Magus Durchdrungen vom Geist des Aquam, kann er sich ermüden (und dabei drei langfristige Erschöpfungsstufen verlieren) und damit den Vis-Bedarf um 3 verringern.
+
+#### Immun gegen Krankheit
+*Groß, Übernatürlich, Befleckt*<br>
+Der Charakter ist als Eigentum eines sehr mächtigen Dämons gekennzeichnet, und die niederen Dämonen, die die meisten Krankheiten verursachen, weigern sich, ihm Schaden zuzufügen. Selbst Charaktere, die sich gegen ihre Meister wenden, behalten diesen Schutz, da die Markierung unauslöschlich ist und Krankheitsdämonen in der Regel nicht sonderlich klug sind. Einige Krankheiten – zum Beispiel solche, die Gott als Geißel schickt – betreffen den Charakter normal.
+
+#### Unempfindlichkeit gegen Kälte
+*Klein, Übernatürlich*<br>
+Normale Kälte schadet dir nicht, noch bereitet sie dir Unbehagen. Du benötigst keine warme Umgebung, um gesund zu bleiben. Extreme, magisch erzeugte Kälte, wie etwa der Effekt von Eisiger Griff des Zauberers ([Seite 346](#eisiger-griff-des-zauberers)), betrifft dich jedoch weiterhin normal.
+
+#### Verbesserte Eigenschaften
+*Klein, Allgemein*<br>
+Du hast drei zusätzliche Punkte, um Eigenschaften zu kaufen, bist jedoch weiterhin auf einen Höchstwert von +3 in jeder einzelnen Eigenschaft beschränkt, sofern du nicht die Tugend Hervorragende Eigenschaft nimmst. Du kannst diese Tugend mehrfach nehmen.
+
+#### Unscheinbares Gesicht
+*Klein, Allgemein*<br>
+Nachdem andere Charaktere diesen Charakter getroffen haben, fällt es ihnen in der Regel schwer, ihn so zu beschreiben, dass er sich hinreichend von anderen unterscheiden ließe. Manche vergesslichen Charaktere sind schlicht von durchschnittlicher Größe und Statur, mit unauffälligen Zügen. Andere haben ein bestimmtes Merkmal, das so auffällig ist, dass es alle anderen Erinnerungen verdrängt. Er trägt einen protzigen Hut. Sie hatte ein kleines Hündchen dabei. Die Charaktere können sich an das auffällige Merkmal erinnern, an kaum etwas anderes jedoch. Ein Spieler, der diese Tugend für seinen Charakter wählt, muss festlegen, welche Form der Tugend sein Charakter hat.
+
+Ein Charakter, der schlicht durchschnittlich ist, ist immer vergesslich. Er kann diese Eigenschaft nicht abschalten und nutzt möglicherweise Requisiten, wenn er sich unter anderen Kriminellen eine Reputation aufbaut. Er kann zum Beispiel „der Typ mit den schwarzen Handschuhen, der Leute erdrosselt" sein, obwohl sich niemand genau erinnert, wie er aussieht. Eng verbundene Charaktere können sich mit der Zeit so sehr an das vergessliche Gesicht des Charakters gewöhnen, dass sie es sich einprägen.
+
+Ein Charakter, der mit einem Requisit ablenkt, kann nach Belieben auffällig sein. Er muss seine Ablenkungsmittel einfach nicht einsetzen, wenn er einen Eindruck hinterlassen möchte. Er kann sein ablenkendes Requisit auch wechseln. Hört er beispielsweise, dass jemand nach einer Dame mit einem seltsamen Hund sucht, könnte er auf ein Baby oder einen kuriosen Hut wechseln. Ein Charakter, der mit Requisiten ablenkt, wird von zufälligen Menschen in Menschenmassen in der Regel nicht erkannt (deren Augen ebenfalls dem Requisit folgen und nicht dem Gesicht), doch dieser Schutz ist weniger vollkommen als ein wirklich vergessliches Gesicht.
+
+#### Unabhängiges Studium
+*Klein, Allgemein*<br>
+Der Charakter entwickelt neue Fertigkeiten auf eigene Faust außerordentlich schnell. Beim Studium durch Übung werden zur Quellenqualität zwei Punkte addiert, und bei Abenteuererfahrung werden drei Punkte zur Quellenqualität addiert.
+
+#### Einflüstern
+*Groß, Übernatürlich*<br>
+Der Charakter hat die übernatürliche Fähigkeit, Menschen Dinge erleben zu lassen, die nicht vorhanden sind. Sie erhält die Übernatürliche Fertigkeit Einflüstern ([Seite 166](#einflüstern-1)) mit einem Wert von 1.
+
+#### Ineslemen
+*Klein, Sozialer Status*<br>
+Dieser Charakter ist Mitglied eines der designierten religiösen Stämme der Tuareg und genießt daher eine gewisse Autorität in Streitfragen sowie Immunität gegenüber den üblichen feudalen Forderungen der Adligen. Er darf während der Charaktererschaffung Theologie: Islam, Islamisches Recht und (Sphären-)Kunde erwerben und erhält zusätzliche 50 EP, die er für diese Fertigkeiten ausgeben kann. Der Charakter beginnt mit dem Kleinen Fehler Nichtkämpfer, der keine Punkte für den Kauf von Tugenden einbringt. Dieser Soziale Status existiert nur in Nordafrika.
+
+#### Infernales Erbstück
+*Klein, Übernatürlich, Befleckt*<br>
+Infernale Erbstücke sind magische Gegenstände, die der Charakter von einem Diabolisten erbt oder, seltener, findet. Der Charakter hat den Gebrauch des Gegenstands, ohne sich mit dem Dämon auseinandersetzen zu müssen, der ihn erschaffen hat. Der Gegenstand ist auf irgendeine Weise äußerst nützlich, doch jede Verwendung bringt seinen Besitzer dem Charakter des Dämons näher, da dieser versucht, seinen Schatz zurückzufordern.
+
+Die meisten infernalen Erbstücke haben nur einen einzigen Effekt, und sie werden in der Regel durch eine geringfügige Sünde oder die Absicht zur Sünde ausgelöst. Als Richtlinie gilt: Jedes Erbstück kann einmal pro Tag einen Effekt erzeugen, der einem Hermetischen Zauber der Stufe 25 entspricht. Gegenstände mit weniger mächtigen Effekten dürfen nach Ermessen der Spieltruppe häufiger eingesetzt werden.
+
+#### Für (Wesen) ungefährlich
+*Klein, Allgemein und Hermetisch*<br>
+Diese Tugend ist mit einer von fünf Klassen von Wesen verbunden: Tieren, göttlichen Wesen, Feen, Dämonen oder magischen Kreaturen. Die letzten vier umfassen Charaktere, die durch Übernatürliche Tugenden oder Fehler mit der Göttlichen, der Feensphäre, der Hölle oder der Magischen Sphäre verbunden sind, sowie Wesen mit Macht.
+
+Die Gabe des Charakters stört Wesen dieser Art nicht, obwohl sie bei anderen weiterhin die normale Wirkung hat. So erleichtert zum Beispiel Ungefährlich für Tiere den Umgang mit gewöhnlichen Tieren. Tiere, die auf die Gabe positiv reagieren, reagieren weiterhin positiv auf ihn, da er die Gabe tatsächlich besitzt, aber diejenigen, die von ihr gestört werden, sind nicht durch seine Anwesenheit beunruhigt.
+
+Du kannst diese Tugend nicht mehr als einmal nehmen; Charaktere, die für mehr als eine Art von Wesen ungefährlich sind, sollten stattdessen die Sanfte Gabe nehmen. UnBegabte Charaktere dürfen diese Tugend nur nehmen, wenn sie den Fehler Magische Ausstrahlung haben.
+
+Beachte, dass Ungefährlich für gewöhnliche Menschen nicht als Kleine Tugend verfügbar ist; nimm stattdessen die Sanfte Gabe.
+
+#### Inspirierend
+*Klein, Allgemein*<br>
+Du bist ein mitreißender Redner oder eine Heldenfigur und kannst Menschen zu großen Leistungen anspornen. Du gewährst Zielen einen +3-Bonus auf Würfe für angemessene Persönlichkeitseigenschaften.
+
+#### Intuition
+*Klein, Allgemein*<br>
+Du besitzt eine natürliche Feinfühligkeit, die es dir erlaubt, häufiger die richtigen Entscheidungen zu treffen, als das Glück erklären könnte. Wann immer du vor einer Entscheidung stehst, bei der Glück eine wichtige Rolle spielt (etwa die Wahl zwischen drei unerkundeten Wegen), hast du eine gute Chance, die richtige zu treffen. Der Spielleiter würfelt heimlich einen einfachen Würfel. Bei einem Ergebnis von 6 oder mehr setzt deine Intuition ein und du triffst die Entscheidung, die als „richtig" gelten kann. Andernfalls erhältst du keine Eingebung und musst ohne Hilfe entscheiden.
+
+#### Erfinderisches Genie
+*Klein, Hermetisch*<br>
+Erfinden liegt dir im Blut. Du erhältst +3 auf deine Laborsumme, wenn du keinen Labortext verwendest und auch nicht unterrichtet wirst. Wenn du experimentierst, erhältst du +6.
+
+#### Alleskönner
+*Klein, Allgemein*<br>
+Der Charakter kann sich fast allem zuwenden. Er erleidet keine zusätzlichen Patzerwürfel, wenn er einen Fertigkeitswurf für eine Fertigkeit versucht, in der er keinen Wert hat (siehe [Seite 157](#fertigkeiten-ohne-wert)). Handelt es sich um eine mit Sternchen markierte Fertigkeit, kann er einen Wurf so versuchen, als hätte er einen Wert von null, mit drei zusätzlichen Patzerwürfeln, sofern und nur sofern er normalerweise Fertigkeiten dieses Typs nehmen kann. Charaktere ohne diese Tugend können überhaupt keinen Wurf auf eine mit Sternchen markierte Fertigkeit versuchen, ohne zumindest einen Erfahrungspunkt darin zu haben. So muss er beispielsweise über eine Tugend verfügen, die Arkane Fertigkeiten erlaubt, um einen ungeübten Magiekunde-Wurf zu versuchen. Einige Fertigkeiten sind von dieser Tugend ausgenommen, darunter solche, die nicht gewürfelt werden (wie Parma Magica oder Penetration) sowie alle Übernatürlichen Fertigkeiten (für die jeweils eine eigene Tugend erforderlich ist, nicht nur der Typ). Die Spieltruppe kann von Fall zu Fall weitere Ausnahmen festlegen, doch diese Tugend soll dem Charakter ermöglichen, Dinge zu versuchen, die normalerweise eine Ausbildung erfordern würden.
+
+#### Geselle
+*Klein, Sozialer Status*<br>
+Der Charakter ist ein ausgebildeter Gildenhandwerker und darf sein Handwerk in der Stadt unter Gildenaufsicht ausüben. Er arbeitet für einen Meister gegen Lohn.
+
+#### Jurist
+*Klein, Sozialer Status*<br>
+Der Charakter ist Richter, Anwalt oder Prokurator – im Wesentlichen ein mittelalterlicher Rechtsgelehrter in irgendeiner Funktion. Bei der Charaktererschaffung darf er die Fertigkeiten Latein, Artes Liberales sowie Zivil- und Kanonisches Recht erwerben. Er muss nicht zwingend an einer Universität ausgebildet worden sein, da er seine Bildung auch durch Privatschulen, Hauslehrer oder eine Domschule erlangt haben kann, und braucht keinen akademischen Grad. Ist er Kleriker, wirkt er in einem kirchlichen Umfeld: der päpstlichen Kurie, dem Kardinalskollegium oder dem Büro eines Bischofs oder Erzbischofs. Ist er Laie, arbeitet er für einen weltlichen Fürsten oder eine Stadtgemeinde.
+
+Diese Tugend ist kompatibel mit den Tugenden Baccalaureus, Magister in Artibus und Doktor der (Fakultät), da ein Jurist über eine Universitätsausbildung verfügen kann. Sie ist auch kompatibel mit den Tugenden Priester und Bettelorden. Sie steht nur männlichen Charakteren zur Verfügung.
+
+#### Nur einen Moment
+*Klein, Allgemein*<br>
+Ein Charakter mit dieser Tugend, der einige Sekunden Zeit hatte, einen Raum zu überblicken, muss keine Wahrnehmungswürfe ablegen, um etwas Interessantes auf den zugänglichen Oberflächen des Raumes zu entdecken oder sich daran zu erinnern. Manche Charaktere nutzen diese Tugend, um die Anordnung eines Raumes zu erfassen, damit sie ihn im Dunkeln durchqueren können, andere nutzen sie, um beim Stehlen Zeit zu sparen. Charaktere mit dieser Tugend sind auch nützliche Laborassistenten, da sie wissen, wo sich alles befindet, und Experimente bemerken, die kurz vor einem kritischen Versagen stehen.
+
+#### Kassalanischer Exorzismus
+*Klein, Übernatürlich*<br>
+Du bist in der Lage, kleinere Exorzismus-Zauber durch dein Wissen über die Riten der Bestattungsgesellschaft von Kassala in Alodia auszuführen, dem abgelegensten der drei nubischen Königreiche an den südlichen Ausläufern des Nils. Du kannst Zauber in einem sehr begrenzten Fokus wirken, nämlich Bannzauber gegen Geister und körperlich Tote (nach den Rego Corpus- oder Rego Mentem-Leitlinien) sowie Zauber, um diesen Wesen Macht zu entziehen (nach den Perdo Vim-Leitlinien). Du kannst keine Zauber erschaffen, die andere Geister oder Kreaturen betreffen, die keine wandelnden Toten sind, doch deine Zauber sind gegen Kreaturen aus jeder Sphäre gleich wirksam. Mit dieser Tugend erschaffene Bannzauber müssen nicht kreisförmig sein, sondern können stattdessen die Schwelle(n) eines Raumes blockieren; dies wird für die Stufenberechnung dennoch als Dauer: Ring, Ziel: Kreis-Zauber behandelt.
+
+Um einen Zauber zu wirken, musst du eine Erschöpfungsstufe aufwenden, unabhängig davon, ob der Zauber gelingt oder misslingt. Du musst außerdem mindestens 5 Minuten den Zauber vorbereiten, während du ununterbrochene Konzentration benötigst und eine Handvoll Kassalanischen Staub aufwendest. Der Zauber wird genau wie ein Hermetischer Zauber entworfen; wenn du einen Geist beeinflussen willst, musst du dein Ziel wahrnehmen können. Deine Zaubersumme beträgt (Ausdauer + Organisationskunde: Bestattungsgesellschaft + Aura-Modifikator + Stresswürfel) / 2. Die Penetration wird auf normale Weise berechnet: Zaubersumme – Stufe des Zaubers + Penetrationsmodifikatoren. Kassalanischer Exorzismus ist der Magischen Sphäre zugeordnet.
+
+> #### Kassalanischer Staub
+>
+> Dieser von der Bestattungsgesellschaft von Kassala hergestellte Staub besteht hauptsächlich aus Goldstaub, ergänzt durch Myrrhe und andere Gewürze. Zwanzig Handvoll enthalten etwa ein Mythisches Pfund Goldstaub.
+>
+> Kassalanischer Staub ist für den Kassalanischen Exorzismus notwendig, gewährt jedoch keinen Bonus. Eine Handvoll fügt außerdem +3 zu Einsätzen der Übernatürlichen Fertigkeit Leichenmagie hinzu, um einen Leichnam anzuweisen, in sein Grab zurückzukehren oder davor zu bewahren, von Leichenmagie beeinflusst zu werden. Mehrere Handvoll bringen keinen zusätzlichen Effekt. Kassalanischer Staub hat einen Form- und Materialbonus von +3 gegen Tote. Das Rezept ist jedem bekannt, der über Organisationskunde: Bestattungsgesellschaft verfügt.
+>
+> Weitere Details über die Kassalanische Bestattungsgesellschaft finden sich in Länder des Nils, ab Seite 88.
+
+#### Scharfe Sicht
+*Klein, Allgemein*<br>
+Du kannst weiter und klarer sehen als die meisten. Du erhältst einen +3-Bonus auf alle Würfe, die das Sehen beinhalten, ausgenommen Angriffe mit Fernkampfwaffen.
+
+#### Feiner Geruchssinn
+*Klein, Allgemein*<br>
+Die Nase des Charakters ist empfindlicher als bei einem normalen Menschen. Er erhält einen +3-Bonus auf alle Würfe, die seinen Geruchssinn beinhalten, einschließlich des Spurenverfolgens mit der Fertigkeit Jagen.
+
+#### Ritter
+*Klein, Sozialer Status*<br>
+Du bist ein Ritter, ein Angehöriger des Adels und einer der Elitekrieger Europas. Sofern du nicht Arm bist, darfst du hochwertige Waffen und Rüstungen sowie ein Pferd besitzen. Typische Ausrüstung eines Ritters Mitte des 13. Jahrhunderts sind Lanze, Schwert, Dreieckschild, vollständige Kettenrüstung und ein Streitross. Du kannst bei der Charaktererschaffung Kampffertigkeiten nehmen. Die Tugend Wohlhabend und der Fehler Arm betreffen dich normal. Diese Tugend steht nur männlichen Charakteren zur Verfügung und ist kompatibel mit der Tugend Landadliger.
+
+#### Kennt die richtigen Leute
+*Klein, Allgemein*<br>
+Deine sozialen Kontakte sind nicht wegen dem wichtig, was sie dir direkt verschaffen: Sie sind wichtig, weil sie dir ermöglichen, die Wünsche deiner verschiedenen Bekannten zusammenzuführen. Ein gewandter Gesellschaftsmensch ist ein Vermittler, dem für das Zuführen von Gelegenheiten an Freunde Dankbarkeit geschuldet wird, nicht jemand, der auf Freundschaft basierend Gefälligkeiten einfordert.
+
+Einmal pro Geschichte oder Spielsitzung darf ein Charakter mit dieser Tugend einen Köder für einen Nicht-Spieler-Charakter verlangen. Ein Köder ist der Beginn einer Szene oder kurzen Nebengeschichte außerhalb der Hauptgeschichte, die, wenn sie abgeschlossen wird, dem Charakter ermöglicht, vom genannten Ziel Unterstützung zu erhalten. Sind die Spielercharaktere beispielsweise nicht in der Lage, die Unterstützung eines Adeligen zu gewinnen, kann ein Spieler einen Köder verlangen. Im Spiel bedeutet dies, dass der Charakter seine sozialen Fertigkeiten einsetzt, um die Bedürfnisse des Adeligen zu ermitteln und anzudeuten, dass er möglicherweise einen Dritten kennt, der eine Lösung hat. Spielt die Spieltruppe dann eine kurze Szene aus, in der das Problem des Adeligen gelöst wird, wird er gefügiger.
+
+Die Spieltruppe kann jeden Einsatz dieser Verbindungen ablehnen, der die Spannung und das Tempo des Spiels beeinträchtigt.
+
+#### Tagelöhner
+*Frei, Sozialer Status*<br>
+Der Charakter ist ein ausgebildeter Arbeiter, der ein Handwerk ausübt, das eine wertvolle Dienstleistung für seine Gemeinschaft darstellt, bei dem jedoch kein fertiges Produkt hergestellt wird. Anders als ein Bauer, der ein Landarbeiter ist, der verschiedene Tätigkeiten verrichtet, konzentriert sich ein Tagelöhner auf eine bestimmte Beschäftigung, um seinen Lebensunterhalt zu verdienen, sei es das Transportieren von Holz, das Waschen von Kleidung, das Reinigen von Latrinen, das Tragen von Gepäck oder das Servieren von Speisen.
+
+#### (Land-)Regio-Netz
+*Klein, Übernatürlich*<br>
+Der Charakter hat Zugang zu einem ausgedehnten Netz von Regiones, die sich vielleicht in den Tiefen vieler Seen im Mythischen Europa befinden, hoch über den Wolken am Himmel verborgen sind oder in unterirdischen Höhlen unter der Erde liegen. Der Charakter ist mit einer bestimmten Art von Regio-Netz verbunden.
+
+Sobald der Charakter sich in einer solchen Regio befindet, kann er zu jeder anderen Regio im Netz reisen; die Reisezeit beträgt einen Durchmesser, unabhängig von der geografischen Entfernung. Um festzustellen, ob der Charakter den Standort einer vernetzten Regio in einem bestimmten Gebiet kennt, wird ein Intelligenz + Gebietskunde-Wurf gegen einen Schwierigkeitsgrad von 9 vorgenommen. Der Charakter weiß, wie man diese Regiones betritt, und kann, wenn er möchte, andere Charaktere in die Regiones führen – obwohl diese anderen Charaktere in der Lage sein müssen, in der Umgebung der Regio zu überleben.
+
+Der Zugang zum Netz kann letztlich von anderen Charakteren oder Mächten kontrolliert werden.
+
+#### Landadliger
+*Groß, Sozialer Status*<br>
+Du schuldest einem höheren Adligen Lehnseid und Dienst und hast die Kontrolle über Land, Leibeigene und Bewaffnete. Du hast ein halbes Dutzend Diener in deinem Herrensitz, darunter ein paar Leibwächter. Deine Diener sollten vom Rest der Spieltruppe gespielt werden. Du hast einen Treueeid geschworen, weshalb es sinnvoll wäre, diese Tugend mit jenem Fehler zu balancieren. Du erhältst die normalen Punkte für den Treueeid, wenn du das tust. Du bist wohlhabender als die meisten Charaktere, hast aber keine zusätzliche Freizeit. Du hast die Macht, das Recht innerhalb deines Lehens durchzusetzen, darfst aber nicht die Todesstrafe verhängen und darfst Verbrecher auch nicht verstümmeln. Prügel und Geldbußen sind die üblichen Strafen, die du verhängst.
+
+Bist du Arm, ist dein Lehen entweder sehr klein oder liegt in einer landwirtschaftlich schlechten Gegend mit wenigen anderen Ressourcen. Du musst jedes Quartal damit verbringen, es zu verwalten, sonst könnte es völlig zusammenbrechen und dich effektiv landlos zurücklassen. Du bist nicht wohlhabender als die meisten durchschnittlichen Charaktere und hast nur ein paar Diener.
+
+Wohlhabende Landadlige kontrollieren mehr als ein Lehen und haben für jedes Bailiffs oder Verwalter, sodass sie keine Zeit damit verbringen müssen, ihre Ländereien zu beaufsichtigen. Du bist deutlich reicher als die meisten wohlhabenden Charaktere und könntest dir leisten, ein kleines Schloss oder eine große Kapelle in einer Kathedrale zu bauen. Du hast etwa fünfzig Diener, darunter eine beträchtliche Anzahl von Kriegern.
+
+Dieser Soziale Status ist kompatibel mit der Kleinen Status-Tugend Ritter, steht aber im Gegensatz zu jener Tugend sowohl männlichen als auch weiblichen Charakteren zur Verfügung.
+
+#### Großgewachsen
+*Klein, Allgemein*<br>
+Deine Größe beträgt +1 statt 0, das heißt, du bist zwischen 1,80 m und 2,10 m groß. Das bedeutet, dass der Schweregrad der Wunden, die du erleidest, in Sechs-Punkte-Intervallen statt in Fünf-Punkte-Intervallen zunimmt (siehe [Seite 404](#wunden)). Du kannst diese Tugend nicht gleichzeitig mit Riesenblut ([Seite 83](#wunden)), Zierlicher Körperbau ([Seite 145](#wunden)) oder Zwerg ([Seite 126](#riesenblut)) nehmen.
+
+#### Lasiq
+*Groß, Sozialer Status*<br>
+Der Charakter ist ein erfahrener Attentäter der Nizari-Ismailis, der erfolgreich sieben Morde auf Befehl seines Großmeisters begangen hat und eine kleine Truppe von bis zu sechs Fida'is anführt. Lasiqs dürfen bei der Charaktererschaffung Kampffertigkeiten nehmen. Wie ein Fida'i kann sich ein Lasiq weit weg von seiner Heimat auf einem Auftrag befinden, entweder allein oder mit einigen Fida'is. In einem solchen Fall gibt er vor, einen anderen sozialen Status zu haben, den du festlegen solltest. Weitere Details zu den Nizaris finden sich in Der Halbmond und die Wiege, ab Seite 162.
+
+#### Latente Magische Fähigkeit
+*Klein, Allgemein*<br>
+Du besitzt eine magische Eigenschaft, die sich noch nicht manifestiert hat. Du bist dir dieser Fähigkeit wahrscheinlich nicht bewusst; bist du ein Magus, hat dein Meister sie während deiner Lehrzeit nicht entdeckt. Nach Ermessen des Spielleiters könnte diese Eigenschaft spontan oder aufgrund eines relevanten Ereignisses erscheinen (etwa durch das Trinken von Feenwein). Dies ist nicht die Gabe, und die latente Fähigkeit ist begrenzter als jene.
+
+#### (Fertigkeit) durch Fehler lernen
+*Klein, Allgemein*<br>
+Du bist in der Lage, eine bestimmte Fertigkeit durch wiederholtes Scheitern zu verbessern. Beim ersten Mal in einer gegebenen Spielsitzung, dass du einen Wurf verpatzst oder um genau einen Punkt verfehlst, erhältst du fünf Erfahrungspunkte in der Fertigkeit. Der Wurf muss sich natürlich im Verlauf der Geschichte ergeben haben. Du kannst diese Tugend mehrmals nehmen, je einmal für jede gewählte Fertigkeit.
+
+#### Lederreißer
+*Klein, Übernatürlich*<br>
+Dieser Charakter hat die übernatürliche Fähigkeit, eine Gruppe von Ledergegenständen zu zerstören. Dadurch fällt Metallrüstungen auseinander, da die sie zusammenhaltenden Riemen zerfallen. Es zerstört das Zaumzeug eines Reiters und erzwingt einen Reitenwurf mit Abzügen von bis zu -9, je nach der Gefährlichkeit seiner aktuellen Manöver. Es kann Scheide, Gürtel und Stiefel eines Feindes zerstören und erlaubt dem Lederreißer so zu fliehen oder anzugreifen. Dies ist ein PeAn(He) 30-Effekt mit +0 Penetration. Der Charakter muss sich einen Moment konzentrieren und eine Erschöpfungsstufe aufwenden, um die Kraft zu aktivieren, muss aber nicht sprechen oder gestikulieren.
+
+#### Lepra-Magus
+*Groß, Hermetisch*<br>
+Diese Tugend beschreibt das mystische Erbe, das von Tytalus über den Vektor der Lepra an Haristes Linie weitergegeben wurde. Diese Tugend kann nur genommen werden, wenn der Charakter auch den Fehler Lepra hat, und steht nur Magi zur Verfügung, die im Haus Tytalus ausgebildet wurden. Sie ermöglicht es ihm, die Stärke seines Körpers zu nutzen, um die Kraft seiner Magie zu steigern, indem er die Kleine Tugend Lebensstärkung erhält. Er kann auch noch tiefer in diese Kraft schöpfen, wenn er es wünscht, indem er sein krankheitsgeplagtes Fleisch mortifiziert, um Vis zu erzeugen, mit der er seine eigenen Zauber antreibt. Die so erzeugte Vis kann nur vom Magus selbst verwendet werden – beim Zaubern oder bei Laborarbeiten (aber nicht beim Studium) – und kann in keiner Weise gelagert werden; tatsächlich verlässt sie seinen Körper nie. Indem er eine Leichte Wunde akzeptiert, kann der Magus ein einzelnes magisches Wirken mit drei Bauern Vis beliebiger Technik oder Form versorgen. Eine Mittelschwere Wunde liefert sechs Bauern, eine Schwere Wunde neun Bauern, eine Lähmende Wunde zwölf Bauern und eine Tödliche Wunde (die den Magus tötet) fünfzehn Bauern. Jede Vis, die über die Kapazität des Magus hinaus erzeugt wird, die er in der aktuellen magischen Tätigkeit verwenden kann, geht verloren, ebenso wie jede Vis, die über den Bedarf der Tätigkeit hinausgeht, auf die diese Kraft angewendet wird. Lepröse Wunden öffnen sich am Körper des Magus, wenn er diese Kraft ruft, aber nicht schnell genug, um die Zaubersumme eines Nicht-Ritual-Zaubers zu beeinflussen, auf den diese Kraft angewendet wird. Alle Laborsummen erleiden den Wundabzug wie üblich, ebenso die Zaubersummen von Zaubern, die mehr als eine Runde zum Wirken benötigen (wie Ritualzauber). Der Charakter macht keine Genesungswürfe für diese Wunde, bis die magische Tätigkeit, für die die Vis verwendet wird, abgeschlossen ist (d. h. am Ende der Zauberrede oder am Ende eines Quartals für Laborarbeiten). Das bedeutet, dass die Wunde zwar nicht besser werden kann, aber auch nicht das Risiko besteht, dass sie sich verschlimmert. Da die Kraft aus dem Schmerz dieser Wunde entsteht, negiert Magie, die diesen Schmerz aufhebt, auch die Vorteile dieser Tugend. Eine auf diese Weise erlittene Wunde muss vollständig heilen, bevor die Kraft erneut verwendet werden kann, und jeder Charakter, der diese Kraft mehr als dreimal im Jahr einsetzt, muss im Winter einen zusätzlichen Alterungswurf ablegen.
+
+#### Kleine Segnung
+*Klein, Übernatürlich*<br>
+Du wurdest von einer übernatürlichen Macht gesegnet. Die Auswirkungen der Segnung sollten vergleichbar mit anderen Kleinen Tugenden sein. (Siehe Einschub für Beispiele.)
+
+> #### Beispiele für Kleine Segnungen
+>
+> ##### Redegewandtheit
+>
+> Du bist ein sehr überzeugender Redner; jeder, der versucht, Unwahrheiten in deinen Worten aufzuspüren, erhält einen -3-Abzug auf seine Würfe.
+>
+> ##### Grüner Daumen
+>
+> Pflanzen gedeihen immer unter deiner Fürsorge. Deine Ernte leidet niemals unter natürlichen Krankheiten oder Schädlingen, solange du persönlich dafür sorgst, und du kannst daher halb so viel mehr Ertrag erzielen wie andere.
+>
+> ##### Kribbelnde Daumen
+>
+> Befindest du dich in der Gegenwart von jemandem, der dir Böses will, verspürst du ein Kribbeln in den Daumen. Du kannst damit keinen einzelnen Feind aus einer Menge herausidentifizieren.
+>
+> ##### Ungewöhnlich fruchtbar
+>
+> Jede sexuelle Begegnung mit einem Partner des anderen Geschlechts führt zu einer Empfängnis.
+
+#### Mindere Immunität
+*Klein, Übernatürlich*<br>
+Du bist immun gegen eine Gefahr, die entweder selten oder nicht tödlich ist – oder beides. Siehe Große Immunität, [Seite 83](#große-immunität).
+
+#### Mindere Macht
+*Klein, Übernatürlich*<br>
+Der Charakter hat eine übernatürliche Kraft, die er nach Belieben aktivieren kann. Dies sind eine oder mehrere Kräfte, die Hermetischen Formulaischen Zaubern mit einer Gesamtstufe von 25 oder weniger entsprechen. Jede Kraft hat eine Initiative, die der Schnelligkeit des Charakters minus dem Doppelten der Kraft-Magnitude entspricht. Das Aktivieren kostet eine Erschöpfungsstufe, wenn ihre Stufe 25 oder darunter liegt, zwei Erschöpfungsstufen bei Stufe 26 bis 50 und so weiter. Beachte, dass Kräfte mit einer Stufe von 26 oder höher mit der Tugend Große Macht weniger Erschöpfung kosten. Du kannst auch Stufen im Verhältnis eins zu eins ausgeben, um der Kraft Penetration zu geben; andernfalls hat sie eine Penetration von null.
+
+Diese Tugend kann mehr als einmal genommen werden, und die Stufen werden zusammengezählt, um mehrere Kräfte zu erschaffen. Zum Beispiel könnte ein Charakter, der die Tugend zweimal genommen hat, eine Kraft mit einer Stufe von 30 und einer Penetration von 0 sowie eine zweite Kraft mit einer Stufe und Penetration von jeweils 10 haben.
+
+Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden sein. Hast du Zugang zu anderen Büchern, wie etwa Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe), Sphären der Macht: Das Infernale, Sphären der Macht: Feenwelt oder Heckenzauber Überarbeitete Ausgabe, kannst du die Kraft auf ein anderes System übernatürlicher Kräfte basieren, um etwas zu erhalten, das zum Charakter besser passt. Bedenke dabei, dass die Stufenskala für Effekte in verschiedenen Systemen unterschiedlich sein kann, und du möglicherweise die Anzahl der Effektstufen anpassen möchtest. Die Kraft muss mit derselben übernatürlichen Sphäre verbunden sein wie das System, auf dem sie basiert. (Hast du Zugang zu anderen Büchern, möchtest du Kräfte, die auf Hermetischer Magie basieren, vielleicht auf die Magiesphäre beschränken.)
+
+#### Mindere Reinigende Berührung
+*Klein, Übernatürlich*<br>
+Du kannst durch eine Berührung und den Aufwand einer Erschöpfungsstufe eine bestimmte Krankheit heilen. Diese Krankheit sollte eine sein, von der sich Menschen oft von selbst erholen, oder eine, die nicht besonders schwerwiegend ist. Du kannst nur eine Krankheit wählen, keine Verletzung oder sonstige Heimsuchung. Siehe [Seite 406](#krankheiten) für Regeln zu Krankheiten und Art und Academe, [Seite 45](#krankheiten) für weitere Details.
+
+#### Beurlaubungslizenz
+*Groß, Allgemein*<br>
+Dieser Priestercharakter hat eine Beurlaubungslizenz, die ihn von einigen Pflichten befreit. Die Lizenz kann nur für wenige Jahre oder auf unbestimmte Zeit gültig sein. Der Charakter hat jedes Jahr ein zusätzliches freies Quartal, doch es wird manchmal erwartet, dass das zusätzliche Quartal für das Studium genutzt wird. Diese Tugend ist kompatibel mit der Tugend Wohlhabend und dem Fehler Arm. Ein wohlhabender Priester mit einer Beurlaubungslizenz hat damit das gesamte Jahr frei; ein Charakter kann jedoch niemals mehr als vier freie Quartale pro Jahr haben. Eine Beurlaubungslizenz kann nur von einem Charakter mit dem Sozialen Status Priester genommen werden. Sie kann nicht von Hochrangigen Klerikern genommen werden.
+
+#### Lebensstärkung
+*Klein, Hermetisch*<br>
+Du kannst deine Zaubersummen für Formulaische oder Ritualzauber steigern, indem du zusätzliche Erschöpfungsstufen aufwendest. Jede Erschöpfungsstufe gibt dir einen zusätzlichen Bonus von +5 auf den Wurf, was sehr beeindruckende Penetrationswerte ergeben kann. Du kannst mehr Erschöpfungsstufen verbrennen, als du besitzt. Tust du das, musst du Schaden absorbieren, ohne die Hilfe von Rüstung. Der Schadenssumme beträgt 5 für jede zusätzlich aufgewendete Erschöpfungsstufe, plus ein Stresswürfel. Wendest du also drei zusätzliche Stufen auf, musst du einen Schaden von 15 + Stresswürfel absorbieren, mit deiner Absorption (ohne Rüstung) + Stresswürfel. Auf diese Weise aufgewendete Erschöpfungsstufen werden unabhängig vom Erfolg oder Misserfolg des Zauberwurfs aufgewendet, und ebenso werden erlittene Wunden auch dann erlitten, wenn du den Zauber nicht wirkst. Du kannst dich damit selbst töten. Die Gesamtzahl der zu verwendenden Erschöpfungsstufen muss vor dem Zauberwurf festgelegt werden.
+
+#### Lebensgebundene Spontane Magie
+*Groß, Hermetisch*<br>
+Du kannst mit spontaner Magie mehr erreichen als die meisten Magi, auf Kosten deiner eigenen Lebensenergie. Wenn du dich entscheidest, diese Fähigkeit beim Wirken eines spontanen Zaubers einzusetzen, gibst du die gewünschte Effektstufe vor dem Wurf an. Diese Stufe kann eine Anzahl von Penetrationsstufen einschließen (siehe [Seite 169](#penetration)). Du kannst zum Beispiel wählen, einen Stufe-10-Effekt auf Stufe 20 zu wirken, um eine Penetration von 10 plus deinen Penetrationswert zu erhalten.
+
+Würfle, um einen Ermüdenden Spontanzauber zu wirken. Ist dein Ergebnis nach der Division höher als die von dir angegebene Stufe, wendest du wie üblich nur eine Erschöpfungsstufe auf. Ist dein Ergebnis nach der Division niedriger als die von dir angegebene Stufe, musst du für je fünf Punkte (oder einen Teil davon), um die du die Zielstufe verfehlt hast, eine zusätzliche Erschöpfungsstufe aufwenden. Gehen dir die Erschöpfungsstufen aus, erleidest du eine Wunde. Die Anzahl der noch für den Zauber benötigten Stufen wird als der Betrag behandelt, um den eine Schadenssumme deine Absorption übersteigt, und du erleidest die entsprechende Wunde. Du kannst dich damit selbst töten.
+
+Eine Maga mit dieser Tugend kann weiterhin Ermüdende Spontanzauber normal wirken.
+
+#### Leichte Berührung
+*Klein, Allgemein*<br>
+Du hast eine besonders gute Hand-Auge-Koordination und eine große Geschicklichkeit im präzisen, schnellen Umgang mit deinen Händen. Du erhältst +1 auf alle Würfe, die subtile Manipulation von Gegenständen beinhalten (wie das Stehlen aus Taschen), und würfelst einen Patzerwürfel weniger als üblich bei solchen Tätigkeiten (mindestens jedoch einen). Dieser Bonus gilt nicht für Bogenschießen, aber für das Spielen von Musikinstrumenten.
+
+#### Blitzreflexe
+*Klein, Allgemein*<br>
+Du reagierst auf Überraschungen fast augenblicklich. Tatsächlich sind deine Reflexe manchmal so schnell, dass du keine Chance hast, darüber nachzudenken, wie du reagieren willst. Wann immer du überrascht oder erschreckt wirst, würfle einen Stresswürfel + Schnelligkeit. Bei einem Ergebnis von 3 oder besser reagierst du reflexartig. Du musst dem Spielleiter bei jeder Gelegenheit mitteilen, mit welcher Art von Aktion (Angreifen, Blocken, Fliehen usw.) du reagieren möchtest. Wenn du als Reaktion angreifst, erhältst du +9 auf deinen Initiativewert. Der Spielleiter entscheidet letztlich, was geschieht (obwohl es immer in deinem unmittelbaren Eigeninteresse liegt). Du reagierst nur auf Bedrohungen, derer du dir nicht vollständig bewusst bist – du erhältst also keinen Bonus gegen einen Attentäter, den du beobachtest, wie er sich anschleicht. Beachte, dass du keine Wahl hast, ob du reagierst. Du könntest genauso leicht einen Freund aufspießen, der sich zum Spaß anschleicht, wie einen Attentäter, der zuschlagen will. Beachte auch, dass du eine Aktion wahrnehmen musst, um darauf zu reagieren – du kannst immer noch leicht im Schlaf getötet werden. Diese Tugend verleiht dir keine besonderen Wahrnehmungsfähigkeiten.
+
+#### Sprachbegabt
+*Klein, Allgemein*<br>
+Du bist außerordentlich begabt darin, neue Sprachen zu erlernen. Alle Fortschrittssummen für jede Sprache werden um ein Viertel erhöht (aufgerundet), ebenso wie alle Erfahrungspunkte, die du bei der Charaktererschaffung in eine Sprache investierst. Sowohl Lebende als auch Tote Sprachen werden mit dieser Tugend gefördert.
+
+#### Einsame Rotkappe
+*Klein, Sozialer Status*<br>
+Du bist eine Rotkappe, die keine Bindungen an ein Mercere-Haus unterhält und daher weder Zauberartefakte noch Langlebigkeitsrituale erhält. Du beginnst dennoch mit 300 Erfahrungspunkten für deine fünfzehn als Lehrling verbrachten Jahre und erhältst die Vorteile der Tugend Vielgereist, bist jedoch von den anderen Rotkappen in deiner Gegend entfremdet und hast eine schlechte Reputation der Stufe 2 innerhalb deines Hauses.
+
+Du musst weiterhin jedes Jahr zwei Quartale damit verbringen, Nachrichten zu überbringen und andere Dienste für den Orden zu leisten, denn tust du das nicht, besteht die Möglichkeit, dass du als Orbus erklärt und aus deinem Haus ausgeschlossen wirst. Diese Arbeit reicht aus, um davon zu leben, wenn du keinem Konvent angehörst, sofern du nicht den Fehler Arm nimmst und ein drittes Quartal arbeiten musst. Nimmst du die Tugend Wohlhabend, kannst du deine Stellung mit nur einem Quartal Einsatz pro Jahr aufrechterhalten.
+
+Dieser Soziale Status ist mit jedem anderen weltlichen Sozialen Status vereinbar, der dir vernünftigerweise erlaubt, deinen Job als Rotkappe zu erledigen, wie etwa Händler oder Bettelorden.
+
+#### Ausdauernd
+*Klein, Allgemein*<br>
+Du kannst dich länger anstrengen als die meisten und erhältst +3 auf alle deine Erschöpfungswürfe. Dieser Bonus gilt nicht für das Wirken von Zaubern.
+
+#### Glück
+*Klein, Allgemein*<br>
+Du erzielst gute Ergebnisse in Situationen, in denen Glück mehr eine Rolle spielt als Können oder Talent. Du erhältst +1 bis +3 (nach Ermessen des Spielleiters) auf Würfe in solchen Situationen, je nachdem, wie viel Glück im Spiel ist. Du spielst gut bei Glücksspielen, könntest aber als Betrüger abgestempelt werden, wenn du sie zu oft spielst.
+
+#### Lupus (der Wolf)
+*Klein, Sozialer Status*<br>
+Der Charakter ist von einer Universität angestellt, um die Studenten zu beaufsichtigen und sicherzustellen, dass sie in ihren Kollegien und Wohnheimen nur Latein sprechen. Er ist ein Mitglied der Stadtgemeinschaft, in der sich die Universität befindet. Er kann zu Beginn Punkte in Latein oder Artes Liberales haben, obwohl ein Wert von mehr als 1 in Artes Liberales selten wäre. Er kann bei den Studenten wohnen, wenn er unverheiratet ist, hat aber, falls er eine Familie hat, eine eigene Unterkunft und besitzt Schlüssel zu den Studentenunterkünften, um unangekündigte Zutritt zu ermöglichen. Es wäre sehr ungewöhnlich, wenn ein solcher Charakter weiblich wäre, aber es ist nicht unmöglich.
+
+#### Magische Abstammung
+*Klein oder Groß, Allgemein*<br>
+Diese Tugend macht den Charakter zu einem echten Blutsnachkommen des medischen Stammes der Magier, der ursprünglichen Priesterkaste Persiens. Viele Mobeds, die Priester des Zoroastrismus, besitzen diese Tugend, entweder in der Kleinen oder der Großen Form, doch sie ist keine Voraussetzung. Einzelheiten zum Mythischen Zoroastrismus finden sich in Der Halbmond und die Wiege, Kapitel 5.
+
+*Klein:* Die Abstammungslinie deines Charakters ist schwach, obwohl er oder sie ethnisch gesehen ein Magier ist und aufgrund seiner Reinheit eine robuste Konstitution erlangt. Der Charakter erhält einen -1-Bonus auf Alterungswürfe und einen +3-Bonus, um den Auswirkungen von Krankheiten zu widerstehen.
+
+*Groß:* Zusätzlich zu den Vorteilen der Kleinen Tugend hat dein Charakter eine Affinität zu den alten prophetischen und anderen mystischen Künsten seiner Vorfahren. Der Spieler muss drei Arkane oder Übernatürliche Fertigkeiten wählen, mit denen der Charakter nicht notwendigerweise zu Beginn des Spiels vertraut sein muss und die keine Wahren Namen sein dürfen. Diese Fertigkeiten gelten als miteinander verbunden, sodass dein Charakter, wann immer er Erfahrung aus einer Quelle erhält, die einer dieser Fertigkeiten gewidmet ist, die Hälfte der Quellenqualität (aufgerundet) als Erfahrungspunkte in jede der beiden anderen Fertigkeiten erhält. Ein Charakter muss auf eine der üblichen Weisen Zugang zu einer Übernatürlichen Fertigkeit haben – etwa durch das Nehmen der Tugend bei der Charaktererschaffung oder durch spätere Einweihung –, um Erfahrungspunkte in sie investieren zu können. Wählst du eine Übernatürliche Fertigkeit, zu der dein Charakter noch keinen Zugang hat, gehen alle Erfahrungspunkte, die durch diese Tugend für sie generiert werden, bevor der Charakter Zugang zu der Fertigkeit erhält, verloren.
+
+#### Zauberartefakte
+*Klein, Allgemein*<br>
+Du beginnst mit 25 zusätzlichen Startstufen an Zauberartefakten im Vergleich zu dem, was du sonst hättest, und die Rate, mit der deine Artefakte verbessert werden, erhöht sich um eine Stufe pro Jahr. Dies liegt wahrscheinlich an deiner außergewöhnlichen Hingabe an das Haus oder daran, dass du eine Reihe von Artefakten von anderen Rotkappen geerbt hast. Du musst eine Rotkappe sein, um diese Tugend zu nehmen, und du kannst sie mehr als einmal nehmen, obwohl kein einzelner Effekt in einem deiner Artefakte größer als Stufe 30 sein darf.
+
+#### Magiegespür
+*Klein, Übernatürlich*<br>
+Du kannst einen Ort oder Gegenstand häufig als magisch identifizieren. Deine Empfindsamkeit macht dich jedoch anfälliger für magische Effekte: Ziehe deinen Magiegespür-Wert von deiner Magieresistenz ab. Das Nehmen dieser Tugend verleiht die Fertigkeit Magiegespür 1 ([Seite 168](#magiegespür-1)).
+
+#### Magisches Gedächtnis
+*Klein, Hermetisch*<br>
+Dein Gedächtnis wurde entwickelt, um magische statt alltägliche Dinge zu behalten. Du brauchst keine Labortexte (siehe [Seite 262](#labortexte-1)) deiner Erschaffungen aufzubewahren, um beim Reproduzieren den Vorteil eines Labtextes zu erhalten. Hast du einen Effekt einmal nach dem Labortext eines anderen Magus erschaffen, kannst du künftig denselben Vorteil erhalten, ohne den Text vorliegen zu haben.
+
+#### Magisches Blut
+*Klein, Übernatürlich*<br>
+Das Wesen des Charakters wurde durch den Kontakt mit der Magiesphäre verbessert – oft durch ein magisches Wesen –, was seiner wahren Gestalt besondere übernatürliche Eigenschaften verleiht. Dies verändert das äußere Erscheinungsbild des Charakters üblicherweise so stark, dass andere erkennen können, dass etwas Ungewöhnliches an ihr ist; die Leute mögen sagen, sie habe magisches Blut – oder „Feenblut" (da viele Menschen im Mythischen Europa die Unterschiede zwischen der Magie- und der Feensphäre nicht verstehen).
+
+Der Charakter darf beim Erschaffen bereits Magiekunde erlernen und ist widerstandsfähig gegen das Altern: Er erhält einen Bonus von –1 auf alle Alterungswürfe. Darüber hinaus erhält er einen kleinen körperlichen Vorteil, der zu einem der vier verschiedenen Typen magischer Wesen passt (magische Tiere, magische Menschen, magische Geister und magische Dinge) – zu jenem Typ, der mit dem Hintergrund des Charakters verknüpft ist. Einige Beispiele folgen; du kannst aber auch eigene erfinden.
+
+*Magisches Tier:* Der Charakter besitzt ein körperliches Merkmal, das normalerweise mit Tieren assoziiert wird, wie Flügel, Schuppen, Kiemen, Zähne oder Klauen. Diese verleihen bis zu +3 auf geeignete Tätigkeiten oder ermöglichen es dem Charakter, Handlungen auszuführen, die einem normalen Charakter nicht möglich wären (etwa Fliegen oder unter Wasser atmen). Dieses Merkmal ist sehr schwer zu verbergen und macht den Charakter offensichtlich verschieden von anderen Menschen.
+
+*Magischer Mensch:* Der Charakter darf eine seiner Eigenschaften um 1 steigern, jedoch nicht über +3. Häufig sind dies Stärke oder Ausdauer (um das Blut von Riesenvorfahren darzustellen) oder Präsenz (um das Blut gottgleicher Wesen darzustellen). Dies verleiht dem Charakter oft ein überirdisches Äußeres. Außerdem besitzt der Charakter eine positive Reputation auf Stufe 3 bei anderen Angehörigen seiner Blutlinie.
+
+*Magischer Geist:* Der Charakter erlangt eine passende Übernatürliche Fertigkeit (eine, die mit einer Kleinen Tugend verbunden ist), etwa Magiegespür, Vorahnungen, Zweites Gesicht oder Natursinn, mit einem Anfangswert von 1. Wann immer der Charakter diese Fertigkeit einsetzt, wird sein Erscheinungsbild jedoch offensichtlich übernatürlich. So könnten sich seine Augen zum Beispiel schwarz färben, er könnte einen Fuß vom Boden abheben oder sein Haar könnte von einem Wind bewegt werden, den niemand sonst spürt.
+
+*Magisches Ding:* Der Charakter besitzt eine Mindere oder Persönliche Kraft, die mit einem Objekt oder Ding verbunden ist. Wann immer sie den Effekt aktiviert, verändert sich ihr Äußeres ebenfalls auf eine Weise, die zur Form der Kraft passt. Eine Kraft, die gegen Flammen schützt, lässt beispielsweise ihre Haut von Ruß schwärzen und nach Rauch riechen; eine Kraft, die ihr ermöglicht auf dem Wasser zu gehen, könnte sie halbtransparent wie Wasser werden lassen.
+
+#### Magisches Reittier
+*Klein, Allgemein*<br>
+Der Charakter besitzt ein Reittier, Lasttier oder einen „Wachhund" – eine Kreatur, die Scharfsinn statt Intelligenz besitzt und einen Machtwert von bis zu 25. Sie hat eine zusätzliche Persönlichkeitseigenschaft (Loyal 0) und gehorcht einfachen verbalen Befehlen. Besitzt sie einen positiven Scharfsinnwert, ist die Kreatur außerdem in der Lage, begrenzt aus eigener Initiative zu handeln. Wenn der Charakter nicht in der Lage ist, die Kreatur selbst zu trainieren, muss sie ein Geschenk eines anderen Charakters (wahrscheinlich eines mächtigen Magus) gewesen sein, und der Charakter muss einen Großen Geschichte-Fehler wählen, um die Konsequenzen darzustellen: Gefälligkeiten, um die Schuld gegenüber seinem Gönner zu verkörpern, ist die einfachste Möglichkeit; Feinde, falls das Reittier weggelockt wurde, ist ebenfalls denkbar. In diesem Fall kann nur ein Gefährte oder ein Charakter auf Magus-Ebene diese Tugend nehmen.
+
+#### Magischer Hüter
+*Groß, Allgemein*<br>
+Der Charakter wird von einem magischen Wesen begleitet, das über ihn wacht und darauf achtet, dass ihm kein Schaden widerfährt. Das Wesen fordert nichts vom Charakter als Gegenleistung für seinen Dienst; beachte jedoch, dass ein mächtigerer Wächter weniger willens oder in der Lage ist, dem Charakter zu helfen, und seltener verfügbar ist, um ihn zu beschützen.
+
+Ein klassisches Beispiel ist das Gespenst einer dem Charakter nahestehenden Person. Das Gespenst ist für jeden unsichtbar und unhörbar außer für dich, es sei denn, jemand besitzt das Zweite Gesicht oder ein anderes übernatürliches Mittel, es zu entdecken. Es kann sehen und hören, was um dich herum vorgeht, und deiner Gegenwart bis zu einem halben Tag fernbleiben – es ist daher ein guter Spion. Beispielwerte für einen solchen Magischen Wächter finden sich auf [Seite 457](#geisterwächter).
+
+Gestalte dieses Wesen als magischen Charakter nach den Richtlinien in Kapitel 13 oder in *Sphären der Macht: Magie* – ein geisterhafter Wächter ist ein gutes Beispiel für einen Gefährtencharakter; er ist weniger mächtig und im Grunde eine Verlängerung des Willens des Charakters, während die Unterstützung eines mächtigeren Wächters seltener und noch situationsabhängiger ist.
+
+#### Magister in Artibus
+*Groß, Sozialer Status*<br>
+Du hast an einer der Universitäten Europas (Paris, Bologna, Oxford, Cambridge, Montpellier, Arezzo oder Salamanca) den Magister Artium abgelegt und deine obligatorischen zwei Jahre als Regent gelehrt. Du hast das Recht, als Magister angesprochen zu werden, unterliegt allein dem Kanonischen Recht und darfst überall in Europa unterrichten.
+
+Du bist mindestens (25 – Int) Jahre alt und musst mindestens 5 in Latein und Artes Liberales haben. Du hast jedoch acht Jahre an einer Universität verbracht und erhältst in jedem dieser Jahre 30 zusätzliche Erfahrungspunkte, insgesamt also 240 zusätzliche Erfahrungspunkte über dein altersabhängiges Grundkontingent hinaus. Du kannst beim Erschaffen Akademische Fertigkeiten kaufen und musst deine zusätzlichen Erfahrungspunkte für Akademische Fertigkeiten oder die Fertigkeit Unterrichten ausgeben. Du hast eine akademische Reputation von 2.
+
+Du musst zwei Quartale mit Unterrichten verbringen, um deinen Lebensunterhalt und deinen Ruf als verlässlicher Lehrer zu wahren. Diese zwei Quartale verteilen sich auf die Zeit zwischen September und Juni, sodass du im Sommer tatsächlich frei bist. Wenn du den Fehler Arm nimmst, bist du dennoch im Sommer frei. Wenn du die Tugend Wohlhabend nimmst, kannst du deinen Ruf mit einem einzigen Quartals-Unterricht aufrechterhalten.
+
+Diese Tugend ist nur männlichen Charakteren zugänglich und ist kompatibel mit den Tugenden Hermetischer Magus, Bettelbruder und Priester.
+
+#### Magister in Medicina
+*Groß, Sozialer Status*<br>
+Der Charakter hat an einer der medizinischen Schulen Europas (Salerno, Cremona, Montpellier oder Bologna) einen Doktortitel in Medizin erlangt und seine obligatorischen zwei Jahre Pflichtlehre absolviert. Diese Tugend bietet dieselben Vorteile wie Doktor in (Fachgebiet). Sie ist kompatibel mit den Tugenden Hermetischer Magus und Priester. Beachte: Diese Tugend steht auch weiblichen Charakteren zur Verfügung, obwohl diese nur an der Schule von Salerno graduiert haben müssen, während männliche Charaktere an jeder der medizinischen Schulen graduiert haben können.
+
+#### Großer Magischer Fokus
+*Groß, Hermetisch*<br>
+Deine Magie ist in einem recht begrenzten Bereich deutlich wirkungsvoller, etwa Wetter, Nekromantie, Vögel oder Gefühle. Dieser Bereich sollte kleiner sein als eine einzelne Kunst, darf sich aber über mehrere Künste erstrecken – Nekromantie beispielsweise umfasst sowohl Corpus- als auch Mentem-Effekte. Du kannst keinen Fokus auf Laboraktivitäten haben, obwohl ein Fokus durchaus auf Laboraktivitäten angewandt wird.
+
+Wenn du einen Zauber wirkst oder eine Laborsumme innerhalb deines Fokus berechnest, addiere den niedrigsten anwendbaren Kunstwert zweifach. Besitzt ein Zauber Requisiten, kann der niedrigste anwendbare Wert einer der Requisiten sein anstatt einer der primären Künste. Hat ein Magus also einen Fokus auf Vögel und wirkt einen Zauber, der einen Vogel in reines Feuer verwandelt (MuAn mit Ig als Requisit), mit Muto 14, Animal 18 und Ignem 10, beträgt seine Gesamtsumme 34 plus weitere Modifikatoren: 14 von Muto und 20 durch die doppelte Addition von Ignem. Wirkt er einen Zauber, der einen Vogel in einen anderen Vogel verwandelt (MuAn ohne Requisiten), beträgt seine Summe 46 plus weitere Modifikatoren: 18 von Animal und 28 durch die doppelte Addition von Muto.
+
+Ein Charakter kann nur einen Magischen Fokus besitzen, ob groß oder klein, unabhängig von der Quelle des Fokus.
+
+> #### Beispiele für Große Magische Foki
+>
+> Diese Liste ist lediglich beispielhaft. Andere Foki sind möglich.
+>
+> - Animal: Vögel oder Säugetiere oder domestizierte Tiere.
+> - Aquam: Salzwasser oder Süßwasser.
+> - Auram: Wetter.
+> - Corpus: Männer oder Frauen.
+> - Herbam: Bäume oder Nutzpflanzen.
+> - Imaginem: Visuelle Bilder, Klangbilder, Tastbilder oder Geschmack und Geruch gemeinsam.
+> - Mentem: Gefühle oder Erinnerungen.
+> - Terram: Metalle oder Stein.
+> - Nekromantie: Corpus und Mentem, angewandt auf Körper und Geister Verstorbener.
+> - Schaden: Jede Kunst, solange der Effekt direkt Schaden verursacht, entweder durch das Zufügen einer Wunde oder durch eine bestimmte Schadensmenge, die absorbiert werden kann.
+> - Verkleidung: Das Verändern des Erscheinungsbildes von etwas, mit beliebigen Mitteln.
+
+#### Hersteller gemusterter Gefäße
+*Klein, Übernatürlich*<br>
+Gemusterte Gefäße sind solche, in deren Oberflächen vor dem Brennen mystische Muster eingedrückt wurden. Ein Charakter mit dieser Tugend besitzt ein Repertoire an Formen: eine Form pro Stufe der Fertigkeit Handwerk: Töpfer. Jede Form entspricht einer Fertigkeit, und der Charakter erlangt zusätzliche Formen, wenn die Handwerksfertigkeit steigt. Der Charakter benötigt ein Quartal, um jede neue Form zu erlernen, wenn seine Fertigkeit steigt, und er braucht die Unterstützung von jemandem, der die gewünschte neue Form bereits kennt.
+
+Das Herstellen eines Gefäßes kostet eine Langzeit-Erschöpfungsstufe. Jedes Gefäß verleiht +3 auf eine einzelne Fertigkeit. Die Materialien, die beim Würfelwurf verwendet werden, müssen im Gefäß aufbewahrt worden sein. Das Aufbewahren von Materialien für Fertigkeiten in Töpfen verursacht keine Verzerrung. Das erste Mal, wenn ein Charakter einen Topf auf diese Weise verwendet, nimmt er den Benutzer als seinen Eigentümer an und gewährt keinem anderen mehr einen Bonus. Ein Topf ist eine Arkane Verbindung zu seinem Meister. Charaktere mit Magieresistenz können nicht von Töpfen beansprucht werden und erhalten keinen Nutzen aus ihnen.
+
+Eine gesonderte Version dieser Tugend erlaubt dem Charakter, Ledergefäße herzustellen, und stützt sich auf Handwerk: Lederarbeiter. Sie ist ansonsten identisch. In den afrikanischen Kulturen, in denen diese Tugend am häufigsten vorkommt, ist die Töpferversion mit Frauen und die Lederversion mit Männern verbunden; dies schränkt jedoch nicht ein, welche Charaktere welche Version nehmen können.
+
+#### Hersteller von Wassergefäßen
+*Klein, Übernatürlich*<br>
+Ein Charakter, der aus einem magischen Wassergefäß trinkt, das von einem Charakter mit dieser Tugend hergestellt wurde, darf einen Fertigkeitswert gegen den Handwerk: Töpfer-Wert des Herstellers zum Zeitpunkt der Herstellung des Gefäßes tauschen. Dieser Effekt hält eine Szene oder drei Minuten an, je nachdem, was länger ist. Jedes Gefäß ist bei seiner Herstellung durch seine Form an eine bestimmte Fertigkeit gebunden.
+
+Jeder Charakter kennt eine Vielzahl von Gefäßformen, wobei jede Form einer einzelnen Fertigkeit entspricht. Ein beginnender Charakter kennt eine Anzahl von Formen, die seinem Handwerk: Töpfer-Wert entspricht. Der Charakter benötigt ein Quartal, um eine neue Form zu erlernen, wenn seine Fertigkeit steigt, und er braucht die Unterstützung von jemandem, der die gewünschte neue Form bereits kennt. Das Herstellen eines Gefäßes kostet eine Langzeit-Erschöpfungsstufe.
+
+Nachdem ein Gefäß zum ersten Mal getrunken wurde, nimmt es den Trinker als seinen Eigentümer an. Anderen Trinkern gewährt das Gefäß keinen Nutzen, und es wird zu einer Arkanen Verbindung zu seinem Eigentümer. Charaktere mit Magieresistenz können nicht von Gefäßen beansprucht werden. Der erste Trunk aus einem unbesessenen Gefäß – durch den das Eigentum begründet wird – verursacht Verzerrung, es sei denn, der Trinker besitzt Übernatürliche Tugenden. Ebenso verursacht das Trinken aus einem Gefäß, das man nicht besitzt, Verzerrung, es sei denn, der Trinker besitzt Übernatürliche Tugenden. Eine gesonderte Version dieser Tugend erlaubt dem Charakter, Ledergefäße herzustellen, und stützt sich auf Handwerk: Lederarbeiter. Sie ist ansonsten identisch. In den afrikanischen Kulturen, in denen diese Tugend am häufigsten vorkommt, ist die Töpferversion mit Frauen und die Lederversion mit Männern verbunden; dies schränkt jedoch nicht ein, welche Charaktere welche Version nehmen können.
+
+#### Männlicher Gildensponsor
+*Frei, Sozialer Status*<br>
+Der Vater oder Ehemann des Charakters ist ein Gildenhandwerker und hat ihr den Eintritt in seinen Arbeitsbereich erlaubt, der andernfalls Männern vorbehalten ist. Der Charakter darf ihrem Handwerk nachgehen und dabei denselben Verfahren folgen wie die regulären männlichen Arbeiter. Jede Gilde gestattet solchen Mitgliedern, also darf sie jedes Handwerk ausüben, das sie wünscht. Der Charakter muss zusätzlich zu dieser freien Tugend eine gesonderte Sozialer-Status-Tugend der Gilde wählen, um seinen Stand im Gildensystem darzustellen. Diese Tugend ist nur weiblichen Charakteren zugänglich und ist mit allen Sozialer-Status-Tugenden kompatibel.
+
+#### Mamluk
+*Klein, Sozialer Status*<br>
+Du bist ein ehemaliger Militärsklave, als Kind gekauft, in einer Militärschule ausgebildet, im Islam erzogen und beim Erwachsenwerden freigelassen. Du bist wahrscheinlich türkischer Herkunft, könntest aber auch mongolisch oder sogar griechisch sein. Wahrscheinlich wurdest du im Umgang mit Lanzen, Bögen, Schilden, Kettenhemden und Lamellenrüstungen (gleiche Werte wie Kettenpanzer) sowie ein oder zwei Schwertern ausgebildet, sowohl zu Fuß als auch zu Pferde – allerdings bedeutet das nicht notwendigerweise, dass du zu Spielbeginn im Besitz dieser Ausrüstung bist (nach Ermessen des Spielleiters).
+
+Du darfst beim Erschaffen Kampffertigkeiten nehmen, und als Sonderfall darfst du auch die Fertigkeit Theologie: Islam nehmen, selbst wenn du nicht die Kleine Allgemeine Tugend Gebildet besitzt. Diese Tugend ist nur männlichen Charakteren zugänglich und ist (ausschließlich für Gefährten) kompatibel sowohl mit der Emir- als auch der Muqta'-Tugend, da viele Mamluken in der muslimischen Hierarchie aufgestiegen sind.
+
+#### Marschall
+*Klein, Sozialer Status*<br>
+Die Ställe eines Adligen benötigen einen Spezialisten, der die Pflege, Fütterung und das Wohl der Tiere koordiniert. Diese Person wird Marschall genannt, und der Titel genießt erhebliches Ansehen. Der Marschall von England ist der königliche Beamte, der für die Kavallerie des Königs verantwortlich ist; doch selbst der Marschall eines Barons ist eine bedeutende Persönlichkeit, angesichts der entscheidenden Rolle, die Pferde in Krieg und Jagd sowie bei alltäglichen Reisen spielen.
+
+Ein Marschall sollte die Fertigkeit Beruf: Marschall nehmen, die das Verstehen, den Kauf und die Pflege von Pferden umfasst. Sie funktioniert wie die Fertigkeit Medizin für die Behandlung tierärztlicher Krankheiten und für chirurgische Eingriffe bei diesen Tieren. Ein Marschall erhält beim Erschaffen 50 zusätzliche Erfahrungspunkte, die er auf die Fertigkeiten Tierumgang, Etikette, Jagen, Latein, Beruf: Marschall und Reiten aufteilen darf, und kann Kampffertigkeiten frei nehmen.
+
+Ein Marschall kann andere Spezialisten beaufsichtigen, darunter Hufschmiede, die Hufeisen anfertigen; Lederarbeiter, die Zaumzeug, Geschirr und Sättel herstellen; sowie das ausgebildete Personal, das das tägliche Striegeln und Ausmisten der Ställe übernimmt.
+
+#### Meisterbarde
+*Groß, Sozialer Status*<br>
+Der Charakter hat mindestens neun Jahre an einer Bardenschule studiert und ist ein Meister seines Handwerks, genannt Anruth. Er hat eine Lehrposition an einer renommierten Schule inne oder eine offizielle Stelle bei einem irischen Clanchef; so oder so bringt ihm dies eine Lokale Reputation auf Stufe 3 ein. Wenn er an einer Schule tätig ist, ist er verpflichtet, mindestens zwei Quartale im Jahr zu unterrichten; wenn er für einen Herrn arbeitet, verbringt er stattdessen zwei Quartale damit, Lobgedichte und Geschichten für seinen Gönner zu verfassen.
+
+Der Charakter sollte mindestens 25 Jahre alt sein und muss mindestens 5 in Beruf: Geschichtenerzähler oder Dichter haben sowie 5 in mindestens einer der Fertigkeiten Gebiets-Kunde, Organisations-Kunde, Feenkunde oder Magiekunde. Du kannst beim Erschaffen Erfahrungspunkte für Arkane Fertigkeiten ausgeben und hast 240 zusätzliche Erfahrungspunkte für Gedächtniskunst, Beruf: Geschichtenerzähler, Beruf: Dichter, beliebige Gebiets-Kunde, beliebige Organisations-Kunde, Feenkunde oder Magiekunde. Dieser Soziale Status ist nur in Irland verfügbar.
+
+#### Meister der (Form)-Kreaturen
+*Klein, Übernatürlich*<br>
+Der Charakter kann Tiere und andere unintelligente Wesen zähmen, deren Machtwert einer bestimmten Form zugeordnet ist. Beim Erschaffen darf der Charakter Magiekunde nehmen; diese Tugend darf mehrfach gewählt werden, einmal für jede Form. Regeln für das Trainieren magischer (und gewöhnlicher) Tiere finden sich auf [Seite 384](#kreaturen-abrichten).
+
+#### Meister der Hundezwinger
+*Klein, Sozialer Status*<br>
+Der Charakter verwaltet die Hundezwinger eines adligen Gönners und ist für das Training, die Zucht und die Gesundheit der Tiere verantwortlich. Ihm unterstehen entsprechende Mitarbeiter, abhängig von der Größe der Zwinger; oft besitzt er das Privileg, an der Jagd teilzunehmen. Er kann trotz seiner einfachen Herkunft als intimes und wichtiges Mitglied des adligen Haushalts angesehen und mit entsprechendem Respekt behandelt werden. Außerdem wird von ihm erwartet, die Hundewärter – also die Hundeführer – zu organisieren und Diener oder Einheimische in dieser Rolle auszubilden. Er sollte die Fertigkeit Beruf: Meister der Hundezwinger besitzen, die die Pflege der Hunde, die Behandlung ihrer Krankheiten sowie den Erwerb und die Zucht von Jagdhunden umfasst. Die Fertigkeit Tierumgang wird für das Training der Tiere verwendet. Ein Meister der Hundezwinger erhält beim Erschaffen 50 zusätzliche Erfahrungspunkte, die er auf die Fertigkeiten Tierumgang, Etikette, Jagen, Latein, Beruf: Meister der Hundezwinger und Reiten aufteilen darf, und kann Kampffertigkeiten frei nehmen.
+
+#### Gemeisterte Zauber
+*Klein, Hermetisch*<br>
+Du hast fünfzig Erfahrungspunkte, um Zauber zu meistern, die du kennst. (Regeln für das Meistern von Zaubern finden sich auf [Seite 225](#zaubermeisterschaft).)
+Du kannst diese Tugend auch nehmen, wenn du außerdem Makellose Magie besitzt, um mehr Erfahrungspunkte für das Meistern deiner Zauber zu erhalten. Du kannst diese Tugend mehrfach nehmen.
+
+#### Meisterstück
+*Klein, Hermetisch*<br>
+Aus einem wohlwollenden Grund hat der Parens des Magus ihm erlaubt, das Schlichte Artefakt zu behalten, das er zur Demonstration seiner Fähigkeiten als Magus für seine Lehrlingsprüfung hergestellt hat. Dieses Meisterstück muss ein Schlichtes Artefakt sein. Entwirf ein Schlichtes Artefakt, das dein Charakter anhand seiner Laborsummen beim Erschaffen herstellen könnte, nach den regulären Regeln für die Konstruktion eines solchen Gegenstands. Vis-Kosten entfallen, da der Parens des Magus diese aus seinen Laborvorräten bereitgestellt hat. Diese Lehrlingsprüfung ist für Haus Verditius üblich, aber auch eine Maga aus einem anderen Haus kann sie als Prüfungsform gewählt haben.
+
+#### Mazdeanischer Priester
+*Klein, Sozialer Status*<br>
+Dein Charakter ist ein ordinierter mazdeanischer Priester, eingeweiht als Mobed. Dies bedeutet, dass der Charakter die verschiedenen Rituale und Zeremonien durchführen darf, wie das Yasna, das Vivevdat, die Navjote, Hochzeiten, Beerdigungen, offizielle Gebete, Reinigungsrituale, die Entzündung heiliger Feuer und die Einweihung neuer Priester. In mazdeanischen Gemeinschaften wird dein Charakter in hohem Ansehen gehalten und mit großem Respekt behandelt. Der Charakter trägt reinweiße Kleidung und bedeckt bei der Durchführung von Zeremonien sein Gesicht mit einem weißen Schleier, um die heilige Flamme vor seinem Atem und Speichel zu schützen. Weitere Details zum mythischen Zoroastrismus finden sich in *The Cradle and the Crescent*, Kapitel 5.
+
+Als Mobed lebt dein Charakter in einer Gemeinschaft, die wahrscheinlich einen Feuertempel besitzt. Dies bedeutet, dass dein Charakter mühsame und zeitaufwendige religiöse und zeremonielle Pflichten hat. Der größte Teil deiner Zeit wird mit Beten, der Durchführung ritueller Reinigungsriten und der Pflege des heiligen Feuers verbracht. Wenn du Wohlhabend bist, hast du mehrere Ervads (Juniorpriester), die viele der mühsameren Aufgaben übernehmen. Wenn du Arm bist, spiegelt dies wahrscheinlich die schlechte Lage der Mazdeaner in der Gemeinschaft im Allgemeinen wider, und du könntest auch den Fehler Außenseiter besitzen.
+
+Dein Charakter darf beim Erschaffen Akademische Fertigkeiten nehmen. Die meisten solcher Charaktere nehmen den Kleinen Persönlichkeits-Fehler Gelübde, um den dauernden Zustand ritueller Reinheit und die Hingabe an die Gemeinschaft widerzuspiegeln. Dies kann nur der Soziale Status deines Charakters sein, wenn er in einer mazdeanischen Gemeinschaft lebt; all diese Gemeinschaften liegen östlich des Mythischen Europas, und die meisten davon in Persien. Ein mazdeanischer Priester im Exil in Europa sollte eine andere Sozialer-Status-Tugend oder einen Fehler nehmen, wie zuvor besprochen. Diese Tugend ist nur männlichen Charakteren zugänglich.
+
+#### Bettelbruder
+*Klein, Sozialer Status*<br>
+Du bist ein Anhänger des heiligen Franziskus oder des heiligen Dominikus, unterwegs unter Reichen und Armen, verbreitest das Wort Gottes und bringst Trost den Kranken, Obdachlosen, Hungernden oder Sterbenden. Du hast geschworen, der Kirche dein Leben lang zu dienen, aber deine wandernden Gewohnheiten werden vom örtlichen Bischof und den Pfarrgeistlichen als verdächtig angesehen, und es fehlt dir politischer Einfluss innerhalb der Organisation. Wie alle Kleriker unterliegt du jedoch nur dem Kanonischen Recht.
+
+Aufgrund deiner Ausbildung darfst du beim Erschaffen Akademische Fertigkeiten nehmen. Wenn du es wünschst, darfst du ordinierter Priester sein und kannst Hochzeiten, Taufen, Beerdigungen und die Messe leiten, obwohl die Pfarrgeistlichkeit deine Einmischung in ihr „Revier" möglicherweise übel nimmt. Wenn du ordiniert sein möchtest, musst du nicht zusätzlich die Tugend Priester nehmen.
+
+Du hast Gelübde der Armut, der Keuschheit und des Gehorsams abgelegt, die zusammengenommen einen Großen Geschichte-Fehler darstellen könnten (Ordensgelübde, siehe [Seite 138](#klostergelübde)) und die eine naheliegende Wahl sind, wenn du diese Tugend nimmst. Du darfst weder die Tugend Wohlhabend noch den Fehler Arm nehmen. Diese Tugend ist nur männlichen Charakteren zugänglich und ist kompatibel mit der Großen Tugend Magister in Artibus.
+
+#### Von Dämonen betreut
+*Klein, Allgemein, Befleckt*<br>
+Ein von Dämonen betreuter Charakter lernt schneller als Menschen, die von menschlichen Lehrern unterrichtet werden; doch Dämonen lehren nur jene Fertigkeiten, die ihren Plänen für den Charakter entsprechen. Von Dämonen ausgebildete Charaktere dürfen das in den Charaktererschaffungsregeln festgelegte maximale Fertigkeitsniveau für ein gegebenes Alter überschreiten. Schüler von Dämonen können außerdem Fertigkeiten besitzen, die normalerweise einem geeigneten Hintergrund vorbehalten sind. Menschen, die von Dämonen betreut werden, erkennen die übernatürliche Natur ihrer Lehrer nicht – viele betrachten ihre außergewöhnlichen Fähigkeiten als Ausdruck ihrer angeborenen Überlegenheit gegenüber anderen. Diese Haltung ist besonders häufig bei Kindern, die vom Stolz befallen sind. Betreute Charaktere haben zusätzliche 50 Erfahrungspunkte für eine beliebige Fertigkeit. Charaktere können diese Tugend mehrfach kaufen und erhalten jedes Mal 50 weitere Erfahrungspunkte. Charaktere, die zu diesem Extrem ausgebildet wurden, wissen, dass ihre Lehrer übernatürliche Gestalten sind, haben aber oft den Fehler Fabrizierte Unwissenheit.
+
+#### Söldnerhauptmann
+*Klein, Sozialer Status*<br>
+Du führst eine kleine Söldnertruppe (5 bis 10 Mann), die dem Meistbietenden gedungen wird. Du ähnelst einem fahrenden Ritter, jedoch ohne dessen Prestige. Auf deinen Reisen hast du großen Reichtum angehäuft – und ihn mehrfach wieder vergeudet. Du darfst beim Erschaffen Kampffertigkeiten nehmen.
+
+Wenn du Arm bist, führst du nur ein paar andere Söldner an, aber du und sie dürfen Rüstung und Waffen besitzen, die normalen Charakteren zugänglich sind. Wenn du Wohlhabend bist, führst du etwa zwanzig Söldner und kannst einen Teil der Arbeit an Unteroffiziere delegieren. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung.
+
+#### Händler
+*Frei, Sozialer Status*<br>
+Du lebst vom Kauf und Verkauf von Waren. Du kannst ein Hausierer sein, wenn du relativ arm bist, ein Ladenbesitzer oder ein reisender Kaufmann. Die Große Tugend Wohlhabend und der Große Fehler Arm wirken sich normal auf dich aus.
+
+#### Handelsabenteurer
+*Klein, Sozialer Status*<br>
+Der Charakter befehligt ein Schiff und eine Besatzung. Der Charakter verfügt über ausreichend Kapital für eine Ladung, hat jedoch möglicherweise erhebliche Schulden, die durch den Fehler Gefälligkeiten dargestellt werden können. Weitere Details zum Handel finden sich in *Stadt & Gilde*. Ein Handelsabenteurer, der einen Anteil an dem Unternehmen besitzt, für das er arbeitet, sollte stattdessen die Tugend Partner wählen.
+
+#### Merkurische Magie
+*Groß, Hermetisch*<br>
+Deine magische Abstammung und Tradition stammt von den römischen Priestern des Merkur, die dem Orden des Hermes vorausgingen, was dich besonders im Bereich der Ritualmagie und der gemeinschaftlich genutzten Magie begabt. Zusätzlich zu deiner normalen Zauberzuteilung kennst du auch Zaubervigil (Seite 370) auf einer Stufe, die dem höchsten Ritualsspruch entspricht, den du kennst; und solltest du einen Ritualsspruch höherer Stufe erfinden oder erlernen, erfindest du automatisch einen Zaubervigil-Spruch derselben Stufe, ohne zusätzliche Zeit aufwenden zu müssen.
+
+Wenn du einen Zauber mit Zaubervigil ([Seite 370](#wacht-des-zauberers)) oder anderen Zaubern mit derselben Funktion, wie etwa Zauberkommunion ([Seite 369](#wacht-des-zauberers)), wirkst, darfst du deinen Meisterschaftswert ([Seite 225](#besondere-fähigkeiten-gemeisterter-zauber)) im gewirkten Zauber und deinen Meisterschaftswert in Zaubervigil zur effektiven Stufe des Zaubervigils addieren.
+
+Schließlich haben alle Ritualssprüche, die du wirkst, nur die Hälfte des üblichen Vis-Bedarfs. Falls sie als Teil eines Zaubervigils gewirkt werden, müssen alle Teilnehmer diese Tugend besitzen, um diesen Vorteil zu erlangen.
+
+Alle bekannten Mitglieder des merkurischen Stammbaums haben außerdem den Kleinen Fehler Zeremonielle Spontane Magie.
+
+#### Methodischer Zauberer
+*Klein, Hermetisch*<br>
+Du bist hervorragend im Wirken formulaischer Zauber, da du eine beständige und präzise Methode zu deren Ausführung perfektioniert hast. Du erhältst +3 auf die Zaubersumme jedes formulaischen oder rituellen Zaubers, den du wirkst. Weichst du jedoch auch nur geringfügig von deiner präzisen Methode ab (indem du Gesten oder Aussprache veränderst), erhältst du diesen Bonus nicht.
+
+#### Leichtes Altern
+*Klein, Allgemein*<br>
+Die Alterungswürfe des Charakters profitieren von einem +1-Bonus auf den Lebensumstände-Modifikator, zusätzlich zu dem, was sein sozialer Stand normalerweise bietet. Außerdem erhält er +3 auf Würfe, um eine Alterskrise zu überstehen. Er mag einen gesunden Lebensstil führen oder von einem übernatürlichen Wesen gesegnet worden sein.
+
+#### Kleine Verzauberungen
+*Klein, Übernatürlich*<br>
+Der Charakter besitzt ein oder mehrere Gegenstände mit magischen Kräften. Diese sollten als hermetische Verzauberungen entworfen werden, und die Gesamtstufen der Kräfte aller Gegenstände, nach Anpassung für Nutzungen pro Tag und dergleichen, dürfen 25 nicht übersteigen. Der Charakter darf diese Tugend mehr als einmal nehmen: Addiere die Gesamtstufen, aber keine einzelne Kraft darf höher als Stufe 30 sein. Verliert er den Gegenstand oder wird er zerstört, ist er dauerhaft verloren.
+
+#### Kleiner Magischer Fokus
+*Klein, Hermetisch*<br>
+Deine Magie ist auf ein enges Feld besonders abgestimmt, etwa Selbstverwandlung, Raubvögel oder Heilung. Im Allgemeinen sollte das Feld etwas enger sein als eine einzelne Technik- und Form-Kombination, obwohl es eingeschränkte Bereiche mehrerer solcher Kombinationen umfassen darf. Heilung beispielsweise ist ein Teil von Creo Corpus, Creo Animal und möglicherweise Creo Herbam. Du kannst keinen Fokus auf eine Laboraktivität haben, etwa das Erschaffen von aufgeladenen Artefakten, obwohl ein Fokus durchaus auf Laboraktivitäten angewandt wird.
+
+Wenn du einen Zauber wirkst oder eine Laborsumme innerhalb deines Fokus berechnest, addiere den niedrigsten anwendbaren Kunstwert zweifach, wie beim Großen Magischen Fokus (Seite 94).
+
+Ein Magus darf nur einen einzigen Magischen Fokus besitzen, ob groß oder klein, unabhängig von der Quelle des Fokus.
+
+> #### Beispiele für Kleine Magische Foki
+>
+> Diese Liste ist lediglich beispielhaft; andere Foki sind möglich.
+>
+> - Animal: Raubvögel, Caniden, Marderartige.
+> - Aquam: Stehendes Wasser, kleine Bäche.
+> - Auram: Wind, Regen, Blitz.
+> - Corpus: Altern, Krankheit.
+> - Herbam: Fruchtbildung, Holz.
+> - Imaginem: Eine bestimmte Farbe oder ein bestimmter Klang.
+> - Mentem: Zorn, Lust, Erinnerungen auslöschen, Erinnerungen verändern.
+> - Terram: Metalle erschaffen, Stein zerstören.
+> - Heilung: Wirkt auf Menschen, Tiere und Pflanzen.
+> - Selbstverwandlung: Wirkt sowohl auf Corpus als auch auf Mentem.
+
+#### Muqta'
+*Groß, Sozialer Status*<br>
+Du bist ein bedeutender Emir, dem ein Iqta' (vergleichbar einem feudalen Lehen) anvertraut wurde. Es gelten alle Regeln für die Tugend Landadliger, außer dass die meisten Muslime die Kleine Status-Tugend Emir nehmen anstatt Ritter.
+
+#### Muse
+*Klein, Übernatürlich*<br>
+Eine Muse besitzt jene seltene Schönheit, die andere dazu anregt, sich zu Würdigem aufzuschwingen. Ein Charakter mit dieser Tugend kann einem einzelnen anderen Charakter Freie Ausdrucksfähigkeit verleihen oder den Effekt der Freien Ausdrucksfähigkeit, die ein einzelner Charakter bereits besitzt, verdoppeln, solange die Muse bei ihm ist. Der Künstler hält die Muse üblicherweise in so hohem Ansehen, dass er das Bedürfnis verspürt, sich ständig zu verbessern – sowohl in der Kunsttechnik als auch als Mensch –, um der Aufmerksamkeit der Muse würdig zu sein. Musen können beiderlei Geschlechts sein und müssen keinen schönen Körper haben.
+
+#### Mystische Choreographie
+*Klein, Hermetisch*<br>
+Die Geschicklichkeit des Magus im Umgang mit Körperhaltung und -bewegung ermöglicht es ihm, die für die Durchführung Zeremonieller Magie benötigte Zeit zu verkürzen. Der Charakter führt Zeremonien gemäß [Seite 217](#zeremonielles-zaubern) durch, benötigt jedoch nur fünf Minuten pro Magnitude. Hat der Charakter einen vorbereiteten Raum, egal wie vorläufig, reduziert sich dies auf eine Minute pro Magnitude.
+
+Diese Tugend ist besonders wichtig für jene Jerbiton-Magi, die das zeremonielle Zaubern einsetzen, um die Abzüge durch das Dominium zu überwinden.
+
+#### Mythisches Blut
+*Groß, Hermetisch*<br>
+Du bist ein Blutsnachkomme entweder eines Zauberers der Legende (möglicherweise eines der Zwölf Gründer oder eines anderen uralten und mächtigen Zauberers) oder eines übernatürlichen Wesens (wie eines Drachen).
+
+Deine potente Gabe bedeutet, dass du keine Erschöpfungsstufen verlierst, wenn deine Zaubersumme die Stufe eines formulaischen Zaubers um zehn Punkte oder weniger verfehlt; du verlierst jedoch Erschöpfung, wenn der Zauber vollständig misslingt. Beim Wirken ritueller Zauber verlierst du drei Erschöpfungsstufen weniger als normal. Das bedeutet, dass du keine Erschöpfungsstufen verlierst, wenn du erfolgreich bist oder um zehn Punkte oder weniger scheiterst. Für das Wirken Spontaner Magie musst du Erschöpfung normal aufwenden, und wenn du einen Formulaischen Zauber nicht wirkst, verlierst du die normale Anzahl an Erschöpfungsstufen.
+
+Außerdem darfst du eine besondere magische Tat wählen, die du nach Belieben auslösen und aufheben kannst, so oft du möchtest. Das Auslösen dieser Tat dauert so lange wie das Schnellzaubern eines Gemeisterten Formulaischen Zaubers (siehe [Seite 213](#formulaische-magie)) und erfordert dasselbe Maß an Konzentration. Der Effekt sollte als nicht-ritueller Hermetischer Effekt entworfen werden, dessen Stufe + Penetration wie folgt begrenzt ist. Die Penetration des Effekts wird nicht durch den Penetrationswert des Magus modifiziert und kann nicht negativ sein, sodass die höchstmögliche Stufe des Effekts 30 beträgt.
+
+| Auslösung                       | Stufe + Penetration |
+| ------------------------------- | ------------------- |
+| Geste                           | 20                  |
+| Sprechen                        | 25                  |
+| Sprechen und Geste              | 30                  |
+| Weder Sprechen noch Geste       | 15                  |
+
+Diese Tugend beinhaltet einen Kleinen Magischen Fokus in einem Bereich, der mit deinem legendären Vorfahren verbunden ist, sowie einen erblichen Kleinen Persönlichkeits-Fehler (beide ohne zusätzliche Kosten). Mythisches Blut ist im Orden des Hermes nicht ungewöhnlich, daher verleiht diese Tugend keine Reputation.
+
+#### Natürlicher Anführer
+*Klein, Allgemein*<br>
+Der Charakter ist eine dominante Persönlichkeit mit einem Auftreten, das andere dazu bringt, zu tun, was er sagt. Sein selbstsicheres Wesen verleiht ihm +3 auf Würfe in sozialen Situationen, in denen er die Führung übernimmt; Menschen folgen eher seinen Befehlen oder tun, was er vorschlägt. Wenn er die Gabe besitzt, kann dieser Bonus vorübergehend dazu beitragen, den sozialen Abzug der Gabe zu überwinden, dank der Stärke seiner dominanten Persönlichkeit.
+
+#### Nephilim
+*Frei, Mythischer Gefährte*<br>
+Du bist einer der Nephilim und ein Mythischer Gefährte ([Seite 63](#mythische-gefährten-2)). Du erhältst die Tugend Starkes Engelserbe kostenlos.
+
+#### Notar
+*Klein, Sozialer Status*<br>
+Notare sind Rechtsbeamte im Dienst von Herrschaften oder Städten. Zu deinen Aufgaben gehören das Aufsetzen von Verträgen, das Bezeugen von Urkunden, die Beglaubigung von Transaktionen und Dokumenten sowie das Anbringen eines eigens entworfenen Siegels. Notare erhalten ihr Gehalt von ihrem Arbeitgeber in der Regel zu Weihnachten. Notare haben nur Zuständigkeit in bestimmten Herrschaften oder Städten, etwa der Grafschaft Nîmes oder der Stadt Montpellier. Die Tugend Wohlhabend und der Fehler Arm wirken sich normal auf dich aus. Aufgrund deiner Ausbildung darfst du beim Erschaffen Akademische Fertigkeiten nehmen; Notare dürfen jedoch keine Mitglieder des Klerus sein und unterliegen dem weltlichen Recht.
+
+#### Nuntius
+*Frei, Sozialer Status*<br>
+Der Charakter ist ein Nuntius (Bote), beauftragt, Nachrichten, Post und Geldspenden zwischen Studenten und ihren Familien zu überbringen. Er ist bei einer Universitätsnation angestellt und ist nicht notwendigerweise gebildet. Die Tugend Wohlhabend und der Fehler Arm wirken sich normal auf ihn aus. Der Charakter kann männlich oder weiblich sein, obwohl das Reisen offensichtlich gefährlicher für eine allein reisende Frau ist.
+
+#### Erkaufte Rechte
+*Frei, Sozialer Status*<br>
+Die mittelalterliche Gesellschaft hat viele Verbote gegen Frauen, die Autorität innehaben, was sich in der Beschränkung vieler Sozialer-Status-Tugenden auf Männer widerspiegelt. Diese Regelungen müssen durchgesetzt werden, um wirksam zu sein, und eine Frau mit ausreichendem Reichtum kann sich oft eine Ausnahme von der Durchsetzung oder sogar die Erlaubnis erkaufen, etwas zu tun, das normalerweise verboten ist. Eine Frau, die eine Baronin aus eigenem Recht sein möchte, muss dem König lediglich genug Geld zahlen, dass er es erlaubt. Möchte eine Frau ein kleineres Lehen aus eigenem Recht besitzen, nicht wie befohlen heiraten und nicht unter Vormundschaft stehen, muss sie ihrem Vormund lediglich eine ausreichend große Abstandszahlung leisten.
+
+Ein Spieler kann diese Tugend nehmen, um festzuhalten, dass ein weiblicher Charakter das Recht erkauft hat, etwas Bestimmtes zu tun, das Frauen allgemein untersagt ist. Sie kann auch einen Geschichte-Fehler nehmen, der die Missbilligung ihrer Familie über diese Verwendung ihrer Mittel, die Frustration von Freiern, die ihr Land durch Heirat erlangen wollen, oder andere Formen sozialer Ächtung darstellt – obwohl dies nicht erforderlich ist.
+
+Es gibt jedoch einige wenige Verbote, von denen eine Frau sich nicht durch Zahlung freikaufen kann. Sie kann keine Zahlung leisten, um irgendetwas zu tun, was nur Männern in der Verwaltungsstruktur der Kirche erlaubt ist, was Universitäten und Kathedralschulen einschließt. Sie könnte eine Zahlung leisten, um an einer Universität studieren zu dürfen, aber nicht um zu graduieren und den damit verbundenen sozialen Status zu erlangen. Ebenso kann eine Frau keine Zahlung leisten, um in die Kleinen oder Heiligen Weihen ordiniert zu werden, etwa als Priesterin. Es ist auch schwierig für eine Frau, den Rang eines Ritters zu erlangen. Es gibt einige Beispiele weiblicher Ritter in der Volksüberlieferung, also ist es nicht unmöglich. Aber eine Rittersfrau benötigt eine ungewöhnliche Hintergrundgeschichte und sollte wirklich einen Geschichte-Fehler haben, der dies widerspiegelt.
+
+Diese Tugend ist nur weiblichen Charakteren zugänglich und ist mit jedem Sozialen Status kompatibel, der normalerweise auf Männer beschränkt ist, sowie mit jedem Sozialen Status, der mit dem durch die erkauften Rechte erlangten Status kompatibel ist.
+
+#### Partner
+*Groß, Sozialer Status*<br>
+Der Charakter hat einen großen finanziellen Anteil an einem wohlhabenden Handelsunternehmen. Dies sichert dem Charakter ein Einkommen, das dem eines kleinen Adligen entspricht, jedoch ohne militärische Gepflogenheiten. Der Capo des Unternehmens ist seinen Partnern gegenüber rechenschaftspflichtig, und diese dürfen, wenn durchführbar, ihre Gewinne als Dienste von den Kapitänen und Faktoren des Hauses in Anspruch nehmen. Ein Partner darf ohne Erwerb der entsprechenden Tugend in jeder der Rollen des Hauses agieren – außer in der Rolle des Capo –, mit Genehmigung der Spieltruppe. Das heißt, ein Partner, der zugleich Faktor, Handelsabenteurer, lokaler Frachtführer oder städtischer Kaufmann ist, muss diese Tugend nicht kaufen, wenn er diese eine besitzt.
+
+#### Bauer
+*Frei, Sozialer Status*<br>
+Du lebst davon, das Land zu bestellen. Du kannst durchaus viel Land kontrollieren und Menschen anheuern, die es bearbeiten, wenn du wohlhabend bist, oder du bist einer derjenigen, die angeheuert werden, wenn du arm bist. Du bist frei, kein Leibeigener. Die Große Tugend Wohlhabend und der Große Fehler Arm wirken sich normal auf dich aus.
+
+#### Vollkommenes Gleichgewicht
+*Klein, Allgemein*<br>
+Du beherrschst es, dein Gleichgewicht zu halten, besonders auf schmalen Vorsprüngen oder Seilen. Addiere +6 auf jeden Wurf, um ein Fallen oder Stolpern zu vermeiden.
+
+#### Untrüglicher Blick für (Ware)
+*Klein, Allgemein*<br>
+Für eine bestimmte Ware und daraus hergestellte Produkte kann der Charakter niemals eine ungenaue Werteinschätzung vornehmen. Ein Charakter mit einem untrüglichen Blick für Wolle zum Beispiel kann Wolle durch Berühren klassifizieren und ihren Preis stets genau abschätzen. Der Charakter kann auch Wollstoff und Wollestickereiarbeiten bewerten. Ein Charakter mit einem untrüglichen Blick für Edelsteine erkennt stets gefälschte, gerissene und illusorische Steine. Charaktere mit dieser Tugend sind begehrte Angestellte und werden gelegentlich von anderen Händlern als Berater bezahlt. Solange sie ausschließlich mit der Ware handeln, die zu dieser Tugend passt, ist der Charakter sehr erfolgreich. Wenn du die Handelsregeln aus *Stadt & Gilde* verwendest, erhalten sie zusätzliche (3 × Wohlstandsmultiplikator) Arbeitspunkte pro Jahr.
+
+#### Perfectus
+*Klein, Sozialer Status*<br>
+Du bist einer der Anführer der Katharer-Häretiker, die hauptsächlich in Südfrankreich zu finden sind. Zu deinen Pflichten gehören das Predigen des Evangeliums, das Enthalten von Fleisch und Milchprodukten, von Sex und Romantik sowie von anderen Handlungen, die dich in der sündigen Welt verstricken. Du solltest normalerweise den Fehler Gelübde nehmen, um deine feierlichen religiösen Verpflichtungen darzustellen. Du darfst die Tugend Wohlhabend nicht nehmen, da du von den Zehnten und Beiträgen deiner Gemeinden unterstützt wirst. Als Häretiker bist du in großer Gefahr seitens der Kirche, die dich hinrichten wird, wenn du gefasst wirst und weigerst, deinen Glauben zu widerrufen. Aufgrund deiner Ausbildung darfst du beim Erschaffen Akademische Fertigkeiten nehmen. Du kannst die Übernatürlichen Fertigkeiten Reinheit und Transzendenz aus *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)* (Seite 53) nehmen, wenn dein Charakter die Tugend Echter Glaube besitzt; dies sind jedoch keine freien Tugenden. Du darfst sie jedoch als Tugenden nehmen, wie normal. Weitere Details zu den Katharern finden sich in *Faith and Flame* ab Seite 13.
+
+> #### Beispiel
+>
+> Orlando ist Musiker und Magus und kennt Zauberhaften Gesang und Subtile Magie. Er darf Zauber wirken, während er singt (ohne Abzug für keine Gesten), sein Lautenspiel betreibt oder singt und spielt. Singt oder spielt er leise, erleidet er den normalen Abzug von –5. Er kann Zauber lautlos wirken, aber nur dann, wenn er dabei keinen Zauberhaften Gesang verwendet.
+>
+> Sein Freund Furioso, ebenfalls ein Zauberhafter Sänger, fehlt die Subtile Magie. Hat er kein Instrument bei sich, muss er anders als Orlando normale Hermetische Gesten einsetzen oder den Abzug für keine Gesten hinnehmen.
 
 #### Aufführungsmagie
 *Klein, Hermetisch*<br>
@@ -3539,1121 +4707,9 @@ Formulaische Zauber müssen mit der neuen Dauer entworfen werden, um diese Ferti
 > +0 wenn Hermetische Gesten ausgeführt werden (und gesehen werden können)
 > +3 wenn sowohl Worte als auch Gesten gewöhnlich sind
 
-#### Aufschlitzer
+#### Persona
 *Klein, Übernatürlich*<br>
-Ein Aufschlitzer besitzt zwei Kräfte. Er kann auf Sichtweite, ohne Worte oder Gesten, durch Aufwenden einer Erschöpfungsstufe ein einzelnes Stück Stoff zerstören oder ein einzelnes Tier ausweiden. Es handelt sich um einen PeAn(He)-25-Effekt und einen PeAn-45-Effekt, jeder mit Penetration +0. Beachte, dass diese Beschreibung bewusst einschränkend ist: Ein Aufschlitzer kann einem Pferd kein Bein brechen oder es erblinden lassen. Er kann kein Seil durchtrennen. Er kann Dinge nicht mit seinem Geist sauber aufschneiden. Der Aufschlitzer hat zwei völlig unveränderliche Effekte.
-
-#### Auge des Hephaistos
-*Klein, Übernatürlich*<br>
-Der Charakter kann die Qualität eines gefertigten Gegenstands intuitiv einschätzen. Ist der Gegenstand in irgendeiner Weise fehlerhaft, wird er sich dessen durch bloßes Berühren sofort bewusst. Er hat auch eine Chance festzustellen, ob ein Gegenstand magisch ist. Für übernatürliche Gegenstände, die von einem Handwerker hergestellt wurden, wird ein Wahrnehmung + Wahrnehmungs-Fertigkeit + Stresswürfelwurf gegen einen Schwierigkeitsgrad von 9 vorgenommen. Bei Erfolg kennt der Charakter die Stärke des Gegenstands. Für hermetisch verzauberte Gegenstände oder solche, die von anderen Zauberern hergestellt wurden, wird ein Wahrnehmung + Wahrnehmungs-Fertigkeit + Stresswürfelwurf gegen einen Schwierigkeitsgrad von 12 vorgenommen. Bei Erfolg weiß der Charakter, dass der Gegenstand verzaubert ist, hat aber keine Ahnung, wie oder welche Kräfte er haben könnte. Das Patzen bei einem dieser Würfe führt zu falschen Informationen. Diese Tugend liefert keine Informationen über die Aktionen oder Befehle, die nötig sind, um die Kräfte eines Gegenstands auszulösen.
-
-Hephaistos war ein heidnischer Gott der Handwerker, hauptsächlich der Metallurgen. Für christliche Charaktere ist es passender, diese Tugend als Auge des Heiligen Dunstan zu bezeichnen.
-
-#### Ausdauernd
-*Klein, Allgemein*<br>
-Du kannst dich länger anstrengen als die meisten und erhältst +3 auf alle deine Erschöpfungswürfe. Dieser Bonus gilt nicht für das Wirken von Zaubern.
-
-#### Ausdauernde Konstitution
-*Klein, Allgemein*<br>
-Du kannst Schmerz und Erschöpfung ertragen. Verringere die Abzüge für verringerte Erschöpfungsstufen um einen Punkt und reduziere deinen Gesamtabzug aus Wunden um einen Punkt (jedoch nicht unter null). Du erhältst außerdem +3 auf Würfe, um Schmerz zu widerstehen.
-
-#### Ausgebildeter Attentäter
-*Klein, Allgemein*<br>
-Diese Tugend steht nur Charakteren mit einer der Sozialer-Status-Tugenden der Nizaris zur Verfügung. Er hat mehrere Missionen im Auftrag seiner Meister absolviert und erhält dadurch 50 zusätzliche Erfahrungspunkte, die für beliebige Kampffertigkeiten sowie für Athletik, Täuschung oder Schleichen ausgegeben werden können.
-
-#### Baccalaureus
-*Klein, Sozialer Status*<br>
-Der Charakter hat ein dreijähriges Studium an einer Universität abgeschlossen und den Baccalaureus Artium (Bakkalaureat der Künste) erworben. Er ist in der Regel zwischen 16 und 19 Jahre alt und hat 90 Erfahrungspunkte, die er für Latein und Artes Liberales ausgeben kann – 30 Erfahrungspunkte pro abgeschlossenem Studienjahr. Nach seinem Abschluss stehen ihm vielfältige Möglichkeiten offen: Er kann seine Universitätslaufbahn fortsetzen, außerordentliche Vorlesungen halten, während er auf den Magister-in-Artibus-Abschluss hinarbeitet; an einer Dom- oder Weltlichschule unterrichten; als Privatlehrer für eine Adelsfamilie tätig werden; oder eine Stelle im kirchlichen oder weltlichen Bereich finden. Der Charakter hat eine Akademische Reputation von 1.
-
-Diese Tugend ist mit den Tugenden Hermetischer Magus, Bettelbruder und Priester vereinbar und kann auch von einem weiblichen Charakter genommen werden, jedoch nur dann, wenn sie (oder war) in Salerno Medizin studiert.
-
-#### Barde
-*Frei, Sozialer Status*<br>
-Der Charakter hat eine Bardenschule besucht und nach vier Jahren die Prüfung bestanden, wodurch er den Titel Fili im Rang des Dos erlangt hat. Dies verschafft ihm unter den einheimischen Iren eine gewisse Anerkennung, die einer Lokalen Reputation von 1 entspricht. Er sollte nicht jünger als 20 Jahre sein. Du solltest die Tugend Gebildet (Bardisch) nehmen, um die erhaltene Ausbildung darzustellen. Dieser Soziale Status gilt nur in Irland.
-
-#### Bauer
-*Frei, Sozialer Status*<br>
-Du lebst davon, das Land zu bestellen. Du kannst durchaus viel Land kontrollieren und Menschen anheuern, die es bearbeiten, wenn du wohlhabend bist, oder du bist einer derjenigen, die angeheuert werden, wenn du arm bist. Du bist frei, kein Leibeigener. Die Große Tugend Wohlhabend und der Große Fehler Arm wirken sich normal auf dich aus.
-
-#### Befehlende Aura
-*Frei, Übernatürlich*<br>
-Diese übernatürliche Kraft wird Charakteren entweder vom Papst oder direkt vom Göttlichen verliehen. Sie ist ein inhärenter Vorteil des Kirchenamtes. Die meisten Charaktere mit dieser Tugend haben auch die Tugend Sozialer Status: Höherer Klerus.
-
-Der Charakter besitzt eine Kraft, die dem Hermetischen Zauber Aura der Rechtmäßigen Autorität ([Seite 357](#aura-der-rechtmäßigen-autorität)) entspricht, jedoch mit Reichweite Stimme; diese Kraft hat keinen Kosten und keine Penetration. Der Charakter hat außerdem eine Magieresistenz und einen Absorptionsbonus, die von seinem Rang in der Kirche abhängen. Wenn der Charakter eine Reliquie trägt, wird diese Magieresistenz zu der der Reliquie addiert.
-
-*Papst:* Magieresistenz 25, Absorptionsbonus +5.
-
-*Kardinal oder Legatus a latere:* Magieresistenz 20, Absorptionsbonus +4.
-
-*Legatus missus:* Magieresistenz 15, Absorptionsbonus +3.
-
-*Erzbischof:* Magieresistenz 10, Absorptionsbonus +2.
-
-Päpstliche Legaten sind Vertreter des Papstes. Wenn der Legatus missus – ein niedrigerer Rang mit begrenzten Vollmachten – seine Mission verzögert oder von ihr abweicht, hört seine Befehlsaura auf zu wirken, bis er Buße getan hat. Die Befehlsaura geht auch verloren, wenn ein Legatus missus seine Mission abschließt.
-
-Einige weltliche Herrscher, die vom Papst ordiniert wurden (hauptsächlich Könige und Kaiser), haben ebenfalls eine Befehlsaura. Siehe *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, Seite 42.
-
-#### Begabter Laborlehrling
-*Klein, Hermetisch*<br>
-Du verarbeitest die Anweisungen anderer sehr leicht. Du erhältst einen +6-Bonus auf Laborsummen, wenn du nach den Labortexten anderer arbeitest, einschließlich der Neuerfindung von Zaubern.
-
-#### Begabter Schüler
-*Klein, Allgemein*<br>
-Du lernst besonders gut von anderen. Wenn du von jemandem unterrichtet oder ausgebildet wirst, addiere fünf zur Quellenqualität.
-
-#### Begabung für (Sünde)
-*Klein, Allgemein, Befleckt*<br>
-Diese Sammel-Tugend steht für jene kleineren Wirkungen, die Dämonen ihren Opfern verleihen, damit sie effektiver sündigen können – und daher häufiger. Jede Begabung für eine bestimmte Sünde addiert +3 auf alle Würfe in einem sehr begrenzten Umfeld, das mit der Besessenheit eines Dämons verknüpft ist. Als Beispiele können Charaktere Begabungen für Taschendiebstahl, für geschickten Ehebruch oder für das Vergiften von Menschen haben.
-
-#### Begabung in (Fertigkeit)
-*Klein, Allgemein*<br>
-Du bist in einer bestimmten Fertigkeit besonders geschickt und addierst 2 zu ihrem Wert, wann immer Du sie einsetzt. Beachte, dass Du eine Fertigkeit im Allgemeinen nicht einsetzt, wenn Du sie lernst, über sie schreibst oder jemandem hilfst, sie zu verbessern. Du kannst diese Tugend für eine bestimmte Fertigkeit nur einmal wählen, aber für verschiedene Fertigkeiten mehrfach.
-
-#### Begabung in (Kunst)
-*Klein, Hermetisch*<br>
-Du addierst 3 zum Wert einer Kunst, wann immer Du sie einsetzt. Das bedeutet alle Summen, in denen der Wert der Kunst Teil der Summe ist. Es gilt nicht beim Lernen, Unterrichten oder Schreiben über die Kunst. Du kannst diese Tugend zweimal wählen, für zwei verschiedene Künste. Wenn ein Zauber Requisiten hat, beziehe den Bonus aus Begabung in (Kunst) mit dieser Kunst ein, wenn Du berechnest, welche Kunst höher ist. Wenn die Kunst mit Begabung höher ist, gilt der Bonus nicht für das Requisit.
-
-#### Berserker
-*Klein, Allgemein*<br>
-Du bist in der Lage, in Kampfsituationen oder bei frustrierenden Umständen in einen blinden Wutanfall zu verfallen. Du erhältst automatisch die Persönlichkeitseigenschaft Wütend +2 (oder mehr, nach deiner Wahl). Jedes Mal, wenn du eine Wunde erleidest oder einem Feind eine zufügst, würfle einen Stresswürfel und addiere deinen Wütend-Wert. Ein Ergebnis von 9 oder mehr bedeutet, dass du in Raserei verfällst. Der Spielleiter kann auch dann einen Wurf verlangen, wenn du stark frustriert bist. Du kannst absichtlich versuchen, in Raserei zu verfallen. In diesem Fall brauchst du nur 6 oder mehr, wenn du eine Wunde erhältst oder einem Feind eine zufügst, oder 9 oder mehr, wenn du weder verwundet wurdest noch eine Wunde verursacht hast. Während du rasend bist, erhältst du +2 auf Angriffs- und Absorptionswerte, erleidest jedoch einen -2-Abzug auf die Verteidigung. Während du rasend bist, kannst du dich nicht zurückziehen, zögerst nicht anzugreifen und gewährst keine Gnade. Wenn du noch rasend bist, aber keine Feinde mehr vorhanden sind, greifst du deine Freunde an. Du kannst einmal pro Runde würfeln, um dich zu beruhigen, falls du es wünschst; dies erfordert einen Stresswurf + Wahrnehmung – Wütend gegen einen Schwierigkeitsgrad von 6. Du kannst Kampffertigkeiten bei der Charaktererschaffung erlernen.
-
-#### Berühmt
-*Klein, Allgemein*<br>
-Du hast eine gute Reputation der Stufe 4. Wähle eine beliebige Reputation (sie muss nicht gerechtfertigt sein) und einen Typ.
-
-#### Besondere Umstände
-*Klein, Hermetisch*<br>
-Du kannst in bestimmten ungewöhnlichen Situationen besser zaubern (etwa während eines Sturms oder während du das Ziel berührst) und erhältst einen Bonus von +3 auf deinen Zauberwert und deine Magieresistenz. (Ein Charakter erhält nur dann einen Bonus auf die Magieresistenz, wenn er bereits aus einer anderen Quelle über Magieresistenz verfügt.) Du kannst diese Tugend mehrfach wählen, erhältst jedoch nur einmal +3, selbst wenn mehrere der festgelegten Umstände gleichzeitig zutreffen.
-
-#### Betörung
-*Groß, Übernatürlich*<br>
-Du besitzt die Macht, den Willen einer anderen Person zu beherrschen, indem du ihr in die Augen starrst und ihr einen verbalen Befehl erteilst. Die Wahl dieser Tugend verleiht dir die Fertigkeit Betörung 1 ([Seite 164](#betörung-1)).
-
-#### Bettelbruder
-*Klein, Sozialer Status*<br>
-Du bist ein Anhänger des heiligen Franziskus oder des heiligen Dominikus, unterwegs unter Reichen und Armen, verbreitest das Wort Gottes und bringst Trost den Kranken, Obdachlosen, Hungernden oder Sterbenden. Du hast geschworen, der Kirche dein Leben lang zu dienen, aber deine wandernden Gewohnheiten werden vom örtlichen Bischof und den Pfarrgeistlichen als verdächtig angesehen, und es fehlt dir politischer Einfluss innerhalb der Organisation. Wie alle Kleriker unterliegt du jedoch nur dem Kanonischen Recht.
-
-Aufgrund deiner Ausbildung darfst du beim Erschaffen Akademische Fertigkeiten nehmen. Wenn du es wünschst, darfst du ordinierter Priester sein und kannst Hochzeiten, Taufen, Beerdigungen und die Messe leiten, obwohl die Pfarrgeistlichkeit deine Einmischung in ihr „Revier" möglicherweise übel nimmt. Wenn du ordiniert sein möchtest, musst du nicht zusätzlich die Tugend Priester nehmen.
-
-Du hast Gelübde der Armut, der Keuschheit und des Gehorsams abgelegt, die zusammengenommen einen Großen Geschichte-Fehler darstellen könnten (Ordensgelübde, siehe [Seite 138](#klostergelübde)) und die eine naheliegende Wahl sind, wenn du diese Tugend nimmst. Du darfst weder die Tugend Wohlhabend noch den Fehler Arm nehmen. Diese Tugend ist nur männlichen Charakteren zugänglich und ist kompatibel mit der Großen Tugend Magister in Artibus.
-
-#### Beurlaubungslizenz
-*Groß, Allgemein*<br>
-Dieser Priestercharakter hat eine Beurlaubungslizenz, die ihn von einigen Pflichten befreit. Die Lizenz kann nur für wenige Jahre oder auf unbestimmte Zeit gültig sein. Der Charakter hat jedes Jahr ein zusätzliches freies Quartal, doch es wird manchmal erwartet, dass das zusätzliche Quartal für das Studium genutzt wird. Diese Tugend ist kompatibel mit der Tugend Wohlhabend und dem Fehler Arm. Ein wohlhabender Priester mit einer Beurlaubungslizenz hat damit das gesamte Jahr frei; ein Charakter kann jedoch niemals mehr als vier freie Quartale pro Jahr haben. Eine Beurlaubungslizenz kann nur von einem Charakter mit dem Sozialen Status Priester genommen werden. Sie kann nicht von Hochrangigen Klerikern genommen werden.
-
-#### Bezaubernde (Fertigkeit)
-*Klein, Übernatürlich*<br>
-Wenn du dich darauf konzentrierst, kannst du mit einer bestimmten Art künstlerischen Ausdrucks magisch Gefühle und Überzeugungen in anderen hervorrufen: Musik, Tanz, Zeichnen, Geschichtenerzählen oder sogar Handwerk. Die Wahl dieser Tugend verleiht dir die Fertigkeit Bezaubernde (Fertigkeit) 1 ([Seite 164](#bezaubernde-fertigkeit-1)).
-
-#### Bienenkönig
-*Groß, Übernatürlich*<br>
-Das Bienenkönigstum ist das Ergebnis einer Abstammung von bestimmten Feen und damit eine Form von Feenblut. Es verleiht folgende Vorteile:
-
-Bienenkönige scheinen nach dem Erreichen der Reife nicht zu altern, doch jeder Bienenkönig, der nicht durch äußere Umstände stirbt, stirbt an einer schnell verlaufenden Krankheit genau ein Jahrhundert nach seiner Geburt.
-
-Jeder Bienenkönig kann jede Bienengruppe anweisen, jede Handlung durchzuführen, zu der sie physisch in der Lage sind, selbst wenn dies zu ihrem Tod führt. Übliche Anweisungen wie das Angreifen von Menschen, die Erhöhung der Bienenhauspopulation oder das Bauen von Wachsobjekten werden weiterhin ausgeführt, bis die Anweisung widerrufen wird (Penetration 50). Einfache Befehle von einem Satz oder kürzer können mündlich erteilt werden.
-
-Bienenkönige können Bienen komplexe Botschaften übermitteln, indem sie eine einzige Biene auf der Zunge des Bienenkönigs landen lassen. Diese Biene fungiert dann als Repräsentant des Königs gegenüber dem Bienenstock. Bienenkönige können die Sprache von Bienenstöcken verstehen und können die Gedanken von Bienen lesen, die sie berühren.
-
-Bienenkönige werden niemals von einer Bienenart gestochen. Ein angreifender Bienenschwarm wird als Umwelteffekt behandelt, nicht als feindliche Kampfgruppe. Der Schwarm verursacht automatisch +10 Schaden pro Runde. Dieser Schaden kann normal absorbiert werden.
-
-Zu beachten ist, dass Bienen im Mythischen Europa Könige haben, keine Königinnen, doch ein weiblicher Charakter mit dieser Tugend kann sich selbst nach Belieben Bienenkönigin nennen.
-
-Dies ist eine Übernatürliche Tugend, und du kannst sie nicht verlieren, wenn du als Magus ausgebildet wirst (siehe [Seite 269](#lehrlinge-1)). Wenn dein Meister die Fähigkeit nicht erhalten kann, kannst du nicht ausgebildet werden.
-
-#### Blitzreflexe
-*Klein, Allgemein*<br>
-Du reagierst auf Überraschungen fast augenblicklich. Tatsächlich sind deine Reflexe manchmal so schnell, dass du keine Chance hast, darüber nachzudenken, wie du reagieren willst. Wann immer du überrascht oder erschreckt wirst, würfle einen Stresswürfel + Schnelligkeit. Bei einem Ergebnis von 3 oder besser reagierst du reflexartig. Du musst dem Spielleiter bei jeder Gelegenheit mitteilen, mit welcher Art von Aktion (Angreifen, Blocken, Fliehen usw.) du reagieren möchtest. Wenn du als Reaktion angreifst, erhältst du +9 auf deinen Initiativewert. Der Spielleiter entscheidet letztlich, was geschieht (obwohl es immer in deinem unmittelbaren Eigeninteresse liegt). Du reagierst nur auf Bedrohungen, derer du dir nicht vollständig bewusst bist – du erhältst also keinen Bonus gegen einen Attentäter, den du beobachtest, wie er sich anschleicht. Beachte, dass du keine Wahl hast, ob du reagierst. Du könntest genauso leicht einen Freund aufspießen, der sich zum Spaß anschleicht, wie einen Attentäter, der zuschlagen will. Beachte auch, dass du eine Aktion wahrnehmen musst, um darauf zu reagieren – du kannst immer noch leicht im Schlaf getötet werden. Diese Tugend verleiht dir keine besonderen Wahrnehmungsfähigkeiten.
-
-#### Blut der Nephilim
-*Groß, Übernatürlich*<br>
-
-Du hast das Blut der Engel in deinen Adern und stammst von den großen Helden des Antediluvianischen Zeitalters ab, den Nephilim. Sofern du nicht die Tugend Mythischer Gefährte nimmst, ist dein Erbe etwas verdünnt, wenn auch noch immer bedeutsam.
-
-Deine Größe wird auf +1 erhöht und steigt für jedes Jahrhundert, das du lebst, um weitere +1.
-
-Du kannst während der Charaktererschaffung Dominiumkunde erlernen, ohne die Kleine Tugend Arkanes Wissen nehmen zu müssen.
-
-Du alterst unglaublich langsam und kannst Hunderte von Jahren leben. Du musst erst nach dem Alter von 150 einen Alterungswurf vornehmen, und zwar nur einmal alle zehn Jahre, und erhältst –5 auf Alterungswürfe. Du profitierst weder von Langlebigkeitsritualen noch von Magie oder übernatürlichen Kräften, die das Altern oder die Gebrechlichkeit verlangsamen oder lindern. Sobald du deinen ersten Gebrechlichkeitspunkt erwirbst, wird es für dich zunehmend schwieriger, neue Dinge zu lernen: Ziehe dein Alter ÷ 10 von allen Fortschrittssummen ab, obwohl die Fortschrittssumme für ein Quartal nicht unter 1 fallen kann.
-
-Aufgrund deiner gewaltigen Größe musst du riesige Mengen Nahrung zu dir nehmen (entsprechend dem Tagesbedarf von drei normalen Menschen) und hast den Kleinen Persönlichkeits-Fehler Gierig (der als einer deiner normalen Fehler zählt). Wenn du auch nur einen einzigen Tag ohne Nahrung bleibst, verfällst du in einen tiefen Schlaf, eine Art übernatürlichen Winterschlaf. Du verhungerst in (2 + dein Göttlicher Machtwert) Tagen, sofern du nicht mit deinem eigenen Körpergewicht an Nahrung versorgt wirst. Nach dem Erwachen erleidest du eine Anzahl verlorener Langzeiterschöpfungsstufen, die der Anzahl der Tage entspricht, an denen du ohne Nahrung warst. (Zu beachten ist, dass diese Tugend selbst keinen Göttlichen Machtwert verleiht; siehe Starkes Engelserbe weiter unten.)
-
-Du kannst nicht die Gabe oder Wahren Glauben, Hermetische Tugenden oder Fehler, Methoden oder Kräfte (siehe *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, Seiten 46–56), Tugenden wie Riesen-, Mythisches oder Feenblut, Fehler wie Schnelles Altern oder Werwolf, oder Tugenden oder Fehler nehmen, die deine Größe beeinflussen. Ein Nachkomme der Nephilim ohne Göttlichen Machtwert könnte theoretisch übernatürliche Kräfte (außer Göttlichen Methoden und Kräften) aus irgendeiner Sphäre erlernen, aber das ist sehr selten. Magi und Grogs dürfen diese Tugend nicht nehmen.
-
-#### Bruder Kaplan
-*Klein, Sozialer Status*<br>
-Du bist Priester eines Kreuzzugsritterordens, was ähnlich ist wie bei anderen Priestern, außer dass dein Gelübde neben der Keuschheit auch Gehorsam und Armut umfassen sollte. Außerhalb deines Ordens bist du nur dem Papst gegenüber verantwortlich. Du kannst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Du trägst das markante Symbol deines Ordens auf deinem Surkot, der in der Regel grün gefärbt ist. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
-
-#### Bruder Ritter
-*Klein, Sozialer Status*<br>
-Du bist Ritter in einem heiligen Kreuzzugsorden, und es ist deine Pflicht, jederzeit bereit zu sein, gegen die Ungläubigen zu kämpfen. Du hast ein lebenslanges Gelübde des Gehorsams, der Armut und der Keuschheit abgelegt und bist nur deinen Vorgesetzten und dem Papst gegenüber verantwortlich. Sofern du nicht Arm bist, kannst du hochwertige Waffen und Rüstung sowie zwei Pferde besitzen. Du kannst während der Charaktererschaffung Akademische und Kampffertigkeiten nehmen. Du trägst das Symbol deines Ordens auf deinem markanten Surkot, der in der Regel reinweiß (Templer, Hospitaliter) oder golden (Deutschritter) ist. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
-
-#### Bruder Sergeant
-*Klein, Sozialer Status*<br>
-Du bist Mitglied eines Kreuzzugsritterordens, aber weder Ritter noch Adliger. Du hast ein lebenslanges Gelübde des Gehorsams, der Armut und der Keuschheit abgelegt, doch dies wird bei dir möglicherweise nicht so streng durchgesetzt wie bei einem Bruderritter. Du bist nur deinen Ordensoberen und dem Papst gegenüber verantwortlich. Sofern du nicht Arm bist, kannst du hochwertige Waffen und Rüstung sowie zwei Pferde besitzen. Du kannst während der Charaktererschaffung auch Kampffertigkeiten nehmen. Du trägst das markante Symbol deines Ordens auf deinem Surkot, der in der Regel schwarz oder grau gefärbt ist. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
-
-#### Bücherwurm
-*Klein, Allgemein*<br>
-Du hast ein Talent für das Verstehen der Schriften anderer. Wenn du aus Büchern lernst, behandle sie so, als wären sie drei Qualitätsstufen höher als sie tatsächlich sind.
-
-#### Bürokrat
-*Klein, Sozialer Status*<br>
-Du bist Mitglied der Zivilbehörde, wahrscheinlich ein Katib (Schreiber oder Sekretär) oder Watha'iqi (Verfasser von Rechtsdokumenten). Du kannst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
-
-#### Capo
-*Groß, Sozialer Status*<br>
-Der Charakter leitet ein Handelsunternehmen, das Niederlassungen in mindestens zwei Städten hat. *City and Guild*, Kapitel 7, enthält weitere Details dazu. Ein Capo, der auch Partner im Unternehmen ist, nimmt nicht die Tugend Partner, sondern wählt entsprechend seinen Verhältnissen Arm oder Reich.
-
-#### Clan Ilfetu
-*Klein, Hermetisch*<br>
-Der Charakter ist Mitglied des Clans Ilfetu innerhalb des Hauses Bjornaer und hat eine zusätzliche Ausbildung in den Ritualen des Hauses erhalten. Du erhältst 50 zusätzliche Erfahrungspunkte, die für Haus-Bjornaer-Kunde, Magiekunde (mit einer Spezialisierung auf die Großen Tiere) und Gotisch, die tote Sprache, die das Haus für alle seine Rituale verwendet, ausgegeben werden können. Es ist möglich, dass der Magus auch in das Esoterische Mysterium der Weissagung und Zeichendeutung eingeweiht wurde (siehe *The Mysteries Revised Edition*, Seite 58); wenn dies der Fall ist, muss jene Tugend mit dem normalen Kontingent von zehn Punkten an Tugenden und Fehlern erworben werden. Clan Ilfetu lehrt die Weissagungsmethode der Hämagomantie, also die Weissagung durch Beobachtung der Blutspritzer verwundeter Tiere; dies gibt folgende Boni auf Weissagung und Zeichendeutung: +5 Familie, +3 Corpus. Siehe *Houses of Hermes: Mystery Cults*, Seite 12, für weitere Details zu Haus Bjornaer und der Rolle des Clans Ilfetu.
-
-#### Custos
-*Klein, Sozialer Status*<br>
-Du bist Angestellter eines Konvents, hast aber innerhalb seiner Mauern einen hohen Status. Du kannst ein Grog, ein Spezialist oder ein Verwalter sein. Du kannst während der Charaktererschaffung eine Gruppe eingeschränkter Fertigkeiten erwerben: entweder Kampf-, Akademische oder Arkane Fertigkeiten. Wenn du Kampf- oder Arkane Fertigkeiten wählst, kannst du trotzdem lernen, Latein zu sprechen, auch wenn du es nicht lesen oder schreiben kannst. Als Konventsangestellter wird dein Reichtum durch den Wohlstand des Konvents bestimmt, und du kannst nicht die Tugend Wohlhabend oder den Fehler Arm nehmen. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung.
-
-Diese Tugend kann auch für Angestellte anderer Institutionen gelten, wie z. B. eines Adelshaushalts oder eines Klosters.
-
-#### Dämonische Kräfte
-*Klein, Übernatürlich*<br>
-Nur ein Charakter mit der Tugend Dämonisches Blut kann Dämonische Kräfte haben. Er erhält 20 zusätzliche Stufen Höllischer Kräfte, zusätzlich zu den durch Dämonisches Blut gewährten Stufen. Du kannst diese Tugend ebenfalls mehr als einmal nehmen, obwohl sie nicht mehr als die Hälfte der gesamten Tugenden des Charakters ausmachen darf.
-
-#### Dämonische Macht
-*Klein, Übernatürlich*<br>
-Du kannst diese Tugend nur nehmen, wenn dein Charakter die Tugend Dämonisches Blut hat. Ihr Infernaler Machtwert steigt um 2 Punkte. Bei ihrem Tod enthält ihr Körper eine Anzahl von Bauern Corpus-Vis, die ihrem (Infernalen Machtwert / 5), aufgerundet, entspricht. Du kannst diese Tugend mehr als einmal nehmen, obwohl sie nicht mehr als die Hälfte der gesamten Tugenden des Charakters ausmachen darf.
-
-#### Dämonisches Blut
-*Groß, Übernatürlich, Befleckt*<br>
-Der Charakter hat einen Dämon als Elternteil und wurde von seinem höllischen Vater oder seiner höllischen Mutter für eine bestimmte Aufgabe gezeugt. Aufgrund dessen ist sie ein Höllisches Wesen und besitzt einen Infernalen Machtwert (Corpus) von 5. Dies verleiht ihr Magieresistenz. Ihr Körper enthält auch einen Bauern Corpus-Vis, der erst nach ihrem Tod gewonnen werden kann. Sie ist gegen Verzerrung jeglicher Art immun, muss nicht essen oder trinken und kann kein Kind bekommen; sie verspürt jedoch die natürlichen Triebe, die mit diesen Tätigkeiten verbunden sind, und kann aufgefordert werden, Persönlichkeitswürfe abzulegen, um ihren Begierden zu widerstehen.
-
-Sie hat bis zu 30 Stufen Höllischer Kräfte, die durch Ausgeben von Machtpunkten eingesetzt werden können. Gestalte die Effekte mithilfe Hermetischer Zauberrichtlinien oder der Maleficia-Richtlinien (siehe *Sphären der Macht: Das Infernale*, Kapitel 10: Die Maleficia), unter Berücksichtigung der Kräfte des dämonischen Elternteils. Die Machtkosten für jede Kraft entsprechen ihrer Magnitude geteilt durch zwei, abgerundet (mindestens jedoch ein Punkt). Diese können als konstante Effekte gestaltet sein, die auf die übliche Weise entworfen werden (Dauer Sonne, zwei Anwendungen pro Tag und ein Umgebungsauslöser, siehe [Seite 257](#wirkungsanpassungen)); ihr Machtvorrat wird in diesem Fall stets um die Kosten einer solchen Kraft verringert, und sie kann diese Kräfte nicht abschalten. Der Initiativewert jeder Kraft ist die Schnelligkeit des Charakters.
-
-Sie ist sich ihrer wahren Herkunft möglicherweise nicht bewusst; in diesem Fall hat sie wahrscheinlich entweder den Fehler Wahnvorstellung oder den Fehler Fabrizierte Unwissenheit, um ihre außergewöhnlichen Fähigkeiten zu erklären. Sie steht unter der besonderen Aufmerksamkeit der Hölle und sollte daher diese Tugend mit einem Geschichte-Fehler ausgleichen, der diese Aufmerksamkeit widerspiegelt, z. B. Tragisches Leben. Der Charakter kann während der Charaktererschaffung Infernalkunde erlernen, ohne die Kleine Tugend Arkanes Wissen nehmen zu müssen.
-
-Ihr ist fast ständig ein kleiner Dämon zugeteilt, der in der Regel in geistiger Form bleibt und über sie wacht; wenn nötig, schützt er sie im Auftrag ihres Schöpfers/Elternteils. Dieser Dämon ist ein Ruach, der seine Unheilsmacht einsetzen kann, um ihre Feinde zu verderben. Wenn sie ihrer dämonischen Herkunft nicht bewusst ist, hält sie sich entweder für ungewöhnlich glücklich oder betrachtet den begleitenden Dämon als einen Magischen oder Göttlichen Geist. Dieser begleitende Dämon bedeutet jedoch, dass ihr dämonisches Elternteil sie jederzeit finden und über ihre Aktivitäten auf dem Laufenden gehalten werden kann.
-
-Das Leben einer Charakter mit Dämonischem Blut ist kurz – ungefähr halb so lang wie das eines reinblütigen Menschen. Ihr effektives Alter (das beim Erschaffen eines Langlebigkeitsrituals und beim Würfeln auf der Alterungstabelle wie ihr tatsächliches Alter gilt) steigt für jedes vergangene Jahr um zwei Jahre, und du musst einmal pro Jahr zwei Alterungswürfe vornehmen, sobald ihr effektives Alter 35 erreicht. Es gibt keine Möglichkeit, dies zu stoppen oder zu verlangsamen, außer durch Langlebigkeitsrituale, sofern sie jemanden dazu überreden kann, eines für sie herzustellen. Sie zeigt jedoch keine Anzeichen von Alterung; erworbene Alterungspunkte werden nicht auf ihre Eigenschaften angewendet, zählen aber weiterhin als Erfahrungspunkte für die Gebrechlichkeit.
-
-Du kannst nicht die Tugend Höllische Segnungen nehmen, die in *Sphären der Macht: Das Infernale* beschrieben wird; die Tugend Dämonische Kräfte ersetzt jene Tugend für den dämonisch Geblüteten. Du kannst keine Tugend nehmen, die sie mit einer anderen Sphäre als der Höllensphäre verbindet. Außerdem kannst du nicht die Tugend Kein Altern oder den Fehler Schnelles Altern nehmen. Sie kann keine Kinder haben und daher auch keine Schützlinge dieser Art.
-
-#### Diedne-Magie
-*Groß, Hermetisch*<br>
-Deine magische Abstammung und Tradition stammt von den Druiden und dem unterworfenen ehemaligen Haus Diedne, was dich besonders geschickt in Spontaner Magie macht. Wenn du einen Spontanzauber wirkst, ohne Erschöpfung aufzuwenden, kannst du wählen, ob du durch 5 oder durch 2 teilst. Wenn du durch 5 teilst, brauchst du keinen Stresswürfel zu werfen und kannst keinen Patzer erleiden, wie es normalerweise der Fall ist. Wenn du durch 2 teilst, musst du einen Stresswürfel werfen und kannst einen Patzer erleiden.
-
-Wenn du Erschöpfung beim Wirken eines Spontanzaubers aufwendest, wird die niedrigste anwendbare Kunst verdoppelt, bevor die Gesamtsumme durch zwei geteilt wird. Du würfelst weiterhin einen Stresswürfel und kannst einen Patzer erleiden.
-
-Du musst deine Abstammung vor dem Orden verborgen halten, was dir einen Großen Geschichte-Fehler einbringt – Dunkles Geheimnis ist eine naheliegende Wahl, aber du kannst mit Zustimmung der Spieltruppe einen anderen wählen. Dies ist zusätzlich zu deiner normalen Zahl an Fehlern und gewährt dir keine Punkte, mit denen du Tugenden kaufen kannst.
-
-#### Doktor der (Fakultät)
-*Groß, Sozialer Status*<br>
-Der Charakter hat eine der höheren Fakultäten einer Universität in Medizin, Zivil- oder Kanonischem Recht oder Theologie abgeschlossen, nachdem er bereits seine Magister-in-Artibus-Lizenz erworben hat, und darf Kommilitonen unterrichten. Der Charakter kann überall unterrichten, auch an einer Universität, die er nicht besucht hat. Dies ist die höchste Bildungslizenz im Mythischen Europa. Ein Doktor der Medizin trägt auch den Titel Magister in Medicina, da er in der Regel an einer der südlichen Universitäten ausgebildet wurde.
-
-Ein Charakter, der das Spiel mit dieser Tugend beginnt, muss mindestens (27 – Intelligenz) Jahre alt sein. Er muss einen Wert von 5 in Latein, Artes Liberales und der Fertigkeit haben, die seiner Fakultät entspricht. Der Charakter hat zehn Jahre an einer Universität verbracht und erhält 300 zusätzliche Erfahrungspunkte, die für Latein und Akademische Fertigkeiten ausgegeben werden müssen. Er beginnt das Spiel außerdem mit einer Akademischen Reputation von 3.
-
-Wie andere berufstätige Charaktere muss er zwei Quartale pro Jahr in seiner Profession tätig sein, entweder lehrend oder an einem weltlichen oder kirchlichen Gericht arbeitend. Sowohl die Tugend Wohlhabend als auch der Fehler Arm sind zulässig, aber Spieler müssen entscheiden, welches Missgeschick einem solch gelehrten Akademiker widerfahren ist, wenn er Arm ist, wofür er eine Schlechte Reputation auf Stufe 2 erhält.
-
-Diese Tugend ist mit den Tugenden Hermetischer Magus, Bettelbruder und Priester vereinbar. Sie steht nur männlichen Charakteren zur Verfügung, mit Ausnahme von Doktoren der Medizin, die in Salerno graduiert haben. Diese Universität bildet tatsächlich weibliche Ärztinnen aus.
-
-> #### Tiercharaktere
->
-> Ein Tier kann Persönlichkeit haben und wie ein Mensch sehr viel zu Geschichten beitragen. Trotz offensichtlicher Einschränkungen kann es sehr viel Spaß machen, eines als Grog zu spielen, wahrscheinlich während man auch menschliche Grogs spielt. Weitere Details zu Tiercharakteren finden sich in *Grogs*, Seite 136,
->
-> doch Spieler sollten sich nicht scheuen, einfach die Statistiken für ein weltliches Tier aus Kapitel 13 zu verwenden. Übernatürliche Tiere sind komplexer, und Regeln für sie finden sich in den Sphären-der-Macht-Ergänzungsbänden, insbesondere in *Sphären der Macht: Feenwelt* (Seite 50) und *Sphären der Macht: Magie* (Kapitel 5).
-
-#### Domschulmeister
-*Groß, Sozialer Status*<br>
-Der Charakter unterrichtet an einer Domschule, einer der vielen, die das Mythische Europa durchziehen. Er ist mindestens (30 – Intelligenz) Jahre alt und muss Werte von 5 in Latein und Artes Liberales sowie einen Unterrichten-Wert von mindestens 3 haben. Er kann jede Akademische Fertigkeit erlernen und sie seinen Schülern beibringen. In der Regel ist er kein Universitätsmensch, sondern wurde an einer Domschule ausgebildet. Er erhält 240 zusätzliche Erfahrungspunkte, die für Akademische Fertigkeiten und Unterrichten ausgegeben werden können. Der Charakter hat eine Akademische Reputation von 2.
-
-Diese Tugend ist mit den Tugenden Baccalaureus und Priester vereinbar. Charaktere mit höheren Universitätsabschlüssen sollten stattdessen jene Tugenden nehmen; ein Magister oder Doktor gewinnt keinen zusätzlichen Status durch das Unterrichten an einer Domschule. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
-
-#### (Fertigkeit) durch Fehler lernen
-*Klein, Allgemein*<br>
-Du bist in der Lage, eine bestimmte Fertigkeit durch wiederholtes Scheitern zu verbessern. Beim ersten Mal in einer gegebenen Spielsitzung, dass du einen Wurf verpatzst oder um genau einen Punkt verfehlst, erhältst du fünf Erfahrungspunkte in der Fertigkeit. Der Wurf muss sich natürlich im Verlauf der Geschichte ergeben haben. Du kannst diese Tugend mehrmals nehmen, je einmal für jede gewählte Fertigkeit.
-
-#### Durchdringender Blick
-*Klein, Allgemein*<br>
-Wenn Du Menschen eindringlich anschaust, vermittelst Du ihnen das unbehagliche Gefühl, als würdest Du in ihre Seelen blicken. Personen mit Hintergedanken, schlechtem Gewissen oder einer verlogenen Zunge müssen Würfe gegen eine angemessene Persönlichkeitseigenschaft, Täuschung oder was der Spielleiter für geeignet hält ablegen, um ruhig zu bleiben. Außerdem erhältst Du einen Bonus von +3 auf Würfe, die Einschüchterung beinhalten. Feen und Dämonen lässt Deine Kraft unbeeindruckt.
-
-#### Durchdrungen vom Geist der (Form)
-*Klein, Hermetisch*<br>
-Der Magus hat einen Teil der Kräfte eines Elementarwesens oder eines anderen magischen Objekts absorbiert (vielleicht durch Verzehr). Dieser Vorgang trübt den Magus, sodass jedes Wesen mit einer Magischen Macht, die mit der Form dieser Tugend verknüpft ist, seine Natur in der Nähe wahrnehmen kann. Schwache Kreaturen werden in der Regel Angst vor dem Magus haben, während mächtige versuchen werden, ihn zu töten.
-
-Wann immer der Magus einen Zauber wirkt oder eine Laborarbeit ausführt, die Vis der gewählten Form erfordert, kann er langfristige Erschöpfungsstufen als Ersatz für die Vis einsetzen. Jede verlorene langfristige Erschöpfungsstufe verringert den Vis-Bedarf des Zaubers oder Effekts um 1. Beim Wirken eines Zaubers gehen die Erschöpfungsstufen nach dem Zaubern verloren. Bei Laborarbeiten hält der Erschöpfungsverlust für die Dauer des Laborprozesses an (also mindestens ein Quartal), und als Vis-Ersatz eingesetzte Erschöpfungsstufen zählen nicht zur Vis-Ausgabenbeschränkung des Magus pro Quartal. Der Magus erleidet den Erschöpfungsabzug auf seine Laborsumme.
-
-Beachte, dass das Studieren von Vis keine Laborarbeit ist, weshalb der Magus beim Vis-Studium keine Erschöpfungsstufen als Vis-Ersatz einsetzen kann.
-
-Als Beispiel: Ein Magus, der den Zauber Verzauberung des Spionagepools als Ritual wirkt (InAq 30, [Seite 322](#verzauberung-des-seherbeckens)), benötigt 6 Bauern irgendeiner Kombination aus Intellego- und Aquam-Vis. Ist der Magus Durchdrungen vom Geist des Aquam, kann er sich ermüden (und dabei drei langfristige Erschöpfungsstufen verlieren) und damit den Vis-Bedarf um 3 verringern.
-
-#### Edelmann / Edelfrau
-*Klein, Sozialer Status*<br>
-Du bist ein rangniederes Mitglied (möglicherweise unehelich) einer Adelsfamilie. Du hast keinen Erbanspruch bei deinen Verwandten, wirst aber dennoch als eines der Ihren behandelt und kannst als „Herr" oder „Dame" angesprochen werden. Du lebst wahrscheinlich in der Nähe des Konvents bei deinen Verwandten. Obwohl es dir an nichts mangelt, besitzt du keinen großen eigenen Reichtum. Du kannst gelegentlich deine Familie bitten, teure Ausrüstung für dich zu kaufen, wirst aber eine überzeugende Begründung benötigen. Von dir wird erwartet, dass du deine Verwandten einen Großteil der Zeit bedienst, andernfalls verlierst du die Vorteile der Familie (obwohl du deinen gesellschaftlichen Stand behältst, wenn du deinen normalen Lebensstil anderweitig aufrechterhalten kannst). Die Wohlstand-Tugend und der Arm-Fehler wirken sich normal auf dich aus.
-
-#### Einfacher Student
-*Klein, Sozialer Status*<br>
-Der Charakter ist ein Universitätsstudent, der noch keinen Abschluss erworben hat. Er ist typischerweise zwischen 14 und 16 Jahre alt und irgendwo in seinem Universitätsprogramm. Er erhält 30 Erfahrungspunkte pro abgeschlossenem Jahr, die er für Latein oder Artes Liberales aufwenden kann. Hat er sein zweites Studienjahr abgeschlossen, befindet er sich in der Übergangssituation, entweder Arbeit zu suchen oder seine Ausbildung fortzusetzen. Weibliche Charaktere können diese Tugend nur wählen, wenn sie in Salerno Medizin studieren, obwohl die Tugend Erkaufte Rechte ihnen erlauben würde, diese Tugend auch anderswo zu wählen. An anderen Universitäten könnten sie jedoch keinen Abschluss machen.
-
-Mehr als die Hälfte aller Universitätsstudenten sind Einfache Studenten.
-
-#### Einflüstern
-*Groß, Übernatürlich*<br>
-Der Charakter hat die übernatürliche Fähigkeit, Menschen Dinge erleben zu lassen, die nicht vorhanden sind. Sie erhält die Übernatürliche Fertigkeit Einflüstern ([Seite 166](#einflüstern-1)) mit einem Wert von 1.
-
-#### Einsame Rotkappe
-*Klein, Sozialer Status*<br>
-Du bist eine Rotkappe, die keine Bindungen an ein Mercere-Haus unterhält und daher weder Zauberartefakte noch Langlebigkeitsrituale erhält. Du beginnst dennoch mit 300 Erfahrungspunkten für deine fünfzehn als Lehrling verbrachten Jahre und erhältst die Vorteile der Tugend Vielgereist, bist jedoch von den anderen Rotkappen in deiner Gegend entfremdet und hast eine schlechte Reputation der Stufe 2 innerhalb deines Hauses.
-
-Du musst weiterhin jedes Jahr zwei Quartale damit verbringen, Nachrichten zu überbringen und andere Dienste für den Orden zu leisten, denn tust du das nicht, besteht die Möglichkeit, dass du als Orbus erklärt und aus deinem Haus ausgeschlossen wirst. Diese Arbeit reicht aus, um davon zu leben, wenn du keinem Konvent angehörst, sofern du nicht den Fehler Arm nimmst und ein drittes Quartal arbeiten musst. Nimmst du die Tugend Wohlhabend, kannst du deine Stellung mit nur einem Quartal Einsatz pro Jahr aufrechterhalten.
-
-Dieser Soziale Status ist mit jedem anderen weltlichen Sozialen Status vereinbar, der dir vernünftigerweise erlaubt, deinen Job als Rotkappe zu erledigen, wie etwa Händler oder Bettelorden.
-
-#### Elementarmagie
-*Groß, Hermetisch*<br>
-Du wurdest in der Fähigkeit ausgebildet, rohe elementare Formen (Aquam, Auram, Ignem und Terram) zu manipulieren, und betrachtest sie als zusammenhängendes Ganzes statt als vier getrennte Künste. Wann immer du Erfahrung aus einer Quelle erhältst, die einer dieser Künste gewidmet ist, erhältst du die Hälfte der Quellenqualität (aufgerundet) als Erfahrungspunkte in jeder der drei anderen Künste. Wenn du beispielsweise Ignem aus einem Buch mit einer Quellenqualität von 13 studierst, erhältst du jeweils 7 Erfahrungspunkte in Aquam, Auram und Terram.
-
-Weise während der Charaktererschaffung alle deine Erfahrungspunkte in Künste zu. Weise dann die Hälfte der Erfahrungspunkte, die du jeder der elementaren Formen zugeteilt hast, jeweils den anderen elementaren Formen zu. Addiere diese Bonuserfahrungspunkte erst dann tatsächlich zur betreffenden Form, wenn du die Berechnung aller Bonuserfahrungspunkte abgeschlossen hast. Wenn du beispielsweise je 10 Erfahrungspunkte auf Aquam, Auram und Terram und 21 Erfahrungspunkte auf Ignem vergibst, solltest du Ignem 15 Bonuserfahrungspunkte (je 5 aus Aquam, Auram und Terram) zuweisen und jeweils 21 Bonuserfahrungspunkte auf Aquam, Auram und Terram verteilen (11 aus Ignem und je 5 aus den anderen beiden Formen).
-
-Darüber hinaus gilt: Wenn ein Zauber, der eine dieser Formen als primäre Form hat, ein anderes Element als Requisit benötigt, verwendest du die primäre Form zur Berechnung der Gesamtwerte, selbst wenn das Requisit niedriger ist.
-
-#### Emir
-*Klein, Sozialer Status*<br>
-Dies entspricht der Ritter-Tugend, doch aufgrund der recht anderen Erziehung muslimischer Emire bist du wahrscheinlich ebenso versiert in Jagd, religiösen Lehren und Kultur wie in kriegerischen Belangen.
-
-#### Das Enigma
-*Klein, Hermetisch*<br>
-Du wurdest in das Äußere Mysterium des Enigmas eingeweiht (siehe [Seite 235](#enigmatische-weisheit-1)) und bist damit Mitglied des Hauses Criamon. Du hast einen Wert von 1 in Enigmatischer Weisheit. Beachte, dass alle Criamon-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
-
-#### Erfahrener Parens
-*Klein, Hermetisch*<br>
-Dein Parens war mächtiger oder ein besserer Lehrer als üblich. Du erhältst während der Lehrzeit 60 zusätzliche Erfahrungspunkte und 30 Zauberstufen. Diese Tugend hat keinen Einfluss auf Dein Studium nach der Lehrzeit, aber Du hast dennoch eine enge Beziehung zu einem mächtigen Magus.
-
-#### Erfahrener Schmugler
-*Klein, Allgemein*<br>
-Der Charakter kann einen Gegenstand an seiner Person verbergen, und Versuche, ihn zu finden, erleiden einen Abzug von –9 auf Wahrnehmungswürfe. Der Gegenstand darf nicht größer als ein Dolch sein, und der Charakter kann mit wenigen Minuten Arbeit wechseln, welche Gegenstände verborgen sind. Wohlhabende Charaktere beschaffen sich oft zusammenlegbare Werkzeuge, die sie in Verbindung mit dieser Tugend einsetzen.
-
-#### Erfinderisches Genie
-*Klein, Hermetisch*<br>
-Erfinden liegt dir im Blut. Du erhältst +3 auf deine Laborsumme, wenn du keinen Labortext verwendest und auch nicht unterrichtet wirst. Wenn du experimentierst, erhältst du +6.
-
-#### Erkaufte Rechte
-*Frei, Sozialer Status*<br>
-Die mittelalterliche Gesellschaft hat viele Verbote gegen Frauen, die Autorität innehaben, was sich in der Beschränkung vieler Sozialer-Status-Tugenden auf Männer widerspiegelt. Diese Regelungen müssen durchgesetzt werden, um wirksam zu sein, und eine Frau mit ausreichendem Reichtum kann sich oft eine Ausnahme von der Durchsetzung oder sogar die Erlaubnis erkaufen, etwas zu tun, das normalerweise verboten ist. Eine Frau, die eine Baronin aus eigenem Recht sein möchte, muss dem König lediglich genug Geld zahlen, dass er es erlaubt. Möchte eine Frau ein kleineres Lehen aus eigenem Recht besitzen, nicht wie befohlen heiraten und nicht unter Vormundschaft stehen, muss sie ihrem Vormund lediglich eine ausreichend große Abstandszahlung leisten.
-
-Ein Spieler kann diese Tugend nehmen, um festzuhalten, dass ein weiblicher Charakter das Recht erkauft hat, etwas Bestimmtes zu tun, das Frauen allgemein untersagt ist. Sie kann auch einen Geschichte-Fehler nehmen, der die Missbilligung ihrer Familie über diese Verwendung ihrer Mittel, die Frustration von Freiern, die ihr Land durch Heirat erlangen wollen, oder andere Formen sozialer Ächtung darstellt – obwohl dies nicht erforderlich ist.
-
-Es gibt jedoch einige wenige Verbote, von denen eine Frau sich nicht durch Zahlung freikaufen kann. Sie kann keine Zahlung leisten, um irgendetwas zu tun, was nur Männern in der Verwaltungsstruktur der Kirche erlaubt ist, was Universitäten und Kathedralschulen einschließt. Sie könnte eine Zahlung leisten, um an einer Universität studieren zu dürfen, aber nicht um zu graduieren und den damit verbundenen sozialen Status zu erlangen. Ebenso kann eine Frau keine Zahlung leisten, um in die Kleinen oder Heiligen Weihen ordiniert zu werden, etwa als Priesterin. Es ist auch schwierig für eine Frau, den Rang eines Ritters zu erlangen. Es gibt einige Beispiele weiblicher Ritter in der Volksüberlieferung, also ist es nicht unmöglich. Aber eine Rittersfrau benötigt eine ungewöhnliche Hintergrundgeschichte und sollte wirklich einen Geschichte-Fehler haben, der dies widerspiegelt.
-
-Diese Tugend ist nur weiblichen Charakteren zugänglich und ist mit jedem Sozialen Status kompatibel, der normalerweise auf Männer beschränkt ist, sowie mit jedem Sozialen Status, der mit dem durch die erkauften Rechte erlangten Status kompatibel ist.
-
-#### Eunuch
-*Klein, Sozialer Status*<br>
-Du wurdest ausgebildet und trainiert, um der byzantinischen Adelsschicht als Hofbeamter, Verwalter, Kammerherr, Schreiber, Jurist oder Buchhalter zu dienen. Du bist wahrscheinlich bei einem Hof, einem niederen Adligen oder einem Konvent angestellt. Es ist dir auch möglich, eine Laufbahn in der östlichen Kirche einzuschlagen, da einige Klöster Eunuchen aufnehmen. Aufgrund deiner Ausbildung darfst du bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung, die zeugungsunfähig sein müssen, nicht bloß sexuell enthaltsam. Dies kann durch Kastration bedingt sein (siehe den Kastratus-Fehler auf Seite 122), muss es aber nicht.
-
-#### Exotisches Zaubern
-*Klein, Hermetisch*<br>
-Der Magus verwendet nicht-hermetische Methoden, um hermetische Zauber zu wirken. Er muss zwar nach wie vor offensichtliche rituelle Handlungen vollziehen, doch sind diese nicht dieselben Worte und Gesten, die im Orden als Teil der Magietheorie gelehrt werden, und andere Magi, die mit der Tradition des Magus nicht vertraut sind, haben große Mühe, zu erkennen, welchen Zauber er wirkt. Jeder Versuch, die Form seines magischen Effekts zu bestimmen ([Seite 217](#schnellzaubern)), wird gegen einen Schwierigkeitsgrad von 15 vorgenommen, ohne dass die Magnitude des Effekts wie üblich davon abgezogen wird. Besitzt der Charakter übernatürliche Fertigkeiten, wendet er für das Wirken seiner hermetischen Magie dieselben Methoden an, die er auch für seine nicht-hermetische Magie verwendet. Der Magus kann nicht wählen, stattdessen die üblichen hermetischen Methoden zu verwenden, kann aber in der üblichen Weise auf Worte und Gesten verzichten oder diese reduzieren ([Seite 216](#worte-und-gesten)).
-
-#### Fällt wie eine Katze
-*Klein, Allgemein*<br>
-Der Charakter wird durch Stürze aus bis zur dreifachen eigenen Körperhöhe nicht verletzt, oder bis zur sechsfachen Höhe, wenn er seinen Fall abfedern kann, indem er sich an Fenstersimsen festhält, durch Markisen bricht oder auf dem Weg nach unten an Ästen hängenbleibt. Aus größeren Höhen erleidet der Charakter Aufprallschaden von +1 für jeden zusätzlichen Fuß, wenn er auf einem harten Untergrund landet, oder für jeden zusätzlichen vier Fuß, wenn er auf einem weichen Untergrund landet.
-
-#### Faktor
-*Klein, Sozialer Status*<br>
-Der Charakter verwaltet die Interessen eines Handelshauses in einer einzigen Stadt. Das verleiht dem Charakter eine starke gesellschaftliche Stellung und Verbindungen zu vielen anderen Regionen; weitere Einzelheiten finden sich in *Stadt und Zunft*. Viele Faktoren sind Juniorpartner in ihren Unternehmen und wählen stattdessen die Partner-Tugend.
-
-#### Falkner
-*Klein, Sozialer Status*<br>
-Der Charakter dressiert Falken und Habichte für einen adeligen Gönner und ist für die Ausbildung, Zucht und Gesundheit der Tiere verantwortlich. Er hat oft einen persönlichen Diener zur Unterstützung und ist ein wichtiges Mitglied des Adelshaushalts, das mit großem Respekt behandelt wird. Er sollte die Fertigkeit Beruf: Falkner besitzen, die die Pflege der Vögel, die Behandlung ihrer Krankheiten sowie die Beschaffung und Zucht von Falken und Habichten regelt. Die Fertigkeit Tierumgang wird für die Dresur der Falken verwendet. Ein Spezialist für Nicht-Falken, wie zum Beispiel Habichte, wird als Austringer bezeichnet.
-
-Ein Falkner erhält bei der Charaktererschaffung 50 zusätzliche Erfahrungspunkte, die auf folgende Fertigkeiten verwendet werden können: Tierumgang, Gebietskunde, Etikette, Jagen, Latein, Beruf: Falkner und Reiten. Viele Falkner sind auch Gebildet.
-
-#### Federbote
-*Klein, Übernatürlich*<br>
-Diese Tugend steht nur einem Charakter zur Verfügung, der die Form eines Vogels annehmen kann (was auch ihre natürliche Form sein kann). Sie kann schmerzlos eine Feder von ihrem Körper ablösen und diese als Federkiel zum Schreiben verwenden, wobei sie deren Bewegungen telepathisch kontrolliert, solange er sich in Sichtweite befindet. Der Kiel benötigt keine Tinte; er erzeugt sie magisch. Nach Abschluss des Schreibens kann der Charakter die Feder wieder befestigen, wenn er sich in Vogelform befindet. Die Qualität des Charakters als Schreiber unterscheidet sich nicht zwischen menschlicher und Vogelform. Der Charakter kann in Vogelform auch Federn abziehen, sich in einen Menschen verwandeln und die fallen gelassenen Federn gedanklich weiterhin kontrollieren. Diese Tugend ist besonders mit einer nordafrikanischen magischen Tradition namens „Töchter der Vier Väter" verbunden (siehe *Zwischen Sand und Meer*, Seite 107).
-
-#### Feenblut
-*Klein, Übernatürlich*<br>
-Irgendwo in deiner Ahnenreihe findet sich eine Fee, und diese Verwandtschaft verleiht dir ein intuitives Gespür für die Beweggründe und Persönlichkeiten dieser übernatürlichen Wesen. Feen fühlen sich in deiner Nähe wohler als bei anderen Menschen und könnten mit der Zeit sogar das sterbliche Blut in deinen Adern vergessen.
-
-Du alterst langsamer und erhältst -1 auf alle Alterungswürfe.
-
-Charaktere mit Feenblut können Feenkunde bereits bei der Charaktererschaffung erlernen.
-
-Art des Feenbluts (eines auswählen oder ein ähnliches erschaffen):
-
-*Blut des Bienenkönigs:* Die Nachkommen von Bienenkönigen können Bienen, die sie berühren, einfache Anweisungen erteilen und die dominierenden Gedanken von Bienenvölkern verstehen. Sie können Bienen keine Anweisungen geben, die sie töten würden, außer Kriegerbienen zum Angriff zu befehlen, da Kriegerbienen so bereit sind zu sterben (Penetration 25).
-
-*Zwergenblut:* Du stammst von den Meisterhandwerkern der Feen ab und erhältst +1 Bonus auf jeden Gesamtwert, der eine Handwerks-Fertigkeit einschließt.
-
-*Koboldblut:* Deine Vorfahren waren die hinterlistigen Bewohner der Untergrundschatten, und du erhältst +1 Bonus auf alle Gesamtwerte, die Schleichen betreffen.
-
-*Satyrblut:* Die Satyrn sind für ihre Lüsternheit bekannt. Du erhältst +1 Bonus auf Kommunikations- und Präsenz-Gesamtwerte im Umgang mit sexuell kompatiblen Charakteren.
-
-*Sidhe-Blut:* Du stammst von einer der adeligen Feen ab, die die Lande des Sommers und des Sonnenlichts beherrschen. Aufgrund der auffälligen und ungewöhnlichen Qualitäten deiner Natur erhältst du +1 auf deine Präsenz, jedoch nicht über +3 hinaus. Viele Sterbliche könnten dich faszinierend oder verführerisch finden.
-
-*Spinnen-Blut:* Ein Charakter mit Spinnen-Blut kann täglich sein oder ihr eigenes Körpergewicht an Fasern in Stoff umwandeln, indem er diese einfach berührt. Alte Stoffe oder Produkte aus Stofffasern können mit derselben Fähigkeit aufgewebt werden, was jedoch auf das maximale Gewicht an Stoff angerechnet wird, das ein Charakter pro Tag verändern kann. Einige Spinnen, insbesondere jene, die als Gefährten von Magi gedient haben, erschaffen stattdessen andere nützliche Gegenstände wie Zelte, Seile oder Segel im gleichen Gewicht. Diese Charaktere entstammen einer einzigen Familienlinie, die ihren Ursprung in der Nähe von Gent hat; weitere Details über das Leben der meisten Familienmitglieder finden sich in *Der Löwe und die Lilie*, Seite 97.
-
-*Undinen-Blut:* Die Undinen sind die Wasserfeen, und du erhältst +2 Bonus auf alle Aktionen, die unter Wasser durchgeführt werden, was teilweise etwaige Abzüge ausgleicht.
-
-#### Feendoktor
-*Frei, Mythischer Gefährte*<br>
-Diese Tugend macht dich zum Feendoktor und Mythischen Gefährten ([Seite 63](#mythische-gefährten-2)). Du erhältst die Wünschelrutengehen-Tugend kostenlos.
-
-#### Feengeprägte Magie
-*Groß, Hermetisch*<br>
-Die Erfahrungen des Charakters mit Feen und der Feensphäre haben ihn dazu gebracht, Zauber sehr schnell zu erfinden; für ihn wirken formulaische Zauber wie angeborene Kräfte, die man durch Beobachtung und Experimentieren erlernen kann.
-
-Daher kann er sich Zauber außerhalb des Laboratoriums selbst beibringen. Du kannst Erfahrungspunkte aus Exposition, Abenteuern und Übung auf Zauber verwenden, die du normalerweise erfinden könntest und die Feenkräfte oder andere übernatürliche Effekte nachahmen, die dein Charakter in diesem Quartal beobachtet hat.
-
-Um einen Zauber auf diese Weise zu erfinden, muss die Summe aus Technik + Form + Intelligenz + Magietheorie des Magus mindestens (Zauberstufe – 10) betragen, und du musst eine Anzahl von Erfahrungspunkten aufwenden, die (der Magnitude des Zaubers + 4) entspricht. Zauber der Stufe 5 oder niedriger kosten ihre Stufe in Erfahrungspunkten (jedoch stets mindestens 1). Ein Zauber der Stufe 2 kostet beispielsweise 2 Erfahrungspunkte, ein Zauber der Stufe 15 kostet 7 Erfahrungspunkte. Der Magus kann auf diese Weise keine Ritualzauber erfinden.
-
-Kennt der Magus bereits einen Zauber, der dem zu erfindenden ähnlich ist (siehe Ähnliche Zauber, [Seite 260](#ähnliche-zauber)), werden alle Erfahrungspunkte, die du zum Erlernen dieses Zaubers aufwendest, um die Hälfte erhöht, aufgerundet. Das bedeutet, dass ein Zauber der Stufe 25 statt 9 nur 6 Erfahrungspunkte kosten würde.
-
-Diese Tugend schließt auch die Tugend Zauberimprovisation ein. Das bedeutet, du kannst die Magnitude eines bekannten formulaischen Zaubers als Bonus zu deiner Zaubersumme hinzufügen, wenn du spontan einen ähnlichen Zauber wirkst.
-
-Wenn du diese Tugend bei der Charaktererschaffung wählst, solltest du normalerweise den Feenaufgewachsen-Fehler wählen. Da der Meister des Magus ihn auch über die menschliche Gesellschaft unterrichten musste, hatte er wahrscheinlich weniger Zeit, ihm hermetische Magie beizubringen. Es ist möglich, dass der Lehrling formulaische Zauber schnell genug selbst erfunden hat, um dies auszugleichen, aber du könntest den Schwacher-Parens-Fehler wählen, um diese Einschränkung seiner Lehrzeit anzudeuten.
-
-#### Feenmagie
-*Klein, Hermetisch*<br>
-Du wurdest in das Äußere Mysterium der Feenmagie eingeweiht (siehe [Seite 236](#feenmagie-2)) und bist damit Mitglied des Hauses Merinita. Du besitzt die Fertigkeit Feenmagie 1. Beachte, dass alle Merinita-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
-
-#### Feiner Geruchssinn
-*Klein, Allgemein*<br>
-Die Nase des Charakters ist empfindlicher als bei einem normalen Menschen. Er erhält einen +3-Bonus auf alle Würfe, die seinen Geruchssinn beinhalten, einschließlich des Spurenverfolgens mit der Fertigkeit Jagen.
-
-#### Fida'i
-*Klein, Sozialer Status*<br>
-Der Charakter ist ein Attentäter der Nizari-Ismaeliten. Ein Fida'i ist ein ergebenes Mitglied der Sekte, das bereit ist, auf deren Befehl zu sterben, und sollte daher erwägen, den Treueeid- oder Pflichtgebunden-Fehler zu nehmen. Wenn er sich nicht auf einer Mission befindet, trägt ein Fida'i Weiß mit einem roten Gürtel, einer roten Mütze oder roten Stiefeln. Er wurde im präzisen Einsetzen von Dolchen und Klingen sowie in der Verkleidung ausgebildet. Fida'i dürfen bei der Charaktererschaffung Kampffertigkeiten erwerben. Wenn er seiner Loyalität gegenüber der Sekte beweist, kann er zum Lasiq aufsteigen.
-
-Diese Sozialer-Status-Tugend kann von einem Charakter gewählt werden, der weit entfernt von der Heimat der Nizaris lebt, da Attentäter auf Missionen gesandt werden und weit weggeschickt werden können. Ein solcher Charakter sollte einen Geschichte-Fehler haben, der seine Mission darstellt, und den Sozialen Status wählen, den er vorgibt zu haben. Weitere Einzelheiten zu den Nizaris finden sich in *Die Wiege und der Halbmond*, ab Seite 162.
-
-#### Flexible Formulaische Magie
-*Groß, Hermetisch*<br>
-Du kannst die Effekte formulaischer Zauber in geringem Maße variieren und dabei dennoch die Vorteile des Wirkens bekannter Magie nutzen. Du kannst die Zauberstufe um eine Magnitude anheben oder senken, um eine (und nur eine) der Kategorien Reichweite, Dauer, Zielgröße und Zielkategorie um einen Schritt anzuheben oder zu senken, solange dabei keine der normalen Einschränkungen für formulaische Magie verletzt wird. Du kannst alternativ auch einen (und nur einen) dieser Parameter in einen anderen Parameter der gleichen Stufe ändern, ohne die Zauberstufe zu verändern, solange dabei keine der normalen Einschränkungen für formulaische Magie verletzt wird. Zaubererfolg, Erschöpfungsverlust und Penetration werden alle auf Grundlage der endgültig veränderten Zauberstufe berechnet. Du kannst Ritualmagie nicht auf diese Weise manipulieren.
-
-#### Fluchschleudern
-*Groß, Übernatürlich*<br>
-Charaktere mit dieser Tugend sind in der Lage, Krankheiten und Flüche zu heilen, indem sie diese auf eine andere Person übertragen. Die Wahl dieser Tugend verleiht die Übernatürliche Fertigkeit Fluchschleudern 1.
-
-#### Fokussierte Macht
-*Groß, Übernatürlich*<br>
-Der Charakter besitzt eine übernatürliche Macht mit einem engen Wirkungsbereich, wie beispielsweise die Fähigkeit, Spontane Zauber zu wirken, die mit einem einzigen Magietyp verbunden sind. Diese Macht ist vergleichbar mit einem magischen Fokus, da alle möglichen Effekte mit einer Spezialisierung zusammenhängen müssen, die enger gefasst ist als eine einzelne hermetische Form. Die Beispiele für den Großen Magischen Fokus zeigen den Umfang dieser Macht.
-
-Diese Tugend gewährt einen Pool von 25 Punkten. Die maximale Effektstufe und die Penetration beginnen beide bei null. Es kostet 2 Punkte, die maximale Effektstufe um 1 anzuheben, und 1 Punkt, die Penetration um 1 anzuheben. Mit 25 Punkten lässt sich also eine maximale Stufe von 10 mit einer Penetration von 5, oder eine maximale Stufe von 5 mit einer Penetration von 15, oder eine Kombination dazwischen erzielen. Die Macht hat einen Initiativewert gleich der Schnelligkeit des Charakters abzüglich der maximalen Magnitude des Effekts. Der Charakter kann jeden Effekt innerhalb des Wirkungsbereichs der Macht erzeugen, bis zur Stufe des Effekts.
-
-Das Aktivieren dieser Macht kostet eine Erschöpfungsstufe für Effekte der Stufe 25 oder niedriger, zwei Erschöpfungsstufen für Effekte der Stufe 26 bis 50 und drei für Effekte der Stufe 51 bis 75.
-
-Diese Tugend kann mehr als einmal gewählt werden, und die gewonnenen Punkte können addiert werden.
-
-Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden werden. Wenn du Zugang zu anderen Büchern hast, wie *Mächte des Jenseits: Das Göttliche – Überarbeitete Ausgabe*, *Mächte des Jenseits: Das Infernale*, *Mächte des Jenseits: Die Feen* oder *Heckenzauber – Überarbeitete Ausgabe*, kannst du die Macht auf einem anderen System übernatürlicher Kräfte aufbauen, um etwas Charaktergerechteres zu erhalten. Beachte dabei, dass Effektstufen in verschiedenen Systemen unterschiedliche Bedeutung haben können, und du möglicherweise die Kosten einer Effektstufe anpassen möchtest. Die Macht muss derselben übernatürlichen Sphäre zugeordnet sein wie das System, auf dem sie basiert. (Wenn du Zugang zu anderen Büchern hast, möchtest du möglicherweise Mächte, die auf hermetischer Magie basieren, auf die Magiesphäre beschränken.)
-
-#### Freie Ausdrucksfähigkeit
-*Klein, Allgemein*<br>
-Du besitzt die Vorstellungskraft und Kreativität, die benötigt werden, um eine neue Ballade zu komponieren oder ein originelles Bild zu malen, und hast das Potenzial, ein großer Künstler zu werden. Du erhältst +3 Bonus auf alle Würfe, um ein neues Kunstwerk zu schaffen.
-
-#### Freies Studium
-*Klein, Hermetisch*<br>
-Du bist besser darin, Dinge selbst herauszufinden, als Bücher zu wälzen. Addiere +3 zur Quellenqualität beim Studium aus rohem Vis.
-
-#### Für (Wesen) ungefährlich
-*Klein, Allgemein und Hermetisch*<br>
-Diese Tugend ist mit einer von fünf Klassen von Wesen verbunden: Tieren, göttlichen Wesen, Feen, Dämonen oder magischen Kreaturen. Die letzten vier umfassen Charaktere, die durch Übernatürliche Tugenden oder Fehler mit der Göttlichen, der Feensphäre, der Hölle oder der Magischen Sphäre verbunden sind, sowie Wesen mit Macht.
-
-Die Gabe des Charakters stört Wesen dieser Art nicht, obwohl sie bei anderen weiterhin die normale Wirkung hat. So erleichtert zum Beispiel Ungefährlich für Tiere den Umgang mit gewöhnlichen Tieren. Tiere, die auf die Gabe positiv reagieren, reagieren weiterhin positiv auf ihn, da er die Gabe tatsächlich besitzt, aber diejenigen, die von ihr gestört werden, sind nicht durch seine Anwesenheit beunruhigt.
-
-Du kannst diese Tugend nicht mehr als einmal nehmen; Charaktere, die für mehr als eine Art von Wesen ungefährlich sind, sollten stattdessen die Sanfte Gabe nehmen. UnBegabte Charaktere dürfen diese Tugend nur nehmen, wenn sie den Fehler Magische Ausstrahlung haben.
-
-Beachte, dass Ungefährlich für gewöhnliche Menschen nicht als Kleine Tugend verfügbar ist; nimm stattdessen die Sanfte Gabe.
-
-#### Furchteinflößende Erscheinung
-*Klein, Übernatürlich*<br>
-Du bist in der Lage, durch dein Auftreten großes Entsetzen zu wecken. Dies kann auf zwei Arten funktionieren: Entweder bist du in der Lage, dein Gesicht zu einer Schreckensvision zu verzerren (häufig, wenn die Präsenz unter null liegt), oder du strahlst eine Aura der Ehrfurcht und Pracht aus, die andere in die Knie zwingt (häufig, wenn die Präsenz über null liegt).
-
-Jeder, der deine Furchteinflößende Erscheinung miterlebt, muss sofort einen Tapfer-Persönlichkeitseigenschaftswurf gegen einen Schwierigkeitsgrad von 3 ablegen. Addiere deine Präsenz zum Schwierigkeitsgrad, ohne etwaige Minuszeichen zu berücksichtigen (zum Beispiel macht eine Präsenz von +3 oder -3 den Schwierigkeitsgrad zu 6). Bei einem Misserfolg versuchen sie entweder, deine unmittelbare Nähe zu fliehen, oder werden von deiner Pracht eingeschüchtert.
-
-Bleiben die Betroffenen in deiner Nähe (weil sie beeindruckt sind oder weil sie gefangen sind), können sie den Tapfer-Wurf alle zwei Minuten erneut versuchen. Sobald eine Person von der Furchteinflößenden Erscheinung betroffen war und sich von deren Effekten erholt hat, kann sie nicht erneut davon betroffen werden; allerdings wirst du eine entsprechende Reputation (wie Furchteinflößend oder Ehrfurchtgebietend) mit einem Wert von 2 bei jenen erwerben, die du betroffen hast, was deine Beziehungen zu ihnen färben wird.
-
-Dieser Effekt hat eine Penetrationssumme von 0.
-
-#### Die Gabe
-*Frei, Besonders*<br>
-Du besitzt die Fähigkeit, Magie zu wirken. Vollständige Einzelheiten finden sich weiter oben auf [Seite 63](#die-gabe).
-
-#### Gast des Hauses Criamon
-*Klein, Hermetisch*<br>
-Magi mit dieser Tugend sind politisch gesehen Mitglieder des Hauses Criamon, können jedoch nach den Regeln für jedes andere Haus erschaffen werden. Gäste werden aus vielen Gründen eine Mitgliedschaft angeboten, die Criamon als politische Formalität betrachtet, und ihnen wird so Zuflucht in diesem Haus gewährt. Die Spieltruppe und der Spieler sollten gemeinsam bestimmen, warum der Charakter es für notwendig erachtete, beim diesem Haus Zuflucht zu suchen.
-
-#### Gebildet
-*Klein, Allgemein*<br>
-Du hast eine Grammatikschule besucht und möglicherweise eine Universität oder Kathedralschule besucht. Du darfst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Während der Charaktererschaffung erhältst du zusätzliche 50 Erfahrungspunkte, die du auf Latein und Artes Liberales verwenden musst.
-
-#### Gebildet (Bardisch)
-*Klein, Allgemein*<br>
-Der Charakter hat eine der großen Bardenschulen in Hibernia besucht, entweder um eine Ausbildung zu erhalten (in welchem Fall er die anspruchsvolle Prüfung nicht abgelegt haben muss) oder um eine Ausbildung als Barde zu beginnen (in welchem Fall du auch eine entsprechende bardische Sozialer-Status-Tugend nehmen solltest). Für Ober- oder Meisterbarden stellt diese Tugend zusätzliche Studienjahre dar. Du erhältst 50 zusätzliche Erfahrungspunkte, die du auf Gedächtniskunst, Beruf: Geschichtenerzähler, Beruf: Dichter, jede Gebietskunde oder jede Organisationskunde verwenden kannst.
-
-#### Gebildet (Islamisch)
-*Klein, Allgemein*<br>
-Du hast eine Moschee oder eine Koranschule besucht und darfst während der Charaktererschaffung Akademische Fertigkeiten erwerben. Du erhältst bei der Charaktererschaffung 50 zusätzliche Erfahrungspunkte, die du auf einige oder alle der folgenden Fertigkeiten verwenden musst: Arabisch, Persisch, Griechisch, Latein, Theologie: Islam, Islamisches Recht und Artes Liberales.
-
-#### Gebildet (Hebräisch)
-*Klein, Allgemein*<br>
-Dein Charakter hat ein Beit ha-Midrash oder eine Yeshivah besucht und darf bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Dein Charakter erhält 50 zusätzliche Erfahrungspunkte, die auf einige oder alle der folgenden Fertigkeiten verteilt werden können: Hebräisch, Aramäisch, Theologie: Judentum und Jüdische Kunde. Charaktere aus Iberien oder dem Orient dürfen einen Teil dieser Punkte auch auf Arabisch verwenden.
-
-#### Gebildet (Weltlich)
-*Klein, Allgemein*<br>
-Diese Form der weltlichen Unterweisung, die Tutoren den Nachkommen von Kaufmannshäusern erteilen, betont praktische Fähigkeiten, die den Schüler für eine Führungsrolle im Familienunternehmen geeignet machen. Der Charakter darf bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Er erhält außerdem 50 zusätzliche Erfahrungspunkte, die auf Akademische Fertigkeiten, Feilschen, die Organisationskunde des Unternehmens des Charakters, Beruf: Kaufmann oder die Handelssprache der Region des Unternehmens (üblicherweise Latein, Griechisch oder Arabisch) verteilt werden müssen.
-
-#### Gefesselte Magie
-*Klein, Hermetisch*<br>
-Du kannst die Kontrolle über deine Nicht-Ritual-Zauber an andere weitergeben, so als wären sie der Wirkende, und die Magie für die Dauer des Zaubers an sie „fesseln". Du kannst einen Zauber auch an ein Objekt fesseln, das den Zauber dann auf ein geeignetes Ziel übertragen kann, sobald es in Reichweite kommt. Dies kann sogar geschehen, wenn du einen Effekt in einem magischen Artefakt aktivierst. Ein Nebeneffekt dieser Art von Magie ist jedoch, dass alle deine Zauber und die Effekte aller magischen Artefakte, die du aktivierst, Arkane Verbindungen zu dir sind.
-
-#### Geisterhafter Hüter
-*Groß, Allgemein*<br>
-Ein Geist wacht über dich. Es könnte sich um einen Großelternteil, einen Jugendfreund oder eine andere Person handeln, die sich genug um dich sorgt, um nach dem Tod bei dir zu bleiben. Der Geist ist für alle außer dir und jenen mit dem Zweiten Gesicht unsichtbar und unhörbar (siehe [Seite 170](#zweites-gesicht-1)). Er kann sehen und hören, was um dich herum geschieht, und ist ein ausgezeichneter Spion, da er einmal täglich für bis zu eine halbe Stunde deine Nähe verlassen kann. Der Tod hinterlässt Menschen jedoch nicht in ihrem normalen Geisteszustand, sodass der Geist wahrscheinlich einige Eigenheiten hat, die ihn unzuverlässig machen – er könnte dich sogar ermutigen, ihm auf die andere Seite zu folgen. Der Geist verfügt über 300 Erfahrungspunkte in verschiedenen Fertigkeiten, die er verwenden kann, um dich zu beraten, und Geister dürfen jede Fertigkeit besitzen. Siehe [Seite 457](#geisterwächter) für ein Beispiel eines geistigen Wächters. Dies ist eine spezifischere Version des Magischen Wächters (siehe weiter unten) und ein Beispiel für jene Tugend.
-
-#### Geistesdiener
-*Kostenlos, Mythischer Gefährte*<br>
-Die Wahl dieser Tugend bei der Charaktererschaffung macht den Charakter zu einem Geistesdiener, einer Art Mythischem Gefährten ([Seite 63](#mythische-gefährten-2)). Diese Tugend verleiht die Tugend Zweites Gesicht kostenlos und erlaubt dem Charakter, zwei Punkte Tugenden für jeden Punkt Fehler zu besitzen.
-
-#### Geistiger Pakt
-*Groß, Übernatürlich*<br>
-Der Charakter hat einen Pakt oder eine Vereinbarung mit einem mächtigen magischen Geist geschlossen und erhält im Gegenzug für treue Dienste Zugang zu den Kräften dieses Geistes. Der Pakt dient dem Geist als Arkane Verbindung zum Charakter von unbegrenzter Dauer, mit deren Hilfe sich der Geist über den aktuellen Aufenthaltsort und den Gesundheitszustand seines Dieners im Klaren sein kann.
-
-Der Charakter kann die Kraft des Geistes kanalisieren, indem er einen Selbstvertrauenspunkt ausgibt. Würfle Präsenz + Magiekunde + Stresswürfel: Das Ergebnis entspricht dem Betrag des magischen Machtwert-Vorrats, den der Charakter von seinem geistlichen Meister erhält. Die erlangten Machtpunkte sind stets geringer als die aktuellen Machtpunkte des Geistes, unabhängig vom Würfelergebnis. Bei einem Patzer verliert der Charakter alle aktuellen Selbstvertrauenspunkte. Diese Handlung entspricht dem Zaubern hinsichtlich der erforderlichen Konzentration. Der Charakter kann diese Machtpunkte für beliebige Kräfte des Geistes aufwenden. Die Penetration wird auf die übliche Weise für magische Kreaturen berechnet, wobei der anfängliche Machtwert-Vorrat anstelle des magischen Machtwerts verwendet wird und die Penetrations-Fertigkeit des Charakters – falls vorhanden – einbezogen wird.
-
-Der Charakter, der diese Kraft einsetzt, hat keinen Machtwert, sondern nur einen Machtwert-Vorrat. Er erlangt durch den Einsatz dieser Kraft keine Magieresistenz und hinterlässt auch keine Vis, wenn er getötet wird. Er kann nicht von Vim-Zaubern (oder ähnlicher Magie) betroffen werden, die den Machtwert übernatürlicher Wesen als Ziel nehmen. Ohne einen Machtwert füllt sich der Vorrat nicht auf; sobald der Charakter alle Machtpunkte verbraucht hat, endet diese Kraft. Alle eingesetzten Kräfte laufen in ihrer Dauer ab, wenn der Charakter seinen letzten Machtpunkt des Vorrats verbraucht. Wird diese Kraft erneut aktiviert, während der Charakter noch über einen Machtwert-Vorrat verfügt, ersetzen die neu erlangten Punkte die verbliebenen Punkte; die beiden Vorräte addieren sich nicht. Die vom Charakter erlangten Punkte gehen dem Machtwert-Vorrat des Geistes verloren und können vom Charakter nicht zurückgegeben werden, aber der Geist regeneriert die verbrauchten Punkte wie üblich.
-
-Während die Verbindung zum Geist aktiv ist, gibt es eine sichtbare Manifestation davon, die deutlich macht, dass ein übernatürlicher Effekt stattfindet. Steht der Charakter beispielsweise in Verbindung mit einem Fruchtbarkeitsgeist, könnten Früchte und Getreide um seine Fußspuren herum sprießen. Während er in Verbindung mit einem Kriegsgeist steht, könnte der Charakter aussehen, als wäre er in geisterhafte Rüstung gekleidet. Wenn der Charakter den Geist aktiv kanalisiert, dient er dem Geist als Arkane Verbindung von unbegrenzter Dauer, wenngleich diese Verbindung erlischt, wenn der Machtwert-Vorrat erschöpft ist.
-
-Der Spielleiter sollte die Kräfte des Geistes festlegen. Mit Zustimmung der Spieltruppe könnte diese Tugend dazu verwendet werden, die Kraft eines Geistes einer anderen übernatürlichen Sphäre zu kanalisieren; oder die Kraft einer Gruppe eng verwandter Geister, etwa eines kleinen Pantheons heidnischer „Götter" – es ist jedoch darauf zu achten, dem Charakter durch diese eine Tugend nicht zu viel Flexibilität zu gewähren. Ein Charakter kann nur einen einzigen Pakt haben.
-
-#### Gemeisterte Zauber
-*Klein, Hermetisch*<br>
-Du hast fünfzig Erfahrungspunkte, um Zauber zu meistern, die du kennst. (Regeln für das Meistern von Zaubern finden sich auf [Seite 225](#zaubermeisterschaft).)
-Du kannst diese Tugend auch nehmen, wenn du außerdem Makellose Magie besitzt, um mehr Erfahrungspunkte für das Meistern deiner Zauber zu erhalten. Du kannst diese Tugend mehrfach nehmen.
-
-#### Gescheiterter Lehrling
-*Klein, Sozialer Status*<br>
-Du warst einst bei einem Magus in der Lehre, aber irgendetwas hat dich daran gehindert, deine Ausbildung abzuschließen. Vielleicht war deine Gabe unvollständig, oder ein schweres Missgeschick hat sie dir ganz geraubt. Du kannst immer noch für deinen früheren Meister oder für den Konvent in irgendeiner anderen Eigenschaft arbeiten. Magi heißen dich willkommen und haben Mitgefühl für dich – jedenfalls jene, die zu solchen Gefühlen fähig sind. Du darfst bei der Charaktererschaffung Akademische, Arkane und Kampf-Fertigkeiten erwerben und bist mit dem Leben der Magi vertraut. Du darfst die Gabe nicht besitzen, aber wenn deine Gabe nicht vollständig vernichtet wurde, hast du möglicherweise einige Übernatürliche Fertigkeiten. Die Wohlstand-Tugend und der Arm-Fehler wirken sich normal auf dich aus.
-
-#### Geschlechtswechsel
-*Klein, Übernatürlich*<br>
-Jeden Mitternacht kann der Charakter wählen, das Geschlecht zu wechseln. Die männliche und weibliche Form des Charakters sind über alle Verwandlungen hinweg konsistent und sehen einander üblicherweise wie Blutsverwandte aus. Die Persönlichkeitseigenschaften des Charakters können sich zwischen den Formen leicht unterscheiden. Schwangere Charaktere können diese Fähigkeit nicht nutzen.
-
-#### Geselle
-*Klein, Sozialer Status*<br>
-Der Charakter ist ein ausgebildeter Gildenhandwerker und darf sein Handwerk in der Stadt unter Gildenaufsicht ausüben. Er arbeitet für einen Meister gegen Lohn.
-
-#### Gestaltwandler
-*Groß, Übernatürlich*<br>
-Du kannst Deine Gestalt in die eines oder mehrerer gewöhnlicher Tiere verwandeln. Die Wahl dieser Tugend verleiht die Fertigkeit Gestaltwandler 1 ([Seite 171](#gestaltwandler-1)).
-
-#### Gesunder Menschenverstand
-*Klein, Allgemein*<br>
-Wann immer du dabei bist, etwas zu tun, das dem gesunden Menschenverstand im Spielumfeld widerspricht, macht dich der gesunde Menschenverstand (der Spielleiter) auf den Fehler aufmerksam. Dies ist eine ausgezeichnete Tugend für einen Anfänger, da sie jede Hilfe legitimiert, die der Spielleiter leisten könnte.
-
-#### Gewandte Form
-*Klein, Hermetisch*<br>
-Du bist mit einer Form besonders geschickt. Du erleidest keine Abzüge auf die Zaubersumme beim Wirken von Zaubern dieser Form mit nicht-standardmäßiger Stimmgebung/Gestik (siehe [Seite 216](#worte-und-gesten)), einschließlich des vollständigen Verzichts auf Stimme oder Gesten, weil du dich in einer nicht-menschlichen Form befindest. Zauber mit Reichweite Stimme haben weiterhin eine Reichweite, die davon abhängt, wie laut du sprichst.
-
-#### Gezügelte Magie
-*Klein, Hermetisch*<br>
-Du hast große Kontrolle über deine Zauber. Du kannst jeden deiner Zauber einfach durch Konzentration aufheben. Du kannst sogar die Magie in Zauberartefakten aufheben, die du erschaffen hast. Das Aufheben deiner Magie sollte für Timing- und Konzentrationszwecke so behandelt werden, als würdest du einen Zauber wirken. Wirst du abgelenkt und misslingt dir ein Konzentrationswurf, kann in einer späteren Runde ein weiterer Versuch unternommen werden. Zauber und Zauberartefakte können über jede Entfernung hinweg aufgehoben werden, doch sobald sie aufgehoben wurden, musst du einen Zauber neu wirken oder eine Kraft in einem Zauberartefakt neu einbetten, um den Effekt erneut zu starten.
-
-Der Nachteil ist, dass beim Tod alle deine Zauber und Zauberartefakte erlöschen.
-
-#### Gildendekan
-*Groß, Sozialer Status*<br>
-Der Charakter ist die oberste Autorität seiner Gilde, derjenige, der viele der wichtigen Entscheidungen trifft, mit denen die Gilde konfrontiert wird, und der sie politisch vertritt. Der Charakter ist in die Stadtpolitik, in langfristige Handelskontakte sowie in Verhandlungen mit anderen Gilden und örtlichen Handwerkern eingebunden. Die Stadtbevölkerung betrachtet ihn als bedeutendes und angesehenes Mitglied ihrer Gemeinschaft. Du kannst Akademische Fertigkeiten bei der Charaktererschaffung wählen.
-
-#### Gilden-Lehrling
-*Klein, Sozialer Status*<br>
-Der Charakter ist ein Jugendlicher im Alter zwischen 10 und 20 Jahren, der bei einem Gildenmeister oder Gesellen sein Handwerk erlernt. Er hat einen Vertrag mit seinem Meister abgeschlossen, der seine Ausbildung garantiert. Der Charakter kann weder vom Fehler Arm noch von der Tugend Wohlhabend profitieren, da er im Wesentlichen das Eigentum seines Meisters ist, bis er den Rang eines Gesellen erreicht. Der größte Teil seiner Zeit wird auf eine Weise verbracht, die sein Meister bestimmt.
-
-#### Gildenmeister
-*Klein, Sozialer Status*<br>
-Der Charakter ist ein Gildenmeister und darf sein Handwerk legal in der Stadt ausüben sowie Gesellen für sich arbeiten lassen. Er nimmt an den Aktivitäten der Gilde teil und gilt als einwandfreies Mitglied. Du kannst Akademische Fertigkeiten bei der Charaktererschaffung wählen.
-
-#### Glück
-*Klein, Allgemein*<br>
-Du erzielst gute Ergebnisse in Situationen, in denen Glück mehr eine Rolle spielt als Können oder Talent. Du erhältst +1 bis +3 (nach Ermessen des Spielleiters) auf Würfe in solchen Situationen, je nachdem, wie viel Glück im Spiel ist. Du spielst gut bei Glücksspielen, könntest aber als Betrüger abgestempelt werden, wenn du sie zu oft spielst.
-
-#### Gorgiast
-*Klein, Hermetisch*<br>
-Diese Magi oder ihre Vorfahren haben die Lehren des Hauses Criamon abgelehnt und das Haus verlassen. Diese Magi dürfen nach der Charaktererschaffung Werte in Enigmatischer Weisheit und Hauskundige: Criamon besitzen. Der Wert der Enigmatischen Weisheit des Charakters kann ohne die Hilfe von Criamon-Magi oder einen magischen Durchbruch 4 nicht überschreiten. Haus Criamon versucht, Gorgiast-Magi zur Rückkehr zu bewegen. Gorgiast-Magi haben in der Regel keine Criamon-Markierungen, entwickeln diese jedoch, wenn sie beginnen, den Ursachen der Dinge nachzuforschen; weitere Details finden sich in *Häuser des Hermes: Mysterienkulte*, Haus Criamon.
-
-#### Große Immunität
-*Groß, Übernatürlich*<br>
-Du bist vollständig immun gegen eine Gefahr, die sowohl häufig als auch potenziell tödlich ist. Du könntest beispielsweise gegen Feuer oder gegen Eisenwaffen (und nur Eisenwaffen) immun sein. Du darfst keine Immunität gegen Altern nehmen – siehe stattdessen die kleine Tugend Nicht alternd ([Seite 114](#nicht-alternd)). Diese Immunität gilt für gewöhnliche und magische Varianten der Sache. Wenn du gegen Feuer immun bist, bist du auch gegen magisch erschaffenes Feuer immun.
-
-Eine wichtige Möglichkeit ist die Immunität gegen Entbehrung, was bedeutet, dass du keinen Erschöpfungs- oder Wundenverlust durch den Mangel an Luft, Nahrung oder Wasser erleidest. Du kannst jedoch keine Langzeit-Erschöpfungsstufen ohne Ruhe und Versorgung wiedererlangen, und wenn du verletzt bist, könnte Entbehrung dazu führen, dass sich deine Wunden verschlechtern.
-
-Du kannst diese Tugend mehr als einmal nehmen, jedes Mal mit einer anderen Immunität.
-
-#### Große Macht
-*Groß, Übernatürlich*<br>
-Der Charakter besitzt eine übernatürliche Macht, die er nach Belieben aktivieren kann. Wenn du die Tugend einmal nimmst, ist dies eine einzelne Macht, die einem formulaischen hermetischen Zauber der Stufe 50 oder niedriger entspricht. Du kannst auch Stufen eins-zu-eins aufwenden, um der Macht Penetration zu verleihen; andernfalls hat sie eine Penetration von null.
-
-Diese Tugend kann mehr als einmal genommen werden, und die Stufen werden zusammengezählt, um mehrere Mächte zu erschaffen. Ein Charakter, der die Tugend zweimal nimmt, könnte beispielsweise eine Macht der Stufe 60 mit einer Penetration von 0 und eine zweite Macht mit einer Stufe und Penetration von je 20 besitzen. Standardmäßig sollte es eine Macht pro Tugend geben, da diese Tugend für Mächte gedacht ist, die einzeln bedeutsam sind. Siehe Mindere Macht ([Seite 90](#mindere-macht)), wenn dein Charakter mehrere kleinere Mächte haben soll. Die Spieltruppe kann dem Charakter jedoch erlauben, mehr Mächte zu nehmen, wenn sie einen starken thematischen Zusammenhang haben.
-
-Die Macht hat eine Initiative gleich der Schnelligkeit des Charakters – (Magnitude der Macht / 2) (abgerundet). Das Aktivieren kostet eine Erschöpfungsstufe, wenn ihre Stufe 50 oder niedriger ist, oder zwei Erschöpfungsstufen, wenn ihre Stufe 51 bis 100 beträgt. Noch höhere Effektstufen sind wahrscheinlich nicht sinnvoll.
-
-Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden werden. Wenn du Zugang zu anderen Büchern hast, wie *Mächte des Jenseits: Das Göttliche – Überarbeitete Ausgabe*, *Mächte des Jenseits: Das Infernale*, *Mächte des Jenseits: Die Feen* oder *Heckenzauber – Überarbeitete Ausgabe*, kannst du die Macht auf einem anderen System übernatürlicher Kräfte aufbauen, um etwas Charaktergerechteres zu erhalten. Beachte dabei, dass Effektstufen in verschiedenen Systemen unterschiedliche Bedeutung haben können, und du möglicherweise die Anzahl der Effektstufen anpassen möchtest. Die Macht muss derselben übernatürlichen Sphäre zugeordnet sein wie das System, auf dem sie basiert. (Wenn du Zugang zu anderen Büchern hast, möchtest du möglicherweise Mächte, die auf hermetischer Magie basieren, auf die Magiesphäre beschränken.)
-
-#### Große Reinigende Berührung
-*Groß, Übernatürlich*<br>
-Du kannst mit einer Berührung und dem Aufwand einer Erschöpfungsstufe eine einzelne schwere Krankheit heilen. Diese Krankheit sollte entweder lebensbedrohlich oder schwer behindernd sein und eine sein, von der Menschen sich normalerweise nicht von selbst erholen. Du musst die Krankheit, die du heilen kannst, beim Nehmen dieser Tugend festlegen, und du kannst nur diese Krankheit heilen. Du kannst nur eine Krankheit wählen, keine anderen Arten von Verletzungen oder Unglück. Weitere Informationen zu Krankheiten finden sich auf [Seite 406](#krankheiten), und in *Artes et Academiae*, [Seite 45](#krankheiten), finden sich ausführlichere Details.
-
-#### Große Segnung
-*Groß, Übernatürlich*<br>
-Du wurdest von einer übernatürlichen Macht gesegnet. Die Auswirkungen der Segnung sollten mit anderen Großen Tugenden vergleichbar sein. (Siehe Kasten für Beispiele.)
-
-> #### Beispiele für Große Segnungen
->
-> ##### Flug
->
-> Du bist in der Lage zu fliegen, ohne Flügel zu benötigen. Jedes Mal, wenn du dich in die Luft erhebst, verlierst du eine Langzeit-Erschöpfungsstufe und kannst maximal eine Stunde in der Luft bleiben, wobei du in dieser Stunde bis zu fünfzig Meilen zurücklegen kannst. Sobald du den Boden berührst, endet dein aktueller Flug, unabhängig davon, wie viel von deiner Stunde noch verbleibt. Du benötigst ein Hilfsmittel zum Fliegen, wie einen Teppich oder einen Stab, aber jedes Hilfsmittel des entsprechenden Typs genügt.
->
-> ##### Wahres Sehen
->
-> Du wirst selten durch Glamour oder Illusionen getäuscht, die das Aussehen von etwas verändern (obwohl ein falsches Bild, das das Aussehen eines bestimmten Dings nicht verändert, wie das eines Creo-Imaginem-Zaubers, dich dennoch täuscht). Darüber hinaus kannst du stets die wahre Form eines gestaltwandelnden Wesens erkennen (allerdings nicht die Mitglieder des Hauses Bjornaer, da sowohl ihre menschliche als auch ihre tierische Form „wahre" Formen sind). Diese Macht hat eine Penetration von 20.
->
-> ##### Allgemein beliebt
->
-> Jeder, der dich kennt, ist dein Freund. Du erhältst +3 Bonus auf alle sozialen Würfe mit Personen, die dich seit mehr als einem Monat kennen. Wer versucht, gegen dich vorzugehen, indem er die Gefühle oder Meinungen anderer beeinflusst, erhält +3 auf alle Schwierigkeitsgrade. Dieser Effekt hat eine Penetration von 0.
-
-#### Großer Magischer Fokus
-*Groß, Hermetisch*<br>
-Deine Magie ist in einem recht begrenzten Bereich deutlich wirkungsvoller, etwa Wetter, Nekromantie, Vögel oder Gefühle. Dieser Bereich sollte kleiner sein als eine einzelne Kunst, darf sich aber über mehrere Künste erstrecken – Nekromantie beispielsweise umfasst sowohl Corpus- als auch Mentem-Effekte. Du kannst keinen Fokus auf Laboraktivitäten haben, obwohl ein Fokus durchaus auf Laboraktivitäten angewandt wird.
-
-Wenn du einen Zauber wirkst oder eine Laborsumme innerhalb deines Fokus berechnest, addiere den niedrigsten anwendbaren Kunstwert zweifach. Besitzt ein Zauber Requisiten, kann der niedrigste anwendbare Wert einer der Requisiten sein anstatt einer der primären Künste. Hat ein Magus also einen Fokus auf Vögel und wirkt einen Zauber, der einen Vogel in reines Feuer verwandelt (MuAn mit Ig als Requisit), mit Muto 14, Animal 18 und Ignem 10, beträgt seine Gesamtsumme 34 plus weitere Modifikatoren: 14 von Muto und 20 durch die doppelte Addition von Ignem. Wirkt er einen Zauber, der einen Vogel in einen anderen Vogel verwandelt (MuAn ohne Requisiten), beträgt seine Summe 46 plus weitere Modifikatoren: 18 von Animal und 28 durch die doppelte Addition von Muto.
-
-Ein Charakter kann nur einen Magischen Fokus besitzen, ob groß oder klein, unabhängig von der Quelle des Fokus.
-
-> #### Beispiele für Große Magische Foki
->
-> Diese Liste ist lediglich beispielhaft. Andere Foki sind möglich.
->
-> - Animal: Vögel oder Säugetiere oder domestizierte Tiere.
-> - Aquam: Salzwasser oder Süßwasser.
-> - Auram: Wetter.
-> - Corpus: Männer oder Frauen.
-> - Herbam: Bäume oder Nutzpflanzen.
-> - Imaginem: Visuelle Bilder, Klangbilder, Tastbilder oder Geschmack und Geruch gemeinsam.
-> - Mentem: Gefühle oder Erinnerungen.
-> - Terram: Metalle oder Stein.
-> - Nekromantie: Corpus und Mentem, angewandt auf Körper und Geister Verstorbener.
-> - Schaden: Jede Kunst, solange der Effekt direkt Schaden verursacht, entweder durch das Zufügen einer Wunde oder durch eine bestimmte Schadensmenge, die absorbiert werden kann.
-> - Verkleidung: Das Verändern des Erscheinungsbildes von etwas, mit beliebigen Mitteln.
-
-#### Großgewachsen
-*Klein, Allgemein*<br>
-Deine Größe beträgt +1 statt 0, das heißt, du bist zwischen 1,80 m und 2,10 m groß. Das bedeutet, dass der Schweregrad der Wunden, die du erleidest, in Sechs-Punkte-Intervallen statt in Fünf-Punkte-Intervallen zunimmt (siehe [Seite 404](#wunden)). Du kannst diese Tugend nicht gleichzeitig mit Riesenblut ([Seite 83](#wunden)), Zierlicher Körperbau ([Seite 145](#wunden)) oder Zwerg ([Seite 126](#riesenblut)) nehmen.
-
-#### Guter Lehrer
-*Klein, Allgemein*<br>
-Du kannst neue Konzepte und Fähigkeiten mit großer Leichtigkeit vermitteln. Addiere drei zur Qualität aller Bücher, die du schreibst, und fünf zur Quellenqualität für jeden, der bei dir studiert.
-
-#### Händler
-*Frei, Sozialer Status*<br>
-Du lebst vom Kauf und Verkauf von Waren. Du kannst ein Hausierer sein, wenn du relativ arm bist, ein Ladenbesitzer oder ein reisender Kaufmann. Die Große Tugend Wohlhabend und der Große Fehler Arm wirken sich normal auf dich aus.
-
-#### Handelsabenteurer
-*Klein, Sozialer Status*<br>
-Der Charakter befehligt ein Schiff und eine Besatzung. Der Charakter verfügt über ausreichend Kapital für eine Ladung, hat jedoch möglicherweise erhebliche Schulden, die durch den Fehler Gefälligkeiten dargestellt werden können. Weitere Details zum Handel finden sich in *City and Guild*. Ein Handelsabenteurer, der einen Anteil an dem Unternehmen besitzt, für das er arbeitet, sollte stattdessen die Tugend Partner wählen.
-
-#### Handwerker
-*Frei, Sozialer Status*<br>
-Du lebst davon, Waren herzustellen und zu verkaufen. Du bist wahrscheinlich ein freier Stadtbewohner, könntest aber auch vom Land stammen. Die Große Tugend Wohlhabend und der Große Fehler Arm wirken sich normal auf dich aus.
-
-#### Handwerkerheiler
-*Klein, Übernatürlich*<br>
-Wie die Schmiede der alten Überlieferungen kann der Charakter Wunden auf magische Weise heilen, indem er sie mit den Werkzeugen seines Handwerks berührt. Dies ist eine seltene und geheimnisvolle Kraft, die hermetische Magi nicht verstehen oder nachahmen können, und es ist üblich, dass diese Tugend familiären Blutlinien folgt. Die Wahl dieser Tugend verleiht dem Charakter die Fertigkeit Handwerkerheiler mit einem Wert von 1.
-
-#### Haustier
-*Frei, Sozialer Status, nur Tiere*<br>
-Der Charakter ist ein Tier, das Eigentum eines Konvents oder Charakters ist und mit Nahrung und Unterkunft versorgt wird. Von ihm wird erwartet, dass er seinem Herrn im Gegenzug für diese Versorgung dient, sei es als Reittier, Lasttier, Jagdtier oder dergleichen.
-
-#### Heiligkeit und Unheiligkeit spüren
-*Klein, Übernatürlich*<br>
-Du kannst die Anwesenheit von Gut und Böse spüren. In Auren von besonders starkem göttlichem oder infernalen Einfluss kann Deine Sensibilität Dich überwältigen. Die Wahl dieser Tugend verleiht die Fertigkeit Gespür für Heiliges und Unheiliges 1 ([Seite 170](#gespür-für-heiliges-und-unheiliges)).
-
-#### Heimfindungsinstinkt
-*Klein, Übernatürlich*<br>
-Der Charakter weiß stets genau, wie er von seinem aktuellen Standort zu einer Anzahl von Orten gelangt, die seinem Intelligenzwert entspricht (mindestens jedoch 1). Um einen Ort in das Repertoire des Charakters aufzunehmen, muss er sich an diesem Ort befinden, der Ort muss im Freien liegen (darf also beispielsweise nicht im Inneren eines Gebäudes sein), und der Spieler muss einen Intelligenz + Konzentrations-Wurf gegen einen Schwierigkeitsgrad von 6 schaffen. Würde dies die Anzahl der bekannten Orte über das Limit des Charakters hinaus erhöhen, muss ein anderer Ort „vergessen" werden.
-
-Darüber hinaus hat der Charakter eine feste Arkane Verbindung zu den Orten, die er kennt, die auf die übliche Weise genutzt werden kann ([Seite 219](#arkane-verbindungen)). Diese Arkane Verbindung ist ein Artefakt des Geistes und kann daher nicht an einen anderen Charakter weitergegeben werden.
-
-#### Hermetische Erfahrung
-*Klein, Allgemein*<br>
-Der Charakter hat Erfahrung mit den Magi des Ordens des Hermes. Vielleicht ist er derzeit in einem Konvent beschäftigt, hat einst in der Gefolgschaft eines Magus gedient oder hatte sonstige Geschäfte oder Auseinandersetzungen mit diesen. In jedem Fall hast du zusätzliche 50 Erfahrungspunkte, die du für Ordenskunde, Magiekunde oder Latein ausgeben kannst. Du kannst keine anderen Erfahrungspunkte für Magiekunde oder Latein ausgeben, es sei denn, der Charakter hat eine weitere Tugend oder einen Fehler, der dies erlaubt. Diese Tugend kann von jedem Grog oder Konventsbewohner genommen werden, oder von jenen, die eine außergewöhnlich enge Beziehung zum Orden des Hermes hatten. Sie kann auch von einem Magus genommen werden, hat aber normalerweise keinen Nutzen.
-
-#### Hermetischer Magus
-*Frei, Sozialer Status*<br>
-Du bist Mitglied des Ordens des Hermes. Alle Magi müssen dies als ihren Sozialen Status nehmen, und nur Magi dürfen es nehmen.
-
-#### Hermetisches Ansehen
-*Klein, Hermetisch*<br>
-Aufgrund irgendeines Aspekts in deiner Vergangenheit blicken andere Magi zu dir auf, auch wenn du dir ihren Respekt nicht verdient hast. Manche beneiden dich, und die meisten werden sicherlich mehr von dir erwarten als von anderen. Du erhältst eine Reputation der Stufe 4 innerhalb des Ordens.
-
-#### Hersteller gemusterter Gefäße
-*Klein, Übernatürlich*<br>
-Gemusterte Gefäße sind solche, in deren Oberflächen vor dem Brennen mystische Muster eingedrückt wurden. Ein Charakter mit dieser Tugend besitzt ein Repertoire an Formen: eine Form pro Stufe der Fertigkeit Handwerk: Töpfer. Jede Form entspricht einer Fertigkeit, und der Charakter erlangt zusätzliche Formen, wenn die Handwerksfertigkeit steigt. Der Charakter benötigt ein Quartal, um jede neue Form zu erlernen, wenn seine Fertigkeit steigt, und er braucht die Unterstützung von jemandem, der die gewünschte neue Form bereits kennt.
-
-Das Herstellen eines Gefäßes kostet eine Langzeit-Erschöpfungsstufe. Jedes Gefäß verleiht +3 auf eine einzelne Fertigkeit. Die Materialien, die beim Würfelwurf verwendet werden, müssen im Gefäß aufbewahrt worden sein. Das Aufbewahren von Materialien für Fertigkeiten in Töpfen verursacht keine Verzerrung. Das erste Mal, wenn ein Charakter einen Topf auf diese Weise verwendet, nimmt er den Benutzer als seinen Eigentümer an und gewährt keinem anderen mehr einen Bonus. Ein Topf ist eine Arkane Verbindung zu seinem Meister. Charaktere mit Magieresistenz können nicht von Töpfen beansprucht werden und erhalten keinen Nutzen aus ihnen.
-
-Eine gesonderte Version dieser Tugend erlaubt dem Charakter, Ledergefäße herzustellen, und stützt sich auf Handwerk: Lederarbeiter. Sie ist ansonsten identisch. In den afrikanischen Kulturen, in denen diese Tugend am häufigsten vorkommt, ist die Töpferversion mit Frauen und die Lederversion mit Männern verbunden; dies schränkt jedoch nicht ein, welche Charaktere welche Version nehmen können.
-
-#### Hersteller von Wassergefäßen
-*Klein, Übernatürlich*<br>
-Ein Charakter, der aus einem magischen Wassergefäß trinkt, das von einem Charakter mit dieser Tugend hergestellt wurde, darf einen Fertigkeitswert gegen den Handwerk: Töpfer-Wert des Herstellers zum Zeitpunkt der Herstellung des Gefäßes tauschen. Dieser Effekt hält eine Szene oder drei Minuten an, je nachdem, was länger ist. Jedes Gefäß ist bei seiner Herstellung durch seine Form an eine bestimmte Fertigkeit gebunden.
-
-Jeder Charakter kennt eine Vielzahl von Gefäßformen, wobei jede Form einer einzelnen Fertigkeit entspricht. Ein beginnender Charakter kennt eine Anzahl von Formen, die seinem Handwerk: Töpfer-Wert entspricht. Der Charakter benötigt ein Quartal, um eine neue Form zu erlernen, wenn seine Fertigkeit steigt, und er braucht die Unterstützung von jemandem, der die gewünschte neue Form bereits kennt. Das Herstellen eines Gefäßes kostet eine Langzeit-Erschöpfungsstufe.
-
-Nachdem ein Gefäß zum ersten Mal getrunken wurde, nimmt es den Trinker als seinen Eigentümer an. Anderen Trinkern gewährt das Gefäß keinen Nutzen, und es wird zu einer Arkanen Verbindung zu seinem Eigentümer. Charaktere mit Magieresistenz können nicht von Gefäßen beansprucht werden. Der erste Trunk aus einem unbesessenen Gefäß – durch den das Eigentum begründet wird – verursacht Verzerrung, es sei denn, der Trinker besitzt Übernatürliche Tugenden. Ebenso verursacht das Trinken aus einem Gefäß, das man nicht besitzt, Verzerrung, es sei denn, der Trinker besitzt Übernatürliche Tugenden. Eine gesonderte Version dieser Tugend erlaubt dem Charakter, Ledergefäße herzustellen, und stützt sich auf Handwerk: Lederarbeiter. Sie ist ansonsten identisch. In den afrikanischen Kulturen, in denen diese Tugend am häufigsten vorkommt, ist die Töpferversion mit Frauen und die Lederversion mit Männern verbunden; dies schränkt jedoch nicht ein, welche Charaktere welche Version nehmen können.
-
-#### Hervorragende (Eigenschaft)
-*Klein, Allgemein*<br>
-Du kannst jede Eigenschaft, die bereits einen Wert von mindestens +3 hat, um einen Punkt anheben, auf höchstens +5. Beschreibe genau, was an dir diese Steigerung verursacht (wie zum Beispiel schiere körperliche Masse, eine schlanke Figur oder extremes Charisma). Du kannst diese Tugend zweimal für dieselbe Eigenschaft und für mehr als eine Eigenschaft nehmen.
-
-#### Herztier
-*Klein, Hermetisch*<br>
-Du wurdest in das Äußere Mysterium des Herztieres eingeweiht (siehe [Seite 233](#bjornaer-das-herztier)) und bist damit ein Mitglied des Hauses Bjornaer. Du beginnst mit der Fertigkeit Herztier 1. Beachte, dass alle Bjornaer-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
-
-#### Höherer Klerus
-*Groß, Sozialer Status*<br>
-Der Charakter ist ein Erzbischof, Bischof, Abt, eine Äbtissin oder ein anderes höheres Mitglied der Kirche. Er hat Zugang zu den Ressourcen der Kirche und verfügt möglicherweise über zusätzliche Pflichten und Befugnisse gemäß seinem Amt.
-
-Du kannst entweder die Tugend Wohlhabend oder den Fehler Arm für den Charakter wählen. Dies spiegelt nicht zwingend den Status der Diözese des Charakters wider, sondern den persönlichen Reichtum des Charakters. Höherer Klerus kann Reichtum anhäufen, indem er das Benefizium mehrerer Ämter erhält. Es ist tatsächlich nicht ungewöhnlich, dass ein Charakter das Benefizium aus verschiedenen Pfarreien in ganz Mythischen Europa erhält. Er mag manche der Diözesen, in denen sich seine Pfarreien befinden, nicht einmal besuchen, obwohl der Charakter offensichtlich einen Kaplan beschäftigen muss, um die tatsächlichen priesterlichen Pflichten in diesen entlegenen Pfarreien zu übernehmen.
-
-Der Charakter hat eine Reputation von Stufe 4, entweder gut oder schlecht, sowohl in der lokalen Gemeinschaft als auch in der Kirche.
-
-Du kannst bei der Charaktererschaffung Akademische Fertigkeiten für den Charakter erwerben.
-
-Höherer Klerus unterliegt dem Kirchenrecht und muss zölibatär und tonsuriert (wenn männlich) sein. Vermerke, ob der Charakter zum Diakon, Priester, Bischof usw. geweiht wurde. Äbtissin ist die einzige häufige Stellung, die Frauen mit dieser Tugend zugänglich ist, und selbst solche Frauen werden nicht geweiht. Die Tugend Erkaufte Rechte befähigt Frauen nicht, eine der anderen Stellungen einzunehmen.
-
-#### Im Dunkeln sehen
-*Klein, Übernatürlich*<br>
-Du kannst in vollständiger Dunkelheit sehen. Ansonsten ist Dein Sehvermögen nicht schärfer als das normaler Menschen, und Du siehst nicht weiter als normale Menschen bei Tageslicht sehen würden.
-
-#### Immun gegen Krankheit
-*Groß, Übernatürlich, Befleckt*<br>
-Der Charakter ist als Eigentum eines sehr mächtigen Dämons gekennzeichnet, und die niederen Dämonen, die die meisten Krankheiten verursachen, weigern sich, ihm Schaden zuzufügen. Selbst Charaktere, die sich gegen ihre Meister wenden, behalten diesen Schutz, da die Markierung unauslöschlich ist und Krankheitsdämonen in der Regel nicht sonderlich klug sind. Einige Krankheiten – zum Beispiel solche, die Gott als Geißel schickt – betreffen den Charakter normal.
-
-#### In der Kriminalität geschult
-*Klein, Allgemein*<br>
-Der Charakter wurde ausgiebig in kriminellen Künsten ausgebildet und erhält 50 zusätzliche Erfahrungspunkte für Fertigkeiten, die mit Diebstahl in Verbindung stehen. Gebietskundearten, Athletik, Wahrnehmung, Feilschen, Raufen, Charme, Täuschung, Fingerfertigkeit und Schleichen sind alle geeignet; andere Fertigkeiten können mit Zustimmung der Spieltruppe zu dieser Liste hinzugefügt werden.
-
-#### Ineslemen
-*Klein, Sozialer Status*<br>
-Dieser Charakter ist Mitglied eines der designierten religiösen Stämme der Tuareg und genießt daher eine gewisse Autorität in Streitfragen sowie Immunität gegenüber den üblichen feudalen Forderungen der Adligen. Er darf während der Charaktererschaffung Theologie: Islam, Islamisches Recht und (Sphären-)Kunde erwerben und erhält zusätzliche 50 EP, die er für diese Fertigkeiten ausgeben kann. Der Charakter beginnt mit dem Kleinen Fehler Nichtkämpfer, der keine Punkte für den Kauf von Tugenden einbringt. Dieser Soziale Status existiert nur in Nordafrika.
-
-#### Infernales Erbstück
-*Klein, Übernatürlich, Befleckt*<br>
-Infernale Erbstücke sind magische Gegenstände, die der Charakter von einem Diabolisten erbt oder, seltener, findet. Der Charakter hat den Gebrauch des Gegenstands, ohne sich mit dem Dämon auseinandersetzen zu müssen, der ihn erschaffen hat. Der Gegenstand ist auf irgendeine Weise äußerst nützlich, doch jede Verwendung bringt seinen Besitzer dem Charakter des Dämons näher, da dieser versucht, seinen Schatz zurückzufordern.
-
-Die meisten infernalen Erbstücke haben nur einen einzigen Effekt, und sie werden in der Regel durch eine geringfügige Sünde oder die Absicht zur Sünde ausgelöst. Als Richtlinie gilt: Jedes Erbstück kann einmal pro Tag einen Effekt erzeugen, der einem Hermetischen Zauber der Stufe 25 entspricht. Gegenstände mit weniger mächtigen Effekten dürfen nach Ermessen der Spieltruppe häufiger eingesetzt werden.
-
-#### Inspirierend
-*Klein, Allgemein*<br>
-Du bist ein mitreißender Redner oder eine Heldenfigur und kannst Menschen zu großen Leistungen anspornen. Du gewährst Zielen einen +3-Bonus auf Würfe für angemessene Persönlichkeitseigenschaften.
-
-#### Intuition
-*Klein, Allgemein*<br>
-Du besitzt eine natürliche Feinfühligkeit, die es dir erlaubt, häufiger die richtigen Entscheidungen zu treffen, als das Glück erklären könnte. Wann immer du vor einer Entscheidung stehst, bei der Glück eine wichtige Rolle spielt (etwa die Wahl zwischen drei unerkundeten Wegen), hast du eine gute Chance, die richtige zu treffen. Der Spielleiter würfelt heimlich einen einfachen Würfel. Bei einem Ergebnis von 6 oder mehr setzt deine Intuition ein und du triffst die Entscheidung, die als „richtig" gelten kann. Andernfalls erhältst du keine Eingebung und musst ohne Hilfe entscheiden.
-
-#### Jurist
-*Klein, Sozialer Status*<br>
-Der Charakter ist Richter, Anwalt oder Prokurator – im Wesentlichen ein mittelalterlicher Rechtsgelehrter in irgendeiner Funktion. Bei der Charaktererschaffung darf er die Fertigkeiten Latein, Artes Liberales sowie Zivil- und Kanonisches Recht erwerben. Er muss nicht zwingend an einer Universität ausgebildet worden sein, da er seine Bildung auch durch Privatschulen, Hauslehrer oder eine Domschule erlangt haben kann, und braucht keinen akademischen Grad. Ist er Kleriker, wirkt er in einem kirchlichen Umfeld: der päpstlichen Kurie, dem Kardinalskollegium oder dem Büro eines Bischofs oder Erzbischofs. Ist er Laie, arbeitet er für einen weltlichen Fürsten oder eine Stadtgemeinde.
-
-Diese Tugend ist kompatibel mit den Tugenden Baccalaureus, Magister in Artibus und Doktor der (Fakultät), da ein Jurist über eine Universitätsausbildung verfügen kann. Sie ist auch kompatibel mit den Tugenden Priester und Bettelorden. Sie steht nur männlichen Charakteren zur Verfügung.
-
-#### Kassalanischer Exorzismus
-*Klein, Übernatürlich*<br>
-Du bist in der Lage, kleinere Exorzismus-Zauber durch dein Wissen über die Riten der Bestattungsgesellschaft von Kassala in Alodia auszuführen, dem abgelegensten der drei nubischen Königreiche an den südlichen Ausläufern des Nils. Du kannst Zauber in einem sehr begrenzten Fokus wirken, nämlich Bannzauber gegen Geister und körperlich Tote (nach den Rego Corpus- oder Rego Mentem-Leitlinien) sowie Zauber, um diesen Wesen Macht zu entziehen (nach den Perdo Vim-Leitlinien). Du kannst keine Zauber erschaffen, die andere Geister oder Kreaturen betreffen, die keine wandelnden Toten sind, doch deine Zauber sind gegen Kreaturen aus jeder Sphäre gleich wirksam. Mit dieser Tugend erschaffene Bannzauber müssen nicht kreisförmig sein, sondern können stattdessen die Schwelle(n) eines Raumes blockieren; dies wird für die Stufenberechnung dennoch als Dauer: Ring, Ziel: Kreis-Zauber behandelt.
-
-Um einen Zauber zu wirken, musst du eine Erschöpfungsstufe aufwenden, unabhängig davon, ob der Zauber gelingt oder misslingt. Du musst außerdem mindestens 5 Minuten den Zauber vorbereiten, während du ununterbrochene Konzentration benötigst und eine Handvoll Kassalanischen Staub aufwendest. Der Zauber wird genau wie ein Hermetischer Zauber entworfen; wenn du einen Geist beeinflussen willst, musst du dein Ziel wahrnehmen können. Deine Zaubersumme beträgt (Ausdauer + Organisationskunde: Bestattungsgesellschaft + Aura-Modifikator + Stresswürfel) / 2. Die Penetration wird auf normale Weise berechnet: Zaubersumme – Stufe des Zaubers + Penetrationsmodifikatoren. Kassalanischer Exorzismus ist der Magischen Sphäre zugeordnet.
-
-> #### Kassalanischer Staub
->
-> Dieser von der Bestattungsgesellschaft von Kassala hergestellte Staub besteht hauptsächlich aus Goldstaub, ergänzt durch Myrrhe und andere Gewürze. Zwanzig Handvoll enthalten etwa ein Mythisches Pfund Goldstaub.
->
-> Kassalanischer Staub ist für den Kassalanischen Exorzismus notwendig, gewährt jedoch keinen Bonus. Eine Handvoll fügt außerdem +3 zu Einsätzen der Übernatürlichen Fertigkeit Leichenmagie hinzu, um einen Leichnam anzuweisen, in sein Grab zurückzukehren oder davor zu bewahren, von Leichenmagie beeinflusst zu werden. Mehrere Handvoll bringen keinen zusätzlichen Effekt. Kassalanischer Staub hat einen Form- und Materialbonus von +3 gegen Tote. Das Rezept ist jedem bekannt, der über Organisationskunde: Bestattungsgesellschaft verfügt.
->
-> Weitere Details über die Kassalanische Bestattungsgesellschaft finden sich in Länder des Nils, ab Seite 88.
-
-#### Kennt die richtigen Leute
-*Klein, Allgemein*<br>
-Deine sozialen Kontakte sind nicht wegen dem wichtig, was sie dir direkt verschaffen: Sie sind wichtig, weil sie dir ermöglichen, die Wünsche deiner verschiedenen Bekannten zusammenzuführen. Ein gewandter Gesellschaftsmensch ist ein Vermittler, dem für das Zuführen von Gelegenheiten an Freunde Dankbarkeit geschuldet wird, nicht jemand, der auf Freundschaft basierend Gefälligkeiten einfordert.
-
-Einmal pro Geschichte oder Spielsitzung darf ein Charakter mit dieser Tugend einen Köder für einen Nicht-Spieler-Charakter verlangen. Ein Köder ist der Beginn einer Szene oder kurzen Nebengeschichte außerhalb der Hauptgeschichte, die, wenn sie abgeschlossen wird, dem Charakter ermöglicht, vom genannten Ziel Unterstützung zu erhalten. Sind die Spielercharaktere beispielsweise nicht in der Lage, die Unterstützung eines Adeligen zu gewinnen, kann ein Spieler einen Köder verlangen. Im Spiel bedeutet dies, dass der Charakter seine sozialen Fertigkeiten einsetzt, um die Bedürfnisse des Adeligen zu ermitteln und anzudeuten, dass er möglicherweise einen Dritten kennt, der eine Lösung hat. Spielt die Spieltruppe dann eine kurze Szene aus, in der das Problem des Adeligen gelöst wird, wird er gefügiger.
-
-Die Spieltruppe kann jeden Einsatz dieser Verbindungen ablehnen, der die Spannung und das Tempo des Spiels beeinträchtigt.
-
-#### Klarer Denker
-*Klein, Allgemein*<br>
-Du denkst logisch und rational. Du erhältst einen +3-Bonus auf alle Würfe, um Lügen, Verwirrung, Betäubung und Hinterlist zu widerstehen – ob magisch oder weltlich.
-
-#### Klatschbase
-*Klein, Allgemein*<br>
-Du verfügst über regelmäßige soziale Kontakte in der Gegend, die dir allerlei Informationen über lokale gesellschaftliche und politische Vorgänge liefern. Bei einem einfachen Wurf von 6+, erfährst du interessante Neuigkeiten fast vor allen anderen. Du behandelst alle lokalen Reputationen als doppelt so hoch wie ihren tatsächlichen Wert. Mit einigen gezielt platzierten Worten kannst du möglicherweise neue Reputationen verleihen (ob verdient oder nicht). Du hast höchstwahrscheinlich selbst eine Reputation – als Klatschbase.
-
-#### Kleine Segnung
-*Klein, Übernatürlich*<br>
-Du wurdest von einer übernatürlichen Macht gesegnet. Die Auswirkungen der Segnung sollten vergleichbar mit anderen Kleinen Tugenden sein. (Siehe Einschub für Beispiele.)
-
-> #### Beispiele für Kleine Segnungen
->
-> ##### Redegewandtheit
->
-> Du bist ein sehr überzeugender Redner; jeder, der versucht, Unwahrheiten in deinen Worten aufzuspüren, erhält einen -3-Abzug auf seine Würfe.
->
-> ##### Grüner Daumen
->
-> Pflanzen gedeihen immer unter deiner Fürsorge. Deine Ernte leidet niemals unter natürlichen Krankheiten oder Schädlingen, solange du persönlich dafür sorgst, und du kannst daher halb so viel mehr Ertrag erzielen wie andere.
->
-> ##### Kribbelnde Daumen
->
-> Befindest du dich in der Gegenwart von jemandem, der dir Böses will, verspürst du ein Kribbeln in den Daumen. Du kannst damit keinen einzelnen Feind aus einer Menge herausidentifizieren.
->
-> ##### Ungewöhnlich fruchtbar
->
-> Jede sexuelle Begegnung mit einem Partner des anderen Geschlechts führt zu einer Empfängnis.
-
-#### Kleine Verzauberungen
-*Klein, Übernatürlich*<br>
-Der Charakter besitzt ein oder mehrere Gegenstände mit magischen Kräften. Diese sollten als hermetische Verzauberungen entworfen werden, und die Gesamtstufen der Kräfte aller Gegenstände, nach Anpassung für Nutzungen pro Tag und dergleichen, dürfen 25 nicht übersteigen. Der Charakter darf diese Tugend mehr als einmal nehmen: Addiere die Gesamtstufen, aber keine einzelne Kraft darf höher als Stufe 30 sein. Verliert er den Gegenstand oder wird er zerstört, ist er dauerhaft verloren.
-
-#### Kleiner Magischer Fokus
-*Klein, Hermetisch*<br>
-Deine Magie ist auf ein enges Feld besonders abgestimmt, etwa Selbstverwandlung, Raubvögel oder Heilung. Im Allgemeinen sollte das Feld etwas enger sein als eine einzelne Technik- und Form-Kombination, obwohl es eingeschränkte Bereiche mehrerer solcher Kombinationen umfassen darf. Heilung beispielsweise ist ein Teil von Creo Corpus, Creo Animal und möglicherweise Creo Herbam. Du kannst keinen Fokus auf eine Laboraktivität haben, etwa das Erschaffen von aufgeladenen Artefakten, obwohl ein Fokus durchaus auf Laboraktivitäten angewandt wird.
-
-Wenn du einen Zauber wirkst oder eine Laborsumme innerhalb deines Fokus berechnest, addiere den niedrigsten anwendbaren Kunstwert zweifach, wie beim Großen Magischen Fokus (Seite 94).
-
-Ein Magus darf nur einen einzigen Magischen Fokus besitzen, ob groß oder klein, unabhängig von der Quelle des Fokus.
-
-> #### Beispiele für Kleine Magische Foki
->
-> Diese Liste ist lediglich beispielhaft; andere Foki sind möglich.
->
-> - Animal: Raubvögel, Caniden, Marderartige.
-> - Aquam: Stehendes Wasser, kleine Bäche.
-> - Auram: Wind, Regen, Blitz.
-> - Corpus: Altern, Krankheit.
-> - Herbam: Fruchtbildung, Holz.
-> - Imaginem: Eine bestimmte Farbe oder ein bestimmter Klang.
-> - Mentem: Zorn, Lust, Erinnerungen auslöschen, Erinnerungen verändern.
-> - Terram: Metalle erschaffen, Stein zerstören.
-> - Heilung: Wirkt auf Menschen, Tiere und Pflanzen.
-> - Selbstverwandlung: Wirkt sowohl auf Corpus als auch auf Mentem.
-
-#### Kleriker
-*Klein, Sozialer Status*<br>
-Du bist Mitglied des gebildeten Standes und entweder ein professioneller Schreiber, Buchhalter, Anwalt, Student oder Amtsträger. Aufgrund deiner Ausbildung kannst du während der Charaktererschaffung Akademische Fertigkeiten erwerben. Wenn du männlich bist, kannst du in Niederen Weihen sein (Akolyth, Exorzist, Lektor oder Türhüter); in diesem Fall kannst du heiraten und profitierst trotzdem von der Zugehörigkeit zum Klerus und bist damit dem kanonischen statt dem weltlichen Recht unterworfen. Männliche Charaktere können auch Subdiakone oder Diakone sein, die zwei kleineren Heiligen Weihen, in denen von ihnen normalerweise erwartet wird, unverheiratet zu sein. Wenn sie jedoch bereits verheiratet waren und vollständige sexuelle Enthaltsamkeit versprechen, können sie dennoch in diese Weihen ordiniert werden. Ein Mann darf nach der Ordination in Heilige Weihen nicht mehr heiraten. Wer in Heiligen Weihen steht, untersteht ebenfalls dem kanonischen statt dem weltlichen Recht. Die Große Tugend Wohlhabend und der Große Fehler Arm wirken sich normal auf dich aus. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung, doch weibliche Charaktere dürfen keine Niederen oder Heiligen Weihen empfangen.
-
-#### Konventsbewohner
-*Frei, Sozialer Status*<br>
-Du bist Mitglied des Konventspersonals und hast dort möglicherweise dein ganzes Leben verbracht. Du wirst vom Konvent versorgt, sodass dein Lebensstandard durch die Mittel des Konvents und nicht durch deine eigenen bestimmt wird. Du kannst nicht die Große Tugend Wohlhabend oder den Großen Fehler Arm nehmen.
-
-#### Kraftreserven
-*Klein, Allgemein*<br>
-Einmal pro Tag kannst Du in der Not eine außergewöhnliche Kraftleistung vollbringen. Für die Dauer der Handlung addierst Du +3 zu Deinem effektiven Stärkewert. Danach musst Du jedoch zwei Erschöpfungswürfe ablegen.
-
-#### Krieger
-*Klein, Allgemein*<br>
-Du wurdest im Kampf ausgebildet und hast vielleicht einige Zeit im Feldzug verbracht, möglicherweise auf einem der Kreuzzüge. Du kannst bei der Charaktererschaffung Kampffertigkeiten erwerben und erhältst zusätzliche 50 Erfahrungspunkte, die für Kampffertigkeiten ausgegeben werden müssen.
-
-#### Landadliger
-*Groß, Sozialer Status*<br>
-Du schuldest einem höheren Adligen Lehnseid und Dienst und hast die Kontrolle über Land, Leibeigene und Bewaffnete. Du hast ein halbes Dutzend Diener in deinem Herrensitz, darunter ein paar Leibwächter. Deine Diener sollten vom Rest der Spieltruppe gespielt werden. Du hast einen Treueeid geschworen, weshalb es sinnvoll wäre, diese Tugend mit jenem Fehler zu balancieren. Du erhältst die normalen Punkte für den Treueeid, wenn du das tust. Du bist wohlhabender als die meisten Charaktere, hast aber keine zusätzliche Freizeit. Du hast die Macht, das Recht innerhalb deines Lehens durchzusetzen, darfst aber nicht die Todesstrafe verhängen und darfst Verbrecher auch nicht verstümmeln. Prügel und Geldbußen sind die üblichen Strafen, die du verhängst.
-
-Bist du Arm, ist dein Lehen entweder sehr klein oder liegt in einer landwirtschaftlich schlechten Gegend mit wenigen anderen Ressourcen. Du musst jedes Quartal damit verbringen, es zu verwalten, sonst könnte es völlig zusammenbrechen und dich effektiv landlos zurücklassen. Du bist nicht wohlhabender als die meisten durchschnittlichen Charaktere und hast nur ein paar Diener.
-
-Wohlhabende Landadlige kontrollieren mehr als ein Lehen und haben für jedes Bailiffs oder Verwalter, sodass sie keine Zeit damit verbringen müssen, ihre Ländereien zu beaufsichtigen. Du bist deutlich reicher als die meisten wohlhabenden Charaktere und könntest dir leisten, ein kleines Schloss oder eine große Kapelle in einer Kathedrale zu bauen. Du hast etwa fünfzig Diener, darunter eine beträchtliche Anzahl von Kriegern.
-
-Dieser Soziale Status ist kompatibel mit der Kleinen Status-Tugend Ritter, steht aber im Gegensatz zu jener Tugend sowohl männlichen als auch weiblichen Charakteren zur Verfügung.
-
-#### Lasiq
-*Groß, Sozialer Status*<br>
-Der Charakter ist ein erfahrener Attentäter der Nizari-Ismailis, der erfolgreich sieben Morde auf Befehl seines Großmeisters begangen hat und eine kleine Truppe von bis zu sechs Fida'is anführt. Lasiqs dürfen bei der Charaktererschaffung Kampffertigkeiten nehmen. Wie ein Fida'i kann sich ein Lasiq weit weg von seiner Heimat auf einem Auftrag befinden, entweder allein oder mit einigen Fida'is. In einem solchen Fall gibt er vor, einen anderen sozialen Status zu haben, den du festlegen solltest. Weitere Details zu den Nizaris finden sich in Der Halbmond und die Wiege, ab Seite 162.
-
-#### Latente Magische Fähigkeit
-*Klein, Allgemein*<br>
-Du besitzt eine magische Eigenschaft, die sich noch nicht manifestiert hat. Du bist dir dieser Fähigkeit wahrscheinlich nicht bewusst; bist du ein Magus, hat dein Meister sie während deiner Lehrzeit nicht entdeckt. Nach Ermessen des Spielleiters könnte diese Eigenschaft spontan oder aufgrund eines relevanten Ereignisses erscheinen (etwa durch das Trinken von Feenwein). Dies ist nicht die Gabe, und die latente Fähigkeit ist begrenzter als jene.
-
-#### Lebensgebundene Spontane Magie
-*Groß, Hermetisch*<br>
-Du kannst mit spontaner Magie mehr erreichen als die meisten Magi, auf Kosten deiner eigenen Lebensenergie. Wenn du dich entscheidest, diese Fähigkeit beim Wirken eines spontanen Zaubers einzusetzen, gibst du die gewünschte Effektstufe vor dem Wurf an. Diese Stufe kann eine Anzahl von Penetrationsstufen einschließen (siehe [Seite 169](#penetration)). Du kannst zum Beispiel wählen, einen Stufe-10-Effekt auf Stufe 20 zu wirken, um eine Penetration von 10 plus deinen Penetrationswert zu erhalten.
-
-Würfle, um einen Ermüdenden Spontanzauber zu wirken. Ist dein Ergebnis nach der Division höher als die von dir angegebene Stufe, wendest du wie üblich nur eine Erschöpfungsstufe auf. Ist dein Ergebnis nach der Division niedriger als die von dir angegebene Stufe, musst du für je fünf Punkte (oder einen Teil davon), um die du die Zielstufe verfehlt hast, eine zusätzliche Erschöpfungsstufe aufwenden. Gehen dir die Erschöpfungsstufen aus, erleidest du eine Wunde. Die Anzahl der noch für den Zauber benötigten Stufen wird als der Betrag behandelt, um den eine Schadenssumme deine Absorption übersteigt, und du erleidest die entsprechende Wunde. Du kannst dich damit selbst töten.
-
-Eine Maga mit dieser Tugend kann weiterhin Ermüdende Spontanzauber normal wirken.
-
-#### Lebensstärkung
-*Klein, Hermetisch*<br>
-Du kannst deine Zaubersummen für Formulaische oder Ritualzauber steigern, indem du zusätzliche Erschöpfungsstufen aufwendest. Jede Erschöpfungsstufe gibt dir einen zusätzlichen Bonus von +5 auf den Wurf, was sehr beeindruckende Penetrationswerte ergeben kann. Du kannst mehr Erschöpfungsstufen verbrennen, als du besitzt. Tust du das, musst du Schaden absorbieren, ohne die Hilfe von Rüstung. Der Schadenssumme beträgt 5 für jede zusätzlich aufgewendete Erschöpfungsstufe, plus ein Stresswürfel. Wendest du also drei zusätzliche Stufen auf, musst du einen Schaden von 15 + Stresswürfel absorbieren, mit deiner Absorption (ohne Rüstung) + Stresswürfel. Auf diese Weise aufgewendete Erschöpfungsstufen werden unabhängig vom Erfolg oder Misserfolg des Zauberwurfs aufgewendet, und ebenso werden erlittene Wunden auch dann erlitten, wenn du den Zauber nicht wirkst. Du kannst dich damit selbst töten. Die Gesamtzahl der zu verwendenden Erschöpfungsstufen muss vor dem Zauberwurf festgelegt werden.
-
-#### Lederreißer
-*Klein, Übernatürlich*<br>
-Dieser Charakter hat die übernatürliche Fähigkeit, eine Gruppe von Ledergegenständen zu zerstören. Dadurch fällt Metallrüstungen auseinander, da die sie zusammenhaltenden Riemen zerfallen. Es zerstört das Zaumzeug eines Reiters und erzwingt einen Reitenwurf mit Abzügen von bis zu -9, je nach der Gefährlichkeit seiner aktuellen Manöver. Es kann Scheide, Gürtel und Stiefel eines Feindes zerstören und erlaubt dem Lederreißer so zu fliehen oder anzugreifen. Dies ist ein PeAn(He) 30-Effekt mit +0 Penetration. Der Charakter muss sich einen Moment konzentrieren und eine Erschöpfungsstufe aufwenden, um die Kraft zu aktivieren, muss aber nicht sprechen oder gestikulieren.
-
-#### Lehrling
-*Frei, Sozialer Status*<br>
-Diese Tugend kann von einem Kindercharakter genommen werden, der die Gabe besitzt und mit Zustimmung der Spieltruppe von einem erfahrenen hermetischen Magus angenommen wurde. Du bist ein Discipulus und wirst eine umfangreiche magische Ausbildung erhalten, mit dem Potenzial, selbst ein hermetischer Magus zu werden. Allerdings musst du den Anordnungen deines Meisters gehorchen, seine Botengänge erledigen und seine rigorose Ausbildung erdulden – und du magst wie ein Sklave behandelt werden.
-
-#### Leichenmagie
-*Groß, Übernatürlich*<br>
-Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Leichenmagie mit einem Wert von 1.
-
-#### Leichte Berührung
-*Klein, Allgemein*<br>
-Du hast eine besonders gute Hand-Auge-Koordination und eine große Geschicklichkeit im präzisen, schnellen Umgang mit deinen Händen. Du erhältst +1 auf alle Würfe, die subtile Manipulation von Gegenständen beinhalten (wie das Stehlen aus Taschen), und würfelst einen Patzerwürfel weniger als üblich bei solchen Tätigkeiten (mindestens jedoch einen). Dieser Bonus gilt nicht für Bogenschießen, aber für das Spielen von Musikinstrumenten.
-
-#### Leichtes Altern
-*Klein, Allgemein*<br>
-Die Alterungswürfe des Charakters profitieren von einem +1-Bonus auf den Lebensumstände-Modifikator, zusätzlich zu dem, was sein sozialer Stand normalerweise bietet. Außerdem erhält er +3 auf Würfe, um eine Alterskrise zu überstehen. Er mag einen gesunden Lebensstil führen oder von einem übernatürlichen Wesen gesegnet worden sein.
-
-#### Leidenschaften spüren
-*Groß, Übernatürlich*<br>
-Der Charakter kann in die Herzen und Gedanken anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erkennen. Dies verleiht ihr die Übernatürliche Fertigkeit Gespür für Leidenschaft mit Wert 1 ([Seite 170](#gespür-für-leidenschaft)).
-
-#### Lepra-Magus
-*Groß, Hermetisch*<br>
-Diese Tugend beschreibt das mystische Erbe, das von Tytalus über den Vektor der Lepra an Haristes Linie weitergegeben wurde. Diese Tugend kann nur genommen werden, wenn der Charakter auch den Fehler Lepra hat, und steht nur Magi zur Verfügung, die im Haus Tytalus ausgebildet wurden. Sie ermöglicht es ihm, die Stärke seines Körpers zu nutzen, um die Kraft seiner Magie zu steigern, indem er die Kleine Tugend Lebensstärkung erhält. Er kann auch noch tiefer in diese Kraft schöpfen, wenn er es wünscht, indem er sein krankheitsgeplagtes Fleisch mortifiziert, um Vis zu erzeugen, mit der er seine eigenen Zauber antreibt. Die so erzeugte Vis kann nur vom Magus selbst verwendet werden – beim Zaubern oder bei Laborarbeiten (aber nicht beim Studium) – und kann in keiner Weise gelagert werden; tatsächlich verlässt sie seinen Körper nie. Indem er eine Leichte Wunde akzeptiert, kann der Magus ein einzelnes magisches Wirken mit drei Bauern Vis beliebiger Technik oder Form versorgen. Eine Mittelschwere Wunde liefert sechs Bauern, eine Schwere Wunde neun Bauern, eine Lähmende Wunde zwölf Bauern und eine Tödliche Wunde (die den Magus tötet) fünfzehn Bauern. Jede Vis, die über die Kapazität des Magus hinaus erzeugt wird, die er in der aktuellen magischen Tätigkeit verwenden kann, geht verloren, ebenso wie jede Vis, die über den Bedarf der Tätigkeit hinausgeht, auf die diese Kraft angewendet wird. Lepröse Wunden öffnen sich am Körper des Magus, wenn er diese Kraft ruft, aber nicht schnell genug, um die Zaubersumme eines Nicht-Ritual-Zaubers zu beeinflussen, auf den diese Kraft angewendet wird. Alle Laborsummen erleiden den Wundabzug wie üblich, ebenso die Zaubersummen von Zaubern, die mehr als eine Runde zum Wirken benötigen (wie Ritualzauber). Der Charakter macht keine Genesungswürfe für diese Wunde, bis die magische Tätigkeit, für die die Vis verwendet wird, abgeschlossen ist (d. h. am Ende der Zauberrede oder am Ende eines Quartals für Laborarbeiten). Das bedeutet, dass die Wunde zwar nicht besser werden kann, aber auch nicht das Risiko besteht, dass sie sich verschlimmert. Da die Kraft aus dem Schmerz dieser Wunde entsteht, negiert Magie, die diesen Schmerz aufhebt, auch die Vorteile dieser Tugend. Eine auf diese Weise erlittene Wunde muss vollständig heilen, bevor die Kraft erneut verwendet werden kann, und jeder Charakter, der diese Kraft mehr als dreimal im Jahr einsetzt, muss im Winter einen zusätzlichen Alterungswurf ablegen.
-
-#### Lupus (der Wolf)
-*Klein, Sozialer Status*<br>
-Der Charakter ist von einer Universität angestellt, um die Studenten zu beaufsichtigen und sicherzustellen, dass sie in ihren Kollegien und Wohnheimen nur Latein sprechen. Er ist ein Mitglied der Stadtgemeinschaft, in der sich die Universität befindet. Er kann zu Beginn Punkte in Latein oder Artes Liberales haben, obwohl ein Wert von mehr als 1 in Artes Liberales selten wäre. Er kann bei den Studenten wohnen, wenn er unverheiratet ist, hat aber, falls er eine Familie hat, eine eigene Unterkunft und besitzt Schlüssel zu den Studentenunterkünften, um unangekündigte Zutritt zu ermöglichen. Es wäre sehr ungewöhnlich, wenn ein solcher Charakter weiblich wäre, aber es ist nicht unmöglich.
-
-#### Mächtiges Relikt
-*Groß, Allgemein*<br>
-Du besitzt ein ungewöhnlich mächtiges Relikt mit einem Wahren-Glauben-Wert von 3. Das Relikt besitzt außerdem eine Kraft, die in Absprache mit dem Spielleiter festgelegt werden sollte (siehe Relikte, [Seite 419](#reliquien)). Wie bei der Kleinen Allgemeinen Tugend Relikt kann der Gegenstand in jeden anderen Gegenstand eingebaut werden, den Du besitzt, etwa in ein Schwert oder ein Amulett.
-
-Ein so mächtiges Relikt zu besitzen ist eine große Verantwortung, und Dein Charakter sollte sich entsprechend verhalten. Wenn Du Dich jemals gottlos verhältst (nach Beurteilung des Spielleiters), hört das Relikt auf zu funktionieren, bis angemessene Buße geleistet wurde.
-
-#### Männlicher Gildensponsor
-*Frei, Sozialer Status*<br>
-Der Vater oder Ehemann des Charakters ist ein Gildenhandwerker und hat ihr den Eintritt in seinen Arbeitsbereich erlaubt, der andernfalls Männern vorbehalten ist. Der Charakter darf ihrem Handwerk nachgehen und dabei denselben Verfahren folgen wie die regulären männlichen Arbeiter. Jede Gilde gestattet solchen Mitgliedern, also darf sie jedes Handwerk ausüben, das sie wünscht. Der Charakter muss zusätzlich zu dieser freien Tugend eine gesonderte Sozialer-Status-Tugend der Gilde wählen, um seinen Stand im Gildensystem darzustellen. Diese Tugend ist nur weiblichen Charakteren zugänglich und ist mit allen Sozialer-Status-Tugenden kompatibel.
-
-#### Magiegespür
-*Klein, Übernatürlich*<br>
-Du kannst einen Ort oder Gegenstand häufig als magisch identifizieren. Deine Empfindsamkeit macht dich jedoch anfälliger für magische Effekte: Ziehe deinen Magiegespür-Wert von deiner Magieresistenz ab. Das Nehmen dieser Tugend verleiht die Fertigkeit Magiegespür 1 ([Seite 168](#magiegespür-1)).
-
-#### Magische Abstammung
-*Klein oder Groß, Allgemein*<br>
-Diese Tugend macht den Charakter zu einem echten Blutsnachkommen des medischen Stammes der Magier, der ursprünglichen Priesterkaste Persiens. Viele Mobeds, die Priester des Zoroastrismus, besitzen diese Tugend, entweder in der Kleinen oder der Großen Form, doch sie ist keine Voraussetzung. Einzelheiten zum Mythischen Zoroastrismus finden sich in Der Halbmond und die Wiege, Kapitel 5.
-
-*Klein:* Die Abstammungslinie deines Charakters ist schwach, obwohl er oder sie ethnisch gesehen ein Magier ist und aufgrund seiner Reinheit eine robuste Konstitution erlangt. Der Charakter erhält einen -1-Bonus auf Alterungswürfe und einen +3-Bonus, um den Auswirkungen von Krankheiten zu widerstehen.
-
-*Groß:* Zusätzlich zu den Vorteilen der Kleinen Tugend hat dein Charakter eine Affinität zu den alten prophetischen und anderen mystischen Künsten seiner Vorfahren. Der Spieler muss drei Arkane oder Übernatürliche Fertigkeiten wählen, mit denen der Charakter nicht notwendigerweise zu Beginn des Spiels vertraut sein muss und die keine Wahren Namen sein dürfen. Diese Fertigkeiten gelten als miteinander verbunden, sodass dein Charakter, wann immer er Erfahrung aus einer Quelle erhält, die einer dieser Fertigkeiten gewidmet ist, die Hälfte der Quellenqualität (aufgerundet) als Erfahrungspunkte in jede der beiden anderen Fertigkeiten erhält. Ein Charakter muss auf eine der üblichen Weisen Zugang zu einer Übernatürlichen Fertigkeit haben – etwa durch das Nehmen der Tugend bei der Charaktererschaffung oder durch spätere Einweihung –, um Erfahrungspunkte in sie investieren zu können. Wählst du eine Übernatürliche Fertigkeit, zu der dein Charakter noch keinen Zugang hat, gehen alle Erfahrungspunkte, die durch diese Tugend für sie generiert werden, bevor der Charakter Zugang zu der Fertigkeit erhält, verloren.
-
-#### Magischer Hüter
-*Groß, Allgemein*<br>
-Der Charakter wird von einem magischen Wesen begleitet, das über ihn wacht und darauf achtet, dass ihm kein Schaden widerfährt. Das Wesen fordert nichts vom Charakter als Gegenleistung für seinen Dienst; beachte jedoch, dass ein mächtigerer Wächter weniger willens oder in der Lage ist, dem Charakter zu helfen, und seltener verfügbar ist, um ihn zu beschützen.
-
-Ein klassisches Beispiel ist das Gespenst einer dem Charakter nahestehenden Person. Das Gespenst ist für jeden unsichtbar und unhörbar außer für dich, es sei denn, jemand besitzt das Zweite Gesicht oder ein anderes übernatürliches Mittel, es zu entdecken. Es kann sehen und hören, was um dich herum vorgeht, und deiner Gegenwart bis zu einem halben Tag fernbleiben – es ist daher ein guter Spion. Beispielwerte für einen solchen Magischen Wächter finden sich auf [Seite 457](#geisterwächter).
-
-Gestalte dieses Wesen als magischen Charakter nach den Richtlinien in Kapitel 13 oder in *Sphären der Macht: Magie* – ein geisterhafter Wächter ist ein gutes Beispiel für einen Gefährtencharakter; er ist weniger mächtig und im Grunde eine Verlängerung des Willens des Charakters, während die Unterstützung eines mächtigeren Wächters seltener und noch situationsabhängiger ist.
-
-#### Magisches Blut
-*Klein, Übernatürlich*<br>
-Das Wesen des Charakters wurde durch den Kontakt mit der Magiesphäre verbessert – oft durch ein magisches Wesen –, was seiner wahren Gestalt besondere übernatürliche Eigenschaften verleiht. Dies verändert das äußere Erscheinungsbild des Charakters üblicherweise so stark, dass andere erkennen können, dass etwas Ungewöhnliches an ihr ist; die Leute mögen sagen, sie habe magisches Blut – oder „Feenblut" (da viele Menschen im Mythischen Europa die Unterschiede zwischen der Magie- und der Feensphäre nicht verstehen).
-
-Der Charakter darf beim Erschaffen bereits Magiekunde erlernen und ist widerstandsfähig gegen das Altern: Er erhält einen Bonus von –1 auf alle Alterungswürfe. Darüber hinaus erhält er einen kleinen körperlichen Vorteil, der zu einem der vier verschiedenen Typen magischer Wesen passt (magische Tiere, magische Menschen, magische Geister und magische Dinge) – zu jenem Typ, der mit dem Hintergrund des Charakters verknüpft ist. Einige Beispiele folgen; du kannst aber auch eigene erfinden.
-
-*Magisches Tier:* Der Charakter besitzt ein körperliches Merkmal, das normalerweise mit Tieren assoziiert wird, wie Flügel, Schuppen, Kiemen, Zähne oder Klauen. Diese verleihen bis zu +3 auf geeignete Tätigkeiten oder ermöglichen es dem Charakter, Handlungen auszuführen, die einem normalen Charakter nicht möglich wären (etwa Fliegen oder unter Wasser atmen). Dieses Merkmal ist sehr schwer zu verbergen und macht den Charakter offensichtlich verschieden von anderen Menschen.
-
-*Magischer Mensch:* Der Charakter darf eine seiner Eigenschaften um 1 steigern, jedoch nicht über +3. Häufig sind dies Stärke oder Ausdauer (um das Blut von Riesenvorfahren darzustellen) oder Präsenz (um das Blut gottgleicher Wesen darzustellen). Dies verleiht dem Charakter oft ein überirdisches Äußeres. Außerdem besitzt der Charakter eine positive Reputation auf Stufe 3 bei anderen Angehörigen seiner Blutlinie.
-
-*Magischer Geist:* Der Charakter erlangt eine passende Übernatürliche Fertigkeit (eine, die mit einer Kleinen Tugend verbunden ist), etwa Magiegespür, Vorahnungen, Zweites Gesicht oder Natursinn, mit einem Anfangswert von 1. Wann immer der Charakter diese Fertigkeit einsetzt, wird sein Erscheinungsbild jedoch offensichtlich übernatürlich. So könnten sich seine Augen zum Beispiel schwarz färben, er könnte einen Fuß vom Boden abheben oder sein Haar könnte von einem Wind bewegt werden, den niemand sonst spürt.
-
-*Magisches Ding:* Der Charakter besitzt eine Mindere oder Persönliche Kraft, die mit einem Objekt oder Ding verbunden ist. Wann immer sie den Effekt aktiviert, verändert sich ihr Äußeres ebenfalls auf eine Weise, die zur Form der Kraft passt. Eine Kraft, die gegen Flammen schützt, lässt beispielsweise ihre Haut von Ruß schwärzen und nach Rauch riechen; eine Kraft, die ihr ermöglicht auf dem Wasser zu gehen, könnte sie halbtransparent wie Wasser werden lassen.
-
-#### Magisches Gedächtnis
-*Klein, Hermetisch*<br>
-Dein Gedächtnis wurde entwickelt, um magische statt alltägliche Dinge zu behalten. Du brauchst keine Labortexte (siehe [Seite 262](#labortexte-1)) deiner Erschaffungen aufzubewahren, um beim Reproduzieren den Vorteil eines Labtextes zu erhalten. Hast du einen Effekt einmal nach dem Labortext eines anderen Magus erschaffen, kannst du künftig denselben Vorteil erhalten, ohne den Text vorliegen zu haben.
-
-#### Magisches Reittier
-*Klein, Allgemein*<br>
-Der Charakter besitzt ein Reittier, Lasttier oder einen „Wachhund" – eine Kreatur, die Scharfsinn statt Intelligenz besitzt und einen Machtwert von bis zu 25. Sie hat eine zusätzliche Persönlichkeitseigenschaft (Loyal 0) und gehorcht einfachen verbalen Befehlen. Besitzt sie einen positiven Scharfsinnwert, ist die Kreatur außerdem in der Lage, begrenzt aus eigener Initiative zu handeln. Wenn der Charakter nicht in der Lage ist, die Kreatur selbst zu trainieren, muss sie ein Geschenk eines anderen Charakters (wahrscheinlich eines mächtigen Magus) gewesen sein, und der Charakter muss einen Großen Geschichte-Fehler wählen, um die Konsequenzen darzustellen: Gefälligkeiten, um die Schuld gegenüber seinem Gönner zu verkörpern, ist die einfachste Möglichkeit; Feinde, falls das Reittier weggelockt wurde, ist ebenfalls denkbar. In diesem Fall kann nur ein Gefährte oder ein Charakter auf Magus-Ebene diese Tugend nehmen.
-
-#### Magister in Artibus
-*Groß, Sozialer Status*<br>
-Du hast an einer der Universitäten Europas (Paris, Bologna, Oxford, Cambridge, Montpellier, Arezzo oder Salamanca) den Magister Artium abgelegt und deine obligatorischen zwei Jahre als Regent gelehrt. Du hast das Recht, als Magister angesprochen zu werden, unterliegt allein dem Kanonischen Recht und darfst überall in Europa unterrichten.
-
-Du bist mindestens (25 – Int) Jahre alt und musst mindestens 5 in Latein und Artes Liberales haben. Du hast jedoch acht Jahre an einer Universität verbracht und erhältst in jedem dieser Jahre 30 zusätzliche Erfahrungspunkte, insgesamt also 240 zusätzliche Erfahrungspunkte über dein altersabhängiges Grundkontingent hinaus. Du kannst beim Erschaffen Akademische Fertigkeiten kaufen und musst deine zusätzlichen Erfahrungspunkte für Akademische Fertigkeiten oder die Fertigkeit Unterrichten ausgeben. Du hast eine akademische Reputation von 2.
-
-Du musst zwei Quartale mit Unterrichten verbringen, um deinen Lebensunterhalt und deinen Ruf als verlässlicher Lehrer zu wahren. Diese zwei Quartale verteilen sich auf die Zeit zwischen September und Juni, sodass du im Sommer tatsächlich frei bist. Wenn du den Fehler Arm nimmst, bist du dennoch im Sommer frei. Wenn du die Tugend Wohlhabend nimmst, kannst du deinen Ruf mit einem einzigen Quartals-Unterricht aufrechterhalten.
-
-Diese Tugend ist nur männlichen Charakteren zugänglich und ist kompatibel mit den Tugenden Hermetischer Magus, Bettelbruder und Priester.
-
-#### Magister in Medicina
-*Groß, Sozialer Status*<br>
-Der Charakter hat an einer der medizinischen Schulen Europas (Salerno, Cremona, Montpellier oder Bologna) einen Doktortitel in Medizin erlangt und seine obligatorischen zwei Jahre Pflichtlehre absolviert. Diese Tugend bietet dieselben Vorteile wie Doktor in (Fachgebiet). Sie ist kompatibel mit den Tugenden Hermetischer Magus und Priester. Beachte: Diese Tugend steht auch weiblichen Charakteren zur Verfügung, obwohl diese nur an der Schule von Salerno graduiert haben müssen, während männliche Charaktere an jeder der medizinischen Schulen graduiert haben können.
-
-#### Makellose Magie
-*Groß, Hermetisch*<br>
-Du meisterst automatisch jeden Zauber, den du lernst. Alle deine Zauber beginnen mit einem Wert von 1 in der entsprechenden Zaubermeisterschafts-Fertigkeit. Du kannst für jeden deiner Zauber eine andere Spezialisierung wählen. Darüber hinaus werden alle deine Fortschrittssummen für Zaubermeisterschafts-Fertigkeiten verdoppelt.
-
-#### Mamluk
-*Klein, Sozialer Status*<br>
-Du bist ein ehemaliger Militärsklave, als Kind gekauft, in einer Militärschule ausgebildet, im Islam erzogen und beim Erwachsenwerden freigelassen. Du bist wahrscheinlich türkischer Herkunft, könntest aber auch mongolisch oder sogar griechisch sein. Wahrscheinlich wurdest du im Umgang mit Lanzen, Bögen, Schilden, Kettenhemden und Lamellenrüstungen (gleiche Werte wie Kettenpanzer) sowie ein oder zwei Schwertern ausgebildet, sowohl zu Fuß als auch zu Pferde – allerdings bedeutet das nicht notwendigerweise, dass du zu Spielbeginn im Besitz dieser Ausrüstung bist (nach Ermessen des Spielleiters).
-
-Du darfst beim Erschaffen Kampffertigkeiten nehmen, und als Sonderfall darfst du auch die Fertigkeit Theologie: Islam nehmen, selbst wenn du nicht die Kleine Allgemeine Tugend Gebildet besitzt. Diese Tugend ist nur männlichen Charakteren zugänglich und ist (ausschließlich für Gefährten) kompatibel sowohl mit der Emir- als auch der Muqta'-Tugend, da viele Mamluken in der muslimischen Hierarchie aufgestiegen sind.
-
-#### Marschall
-*Klein, Sozialer Status*<br>
-Die Ställe eines Adligen benötigen einen Spezialisten, der die Pflege, Fütterung und das Wohl der Tiere koordiniert. Diese Person wird Marschall genannt, und der Titel genießt erhebliches Ansehen. Der Marschall von England ist der königliche Beamte, der für die Kavallerie des Königs verantwortlich ist; doch selbst der Marschall eines Barons ist eine bedeutende Persönlichkeit, angesichts der entscheidenden Rolle, die Pferde in Krieg und Jagd sowie bei alltäglichen Reisen spielen.
-
-Ein Marschall sollte die Fertigkeit Beruf: Marschall nehmen, die das Verstehen, den Kauf und die Pflege von Pferden umfasst. Sie funktioniert wie die Fertigkeit Medizin für die Behandlung tierärztlicher Krankheiten und für chirurgische Eingriffe bei diesen Tieren. Ein Marschall erhält beim Erschaffen 50 zusätzliche Erfahrungspunkte, die er auf die Fertigkeiten Tierumgang, Etikette, Jagen, Latein, Beruf: Marschall und Reiten aufteilen darf, und kann Kampffertigkeiten frei nehmen.
-
-Ein Marschall kann andere Spezialisten beaufsichtigen, darunter Hufschmiede, die Hufeisen anfertigen; Lederarbeiter, die Zaumzeug, Geschirr und Sättel herstellen; sowie das ausgebildete Personal, das das tägliche Striegeln und Ausmisten der Ställe übernimmt.
-
-#### Mazdeanischer Priester
-*Klein, Sozialer Status*<br>
-Dein Charakter ist ein ordinierter mazdeanischer Priester, eingeweiht als Mobed. Dies bedeutet, dass der Charakter die verschiedenen Rituale und Zeremonien durchführen darf, wie das Yasna, das Vivevdat, die Navjote, Hochzeiten, Beerdigungen, offizielle Gebete, Reinigungsrituale, die Entzündung heiliger Feuer und die Einweihung neuer Priester. In mazdeanischen Gemeinschaften wird dein Charakter in hohem Ansehen gehalten und mit großem Respekt behandelt. Der Charakter trägt reinweiße Kleidung und bedeckt bei der Durchführung von Zeremonien sein Gesicht mit einem weißen Schleier, um die heilige Flamme vor seinem Atem und Speichel zu schützen. Weitere Details zum mythischen Zoroastrismus finden sich in *The Cradle and the Crescent*, Kapitel 5.
-
-Als Mobed lebt dein Charakter in einer Gemeinschaft, die wahrscheinlich einen Feuertempel besitzt. Dies bedeutet, dass dein Charakter mühsame und zeitaufwendige religiöse und zeremonielle Pflichten hat. Der größte Teil deiner Zeit wird mit Beten, der Durchführung ritueller Reinigungsriten und der Pflege des heiligen Feuers verbracht. Wenn du Wohlhabend bist, hast du mehrere Ervads (Juniorpriester), die viele der mühsameren Aufgaben übernehmen. Wenn du Arm bist, spiegelt dies wahrscheinlich die schlechte Lage der Mazdeaner in der Gemeinschaft im Allgemeinen wider, und du könntest auch den Fehler Außenseiter besitzen.
-
-Dein Charakter darf beim Erschaffen Akademische Fertigkeiten nehmen. Die meisten solcher Charaktere nehmen den Kleinen Persönlichkeits-Fehler Gelübde, um den dauernden Zustand ritueller Reinheit und die Hingabe an die Gemeinschaft widerzuspiegeln. Dies kann nur der Soziale Status deines Charakters sein, wenn er in einer mazdeanischen Gemeinschaft lebt; all diese Gemeinschaften liegen östlich des Mythischen Europas, und die meisten davon in Persien. Ein mazdeanischer Priester im Exil in Europa sollte eine andere Sozialer-Status-Tugend oder einen Fehler nehmen, wie zuvor besprochen. Diese Tugend ist nur männlichen Charakteren zugänglich.
-
-#### Meister der Hundezwinger
-*Klein, Sozialer Status*<br>
-Der Charakter verwaltet die Hundezwinger eines adligen Gönners und ist für das Training, die Zucht und die Gesundheit der Tiere verantwortlich. Ihm unterstehen entsprechende Mitarbeiter, abhängig von der Größe der Zwinger; oft besitzt er das Privileg, an der Jagd teilzunehmen. Er kann trotz seiner einfachen Herkunft als intimes und wichtiges Mitglied des adligen Haushalts angesehen und mit entsprechendem Respekt behandelt werden. Außerdem wird von ihm erwartet, die Hundewärter – also die Hundeführer – zu organisieren und Diener oder Einheimische in dieser Rolle auszubilden. Er sollte die Fertigkeit Beruf: Meister der Hundezwinger besitzen, die die Pflege der Hunde, die Behandlung ihrer Krankheiten sowie den Erwerb und die Zucht von Jagdhunden umfasst. Die Fertigkeit Tierumgang wird für das Training der Tiere verwendet. Ein Meister der Hundezwinger erhält beim Erschaffen 50 zusätzliche Erfahrungspunkte, die er auf die Fertigkeiten Tierumgang, Etikette, Jagen, Latein, Beruf: Meister der Hundezwinger und Reiten aufteilen darf, und kann Kampffertigkeiten frei nehmen.
-
-#### Meister der (Form)-Kreaturen
-*Klein, Übernatürlich*<br>
-Der Charakter kann Tiere und andere unintelligente Wesen zähmen, deren Machtwert einer bestimmten Form zugeordnet ist. Beim Erschaffen darf der Charakter Magiekunde nehmen; diese Tugend darf mehrfach gewählt werden, einmal für jede Form. Regeln für das Trainieren magischer (und gewöhnlicher) Tiere finden sich auf [Seite 384](#kreaturen-abrichten).
-
-#### Meisterbarde
-*Groß, Sozialer Status*<br>
-Der Charakter hat mindestens neun Jahre an einer Bardenschule studiert und ist ein Meister seines Handwerks, genannt Anruth. Er hat eine Lehrposition an einer renommierten Schule inne oder eine offizielle Stelle bei einem irischen Clanchef; so oder so bringt ihm dies eine Lokale Reputation auf Stufe 3 ein. Wenn er an einer Schule tätig ist, ist er verpflichtet, mindestens zwei Quartale im Jahr zu unterrichten; wenn er für einen Herrn arbeitet, verbringt er stattdessen zwei Quartale damit, Lobgedichte und Geschichten für seinen Gönner zu verfassen.
-
-Der Charakter sollte mindestens 25 Jahre alt sein und muss mindestens 5 in Beruf: Geschichtenerzähler oder Dichter haben sowie 5 in mindestens einer der Fertigkeiten Gebiets-Kunde, Organisations-Kunde, Feenkunde oder Magiekunde. Du kannst beim Erschaffen Erfahrungspunkte für Arkane Fertigkeiten ausgeben und hast 240 zusätzliche Erfahrungspunkte für Gedächtniskunst, Beruf: Geschichtenerzähler, Beruf: Dichter, beliebige Gebiets-Kunde, beliebige Organisations-Kunde, Feenkunde oder Magiekunde. Dieser Soziale Status ist nur in Irland verfügbar.
-
-#### Meisterstück
-*Klein, Hermetisch*<br>
-Aus einem wohlwollenden Grund hat der Parens des Magus ihm erlaubt, das Schlichte Artefakt zu behalten, das er zur Demonstration seiner Fähigkeiten als Magus für seine Lehrlingsprüfung hergestellt hat. Dieses Meisterstück muss ein Schlichtes Artefakt sein. Entwirf ein Schlichtes Artefakt, das dein Charakter anhand seiner Laborsummen beim Erschaffen herstellen könnte, nach den regulären Regeln für die Konstruktion eines solchen Gegenstands. Vis-Kosten entfallen, da der Parens des Magus diese aus seinen Laborvorräten bereitgestellt hat. Diese Lehrlingsprüfung ist für Haus Verditius üblich, aber auch eine Maga aus einem anderen Haus kann sie als Prüfungsform gewählt haben.
-
-#### Merkurische Magie
-*Groß, Hermetisch*<br>
-Deine magische Abstammung und Tradition stammt von den römischen Priestern des Merkur, die dem Orden des Hermes vorausgingen, was dich besonders im Bereich der Ritualmagie und der gemeinschaftlich genutzten Magie begabt. Zusätzlich zu deiner normalen Zauberzuteilung kennst du auch Zaubervigil (Seite 370) auf einer Stufe, die dem höchsten Ritualsspruch entspricht, den du kennst; und solltest du einen Ritualsspruch höherer Stufe erfinden oder erlernen, erfindest du automatisch einen Zaubervigil-Spruch derselben Stufe, ohne zusätzliche Zeit aufwenden zu müssen.
-
-Wenn du einen Zauber mit Zaubervigil ([Seite 370](#wacht-des-zauberers)) oder anderen Zaubern mit derselben Funktion, wie etwa Zauberkommunion ([Seite 369](#wacht-des-zauberers)), wirkst, darfst du deinen Meisterschaftswert ([Seite 225](#besondere-fähigkeiten-gemeisterter-zauber)) im gewirkten Zauber und deinen Meisterschaftswert in Zaubervigil zur effektiven Stufe des Zaubervigils addieren.
-
-Schließlich haben alle Ritualssprüche, die du wirkst, nur die Hälfte des üblichen Vis-Bedarfs. Falls sie als Teil eines Zaubervigils gewirkt werden, müssen alle Teilnehmer diese Tugend besitzen, um diesen Vorteil zu erlangen.
-
-Alle bekannten Mitglieder des merkurischen Stammbaums haben außerdem den Kleinen Fehler Zeremonielle Spontane Magie.
-
-#### Methodischer Zauberer
-*Klein, Hermetisch*<br>
-Du bist hervorragend im Wirken formulaischer Zauber, da du eine beständige und präzise Methode zu deren Ausführung perfektioniert hast. Du erhältst +3 auf die Zaubersumme jedes formulaischen oder rituellen Zaubers, den du wirkst. Weichst du jedoch auch nur geringfügig von deiner präzisen Methode ab (indem du Gesten oder Aussprache veränderst), erhältst du diesen Bonus nicht.
-
-#### Mindere Immunität
-*Klein, Übernatürlich*<br>
-Du bist immun gegen eine Gefahr, die entweder selten oder nicht tödlich ist – oder beides. Siehe Große Immunität, [Seite 83](#große-immunität).
-
-#### Mindere Macht
-*Klein, Übernatürlich*<br>
-Der Charakter hat eine übernatürliche Kraft, die er nach Belieben aktivieren kann. Dies sind eine oder mehrere Kräfte, die Hermetischen Formulaischen Zaubern mit einer Gesamtstufe von 25 oder weniger entsprechen. Jede Kraft hat eine Initiative, die der Schnelligkeit des Charakters minus dem Doppelten der Kraft-Magnitude entspricht. Das Aktivieren kostet eine Erschöpfungsstufe, wenn ihre Stufe 25 oder darunter liegt, zwei Erschöpfungsstufen bei Stufe 26 bis 50 und so weiter. Beachte, dass Kräfte mit einer Stufe von 26 oder höher mit der Tugend Große Macht weniger Erschöpfung kosten. Du kannst auch Stufen im Verhältnis eins zu eins ausgeben, um der Kraft Penetration zu geben; andernfalls hat sie eine Penetration von null.
-
-Diese Tugend kann mehr als einmal genommen werden, und die Stufen werden zusammengezählt, um mehrere Kräfte zu erschaffen. Zum Beispiel könnte ein Charakter, der die Tugend zweimal genommen hat, eine Kraft mit einer Stufe von 30 und einer Penetration von 0 sowie eine zweite Kraft mit einer Stufe und Penetration von jeweils 10 haben.
-
-Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden sein. Hast du Zugang zu anderen Büchern, wie etwa Mächte der Wirklichkeit: Das Göttliche Überarbeitete Ausgabe, Mächte der Wirklichkeit: Das Infernale, Mächte der Wirklichkeit: Die Feen oder Heckenzauber Überarbeitete Ausgabe, kannst du die Kraft auf ein anderes System übernatürlicher Kräfte basieren, um etwas zu erhalten, das zum Charakter besser passt. Bedenke dabei, dass die Stufenskala für Effekte in verschiedenen Systemen unterschiedlich sein kann, und du möglicherweise die Anzahl der Effektstufen anpassen möchtest. Die Kraft muss mit derselben übernatürlichen Sphäre verbunden sein wie das System, auf dem sie basiert. (Hast du Zugang zu anderen Büchern, möchtest du Kräfte, die auf Hermetischer Magie basieren, vielleicht auf die Magiesphäre beschränken.)
-
-#### Mindere Reinigende Berührung
-*Klein, Übernatürlich*<br>
-Du kannst durch eine Berührung und den Aufwand einer Erschöpfungsstufe eine bestimmte Krankheit heilen. Diese Krankheit sollte eine sein, von der sich Menschen oft von selbst erholen, oder eine, die nicht besonders schwerwiegend ist. Du kannst nur eine Krankheit wählen, keine Verletzung oder sonstige Heimsuchung. Siehe [Seite 406](#krankheiten) für Regeln zu Krankheiten und Art und Academe, [Seite 45](#krankheiten) für weitere Details.
-
-#### Muqta'
-*Groß, Sozialer Status*<br>
-Du bist ein bedeutender Emir, dem ein Iqta' (vergleichbar einem feudalen Lehen) anvertraut wurde. Es gelten alle Regeln für die Tugend Landadliger, außer dass die meisten Muslime die Kleine Status-Tugend Emir nehmen anstatt Ritter.
-
-#### Muse
-*Klein, Übernatürlich*<br>
-Eine Muse besitzt jene seltene Schönheit, die andere dazu anregt, sich zu Würdigem aufzuschwingen. Ein Charakter mit dieser Tugend kann einem einzelnen anderen Charakter Freie Ausdrucksfähigkeit verleihen oder den Effekt der Freien Ausdrucksfähigkeit, die ein einzelner Charakter bereits besitzt, verdoppeln, solange die Muse bei ihm ist. Der Künstler hält die Muse üblicherweise in so hohem Ansehen, dass er das Bedürfnis verspürt, sich ständig zu verbessern – sowohl in der Kunsttechnik als auch als Mensch –, um der Aufmerksamkeit der Muse würdig zu sein. Musen können beiderlei Geschlechts sein und müssen keinen schönen Körper haben.
-
-#### Mystische Choreographie
-*Klein, Hermetisch*<br>
-Die Geschicklichkeit des Magus im Umgang mit Körperhaltung und -bewegung ermöglicht es ihm, die für die Durchführung Zeremonieller Magie benötigte Zeit zu verkürzen. Der Charakter führt Zeremonien gemäß [Seite 217](#zeremonielles-zaubern) durch, benötigt jedoch nur fünf Minuten pro Magnitude. Hat der Charakter einen vorbereiteten Raum, egal wie vorläufig, reduziert sich dies auf eine Minute pro Magnitude.
-
-Diese Tugend ist besonders wichtig für jene Jerbiton-Magi, die das zeremonielle Zaubern einsetzen, um die Abzüge durch das Dominium zu überwinden.
-
-#### Mythisches Blut
-*Groß, Hermetisch*<br>
-Du bist ein Blutsnachkomme entweder eines Zauberers der Legende (möglicherweise eines der Zwölf Gründer oder eines anderen uralten und mächtigen Zauberers) oder eines übernatürlichen Wesens (wie eines Drachen).
-
-Deine potente Gabe bedeutet, dass du keine Erschöpfungsstufen verlierst, wenn deine Zaubersumme die Stufe eines formulaischen Zaubers um zehn Punkte oder weniger verfehlt; du verlierst jedoch Erschöpfung, wenn der Zauber vollständig misslingt. Beim Wirken ritueller Zauber verlierst du drei Erschöpfungsstufen weniger als normal. Das bedeutet, dass du keine Erschöpfungsstufen verlierst, wenn du erfolgreich bist oder um zehn Punkte oder weniger scheiterst. Für das Wirken Spontaner Magie musst du Erschöpfung normal aufwenden, und wenn du einen Formulaischen Zauber nicht wirkst, verlierst du die normale Anzahl an Erschöpfungsstufen.
-
-Außerdem darfst du eine besondere magische Tat wählen, die du nach Belieben auslösen und aufheben kannst, so oft du möchtest. Das Auslösen dieser Tat dauert so lange wie das Schnellzaubern eines Gemeisterten Formulaischen Zaubers (siehe [Seite 213](#formulaische-magie)) und erfordert dasselbe Maß an Konzentration. Der Effekt sollte als nicht-ritueller Hermetischer Effekt entworfen werden, dessen Stufe + Penetration wie folgt begrenzt ist. Die Penetration des Effekts wird nicht durch den Penetrationswert des Magus modifiziert und kann nicht negativ sein, sodass die höchstmögliche Stufe des Effekts 30 beträgt.
-
-| Auslösung                       | Stufe + Penetration |
-| ------------------------------- | ------------------- |
-| Weder Sprechen noch Geste       | 15                  |
-| Geste                           | 20                  |
-| Sprechen                        | 25                  |
-| Sprechen und Geste              | 30                  |
-
-Diese Tugend beinhaltet einen Kleinen Magischen Fokus in einem Bereich, der mit deinem legendären Vorfahren verbunden ist, sowie einen erblichen Kleinen Persönlichkeits-Fehler (beide ohne zusätzliche Kosten). Mythisches Blut ist im Orden des Hermes nicht ungewöhnlich, daher verleiht diese Tugend keine Reputation.
-
-#### Natürlicher Anführer
-*Klein, Allgemein*<br>
-Der Charakter ist eine dominante Persönlichkeit mit einem Auftreten, das andere dazu bringt, zu tun, was er sagt. Sein selbstsicheres Wesen verleiht ihm +3 auf Würfe in sozialen Situationen, in denen er die Führung übernimmt; Menschen folgen eher seinen Befehlen oder tun, was er vorschlägt. Wenn er die Gabe besitzt, kann dieser Bonus vorübergehend dazu beitragen, den sozialen Abzug der Gabe zu überwinden, dank der Stärke seiner dominanten Persönlichkeit.
-
-#### Natursinn
-*Klein, Übernatürlich*<br>
-Du bist auf mystische Weise mit der Natur der Wildnis verbunden. Die Wahl dieser Tugend verleiht die Fertigkeit Natursinn 1 ([Seite 172](#natursinn-1)).
-
-#### Nebeneffekt
-*Klein, Hermetisch*<br>
-Deine Magie hat ein beiläufiges Merkmal, das im Allgemeinen nützlich, gelegentlich aber lästig ist. Die Intensität des Nebeneffekts steigt mit der Stufe des Zaubers. Beispiele sind eine gebietende Präsenz beim Zaubern, die sich in einen vorübergehenden Präsenzbonus von +1 für kurze Zeit nach dem Zaubern übersetzt, oder ein ruhiger Geisteszustand nach dem Zaubern, der für kurze Zeit nach dem Wirken einen Bonus auf Konzentrationswürfe erlaubt.
-
-#### Nebenerkenntnis
-*Klein, Hermetisch*<br>
-Deine Methode des magischen Studiums ist besonders vielseitig. Wenn Du ein Quartal damit verbringst, eine der magischen Techniken aus einem Buch, bei einem Lehrer oder aus rohem Vis zu studieren, erhältst Du außerdem einen einzelnen Erfahrungspunkt in beliebigen 4 Formen Deiner Wahl. Wenn Du eine der magischen Formen studierst, erhältst Du außerdem einen einzelnen Erfahrungspunkt in beliebigen 2 separaten Techniken Deiner Wahl. Du kannst nicht mehr als einen Bonus-Erfahrungspunkt in eine einzelne Kunst einbringen und kannst in jedem Quartal andere Künste für den Bonus-Erfahrungspunkt wählen, selbst wenn Du dieselbe Kunst aus derselben Quelle weiter studierst. Diese Bonus-Erfahrungspunkte werden durch Affinitäten oder andere Faktoren nicht erhöht.
-
-#### Nephilim
-*Frei, Mythischer Gefährte*<br>
-Du bist einer der Nephilim und ein Mythischer Gefährte ([Seite 63](#mythische-gefährten-2)). Du erhältst die Tugend Starkes Engelserbe kostenlos.
-
-#### Nicht alternd
-*Klein, Übernatürlich*<br>
-Du leidest nicht unter den Auswirkungen des Alterns. Im Spielsinne verringern deine Alterungspunkte nicht deine Eigenschaften, sondern häufen sich nur an, um dir Gebrechlichkeitspunkte zu verleihen. Wenn eine Krise nicht potenziell tödlich ist, erleidest du keine nachteiligen Folgen. Du kannst an terminalen und potenziell tödlichen Krisen nach den normalen Regeln sterben. Du wirst nicht hinfällig, wenn du vier Gebrechlichkeitspunkte erreichst, stirbst aber wie üblich, wenn du fünf erreichst. Du kannst dein scheinbares Alter frei wählen, obwohl es, wenn du grundsätzlich menschlich bist, kleiner oder gleich deinem tatsächlichen Alter sein sollte.
-
-#### Notar
-*Klein, Sozialer Status*<br>
-Notare sind Rechtsbeamte im Dienst von Herrschaften oder Städten. Zu deinen Aufgaben gehören das Aufsetzen von Verträgen, das Bezeugen von Urkunden, die Beglaubigung von Transaktionen und Dokumenten sowie das Anbringen eines eigens entworfenen Siegels. Notare erhalten ihr Gehalt von ihrem Arbeitgeber in der Regel zu Weihnachten. Notare haben nur Zuständigkeit in bestimmten Herrschaften oder Städten, etwa der Grafschaft Nîmes oder der Stadt Montpellier. Die Tugend Wohlhabend und der Fehler Arm wirken sich normal auf dich aus. Aufgrund deiner Ausbildung darfst du beim Erschaffen Akademische Fertigkeiten nehmen; Notare dürfen jedoch keine Mitglieder des Klerus sein und unterliegen dem weltlichen Recht.
-
-#### Nuntius
-*Frei, Sozialer Status*<br>
-Der Charakter ist ein Nuntius (Bote), beauftragt, Nachrichten, Post und Geldspenden zwischen Studenten und ihren Familien zu überbringen. Er ist bei einer Universitätsnation angestellt und ist nicht notwendigerweise gebildet. Die Tugend Wohlhabend und der Fehler Arm wirken sich normal auf ihn aus. Der Charakter kann männlich oder weiblich sein, obwohl das Reisen offensichtlich gefährlicher für eine allein reisende Frau ist.
-
-#### Nur einen Moment
-*Klein, Allgemein*<br>
-Ein Charakter mit dieser Tugend, der einige Sekunden Zeit hatte, einen Raum zu überblicken, muss keine Wahrnehmungswürfe ablegen, um etwas Interessantes auf den zugänglichen Oberflächen des Raumes zu entdecken oder sich daran zu erinnern. Manche Charaktere nutzen diese Tugend, um die Anordnung eines Raumes zu erfassen, damit sie ihn im Dunkeln durchqueren können, andere nutzen sie, um beim Stehlen Zeit zu sparen. Charaktere mit dieser Tugend sind auch nützliche Laborassistenten, da sie wissen, wo sich alles befindet, und Experimente bemerken, die kurz vor einem kritischen Versagen stehen.
-
-#### Ordensangehöriger
-*Klein, Sozialer Status*<br>
-Der Charakter ist ein Mönch, eine Nonne, eine Begine, eine Klausnerin oder ein Klausner, ein heiliger Einsiedler oder Ähnliches. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten für den Charakter erwerben. Die Tugend Wohlhabend und der Fehler Arm sind wahrscheinlich nicht angemessen.
-
-Beachte, dass Du für einen Bettelmönch-Charakter stattdessen die Tugend Bettelbruder wählen solltest. Ordensbrüder, die zum Priester geweiht wurden, sollten stattdessen den Sozialen Status Priester wählen. Ältere Mönche und Nonnen sollten stattdessen den Sozialen Status Höherer Klerus besitzen.
-
-#### Partner
-*Groß, Sozialer Status*<br>
-Der Charakter hat einen großen finanziellen Anteil an einem wohlhabenden Handelsunternehmen. Dies sichert dem Charakter ein Einkommen, das dem eines kleinen Adligen entspricht, jedoch ohne militärische Gepflogenheiten. Der Capo des Unternehmens ist seinen Partnern gegenüber rechenschaftspflichtig, und diese dürfen, wenn durchführbar, ihre Gewinne als Dienste von den Kapitänen und Faktoren des Hauses in Anspruch nehmen. Ein Partner darf ohne Erwerb der entsprechenden Tugend in jeder der Rollen des Hauses agieren – außer in der Rolle des Capo –, mit Genehmigung der Spieltruppe. Das heißt, ein Partner, der zugleich Faktor, Handelsabenteurer, lokaler Frachtführer oder städtischer Kaufmann ist, muss diese Tugend nicht kaufen, wenn er diese eine besitzt.
-
-#### Pedell
-*Klein, Sozialer Status*<br>
-Der Charakter ist ein Assistent eines Universitätsdekans. Er ist ein verdienter Stadtbewohner oder Student, der von der Universität angestellt wurde, um das Universitätssignet bei Umzügen zu tragen, Gebühren und Bußgelder einzuziehen, Pflichtbekanntmachungen bei Universitätsversammlungen vorzulesen und Disputationen anzukündigen. Der Charakter kann während der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
-
-#### Perfectus
-*Klein, Sozialer Status*<br>
-Du bist einer der Anführer der Katharer-Häretiker, die hauptsächlich in Südfrankreich zu finden sind. Zu deinen Pflichten gehören das Predigen des Evangeliums, das Enthalten von Fleisch und Milchprodukten, von Sex und Romantik sowie von anderen Handlungen, die dich in der sündigen Welt verstricken. Du solltest normalerweise den Fehler Gelübde nehmen, um deine feierlichen religiösen Verpflichtungen darzustellen. Du darfst die Tugend Wohlhabend nicht nehmen, da du von den Zehnten und Beiträgen deiner Gemeinden unterstützt wirst. Als Häretiker bist du in großer Gefahr seitens der Kirche, die dich hinrichten wird, wenn du gefasst wirst und weigerst, deinen Glauben zu widerrufen. Aufgrund deiner Ausbildung darfst du beim Erschaffen Akademische Fertigkeiten nehmen. Du kannst die Übernatürlichen Fertigkeiten Reinheit und Transzendenz aus *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)* (Seite 53) nehmen, wenn dein Charakter die Tugend Echter Glaube besitzt; dies sind jedoch keine freien Tugenden. Du darfst sie jedoch als Tugenden nehmen, wie normal. Weitere Details zu den Katharern finden sich in *Faith and Flame* ab Seite 13.
-
-> #### Beispiel
->
-> Orlando ist Musiker und Magus und kennt Zauberhaften Gesang und Subtile Magie. Er darf Zauber wirken, während er singt (ohne Abzug für keine Gesten), sein Lautenspiel betreibt oder singt und spielt. Singt oder spielt er leise, erleidet er den normalen Abzug von –5. Er kann Zauber lautlos wirken, aber nur dann, wenn er dabei keinen Zauberhaften Gesang verwendet.
->
-> Sein Freund Furioso, ebenfalls ein Zauberhafter Sänger, fehlt die Subtile Magie. Hat er kein Instrument bei sich, muss er anders als Orlando normale Hermetische Gesten einsetzen oder den Abzug für keine Gesten hinnehmen.
+Der Charakter kann eine oder mehrere makellose Verkleidungen annehmen und dabei sowohl sein äußeres Erscheinungsbild als auch sein Auftreten verändern. Die Wahl dieser Tugend verleiht die Übernatürliche Fertigkeit Persona 1.
 
 #### Persönliche Kraft
 *Klein, Übernatürlich*<br>
@@ -4667,15 +4723,19 @@ ODER
 
 Diese Tugend kann mehrfach gewählt werden, und die Stufen werden addiert, um mehrere Kräfte zu erschaffen. Ein Charakter, der die Tugend zweimal wählt, könnte zum Beispiel eine Kraft mit Stufe 30 und Penetration 0 sowie eine zweite Kraft mit Stufe 10 und Penetration 10 besitzen. Beachte, dass viele Kräfte mit Reichweite Persönlich keinen Penetrationswert benötigen, da sie die Magieresistenz des Wirkenden (falls vorhanden) nicht durchdringen müssen und kein anderes Ziel treffen können. Wenn der Charakter voraussichtlich Wesen mit Magieresistenz beeinflussen möchte, während er unter dem Effekt der Persönlichen Kraft steht, kann Penetration wertvoll sein (weitere Einzelheiten zur Funktionsweise der Penetration findest Du im Kapitel Hermetische Magie).
 
-Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden sein. Wenn Du Zugang zu anderen Büchern hast, wie etwa *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, *Sphären der Macht: Das Infernale*, *Sphären der Macht: Feenwelt* oder *Hedge Magic Revised Edition*, kannst Du die Kraft auf einem anderen System übernatürlicher Kräfte aufbauen, um etwas zu erhalten, das besser zum Charakter passt. Denke dabei daran, dass die Stufenwerte von Effekten bei verschiedenen Systemen auf unterschiedlichen Skalen funktionieren können, und passe die Anzahl der Effektstufen gegebenenfalls an. Die Kraft muss derselben übernatürlichen Sphäre zugeordnet sein wie das System, auf dem sie basiert. (Wenn Du Zugang zu anderen Büchern hast, empfiehlt es sich, Kräfte auf Basis hermetischer Magie auf die Magiesphäre zu beschränken.)
+Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden sein. Wenn Du Zugang zu anderen Büchern hast, wie etwa *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, *Sphären der Macht: Das Infernale*, *Sphären der Macht: Feenwelt* oder *Heckenzauber (Überarbeitete Ausgabe)*, kannst Du die Kraft auf einem anderen System übernatürlicher Kräfte aufbauen, um etwas zu erhalten, das besser zum Charakter passt. Denke dabei daran, dass die Stufenwerte von Effekten bei verschiedenen Systemen auf unterschiedlichen Skalen funktionieren können, und passe die Anzahl der Effektstufen gegebenenfalls an. Die Kraft muss derselben übernatürlichen Sphäre zugeordnet sein wie das System, auf dem sie basiert. (Wenn Du Zugang zu anderen Büchern hast, empfiehlt es sich, Kräfte auf Basis hermetischer Magie auf die Magiesphäre zu beschränken.)
 
 #### Persönliche Vis-Quelle
 *Klein, Hermetisch*<br>
 Du hast exklusiven Zugang zu einer Versorgung mit rohem Vis. Lege Menge und Art in Absprache mit Deiner Spieltruppe fest; der Ertrag sollte etwa ein Zehntel dessen betragen, was der Spielerkonvent zu Beginn der Saga jährlich zu gewinnen erwartet. Der Ertrag Deiner Quelle verändert sich im Laufe der Zeit normalerweise nicht, selbst wenn der Konvent neue Quellen erschließt.
 
-#### Persona
-*Klein, Übernatürlich*<br>
-Der Charakter kann eine oder mehrere makellose Verkleidungen annehmen und dabei sowohl sein äußeres Erscheinungsbild als auch sein Auftreten verändern. Die Wahl dieser Tugend verleiht die Übernatürliche Fertigkeit Persona 1.
+#### Arzt von Salerno
+*Klein, Allgemein*<br>
+Der Charakter hat die berühmte Schule von Salerno besucht, die bedeutendste Stätte medizinischen Wissens. Er trägt nicht nur die Reputation der Schule mit sich (was ihm die Reputation Arzt von Salerno 2 verleiht), sondern hat auch einzigartige medizinische Verfahren erlernt, wie etwa die Zubereitung von Betäubungsmitteln. Diese Tugend gewährt zusätzliche 50 Erfahrungspunkte, die für Medizin, Philosophiae und medizinische Formeln ausgegeben werden können (sofern Du die Regeln aus *Kunst & Gelehrsamkeit*, Kapitel Fünf verwendest). Um diese Tugend zu wählen, musst Du Akademische Fertigkeiten erlernen dürfen.
+
+#### Durchdringender Blick
+*Klein, Allgemein*<br>
+Wenn Du Menschen eindringlich anschaust, vermittelst Du ihnen das unbehagliche Gefühl, als würdest Du in ihre Seelen blicken. Personen mit Hintergedanken, schlechtem Gewissen oder einer verlogenen Zunge müssen Würfe gegen eine angemessene Persönlichkeitseigenschaft, Täuschung oder was der Spielleiter für geeignet hält ablegen, um ruhig zu bleiben. Außerdem erhältst Du einen Bonus von +3 auf Würfe, die Einschüchterung beinhalten. Feen und Dämonen lässt Deine Kraft unbeeindruckt.
 
 #### Potente Magie
 *Klein oder Groß, Hermetisch*<br>
@@ -4719,6 +4779,20 @@ Eine Maga mit Potenter Magie kann außerdem neue Potente Zauber innerhalb ihres 
 >
 > Darüber hinaus kann ein Magus, der einen Zauber innerhalb seines Bereichs der Potenten Magie kennt, eine Variante des Zaubers mit anderen Zauberobjekten erfinden (einschließlich einer Variante ohne Zauberobjekte). Wenn der einzige Unterschied eine Änderung der Zauberobjekte ist, kann er die Variante so erfinden, als ob er im Besitz eines Labortexts wäre. Sollte seine aktuelle Laborsumme aus irgendeinem Grund unter der Stufe des Zaubers liegen, kann er die Variante dennoch in einem einzigen Quartal erfinden.
 
+#### Mächtiges Relikt
+*Groß, Allgemein*<br>
+Du besitzt ein ungewöhnlich mächtiges Relikt mit einem Wahren-Glauben-Wert von 3. Das Relikt besitzt außerdem eine Kraft, die in Absprache mit dem Spielleiter festgelegt werden sollte (siehe Relikte, [Seite 419](#reliquien)). Wie bei der Kleinen Allgemeinen Tugend Relikt kann der Gegenstand in jeden anderen Gegenstand eingebaut werden, den Du besitzt, etwa in ein Schwert oder ein Amulett.
+
+Ein so mächtiges Relikt zu besitzen ist eine große Verantwortung, und Dein Charakter sollte sich entsprechend verhalten. Wenn Du Dich jemals gottlos verhältst (nach Beurteilung des Spielleiters), hört das Relikt auf zu funktionieren, bis angemessene Buße geleistet wurde.
+
+#### Vorahnungen
+*Klein, Übernatürlich*<br>
+Du spürst intuitiv, wann etwas nicht stimmt oder in Kürze schiefgehen wird. Die Wahl dieser Tugend verleiht die Fertigkeit Vorahnungen 1 ([Seite 170](#vorahnungen-1)).
+
+#### Angesehener Student
+*Allgemein, Klein*<br>
+Der Charakter ist der Sohn eines Adligen oder eines wohlhabenden Kaufmanns und an einer Universität eingeschrieben, die auf Zivilrecht oder Medizin spezialisiert ist. Er hat eine kleine Gruppe von Bediensteten bei sich – zwei oder drei Diener, die ihm an der Universität zur Hand gehen. Er wurde von einem Privatlehrer in Artes Liberales und Latein unterrichtet und kann bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Der Charakter muss eine Tugend des Sozialen Status wählen, um seinen Stand im Bildungsweg widerzuspiegeln.
+
 #### Priester
 *Klein, Sozialer Status*<br>
 Du wurdest zum Priester geweiht, was bedeutet, dass Du die Sakramente der Messe, der Beichte und der Letzten Ölung vollziehen kannst. Durch Deine Worte kannst Du den Sohn Gottes in Brot und Wein erscheinen lassen. Als Priester bist Du dem Schutz des Kirchenrechts unterstellt und kannst nicht von weltlichen Behörden verfolgt werden. Dir wird aufgrund Deiner Stellung beträchtlicher Respekt entgegengebracht, und nur wenige Menschen sind bereit, Dich zu beleidigen.
@@ -4733,9 +4807,23 @@ Du kannst bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Wenn D
 *Klein, Allgemein*<br>
 Du bist in einer Umgebung aufgewachsen, in der Du Zugang zu Lehrern und Freizeit zum Lernen hattest. Du erhältst zusätzliche 50 Erfahrungspunkte, die für Allgemeine, Akademische oder Kampf-Fertigkeiten ausgegeben werden können. Du kannst jedoch Akademische oder Kampf-Fertigkeiten nicht mit Deinem normalen Erfahrungspunkte-Vorrat erwerben, sofern Du keine andere Tugend oder keinen anderen Fehler hast, der dies erlaubt. Der häufigste Grund für diese Tugend ist, dass Deine Familie in Deiner Kindheit wohlhabend war; bist Du jedoch jetzt wohlhabend, solltest Du die Tugend Wohlhabend wählen ([Seite 115](#wohlhabend)).
 
-#### Quell des Wissens
-*Klein, Übernatürlich*<br>
-Du hast übernatürlichen Zugang zu Informationen, die du nie erlernt hast. Diese Tugend verleiht dir die Fertigkeit Quell des Wissens 1.
+#### Schutz
+*Klein, Allgemein*<br>
+Du stehst unter der Schirmherrschaft einer mächtigen Person, normalerweise eines Adligen oder eines hochrangigen Kirchenwürdenträgers (andere Möglichkeiten sind denkbar, sofern der Spielleiter zustimmt). Wer von Deinem bevorzugten Status weiß, behandelt Dich mit Vorsicht; wer es nicht weiß, zahlt oft den Preis. Du hast eine Reputation (gut oder schlecht, nach Deiner Wahl) von Stufe 3, die höher sein kann, wenn Dein Beschützer besonders bedeutend oder bekannt ist.
+
+#### Begabung in (Fertigkeit)
+*Klein, Allgemein*<br>
+Du bist in einer bestimmten Fertigkeit besonders geschickt und addierst 2 zu ihrem Wert, wann immer Du sie einsetzt. Beachte, dass Du eine Fertigkeit im Allgemeinen nicht einsetzt, wenn Du sie lernst, über sie schreibst oder jemandem hilfst, sie zu verbessern. Du kannst diese Tugend für eine bestimmte Fertigkeit nur einmal wählen, aber für verschiedene Fertigkeiten mehrfach.
+
+#### Begabung in (Kunst)
+*Klein, Hermetisch*<br>
+Du addierst 3 zum Wert einer Kunst, wann immer Du sie einsetzt. Das bedeutet alle Summen, in denen der Wert der Kunst Teil der Summe ist. Es gilt nicht beim Lernen, Unterrichten oder Schreiben über die Kunst. Du kannst diese Tugend zweimal wählen, für zwei verschiedene Künste. Wenn ein Zauber Requisiten hat, beziehe den Bonus aus Begabung in (Kunst) mit dieser Kunst ein, wenn Du berechnest, welche Kunst höher ist. Wenn die Kunst mit Begabung höher ist, gilt der Bonus nicht für das Requisit.
+
+#### Stille Magie
+*Klein, Hermetisch*<br>
+Du kannst Zauber ohne Abzug mit nur leiser Stimme wirken und erhältst nur einen Abzug von –5, wenn Du überhaupt nicht sprichst. Du erhältst keinen Vorteil davon, Deine Stimme normal einzusetzen, aber Du erhältst den normalen Bonus für den Einsatz einer schallenden Stimme. Die Reichweite von Zaubern mit Reichweite Stimme wird normal bestimmt, abhängig davon, wie laut Deine Stimme ist.
+
+Du kannst diese Tugend zweimal wählen und den Abzug vollständig eliminieren.
 
 #### Rabbi
 *Klein, Sozialer Status*<br>
@@ -4743,43 +4831,13 @@ Dein Charakter ist ein ordinierter Rabbi, ein Lehrer und weiser Mann der jüdisc
 
 Der Rabbi muss die Tugend Gebildet (Hebräisch) wählen, um die erforderlichen Akademischen Fertigkeiten zu erhalten. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
 
+#### Schnelle Genesung
+*Klein, Allgemein*<br>
+Dein Körper kann schnell heilen. Du erhältst einen Bonus von +3 auf alle Würfe zur Erholung von Wunden.
+
 #### Ratte im Abflussrohr
 *Klein, Allgemein*<br>
 Durch eine Mischung aus Akrobatik, Klettern und Ausweichen kann dieser Charakter durch städtische Gebiete laufen, als ob er ungehindert wäre. Dies verschafft einen erheblichen Vorteil bei gegnerischen Athletik-Würfen, die eine Verfolgungsjagd darstellen.
-
-#### (Land-)Regio-Netz
-*Klein, Übernatürlich*<br>
-Der Charakter hat Zugang zu einem ausgedehnten Netz von Regiones, die sich vielleicht in den Tiefen vieler Seen im Mythischen Europa befinden, hoch über den Wolken am Himmel verborgen sind oder in unterirdischen Höhlen unter der Erde liegen. Der Charakter ist mit einer bestimmten Art von Regio-Netz verbunden.
-
-Sobald der Charakter sich in einer solchen Regio befindet, kann er zu jeder anderen Regio im Netz reisen; die Reisezeit beträgt einen Durchmesser, unabhängig von der geografischen Entfernung. Um festzustellen, ob der Charakter den Standort einer vernetzten Regio in einem bestimmten Gebiet kennt, wird ein Intelligenz + Gebietskunde-Wurf gegen einen Schwierigkeitsgrad von 9 vorgenommen. Der Charakter weiß, wie man diese Regiones betritt, und kann, wenn er möchte, andere Charaktere in die Regiones führen – obwohl diese anderen Charaktere in der Lage sein müssen, in der Umgebung der Regio zu überleben.
-
-Der Zugang zum Netz kann letztlich von anderen Charakteren oder Mächten kontrolliert werden.
-
-#### Relikt
-*Klein, Allgemein*<br>
-Du besitzt ein heiliges Relikt, etwa den Fingerknöchelknochen eines Heiligen, mit einem Wahren-Glauben-Wert von 1. Es kann in jeden anderen Gegenstand eingebaut werden, den Du besitzt (zum Beispiel ein Schwert). Das Relikt besitzt keine zusätzlichen Kräfte. Regeln für Relikte und Wahren Glauben findest Du in Kapitel 12: Sphären.
-
-#### Riesenblut
-*Groß, Allgemein*<br>
-Das Blut der alten Rassen der Riesen fließt in deinen Adern. Obwohl du nicht so groß bist wie deine Vorfahren, kannst du bis zu acht Fuß groß werden und bis zu 500 Pfund wiegen. Deine Größe beträgt +2, sodass du Wunden in Schritten von 7 Punkten erleidest, anstatt der üblichen 5 (siehe [Seite 404](#zierlicher-körperbau)). Du erhältst außerdem +1 sowohl auf Stärke als auch auf Ausdauer. Dieser Bonus kann deine Werte in diesen Eigenschaften auf bis zu +6 anheben. Du kannst diese Tugend nicht zusammen mit Großgewachsen ([Seite 89](#wunden)), Zierlicher Körperbau ([Seite 145](#zwerg)) oder Zwerg ([Seite 126](#großgewachsen)) nehmen.
-
-#### Ritter
-*Klein, Sozialer Status*<br>
-Du bist ein Ritter, ein Angehöriger des Adels und einer der Elitekrieger Europas. Sofern du nicht Arm bist, darfst du hochwertige Waffen und Rüstungen sowie ein Pferd besitzen. Typische Ausrüstung eines Ritters Mitte des 13. Jahrhunderts sind Lanze, Schwert, Dreieckschild, vollständige Kettenrüstung und ein Streitross. Du kannst bei der Charaktererschaffung Kampffertigkeiten nehmen. Die Tugend Wohlhabend und der Fehler Arm betreffen dich normal. Diese Tugend steht nur männlichen Charakteren zur Verfügung und ist kompatibel mit der Tugend Landadliger.
-
-#### Ritualmacht
-*Groß, Übernatürlich*<br>
-Der Charakter besitzt eine übernatürliche Kraft, die er nach Belieben aktivieren kann. Es handelt sich um eine einzelne Kraft, die einem rituellen hermetischen Zauber mit einer Stufe von 25 oder weniger entspricht. Die Initiative der Kraft entspricht der Schnelligkeit des Charakters – (zweifache Magnitude der Kraft). Sie kostet eine Erschöpfungsstufe zur Aktivierung, wenn ihre Stufe 25 oder weniger beträgt, zwei Erschöpfungsstufen bei Stufe 26 bis 50 und so weiter. Außerdem musst Du für jede Magnitude des Effekts einen Selbstvertrauenspunkt ausgeben. Du kannst darüber hinaus Stufen im Verhältnis eins zu eins aufwenden, um der Kraft Penetration zu verleihen; andernfalls hat sie eine Penetration von null.
-
-Diese Tugend kann mehrfach gewählt werden, und die Stufen werden addiert, um mehrere Kräfte oder eine einzige stärkere Kraft zu erschaffen.
-
-Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden sein. Wenn Du Zugang zu anderen Büchern hast, wie etwa *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, *Sphären der Macht: Das Infernale*, *Sphären der Macht: Feenwelt* oder *Hedge Magic Revised Edition*, kannst Du die Kraft auf einem anderen System übernatürlicher Kräfte aufbauen, um etwas zu erhalten, das besser zum Charakter passt. Denke dabei daran, dass die Stufenwerte von Effekten bei verschiedenen Systemen auf unterschiedlichen Skalen funktionieren können, und passe die Anzahl der Effektstufen gegebenenfalls an. Die Kraft muss derselben übernatürlichen Sphäre zugeordnet sein wie das System, auf dem sie basiert. (Wenn Du Zugang zu anderen Büchern hast, empfiehlt es sich, Kräfte auf Basis hermetischer Magie auf die Magiesphäre zu beschränken.)
-
-#### Rosh Beth Din
-*Groß, Sozialer Status*<br>
-Der Rosh Beth Din, oder Vorsitzender des Gerichts, führt den Vorsitz am rabbinischen Gericht Beth Din. Dein Charakter muss mindestens (30 – Int) Jahre alt sein, um diese Tugend wählen zu können, und muss mindestens einen Wert von 5 in Hebräisch, Rabbinisches Recht und Theologie: Judentum haben. Dein Charakter kann bei der Charaktererschaffung Akademische Fertigkeiten erwerben und erhält 50 zusätzliche Erfahrungspunkte, die für die erforderlichen Fertigkeiten ausgegeben werden müssen.
-
-Der Rosh Beth Din erhält die gute Reputation Rosh Beth Din +2, die in seinem gesamten Land gilt. Diese Tugend beinhaltet auch die Effekte der Tugend Soziale Kontakte, und Du kannst innerhalb jeder jüdischen Gemeinschaft, die eine Jeschiwa unterhält, Kontakte finden. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
 
 #### Rotkappe
 *Groß, Sozialer Status*<br>
@@ -4791,9 +4849,87 @@ Diese Stufen sind grundsätzlich auf zwei oder mehr Effekte aufgeteilt, die für
 
 Du wirst von Deinem Konvent versorgt, daher kannst Du weder die Tugend Wohlhabend noch den Fehler Arm wählen. Du darfst nicht die Gabe besitzen. Du musst zwei Quartale pro Jahr damit verbringen, Nachrichten für den Orden zu überbringen. Deine anderen zwei Quartale sind jedoch wirklich frei, und Du kannst tun, was Du möchtest. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung.
 
-#### Sanfte Gabe
-*Groß, Hermetisch*<br>
-Im Gegensatz zu anderen Magi, deren magische Natur normale Menschen und Tiere beunruhigt, ist deine Gabe subtil und still. Du leidest nicht unter den üblichen Abzügen im Umgang mit Menschen und Tieren.
+#### Relikt
+*Klein, Allgemein*<br>
+Du besitzt ein heiliges Relikt, etwa den Fingerknöchelknochen eines Heiligen, mit einem Wahren-Glauben-Wert von 1. Es kann in jeden anderen Gegenstand eingebaut werden, den Du besitzt (zum Beispiel ein Schwert). Das Relikt besitzt keine zusätzlichen Kräfte. Regeln für Relikte und Wahren Glauben findest Du in Kapitel 12: Sphären.
+
+#### Ordensangehöriger
+*Klein, Sozialer Status*<br>
+Der Charakter ist ein Mönch, eine Nonne, eine Begine, eine Klausnerin oder ein Klausner, ein heiliger Einsiedler oder Ähnliches. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten für den Charakter erwerben. Die Tugend Wohlhabend und der Fehler Arm sind wahrscheinlich nicht angemessen.
+
+Beachte, dass Du für einen Bettelmönch-Charakter stattdessen die Tugend Bettelbruder wählen solltest. Ordensbrüder, die zum Priester geweiht wurden, sollten stattdessen den Sozialen Status Priester wählen. Ältere Mönche und Nonnen sollten stattdessen den Sozialen Status Höherer Klerus besitzen.
+
+#### Kraftreserven
+*Klein, Allgemein*<br>
+Einmal pro Tag kannst Du in der Not eine außergewöhnliche Kraftleistung vollbringen. Für die Dauer der Handlung addierst Du +3 zu Deinem effektiven Stärkewert. Danach musst Du jedoch zwei Erschöpfungswürfe ablegen.
+
+#### Aufschlitzer
+*Klein, Übernatürlich*<br>
+Ein Aufschlitzer besitzt zwei Kräfte. Er kann auf Sichtweite, ohne Worte oder Gesten, durch Aufwenden einer Erschöpfungsstufe ein einzelnes Stück Stoff zerstören oder ein einzelnes Tier ausweiden. Es handelt sich um einen PeAn(He)-25-Effekt und einen PeAn-45-Effekt, jeder mit Penetration +0. Beachte, dass diese Beschreibung bewusst einschränkend ist: Ein Aufschlitzer kann einem Pferd kein Bein brechen oder es erblinden lassen. Er kann kein Seil durchtrennen. Er kann Dinge nicht mit seinem Geist sauber aufschneiden. Der Aufschlitzer hat zwei völlig unveränderliche Effekte.
+
+#### Ritualmacht
+*Groß, Übernatürlich*<br>
+Der Charakter besitzt eine übernatürliche Kraft, die er nach Belieben aktivieren kann. Es handelt sich um eine einzelne Kraft, die einem rituellen hermetischen Zauber mit einer Stufe von 25 oder weniger entspricht. Die Initiative der Kraft entspricht der Schnelligkeit des Charakters – (zweifache Magnitude der Kraft). Sie kostet eine Erschöpfungsstufe zur Aktivierung, wenn ihre Stufe 25 oder weniger beträgt, zwei Erschöpfungsstufen bei Stufe 26 bis 50 und so weiter. Außerdem musst Du für jede Magnitude des Effekts einen Selbstvertrauenspunkt ausgeben. Du kannst darüber hinaus Stufen im Verhältnis eins zu eins aufwenden, um der Kraft Penetration zu verleihen; andernfalls hat sie eine Penetration von null.
+
+Diese Tugend kann mehrfach gewählt werden, und die Stufen werden addiert, um mehrere Kräfte oder eine einzige stärkere Kraft zu erschaffen.
+
+Diese Tugend kann mit jeder übernatürlichen Sphäre verbunden sein. Wenn Du Zugang zu anderen Büchern hast, wie etwa *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, *Sphären der Macht: Das Infernale*, *Sphären der Macht: Feenwelt* oder *Heckenzauber (Überarbeitete Ausgabe)*, kannst Du die Kraft auf einem anderen System übernatürlicher Kräfte aufbauen, um etwas zu erhalten, das besser zum Charakter passt. Denke dabei daran, dass die Stufenwerte von Effekten bei verschiedenen Systemen auf unterschiedlichen Skalen funktionieren können, und passe die Anzahl der Effektstufen gegebenenfalls an. Die Kraft muss derselben übernatürlichen Sphäre zugeordnet sein wie das System, auf dem sie basiert. (Wenn Du Zugang zu anderen Büchern hast, empfiehlt es sich, Kräfte auf Basis hermetischer Magie auf die Magiesphäre zu beschränken.)
+
+#### Rosh Beth Din
+*Groß, Sozialer Status*<br>
+Der Rosh Beth Din, oder Vorsitzender des Gerichts, führt den Vorsitz am rabbinischen Gericht Beth Din. Dein Charakter muss mindestens (30 – Int) Jahre alt sein, um diese Tugend wählen zu können, und muss mindestens einen Wert von 5 in Hebräisch, Rabbinisches Recht und Theologie: Judentum haben. Dein Charakter kann bei der Charaktererschaffung Akademische Fertigkeiten erwerben und erhält 50 zusätzliche Erfahrungspunkte, die für die erforderlichen Fertigkeiten ausgegeben werden müssen.
+
+Der Rosh Beth Din erhält die gute Reputation Rosh Beth Din +2, die in seinem gesamten Land gilt. Diese Tugend beinhaltet auch die Effekte der Tugend Soziale Kontakte, und Du kannst innerhalb jeder jüdischen Gemeinschaft, die eine Jeschiwa unterhält, Kontakte finden. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
+
+#### In der Kriminalität geschult
+*Klein, Allgemein*<br>
+Der Charakter wurde ausgiebig in kriminellen Künsten ausgebildet und erhält 50 zusätzliche Erfahrungspunkte für Fertigkeiten, die mit Diebstahl in Verbindung stehen. Gebietskundearten, Athletik, Wahrnehmung, Feilschen, Raufen, Charme, Täuschung, Fingerfertigkeit und Schleichen sind alle geeignet; andere Fertigkeiten können mit Zustimmung der Spieltruppe zu dieser Liste hinzugefügt werden.
+
+#### Zweites Gesicht
+*Klein, Übernatürlich*<br>
+Du kannst durch illusorische Verbergung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und kannst außerdem von Natur aus unsichtbare Dinge erkennen, wie Geister und die Grenzen zwischen Regio-Ebenen (siehe [Seite 421](#regiones-betreten-und-verlassen)). Die Wahl dieser Tugend verleiht die Fertigkeit Zweites Gesicht 1 ([Seite 170](#zweites-gesicht-1)).
+
+#### Nebenerkenntnis
+*Klein, Hermetisch*<br>
+Deine Methode des magischen Studiums ist besonders vielseitig. Wenn Du ein Quartal damit verbringst, eine der magischen Techniken aus einem Buch, bei einem Lehrer oder aus rohem Vis zu studieren, erhältst Du außerdem einen einzelnen Erfahrungspunkt in beliebigen 4 Formen Deiner Wahl. Wenn Du eine der magischen Formen studierst, erhältst Du außerdem einen einzelnen Erfahrungspunkt in beliebigen 2 separaten Techniken Deiner Wahl. Du kannst nicht mehr als einen Bonus-Erfahrungspunkt in eine einzelne Kunst einbringen und kannst in jedem Quartal andere Künste für den Bonus-Erfahrungspunkt wählen, selbst wenn Du dieselbe Kunst aus derselben Quelle weiter studierst. Diese Bonus-Erfahrungspunkte werden durch Affinitäten oder andere Faktoren nicht erhöht.
+
+#### Im Dunkeln sehen
+*Klein, Übernatürlich*<br>
+Du kannst in vollständiger Dunkelheit sehen. Ansonsten ist Dein Sehvermögen nicht schärfer als das normaler Menschen, und Du siehst nicht weiter als normale Menschen bei Tageslicht sehen würden.
+
+#### Selbstbewusst
+*Klein, Allgemein*<br>
+Du hast festes Vertrauen in Deine eigenen Fähigkeiten und besitzt einen Selbstvertrauenswert von 2. Außerdem beginnst Du mit fünf Selbstvertrauenspunkten statt der üblichen drei. (Selbstvertrauen-Regeln findest Du auf [Seite 52](#reputationen-1).)
+
+#### Älterer Barde
+*Klein, Sozialer Status*<br>
+Der Charakter hat fünf oder sechs Jahre an einer Bardenschule verbracht und ist entsprechend als Cano oder Cli eingestuft. Der Charakter besitzt eine Lokale Reputation von 2, die seinen Ruhm als Geschichtenerzähler widerspiegelt.
+
+Der Charakter hat ein Mindestalter von 22 Jahren, und Du kannst bei der Charaktererschaffung Erfahrungspunkte für jede Sphärenkunde ausgeben, auch wenn Du andernfalls keine Arkanen Fertigkeiten erwerben könntest. Der Charakter sollte mindestens eine Gebiets-, Sphären- oder Organisationskunde mit einem Wert von 5 haben und erhält 90 zusätzliche Erfahrungspunkte für Gedächtniskunst, Beruf: Geschichtenerzähler, Beruf: Dichter, jede Gebietskunde, jede Organisationskunde, Feenkunde oder Magiekunde. Dieser Sozialer Status ist nur in Hibernia verfügbar.
+
+#### Höherer Klerus
+*Groß, Sozialer Status*<br>
+Der Charakter ist ein Erzbischof, Bischof, Abt, eine Äbtissin oder ein anderes höheres Mitglied der Kirche. Er hat Zugang zu den Ressourcen der Kirche und verfügt möglicherweise über zusätzliche Pflichten und Befugnisse gemäß seinem Amt.
+
+Du kannst entweder die Tugend Wohlhabend oder den Fehler Arm für den Charakter wählen. Dies spiegelt nicht zwingend den Status der Diözese des Charakters wider, sondern den persönlichen Reichtum des Charakters. Höherer Klerus kann Reichtum anhäufen, indem er das Benefizium mehrerer Ämter erhält. Es ist tatsächlich nicht ungewöhnlich, dass ein Charakter das Benefizium aus verschiedenen Pfarreien in ganz Mythischen Europa erhält. Er mag manche der Diözesen, in denen sich seine Pfarreien befinden, nicht einmal besuchen, obwohl der Charakter offensichtlich einen Kaplan beschäftigen muss, um die tatsächlichen priesterlichen Pflichten in diesen entlegenen Pfarreien zu übernehmen.
+
+Der Charakter hat eine Reputation von Stufe 4, entweder gut oder schlecht, sowohl in der lokalen Gemeinschaft als auch in der Kirche.
+
+Du kannst bei der Charaktererschaffung Akademische Fertigkeiten für den Charakter erwerben.
+
+Höherer Klerus unterliegt dem Kirchenrecht und muss zölibatär und tonsuriert (wenn männlich) sein. Vermerke, ob der Charakter zum Diakon, Priester, Bischof usw. geweiht wurde. Äbtissin ist die einzige häufige Stellung, die Frauen mit dieser Tugend zugänglich ist, und selbst solche Frauen werden nicht geweiht. Die Tugend Erkaufte Rechte befähigt Frauen nicht, eine der anderen Stellungen einzunehmen.
+
+#### Älterer Meister
+*Groß, Sozialer Status*<br>
+Der Charakter ist seit einigen Jahren ein wohlhabender Zunftmeister und hat eine Autoritätsstellung in seiner Zunft erreicht. Er kennt die Zunftangelegenheiten und beteiligt sich an der Selbstverwaltung der Zunft. Er kann mehrere Werkstätten besitzen und eine große Anzahl von Arbeitern beschäftigen. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten erwerben.
+
+#### Heiligkeit und Unheiligkeit spüren
+*Klein, Übernatürlich*<br>
+Du kannst die Anwesenheit von Gut und Böse spüren. In Auren von besonders starkem göttlichem oder infernalen Einfluss kann Deine Sensibilität Dich überwältigen. Die Wahl dieser Tugend verleiht die Fertigkeit Gespür für Heiliges und Unheiliges 1 ([Seite 170](#gespür-für-heiliges-und-unheiliges)).
+
+#### Leidenschaften spüren
+*Groß, Übernatürlich*<br>
+Der Charakter kann in die Herzen und Gedanken anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erkennen. Dies verleiht ihr die Übernatürliche Fertigkeit Gespür für Leidenschaft mit Wert 1 ([Seite 170](#gespür-für-leidenschaft)).
 
 #### Schadchen
 *Klein, Sozialer Status*<br>
@@ -4807,45 +4943,51 @@ Der Schamasch ist der Diener der Synagoge und für ihr Wohlergehen verantwortlic
 
 Als Schamasch muss der Charakter die Tugend Gebildet (Hebräisch) besitzen.
 
+#### Gestaltwandler
+*Groß, Übernatürlich*<br>
+Du kannst Deine Gestalt in die eines oder mehrerer gewöhnlicher Tiere verwandeln. Die Wahl dieser Tugend verleiht die Fertigkeit Gestaltwandler 1 ([Seite 171](#gestaltwandler-1)).
+
 #### Scharfe Ohren
 *Klein, Allgemein*<br>
 Du hörst besser als die meisten Menschen. Du erhältst einen Bonus von +3 auf alle Würfe, die das Hören beinhalten.
 
-#### Scharfe Sicht
-*Klein, Allgemein*<br>
-Du kannst weiter und klarer sehen als die meisten. Du erhältst einen +3-Bonus auf alle Würfe, die das Sehen beinhalten, ausgenommen Angriffe mit Fernkampfwaffen.
-
-#### Schmiedegefährte
-*Klein, Sozialer Status*<br>
-Der Charakter ist ein unBegabter Handwerker, der einem Verditius-Magus angegliedert ist und für ihn in seinem Labor arbeitet. Du erhältst 50 zusätzliche Erfahrungspunkte, die du verwenden kannst, um die spezifischen Handwerke zu steigern, die sein Meister ausübt. Als Mitglied seines Haushalts genießt sie Schutz und Unterstützung, aber sie ist nicht durch irgendein rechtliches Regelwerk des Ordens des Hermes geschützt.
-
-#### Schnelle Genesung
-*Klein, Allgemein*<br>
-Dein Körper kann schnell heilen. Du erhältst einen Bonus von +3 auf alle Würfe zur Erholung von Wunden.
-
-#### Schneller Zauberer
+#### Nebeneffekt
 *Klein, Hermetisch*<br>
-Deine Magie erfordert weniger Zeit als die anderer Magi. Du erhältst +3 auf Initiative zum Zaubern im Kampf und +3 auf Würfe zur Bestimmung der Schnellzauber-Geschwindigkeit.
+Deine Magie hat ein beiläufiges Merkmal, das im Allgemeinen nützlich, gelegentlich aber lästig ist. Die Intensität des Nebeneffekts steigt mit der Stufe des Zaubers. Beispiele sind eine gebietende Präsenz beim Zaubern, die sich in einen vorübergehenden Präsenzbonus von +1 für kurze Zeit nach dem Zaubern übersetzt, oder ein ruhiger Geisteszustand nach dem Zaubern, der für kurze Zeit nach dem Wirken einen Bonus auf Konzentrationswürfe erlaubt.
 
-#### Schutz
-*Klein, Allgemein*<br>
-Du stehst unter der Schirmherrschaft einer mächtigen Person, normalerweise eines Adligen oder eines hochrangigen Kirchenwürdenträgers (andere Möglichkeiten sind denkbar, sofern der Spielleiter zustimmt). Wer von Deinem bevorzugten Status weiß, behandelt Dich mit Vorsicht; wer es nicht weiß, zahlt oft den Preis. Du hast eine Reputation (gut oder schlecht, nach Deiner Wahl) von Stufe 3, die höher sein kann, wenn Dein Beschützer besonders bedeutend oder bekannt ist.
-
-#### Schutzengel
-*Groß, Allgemein*<br>
-Du hast gelernt, die Worte eines göttlichen Wächters zu vernehmen, der dir praktische und spirituelle Ratschläge erteilt. Der Engel flüstert dir ins Ohr und sagt dir, was geistlich – und nicht materiell – das Beste für dich ist. Er billigt Gewalt nur, wenn ein heiliger Grund vorliegt, was oft schwer zu belegen ist. Handelst du gegen den Rat des Engels, kann er dich verlassen, bis du deinen Weg korrigiert hast. Der Engel hat nur ein begrenztes Bewusstsein von deinen Gedanken, doch wenn du laut sprichst, kann er hören und sich mit dir unterhalten.
-
-Dein Schutzengel kann auch auf zwei praktische Weisen helfen. Erstens kann er dir einen Bonus von +5 auf die Absorption gewähren. Zweitens kann er dir eine Magieresistenz von 15 verleihen. Diese Magieresistenz ist nicht mit der Parma Magica eines Magus oder der Magieresistenz aus den meisten anderen Quellen vereinbar, addiert sich jedoch zur Magieresistenz, die aus Glaubenspunkten resultiert (siehe Seite 419). Der Engel gewährt dir diese Boni nur, wenn du im Einklang mit Gottes Willen handelst.
-
-#### Selbstbewusst
-*Klein, Allgemein*<br>
-Du hast festes Vertrauen in Deine eigenen Fähigkeiten und besitzt einen Selbstvertrauenswert von 2. Außerdem beginnst Du mit fünf Selbstvertrauenspunkten statt der üblichen drei. (Selbstvertrauen-Regeln findest Du auf [Seite 52](#reputationen-1).)
-
-#### Söldnerhauptmann
+#### Einfacher Student
 *Klein, Sozialer Status*<br>
-Du führst eine kleine Söldnertruppe (5 bis 10 Mann), die dem Meistbietenden gedungen wird. Du ähnelst einem fahrenden Ritter, jedoch ohne dessen Prestige. Auf deinen Reisen hast du großen Reichtum angehäuft – und ihn mehrfach wieder vergeudet. Du darfst beim Erschaffen Kampffertigkeiten nehmen.
+Der Charakter ist ein Universitätsstudent, der noch keinen Abschluss erworben hat. Er ist typischerweise zwischen 14 und 16 Jahre alt und irgendwo in seinem Universitätsprogramm. Er erhält 30 Erfahrungspunkte pro abgeschlossenem Jahr, die er für Latein oder Artes Liberales aufwenden kann. Hat er sein zweites Studienjahr abgeschlossen, befindet er sich in der Übergangssituation, entweder Arbeit zu suchen oder seine Ausbildung fortzusetzen. Weibliche Charaktere können diese Tugend nur wählen, wenn sie in Salerno Medizin studieren, obwohl die Tugend Erkaufte Rechte ihnen erlauben würde, diese Tugend auch anderswo zu wählen. An anderen Universitäten könnten sie jedoch keinen Abschluss machen.
 
-Wenn du Arm bist, führst du nur ein paar andere Söldner an, aber du und sie dürfen Rüstung und Waffen besitzen, die normalen Charakteren zugänglich sind. Wenn du Wohlhabend bist, führst du etwa zwanzig Söldner und kannst einen Teil der Arbeit an Unteroffiziere delegieren. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung.
+Mehr als die Hälfte aller Universitätsstudenten sind Einfache Studenten.
+
+#### Erfahrener Parens
+*Klein, Hermetisch*<br>
+Dein Parens war mächtiger oder ein besserer Lehrer als üblich. Du erhältst während der Lehrzeit 60 zusätzliche Erfahrungspunkte und 30 Zauberstufen. Diese Tugend hat keinen Einfluss auf Dein Studium nach der Lehrzeit, aber Du hast dennoch eine enge Beziehung zu einem mächtigen Magus.
+
+#### Erfahrener Schmugler
+*Klein, Allgemein*<br>
+Der Charakter kann einen Gegenstand an seiner Person verbergen, und Versuche, ihn zu finden, erleiden einen Abzug von –9 auf Wahrnehmungswürfe. Der Gegenstand darf nicht größer als ein Dolch sein, und der Charakter kann mit wenigen Minuten Arbeit wechseln, welche Gegenstände verborgen sind. Wohlhabende Charaktere beschaffen sich oft zusammenlegbare Werkzeuge, die sie in Verbindung mit dieser Tugend einsetzen.
+
+#### Tierwandler
+*Klein, Übernatürlich*<br>
+Du besitzt einen magischen Umhang, eine Tierhaut oder einen ähnlichen Gegenstand aus einem Tier. Während Du physischen Kontakt damit hast, kannst Du Dich in die Gestalt des durch den Gegenstand dargestellten Tieres verwandeln. Die Verwandlung dauert eine volle Runde, und Du behältst sowohl Intelligenz als auch Bewusstsein in Tiergestalt. Kleidung und Besitztümer (außer dem Tiergegenstand) werden nicht verwandelt, und Du kannst mit InAn- oder InCo-Zaubern oder ähnlichen Sprüchen als verwandelter Mensch erkannt werden. Wenn der Gegenstand gestohlen wird, hat der neue Besitzer eine Arkane Verbindung zu Dir, und Du kannst Dich nicht verwandeln, bis der Gegenstand zurückgewonnen ist. Wenn der Gegenstand zerstört wird, kannst Du im Laufe eines Quartals einen neuen anfertigen, obwohl die Methode je nach Art des Gegenstands variiert. Tierwandler können sich in jedes nicht-magische Tier zwischen Größe –10 (Rotkehlchen) und Größe +2 (Bär) verwandeln. Der Charakter hat die normalen körperlichen Eigenschaften des Tieres, außer dass seiner Absorption (nur in Tiergestalt) +3 hinzugefügt wird.
+
+#### Tierwandler (Taube)
+*Groß, Übernatürlich*<br>
+Dies ist eine mächtigere Variante der Kleinen Tugend oben.
+
+Der Charakter muss kein Federbündel als Tierwandler-Umhang bei sich tragen. Sie kann im Laufe einer Woche jede künstlerische Darstellung einer Feder oder eine einzelne echte Feder vorbereiten, die stattdessen als Federbündel fungiert. Sie kann mehrere vorbereitete Federn gleichzeitig besitzen und von jedem anderen Charakter mit dieser Tugend vorbereitete Federn verwenden. Die meisten besitzen mehrere kleine Nadeln oder Broschen, und in der Stadt, in der solche Charaktere aktiv sind, haben sie zusätzliche Nadeln an zugänglichen Orten versteckt, wie etwa in Bädern. Charaktere können auch kleine Steinchen mit eingravierten Federn verwenden, die sie schlucken. Diese bleiben im Kropf der Taubengestalt und können nach Belieben in den Mund zurückgewürgt werden.
+
+Die Kleidung und Ausrüstung des Charakters verwandelt sich beim Gestaltwechsel in Federn, sodass sie beim Ende der Verwandlung bescheiden bekleidet erscheint. Dies erlaubt es ihr auch, Werkzeuge und Waffen in Taubengestalt bei sich zu tragen, obwohl diese erst nach Rückkehr zur Menschengestalt eingesetzt werden können.
+
+Der Charakter besitzt in Tiergestalt die Werte einer gewöhnlichen Taube, außer dass ihre Absorption um +3 höher ist als üblich.
+
+Diese Tugend ist besonders mit einer rein weiblichen magischen Tradition namens Töchter der Vier Väter verbunden, die in Nordafrika beheimatet ist (siehe *Between Sand & Sea*, Seite 107).
+
+#### Soziale Kontakte
+*Klein, Allgemein*<br>
+Du verfügst über ein breites Netzwerk an Bekannten in einem bestimmten gesellschaftlichen Umfeld (das beim Erwerb dieser Tugend festgelegt wird), das du dir über Jahre des Reisens und der Geselligkeit aufgebaut hast. Fast überall, wohin du gehst, triffst du jemanden, den du kennst, oder kannst jemanden kontaktieren, der dir helfen kann. Wann immer du dich an einem neuen Ort befindest, kannst du mit einem einfachen Präsenz-Wurf gegen einen Schwierigkeitsgrad von 6 jemanden ausfindig machen. Der Spielleiter kann diesen Zielwert nach oben anpassen, wenn das Gebiet sehr klein ist oder es äußerst unwahrscheinlich ist, dass du dort jemanden kennen würdest. Du kannst diese Tugend mehrfach erwerben und dabei jedes Mal einen anderen gesellschaftlichen Kreis festlegen.
 
 #### Sofer
 *Kostenlos, Sozialer Status*<br>
@@ -4853,17 +4995,29 @@ Der Sofer ist der Schreiber, dessen Aufgabe darin besteht, eine neue Sefer Torah
 
 Als Sofer muss der Charakter die Tugend Gebildet (Hebräisch) besitzen.
 
-#### Soziale Kontakte
-*Klein, Allgemein*<br>
-Du verfügst über ein breites Netzwerk an Bekannten in einem bestimmten gesellschaftlichen Umfeld (das beim Erwerb dieser Tugend festgelegt wird), das du dir über Jahre des Reisens und der Geselligkeit aufgebaut hast. Fast überall, wohin du gehst, triffst du jemanden, den du kennst, oder kannst jemanden kontaktieren, der dir helfen kann. Wann immer du dich an einem neuen Ort befindest, kannst du mit einem einfachen Präsenz-Wurf gegen einen Schwierigkeitsgrad von 6 jemanden ausfindig machen. Der Spielleiter kann diesen Zielwert nach oben anpassen, wenn das Gebiet sehr klein ist oder es äußerst unwahrscheinlich ist, dass du dort jemanden kennen würdest. Du kannst diese Tugend mehrfach erwerben und dabei jedes Mal einen anderen gesellschaftlichen Kreis festlegen.
+#### Besondere Umstände
+*Klein, Hermetisch*<br>
+Du kannst in bestimmten ungewöhnlichen Situationen besser zaubern (etwa während eines Sturms oder während du das Ziel berührst) und erhältst einen Bonus von +3 auf deinen Zauberwert und deine Magieresistenz. (Ein Charakter erhält nur dann einen Bonus auf die Magieresistenz, wenn er bereits aus einer anderen Quelle über Magieresistenz verfügt.) Du kannst diese Tugend mehrfach wählen, erhältst jedoch nur einmal +3, selbst wenn mehrere der festgelegten Umstände gleichzeitig zutreffen.
 
-#### Sprachbegabt
-*Klein, Allgemein*<br>
-Du bist außerordentlich begabt darin, neue Sprachen zu erlernen. Alle Fortschrittssummen für jede Sprache werden um ein Viertel erhöht (aufgerundet), ebenso wie alle Erfahrungspunkte, die du bei der Charaktererschaffung in eine Sprache investierst. Sowohl Lebende als auch Tote Sprachen werden mit dieser Tugend gefördert.
+#### Zauberimprovisation
+*Klein, Hermetisch*<br>
+Der Magus kann die Magnitude eines formulaischen Zaubers, den er kennt, als Bonus auf seine Zaubersumme addieren, wenn er spontan einen ähnlichen Zauber wirkt (siehe Ähnliche Zauber, [Seite 260](#ähnliche-zauber)). Dies gilt auch für das Schnellzaubern eines Zaubers, der einem seiner formulaischen Zauber gleich oder sehr ähnlich ist – allerdings erhält er diesen Bonus nicht, wenn er die Schnellzauber-Fertigkeit für einen gemeisterten Zauber besitzt, da in diesem Fall stattdessen sein Fertigkeitswert in der Zaubermeisterschaft addiert wird. Dieser Bonus lässt sich nicht mit anderen Boni auf die Zaubersumme stapeln und lässt sich auch nicht mit sich selbst stapeln, falls der Magus zufällig mehrere ähnliche Zauber kennt.
 
-#### Stadtrichter
-*Klein, Sozialer Status*<br>
-Der Charakter hat eine richterliche Verantwortungsposition in einer Stadt mit einem kleinen Stab von untergeordneten Beamten (bis zu fünf Personen). Der Charakter muss Bürger der Stadt sein, einen Wert von mindestens 3 in der Fertigkeit Zivil- und Kanonisches Recht (oder Gewohnheitsrecht) besitzen und erhält als Gegenleistung für seine Dienste einen Lohn oder besondere Privilegien. Das Amt des Richters beansprucht den Charakter für zwei Quartale pro Jahr, die restlichen zwei Quartale steht er jedoch frei zur Verfügung. Akademische Fertigkeiten können bei der Charaktererschaffung für den Charakter erworben werden.
+#### Geistesdiener
+*Kostenlos, Mythischer Gefährte*<br>
+Die Wahl dieser Tugend bei der Charaktererschaffung macht den Charakter zu einem Geistesdiener, einer Art Mythischem Gefährten ([Seite 63](#mythische-gefährten-2)). Diese Tugend verleiht die Tugend Zweites Gesicht kostenlos und erlaubt dem Charakter, zwei Punkte Tugenden für jeden Punkt Fehler zu besitzen.
+
+#### Geistiger Pakt
+*Groß, Übernatürlich*<br>
+Der Charakter hat einen Pakt oder eine Vereinbarung mit einem mächtigen magischen Geist geschlossen und erhält im Gegenzug für treue Dienste Zugang zu den Kräften dieses Geistes. Der Pakt dient dem Geist als Arkane Verbindung zum Charakter von unbegrenzter Dauer, mit deren Hilfe sich der Geist über den aktuellen Aufenthaltsort und den Gesundheitszustand seines Dieners im Klaren sein kann.
+
+Der Charakter kann die Kraft des Geistes kanalisieren, indem er einen Selbstvertrauenspunkt ausgibt. Würfle Präsenz + Magiekunde + Stresswürfel: Das Ergebnis entspricht dem Betrag des magischen Machtwert-Vorrats, den der Charakter von seinem geistlichen Meister erhält. Die erlangten Machtpunkte sind stets geringer als die aktuellen Machtpunkte des Geistes, unabhängig vom Würfelergebnis. Bei einem Patzer verliert der Charakter alle aktuellen Selbstvertrauenspunkte. Diese Handlung entspricht dem Zaubern hinsichtlich der erforderlichen Konzentration. Der Charakter kann diese Machtpunkte für beliebige Kräfte des Geistes aufwenden. Die Penetration wird auf die übliche Weise für magische Kreaturen berechnet, wobei der anfängliche Machtwert-Vorrat anstelle des magischen Machtwerts verwendet wird und die Penetrations-Fertigkeit des Charakters – falls vorhanden – einbezogen wird.
+
+Der Charakter, der diese Kraft einsetzt, hat keinen Machtwert, sondern nur einen Machtwert-Vorrat. Er erlangt durch den Einsatz dieser Kraft keine Magieresistenz und hinterlässt auch keine Vis, wenn er getötet wird. Er kann nicht von Vim-Zaubern (oder ähnlicher Magie) betroffen werden, die den Machtwert übernatürlicher Wesen als Ziel nehmen. Ohne einen Machtwert füllt sich der Vorrat nicht auf; sobald der Charakter alle Machtpunkte verbraucht hat, endet diese Kraft. Alle eingesetzten Kräfte laufen in ihrer Dauer ab, wenn der Charakter seinen letzten Machtpunkt des Vorrats verbraucht. Wird diese Kraft erneut aktiviert, während der Charakter noch über einen Machtwert-Vorrat verfügt, ersetzen die neu erlangten Punkte die verbliebenen Punkte; die beiden Vorräte addieren sich nicht. Die vom Charakter erlangten Punkte gehen dem Machtwert-Vorrat des Geistes verloren und können vom Charakter nicht zurückgegeben werden, aber der Geist regeneriert die verbrauchten Punkte wie üblich.
+
+Während die Verbindung zum Geist aktiv ist, gibt es eine sichtbare Manifestation davon, die deutlich macht, dass ein übernatürlicher Effekt stattfindet. Steht der Charakter beispielsweise in Verbindung mit einem Fruchtbarkeitsgeist, könnten Früchte und Getreide um seine Fußspuren herum sprießen. Während er in Verbindung mit einem Kriegsgeist steht, könnte der Charakter aussehen, als wäre er in geisterhafte Rüstung gekleidet. Wenn der Charakter den Geist aktiv kanalisiert, dient er dem Geist als Arkane Verbindung von unbegrenzter Dauer, wenngleich diese Verbindung erlischt, wenn der Machtwert-Vorrat erschöpft ist.
+
+Der Spielleiter sollte die Kräfte des Geistes festlegen. Mit Zustimmung der Spieltruppe könnte diese Tugend dazu verwendet werden, die Kraft eines Geistes einer anderen übernatürlichen Sphäre zu kanalisieren; oder die Kraft einer Gruppe eng verwandter Geister, etwa eines kleinen Pantheons heidnischer „Götter" – es ist jedoch darauf zu achten, dem Charakter durch diese eine Tugend nicht zu viel Flexibilität zu gewähren. Ein Charakter kann nur einen einzigen Pakt haben.
 
 #### Starkes Engelserbe
 *Klein, Übernatürlich*<br>
@@ -4891,23 +5045,9 @@ Du kannst nicht sowohl Feenblut als auch Starkes Feenblut besitzen.
 
 Dies ist eine Übernatürliche Tugend, und du kannst sie bei der Ausbildung als Magus nicht verlieren (siehe [Seite 64](#übernatürlich)). Wenn dein Meister die Fähigkeit nicht erhalten kann, kannst du nicht ausgebildet werden.
 
-#### Staubwirbel
-*Klein, Übernatürlich*<br>
-Diese Variante der Tierwandler-Tugend erlaubt es dem Charakter, die Gestalt eines Tamzawit – also eines Staubteufels, eines kleinen Wirbelwinds, der Staub mit sich trägt – anzunehmen. Sie wird zu einem Staubwirbel der Größe +1, kann die Form jederzeit annehmen und ihre Bewegung selbst lenken. Anstelle eines Umhangs oder einer Tierhaut ist das Fokusobjekt dieser Tugend ein Glasamulett, das aus Sand einer Magiesphäre-Aura geformt wurde.
-
-#### Stille Magie
-*Klein, Hermetisch*<br>
-Du kannst Zauber ohne Abzug mit nur leiser Stimme wirken und erhältst nur einen Abzug von –5, wenn Du überhaupt nicht sprichst. Du erhältst keinen Vorteil davon, Deine Stimme normal einzusetzen, aber Du erhältst den normalen Bonus für den Einsatz einer schallenden Stimme. Die Reichweite von Zaubern mit Reichweite Stimme wird normal bestimmt, abhängig davon, wie laut Deine Stimme ist.
-
-Du kannst diese Tugend zweimal wählen und den Abzug vollständig eliminieren.
-
-#### Stimme des (Landes)
-*Klein, Übernatürlich*<br>
-Der Charakter kann mit jedem Wesen sprechen, dessen natürlicher Lebensraum eine bestimmte, mit dieser Tugend verknüpfte Umgebung ist (einschließlich Tieren und magischen Wesen), und der Charakter wird von diesen Wesen normalerweise weder als Bedrohung noch als Beute wahrgenommen.
-
-#### Stoffreißer
-*Klein, Übernatürlich*<br>
-Der Charakter besitzt die übernatürliche Fähigkeit, jedes gefertigte Ding zu zerreißen, das aus Pflanzen- oder Tierfasern besteht. Dies erlaubt ihr, Segel zu zerstören, den Riemen zu lösen, der einzelne Rüstungsteile hält, das Zaumzeug eines Pferdes zu sprengen, einen Sack zu platzen zu lassen und eine Hose mit dem Geist zu zerfetzen. Sie gibt eine Erschöpfungsstufe aus, um die Fähigkeit zu aktivieren, und kann pro ausgegebener Erschöpfungsstufe nur ein Objekt zum Ziel machen. Es handelt sich um einen PeAn(He)-25-Effekt mit +0 Penetration, der weder Worte noch Gesten erfordert.
+#### Willensstark
+*Klein, Allgemein*<br>
+Du lässt dich nicht leicht zu Handlungen, Überzeugungen oder Gefühlen zwingen. Du erhältst +3 auf jeden Wurf, der Willenskraft erfordern könnte.
 
 #### Student der (Sphäre)
 *Klein, Allgemein*<br>
@@ -4942,87 +5082,9 @@ Die meisten Muslime begegnen dir mit Respekt für deinen frommen Lebensstil. Du 
 
 Diese Tugend kann von männlichen wie von weiblichen Charakteren gewählt werden, entweder als Kleine Sozialer-Status-Tugend oder als Kleine Übernatürliche Tugend.
 
-#### Tagelöhner
-*Frei, Sozialer Status*<br>
-Der Charakter ist ein ausgebildeter Arbeiter, der ein Handwerk ausübt, das eine wertvolle Dienstleistung für seine Gemeinschaft darstellt, bei dem jedoch kein fertiges Produkt hergestellt wird. Anders als ein Bauer, der ein Landarbeiter ist, der verschiedene Tätigkeiten verrichtet, konzentriert sich ein Tagelöhner auf eine bestimmte Beschäftigung, um seinen Lebensunterhalt zu verdienen, sei es das Transportieren von Holz, das Waschen von Kleidung, das Reinigen von Latrinen, das Tragen von Gepäck oder das Servieren von Speisen.
-
-#### Tempelritter-Konfrater oder Konsoeur
-*Kostenlos, Sozialer Status*<br>
-Der Charakter ist ein assoziiertes Mitglied der Armen Ritter Christi und des Tempels zu Salomon und hat ein oder zwei der Tempelrittergelübde abgelegt. Seine Mitgliedschaft ist im Allgemeinen vorübergehend (muss es aber nicht sein), und er kann andere Sozialer-Status-Tugenden oder -Fehler besitzen, die seinen wahren Stand widerspiegeln, etwa Kleriker, Ritter, Landadliger, Bauer oder sogar Hermetischer Magus. Sein früherer Stand außerhalb des Ordens beeinflusst seine Behandlung im Orden – Ritter und Adlige genießen mehr Respekt als Bürgerliche. Frauen können ebenfalls assoziierte Mitglieder werden (Konsoeurs), werden jedoch getrennt von den Männern untergebracht. Assoziierte Mitglieder unterliegen derselben Regel wie Vollmitglieder, haben jedoch weniger Rechte. Einige assoziierte Mitglieder können wichtige Positionen in einer bestimmten Tempelritter-Komturei bekleiden, insbesondere wenn sie über eine wertvolle Fähigkeit verfügen.
-
-#### Templerdiener
-*Kostenlos, Sozialer Status*<br>
-Der Charakter ist ein Diener, der in einer Komturei der Armen Ritter Christi und des Tempels zu Salomon tätig ist. Er wird von den Tempelrittern versorgt und lebt wahrscheinlich in der Komturei selbst oder in deren Nähe. Er erhält außerdem eine seinem Beruf entsprechende Entlohnung. Als Diener der Tempelritter fällt er unter die päpstliche Bulle, die ihn von weltlicher und laikaler Autorität ausnimmt, und genießt im Allgemeinen einige Wertschätzung bei Nicht-Tempelrittern.
-
-#### Templerexperte
-*Klein, Sozialer Status*<br>
-Der Charakter arbeitet als qualifizierter Angestellter der Armen Ritter Christi und des Tempels zu Salomon und füllt eine entscheidende Rolle aus, für die die Tempelritter kein Voll- oder assoziiertes Mitglied haben, etwa als Handwerker, Schmied, Kunsthandwerker, Notar, Knappe, Soldat, Schreiber oder Übersetzer. Du kannst bei der Charaktererschaffung eine eingeschränkte Gruppe von Fertigkeiten wählen, etwa Akademische oder Kampffertigkeiten. Als Diener der Tempelritter fällt der Charakter unter die päpstliche Bulle, die ihn von weltlicher und laikaler Autorität ausnimmt, und genießt im Allgemeinen einige Wertschätzung. Diese Tugend kann von muslimischen Charakteren gewählt werden, die typischerweise als Übersetzer tätig sein werden (und die außerdem den Fehler Außenseiter oder einen ähnlichen Fehler wählen sollten).
-
-#### Templerkommandeur
-*Groß, Sozialer Status*<br>
-Der Charakter ist ein Kommandeur der Armen Ritter Christi und des Tempels zu Salomon und hat Autorität über alle Aspekte des Ordens in einer Provinz oder Komturei. Diese Tugend verleiht außerdem die Kleine Tugend Zeitlicher Einfluss, da der Charakter das Ohr wichtiger Adliger oder Geistlicher in der Region hat. Er hat auch Zugang zum beträchtlichen Reichtum der Tempelritter, einschließlich aller Mittel, Ländereien und Ressourcen, obwohl er keine zusätzliche freie Zeit hat. Er kann Steuern und Zehnten über die Ländereien erheben, die er kontrolliert, als wäre er ein Landadliger oder Bischof, Servicegebühren für Geldleihen erheben und sogar als Richter für geringfügige Laiendelikte auf seinen Ländereien fungieren. Aufgrund seiner hohen Stellung ist er eine allgemein bekannte Person und besitzt eine Reputation der Stufe 3 in seinem Gebiet. Er wird erwartet, die Kreuzzugsbemühungen des Ordens zu unterstützen, wenn er im Westen lebt, und wenn er im Osten lebt, wird von ihm direkte Teilnahme erwartet. Sollte der Großmeister sterben und der Charakter im Osten leben, hat er das Recht, an der Wahl eines neuen Großmeisters teilzunehmen. Diese Tugend beinhaltet die Wirkungen der Tugend Bruder-Ritter und kann ebenfalls nur von männlichen Charakteren gewählt werden.
-
-#### Templerrang
-*Klein, Allgemein*<br>
-Als Mitglied der Armen Ritter Christi und des Tempels zu Salomon genießt der Charakter große Wertschätzung und Bewunderung unter seinen Ordensbrüdern. Dies kann auf eine große Heldentat oder Frömmigkeit zurückzuführen sein oder auf den Rang oder Stand, den er vor seinem Eintritt in den Orden hatte. Er beginnt mit einer Reputation der Stufe 4 innerhalb der Tempelritter.
-
-#### Templerstelleninhaber
-*Klein, Sozialer Status*<br>
-Der Charakter bekleidet eine Position in der lokalen Hierarchie der Armen Ritter Christi und des Tempels zu Salomon, etwa als stellvertretender Kommandeur, Marschall oder Krankenmeister. Er kann Brüdern in seiner Region Befehle erteilen, genießt den beträchtlichen Respekt, der seiner Position zukommt, und hat die Befugnis, die Ordensregel und ihre verschiedenen Gesetze durchzusetzen, obwohl er dem lokalen Kommandeur gegenüber weisungsgebunden ist. Aufgrund seiner hohen Stellung ist er eine allgemein bekannte Person und besitzt eine Reputation der Stufe 2 in seiner Region. Du kannst diese Tugend zusammen mit einer der anderen Tempelritter-Sozialer-Status-Tugenden wählen, da dein Charakter ein erfahrener Bruder-Sergeant oder erfahrener Tempelritter-Kaplan sein kann. Diese Tugend ist mit der Kleinen Tugend Zeitlicher Einfluss vereinbar. Wenn du diese Tugend zusammen mit der Großen Tugend Templerkommandeur wählst, bekleidet dein Charakter einen der wenigen erhabenen Ränge unter den Tempelrittern, etwa als Großkommandeur oder Großmarschall, oder einen Rang, der Autorität über die östliche oder westliche Region des Ordens hat – in diesem Fall wirst du wahrscheinlich in Akkon, Paris oder London wohnen.
-
-#### Templerverwalter
-*Klein, Sozialer Status*<br>
-Der Charakter ist technisch gesehen ein Bruder-Ritter oder Bruder-Sergeant der Armen Ritter Christi und des Tempels zu Salomon, fungiert jedoch in Wirklichkeit als Verwalter für die vielen Besitzungen und Aktivitäten des Ordens. Obwohl er den Templereid und die Gelübde abgelegt hat und ein klösterliches Leben führt, bedeuten seine zahlreichen Pflichten, dass er wahrscheinlich nie aktiv im Kampf eingesetzt wird. Er ist nur seinen Vorgesetzten im Orden und dem Papst gegenüber verantwortlich. Er kann erheblichen Einfluss haben und Zugang zu enormen Ressourcen besitzen, hat jedoch keine zusätzliche freie Zeit. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten wählen. Diese Tugend kann die Sozialer-Status-Tugenden Bruder-Ritter, Bruder-Sergeant und Bruder-Priester ersetzen. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
-
-#### Teufelskind
-*Frei, Mythischer Gefährte*<br>
-Diese Tugend hat keine Kosten und kann nur für einen Mythischen Gefährten genommen werden, der von dämonischen Eltern geboren wurde. Der Charakter erhält nach Wahl des Spielers die Kleine Tugend Dämonische Macht oder Dämonische Kräfte kostenlos.
-
-#### Tiere befehligen
-*Groß, Übernatürlich, Befleckt*<br>
-Der Charakter hat die Fähigkeit, gewöhnliche Vertreter einer Tierart mental zu befehligen, die in der Regel mit dem Dämon assoziiert wird, der ihn gezeichnet hat. Zu jeder Zeit kann der Charakter bis zu 12 menschengroße Tiere befehligen und sie anweisen, selbstmörderische Handlungen durchzuführen. Kleinere Tiere können in weit größeren Mengen befehligt werden, sodass manche Charaktere Insektenschwärme oder Hunderte von Ratten befehligen können.
-
 #### Tiere rufen
 *Groß, Übernatürlich*<br>
 Du bist in der Lage, Tiere zu dir zu rufen. Diese Tugend verleiht einen Wert von 1 in der Übernatürlichen Fertigkeit Tiere rufen.
-
-#### Tierverständnis
-*Klein, Übernatürlich*<br>
-Du kannst mit Tieren kommunizieren, als wären sie Menschen. Die Wahl dieser Tugend verleiht dir die Fertigkeit Tierverständnis 1 ([Seite 159](#tierumgang)).
-
-#### Tierwandler
-*Klein, Übernatürlich*<br>
-Du besitzt einen magischen Umhang, eine Tierhaut oder einen ähnlichen Gegenstand aus einem Tier. Während Du physischen Kontakt damit hast, kannst Du Dich in die Gestalt des durch den Gegenstand dargestellten Tieres verwandeln. Die Verwandlung dauert eine volle Runde, und Du behältst sowohl Intelligenz als auch Bewusstsein in Tiergestalt. Kleidung und Besitztümer (außer dem Tiergegenstand) werden nicht verwandelt, und Du kannst mit InAn- oder InCo-Zaubern oder ähnlichen Sprüchen als verwandelter Mensch erkannt werden. Wenn der Gegenstand gestohlen wird, hat der neue Besitzer eine Arkane Verbindung zu Dir, und Du kannst Dich nicht verwandeln, bis der Gegenstand zurückgewonnen ist. Wenn der Gegenstand zerstört wird, kannst Du im Laufe eines Quartals einen neuen anfertigen, obwohl die Methode je nach Art des Gegenstands variiert. Tierwandler können sich in jedes nicht-magische Tier zwischen Größe –10 (Rotkehlchen) und Größe +2 (Bär) verwandeln. Der Charakter hat die normalen körperlichen Eigenschaften des Tieres, außer dass seiner Absorption (nur in Tiergestalt) +3 hinzugefügt wird.
-
-#### Tierwandler (Taube)
-*Groß, Übernatürlich*<br>
-Dies ist eine mächtigere Variante der Kleinen Tugend oben.
-
-Der Charakter muss kein Federbündel als Tierwandler-Umhang bei sich tragen. Sie kann im Laufe einer Woche jede künstlerische Darstellung einer Feder oder eine einzelne echte Feder vorbereiten, die stattdessen als Federbündel fungiert. Sie kann mehrere vorbereitete Federn gleichzeitig besitzen und von jedem anderen Charakter mit dieser Tugend vorbereitete Federn verwenden. Die meisten besitzen mehrere kleine Nadeln oder Broschen, und in der Stadt, in der solche Charaktere aktiv sind, haben sie zusätzliche Nadeln an zugänglichen Orten versteckt, wie etwa in Bädern. Charaktere können auch kleine Steinchen mit eingravierten Federn verwenden, die sie schlucken. Diese bleiben im Kropf der Taubengestalt und können nach Belieben in den Mund zurückgewürgt werden.
-
-Die Kleidung und Ausrüstung des Charakters verwandelt sich beim Gestaltwechsel in Federn, sodass sie beim Ende der Verwandlung bescheiden bekleidet erscheint. Dies erlaubt es ihr auch, Werkzeuge und Waffen in Taubengestalt bei sich zu tragen, obwohl diese erst nach Rückkehr zur Menschengestalt eingesetzt werden können.
-
-Der Charakter besitzt in Tiergestalt die Werte einer gewöhnlichen Taube, außer dass ihre Absorption um +3 höher ist als üblich.
-
-Diese Tugend ist besonders mit einer rein weiblichen magischen Tradition namens Töchter der Vier Väter verbunden, die in Nordafrika beheimatet ist (siehe *Between Sand & Sea*, Seite 107).
-
-#### Todesprophezeiung
-*Groß, Allgemein*<br>
-Du bist in Bezug auf dein Schicksal gesegnet oder verflucht. Jemand (ein Zauberer, eine Fee oder eine andere übernatürliche Kreatur) hat eine Bedingung an deinen Tod geknüpft, und bis diese Bedingung erfüllt ist, wirst du nicht sterben, obwohl du schwer verletzt werden kannst. Du heilst normal, kannst aber nicht an Wunden oder Alter sterben. Zu deinem Unglück kann das Schicksal oder schlechte Planung die Bedingungen auf unerwartete Weise herbeiführen. Wenn zum Beispiel deine Todesprophezeiung besagt, dass du nur Wildschweine fürchten sollst, solltest du vorsichtig sein mit Männern, die Wildschweine in ihrem Wappen tragen, oder mit Gasthäusern, die nach Wildschweinen benannt sind – zusätzlich zu dem rein weltlichen Tier. Diese Symbolik ist möglicherweise nicht offensichtlich: Ein Mann, der in seinem Dorf als Schwein bekannt ist, könnte auch als Wildschwein zählen.
-
-Der Spielleiter muss die Prophezeiung im Hinterkopf behalten und faire Warnungen zu Gegenständen im Zusammenhang mit der Prophezeiung geben. Dies ist eine Große Tugend, weil der Charakter weiß, dass er mit wahnsinnigen Risiken davonkommen kann; die Prophezeiung heimlich auf ihn loszulassen ist eine unfaire Art, den Wert der Tugend zu negieren. Spieler dürfen diese Tugend nur mit Zustimmung des Spielleiters oder der Spieltruppe nehmen.
-
-#### Troubadour/Trobairitz
-*Klein, Sozialer Status*<br>
-Troubadoure sind wandernde Minnesänger und Dichter („Trobairitz" ist die weibliche Form). Die Tradition hat ihren Ursprung in Südfrankreich (siehe Faith and Flame, [Seite 12](#kapitel-5-fertigkeiten)), hat sich jedoch über weite Teile Westeuropas verbreitet.
-
-Du bist an keine Gemeinschaft gebunden und lebst vom Auftreten, Unterhalten oder sonstigen Gelegenheitsarbeiten. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten wählen und solltest eine Reputation hinsichtlich der Art des Materials, das du produzierst, sowie deiner Treue zu den Grundsätzen der Courtoisie besitzen. Die Große Tugend Wohlstand und der Große Fehler Arm betreffen dich normal, obwohl du, falls du wohlhabend bist, von jemandem unterstützt wirst. Dein Unterstützer stellt deine Aktivitäten jedoch in keiner Weise in Frage.
-
-Troubadour-Charaktere besitzen oft Tugenden wie Berühmt, Freie Ausdrucksfähigkeit, Inspirierend, Begabung in Vortrag, Soziale Kontakte, Wahre Liebe und Vielgereist.
-
-#### Turba-Ausgebildet
-*Klein, Sozialer Status*<br>
-Dieser Charakter ist im Konvent aufgewachsen, wurde für den Kampf in der Turba ausgebildet und hat einiges von den vertrauenswürdigen Dienern der Magi aufgeschnappt. Bei der Charaktererschaffung darf er Kampffertigkeiten erlernen. Er darf außerdem die einzige tote Sprache erlernen, die die Magi sprechen, zusätzlich zu seiner Muttersprache. Sein Schicksal ist mit der Turba verbunden, weshalb es ihm verboten ist, Wohlhabend oder Arm zu sein.
 
 #### Übernatürliche Schönheit
 *Groß, Übernatürlich*<br>
@@ -5032,17 +5094,99 @@ Feen unterstützen Charaktere mit dieser Tugend oft. Feen verstehen die klassisc
 
 Ein Charakter ohne einen positiven Präsenzwert kann diese Tugend nicht besitzen.
 
-#### Unabhängiges Studium
+#### Verfluchter Schatz
+*Klein, Allgemein, Befleckt*<br>
+Der Charakter hat eine riesige Menge Schatz geerbt oder erworben, doch dieser ist verflucht, Schaden anzurichten. Dieser Schatz könnte von einem Vorfahren stammen, der einen Handel mit Dämonen einging oder sie um Geld betrog. Vielleicht wurde er auch aus einem der geheimen Verstecke gestohlen, die Dämonen unterhalten, damit Reichtum in der Nähe ist, um Menschen zu verführen. Eine verdorbene Person, die sich auflehnt und den Fehler Tragisches Leben gegen den Fehler Von übernatürlicher Wesenheit verfolgt tauscht, könnte versucht sein, einige der wertvollen Requisiten beizubehalten, die für ihre Rolle bereitgestellt wurden. Der Schatz ist ausreichend, dass der Charakter ihn in eine Quelle der Tugend Wohlstand verwandeln könnte. Als Beispiele könnte der Charakter ein Schiff kaufen und Händler werden oder Land in einer Stadt kaufen und Vermieter werden.
+
+Die Schwierigkeit besteht darin, dass der Reichtum verflucht ist und daher nicht den natürlichen Anstieg an Gütern aufweist, der eine Gabe Gottes darstellt. Wird er gegen andere Wertgegenstände eingetauscht, geht der Fluch auf diese über. Jedes Unternehmen, in das er investiert wird, wird schließlich scheitern. Jedes Gebäude, das damit gekauft wird, wird schließlich abbrennen. Wird er für einen nicht-sündhaften Zweck verwendet, zerstört der Schatz sich selbst: Gold, das für wohltätige Zwecke gespendet wird, verwandelt sich in Sand, Schiffe, die Vorräte zu den Hungernden befördern, steuern sich selbst auf Felsen zu.
+
+Der Reichtum kann dazu verwendet werden, die Dienste von Menschen zu erkaufen, die, weil sie Seelen haben, ihr eigenes Schicksal wählen. Die Einschränkung, dass der Reichtum sich selbst nur für sündhafte Zwecke ausgeben lässt, bleibt jedoch bestehen, sodass er wahrscheinlich an amoralische, habgierige, neidische, gefährliche Menschen weitergegeben wird.
+
+> #### Die Tempelritter
+>
+> Die Armen Ritter Christi und des Tempels zu Salomon, die Tempelritter, sind ein äußerst wichtiger und einflussreicher Orden im Mythischen Europa. Frauen können sich nicht durch die Tugend Erkaufte Rechte von der Zahlung einer Buße freikaufen, um eine Rolle im Orden zu übernehmen, die Männern vorbehalten ist. Ausführliche Einzelheiten finden sich in Kapitel 7 von *Die Kirche*.
+
+#### Templerverwalter
+*Klein, Sozialer Status*<br>
+Der Charakter ist technisch gesehen ein Bruder-Ritter oder Bruder-Sergeant der Armen Ritter Christi und des Tempels zu Salomon, fungiert jedoch in Wirklichkeit als Verwalter für die vielen Besitzungen und Aktivitäten des Ordens. Obwohl er den Templereid und die Gelübde abgelegt hat und ein klösterliches Leben führt, bedeuten seine zahlreichen Pflichten, dass er wahrscheinlich nie aktiv im Kampf eingesetzt wird. Er ist nur seinen Vorgesetzten im Orden und dem Papst gegenüber verantwortlich. Er kann erheblichen Einfluss haben und Zugang zu enormen Ressourcen besitzen, hat jedoch keine zusätzliche freie Zeit. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten wählen. Diese Tugend kann die Sozialer-Status-Tugenden Bruder-Ritter, Bruder-Sergeant und Bruder-Priester ersetzen. Diese Tugend steht nur männlichen Charakteren zur Verfügung.
+
+#### Templerkommandeur
+*Groß, Sozialer Status*<br>
+Der Charakter ist ein Kommandeur der Armen Ritter Christi und des Tempels zu Salomon und hat Autorität über alle Aspekte des Ordens in einer Provinz oder Komturei. Diese Tugend verleiht außerdem die Kleine Tugend Zeitlicher Einfluss, da der Charakter das Ohr wichtiger Adliger oder Geistlicher in der Region hat. Er hat auch Zugang zum beträchtlichen Reichtum der Tempelritter, einschließlich aller Mittel, Ländereien und Ressourcen, obwohl er keine zusätzliche freie Zeit hat. Er kann Steuern und Zehnten über die Ländereien erheben, die er kontrolliert, als wäre er ein Landadliger oder Bischof, Servicegebühren für Geldleihen erheben und sogar als Richter für geringfügige Laiendelikte auf seinen Ländereien fungieren. Aufgrund seiner hohen Stellung ist er eine allgemein bekannte Person und besitzt eine Reputation der Stufe 3 in seinem Gebiet. Er wird erwartet, die Kreuzzugsbemühungen des Ordens zu unterstützen, wenn er im Westen lebt, und wenn er im Osten lebt, wird von ihm direkte Teilnahme erwartet. Sollte der Großmeister sterben und der Charakter im Osten leben, hat er das Recht, an der Wahl eines neuen Großmeisters teilzunehmen. Diese Tugend beinhaltet die Wirkungen der Tugend Bruder-Ritter und kann ebenfalls nur von männlichen Charakteren gewählt werden.
+
+#### Tempelritter-Konfrater oder Konsoeur
+*Kostenlos, Sozialer Status*<br>
+Der Charakter ist ein assoziiertes Mitglied der Armen Ritter Christi und des Tempels zu Salomon und hat ein oder zwei der Tempelrittergelübde abgelegt. Seine Mitgliedschaft ist im Allgemeinen vorübergehend (muss es aber nicht sein), und er kann andere Sozialer-Status-Tugenden oder -Fehler besitzen, die seinen wahren Stand widerspiegeln, etwa Kleriker, Ritter, Landadliger, Bauer oder sogar Hermetischer Magus. Sein früherer Stand außerhalb des Ordens beeinflusst seine Behandlung im Orden – Ritter und Adlige genießen mehr Respekt als Bürgerliche. Frauen können ebenfalls assoziierte Mitglieder werden (Konsoeurs), werden jedoch getrennt von den Männern untergebracht. Assoziierte Mitglieder unterliegen derselben Regel wie Vollmitglieder, haben jedoch weniger Rechte. Einige assoziierte Mitglieder können wichtige Positionen in einer bestimmten Tempelritter-Komturei bekleiden, insbesondere wenn sie über eine wertvolle Fähigkeit verfügen.
+
+#### Templerstelleninhaber
+*Klein, Sozialer Status*<br>
+Der Charakter bekleidet eine Position in der lokalen Hierarchie der Armen Ritter Christi und des Tempels zu Salomon, etwa als stellvertretender Kommandeur, Marschall oder Krankenmeister. Er kann Brüdern in seiner Region Befehle erteilen, genießt den beträchtlichen Respekt, der seiner Position zukommt, und hat die Befugnis, die Ordensregel und ihre verschiedenen Gesetze durchzusetzen, obwohl er dem lokalen Kommandeur gegenüber weisungsgebunden ist. Aufgrund seiner hohen Stellung ist er eine allgemein bekannte Person und besitzt eine Reputation der Stufe 2 in seiner Region. Du kannst diese Tugend zusammen mit einer der anderen Tempelritter-Sozialer-Status-Tugenden wählen, da dein Charakter ein erfahrener Bruder-Sergeant oder erfahrener Tempelritter-Kaplan sein kann. Diese Tugend ist mit der Kleinen Tugend Zeitlicher Einfluss vereinbar. Wenn du diese Tugend zusammen mit der Großen Tugend Templerkommandeur wählst, bekleidet dein Charakter einen der wenigen erhabenen Ränge unter den Tempelrittern, etwa als Großkommandeur oder Großmarschall, oder einen Rang, der Autorität über die östliche oder westliche Region des Ordens hat – in diesem Fall wirst du wahrscheinlich in Akkon, Paris oder London wohnen.
+
+#### Templerrang
 *Klein, Allgemein*<br>
-Der Charakter entwickelt neue Fertigkeiten auf eigene Faust außerordentlich schnell. Beim Studium durch Übung werden zur Quellenqualität zwei Punkte addiert, und bei Abenteuererfahrung werden drei Punkte zur Quellenqualität addiert.
+Als Mitglied der Armen Ritter Christi und des Tempels zu Salomon genießt der Charakter große Wertschätzung und Bewunderung unter seinen Ordensbrüdern. Dies kann auf eine große Heldentat oder Frömmigkeit zurückzuführen sein oder auf den Rang oder Stand, den er vor seinem Eintritt in den Orden hatte. Er beginnt mit einer Reputation der Stufe 4 innerhalb der Tempelritter.
+
+#### Templerdiener
+*Kostenlos, Sozialer Status*<br>
+Der Charakter ist ein Diener, der in einer Komturei der Armen Ritter Christi und des Tempels zu Salomon tätig ist. Er wird von den Tempelrittern versorgt und lebt wahrscheinlich in der Komturei selbst oder in deren Nähe. Er erhält außerdem eine seinem Beruf entsprechende Entlohnung. Als Diener der Tempelritter fällt er unter die päpstliche Bulle, die ihn von weltlicher und laikaler Autorität ausnimmt, und genießt im Allgemeinen einige Wertschätzung bei Nicht-Tempelrittern.
+
+#### Templerexperte
+*Klein, Sozialer Status*<br>
+Der Charakter arbeitet als qualifizierter Angestellter der Armen Ritter Christi und des Tempels zu Salomon und füllt eine entscheidende Rolle aus, für die die Tempelritter kein Voll- oder assoziiertes Mitglied haben, etwa als Handwerker, Schmied, Kunsthandwerker, Notar, Knappe, Soldat, Schreiber oder Übersetzer. Du kannst bei der Charaktererschaffung eine eingeschränkte Gruppe von Fertigkeiten wählen, etwa Akademische oder Kampffertigkeiten. Als Diener der Tempelritter fällt der Charakter unter die päpstliche Bulle, die ihn von weltlicher und laikaler Autorität ausnimmt, und genießt im Allgemeinen einige Wertschätzung. Diese Tugend kann von muslimischen Charakteren gewählt werden, die typischerweise als Übersetzer tätig sein werden (und die außerdem den Fehler Außenseiter oder einen ähnlichen Fehler wählen sollten).
+
+#### Zeitlicher Einfluss
+*Klein, Allgemein*<br>
+Durch Geburt oder eine Vertrauensstellung genießt du einiges politisches Gewicht in der Gesellschaft. Du hast das Ohr eines Anführers und kannst gelegentlich selbst einfache Leute führen, wenn diese deine Stellung respektieren. Je mehr Einfluss du hast, desto mehr Verantwortung trägst du, und desto schwieriger ist es, ungehindert mit Magi zusammenzuarbeiten. Grogs können diese Tugend nicht wählen.
+
+#### Gefesselte Magie
+*Klein, Hermetisch*<br>
+Du kannst die Kontrolle über deine Nicht-Ritual-Zauber an andere weitergeben, so als wären sie der Wirkende, und die Magie für die Dauer des Zaubers an sie „fesseln". Du kannst einen Zauber auch an ein Objekt fesseln, das den Zauber dann auf ein geeignetes Ziel übertragen kann, sobald es in Reichweite kommt. Dies kann sogar geschehen, wenn du einen Effekt in einem magischen Artefakt aktivierst. Ein Nebeneffekt dieser Art von Magie ist jedoch, dass alle deine Zauber und die Effekte aller magischen Artefakte, die du aktivierst, Arkane Verbindungen zu dir sind.
+
+#### Zäh
+*Klein, Allgemein*<br>
+Du kannst körperliche Strapazen besser ertragen als die meisten Menschen. Du erhältst einen Bonus von +3 auf deinen Absorptionswert.
+
+#### Stadtrichter
+*Klein, Sozialer Status*<br>
+Der Charakter hat eine richterliche Verantwortungsposition in einer Stadt mit einem kleinen Stab von untergeordneten Beamten (bis zu fünf Personen). Der Charakter muss Bürger der Stadt sein, einen Wert von mindestens 3 in der Fertigkeit Zivil- und Kanonisches Recht (oder Gewohnheitsrecht) besitzen und erhält als Gegenleistung für seine Dienste einen Lohn oder besondere Privilegien. Das Amt des Richters beansprucht den Charakter für zwei Quartale pro Jahr, die restlichen zwei Quartale steht er jedoch frei zur Verfügung. Akademische Fertigkeiten können bei der Charaktererschaffung für den Charakter erworben werden.
+
+#### Ausgebildeter Attentäter
+*Klein, Allgemein*<br>
+Diese Tugend steht nur Charakteren mit einer der Sozialer-Status-Tugenden der Nizaris zur Verfügung. Er hat mehrere Missionen im Auftrag seiner Meister absolviert und erhält dadurch 50 zusätzliche Erfahrungspunkte, die für beliebige Kampffertigkeiten sowie für Athletik, Täuschung oder Schleichen ausgegeben werden können.
+
+#### Troubadour/Trobairitz
+*Klein, Sozialer Status*<br>
+Troubadoure sind wandernde Minnesänger und Dichter („Trobairitz" ist die weibliche Form). Die Tradition hat ihren Ursprung in Südfrankreich (siehe Faith and Flame, [Seite 12](#kapitel-5-fertigkeiten)), hat sich jedoch über weite Teile Westeuropas verbreitet.
+
+Du bist an keine Gemeinschaft gebunden und lebst vom Auftreten, Unterhalten oder sonstigen Gelegenheitsarbeiten. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten wählen und solltest eine Reputation hinsichtlich der Art des Materials, das du produzierst, sowie deiner Treue zu den Grundsätzen der Courtoisie besitzen. Die Große Tugend Wohlstand und der Große Fehler Arm betreffen dich normal, obwohl du, falls du wohlhabend bist, von jemandem unterstützt wirst. Dein Unterstützer stellt deine Aktivitäten jedoch in keiner Weise in Frage.
+
+Troubadour-Charaktere besitzen oft Tugenden wie Berühmt, Freie Ausdrucksfähigkeit, Inspirierend, Begabung in Vortrag, Soziale Kontakte, Wahre Liebe und Vielgereist.
+
+#### Zirkuserziehung
+*Klein, Allgemein*<br>
+Du wurdest in einer Gruppe von Unterhaltungskünstlern aufgezogen und verbrachtest einen Großteil deiner Kindheit damit, von Stadt zu Stadt zu reisen. Würfe auf Fertigkeiten in einem ausgewählten Bereich (der vom Spielleiter genehmigt werden sollte) erhalten einen Bonus von +2. Beispiele wären Akrobatik und Bodenturnen, Messerwurf und Jonglieren, oder Geschichtenerzählen und Schauspielerei.
+
+#### Wahrer Glaube
+*Groß, Allgemein*<br>
+Durch Frömmigkeit und heilige Hingabe hast du einen Glauben, der Berge versetzt. Du hast einen Wert von 1 im Wahren Glauben und kannst weitere erlangen. Mehr über den Wahren Glauben findest du auf [Seite 419](#wahrer-glaube-1).
+
+#### Wahre Liebe (SC)
+*Klein, Allgemein*<br>
+Du hast die eine Person gefunden, die in der gesamten Schöpfung für dich bestimmt ist, und die Bindung zwischen euch kann nicht getrennt werden. Wann immer du leidest, in Gefahr bist oder niedergeschlagen bist, gibt dir der Gedanke an deine Liebe die Kraft, durchzuhalten. Du kannst daher +3 auf passende Persönlichkeitseigenschaft-Würfe addieren und zusätzliche Boni, die der Spielleiter erlaubt (niemals mehr als +3 insgesamt), auf Handlungen, die dich zu deiner Liebe zurückführen oder ihr Leben retten. In äußerster Not mag sie sogar kommen, um dich zu retten. Andererseits bist du an deine Geliebte gebunden, zu der du häufig zurückkehren musst. Tust du das nicht, können dir bei den meisten Handlungen, die Willenskraft erfordern, Malus-Punkte durch Melancholie entstehen. Wenn irgendeine Verzauberung dich von der Seite deiner wahren Liebe fernhält, kann die Kraft deiner Hingabe sie wahrscheinlich brechen. Deine Wahre Liebe ist ein anderer Spielercharakter, der ebenfalls diese Tugend besitzen muss. Wahre Liebe ist niemals einseitig.
+
+Diese Tugend kann in „Wahrer Freund" umbenannt werden, um gleichermaßen enge Bindungen zu umfassen, die nicht romantischer Natur sind.
+
+#### Turba-Ausgebildet
+*Klein, Sozialer Status*<br>
+Dieser Charakter ist im Konvent aufgewachsen, wurde für den Kampf in der Turba ausgebildet und hat einiges von den vertrauenswürdigen Dienern der Magi aufgeschnappt. Bei der Charaktererschaffung darf er Kampffertigkeiten erlernen. Er darf außerdem die einzige tote Sprache erlernen, die die Magi sprechen, zusätzlich zu seiner Muttersprache. Sein Schicksal ist mit der Turba verbunden, weshalb es ihm verboten ist, Wohlhabend oder Arm zu sein.
 
 #### Unbeeindruckt von der Gabe
 *Klein, Allgemein*<br>
 Der Charakter ist von den negativen Auswirkungen der Gabe oder des Magischen Flairs anderer nicht betroffen. Selbst eine Auffällige Gabe stört den Charakter nicht sonderlich.
 
-#### Unempfindlichkeit gegen Kälte
+#### Nicht alternd
 *Klein, Übernatürlich*<br>
-Normale Kälte schadet dir nicht, noch bereitet sie dir Unbehagen. Du benötigst keine warme Umgebung, um gesund zu bleiben. Extreme, magisch erzeugte Kälte, wie etwa der Effekt von Eisiger Griff des Zauberers ([Seite 346](#eisiger-griff-des-zauberers)), betrifft dich jedoch weiterhin normal.
+Du leidest nicht unter den Auswirkungen des Alterns. Im Spielsinne verringern deine Alterungspunkte nicht deine Eigenschaften, sondern häufen sich nur an, um dir Gebrechlichkeitspunkte zu verleihen. Wenn eine Krise nicht potenziell tödlich ist, erleidest du keine nachteiligen Folgen. Du kannst an terminalen und potenziell tödlichen Krisen nach den normalen Regeln sterben. Du wirst nicht hinfällig, wenn du vier Gebrechlichkeitspunkte erreichst, stirbst aber wie üblich, wenn du fünf erreichst. Du kannst dein scheinbares Alter frei wählen, obwohl es, wenn du grundsätzlich menschlich bist, kleiner oder gleich deinem tatsächlichen Alter sein sollte.
 
 #### Ungebundene Zunge
 *Klein, Übernatürlich*<br>
@@ -5051,22 +5195,6 @@ Wann immer der Charakter in eine nicht-menschliche Form verwandelt wird (ob durc
 #### Universitätsgrammatiklehrer
 *Klein, Sozialer Status*<br>
 Der Charakter ist von einer Universität angestellt, um deren jüngeren Mitgliedern Grammatik zu unterrichten. Der Charakter kann jeden Alters und Geschlechts sein. Er kann bei der Charaktererschaffung die Akademischen Fertigkeiten Latein und Artes Liberales erwerben und sollte einen Wert in der Fertigkeit Unterrichten besitzen. Er muss zwei Quartale im Jahr unterrichten.
-
-#### Unscheinbares Gesicht
-*Klein, Allgemein*<br>
-Dieser Charakter wird niemals der sein, der auffällt oder aus einer Menge herausgesucht wird. Momente nachdem man mit ihm gesprochen hat, können die wenigsten Menschen eine angemessene Beschreibung von ihm geben. Ihm werden oft Dinge nachgesehen, weil die Leute nicht sicher sind, ob es tatsächlich er war. Wenn andere Charaktere einen Wurf vornehmen müssen, um ihn zu identifizieren, geschieht dies mit –3. Auf der negativen Seite ist diese Eigenschaft unvereinbar mit großer Schönheit, Charisma oder befehlsgewaltiger Präsenz. Tugenden wie Venussegen oder Inspirierend sind ausgeschlossen, obwohl Venusfluch möglich wäre.
-
-#### Unscheinbares Gesicht
-*Klein, Allgemein*<br>
-Nachdem andere Charaktere diesen Charakter getroffen haben, fällt es ihnen in der Regel schwer, ihn so zu beschreiben, dass er sich hinreichend von anderen unterscheiden ließe. Manche vergesslichen Charaktere sind schlicht von durchschnittlicher Größe und Statur, mit unauffälligen Zügen. Andere haben ein bestimmtes Merkmal, das so auffällig ist, dass es alle anderen Erinnerungen verdrängt. Er trägt einen protzigen Hut. Sie hatte ein kleines Hündchen dabei. Die Charaktere können sich an das auffällige Merkmal erinnern, an kaum etwas anderes jedoch. Ein Spieler, der diese Tugend für seinen Charakter wählt, muss festlegen, welche Form der Tugend sein Charakter hat.
-
-Ein Charakter, der schlicht durchschnittlich ist, ist immer vergesslich. Er kann diese Eigenschaft nicht abschalten und nutzt möglicherweise Requisiten, wenn er sich unter anderen Kriminellen eine Reputation aufbaut. Er kann zum Beispiel „der Typ mit den schwarzen Handschuhen, der Leute erdrosselt" sein, obwohl sich niemand genau erinnert, wie er aussieht. Eng verbundene Charaktere können sich mit der Zeit so sehr an das vergessliche Gesicht des Charakters gewöhnen, dass sie es sich einprägen.
-
-Ein Charakter, der mit einem Requisit ablenkt, kann nach Belieben auffällig sein. Er muss seine Ablenkungsmittel einfach nicht einsetzen, wenn er einen Eindruck hinterlassen möchte. Er kann sein ablenkendes Requisit auch wechseln. Hört er beispielsweise, dass jemand nach einer Dame mit einem seltsamen Hund sucht, könnte er auf ein Baby oder einen kuriosen Hut wechseln. Ein Charakter, der mit Requisiten ablenkt, wird von zufälligen Menschen in Menschenmassen in der Regel nicht erkannt (deren Augen ebenfalls dem Requisit folgen und nicht dem Gesicht), doch dieser Schutz ist weniger vollkommen als ein wirklich vergessliches Gesicht.
-
-#### Untrüglicher Blick für (Ware)
-*Klein, Allgemein*<br>
-Für eine bestimmte Ware und daraus hergestellte Produkte kann der Charakter niemals eine ungenaue Werteinschätzung vornehmen. Ein Charakter mit einem untrüglichen Blick für Wolle zum Beispiel kann Wolle durch Berühren klassifizieren und ihren Preis stets genau abschätzen. Der Charakter kann auch Wollstoff und Wollestickereiarbeiten bewerten. Ein Charakter mit einem untrüglichen Blick für Edelsteine erkennt stets gefälschte, gerissene und illusorische Steine. Charaktere mit dieser Tugend sind begehrte Angestellte und werden gelegentlich von anderen Händlern als Berater bezahlt. Solange sie ausschließlich mit der Ware handeln, die zu dieser Tugend passt, ist der Charakter sehr erfolgreich. Wenn du die Handelsregeln aus *City and Guild* verwendest, erhalten sie zusätzliche (3 × Wohlstandsmultiplikator) Arbeitspunkte pro Jahr.
 
 #### Variable Kraft
 *Klein, Übernatürlich*<br>
@@ -5084,119 +5212,41 @@ Der Charakter ist ein Venditor, ein Verkaufsagent für eine Verditius-Maga, der 
 *Klein, Allgemein*<br>
 Menschen fühlen sich oft zu dir hingezogen. Du erhältst +3 auf Kommunikations- und Präsenz-Würfe mit Charakteren, die sexuell kompatibel sind, in passenden Situationen. Manchmal kannst du dies sinnvoll nutzen. Zu anderen Zeiten ist es lästig.
 
-#### Verbesserte Eigenschaften
-*Klein, Allgemein*<br>
-Du hast drei zusätzliche Punkte, um Eigenschaften zu kaufen, bist jedoch weiterhin auf einen Höchstwert von +3 in jeder einzelnen Eigenschaft beschränkt, sofern du nicht die Tugend Hervorragende Eigenschaft nimmst. Du kannst diese Tugend mehrfach nehmen.
-
-#### Verbitterung
-*Groß, Übernatürlich*<br>
-Du kannst jemanden gegenüber einem Ziel deiner Wahl feindlich stimmen. Die Wahl dieser Tugend verleiht dir die Fertigkeit Verbitterung 1.
-
 #### Verditius-Magie
 *Klein, Hermetisch*<br>
 Du wurdest in das Äußere Mysterium der Verditius-Magie eingeweiht (siehe [Seite 240](#verditius-verditius-magie)) und bist damit Mitglied des Hauses Verditius. Beachte, dass alle Verditius-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
 
-#### Verfluchter Schatz
-*Klein, Allgemein, Befleckt*<br>
-Der Charakter hat eine riesige Menge Schatz geerbt oder erworben, doch dieser ist verflucht, Schaden anzurichten. Dieser Schatz könnte von einem Vorfahren stammen, der einen Handel mit Dämonen einging oder sie um Geld betrog. Vielleicht wurde er auch aus einem der geheimen Verstecke gestohlen, die Dämonen unterhalten, damit Reichtum in der Nähe ist, um Menschen zu verführen. Eine verdorbene Person, die sich auflehnt und den Fehler Tragisches Leben gegen den Fehler Von übernatürlicher Wesenheit verfolgt tauscht, könnte versucht sein, einige der wertvollen Requisiten beizubehalten, die für ihre Rolle bereitgestellt wurden. Der Schatz ist ausreichend, dass der Charakter ihn in eine Quelle der Tugend Wohlstand verwandeln könnte. Als Beispiele könnte der Charakter ein Schiff kaufen und Händler werden oder Land in einer Stadt kaufen und Vermieter werden.
-
-Die Schwierigkeit besteht darin, dass der Reichtum verflucht ist und daher nicht den natürlichen Anstieg an Gütern aufweist, der eine Gabe Gottes darstellt. Wird er gegen andere Wertgegenstände eingetauscht, geht der Fluch auf diese über. Jedes Unternehmen, in das er investiert wird, wird schließlich scheitern. Jedes Gebäude, das damit gekauft wird, wird schließlich abbrennen. Wird er für einen nicht-sündhaften Zweck verwendet, zerstört der Schatz sich selbst: Gold, das für wohltätige Zwecke gespendet wird, verwandelt sich in Sand, Schiffe, die Vorräte zu den Hungernden befördern, steuern sich selbst auf Felsen zu.
-
-Der Reichtum kann dazu verwendet werden, die Dienste von Menschen zu erkaufen, die, weil sie Seelen haben, ihr eigenes Schicksal wählen. Die Einschränkung, dass der Reichtum sich selbst nur für sündhafte Zwecke ausgeben lässt, bleibt jedoch bestehen, sodass er wahrscheinlich an amoralische, habgierige, neidische, gefährliche Menschen weitergegeben wird.
-
-> #### Die Tempelritter
->
-> Die Armen Ritter Christi und des Tempels zu Salomon, die Tempelritter, sind ein äußerst wichtiger und einflussreicher Orden im Mythischen Europa. Frauen können sich nicht durch die Tugend Erkaufte Rechte von der Zahlung einer Buße freikaufen, um eine Rolle im Orden zu übernehmen, die Männern vorbehalten ist. Ausführliche Einzelheiten finden sich in Kapitel 7 von The Church.
-
-#### Verführer der Massen
-*Klein, Allgemein, Befleckt*<br>
-Der Charakter besitzt eine Version der Inspirierend-Tugend, die jedoch ausschließlich dazu eingesetzt werden kann, Menschen zu bösen Taten zu verleiten. Der Charakter wirkt dabei demagogisch statt heldenhaft und kann eine Gruppe, die er in Raserei versetzt hat, nicht mehr kontrollieren. Der Aufwiegler zwingt Einzelpersonen einer Gruppe dazu, Persönlichkeitseigenschafts-Würfe auf die jeweilige Sünde vorzunehmen, zu der er sie zu verleiten sucht, mit einem Bonus von +5 oder mehr.
-
-#### Verhexung
-*Groß, Übernatürlich*<br>
-Der Charakter hat die Fähigkeit, ihre Feinde zu verfluchen, indem sie unheilvolle Prophezeiungen über deren Zukunft ausspricht, die sich zu bewahrheiten pflegen. Dies verleiht ihr die Übernatürliche Fertigkeit Verhexung mit einem Wert von 1. Diese Tugend ist am häufigsten mit der Höllensphäre verbunden.
-
-#### Verschlungener Geist
-*Klein, Allgemein, Befleckt*<br>
-Der Charakter ist so häufig den Machenschaften von Dämonen ausgesetzt, dass er ein Gespür dafür entwickelt hat, wie ihre Gedanken funktionieren. Der Charakter erhält einen +3-Bonus auf alle Infernalkunde-Würfe, um zu bestimmen, was ein Dämon tun wird, und hat ein Gespür – ähnlich der Tugend Gesunder Menschenverstand –, das ihn davon abhält, im Umgang mit Dämonen dumme Dinge zu tun.
-
-#### Verstärkte Magie
-*Klein, Hermetisch*<br>
-Indem du beim Wirken von Formulaischen Zaubern einen Bauern Vis ausgibst, kannst du Reichweite, Dauer, Ziel oder Größe des Effekts um eine Magnitude „verstärken". Du kannst dies für denselben Zauber mehrmals tun.
-
-Zum Beispiel würde das Verstärken der Reichweite von Berührung auf Sicht und des Ziels von Individuum auf Gruppe vier Bauern Vis kosten. Du kannst keinen der Parameter des Zaubers verringern und nicht die Grenzen Formulaischer Magie überschreiten. Zaubererfolg, Erschöpfungsverlust und Penetration werden alle auf Grundlage der ursprünglichen Spruchstufe berechnet, aber du addierst für jeden verwendeten Bauern Vis einen zusätzlichen Patzerwürfel. Dies hat keine Wirkung auf Spontane oder Ritualzauber, obwohl du Vis weiterhin normal zur Steigerung deiner Penetration verwenden kannst.
-
-#### Verstecktes Diebesgut finden
-*Klein, Allgemein*<br>
-Ein Charakter mit dieser Tugend erhält +9 Bonus auf Wahrnehmungswürfe beim Durchsuchen eines abgegrenzten Raumes nach versteckten Gegenständen, sofern er den Inhalt des Raumes ungestört umherräumen kann.
-
-#### Vertrautheit mit den Feen
+#### Stimme des (Landes)
 *Klein, Übernatürlich*<br>
-Du besitzt ein natürliches Verständnis für die Eigenheiten der Feen, vielleicht weil du Zeit unter ihnen verbracht hast. Du erhältst +2 auf alle Würfe, die soziale Interaktion mit Feen beinhalten. Du erhältst außerdem die Effekte der Gesunder-Menschenverstand-Tugend, jedoch nur wenn die Situation Feen betrifft. Du darfst Feenkunde bei der Charaktererschaffung erwerben, selbst wenn du normalerweise keine Arkanen Fertigkeiten nehmen kannst.
-
-#### Vielgereist
-*Klein, Allgemein*<br>
-Du hast diesen Teil der Welt ausgiebig bereist und kommst gut mit Menschen in der gesamten Region aus. Du erhältst fünfzig Bonus-Erfahrungspunkte, die du für Lebende Sprachen, Gebietskunde und Feilschen, Zechen, Charme, Etikette, Menschenkenntnis oder Täuschung ausgeben kannst.
-
-#### Vis-Gewinner der (Form)
-*Klein, Hermetisch*<br>
-Der Magus kann (Form)-Vis aus einer Magiesphären-Aura gewinnen, jedoch nur, wenn die Merkmale der Aura die Form verkörpern. Eine Aura am Ufer eines Sees verkörpert beispielsweise Aquam, eine Aura an einer Begräbnisstätte verkörpert Corpus usw. Die Vis-Gewinnung auf diese Weise ist eine Laboratoriumstätigkeit; der Magus gewinnt eine Anzahl Bauern Vis, die einem Zehntel seiner Creo-Vim-(Form)-Laborsumme entspricht (aufgerundet). Offensichtlich benötigt er dafür auch ein Laboratorium in der Aura, und natürlich kann der Magus auch wählen, stattdessen Vim-Vis zu gewinnen (siehe [Seite 250](#vis-gewinnung)). Diese Tugend kann mehrfach gewählt werden (einmal für jede Form).
-
-#### Volksmagie
-*Klein, Übernatürlich*<br>
-Der Charakter ist in der Lage, durch sein Wissen von Bruchstücken okkulten Wissens sehr geringe Magie zu wirken. Wähle eine (Sphären-)Kunde als Schlüsselfertigkeit für diese Magie; er darf diese Fertigkeit bereits bei der Charaktererschaffung erlernen, auch wenn er normalerweise keine Arkanen Fertigkeiten erwerben kann. Die Wahl der (Sphären-)Kunde bestimmt auch, welcher übernatürlichen Sphäre seine Magie für die Zwecke der Auramodifikatoren zugeordnet ist. Er kann nur Zauber in einem engen Bereich erschaffen, der eine der folgenden vier Optionen sein muss:
-
-*Abwehr:* Erschafft einen Ward gegen Tiere oder übernatürliche Kreaturen. Verwendet die Leitlinien für Rego Animal oder Rego Vim.
-
-*Divination:* Erschafft magische Sinne, die Gesundheit, Reichtum und Gemütszustand wahrnehmen. Verwendet die Leitlinien für Intellego Corpus, Intellego Mentem und Intellego Terram.
-
-*Heilung:* Gewährt einen Genesungsbonus für Wunden oder Krankheiten und unterstützt die Geburt von Kindern und Vieh. Verwendet die Leitlinien für Creo Corpus oder Creo Animal. Infernalkunde kann nicht verwendet werden, um diese Art von Effekten zu erzeugen.
-
-*Böser Blick:* Verursacht geringfügige Bosheiten wie Schmerzen, Ernteschäden, Haarausfall, Niesen und dergleichen. Verwendet die Leitlinien für Perdo Corpus, Perdo Animal oder Perdo Herbam. Dominiumkunde kann nicht verwendet werden, um diese Art von Effekten zu erzeugen.
-
-Um einen Zauber zu wirken, muss der Charakter eine Erschöpfungsstufe aufwenden, ob der Zauber gelingt oder misslingt. Er muss außerdem mindestens 15 Minuten damit verbringen, den Zauber vorzubereiten, während er ununterbrochene Konzentration und Zugang zu seinen „magischen" Materialien benötigt (die zwar erforderlich, aber ohne Nutzen für den Zauberwurf sind). Der Zauber wird genau wie ein hermetischer Zauber entworfen. Die Zaubersumme entspricht (Ausdauer + (Sphären-)Kunde + Auramodifikator + Stresswürfel) / 2. Die Penetration wird auf die übliche Weise berechnet: Zauberwert – Zauberstufe + Penetrationsmodifikatoren. Du kannst diese Tugend mehrfach wählen, um Fachkenntnis in einer anderen Zauberkategorie zu erwerben. Jedes Mal, wenn du diese Tugend wählst, kannst du sie derselben Sphäre wie zuvor zuordnen oder eine andere wählen, obwohl ein Charakter keinen Zugang zu sowohl der Göttlichen als auch der Höllensphäre haben kann.
-
-#### Vollkommenes Gleichgewicht
-*Klein, Allgemein*<br>
-Du beherrschst es, dein Gleichgewicht zu halten, besonders auf schmalen Vorsprüngen oder Seilen. Addiere +6 auf jeden Wurf, um ein Fallen oder Stolpern zu vermeiden.
-
-#### Von Dämonen betreut
-*Klein, Allgemein, Befleckt*<br>
-Ein von Dämonen betreuter Charakter lernt schneller als Menschen, die von menschlichen Lehrern unterrichtet werden; doch Dämonen lehren nur jene Fertigkeiten, die ihren Plänen für den Charakter entsprechen. Von Dämonen ausgebildete Charaktere dürfen das in den Charaktererschaffungsregeln festgelegte maximale Fertigkeitsniveau für ein gegebenes Alter überschreiten. Schüler von Dämonen können außerdem Fertigkeiten besitzen, die normalerweise einem geeigneten Hintergrund vorbehalten sind. Menschen, die von Dämonen betreut werden, erkennen die übernatürliche Natur ihrer Lehrer nicht – viele betrachten ihre außergewöhnlichen Fähigkeiten als Ausdruck ihrer angeborenen Überlegenheit gegenüber anderen. Diese Haltung ist besonders häufig bei Kindern, die vom Stolz befallen sind. Betreute Charaktere haben zusätzliche 50 Erfahrungspunkte für eine beliebige Fertigkeit. Charaktere können diese Tugend mehrfach kaufen und erhalten jedes Mal 50 weitere Erfahrungspunkte. Charaktere, die zu diesem Extrem ausgebildet wurden, wissen, dass ihre Lehrer übernatürliche Gestalten sind, haben aber oft den Fehler Fabrizierte Unwissenheit.
-
-#### Vorahnungen
-*Klein, Übernatürlich*<br>
-Du spürst intuitiv, wann etwas nicht stimmt oder in Kürze schiefgehen wird. Die Wahl dieser Tugend verleiht die Fertigkeit Vorahnungen 1 ([Seite 170](#vorahnungen-1)).
-
-#### Vorsichtig mit (Fertigkeit)
-*Klein, Allgemein*<br>
-Du gehst mit einer bestimmten Fertigkeit sehr sorgfältig um und scheitest bei ihrer Anwendung weniger leicht auf spektakuläre Weise. Du würfelst zwei Patzerwürfel weniger als normal, wann immer du für diese Fertigkeit Patzerwürfel würfeln musst. Dies kann bedeuten, dass du keine Patzerwürfel würfelst. Diese Tugend kann für jede Fertigkeit gelten, selbst für eine, die du bei der Charaktererschaffung nicht erlernen kannst.
-
-#### Vorsichtiger Zauberer
-*Klein, Hermetisch*<br>
-Du gehst sehr sorgfältig mit Magie um und scheitest weniger leicht auf spektakuläre Weise, wenn du doch scheiterst. Du würfelst beim Wirken von Zaubern (ob Ritual-, Formulaisch- oder Spontanzauber) und beim Arbeiten im Laboratorium drei Patzerwürfel weniger. Diese Tugend kann die Anzahl der gewürfelten Patzerwürfel nicht unter einen senken. Ihre Wirkung wird jedoch vor allen anderen Effekten angewendet, die Patzerwürfel reduzieren, wie z. B. Zaubermeisterschaft (siehe [Seite 225](#zaubermeisterschaft)), und diese können die Anzahl der Patzerwürfel auf null reduzieren.
-
-#### Wahre Liebe (SC)
-*Klein, Allgemein*<br>
-Du hast die eine Person gefunden, die in der gesamten Schöpfung für dich bestimmt ist, und die Bindung zwischen euch kann nicht getrennt werden. Wann immer du leidest, in Gefahr bist oder niedergeschlagen bist, gibt dir der Gedanke an deine Liebe die Kraft, durchzuhalten. Du kannst daher +3 auf passende Persönlichkeitseigenschaft-Würfe addieren und zusätzliche Boni, die der Spielleiter erlaubt (niemals mehr als +3 insgesamt), auf Handlungen, die dich zu deiner Liebe zurückführen oder ihr Leben retten. In äußerster Not mag sie sogar kommen, um dich zu retten. Andererseits bist du an deine Geliebte gebunden, zu der du häufig zurückkehren musst. Tust du das nicht, können dir bei den meisten Handlungen, die Willenskraft erfordern, Malus-Punkte durch Melancholie entstehen. Wenn irgendeine Verzauberung dich von der Seite deiner wahren Liebe fernhält, kann die Kraft deiner Hingabe sie wahrscheinlich brechen. Deine Wahre Liebe ist ein anderer Spielercharakter, der ebenfalls diese Tugend besitzen muss. Wahre Liebe ist niemals einseitig.
-
-Diese Tugend kann in „Wahrer Freund" umbenannt werden, um gleichermaßen enge Bindungen zu umfassen, die nicht romantischer Natur sind.
-
-#### Wahrer Glaube
-*Groß, Allgemein*<br>
-Durch Frömmigkeit und heilige Hingabe hast du einen Glauben, der Berge versetzt. Du hast einen Wert von 1 im Wahren Glauben und kannst weitere erlangen. Mehr über den Wahren Glauben findest du auf [Seite 419](#wahrer-glaube-1).
+Der Charakter kann mit jedem Wesen sprechen, dessen natürlicher Lebensraum eine bestimmte, mit dieser Tugend verknüpfte Umgebung ist (einschließlich Tieren und magischen Wesen), und der Charakter wird von diesen Wesen normalerweise weder als Bedrohung noch als Beute wahrgenommen.
 
 #### Wanderer
 *Kostenlos, Sozialer Status*<br>
 Du bist an keine Gemeinschaft gebunden und lebst von gelegentlichen Arbeiten irgendwelcher Art. Die Große Tugend Wohlstand und der Große Fehler Arm betreffen dich normal, obwohl du, falls du wohlhabend bist, von jemandem oder einer Institution unterstützt wirst. Dein Unterstützer stellt deine Aktivitäten jedoch in keiner Weise in Frage.
 
+#### Krieger
+*Klein, Allgemein*<br>
+Du wurdest im Kampf ausgebildet und hast vielleicht einige Zeit im Feldzug verbracht, möglicherweise auf einem der Kreuzzüge. Du kannst bei der Charaktererschaffung Kampffertigkeiten erwerben und erhältst zusätzliche 50 Erfahrungspunkte, die für Kampffertigkeiten ausgegeben werden müssen.
+
 #### Wege des (Landes)
 *Groß, Allgemein*<br>
 Du hast ein tiefes Verständnis für eine bestimmte Art von Terrain und fühlst dich dort natürlicher und heimischer als sonst irgendwo. Beispiele umfassen Wege des Waldes, Wege des Gebirges, Wege der Steppe oder Wege der Stadt. Du erhältst einen Bonus von +3 auf alle Würfe, einschließlich Kampf und Zauberwerte, die direkt dieses Gebiet und seine Bewohner betreffen; ob weltlich, magisch oder feenhaft. Außerdem würfelst du bei Würfen, die deinen Verständnisbereich betreffen, einen Patzerwürfel weniger als üblich (was bedeuten kann, dass du gar keinen Patzerwürfel würfelst). Von Tieren des betreffenden Terrains wirst du normalerweise nicht belästigt, und obwohl besonders bösartige Kreaturen dich möglicherweise noch angreifen, werden sie dir zumindest gebührenden Respekt entgegenbringen. (Bei Wegen der Stadt gilt dies weiterhin für Stadttiere, von denen es in der mittelalterlichen Welt viele gibt, nicht für Menschen. Der +3-Bonus gilt jedoch für Menschen.) Du kannst diese Tugend mehrfach wählen, für verschiedene Arten von Terrain.
 
-#### Weiser Mann / Weise Frau
-*Klein, Sozialer Status*<br>
-Du gehörst einer breiten Gesellschaftsklasse an, die Mystiker, Seher, Heiler und ähnliche Personen umfasst. Du bist wahrscheinlich magisch begabt und wirst wahrscheinlich eine Tugend erwerben wollen, die dir irgendeine Art übernatürlicher Fähigkeit verleiht. Du bist in der Gemeinschaft angesehen, obwohl deine Anwesenheit auch Furcht sowie Ehrfurcht oder Respekt hervorrufen kann. Wenn dir ein solches Ansehen fehlt, bist du höchstwahrscheinlich ein Wanderer oder Ausgestoßener. Du kannst bei der Charaktererschaffung entweder Arkane oder Akademische Fertigkeiten wählen, aber nicht beides. Die Große Tugend Wohlstand und der Große Fehler Arm betreffen dich normal. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung.
+#### Wohlhabend
+*Groß, Allgemein*<br>
+Du bist ein wohlhabendes Mitglied deines Standes. Du kannst drei Quartale pro Jahr mit Studium oder Abenteuern verbringen, da du Menschen dafür bezahlen kannst, deine Interessen zu wahren, und diese Quartale wirklich frei sind. Wie wohlhabend du genau bist, hängt von deinem sozialen Stand ab: Ein Adliger hätte mindestens ein Dutzend Diener, darunter einige Leibwächter, während ein wohlhabender Stadtbürger ein gutes Haus und vielleicht drei Diener hätte. Was auch immer dein Stand ist, du bist wohlhabend genug, um dir Güter leisten zu können, die im Allgemeinen mit einem höheren Stand verbunden sind, und riskierst daher, als vulgärer sozialer Aufsteiger bezeichnet zu werden. Wohlhabende Charaktere können in einem Konvent leben, werden aber nicht vom Konvent unterhalten. Da alle Hermetischen Magi von ihrem Konvent unterhalten werden, kann kein Magus diese Tugend wählen.
+
+#### Vielgereist
+*Klein, Allgemein*<br>
+Du hast diesen Teil der Welt ausgiebig bereist und kommst gut mit Menschen in der gesamten Region aus. Du erhältst fünfzig Bonus-Erfahrungspunkte, die du für Lebende Sprachen, Gebietskunde und Feilschen, Zechen, Charme, Etikette, Menschenkenntnis oder Täuschung ausgeben kannst.
+
+#### Den Wind heraufpfeifen
+*Groß, Übernatürlich*<br>
+Du kannst durch Pfeifen Winde erzeugen. Diese Tugend verleiht einen Wert von 1 in der Übernatürlichen Fertigkeit Den Wind heraufpfeifen.
+
+#### Natursinn
+*Klein, Übernatürlich*<br>
+Du bist auf mystische Weise mit der Natur der Wildnis verbunden. Die Wahl dieser Tugend verleiht die Fertigkeit Natursinn 1 ([Seite 172](#natursinn-1)).
 
 #### Weisheit aus Unwissen
 *Klein, Übernatürlich*<br>
@@ -5204,37 +5254,9 @@ Eine in Ägypten beheimatete Sufi-Schule interessiert sich besonders für Kallig
 
 Die Sufis nutzen diese Fähigkeit, um ein Verständnis für geistliche Angelegenheiten zu erlangen, daher sollten Spieler Fähigkeitsbücher ganz normal erstellen, und wenn Sufis diese Tugend nutzen, die aus dem Buch erlernte Fertigkeit auf Theologie Organisationskunde: Sufis oder ähnlich erhebende Themen umstellen. Ein Sufi, der diese Tugend nutzt, kann gelegentlich Erfahrung in materiell praktischen Fertigkeiten gewinnen, aber dies geschieht nur im Zusammenhang mit der Überwindung spezifischer Herausforderungen auf geistlichen Reisen. Direkt anwendbares Lernen dieser Art gilt für den Sufi als Wunder, und Spieltruppen sollten dies wie jedes andere Wunder beaufsichtigen.
 
-#### Wildheit
-*Klein, Allgemein, nur Tiere*<br>
-Wie Gefährten- und Magus-Charaktere besitzt dieser Charakter Selbstvertrauenspunkte. Diese Selbstvertrauenspunkte können jedoch nur in Situationen eingesetzt werden, in denen seine natürliche tierische Wildheit ausgelöst wird, etwa wenn er seinen Bau verteidigt oder gegen einen natürlichen Feind kämpft. Beschreibe eine Situation, die das Selbstvertrauen seiner Art auslöst, und nimm 3 Selbstvertrauenspunkte und einen Selbstvertrauenswert von 1, die eingesetzt werden können, wenn diese Umstände eintreten.
-
-#### Willensstark
-*Klein, Allgemein*<br>
-Du lässt dich nicht leicht zu Handlungen, Überzeugungen oder Gefühlen zwingen. Du erhältst +3 auf jeden Wurf, der Willenskraft erfordern könnte.
-
-#### Den Wind heraufpfeifen
-*Groß, Übernatürlich*<br>
-Du kannst durch Pfeifen Winde erzeugen. Diese Tugend verleiht einen Wert von 1 in der Übernatürlichen Fertigkeit Den Wind heraufpfeifen.
-
-#### Wohlhabend
-*Groß, Allgemein*<br>
-Du bist ein wohlhabendes Mitglied deines Standes. Du kannst drei Quartale pro Jahr mit Studium oder Abenteuern verbringen, da du Menschen dafür bezahlen kannst, deine Interessen zu wahren, und diese Quartale wirklich frei sind. Wie wohlhabend du genau bist, hängt von deinem sozialen Stand ab: Ein Adliger hätte mindestens ein Dutzend Diener, darunter einige Leibwächter, während ein wohlhabender Stadtbürger ein gutes Haus und vielleicht drei Diener hätte. Was auch immer dein Stand ist, du bist wohlhabend genug, um dir Güter leisten zu können, die im Allgemeinen mit einem höheren Stand verbunden sind, und riskierst daher, als vulgärer sozialer Aufsteiger bezeichnet zu werden. Wohlhabende Charaktere können in einem Konvent leben, werden aber nicht vom Konvent unterhalten. Da alle Hermetischen Magi von ihrem Konvent unterhalten werden, kann kein Magus diese Tugend wählen.
-
-#### Wünschelrutengehen
-*Klein, Übernatürlich*<br>
-Du besitzt die Fähigkeit, nahe gelegene Dinge mithilfe einer Wünschelrute (üblicherweise ein gegabelter Stock) und deines eigenen intuitiven Sinns aufzuspüren. Die Wahl dieser Tugend verleiht dir die Fertigkeit Wünschelruten 1 ([Seite 164](#wünschelrutengehen-1)).
-
-#### Zäh
-*Klein, Allgemein*<br>
-Du kannst körperliche Strapazen besser ertragen als die meisten Menschen. Du erhältst einen Bonus von +3 auf deinen Absorptionswert.
-
-#### Zauberartefakte
-*Klein, Allgemein*<br>
-Du beginnst mit 25 zusätzlichen Startstufen an Zauberartefakten im Vergleich zu dem, was du sonst hättest, und die Rate, mit der deine Artefakte verbessert werden, erhöht sich um eine Stufe pro Jahr. Dies liegt wahrscheinlich an deiner außergewöhnlichen Hingabe an das Haus oder daran, dass du eine Reihe von Artefakten von anderen Rotkappen geerbt hast. Du musst eine Rotkappe sein, um diese Tugend zu nehmen, und du kannst sie mehr als einmal nehmen, obwohl kein einzelner Effekt in einem deiner Artefakte größer als Stufe 30 sein darf.
-
-#### Zauberimprovisation
-*Klein, Hermetisch*<br>
-Der Magus kann die Magnitude eines formulaischen Zaubers, den er kennt, als Bonus auf seine Zaubersumme addieren, wenn er spontan einen ähnlichen Zauber wirkt (siehe Ähnliche Zauber, [Seite 260](#ähnliche-zauber)). Dies gilt auch für das Schnellzaubern eines Zaubers, der einem seiner formulaischen Zauber gleich oder sehr ähnlich ist – allerdings erhält er diesen Bonus nicht, wenn er die Schnellzauber-Fertigkeit für einen gemeisterten Zauber besitzt, da in diesem Fall stattdessen sein Fertigkeitswert in der Zaubermeisterschaft addiert wird. Dieser Bonus lässt sich nicht mit anderen Boni auf die Zaubersumme stapeln und lässt sich auch nicht mit sich selbst stapeln, falls der Magus zufällig mehrere ähnliche Zauber kennt.
+#### Weiser Mann / Weise Frau
+*Klein, Sozialer Status*<br>
+Du gehörst einer breiten Gesellschaftsklasse an, die Mystiker, Seher, Heiler und ähnliche Personen umfasst. Du bist wahrscheinlich magisch begabt und wirst wahrscheinlich eine Tugend erwerben wollen, die dir irgendeine Art übernatürlicher Fähigkeit verleiht. Du bist in der Gemeinschaft angesehen, obwohl deine Anwesenheit auch Furcht sowie Ehrfurcht oder Respekt hervorrufen kann. Wenn dir ein solches Ansehen fehlt, bist du höchstwahrscheinlich ein Wanderer oder Ausgestoßener. Du kannst bei der Charaktererschaffung entweder Arkane oder Akademische Fertigkeiten wählen, aber nicht beides. Die Große Tugend Wohlstand und der Große Fehler Arm betreffen dich normal. Diese Tugend steht männlichen und weiblichen Charakteren zur Verfügung.
 
 #### Zaubern aushalten
 *Klein, Hermetisch*<br>
@@ -5257,26 +5279,6 @@ Einige Tugenden, wie Lebensstärkung und Lebensgebundene Spontane Magie, nutzen 
 Es ist jedoch sinnvoll, die Tugend Magie widerstehen auch bei Lebensgebundener Spontaner Magie zu besitzen, falls der Fehlbetrag extrem ist; zum Beispiel, wenn der Magus einen Patzer würfelt und die Zaubersumme auf null sinkt.
 
 *Beispiel: Einige Zeit später versucht Vita es erneut und hofft, einen weiteren Zauber der Stufe 20 zu wirken. Sie würfelt jedoch einen Patzer, und ihre Zaubersumme beträgt null. Sie würde normalerweise 6 Erschöpfungsstufen verlieren (1 für spontanes Zaubern, plus 1 für Anfälliges Zaubern, plus 4 für den Fehlbetrag bei der Zaubersumme), aber sie kann 3 Erschöpfungsstufen widerstehen und erleidet nur einen Nettoverlust von 3 Erschöpfungsstufen. Der Zauber scheitert, aber sie ist noch bei Bewusstsein.*
-
-#### Zeitlicher Einfluss
-*Klein, Allgemein*<br>
-Durch Geburt oder eine Vertrauensstellung genießt du einiges politisches Gewicht in der Gesellschaft. Du hast das Ohr eines Anführers und kannst gelegentlich selbst einfache Leute führen, wenn diese deine Stellung respektieren. Je mehr Einfluss du hast, desto mehr Verantwortung trägst du, und desto schwieriger ist es, ungehindert mit Magi zusammenzuarbeiten. Grogs können diese Tugend nicht wählen.
-
-#### Zirkuserziehung
-*Klein, Allgemein*<br>
-Du wurdest in einer Gruppe von Unterhaltungskünstlern aufgezogen und verbrachtest einen Großteil deiner Kindheit damit, von Stadt zu Stadt zu reisen. Würfe auf Fertigkeiten in einem ausgewählten Bereich (der vom Spielleiter genehmigt werden sollte) erhalten einen Bonus von +2. Beispiele wären Akrobatik und Bodenturnen, Messerwurf und Jonglieren, oder Geschichtenerzählen und Schauspielerei.
-
-#### Zunftausbildung
-*Klein, Allgemein*<br>
-Dieser Charakter hat während seiner Lehre eine überdurchschnittliche Ausbildung von einem Handwerksmeister oder einer professionellen Zunft erhalten. Wie Krieger und Gebildet verleiht diese Tugend einen Bonus von 50 Erfahrungspunkten. Diese müssen für Handwerk- oder Berufsfertigkeiten, Feilschen oder Organisationskunde: Zunft ausgegeben werden.
-
-#### Zweites Gesicht
-*Klein, Übernatürlich*<br>
-Du kannst durch illusorische Verbergung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und kannst außerdem von Natur aus unsichtbare Dinge erkennen, wie Geister und die Grenzen zwischen Regio-Ebenen (siehe [Seite 421](#regiones-betreten-und-verlassen)). Die Wahl dieser Tugend verleiht die Fertigkeit Zweites Gesicht 1 ([Seite 170](#zweites-gesicht-1)).
-
-#### Zyklische Magie (positiv)
-*Klein, Hermetisch*<br>
-Deine Magie ist auf einen Naturzyklus abgestimmt (z. B. solar, lunar oder saisonal) und ist daher zu bestimmten Zeiten besonders potent. Zu diesen Zeiten erhältst du einen +3-Bonus auf alle Zauberwerte. Der Bonus gilt auch für Laborsummen, wenn der positive Teil des Zyklus die gesamte Saison abdeckt. Der Zyklus deiner Magie muss regelmäßig und vom Spielleiter genehmigt sein. Außerdem muss der Zeitraum, in dem der Bonus gilt, gleich lang sein wie der Zeitraum, in dem er nicht gilt.
 
 ## Liste der Fehler
 
@@ -5794,7 +5796,7 @@ Du bist auf ein begehrtes Objekt, eine Handlung oder ein Ideal fixiert. Dies bee
 
 #### Bigamist
 *Groß, Geschichte*<br>
-Der Charakter führt zwei völlig getrennte Leben in zwei Städten und wechselt unter einem Vorwand zwischen ihnen hin und her, höchstwahrscheinlich als Händler. Bigamisten haben zwei Ehepartner und unterhalten zwei Haushalte, die sie finanzieren müssen. Wenn du die Regeln aus *City and Guild* verwendest, erhöhen sich die jährlichen Kosten des Kaufmanns für die Aufrechterhaltung seines Geschäfts um (6 × Vermögensmultiplikator) Arbeitspunkte. Manche Bigamisten mildern diese Ausgabe, indem sie in ihrem anderen Leben einen niedrigeren sozialen Status vortäuschen, was die zusätzlichen Arbeitspunktkosten um die Hälfte reduziert (auf 3 × Vermögensmultiplikator).
+Der Charakter führt zwei völlig getrennte Leben in zwei Städten und wechselt unter einem Vorwand zwischen ihnen hin und her, höchstwahrscheinlich als Händler. Bigamisten haben zwei Ehepartner und unterhalten zwei Haushalte, die sie finanzieren müssen. Wenn du die Regeln aus *Stadt & Gilde* verwendest, erhöhen sich die jährlichen Kosten des Kaufmanns für die Aufrechterhaltung seines Geschäfts um (6 × Vermögensmultiplikator) Arbeitspunkte. Manche Bigamisten mildern diese Ausgabe, indem sie in ihrem anderen Leben einen niedrigeren sozialen Status vortäuschen, was die zusätzlichen Arbeitspunktkosten um die Hälfte reduziert (auf 3 × Vermögensmultiplikator).
 
 #### Blind
 *Groß, Allgemein*<br>
@@ -5814,7 +5816,7 @@ Der Spielleiter nutzt diesen Fehler, um die Höllensphäre subtil in deinen Char
 
 #### Brutaler Künstler
 *Klein, Hermetisch*<br>
-Dieser Fehler steht nur Magi des Hauses Jerbiton zur Verfügung. Der Magus erschafft und genießt Kunst, die seinen Hausgenossen zufolge hässlich ist. Er erleidet eine –3-Strafe auf soziale Würfe mit Jerbiton-Magi und kann innerhalb des Hauses keine positive Reputation entwickeln, da sein Geist offensichtlich gestört ist. Das schränkt seine Beteiligung an den Ligen ein (siehe *Houses of Hermes: Societates*, Seite 53). Im Laufe der Zeit könnte der Charakter seine Sodales davon überzeugen, dass sein Werk nicht hässlich ist, doch das erfordert Geschichten, ähnlich wie das Ablegen eines anderen Fehlers.
+Dieser Fehler steht nur Magi des Hauses Jerbiton zur Verfügung. Der Magus erschafft und genießt Kunst, die seinen Hausgenossen zufolge hässlich ist. Er erleidet eine –3-Strafe auf soziale Würfe mit Jerbiton-Magi und kann innerhalb des Hauses keine positive Reputation entwickeln, da sein Geist offensichtlich gestört ist. Das schränkt seine Beteiligung an den Ligen ein (siehe *Häuser des Hermes: Gemeinschaften*, Seite 53). Im Laufe der Zeit könnte der Charakter seine Sodales davon überzeugen, dass sein Werk nicht hässlich ist, doch das erfordert Geschichten, ähnlich wie das Ablegen eines anderen Fehlers.
 
 #### Bucklig
 *Klein, Allgemein*<br>
@@ -5950,7 +5952,7 @@ Du bist aus irgendeinem Grund völlig unfähig, eine bestimmte Klasse von Fertig
 
 #### Fallsucht
 *Groß, Allgemein*<br>
-Der Charakter leidet gelegentlich unter Krämpfen und Ohnmachtsanfällen. Krämpfe treten zufällig und selten auf; für ein beliebiges Ereignis sollte der Spielleiter im Geheimen einen Stresswürfel werfen, und wenn das Ergebnis 9 oder höher ist, wird während dieses Ereignisses an einer vom Spielleiter gewählten Stelle ein Krampf auftreten. Dieser Anfall verursacht unkontrollierte Bewegungen und Halluzinationen, die den Charakter vorübergehend Handlungsunfähig machen. Er bricht zu Boden und zuckt, und du kannst jeden Runde einen Ausdauer-Wurf gegen einen Schwierigkeitsgrad von 9 durchführen; bei Erfolg endet der Krampf, obwohl der Charakter nach einem Anfall auf die Erschöpfungsstufe Betäubt reduziert wird. Die Fallende Krankheit wird üblicherweise durch Dämonenbesitz verursacht (Art & Academe, Seite 48), aber jene Form der Erkrankung ist in der Regel vorübergehender Natur. Der Charakter scheint keine Krankheit zu haben und kann sich nicht auf natürlichem Wege von dieser Afflktion erholen. Möglicherweise hat sie eine andere Ursache. Im antiken Griechenland und Rom wurde sie als „göttliche Krankheit" bezeichnet, da man glaubte, die Götter sprächen durch jene, die solche Anfälle hatten.
+Der Charakter leidet gelegentlich unter Krämpfen und Ohnmachtsanfällen. Krämpfe treten zufällig und selten auf; für ein beliebiges Ereignis sollte der Spielleiter im Geheimen einen Stresswürfel werfen, und wenn das Ergebnis 9 oder höher ist, wird während dieses Ereignisses an einer vom Spielleiter gewählten Stelle ein Krampf auftreten. Dieser Anfall verursacht unkontrollierte Bewegungen und Halluzinationen, die den Charakter vorübergehend Handlungsunfähig machen. Er bricht zu Boden und zuckt, und du kannst jeden Runde einen Ausdauer-Wurf gegen einen Schwierigkeitsgrad von 9 durchführen; bei Erfolg endet der Krampf, obwohl der Charakter nach einem Anfall auf die Erschöpfungsstufe Betäubt reduziert wird. Die Fallende Krankheit wird üblicherweise durch Dämonenbesitz verursacht (Kunst & Gelehrsamkeit, Seite 48), aber jene Form der Erkrankung ist in der Regel vorübergehender Natur. Der Charakter scheint keine Krankheit zu haben und kann sich nicht auf natürlichem Wege von dieser Afflktion erholen. Möglicherweise hat sie eine andere Ursache. Im antiken Griechenland und Rom wurde sie als „göttliche Krankheit" bezeichnet, da man glaubte, die Götter sprächen durch jene, die solche Anfälle hatten.
 
 #### Falsche Macht
 *Groß, Übernatürlich, Befleckt*<br>
@@ -6440,7 +6442,7 @@ Du hast kein Interesse am Kampf und auch keine Fähigkeit dazu. Du könntest unv
 *Klein, Übernatürlich*<br>
 Aufgrund einer Verbindung mit einer bestimmten übernatürlichen Sphäre wirkt sich das Fehlen einer entsprechenden übernatürlichen Aura deutlich auf die Fähigkeit des Charakters aus, sich auf bestimmte Aufgaben zu konzentrieren. Der Charakter hat –3 auf alle Summen, die er mit einer bestimmten Fertigkeit erzeugt, wenn er sich nicht in der richtigen Aura befindet. Ein Charakter darf diesen Fehler einmal für jede bestimmte Fertigkeit nehmen. Die gewählte Fertigkeit sollte eine sein, die der Charakter voraussichtlich häufig nutzt, etwa im Dienst am Konvent oder zur Unterstützung seiner alltäglichen Tätigkeiten.
 
-Wenn dieser Fehler auf Handwerk- oder Berufsfertigkeiten angewendet wird, verringert er außerdem die Fähigkeit des Charakters, sich selbst zu versorgen, indem er die Anzahl der Arbeitspunkte (wie in City & Guild beschrieben), die er pro Quartal ansammelt, reduziert, wenn er nicht innerhalb der entsprechenden Aura arbeitet.
+Wenn dieser Fehler auf Handwerk- oder Berufsfertigkeiten angewendet wird, verringert er außerdem die Fähigkeit des Charakters, sich selbst zu versorgen, indem er die Anzahl der Arbeitspunkte (wie in Stadt & Gilde beschrieben), die er pro Quartal ansammelt, reduziert, wenn er nicht innerhalb der entsprechenden Aura arbeitet.
 
 Die Spieltruppe sollte sorgfältig bedenken, wie ein Charakter durch die Wahl von Magie (die die meisten Konvente abdeckt) oder Dominium (das die meisten anderen menschlichen Siedlungen abdeckt) eingeschränkt würde. Würde der Charakter nicht eingeschränkt werden, sollte der Fehler nicht zugelassen werden.
 
@@ -6486,7 +6488,7 @@ Du hast Schwierigkeiten, deine Zauber genau zu zielen. Jeder Zielwurf ist anfäl
 
 #### Primitive Ausrüstung
 *Klein, Allgemein*<br>
-Der Charakter ist nur in der Lage, die einfachsten Werkzeuge und Ausrüstungen zu verwenden. Vielleicht war seine Ausbildung unvollständig, oder er wurde von einer Art Fluch betroffen, oder er stammt aus einer technologisch weniger fortschrittlichen Gesellschaft und weigert sich, sich anzupassen. Er ist auf Günstige Waffen und Rüstungen beschränkt, unabhängig davon, was ihm zur Verfügung gestellt wird. Wenn er durch Befehl oder Notwendigkeit gezwungen ist, andere Ausrüstung zu verwenden, ist seine Beladung einen Punkt höher, wenn er andere als Günstige Waffen benutzt, und einen Punkt höher, wenn er andere als Günstige Rüstungen benutzt. Er erleidet –1 auf Angriff und Verteidigung bei ungeeigneten Waffen und –1 auf Initiative und Schutz bei ungeeigneter Rüstung. Wenn der Charakter als Arbeiter oder Handwerker tätig ist, verwendet er einfache Werkzeuge und primitive Verfahren. Sofern es sich nicht um einfache Aufgaben handelt, wird der Basis-Handwerkswert (siehe City & Guild, Seite 67) nach Ermessen des Spielleiters je nach Komplexität um 1–3 erhöht. Außerdem kann ihre Werkstatt nicht in Bezug auf Innovation (City & Guild, Seite 65) verbessert werden. Andere Berufsfertigkeiten, die von Werkzeugen und Ausrüstungen abhängen, erleiden bei komplexen Aufgaben einen ähnlichen Malus. Du solltest diesen Fehler nur nehmen, wenn der Charakter einem Beruf angehört, der stark von Ausrüstung abhängt, wie Schmied, Maurer oder Soldat.
+Der Charakter ist nur in der Lage, die einfachsten Werkzeuge und Ausrüstungen zu verwenden. Vielleicht war seine Ausbildung unvollständig, oder er wurde von einer Art Fluch betroffen, oder er stammt aus einer technologisch weniger fortschrittlichen Gesellschaft und weigert sich, sich anzupassen. Er ist auf Günstige Waffen und Rüstungen beschränkt, unabhängig davon, was ihm zur Verfügung gestellt wird. Wenn er durch Befehl oder Notwendigkeit gezwungen ist, andere Ausrüstung zu verwenden, ist seine Beladung einen Punkt höher, wenn er andere als Günstige Waffen benutzt, und einen Punkt höher, wenn er andere als Günstige Rüstungen benutzt. Er erleidet –1 auf Angriff und Verteidigung bei ungeeigneten Waffen und –1 auf Initiative und Schutz bei ungeeigneter Rüstung. Wenn der Charakter als Arbeiter oder Handwerker tätig ist, verwendet er einfache Werkzeuge und primitive Verfahren. Sofern es sich nicht um einfache Aufgaben handelt, wird der Basis-Handwerkswert (siehe Stadt & Gilde, Seite 67) nach Ermessen des Spielleiters je nach Komplexität um 1–3 erhöht. Außerdem kann ihre Werkstatt nicht in Bezug auf Innovation (Stadt & Gilde, Seite 65) verbessert werden. Andere Berufsfertigkeiten, die von Werkzeugen und Ausrüstungen abhängen, erleiden bei komplexen Aufgaben einen ähnlichen Malus. Du solltest diesen Fehler nur nehmen, wenn der Charakter einem Beruf angehört, der stark von Ausrüstung abhängt, wie Schmied, Maurer oder Soldat.
 
 #### Quälender Meister
 *Groß, Geschichte*<br>
@@ -6745,7 +6747,7 @@ Du kannst nicht sprechen; möglicherweise wurde dir die Zunge herausgeschnitten.
 
 #### Sucher
 *Klein, Persönlichkeit*<br>
-Du bist ein selbsternanntes Mitglied der Sucher, einer losen Organisation konkurrierender Magi, die nach alter Magie und arkanen Artefakten suchen. Ein Großteil deines Lebens wird der Suche nach diesen Gegenständen gewidmet. Deine Interessen können gelegentlich mit anderen Interessen deines Hauses oder Konvents in Konflikt geraten. Weitere Einzelheiten über die Sucher finden sich auf [Seite 15](#kapitel-5-fertigkeiten) von Houses of Hermes: True Lineages.
+Du bist ein selbsternanntes Mitglied der Sucher, einer losen Organisation konkurrierender Magi, die nach alter Magie und arkanen Artefakten suchen. Ein Großteil deines Lebens wird der Suche nach diesen Gegenständen gewidmet. Deine Interessen können gelegentlich mit anderen Interessen deines Hauses oder Konvents in Konflikt geraten. Weitere Einzelheiten über die Sucher finden sich auf [Seite 15](#kapitel-5-fertigkeiten) von Häuser des Hermes: Wahre Linien.
 
 #### Taub
 *Groß, Allgemein*<br>
@@ -7047,7 +7049,7 @@ Du bist in der Wildnis aufgewachsen, entweder von wilden Tieren großgezogen ode
 
 #### Wilder Geruch
 *Klein, Allgemein*<br>
-Vielleicht aufgrund seines Tierbluts oder seiner wilden Erziehung hat der Charakter den starken natürlichen Geruch eines wilden Tieres. Menschen neigen dazu, ihm gegenüber nicht zu nahe zu kommen, und können in seiner Nähe ohne erkennbaren Grund angespannt sein. Er kann domestizierte Tiere erschrecken, wenn er sie überrascht. Er erleidet –1 auf soziale Interaktionen (was sich mit den Abzügen durch Die Gabe stapelt, falls er sie besitzt) und erwirbt eine negative Reputation als Unrein der Stufe 2. Hat er jedoch das Mysterium der Sinnesmagie eingeweiht (beschrieben in Houses of Hermes: Mystery Cults, Seite 27), haben alle Zauber, die er mit einem Duft-Ziel wirkt, die doppelte normale Reichweite.
+Vielleicht aufgrund seines Tierbluts oder seiner wilden Erziehung hat der Charakter den starken natürlichen Geruch eines wilden Tieres. Menschen neigen dazu, ihm gegenüber nicht zu nahe zu kommen, und können in seiner Nähe ohne erkennbaren Grund angespannt sein. Er kann domestizierte Tiere erschrecken, wenn er sie überrascht. Er erleidet –1 auf soziale Interaktionen (was sich mit den Abzügen durch Die Gabe stapelt, falls er sie besitzt) und erwirbt eine negative Reputation als Unrein der Stufe 2. Hat er jedoch das Mysterium der Sinnesmagie eingeweiht (beschrieben in Häuser des Hermes: Mysterienkulte, Seite 27), haben alle Zauber, die er mit einem Duft-Ziel wirkt, die doppelte normale Reichweite.
 
 #### Willensschwach
 *Klein, Persönlichkeit*<br>
@@ -7268,30 +7270,39 @@ Die Gabe erlaubt Charakteren, Übernatürliche Fertigkeiten im Spielverlauf zu e
 
 Diese Liste enthält alle Fertigkeiten in alphabetischer Reihenfolge. Der Typ der Fertigkeit ist in Klammern am Ende ihrer Beschreibung angegeben.
 
-#### (Tote Sprache)\*
-Diese Fertigkeit ähnelt allen anderen (Sprach-)Fertigkeiten, ist aber nur gebildeten Charakteren zugänglich. Sie verleiht die Fähigkeit, eine Sprache zu sprechen, die in den Gegenden, in denen der Charakter gelebt hat, nicht mehr als Muttersprache verwendet wird. Das wichtigste Beispiel ist Latein, die Sprache der formalen Bildung im Westen. Es ist auch die gemeinsame Sprache der Kirche und des Ordens des Hermes. In anderen Teilen der Welt erfüllen Arabisch, Griechisch und Hebräisch ähnliche Funktionen, wobei davon nur Hebräisch eine tote Sprache ist.<br>
-*Spezialisierungen:* akademischer Gebrauch, Kirchenzeremonien, hermetischer Gebrauch. (Akademisch)
+#### Tierumgang
+Pflege und Umgang mit Tieren, einschließlich Aufzucht, Versorgung, Fellpflege und Heilung.<br>
+*Spezialisierungen:* Falknerei, bestimmte Tiere. (Allgemein)
 
-#### (Lebende Sprache)\*
-Sprachgewandtheit in einer bestimmten lebenden Sprache. Statt eines Würfelmodifikators misst dein Wert in dieser Kunde deine Fähigkeit zur Verständigung.
+#### Tierverständnis\*
+Du kannst mit Tieren so kommunizieren, als wären sie Menschen. Behandle deinen Wert in Tierverständnis als deinen Wert in einer Sprache, die das Tier fließend spricht, um zu bestimmen, wie gut du dich verständigen kannst, und du darfst Tierumgang als Ersatz für jede soziale Fertigkeit verwenden, die Menschen betrifft. Darüber hinaus hat diese Fertigkeit keinen Einfluss auf die Haltung der Tiere zu dir oder von dir zu den Tieren. Andere Personen können deine Verständigung mit den Tieren nicht verstehen.<br>
+*Spezialisierungen:* eine bestimmte Tierart, eine bestimmte Art der Verständigung. (Übernatürlich)
 
-Wenn zwei Personen miteinander sprechen, bestimmt der niedrigere Fertigkeitswert, wie gut sie kommunizieren. Charaktere, die verwandte Sprachen sprechen, können sich mit einem Abzug auf ihre Werte verständigen (vom Spielleiter festgelegt), je nachdem, wie eng die beiden Sprachen verwandt sind. Zwei Dialekte derselben Sprache haben in der Regel einen Abzug von -1. Ist dein Charakter nicht auf einen Dialekt spezialisiert, solltest du einen Dialekt angeben, ohne dich auf ihn zu spezialisieren, und den Abzug hinnehmen, wenn du dich mit Sprechern eines anderen Dialekts unterhältst. Sprichst du eine „Standard"-Version der Sprache, ist das ein Dialekt, der sich von allen anderen Dialekten unterscheidet.
+#### (Gebiets-)Kunde\*
+Wissen über eine bestimmte Region, einen Konvent oder sogar ein Dorf. Es umfasst das Wissen darüber, wo sich Dinge in der unmittelbaren Umgebung befinden, lokale Geschichte und Sagen sowie die Machtzentren der Region. Je kleiner die Region, desto detaillierter dein Wissen.<br>
+*Spezialisierungen:* Geographie, Geschichte, Sagen, Politik, Persönlichkeiten. (Allgemein)
 
-Beachte, dass Latein und Hebräisch in den meisten Teilen des Mythischen Europa keine lebenden Sprachen sind. Charaktere, die jedoch an Orten leben, an denen sie es sind (etwa in einigen Konventen), dürfen diese Fertigkeit ohne besondere Tugenden erlernen. Dasselbe gilt für alle Sprachen, die in einem Gebiet als tote Sprachen erlernt werden, in einem anderen aber noch lebende Sprachen sind.
+#### Gedächtniskunst\*
+Die Gedächtniskunst befasst sich mit der Anlage von Gedächtnispalästen, einer Form von Mnemotechnik, in der man eine Reihe von *loci* (Singular *locus*) visualisiert, an denen der Gelehrte eine symbolische Darstellung einer zu merkenden Tatsache hinterlegt. Der Charakter verfügt über eine Anzahl an *loci* in Höhe des Fünffachen seines Werts in Gedächtniskunst.
 
-Charaktere mit dieser Fertigkeit sind des Lesens und Schreibens unkundig, sofern sie nicht auch einen Wert in Artes Liberales haben ([Seite 160](#artes-liberales)).
+Um eine komplexe Szene, ein Bild oder einen Text (etwa einen langen Brief, jedoch nicht so lang wie ein ganzer Text) auswendig zu lernen, muss dem Charakter folgender Wurf gelingen:
 
-Diese Fertigkeit umfasst auch künstlerische Kompositionen in der Sprache und das mit Verve und Leidenschaft vorgetragene Erzählen bestehender Geschichten. Wissen über Geschichten wird durch die entsprechenden Kunde-Fertigkeiten abgedeckt.<br>
-*Spezialisierungen:* Dichtung, Prosa, bestimmte Dialekte, ausgedehnter Wortschatz, bestimmter Fachwortschatz, Slang, Erzählen. (Allgemein)
+**WURF FÜR KOMPLEXE MEMORISIERUNG:** Stresswurf + Intelligenz + Gedächtniskunst gegen Schwierigkeitsgrad 9 (oder höher)
 
-| Wert | Sprachgewandtheit |
-| ---- | ----------------- |
-| 1    | **Zeigen und Grunzen.** Mit einem oder mehreren Erfahrungspunkten kennst du „bitte", „danke" und ein paar weitere Worte. |
-| 2    | **Einfache Fragen und Antworten: „Wo ist die Kirche?", „Verkauft Ihr Speisen?".** Ständige Fehler und ein furchtbarer Akzent. Die Leute müssen langsam sprechen und sich oft wiederholen, und du kannst kein Gespräch zusammenhängend führen. |
-| 3    | **Einfaches Gespräch.** Du kannst ein kurzes Gespräch über ein gewöhnliches Thema bestreiten. Du machst noch viele Fehler und verstehst oft nicht, was andere sagen. |
-| 4    | **Stockend funktional.** Du kannst ein Gespräch über alltägliche Themen führen, auch wenn es Zeit braucht, du viele Fehler machst und dein Akzent noch immer schlecht ist. Funktional. Du kannst ein Gespräch über nichttechnische Themen führen und machst wenige Fehler. Andere müssen sich normalerweise nicht wiederholen. Dies ist die mindestens erforderliche Stufe, um aus einem Buch zu studieren. |
-| 5    | **Fließend.** Wenn dies nicht deine Muttersprache ist, hast du noch einen Akzent, doch ist er schwach. Du sprichst so gut wie die meisten Muttersprachler. Dies ist die mindestens erforderliche Stufe, um ein Buch zu schreiben. |
-| 6    | **Elegant.** Du wählst deine Worte gut und hast keinen Akzent, falls dies nicht deine Muttersprache ist. |
+Der Schwierigkeitsgrad kann je nach Länge oder Komplexität des zu Memorierenden höher liegen. Gelingt dem Charakter der Wurf, erinnert er sich exakt im Detail an das Memorierte und kann es nach Belieben abrufen, auch wenn das Erkunden eines *locus* Zeit erfordern kann.
+
+Charaktere ohne Gedächtniskunst können ähnliche Inhalte mit einem Wurf von Stresswurf + Intelligenz (mit 3 zusätzlichen Patzerwürfeln) gegen dieselben Schwierigkeitsgrade memorieren, müssen den Wurf jedoch ebenfalls wiederholen, um die Erinnerung perfekt abzurufen. Jeder misslungene Wurf führt Fehler in die Erinnerung ein, die bei jedem weiteren Abruf wiederholt werden. Wer keine Gedächtniskunst beherrscht, dem fehlt überdies das wohldefinierte Ortssystem der *loci*.<br>
+*Spezialisierungen:* ein Wissensgebiet (Akademisch)
+
+> #### Schwierigkeitsgrade der Memorisierung
+>
+> | Schwierigkeitsgrad | Beschreibung |
+> | ------------------ | ------------ |
+> | 9 (Durchschnitt)   | Wortwörtliches Memorieren eines einseitigen Briefes, eines Gesprächs von bis zu 5 Minuten Länge oder eines Raumes aus einem einzelnen Blickwinkel oder den Grundriss (jedoch nicht den Inhalt) einer Burg. |
+> | 12 (Schwer)        | Memorieren eines Briefes von bis zu 12 Seiten oder eines einstündigen Gesprächs, einer Vorlesung oder Disputation oder eines aus vielen Blickwinkeln betrachteten Raumes oder eines ganzen Gutshauses, von jedem Raum aus einem einzelnen Blickwinkel betrachtet, oder des Inhalts (aber nicht der Details) einer Burg. |
+> | 18 (Beeindruckend) | Memorieren eines ausgedehnten Briefwerks von bis zu 100 Seiten oder einer Tagesvorlesung bzw. -disputation (etwa eines Tribunalstages) oder eines ganzen Gutshauses im Detail oder des Inhalts einer Burg. |
+>
+> Längere Inhalte müssen in Abschnitte zerlegt und als getrennte *loci* memoriert werden. Ist das Thema hochtechnisch, addiere 3 oder sogar 6 zum Schwierigkeitsgrad. Ist das Thema technisch und fällt in eine Fertigkeit, die der Gelehrte besitzt, darf er diese Fertigkeit anstelle der Gedächtniskunst verwenden (muss aber dennoch sowohl zum Memorisieren als auch zum Abrufen würfeln): etwa ein Jurist, der mit Zivil- und Kanonischem Recht eine Gerichtsverhandlung memoriert, oder ein Magus, der mit Magietheorie die Vorlesung eines Bonisagus-Experten erinnert.
 
 #### Artes Liberales\*
 Die sieben *artes liberales* oder freien Künste sind die Grundlage der mittelalterlichen Hochschulbildung. Jeder erlernt sie an den Universitäten, bevor er zum Studium anderer Fächer übergeht. Es wäre sehr selten, dass ein Charakter einen Wert in irgendeiner anderen Akademischen Fertigkeit hätte, ohne in dieser einen Wert von mindestens eins zu besitzen.
@@ -7315,9 +7326,133 @@ Allgemeine körperliche Geschicklichkeit. Sie umfasst geschmeidige, sichere und 
 Dinge bemerken, sei es Dinge, die du suchst, oder Dinge, mit denen du nicht rechnest. Sie wird auch verwendet, um zu bestimmen, wie aufmerksam du in Situationen bist, die Wachsamkeit erfordern.<br>
 *Spezialisierungen:* Leibwächter sein, Wachehalten, Aufmerksamkeit, Suchen. (Allgemein)
 
-#### Beruf (Art)
-Die Fähigkeit, eine Tätigkeit auszuüben, bei der nichts hergestellt wird. Beispiele sind Spielmann, Marschall, Vogt, Seemann, Verwalter, Fuhrmann und Wäscherin.<br>
-*Spezialisierungen:* je nach Beruf passend. (Allgemein)
+#### Feilschen
+Das Geschick, für eine Leistung oder ein Produkt den größten Gegenwert zu erzielen, dabei aber so wenig wie möglich zu zahlen. Es umfasst das Einschätzen des Gegenübers beim Feilschen, ein allgemeines Wissen über den Wert von Waren und ein bestimmtes Auftreten. Ein guter Feilscher kann den Widerstand eines unerfahrenen Kunden mühelos überwinden und Versuche durchschauen, die meisten Waren überzubewerten.<br>
+*Spezialisierungen:* bestimmte Warenarten, hartes Verkaufen. (Allgemein)
+
+#### Bogenschießen
+Der Umgang mit Bögen und Pfeilen.<br>
+*Spezialisierungen:* eine bestimmte Waffe. (Kampf)
+
+#### Raufen
+Nahkampf ohne Waffen oder mit beliebigen improvisierten Waffen, die man gerade aufnimmt, einschließlich Messer. Raufen ist auch die Fertigkeit, mit der man Angriffen ausweicht, wenn man keine Kampffertigkeiten besitzt.<br>
+*Spezialisierungen:* Schläge, Ringen, Messer, Ausweichen. (Allgemein)
+
+#### Zechen
+Die Fähigkeit, sich zu vergnügen, ohne nachteilige Wirkungen zu erleiden. Eine Person mit dieser Fertigkeit kann zum Beispiel ungeheure Mengen Alkohol vertragen, ohne ohnmächtig zu werden. Die Fertigkeit umfasst auch die Vertrautheit mit angemessenem Verhalten und das Ausbalancieren von Vergnügen und Mäßigung. Mit dieser Fertigkeit kann eine Person nahezu überall in den unteren Schichten Spaß haben und Freunde gewinnen, selbst unter Menschen einer fremden Kultur.<br>
+*Spezialisierungen:* Wettrinken, Trinklieder, Glücksspiele, Nüchternbleiben. (Allgemein)
+
+#### Charme
+Andere für sich einnehmen, faszinieren und an sich binden, jedoch nur auf persönlicher Ebene. Kann verwendet werden, um jemanden emotional, insbesondere romantisch, für sich zu gewinnen.<br>
+*Spezialisierungen:* höfische Liebe, erste Eindrücke, geistreich sein. (Allgemein)
+
+#### Chirurgie\*
+Dies ist Chirurgie nach Art des Mittelalters, eingesetzt, um anderen bei der Genesung von körperlichen Verletzungen zu helfen. Sie umfasst das Versorgen und Verbinden von Wunden aller Art und das notwendige, aber brutale Handwerk des Ausbrennens. Siehe [Seite 405](#wunden-heilen) für die Regeln.<br>
+*Spezialisierungen:* Ausbrennen, Diagnose, Wunden verbinden, Knochen einrichten. (Allgemein)
+
+#### Zivil- und Kanonisches Recht\*
+Das Zivilrecht ist das Recht des Römischen Reiches. Die meisten lokalen Rechtssysteme beruhen auf ihm (England ist die bemerkenswerte Ausnahme), und wenn ein Recht zur Regelung internationaler Beziehungen benötigt wird, beruft man sich auf das Zivilrecht. Die Autorität ist Justinians *Digesten*. Das kanonische Recht ist das Recht der Kirche. Es ist im Mythischen Europa wichtig, da es in allen Nationen Anwendung findet und die Tätigkeit der Kirche sowie einige andere Bereiche, etwa die Ehe, regelt. Es ist zu beachten, dass Mitglieder des Klerus nur dem kanonischen Recht unterstehen, nicht dem Gewohnheits- oder Zivilrecht. Die meisten hohen Kirchenmänner sind versierte Kanonisten, nicht Theologen. Das kanonische Recht wird durch päpstliche Bullen (Verlautbarungen) gesetzt, der *auctor* aber ist Gratian mit seinem *Decretum*. Diese Fertigkeit umfasst das Wissen über beide Rechtsarten. Andere Religionen, insbesondere Judentum und Islam, haben ihre eigenen Versionen dieser Fertigkeit, die getrennt erlernt werden müssen.<br>
+*Spezialisierungen:* Gesetze und Bräuche eines bestimmten Gebiets, päpstliche Gesetze. (Akademisch)
+
+#### Kodex des Hermes\*
+Beurteilen von Vorgängen nach dem Kodex des Hermes und dem Peripheren Kodex. Neben dem Auswendiglernen wichtiger Präzedenzfälle umfasst dieses Wissen auch die praktische Seite der Durchsetzung hermetischen Rechts – etwa zu wissen, wann man auf eine Abstimmung drängt oder wie man ein Argument vorbringt.<br>
+*Spezialisierungen:* Züge der Magier, Lehrlinge, Beziehungen zu Sterblichen, Tribunalsverfahren, politische Intrigen. (Arkan)
+
+#### Gewohnheitsrecht\*
+Kenntnis des englischen Rechts. Es gibt für diese Fertigkeit keine Autorität, und sie wird nur in England gelehrt.<br>
+*Spezialisierungen:* lokale Gesetze, Schatzkammer-Gesetze. (Akademisch)
+
+#### Konzentration
+Das Bündeln der geistigen Kräfte auf eine Aufgabe, insbesondere über längere Zeit. Wenn du eine Tätigkeit angehst, die deine besondere Aufmerksamkeit erfordert, oder gerade eine Handlung verfehlt hast und es erneut versuchst, kann der Spielleiter einen Konzentrationswurf verlangen, bevor du den Versuch unternehmen darfst. Diese Fertigkeit ist für Magi besonders wichtig, da sie ihnen hilft, die Konzentration auf Zauber trotz Ablenkungen aufrechtzuerhalten.<br>
+*Spezialisierungen:* Zauberkonzentration, Lesen, Laborarbeit. (Allgemein)
+
+#### Leichenmagie\*
+Der Charakter kann Leichenmagie nutzen, um eine Leiche vorübergehend zu erwecken. Das Ziel dieser Übernatürlichen Fertigkeit darf keine Bestattungsriten einer von Gott geheiligten Religion erhalten haben, und die Leiche muss verhältnismäßig vollständig sein und mindestens eine Wirbelsäule, einen Schädel und mehr als die Hälfte ihrer Röhrenknochen aufweisen. Es muss kein Fleisch mehr vorhanden sein. Es dauert fünfzehn Minuten, die Sprüche so zu sprechen, dass die Toten erweckt werden.
+
+**ZAUBERSUMME:** Kommunikation + Leichenmagie + Auramodifikator + Stresswurf
+
+**BEFEHLSWURF:** Kommunikation + Führung + Stresswurf; Führung kann durch die Sprachfertigkeit begrenzt sein
+
+Vergleiche das Ergebnis mit den Schwierigkeitsgraden rechts, um den Erfolg zu bestimmen.<br>
+*Spezialisierungen:* Könige, Soldaten, Wahrheit erzwingen, Tote beleben. (Übernatürlich)
+
+> #### Leichenmagie – Schwierigkeitsgrade
+>
+> | Wert | Wirkung |
+> | ---- | ------- |
+> | 9    | **Mit den Toten sprechen.** Die Leiche wird nicht gezwungen, wahrheitsgemäß oder direkt zu antworten, kann es aber dennoch tun. |
+> | 12   | **Mit den Toten sprechen und sie zwingen, die Wahrheit zu sagen. Eine Leiche vor weiterer Beeinflussung durch Leichenmagie schützen.** Jeder solche Versuch erhält einen um den Wert der Leichenmagie des Charakters erhöhten Schwierigkeitsgrad. |
+> | 15   | **Eine Leiche beleben.** Befehle werden nach den Möglichkeiten der Leiche so gut wie möglich befolgt; der Charakter muss jedoch in Sichtweite der Leiche bleiben, sonst stellt sie jede Bewegung ein, bis er zurückkehrt. **Eine belebte Leiche übernehmen.** Der Befehlswurf muss höher sein als der des ursprünglichen Belebers (sofern vorhanden), sonst befolgt die Leiche weiterhin ihre vorherigen Befehle. |
+> | 18   | **Eine Leiche beleben und unter die unmittelbare geistige Kontrolle des Charakters stellen; sieht er die Leiche, kann er ihr Befehle erteilen. Er kann die Gegenwart der Leiche verlassen, und sie wird ihren Befehlen weiter gehorchen, doch sobald diese erfüllt sind, bleibt sie regungslos, bis ihr Schöpfer ihr einen neuen Befehl erteilt.** Die Leiche belebt sich, richtet sich auf, und der Charakter spricht direkt mit ihr. Ein besonders geübter Charakter kann die Leiche aus dem Grab steigen und umhergehen lassen. Der Charakter stellt Fragen oder erteilt Befehle, indem er einen Wurf auf Kommunikation + Führung ablegt; die Leiche unternimmt nichts, sofern sie nicht durch einen solchen Wurf dazu aufgefordert wird. Einwortbefehle haben einen Schwierigkeitsgrad von 6, einfache Fragen oder Befehle erfordern eine 9, komplexere Anweisungen oder Fragen eine 12 oder mehr. Der Charakter muss die Sprache beherrschen, die die Leiche zu Lebzeiten gesprochen hat, um ihr Fragen zu stellen oder Befehle zu erteilen. Spricht der Charakter diese Sprache nicht fließend (also mit einem Wert von 5 oder höher), wird die Führung des Charakters durch seine Sprachfertigkeit begrenzt. Sobald der Charakter drei Befehlswürfe verfehlt hat, sinkt die Leiche zurück in ihr Grab oder hält in der Bewegung inne und kann erst wieder Ziel von Leichenmagie werden, wenn der Mond aufgegangen ist. Alle Leichen werden außerdem zur Ruhe gebettet, wenn ihre Köpfe vom Körper getrennt werden. Wandelnde Leichen haben in der Regel eine Magische Macht von 9 (für weitere Einzelheiten siehe *Sphären der Macht: Magie*, Kapitel 6). Die Penetrationssumme der Leichenmagie muss diese Macht überschreiten, damit die Leiche das Grab verlässt; andernfalls bleibt sie an die Erde gebunden. |
+
+#### Handwerk (Art)
+Ein Sammelbegriff für unzählige Fertigkeiten, die sich allesamt mit Handarbeit irgendeiner Art befassen. In der Regel werden Handwerks-Fertigkeiten nach dem Material unterschieden, mit dem sie arbeiten; man kann jedoch auch ein Handwerk wählen, das es dem Charakter erlaubt, mit verschiedenen Materialien auf eine bestimmte Weise zu arbeiten. Du darfst Handwerk mehrfach kaufen und jedes Mal ein anderes wählen. Die Beherrschung eines Handwerks bedeutet nicht das Beherrschen anderer. *Stadt & Gilde* enthält in Kapitel 4 ausführlichere Informationen zu Handwerks-Fertigkeiten und ihrer Verwendung.<br>
+*Spezialisierungen:* je nach Handwerk passend. (Allgemein)
+
+#### Handwerkerheiler\*
+Beim Einsatz dieser Fertigkeit kann jede Wunde nur einmal behandelt werden, ungeachtet ihrer Schwere. Würfle Präsenz + Handwerkerheiler + Stresswurf gegen einen Schwierigkeitsgrad in Höhe des Heilungsschwierigkeitsgrades laut Wundheilungstabelle ([Seite 405](#wunden-heilen)). Das Heilen einer Wunde kostet eine Stufe Langzeit-Erschöpfung. Bei Erfolg wird die Wunde um eine Stufe geheilt: Schwere Wunden werden zu mittelschweren, mittelschwere zu leichten, und leichte heilen vollständig. Misslingt der Wurf, geschieht außer dem Erschöpfungsverlust nichts. Bei einem Patzer erleidet der Heiler unverzüglich eine entsprechende Wunde. Der verwundete Empfänger erhält jedes Mal, wenn diese Fertigkeit auf ihn angewendet wird, einen Verzerrungspunkt, unabhängig vom Erfolg.<br>
+*Spezialisierungen:* bestimmte Wundarten. (Übernatürlich)
+
+#### Fluchschleudern\*
+Diese Übernatürliche Fertigkeit ist normalerweise mit der Feensphäre verbunden, könnte aber jeder übernatürlichen Sphäre zugeordnet sein. Sie erlaubt dem Charakter, Krankheiten zu heilen, Flüche zu lösen und schädliche magische Wirkungen aufzuheben, indem er ihre Wirkung auf eine andere Person überträgt (oder „schleudert"). Fluchschleudern kann keine Fehler beeinflussen; insbesondere ist jemand mit dem Fehler Mindere oder Große Verfluchung jenseits der Macht des Fluchschleuderns, sofern es sich nicht um einen von einer Fee oder einem Zauberer mit begrenzter Dauer auferlegten Fehler handelt. Jeder andere von einer übernatürlichen Macht auferlegte Fluch fällt jedoch potenziell in den Aufgabenbereich dieser Fertigkeit; Flüche, die unmittelbar von Gott auferlegt wurden (etwa Aussatz), werden hingegen üblicherweise durch dauerhafte Fehler dargestellt und sind daher ausgenommen. Mit dieser Fertigkeit lassen sich nur schädliche Wirkungen übertragen; in Fällen, in denen Zauber nicht unmittelbar nachteilig sind, entscheidet der Spielleiter. Unfruchtbarkeit ist ein häufiges Leiden, das durch diese Macht behandelt wird; wird sie auf einen Mann oder ein männliches Tier übertragen, so wird stattdessen Impotenz auferlegt. Andere auf unpassende Ziele übertragene Flüche werden in ähnlicher Weise abgewandelt.
+
+Um einen Fluch zu schleudern, muss die betroffene Person körperlich anwesend sein, und der Empfänger des Fluchs muss entweder persönlich oder durch eine Arkane Verbindung repräsentiert sein. Leiden lassen sich von Menschen auf Tiere und umgekehrt übertragen, was jedoch schwieriger ist als die Übertragung innerhalb derselben Spezies. Manchmal übertragen Fluchschleuderer den Fluch auf sich selbst, doch ist solche Selbstlosigkeit selten. Um einen Fluch zu schleudern, muss der Charakter ein aufwendiges Ritual vollziehen, zu dem die Anfertigung eines Talismans gehört, der den Fluch überträgt. Dieser Talisman besteht aus einer Verbindung von einem körperlichen Gegenstand und einem Gesang. Der Gegenstand wird wiederholt mit dem Ziel und mit dem Empfänger (oder der Arkanen Verbindung) berührt, während der Gesang immer wieder rezitiert wird. Das Ritual dauert in der Regel eine Stunde je 5 Punkte (oder Bruchteile davon) des Schwierigkeitsgrades (siehe unten). Am Ende dieser Zeit erzeugt der Charakter eine Zaubersumme, die den unten angegebenen Schwierigkeitsgrad erreichen oder überschreiten muss. Verfügt entweder der Leidende oder der vorgesehene Empfänger des Fluchs über Magieresistenz, muss die Penetrationssumme diese überschreiten, sonst verbleibt der Fluch dort, wo er ist. Bei einem Patzer beim Fluchschleuderwurf wechselt der Empfänger des Fluchs zum Wirkenden.
+
+**ZAUBERSUMME FLUCHSCHLEUDERN: Präsenz + Fluchschleudern + Aura + Stresswurf**
+
+**PENETRATIONSSUMME: Zaubersumme – Schwierigkeitsgrad + Penetrationsbonus**
+
+| Fluch                              | Schwierigkeitsgrad        |
+| ---------------------------------- | ------------------------- |
+| Geringe Krankheit<br>oder Leiden\* | 9                         |
+| Große Krankheit oder Leiden\*      | 15                        |
+| Kritische Krankheit\*              | 18                        |
+| Macht                              | 12 + ausgegebene Machtpunkte |
+| Schwere Krankheit oder Leiden\*    | 12                        |
+| Übernatürliche Fertigkeit          | 12 + Wert der Fertigkeit  |
+| Zauber                             | 12 + Magnitude des Zaubers |
+
+\*Eine geringe Krankheit fügt eine Leichte Wunde zu, eine schwere Krankheit eine Mittelschwere Wunde, eine große Krankheit eine Schwere Wunde, und eine kritische Krankheit eine Lähmende Wunde. Siehe *Kunst & Gelehrsamkeit*, Kapitel 4: Medicine für weitere Einzelheiten. Geringe Leiden umfassen Furunkel und Warzen. Schwere Leiden entsprechen in ihrer Größenordnung einem Kleinen Fehler, während Große Leiden so schwerwiegend wie ein Großer Fehler sind.
+
+| Situation                                                                      | Modifikator auf<br>Zaubersumme |
+| ------------------------------------------------------------------------------ | ------------------------------ |
+| Empfänger persönlich anwesend                                                  | 0                              |
+| Empfänger durch<br>Arkane Verbindung dargestellt,<br>die Jahrzehnte hält       | -1                             |
+| Empfänger durch<br>Arkane Verbindung dargestellt,<br>die Monate oder Jahre hält | -3                             |
+| Empfänger durch<br>Arkane Verbindung dargestellt,<br>die Wochen oder weniger hält | -6                          |
+| Empfänger ist eine andere Spezies als das Ziel                                 | -3                             |
+
+*Spezialisierungen:* Krankheiten, Feenflüche, Vieh. (Übernatürlich)
+
+> #### Beispiel für Fluchschleudern
+>
+> Eine junge Frau ist trotz vier Jahren Ehe nicht schwanger geworden, und sie und ihre Mutter suchen Aelfred, den ortsansässigen Feendoktor, auf. Er erklärt, dass ihre Unfruchtbarkeit auf eine andere übertragen werden müsse, und die Mutter erbietet sich, da sie bereits drei Kinder geboren hat. Der Schwierigkeitsgrad für diesen Vorgang beträgt 12, da Unfruchtbarkeit einem Kleinen Fehler entspricht. Das Ritual dauert drei Stunden, an deren Ende Aelfred eine Zaubersumme erzeugt: 2 (Präsenz) + 5 (Fluchschleudern) + 5 (Stresswurf) + 2 (Feenaura von Aelfreds Heim), insgesamt 14. Den Charakteren ist jedoch nicht bekannt, dass die Unfruchtbarkeit durch den Fluch einer örtlichen Hexe verursacht wurde. Ihr Wert in Verhexung betrug 5, also lag der Schwierigkeitsgrad tatsächlich bei 17 (12 + Verhexung 5). Da Aelfreds Spieler einen Wurf auf Intelligenz + Feenkunde gelingt, teilt der Spielleiter ihm mit, dass Aelfred vermutet, sein Fluchschleudern hätte funktionieren müssen, wäre die Unfruchtbarkeit natürlichen Ursprungs gewesen. Aelfred rät Mutter und Tochter zu prüfen, ob sie Feinde mit übernatürlichen Kräften haben.
+
+#### (Tote Sprache)\*
+Diese Fertigkeit ähnelt allen anderen (Sprach-)Fertigkeiten, ist aber nur gebildeten Charakteren zugänglich. Sie verleiht die Fähigkeit, eine Sprache zu sprechen, die in den Gegenden, in denen der Charakter gelebt hat, nicht mehr als Muttersprache verwendet wird. Das wichtigste Beispiel ist Latein, die Sprache der formalen Bildung im Westen. Es ist auch die gemeinsame Sprache der Kirche und des Ordens des Hermes. In anderen Teilen der Welt erfüllen Arabisch, Griechisch und Hebräisch ähnliche Funktionen, wobei davon nur Hebräisch eine tote Sprache ist.<br>
+*Spezialisierungen:* akademischer Gebrauch, Kirchenzeremonien, hermetischer Gebrauch. (Akademisch)
+
+#### Dominiumkunde\*
+Wissen über die Erscheinungsformen der Macht des Göttlichen. Unterscheidet sich von Kirchenkunde (einer Art (Organisations-)Kunde), da sie sich mit Wundern statt mit Politik befasst, und von Theologie, da sie sich mit Macht statt mit Lehre befasst.<br>
+*Spezialisierungen:* Engel, Heilige, göttliche Geschöpfe. (Arkan)
+
+#### Wünschelrutengehen\*
+Du besitzt die Fähigkeit, Dinge in der Nähe mit Hilfe einer Wünschelrute (gewöhnlich ein gegabelter Stock) und deinem eigenen intuitiven Sinn zu finden. Du konzentrierst dich auf das zu findende Ding, hältst deine Wünschelrute vor dich und folgst ihren feinen Bewegungen zum Ziel. Suchst du nach etwas Bestimmtem, musst du eine entsprechende sympathetische Verbindung zum Gesuchten haben (etwa Wasser aus einer Flasche aus einem Bach, wenn du nach fließendem Wasser suchst). Vor dem Wurf legst du das Gebiet fest, in dem du suchst – ist das gesuchte Objekt nicht in diesem Gebiet vorhanden, scheiterst du automatisch. Die für die Suche benötigte Zeit hängt von der Größe des Gebiets ab und muss aufgewendet werden, ob du Erfolg hast oder nicht. Es dauert etwa einen Durchmesser (zwei Minuten oder zwanzig Kampfrunden), um etwas innerhalb von 25 Schritten zu suchen, und eine Verdopplung der Entfernung vervierfacht die Zeit. Etwas Häufiges wie Wasser innerhalb von 25 Schritten zu finden, erfordert eine Wahrnehmung + Wünschelrutengehen von 9+. Größere Entfernungen oder das Suchen nach selteneren Dingen erhöhen die Zielzahl, sodass das Finden von Gold innerhalb von 100 Schritten beispielsweise einen Schwierigkeitsgrad von 15 hätte.<br>
+*Spezialisierungen:* Suche nach einer bestimmten Art von Sache (Wasser, Gold etc.), Suche an einem bestimmten Ort. (Übernatürlich)
+
+#### Verbitterung\*
+Du kannst eine Person dazu bringen, eine andere zu hassen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 245](#kräfte) beschrieben.
+
+#### Bezaubernde (Fertigkeit)\*
+Wenn du es darauf anlegst, kannst du andere mit einer bestimmten darstellerischen Fertigkeit beeinflussen. Für eine spezifische Wirkung musst du Worte verwenden, die die Menschen verstehen können. Du kannst Trauernde allein durch Melodien beruhigen, doch brauchst du Texte, um Bauern dazu zu bewegen, sich gegen den örtlichen Lehnsherrn zu erheben. Allgemeine Wirkungen funktionieren bei Tieren, spezifische Wirkungen jedoch nur bei Wesen, die Worte verstehen können. Wenn du eine Bezaubernde (Fertigkeit) einsetzt, würfle einen Würfel (Stresswurf oder schlicht, je nach Situation) und addiere Kommunikation und Bezaubernde (Fertigkeit). Ein Schwierigkeitsgrad von 9 wird Aufgewühlte beruhigen, 12 jemandes Liebe gewinnen, 15 zu einem Aufruhr anstacheln, und eine 24 könnte eine Seele vom Fürsten der Finsternis zurückgewinnen. Bei einem Patzer rufst du eine ungewollte Empfindung hervor.
+
+Verfügt das Ziel über Magieresistenz, musst du sie durchdringen; siehe Seite 412 für die Regeln.
+
+Du solltest auch für die Qualität der Darbietung würfeln, doch der magische Effekt ist davon unabhängig, sofern du nicht patzst. Patzst du beim Fertigkeitswurf, ist es dir aus irgendeinem Grund nicht gelungen, eine Darbietung zustande zu bringen, und die Übernatürliche Fertigkeit scheitert daher automatisch.<br>
+*Spezialisierungen:* eine bestimmte Empfindung, eine bestimmte Art von Person. (Übernatürlich)
+
+#### Enigmatische Weisheit\*
+Das Verständnis der Criamon-Magi vom Enigma. Sie wird im Kapitel Hermetische Magie auf [Seite 236](#enigmatische-weisheit-1) beschrieben. (Arkan)
 
 #### Betörung\*
 Du besitzt die Macht, den Willen eines anderen zu beherrschen. Indem du jemandem mehrere Sekunden lang tief in die Augen blickst – im Kampf in der Regel unmöglich –, kannst du der Person mündlich befehlen, eine bestimmte Aufgabe auszuführen. Würfle Präsenz + Betörung gegen den Ausdauerwurf des Ziels. Die kontrollierte Person erhält nach Ermessen des Spielleiters einen Bonus zum Widerstand, gemäß der untenstehenden Tabelle. Hermetische Magi erhalten ihre normale Mentem-Magieresistenz und den normalen Ausdauerwurf, falls die Wirkung sie durchdringt. Berechne die Penetration mit einem Schwierigkeitsgrad von 6 + Bonus des Opfers. Blinde sowie Personen mit geschlossenen Augen sind immun; siehe [Seite 303](#reichweiten) für weitere Hinweise zum Augenkontakt. Es ist jedoch nicht möglich, den Blick abzuwenden, während man betört wird, sofern man nicht den vergleichenden Wurf gewinnt.
@@ -7332,29 +7467,82 @@ Du besitzt die Macht, den Willen eines anderen zu beherrschen. Indem du jemandem
 
 *Spezialisierungen:* eine bestimmte Art von Befehl, eine bestimmte Art von Person. (Übernatürlich)
 
-#### Bezaubernde (Fertigkeit)\*
-Wenn du es darauf anlegst, kannst du andere mit einer bestimmten darstellerischen Fertigkeit beeinflussen. Für eine spezifische Wirkung musst du Worte verwenden, die die Menschen verstehen können. Du kannst Trauernde allein durch Melodien beruhigen, doch brauchst du Texte, um Bauern dazu zu bewegen, sich gegen den örtlichen Lehnsherrn zu erheben. Allgemeine Wirkungen funktionieren bei Tieren, spezifische Wirkungen jedoch nur bei Wesen, die Worte verstehen können. Wenn du eine Bezaubernde (Fertigkeit) einsetzt, würfle einen Würfel (Stresswurf oder schlicht, je nach Situation) und addiere Kommunikation und Bezaubernde (Fertigkeit). Ein Schwierigkeitsgrad von 9 wird Aufgewühlte beruhigen, 12 jemandes Liebe gewinnen, 15 zu einem Aufruhr anstacheln, und eine 24 könnte eine Seele vom Fürsten der Finsternis zurückgewinnen. Bei einem Patzer rufst du eine ungewollte Empfindung hervor.
+#### Etikette
+Du kennst die gesellschaftlichen Umgangsformen und weißt, wie man sich in verschiedenen Situationen verhält. Etikette unterscheidet sich von Charme darin, dass Etikette korrektes Verhalten abdeckt, nicht charmantes Verhalten. Mit Etikette kannst du niemanden verführen, doch ebenso wenig kommst du allein mit Charme durch eine Audienz beim Bischof.<br>
+*Spezialisierungen:* Adel, Hof, Bauern, Feen, die Kirche. (Allgemein)
 
-Verfügt das Ziel über Magieresistenz, musst du sie durchdringen; siehe Seite 412 für die Regeln.
+#### Feenkunde\*
+Vertrautheit mit Mächten, Schwächen, Beweggründen und Gebieten der Feen.<br>
+*Spezialisierungen:* Feenwälder, Feenhügel, bestimmte Arten von Feen. (Arkan)
 
-Du solltest auch für die Qualität der Darbietung würfeln, doch der magische Effekt ist davon unabhängig, sofern du nicht patzst. Patzst du beim Fertigkeitswurf, ist es dir aus irgendeinem Grund nicht gelungen, eine Darbietung zustande zu bringen, und die Übernatürliche Fertigkeit scheitert daher automatisch.<br>
-*Spezialisierungen:* eine bestimmte Empfindung, eine bestimmte Art von Person. (Übernatürlich)
+#### Feenmagie\*
+Die Verbindung zur Macht der Feensphäre, über welche die Merinita-Magi verfügen. Sie kann von anderen Charakteren nicht erlernt werden, selbst wenn sie Zugang zu Arkanen Fertigkeiten haben. Sie wird im Kapitel Hermetische Magie auf [Seite 236](#feenmagie-2) beschrieben. (Arkan)
 
-#### Bogenschießen
-Der Umgang mit Bögen und Pfeilen.<br>
+#### Finesse
+Das Manipulieren deiner Zauber und das Vollbringen besonderer Kunststücke mit ihnen. Du verwendest diese Fertigkeit, um Objekte feinfühlig zu platzieren oder Zauber zu zielen.<br>
+*Spezialisierungen:* Anmut, Präzision, eine bestimmte Form. (Arkan)
+
+#### Menschenkenntnis
+Den Hintergrund, das Wesen und die Beweggründe einer anderen Person verstehen. Oft würfelt der Spielleiter heimlich, wenn diese Fertigkeit eingesetzt wird. Du weißt also nicht, ob dein Charakter richtig geraten oder gar gepatzt hat.<br>
+*Spezialisierungen:* Bauern, Stadtleute, Adlige, Klerus, Magi, das andere Geschlecht. (Allgemein)
+
+#### Quell des Wissens\*
+Gelingt ein Fertigkeitswurf (Intelligenz + Quell des Wissens + Stresswurf) gegen einen Schwierigkeitsgrad von (6 plus (3 mal Anzahl der Anwendungen von Quell des Wissens an diesem Tag)), darf ein Wesen mit dieser Fertigkeit eine Aufgabe mit einer beliebigen ungelernten Fertigkeit so versuchen, als besäße es einen Wert von 2. Misslungene Versuche zählen zur Anzahl der Anwendungen an einem gegebenen Tag.<br>
+*Spezialisierungen:* ein bestimmtes Themengebiet. (Übernatürlich)
+
+#### Große Waffe
+Kämpfen mit einer Waffe, die zwei Hände erfordert.<br>
 *Spezialisierungen:* eine bestimmte Waffe. (Kampf)
 
-#### Charme
-Andere für sich einnehmen, faszinieren und an sich binden, jedoch nur auf persönlicher Ebene. Kann verwendet werden, um jemanden emotional, insbesondere romantisch, für sich zu gewinnen.<br>
-*Spezialisierungen:* höfische Liebe, erste Eindrücke, geistreich sein. (Allgemein)
+#### Täuschung
+Überzeugend lügen sowie Empfindungen, Überzeugungen oder Geisteshaltungen vortäuschen. Verstehst du die Person, die du zu täuschen versuchst (Wurf 9+ auf Wahrnehmung + Menschenkenntnis), erhältst du einen Bonus von +1 auf deinen Täuschungswurf. Diese Fertigkeit umfasst auch das Verkleiden und das Vortäuschen, etwas zu sein, das man nicht ist. Es handelt sich häufig um einen vergleichenden Wurf, gegen Wahrnehmung + Menschenkenntnis des Opfers oder, beim Verkleiden, gegen Wahrnehmung (Eigenschaft) + Wahrnehmung (Fertigkeit).<br>
+*Spezialisierungen:* bestimmte Arten von Täuschung, Anlügen von Autoritäten, schnelles Reden, ausgeklügelte Lügen. (Allgemein)
 
-#### Chirurgie\*
-Dies ist Chirurgie nach Art des Mittelalters, eingesetzt, um anderen bei der Genesung von körperlichen Verletzungen zu helfen. Sie umfasst das Versorgen und Verbinden von Wunden aller Art und das notwendige, aber brutale Handwerk des Ausbrennens. Siehe [Seite 405](#wunden-heilen) für die Regeln.<br>
-*Spezialisierungen:* Ausbrennen, Diagnose, Wunden verbinden, Knochen einrichten. (Allgemein)
+#### Herztier\*
+Die allen Bjornaer-Magi gemeine Fähigkeit, die Gestalt ihres Herztiers anzunehmen. Sie wird im Kapitel Hermetische Magie auf [Seite 233](#bjornaer-das-herztier) beschrieben. Diese Fertigkeit kann von Nicht-Bjornaer-Charakteren nicht erlernt werden, selbst wenn sie Zugang zu Arkanen Fertigkeiten haben. (Arkan)
 
-#### Dominiumkunde\*
-Wissen über die Erscheinungsformen der Macht des Göttlichen. Unterscheidet sich von Kirchenkunde (einer Art (Organisations-)Kunde), da sie sich mit Wundern statt mit Politik befasst, und von Theologie, da sie sich mit Macht statt mit Lehre befasst.<br>
-*Spezialisierungen:* Engel, Heilige, göttliche Geschöpfe. (Arkan)
+#### Verhexung\*
+Der Charakter besitzt die Macht, Verletzung oder Verderben über seine Feinde zu bringen. Es gibt drei Wege, diese Macht zu wirken: durch Augenkontakt mit dem Opfer und das laute Verkünden seines Vorhabens, sodass das Opfer es hören kann; durch das Zeichnen vergänglicher okkulter Zeichen und Symbole auf das Ziel, die das dunkle Schicksal andeuten, das ihm zugedacht ist; oder durch das Beschaffen einer Arkanen Verbindung zum Ziel und das Anfertigen einer erkennbaren Darstellung, die die Wirkung mittels sympathetischer Magie übermitteln kann.
+
+Um ein Ziel zu verhexen, muss der Charakter seinen Willen gegenüber diesem deutlich machen: Er muss seine Wünsche dem Opfer laut verkünden, oder die Einzelheiten des Hexbanns auf oder sehr nahe am Ziel niederschreiben, oder der Darstellung etwas antun, das dem ähnelt, was er dem Ziel antun möchte. Es gibt stets eine körperliche Komponente der Verhexung (verbreitete Praktiken sind das Knüpfen von Knoten in eine Schnur, Spucken oder das Werfen des „bösen Blicks").
+
+Du musst auch einen Zeitrahmen für die Verhexung angeben, von einer unmittelbar eintretenden Wirkung bis zu einer Verhexung, die die dritte Generation der Nachkommen des Opfers betrifft. Generell gilt: Je früher die Wirkung eintritt, desto schwächer ist sie; je länger die Verhexung verzögert wird, desto mächtiger wird sie schließlich. Aus diesem Grund musst du stets den Verzögerungsmodifikator (siehe Kasten) auf die Verhexungssumme anwenden.
+
+#### Verzögerungsmodifikatoren der Verhexung
+
+| Verzögerung | Modifikator |
+| ----------- | ----------- |
+| Augenblick  | -12         |
+| Stunde      | -9          |
+| Tag         | -6          |
+| Woche       | -3          |
+| Monat       | 0           |
+| Quartal     | +3          |
+| Jahr        | +6          |
+| Generation  | +9          |
+| Lebenszeit  | +12         |
+
+Wenn du die Verhexung passend formuliert hast, würfle Intelligenz + Verhexung + Aurabonus + Verzögerungsmodifikator und vergleiche das Ergebnis mit dem Schwierigkeitsgrad in der Tabelle der Verhexungswirkungen. Die Schwere dieser Wirkungen entspricht den Wirkungen eines Patzers mit einer bestimmten Anzahl an Nullen auf den Patzerwürfeln. Patzst du beim Verhexungswurf, kann die Verhexung dennoch eintreten, jedoch mit unvorhersehbaren und unbeabsichtigten Folgen, die möglicherweise stattdessen den Charakter selbst oder eine ihm nahestehende Person treffen. Sie kann auch Verzerrungspunkte, Erschöpfungsverlust oder andere unglückliche Wirkungen erleiden.
+
+**VERHEXUNG: Stresswurf + Intelligenz + Verhexung + Aurabonus + Modifikatoren**
+
+Ein potenzielles Opfer kann den Wirkungen einer Verhexung entgehen, indem es sich übernatürlichen Schutz verschafft, gewöhnlich vom Göttlichen. Erhält ein Charakter in einer religiösen Zeremonie die Absolution, sind alle gegen ihn gerichteten Verhexungen dauerhaft aufgehoben. Charaktere können Verhexungen auch mit anderen übernatürlichen Wirkungen aufheben, etwa mit einem Perdo Vim-Zauber, einem Feensegen oder einem heiligen Wunder. Behandle die Verhexung so, als hätte sie eine Zauberstufe in Höhe der Anzahl der ihr näherungsweise entsprechenden Patzerwürfel multipliziert mit 10, sodass eine Schwere Verhexung eine Wirkung der Stufe 20 ist und eine Kritische Verhexung Stufe 40.
+
+Verhexung ist häufig eine Falsche Macht (entsprechend dem Fehler Falsche Macht), die mit der Magischen oder Feensphäre verbunden ist. Sie verwendet also häufig die Spalte für Magisch oder Fee in der Sphäreninteraktionstabelle, erscheint jedoch als unheilige Macht, wenn sie göttlichen oder infernalen Untersuchungsmächten ausgesetzt wird. Es gibt auch rein infernale Versionen der Macht ebenso wie magische oder feenhafte Versionen, die nicht vom Infernalen berührt sind. Solche „reinen" Versionen der Verhexung sind jedoch selten, da Dämonen es lieben, diese Macht zu verderben. Spezialisierungen: eine bestimmte Dauer, eine Methode der Verhexung, eine bestimmte Wirkung. (Übernatürlich)
+
+#### Verhexungswirkungen
+
+| Schwierigkeitsgrad | Schwere                  | Beispiel                                |
+| ------------------ | ------------------------ | --------------------------------------- |
+| 6+                 | Gering (1 Patzer)        | Automatisches Versagen bei wichtiger Aufgabe |
+| 12+                | Schwer (2 Patzer)        | Erblindung                              |
+| 18+                | Groß (3 Patzer)          | Zehrende Krankheit                      |
+| 24+                | Kritisch (4 Patzer)      | Alle                                    |
+| 30+                | Tödlich (5 Patzer)       | Plötzlicher Tod                         |
+
+#### Jagen
+Schlingen stellen, geeignete Jagdplätze auswählen sowie der Spur von Geschöpfen aller Art folgen und sie identifizieren. Diese Fertigkeit erlaubt dir auch, deine Spuren zu verwischen oder von vornherein keine zu hinterlassen.<br>
+*Spezialisierungen:* Spurenlesen, Spuren verwischen, ein bestimmtes Tier jagen. (Allgemein)
 
 #### Einflüstern\*
 Dies ist die übernatürliche Fähigkeit, Illusionen im Geist einer Person zu erschaffen. Nur das Ziel kann diese Illusionen sehen. Jeder Versuch des Einflüsterns erfordert, dass der Einflüsternde mindestens eine Minute lang mit dem Opfer spricht. Charaktere, die den Einflüsternden nicht hören können, sind gegen seine Mächte immun.
@@ -7395,96 +7583,139 @@ Dieser Wert kann durch jeden der folgenden Faktoren um 1 reduziert werden; wähl
 >
 > Betörung und Einflüstern erscheinen ähnlich, weil sie eine ähnliche Skala von Schwierigkeitsgraden besitzen, doch unterscheiden sie sich in der Anwendung. Betörung übernimmt die Kontrolle über den Willen eines Charakters und diktiert seine Handlungen, beeinflusst jedoch nicht das, was er glaubt oder wahrnimmt. Einflüstern bewirkt, dass ein Charakter Dinge wahrnimmt, die nicht real sind, und kann ihn von Dingen überzeugen, die nicht zutreffen, zwingt ihn aber nicht zum Handeln. Es ist möglich, dass Charaktere sowohl Betörung als auch Einflüstern besitzen und beides nutzen, um sich gegenseitig zu verstärken. So ist „Sprich mit mir" eine harmlose Betörung, die das Einflüstern in Gang setzen kann. Einflüsterungen, die einen Charakter überzeugen, etwas sei weniger riskant oder notwendiger, als es tatsächlich ist, verändern die Schwierigkeitsgrade für Betörung.
 
-#### Einzelwaffe
-Kämpfen mit einer Waffe, die mit einer Hand geführt wird, möglicherweise unter Verwendung eines Schildes in der anderen. Dazu zählen Lanzen, wie sie vom Pferderücken aus bestimmungsgemäß eingesetzt werden.<br>
-*Spezialisierungen:* eine bestimmte Waffe oder ein bestimmter Schild, wobei dies den Einsatz dieser Waffe mit beliebigem Schild oder ohne Schild sowie dieses Schildes mit beliebiger Waffe abdeckt. (Kampf)
+#### Infernalkunde\*
+Verständnis und Vertrautheit mit dem Infernalen und seinen Dienern. Umfasst Wissen über Dämonen und ihre Gewohnheiten und Schwächen, über Untote und ihre Gewohnheiten und Schwächen sowie über die Macht von Flüchen.<br>
+*Spezialisierungen:* Dämonen, Untote, Flüche. (Arkan)
 
-#### Enigmatische Weisheit\*
-Das Verständnis der Criamon-Magi vom Enigma. Sie wird im Kapitel Hermetische Magie auf [Seite 236](#enigmatische-weisheit-1) beschrieben. (Arkan)
+#### Intrige
+Verhandeln und Ränke schmieden, einschließlich des subtilen Einsatzes von Macht auf nicht-konfrontative Weise zur Erreichung eigener Ziele. Intrige muss nicht hinterhältig oder manipulativ sein – sie umfasst auch Verhandlungen sowie das Wissen um formelle und informelle Verhaltens- und Höflichkeitsregeln. Darüber hinaus erlaubt Intrige einem Charakter, wichtige Informationen über Mächtige zu sammeln und Tatsachen von nutzlosem Klatsch zu trennen. Intrige ist eine entscheidende Begabung für jene, die am Hof oder bei einem hermetischen Tribunal verkehren.<br>
+*Spezialisierungen:* Klatsch, Ränkeschmieden, Gerüchte streuen, Allianzen. (Allgemein)
 
-#### Etikette
-Du kennst die gesellschaftlichen Umgangsformen und weißt, wie man sich in verschiedenen Situationen verhält. Etikette unterscheidet sich von Charme darin, dass Etikette korrektes Verhalten abdeckt, nicht charmantes Verhalten. Mit Etikette kannst du niemanden verführen, doch ebenso wenig kommst du allein mit Charme durch eine Audienz beim Bischof.<br>
-*Spezialisierungen:* Adel, Hof, Bauern, Feen, die Kirche. (Allgemein)
+#### Islamisches Recht\*
+Dies ist die muslimische Version von Zivil- und Kanonischem Recht. Die wichtigsten Quellen des Islamischen Rechts sind der Koran und die Sunna.<br>
+*Spezialisierungen:* eine der Quellen des Islamischen Rechts, bestimmte Themen, Bräuche eines bestimmten Gebiets. (Akademisch)
 
-#### Feenkunde\*
-Vertrautheit mit Mächten, Schwächen, Beweggründen und Gebieten der Feen.<br>
-*Spezialisierungen:* Feenwälder, Feenhügel, bestimmte Arten von Feen. (Arkan)
-
-#### Feenmagie\*
-Die Verbindung zur Macht der Feensphäre, über welche die Merinita-Magi verfügen. Sie kann von anderen Charakteren nicht erlernt werden, selbst wenn sie Zugang zu Arkanen Fertigkeiten haben. Sie wird im Kapitel Hermetische Magie auf [Seite 236](#feenmagie-2) beschrieben. (Arkan)
-
-#### Feilschen
-Das Geschick, für eine Leistung oder ein Produkt den größten Gegenwert zu erzielen, dabei aber so wenig wie möglich zu zahlen. Es umfasst das Einschätzen des Gegenübers beim Feilschen, ein allgemeines Wissen über den Wert von Waren und ein bestimmtes Auftreten. Ein guter Feilscher kann den Widerstand eines unerfahrenen Kunden mühelos überwinden und Versuche durchschauen, die meisten Waren überzubewerten.<br>
-*Spezialisierungen:* bestimmte Warenarten, hartes Verkaufen. (Allgemein)
-
-#### Finesse
-Das Manipulieren deiner Zauber und das Vollbringen besonderer Kunststücke mit ihnen. Du verwendest diese Fertigkeit, um Objekte feinfühlig zu platzieren oder Zauber zu zielen.<br>
-*Spezialisierungen:* Anmut, Präzision, eine bestimmte Form. (Arkan)
-
-#### Fingerfertigkeit\*
-Geschickte Hände und Wissen um Trickbetrügereien, die geschickte Hände erfordern. Sie verlangt feines Gefühl und große Hand-Augen-Koordination. Fingerfertigkeit umfasst das Mausen von Marktständen, das Beutelschneiden und das Knacken bestehender Schlösser ebenso wie die „magische" Trickserei, mit der gewöhnlich leichtgläubigen Menschen Geld abgeknöpft wird. Das Ziel eines solchen Versuchs würfelt Wahrnehmung (Eigenschaft) + Wahrnehmung (Fertigkeit), um deine Handlungen zu bemerken. Verfügt der Beobachter selbst über Fingerfertigkeit, kann er diese nach Belieben statt der Wahrnehmungsfertigkeit verwenden. Bei besonders heiklen Aktionen wie dem Taschendiebstahl erhält jemand, der versucht, den Charakter mit Fingerfertigkeit zu ertappen, einen Bonus von +3.<br>
-*Spezialisierungen:* Mausen, Taschendiebstahl, „Zauber"-Tricks. (Allgemein)
-
-#### Fluchschleudern\*
-Diese Übernatürliche Fertigkeit ist normalerweise mit der Feensphäre verbunden, könnte aber jeder übernatürlichen Sphäre zugeordnet sein. Sie erlaubt dem Charakter, Krankheiten zu heilen, Flüche zu lösen und schädliche magische Wirkungen aufzuheben, indem er ihre Wirkung auf eine andere Person überträgt (oder „schleudert"). Fluchschleudern kann keine Fehler beeinflussen; insbesondere ist jemand mit dem Fehler Mindere oder Große Verfluchung jenseits der Macht des Fluchschleuderns, sofern es sich nicht um einen von einer Fee oder einem Zauberer mit begrenzter Dauer auferlegten Fehler handelt. Jeder andere von einer übernatürlichen Macht auferlegte Fluch fällt jedoch potenziell in den Aufgabenbereich dieser Fertigkeit; Flüche, die unmittelbar von Gott auferlegt wurden (etwa Aussatz), werden hingegen üblicherweise durch dauerhafte Fehler dargestellt und sind daher ausgenommen. Mit dieser Fertigkeit lassen sich nur schädliche Wirkungen übertragen; in Fällen, in denen Zauber nicht unmittelbar nachteilig sind, entscheidet der Spielleiter. Unfruchtbarkeit ist ein häufiges Leiden, das durch diese Macht behandelt wird; wird sie auf einen Mann oder ein männliches Tier übertragen, so wird stattdessen Impotenz auferlegt. Andere auf unpassende Ziele übertragene Flüche werden in ähnlicher Weise abgewandelt.
-
-Um einen Fluch zu schleudern, muss die betroffene Person körperlich anwesend sein, und der Empfänger des Fluchs muss entweder persönlich oder durch eine Arkane Verbindung repräsentiert sein. Leiden lassen sich von Menschen auf Tiere und umgekehrt übertragen, was jedoch schwieriger ist als die Übertragung innerhalb derselben Spezies. Manchmal übertragen Fluchschleuderer den Fluch auf sich selbst, doch ist solche Selbstlosigkeit selten. Um einen Fluch zu schleudern, muss der Charakter ein aufwendiges Ritual vollziehen, zu dem die Anfertigung eines Talismans gehört, der den Fluch überträgt. Dieser Talisman besteht aus einer Verbindung von einem körperlichen Gegenstand und einem Gesang. Der Gegenstand wird wiederholt mit dem Ziel und mit dem Empfänger (oder der Arkanen Verbindung) berührt, während der Gesang immer wieder rezitiert wird. Das Ritual dauert in der Regel eine Stunde je 5 Punkte (oder Bruchteile davon) des Schwierigkeitsgrades (siehe unten). Am Ende dieser Zeit erzeugt der Charakter eine Zaubersumme, die den unten angegebenen Schwierigkeitsgrad erreichen oder überschreiten muss. Verfügt entweder der Leidende oder der vorgesehene Empfänger des Fluchs über Magieresistenz, muss die Penetrationssumme diese überschreiten, sonst verbleibt der Fluch dort, wo er ist. Bei einem Patzer beim Fluchschleuderwurf wechselt der Empfänger des Fluchs zum Wirkenden.
-
-**ZAUBERSUMME FLUCHSCHLEUDERN: Präsenz + Fluchschleudern + Aura + Stresswurf**
-
-**PENETRATIONSSUMME: Zaubersumme – Schwierigkeitsgrad + Penetrationsbonus**
-
-| Fluch                              | Schwierigkeitsgrad        |
-| ---------------------------------- | ------------------------- |
-| Geringe Krankheit<br>oder Leiden\* | 9                         |
-| Schwere Krankheit oder Leiden\*    | 12                        |
-| Große Krankheit oder Leiden\*      | 15                        |
-| Kritische Krankheit\*              | 18                        |
-| Zauber                             | 12 + Magnitude des Zaubers |
-| Übernatürliche Fertigkeit          | 12 + Wert der Fertigkeit  |
-| Macht                              | 12 + ausgegebene Machtpunkte |
-
-\*Eine geringe Krankheit fügt eine Leichte Wunde zu, eine schwere Krankheit eine Mittelschwere Wunde, eine große Krankheit eine Schwere Wunde, und eine kritische Krankheit eine Lähmende Wunde. Siehe *Art & Academe*, Kapitel 4: Medicine für weitere Einzelheiten. Geringe Leiden umfassen Furunkel und Warzen. Schwere Leiden entsprechen in ihrer Größenordnung einem Kleinen Fehler, während Große Leiden so schwerwiegend wie ein Großer Fehler sind.
-
-| Situation                                                                      | Modifikator auf<br>Zaubersumme |
-| ------------------------------------------------------------------------------ | ------------------------------ |
-| Empfänger persönlich anwesend                                                  | 0                              |
-| Empfänger durch<br>Arkane Verbindung dargestellt,<br>die Jahrzehnte hält       | -1                             |
-| Empfänger durch<br>Arkane Verbindung dargestellt,<br>die Monate oder Jahre hält | -3                             |
-| Empfänger durch<br>Arkane Verbindung dargestellt,<br>die Wochen oder weniger hält | -6                          |
-| Empfänger ist eine andere Spezies als das Ziel                                 | -3                             |
-
-*Spezialisierungen:* Krankheiten, Feenflüche, Vieh. (Übernatürlich)
-
-> #### Beispiel für Fluchschleudern
->
-> Eine junge Frau ist trotz vier Jahren Ehe nicht schwanger geworden, und sie und ihre Mutter suchen Aelfred, den ortsansässigen Feendoktor, auf. Er erklärt, dass ihre Unfruchtbarkeit auf eine andere übertragen werden müsse, und die Mutter erbietet sich, da sie bereits drei Kinder geboren hat. Der Schwierigkeitsgrad für diesen Vorgang beträgt 12, da Unfruchtbarkeit einem Kleinen Fehler entspricht. Das Ritual dauert drei Stunden, an deren Ende Aelfred eine Zaubersumme erzeugt: 2 (Präsenz) + 5 (Fluchschleudern) + 5 (Stresswurf) + 2 (Feenaura von Aelfreds Heim), insgesamt 14. Den Charakteren ist jedoch nicht bekannt, dass die Unfruchtbarkeit durch den Fluch einer örtlichen Hexe verursacht wurde. Ihr Wert in Verhexung betrug 5, also lag der Schwierigkeitsgrad tatsächlich bei 17 (12 + Verhexung 5). Da Aelfreds Spieler einen Wurf auf Intelligenz + Feenkunde gelingt, teilt der Spielleiter ihm mit, dass Aelfred vermutet, sein Fluchschleudern hätte funktionieren müssen, wäre die Unfruchtbarkeit natürlichen Ursprungs gewesen. Aelfred rät Mutter und Tochter zu prüfen, ob sie Feinde mit übernatürlichen Kräften haben.
+#### Jüdische Kunde\*
+Jüdische Kunde ist das Wissen um jüdische kulturelle Praxis im Gegensatz zu rein religiösen Einzelheiten. Dazu gehören Dichtung, Volkskunde, Lieder und so weiter. Alle jüdischen Charaktere sind in einem gewissen Maße in jüdischer Kunde bewandert, und Erfahrungspunkte in dieser Fertigkeit bei der Charaktererschaffung können Teil ihrer Kindheitsfertigkeiten sein.<br>
+*Spezialisierungen:* Volkskunde, Musik, Dichtung, Lieder. (Allgemein)
 
 #### Führung
 Andere dazu bringen, deinen Befehlen zu folgen und dir zu folgen. Kann auch verwendet werden, um anderen Furcht einzuflößen und sie zur Unterwerfung einzuschüchtern.<br>
 *Spezialisierungen:* Einschüchtern, im Kampf, Inspiration. (Allgemein)
 
-#### Gedächtniskunst\*
-Die Gedächtniskunst befasst sich mit der Anlage von Gedächtnispalästen, einer Form von Mnemotechnik, in der man eine Reihe von *loci* (Singular *locus*) visualisiert, an denen der Gelehrte eine symbolische Darstellung einer zu merkenden Tatsache hinterlegt. Der Charakter verfügt über eine Anzahl an *loci* in Höhe des Fünffachen seines Werts in Gedächtniskunst.
+#### Fingerfertigkeit\*
+Geschickte Hände und Wissen um Trickbetrügereien, die geschickte Hände erfordern. Sie verlangt feines Gefühl und große Hand-Augen-Koordination. Fingerfertigkeit umfasst das Mausen von Marktständen, das Beutelschneiden und das Knacken bestehender Schlösser ebenso wie die „magische" Trickserei, mit der gewöhnlich leichtgläubigen Menschen Geld abgeknöpft wird. Das Ziel eines solchen Versuchs würfelt Wahrnehmung (Eigenschaft) + Wahrnehmung (Fertigkeit), um deine Handlungen zu bemerken. Verfügt der Beobachter selbst über Fingerfertigkeit, kann er diese nach Belieben statt der Wahrnehmungsfertigkeit verwenden. Bei besonders heiklen Aktionen wie dem Taschendiebstahl erhält jemand, der versucht, den Charakter mit Fingerfertigkeit zu ertappen, einen Bonus von +3.<br>
+*Spezialisierungen:* Mausen, Taschendiebstahl, „Zauber"-Tricks. (Allgemein)
 
-Um eine komplexe Szene, ein Bild oder einen Text (etwa einen langen Brief, jedoch nicht so lang wie ein ganzer Text) auswendig zu lernen, muss dem Charakter folgender Wurf gelingen:
+#### (Lebende Sprache)\*
+Sprachgewandtheit in einer bestimmten lebenden Sprache. Statt eines Würfelmodifikators misst dein Wert in dieser Kunde deine Fähigkeit zur Verständigung.
 
-**WURF FÜR KOMPLEXE MEMORISIERUNG:** Stresswurf + Intelligenz + Gedächtniskunst gegen Schwierigkeitsgrad 9 (oder höher)
+Wenn zwei Personen miteinander sprechen, bestimmt der niedrigere Fertigkeitswert, wie gut sie kommunizieren. Charaktere, die verwandte Sprachen sprechen, können sich mit einem Abzug auf ihre Werte verständigen (vom Spielleiter festgelegt), je nachdem, wie eng die beiden Sprachen verwandt sind. Zwei Dialekte derselben Sprache haben in der Regel einen Abzug von -1. Ist dein Charakter nicht auf einen Dialekt spezialisiert, solltest du einen Dialekt angeben, ohne dich auf ihn zu spezialisieren, und den Abzug hinnehmen, wenn du dich mit Sprechern eines anderen Dialekts unterhältst. Sprichst du eine „Standard"-Version der Sprache, ist das ein Dialekt, der sich von allen anderen Dialekten unterscheidet.
 
-Der Schwierigkeitsgrad kann je nach Länge oder Komplexität des zu Memorierenden höher liegen. Gelingt dem Charakter der Wurf, erinnert er sich exakt im Detail an das Memorierte und kann es nach Belieben abrufen, auch wenn das Erkunden eines *locus* Zeit erfordern kann.
+Beachte, dass Latein und Hebräisch in den meisten Teilen des Mythischen Europa keine lebenden Sprachen sind. Charaktere, die jedoch an Orten leben, an denen sie es sind (etwa in einigen Konventen), dürfen diese Fertigkeit ohne besondere Tugenden erlernen. Dasselbe gilt für alle Sprachen, die in einem Gebiet als tote Sprachen erlernt werden, in einem anderen aber noch lebende Sprachen sind.
 
-Charaktere ohne Gedächtniskunst können ähnliche Inhalte mit einem Wurf von Stresswurf + Intelligenz (mit 3 zusätzlichen Patzerwürfeln) gegen dieselben Schwierigkeitsgrade memorieren, müssen den Wurf jedoch ebenfalls wiederholen, um die Erinnerung perfekt abzurufen. Jeder misslungene Wurf führt Fehler in die Erinnerung ein, die bei jedem weiteren Abruf wiederholt werden. Wer keine Gedächtniskunst beherrscht, dem fehlt überdies das wohldefinierte Ortssystem der *loci*.<br>
-*Spezialisierungen:* ein Wissensgebiet (Akademisch)
+Charaktere mit dieser Fertigkeit sind des Lesens und Schreibens unkundig, sofern sie nicht auch einen Wert in Artes Liberales haben ([Seite 160](#artes-liberales)).
 
-> #### Schwierigkeitsgrade der Memorisierung
->
-> | Schwierigkeitsgrad | Beschreibung |
-> | ------------------ | ------------ |
-> | 9 (Durchschnitt)   | Wortwörtliches Memorieren eines einseitigen Briefes, eines Gesprächs von bis zu 5 Minuten Länge oder eines Raumes aus einem einzelnen Blickwinkel oder den Grundriss (jedoch nicht den Inhalt) einer Burg. |
-> | 12 (Schwer)        | Memorieren eines Briefes von bis zu 12 Seiten oder eines einstündigen Gesprächs, einer Vorlesung oder Disputation oder eines aus vielen Blickwinkeln betrachteten Raumes oder eines ganzen Gutshauses, von jedem Raum aus einem einzelnen Blickwinkel betrachtet, oder des Inhalts (aber nicht der Details) einer Burg. |
-> | 18 (Beeindruckend) | Memorieren eines ausgedehnten Briefwerks von bis zu 100 Seiten oder einer Tagesvorlesung bzw. -disputation (etwa eines Tribunalstages) oder eines ganzen Gutshauses im Detail oder des Inhalts einer Burg. |
->
-> Längere Inhalte müssen in Abschnitte zerlegt und als getrennte *loci* memoriert werden. Ist das Thema hochtechnisch, addiere 3 oder sogar 6 zum Schwierigkeitsgrad. Ist das Thema technisch und fällt in eine Fertigkeit, die der Gelehrte besitzt, darf er diese Fertigkeit anstelle der Gedächtniskunst verwenden (muss aber dennoch sowohl zum Memorisieren als auch zum Abrufen würfeln): etwa ein Jurist, der mit Zivil- und Kanonischem Recht eine Gerichtsverhandlung memoriert, oder ein Magus, der mit Magietheorie die Vorlesung eines Bonisagus-Experten erinnert.
+Diese Fertigkeit umfasst auch künstlerische Kompositionen in der Sprache und das mit Verve und Leidenschaft vorgetragene Erzählen bestehender Geschichten. Wissen über Geschichten wird durch die entsprechenden Kunde-Fertigkeiten abgedeckt.<br>
+*Spezialisierungen:* Dichtung, Prosa, bestimmte Dialekte, ausgedehnter Wortschatz, bestimmter Fachwortschatz, Slang, Erzählen. (Allgemein)
+
+| Wert | Sprachgewandtheit |
+| ---- | ----------------- |
+| 1    | **Zeigen und Grunzen.** Mit einem oder mehreren Erfahrungspunkten kennst du „bitte", „danke" und ein paar weitere Worte. |
+| 2    | **Einfache Fragen und Antworten: „Wo ist die Kirche?", „Verkauft Ihr Speisen?".** Ständige Fehler und ein furchtbarer Akzent. Die Leute müssen langsam sprechen und sich oft wiederholen, und du kannst kein Gespräch zusammenhängend führen. |
+| 3    | **Einfaches Gespräch.** Du kannst ein kurzes Gespräch über ein gewöhnliches Thema bestreiten. Du machst noch viele Fehler und verstehst oft nicht, was andere sagen. |
+| 4    | **Stockend funktional.** Du kannst ein Gespräch über alltägliche Themen führen, auch wenn es Zeit braucht, du viele Fehler machst und dein Akzent noch immer schlecht ist. Funktional. Du kannst ein Gespräch über nichttechnische Themen führen und machst wenige Fehler. Andere müssen sich normalerweise nicht wiederholen. Dies ist die mindestens erforderliche Stufe, um aus einem Buch zu studieren. |
+| 5    | **Fließend.** Wenn dies nicht deine Muttersprache ist, hast du noch einen Akzent, doch ist er schwach. Du sprichst so gut wie die meisten Muttersprachler. Dies ist die mindestens erforderliche Stufe, um ein Buch zu schreiben. |
+| 6    | **Elegant.** Du wählst deine Worte gut und hast keinen Akzent, falls dies nicht deine Muttersprache ist. |
+
+#### Magiekunde\*
+Wissen über magische Geschöpfe, Gebiete und Traditionen.<br>
+*Spezialisierungen:* Geschöpfe, magische Traditionen, Regiones. (Arkan)
+
+#### Magiegespür\*
+Du bist häufig in der Lage, einen Ort oder Gegenstand als magisch zu erkennen. Allerdings macht dich dein Gespür anfälliger für magische Wirkungen: Ziehe deinen Wert in Magiegespür von deiner Magieresistenz ab. Beim Versuch, die magische Natur eines Ortes oder Gegenstands zu erspüren, legt der Spielleiter einen Schwierigkeitsgrad fest – würfle einfach einen schlichten Würfel + Wahrnehmung + Magiegespür.
+
+Eine Magieaura zu erkennen, hätte normalerweise einen Schwierigkeitsgrad in Höhe von 12 – Aurastufe, also 9 für eine Aura der Stufe 3 und 6 für eine Aura der Stufe 6.
+
+Für Zauber und verzauberte Gegenstände ist ein Schwierigkeitsgrad in Höhe von 21 – Magnitude der Wirkung ein guter Richtwert. Bei verzauberten Gegenständen verwende die Magnitude der mächtigsten Wirkung im Gegenstand.
+
+Für magische Geschöpfe sind 15 – ein Fünftel der Magischen Macht des Geschöpfes angemessen, sodass für ein Geschöpf mit einer Magischen Macht von 25 der Schwierigkeitsgrad bei 10 läge.
+
+*Spezialisierungen:* Auren, magische Geschöpfe, verzauberte Gegenstände, aktive Zauber. (Übernatürlich)
+
+#### Magietheorie\*
+Wissen darüber, was Magie ist und wie sie funktioniert, hauptsächlich im Labor verwendet. Magietheorie befasst sich mit den technischen Einzelheiten hermetischer Magie, Magiekunde umfasst das Wissen über magische Dinge im Allgemeinen. Jeder kann Magietheorie erlernen, sofern er Zugang zu einem Lehrer oder Buch hat (gewöhnlich durch eine Tugend dargestellt), doch ist sie für jene, die nicht über die Gabe verfügen, von geringem Nutzen.<br>
+*Spezialisierungen:* Zauber erfinden, Gegenstände verzaubern, eine einzelne Kunst. (Arkan)
+
+#### Medizin\*
+Medizin ist das formale Studium des Körpers und seiner Krankheiten. Die medizinische Praxis beruht auf der Lehre von den vier Körpersäften: Blut, Schleim, gelbe Galle und schwarze Galle. Krankheiten werden häufig durch Ungleichgewichte zwischen ihnen verursacht, daher rühren Praktiken wie der Aderlass, der das Gleichgewicht wiederherstellen soll. Medizin behandelt auch Vergiftungen sowie die Folgen von Hunger und ähnlichem, jedoch nicht die Versorgung von Wunden (siehe Chirurgie weiter oben). Die *auctores* sind Galen und Hippokrates in vielen Werken. Wichtig zu beachten ist, dass die mittelalterliche medizinische Lehre im Mythischen Europa im Wesentlichen zutreffend ist.<br>
+*Spezialisierungen:* Anatomie, Apothekerwesen, Heilkunst. (Akademisch)
+
+#### Musik
+Die Fähigkeit zu singen, Musikinstrumente zu spielen und neue Musik zu komponieren.<br>
+*Spezialisierungen:* Singen, Komponieren, ein bestimmtes Instrument. (Allgemein)
+
+#### (Mysterienkult-)Kunde\*
+Dies ist die (Organisations-)Kunde eines bestimmten Kults. Sie vermittelt Wissen über die Sagen, Geschichte, Struktur, Arbeitsweise und Ziele des betreffenden Mysterienkults.
+
+Sie umfasst das Wissen um die Magie, Riten und geheimen Losungsworte sowie die Symbolik des Kults, wie man Mitgliedschaft heimlich anzeigt und wie man die Mitgliedschaft oder Nicht-Mitgliedschaft eines anderen Magus in deinem Kult einschätzt. Zwei Magi, die einen Wert in dieser Fertigkeit für denselben Mysterienkult besitzen, können sehr wohl ein scheinbar harmloses Gespräch führen, ohne dass Außenstehende die wahre Bedeutung oder den Sinn ihrer Worte verstehen. Viele Sonderbücher von Mysterienkulten verlangen ebenfalls einen Wert in dieser Fertigkeit, um ihre dichte Symbolik zu entschlüsseln; diese Methode wird genutzt, um zu verhindern, dass nicht eingeweihte Außenstehende Geheimnisse des Mysteriums erfahren.
+
+Mysterienkult-Kunde umfasst auch die Zeremonien des Kults, die häufig vollzogen werden, sobald der Kult formell zusammenkommt. Sie ist auch ein Schlüsselwissen für die Durchführung der Einweihungsriten durch einen Mystagogen, um den Initianden durch den Pfad der Prüfungen, Zeremonien und Meditationen zu führen, damit er neue Tugenden erlangt.
+
+Kult-Kunde wird vom Mystagogen an den Initianden, von Myste zu Myste in einer Kette lebendiger Geheimnisse weitergegeben. Manche Kulte halten ihr geheimes Wissen auch schriftlich fest, da dies das Mysterium kodifiziert und es anderen ermöglicht, dieselbe Sicht des Kults zu teilen – andere bevorzugen die Verschwiegenheit der mündlichen Überlieferung. Kleine Kulte können aus Mangel an Mitgliedern verschwinden, besonders wenn sie zu irgendeinem Zeitpunkt verfolgt werden – haben sie aber einen Teil ihrer Kunde schriftlich festgehalten, kann der Kult durch jene wiedergeboren werden, die die Texte entdecken und verstehen. Manche Kulte gehen das Risiko des Verlusts der Verschwiegenheit gerade aus diesem Grund ein – damit ihre Geheimnisse und magischen Riten nicht für immer verloren gehen. Manche Magi suchen nach verlorenen Texten, die geheime Lehren der Alten enthalten, in der Hoffnung, die Riten und Rituale nachzuvollziehen, die die Alten zur Macht führten.
+
+Spielmechanisch werden Erfahrungspunkte in Kult-Kunde wie jedes andere Wissen erworben – einschließlich durch Unterricht, Bücher, Übung und Exposition. Das Erlernen von Kult-Kunde von einem anderen stellt sicher, dass Lehrer und Schüler dieselben Riten teilen; das eigenständige Erlernen besagt im Allgemeinen, dass man eigene, abweichende (sogar „häretische") Riten und Rituale ersonnen hat – aus solchen Differenzen entstehen Schismen, und Kulte können auseinanderbrechen und sich zersplittern.
+
+Ein Magus kann das Wissen von 0 aus aufbauen, sogar ohne Unterweisung – doch das bedeutet, dass er seinen eigenen Kult ersonnen hat, und seine Kunde ist als neue Kunde zu behandeln.
+
+*Spezialisierungen:* Persönlichkeiten, Geschichte, Politik, eine bestimmte Einweihung. (Allgemein)
+
+#### (Organisations-)Kunde\*
+Wissen über die Sagen, Geschichte, Struktur, Arbeitsweise und Ziele der angegebenen Organisation. Organisationen können so groß wie die Kirche oder so klein wie eine örtliche Handwerksgilde sein. Je kleiner die Organisation, desto detaillierter dein Wissen. Kunde des Ordens des Hermes ist für die meisten Magi besonders wichtig.<br>
+*Spezialisierungen:* Persönlichkeiten, Geschichte, Politik. (Allgemein)
+
+#### Parma Magica\*
+Schutz vor Magie. Dies ist ein besonderes Ritual (kein Ritualzauber), dessen Vollzug etwa zwei Minuten dauert. Es erlaubt dir, das Fünffache deines Wertes in Parma Magica zu deiner Magieresistenz zu addieren, bis zum nächsten Sonnenauf- oder -untergang, je nachdem, was zuerst eintritt. Du darfst deine Parma Magica vorübergehend unterdrücken, indem du dich konzentrierst; dies entspricht dem Aufrechterhalten eines Zaubers mit Dauer Konzentration (siehe [Seite 215](#konzentration-1)). Solange sie aktiv ist, erfordert die Parma Magica keine Konzentration.
+
+Du darfst auch jeweils eine weitere Person je Punkt in Parma Magica schützen, mit deren Einverständnis. Du musst jede Person berühren, um den Schutz einzuleiten, und er hält an, solange sich mindestens ein Charakter und ein anderer gegenseitig sehen. Der Magus darf den Schutz nach Belieben aufheben, ungeachtet der Entfernung. Solange ein Magus andere schützt, ist sein effektiver Wert in Parma Magica um 3 Punkte verringert, sowohl für ihn selbst als auch für die anderen Personen, die er schützt. Hat der Magus einen Wert in Parma Magica von 3 oder weniger, gewährt seine Parma Magica jedem Charakter, einschließlich ihm selbst, eine Magieresistenz von 0. Im Falle des Magus wird dies zu seiner Form-Resistenz addiert, und ein durch die Parma Magica eines anderen Magus geschützter Magus darf ebenfalls seine Form-Resistenz addieren.
+
+Jeder Charakter, der durch eine Parma Magica geschützt ist, sei es seine eigene oder die eines anderen, wird von den sozialen Nachteilen der Gabe anderer nicht beeinflusst. Ist ein geschützter Charakter selbst Begabter, legt seine Gabe noch immer soziale Nachteile auf andere, sofern diese nicht ebenfalls durch eine Parma Magica geschützt sind oder aus einem anderen Grund von der Gabe nicht beeinflusst werden.
+
+Parma Magica kann nur von Begabten Charakteren erlernt werden, auch wenn sie sie als gewöhnliche Arkane Fertigkeit, nicht als Übernatürliche Fertigkeit erlernen. Sie wird nur von hermetischen Magi gewusst, da der Orden die Wahl „Beitritt oder Tod" gegenüber jedem, der sie kennt, rigoros durchsetzt und gegen den Magus, der sie weitergegeben hat, einen Zug der Magier ausruft. Die Parma Magica ist das Letzte, was ein Lehrling lernt; ihm wird der letzte Schlüssel zur Fertigkeit erst nach Ablegen des Eides gelehrt.
+
+*Spezialisierungen:* Schutz vor einer bestimmten Form. (Arkan)
+
+#### Penetration
+Den eigenen Zauber durch die Magieresistenz des Ziels bringen. Siehe [Seite 215](#penetrationssumme) für die vollständigen Penetrationsregeln.<br>
+*Spezialisierungen:* eine bestimmte Kunst. (Arkan)
+
+#### Persona\*
+Der Charakter mit dieser Fertigkeit kann sein Erscheinungsbild verändern, um eine andere Identität anzunehmen. Er kann jeden Aspekt seines Erscheinungsbildes verändern: Haar- und Augenfarbe, Hauttönung, Form der Nase, Statur und Größe (innerhalb der Grenzen seiner Größe), scheinbares Alter und sogar Geschlecht. Diese Veränderungen sind vollständig und auch der intimsten weltlichen Prüfung gewachsen, ändern jedoch nicht die wesentliche Natur des Charakters. Folglich bleiben alle Eigenschaftswerte unverändert, Tugenden und Fehler werden auf alle neuen Gestalten übertragen, und ein Charakter, der normalerweise keine Gebärmutter besitzt, kann auch dann nicht schwanger werden, wenn er die Persona einer Person mit Gebärmutter annimmt. Das Annehmen einer anderen Identität erfordert eine Runde Konzentration und einen Wurf auf Ausdauer + Persona gegen einen Schwierigkeitsgrad von 9. Die Rückkehr in die natürliche Gestalt des Charakters erfordert dieselbe Konzentration und denselben Wurf. Jede Identität hat ihre eigenen Persönlichkeitseigenschaften und Verhaltensmerkmale, und es ist kein Verkleidungswurf erforderlich, um andere von der Rolle zu überzeugen; dies ist keine Verkleidung, sondern eine völlig andere Person. Der Charakter erhält für jeden Punkt, den er in der Persona-Fertigkeit hat, eine Identität. Jedes Mal, wenn die Fertigkeit um einen Punkt steigt, muss der Charakter eine neue Identität entwerfen.<br>
+*Spezialisierungen:* Priester, Bauern, Magi. (Übernatürlich)
+
+#### Philosophiae\*
+Es gibt drei Philosophien: Naturphilosophie, Moralphilosophie und Metaphysik. Aristoteles ist für sie alle der *auctor*, in unterschiedlichen Büchern. Die meisten Gelehrten studieren die Philosophien nach den Künsten, jedoch vor dem Übergang zu Recht, Theologie oder Medizin. Naturphilosophie ist das Studium der sublunaren Welt. Sie entspricht in etwa der heutigen Wissenschaft. Die Haupttexte sind die *Physica*, *De Meteorologia* und *De historia animalium*. Moralphilosophie ist das Studium der rechten Lebensweise. Sie umfasst Ethik, Politik und Ökonomie – die Texte sind die *Ethica*, *Politica* und *Economica*. Metaphysik ist die Philosophie der grundlegenden Natur der Welt. Der Haupttext ist Aristoteles' *Metaphysica*. Die Lehren der *Philosophiae* sind im Mythischen Europa im Wesentlichen alle zutreffend.<br>
+*Spezialisierungen:* Naturphilosophie, Moralphilosophie, Metaphysik, Ritualmagie, Zeremonielle Magie. (Akademisch)
+
+#### Vorahnungen\*
+Du spürst intuitiv, sobald etwas nicht stimmt oder bald schiefzugehen droht. Diese Fertigkeit kann von dir oder dem Spielleiter, je nachdem, was angemessen ist, eingesetzt werden, wann immer eine Möglichkeit besteht, einer Gefahr zu entgehen. Würfle Wahrnehmung + Vorahnungen gegen einen Schwierigkeitsgrad, der von der Situation abhängt. Der Schwierigkeitsgrad beginnt bei 3 für unmittelbare Lebensgefahr und steigt, je größer der zeitliche Abstand und je geringer die Gefahrenstufe wird. Lebensgefahr in einer Woche hätte einen Schwierigkeitsgrad von 9, während eine unmittelbar bevorstehende kleinere Unannehmlichkeit einen Schwierigkeitsgrad von etwa 15 hätte. Übersteigst du den Schwierigkeitsgrad um 3 oder mehr, erhältst du auch einen Eindruck von der Art der Gefahr, mit mehr Einzelheiten je höher dein Wurf ausfällt.<br>
+*Spezialisierungen:* Bedrohungen für eine bestimmte Person oder Personengruppe, bestimmte Arten von Bedrohungen. (Übernatürlich)
+
+#### Beruf (Art)
+Die Fähigkeit, eine Tätigkeit auszuüben, bei der nichts hergestellt wird. Beispiele sind Spielmann, Marschall, Vogt, Seemann, Verwalter, Fuhrmann und Wäscherin.<br>
+*Spezialisierungen:* je nach Beruf passend. (Allgemein)
+
+#### Rabbinisches Recht\*
+Dies ist die jüdische Version von Zivil- und Kanonischem Recht. Die wichtigsten Quellen des Rabbinischen Rechts sind der Talmud, die mündliche Tora und die Responsen der Geonim.<br>
+*Spezialisierungen:* eine der Quellen des Rabbinischen Rechts, Speisegesetze, bestimmte Themen, Präzedenzfälle eines bestimmten Gebiets. (Akademisch)
+
+#### Reiten
+Reiten und Lenken eines Reittiers, besonders unter Belastung.<br>
+*Spezialisierungen:* Schlacht, Geschwindigkeit, Tricks. (Allgemein)
+
+#### Zweites Gesicht\*
+Du kannst durch illusorische Verhüllung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und du kannst auch von Natur aus unsichtbare Dinge wie Geister und die Grenzen zwischen Regio-Ebenen erkennen (siehe [Seite 420](#regiones)). Der Schwierigkeitsgrad, durch eine illusorische Verhüllung hindurchzusehen, beträgt normalerweise 6 + Magnitude der Macht des für die Wirkung verantwortlichen Geschöpfes oder 6 + Magnitude eines hermetischen Zaubers. Im Allgemeinen erlaubt dir diese Fertigkeit, durch hermetische Verhüllung mittels Imaginem hindurchzusehen, jedoch nicht durch andere Formen. Die Magieresistenz des verhüllten Geschöpfes, sofern vorhanden, beeinträchtigt dein Zweites Gesicht nicht. Wird etwas tatsächlich umgewandelt, etwa durch einen MuCo-Zauber, kannst du die echte Gestalt nicht ermitteln. Der Schwierigkeitsgrad, ein von Natur aus unsichtbares Ding zu sehen, beträgt normalerweise 9, und der Schwierigkeitsgrad für das Sehen von Regio-Ebenen ist auf [Seite 421](#regiones-betreten-und-verlassen) angegeben. Alle Würfe für Zweites Gesicht sind Wahrnehmung + Zweites Gesicht und sind fast immer schlichte Würfe.<br>
+*Spezialisierungen:* Regiones, unsichtbare Dinge, illusorische Verkleidungen, Feen, Geister. (Übernatürlich)
 
 #### Gespür für Heiliges und Unheiliges\*
 Du bist in der Lage, die Gegenwart von Gut und Böse zu fühlen. Ein Wurf auf Wahrnehmung + Gespür für Heiliges und Unheiliges gegen einen Schwierigkeitsgrad von 9 lässt dich Heiligkeit oder Unheiligkeit in einem allgemeinen Bereich erspüren; gegen einen Schwierigkeitsgrad von 15 in einer Person oder einem Gegenstand. Der Schwierigkeitsgrad, einen Dämon zu erkennen, beträgt 0, doch der Charakter muss dennoch dessen Magieresistenz durchdringen. Verbirgt ein Engel seine göttliche Natur, was ungewöhnlich ist, beträgt der Schwierigkeitsgrad 15, und der Charakter muss durchdringen. Verbirgt der Engel seine göttliche Natur nicht, gelingt der Wurf automatisch. In Auren mit besonders starkem göttlichen oder infernalen Einfluss kann dein Gespür dich überwältigen. Diese Fertigkeit wird von der Göttlichen Sphäre verliehen, nicht von der Magie- oder Feensphäre, und verwendet daher die Spalte für das Göttliche der Sphäreninteraktionstabelle (Seite 410).<br>
@@ -7510,180 +7741,28 @@ Gespür für Leidenschaft ist entweder eine falsche Macht (siehe Fehler Falsche 
 Du kannst deine Gestalt in die eines weltlichen Tiers von der Größe eines Rotkehlchens (-10) bis zur Größe eines Bären (+2) verwandeln. Dies erfordert wenige Sekunden (eine Runde) Konzentration und einen Wurf auf Ausdauer + Gestaltwandler gegen einen Schwierigkeitsgrad von 9. Die Rückverwandlung in die menschliche Gestalt erfordert dieselbe Konzentration und denselben Wurf. Du verfügst über ein begrenztes Repertoire an Gestalten, eine je Punkt, den du in der Gestaltwandler-Fertigkeit hast. Jedes Mal, wenn du die Fertigkeit um einen Punkt erhöhst, darfst du eine neue Gestalt wählen.<br>
 *Spezialisierungen:* eine deiner Gestalten, bestimmte Bedingungen für die Verwandlung. (Übernatürlich)
 
-#### Gewohnheitsrecht\*
-Kenntnis des englischen Rechts. Es gibt für diese Fertigkeit keine Autorität, und sie wird nur in England gelehrt.<br>
-*Spezialisierungen:* lokale Gesetze, Schatzkammer-Gesetze. (Akademisch)
-
-#### Große Waffe
-Kämpfen mit einer Waffe, die zwei Hände erfordert.<br>
-*Spezialisierungen:* eine bestimmte Waffe. (Kampf)
-
-#### Handwerk (Art)
-Ein Sammelbegriff für unzählige Fertigkeiten, die sich allesamt mit Handarbeit irgendeiner Art befassen. In der Regel werden Handwerks-Fertigkeiten nach dem Material unterschieden, mit dem sie arbeiten; man kann jedoch auch ein Handwerk wählen, das es dem Charakter erlaubt, mit verschiedenen Materialien auf eine bestimmte Weise zu arbeiten. Du darfst Handwerk mehrfach kaufen und jedes Mal ein anderes wählen. Die Beherrschung eines Handwerks bedeutet nicht das Beherrschen anderer. *City and Guild* enthält in Kapitel 4 ausführlichere Informationen zu Handwerks-Fertigkeiten und ihrer Verwendung.<br>
-*Spezialisierungen:* je nach Handwerk passend. (Allgemein)
-
-#### Handwerkerheiler\*
-Beim Einsatz dieser Fertigkeit kann jede Wunde nur einmal behandelt werden, ungeachtet ihrer Schwere. Würfle Präsenz + Handwerkerheiler + Stresswurf gegen einen Schwierigkeitsgrad in Höhe des Heilungsschwierigkeitsgrades laut Wundheilungstabelle ([Seite 405](#wunden-heilen)). Das Heilen einer Wunde kostet eine Stufe Langzeit-Erschöpfung. Bei Erfolg wird die Wunde um eine Stufe geheilt: Schwere Wunden werden zu mittelschweren, mittelschwere zu leichten, und leichte heilen vollständig. Misslingt der Wurf, geschieht außer dem Erschöpfungsverlust nichts. Bei einem Patzer erleidet der Heiler unverzüglich eine entsprechende Wunde. Der verwundete Empfänger erhält jedes Mal, wenn diese Fertigkeit auf ihn angewendet wird, einen Verzerrungspunkt, unabhängig vom Erfolg.<br>
-*Spezialisierungen:* bestimmte Wundarten. (Übernatürlich)
-
-#### Herztier\*
-Die allen Bjornaer-Magi gemeine Fähigkeit, die Gestalt ihres Herztiers anzunehmen. Sie wird im Kapitel Hermetische Magie auf [Seite 233](#bjornaer-das-herztier) beschrieben. Diese Fertigkeit kann von Nicht-Bjornaer-Charakteren nicht erlernt werden, selbst wenn sie Zugang zu Arkanen Fertigkeiten haben. (Arkan)
-
-#### Infernalkunde\*
-Verständnis und Vertrautheit mit dem Infernalen und seinen Dienern. Umfasst Wissen über Dämonen und ihre Gewohnheiten und Schwächen, über Untote und ihre Gewohnheiten und Schwächen sowie über die Macht von Flüchen.<br>
-*Spezialisierungen:* Dämonen, Untote, Flüche. (Arkan)
-
-#### Intrige
-Verhandeln und Ränke schmieden, einschließlich des subtilen Einsatzes von Macht auf nicht-konfrontative Weise zur Erreichung eigener Ziele. Intrige muss nicht hinterhältig oder manipulativ sein – sie umfasst auch Verhandlungen sowie das Wissen um formelle und informelle Verhaltens- und Höflichkeitsregeln. Darüber hinaus erlaubt Intrige einem Charakter, wichtige Informationen über Mächtige zu sammeln und Tatsachen von nutzlosem Klatsch zu trennen. Intrige ist eine entscheidende Begabung für jene, die am Hof oder bei einem hermetischen Tribunal verkehren.<br>
-*Spezialisierungen:* Klatsch, Ränkeschmieden, Gerüchte streuen, Allianzen. (Allgemein)
-
-#### Islamisches Recht\*
-Dies ist die muslimische Version von Zivil- und Kanonischem Recht. Die wichtigsten Quellen des Islamischen Rechts sind der Koran und die Sunna.<br>
-*Spezialisierungen:* eine der Quellen des Islamischen Rechts, bestimmte Themen, Bräuche eines bestimmten Gebiets. (Akademisch)
-
-#### Jagen
-Schlingen stellen, geeignete Jagdplätze auswählen sowie der Spur von Geschöpfen aller Art folgen und sie identifizieren. Diese Fertigkeit erlaubt dir auch, deine Spuren zu verwischen oder von vornherein keine zu hinterlassen.<br>
-*Spezialisierungen:* Spurenlesen, Spuren verwischen, ein bestimmtes Tier jagen. (Allgemein)
-
-#### Jüdische Kunde\*
-Jüdische Kunde ist das Wissen um jüdische kulturelle Praxis im Gegensatz zu rein religiösen Einzelheiten. Dazu gehören Dichtung, Volkskunde, Lieder und so weiter. Alle jüdischen Charaktere sind in einem gewissen Maße in jüdischer Kunde bewandert, und Erfahrungspunkte in dieser Fertigkeit bei der Charaktererschaffung können Teil ihrer Kindheitsfertigkeiten sein.<br>
-*Spezialisierungen:* Volkskunde, Musik, Dichtung, Lieder. (Allgemein)
-
-#### Kodex des Hermes\*
-Beurteilen von Vorgängen nach dem Kodex des Hermes und dem Peripheren Kodex. Neben dem Auswendiglernen wichtiger Präzedenzfälle umfasst dieses Wissen auch die praktische Seite der Durchsetzung hermetischen Rechts – etwa zu wissen, wann man auf eine Abstimmung drängt oder wie man ein Argument vorbringt.<br>
-*Spezialisierungen:* Züge der Magier, Lehrlinge, Beziehungen zu Sterblichen, Tribunalsverfahren, politische Intrigen. (Arkan)
-
-#### Konzentration
-Das Bündeln der geistigen Kräfte auf eine Aufgabe, insbesondere über längere Zeit. Wenn du eine Tätigkeit angehst, die deine besondere Aufmerksamkeit erfordert, oder gerade eine Handlung verfehlt hast und es erneut versuchst, kann der Spielleiter einen Konzentrationswurf verlangen, bevor du den Versuch unternehmen darfst. Diese Fertigkeit ist für Magi besonders wichtig, da sie ihnen hilft, die Konzentration auf Zauber trotz Ablenkungen aufrechtzuerhalten.<br>
-*Spezialisierungen:* Zauberkonzentration, Lesen, Laborarbeit. (Allgemein)
-
-#### (Gebiets-)Kunde\*
-Wissen über eine bestimmte Region, einen Konvent oder sogar ein Dorf. Es umfasst das Wissen darüber, wo sich Dinge in der unmittelbaren Umgebung befinden, lokale Geschichte und Sagen sowie die Machtzentren der Region. Je kleiner die Region, desto detaillierter dein Wissen.<br>
-*Spezialisierungen:* Geographie, Geschichte, Sagen, Politik, Persönlichkeiten. (Allgemein)
-
-#### (Mysterienkult-)Kunde\*
-Dies ist die (Organisations-)Kunde eines bestimmten Kults. Sie vermittelt Wissen über die Sagen, Geschichte, Struktur, Arbeitsweise und Ziele des betreffenden Mysterienkults.
-
-Sie umfasst das Wissen um die Magie, Riten und geheimen Losungsworte sowie die Symbolik des Kults, wie man Mitgliedschaft heimlich anzeigt und wie man die Mitgliedschaft oder Nicht-Mitgliedschaft eines anderen Magus in deinem Kult einschätzt. Zwei Magi, die einen Wert in dieser Fertigkeit für denselben Mysterienkult besitzen, können sehr wohl ein scheinbar harmloses Gespräch führen, ohne dass Außenstehende die wahre Bedeutung oder den Sinn ihrer Worte verstehen. Viele Sonderbücher von Mysterienkulten verlangen ebenfalls einen Wert in dieser Fertigkeit, um ihre dichte Symbolik zu entschlüsseln; diese Methode wird genutzt, um zu verhindern, dass nicht eingeweihte Außenstehende Geheimnisse des Mysteriums erfahren.
-
-Mysterienkult-Kunde umfasst auch die Zeremonien des Kults, die häufig vollzogen werden, sobald der Kult formell zusammenkommt. Sie ist auch ein Schlüsselwissen für die Durchführung der Einweihungsriten durch einen Mystagogen, um den Initianden durch den Pfad der Prüfungen, Zeremonien und Meditationen zu führen, damit er neue Tugenden erlangt.
-
-Kult-Kunde wird vom Mystagogen an den Initianden, von Myste zu Myste in einer Kette lebendiger Geheimnisse weitergegeben. Manche Kulte halten ihr geheimes Wissen auch schriftlich fest, da dies das Mysterium kodifiziert und es anderen ermöglicht, dieselbe Sicht des Kults zu teilen – andere bevorzugen die Verschwiegenheit der mündlichen Überlieferung. Kleine Kulte können aus Mangel an Mitgliedern verschwinden, besonders wenn sie zu irgendeinem Zeitpunkt verfolgt werden – haben sie aber einen Teil ihrer Kunde schriftlich festgehalten, kann der Kult durch jene wiedergeboren werden, die die Texte entdecken und verstehen. Manche Kulte gehen das Risiko des Verlusts der Verschwiegenheit gerade aus diesem Grund ein – damit ihre Geheimnisse und magischen Riten nicht für immer verloren gehen. Manche Magi suchen nach verlorenen Texten, die geheime Lehren der Alten enthalten, in der Hoffnung, die Riten und Rituale nachzuvollziehen, die die Alten zur Macht führten.
-
-Spielmechanisch werden Erfahrungspunkte in Kult-Kunde wie jedes andere Wissen erworben – einschließlich durch Unterricht, Bücher, Übung und Exposition. Das Erlernen von Kult-Kunde von einem anderen stellt sicher, dass Lehrer und Schüler dieselben Riten teilen; das eigenständige Erlernen besagt im Allgemeinen, dass man eigene, abweichende (sogar „häretische") Riten und Rituale ersonnen hat – aus solchen Differenzen entstehen Schismen, und Kulte können auseinanderbrechen und sich zersplittern.
-
-Ein Magus kann das Wissen von 0 aus aufbauen, sogar ohne Unterweisung – doch das bedeutet, dass er seinen eigenen Kult ersonnen hat, und seine Kunde ist als neue Kunde zu behandeln.
-
-*Spezialisierungen:* Persönlichkeiten, Geschichte, Politik, eine bestimmte Einweihung. (Allgemein)
-
-#### (Organisations-)Kunde\*
-Wissen über die Sagen, Geschichte, Struktur, Arbeitsweise und Ziele der angegebenen Organisation. Organisationen können so groß wie die Kirche oder so klein wie eine örtliche Handwerksgilde sein. Je kleiner die Organisation, desto detaillierter dein Wissen. Kunde des Ordens des Hermes ist für die meisten Magi besonders wichtig.<br>
-*Spezialisierungen:* Persönlichkeiten, Geschichte, Politik. (Allgemein)
-
-#### Leichenmagie\*
-Der Charakter kann Leichenmagie nutzen, um eine Leiche vorübergehend zu erwecken. Das Ziel dieser Übernatürlichen Fertigkeit darf keine Bestattungsriten einer von Gott geheiligten Religion erhalten haben, und die Leiche muss verhältnismäßig vollständig sein und mindestens eine Wirbelsäule, einen Schädel und mehr als die Hälfte ihrer Röhrenknochen aufweisen. Es muss kein Fleisch mehr vorhanden sein. Es dauert fünfzehn Minuten, die Sprüche so zu sprechen, dass die Toten erweckt werden.
-
-**ZAUBERSUMME:** Kommunikation + Leichenmagie + Auramodifikator + Stresswurf
-
-**BEFEHLSWURF:** Kommunikation + Führung + Stresswurf; Führung kann durch die Sprachfertigkeit begrenzt sein
-
-Vergleiche das Ergebnis mit den Schwierigkeitsgraden rechts, um den Erfolg zu bestimmen.<br>
-*Spezialisierungen:* Könige, Soldaten, Wahrheit erzwingen, Tote beleben. (Übernatürlich)
-
-> #### Leichenmagie – Schwierigkeitsgrade
->
-> | Wert | Wirkung |
-> | ---- | ------- |
-> | 9    | **Mit den Toten sprechen.** Die Leiche wird nicht gezwungen, wahrheitsgemäß oder direkt zu antworten, kann es aber dennoch tun. |
-> | 12   | **Mit den Toten sprechen und sie zwingen, die Wahrheit zu sagen. Eine Leiche vor weiterer Beeinflussung durch Leichenmagie schützen.** Jeder solche Versuch erhält einen um den Wert der Leichenmagie des Charakters erhöhten Schwierigkeitsgrad. |
-> | 15   | **Eine Leiche beleben.** Befehle werden nach den Möglichkeiten der Leiche so gut wie möglich befolgt; der Charakter muss jedoch in Sichtweite der Leiche bleiben, sonst stellt sie jede Bewegung ein, bis er zurückkehrt. **Eine belebte Leiche übernehmen.** Der Befehlswurf muss höher sein als der des ursprünglichen Belebers (sofern vorhanden), sonst befolgt die Leiche weiterhin ihre vorherigen Befehle. |
-> | 18   | **Eine Leiche beleben und unter die unmittelbare geistige Kontrolle des Charakters stellen; sieht er die Leiche, kann er ihr Befehle erteilen. Er kann die Gegenwart der Leiche verlassen, und sie wird ihren Befehlen weiter gehorchen, doch sobald diese erfüllt sind, bleibt sie regungslos, bis ihr Schöpfer ihr einen neuen Befehl erteilt.** Die Leiche belebt sich, richtet sich auf, und der Charakter spricht direkt mit ihr. Ein besonders geübter Charakter kann die Leiche aus dem Grab steigen und umhergehen lassen. Der Charakter stellt Fragen oder erteilt Befehle, indem er einen Wurf auf Kommunikation + Führung ablegt; die Leiche unternimmt nichts, sofern sie nicht durch einen solchen Wurf dazu aufgefordert wird. Einwortbefehle haben einen Schwierigkeitsgrad von 6, einfache Fragen oder Befehle erfordern eine 9, komplexere Anweisungen oder Fragen eine 12 oder mehr. Der Charakter muss die Sprache beherrschen, die die Leiche zu Lebzeiten gesprochen hat, um ihr Fragen zu stellen oder Befehle zu erteilen. Spricht der Charakter diese Sprache nicht fließend (also mit einem Wert von 5 oder höher), wird die Führung des Charakters durch seine Sprachfertigkeit begrenzt. Sobald der Charakter drei Befehlswürfe verfehlt hat, sinkt die Leiche zurück in ihr Grab oder hält in der Bewegung inne und kann erst wieder Ziel von Leichenmagie werden, wenn der Mond aufgegangen ist. Alle Leichen werden außerdem zur Ruhe gebettet, wenn ihre Köpfe vom Körper getrennt werden. Wandelnde Leichen haben in der Regel eine Magische Macht von 9 (für weitere Einzelheiten siehe *Sphären der Macht: Magie*, Kapitel 6). Die Penetrationssumme der Leichenmagie muss diese Macht überschreiten, damit die Leiche das Grab verlässt; andernfalls bleibt sie an die Erde gebunden. |
-
-#### Magiegespür\*
-Du bist häufig in der Lage, einen Ort oder Gegenstand als magisch zu erkennen. Allerdings macht dich dein Gespür anfälliger für magische Wirkungen: Ziehe deinen Wert in Magiegespür von deiner Magieresistenz ab. Beim Versuch, die magische Natur eines Ortes oder Gegenstands zu erspüren, legt der Spielleiter einen Schwierigkeitsgrad fest – würfle einfach einen schlichten Würfel + Wahrnehmung + Magiegespür.
-
-Eine Magieaura zu erkennen, hätte normalerweise einen Schwierigkeitsgrad in Höhe von 12 – Aurastufe, also 9 für eine Aura der Stufe 3 und 6 für eine Aura der Stufe 6.
-
-Für Zauber und verzauberte Gegenstände ist ein Schwierigkeitsgrad in Höhe von 21 – Magnitude der Wirkung ein guter Richtwert. Bei verzauberten Gegenständen verwende die Magnitude der mächtigsten Wirkung im Gegenstand.
-
-Für magische Geschöpfe sind 15 – ein Fünftel der Magischen Macht des Geschöpfes angemessen, sodass für ein Geschöpf mit einer Magischen Macht von 25 der Schwierigkeitsgrad bei 10 läge.
-
-*Spezialisierungen:* Auren, magische Geschöpfe, verzauberte Gegenstände, aktive Zauber. (Übernatürlich)
-
-#### Magiekunde\*
-Wissen über magische Geschöpfe, Gebiete und Traditionen.<br>
-*Spezialisierungen:* Geschöpfe, magische Traditionen, Regiones. (Arkan)
-
-#### Magietheorie\*
-Wissen darüber, was Magie ist und wie sie funktioniert, hauptsächlich im Labor verwendet. Magietheorie befasst sich mit den technischen Einzelheiten hermetischer Magie, Magiekunde umfasst das Wissen über magische Dinge im Allgemeinen. Jeder kann Magietheorie erlernen, sofern er Zugang zu einem Lehrer oder Buch hat (gewöhnlich durch eine Tugend dargestellt), doch ist sie für jene, die nicht über die Gabe verfügen, von geringem Nutzen.<br>
-*Spezialisierungen:* Zauber erfinden, Gegenstände verzaubern, eine einzelne Kunst. (Arkan)
-
-#### Medizin\*
-Medizin ist das formale Studium des Körpers und seiner Krankheiten. Die medizinische Praxis beruht auf der Lehre von den vier Körpersäften: Blut, Schleim, gelbe Galle und schwarze Galle. Krankheiten werden häufig durch Ungleichgewichte zwischen ihnen verursacht, daher rühren Praktiken wie der Aderlass, der das Gleichgewicht wiederherstellen soll. Medizin behandelt auch Vergiftungen sowie die Folgen von Hunger und ähnlichem, jedoch nicht die Versorgung von Wunden (siehe Chirurgie weiter oben). Die *auctores* sind Galen und Hippokrates in vielen Werken. Wichtig zu beachten ist, dass die mittelalterliche medizinische Lehre im Mythischen Europa im Wesentlichen zutreffend ist.<br>
-*Spezialisierungen:* Anatomie, Apothekerwesen, Heilkunst. (Akademisch)
-
-#### Menschenkenntnis
-Den Hintergrund, das Wesen und die Beweggründe einer anderen Person verstehen. Oft würfelt der Spielleiter heimlich, wenn diese Fertigkeit eingesetzt wird. Du weißt also nicht, ob dein Charakter richtig geraten oder gar gepatzt hat.<br>
-*Spezialisierungen:* Bauern, Stadtleute, Adlige, Klerus, Magi, das andere Geschlecht. (Allgemein)
-
-#### Musik
-Die Fähigkeit zu singen, Musikinstrumente zu spielen und neue Musik zu komponieren.<br>
-*Spezialisierungen:* Singen, Komponieren, ein bestimmtes Instrument. (Allgemein)
-
-#### Natursinn\*
-Du bist auf mystische Weise mit den Wegen der Wildnis verbunden. Ein Wurf auf Wahrnehmung + Natursinn gegen einen Schwierigkeitsgrad von 9 erlaubt dir, die Richtung nach Norden, das kommende Wetter oder die Anwesenheit natürlicher Gefahren oder Ressourcen zu bestimmen. Ein Wurf bringt nur eine Information zutage.<br>
-*Spezialisierungen:* Richtung, Wetter, Gefahren, Ressourcen. (Übernatürlich)
-
-#### Parma Magica\*
-Schutz vor Magie. Dies ist ein besonderes Ritual (kein Ritualzauber), dessen Vollzug etwa zwei Minuten dauert. Es erlaubt dir, das Fünffache deines Wertes in Parma Magica zu deiner Magieresistenz zu addieren, bis zum nächsten Sonnenauf- oder -untergang, je nachdem, was zuerst eintritt. Du darfst deine Parma Magica vorübergehend unterdrücken, indem du dich konzentrierst; dies entspricht dem Aufrechterhalten eines Zaubers mit Dauer Konzentration (siehe [Seite 215](#konzentration-1)). Solange sie aktiv ist, erfordert die Parma Magica keine Konzentration.
-
-Du darfst auch jeweils eine weitere Person je Punkt in Parma Magica schützen, mit deren Einverständnis. Du musst jede Person berühren, um den Schutz einzuleiten, und er hält an, solange sich mindestens ein Charakter und ein anderer gegenseitig sehen. Der Magus darf den Schutz nach Belieben aufheben, ungeachtet der Entfernung. Solange ein Magus andere schützt, ist sein effektiver Wert in Parma Magica um 3 Punkte verringert, sowohl für ihn selbst als auch für die anderen Personen, die er schützt. Hat der Magus einen Wert in Parma Magica von 3 oder weniger, gewährt seine Parma Magica jedem Charakter, einschließlich ihm selbst, eine Magieresistenz von 0. Im Falle des Magus wird dies zu seiner Form-Resistenz addiert, und ein durch die Parma Magica eines anderen Magus geschützter Magus darf ebenfalls seine Form-Resistenz addieren.
-
-Jeder Charakter, der durch eine Parma Magica geschützt ist, sei es seine eigene oder die eines anderen, wird von den sozialen Nachteilen der Gabe anderer nicht beeinflusst. Ist ein geschützter Charakter selbst Begabter, legt seine Gabe noch immer soziale Nachteile auf andere, sofern diese nicht ebenfalls durch eine Parma Magica geschützt sind oder aus einem anderen Grund von der Gabe nicht beeinflusst werden.
-
-Parma Magica kann nur von Begabten Charakteren erlernt werden, auch wenn sie sie als gewöhnliche Arkane Fertigkeit, nicht als Übernatürliche Fertigkeit erlernen. Sie wird nur von hermetischen Magi gewusst, da der Orden die Wahl „Beitritt oder Tod" gegenüber jedem, der sie kennt, rigoros durchsetzt und gegen den Magus, der sie weitergegeben hat, einen Zug der Magier ausruft. Die Parma Magica ist das Letzte, was ein Lehrling lernt; ihm wird der letzte Schlüssel zur Fertigkeit erst nach Ablegen des Eides gelehrt.
-
-*Spezialisierungen:* Schutz vor einer bestimmten Form. (Arkan)
-
-#### Penetration
-Den eigenen Zauber durch die Magieresistenz des Ziels bringen. Siehe [Seite 215](#penetrationssumme) für die vollständigen Penetrationsregeln.<br>
-*Spezialisierungen:* eine bestimmte Kunst. (Arkan)
-
-#### Persona\*
-Der Charakter mit dieser Fertigkeit kann sein Erscheinungsbild verändern, um eine andere Identität anzunehmen. Er kann jeden Aspekt seines Erscheinungsbildes verändern: Haar- und Augenfarbe, Hauttönung, Form der Nase, Statur und Größe (innerhalb der Grenzen seiner Größe), scheinbares Alter und sogar Geschlecht. Diese Veränderungen sind vollständig und auch der intimsten weltlichen Prüfung gewachsen, ändern jedoch nicht die wesentliche Natur des Charakters. Folglich bleiben alle Eigenschaftswerte unverändert, Tugenden und Fehler werden auf alle neuen Gestalten übertragen, und ein Charakter, der normalerweise keine Gebärmutter besitzt, kann auch dann nicht schwanger werden, wenn er die Persona einer Person mit Gebärmutter annimmt. Das Annehmen einer anderen Identität erfordert eine Runde Konzentration und einen Wurf auf Ausdauer + Persona gegen einen Schwierigkeitsgrad von 9. Die Rückkehr in die natürliche Gestalt des Charakters erfordert dieselbe Konzentration und denselben Wurf. Jede Identität hat ihre eigenen Persönlichkeitseigenschaften und Verhaltensmerkmale, und es ist kein Verkleidungswurf erforderlich, um andere von der Rolle zu überzeugen; dies ist keine Verkleidung, sondern eine völlig andere Person. Der Charakter erhält für jeden Punkt, den er in der Persona-Fertigkeit hat, eine Identität. Jedes Mal, wenn die Fertigkeit um einen Punkt steigt, muss der Charakter eine neue Identität entwerfen.<br>
-*Spezialisierungen:* Priester, Bauern, Magi. (Übernatürlich)
-
-#### Philosophiae\*
-Es gibt drei Philosophien: Naturphilosophie, Moralphilosophie und Metaphysik. Aristoteles ist für sie alle der *auctor*, in unterschiedlichen Büchern. Die meisten Gelehrten studieren die Philosophien nach den Künsten, jedoch vor dem Übergang zu Recht, Theologie oder Medizin. Naturphilosophie ist das Studium der sublunaren Welt. Sie entspricht in etwa der heutigen Wissenschaft. Die Haupttexte sind die *Physica*, *De Meteorologia* und *De historia animalium*. Moralphilosophie ist das Studium der rechten Lebensweise. Sie umfasst Ethik, Politik und Ökonomie – die Texte sind die *Ethica*, *Politica* und *Economica*. Metaphysik ist die Philosophie der grundlegenden Natur der Welt. Der Haupttext ist Aristoteles' *Metaphysica*. Die Lehren der *Philosophiae* sind im Mythischen Europa im Wesentlichen alle zutreffend.<br>
-*Spezialisierungen:* Naturphilosophie, Moralphilosophie, Metaphysik, Ritualmagie, Zeremonielle Magie. (Akademisch)
-
-#### Quell des Wissens\*
-Gelingt ein Fertigkeitswurf (Intelligenz + Quell des Wissens + Stresswurf) gegen einen Schwierigkeitsgrad von (6 plus (3 mal Anzahl der Anwendungen von Quell des Wissens an diesem Tag)), darf ein Wesen mit dieser Fertigkeit eine Aufgabe mit einer beliebigen ungelernten Fertigkeit so versuchen, als besäße es einen Wert von 2. Misslungene Versuche zählen zur Anzahl der Anwendungen an einem gegebenen Tag.<br>
-*Spezialisierungen:* ein bestimmtes Themengebiet. (Übernatürlich)
-
-#### Rabbinisches Recht\*
-Dies ist die jüdische Version von Zivil- und Kanonischem Recht. Die wichtigsten Quellen des Rabbinischen Rechts sind der Talmud, die mündliche Tora und die Responsen der Geonim.<br>
-*Spezialisierungen:* eine der Quellen des Rabbinischen Rechts, Speisegesetze, bestimmte Themen, Präzedenzfälle eines bestimmten Gebiets. (Akademisch)
-
-#### Raufen
-Nahkampf ohne Waffen oder mit beliebigen improvisierten Waffen, die man gerade aufnimmt, einschließlich Messer. Raufen ist auch die Fertigkeit, mit der man Angriffen ausweicht, wenn man keine Kampffertigkeiten besitzt.<br>
-*Spezialisierungen:* Schläge, Ringen, Messer, Ausweichen. (Allgemein)
-
-#### Reiten
-Reiten und Lenken eines Reittiers, besonders unter Belastung.<br>
-*Spezialisierungen:* Schlacht, Geschwindigkeit, Tricks. (Allgemein)
+#### Einzelwaffe
+Kämpfen mit einer Waffe, die mit einer Hand geführt wird, möglicherweise unter Verwendung eines Schildes in der anderen. Dazu zählen Lanzen, wie sie vom Pferderücken aus bestimmungsgemäß eingesetzt werden.<br>
+*Spezialisierungen:* eine bestimmte Waffe oder ein bestimmter Schild, wobei dies den Einsatz dieser Waffe mit beliebigem Schild oder ohne Schild sowie dieses Schildes mit beliebiger Waffe abdeckt. (Kampf)
 
 #### Schleichen
 Sich umherbewegen, ohne gesehen oder gehört zu werden, sowie sich an einem Ort verbergen. Dazu gehört auch das Verfolgen anderer, ohne dass sie es bemerken; dies wird gegen die Wahrnehmung der anderen Person gewürfelt.<br>
 *Spezialisierungen:* Verstecken, Schleichen, Beschatten, städtische Gebiete, natürliche Umgebung. (Allgemein)
 
+#### Tiere rufen\*
+Du kannst Tiere herbeirufen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 243](#tiere-rufen-2) beschrieben.
+
+#### Überleben
+Nahrung, Wasser, Unterschlupf, einen direkten Weg und relative Sicherheit in der Wildnis finden (einem im Mythischen Europa höchst gefährlichen Ort). Diese Fertigkeit umfasst alltägliche Tätigkeiten wie das Entzünden eines Feuers und das Zubereiten von Speisen ohne Werkzeug.<br>
+*Spezialisierungen:* bestimmte Gegenden. (Allgemein)
+
 #### Schwimmen
 Die Fähigkeit, sich schnell und wirksam durchs Wasser zu bewegen.<br>
 *Spezialisierungen:* lange Strecken, Tauchen, Manöver unter Wasser. (Allgemein)
 
-#### Täuschung
-Überzeugend lügen sowie Empfindungen, Überzeugungen oder Geisteshaltungen vortäuschen. Verstehst du die Person, die du zu täuschen versuchst (Wurf 9+ auf Wahrnehmung + Menschenkenntnis), erhältst du einen Bonus von +1 auf deinen Täuschungswurf. Diese Fertigkeit umfasst auch das Verkleiden und das Vortäuschen, etwas zu sein, das man nicht ist. Es handelt sich häufig um einen vergleichenden Wurf, gegen Wahrnehmung + Menschenkenntnis des Opfers oder, beim Verkleiden, gegen Wahrnehmung (Eigenschaft) + Wahrnehmung (Fertigkeit).<br>
-*Spezialisierungen:* bestimmte Arten von Täuschung, Anlügen von Autoritäten, schnelles Reden, ausgeklügelte Lügen. (Allgemein)
+#### Unterrichten
+Die Fähigkeit, einem anderen eine Fertigkeit beizubringen.<br>
+*Spezialisierungen:* eine bestimmte Fertigkeit, bestimmte Schülertypen. (Allgemein)
 
 #### Theologie: Christlich\*
 Theologie ist das Studium Gottes und seines Wirkens in der Welt. Die *auctores* sind die Bibel und Petrus Lombardus' *Sententiae*, wobei der Bibel theoretischer Vorrang als unfehlbarer Quelle zukommt und die *Sentenzen* am meisten studiert werden. Die Spekulationen der Theologie sind sehr abgründig, und viele Theologen werden der Häresie bezichtigt. Manchmal widerrufen die Beschuldigten, manchmal überzeugen sie die Kirche, dass sie doch im Recht waren.<br>
@@ -7697,93 +7776,16 @@ Dies ist das islamische Gegenstück zu Theologie: Christlich. Die wichtigsten Qu
 Dies ist das jüdische Gegenstück zu Theologie: Christlich. Die wichtigsten Quellen der jüdischen Theologie sind die Tora, die Nevi'im und die Ketuvim.<br>
 *Spezialisierungen:* die Tora, Schöpfung, Geschichte, Prophezeiungen. (Akademisch)
 
-#### Tiere rufen\*
-Du kannst Tiere herbeirufen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 243](#tiere-rufen-2) beschrieben.
-
-#### Tierumgang
-Pflege und Umgang mit Tieren, einschließlich Aufzucht, Versorgung, Fellpflege und Heilung.<br>
-*Spezialisierungen:* Falknerei, bestimmte Tiere. (Allgemein)
-
-#### Tierverständnis\*
-Du kannst mit Tieren so kommunizieren, als wären sie Menschen. Behandle deinen Wert in Tierverständnis als deinen Wert in einer Sprache, die das Tier fließend spricht, um zu bestimmen, wie gut du dich verständigen kannst, und du darfst Tierumgang als Ersatz für jede soziale Fertigkeit verwenden, die Menschen betrifft. Darüber hinaus hat diese Fertigkeit keinen Einfluss auf die Haltung der Tiere zu dir oder von dir zu den Tieren. Andere Personen können deine Verständigung mit den Tieren nicht verstehen.<br>
-*Spezialisierungen:* eine bestimmte Tierart, eine bestimmte Art der Verständigung. (Übernatürlich)
-
-#### Überleben
-Nahrung, Wasser, Unterschlupf, einen direkten Weg und relative Sicherheit in der Wildnis finden (einem im Mythischen Europa höchst gefährlichen Ort). Diese Fertigkeit umfasst alltägliche Tätigkeiten wie das Entzünden eines Feuers und das Zubereiten von Speisen ohne Werkzeug.<br>
-*Spezialisierungen:* bestimmte Gegenden. (Allgemein)
-
-#### Unterrichten
-Die Fähigkeit, einem anderen eine Fertigkeit beizubringen.<br>
-*Spezialisierungen:* eine bestimmte Fertigkeit, bestimmte Schülertypen. (Allgemein)
-
-#### Verbitterung\*
-Du kannst eine Person dazu bringen, eine andere zu hassen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 245](#kräfte) beschrieben.
-
-#### Verhexung\*
-Der Charakter besitzt die Macht, Verletzung oder Verderben über seine Feinde zu bringen. Es gibt drei Wege, diese Macht zu wirken: durch Augenkontakt mit dem Opfer und das laute Verkünden seines Vorhabens, sodass das Opfer es hören kann; durch das Zeichnen vergänglicher okkulter Zeichen und Symbole auf das Ziel, die das dunkle Schicksal andeuten, das ihm zugedacht ist; oder durch das Beschaffen einer Arkanen Verbindung zum Ziel und das Anfertigen einer erkennbaren Darstellung, die die Wirkung mittels sympathetischer Magie übermitteln kann.
-
-Um ein Ziel zu verhexen, muss der Charakter seinen Willen gegenüber diesem deutlich machen: Er muss seine Wünsche dem Opfer laut verkünden, oder die Einzelheiten des Hexbanns auf oder sehr nahe am Ziel niederschreiben, oder der Darstellung etwas antun, das dem ähnelt, was er dem Ziel antun möchte. Es gibt stets eine körperliche Komponente der Verhexung (verbreitete Praktiken sind das Knüpfen von Knoten in eine Schnur, Spucken oder das Werfen des „bösen Blicks").
-
-Du musst auch einen Zeitrahmen für die Verhexung angeben, von einer unmittelbar eintretenden Wirkung bis zu einer Verhexung, die die dritte Generation der Nachkommen des Opfers betrifft. Generell gilt: Je früher die Wirkung eintritt, desto schwächer ist sie; je länger die Verhexung verzögert wird, desto mächtiger wird sie schließlich. Aus diesem Grund musst du stets den Verzögerungsmodifikator (siehe Kasten) auf die Verhexungssumme anwenden.
-
-#### Verhexungswirkungen
-
-| Schwierigkeitsgrad | Schwere                  | Beispiel                                |
-| ------------------ | ------------------------ | --------------------------------------- |
-| 6+                 | Gering (1 Patzer)        | Automatisches Versagen bei wichtiger Aufgabe |
-| 12+                | Schwer (2 Patzer)        | Erblindung                              |
-| 18+                | Groß (3 Patzer)          | Zehrende Krankheit                      |
-| 24+                | Kritisch (4 Patzer)      | Alle                                    |
-| 30+                | Tödlich (5 Patzer)       | Plötzlicher Tod                         |
-
-#### Verzögerungsmodifikatoren der Verhexung
-
-| Verzögerung | Modifikator |
-| ----------- | ----------- |
-| Augenblick  | -12         |
-| Stunde      | -9          |
-| Tag         | -6          |
-| Woche       | -3          |
-| Monat       | 0           |
-| Quartal     | +3          |
-| Jahr        | +6          |
-| Generation  | +9          |
-| Lebenszeit  | +12         |
-
-Wenn du die Verhexung passend formuliert hast, würfle Intelligenz + Verhexung + Aurabonus + Verzögerungsmodifikator und vergleiche das Ergebnis mit dem Schwierigkeitsgrad in der Tabelle der Verhexungswirkungen. Die Schwere dieser Wirkungen entspricht den Wirkungen eines Patzers mit einer bestimmten Anzahl an Nullen auf den Patzerwürfeln. Patzst du beim Verhexungswurf, kann die Verhexung dennoch eintreten, jedoch mit unvorhersehbaren und unbeabsichtigten Folgen, die möglicherweise stattdessen den Charakter selbst oder eine ihm nahestehende Person treffen. Sie kann auch Verzerrungspunkte, Erschöpfungsverlust oder andere unglückliche Wirkungen erleiden.
-
-**VERHEXUNG: Stresswurf + Intelligenz + Verhexung + Aurabonus + Modifikatoren**
-
-Ein potenzielles Opfer kann den Wirkungen einer Verhexung entgehen, indem es sich übernatürlichen Schutz verschafft, gewöhnlich vom Göttlichen. Erhält ein Charakter in einer religiösen Zeremonie die Absolution, sind alle gegen ihn gerichteten Verhexungen dauerhaft aufgehoben. Charaktere können Verhexungen auch mit anderen übernatürlichen Wirkungen aufheben, etwa mit einem Perdo Vim-Zauber, einem Feensegen oder einem heiligen Wunder. Behandle die Verhexung so, als hätte sie eine Zauberstufe in Höhe der Anzahl der ihr näherungsweise entsprechenden Patzerwürfel multipliziert mit 10, sodass eine Schwere Verhexung eine Wirkung der Stufe 20 ist und eine Kritische Verhexung Stufe 40.
-
-Verhexung ist häufig eine Falsche Macht (entsprechend dem Fehler Falsche Macht), die mit der Magischen oder Feensphäre verbunden ist. Sie verwendet also häufig die Spalte für Magisch oder Fee in der Sphäreninteraktionstabelle, erscheint jedoch als unheilige Macht, wenn sie göttlichen oder infernalen Untersuchungsmächten ausgesetzt wird. Es gibt auch rein infernale Versionen der Macht ebenso wie magische oder feenhafte Versionen, die nicht vom Infernalen berührt sind. Solche „reinen" Versionen der Verhexung sind jedoch selten, da Dämonen es lieben, diese Macht zu verderben. Spezialisierungen: eine bestimmte Dauer, eine Methode der Verhexung, eine bestimmte Wirkung. (Übernatürlich)
-
-#### Vorahnungen\*
-Du spürst intuitiv, sobald etwas nicht stimmt oder bald schiefzugehen droht. Diese Fertigkeit kann von dir oder dem Spielleiter, je nachdem, was angemessen ist, eingesetzt werden, wann immer eine Möglichkeit besteht, einer Gefahr zu entgehen. Würfle Wahrnehmung + Vorahnungen gegen einen Schwierigkeitsgrad, der von der Situation abhängt. Der Schwierigkeitsgrad beginnt bei 3 für unmittelbare Lebensgefahr und steigt, je größer der zeitliche Abstand und je geringer die Gefahrenstufe wird. Lebensgefahr in einer Woche hätte einen Schwierigkeitsgrad von 9, während eine unmittelbar bevorstehende kleinere Unannehmlichkeit einen Schwierigkeitsgrad von etwa 15 hätte. Übersteigst du den Schwierigkeitsgrad um 3 oder mehr, erhältst du auch einen Eindruck von der Art der Gefahr, mit mehr Einzelheiten je höher dein Wurf ausfällt.<br>
-*Spezialisierungen:* Bedrohungen für eine bestimmte Person oder Personengruppe, bestimmte Arten von Bedrohungen. (Übernatürlich)
-
-#### Den Wind herbeipfeifen\*
-Du kannst durch Pfeifen Wind erzeugen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 246](#tempestaria-wetterhexe) beschrieben.
-
-#### Wünschelrutengehen\*
-Du besitzt die Fähigkeit, Dinge in der Nähe mit Hilfe einer Wünschelrute (gewöhnlich ein gegabelter Stock) und deinem eigenen intuitiven Sinn zu finden. Du konzentrierst dich auf das zu findende Ding, hältst deine Wünschelrute vor dich und folgst ihren feinen Bewegungen zum Ziel. Suchst du nach etwas Bestimmtem, musst du eine entsprechende sympathetische Verbindung zum Gesuchten haben (etwa Wasser aus einer Flasche aus einem Bach, wenn du nach fließendem Wasser suchst). Vor dem Wurf legst du das Gebiet fest, in dem du suchst – ist das gesuchte Objekt nicht in diesem Gebiet vorhanden, scheiterst du automatisch. Die für die Suche benötigte Zeit hängt von der Größe des Gebiets ab und muss aufgewendet werden, ob du Erfolg hast oder nicht. Es dauert etwa einen Durchmesser (zwei Minuten oder zwanzig Kampfrunden), um etwas innerhalb von 25 Schritten zu suchen, und eine Verdopplung der Entfernung vervierfacht die Zeit. Etwas Häufiges wie Wasser innerhalb von 25 Schritten zu finden, erfordert eine Wahrnehmung + Wünschelrutengehen von 9+. Größere Entfernungen oder das Suchen nach selteneren Dingen erhöhen die Zielzahl, sodass das Finden von Gold innerhalb von 100 Schritten beispielsweise einen Schwierigkeitsgrad von 15 hätte.<br>
-*Spezialisierungen:* Suche nach einer bestimmten Art von Sache (Wasser, Gold etc.), Suche an einem bestimmten Ort. (Übernatürlich)
-
 #### Wurfwaffe
 Kämpfen aus der Distanz mit Waffen, die geworfen werden.<br>
 *Spezialisierungen:* eine bestimmte Waffe. (Kampf)
 
-#### Zechen
-Die Fähigkeit, sich zu vergnügen, ohne nachteilige Wirkungen zu erleiden. Eine Person mit dieser Fertigkeit kann zum Beispiel ungeheure Mengen Alkohol vertragen, ohne ohnmächtig zu werden. Die Fertigkeit umfasst auch die Vertrautheit mit angemessenem Verhalten und das Ausbalancieren von Vergnügen und Mäßigung. Mit dieser Fertigkeit kann eine Person nahezu überall in den unteren Schichten Spaß haben und Freunde gewinnen, selbst unter Menschen einer fremden Kultur.<br>
-*Spezialisierungen:* Wettrinken, Trinklieder, Glücksspiele, Nüchternbleiben. (Allgemein)
+#### Den Wind herbeipfeifen\*
+Du kannst durch Pfeifen Wind erzeugen. Diese Fertigkeit wird im Kapitel Hermetische Magie auf [Seite 246](#tempestaria-wetterhexe) beschrieben.
 
-#### Zivil- und Kanonisches Recht\*
-Das Zivilrecht ist das Recht des Römischen Reiches. Die meisten lokalen Rechtssysteme beruhen auf ihm (England ist die bemerkenswerte Ausnahme), und wenn ein Recht zur Regelung internationaler Beziehungen benötigt wird, beruft man sich auf das Zivilrecht. Die Autorität ist Justinians *Digesten*. Das kanonische Recht ist das Recht der Kirche. Es ist im Mythischen Europa wichtig, da es in allen Nationen Anwendung findet und die Tätigkeit der Kirche sowie einige andere Bereiche, etwa die Ehe, regelt. Es ist zu beachten, dass Mitglieder des Klerus nur dem kanonischen Recht unterstehen, nicht dem Gewohnheits- oder Zivilrecht. Die meisten hohen Kirchenmänner sind versierte Kanonisten, nicht Theologen. Das kanonische Recht wird durch päpstliche Bullen (Verlautbarungen) gesetzt, der *auctor* aber ist Gratian mit seinem *Decretum*. Diese Fertigkeit umfasst das Wissen über beide Rechtsarten. Andere Religionen, insbesondere Judentum und Islam, haben ihre eigenen Versionen dieser Fertigkeit, die getrennt erlernt werden müssen.<br>
-*Spezialisierungen:* Gesetze und Bräuche eines bestimmten Gebiets, päpstliche Gesetze. (Akademisch)
-
-#### Zweites Gesicht\*
-Du kannst durch illusorische Verhüllung und Verkleidung hindurchsehen, einschließlich Unsichtbarkeit, und du kannst auch von Natur aus unsichtbare Dinge wie Geister und die Grenzen zwischen Regio-Ebenen erkennen (siehe [Seite 420](#regiones)). Der Schwierigkeitsgrad, durch eine illusorische Verhüllung hindurchzusehen, beträgt normalerweise 6 + Magnitude der Macht des für die Wirkung verantwortlichen Geschöpfes oder 6 + Magnitude eines hermetischen Zaubers. Im Allgemeinen erlaubt dir diese Fertigkeit, durch hermetische Verhüllung mittels Imaginem hindurchzusehen, jedoch nicht durch andere Formen. Die Magieresistenz des verhüllten Geschöpfes, sofern vorhanden, beeinträchtigt dein Zweites Gesicht nicht. Wird etwas tatsächlich umgewandelt, etwa durch einen MuCo-Zauber, kannst du die echte Gestalt nicht ermitteln. Der Schwierigkeitsgrad, ein von Natur aus unsichtbares Ding zu sehen, beträgt normalerweise 9, und der Schwierigkeitsgrad für das Sehen von Regio-Ebenen ist auf [Seite 421](#regiones-betreten-und-verlassen) angegeben. Alle Würfe für Zweites Gesicht sind Wahrnehmung + Zweites Gesicht und sind fast immer schlichte Würfe.<br>
-*Spezialisierungen:* Regiones, unsichtbare Dinge, illusorische Verkleidungen, Feen, Geister. (Übernatürlich)
+#### Natursinn\*
+Du bist auf mystische Weise mit den Wegen der Wildnis verbunden. Ein Wurf auf Wahrnehmung + Natursinn gegen einen Schwierigkeitsgrad von 9 erlaubt dir, die Richtung nach Norden, das kommende Wetter oder die Anwesenheit natürlicher Gefahren oder Ressourcen zu bestimmen. Ein Wurf bringt nur eine Information zutage.<br>
+*Spezialisierungen:* Richtung, Wetter, Gefahren, Ressourcen. (Übernatürlich)
 
 ---
 
@@ -8003,10 +8005,10 @@ Die erste Wahl ist die Machtstufe innerhalb des Konvents, die den Spielercharakt
 
 | Machtstufe | Baupunkte | Höchste Stufe | Mindestalter |
 | ---------- | --------- | ------------- | ------------ |
-| Niedrig    | 0–300     | 25            | keines       |
-| Mittel     | 300–1250  | 40            | 10 Jahre     |
 | Hoch       | 1250–2500 | unbegrenzt    | 50 Jahre     |
 | Legendär   | 2500+     | unbegrenzt    | 100 Jahre    |
+| Mittel     | 300–1250  | 40            | 10 Jahre     |
+| Niedrig    | 0–300     | 25            | keines       |
 
 *Höchste Stufe:* Die höchste Stufe eines einzelnen Labortextes oder eines einzelnen Effekts in einem verzauberten Gegenstand. Bei Gegenständen umfasst die Stufe alle Modifikationen (siehe Magische Verzauberungen auf [Seite 252](#verzauberungen) für weitere Einzelheiten).
 
@@ -8128,7 +8130,7 @@ Wenn die Regio keine magische Regio ist, sondern göttlich, feenhaft oder infern
 
 **Vorgesetzte:** Die Spielercharaktere haben nicht die Leitung des Konvents inne, und obwohl ihre Vorgesetzten ihnen keine Befehle erteilen können, haben die Spielercharaktere keinen Zugriff auf die Konventsressourcen.
 
-**Städtisch:** Der Konvent befindet sich in einer kleinen Marktstadt. Viele der Bewohner gehören nicht zum Konvent, und der Konvent regiert die Stadt nicht. Schola Pythagoranis im Stonehenge-Tribunal liegt in der Stadt Cambridge und ist eng mit der dortigen jungen Universität verbunden (siehe *Art & Academe*, Seite 111).
+**Städtisch:** Der Konvent befindet sich in einer kleinen Marktstadt. Viele der Bewohner gehören nicht zum Konvent, und der Konvent regiert die Stadt nicht. Schola Pythagoranis im Stonehenge-Tribunal liegt in der Stadt Cambridge und ist eng mit der dortigen jungen Universität verbunden (siehe *Kunst & Gelehrsamkeit*, Seite 111).
 
 #### Große Haken
 
@@ -8216,7 +8218,7 @@ Ein mit diesem Vorzug entworfener Konvent hat so viele Mauertürme, wie der Spie
 
 Dieser Vorzug schließt einen der zuvor genannten kleineren Bergfried-Vorzüge ein (Mantelmauer-Bergfried oder Wohnturm).
 
-Der Konvent Montverte im Normannischen Tribunal bewohnt eine solche Burg und nutzt sie als Stützpunkt für Überfälle, wie es der Periphere Kodex jenes Tribunals erlaubt. Sie teilen sich die Burg mit ihrem weltlichen Lehnsherrn – ein Arrangement, das großes Misstrauen erweckt. Bislang ist es den Magi jedoch gelungen, das Tribunal davon zu überzeugen, dass sie sich nicht in die weltlichen Angelegenheiten des Lehnsherrn einmischen (*The Lion and the Lily*, Seite 58).
+Der Konvent Montverte im Normannischen Tribunal bewohnt eine solche Burg und nutzt sie als Stützpunkt für Überfälle, wie es der Periphere Kodex jenes Tribunals erlaubt. Sie teilen sich die Burg mit ihrem weltlichen Lehnsherrn – ein Arrangement, das großes Misstrauen erweckt. Bislang ist es den Magi jedoch gelungen, das Tribunal davon zu überzeugen, dass sie sich nicht in die weltlichen Angelegenheiten des Lehnsherrn einmischen (*Der Löwe und die Lilie*, Seite 58).
 
 **Ansehen:** Der Konvent ist berühmt. Seine Mitglieder werden gut behandelt, soweit es die Gabe zulässt, und Menschen sind unwillig, sich offen mit dem Konvent anzulegen. Innerhalb des Ordens würde dies auf Domus Magnae oder die ältesten und mächtigsten Konvente zutreffen. Ein Konvent, der wiederholt seine weltlichen Nachbarn unterstützt und verteidigt, könnte sich in der weltlichen Welt eine solche Reputation erwerben, auch wenn ein solches Maß an Aktivität die Aufmerksamkeit der Quaesitores auf sich ziehen würde. Der Konvent hat einen Reputationswert von 9 (siehe [Seite 28](#reputationen)). Dieser Vorzug kann mehrfach genommen werden, wobei das Ansehen jedes Mal für eine andere Gruppe gilt.
 
@@ -8252,9 +8254,9 @@ Notiere diese Grund-Loyalität, denn wenn sich die Mitgliedschaft des Konvents �
 
 | Gabe-Modifikatoren auf die Grund-Loyalität |  |
 | ------------------------------------------ | ---- |
-| Die Sanfte Gabe oder keine Gabe            | 0    |
-| Die Gabe                                   | -30  |
 | Die Auffällige Gabe                        | -105 |
+| Die Gabe                                   | -30  |
+| Die Sanfte Gabe oder keine Gabe            | 0    |
 
 #### Loyalitätsänderungen durch Konventssituation
 
@@ -8319,11 +8321,11 @@ Lokale Ereignisse erhöhen die Loyalität nur, wenn die Magi eindeutig dafür ve
 
 ## Konventsfinanzen
 
-Konvente brauchen fast immer eine Quelle weltlichen Reichtums, um Dinge wie Nahrung und Kleidung zu beschaffen. Selbst jene, die völlig autark sind, haben eine Quelle weltlichen Reichtums – sie liefert Nahrung und Kleidung schlicht direkt. Es ist durchaus möglich, das Spiel zu spielen und diese Belange ganz im Hintergrund zu lassen, doch dieser Abschnitt richtet sich an Spieltruppen, die mehr Detail in den Finanzen des Konvents wünschen, damit sie Geschichten über das Mehren seines Reichtums erzählen können oder darüber, wie man mit Bedrohungen seines weltlichen Einkommens umgeht. Der Ergänzungsband *Covenants* enthält weit mehr Details zu diesem Thema, und *City and Guild* bietet allgemeinere Regeln und Hintergrund für Handwerk und Handel, die Konvente ebenfalls zum Geldverdienen nutzen können.
+Konvente brauchen fast immer eine Quelle weltlichen Reichtums, um Dinge wie Nahrung und Kleidung zu beschaffen. Selbst jene, die völlig autark sind, haben eine Quelle weltlichen Reichtums – sie liefert Nahrung und Kleidung schlicht direkt. Es ist durchaus möglich, das Spiel zu spielen und diese Belange ganz im Hintergrund zu lassen, doch dieser Abschnitt richtet sich an Spieltruppen, die mehr Detail in den Finanzen des Konvents wünschen, damit sie Geschichten über das Mehren seines Reichtums erzählen können oder darüber, wie man mit Bedrohungen seines weltlichen Einkommens umgeht. Der Ergänzungsband *Covenants* enthält weit mehr Details zu diesem Thema, und *Stadt & Gilde* bietet allgemeinere Regeln und Hintergrund für Handwerk und Handel, die Konvente ebenfalls zum Geldverdienen nutzen können.
 
 > ### Das Mythische Pfund
 >
-> Preise in diesem Kapitel werden in Mythischen Pfund angegeben. Dies ignoriert bequemerweise, dass das Mythische Europa aus einer Vielzahl unterschiedlicher Reiche mit verschiedenen Münzwerten besteht, deren relativer Wert beträchtlich schwanken kann. *City and Guild* und die Tribunalsbände enthalten weitere Informationen zu lokalen Währungen, doch die meisten Sagas brauchen nicht so viel Detail.
+> Preise in diesem Kapitel werden in Mythischen Pfund angegeben. Dies ignoriert bequemerweise, dass das Mythische Europa aus einer Vielzahl unterschiedlicher Reiche mit verschiedenen Münzwerten besteht, deren relativer Wert beträchtlich schwanken kann. *Stadt & Gilde* und die Tribunalsbände enthalten weitere Informationen zu lokalen Währungen, doch die meisten Sagas brauchen nicht so viel Detail.
 >
 > Ein Mythisches Pfund entspricht einem Pfund Silber, dem Jahreseinkommen eines typischen Landwirts oder genug Geld, um ein durchschnittliches hermetisches Labor ein Jahr lang zu unterhalten.
 
@@ -8337,9 +8339,9 @@ Die meisten Konvente haben eine einzelne Einkommensquelle, auch wenn manche mit 
 | ----------------- | ------------------------------ | --------------------------------- |
 | (keine)           | Armuts-Haken (groß)            | 0                                 |
 | Geringe           | Armuts-Haken (klein)           | 40                                |
-| Typische          | (keiner)                       | 100                               |
 | Große             | Reichtums-Vorzug (klein)       | 250                               |
 | Legendäre         | Reichtums-Vorzug (groß)        | 1000                              |
+| Typische          | (keiner)                       | 100                               |
 
 ### Grundlinie
 
@@ -8385,7 +8387,7 @@ Der erfolgreiche Betrieb eines Konvents erfordert eine Vielzahl unterschiedliche
 
 Zunächst solltest du die normale Jahresausgabe des Konvents ermitteln – die Kosten der Dinge, die jedes Jahr gleich bleiben. Zuerst musst du bestimmen, wie viele Personen jeder Art im Konvent leben (siehe den Abschnitt Kategorien der Konventsbewohner unten). Dann zähle die Punkte für Bewohner, Waffen und Rüstung sowie Laboratorien zusammen und ermittle die Kosten in jeder unten aufgeführten Ausgabenkategorie, oder verweise auf die Zusammenfassung der Jahresausgaben. Diese Summe bleibt in der Regel konstant, sofern sich die Punktsummen nicht ändern (etwa weil der Konvent mehr Konventsbewohner anstellt oder die Magi ihre Labore aufrüsten).
 
-Jedes Jahr fallen außerdem mindestens ein Pfund (gewöhnlich erheblich mehr) an sonstigen Ausgaben an – einmaligen Posten wie Reisen oder dem Kauf von Büchern. Mehr Details zu solchen außergewöhnlichen Ausgaben finden sich in *Covenants* und *City and Guild*. Diese zusätzlichen Kosten sollten notiert, am Jahresende aufsummiert und der normalen Jahresausgabe hinzugefügt werden, um die Gesamtausgabe des Jahres zu ergeben. Ziehe diese vom Jahreseinkommen ab und füge etwaigen Überschuss den Beständen des Konvents hinzu (oder ziehe etwaiges Defizit von ihnen ab).
+Jedes Jahr fallen außerdem mindestens ein Pfund (gewöhnlich erheblich mehr) an sonstigen Ausgaben an – einmaligen Posten wie Reisen oder dem Kauf von Büchern. Mehr Details zu solchen außergewöhnlichen Ausgaben finden sich in *Covenants* und *Stadt & Gilde*. Diese zusätzlichen Kosten sollten notiert, am Jahresende aufsummiert und der normalen Jahresausgabe hinzugefügt werden, um die Gesamtausgabe des Jahres zu ergeben. Ziehe diese vom Jahreseinkommen ab und füge etwaigen Überschuss den Beständen des Konvents hinzu (oder ziehe etwaiges Defizit von ihnen ab).
 
 #### Kategorien der Konventsbewohner
 
@@ -8429,16 +8431,16 @@ Anzahl benötigter Fuhrleute: 1 für je 10 Punkte (alle Bewohner ohne Hilfsarbei
 
 | Unterhalts-Wert<br>des Labors | <br>Punkte |
 | ----------------------------- | ------ |
-| -5                            | 1      |
-| -4                            | 2      |
-| -3                            | 3      |
-| -2                            | 5      |
-| -1                            | 7      |
 | 0                             | 10     |
+| -1                            | 7      |
 | +1                            | 15     |
+| -2                            | 5      |
 | +2                            | 30     |
+| -3                            | 3      |
 | +3                            | 60     |
+| -4                            | 2      |
 | +4                            | 100    |
+| -5                            | 1      |
 | +5                            | 150    |
 
 | Multiplikatoren (gelten nur für Unterhaltskosten, nicht für Baukosten) |  |
@@ -8652,7 +8654,7 @@ Der Kämmerer (oder Schatzmeister, oder Wardrober) ist der oberste Schreibbeamte
 
 Der Marschall ist der Anführer der Haushaltsritter oder Waffenknechte. Er ist außerdem für die Pferde und die Bedürfnisse der Ställe verantwortlich. In manchen Haushalten gilt er als dem Steward unterstellt, doch in den meisten Konventen, die dieses Modell nutzen, ist dies nicht der Fall.
 
-Mehr Informationen zur Aufstellung eines adligen Haushalts finden sich in *Lords of Men*.
+Mehr Informationen zur Aufstellung eines adligen Haushalts finden sich in *Herrscher der Menschen*.
 
 #### Militärische Hierarchie
 
@@ -8670,7 +8672,7 @@ Organisationen auf Nationenebene sind in Konventen üblich, in denen die Magi ve
 
 Die natürlichsten Nationen bilden sich um familiäre Bindungen. Insbesondere alte Konvente haben Konventsbewohner, die im Konvent geboren wurden und den Magi ihr Leben lang gedient haben. Diese Familien können sich über Generationen erstrecken, jede führt ihre Abstammung auf einen der ursprünglichen Bediensteten des Konvents oder gar auf einen der Magi zurück. Alternativ könnte ein Konvent bei seiner Gründung Bewohner aus der Umgebung aufgenommen haben, die bereits stark entlang familiärer Linien aufgeteilt waren.
 
-Die Studentenschaften einiger Universitäten im Mythischen Europa sind in Nationen aufgeteilt, wobei jede Nation für das Verhalten und den Schutz ihrer Mitglieder verantwortlich ist (*Art & Academe*, Seite 94). Diese Nationen sind in der Regel lockere geografische Gruppen; die nächstliegenden ethnischen Gruppen sind gut vertreten, während weiter entfernte Studenten in deutlich weiter gefasste Kategorien zusammengefasst werden. Manche Konvente, insbesondere jene, die Grenzen überschreiten oder aus dem Zusammenschluss zweier oder mehr Turbae mit unterschiedlicher rassischer Identität entstanden sind, nutzen diese Struktur.
+Die Studentenschaften einiger Universitäten im Mythischen Europa sind in Nationen aufgeteilt, wobei jede Nation für das Verhalten und den Schutz ihrer Mitglieder verantwortlich ist (*Kunst & Gelehrsamkeit*, Seite 94). Diese Nationen sind in der Regel lockere geografische Gruppen; die nächstliegenden ethnischen Gruppen sind gut vertreten, während weiter entfernte Studenten in deutlich weiter gefasste Kategorien zusammengefasst werden. Manche Konvente, insbesondere jene, die Grenzen überschreiten oder aus dem Zusammenschluss zweier oder mehr Turbae mit unterschiedlicher rassischer Identität entstanden sind, nutzen diese Struktur.
 
 Nationen können auch dort entstehen, wo ein Konvent über mehrere geografisch getrennte Standorte verteilt ist oder seine Turba bewusst räumlich aufgeteilt hat. In diesen Nationen mag es eine gewisse funktionale Trennung geben; die Nation, die an der Küste lebt, hat wahrscheinlich mehr Seeleute und Fischer als die Nation, die die nahegelegenen Hügel besetzt – doch beide Nationen brauchen ihre eigenen Spezialisten, Soldaten und Bediensteten.
 
@@ -8686,7 +8688,7 @@ Beachte, dass die Aufteilung der Grogs in Gilden nicht notwendigerweise wörtlic
 
 Ein eindeutig gutes Modell für die Konventsorganisation sind die Handwerker-, Dienstleistungs- und Kaufmannsgilden, die im 13. Jahrhundert im Mythischen Europa zunehmend verbreitet sind. Einst auf große Städte beschränkt, finden sich Gilden inzwischen nahezu überall – zumindest im Westen –, und sie regeln die Qualität der Waren, die ihre Mitglieder herstellen. Eine Gilde umfasst alle Handwerker, die dieselben oder eine Gruppe nahe verwandter Handwerks- oder Berufs-Fertigkeiten verwenden. In einem Konvent jedoch kann eine Gilde für jede Kampf-Fertigkeit existieren, oder vielleicht sogar für ausgewählte Gruppen Arkaner oder Übernatürlicher Fertigkeiten. Die Gilde stellt Einkommen für Mittellose und Behinderte bereit, übernimmt die Bestattungskosten verstorbener Mitglieder, hält eigene religiöse Zeremonien ab und stellt manchmal sogar den Kindern ihrer Mitglieder Schulbildung zur Verfügung.
 
-An der Spitze einer Gilde steht der **Dekan**, von den Gildemitgliedern aus ihren eigenen Reihen gewählt. Der Dekan wird von den Ältesten (Gildebeamten) unterstützt, die die Gilde überwachen, die Qualität der Arbeit sicherstellen und die Gildenregeln durchsetzen. Unter den Aldermännern stehen die älteren Meister und Meister. Ein Meister verfügt über genügend Geschick, um eine eigene Werkstatt zu führen, und hat das Recht, an Versammlungen im Gildehaus teilzunehmen und bei der Führung der Gilde mitzubestimmen. Ältere Meister sind seit zehn oder mehr Jahren Meister und können mehr als eine Werkstatt führen, was sehr einträglich sein kann. Jeder Meister kann ein oder zwei Gesellen und mehrere Lehrlinge haben, die die untersten Sprossen der Gildeleiter bilden. Mehr Informationen über Gilden finden sich in Kapitel 3 von *City & Guild*.
+An der Spitze einer Gilde steht der **Dekan**, von den Gildemitgliedern aus ihren eigenen Reihen gewählt. Der Dekan wird von den Ältesten (Gildebeamten) unterstützt, die die Gilde überwachen, die Qualität der Arbeit sicherstellen und die Gildenregeln durchsetzen. Unter den Aldermännern stehen die älteren Meister und Meister. Ein Meister verfügt über genügend Geschick, um eine eigene Werkstatt zu führen, und hat das Recht, an Versammlungen im Gildehaus teilzunehmen und bei der Führung der Gilde mitzubestimmen. Ältere Meister sind seit zehn oder mehr Jahren Meister und können mehr als eine Werkstatt führen, was sehr einträglich sein kann. Jeder Meister kann ein oder zwei Gesellen und mehrere Lehrlinge haben, die die untersten Sprossen der Gildeleiter bilden. Mehr Informationen über Gilden finden sich in Kapitel 3 von *Stadt & Gilde*.
 
 Der Unterschied zwischen einer Berufsgilde und anderen Formen der Verwaltung besteht darin, dass die Gilde existiert, weil ihre Mitglieder es wollen. Sie haben die Erwartung, durch die Ränge der Gilde aufzusteigen und eines Tages mitzubestimmen, wie sie geführt wird. Eine Gilde mag ein vertrauteres System für Spieler sein, die mit Konzepten sozialer Mobilität und Vergütung harter Arbeit aufgewachsen sind, auch wenn dies für weite Teile des Mythischen Europa außerhalb der Berufsgilden ein Anachronismus ist.
 
@@ -8694,7 +8696,7 @@ Der Unterschied zwischen einer Berufsgilde und anderen Formen der Verwaltung bes
 
 Ein Kloster ist nach einer Gildenstruktur aufgebaut. Anders als die klare Hierarchie des adligen Haushalts ernennt der Abt eines Klosters Beamte, die jeweils einen Aspekt des täglichen Lebens des Klosters verwalten. Diese Beamten sind dann dafür verantwortlich, die Bedürfnisse des Klosters in ihrem Bereich zu erfüllen, und können nach Bedarf Personal und Mittel anfordern. Dies ist ein gutes Modell für einen kleinen Konvent, in dem das Personal nicht dauerhaft als Koch oder Zofe festgelegt sein muss, sondern solche Rollen je nach Anforderung übernimmt.
 
-Der Abt ist der weltliche und geistliche Leiter eines Klosters. Er ernennt verschiedene leitende Obödientiarii, die sich um verschiedene Bereiche kümmern: Der Terrar ist für das Gut zuständig, der Cellerar für das Essen, der Bursar für das Geld und so weiter. Anstatt jedem von ihnen eine eigene Belegschaft zuzuweisen, erlauben diese Stellen ihren Inhabern, die Hilfe der anderen Mönche bei der Erledigung ihrer Aufgaben anzufordern. Mehr Informationen über die innere Struktur von Klöstern finden sich in *The Church*, Kapitel 4.
+Der Abt ist der weltliche und geistliche Leiter eines Klosters. Er ernennt verschiedene leitende Obödientiarii, die sich um verschiedene Bereiche kümmern: Der Terrar ist für das Gut zuständig, der Cellerar für das Essen, der Bursar für das Geld und so weiter. Anstatt jedem von ihnen eine eigene Belegschaft zuzuweisen, erlauben diese Stellen ihren Inhabern, die Hilfe der anderen Mönche bei der Erledigung ihrer Aufgaben anzufordern. Mehr Informationen über die innere Struktur von Klöstern finden sich in *Die Kirche*, Kapitel 4.
 
 ### Keine formale Struktur
 
@@ -8734,7 +8736,7 @@ Nicht alle Haken können entfernt werden, doch wenn ein bestimmter Haken überwu
 
 Im achten Jahrhundert entwickelte der Zauberer Bonisagus eine universale Theorie der Magie, und der Orden des Hermes wurde geboren. Der unmittelbarste Vorteil der hermetischen Magie bestand darin, dass sie Zauberern unterschiedlichster magischer Hintergründe ermöglichte, ihr Wissen zu teilen. Vor Bonisagus' Theorie war die Ausübung von Magie hochgradig individualisiert und daher in ihrem Umfang begrenzt. Mit der Fähigkeit, Wissen zu teilen und anzuhäufen, erlangten hermetische Magi einen immensen Vorteil gegenüber anderen Zauberern. Diese universale Theorie ist jedoch nicht ohne Nachteile. Kritiker des Systems sind der Ansicht, dass die strenge Reglementierung der hermetischen Magie wirklich brillante Magi um die Chance bringt, die ihnen am besten geeigneten magischen Ausdrucksformen zu entdecken, und dass sie in Wirklichkeit nur mittelmäßigen Magi nützt, die ein genaues System als Leitfaden benötigen.
 
-Der Orden des Hermes ist nur ein Teil der größeren magischen Welt. Es gibt nicht-hermetische Magi aus europäischen Traditionen und aus ferneren Ländern. Wie dem auch sei: Die hier vorgestellten Regeln behandeln ausschließlich hermetische Magie. Die Quellenbände *Hedge Magic Revised Edition*, *Rival Magic*, *The Cradle and the Crescent*, *Between Sand and Sea*, *Lands of the Nile* und *Sphären der Macht* enthalten Regeln für viele nicht-hermetische Traditionen. Spielleiter sind zudem eingeladen, nicht-hermetische Magie für Monster, Zauberer und magische Gegenstände zu entwerfen, die nicht in das hier beschriebene Paradigma passen – und so die Magie selbst für jene, die glauben, alles zu wissen, ein Geheimnis zu bewahren.
+Der Orden des Hermes ist nur ein Teil der größeren magischen Welt. Es gibt nicht-hermetische Magi aus europäischen Traditionen und aus ferneren Ländern. Wie dem auch sei: Die hier vorgestellten Regeln behandeln ausschließlich hermetische Magie. Die Quellenbände *Heckenzauber (Überarbeitete Ausgabe)*, *Rival Magic*, *The Cradle and the Crescent*, *Between Sand and Sea*, *Lands of the Nile* und *Sphären der Macht* enthalten Regeln für viele nicht-hermetische Traditionen. Spielleiter sind zudem eingeladen, nicht-hermetische Magie für Monster, Zauberer und magische Gegenstände zu entwerfen, die nicht in das hier beschriebene Paradigma passen – und so die Magie selbst für jene, die glauben, alles zu wissen, ein Geheimnis zu bewahren.
 
 Hermetische Magie ist eine äußerst nützliche, aber nicht vollkommen fehlerfreie Theorie. Diese Regeln spiegeln das wider, was Magi erwarten, wenn sie mit Magie arbeiten. Obwohl das Erwartete gewöhnlich eintritt, kann die genaue Wirkung von Magie durch unzählige Faktoren beeinflusst werden – etwa die Phase des Mondes, die spirituelle Natur des Ziels oder den Gemütszustand des Zaubernden. Dies erlaubt es dem Spielleiter, die Regeln gelegentlich zu biegen und magische Effekte kreativ zu interpretieren.
 
@@ -8946,7 +8948,7 @@ Diese Form betrifft Feuer, Wärme und Licht.
 
 Diese Form betrifft die Dinge in der Welt, auf die die Sinne reagieren. Die Naturphilosophie nennt sie Spezies (*species*, SPEH-kee-ayss – zu unterscheiden von Tierarten und dergleichen). Alle Dinge geben ständig Spezies für jeden Sinn ab. Jene für Berührung und Geschmack reisen nicht weit, während jene für das Sehen Licht benötigen, um eine gewisse Entfernung vom Ursprungskörper zurückzulegen. Imaginem-Zauber beeinflussen normalerweise den Prozess, durch den Spezies erzeugt werden, und nicht die Spezies selbst. Die Spezies, die von einer Illusion ausgehen, sind daher selbst nicht magisch.
 
-Imaginem-Magie kann auch die Spezies selbst beeinflussen; in diesem Fall sind die Spezies magisch und müssen Penetration aufweisen, um die Magieresistenz zu durchdringen und wahrgenommen zu werden. Dabei gelten dieselben Richtlinien wie für Zauber, die den Prozess der Spezieserzeugung beeinflussen; eine ausführlichere Erörterung findet sich im Jerbiton-Kapitel von *Houses of Hermes: Societates*.
+Imaginem-Magie kann auch die Spezies selbst beeinflussen; in diesem Fall sind die Spezies magisch und müssen Penetration aufweisen, um die Magieresistenz zu durchdringen und wahrgenommen zu werden. Dabei gelten dieselben Richtlinien wie für Zauber, die den Prozess der Spezieserzeugung beeinflussen; eine ausführlichere Erörterung findet sich im Jerbiton-Kapitel von *Häuser des Hermes: Gemeinschaften*.
 
 Zu beachten ist, dass Imaginem keine echte Festigkeit erzeugen kann, wenngleich es etwas „fest" wirken lassen kann – bis man versehentlich die Hand durch die Oberfläche streckt. Berührungs-Illusionen sind weit wirksamer darin, die Beschaffenheit einer bereits festen Oberfläche zu verändern – etwa einen Holztisch wie Stein fühlen zu lassen oder ein Messer stumpf erscheinen zu lassen.
 
@@ -9068,7 +9070,7 @@ Die meisten Magi würden gerne glauben, dass dies aus der Grenze des Göttlichen
 >
 > Nicht-hermetische Magie ist nach dem Wissensstand hermetischer Magi nicht in der Lage, allgemeine Magieresistenz zu verleihen. (Gleiches gilt für Feenkräfte, nicht jedoch für das Göttliche oder das Infernale.) Dies ist offensichtlich keine grundlegende Grenze der Magie, da hermetische Magie durch die Parma Magica und die Formwerte durchaus Magieresistenz verleiht. Viele Magi sehen darin einen Beleg für die schiere Überlegenheit hermetischer Magie gegenüber allen anderen Traditionen.
 >
-> Kenntnisreichere Magi wissen, dass einige nicht-hermetische Traditionen einzelne Niedere Grenzen der hermetischen Magie durchbrechen. Die Optimisten unter ihnen werten dies als Hinweis darauf, dass hermetische Magie diese Grenzen ebenfalls überwinden könnte. Beispiele solcher Traditionen finden sich in *Alte Magie*, *Rivalisierende Magie* und *Heckenzauber – Überarbeitete Ausgabe*.
+> Kenntnisreichere Magi wissen, dass einige nicht-hermetische Traditionen einzelne Niedere Grenzen der hermetischen Magie durchbrechen. Die Optimisten unter ihnen werten dies als Hinweis darauf, dass hermetische Magie diese Grenzen ebenfalls überwinden könnte. Beispiele solcher Traditionen finden sich in *Alte Magie*, *Rivalisierende Magie* und *Heckenzauber (Überarbeitete Ausgabe)*.
 
 ## Rohes Vis
 
@@ -9130,9 +9132,9 @@ Anhand der Tabelle lässt sich ablesen, ob der Zauber gelingt und wie viele Ersc
 | ------------------------- | --------------- | --------------------------- |
 | 0 oder höher              | Ja              | Eine                        |
 | −1 bis −5                 | Ja              | Zwei                        |
-| −6 bis −10                | Ja              | Drei                        |
 | −11 bis −15               | Nein            | Vier                        |
 | −16 oder mehr             | Nein            | Fünf                        |
+| −6 bis −10                | Ja              | Drei                        |
 
 ### Spontane Magie
 
@@ -9174,14 +9176,14 @@ Misslingt der Konzentrationswurf, schlägt der Zauber fehl. War für den Zauberw
 
 | Situation                                | Schwierigkeitsgrad |
 | ---------------------------------------- | ------------------ |
-| Stillstehen                              | Trivial (0)        |
-| Gehen                                    | Einfach (3)        |
-| Rennen                                   | Mittel (9)         |
-| Ausweichen                               | Schwer (12)        |
 | Angerempelt werden                       | Mittel (9)         |
-| Plötzliches Geräusch oder Lichtblitz     | Mittel (9)         |
-| Zu Boden geworfen werden                 | Schwer (12)        |
+| Ausweichen                               | Schwer (12)        |
+| Gehen                                    | Einfach (3)        |
 | In dieser Runde verwundet worden sein    | Sehr schwer (15)   |
+| Plötzliches Geräusch oder Lichtblitz     | Mittel (9)         |
+| Rennen                                   | Mittel (9)         |
+| Stillstehen                              | Trivial (0)        |
+| Zu Boden geworfen werden                 | Schwer (12)        |
 
 Einige Zauber werden auch solange aufrechterhalten, wie die Maga sich konzentriert. In diesem Fall werden die Schwierigkeitsgrade der obigen Tabelle um je drei Punkte gesenkt.
 
@@ -9237,10 +9239,10 @@ Der Gesamtmodifikator ergibt sich durch Addition der Modifikatoren für Worte un
 
 | Worte     | Modifikator | Gesten         | Modifikator | Stimmreichweite             |
 | --------- | ----------- | -------------- | ----------- | --------------------------- |
-| Laut      | +1          | Ausgreifend    | +1          | 50 Schritte                 |
 | Fest      | 0           | Ausdrucksstark | 0           | 15 Schritte                 |
-| Leise     | −5          | Dezent         | −2          | 5 Schritte                  |
 | Keine     | −10         | Keine          | −5          | 0 Schritte (nur Zaubernde)  |
+| Laut      | +1          | Ausgreifend    | +1          | 50 Schritte                 |
+| Leise     | −5          | Dezent         | −2          | 5 Schritte                  |
 
 Ausgreifende Gesten bei völliger Stille ergeben also einen Gesamtabzug von −9 auf den Zauberwert.
 
@@ -9320,13 +9322,13 @@ Arkane Verbindungen müssen sorgfältig aufbewahrt werden, da sie sonst zu Verbi
 
 | Dauer        | Beispielverbindungen                                                                                                                                                                                                                                |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Stunden      | Luft von einem bestimmten Ort, abgestreifte Haut eines Menschen, Wasser aus einem fließenden Gewässer.                                                                                                                                             |
-| Tage         | Ein häufig genutztes Werkzeug oder Kleidungsstück, Wasser aus einem stehenden Gewässer, etwas Alltägliches, das das Ziel hergestellt hat, Ausscheidungen.                                                                                          |
-| Wochen       | Schlichtes Artefakt, ein Gegenstand, der vom Ziel entworfen und hergestellt wurde – zum Beispiel ein Brief, den das Ziel selbst verfasst und geschrieben hat. Ein Gegenstand, der von einer Person entworfen und von einer anderen hergestellt wurde, ist eine Arkane Verbindung mit einer Dauer von Tagen zur herstellenden Person. |
-| Monate       | Haarsträhne, bevorzugtes Werkzeug oder Kleidungsstück, Holzsplitter von einem bestimmten Ort, Feder eines Vogels, Schuppe eines Reptils.                                                                                                            |
 | Jahre        | Bereitetes Artefakt, Gestein oder Metall von einem bestimmten Ort, Blut, Haarlocke, Gruppe von Federn eines Vogels, Gruppe von Schuppen eines Reptils.                                                                                             |
 | Jahrzehnte   | Körperteil.                                                                                                                                                                                                                                         |
+| Monate       | Haarsträhne, bevorzugtes Werkzeug oder Kleidungsstück, Holzsplitter von einem bestimmten Ort, Feder eines Vogels, Schuppe eines Reptils.                                                                                                            |
+| Stunden      | Luft von einem bestimmten Ort, abgestreifte Haut eines Menschen, Wasser aus einem fließenden Gewässer.                                                                                                                                             |
+| Tage         | Ein häufig genutztes Werkzeug oder Kleidungsstück, Wasser aus einem stehenden Gewässer, etwas Alltägliches, das das Ziel hergestellt hat, Ausscheidungen.                                                                                          |
 | Unbegrenzt   | Hermetischer Vertrauter (Verbindung zum Meister), hermetischer Magus (Verbindung zum Vertrauten), hermetischer Talisman (Verbindung zum Erschaffer), fixierte Arkane Verbindungen (siehe „Arkane Verbindungen fixieren" im Laboratoriums-Kapitel, [Seite 250](#arkane-verbindungen-festigen)). |
+| Wochen       | Schlichtes Artefakt, ein Gegenstand, der vom Ziel entworfen und hergestellt wurde – zum Beispiel ein Brief, den das Ziel selbst verfasst und geschrieben hat. Ein Gegenstand, der von einer Person entworfen und von einer anderen hergestellt wurde, ist eine Arkane Verbindung mit einer Dauer von Tagen zur herstellenden Person. |
 
 ## Penetration
 
@@ -9355,13 +9357,13 @@ Kraftloses Zaubern erfordert keine besondere Fertigkeit oder Mühe. Es ist nütz
 
 | Sympathetische Verbindung                                | Bonus auf den Multiplikator |
 | -------------------------------------------------------- | --------------------------- |
-| Zaubernde ist Blutsverwandte des Ziels                   | +1                          |
-| Unterschrift des Ziels                                   | +1                          |
-| Spitzname oder Geburtsname des Ziels\*                   | +1                          |
-| Name, den das Ziel in geheimen Magie-Ritualen verwendet  | +1                          |
-| Tageshoroskop des Ziels\*\*                              | +1                          |
 | Geburtshoroskop des Ziels\*\*\*                          | +2                          |
+| Name, den das Ziel in geheimen Magie-Ritualen verwendet  | +1                          |
+| Spitzname oder Geburtsname des Ziels\*                   | +1                          |
 | Symbolische Darstellung des Ziels\*\*\*\*                | +2                          |
+| Tageshoroskop des Ziels\*\*                              | +1                          |
+| Unterschrift des Ziels                                   | +1                          |
+| Zaubernde ist Blutsverwandte des Ziels                   | +1                          |
 
 \*Taufnamen können nicht für sympathetische Magie genutzt werden.
 
@@ -9483,7 +9485,7 @@ Die folgenden Beispiele zeigen Zauber, die die Magieresistenz des eigentlichen O
 
 > #### Geschosse und Rego-Magie
 >
-> Die Naturgesetze im Mythischen Europa entsprechen mittelalterlichen Vorstellungen, nicht modernen. Die Unterschiede sind oft unwichtig, werden aber bedeutsam, wenn ein Magus Rego-Zauber einsetzt, um Geschosse zu schleudern oder schwere Gegenstände aus großer Höhe fallen zu lassen. Die Physik – oder „Naturphilosophie", wie Charaktere sie nennen würden – des Mythischen Europas wird ausführlicher in *Art & Academe* beschrieben. Dieser Kasten klärt ein begrenztes Thema: den Einsatz von Rego-Zaubern als Angriffsmittel.
+> Die Naturgesetze im Mythischen Europa entsprechen mittelalterlichen Vorstellungen, nicht modernen. Die Unterschiede sind oft unwichtig, werden aber bedeutsam, wenn ein Magus Rego-Zauber einsetzt, um Geschosse zu schleudern oder schwere Gegenstände aus großer Höhe fallen zu lassen. Die Physik – oder „Naturphilosophie", wie Charaktere sie nennen würden – des Mythischen Europas wird ausführlicher in *Kunst & Gelehrsamkeit* beschrieben. Dieser Kasten klärt ein begrenztes Thema: den Einsatz von Rego-Zaubern als Angriffsmittel.
 >
 > Es gibt tatsächlich drei verschiedene Arten, wie Rego-Magie offensiv eingesetzt werden kann.
 >
@@ -9531,7 +9533,7 @@ Du kannst deinen Meisterschaftswert und alle damit verbundenen besonderen Fähig
 
 Die Maga kann die Regeln für Zeremonielles Zaubern ([Seite 217](#zeremonielles-zaubern)) auf das Wirken dieses Zaubers anwenden. Diese besondere Fähigkeit darf nicht für Ritualzauber gewählt werden, da diese von Grund auf zeremonielles Zaubern verwenden.
 
-Diese besondere Fähigkeit ist im Orden nicht weit verbreitet und hat ihren Ursprung beim Kult des Merkur; sie ist jedoch kein Geheimnis des Kultes mehr. Dieser kennt andere besondere Fähigkeiten, die weiterhin Geheimnisse des Kultes bleiben (siehe *Die Mysterien – Überarbeitete Ausgabe*, Seite 117).
+Diese besondere Fähigkeit ist im Orden nicht weit verbreitet und hat ihren Ursprung beim Kult des Merkur; sie ist jedoch kein Geheimnis des Kultes mehr. Dieser kennt andere besondere Fähigkeiten, die weiterhin Geheimnisse des Kultes bleiben (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seite 117).
 
 #### Schnellzaubern
 
@@ -9807,12 +9809,12 @@ Man subtrahiert die Widerstandssumme des Verteidigers von der Schwächungssumme.
 | Schwächungssumme − Widerstandssumme | Verlorene Erschöpfungsstufen |
 | ----------------------------------- | ---------------------------- |
 | 0                                   | Keine                        |
-| 1–5                                 | 1                            |
-| 6–10                                | 2                            |
 | 11–15                               | 3                            |
+| 1–5                                 | 1                            |
 | 16–20                               | 4                            |
 | 21–25                               | 5                            |
 | 26–30                               | 6                            |
+| 6–10                                | 2                            |
 | usw.                                | usw.                         |
 
 Certamen selbst verursacht niemals Wunden, sondern nur Erschöpfung. Verliert man mehr Erschöpfungsstufen als vorhanden, bleibt man für jede zusätzlich verlorene Stufe eine weitere Stunde bewusstlos.
@@ -9879,7 +9881,7 @@ Der Konzentrationsverlust bedeutet jedoch nicht zwingend, dass das Certamen been
 
 ## Mysterien
 
-Mysterien sind Wege zu größerer magischer Macht, die über den bloßen Zeitaufwand für das Studium hinausgehende Opfer verlangen. Viele Magi des Ordens des Hermes folgen Mysterien, und vier der Häuser sind Mysterienkulte – Gemeinschaften, die ein Mysterium lehren. Ausführliche Angaben zu den Mysterien der hermetischen Häuser finden sich in *Houses of Hermes: Mystery Cults*, während *The Mysteries Revised Edition* umfangreiche Informationen zu anderen Mysterien innerhalb des Ordens des Hermes enthält. Dieser Abschnitt bietet Informationen über die äußerste Schicht der Hausmysterien sowie über eines der tieferen Mysterien jedes Hauses. Spielercharaktere in den Mysterienkult-Häusern werden als Lehrlinge in das Äußere Mysterium eingeweiht, müssen aber die Einweihung in tiefere Mysterien im Spiel selbst suchen. Die Regeln für die Mysterieneinweihung finden sich im Kapitel zu Langzeitereignissen, auf [Seite 387](#mysterieneinweihung).
+Mysterien sind Wege zu größerer magischer Macht, die über den bloßen Zeitaufwand für das Studium hinausgehende Opfer verlangen. Viele Magi des Ordens des Hermes folgen Mysterien, und vier der Häuser sind Mysterienkulte – Gemeinschaften, die ein Mysterium lehren. Ausführliche Angaben zu den Mysterien der hermetischen Häuser finden sich in *Häuser des Hermes: Mysterienkulte*, während *Die Mysterien (Überarbeitete Ausgabe)* umfangreiche Informationen zu anderen Mysterien innerhalb des Ordens des Hermes enthält. Dieser Abschnitt bietet Informationen über die äußerste Schicht der Hausmysterien sowie über eines der tieferen Mysterien jedes Hauses. Spielercharaktere in den Mysterienkult-Häusern werden als Lehrlinge in das Äußere Mysterium eingeweiht, müssen aber die Einweihung in tiefere Mysterien im Spiel selbst suchen. Die Regeln für die Mysterieneinweihung finden sich im Kapitel zu Langzeitereignissen, auf [Seite 387](#mysterieneinweihung).
 
 ### Bjornaer – Das Herztier
 
@@ -9907,7 +9909,7 @@ Schließlich können Bjornaer-Magi keine Vertrauten binden. Die Gründe dafür w
 
 #### Geheimname (Kleines Hausmysterium)
 
-Dieses Mysterium durchtrennt dauerhaft die sympathetischen Resonanzen des Namens des Magus und schmiedet sie neu mit einem Namen, der nur dem Mystagogen und dem Eingeweihten bekannt ist. Alle Arkanen Verbindungen zum Magus, die aus der Zeit vor dem Ritual stammen, verfallen unmittelbar bei dessen Abschluss, und alle Sympathetischen Verbindungen werden ungültig. Der Magus erzeugt nach dem Ritual neue Arkane Verbindungen, doch keine Sympathetische Verbindung wird jemals wieder gegen ihn wirken – selbst wenn sie nach dem Ritual hergestellt wird. Der Mystagoge stellt einen Geheimnamen bereit, der es dem Magus erlaubt, Magie auf sich selbst zu wirken; ohne diesen wäre er nicht in der Lage, die Persönliche Reichweite zu nutzen. Wer jedoch den Geheimnamen kennt – wie der Mystagoge oder Zauberer, die das Mysterium der Synthemata-Magie beherrschen (siehe *The Mysteries Revised Edition*) – muss die Zauberstufe nicht von der Penetrationssumme der gegen das Ziel gewirkten Zauber abziehen, ähnlich dem Fehler Schwache Magieresistenz. Clan Ilfetu betrachtet diese Geheimnamen als heiliges Vertrauen und steht nicht im Verdacht, sie jemals missbraucht zu haben.
+Dieses Mysterium durchtrennt dauerhaft die sympathetischen Resonanzen des Namens des Magus und schmiedet sie neu mit einem Namen, der nur dem Mystagogen und dem Eingeweihten bekannt ist. Alle Arkanen Verbindungen zum Magus, die aus der Zeit vor dem Ritual stammen, verfallen unmittelbar bei dessen Abschluss, und alle Sympathetischen Verbindungen werden ungültig. Der Magus erzeugt nach dem Ritual neue Arkane Verbindungen, doch keine Sympathetische Verbindung wird jemals wieder gegen ihn wirken – selbst wenn sie nach dem Ritual hergestellt wird. Der Mystagoge stellt einen Geheimnamen bereit, der es dem Magus erlaubt, Magie auf sich selbst zu wirken; ohne diesen wäre er nicht in der Lage, die Persönliche Reichweite zu nutzen. Wer jedoch den Geheimnamen kennt – wie der Mystagoge oder Zauberer, die das Mysterium der Synthemata-Magie beherrschen (siehe *Die Mysterien (Überarbeitete Ausgabe)*) – muss die Zauberstufe nicht von der Penetrationssumme der gegen das Ziel gewirkten Zauber abziehen, ähnlich dem Fehler Schwache Magieresistenz. Clan Ilfetu betrachtet diese Geheimnamen als heiliges Vertrauen und steht nicht im Verdacht, sie jemals missbraucht zu haben.
 
 Der Eingeweihte wählt einen neuen öffentlichen Namen, zusätzlich zu dem geheimen, den er erhält. Unweigerlich entsteht eine Phase der Verwirrung, während sich die Sodales daran gewöhnen, den Magus unter seinem neuen öffentlichen Namen anzusprechen – doch das ist Teil des symbolischen Opfers dieses Mysteriums. Dieses Mysterium kann jeder Person zugutekommen (begabt oder nicht), die Magieresistenz besitzt, und die wenigen Magi außerhalb des Hauses, die davon erfahren, bitten das Haus gelegentlich darum, es in ihrem Namen durchzuführen.
 
@@ -9926,7 +9928,7 @@ Die Einweihung in dieses Mysterium scheitert, wenn der Magus einen Talisman oder
 
 Niemand außerhalb des Hauses Criamon versteht wirklich, worum es bei dessen Mysterium geht. Alle Criamon-Magi haben einen Wert von eins in der Fertigkeit Enigmatische Weisheit und dürfen bei der Charaktererschaffung Erfahrungspunkte darin vergeben. Diese Fertigkeit hilft beim Verstehen des Zwielichts, macht das Erlebnis jedoch auch wahrscheinlicher (siehe [Seite 228](#in-das-zwielicht-geraten)). Charaktere können Enigmatische Weisheit nicht erlernen, ohne in das Mysterium des Enigmas eingeweiht zu sein.
 
-Die Mysterien des Hauses Criamon sind in mehrere Pfade unterteilt. Der früheste Schritt auf dem Pfad des Körpers wird hier beschrieben; die übrigen großen Pfade werden in *Houses of Hermes: Mystery Cults* dargestellt.
+Die Mysterien des Hauses Criamon sind in mehrere Pfade unterteilt. Der früheste Schritt auf dem Pfad des Körpers wird hier beschrieben; die übrigen großen Pfade werden in *Häuser des Hermes: Mysterienkulte* dargestellt.
 
 #### Enigmatische Weisheit
 
@@ -10022,7 +10024,7 @@ Schließlich, so scheint es, wurde Pendule dieser Spiele überdrüssig und nahm 
 
 Pendules Magie war sehr sinnlich und persönlich; er glaubte besonders an die Verwendung von Farbe und Klang in seinen Zaubern. Er erwartete, dass Magie den Anwender verwandele, anstatt ihm willfährig zu gehorchen, und obwohl er merkwürdig empfindlich gegenüber dem Lauf der Zeit war, hatte er offenbar große Schwierigkeiten mit den normalen hermetischen Dauern und bevorzugte Zauber, die auf seltsamen Bedingungen beruhten oder sich nach dem Wirken auslösten. Außerdem pflegte er andere Mysterien, die seine Merinita-Anhänger nicht meisterten; andere Abstammungslinien, die seiner Magie gewidmet sind, existieren noch in anderen Häusern und Kulten innerhalb (und vielleicht außerhalb) des Ordens.
 
-Anhänger des Pendule weihen bei ihren Meistern üblicherweise Zauberzeitpunkt und Glamour ein (beschrieben in *Houses of Hermes: Mystery Cults*). Imaginem ist bei ihnen fast immer ihre primäre Kunst. Eine häufige Schwäche in dieser Abstammungslinie ist Eisen – beide Merinitae, die Pendules Geheimnisse studierten, waren besonders anfällig dafür –, und Pendule-Merinitae erlernen oft Zaubervariierung oder einen Großen Magischen Fokus auf Gegenzauber.
+Anhänger des Pendule weihen bei ihren Meistern üblicherweise Zauberzeitpunkt und Glamour ein (beschrieben in *Häuser des Hermes: Mysterienkulte*). Imaginem ist bei ihnen fast immer ihre primäre Kunst. Eine häufige Schwäche in dieser Abstammungslinie ist Eisen – beide Merinitae, die Pendules Geheimnisse studierten, waren besonders anfällig dafür –, und Pendule-Merinitae erlernen oft Zaubervariierung oder einen Großen Magischen Fokus auf Gegenzauber.
 
 Pendule erlag ruhig dem Tod im Jahr 854 n. Chr., aber nicht ohne zuvor jedem seiner Anhänger ein letztes magisches Geheimnis mitzuteilen. Um diese Tradition aufrechtzuerhalten, wird das Innere Mysterium der Ewigkeit einer Maga gewöhnlich vorenthalten, bis ihr Meister im Sterben liegt, und als letzte Lektion von Lehrerin zu Schülerin eingeweiht.
 
@@ -10065,11 +10067,11 @@ Wähle die Häufigkeit, die am ehesten der Wiederkehr des Zaubers entspricht, un
 
 | Häufigkeit | Magnitudenstufen |
 | ---------- | ---------------- |
-| Minute     | +5               |
-| Tag        | +4               |
-| Monat      | +3               |
 | Jahr       | +2               |
 | Jahrzehnt  | +1               |
+| Minute     | +5               |
+| Monat      | +3               |
+| Tag        | +4               |
 
 ### Verditius – Verditius-Magie
 
@@ -10106,7 +10108,7 @@ Hybris nimmt mit der Zeit zu und wächst wie eine Fertigkeit. Hybris kann vom Sp
 | 3                       | Verkauf oder Herstellung eines bereiteten Artefakts für eine andere Person.                                                                                                   |
 | 6                       | Verkauf oder Herstellung eines abgestimmten Gegenstands für eine andere Person.                                                                                               |
 | 1/Magnitude<br>der Macht | Verkauf eines Automaten.                                                                                                                                                      |
-| 1                       | Gewinn der Lehrlingskategorie des Wettbewerbs (siehe *Houses of Hermes: Mystery Cults*, Seite 116).                                                                           |
+| 1                       | Gewinn der Lehrlingskategorie des Wettbewerbs (siehe *Häuser des Hermes: Mysterienkulte*, Seite 116).                                                                           |
 | 3                       | Gewinn der Gesellenkategorie des Wettbewerbs.                                                                                                                                 |
 | 6                       | Gewinn der Meisterkategorie des Wettbewerbs.                                                                                                                                  |
 | 1                       | Erlernen eines neuen kleinen Inneren Hausmysteriums.                                                                                                                          |
@@ -10451,15 +10453,15 @@ Bevor du mit der Verzauberung beginnst, musst du den zu verzaubernden Gegenstand
 
 | MATERIAL           | BASISPUNKTE |
 | ------------------ | ----------- |
-| Stoff, Glas        | 1           |
-| Holz, Leder        | 2           |
-| Knochen, Weicher Stein | 3       |
-| Harter Stein       | 4           |
-| Unedelmetall       | 5           |
-| Silber             | 6           |
+| Edelstein          | 15          |
 | Gold               | 10          |
 | Halbedelstein      | 12          |
-| Edelstein          | 15          |
+| Harter Stein       | 4           |
+| Holz, Leder        | 2           |
+| Knochen, Weicher Stein | 3       |
+| Silber             | 6           |
+| Stoff, Glas        | 1           |
+| Unedelmetall       | 5           |
 | Unschätzbarer Stein | 20         |
 
 | GRÖSSE        | BEISPIEL                                           | MULTIPLIKATOR |
@@ -10515,12 +10517,12 @@ Wirkungen können auch mit einer zweiten Wirkung verknüpft werden (siehe unten)
 | HÄUFIGKEIT           | MODIFIKATOR |
 | -------------------- | ----------- |
 | 1 Einsatz pro Tag    | 0           |
-| 2 Einsätze pro Tag   | +1          |
-| 3 Einsätze pro Tag   | +2          |
-| 6 Einsätze pro Tag   | +3          |
 | 12 Einsätze pro Tag  | +4          |
+| 2 Einsätze pro Tag   | +1          |
 | 24 Einsätze pro Tag  | +5          |
+| 3 Einsätze pro Tag   | +2          |
 | 50 Einsätze pro Tag  | +6          |
+| 6 Einsätze pro Tag   | +3          |
 | Unbegrenzt           | +10         |
 
 #### Wirkungsanpassungen
@@ -10989,7 +10991,7 @@ Bei mehr als der Hälfte der Häuser benötigt ein Lehrling 10 Quartale Einzelun
 
 Diese Regel gilt für sieben der zwölf Häuser: alle vier Wahren Linien und drei der Gesellschaften. Die vierte Gesellschaft, Haus Ex Miscellanea, ist ein Sonderfall, da ein Lehrling eines Ex-Miscellanea-Magus ein Paket aus Haustugenden und -fehlern erhält: eine Kleine Hermetische Tugend, eine Große Nicht-Hermetische Tugend und einen Großen Hermetischen Fehler. Da es mehrere Arten von Ex-Miscellanea-Magi gibt, sollte die Spieltruppe entscheiden, ob ein Lehrling einer bestimmten Tradition die Haustugenden und -fehler durch Einzelunterricht oder durch einen Prozess ähnlich einer Mysterieneinweihung wie die Mysterienkulthäuser erwirbt.
 
-Ein Lehrling eines Magus eines Mysterienkults erwirbt die kostenlose Haustugend durch eine Einweihung in das äußere Mysterium des Hauses. Haus Verditius weiht einen Lehrling unmittelbar nach dem Öffnen seiner Künste ein. Haus Bjornaer weiht das Herztier eines Lehrlings zu einem bestimmten Zeitpunkt während der Lehrzeit ein, beim Ritual der Zwölf Jahre (siehe Häuser des Hermes: Mysterienkulte, [Seite 16](#bjornaer-das-herztier)). Die Häuser Criamon und Merinita weihen Lehrlinge zu verschiedenen Zeiten ein, in der Regel abhängig vom Meister. Die Einweihung in das äußere Mysterium eines Hauses dauert ein Quartal.
+Ein Lehrling eines Magus eines Mysterienkults erwirbt die kostenlose Haustugend durch eine Einweihung in das äußere Mysterium des Hauses. Haus Verditius weiht einen Lehrling unmittelbar nach dem Öffnen seiner Künste ein. Haus Bjornaer weiht das Herztier eines Lehrlings zu einem bestimmten Zeitpunkt während der Lehrzeit ein, beim Ritual der Zwölf Jahre (siehe Häuser des Hermes: Mysterienkultee, [Seite 16](#bjornaer-das-herztier)). Die Häuser Criamon und Merinita weihen Lehrlinge zu verschiedenen Zeiten ein, in der Regel abhängig vom Meister. Die Einweihung in das äußere Mysterium eines Hauses dauert ein Quartal.
 
 Der Lehrling muss dieselbe kostenlose Haustugend erlernen, die sein Parens kennt. In einem Haus, in dem es eine Auswahl an Haustugenden gibt, kann der Parens entscheiden, welche Haustugend erworben wird, wenn er beide kennt. Haus Flambeau beispielsweise bietet die Wahl zwischen Begabung in Perdo und Begabung in Ignem. Hat der Meister beide Tugenden, kann er für die Haustugend des Lehrlings eine von beiden wählen.
 
@@ -10997,7 +10999,7 @@ Der Lehrling muss dieselbe kostenlose Haustugend erlernen, die sein Parens kennt
 
 Nur wenige Lehrlinge erwerben absichtlich hermetische Fehler. Ein Spieler kann bei der Charaktererschaffung immer einen hermetischen Fehler wählen, und obwohl sich dieser irgendwann im Leben des Kindes entwickelt, ist das etwas anderes als das Erwerben eines hermetischen Fehlers nach der Charaktererschaffung. Hermetische Fehler, die nach der Charaktererschaffung erworben werden, wirken sich sofort auf den Charakter aus, ihre Auswirkungen treten unmittelbar ein. Hermetische Magi haben keinen Weg gefunden, hermetische Fehler zu beseitigen, und einmal erworben ist ein hermetischer Fehler dauerhaft — es sei denn, eine Geschichte ändert dies.
 
-Die beiden häufigsten Wege, auf denen Charaktere hermetische Fehler erwerben, sind das Erlernen hermetischer Tugenden und die Folgen des laufenden Spiels. Wie bereits erwähnt, ist es leichter, eine hermetische Tugend von einem Lehrer zu lernen, wenn dieser einen hermetischen Fehler in den Prozess einbezieht. Hermetische Magi verstehen nicht vollständig, warum das so ist, aber wie bei Mysterienkultseinweihungen erleichtert das Belasten des Lernprozesses mit einer aufgebürdeten Bürde den Unterricht. Der zweite Weg, auf dem Charaktere hermetische Fehler erwerben, sind die Ereignisse des laufenden Spiels. Vorübergehende, unkontrollierte Zwielicht-Episoden sind eine häufige Ursache — sie verleihen einem Lehrling hermetische Fehler auf dieselbe Weise, wie sie hermetische Fehler einem Magus verleihen ([Seite 230](#wirkungen-des-zwielichts)). Das Erhalten einer Hermetischen Defizitären Kunst beim Öffnen der Künste ist ein weiterer Weg, im Laufe des Spiels einen neuen Fehler zu erhalten. Manche übernatürlichen Kreaturen haben die Fähigkeit, Kleine und Große Fehler zu verleihen, die zwar nicht immer hermetischer Natur sind, es aber sein können. Diese Fehler sind nicht notwendigerweise dauerhaft, und viele sind nur vorübergehende Unannehmlichkeiten. *Sphären der Macht: Magie* und *Sphären der Macht: Feen* enthalten Einzelheiten und Beispielkreaturen.
+Die beiden häufigsten Wege, auf denen Charaktere hermetische Fehler erwerben, sind das Erlernen hermetischer Tugenden und die Folgen des laufenden Spiels. Wie bereits erwähnt, ist es leichter, eine hermetische Tugend von einem Lehrer zu lernen, wenn dieser einen hermetischen Fehler in den Prozess einbezieht. Hermetische Magi verstehen nicht vollständig, warum das so ist, aber wie bei Mysterienkultseinweihungen erleichtert das Belasten des Lernprozesses mit einer aufgebürdeten Bürde den Unterricht. Der zweite Weg, auf dem Charaktere hermetische Fehler erwerben, sind die Ereignisse des laufenden Spiels. Vorübergehende, unkontrollierte Zwielicht-Episoden sind eine häufige Ursache — sie verleihen einem Lehrling hermetische Fehler auf dieselbe Weise, wie sie hermetische Fehler einem Magus verleihen ([Seite 230](#wirkungen-des-zwielichts)). Das Erhalten einer Hermetischen Defizitären Kunst beim Öffnen der Künste ist ein weiterer Weg, im Laufe des Spiels einen neuen Fehler zu erhalten. Manche übernatürlichen Kreaturen haben die Fähigkeit, Kleine und Große Fehler zu verleihen, die zwar nicht immer hermetischer Natur sind, es aber sein können. Diese Fehler sind nicht notwendigerweise dauerhaft, und viele sind nur vorübergehende Unannehmlichkeiten. *Sphären der Macht: Magie* und *Sphären der Macht: Feenwelt* enthalten Einzelheiten und Beispielkreaturen.
 
 ### Deinen Lehrling ausgestalten
 
@@ -11148,7 +11150,7 @@ Ein **Großer Durchbruch** dehnt jene Grenzen aus, ohne sie zu durchbrechen; daz
 
 Ein **Hermetischer Durchbruch** ist Forschung, die eine der Kleinen Grenzen der Magie bricht — beispielsweise eine neue Arkane Fertigkeit oder die Fähigkeit, Zauber permanenter Dauer ohne Vis zu wirken. Hermetische Durchbrüche schreiben die Theoriebücher neu; der einzige Hermetische Durchbruch in 450 Jahren war die Entwicklung der Parma Magica durch Bonisagus, der die Kleine Grenze der Magieresistenz brach — eine Grenze, die nach wie vor alle bekannten Formen nicht-hermetischer Magie bindet. Ein Hermetischer Durchbruch erfordert typischerweise rund 60 Durchbruchspunkte.
 
-Ein Durchbruch kann etwas vollkommen Neues sein, das dem Vorstellungsvermögen einer kreativen Maga entstammt. Er kann auch auf einer Form nicht-hermetischer Magie beruhen, wenn ein Magus versucht, es hermetischen Magi zu ermöglichen, etwas zu vollbringen, das nicht-hermetische Zauberer bereits können. In beiden Fällen kann der Forscher Durchbruchspunkte durch Experimentieren sammeln, wie nachfolgend beschrieben. Im zweiten Fall kann der Magus auch die nicht-hermetische Magie studieren, nach Einsichten in ihre Natur suchen und diese auf die Hermetische Magie anwenden. Beide Ansätze liefern Durchbruchspunkte, und Punkte aus beiden Quellen können in einem einzigen Projekt zusammenfließen. In beiden Fällen muss die Spieltruppe das Ergebnis der Forschung im Voraus festlegen und sich auf den Grad des Durchbruchs einigen. Der Erfolg wird die Saga verändern, weshalb es wichtig ist, dass die gesamte Spieltruppe mit diesen Veränderungen einverstanden ist. *Ancient Magic* und *Hedge Magic Revised Edition* enthalten eine große Anzahl vorgeschlagener Durchbrüche, die es einem Magus ermöglichen würden, bestimmte Aspekte nicht-hermetischer Magie in die Hermetische Theorie zu integrieren. Diese können auch als Inspiration für Durchbrüche dienen, die mit keiner bestehenden Tradition verknüpft sind.
+Ein Durchbruch kann etwas vollkommen Neues sein, das dem Vorstellungsvermögen einer kreativen Maga entstammt. Er kann auch auf einer Form nicht-hermetischer Magie beruhen, wenn ein Magus versucht, es hermetischen Magi zu ermöglichen, etwas zu vollbringen, das nicht-hermetische Zauberer bereits können. In beiden Fällen kann der Forscher Durchbruchspunkte durch Experimentieren sammeln, wie nachfolgend beschrieben. Im zweiten Fall kann der Magus auch die nicht-hermetische Magie studieren, nach Einsichten in ihre Natur suchen und diese auf die Hermetische Magie anwenden. Beide Ansätze liefern Durchbruchspunkte, und Punkte aus beiden Quellen können in einem einzigen Projekt zusammenfließen. In beiden Fällen muss die Spieltruppe das Ergebnis der Forschung im Voraus festlegen und sich auf den Grad des Durchbruchs einigen. Der Erfolg wird die Saga verändern, weshalb es wichtig ist, dass die gesamte Spieltruppe mit diesen Veränderungen einverstanden ist. *Ancient Magic* und *Heckenzauber (Überarbeitete Ausgabe)* enthalten eine große Anzahl vorgeschlagener Durchbrüche, die es einem Magus ermöglichen würden, bestimmte Aspekte nicht-hermetischer Magie in die Hermetische Theorie zu integrieren. Diese können auch als Inspiration für Durchbrüche dienen, die mit keiner bestehenden Tradition verknüpft sind.
 
 ### Experimentieren
 
@@ -11244,9 +11246,10 @@ Ein zweiter Großer Durchbruch gliedert einen Großen oder Hermetischen Durchbru
 |                                     |                                                                                                    |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------- |
 | Achat                               | +3 Luft<br>+5 Schutz vor Stürmen<br>+7 Schutz vor Gift                                            |
-| Erlenholz                           | +1 Verwesung widerstehen<br>+2 Königswürde                                                         |
+| Ältestes Holz (Holunder)            | +1 Vim<br>+4 bösartige Magie                                                                       |
 | Alabaster                           | +2 Vergebung<br>+4 geistige Schärfe                                                                |
 | Aloe                                | +3 Freundschaft                                                                                    |
+| Ameisenlöwen-Panzer                              | +6 Entbehrung und Verhungern |
 | Amethyst                            | +2 Reichtum<br>+2 Gehör<br>+3 gegen Gift<br>+3 Träume<br>+4 Mäßigung<br>+7 gegen Trunkenheit      |
 | Amulett mit Engelsigilen            | +7 Schutzwall gegen Dämonen<br>+7 Dämonen bannen                                                   |
 | Anker                               | +3 Bewegung verhindern                                                                             |
@@ -11254,236 +11257,235 @@ Ein zweiter Großer Durchbruch gliedert einen Großen oder Hermetischen Durchbru
 | Aquamarin                           | +3 Wasser                                                                                          |
 | Armillarsphäre                      | +5 Himmel darstellen<br>+5 Himmelszeit                                                             |
 | Artefakte aus Pompeji und Herkulaneum | +3 Vulkane                                                                                       |
+| Asche (verbrannte Reste)            | +2 Dinge verbrennen<br>+2 Ignem<br>+5 verbrannte Dinge beeinflussen                               |
 | Astrolabium                         | +5 Astrologie<br>+5 Sterne und Himmel messen<br>+5 Navigation                                      |
 | Axt                                 | +4 Holz zerstören                                                                                  |
 | Bandage                             | +4 Wunden heilen                                                                                   |
 | Basalt                              | +3 Ignem<br>+3 Perdo                                                                               |
 | Basiliskenauge                      | +8 auf Entfernung töten                                                                            |
+| Behälter                            | +5 darin erschaffen oder verwandeln                                                                |
 | Beil                                | +4 Holz zerstören                                                                                  |
-| Bett                                | +6 Schlaf und Träume beeinflussen                                                                  |
+| Bergkristall                                     | +3 Heilung<br>+3 Eis<br>+4 Klarheit<br>+5 Hellsicht |
+| Bernstein                           | +3 Bewegung kontrollieren<br>+3 Corpus                                                             |
 | Beryll                              | +3 Wasser                                                                                          |
+| Bett                                | +6 Schlaf und Träume beeinflussen                                                                  |
+| Beutel / Sack                       | +3 Dinge hinein- oder herausbewegen<br>+5 Dinge darin einschließen                                |
 | Birkenholz                          | +1 Creo<br>+3 Geburt                                                                               |
 | Blasebalg                           | +4 Wind erschaffen<br>+5 Feuer stärken                                                             |
+| Blei                                             | +3 Geister beschwören oder binden<br>+3 Hass<br>+4 Abwehr |
 | Blutstein                           | +4 Blut und Wunden                                                                                 |
-| Boot                                | +3 Segeln                                                                                          |
 | Bogen                               | +5 Dinge auf Entfernung zerstören                                                                  |
-| Bücherregal                         | +3 Dinge darin verbergen<br>+4 Dinge darin schützen                                               |
+| Boot                                | +3 Segeln                                                                                          |
 | Bronze                              | +3 Terram<br>+5 Dunkelheit                                                                         |
 | Buchenholz                          | +3 Wissen                                                                                          |
-| Gürtel oder Leibriemen              | +3 Stärke beeinflussen                                                                             |
+| Bücherregal                         | +3 Dinge darin verbergen<br>+4 Dinge darin schützen                                               |
+| Cappadocisches Salz                 | +6 reinigende Wirkungen                                                                            |
+| Chimären-Zunge                      | +8 Feuer erschaffen                                                                                |
+| Daune                               | +3 Stille                                                                                          |
 | Dechsel                             | +2 Holzstrukturen verschönern                                                                      |
 | Diamant                             | +5 gegen Dämonen                                                                                   |
 | Dolch / Messer                      | +2 präzise Zerstörung<br>+3 Verrat, Meuchelmord<br>+3 Vergiftung                                  |
+| Doumpalmenblatt                     | +3 Instinkte und niedere Emotionen kontrollieren                                                   |
 | Drachenauge                         | +8 Schutz gegen Geister                                                                            |
 | Drachenherz                         | +7 Intellego                                                                                       |
 | Drachenzähne                        | +6 Unsichtbarkeit                                                                                  |
 | Dreschflegel                        | +3 Getreide ernten                                                                                 |
-| Bernstein                           | +3 Bewegung kontrollieren<br>+3 Corpus                                                             |
-| Eschenholz                          | +2 Menschen schaden                                                                                |
+| Echtes Purpur                                    | +5 Personen beherrschen<br>+7 Herrschaft und Autorität<br>+10 Königtum |
+| Eibenholz                                        | +2 Leichen<br>+2 Visionen |
+| Eichenholz                                       | +7 Schutz vor Stürmen |
+| Einhornhorn                                      | +8 Heilung<br>+10 Gift entdecken<br>+11 Fruchtbarkeit |
+| Eisen                                            | +7 Feen schaden oder vertreiben |
+| Eisenketten                                      | +8 Feen binden |
 | Elektrum                            | +3 Ausspähen<br>+3 Täuschung<br>+4 Muto Terram                                                    |
-| Ulmenholz                           | +2 Tod und Verfall                                                                                 |
-| Smaragd                             | +4 Liebe oder Leidenschaft entfachen<br>+7 Schlangen und Drachenwesen<br>+2 Beruhigung            |
+| Elfenbein                                        | +5 Heilung |
+| Erlenholz                           | +1 Verwesung widerstehen<br>+2 Königswürde                                                         |
+| Eschenholz                          | +2 Menschen schaden                                                                                |
 | Espenholz                           | +2 Krankheit heilen<br>+5 Fieber heilen                                                            |
 | Fächer                              | +4 Wetterphänomene vertreiben<br>+4 Winde erschaffen oder kontrollieren                           |
+| Federkiel                                        | +2 Auram<br>+5 Fliegen |
 | Feigenholz                          | +3 Liebesmagie<br>+3 Glücksspiel                                                                   |
+| Fell des Tugend-Panthers                         | +6 Gesang und melodiöse Klänge |
+| Fesseln                                          | +4 Bindung |
 | Fichtenholz                         | +3 Dunkelheit<br>+1 bösartige Feen                                                                 |
-| Gebrannte Tonware                   | +4 vor Feuer schützen oder einschließen                                                            |
+| Fliedernholz                                     | +2 Reisen |
+| Flossen des Tugend-Schiffshalters                | +7 ein bewegtes Objekt verlangsamen oder anhalten |
+| Fünffingeriges Kraut (Cinquefoil)   | +2 Wiedergutmachung<br>+3 Dämonen vertreiben<br>+4 Gift widerstehen                               |
 | Fußboden                            | +7 Bewegung darüber beeinflussen                                                                   |
+| Gebrannte Tonware                   | +4 vor Feuer schützen oder einschließen                                                            |
+| Gelbes Sandelholz                                | +3 Personen binden |
+| Glocke                              | +5 Warnung                                                                                         |
+| Gold                                | +2 Gesundheit<br>+4 Gier erzeugen<br>+4 Adel<br>+4 Frieden<br>+4 Reichtum beeinflussen           |
 | Granat                              | +2 Navigation<br>+2 Körper und Geist stärken<br>+2 Lebenskraft<br>+3 Bindungen der Treue<br>+4 Insekten vertreiben |
 | Granit                              | +2 Reichtum<br>+3 Terram                                                                           |
 | Greifen-Feder                       | +5 Stärke<br>+6 Fliegen                                                                            |
+| Greifvogeleber                                   | +5 Befreiung aus Fesseln<br>+6 Fliegen |
 | Grüner Türkis                       | +4 Nekromantie                                                                                     |
-| Gold                                | +2 Gesundheit<br>+4 Gier erzeugen<br>+4 Adel<br>+4 Frieden<br>+4 Reichtum beeinflussen           |
+| Gürtel oder Leibriemen              | +3 Stärke beeinflussen                                                                             |
 | Hackbeil                            | +2 Schlachten<br>+3 Perdo Animal                                                                   |
+| Hainbuchenholz                                   | +6 Stärke<br>+6 Vim gegen feindliche Magie |
 | Halle                               | +3 magischer Transport<br>+6 Bewegung hindurch beeinflussen                                       |
+| Halskette                                        | +4 Atmung und Sprache beeinflussen |
 | Handsäge                            | +3 Holz fein bearbeiten                                                                            |
 | Handschuh                           | +4 Dinge durch Berührung beeinflussen<br>+4 Manipulation auf Distanz                              |
+| Hartriegelholz (Dogwood)            | +5 Kobolde                                                                                         |
 | Haselholz                           | +1 gutes Urteil<br>+3 Wahrsagung                                                                   |
 | Haubenstock (Hut)                   | +4 eigenes Erscheinungsbild beeinflussen                                                           |
-| Weißdornholz                        | +3 Schutzwälle                                                                                     |
-| Herd                                | +5 Dinge darin zerstören<br>+7 Feuer und Wärme erschaffen                                         |
-| Kastanienholz                       | +3 Gerechtigkeit<br>+4 Ehrlichkeit                                                                 |
-| Katzenaugenstein                    | +3 gegen schädliches Corpus                                                                        |
-| Katoblepas-Schlund                  | +7 Menschen töten oder schädigen                                                                   |
-| Kessel (Kelch)                      | +4 Gift darin entdecken<br>+5 Flüssigkeit darin verwandeln oder erschaffen                        |
-| Kirschholz                          | +4 Blutvergießen                                                                                   |
-| Klarer Bergkristall                 | +5 wasserbezogener Effekt                                                                          |
-| Klares Glas                         | +4 Unsichtbarkeit<br>+5 durch etwas hindurchsehen                                                 |
-| Knochenpfriemen (Bohrer)            | +2 Holz formen<br>+2 Holz durchbohren                                                              |
-| Beutel / Sack                       | +3 Dinge hinein- oder herausbewegen<br>+5 Dinge darin einschließen                                |
-| Kragen                              | +6 Träger kontrollieren                                                                            |
-| Kreuz                               | +5 Übernatürliches fernhalten<br>+5 Infernale Kreaturen schädigen<br>+5 Dämonen bannen            |
-| Krone                               | +2 Weisheit<br>+3 Menschen kontrollieren<br>+5 Respekt und Autorität gewinnen                     |
-| Kupfer                              | +2 Leidenschaft<br>+2 Liebesmagie<br>+3 Blutvergießen<br>+4 die eigene Form verändern<br>+4 Gewandtheit |
-| Leder (Tierhaut)                    | +7 in entsprechendes Tier verwandeln                                                               |
-| Messing                             | +3 Musik<br>+3 Ignem<br>+4 Dämonen, Teufel und Engel                                              |
-| Münze                               | +4 Gier erzeugen<br>+4 Reichtum und Handel                                                        |
-| Ohrring                             | +5 Gehör beeinflussen                                                                              |
-| Pfeil                               | +2 Zielen<br>+3 Richtung                                                                           |
-| Rotes Korall                        | +10 gegen Dämonen                                                                                  |
-| Rüstung                             | +7 Träger schützen                                                                                 |
-| Säbel (Brecheisen)                  | +2 Stein bewegen                                                                                   |
-| Schwarzdornholz                     | +2 dunkle Feen<br>+6 Wächter                                                                       |
-| Schwefelholz (Zedernholz)           | +2 Geister binden<br>+5 Effekte mit Mentem- und Herbam-Requisiten                                 |
-| Sichel (Billhook)                   | +2 Beschneiden                                                                                     |
-| Stiefel                             | +5 Gehen beeinflussen                                                                              |
-| Glocke                              | +5 Warnung                                                                                         |
-| Tonne (Fass)                        | +3 Trunkenheit erzeugen                                                                            |
-| Tierknochen                         | +4 Tiere schädigen oder zerstören                                                                  |
-| Behälter                            | +5 darin erschaffen oder verwandeln                                                                |
-| Trommel                             | +2 Angst auslösen<br>+3 Stürme und Donner erschaffen<br>+5 Betäubung                              |
-| Tür                                 | +5 Schutzzauber                                                                                    |
-| Türbogen                            | +5 magischer Transport<br>+7 Bewegung hindurch beeinflussen<br>+7 magische Tore und Portale       |
-| Umhang                              | +3 Fliegen<br>+4 Träger verwandeln<br>+5 Erscheinungsbild des Trägers verändern/unterdrücken      |
-| Weihrauch (Frankincense)            | +3 Perdo Vim<br>+3 Träume<br>+4 einen Ort von infernaler Einflussnahme reinigen                   |
-| Hartriegelholz (Dogwood)            | +5 Kobolde                                                                                         |
-| Zimmet (Cinnamon)                   | +2 Geister zerstören<br>+4 Imaginem                                                                |
-| Zinnober                            | +3 langes Leben<br>+4 Reichtum<br>+4 Sprache<br>+5 Drachen                                        |
-| Zirkel (Dividers)                   | +2 Messen                                                                                          |
-| Schwarze Kerze                      | +2 Dämonen herbeirufen                                                                             |
-| Kerze aus Ziegenfett                | +3 Dämonen herbeirufen                                                                             |
-| Cappadocisches Salz                 | +6 reinigende Wirkungen                                                                            |
-| Schnitzerei eines Behemoth          | +3 gewaltige Größe                                                                                 |
-| Fünffingeriges Kraut (Cinquefoil)   | +2 Wiedergutmachung<br>+3 Dämonen vertreiben<br>+4 Gift widerstehen                               |
-| Muschelschale                       | +2 Schutz                                                                                          |
-| Chimären-Zunge                      | +8 Feuer erschaffen                                                                                |
-| Doumpalmenblatt                     | +3 Instinkte und niedere Emotionen kontrollieren                                                   |
-| Daune                               | +3 Stille                                                                                          |
-| Ältestes Holz (Holunder)            | +1 Vim<br>+4 bösartige Magie                                                                       |
-| Asche (verbrannte Reste)            | +2 Dinge verbrennen<br>+2 Ignem<br>+5 verbrannte Dinge beeinflussen                               |
-| Stoff-Schere                        | +2 Stoffe formen                                                                                   |
-| Korb                                | +2 Gegenstände sammeln<br>+3 Dinge darin erschaffen<br>+4 Inhalt bewahren<br>+5 Nahrung darin erschaffen |
-| Mandelholz                          | +3 Creo Herbam                                                                                     |
-| Zypressenholz                       | +3 Geister<br>+3 Nekromantie                                                                       |
-| Kreide, blau                        | +2 Schutz gegen Dämonen                                                                            |
-| Kamm                                | +5 Schönheit<br>+7 Haare beeinflussen                                                              |
+| Haut des Tugend-Salamanders                      | +8 Feuer löschen |
 | Helm                                             | +4 Geist/Gefühle des Trägers beeinflussen<br>+6 Sicht des Trägers beeinflussen |
-| Greifvogeleber                                   | +5 Befreiung aus Fesseln<br>+6 Fliegen |
-| Stechpalmenholz                                  | +2 Wunden zufügen<br>+2 Schmerzen zufügen |
-| Hainbuchenholz                                   | +6 Stärke<br>+6 Vim gegen feindliche Magie |
+| Herd                                | +5 Dinge darin zerstören<br>+7 Feuer und Wärme erschaffen                                         |
+| Heugabel                                         | +2 geerntetes Getreide einsammeln |
+| Holz (tot)                                       | +3 lebendes Holz beeinflussen<br>+4 totes Holz beeinflussen |
+| Holz von einem verdrehten<br>Baum auf einem Feld | +4 entstellen |
+| Holz von einem vom Blitz<br>getroffenen Baum     | +2 Auram |
 | Hufeisen                                         | +2 Abwehr<br>+6 Bewegung von Pferden beeinflussen |
-| Sanduhr                                          | +3 Geschwindigkeit steigern<br>+7 Zeitmessung und Alarme |
-| Menschenknochen                                  | +3 menschlichen Geist vernichten<br>+4 menschlichen Körper vernichten |
-| Menschenschädel                                  | +4 menschlichen Körper vernichten<br>+5 menschlichen Geist vernichten<br>+5 Geister vernichten oder beherrschen<br>+10 Geist des betreffenden Schädels vernichten oder beherrschen |
 | Hyazinthe                                        | +2 Heilung |
 | Hydrazähne                                       | +6 Creo<br>+8 Regeneration |
-| Tinte des Hermes                                 | +3 Vim<br>+5 Bücher |
-| Eisen                                            | +7 Feen schaden oder vertreiben |
-| Eisenketten                                      | +8 Feen binden |
-| Elfenbein                                        | +5 Heilung |
 | Jade                                             | +4 Aquam |
 | Jaspis                                           | +2 Heilung<br>+2 gegen Dämonen |
 | Jett                                             | +2 Schutz<br>+3 Dunkelheit |
-| Schmuck/Kleidung                                 | +2 sich selbst bewegen<br>+4 sich selbst schützen<br>+4 sich selbst verwandeln |
+| Joch                                             | +4 Träger beherrschen<br>+5 Stärke des Trägers steigern |
+| Kamm                                | +5 Schönheit<br>+7 Haare beeinflussen                                                              |
+| Kastanienholz                       | +3 Gerechtigkeit<br>+4 Ehrlichkeit                                                                 |
+| Katoblepas-Schlund                  | +7 Menschen töten oder schädigen                                                                   |
+| Katzenaugenstein                    | +3 gegen schädliches Corpus                                                                        |
+| Kelle                                            | +2 Bauen |
+| Kerze aus Ziegenfett                | +3 Dämonen herbeirufen                                                                             |
+| Kessel (Kelch)                      | +4 Gift darin entdecken<br>+5 Flüssigkeit darin verwandeln oder erschaffen                        |
+| Ketten                                           | +6 Fesseln oder magisches Binden |
+| Kiefernholz                                      | +1 freundliche Feen<br>+3 Licht |
+| Kirschholz                          | +4 Blutvergießen                                                                                   |
+| Klarer Bergkristall                 | +5 wasserbezogener Effekt                                                                          |
+| Klares Glas                         | +4 Unsichtbarkeit<br>+5 durch etwas hindurchsehen                                                 |
+| Kleiner Hammer                                   | +2 Bauen |
+| Knochenpfriemen (Bohrer)            | +2 Holz formen<br>+2 Holz durchbohren                                                              |
+| Korb                                | +2 Gegenstände sammeln<br>+3 Dinge darin erschaffen<br>+4 Inhalt bewahren<br>+5 Nahrung darin erschaffen |
+| Kragen                              | +6 Träger kontrollieren                                                                            |
+| Kreide, blau                        | +2 Schutz gegen Dämonen                                                                            |
+| Kreuz                               | +5 Übernatürliches fernhalten<br>+5 Infernale Kreaturen schädigen<br>+5 Dämonen bannen            |
+| Krone                               | +2 Weisheit<br>+3 Menschen kontrollieren<br>+5 Respekt und Autorität gewinnen                     |
+| Kupfer                              | +2 Leidenschaft<br>+2 Liebesmagie<br>+3 Blutvergießen<br>+4 die eigene Form verändern<br>+4 Gewandtheit |
 | Lampe                                            | +4 Feuer erzeugen<br>+7 Licht erzeugen |
-| Lindenholz                                       | +1 Glück<br>+2 Schutz vor Waffen |
-| Blei                                             | +3 Geister beschwören oder binden<br>+3 Hass<br>+4 Abwehr |
-| Zitronenholz                                     | +5 Gehör |
+| Lebendiger Baum                                  | Verdreifacht den Bonus für die jeweilige Holzart (Eiche, Esche usw.), aber nicht für Holz als solches.<br>Gilt nur, wenn der gesamte lebende Baum verzaubert wird. |
+| Leder (Tierhaut)                    | +7 in entsprechendes Tier verwandeln                                                               |
+| Leier                                            | +3 Töne erzeugen<br>+5 Musik beeinflussen |
 | Leukorotazunge                                   | +6 menschliche Stimmen nachahmen |
-| Fliedernholz                                     | +2 Reisen |
+| Lindenholz                                       | +1 Glück<br>+2 Schutz vor Waffen |
 | Löwenblut                                        | +2 Führung<br>+3 Mut<br>+4 Schutz vor wilden Tieren |
 | Löwenmähne                                       | +5 Stärke, Mut, Stolz |
-| Lebendiger Baum                                  | Verdreifacht den Bonus für die jeweilige Holzart (Eiche, Esche usw.), aber nicht für Holz als solches.<br>Gilt nur, wenn der gesamte lebende Baum verzaubert wird. |
-| Leier                                            | +3 Töne erzeugen<br>+5 Musik beeinflussen |
+| Lüftungsöffnung                                  | +7 hindurchströmende Luft beeinflussen |
 | Magnesstein (weiblich)                           | +2 Unsichtbarkeit<br>+3 Reinigung |
 | Magnesstein (männlich)                           | +3 Wahrsagung<br>+7 Eisen beherrschen |
 | Magnet                                           | +2 Rego<br>+4 Rego Corpus<br>+4 Rego Terram |
 | Magnetit                                         | +3 Animal |
-| Schlägel                                         | +2 Präzision |
-| Fesseln                                          | +4 Bindung |
+| Mandelholz                          | +3 Creo Herbam                                                                                     |
 | Marmor                                           | +2 Kälte<br>+3 Schönheit<br>+5 Abwehr |
 | Maske                                            | +2 Sicht des Trägers beeinflussen<br>+2 Atmung des Trägers beeinflussen<br>+3 Verstecken<br>+7 Verkleidung |
-| Steinmeissel                                     | +2 Stein formen |
 | Mast                                             | +2 Schutz vor Versuchung |
-| Quecksilber                                      | +3 Künste und Wissenschaften<br>+3 Aquam<br>+3 Terram<br>+5 Muto |
-| Spiegel                                          | +3 Geister beschwören oder binden<br>+5 die Wahrheit erkennen<br>+6 Bilder zeigen<br>+7 Illusionen |
-| Ameisenlöwen-Panzer                              | +6 Entbehrung und Verhungern |
+| Meeresmuschel                                    | +2 das Meer<br>+3 Meereslebewesen |
+| Menschenknochen                                  | +3 menschlichen Geist vernichten<br>+4 menschlichen Körper vernichten |
+| Menschenschädel                                  | +4 menschlichen Körper vernichten<br>+5 menschlichen Geist vernichten<br>+5 Geister vernichten oder beherrschen<br>+10 Geist des betreffenden Schädels vernichten oder beherrschen |
+| Messing                             | +3 Musik<br>+3 Ignem<br>+4 Dämonen, Teufel und Engel                                              |
+| Münze                               | +4 Gier erzeugen<br>+4 Reichtum und Handel                                                        |
+| Muschelschale                       | +2 Schutz                                                                                          |
 | Myrrhe                                           | +3 Geister |
-| Halskette                                        | +4 Atmung und Sprache beeinflussen |
 | Netz                                             | +5 Bewegungslosigkeit |
-| Eichenholz                                       | +7 Schutz vor Stürmen |
-| Ruder                                            | +4 Strömungen beeinflussen |
 | Obsidian                                         | +5 Dunkelheit |
+| Ohrring                             | +5 Gehör beeinflussen                                                                              |
 | Onyx                                             | +4 Dunkelheit<br>+4 Tod |
 | Opal                                             | +2 Bilder<br>+2 Vorstellungskraft<br>+2 Unsichtbarkeit<br>+4 Reisen<br>+4 Gedächtnis<br>+6 Augen |
 | Orangenholz                                      | +5 Sicht |
 | Palmholz                                         | +3 Holz beleben |
 | Panflöte                                         | +3 Gefühle beeinflussen<br>+5 Kinder beherrschen<br>+5 Festlichkeit<br>+6 Feengefühle beeinflussen |
-| Fell des Tugend-Panthers                         | +6 Gesang und melodiöse Klänge |
-| Perle                                            | +5 Gifte entdecken oder beseitigen |
-| Schnabel des Tugend-Pelikans                     | +8 Heilung und Fürsorge |
-| Pfeffer                                          | +2 Perdo |
+| Peitsche                                         | +4 menschlichen oder tierischen Körper beherrschen<br>+5 Tieren Furcht einflößen |
 | Peridot                                          | +3 Schutz vor Alpträumen |
+| Perle                                            | +5 Gifte entdecken oder beseitigen |
+| Pfeffer                                          | +2 Perdo |
+| Pfeil                               | +2 Zielen<br>+3 Richtung                                                                           |
+| Pflaumenholz                                     | +2 Blut |
 | Phönixasche                                      | +11 Verjüngung und Regeneration |
 | Phylakterion                                     | +5 Träger schützen |
-| Spitzhacke                                       | +4 Stein zerstören |
-| Federkiel                                        | +2 Auram<br>+5 Fliegen |
-| Kiefernholz                                      | +1 freundliche Feen<br>+3 Licht |
-| Heugabel                                         | +2 geerntetes Getreide einsammeln |
-| Pflaumenholz                                     | +2 Blut |
-| Reiner Honig                                     | +2 Konservierung<br>+5 geistige Reise |
 | Quarz                                            | +5 Unsichtbarkeit |
-| Schreibfeder                                     | +7 Schreiben |
+| Quecksilber                                      | +3 Künste und Wissenschaften<br>+3 Aquam<br>+3 Terram<br>+5 Muto |
 | Rattenschädel                                    | +3 Krankheiten verursachen |
-| Rotgold                                          | +1 Perdo<br>+4 Krieg |
-| Flossen des Tugend-Schiffshalters                | +7 ein bewegtes Objekt verlangsamen oder anhalten |
+| Raum                                             | +4 Dinge darin erschaffen<br>+6 alles darin auf einmal beeinflussen |
+| Reiner Honig                                     | +2 Konservierung<br>+5 geistige Reise |
 | Rhodochrosit                                     | +2 Erinnerungen<br>+3 Vergessen<br>+3 Wunden verbinden |
 | Ring                                             | +2 Dauereffekte |
-| Bergkristall                                     | +3 Heilung<br>+3 Eis<br>+4 Klarheit<br>+5 Hellsicht |
-| Raum                                             | +4 Dinge darin erschaffen<br>+6 alles darin auf einmal beeinflussen |
-| Seil oder Schnur                                 | +2 Erwürgen<br>+4 Fesseln oder Binden |
-| Vogelbeerbaum (Holz)                             | +1 Vim<br>+4 Schutz vor bösartiger Magie |
+| Rotes Korall                        | +10 gegen Dämonen                                                                                  |
+| Rotgold                                          | +1 Perdo<br>+4 Krieg |
 | Rubin                                            | +2 Mut<br>+3 Kampfwunden<br>+3 Blut beeinflussen<br>+4 Führung im Krieg<br>+6 feuerbezogene Effekte |
-| Teppich                                          | +3 Personen darauf beeinflussen |
-| Sattel                                           | +4 Pferd beeinflussen<br>+7 Reiten beeinflussen |
+| Ruder                                            | +4 Strömungen beeinflussen |
+| Rüstung                             | +7 Träger schützen                                                                                 |
+| Säbel (Brecheisen)                  | +2 Stein bewegen                                                                                   |
 | Safran                                           | +4 körperliche Stärke |
-| Haut des Tugend-Salamanders                      | +8 Feuer löschen |
+| Sanduhr                                          | +3 Geschwindigkeit steigern<br>+7 Zeitmessung und Alarme |
 | Saphir                                           | +2 Wissen<br>+2 gegen bösartiges Corpus<br>+2 Perdo Vim gegen Geister<br>+3 Heilung<br>+3 Zorn vermindern |
 | Sardonyx                                         | +2 gegen bösartiges Corpus |
-| Waage                                            | +3 Waren und Geld wiegen |
-| Sense                                            | +3 Ernte einfahren<br>+3 Effekte mit Dauer Jahr<br>+4 Effekte, die ausdrücklich den Tod herbeiführen |
-| Meeresmuschel                                    | +2 das Meer<br>+3 Meereslebewesen |
-| Serpentin                                        | +3 gegen Infektionen und tierisches Gift |
-| Ketten                                           | +6 Fesseln oder magisches Binden |
-| Scharfe Klinge                                   | +2 Leder formen |
+| Sattel                                           | +4 Pferd beeinflussen<br>+7 Reiten beeinflussen |
 | Schafschere                                      | +2 Scheren |
-| Schild                                           | +5 Schutz |
+| Scharfe Klinge                                   | +2 Leder formen |
 | Schiff                                           | +5 Segeln |
 | Schiffssegel                                     | +4 Winde beeinflussen |
+| Schild                                           | +5 Schutz |
+| Schlägel                                         | +2 Präzision |
+| Schlangenzunge                                   | +3 Täuschung<br>+6 Lügen |
+| Schlauch                                         | +5 Flüssigkeit darin erschaffen |
+| Schmuck/Kleidung                                 | +2 sich selbst bewegen<br>+4 sich selbst schützen<br>+4 sich selbst verwandeln |
+| Schnabel des Tugend-Pelikans                     | +8 Heilung und Fürsorge |
+| Schnitt                                          | +2 Metall formen |
+| Schnitzerei eines Behemoth          | +3 gewaltige Größe                                                                                 |
+| Schreibfeder                                     | +7 Schreiben |
+| Schreibtafel                                     | +2 Geister befehligen |
+| Schwarzdornholz                     | +2 dunkle Feen<br>+6 Wächter                                                                       |
+| Schwarze Kerze                      | +2 Dämonen herbeirufen                                                                             |
+| Schwefel                                         | +2 Zwietracht säen<br>+2 konservieren oder verfaulen<br>+3 Zungen binden<br>+4 Dämonen |
+| Schwefelholz (Zedernholz)           | +2 Geister binden<br>+5 Effekte mit Mentem- und Herbam-Requisiten                                 |
+| Schwert                                          | +3 einzelnen Angriff abwehren<br>+4 menschliche und tierische Körper schädigen |
+| Seil oder Schnur                                 | +2 Erwürgen<br>+4 Fesseln oder Binden |
+| Sense                                            | +3 Ernte einfahren<br>+3 Effekte mit Dauer Jahr<br>+4 Effekte, die ausdrücklich den Tod herbeiführen |
+| Serpentin                                        | +3 gegen Infektionen und tierisches Gift |
 | Sibirische sechsbeinige<br>Antilopenklaue        | +6 Geschwindigkeit und Schnelligkeit |
+| Sichel (Billhook)                   | +2 Beschneiden                                                                                     |
 | Sichel                                           | +2 Ernte |
 | Silber                                           | +1 Terram<br>+2 Intellego<br>+3 Geister schützen<br>+5 Werwölfe allgemein<br>+10 Werwölfen schaden |
-| Kleiner Hammer                                   | +2 Bauen |
-| Schlangenzunge                                   | +3 Täuschung<br>+6 Lügen |
-| Schnitt                                          | +2 Metall formen |
-| Spaten                                           | +4 Erde bewegen oder zerstören |
-| Sternrubin                                       | +5 okkulte Wesen beschwören/beherrschen |
-| Schwefel                                         | +2 Zwietracht säen<br>+2 konservieren oder verfaulen<br>+3 Zungen binden<br>+4 Dämonen |
+| Smaragd                             | +4 Liebe oder Leidenschaft entfachen<br>+7 Schlangen und Drachenwesen<br>+2 Beruhigung            |
 | Sonnenskarabäus                                  | +4 Magie entdecken |
-| Schwert                                          | +3 einzelnen Angriff abwehren<br>+4 menschliche und tierische Körper schädigen |
-| Schreibtafel                                     | +2 Geister befehligen |
-| Zinn                                             | +1 Recht<br>+3 Schwäche |
-| Zange                                            | +2 Metall beherrschen |
-| Topas                                            | +4 Führung<br>+4 Stärke, Mut, Stolz<br>+5 wilde Tiere beherrschen |
+| Spaten                                           | +4 Erde bewegen oder zerstören |
+| Spiegel                                          | +3 Geister beschwören oder binden<br>+5 die Wahrheit erkennen<br>+6 Bilder zeigen<br>+7 Illusionen |
 | Spielzeug                                        | +4 Kinder beherrschen |
-| Kelle                                            | +2 Bauen |
-| Echtes Purpur                                    | +5 Personen beherrschen<br>+7 Herrschaft und Autorität<br>+10 Königtum |
-| Türkis                                           | +4 Nekromantie |
-| Einhornhorn                                      | +8 Heilung<br>+10 Gift entdecken<br>+11 Fruchtbarkeit |
-| Lüftungsöffnung                                  | +7 hindurchströmende Luft beeinflussen |
-| Violetter Amethyst                               | +4 Herrschaft über Massen<br>+7 gegen Trunkenheit |
-| Walnussholz                                      | +4 Geist |
+| Spitzhacke                                       | +4 Stein zerstören |
 | Stab/Zauberstab                                  | +2 Dinge abwehren<br>+3 Geschosse oder andere Wurfkörper abfeuern<br>+4 Dinge aus der Ferne beherrschen<br>+4 Dinge aus der Ferne zerstören |
-| Schlauch                                         | +5 Flüssigkeit darin erschaffen |
-| Peitsche                                         | +4 menschlichen oder tierischen Körper beherrschen<br>+5 Tieren Furcht einflößen |
-| Weißpappelholz                                   | +4 Geist |
+| Stechpalmenholz                                  | +2 Wunden zufügen<br>+2 Schmerzen zufügen |
+| Steinmeissel                                     | +2 Stein formen |
+| Sternrubin                                       | +5 okkulte Wesen beschwören/beherrschen |
+| Stiefel                             | +5 Gehen beeinflussen                                                                              |
+| Stoff-Schere                        | +2 Stoffe formen                                                                                   |
+| Teppich                                          | +3 Personen darauf beeinflussen |
+| Tierknochen                         | +4 Tiere schädigen oder zerstören                                                                  |
+| Tinte des Hermes                                 | +3 Vim<br>+5 Bücher |
+| Tonne (Fass)                        | +3 Trunkenheit erzeugen                                                                            |
+| Topas                                            | +4 Führung<br>+4 Stärke, Mut, Stolz<br>+5 wilde Tiere beherrschen |
+| Trommel                             | +2 Angst auslösen<br>+3 Stürme und Donner erschaffen<br>+5 Betäubung                              |
+| Tür                                 | +5 Schutzzauber                                                                                    |
+| Türbogen                            | +5 magischer Transport<br>+7 Bewegung hindurch beeinflussen<br>+7 magische Tore und Portale       |
+| Türkis                                           | +4 Nekromantie |
+| Ulmenholz                           | +2 Tod und Verfall                                                                                 |
+| Umhang                              | +3 Fliegen<br>+4 Träger verwandeln<br>+5 Erscheinungsbild des Trägers verändern/unterdrücken      |
+| Violetter Amethyst                               | +4 Herrschaft über Massen<br>+7 gegen Trunkenheit |
+| Vogelbeerbaum (Holz)                             | +1 Vim<br>+4 Schutz vor bösartiger Magie |
+| Waage                                            | +3 Waren und Geld wiegen |
+| Walnussholz                                      | +4 Geist |
 | Weidenholz                                       | +1 Wunden heilen<br>+4 Glied wiederherstellen |
-| Holz (tot)                                       | +3 lebendes Holz beeinflussen<br>+4 totes Holz beeinflussen |
-| Holz von einem vom Blitz<br>getroffenen Baum     | +2 Auram |
-| Holz von einem verdrehten<br>Baum auf einem Feld | +4 entstellen |
-| Gelbes Sandelholz                                | +3 Personen binden |
-| Eibenholz                                        | +2 Leichen<br>+2 Visionen |
-| Joch                                             | +4 Träger beherrschen<br>+5 Stärke des Trägers steigern |
+| Weihrauch (Frankincense)            | +3 Perdo Vim<br>+3 Träume<br>+4 einen Ort von infernaler Einflussnahme reinigen                   |
+| Weißdornholz                        | +3 Schutzwälle                                                                                     |
+| Weißpappelholz                                   | +4 Geist |
+| Zange                                            | +2 Metall beherrschen |
+| Zimmet (Cinnamon)                   | +2 Geister zerstören<br>+4 Imaginem                                                                |
+| Zinn                                             | +1 Recht<br>+3 Schwäche |
+| Zinnober                            | +3 langes Leben<br>+4 Reichtum<br>+4 Sprache<br>+5 Drachen                                        |
+| Zirkel (Dividers)                   | +2 Messen                                                                                          |
+| Zitronenholz                                     | +5 Gehör |
+| Zypressenholz                       | +3 Geister<br>+3 Nekromantie                                                                       |
 
 ## Regeln zur Laborpersonalisierung
 
@@ -11523,12 +11525,12 @@ Zweitens: Es wirkt etwas lächerlich, wenn eine Kammer weit größer ist, als f�
 
 | Größe | Quadratmeter |
 | ----- | ------------ |
-| -3    | ~10          |
-| -2    | ~19          |
-| -1    | ~33          |
 | 0     | ~46          |
+| -1    | ~33          |
 | +1    | ~60          |
+| -2    | ~19          |
 | +2    | ~74          |
+| -3    | ~10          |
 | +3    | ~93          |
 | +4    | ~116         |
 | +5    | ~139         |
@@ -11939,7 +11941,7 @@ Nachstehend sind einige Beispiel-Features aufgeführt, zusammen mit den möglich
 
 > #### Das Sanctum
 >
-> Jedes Mitglied des Ordens des Hermes kann einen Bereich als sein Sanctum bestimmen; die meisten wählen dafür ihr Labor und ihre Wohnräume. Ein Beschluss des Ersten Tribunals legt fest, dass ein Magus, der sich im Sanctum eines anderen aufhält, keinen rechtlichen Schutz durch den Sanctumbesitzer genießt und ohne rechtliche Folgen angegriffen oder getötet werden darf. Es besteht eine starke Konvention, ein Sanctum nicht ohne Erlaubnis zu betreten, doch der Periphere Kodex unterscheidet sich in diesen Punkten zwischen den Tribunalen. Weitere Einzelheiten finden sich in *Houses of Hermes: True Lineages* — insbesondere auf den Seiten 46–47, 62 und 71. Ein Beschluss des Großtribunals von 997 schreibt vor, dass ein Sanctum durch einen in ein Quadrat eingeschriebenen Kreis gekennzeichnet sein muss, wobei die gegenüberliegenden Ecken des Quadrats durch Linien verbunden sind.
+> Jedes Mitglied des Ordens des Hermes kann einen Bereich als sein Sanctum bestimmen; die meisten wählen dafür ihr Labor und ihre Wohnräume. Ein Beschluss des Ersten Tribunals legt fest, dass ein Magus, der sich im Sanctum eines anderen aufhält, keinen rechtlichen Schutz durch den Sanctumbesitzer genießt und ohne rechtliche Folgen angegriffen oder getötet werden darf. Es besteht eine starke Konvention, ein Sanctum nicht ohne Erlaubnis zu betreten, doch der Periphere Kodex unterscheidet sich in diesen Punkten zwischen den Tribunalen. Weitere Einzelheiten finden sich in *Häuser des Hermes: Wahre Linien* — insbesondere auf den Seiten 46–47, 62 und 71. Ein Beschluss des Großtribunals von 997 schreibt vor, dass ein Sanctum durch einen in ein Quadrat eingeschriebenen Kreis gekennzeichnet sein muss, wobei die gegenüberliegenden Ecken des Quadrats durch Linien verbunden sind.
 
 ### Magische Gegenstände für Laboratorien
 
@@ -12148,11 +12150,11 @@ Egal wie viel Flexibilität einem Formular- oder Ritualzauber hinzugefügt wird,
 
 Es sei angemerkt, dass Rego-Handwerkszauber Wahrnehmung + Finesse verwenden, während Creo-Handwerkszauber Intelligenz + Finesse verwenden. Dies liegt daran, dass Rego-Handwerkszauber mit vorhandenem Material arbeiten müssen, was erfordert, dass der Zaubernde für dessen Eigenschaften empfänglich ist. Creo-Handwerkszauber hingegen erschaffen ihr eigenes Material, was erfordert, dass der Zaubernde versteht, wie das Material beschaffen sein muss, um das gewünschte Ergebnis zu erzielen.
 
-Weitere Einzelheiten zur Fertigung mit Magie finden sich in *Covenants*, Seite 49, und *Houses of Hermes: Societates*, Seiten 60–62.
+Weitere Einzelheiten zur Fertigung mit Magie finden sich in *Covenants*, Seite 49, und *Häuser des Hermes: Gemeinschaften*, Seiten 60–62.
 
 > #### Schwierigkeitsgrade für das Erschaffen und Herstellen von Gegenständen
 >
-> Die Schwierigkeitsgrade in der nachstehenden Tabelle beinhalten den +3-Aufschlag für den Einsatz von Magie und setzen voraus, dass ein weltlicher Handwerker die Arbeit in nicht mehr als einem Tag abschließen könnte. *City and Guild* enthält ausführlichere Regeln für weltliches Handwerk (Kapitel 4), und *Art and Academe* enthält weitere Regeln für Kunst (Kapitel 8), die verwendet werden können, um genauere Schwierigkeitsgrade festzulegen, wenn die Spieltruppe dies wünscht. Wenn du Werkstattwerte aus *City and Guild* verwendest, ermittle den entsprechenden Finesse-Schwierigkeitsgrad, indem du 3 zum Werkstattwert addierst und anschließend Modifikatoren für erforderliche Mehrarbeit hinzufügst.
+> Die Schwierigkeitsgrade in der nachstehenden Tabelle beinhalten den +3-Aufschlag für den Einsatz von Magie und setzen voraus, dass ein weltlicher Handwerker die Arbeit in nicht mehr als einem Tag abschließen könnte. *Stadt & Gilde* enthält ausführlichere Regeln für weltliches Handwerk (Kapitel 4), und *Kunst & Gelehrsamkeit* enthält weitere Regeln für Kunst (Kapitel 8), die verwendet werden können, um genauere Schwierigkeitsgrade festzulegen, wenn die Spieltruppe dies wünscht. Wenn du Werkstattwerte aus *Stadt & Gilde* verwendest, ermittle den entsprechenden Finesse-Schwierigkeitsgrad, indem du 3 zum Werkstattwert addierst und anschließend Modifikatoren für erforderliche Mehrarbeit hinzufügst.
 >
 > | Handwerks-<br>aufgabe | Schwierigkeits-<br>grad | Beispiel                                                                                                              |
 > | --------------------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -13748,7 +13750,7 @@ Entfacht eine Seuche in einer Stadt oder einer anderen Grenze. Alle Personen inn
 
 Bei einem Patzer übernehmen Rego-Corpus-Zauber oft die Kontrolle über den Körper des Zaubernden und bewegen ihn auf unerwünschte Weise.
 
-Rego Corpus kann für chirurgische Eingriffe eingesetzt werden. Detaillierte Regeln dazu finden sich in Art and Academe.
+Rego Corpus kann für chirurgische Eingriffe eingesetzt werden. Detaillierte Regeln dazu finden sich in Kunst & Gelehrsamkeit.
 
 | Stufe     | Rego-Corpus-Leitlinie |
 | --------- | --------------------- |
@@ -16132,10 +16134,10 @@ Längere Ablenkungen von mehr als einem Monat Dauer verringern Fortschritts- ode
 
 | Verlorene Monate | Summe       | Beispiel |
 | ---------------- | ----------- | -------- |
+| Drei Monate      | Keine       | 0        |
 | Keine            | Vollständig | 15       |
 | Ein Monat        | 2/3         | 10       |
 | Zwei Monate      | 1/3         | 5        |
-| Drei Monate      | Keine       | 0        |
 
 ## Bücher
 
@@ -16219,7 +16221,7 @@ Ein Charakter muss einen Wert von mindestens 1 in Magietheorie haben, um ein Buc
 
 ### Beschaffung
 
-Der Orden des Hermes unterhält einen lebendigen Buchhandel mit zwei Hauptzweigen: dem Verkauf fertiger Bücher und der Schreibhospitalität. Der Buchverkauf erfolgt über das Rotkappe-Netzwerk, ergänzt durch Tauschgeschäfte bei Tribunalstreffen. Der Einsatz von Magie zur Unterstützung des Rotkappe-Netzwerks wird in *Houses of Hermes: True Lineages*, Seite 101, ausführlicher behandelt. Schreibhospitalität liegt vor, wenn einem Magus gestattet wird, aus der Bibliothek eines Konvents zu kopieren, dem er nicht angehört. Hospitalität wird in der Regel gegen eine Zahlung oder Dienstleistung gewährt.
+Der Orden des Hermes unterhält einen lebendigen Buchhandel mit zwei Hauptzweigen: dem Verkauf fertiger Bücher und der Schreibhospitalität. Der Buchverkauf erfolgt über das Rotkappe-Netzwerk, ergänzt durch Tauschgeschäfte bei Tribunalstreffen. Der Einsatz von Magie zur Unterstützung des Rotkappe-Netzwerks wird in *Häuser des Hermes: Wahre Linien*, Seite 101, ausführlicher behandelt. Schreibhospitalität liegt vor, wenn einem Magus gestattet wird, aus der Bibliothek eines Konvents zu kopieren, dem er nicht angehört. Hospitalität wird in der Regel gegen eine Zahlung oder Dienstleistung gewährt.
 
 #### Der Verkauf hermetischer Bücher
 
@@ -16390,7 +16392,7 @@ Hat ein Charakter zwei Reputationen, sollte der Spielleiter für beide würfeln,
 
 ## Mysterieneinweihung
 
-Der Einweihungsprozess in ein Mysterium wird in *The Mysteries Revised Edition* ausführlich behandelt; hier folgt eine Zusammenfassung der Regelmechanik.
+Der Einweihungsprozess in ein Mysterium wird in *Die Mysterien (Überarbeitete Ausgabe)* ausführlich behandelt; hier folgt eine Zusammenfassung der Regelmechanik.
 
 Alle exoterischen (d. h. Haus-)Mysterien werden durch eine eigene (Haus-)Kunde geregelt: Es gibt also eine Haus-Bjornaer-Kunde, eine Haus-Criamon-Kunde, eine Haus-Merinita-Kunde und eine Haus-Verditius-Kunde. Einzuweihende, die nicht bei einem Mitglied des Hauses in die Lehre gegangen sind, benötigen mindestens (Haus-)Kunde 1; der Mystagoge eines Einzuweihenden muss dieselbe Kunde ebenfalls beherrschen und benötigt in der Regel einen hohen Wert, damit die Einweihung gelingt. Um dem Einzuweihenden eine neue Mysterientugend zu verleihen, errechnet der Mystagoge eine Einweihungssumme, die über Erfolg oder Misserfolg der Einweihung entscheidet.
 
@@ -16424,20 +16426,20 @@ Erreicht die Einweihungssumme des Mystagogen den Zielwert nicht, kann er das Skr
 
 ### Das Einweihungsskript
 
-Ein Einweihungsskript ist ein schriftlicher Text (ähnlich einem Labortext), der eine erfolgreiche Einweihung und das dabei befolgte Vorgehen beschreibt: die Gesänge und Methoden, die Orte und Zeiten sowie etwaige Opfer. Wird dieses Skript genau befolgt, gewährt es seinen Bonus zur Einweihungssumme. Skripte beschreiben in der Regel den Preis der Einweihung. Dieser Preis kann eine **Einweihungsordalie** sein – der Erwerb eines Großen oder Kleinen Fehlers, der Verlust einer Großen oder Kleinen Tugend oder die Verschlimmerung eines Kleinen Fehlers zu einem Großen –, eine **Einweihungssuche** (eine längere Reise verbunden mit einer Reihe von Herausforderungen) und/oder ein **Einweihungsopfer** an Zeit, Reichtum, Wissen oder Macht. Die im Kapitel zur Hermetischen Magie beschriebenen Skripte geben an, welchen Beitrag jede Komponente des Einweihungsskripts zur Einweihungssumme leistet. Weitere Einzelheiten zu Einweihungsskripten finden sich in *The Mysteries Revised Edition*, Kapitel 2: Entering the Mysteries. Dieses Kapitel enthält auch Hinweise zum gefährlichen Prozess der Entwicklung eines neuen Skripts.
+Ein Einweihungsskript ist ein schriftlicher Text (ähnlich einem Labortext), der eine erfolgreiche Einweihung und das dabei befolgte Vorgehen beschreibt: die Gesänge und Methoden, die Orte und Zeiten sowie etwaige Opfer. Wird dieses Skript genau befolgt, gewährt es seinen Bonus zur Einweihungssumme. Skripte beschreiben in der Regel den Preis der Einweihung. Dieser Preis kann eine **Einweihungsordalie** sein – der Erwerb eines Großen oder Kleinen Fehlers, der Verlust einer Großen oder Kleinen Tugend oder die Verschlimmerung eines Kleinen Fehlers zu einem Großen –, eine **Einweihungssuche** (eine längere Reise verbunden mit einer Reihe von Herausforderungen) und/oder ein **Einweihungsopfer** an Zeit, Reichtum, Wissen oder Macht. Die im Kapitel zur Hermetischen Magie beschriebenen Skripte geben an, welchen Beitrag jede Komponente des Einweihungsskripts zur Einweihungssumme leistet. Weitere Einzelheiten zu Einweihungsskripten finden sich in *Die Mysterien (Überarbeitete Ausgabe)*, Kapitel 2: Entering the Mysteries. Dieses Kapitel enthält auch Hinweise zum gefährlichen Prozess der Entwicklung eines neuen Skripts.
 
 ### Beispielhafte Elemente eines Einweihungsskripts
 
-*The Mysteries Revised Edition* enthält viele Beispiele unterschiedlicher Skriptboni; die gebräuchlichsten sind im Folgenden aufgeführt.
+*Die Mysterien (Überarbeitete Ausgabe)* enthält viele Beispiele unterschiedlicher Skriptboni; die gebräuchlichsten sind im Folgenden aufgeführt.
 
 | Bonus    | Bedingung                                                                                              |
 | -------- | ------------------------------------------------------------------------------------------------------ |
-| +3       | Der Einzuweihende muss sich zu einer bestimmten Zeit an einem besonderen Ort befinden                  |
-| +3       | Der Einzuweihende muss eine bestimmte Suche abschließen                                                |
 | +1       | Der Einzuweihende opfert Zeit – er dient einem anderen Kultmitglied (dieser Bonus gilt nur einmal)     |
 | +1       | Der Einzuweihende opfert materielle Güter oder Reichtum (dies muss einen echten persönlichen Verlust bedeuten) |
-| +3 bis +6 | Der Einzuweihende opfert etwas von großem und symbolischem Wert (Vertrauter, Talisman, mächtiges Bereitetes Artefakt) |
+| +3       | Der Einzuweihende muss sich zu einer bestimmten Zeit an einem besonderen Ort befinden                  |
+| +3       | Der Einzuweihende muss eine bestimmte Suche abschließen                                                |
 | +3       | Der Einzuweihende erleidet eine Ordalie, die einen Kleinen Fehler zufügt oder eine Kleine Tugend entfernt |
+| +3 bis +6 | Der Einzuweihende opfert etwas von großem und symbolischem Wert (Vertrauter, Talisman, mächtiges Bereitetes Artefakt) |
 | +6       | Der Einzuweihende erleidet eine Ordalie, die einen Kleinen Fehler auf Großen Grad verschlimmert        |
 | +9       | Der Einzuweihende erleidet eine Ordalie, die einen Großen Fehler zufügt oder eine Große Tugend entfernt |
 
@@ -16578,16 +16580,16 @@ Ein Charakter unter dem Einfluss eines Langlebigkeitsrituals muss die Tabelle un
 
 | Lebensumstände                                        | Modifikator |
 | ----------------------------------------------------- | -------- |
-| Wohlhabend oder gesunder Aufenthaltsort               | +2       |
-| Typischer Sommer- oder Herbst-Konvent (Magus)         | +2       |
-| Typischer Sommer- oder Herbst-Konvent (Sterblicher)   | +1       |
-| Typischer Frühlings- oder Winter-Konvent (Magus)      | +1       |
-| Durchschnittlicher Bauer                              | 0        |
-| Leben in einer Leprakolonie*                          | -1       |
-| Arbeit in einem Gewerbe mit schlechter Luft*          | -1       |
 | Arbeit in einem Bergwerk*                             | -1       |
+| Arbeit in einem Gewerbe mit schlechter Luft*          | -1       |
 | Arm oder ungesunder Aufenthaltsort; typische Stadt*   | -2       |
 | Aussätziger*                                          | -2       |
+| Durchschnittlicher Bauer                              | 0        |
+| Leben in einer Leprakolonie*                          | -1       |
+| Typischer Frühlings- oder Winter-Konvent (Magus)      | +1       |
+| Typischer Sommer- oder Herbst-Konvent (Magus)         | +2       |
+| Typischer Sommer- oder Herbst-Konvent (Sterblicher)   | +1       |
+| Wohlhabend oder gesunder Aufenthaltsort               | +2       |
 
 \* Mit einem Sternchen gekennzeichnete Modifikatoren sind kumulativ miteinander.
 
@@ -16701,14 +16703,14 @@ Eine Kampfrunde dauert etwa sechs Sekunden, sodass ein Zauber mit der Dauer Durc
 
 | Größe       | Leicht | Mittelschwer | Schwer | Lähmend | Tot  |
 | ----------- | ------ | ------------ | ------ | ------- | ---- |
-| −4 oder weniger | 1  | 2            | 3      | 4       | 5+   |
-| −3          | 1–2    | 3–4          | 5–6    | 7–8     | 9+   |
-| −2          | 1–3    | 4–6          | 7–9    | 10–12   | 13+  |
-| −1          | 1–4    | 5–8          | 9–12   | 13–16   | 17+  |
 | 0           | 1–5    | 6–10         | 11–15  | 16–20   | 21+  |
+| −1          | 1–4    | 5–8          | 9–12   | 13–16   | 17+  |
 | +1          | 1–6    | 7–12         | 13–18  | 19–24   | 25+  |
+| −2          | 1–3    | 4–6          | 7–9    | 10–12   | 13+  |
 | +2          | 1–7    | 8–14         | 15–21  | 22–28   | 29+  |
+| −3          | 1–2    | 3–4          | 5–6    | 7–8     | 9+   |
 | +3          | 1–8    | 9–16         | 17–24  | 25–32   | 33+  |
+| −4 oder weniger | 1  | 2            | 3      | 4       | 5+   |
 
 Jede weitere Erhöhung der Größe um +1 fügt jedem Wundbereich +1 hinzu. Für je 5 Punkte (zuzüglich der Größe), um die die Schadenssumme die Absorption übersteigt, erhöht sich die Wundstufe um eine Stufe.
 
@@ -16858,10 +16860,10 @@ Ein Charakter muss die Fertigkeit Raufen einsetzen, um zu ringen, und muss freie
 
 | Wundstufe      | Auswirkung                                      |
 | -------------- | ----------------------------------------------- |
+| Lähmend        | 3 Erschöpfungsstufen und eine Leichte Wunde     |
 | Leicht         | 1 Erschöpfungsstufe                             |
 | Mittelschwer   | 2 Erschöpfungsstufen                            |
 | Schwer         | 2 Erschöpfungsstufen und eine Leichte Wunde     |
-| Lähmend        | 3 Erschöpfungsstufen und eine Leichte Wunde     |
 | Tot            | 5 Erschöpfungsstufen und eine Mittelschwere Wunde |
 
 #### Sondermanöver
@@ -16940,11 +16942,11 @@ Teilrüstungen schützen lediglich die lebenswichtigen Körperzonen und bestehen
 | <br>Material              | Teilrüstung<br>Schutz | <br>Last | Vollrüstung<br>Schutz | <br>Last | <br>Kosten |
 | ------------------------- | --------------------- | -------- | --------------------- | -------- | ---------- |
 | Gesteppt/Fell             | 1                     | 2        | n/v                   | n/v      | Günstig    |
-| Schweres Leder            | 2                     | 3        | n/v                   | n/v      | Günstig    |
-| Metallverstärktes Leder   | 2                     | 2        | 4                     | 4        | Standard   |
+| Kettenhemd                | 6                     | 4        | 9                     | 6        | Teuer      |
 | Lederschuppen             | 3                     | 3        | 5                     | 5        | Standard   |
 | Metallschuppen            | 4                     | 4        | 7                     | 7        | Standard   |
-| Kettenhemd                | 6                     | 4        | 9                     | 6        | Teuer      |
+| Metallverstärktes Leder   | 2                     | 2        | 4                     | 4        | Standard   |
+| Schweres Leder            | 2                     | 3        | n/v                   | n/v      | Günstig    |
 
 **Schutz:** Der Bonus, den die Rüstung auf den Absorptionswert des Charakters gewährt.<br>
 **Last:** Der Beitrag der Rüstung zur Beladung des Charakters.<br>
@@ -16954,34 +16956,34 @@ Teilrüstungen schützen lediglich die lebenswichtigen Körperzonen und bestehen
 
 |                   | Fertigkeit  | Init | Atk | Dfn | Dam | Stä | Last | Kosten   |
 | ----------------- | ----------- | ---- | --- | --- | --- | --- | ---- | -------- |
+| Ackergerät        | Große Waffe | +1   | +3  | +1  | +5  | 0   | 2    | Günstig  |
 | Ausweichen        | Raufen      | 0    | n/v | 0   | n/v | n/v | 0    | n/v      |
-| Faust             | Raufen      | 0    | 0   | 0   | 0   | n/v | 0    | n/v      |
-| Tritt             | Raufen      | -1   | 0   | -1  | +3  | n/v | 0    | n/v      |
-| Panzerhandschuh   | Raufen      | 0    | 0   | +1  | +2  | -3  | 0    | Günstig  |
-| Knüppel\*         | Raufen      | 0    | +2  | 0   | +2  | -2  | 1    | Günstig  |
-| Dolch             | Raufen      | 0    | +2  | 0   | +3  | -3  | 0    | Günstig  |
-| Messer            | Raufen      | 0    | +1  | 0   | +2  | -6  | 0    | Günstig  |
 | Axt               | Einzelwaffe | +1   | +4  | 0   | +6  | 0   | 1    | Standard |
-| Keule             | Einzelwaffe | +1   | +2  | +1  | +3  | -2  | 1    | Günstig  |
 | Beil              | Einzelwaffe | 0    | +3  | 0   | +4  | -2  | 1    | Günstig  |
-| Lanze             | Einzelwaffe | +2   | +4  | 0   | +5  | 0   | 2    | Standard |
-| Streitkolben\*\*  | Einzelwaffe | +1   | +3  | 0   | +8  | 0   | 2    | Standard |
+| Dolch             | Raufen      | 0    | +2  | 0   | +3  | -3  | 0    | Günstig  |
+| Dreschflegel      | Große Waffe | +1   | +3  | +1  | +8  | 0   | 2    | Günstig  |
+| Faust             | Raufen      | 0    | 0   | 0   | 0   | n/v | 0    | n/v      |
 | Flegel            | Einzelwaffe | +2   | +3  | 0   | +7  | 0   | 2    | Standard |
-| Speer, kurz       | Einzelwaffe | +2   | +2  | 0   | +5  | -1  | 1    | Günstig  |
-| Schwert, kurz     | Einzelwaffe | +1   | +3  | +1  | +5  | -1  | 1    | Standard |
-| Schwert, lang     | Einzelwaffe | +2   | +4  | +1  | +6  | 0   | 1    | Teuer    |
+| Großschwert       | Große Waffe | +2   | +5  | +2  | +9  | +1  | 2    | Teuer    |
+| Keule             | Einzelwaffe | +1   | +2  | +1  | +3  | -2  | 1    | Günstig  |
+| Knüppel\*         | Raufen      | 0    | +2  | 0   | +2  | -2  | 1    | Günstig  |
+| Kriegshammer      | Große Waffe | 0    | +6  | 0   | +12 | +2  | 3    | Standard |
+| Lanze             | Einzelwaffe | +2   | +4  | 0   | +5  | 0   | 2    | Standard |
+| Messer            | Raufen      | 0    | +1  | 0   | +2  | -6  | 0    | Günstig  |
+| Panzerhandschuh   | Raufen      | 0    | 0   | +1  | +2  | -3  | 0    | Günstig  |
+| Prügel            | Große Waffe | +1   | +4  | +1  | +7  | +1  | 2    | Günstig  |
+| Schild, Dreieck   | Einzelwaffe | 0    | 0   | +3  | 0   | 0   | 2    | Standard |
 | Schild, Faustschild | Einzelwaffe | 0  | 0   | +1  | 0   | -2  | 1    | Standard |
 | Schild, Rundschild | Einzelwaffe | 0   | 0   | +2  | 0   | -1  | 2    | Günstig  |
-| Schild, Dreieck   | Einzelwaffe | 0    | 0   | +3  | 0   | 0   | 2    | Standard |
-| Prügel            | Große Waffe | +1   | +4  | +1  | +7  | +1  | 2    | Günstig  |
-| Ackergerät        | Große Waffe | +1   | +3  | +1  | +5  | 0   | 2    | Günstig  |
-| Dreschflegel      | Große Waffe | +1   | +3  | +1  | +8  | 0   | 2    | Günstig  |
+| Schwert, kurz     | Einzelwaffe | +1   | +3  | +1  | +5  | -1  | 1    | Standard |
+| Schwert, lang     | Einzelwaffe | +2   | +4  | +1  | +6  | 0   | 1    | Teuer    |
+| Speer, kurz       | Einzelwaffe | +2   | +2  | 0   | +5  | -1  | 1    | Günstig  |
+| Speer, lang\*\*\* | Große Waffe | +3   | +3  | +1  | +7  | 0   | 3    | Günstig  |
+| Stab              | Große Waffe | +2   | +3  | +3  | +2  | -1  | 2    | Günstig  |
 | Stangenwaffe      | Große Waffe | +3   | +4  | +1  | +8  | 0   | 2    | Standard |
 | Streitaxt         | Große Waffe | +1   | +5  | 0   | +11 | +1  | 2    | Standard |
-| Speer, lang\*\*\* | Große Waffe | +3   | +3  | +1  | +7  | 0   | 3    | Günstig  |
-| Großschwert       | Große Waffe | +2   | +5  | +2  | +9  | +1  | 2    | Teuer    |
-| Stab              | Große Waffe | +2   | +3  | +3  | +2  | -1  | 2    | Günstig  |
-| Kriegshammer      | Große Waffe | 0    | +6  | 0   | +12 | +2  | 3    | Standard |
+| Streitkolben\*\*  | Einzelwaffe | +1   | +3  | 0   | +8  | 0   | 2    | Standard |
+| Tritt             | Raufen      | -1   | 0   | -1  | +3  | n/v | 0    | n/v      |
 
 \* Jede improvisierte Schlagwaffe, etwa ein Stein oder ein Werkzeug<br>
 \*\* Umfasst Stachelkeulen, Kriegshämmer und andere Schlagwaffen<br>
@@ -17000,13 +17002,13 @@ Teilrüstungen schützen lediglich die lebenswichtigen Körperzonen und bestehen
 
 | Waffe              | Fertigkeit | Init | Atk | Dfn | Dam | Reichweite | Stä | Last | Kosten   |
 | ------------------ | ---------- | ---- | --- | --- | --- | ---------- | --- | ---- | -------- |
-| Wurfaxt            | Wurfwaffe  | 0    | +2  | 0   | +6  | 5          | 0   | 1    | Standard |
-| Wurfspeer          | Wurfwaffe  | 0    | +2  | 0   | +5  | 10         | 0   | 1    | Standard |
+| Kurzbogen\*        | Bogenschießen | -1 | +3  | 0   | +6  | 15         | -1  | 2    | Standard |
+| Langbogen\*        | Bogenschießen | -2 | +4  | 0   | +8  | 30         | +2  | 2    | Teuer    |
 | Messer             | Wurfwaffe  | 0    | +1  | 0   | +2  | 5          | -2  | 0    | Günstig  |
 | Schleuder\*        | Wurfwaffe  | -3   | +1  | 0   | +4  | 20         | -3  | 0    | Günstig  |
 | Stein              | Wurfwaffe  | 0    | +1  | 0   | +2  | 5          | -1  | 1    | Günstig  |
-| Langbogen\*        | Bogenschießen | -2 | +4  | 0   | +8  | 30         | +2  | 2    | Teuer    |
-| Kurzbogen\*        | Bogenschießen | -1 | +3  | 0   | +6  | 15         | -1  | 2    | Standard |
+| Wurfaxt            | Wurfwaffe  | 0    | +2  | 0   | +6  | 5          | 0   | 1    | Standard |
+| Wurfspeer          | Wurfwaffe  | 0    | +2  | 0   | +5  | 10         | 0   | 1    | Standard |
 
 \* Zum Laden und Abfeuern sind beide Hände frei erforderlich.
 
@@ -17147,10 +17149,10 @@ Hat ein Charakter sowohl Lang- als auch Kurzzeiterschöpfungsstufen verloren, ge
 | Erschöpfungsstufe | Zeit bis zur Erholung auf die nächste niedrigere Stufe          |
 | ----------------- | --------------------------------------------------------------- |
 | Außer Atem        | 2 Minuten                                                       |
-| Erschöpft         | 10 Minuten                                                      |
-| Müde              | 30 Minuten                                                      |
 | Betäubt           | 60 Minuten                                                      |
 | Bewusstlos        | 2 Stunden + 1 Stunde für jede zusätzliche Erschöpfungsstufe.   |
+| Erschöpft         | 10 Minuten                                                      |
+| Müde              | 30 Minuten                                                      |
 
 ## Wunden
 
@@ -17166,14 +17168,14 @@ Es gibt keine Obergrenze für den Wundabzug eines Charakters. Nicht-tödliche Wu
 
 | Größe      | Leicht | Mittelschwer | Schwer | Lähmend | Tot  |
 | ---------- | ------ | ------------ | ------ | ------- | ---- |
-| –4 oder weniger | 1 | 2           | 3      | 4       | 5+   |
-| –3         | 1–2    | 3–4          | 5–6    | 7–8     | 9+   |
-| –2         | 1–3    | 4–6          | 7–9    | 10–12   | 13+  |
-| –1         | 1–4    | 5–8          | 9–12   | 13–16   | 17+  |
 | 0          | 1–5    | 6–10         | 11–15  | 16–20   | 21+  |
+| –1         | 1–4    | 5–8          | 9–12   | 13–16   | 17+  |
 | +1         | 1–6    | 7–12         | 13–18  | 19–24   | 25+  |
+| –2         | 1–3    | 4–6          | 7–9    | 10–12   | 13+  |
 | +2         | 1–7    | 8–14         | 15–21  | 22–28   | 29+  |
+| –3         | 1–2    | 3–4          | 5–6    | 7–8     | 9+   |
 | +3         | 1–8    | 9–16         | 17–24  | 25–32   | 33+  |
+| –4 oder weniger | 1 | 2           | 3      | 4       | 5+   |
 
 Für jeden weiteren Größenpunkt von +1 erhöht sich jeder Wundbereich um +1. Für je (5 + Größe) Punkte, um die die Schadenssumme die Absorption übersteigt, steigt die Wundstufe um einen Grad.
 
@@ -17181,10 +17183,10 @@ Für jeden weiteren Größenpunkt von +1 erhöht sich jeder Wundbereich um +1. F
 
 | Erlittene Wunde | Abzug pro Wunde |
 | --------------- | --------------- |
+| Lähmend         | *               |
 | Leicht          | –1              |
 | Mittelschwer    | –3              |
 | Schwer          | –5              |
-| Lähmend         | *               |
 
 \*Der Charakter kann keinerlei Aktionen ausführen.
 
@@ -17212,10 +17214,10 @@ Genesungswürfe unterliegen nicht dem Wundabzug.
 
 | Wundstufe    | Intervall   | Stabilitäts-Schwierigkeitsgrad | Verbesserungs-Schwierigkeitsgrad |
 | ------------ | ----------- | ------------------------------ | -------------------------------- |
+| Lähmend      | Siehe unten | —                              | —                                |
 | Leicht       | Eine Woche  | 4                              | 10                               |
 | Mittelschwer | Ein Monat   | 6                              | 12                               |
 | Schwer       | Ein Quartal | 9                              | 15                               |
-| Lähmend      | Siehe unten | —                              | —                                |
 
 Charaktere erholen sich von allen Wunden gleichzeitig. Ein Charakter mit drei Leichten und einer Mittelschweren Wunde würde daher jede Woche drei Genesungswürfe ablegen, bis die Leichten Wunden heilen, und einmal monatlich, bis die Mittelschwere Wunde zu einer Leichten Wunde wird — ab diesem Zeitpunkt würde er für diese Wunde ebenfalls wöchentliche Würfe ablegen.
 
@@ -17229,7 +17231,7 @@ Diese Würfe sind reguläre Genesungswürfe; Magie, die normale Genesungswürfe 
 
 Wie oben beschrieben, kann die Heilung eines Charakters durch medizinische Behandlung unterstützt werden. Die passende Art der Behandlung hängt von der Ursache der Wunden ab: Kampfwunden und ähnliche Verletzungen erfordern Chirurgie, Krankheiten und Vergiftungen hingegen Medizin. Für eine bestimmte Wunde kann jeweils nur eine Fertigkeit helfen. Der Spieler des behandelnden Arztes muss keine Würfe ablegen.
 
-Weitere Einzelheiten zur Medizin finden sich in *Art and Academe*, Kapitel 4.
+Weitere Einzelheiten zur Medizin finden sich in *Kunst & Gelehrsamkeit*, Kapitel 4.
 
 #### Heilzauber
 
@@ -17257,20 +17259,20 @@ Da den meisten Menschen kein Zugang zu ärztlicher Versorgung bleibt, wird eine 
 
 Der Schwierigkeitsgrad und die Wundart einer Krankheit können variieren, da Krankheiten in unterschiedlicher Stärke auftreten.
 
-Ausführlichere Regeln zu Krankheiten sind in *Art and Academe*, Seiten 45–51, zu finden.
+Ausführlichere Regeln zu Krankheiten sind in *Kunst & Gelehrsamkeit*, Seiten 45–51, zu finden.
 
 #### Krankheitstabelle
 
 | Krankheit           | Überschuss-Saft | Symptome                                                                       |
 | ------------------- | --------------- | ------------------------------------------------------------------------------ |
-| Quotidianfieber     | Blut            | Hohes Fieber, rote Verfärbung, anhaltendes Fieber.                             |
 | Fluss               | Schleim         | Frösteln, Durchfall, laufende Nase, feuchter Husten.                           |
-| Stockung            | Schwarze Galle  | Frösteln, dunkle Verfärbung, trockener Husten, Verstopfung.                    |
 | Quartanfieber       | Gelbe Galle     | Hohes Fieber, gelbliche Verfärbung, trockener Husten, Fieber in Viertagesschüben. |
+| Quotidianfieber     | Blut            | Hohes Fieber, rote Verfärbung, anhaltendes Fieber.                             |
+| Stockung            | Schwarze Galle  | Frösteln, dunkle Verfärbung, trockener Husten, Verstopfung.                    |
 
 #### Gifte
 
-Gifte treten in vielen Formen auf — aus Pflanzen, Tieren und Mineralien gewonnen. Der Schwierigkeitsgrad für den anfänglichen Ausdauerwurf beträgt mindestens 3, da schwächere Stoffe nicht als Gifte gelten; er kann bis zu 15 betragen. Gifte können von Beginn an tödliche Wunden zufügen. Für die Genesungsregeln und die Einzelheiten der Genesungswürfe werden Gifte wie Verletzungen behandelt. Weitere Informationen zu Giften finden sich ebenfalls in *Art and Academe*, insbesondere auf den Seiten 64–65.
+Gifte treten in vielen Formen auf — aus Pflanzen, Tieren und Mineralien gewonnen. Der Schwierigkeitsgrad für den anfänglichen Ausdauerwurf beträgt mindestens 3, da schwächere Stoffe nicht als Gifte gelten; er kann bis zu 15 betragen. Gifte können von Beginn an tödliche Wunden zufügen. Für die Genesungsregeln und die Einzelheiten der Genesungswürfe werden Gifte wie Verletzungen behandelt. Weitere Informationen zu Giften finden sich ebenfalls in *Kunst & Gelehrsamkeit*, insbesondere auf den Seiten 64–65.
 
 #### Gifttabelle
 
@@ -17292,8 +17294,8 @@ Erschöpfungsstufen, die durch Nahrungs- oder Wasserentzug verloren wurden, sind
 | Art der Entbehrung | Zeitraum      |
 | ------------------ | ------------- |
 | Luft               | 30 Sekunden   |
-| Wasser             | 1 Tag         |
 | Nahrung            | 3 Tage        |
+| Wasser             | 1 Tag         |
 
 ### Verletzungen
 
@@ -17317,14 +17319,14 @@ Der Schaden wird einmal alle sechs Sekunden zugefügt (einmal pro Kampfrunde), u
 
 | Quelle        | Intensität |
 | ------------- | ---------- |
-| Holzfeuer     | +5         |
-| Kochendes Wasser | +3      |
-| Siedendes Öl  | +6         |
+| Branntkalk    | +6         |
+| Eis           | +1         |
 | Flüssiges Blei | +9        |
 | Flüssiges Eisen | +12      |
-| Eis           | +1         |
+| Holzfeuer     | +5         |
+| Kochendes Wasser | +3      |
 | Lauge         | +3         |
-| Branntkalk    | +6         |
+| Siedendes Öl  | +6         |
 | Vitriol       | +9         |
 
 ### Aufprall
@@ -17335,15 +17337,15 @@ Charaktere können auch durch Stürze oder durch herabfallende Gegenstände Scha
 
 | Art des Aufpralls                      | Schaden                                                                                          |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| Sturz                                  | +1 pro zwei Fuß Fallhöhe, doppelt auf hartem Untergrund, halbiert auf weichem Untergrund.        |
-| Krug, aus dem zweiten Stockwerk gefallen | +6                                                                                             |
-| Im Inneren eines einstürzenden Holzhauses | +15                                                                                          |
 | Ausgewachsener Baum, der auf den Charakter fällt | +18                                                                                 |
+| Im Inneren eines einstürzenden Holzhauses | +15                                                                                          |
 | Im Inneren eines einstürzenden Steingebäudes | +21                                                                                      |
+| Krug, aus dem zweiten Stockwerk gefallen | +6                                                                                             |
+| Sturz                                  | +1 pro zwei Fuß Fallhöhe, doppelt auf hartem Untergrund, halbiert auf weichem Untergrund.        |
 
 ## Reisen
 
-Die Reisezeit zwischen wichtigen Szenen wird in der Regel zügig abgehandelt. Wenn auf dem Weg nichts Erwähnenswertes geschieht, sollte man keine Zeit damit verschwenden, jeden Augenblick der Reise im Detail auszuspielen. Reisezeiten sind äußerst variabel — sie hängen von Wetter, Räubern, übereifrigen Zöllnern und dem Zustand der Straße ab. Die folgenden Angaben sind daher lediglich Richtwerte; ausführlichere Informationen finden sich in *City and Guild*, Kapitel 5.
+Die Reisezeit zwischen wichtigen Szenen wird in der Regel zügig abgehandelt. Wenn auf dem Weg nichts Erwähnenswertes geschieht, sollte man keine Zeit damit verschwenden, jeden Augenblick der Reise im Detail auszuspielen. Reisezeiten sind äußerst variabel — sie hängen von Wetter, Räubern, übereifrigen Zöllnern und dem Zustand der Straße ab. Die folgenden Angaben sind daher lediglich Richtwerte; ausführlichere Informationen finden sich in *Stadt & Gilde*, Kapitel 5.
 
 Bauern konnten damit rechnen, sieben Meilen zu Fuß zurückzulegen, auf dem Markt ihre Geschäfte zu erledigen und abends wieder daheim zu schlafen. Wer nur reisen musste, hätte zwanzig Meilen am Tag zurücklegen können, ohne dass dies ungewöhnlich gewesen wäre. Ein berittener Bote konnte mit gewöhnlichen Botschaften, etwa Bekanntmachungen von Gesetzen, rund dreißig Meilen am Tag zurücklegen, bei dringenden Nachrichten bis zu fünfzig Meilen. Die wichtigste Begrenzung für den Boten war das Bedürfnis, das Pferd ausruhen zu lassen. Mit Zugang zu vielen guten Pferden waren Tagesleistungen von bis zu hundert Meilen möglich, doch blieb dem Reisenden dann keine Zeit zur Rast.
 
@@ -17401,10 +17403,10 @@ Auren erhöhen auch die Anzahl der Patzerwürfel für eine übernatürliche Hand
 
 | Aura      | Magische Kraft    | Göttliche Kraft  | Feenkraft         | Infernale Kraft   |
 | --------- | ----------------- | ---------------- | ----------------- | ----------------- |
-| Magie     | + Aura            | kein Effekt      | + (1/2 Aura)      | – Aura            |
-| Göttlich  | – (3 × Aura)      | + Aura           | – (4 × Aura)      | – (5 × Aura)      |
 | Fee       | + (1/2 Aura)      | kein Effekt      | + Aura            | – Aura            |
+| Göttlich  | – (3 × Aura)      | + Aura           | – (4 × Aura)      | – (5 × Aura)      |
 | Infernal  | – Aura            | kein Effekt      | – (2 × Aura)      | + Aura            |
+| Magie     | + Aura            | kein Effekt      | + (1/2 Aura)      | – Aura            |
 
 Als Beispiel: Ein Magus, der auch eine feenbasierte Kraft zur Erschaffung von Illusionen und eine dämonische Gabe zur Verbreitung von Krankheiten besitzt. Seine hermetischen Zauber beruhen auf Magie, seine Illusionen auf der Fee und seine Krankheitskraft auf dem Infernalen. In einer Stadt mit einer Dominium-Aura von 3 muss er neun von seinen hermetischen Gesamtwerten abziehen und drei zusätzliche Patzerwürfel würfeln, zwölf von seinen Feenillusionswerten mit drei zusätzlichen Patzerwürfeln und fünfzehn von seinen infernalen Krankheitswerten – ebenfalls mit drei zusätzlichen Patzerwürfeln. Wechselt er in einen Wald mit einer Feenaura von 4, addiert er zwei zu seinen hermetischen Gesamtwerten, würfelt jedoch vier zusätzliche Patzerwürfel; zu seinen Feenillusionswerten addiert er vier ohne zusätzliche Patzerwürfel; von seinen infernalen Krankheitswerten zieht er vier ab, wiederum mit vier zusätzlichen Patzerwürfeln.
 
@@ -17458,7 +17460,7 @@ Mächtige Geister können Formen annehmen, die dem Menschen völlig fremd sind, 
 
 Menschen, die in die Magiesphäre transformiert wurden und zu einem Teil von ihr geworden sind, sind selten, bilden aber eine bedeutende Gruppe unter den Bewohnern dieser Sphäre. Manche von ihnen sind Untote, wie Geister und animierte Leichname, obwohl solche Wesen ebenso häufig der Feensphäre oder der Höllensphäre angehören. Andere wirken noch immer menschlich, sind es aber nicht mehr. Wieder andere haben eine andere Gestalt angenommen. Schließlich sind manche zu mächtigen Geistern geworden. Diese Kreaturen der Magie zeigen mehr Interesse an Menschen als die meisten anderen, da sie einst selbst Menschen waren. Einige im Orden glauben, dass Hermes ursprünglich ein großer menschlicher Zauberer war, der zu einem Geist wurde und von Griechen und Römern als Gott verehrt wurde.
 
-Es ist vergleichsweise häufig, dass Menschen übernatürliche Kräfte besitzen, die aus der Magiesphäre stammen, und somit dieser Sphäre zugeordnet sind. Hermetische Magi sind das offensichtlichste Beispiel, aber *Hedge Magic Revised Edition*, *Rival Magic* sowie viele weitere Ergänzungsbände enthalten weitere Beispiele. Es gibt menschliche Gestaltwandler, die sich in Wölfe verwandeln können – die magischen unter ihnen sind der Sphäre zugeordnet, gehören ihr aber nicht an.
+Es ist vergleichsweise häufig, dass Menschen übernatürliche Kräfte besitzen, die aus der Magiesphäre stammen, und somit dieser Sphäre zugeordnet sind. Hermetische Magi sind das offensichtlichste Beispiel, aber *Heckenzauber (Überarbeitete Ausgabe)*, *Rival Magic* sowie viele weitere Ergänzungsbände enthalten weitere Beispiele. Es gibt menschliche Gestaltwandler, die sich in Wölfe verwandeln können – die magischen unter ihnen sind der Sphäre zugeordnet, gehören ihr aber nicht an.
 
 ### Magische Auren
 
@@ -17640,7 +17642,7 @@ Wunder sind das direkte Eingreifen Gottes in die Welt. Als solche können sie al
 >
 > Eine Exkommunikation hebt diese Vorteile auf (jedoch nur, wenn die Exkommunikation Gottes Wille ist). Die hier Genannten besitzen zudem eine Aura Rechtmäßiger Autorität mit Penetration 0, die sich bis zur Stimmweite erstreckt. Vereinfacht gesagt ist ein *Legatus a latere* ein Geistlicher, der vom Papst bevollmächtigt ist, in dessen Namen zu handeln. Ein *Legatus missus* hat dieselbe Vollmacht, jedoch nur für einen einzigen bestimmten Zweck.
 >
-> Weitere Einzelheiten finden sich in *The Church*, Seite 31.
+> Weitere Einzelheiten finden sich in *Die Kirche*, Seite 31.
 >
 > - Papst 25
 > - Kardinal oder Legatus a latere 20
@@ -17830,28 +17832,28 @@ Jede Größenkategorie ist ungefähr doppelt so schwer wie die vorherige. Ein Un
 
 | Größe | Körpergröße   | Gewicht          | Beispiele                                                                              |
 | ----- | ------------- | ---------------- | -------------------------------------------------------------------------------------- |
-| –15   | 2,5 cm und kl.| unter 30 g       | Insekt                                                                                 |
-| –10   | 10–13 cm      | ca. 30 g         | Elritze, Maus                                                                          |
-| –9    | 15–18 cm      | ca. 45 g         | Fledermaus, Frosch                                                                     |
-| –8    | 20–23 cm      | 110–225 g        | Maulwurf, Salamander, Kröte                                                            |
-| –7    | 25–28 cm      | 225–450 g        | Ratte, Wiesel                                                                          |
-| –6    | 30–33 cm      | 450 g–1 kg       | Eidechse, Hermelin, Drossel                                                            |
-| –5    | 35–38 cm      | 1–2,5 kg         | Kuckuck, Taube, Aal, Iltis, Ringelnatter, Igel, Rebhuhn, Kaninchen                    |
-| –4    | 40–50 cm      | 2,5–5 kg         | Kreuzotter, Hahn, Krähe, Elster, Oktopus, Eule, Rabe                                  |
-| –3    | 53–80 cm      | 5–10 kg          | Dachs, Karpfen, Katze, Ente, Falke, Möwe, Hase, Säugling, Fischadler, Otter, Hecht   |
-| –2    | 85 cm–1,15 m  | 10–21 kg         | Biber, Hund, Adler, Fuchs, Gans, Birkhuhn, Reiher, Kind, Reh, Lachs                  |
-| –1    | 1,15–1,45 m   | 21–45 kg         | Heranwachsender, Affe, Kranich, Gazelle, Luchs, Schaf, Storch, Schwan, Ziege, Wolf   |
 | 0     | 1,45–1,90 m   | 45–100 kg        | Erwachsener Mensch, Antilope, Wildschwein, Hirschkuh, Delfin, Schwein                 |
+| –1    | 1,15–1,45 m   | 21–45 kg         | Heranwachsender, Affe, Kranich, Gazelle, Luchs, Schaf, Storch, Schwan, Ziege, Wolf   |
 | +1    | 1,90–2,45 m   | 100–210 kg       | Damhirsch, Steinbock, Pony, Robbe                                                      |
-| +2    | 2,45–3,05 m   | 210–450 kg       | Bär, Pferd, Löwe, Rothirsch                                                            |
-| +3    | 3,05–4,00 m   | 450 kg–1 t       | Auerochse, Elch, Hai, Walross, Schlachtross                                            |
-| +4    | 4,00–5,20 m   | 1–2,1 t          | Elefant                                                                                |
-| +5    | 5,20–6,70 m   | 2,3–4,5 t        | Schwertwal                                                                             |
-| +6    | 6,70–8,55 m   | 4,5–9,5 t        | —                                                                                      |
-| +7    | 8,55–11,30 m  | 9,5–21 t         | Kleiner Drache                                                                         |
-| +8    | 11,30–14,35 m | 21–45 t          | —                                                                                      |
-| +9    | 14,35–18,60 m | 45–97 t          | Buckelwal                                                                              |
+| –10   | 10–13 cm      | ca. 30 g         | Elritze, Maus                                                                          |
 | +10   | 18,60–24,10 m | 97–210 t         | —                                                                                      |
+| –15   | 2,5 cm und kl.| unter 30 g       | Insekt                                                                                 |
+| –2    | 85 cm–1,15 m  | 10–21 kg         | Biber, Hund, Adler, Fuchs, Gans, Birkhuhn, Reiher, Kind, Reh, Lachs                  |
+| +2    | 2,45–3,05 m   | 210–450 kg       | Bär, Pferd, Löwe, Rothirsch                                                            |
+| –3    | 53–80 cm      | 5–10 kg          | Dachs, Karpfen, Katze, Ente, Falke, Möwe, Hase, Säugling, Fischadler, Otter, Hecht   |
+| +3    | 3,05–4,00 m   | 450 kg–1 t       | Auerochse, Elch, Hai, Walross, Schlachtross                                            |
+| –4    | 40–50 cm      | 2,5–5 kg         | Kreuzotter, Hahn, Krähe, Elster, Oktopus, Eule, Rabe                                  |
+| +4    | 4,00–5,20 m   | 1–2,1 t          | Elefant                                                                                |
+| –5    | 35–38 cm      | 1–2,5 kg         | Kuckuck, Taube, Aal, Iltis, Ringelnatter, Igel, Rebhuhn, Kaninchen                    |
+| +5    | 5,20–6,70 m   | 2,3–4,5 t        | Schwertwal                                                                             |
+| –6    | 30–33 cm      | 450 g–1 kg       | Eidechse, Hermelin, Drossel                                                            |
+| +6    | 6,70–8,55 m   | 4,5–9,5 t        | —                                                                                      |
+| –7    | 25–28 cm      | 225–450 g        | Ratte, Wiesel                                                                          |
+| +7    | 8,55–11,30 m  | 9,5–21 t         | Kleiner Drache                                                                         |
+| –8    | 20–23 cm      | 110–225 g        | Maulwurf, Salamander, Kröte                                                            |
+| +8    | 11,30–14,35 m | 21–45 t          | —                                                                                      |
+| –9    | 15–18 cm      | ca. 45 g         | Fledermaus, Frosch                                                                     |
+| +9    | 14,35–18,60 m | 45–97 t          | Buckelwal                                                                              |
 
 ## Kreaturen erschaffen
 
@@ -18390,10 +18392,10 @@ Eine Kreatur kann die kleine Tugend Verbesserte Eigenschaften ein- oder mehrmals
 
 | Typ           | Sch | Wah | Prä | Kom |
 | ------------- | --- | --- | --- | --- |
-| Klauenwesen   | 0   | 0   | -2  | -5  |
-| Huftier       | -2  | 0   | -4  | -5  |
-| Vogel         | -1  | +2  | -1  | -2  |
 | Fisch         | -3  | -2  | -5  | -6  |
+| Huftier       | -2  | 0   | -4  | -5  |
+| Klauenwesen   | 0   | 0   | -2  | -5  |
+| Vogel         | -1  | +2  | -1  | -2  |
 
 #### Beispiele für körperliche Eigenschaften von Kreaturen
 
@@ -18435,10 +18437,10 @@ Alle Kreaturen verfügen über folgende Fertigkeiten:
 
 | Typ           | Fertigkeiten                                                                                               |
 | ------------- | ---------------------------------------------------------------------------------------------------------- |
-| Klauenwesen   | Aufmerksamkeit 3 (Nahrung), Athletik 3 (Laufen), Raufen 3 (Biss oder Klaue), Überleben 3 (heimisches Terrain) |
-| Huftier       | Aufmerksamkeit 3 (Raubtiere), Athletik 4 (Laufen), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain)     |
-| Vogel         | Aufmerksamkeit 4 (Nahrung), Athletik 3 (Fliegen), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain)      |
 | Fisch         | Aufmerksamkeit 2 (Nahrung), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain), Schwimmen 5 (heimisches Terrain) |
+| Huftier       | Aufmerksamkeit 3 (Raubtiere), Athletik 4 (Laufen), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain)     |
+| Klauenwesen   | Aufmerksamkeit 3 (Nahrung), Athletik 3 (Laufen), Raufen 3 (Biss oder Klaue), Überleben 3 (heimisches Terrain) |
+| Vogel         | Aufmerksamkeit 4 (Nahrung), Athletik 3 (Fliegen), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain)      |
 
 Eigenschaften (siehe unten) können dieser Liste weitere Fertigkeiten hinzufügen. Tiere (zumindest solche mit Schlauheit statt Intelligenz) können keine Erfahrungspunkte sammeln, um ihre Fertigkeiten nach dem Erwachsenwerden zu verbessern, noch können sie neue Fertigkeiten erlernen. Allerdings kann ein intelligentes Wesen einem gezähmten Tier Unterrichtserfahrungspunkte geben, indem es Tierumgang statt Unterrichten verwendet; diese Punkte können auf vorhandene Fertigkeiten oder denkbare neue Fertigkeiten angewendet werden.
 
@@ -18556,16 +18558,16 @@ Die Kreatur ist nun fertig!
 
 | Angriff              | Ini | Ang | Vert | Sch  |
 | -------------------- | --- | --- | ---- | ---- |
-| Greifen              | 0   | 0   | 0    | n/v |
 | Ausweichen           | 0   | n/v| 0    | n/v |
-| Zähne                | 0   | +3  | +1   | +1   |
-| Große Zähne          | +0  | +4  | +1   | +3   |
-| Stoßzähne            | +0  | +4  | +2   | +5   |
-| Klaue                | -1  | +2  | +3   | +2   |
-| Große Klauen         | 0   | +5  | +3   | +4   |
-| Hörner               | +1  | +3  | -1   | +2   |
+| Greifen              | 0   | 0   | 0    | n/v |
 | Große Hörner/Geweih  | +2  | +3  | +2   | +3   |
+| Große Klauen         | 0   | +5  | +3   | +4   |
+| Große Zähne          | +0  | +4  | +1   | +3   |
+| Hörner               | +1  | +3  | -1   | +2   |
 | Hufe                 | +2  | +2  | +2   | +1   |
+| Klaue                | -1  | +2  | +3   | +2   |
+| Stoßzähne            | +0  | +4  | +2   | +5   |
+| Zähne                | 0   | +3  | +1   | +1   |
 
 Alle natürlichen Waffen verwenden die Fertigkeit Raufen. Stärke, Last und Kosten entfallen.
 
@@ -18749,9 +18751,9 @@ Ein Aspekt ist eine beständige Arkane Verbindung von unbegrenzter Dauer, die in
 
 Da Daimonen die Magiesphäre ausschließlich über Aspekte verlassen, müssen für einen Daimon nur dann Spielwerte festgelegt werden, wenn die Charaktere in die Magiesphäre reisen, um ihn zu suchen und ihm gegenüberzutreten. Werden diese Werte benötigt, verfügt ein Daimon über alle Kräfte, die einer seiner Aspekte besitzt, und möglicherweise über weitere; sein Machtwert ist mindestens so hoch wie der höchste Machtwert eines seiner Aspekte. Der Machtwert kann höher liegen, sollte aber 100 nicht überschreiten. Als Richtwert gilt: Der Daimon selbst sollte einen Machtwert von mindestens 50 haben, auch wenn seine Aspekte Machtwerte von 10 oder 15 aufweisen. Theoretisch könnte ein Daimon nur über einen einzigen Aspekt verfügen und genau dieselben Werte wie dieser Aspekt besitzen; er wäre dennoch grundlegend verschieden von einem einfachen magischen Geist mit denselben Werten, denn der Daimon kann mehrere Aspekte gleichzeitig erscheinen lassen.
 
-Hermetische Magi verstehen Daimonen nicht besonders gut, und viele der bestinformierten befinden sich in Mysterienkulten (wie in *The Mysteries Revised Edition*, Kapitel 9, beschrieben) und sind daher nicht geneigt, ihr Wissen zu teilen. Diese Unklarheit wird noch dadurch verstärkt, dass hermetische Magi im Jahr 1220 die Magiesphäre kaum verstehen und nach bestem Wissen des Ordens kein Magus je einem Daimon in seinem eigenen Territorium begegnet ist.
+Hermetische Magi verstehen Daimonen nicht besonders gut, und viele der bestinformierten befinden sich in Mysterienkulten (wie in *Die Mysterien (Überarbeitete Ausgabe)*, Kapitel 9, beschrieben) und sind daher nicht geneigt, ihr Wissen zu teilen. Diese Unklarheit wird noch dadurch verstärkt, dass hermetische Magi im Jahr 1220 die Magiesphäre kaum verstehen und nach bestem Wissen des Ordens kein Magus je einem Daimon in seinem eigenen Territorium begegnet ist.
 
-Das Herbeirufen von Aspekten der Daimonen ist typischerweise schwierig und beruht auf Überresten nicht-hermetischer Magie. Gewöhnliche hermetische Magie kann keinen Aspekt eines Daimons aus der Magiesphäre herbeirufen; eine Maga muss die Mysterien der Theurgie beherrschen, um dies zu erreichen (siehe *The Mysteries Revised Edition*, Kapitel 9). Es umfasst lange Anrufungen, gewöhnlich zum Lob des zu beschwörenden Geistes sowie das Anrufen und Flehen anderer Geister; als solches wird es von der Kirche aufs Schärfste missbilligt. Augustinus unterscheidet in *De Civitate Dei* zwischen *dulia*, dem Lob und der Ehre, die einem Menschen oder einer Macht entsprechend seiner angemessenen Würde erwiesen werden – etwa die Verehrung eines Heiligen –, und *latria*, dem Lob und der Ehre, die allein Gott gebühren. Magi, die mit Geistern umgehen und sie namentlich beschwören, werden oft beschuldigt, die Grenzen der *dulia* zu überschreiten und in die Anbetung dieser Daimonen zu verfallen, was eine schwere Sünde ist.
+Das Herbeirufen von Aspekten der Daimonen ist typischerweise schwierig und beruht auf Überresten nicht-hermetischer Magie. Gewöhnliche hermetische Magie kann keinen Aspekt eines Daimons aus der Magiesphäre herbeirufen; eine Maga muss die Mysterien der Theurgie beherrschen, um dies zu erreichen (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Kapitel 9). Es umfasst lange Anrufungen, gewöhnlich zum Lob des zu beschwörenden Geistes sowie das Anrufen und Flehen anderer Geister; als solches wird es von der Kirche aufs Schärfste missbilligt. Augustinus unterscheidet in *De Civitate Dei* zwischen *dulia*, dem Lob und der Ehre, die einem Menschen oder einer Macht entsprechend seiner angemessenen Würde erwiesen werden – etwa die Verehrung eines Heiligen –, und *latria*, dem Lob und der Ehre, die allein Gott gebühren. Magi, die mit Geistern umgehen und sie namentlich beschwören, werden oft beschuldigt, die Grenzen der *dulia* zu überschreiten und in die Anbetung dieser Daimonen zu verfallen, was eine schwere Sünde ist.
 
 Ein herbeigerufener Aspekt kann durch Magie beeinflusst werden wie jeder andere Geist – er kann sogar kontrolliert oder gebunden werden, wobei der Vorbehalt gilt, dass der Daimon den Aspekt einfach auflösen und einen neuen schicken kann, um der Bindung zu entkommen.
 
@@ -18763,7 +18765,7 @@ Ein Wahrer Name ist ein geheimer Name, der die geistige Wesenheit einer Entität
 
 Der Wahre Name eines Daimons ist außerdem eine Arkane Verbindung von unbegrenzter Dauer zu all seinen Aspekten, obwohl ein Magus angeben muss, auf welchen Aspekt ein Zauber abzielt. Wird die Arkane Verbindung genutzt, um die Penetration eines Zaubers zu erhöhen, der auf andere Weise ausgerichtet wird, ist das Ziel bereits bestimmt; bei einem Zauber mit Reichweite Arkane Verbindung kann dies jedoch schwieriger sein.
 
-Synthemata sind Zeichen, Symbole oder Losungsworte, die einen Zauberer mit einer übernatürlichen Kreatur verbinden; jedes Wesen mit einem Machtwert hat Synthemata, unabhängig davon, ob es auch einen Wahren Namen hat. Theurgische Zauber enthalten diese magischen Worte in der Anrufungsformel; obwohl sie keine tatsächliche Macht verleihen, sind sie für das korrekte Funktionieren dieser Magie notwendig und bleiben ein Geheimnis des Handwerks. Einige Magi und Heckenzauberer verfügen über die Fähigkeit, die richtigen Synthemata als intensiven und wirkungsvollen Kanal zu einem Geist in ihre Magie einzuweben, sodass sie ihn durch diesen Kanal befehligen können. Tugenden für solche Magie sind in *The Mysteries Revised Edition*, Seiten 86–88, beschrieben. Die Kenntnis des Wahren Namens einer Kreatur verleiht +5 auf alle Laborsummen zur Erforschung der Synthemata desselben Wesens.
+Synthemata sind Zeichen, Symbole oder Losungsworte, die einen Zauberer mit einer übernatürlichen Kreatur verbinden; jedes Wesen mit einem Machtwert hat Synthemata, unabhängig davon, ob es auch einen Wahren Namen hat. Theurgische Zauber enthalten diese magischen Worte in der Anrufungsformel; obwohl sie keine tatsächliche Macht verleihen, sind sie für das korrekte Funktionieren dieser Magie notwendig und bleiben ein Geheimnis des Handwerks. Einige Magi und Heckenzauberer verfügen über die Fähigkeit, die richtigen Synthemata als intensiven und wirkungsvollen Kanal zu einem Geist in ihre Magie einzuweben, sodass sie ihn durch diesen Kanal befehligen können. Tugenden für solche Magie sind in *Die Mysterien (Überarbeitete Ausgabe)*, Seiten 86–88, beschrieben. Die Kenntnis des Wahren Namens einer Kreatur verleiht +5 auf alle Laborsummen zur Erforschung der Synthemata desselben Wesens.
 
 ### Aneirin der Barde
 
@@ -18817,7 +18819,7 @@ Wundabzüge: –1 (1–4), –3 (5–8), –5 (9–12), Verbannt (13+)
 Kräfte:
 
 *Zeichendeutung*, variabel, Init +5, Mentem:<br>
-Mit dieser Kraft kann Chnoubis Vorzeichen deuten, wie es die Tugend Weissagung und Zeichendeutung beschreibt (siehe *The Mysteries Revised Edition*, Seite 58); jeder eingesetzte Machtpunkt erlaubt zehn Erfolgsstufen. Steht *The Mysteries Revised Edition* nicht zur Verfügung, erlaubt diese Kraft Chnoubis, die Wirkungen eines beliebigen hermetischen Intellego-Zaubers nachzuahmen, zum Preis von 1 Punkt je zehn Stufen des Zaubers.
+Mit dieser Kraft kann Chnoubis Vorzeichen deuten, wie es die Tugend Weissagung und Zeichendeutung beschreibt (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seite 58); jeder eingesetzte Machtpunkt erlaubt zehn Erfolgsstufen. Steht *Die Mysterien (Überarbeitete Ausgabe)* nicht zur Verfügung, erlaubt diese Kraft Chnoubis, die Wirkungen eines beliebigen hermetischen Intellego-Zaubers nachzuahmen, zum Preis von 1 Punkt je zehn Stufen des Zaubers.
 
 *Aura der rechtmäßigen Autorität*, 4 Punkte, Init +5, Mentem:<br>
 Entspricht dem hermetischen Zauber ReMe 20.
@@ -19067,7 +19069,7 @@ Alle Elementare besitzen eine Kraft, die aus der elementaren Materie entsteht, a
 >
 > Das Universum besteht aus Bausteinen, die Atome (von atomas, „unteilbar") genannt werden. Es gibt vier Arten von Atomen, und jedes Atom besitzt zwei Eigenschaften, die seine Natur bestimmen: Erde ist kalt und trocken; Wasser ist kalt und feucht; Luft ist heiß und feucht; Feuer ist heiß und trocken. Die Korpuskeln der Atome sind die grundlegenden Bausteine aller Materie und haben Größe, Form und Farbe. Erdkorpuskeln sind Würfel, Wasserkorpuskeln sind Ikosaeder (in Form eines 20-seitigen Würfels), Luftkorpuskeln sind Oktaeder (ein achtseitiger Würfel), und Feuerkorpuskeln sind Tetraeder (ein vierseitiger Würfel bzw. eine Pyramide). Die Größe der Korpuskeln bestimmt die Art der Materie, die sie bilden. Kleine tetraedrische Korpuskeln bilden das feine blaue Feuer, das dem Himmel seine Farbe verleiht, während große, rauchige Flammen aus den größten Feuerkorpuskeln bestehen. Dünne und reine Luft besteht aus kleinen Oktaedern, während Nebel aus großen, dichten Oktaedern gebildet wird. Öl erhält seine Schwere von seinen großen Wasserkorpuskeln; sehr feine Atome hingegen bilden flüchtige Flüssigkeiten wie Weingeist. Gestein besteht aus großen und schweren Korpuskeln, während Sand aus viel feineren Würfeln zusammengesetzt ist.
 >
-> Die feuchte Eigenschaft bewirkt, dass sich eine Sache ihren äußeren Umständen anpasst, während die trockene Eigenschaft dazu führt, dass eine Sache ihre eigene Gestalt und Grenzen bestimmt. Folglich sind feuchte Dinge flüchtig und ausdehnend, da sie Hohlräume in ihrer Umgebung füllen können, während trockene Dinge fest und strukturiert sind. Hitze bewirkt, dass sich Materie trennt und ihresgleichen sucht, während Kälte die Vermischung von Materie und Koagulation fördert. Die Welt besteht aus vier Bereichen elementarer Materie; die selbstdefinierenden, trockenen Elemente bilden die innerste Schicht der Erde und die äußerste Schicht des Feuers. Die beiden kalten Elemente sinken zum Erdmittelpunkt, während die beiden heißen aufsteigen und sich trennen; die endgültige Reihenfolge von innen nach außen lautet daher: Erde, Wasser, Luft und Feuer. Jenseits des Feuerbereichs liegt die Mondsphäre, die die materielle und die himmlische Welt voneinander trennt. Weitere Einzelheiten zu diesem Thema finden sich in *Art & Academe*.
+> Die feuchte Eigenschaft bewirkt, dass sich eine Sache ihren äußeren Umständen anpasst, während die trockene Eigenschaft dazu führt, dass eine Sache ihre eigene Gestalt und Grenzen bestimmt. Folglich sind feuchte Dinge flüchtig und ausdehnend, da sie Hohlräume in ihrer Umgebung füllen können, während trockene Dinge fest und strukturiert sind. Hitze bewirkt, dass sich Materie trennt und ihresgleichen sucht, während Kälte die Vermischung von Materie und Koagulation fördert. Die Welt besteht aus vier Bereichen elementarer Materie; die selbstdefinierenden, trockenen Elemente bilden die innerste Schicht der Erde und die äußerste Schicht des Feuers. Die beiden kalten Elemente sinken zum Erdmittelpunkt, während die beiden heißen aufsteigen und sich trennen; die endgültige Reihenfolge von innen nach außen lautet daher: Erde, Wasser, Luft und Feuer. Jenseits des Feuerbereichs liegt die Mondsphäre, die die materielle und die himmlische Welt voneinander trennt. Weitere Einzelheiten zu diesem Thema finden sich in *Kunst & Gelehrsamkeit*.
 
 ### Abenteueridee:
 
@@ -20373,10 +20375,10 @@ Der Waldherr ist in slawischen Ländern heimisch. Gewöhnlich erscheint er als g
 
 | Größe        | −1   | −3    | −5    | Lähmende Wunde | Tot  |
 | ------------ | ---- | ----- | ----- | -------------- | ---- |
-| −3 oder kleiner | 1–2  | 3–4   | 5–6   | 7–8            | 9+   |
 | −1           | 1–4  | 5–8   | 9–12  | 13–16          | 17+  |
 | +1           | 1–6  | 7–12  | 13–18 | 19–25          | 26+  |
 | +3           | 1–8  | 9–16  | 17–24 | 25–32          | 33+  |
+| −3 oder kleiner | 1–2  | 3–4   | 5–6   | 7–8            | 9+   |
 | +7           | 1–12 | 13–24 | 25–36 | 37–48          | 49+  |
 
 #### Varianten des Großen Ljeschi
@@ -21443,15 +21445,15 @@ Nicht selten beginnen Spieler von **Ars Magica** ohnehin, sich etwas über das M
 
 ## Der Orden des Hermes
 
-Der Orden des Hermes ist vollkommen ahistorisch. Er hat keinerlei Grundlage in der mittelalterlichen Geschichte oder Mythologie. (Die in Ergänzungsbänden wie *Rival Magic* und *Hedge Magic Revised Edition* beschriebenen Magietraditionen hingegen sind in vielen Fällen weit enger mit mittelalterlichen Überzeugungen verknüpft.) Zudem sind die Magi des Ordens unvorstellbar mächtig. Warum sieht das übrige Mythische Europa dann noch so ähnlich wie die reale Welt aus?
+Der Orden des Hermes ist vollkommen ahistorisch. Er hat keinerlei Grundlage in der mittelalterlichen Geschichte oder Mythologie. (Die in Ergänzungsbänden wie *Rival Magic* und *Heckenzauber (Überarbeitete Ausgabe)* beschriebenen Magietraditionen hingegen sind in vielen Fällen weit enger mit mittelalterlichen Überzeugungen verknüpft.) Zudem sind die Magi des Ordens unvorstellbar mächtig. Warum sieht das übrige Mythische Europa dann noch so ähnlich wie die reale Welt aus?
 
 Die ehrliche Antwort lautet: „Weil wir ein Spiel über mächtige Zauberer im mittelalterlichen Europa spielen wollen." Widersprüche werden daher bewusst übergangen. Der Kodex des Hermes ist darauf ausgelegt, die Glaubwürdigkeit in diesem Punkt zu stützen, und es ist durchaus vernünftig, wenn die Spieler schlicht davon ausgehen, dass er mächtige Magi wirksam daran hindert, den Lauf der Geschichte zu beeinflussen.
 
-Natürlich steht nichts dagegen, den Spieler-Magi einer Saga zu erlauben, bedeutende Veränderungen herbeizuführen – und es gibt sogar einen ganzen Ergänzungsband, *Transforming Mythic Europe*, der genau dieser Möglichkeit gewidmet ist.
+Natürlich steht nichts dagegen, den Spieler-Magi einer Saga zu erlauben, bedeutende Veränderungen herbeizuführen – und es gibt sogar einen ganzen Ergänzungsband, *Gestalten des Mythischen Europas*, der genau dieser Möglichkeit gewidmet ist.
 
 > ### Mittelalterliche Naturlehre
 >
-> Die moderne Wissenschaft gilt nicht in Mythischem Europa. Die Welt ist eine Kugel, steht aber unbeweglich im Mittelpunkt des Universums, und die Sterne sowie die Planeten – einschließlich der Sonne – werden von großen Sphären um sie herumgetragen. Die unterste dieser Sphären, die Mondsphäre, bildet zugleich die Grenze der Macht Hermetischer Magie. Auch auf unmittelbarer Ebene gibt es Unterschiede. Krankheiten entstehen durch Ungleichgewichte in den vier Körpersäften, nicht durch Mikroorganismen. Ein bewegter Gegenstand kommt zum Stillstand, sofern keine Kraft ihn weiter antreibt. Würmer und Fliegen entstehen spontan aus toter Materie. Diese Fragen werden ausführlich in *Art & Academe* behandelt, das auch Regeln für Medizin und die Leistungen experimenteller Philosophen enthält.
+> Die moderne Wissenschaft gilt nicht in Mythischem Europa. Die Welt ist eine Kugel, steht aber unbeweglich im Mittelpunkt des Universums, und die Sterne sowie die Planeten – einschließlich der Sonne – werden von großen Sphären um sie herumgetragen. Die unterste dieser Sphären, die Mondsphäre, bildet zugleich die Grenze der Macht Hermetischer Magie. Auch auf unmittelbarer Ebene gibt es Unterschiede. Krankheiten entstehen durch Ungleichgewichte in den vier Körpersäften, nicht durch Mikroorganismen. Ein bewegter Gegenstand kommt zum Stillstand, sofern keine Kraft ihn weiter antreibt. Würmer und Fliegen entstehen spontan aus toter Materie. Diese Fragen werden ausführlich in *Kunst & Gelehrsamkeit* behandelt, das auch Regeln für Medizin und die Leistungen experimenteller Philosophen enthält.
 
 ## Fragmente der Geschichte
 
@@ -21471,7 +21473,7 @@ Die Kirche ist wahrscheinlich der schnellste und einfachste Weg, einer Saga mitt
 
 Da die mittelalterliche Kirche nach einigen Wandlungen noch heute als Römisch-Katholische Kirche fortbesteht, ist beim Umgang mit ihr in Sagas etwas Fingerspitzengefühl gefragt, um niemanden zu verletzen. Im Laufe ihrer Geschichte hat die Kirche – Klerus wie Laien – Phasen gekannt, in denen sie den christlichen Idealen näherkam, und solche, in denen sie davon weiter entfernt war. Zu jeder Zeit fanden sich unter ihren Mitgliedern Menschen, die die gesamte Bandbreite vom Sünder bis zum Heiligen abdeckten. Es liegt an euch zu entscheiden, welche Atmosphäre in eurem Spiel vorherrschen soll. Dabei solltet ihr jedoch bedenken: Solange ihr die Spielmechanik nicht ändert, steht die Kirche unter dem Schutz des Göttlichen, was ihrer Korruption Grenzen setzt. Letztlich vermeidet man Anstoß am besten dadurch, dass man vielschichtige Charaktere darstellt, anstatt Klischees in die eine oder andere Richtung.
 
-Weit ausführlichere Informationen über die Kirche finden sich in *The Church*.
+Weit ausführlichere Informationen über die Kirche finden sich in *Die Kirche*.
 
 > ### Magie und Sünde
 >
@@ -21672,7 +21674,7 @@ Ein Charakter mit einem schwerwiegenden Problem stellt fest, dass die Magi nicht
 
 ## Der Adel
 
-Die Kirche ist eine wahrhaft europäische Organisation mit einer einheitlichen Struktur und gemeinsamen Glaubensgrundsätzen. Der Adel hingegen ist eine Gemeinschaft einzelner Herrscher, die viele gemeinsame Interessen und Verbindungen teilen. Obwohl es unter dem Adel eine ausgeprägte gemeinsame Kultur gibt, ist diese weniger einheitlich als jene des Klerus – dieser Abschnitt ist daher noch anfälliger für Verallgemeinerungen als der vorherige. Ausführlichere Informationen über den Adel im Allgemeinen finden sich in *Lords of Men*, während die Tribunalbände über die Adelskultur bestimmter Regionen Auskunft geben.
+Die Kirche ist eine wahrhaft europäische Organisation mit einer einheitlichen Struktur und gemeinsamen Glaubensgrundsätzen. Der Adel hingegen ist eine Gemeinschaft einzelner Herrscher, die viele gemeinsame Interessen und Verbindungen teilen. Obwohl es unter dem Adel eine ausgeprägte gemeinsame Kultur gibt, ist diese weniger einheitlich als jene des Klerus – dieser Abschnitt ist daher noch anfälliger für Verallgemeinerungen als der vorherige. Ausführlichere Informationen über den Adel im Allgemeinen finden sich in *Herrscher der Menschen*, während die Tribunalbände über die Adelskultur bestimmter Regionen Auskunft geben.
 
 ### Feudalismus
 
@@ -21760,7 +21762,7 @@ Ein böser Herr könnte tatsächlich seine Seele an den Teufel verkauft haben un
 
 ## Städte und Handel
 
-Wenn die Verallgemeinerungen über den Adel schon Ausnahmen kennen, dann sind Verallgemeinerungen über Städte fast nur aus Ausnahmen zusammengesetzt. Eine Stadt ist eine Siedlung, in der ein erheblicher Teil der Bevölkerung – sagen wir, mindestens ein Drittel – seinen Lebensunterhalt nicht unmittelbar aus der Landwirtschaft bezieht. Nach dieser Definition reicht das Spektrum von Städten von Ortschaften mit einigen Hundert Einwohnern bis hin zur großen Metropole Constantinople mit mindestens Zehntausenden von Menschen (jedenfalls vor ihrer Plünderung). Eine Stadt von einigen Hundert Einwohnern in Irland hat natürlich wenig gemein mit Constantinople. Weiteres über Städte und Handel findet sich in *City & Guild*.
+Wenn die Verallgemeinerungen über den Adel schon Ausnahmen kennen, dann sind Verallgemeinerungen über Städte fast nur aus Ausnahmen zusammengesetzt. Eine Stadt ist eine Siedlung, in der ein erheblicher Teil der Bevölkerung – sagen wir, mindestens ein Drittel – seinen Lebensunterhalt nicht unmittelbar aus der Landwirtschaft bezieht. Nach dieser Definition reicht das Spektrum von Städten von Ortschaften mit einigen Hundert Einwohnern bis hin zur großen Metropole Constantinople mit mindestens Zehntausenden von Menschen (jedenfalls vor ihrer Plünderung). Eine Stadt von einigen Hundert Einwohnern in Irland hat natürlich wenig gemein mit Constantinople. Weiteres über Städte und Handel findet sich in *Stadt & Gilde*.
 
 Dennoch lassen sich diese Punkte nutzen, um Städte zu gestalten, die mittelalterlich wirken – auch wenn sie nicht genau in einen bestimmten Teil des mittelalterlichen Europa passen.
 
@@ -21876,7 +21878,7 @@ In manchen Gebieten wie Frankreich, Kastilien und Teilen des Heiligen Römischen
 
 ### Nonnen
 
-Ein dritter Weg zur Macht – und einer, den die jüngeren Töchter mancher Adligen durchaus zu schätzen wissen –, ist die Kirche. Die Rolle der Frauenklöster wird in den Ergänzungsbänden *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)* und *The Church* ausführlicher behandelt. Nonnen gelten als Mündel des Bischofs und Bräute Christi. Sie können in der Regel nicht zur Heirat gezwungen werden und sind ihren Vätern oder anderen örtlichen Herren gegenüber nicht rechenschaftspflichtig. Nonnen besitzen im Mythischen Europa beträchtlichen Grundbesitz, der nicht durch Erbschaft aufgeteilt wird.
+Ein dritter Weg zur Macht – und einer, den die jüngeren Töchter mancher Adligen durchaus zu schätzen wissen –, ist die Kirche. Die Rolle der Frauenklöster wird in den Ergänzungsbänden *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)* und *Die Kirche* ausführlicher behandelt. Nonnen gelten als Mündel des Bischofs und Bräute Christi. Sie können in der Regel nicht zur Heirat gezwungen werden und sind ihren Vätern oder anderen örtlichen Herren gegenüber nicht rechenschaftspflichtig. Nonnen besitzen im Mythischen Europa beträchtlichen Grundbesitz, der nicht durch Erbschaft aufgeteilt wird.
 
 Junge Frauen können zeitlich begrenzte Gelübde ablegen, die es ihnen ermöglichen, sich in das Leben einer Nonne zurückzuziehen, während in der weltlichen Welt die Ereignisse ihren Lauf nehmen. Es ist einem hinreichend einflussreichen Adligen möglich, eine Frau aus dem Kloster zu holen und zur Heirat zu zwingen, doch ist dies selten. Es ist jedoch üblich, dass die weiblichen Verwandten eines im Krieg unterlegenen Mannes in Frauenklöster fliehen, um nicht der Gnade der Sieger ausgeliefert zu sein.
 
@@ -21996,7 +21998,7 @@ Als Beispiel: Eine mächtige Maga möchte die Freundschaft eines nahe gelegenen 
 
 Einerseits ist es sehr einfach, an solchen Geschichten anzusetzen — die Spieler wollen sie spielen. Andererseits kann es äußerst schwierig sein, denn Vorschläge von den Spielern zu bekommen gleicht manchmal dem Versuch, Blut aus einem Stein zu pressen. Am besten fragst du die Spieler immer wieder, was ihre Charaktere als Nächstes tun wollen, bis sich Antworten ergeben, an denen sich eine Geschichte aufhängen lässt.
 
-Mehrere Ergänzungsbände zu **Ars Magica** liefern Ideen für proaktive Geschichten. *Ancient Magic*, *Legends of Hermes* und *Mythic Locations* beschreiben Dinge, nach denen Charaktere suchen könnten, während *Hermetic Projects* und *Transforming Mythic Europe* Vorhaben vorstellen, die Charaktere in Angriff nehmen könnten.
+Mehrere Ergänzungsbände zu **Ars Magica** liefern Ideen für proaktive Geschichten. *Ancient Magic*, *Legends of Hermes* und *Mythische Orte* beschreiben Dinge, nach denen Charaktere suchen könnten, während *Hermetic Projects* und *Gestalten des Mythischen Europas* Vorhaben vorstellen, die Charaktere in Angriff nehmen könnten.
 
 ### Seifenoper
 
@@ -22016,7 +22018,7 @@ Die Charaktere begeben sich an einen Ort, den sie noch nicht kennen, und lernen 
 
 Erkundungsgeschichten sind ein hervorragender Einstieg in eine Saga, da sowohl die Charaktere als auch die Spieler mehr über die Umgebung ihres Konvents erfahren möchten. Außerdem lässt sich ein einmal vorgestellter Ort nutzen, um weitere Geschichten daraus zu entwickeln.
 
-*Mythic Locations* ist ein ganzes Buch voller Orte, die Charaktere erkunden können.
+*Mythische Orte* ist ein ganzes Buch voller Orte, die Charaktere erkunden können.
 
 #### Orte zur Erkundung
 
@@ -22049,7 +22051,7 @@ Du solltest beim frühen Verteilen von Vis-Quellen in der Saga vorsichtig sein, 
 - Ein Stab, der von einem mächtigen Magus des Hauses Flambeau erschaffen wurde und angeblich die Kraft besitzt, ein Feuer zu entfachen, das groß und heiß genug ist, eine Stadt zu Asche zu verbrennen.
 - Eine fliegende Burg, die vor Jahrzehnten von einem Anhänger des Hauses Tytalus erbaut wurde und einfach aus dem Wissen des Ordens verschwand. (Siehe *Legends of Hermes*, Die Fliegende Burg des Thomae.)
 - Die Bibliothek eines Einsiedlermagus, der früher irgendwo in der Nähe des Konvents lebte.
-- Ein verfallener Merkurtempel, der noch immer Einzelheiten über einige der mächtigen Rituale des Kults des Merkur enthält. (Siehe *Mythic Locations*, Der Verfallene Merkurtempel.)
+- Ein verfallener Merkurtempel, der noch immer Einzelheiten über einige der mächtigen Rituale des Kults des Merkur enthält. (Siehe *Mythische Orte*, Der Verfallene Merkurtempel.)
 - Eine Arkane Verbindung zu dem Drachen, der in den Bergen lebt, damit die Magi mit Sympathiemagie seine Magieresistenz überwinden können.
 
 ### Hilfegesuche
@@ -22156,7 +22158,7 @@ Beide Versionen des Ordens machen Spaß — sie führen jedoch zu sehr unterschi
 >
 > Darüber hinaus lässt sich das Spiel in seiner vorliegenden Form spielen und genießen — zumindest nach Aussage der Testgruppen. Ihr könntet jedoch Hausregeln einführen, um es besser an euren Spielstil anzupassen.
 >
-> Die Grundregeln schenken beispielsweise der Wirtschaft kaum Beachtung. Im Grunde ist dies ein Spiel über mächtige Zauberer in einer Welt der Legenden — und die müssen sich keine Gedanken darüber machen, was ihre Socken kosten. Vielleicht wollt ihr aber magische Kaufleute spielen, die kreuz und quer durch das Mythische Europa ziehen und Handelsrouten aufbauen, die prachtvolle Städte ernähren. Ein hervorragendes Konzept — aber ihr werdet Hausregeln für den Handel und seine Auswirkungen auf Städte entwickeln müssen. (Oder ihr kauft euch „City & Guild".)
+> Die Grundregeln schenken beispielsweise der Wirtschaft kaum Beachtung. Im Grunde ist dies ein Spiel über mächtige Zauberer in einer Welt der Legenden — und die müssen sich keine Gedanken darüber machen, was ihre Socken kosten. Vielleicht wollt ihr aber magische Kaufleute spielen, die kreuz und quer durch das Mythische Europa ziehen und Handelsrouten aufbauen, die prachtvolle Städte ernähren. Ein hervorragendes Konzept — aber ihr werdet Hausregeln für den Handel und seine Auswirkungen auf Städte entwickeln müssen. (Oder ihr kauft euch „Stadt & Gilde".)
 >
 > Manche Änderungen sind sinnvoll, selbst wenn ihr dem Grundspiel sehr nahe bleibt. Eure Gruppe könnte beispielsweise bevorzugen, dass bedeutende Ereignisse nicht allein vom Würfelergebnis abhängen. In diesem Fall könnt ihr den Stresswurf einfach ignorieren und stets einen einfachen Wurf verwenden. Dann ist die Fertigkeit eines Charakters stets der maßgebliche Faktor in einer Situation. Natürlich muss dies von Anfang an klar sein, denn eine Reihe von Tugenden und Fehlern setzt den Stresswurf voraus.
 >
@@ -22594,15 +22596,15 @@ Zwielicht: Die Anzahl der Zwielichtpunkte durch drei teilen und diesen Wert als 
 
 ### Reisedistanz
 
-*City and Guild S. 80, Definitive Edition [S. 408](#reisen)*
+*Stadt & Gilde S. 80, Definitive Edition [S. 408](#reisen)*
 
 | Fortbewegung                      | Geschwindigkeit     |
 | --------------------------------- | ------------------- |
-| Zu Fuß\*                          | ca. 30 km/Tag       |
 | Berittener Bote\*                 | ca. 45 km/Tag       |
 | Berittener Bote, dringend\*       | ca. 75 km/Tag       |
 | Berittener Bote, frische Pferde\* | ca. 150 km/Tag      |
 | Seeschiff\*                       | ca. 45 km/Tag       |
+| Zu Fuß\*                          | ca. 30 km/Tag       |
 
 *\*Große Gruppen sind langsamer.*
 
@@ -22681,9 +22683,9 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 | Wahrnehmung             | Schwierigkeitsgrad                   |
 | ----------------------- | ------------------------------------ |
 | Magische Aura           | 12 – Aurastufe                       |
-| Zauber                  | 21 – Magnitude des Effekts           |
-| Verzauberte Gegenstände | 21 – Magnitude des stärksten Effekts |
 | Magische Kreaturen      | 15 – ein Fünftel des Machtwerts      |
+| Verzauberte Gegenstände | 21 – Magnitude des stärksten Effekts |
+| Zauber                  | 21 – Magnitude des Effekts           |
 
 ### Zweites Gesicht
 
@@ -22726,14 +22728,14 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 | Größe      | Leicht | Mittelschwer | Schwer | Lähmend | Tod  |
 | ---------- | ------ | ------------ | ------ | ------- | ---- |
-| –4 oder weniger | 1 | 2          | 3      | 4       | 5+   |
-| –3         | 1–2    | 3–4          | 5–6    | 7–8     | 9+   |
-| –2         | 1–3    | 4–6          | 7–9    | 10–12   | 13+  |
-| –1         | 1–4    | 5–8          | 9–12   | 13–16   | 17+  |
 | 0          | 1–5    | 6–10         | 11–15  | 16–20   | 21+  |
+| –1         | 1–4    | 5–8          | 9–12   | 13–16   | 17+  |
 | +1         | 1–6    | 7–12         | 13–18  | 19–24   | 25+  |
+| –2         | 1–3    | 4–6          | 7–9    | 10–12   | 13+  |
 | +2         | 1–7    | 8–14         | 15–21  | 22–28   | 29+  |
+| –3         | 1–2    | 3–4          | 5–6    | 7–8     | 9+   |
 | +3         | 1–8    | 9–16         | 17–24  | 25–32   | 33+  |
+| –4 oder weniger | 1 | 2          | 3      | 4       | 5+   |
 
 *Jede weitere +1-Größenstufe erhöht jeden Wundbereich um +1.*
 
@@ -22743,9 +22745,9 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 | Betroffene Körperfläche     | Schadensbonus |
 | --------------------------- | ------------- |
-| Kleiner Teil (Hand/Fuß)     | ×1            |
 | Gesamte Gliedmaße           | ×2            |
 | Halber Körper               | ×3            |
+| Kleiner Teil (Hand/Fuß)     | ×1            |
 | Vollständige Überflutung    | ×4            |
 
 | Quelle         | Intensität |
@@ -22766,20 +22768,20 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 | Gift           | Schwierigkeitsgrad | Wunde         |
 | -------------- | ------------------ | ------------- |
-| Kreuzotterbiss | 6                  | Leicht        |
+| Arsen          | 9                  | Mittelschwer  |
 | Aspisbiss      | 9                  | Lähmend       |
 | Eisenhut       | 9                  | Schwer        |
-| Arsen          | 9                  | Mittelschwer  |
+| Kreuzotterbiss | 6                  | Leicht        |
 
 ### Aufprall
 
 | Art des Aufpralls                        | Schaden                                                                   |
 | ---------------------------------------- | ------------------------------------------------------------------------- |
-| Sturz                                    | +1 pro 60 cm Fallhöhe, verdoppelt auf harten Oberflächen, halbiert auf weichen. |
-| Krug, vom zweiten Stock gefallen         | +6                                                                        |
-| Im Inneren eines einstürzenden Holzhauses | +15                                                                      |
 | Ausgewachsener Baum fällt auf den Charakter | +18                                                                   |
+| Im Inneren eines einstürzenden Holzhauses | +15                                                                      |
 | Im Inneren eines einstürzenden Steingebäudes | +21                                                                  |
+| Krug, vom zweiten Stock gefallen         | +6                                                                        |
+| Sturz                                    | +1 pro 60 cm Fallhöhe, verdoppelt auf harten Oberflächen, halbiert auf weichen. |
 
 ### Entbehrung
 
@@ -22790,13 +22792,13 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 | Art der Entbehrung                | Zeitintervall  |
 | --------------------------------- | -------------- |
-| Luft                              | 30 Sekunden    |
-| Wasser                            | 1 Tag          |
-| Nahrung                           | 3 Tage         |
-| Leichte Kälte (4 °C)              | 3 Stunden      |
-| Starke Kälte (–18 °C)             | 1 Stunde       |
 | Extreme Kälte (–29 °C)            | 30 Minuten     |
 | Kritische Kälte (–40 °C)          | 15 Minuten     |
+| Leichte Kälte (4 °C)              | 3 Stunden      |
+| Luft                              | 30 Sekunden    |
+| Nahrung                           | 3 Tage         |
+| Starke Kälte (–18 °C)             | 1 Stunde       |
+| Wasser                            | 1 Tag          |
 
 *\* Kälteregeln in Rival Magic, S. 105.*
 
@@ -22858,13 +22860,13 @@ Charaktere erholen sich von allen Wunden gleichzeitig. Ein Charakter mit drei Le
 
 | Waffe                | Fertigkeit  | Init | Angriff | Vert | Schaden | Reichweite | Stä  | Last | Kosten |
 | -------------------- | ----------- | ---- | ------- | ---- | ------- | ---------- | ---- | ---- | ------ |
-| Wurfaxt              | Wurfwaffe   | 0    | +2      | 0    | +6      | 7,5 m      | 0    | 1    | Std.   |
-| Wurfspeer            | Wurfwaffe   | 0    | +2      | 0    | +5      | 15 m       | 0    | 1    | Std.   |
+| Kurzbogen\*          | Bogenschießen | –1 | +3      | 0    | +6      | 22,5 m     | –1   | 2    | Std.   |
+| Langbogen\*          | Bogenschießen | –2 | +4      | 0    | +8      | 45 m       | +2   | 2    | Teuer  |
 | Messer               | Wurfwaffe   | 0    | +1      | 0    | +2      | 7,5 m      | –2   | 0    | Billig |
 | Schleuder\*          | Wurfwaffe   | –3   | +1      | 0    | +4      | 30 m       | –3   | 0    | Billig |
 | Stein                | Wurfwaffe   | 0    | +1      | 0    | +2      | 7,5 m      | –1   | 1    | Billig |
-| Langbogen\*          | Bogenschießen | –2 | +4      | 0    | +8      | 45 m       | +2   | 2    | Teuer  |
-| Kurzbogen\*          | Bogenschießen | –1 | +3      | 0    | +6      | 22,5 m     | –1   | 2    | Std.   |
+| Wurfaxt              | Wurfwaffe   | 0    | +2      | 0    | +6      | 7,5 m      | 0    | 1    | Std.   |
+| Wurfspeer            | Wurfwaffe   | 0    | +2      | 0    | +5      | 15 m       | 0    | 1    | Std.   |
 
 \* Zum Laden und Abschießen sind beide Hände frei.
 
@@ -22882,12 +22884,12 @@ Charaktere erholen sich von allen Wunden gleichzeitig. Ein Charakter mit drei Le
 
 | Material                  | Teilschutz | Teillast | Vollschutz | Volllast | Kosten |
 | ------------------------- | ---------- | -------- | ---------- | -------- | ------ |
-| Wattiert/Fell             | 1          | 2        | –          | –        | Billig |
-| Schweres Leder            | 2          | 3        | –          | –        | Billig |
-| Metallverstärktes Leder   | 2          | 2        | 4          | 4        | Std.   |
+| Kettenhemd                | 6          | 4        | 9          | 6        | Teuer  |
 | Lederschuppen             | 3          | 3        | 5          | 5        | Std.   |
 | Metallschuppen            | 4          | 4        | 7          | 7        | Std.   |
-| Kettenhemd                | 6          | 4        | 9          | 6        | Teuer  |
+| Metallverstärktes Leder   | 2          | 2        | 4          | 4        | Std.   |
+| Schweres Leder            | 2          | 3        | –          | –        | Billig |
+| Wattiert/Fell             | 1          | 2        | –          | –        | Billig |
 
 **Schutz:** Der Bonus, den die Rüstung auf die Absorption des Charakters gewährt.<br>
 **Last:** Der Betrag, um den die Rüstung die Beladung des Charakters erhöht.<br>
@@ -22897,34 +22899,34 @@ Charaktere erholen sich von allen Wunden gleichzeitig. Ein Charakter mit drei Le
 
 | Waffe               | Fertigkeit    | Init | Angriff | Vert | Schaden | Stä  | Last | Kosten |
 | ------------------- | ------------- | ---- | ------- | ---- | ------- | ---- | ---- | ------ |
+| Ackergerät         | Große Waffe   | +1   | +3      | +1   | +5      | 0    | 2    | Billig |
 | Ausweichen          | Raufen        | 0    | –       | 0    | –       | –    | 0    | –      |
-| Faust               | Raufen        | 0    | 0       | 0    | 0       | –    | 0    | –      |
-| Tritt               | Raufen        | –1   | 0       | –1   | +3      | –    | 0    | –      |
-| Handschuh           | Raufen        | 0    | 0       | +1   | +2      | –3   | 0    | Billig |
-| Knüppel\*           | Raufen        | 0    | +2      | 0    | +2      | –2   | 1    | Billig |
-| Dolch               | Raufen        | 0    | +2      | 0    | +3      | –3   | 0    | Billig |
-| Messer              | Raufen        | 0    | +1      | 0    | +2      | –6   | 0    | Billig |
 | Axt                 | Einzelwaffe   | +1   | +4      | 0    | +6      | 0    | 1    | Std.   |
-| Keule               | Einzelwaffe   | +1   | +2      | +1   | +3      | –2   | 1    | Billig |
 | Beil                | Einzelwaffe   | 0    | +3      | 0    | +4      | –2   | 1    | Billig |
-| Lanze               | Einzelwaffe   | +2   | +4      | 0    | +5      | 0    | 2    | Std.   |
-| Streitkolben\*\*    | Einzelwaffe   | +1   | +3      | 0    | +8      | 0    | 2    | Std.   |
-| Morgenstern         | Einzelwaffe   | +2   | +3      | 0    | +7      | 0    | 2    | Std.   |
+| Buckler             | Einzelwaffe   | 0    | 0       | +1   | 0       | –2   | 1    | Std.   |
+| Dolch               | Raufen        | 0    | +2      | 0    | +3      | –3   | 0    | Billig |
+| Dreieckschild       | Einzelwaffe   | 0    | 0       | +3   | 0       | 0    | 2    | Std.   |
+| Faust               | Raufen        | 0    | 0       | 0    | 0       | –    | 0    | –      |
+| Flegel              | Große Waffe   | +1   | +3      | +1   | +8      | 0    | 2    | Billig |
+| Handschuh           | Raufen        | 0    | 0       | +1   | +2      | –3   | 0    | Billig |
+| Hellebarde          | Große Waffe   | +3   | +4      | +1   | +8      | 0    | 2    | Std.   |
+| Keule               | Einzelwaffe   | +1   | +2      | +1   | +3      | –2   | 1    | Billig |
+| Knüppel\*           | Raufen        | 0    | +2      | 0    | +2      | –2   | 1    | Billig |
+| Knüttel             | Große Waffe   | +1   | +4      | +1   | +7      | +1   | 2    | Billig |
+| Kriegshammer        | Große Waffe   | 0    | +6      | 0    | +12     | +2   | 3    | Std.   |
 | Kurzer Speer        | Einzelwaffe   | +2   | +2      | 0    | +5      | –1   | 1    | Billig |
 | Kurzschwert         | Einzelwaffe   | +1   | +3      | +1   | +5      | –1   | 1    | Std.   |
-| Langschwert         | Einzelwaffe   | +2   | +4      | +1   | +6      | 0    | 1    | Teuer  |
-| Buckler             | Einzelwaffe   | 0    | 0       | +1   | 0       | –2   | 1    | Std.   |
-| Rundschild          | Einzelwaffe   | 0    | 0       | +2   | 0       | –1   | 2    | Billig |
-| Dreieckschild       | Einzelwaffe   | 0    | 0       | +3   | 0       | 0    | 2    | Std.   |
-| Knüttel             | Große Waffe   | +1   | +4      | +1   | +7      | +1   | 2    | Billig |
-| Ackergerät         | Große Waffe   | +1   | +3      | +1   | +5      | 0    | 2    | Billig |
-| Flegel              | Große Waffe   | +1   | +3      | +1   | +8      | 0    | 2    | Billig |
-| Hellebarde          | Große Waffe   | +3   | +4      | +1   | +8      | 0    | 2    | Std.   |
-| Streitaxt           | Große Waffe   | +1   | +5      | 0    | +11     | +1   | 2    | Std.   |
 | Langer Speer\*\*\*  | Große Waffe   | +3   | +3      | +1   | +7      | 0    | 3    | Billig |
-| Zweihänder          | Große Waffe   | +2   | +5      | +2   | +9      | +1   | 2    | Teuer  |
+| Langschwert         | Einzelwaffe   | +2   | +4      | +1   | +6      | 0    | 1    | Teuer  |
+| Lanze               | Einzelwaffe   | +2   | +4      | 0    | +5      | 0    | 2    | Std.   |
+| Messer              | Raufen        | 0    | +1      | 0    | +2      | –6   | 0    | Billig |
+| Morgenstern         | Einzelwaffe   | +2   | +3      | 0    | +7      | 0    | 2    | Std.   |
+| Rundschild          | Einzelwaffe   | 0    | 0       | +2   | 0       | –1   | 2    | Billig |
 | Stab                | Große Waffe   | +2   | +3      | +3   | +2      | –1   | 2    | Billig |
-| Kriegshammer        | Große Waffe   | 0    | +6      | 0    | +12     | +2   | 3    | Std.   |
+| Streitaxt           | Große Waffe   | +1   | +5      | 0    | +11     | +1   | 2    | Std.   |
+| Streitkolben\*\*    | Einzelwaffe   | +1   | +3      | 0    | +8      | 0    | 2    | Std.   |
+| Tritt               | Raufen        | –1   | 0       | –1   | +3      | –    | 0    | –      |
+| Zweihänder          | Große Waffe   | +2   | +5      | +2   | +9      | +1   | 2    | Teuer  |
 
 \* Jede improvisierte Schlagwaffe, etwa ein Stein oder ein Handwerkzeug<br>
 \*\* Umfasst Stachelkeulen, Kriegshämmer und andere Schlagwaffen<br>
@@ -23284,12 +23286,12 @@ WIDERSTANDSSUMME: Ausdauer + Parma Magica
 | Schwächungssumme – Widerstandssumme | Verlorene Erschöpfungsstufen |
 | ------------------------------------ | ----------------------------- |
 | 0                                    | Keine                         |
-| 1–5                                  | 1                             |
-| 6–10                                 | 2                             |
 | 11–15                                | 3                             |
+| 1–5                                  | 1                             |
 | 16–20                                | 4                             |
 | 21–25                                | 5                             |
 | 26–30                                | 6                             |
+| 6–10                                 | 2                             |
 | usw.                                 | usw.                          |
 
 ### Das Zwielicht
@@ -23400,15 +23402,15 @@ STUFENMODIFIKATOREN: +3 für jede Kleine Hermetische Tugend, +9 für jede Große
 
 | Material             | Grundpunkte |
 | -------------------- | ----------- |
-| Stoff, Glas          | 1           |
-| Holz, Leder          | 2           |
-| Knochen, weicher Stein | 3         |
-| Harter Stein         | 4           |
-| Unedles Metall       | 5           |
-| Silber               | 6           |
+| Edelstein            | 15          |
 | Gold                 | 10          |
 | Halbedelstein        | 12          |
-| Edelstein            | 15          |
+| Harter Stein         | 4           |
+| Holz, Leder          | 2           |
+| Knochen, weicher Stein | 3         |
+| Silber               | 6           |
+| Stoff, Glas          | 1           |
+| Unedles Metall       | 5           |
 | Unschätzbarer Stein  | 20          |
 
 | Größe    | Beispiel                                        | Multiplikator |
@@ -23466,15 +23468,15 @@ S. 107–109
 
 | Wurf   | Ergebnis                                      |
 | ------ | --------------------------------------------- |
-| Patzer | Desaster                                      |
 | 0–4    | Keine außergewöhnlichen Effekte               |
+| 10     | Entdeckung                                    |
+| 11     | Veränderter Effekt                            |
+| 12+    | Zweimal erneut auf dieser Tafel würfeln.      |
 | 5–6    | Nebeneffekt                                   |
 | 7      | Kein Nutzen                                   |
 | 8      | Vollständiges Scheitern                       |
 | 9      | Besonderes oder handlungsbezogenes Ereignis   |
-| 10     | Entdeckung                                    |
-| 11     | Veränderter Effekt                            |
-| 12+    | Zweimal erneut auf dieser Tafel würfeln.      |
+| Patzer | Desaster                                      |
 
 **Desaster:** Das Experiment schlägt kläglich fehl. Die folgende Tabelle zeigt das Ergebnis in Abhängigkeit von der Anzahl der gewürfelten Nullen auf den Patzerwürfeln. Die Auswirkung für die gewürfelte Anzahl und alle niedrigeren Werte wird erlitten, sofern nicht ausdrücklich anders angegeben. Zum Beispiel verursacht eine Explosion (3) auch die Vernichtung des Erstellten und fügt dem Magus Verzerrungspunkte zu.
 
@@ -23584,16 +23586,16 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 
 | Lebensumstände                                              | Modifikator |
 | ----------------------------------------------------------- | ----------- |
-| Wohlhabend oder gesunder Lebensort                          | +2          |
-| Typischer Sommer- oder Herbst-Konvent (Magus)               | +2          |
-| Typischer Sommer- oder Herbst-Konvent (Sterblicher)         | +1          |
-| Typischer Frühlings- oder Winter-Konvent (Magus)            | +1          |
+| Arbeit im Bergbau\*                                         | –1          |
+| Arbeit in einem Gewerbe mit schlechter Luft\*               | –1          |
+| Arm oder ungesunder Lebensort; typische Stadt\*             | –2          |
 | Durchschnittlicher Bauer                                    | 0           |
 | Leben in einer Leprakolonie\*                               | –1          |
-| Arbeit in einem Gewerbe mit schlechter Luft\*               | –1          |
-| Arbeit im Bergbau\*                                         | –1          |
-| Arm oder ungesunder Lebensort; typische Stadt\*             | –2          |
 | Leprakranker\*                                              | –2          |
+| Typischer Frühlings- oder Winter-Konvent (Magus)            | +1          |
+| Typischer Sommer- oder Herbst-Konvent (Magus)               | +2          |
+| Typischer Sommer- oder Herbst-Konvent (Sterblicher)         | +1          |
+| Wohlhabend oder gesunder Lebensort                          | +2          |
 
 \* Mit Sternchen gekennzeichnete Modifikatoren sind kumulativ miteinander.
 
@@ -23688,375 +23690,375 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 
 | Verlorene Monate | Anteil | Beispiel |
 | ---------------- | ------ | -------- |
-| Keine            | Voll   | 15       |
-| Einem             | 2/3    | 10       |
-| Zwei             | 1/3    | 5        |
 | Drei             | Keine  | 0        |
+| Einem             | 2/3    | 10       |
+| Keine            | Voll   | 15       |
+| Zwei             | 1/3    | 5        |
 
 ## Zauberindex
 
 | Zaubername | Künste | Stufe | Seite |
 |------------|--------|-------|-------|
-| Das abgetrennte Glied wird heil (Severed Limb Made Whole, The) | CrCo | 25 | [332](#das-abgetrennte-glied-wird-heil) |
 | Aegis des Herdes (Aegis Of The Hearth) | ReVi | Allgemein | [370](#aegis-des-herdes) |
-| Amulett gegen Verwesung (Charm Against Putrefaction) | CrCo | 10 | [332](#amulett-gegen-verwesung) |
-| Angriff der zornigen Winde (Charge Of The Angry Winds) | CrAu | 15 | [326](#angriff-der-zornigen-winde) |
-| Die anrollende Welle brechen (Break The Oncoming Wave) | ReAq | 10 | [324](#die-anrollende-welle-brechen) |
-| Den anspruchsvollen Zauber aufrechterhalten (Maintaining The Demanding Spell) | ReVi | Allgemein | [372](#den-anspruchsvollen-zauber-aufrechterhalten) |
-| Das Antlitz des Fremden (Disguise of the New Visage) (Disguise Of The New Visage) | MuCo | 15 | [333](#das-antlitz-des-fremden-disguise-of-the-new-visage) |
+| Qual des Tieres (Agony Of The Beast) | PeAn | 15 | [318](#qual-des-tieres) |
+| Gespenstische Luftgestalt (Air's Ghostly Form) | CrAu | 5 | [325](#gespenstische-luftgestalt) |
+| Bogen aus feurigen Bändern (Arc Of Fiery Ribbons) | CrIg | 25 | [344](#bogen-aus-feurigen-bändern) |
 | Der Arm des Säuglings (Arm Of The Infant) | MuCo | 20 | [334](#der-arm-des-säuglings) |
-| Den Aschenpfad beschreiten (Treading The Ashen Path) | PeHe | 30 | [342](#den-aschenpfad-beschreiten) |
-| Atem des freien Himmels (Breath Of The Open Sky) | CrAu | 40 | [327](#atem-des-freien-himmels) |
-| Auf der Suche nach reinem Silber (Probe For Pure Silver) | InTe | 4 | [359](#auf-der-suche-nach-reinem-silber) |
-| Auf der Zungenspitze (Tip Of The Tongue) | PeMe | 5 | [355](#auf-der-zungenspitze) |
-| Auflösung des Phantombildes (Dispel The Phantom Image) | PeIm | Allgemein | [351](#auflösung-des-phantombildes) |
-| Aufstieg des federleichten Körpers (Rise Of The Feathery Body) | ReCo | 10 | [337](#aufstieg-des-federleichten-körpers) |
-| Aufwallender Zorn (Rising Ire) | CrMe | 15 | [353](#aufwallender-zorn) |
-| Auge des Arztes (Physician's Eye) | InCo | 5 | [333](#auge-des-arztes) |
-| Das Auge des Weisen (Eye Of The Sage, The) | InCo | 30 | [333](#das-auge-des-weisen) |
-| Augen der Äonen (Eyes Of The Eons) | InTe | 10 | [359](#augen-der-äonen) |
-| Augen der Flamme (Eyes Of The Flame) | InIg | 35 | [345](#augen-der-flamme) |
-| Augen der Katze (Eyes Of The Cat) | MuCo | 5 | [333](#augen-der-katze) |
-| Augen des Adlers (Eyes Of The Eagle) | InIm | 25 | [349](#augen-des-adlers) |
-| Augen des tückischen Geländes (Eyes Of The Treacherous Terrain) | InTe | 15 | [359](#augen-des-tückischen-geländes) |
 | Aura der adligen Erscheinung (Aura Of Ennobled Presence) | MuIm | 10 | [350](#aura-der-adligen-erscheinung) |
 | Aura der rechtmäßigen Autorität (Aura Of Rightful Authority) | ReMe | 20 | [357](#aura-der-rechtmäßigen-autorität) |
-| Ausbruch der fegenden Flammen (Burst Of The Sweeping Flames) | ReIg | 25 | [347](#ausbruch-der-fegenden-flammen) |
-| Ausdauer der Berserker (Endurance Of The Berserkers) | ReCo | 15 | [338](#ausdauer-der-berserker) |
-| Austrocknender Wind (Parching Wind) | PeAq | 20 | [323](#austrocknender-wind) |
-| Den baumelnden Hampelmann heben (Lifting The Dangling Puppet) | ReCo | 15 | [338](#den-baumelnden-hampelmann-heben) |
-| Befreiung des schreitenden Baumes (Freeing The Striding Tree) | ReHe | 30 | [343](#befreiung-des-schreitenden-baumes) |
-| Berührung der Gänsefeder (Touch Of The Goose Feather) | PeCo | 5 | [335](#berührung-der-gänsefeder) |
-| Berührung der Perlen (Touch Of The Pearls) | InAq | 5 | [322](#berührung-der-perlen) |
-| Berührung des Midas (Touch Of Midas) | CrTe | 20 | [359](#berührung-des-midas) |
-| Beruhigung des bewegten Herzens (Calm The Motion Of The Heart) | PeMe | 15 | [356](#beruhigung-des-bewegten-herzens) |
-| Besänftige die tobenden Flammen (Soothe The Raging Flames) | PeIg | 20 | [346](#besänftige-die-tobenden-flammen) |
-| Beschwörung der milchigen Augen (Incantation Of The Milky Eyes) | PeCo | 30 | [336](#beschwörung-der-milchigen-augen) |
-| Beschwörung der Toten (Incantation Of Summoning The Dead) | ReMe | 40 | [358](#beschwörung-der-toten) |
-| Beschwörung der unbestreitbaren Kälte (Conjuration Of The Indubitable Cold) | PeIg | 25 | [346](#beschwörung-der-unbestreitbaren-kälte) |
-| Die Beschwörung des Blitzes (Incantation Of Lightning, The) | CrAu | 35 | [327](#die-beschwörung-des-blitzes) |
-| Beschwörung des faulen Weines (Incantation Of Putrid Wine) | MuAq | 15 | [322](#beschwörung-des-faulen-weines) |
-| Beschwörung des fernen Bildes (Summoning The Distant Image) | InIm | 25 | [350](#beschwörung-des-fernen-bildes) |
-| Beschwörung des geheilten Körpers (Incantation Of The Body Made Whole) | CrCo | 40 | [332](#beschwörung-des-geheilten-körpers) |
-| Besen der Winde (Broom Of The Winds) | CrAu | 15 | [326](#besen-der-winde) |
-| Bild des Tieres (Image Of The Beast) | InAn | 5 | [316](#bild-des-tieres) |
-| Bildphantom (Image Phantom) | MuIm | 20 | [350](#bildphantom) |
-| Der Blick auf aktive Magien (Sight Of The Active Magics) | InVi | 40 | [367](#der-blick-auf-aktive-magien) |
-| Blick auf die wahre Gestalt (Sight Of The True Form) | InCo | Allgemein | [333](#blick-auf-die-wahre-gestalt) |
-| Blick der Viper (Viper's Gaze) | ReAn | 15 | [320](#blick-der-viper) |
-| Blick in den sterblichen Geist (Peering Into The Mortal Mind) | InMe | 30 | [354](#blick-in-den-sterblichen-geist) |
-| Blitz scharlachroter Flammen (Flash Of The Scarlet Flames) | CrIg | 15 | [344](#blitz-scharlachroter-flammen) |
-| Bogen aus feurigen Bändern (Arc Of Fiery Ribbons) | CrIg | 25 | [344](#bogen-aus-feurigen-bändern) |
+| Den schlummernden Leichnam erwecken (Awaken The Slumbering Corpse) | ReCo | 25 | [338](#den-schlummernden-leichnam-erwecken) |
+| Kugel der abgründigen Flamme (Ball Of Abysmal Flame) | CrIg | 35 | [344](#kugel-der-abgründigen-flamme) |
+| Fluch des hinfälligen Leibes (Bane Of The Decrepit Body) | PeCo | 25 | [336](#fluch-des-hinfälligen-leibes) |
+| Tier winziger Gestalt (Beast Of Minuscule Proportions) | MuAn | 20 | [318](#tier-winziger-gestalt) |
+| Tier ungeheurer Größe (Beast Of Outlandish Size) | MuAn | 15 | [317](#tier-ungeheurer-größe) |
+| Das neu geformte Tier (Beast Remade, The) | MuAn | 25 | [318](#das-neu-geformte-tier) |
+| Wunde verbinden (Bind Wound) | CrCo | 10 | [332](#wunde-verbinden) |
+| Schwarzes Flüstern (Black Whisper) | PeMe | 40 | [356](#schwarzes-flüstern) |
+| Klinge der wütenden Flamme (Blade Of The Virulent Flame) | CrIg | 15 | [344](#klinge-der-wütenden-flamme) |
+| Segen der kindlichen Glückseligkeit (Blessing Of Childlike Bliss) | PeMe | 25 | [356](#segen-der-kindlichen-glückseligkeit) |
+| Den Giftzahn der Viper abstumpfen (Blunt The Viper's Fangs) | PeAn | 20 | [319](#den-giftzahn-der-viper-abstumpfen) |
+| Das üppige Festmahl (Bountiful Feast, The) | CrHe | 35 | [339](#das-üppige-festmahl) |
+| Die anrollende Welle brechen (Break The Oncoming Wave) | ReAq | 10 | [324](#die-anrollende-welle-brechen) |
+| Atem des freien Himmels (Breath Of The Open Sky) | CrAu | 40 | [327](#atem-des-freien-himmels) |
+| Hauch des Winters (Breath Of Winter) | ReAq | 15 | [324](#hauch-des-winters) |
 | Brücke aus Frost (Bridge Of Frost) | ReAq | 30 | [324](#brücke-aus-frost) |
 | Brücke aus Holz (Bridge Of Wood) | CrHe | 20 | [339](#brücke-aus-holz) |
-| Brunnen ohne Licht (Well Without Light) | PeIg | 25 | [346](#brunnen-ohne-licht) |
-| Das Buch des tierischen Geistes öffnen (Opening The Tome Of The Animal's Mind) | InAn | 25 | [317](#das-buch-des-tierischen-geistes-öffnen) |
-| Chaos der zornigen Wellen (Chaos Of The Angry Waves) | ReAq | 30 | [324](#chaos-der-zornigen-wellen) |
-| Des Chirurgen heilende Berührung (Chirurgeon's Healing Touch, The) | CrCo | 20 | [332](#des-chirurgen-heilende-berührung) |
-| Communion des Zauberers (Wizard's Communion) | MuVi | Allgemein | [369](#communion-des-zauberers) |
-| Dornenwand (Wall Of Thorns) | CrHe | 20 | [339](#dornenwand) |
-| Düsternis des Abends (Gloom Of Evening) | PeIg | 10 | [346](#düsternis-des-abends) |
-| Duft des friedvollen Schlummers (Scent Of Peaceful Slumber) | ReMe | 20 | [357](#duft-des-friedvollen-schlummers) |
-| Durch das unnachgiebige Tor schlüpfen (Pass The Unyielding Portal) | MuHe | 5 | [340](#durch-das-unnachgiebige-tor-schlüpfen) |
-| Durchbohrende Holzlanze (Piercing Shaft Of Wood) | MuHe | 10 | [341](#durchbohrende-holzlanze) |
-| Eigene Illusionen erkennen (Discern Own Illusions) | InIm | 15 | [349](#eigene-illusionen-erkennen) |
-| Einfühlung in den Wald (Intuition Of The Forest) | InHe | 10 | [340](#einfühlung-in-den-wald) |
-| Eis des Ertrinkens (Ice Of Drowning) | ReAq | 35 | [324](#eis-des-ertrinkens) |
-| Eisige Berührung des Winters (Winter's Icy Touch) | PeIg | 10 | [346](#eisige-berührung-des-winters) |
-| Eisiger Griff des Zauberers (Wizard's Icy Grip) | PeIg | 30 | [346](#eisiger-griff-des-zauberers) |
-| Das Ende der mächtigen Burg (End Of The Mighty Castle) | PeTe | 25 | [362](#das-ende-der-mächtigen-burg) |
-| Enthüllte Mängel des sterblichen Fleisches (Revealed Flaws Of Mortal Flesh) | InCo | 10 | [333](#enthüllte-mängel-des-sterblichen-fleisches) |
-| Das enthüllte unsichtbare Auge (Invisible Eye Revealed, The) | InVi | Allgemein | [366](#das-enthüllte-unsichtbare-auge) |
-| Entzauberung (Disenchant) | PeVi | Allgemein | [370](#entzauberung) |
-| Die Erde bricht auseinander (Earth Split Asunder, The) | ReTe | 30 | [364](#die-erde-bricht-auseinander) |
-| Erderschütterung (Earth Shock) | ReTe | 30 | [363](#erderschütterung) |
-| Das Erdtor verschließen (Closing The Earth's Gate) | PeAq | 25 | [323](#das-erdtor-verschließen) |
-| Erinnerung an nie gelebte Augenblicke (Recollection Of Memories Never Quite Lived) | MuMe | 4 | [355](#erinnerung-an-nie-gelebte-augenblicke) |
-| Erinnerung des fernen Traums (Memory Of The Distant Dream) | CrMe | 20 | [353](#erinnerung-des-fernen-traums) |
-| Erkennen der wahren und trügerischen Bilder (Discern The Images Of Truth And Falsehood) | InIm | Allgemein | [349](#erkennen-der-wahren-und-trügerischen-bilder) |
-| Das erloschene Feuer der Leidenschaft (Passion's Lost Feeling) | PeMe | 25 | [356](#das-erloschene-feuer-der-leidenschaft) |
-| Erscheinung der heimsuchenden Geister (Vision Of The Haunting Spirits) | MuMe | 40 | [355](#erscheinung-der-heimsuchenden-geister) |
-| Erscheinungen der höllischen Schrecken (Visions Of The Infernal Terrors) | ReMe | 30 | [357](#erscheinungen-der-höllischen-schrecken) |
-| Ewige Auslöschung des Dämons (Demon's Eternal Oblivion) | PeVi | Allgemein | [370](#ewige-auslöschung-des-dämons) |
-| Fäden der unfreiwilligen Marionette (Strings Of The Unwilling Marionette) | ReCo | 25 | [338](#fäden-der-unfreiwilligen-marionette) |
-| Falle der schlingenden Ranken (Trap Of The Entwining Vines) | CrHe | 15 | [339](#falle-der-schlingenden-ranken) |
-| Den Feenschleier durchdringen (Piercing The Faerie Veil) | InVi | 20 | [367](#den-feenschleier-durchdringen) |
-| Feiner Geschmack von Gift und Reinheit (Subtle Taste Of Poison And Purity) | InAq | 5 | [321](#feiner-geschmack-von-gift-und-reinheit) |
-| Fell und Haut verrotten (Decay Fur And Hide) | PeAn | 10 | [318](#fell-und-haut-verrotten) |
-| Fels aus zähem Lehm (Rock Of Viscid Clay) | MuTe | 15 | [361](#fels-aus-zähem-lehm) |
-| Das Feuer einfangen (Trapping The Fire) | MuIg | 25 | [346](#das-feuer-einfangen) |
-| Feuerkleid (Coat Of Flame) | CrIg | 25 | [344](#feuerkleid) |
-| Finsternis des Zauberers (Wizard's Eclipse) | PeIg | 35 | [346](#finsternis-des-zauberers) |
-| Flamme in der Hand (Palm Of Flame) | CrIg | 5 | [343](#flamme-in-der-hand) |
-| Flammen aus gemeißeltem Eis (Flames Of Sculpted Ice) | MuIg | 35 | [346](#flammen-aus-gemeißeltem-eis) |
-| Flammen- und Rauchschauspiel (Show Of The Flames And Smoke) | MuIg | 10 | [345](#flammen-und-rauchschauspiel) |
-| Fledermausaugen (Eyes Of The Bat) | InAu | 25 | [327](#fledermausaugen) |
-| Fluch der Kirke (Curse Of Circe) | MuCo | 30 | [334](#fluch-der-kirke) |
-| Fluch der unangekündigten Seuche (Curse Of The Unportended Plague) | PeCo | 55 | [337](#fluch-der-unangekündigten-seuche) |
-| Fluch der unbändigen Zunge (Curse Of The Unruly Tongue) | ReCo | 5 | [337](#fluch-der-unbändigen-zunge) |
-| Fluch der Wüste (Curse Of The Desert) | PeAq | 25 | [323](#fluch-der-wüste) |
-| Fluch des aussätzigen Fleisches (Curse Of The Leprous Flesh) | PeCo | 25 | [336](#fluch-des-aussätzigen-fleisches) |
-| Fluch des faulenden Holzes (Curse Of The Rotted Wood) | PeHe | 5 | [341](#fluch-des-faulenden-holzes) |
-| Fluch des gefräßigen Schwarms (Curse Of The Ravenous Swarm) | CrAn | 50 | [316](#fluch-des-gefräßigen-schwarms) |
-| Fluch des gespenstischen Waldes (Curse Of The Haunted Forest) | MuHe | 60 | [341](#fluch-des-gespenstischen-waldes) |
-| Fluch des hinfälligen Leibes (Bane Of The Decrepit Body) | PeCo | 25 | [336](#fluch-des-hinfälligen-leibes) |
-| Flüsternde Winde (Whispering Winds) | InAu | 15 | [327](#flüsternde-winde) |
-| Frostiger Hauch der gesprochenen Lüge (Frosty Breath Of The Spoken Lie) | InMe | 20 | [354](#frostiger-hauch-der-gesprochenen-lüge) |
-| Gabe der Bärenstärke (Gift Of The Bear's Fortitude) | MuCo | 25 | [334](#gabe-der-bärenstärke) |
-| Gabe der Froschbeine (Gift Of The Frog's Legs) | ReCo | 15 | [338](#gabe-der-froschbeine) |
-| Gabe der Vernunft (Gift Of Reason) | CrMe | 35 | [354](#gabe-der-vernunft) |
-| Die Gabel des Zauberers (Sorcerer's Fork, The) | MuVi | Allgemein | [368](#die-gabel-des-zauberers) |
-| Gedanken im Kauderwelsch (Thoughts Within Babble) | InMe | 25 | [354](#gedanken-im-kauderwelsch) |
-| Gefängnis aus Flammen (Prison Of Flames) | MuIg | 20 | [345](#gefängnis-aus-flammen) |
+| Besen der Winde (Broom Of The Winds) | CrAu | 15 | [326](#besen-der-winde) |
+| Ausbruch der fegenden Flammen (Burst Of The Sweeping Flames) | ReIg | 25 | [347](#ausbruch-der-fegenden-flammen) |
+| Ruf des rauschenden Wassers (Call Of The Rushing Waters) | InAq | 15 | [322](#ruf-des-rauschenden-wassers) |
+| Der Ruf des Schlummers (Call To Slumber, The) | ReMe | 10 | [357](#der-ruf-des-schlummers) |
+| Den Rat der Bäume einberufen (Calling The Council Of The Trees) | ReHe | 45 | [343](#den-rat-der-bäume-einberufen) |
+| Die verhasste Dürre herbeirufen (Calling The Odious Drought) | PeAq | 50 | [323](#die-verhasste-dürre-herbeirufen) |
+| Beruhigung des bewegten Herzens (Calm The Motion Of The Heart) | PeMe | 15 | [356](#beruhigung-des-bewegten-herzens) |
 | Die gefangene Stimme (Captive Voice, The) | ReIm | 30 | [352](#die-gefangene-stimme) |
-| Geflecht aus Holz und Dornen (Tangle Of Wood And Thorns) | ReHe | 15 | [342](#geflecht-aus-holz-und-dornen) |
-| Geflüster durch das Schwarze Tor (Whispers Through The Black Gate) | InCo | 15 | [333](#geflüster-durch-das-schwarze-tor) |
-| Das (Form)-Gefüge auflösen (Unraveling The Fabric Of (Form)) | PeVi | Allgemein | [370](#das-form-gefüge-auflösen) |
-| Geist des Tieres (Mind Of The Beast) | MuMe | 30 | [355](#geist-des-tieres) |
-| Gemach der Frühlingsbrisen (Chamber Of Spring Breezes) | CrAu | 5 | [325](#gemach-der-frühlingsbrisen) |
-| Den Geruch der Magie verschleiern (Masking The Odor Of Magic) | PeVi | Allgemein | [369](#den-geruch-der-magie-verschleiern) |
-| Das Geschenk der Lebendigkeit (Gift Of Vigor, The) | ReCo | 20 | [338](#das-geschenk-der-lebendigkeit) |
-| Das Geschenk des Enigmas (Enigma's Gift, The) | CrVi | 30 | [365](#das-geschenk-des-enigmas) |
-| Geschichten der Asche (Tales Of The Ashes) | InIg | 5 | [345](#geschichten-der-asche) |
-| Geschmack der tauben Zunge (Taste Of The Dulled Tongue) | PeIm | 5 | [351](#geschmack-der-tauben-zunge) |
-| Geschmack von Gewürzen und Kräutern (Taste Of The Spices And Herbs) | MuIm | 5 | [350](#geschmack-von-gewürzen-und-kräutern) |
-| Geschmeidiges Eisen und steifes Seil (Supple Iron And Rigid Rope) | MuTe | 10 | [361](#geschmeidiges-eisen-und-steifes-seil) |
-| Gespenstische Luftgestalt (Air's Ghostly Form) | CrAu | 5 | [325](#gespenstische-luftgestalt) |
-| Gespräch mit Pflanze und Baum (Converse With Plant And Tree) | InHe | 25 | [340](#gespräch-mit-pflanze-und-baum) |
-| Gestalt des Waldläufers (Shape Of The Woodland Prowler) | MuCo | 25 | [334](#gestalt-des-waldläufers) |
-| Gestank der zwanzig Leichen (Stench Of The Twenty Corpses) | CrAu | 10 | [326](#gestank-der-zwanzig-leichen) |
-| Gewaltiger Wasserstrahl (Mighty Torrent Of Water) | CrAq | 20 | [321](#gewaltiger-wasserstrahl) |
-| Gewicht von tausend Höllen (Weight Of A Thousand Hells) | CrMe | 25 | [353](#gewicht-von-tausend-höllen) |
-| Das gezügelte Tier kommandieren (Commanding The Harnessed Beast) | ReAn | 30 | [320](#das-gezügelte-tier-kommandieren) |
-| Den Giftzahn der Viper abstumpfen (Blunt The Viper's Fangs) | PeAn | 20 | [319](#den-giftzahn-der-viper-abstumpfen) |
-| Griff der würgenden Hand (Grip Of The Choking Hand) | PeCo | 25 | [336](#griff-der-würgenden-hand) |
-| Die große Fäulnis (Great Rot, The) | PeHe | 25 | [341](#die-große-fäulnis) |
-| Grube der klaffenden Erde (Pit Of The Gaping Earth) | PeTe | 15 | [361](#grube-der-klaffenden-erde) |
-| Hände der ergreifenden Erde (Hands Of The Grasping Earth) | ReTe | 15 | [363](#hände-der-ergreifenden-erde) |
-| Haltung des geduldigen Baumes (Stance Of The Patient Tree) | MuCo | 35 | [335](#haltung-des-geduldigen-baumes) |
-| Hauch des Winters (Breath Of Winter) | ReAq | 15 | [324](#hauch-des-winters) |
-| Den heimsuchenden Geist zur Ruhe betten (Lay To Rest The Haunting Spirit) | PeMe | Allgemein | [355](#den-heimsuchenden-geist-zur-ruhe-betten) |
-| Heimsuchung des lebenden Geistes (Haunt Of The Living Ghost) | CrIm | 35 | [348](#heimsuchung-des-lebenden-geistes) |
-| Herbeirufen der Mattigkeit (Invocation Of Weariness) | PeCo | 20 | [336](#herbeirufen-der-mattigkeit) |
-| Herr der Bäume (Lord Of The Trees) | ReHe | 25 | [343](#herr-der-bäume) |
-| Den heulenden Wolf lähmen (Cripple The Howling Wolf) | PeAn | 25 | [319](#den-heulenden-wolf-lähmen) |
-| Hitze der glühenden Schmiede (Heat Of The Searing Forge) | CrIg | 10 | [343](#hitze-der-glühenden-schmiede) |
-| Höllischer Todesrauch (Infernal Smoke Of Death) | MuAu | 40 | [328](#höllischer-todesrauch) |
-| Die Holzschäfte abwehren (Repel The Wooden Shafts) | ReHe | 10 | [342](#die-holzschäfte-abwehren) |
-| Hornissenfeuer (Hornet Fire) | MuIg | 10 | [345](#hornissenfeuer) |
-| Hülle falscher Erkenntnisse (Shell Of False Determinations) | CrVi | Allgemein | [365](#hülle-falscher-erkenntnisse) |
-| Hülle undurchdringlicher Mysterien (Shell Of Opaque Mysteries) | CrVi | Allgemein | [365](#hülle-undurchdringlicher-mysterien) |
-| Illusion der kühlen Flammen (Illusion Of Cool Flames) | PeIm | 10 | [351](#illusion-der-kühlen-flammen) |
-| Illusion des verschobenen Bildes (Illusion Of The Shifted Image) | ReIm | 10 | [352](#illusion-des-verschobenen-bildes) |
-| Illusion des versetzten Schlosses (Illusion Of The Misplaced Castle) | ReIm | 50 | [352](#illusion-des-versetzten-schlosses) |
-| Den immateriellen Tunnel öffnen (Opening The Intangible Tunnel) | ReVi | Allgemein | [372](#den-immateriellen-tunnel-öffnen) |
-| Der innerste Gefährte (Inmost Companion) | MuMe | 40 | [355](#der-innerste-gefährte) |
-| Jupiters dröhnender Schlag (Jupiter's Resounding Blow) | CrAu | 10 | [326](#jupiters-dröhnender-schlag) |
-| Der Kamm der Erdwelle (Crest Of The Earth Wave) | ReTe | 20 | [363](#der-kamm-der-erdwelle) |
+| Der Steinschlag (Cascade Of Rocks) | PeTe | 40 | [362](#der-steinschlag) |
 | Kammer der Unsichtbarkeit (Chamber Of Invisibility) | PeIm | 25 | [351](#kammer-der-unsichtbarkeit) |
-| Die Kappe des Falken (Falcon's Hood, The) | PeAn | 25 | [319](#die-kappe-des-falken) |
-| Der Karfunkel der Erde (Earth's Carbuncle, The) | ReTe | 15 | [363](#der-karfunkel-der-erde) |
-| Klare Sicht durch die Luft (True Sight Of The Air) | InAu | 15 | [327](#klare-sicht-durch-die-luft) |
-| Klarer Blick der Naiaden (Clear Sight Of The Naiad) | InAq | 5 | [321](#klarer-blick-der-naiaden) |
-| Klauen der Winde (Talons Of The Winds) | MuAu | 20 | [328](#klauen-der-winde) |
-| Klinge der wütenden Flamme (Blade Of The Virulent Flame) | CrIg | 15 | [344](#klinge-der-wütenden-flamme) |
-| Krämpfe der unkontrollierten Hand (Spasms Of The Uncontrolled Hand) | ReCo | 5 | [337](#krämpfe-der-unkontrollierten-hand) |
-| Kränze aus faulem Rauch (Wreaths Of Foul Smoke) | CrAu | 10 | [326](#kränze-aus-faulem-rauch) |
-| Krampfender Griff des zerquetschten Herzens (Clenching Grasp Of The Crushed Heart) | PeCo | 40 | [336](#krampfender-griff-des-zerquetschten-herzens) |
+| Gemach der Frühlingsbrisen (Chamber Of Spring Breezes) | CrAu | 5 | [325](#gemach-der-frühlingsbrisen) |
+| Chaos der zornigen Wellen (Chaos Of The Angry Waves) | ReAq | 30 | [324](#chaos-der-zornigen-wellen) |
+| Angriff der zornigen Winde (Charge Of The Angry Winds) | CrAu | 15 | [326](#angriff-der-zornigen-winde) |
+| Amulett gegen Verwesung (Charm Against Putrefaction) | CrCo | 10 | [332](#amulett-gegen-verwesung) |
+| Den Sensenmann überlisten (Cheating The Reaper) | CrCo | 30 | [332](#den-sensenmann-überlisten) |
+| Des Chirurgen heilende Berührung (Chirurgeon's Healing Touch, The) | CrCo | 20 | [332](#des-chirurgen-heilende-berührung) |
 | Kreis der Bestienabwehr (Circle Of Beast Warding) | ReAn | 5 | [319](#kreis-der-bestienabwehr) |
 | Kreis der umschließenden Flammen (Circle Of Encompassing Flames) | CrIg | 35 | [344](#kreis-der-umschließenden-flammen) |
 | Kreisende Winde des Schutzes (Circling Winds Of Protection) | CrAu | 20 | [326](#kreisende-winde-des-schutzes) |
+| Schutzkreis gegen Dämonen (Circular Ward Against Demons) | ReVi | Allgemein | [371](#schutzkreis-gegen-dämonen) |
+| Klarer Blick der Naiaden (Clear Sight Of The Naiad) | InAq | 5 | [321](#klarer-blick-der-naiaden) |
+| Krampfender Griff des zerquetschten Herzens (Clenching Grasp Of The Crushed Heart) | PeCo | 40 | [336](#krampfender-griff-des-zerquetschten-herzens) |
+| Mantel aus schwarzen Federn (Cloak Of Black Feathers) | MuCo | 30 | [334](#mantel-aus-schwarzen-federn) |
+| Mantel aus Nebel (Cloak Of Mist) | MuCo | 40 | [335](#mantel-aus-nebel) |
+| Mantel der Entenfedern (Cloak Of The Duck's Feathers) | ReAq | 5 | [323](#mantel-der-entenfedern) |
+| Das Erdtor verschließen (Closing The Earth's Gate) | PeAq | 25 | [323](#das-erdtor-verschließen) |
+| Der wolkenlose Himmel kehrt zurück (Cloudless Sky Returned, The) | PeAu | 45 | [329](#der-wolkenlose-himmel-kehrt-zurück) |
+| Wolken von Regen und Donner (Clouds Of Rain And Thunder) | CrAu | 25 | [326](#wolken-von-regen-und-donner) |
+| Wolken des Sommerschnees (Clouds Of Summer Snow) | CrAu | 25 | [326](#wolken-des-sommerschnees) |
+| Wolken der donnernden Macht (Clouds Of Thunderous Might) | ReAu | 30 | [330](#wolken-der-donnernden-macht) |
+| Feuerkleid (Coat Of Flame) | CrIg | 25 | [344](#feuerkleid) |
+| Zwang der Geister der Nacht (Coerce The Spirits Of The Night) | ReMe | 20 | [357](#zwang-der-geister-der-nacht) |
+| Ranken der umschlingenden Pflanzen (Coils Of The Entangling Plants) | ReHe | 20 | [342](#ranken-der-umschlingenden-pflanzen) |
+| Trost des durchnässten Reisenden (Comfort Of The Drenched Traveler) | PeAq | 5 | [323](#trost-des-durchnässten-reisenden) |
+| Das gezügelte Tier kommandieren (Commanding The Harnessed Beast) | ReAn | 30 | [320](#das-gezügelte-tier-kommandieren) |
+| Verwirrung des wahnsinnigen Vibrierens (Confusion Of The Insane Vibrations) | ReIm | 30 | [352](#verwirrung-des-wahnsinnigen-vibrierens) |
+| Verwirrung des betäubten Willens (Confusion Of The Numbed Will) | ReMe | 15 | [357](#verwirrung-des-betäubten-willens) |
+| Beschwörung der unbestreitbaren Kälte (Conjuration Of The Indubitable Cold) | PeIg | 25 | [346](#beschwörung-der-unbestreitbaren-kälte) |
+| Der stämmige Weinstock (Conjure The Sturdy Vine) | CrHe | 5 | [339](#der-stämmige-weinstock) |
+| Der mystische Turm (Conjuring The Mystic Tower) | CrTe | 35 | [359](#der-mystische-turm) |
+| Gespräch mit Pflanze und Baum (Converse With Plant And Tree) | InHe | 25 | [340](#gespräch-mit-pflanze-und-baum) |
 | Der kriechende Abgrund (Creeping Chasm) | ReTe | 30 | [363](#der-kriechende-abgrund) |
 | Kriechendes Öl (Creeping Oil) | CrAq | 15 | [321](#kriechendes-öl) |
+| Der Kamm der Erdwelle (Crest Of The Earth Wave) | ReTe | 20 | [363](#der-kamm-der-erdwelle) |
+| Den heulenden Wolf lähmen (Cripple The Howling Wolf) | PeAn | 25 | [319](#den-heulenden-wolf-lähmen) |
 | Der Kristallpfeil (Crystal Dart, The) | MuTe | 10 | [360](#der-kristallpfeil) |
-| Kugel der abgründigen Flamme (Ball Of Abysmal Flame) | CrIg | 35 | [344](#kugel-der-abgründigen-flamme) |
-| Der Kuss des Todes (Kiss Of Death, The) | PeCo | 45 | [336](#der-kuss-des-todes) |
-| Läuterung der eiternden Wunden (Purification Of The Festering Wounds) | CrCo | 20 | [332](#läuterung-der-eiternden-wunden) |
-| Lampe ohne Flamme (Lamp Without Flame) | CrIg | 10 | [344](#lampe-ohne-flamme) |
-| Den lebenden Baum formen (Twist The Living Tree) | ReHe | 25 | [343](#den-lebenden-baum-formen) |
-| Lichtschaft der Nacht (Light Shaft Of The Night) | ReIg | 20 | [347](#lichtschaft-der-nacht) |
-| Linderung der Schmerzen des Tieres (Soothe Pains Of The Beast) | CrAn | 20 | [316](#linderung-der-schmerzen-des-tieres) |
-| Lungen des Fisches (Lungs Of The Fish) | MuAq | 20 | [323](#lungen-des-fisches) |
-| Magie verschleiern (Shroud Magic) | MuVi | Allgemein | [368](#magie-verschleiern) |
-| Mantel aus Nebel (Cloak Of Mist) | MuCo | 40 | [335](#mantel-aus-nebel) |
-| Mantel aus schwarzen Federn (Cloak Of Black Feathers) | MuCo | 30 | [334](#mantel-aus-schwarzen-federn) |
-| Mantel der Entenfedern (Cloak Of The Duck's Feathers) | ReAq | 5 | [323](#mantel-der-entenfedern) |
-| Mauer aus schützendem Stein (Wall Of Protecting Stone) | CrTe | 25 | [359](#mauer-aus-schützendem-stein) |
-| Mondstrahl (Moonbeam) | CrIg | 3 | [343](#mondstrahl) |
-| Der mystische Turm (Conjuring The Mystic Tower) | CrTe | 35 | [359](#der-mystische-turm) |
-| Die nachgebende Erde (Forgiving Earth, The) | ReTe | 10 | [363](#die-nachgebende-erde) |
-| Die Natur der Vis erkennen (Sense The Nature Of Vis) | InVi | 5 | [367](#die-natur-der-vis-erkennen) |
-| Nebel der Verwirrung (Fog Of Confusion) | MuAu | 45 | [328](#nebel-der-verwirrung) |
-| Nebel des Wandels (Mists Of Change) | MuCo | 60 | [335](#nebel-des-wandels) |
-| Das neu geformte Tier (Beast Remade, The) | MuAn | 25 | [318](#das-neu-geformte-tier) |
-| Das Objekt wächst (Object Of Increased Size) | MuTe | 20 | [361](#das-objekt-wächst) |
-| Ölregen (Rain Of Oil) | MuAu | 50 | [329](#ölregen) |
+| Fluch der Kirke (Curse Of Circe) | MuCo | 30 | [334](#fluch-der-kirke) |
+| Fluch der Wüste (Curse Of The Desert) | PeAq | 25 | [323](#fluch-der-wüste) |
+| Fluch des gespenstischen Waldes (Curse Of The Haunted Forest) | MuHe | 60 | [341](#fluch-des-gespenstischen-waldes) |
+| Fluch des aussätzigen Fleisches (Curse Of The Leprous Flesh) | PeCo | 25 | [336](#fluch-des-aussätzigen-fleisches) |
+| Fluch des gefräßigen Schwarms (Curse Of The Ravenous Swarm) | CrAn | 50 | [316](#fluch-des-gefräßigen-schwarms) |
+| Fluch des faulenden Holzes (Curse Of The Rotted Wood) | PeHe | 5 | [341](#fluch-des-faulenden-holzes) |
+| Fluch der unangekündigten Seuche (Curse Of The Unportended Plague) | PeCo | 55 | [337](#fluch-der-unangekündigten-seuche) |
+| Fluch der unbändigen Zunge (Curse Of The Unruly Tongue) | ReCo | 5 | [337](#fluch-der-unbändigen-zunge) |
+| Tanz der Stäbe (Dance Of The Staves) | ReHe | 5 | [342](#tanz-der-stäbe) |
+| Fell und Haut verrotten (Decay Fur And Hide) | PeAn | 10 | [318](#fell-und-haut-verrotten) |
+| Sintflut des reißenden Stroms (Deluge Of Rushing And Dashing) | CrAq | 40 | [321](#sintflut-des-reißenden-stroms) |
+| Ewige Auslöschung des Dämons (Demon's Eternal Oblivion) | PeVi | Allgemein | [370](#ewige-auslöschung-des-dämons) |
+| Verzweiflung der zitternden Fesseln (Despair Of The Quivering Manacles) | ReCo | 15 | [337](#verzweiflung-der-zitternden-fesseln) |
+| Eigene Illusionen erkennen (Discern Own Illusions) | InIm | 15 | [349](#eigene-illusionen-erkennen) |
+| Erkennen der wahren und trügerischen Bilder (Discern The Images Of Truth And Falsehood) | InIm | Allgemein | [349](#erkennen-der-wahren-und-trügerischen-bilder) |
+| Entzauberung (Disenchant) | PeVi | Allgemein | [370](#entzauberung) |
+| Das Antlitz des Fremden (Disguise of the New Visage) (Disguise Of The New Visage) | MuCo | 15 | [333](#das-antlitz-des-fremden-disguise-of-the-new-visage) |
+| Tarnung durch widrigen Geruch (Disguise Of The Putrid Aroma) | ReAn | 5 | [319](#tarnung-durch-widrigen-geruch) |
+| Verkleidung des verwandelten Bildes (Disguise Of The Transformed Image) | MuIm | 15 | [350](#verkleidung-des-verwandelten-bildes) |
+| Auflösung des Phantombildes (Dispel The Phantom Image) | PeIm | Allgemein | [351](#auflösung-des-phantombildes) |
+| Wams aus undurchdringlicher Seide (Doublet Of Impenetrable Silk) | MuAn | 15 | [318](#wams-aus-undurchdringlicher-seide) |
+| Traum des ruhenden Geistes (Dream Of The Mind That Sits) | InTe | 50 | [360](#traum-des-ruhenden-geistes) |
+| Staub zu Staub (Dust To Dust) | PeCo | 15 | [335](#staub-zu-staub) |
 | Das Ohr für entfernte Stimmen (Ear For Distant Voices, The) | InIm | 20 | [349](#das-ohr-für-entfernte-stimmen) |
+| Erderschütterung (Earth Shock) | ReTe | 30 | [363](#erderschütterung) |
+| Die Erde bricht auseinander (Earth Split Asunder, The) | ReTe | 30 | [364](#die-erde-bricht-auseinander) |
+| Unzerbrechliche Erde (Earth That Breaks No More) | MuTe | 20 | [361](#unzerbrechliche-erde) |
+| Der Karfunkel der Erde (Earth's Carbuncle, The) | ReTe | 15 | [363](#der-karfunkel-der-erde) |
+| Die Schärfe der Klinge (Edge Of The Razor) | MuTe | 20 | [361](#die-schärfe-der-klinge) |
+| Verzauberung der Gleichgültigkeit (Enchantment Of Detachment) | PeMe | 15 | [356](#verzauberung-der-gleichgültigkeit) |
+| Verzauberung des Seherbeckens (Enchantment Of The Scrying Pool) | InAq | 30 | [322](#verzauberung-des-seherbeckens) |
+| Das Ende der mächtigen Burg (End Of The Mighty Castle) | PeTe | 25 | [362](#das-ende-der-mächtigen-burg) |
+| Ausdauer der Berserker (Endurance Of The Berserkers) | ReCo | 15 | [338](#ausdauer-der-berserker) |
+| Das Geschenk des Enigmas (Enigma's Gift, The) | CrVi | 30 | [365](#das-geschenk-des-enigmas) |
+| Versklavung des sterblichen Geistes (Enslave The Mortal Mind) | ReMe | 40 | [358](#versklavung-des-sterblichen-geistes) |
+| Tausch der beiden Geister (Exchange Of The Two Minds) | ReMe | 55 | [358](#tausch-der-beiden-geister) |
+| Das Auge des Weisen (Eye Of The Sage, The) | InCo | 30 | [333](#das-auge-des-weisen) |
+| Fledermausaugen (Eyes Of The Bat) | InAu | 25 | [327](#fledermausaugen) |
+| Augen der Katze (Eyes Of The Cat) | MuCo | 5 | [333](#augen-der-katze) |
+| Augen des Adlers (Eyes Of The Eagle) | InIm | 25 | [349](#augen-des-adlers) |
+| Augen der Äonen (Eyes Of The Eons) | InTe | 10 | [359](#augen-der-äonen) |
+| Augen der Flamme (Eyes Of The Flame) | InIg | 35 | [345](#augen-der-flamme) |
+| Augen des tückischen Geländes (Eyes Of The Treacherous Terrain) | InTe | 15 | [359](#augen-des-tückischen-geländes) |
+| Die Kappe des Falken (Falcon's Hood, The) | PeAn | 25 | [319](#die-kappe-des-falken) |
+| Die zerschmetternde Faust (Fist Of Shattering) | PeTe | 10 | [361](#die-zerschmetternde-faust) |
+| Flammen aus gemeißeltem Eis (Flames Of Sculpted Ice) | MuIg | 35 | [346](#flammen-aus-gemeißeltem-eis) |
+| Blitz scharlachroter Flammen (Flash Of The Scarlet Flames) | CrIg | 15 | [344](#blitz-scharlachroter-flammen) |
+| Nebel der Verwirrung (Fog Of Confusion) | MuAu | 45 | [328](#nebel-der-verwirrung) |
+| Spuren schlüpfrigen Öls (Footsteps Of Slippery Oil) | CrAq | 5 | [320](#spuren-schlüpfrigen-öls) |
+| Die nachgebende Erde (Forgiving Earth, The) | ReTe | 10 | [363](#die-nachgebende-erde) |
+| Befreiung des schreitenden Baumes (Freeing The Striding Tree) | ReHe | 30 | [343](#befreiung-des-schreitenden-baumes) |
+| Frostiger Hauch der gesprochenen Lüge (Frosty Breath Of The Spoken Lie) | InMe | 20 | [354](#frostiger-hauch-der-gesprochenen-lüge) |
+| Das Wesen der Kreatur bündeln (Gather The Essence Of The Beast) | ReVi | 15 | [372](#das-wesen-der-kreatur-bündeln) |
+| Sammlung der stürmischen Macht (Gathering Of The Stormy Might) | ReAu | 40 | [330](#sammlung-der-stürmischen-macht) |
+| Das sanfte Tier (Gentle Beast, The) | ReAn | 25 | [320](#das-sanfte-tier) |
+| Sanfte Berührung des geläuterten Körpers (Gentle Touch Of The Purified Body) | CrCo | 20 | [332](#sanfte-berührung-des-geläuterten-körpers) |
+| Gabe der Vernunft (Gift Of Reason) | CrMe | 35 | [354](#gabe-der-vernunft) |
+| Gabe der Bärenstärke (Gift Of The Bear's Fortitude) | MuCo | 25 | [334](#gabe-der-bärenstärke) |
+| Gabe der Froschbeine (Gift Of The Frog's Legs) | ReCo | 15 | [338](#gabe-der-froschbeine) |
+| Das Geschenk der Lebendigkeit (Gift Of Vigor, The) | ReCo | 20 | [338](#das-geschenk-der-lebendigkeit) |
+| Düsternis des Abends (Gloom Of Evening) | PeIg | 10 | [346](#düsternis-des-abends) |
+| Die große Fäulnis (Great Rot, The) | PeHe | 25 | [341](#die-große-fäulnis) |
+| Griff der würgenden Hand (Grip Of The Choking Hand) | PeCo | 25 | [336](#griff-der-würgenden-hand) |
+| Wachstum des Kleingetiers (Growth Of The Creeping Things) | MuAn | 15 | [318](#wachstum-des-kleingetiers) |
+| Hände der ergreifenden Erde (Hands Of The Grasping Earth) | ReTe | 15 | [363](#hände-der-ergreifenden-erde) |
+| Heimsuchung des lebenden Geistes (Haunt Of The Living Ghost) | CrIm | 35 | [348](#heimsuchung-des-lebenden-geistes) |
+| Hitze der glühenden Schmiede (Heat Of The Searing Forge) | CrIg | 10 | [343](#hitze-der-glühenden-schmiede) |
+| Das Portal des Hermes (Hermes' Portal) | ReTe | 75 | [364](#das-portal-des-hermes) |
+| Hornissenfeuer (Hornet Fire) | MuIg | 10 | [345](#hornissenfeuer) |
+| Suche nach dem Wildkraut (Hunt For The Wild Herb) | InHe | 5 | [340](#suche-nach-dem-wildkraut) |
+| Sinn des Jägers (Hunter's Sense) | InAn | 30 | [317](#sinn-des-jägers) |
+| Eis des Ertrinkens (Ice Of Drowning) | ReAq | 35 | [324](#eis-des-ertrinkens) |
+| Illusion der kühlen Flammen (Illusion Of Cool Flames) | PeIm | 10 | [351](#illusion-der-kühlen-flammen) |
+| Illusion des versetzten Schlosses (Illusion Of The Misplaced Castle) | ReIm | 50 | [352](#illusion-des-versetzten-schlosses) |
+| Illusion des verschobenen Bildes (Illusion Of The Shifted Image) | ReIm | 10 | [352](#illusion-des-verschobenen-bildes) |
+| Das vom Zauberer losgelöste Bild (Image From The Wizard Torn) | ReIm | 35 | [352](#das-vom-zauberer-losgelöste-bild) |
+| Bild des Tieres (Image Of The Beast) | InAn | 5 | [316](#bild-des-tieres) |
+| Bildphantom (Image Phantom) | MuIm | 20 | [350](#bildphantom) |
+| Die Beschwörung des Blitzes (Incantation Of Lightning, The) | CrAu | 35 | [327](#die-beschwörung-des-blitzes) |
+| Beschwörung des faulen Weines (Incantation Of Putrid Wine) | MuAq | 15 | [322](#beschwörung-des-faulen-weines) |
+| Beschwörung der Toten (Incantation Of Summoning The Dead) | ReMe | 40 | [358](#beschwörung-der-toten) |
+| Beschwörung des geheilten Körpers (Incantation Of The Body Made Whole) | CrCo | 40 | [332](#beschwörung-des-geheilten-körpers) |
+| Beschwörung der milchigen Augen (Incantation Of The Milky Eyes) | PeCo | 30 | [336](#beschwörung-der-milchigen-augen) |
+| Die unerbittliche Suche (Inexorable Search, The) | InCo | 20 | [333](#die-unerbittliche-suche) |
+| Höllischer Todesrauch (Infernal Smoke Of Death) | MuAu | 40 | [328](#höllischer-todesrauch) |
+| Der innerste Gefährte (Inmost Companion) | MuMe | 40 | [355](#der-innerste-gefährte) |
+| Einfühlung in den Wald (Intuition Of The Forest) | InHe | 10 | [340](#einfühlung-in-den-wald) |
+| Unsichtbarkeit des stehenden Zauberers (Invisibility Of The Standing Wizard) | PeIm | 15 | [351](#unsichtbarkeit-des-stehenden-zauberers) |
+| Das enthüllte unsichtbare Auge (Invisible Eye Revealed, The) | InVi | Allgemein | [366](#das-enthüllte-unsichtbare-auge) |
+| Die unsichtbare Schleuder des Vilano (Invisible Sling Of Vilano) | ReTe | 10 | [363](#die-unsichtbare-schleuder-des-vilano) |
+| Herbeirufen der Mattigkeit (Invocation Of Weariness) | PeCo | 20 | [336](#herbeirufen-der-mattigkeit) |
+| Jupiters dröhnender Schlag (Jupiter's Resounding Blow) | CrAu | 10 | [326](#jupiters-dröhnender-schlag) |
+| Der Kuss des Todes (Kiss Of Death, The) | PeCo | 45 | [336](#der-kuss-des-todes) |
+| Lampe ohne Flamme (Lamp Without Flame) | CrIg | 10 | [344](#lampe-ohne-flamme) |
+| Den heimsuchenden Geist zur Ruhe betten (Lay To Rest The Haunting Spirit) | PeMe | Allgemein | [355](#den-heimsuchenden-geist-zur-ruhe-betten) |
+| Der Sprung der Heimkehr (Leap Of Homecoming, The) | ReCo | 35 | [338](#der-sprung-der-heimkehr) |
+| Sprung des Feuers (Leap Of The Fire) | ReIg | 10 | [347](#sprung-des-feuers) |
+| Den baumelnden Hampelmann heben (Lifting The Dangling Puppet) | ReCo | 15 | [338](#den-baumelnden-hampelmann-heben) |
+| Lichtschaft der Nacht (Light Shaft Of The Night) | ReIg | 20 | [347](#lichtschaft-der-nacht) |
+| Herr der Bäume (Lord Of The Trees) | ReHe | 25 | [343](#herr-der-bäume) |
+| Verlust eines flüchtigen Augenblicks (Loss Of But A Moment's Memory) | PeMe | 15 | [356](#verlust-eines-flüchtigen-augenblicks) |
+| Lungen des Fisches (Lungs Of The Fish) | MuAq | 20 | [323](#lungen-des-fisches) |
+| Den anspruchsvollen Zauber aufrechterhalten (Maintaining The Demanding Spell) | ReVi | Allgemein | [372](#den-anspruchsvollen-zauber-aufrechterhalten) |
+| Das vielfarbige Flammenmeer (Many-Hued Conflagration, The) | MuIg | 5 | [345](#das-vielfarbige-flammenmeer) |
+| Den Geruch der Magie verschleiern (Masking The Odor Of Magic) | PeVi | Allgemein | [369](#den-geruch-der-magie-verschleiern) |
+| Das widerspenstige Tier meistern (Mastering The Unruly Beast) | ReAn | 25 | [320](#das-widerspenstige-tier-meistern) |
+| Erinnerung des fernen Traums (Memory Of The Distant Dream) | CrMe | 20 | [353](#erinnerung-des-fernen-traums) |
+| Gewaltiger Wasserstrahl (Mighty Torrent Of Water) | CrAq | 20 | [321](#gewaltiger-wasserstrahl) |
+| Geist des Tieres (Mind Of The Beast) | MuMe | 30 | [355](#geist-des-tieres) |
+| Das scharfe Auge des Bergmanns (Miner's Keen Eye, The) | InTe | 20 | [359](#das-scharfe-auge-des-bergmanns) |
+| Spiegel der Umkehrung (Form) (Mirror Of Opposition (Form)) | MuVi | Allgemein | [368](#spiegel-der-umkehrung-form) |
+| Nebel des Wandels (Mists Of Change) | MuCo | 60 | [335](#nebel-des-wandels) |
+| Mondstrahl (Moonbeam) | CrIg | 3 | [343](#mondstrahl) |
+| Zorn des Neptun (Neptune's Wrath) | ReAq | 40 | [325](#zorn-des-neptun) |
+| Töne eines wohlklingenden Klangs (Notes Of A Delightful Sound) | MuIm | 10 | [350](#töne-eines-wohlklingenden-klangs) |
+| Das Objekt wächst (Object Of Increased Size) | MuTe | 20 | [361](#das-objekt-wächst) |
+| Vernichtung der metallenen Schranke (Obliteration Of The Metallic Barrier) | PeTe | 20 | [361](#vernichtung-der-metallenen-schranke) |
+| Den immateriellen Tunnel öffnen (Opening The Intangible Tunnel) | ReVi | Allgemein | [372](#den-immateriellen-tunnel-öffnen) |
+| Das Buch des tierischen Geistes öffnen (Opening The Tome Of The Animal's Mind) | InAn | 25 | [317](#das-buch-des-tierischen-geistes-öffnen) |
+| Qualen der ewigen Sorge (Pains Of The Perpetual Worry) | CrMe | 20 | [353](#qualen-der-ewigen-sorge) |
+| Flamme in der Hand (Palm Of Flame) | CrIg | 5 | [343](#flamme-in-der-hand) |
+| Schrecken der Elefantenmaus (Panic Of The Elephant's Mouse) | ReAn | 15 | [319](#schrecken-der-elefantenmaus) |
 | Panik des zitternden Herzens (Panic Of The Trembling Heart) | CrMe | 15 | [353](#panik-des-zitternden-herzens) |
+| Austrocknender Wind (Parching Wind) | PeAq | 20 | [323](#austrocknender-wind) |
+| Das Teilen der Wellen (Parting The Waves) | ReAq | 30 | [324](#das-teilen-der-wellen) |
+| Durch das unnachgiebige Tor schlüpfen (Pass The Unyielding Portal) | MuHe | 5 | [340](#durch-das-unnachgiebige-tor-schlüpfen) |
+| Das erloschene Feuer der Leidenschaft (Passion's Lost Feeling) | PeMe | 25 | [356](#das-erloschene-feuer-der-leidenschaft) |
+| Vergangenheit eines anderen (Past Of Another) | MuMe | 35 | [355](#vergangenheit-eines-anderen) |
+| Blick in den sterblichen Geist (Peering Into The Mortal Mind) | InMe | 30 | [354](#blick-in-den-sterblichen-geist) |
+| Wahrnehmung der widerstreitenden Motive (Perception Of The Conflicting Motives) | InMe | 15 | [354](#wahrnehmung-der-widerstreitenden-motive) |
 | Phantasma der menschlichen Gestalt (Phantasm Of The Human Form) | CrIm | 25 | [348](#phantasma-der-menschlichen-gestalt) |
 | Phantasma des sprechenden Hauptes (Phantasm Of The Talking Head) | CrIm | 10 | [348](#phantasma-des-sprechenden-hauptes) |
 | Phantasmisches Tier (Phantasmal Animal) | CrIm | 20 | [348](#phantasmisches-tier) |
 | Phantomfeuer (Phantasmal Fire) | CrIm | 20 | [348](#phantomfeuer) |
 | Die phantomhafte Gabe (Phantom Gift, The) | CrVi | 15 | [365](#die-phantomhafte-gabe) |
+| Auge des Arztes (Physician's Eye) | InCo | 5 | [333](#auge-des-arztes) |
+| Durchbohrende Holzlanze (Piercing Shaft Of Wood) | MuHe | 10 | [341](#durchbohrende-holzlanze) |
+| Den Feenschleier durchdringen (Piercing The Faerie Veil) | InVi | 20 | [367](#den-feenschleier-durchdringen) |
 | Pilum aus Feuer (Pilum Of Fire) | CrIg | 20 | [344](#pilum-aus-feuer) |
-| Das Portal des Hermes (Hermes' Portal) | ReTe | 75 | [364](#das-portal-des-hermes) |
-| Qual des Tieres (Agony Of The Beast) | PeAn | 15 | [318](#qual-des-tieres) |
-| Qualen der ewigen Sorge (Pains Of The Perpetual Worry) | CrMe | 20 | [353](#qualen-der-ewigen-sorge) |
-| Ranken der umschlingenden Pflanzen (Coils Of The Entangling Plants) | ReHe | 20 | [342](#ranken-der-umschlingenden-pflanzen) |
-| Den Rat der Bäume einberufen (Calling The Council Of The Trees) | ReHe | 45 | [343](#den-rat-der-bäume-einberufen) |
-| Reichweite des Zauberers (Form) (Wizard's Reach (Form)) | MuVi | Allgemein | [369](#reichweite-des-zauberers-form) |
-| Das Reittier des Zauberers (Wizard's Mount, The) | CrAn | 35 | [316](#das-reittier-des-zauberers) |
-| Ring der Abwehr gegen Geister (Ring Of Warding Against Spirits) | ReMe | Allgemein | [357](#ring-der-abwehr-gegen-geister) |
-| Ross der Rache (Steed Of Vengeance) | MuAn | 35 | [318](#ross-der-rache) |
-| Rostiger Verfall von zweihundert Jahren (Rusted Decay Of Ten-Score Years) | PeTe | 10 | [361](#rostiger-verfall-von-zweihundert-jahren) |
-| Ruf des rauschenden Wassers (Call Of The Rushing Waters) | InAq | 15 | [322](#ruf-des-rauschenden-wassers) |
-| Der Ruf des Schlummers (Call To Slumber, The) | ReMe | 10 | [357](#der-ruf-des-schlummers) |
-| Sammlung der stürmischen Macht (Gathering Of The Stormy Might) | ReAu | 40 | [330](#sammlung-der-stürmischen-macht) |
-| Sanfte Berührung des geläuterten Körpers (Gentle Touch Of The Purified Body) | CrCo | 20 | [332](#sanfte-berührung-des-geläuterten-körpers) |
-| Das sanfte Tier (Gentle Beast, The) | ReAn | 25 | [320](#das-sanfte-tier) |
-| Die Schärfe der Klinge (Edge Of The Razor) | MuTe | 20 | [361](#die-schärfe-der-klinge) |
-| Das scharfe Auge des Bergmanns (Miner's Keen Eye, The) | InTe | 20 | [359](#das-scharfe-auge-des-bergmanns) |
-| Der Schatten des erneuerten Lebens (Shadow Of Life Renewed, The) | CrCo | 75 | [332](#der-schatten-des-erneuerten-lebens) |
-| Der Schatten menschlichen Lebens (Shadow Of Human Life, The) | CrIm | 40 | [349](#der-schatten-menschlichen-lebens) |
-| Schatten vergangener Feuer (Shadows Of The Fires Past) | InIg | 15 | [345](#schatten-vergangener-feuer) |
-| Schauer des Lykanthropen (Shiver Of The Lycanthrope) | InAn | 10 | [317](#schauer-des-lykanthropen) |
-| Schlag des zürnenden Astes (Strike Of The Angered Branch) | ReHe | 15 | [342](#schlag-des-zürnenden-astes) |
-| Schleier der Unsichtbarkeit (Veil Of Invisibility) | PeIm | 20 | [351](#schleier-der-unsichtbarkeit) |
-| Den schlummernden Baum erwecken (Stir The Slumbering Tree) | MuHe | 25 | [341](#den-schlummernden-baum-erwecken) |
-| Den schlummernden Leichnam erwecken (Awaken The Slumbering Corpse) | ReCo | 25 | [338](#den-schlummernden-leichnam-erwecken) |
-| Schnipsen des Erwachens (Snap Of Awakening) | ReMe | 10 | [357](#schnipsen-des-erwachens) |
-| Schrecken der Elefantenmaus (Panic Of The Elephant's Mouse) | ReAn | 15 | [319](#schrecken-der-elefantenmaus) |
-| Schrei vor dem nahenden Schaft (Shriek Of The Impending Shafts) | InHe | 15 | [340](#schrei-vor-dem-nahenden-schaft) |
-| Die Schritte auf der Erde spüren (Sense The Feet That Tread The Earth) | InTe | 30 | [360](#die-schritte-auf-der-erde-spüren) |
-| Schub des Zauberers (Form) (Wizard's Boost (Form)) | MuVi | Allgemein | [368](#schub-des-zauberers-form) |
-| Schutz vor Hitze und Flammen (Ward Against Heat And Flames) | ReIg | 25 | [347](#schutz-vor-hitze-und-flammen) |
-| Schutz vor Holz (Ward Against Wood) | ReHe | 25 | [343](#schutz-vor-holz) |
-| Schutz vor Regen (Ward Against Rain) | ReAu | 10 | [330](#schutz-vor-regen) |
-| Schutzkreis gegen Dämonen (Circular Ward Against Demons) | ReVi | Allgemein | [371](#schutzkreis-gegen-dämonen) |
-| Schutzwall gegen die Bestien der Legende (Ward Against The Beasts Of Legend) | ReAn | Allgemein | [319](#schutzwall-gegen-die-bestien-der-legende) |
-| Schutzwall gegen die Feen der Gewässer (Ward Against Faeries Of The Waters) | ReAq | Allgemein | [323](#schutzwall-gegen-die-feen-der-gewässer) |
-| Schutzwall gegen die Feen der Lüfte (Ward Against Faeries Of The Air) | ReAu | Allgemein | [329](#schutzwall-gegen-die-feen-der-lüfte) |
-| Schutzwall gegen die Feen des Gebirges (Ward Against Faeries Of The Mountain) | ReTe | Allgemein | [362](#schutzwall-gegen-die-feen-des-gebirges) |
-| Schutzwall gegen die Feen des Waldes (Ward Against Faeries Of The Wood) | ReHe | Allgemein | [342](#schutzwall-gegen-die-feen-des-waldes) |
-| Schwarzes Flüstern (Black Whisper) | PeMe | 40 | [356](#schwarzes-flüstern) |
+| Grube der klaffenden Erde (Pit Of The Gaping Earth) | PeTe | 15 | [361](#grube-der-klaffenden-erde) |
+| Das Welken der Pflanze (Plant's Withering Bane) | PeHe | 20 | [341](#das-welken-der-pflanze) |
+| Vergiftung des Willens (Poisoning The Will) | PeMe | 65 | [356](#vergiftung-des-willens) |
 | Die schweigende Frage stellen (Posing The Silent Question) | InMe | 20 | [354](#die-schweigende-frage-stellen) |
-| Schwingen des aufsteigenden Windes (Wings Of The Soaring Wind) | CrAu | 30 | [326](#schwingen-des-aufsteigenden-windes) |
-| Des Seemanns Vorgeschmack auf den morgigen Tag (Sailor's Foretaste Of The Morrow) | InAu | 15 | [327](#des-seemanns-vorgeschmack-auf-den-morgigen-tag) |
-| Segen der kindlichen Glückseligkeit (Blessing Of Childlike Bliss) | PeMe | 25 | [356](#segen-der-kindlichen-glückseligkeit) |
-| Seil aus Bronze (Rope Of Bronze) | MuHe | 15 | [341](#seil-aus-bronze) |
-| Den Sensenmann überlisten (Cheating The Reaper) | CrCo | 30 | [332](#den-sensenmann-überlisten) |
-| Sicht des durchsichtigen Motivs (Sight Of The Transparent Motive) | InMe | 10 | [354](#sicht-des-durchsichtigen-motivs) |
-| Sicht durch Wärmestrahlung (Vision Of Heat's Light) | InIg | 20 | [345](#sicht-durch-wärmestrahlung) |
-| Sieben-Meilen-Schritt (Seven-League Stride) | ReCo | 30 | [338](#sieben-meilen-schritt) |
-| Sinn des Jägers (Hunter's Sense) | InAn | 30 | [317](#sinn-des-jägers) |
-| Der Sinn für anhaltende Magie (Sense Of The Lingering Magic) | InVi | 30 | [367](#der-sinn-für-anhaltende-magie) |
-| Sinn für magische Macht (Sense Of Magical Power) | InVi | 2 | [366](#sinn-für-magische-macht) |
-| Sintflut des reißenden Stroms (Deluge Of Rushing And Dashing) | CrAq | 40 | [321](#sintflut-des-reißenden-stroms) |
+| Übernatürliches Wachsen und Schrumpfen (Preternatural Growth And Shrinking) | MuCo | 15 | [333](#übernatürliches-wachsen-und-schrumpfen) |
+| Gefängnis aus Flammen (Prison Of Flames) | MuIg | 20 | [345](#gefängnis-aus-flammen) |
+| Auf der Suche nach reinem Silber (Probe For Pure Silver) | InTe | 4 | [359](#auf-der-suche-nach-reinem-silber) |
+| Die verborgene Natur ergründen (Probe Nature's Hidden Lore) | InHe | 4 | [340](#die-verborgene-natur-ergründen) |
+| Spähende Augen (Prying Eyes) | InIm | 5 | [349](#spähende-augen) |
 | Sog der himmelwärts strebenden Winde (Pull Of The Skybound Winds) | CrAu | 30 | [326](#sog-der-himmelwärts-strebenden-winde) |
 | Sog des nassen Grabes (Pull Of The Watery Grave) | ReAq | 35 | [325](#sog-des-nassen-grabes) |
-| Spähende Augen (Prying Eyes) | InIm | 5 | [349](#spähende-augen) |
-| Spiegel der Umkehrung (Form) (Mirror Of Opposition (Form)) | MuVi | Allgemein | [368](#spiegel-der-umkehrung-form) |
-| Der Sprung der Heimkehr (Leap Of Homecoming, The) | ReCo | 35 | [338](#der-sprung-der-heimkehr) |
-| Sprung des Feuers (Leap Of The Fire) | ReIg | 10 | [347](#sprung-des-feuers) |
-| Spuren des Feenglühens (Tracks Of The Faerie Glow) | InTe | 25 | [359](#spuren-des-feenglühens) |
-| Spuren schlüpfrigen Öls (Footsteps Of Slippery Oil) | CrAq | 5 | [320](#spuren-schlüpfrigen-öls) |
-| Der spurlose Schritt (Trackless Step) | ReTe | 10 | [363](#der-spurlose-schritt) |
-| Der stämmige Weinstock (Conjure The Sturdy Vine) | CrHe | 5 | [339](#der-stämmige-weinstock) |
-| Staub zu Staub (Dust To Dust) | PeCo | 15 | [335](#staub-zu-staub) |
-| Stein zu fallendem Staub (Stone To Falling Dust) | PeTe | 20 | [362](#stein-zu-fallendem-staub) |
-| Das steinerne Gedächtnis des ruhenden Geistes (Stone Tell Of The Mind That Sits) | InTe | 30 | [360](#das-steinerne-gedächtnis-des-ruhenden-geistes) |
+| Läuterung der eiternden Wunden (Purification Of The Festering Wounds) | CrCo | 20 | [332](#läuterung-der-eiternden-wunden) |
+| Stoß der sanften Welle (Push Of The Gentle Wave) | ReAq | 15 | [324](#stoß-der-sanften-welle) |
+| Den tobenden Wind besänftigen (Quiet The Raging Winds) | PeAu | 20 | [329](#den-tobenden-wind-besänftigen) |
+| Ölregen (Rain Of Oil) | MuAu | 50 | [329](#ölregen) |
 | Steinregen (Rain Of Stones) | MuAu | 20 | [328](#steinregen) |
-| Der Steinschlag (Cascade Of Rocks) | PeTe | 40 | [362](#der-steinschlag) |
+| Erinnerung an nie gelebte Augenblicke (Recollection Of Memories Never Quite Lived) | MuMe | 4 | [355](#erinnerung-an-nie-gelebte-augenblicke) |
+| Tilgung des auffälligen Sigils (Removal Of The Conspicuous Sigil) | PeIm | 20 | [351](#tilgung-des-auffälligen-sigils) |
+| Die Holzschäfte abwehren (Repel The Wooden Shafts) | ReHe | 10 | [342](#die-holzschäfte-abwehren) |
+| Wiederherstellung des entweihten Körpers (Restoration Of The Defiled Body) | CrCo | 25 | [332](#wiederherstellung-des-entweihten-körpers) |
+| Die verblichenen Fäden erneuern (Restore The Faded Threads) | CrVi | Allgemein | [365](#die-verblichenen-fäden-erneuern) |
+| Wiederherstellung des verschobenen Bildes (Restore The Moved Image) | ReIm | Allgemein | [352](#wiederherstellung-des-verschobenen-bildes) |
+| Enthüllte Mängel des sterblichen Fleisches (Revealed Flaws Of Mortal Flesh) | InCo | 10 | [333](#enthüllte-mängel-des-sterblichen-fleisches) |
+| Ring der Abwehr gegen Geister (Ring Of Warding Against Spirits) | ReMe | Allgemein | [357](#ring-der-abwehr-gegen-geister) |
+| Aufstieg des federleichten Körpers (Rise Of The Feathery Body) | ReCo | 10 | [337](#aufstieg-des-federleichten-körpers) |
+| Aufwallender Zorn (Rising Ire) | CrMe | 15 | [353](#aufwallender-zorn) |
+| Fels aus zähem Lehm (Rock Of Viscid Clay) | MuTe | 15 | [361](#fels-aus-zähem-lehm) |
+| Zimmer der abgestandenen Luft (Room Of Stale Air) | PeAu | 15 | [329](#zimmer-der-abgestandenen-luft) |
+| Seil aus Bronze (Rope Of Bronze) | MuHe | 15 | [341](#seil-aus-bronze) |
+| Rostiger Verfall von zweihundert Jahren (Rusted Decay Of Ten-Score Years) | PeTe | 10 | [361](#rostiger-verfall-von-zweihundert-jahren) |
+| Des Seemanns Vorgeschmack auf den morgigen Tag (Sailor's Foretaste Of The Morrow) | InAu | 15 | [327](#des-seemanns-vorgeschmack-auf-den-morgigen-tag) |
+| Die Waage des magischen Gewichts (Scales Of The Magical Weight) | InVi | 5 | [366](#die-waage-des-magischen-gewichts) |
+| Duft des friedvollen Schlummers (Scent Of Peaceful Slumber) | ReMe | 20 | [357](#duft-des-friedvollen-schlummers) |
+| Versiegele die Erde (Seal The Earth) | CrTe | 15 | [359](#versiegele-die-erde) |
+| Sinn für magische Macht (Sense Of Magical Power) | InVi | 2 | [366](#sinn-für-magische-macht) |
+| Der Sinn für anhaltende Magie (Sense Of The Lingering Magic) | InVi | 30 | [367](#der-sinn-für-anhaltende-magie) |
+| Die Schritte auf der Erde spüren (Sense The Feet That Tread The Earth) | InTe | 30 | [360](#die-schritte-auf-der-erde-spüren) |
+| Die Natur der Vis erkennen (Sense The Nature Of Vis) | InVi | 5 | [367](#die-natur-der-vis-erkennen) |
+| Sieben-Meilen-Schritt (Seven-League Stride) | ReCo | 30 | [338](#sieben-meilen-schritt) |
+| Das abgetrennte Glied wird heil (Severed Limb Made Whole, The) | CrCo | 25 | [332](#das-abgetrennte-glied-wird-heil) |
+| Der Schatten menschlichen Lebens (Shadow Of Human Life, The) | CrIm | 40 | [349](#der-schatten-menschlichen-lebens) |
+| Der Schatten des erneuerten Lebens (Shadow Of Life Renewed, The) | CrCo | 75 | [332](#der-schatten-des-erneuerten-lebens) |
+| Schatten vergangener Feuer (Shadows Of The Fires Past) | InIg | 15 | [345](#schatten-vergangener-feuer) |
+| Gestalt des Waldläufers (Shape Of The Woodland Prowler) | MuCo | 25 | [334](#gestalt-des-waldläufers) |
+| Hülle falscher Erkenntnisse (Shell Of False Determinations) | CrVi | Allgemein | [365](#hülle-falscher-erkenntnisse) |
+| Hülle undurchdringlicher Mysterien (Shell Of Opaque Mysteries) | CrVi | Allgemein | [365](#hülle-undurchdringlicher-mysterien) |
+| Schauer des Lykanthropen (Shiver Of The Lycanthrope) | InAn | 10 | [317](#schauer-des-lykanthropen) |
+| Flammen- und Rauchschauspiel (Show Of The Flames And Smoke) | MuIg | 10 | [345](#flammen-und-rauchschauspiel) |
+| Schrei vor dem nahenden Schaft (Shriek Of The Impending Shafts) | InHe | 15 | [340](#schrei-vor-dem-nahenden-schaft) |
+| Magie verschleiern (Shroud Magic) | MuVi | Allgemein | [368](#magie-verschleiern) |
+| Das verborgene Tal (Shrouded Glen, The) | ReMe | 40 | [358](#das-verborgene-tal) |
+| Der Blick auf aktive Magien (Sight Of The Active Magics) | InVi | 40 | [367](#der-blick-auf-aktive-magien) |
+| Sicht des durchsichtigen Motivs (Sight Of The Transparent Motive) | InMe | 10 | [354](#sicht-des-durchsichtigen-motivs) |
+| Blick auf die wahre Gestalt (Sight Of The True Form) | InCo | Allgemein | [333](#blick-auf-die-wahre-gestalt) |
 | Stille des erstickten Schalls (Silence Of The Smothered Sound) | PeIm | 20 | [351](#stille-des-erstickten-schalls) |
 | Die stille Wacht (Silent Vigil, The) | MuCo | 45 | [335](#die-stille-wacht) |
-| Stimme des Sees (Voice Of The Lake) | InAq | 25 | [322](#stimme-des-sees) |
-| Stoß der sanften Welle (Push Of The Gentle Wave) | ReAq | 15 | [324](#stoß-der-sanften-welle) |
-| Suche nach dem Wildkraut (Hunt For The Wild Herb) | InHe | 5 | [340](#suche-nach-dem-wildkraut) |
-| Tanz der Stäbe (Dance Of The Staves) | ReHe | 5 | [342](#tanz-der-stäbe) |
-| Tarnung durch widrigen Geruch (Disguise Of The Putrid Aroma) | ReAn | 5 | [319](#tarnung-durch-widrigen-geruch) |
-| Tausch der beiden Geister (Exchange Of The Two Minds) | ReMe | 55 | [358](#tausch-der-beiden-geister) |
-| Das Teilen der Wellen (Parting The Waves) | ReAq | 30 | [324](#das-teilen-der-wellen) |
-| Thaumaturgische Verwandlung von Pflanzen in Eisen (Thaumaturgical Transformation Of Plants To Iron) | MuHe | 20 | [341](#thaumaturgische-verwandlung-von-pflanzen-in-eisen) |
-| Tier ungeheurer Größe (Beast Of Outlandish Size) | MuAn | 15 | [317](#tier-ungeheurer-größe) |
-| Tier winziger Gestalt (Beast Of Minuscule Proportions) | MuAn | 20 | [318](#tier-winziger-gestalt) |
-| Tilgung des auffälligen Sigils (Removal Of The Conspicuous Sigil) | PeIm | 20 | [351](#tilgung-des-auffälligen-sigils) |
+| Schnipsen des Erwachens (Snap Of Awakening) | ReMe | 10 | [357](#schnipsen-des-erwachens) |
+| Linderung der Schmerzen des Tieres (Soothe Pains Of The Beast) | CrAn | 20 | [316](#linderung-der-schmerzen-des-tieres) |
 | Den tobenden Bären besänftigen (Soothe The Ferocious Bear) | ReAn | 10 | [319](#den-tobenden-bären-besänftigen) |
-| Den tobenden Wind besänftigen (Quiet The Raging Winds) | PeAu | 20 | [329](#den-tobenden-wind-besänftigen) |
-| Töne eines wohlklingenden Klangs (Notes Of A Delightful Sound) | MuIm | 10 | [350](#töne-eines-wohlklingenden-klangs) |
-| Trage die unsichtbare Schleuder (Wielding The Invisible Sling) | ReTe | 10 | [363](#trage-die-unsichtbare-schleuder) |
-| Traum des ruhenden Geistes (Dream Of The Mind That Sits) | InTe | 50 | [360](#traum-des-ruhenden-geistes) |
-| Trost des durchnässten Reisenden (Comfort Of The Drenched Traveler) | PeAq | 5 | [323](#trost-des-durchnässten-reisenden) |
+| Besänftige die tobenden Flammen (Soothe The Raging Flames) | PeIg | 20 | [346](#besänftige-die-tobenden-flammen) |
+| Die Gabel des Zauberers (Sorcerer's Fork, The) | MuVi | Allgemein | [368](#die-gabel-des-zauberers) |
+| Krämpfe der unkontrollierten Hand (Spasms Of The Uncontrolled Hand) | ReCo | 5 | [337](#krämpfe-der-unkontrollierten-hand) |
+| Haltung des geduldigen Baumes (Stance Of The Patient Tree) | MuCo | 35 | [335](#haltung-des-geduldigen-baumes) |
+| Ross der Rache (Steed Of Vengeance) | MuAn | 35 | [318](#ross-der-rache) |
+| Gestank der zwanzig Leichen (Stench Of The Twenty Corpses) | CrAu | 10 | [326](#gestank-der-zwanzig-leichen) |
+| Den schlummernden Baum erwecken (Stir The Slumbering Tree) | MuHe | 25 | [341](#den-schlummernden-baum-erwecken) |
+| Das steinerne Gedächtnis des ruhenden Geistes (Stone Tell Of The Mind That Sits) | InTe | 30 | [360](#das-steinerne-gedächtnis-des-ruhenden-geistes) |
+| Stein zu fallendem Staub (Stone To Falling Dust) | PeTe | 20 | [362](#stein-zu-fallendem-staub) |
+| Schlag des zürnenden Astes (Strike Of The Angered Branch) | ReHe | 15 | [342](#schlag-des-zürnenden-astes) |
+| Fäden der unfreiwilligen Marionette (Strings Of The Unwilling Marionette) | ReCo | 25 | [338](#fäden-der-unfreiwilligen-marionette) |
+| Feiner Geschmack von Gift und Reinheit (Subtle Taste Of Poison And Purity) | InAq | 5 | [321](#feiner-geschmack-von-gift-und-reinheit) |
+| Beschwörung des fernen Bildes (Summoning The Distant Image) | InIm | 25 | [350](#beschwörung-des-fernen-bildes) |
+| Geschmeidiges Eisen und steifes Seil (Supple Iron And Rigid Rope) | MuTe | 10 | [361](#geschmeidiges-eisen-und-steifes-seil) |
+| Das Werk des Zauberers unterdrücken (Suppressing The Wizard's Handiwork) | ReVi | Allgemein | [372](#das-werk-des-zauberers-unterdrücken) |
+| Geschichten der Asche (Tales Of The Ashes) | InIg | 5 | [345](#geschichten-der-asche) |
+| Klauen der Winde (Talons Of The Winds) | MuAu | 20 | [328](#klauen-der-winde) |
+| Geflecht aus Holz und Dornen (Tangle Of Wood And Thorns) | ReHe | 15 | [342](#geflecht-aus-holz-und-dornen) |
+| Geschmack der tauben Zunge (Taste Of The Dulled Tongue) | PeIm | 5 | [351](#geschmack-der-tauben-zunge) |
+| Geschmack von Gewürzen und Kräutern (Taste Of The Spices And Herbs) | MuIm | 5 | [350](#geschmack-von-gewürzen-und-kräutern) |
+| Die Zähne der Erdmutter (Teeth Of The Earth Mother) | MuTe | 35 | [361](#die-zähne-der-erdmutter) |
+| Thaumaturgische Verwandlung von Pflanzen in Eisen (Thaumaturgical Transformation Of Plants To Iron) | MuHe | 20 | [341](#thaumaturgische-verwandlung-von-pflanzen-in-eisen) |
+| Gedanken im Kauderwelsch (Thoughts Within Babble) | InMe | 25 | [354](#gedanken-im-kauderwelsch) |
+| Auf der Zungenspitze (Tip Of The Tongue) | PeMe | 5 | [355](#auf-der-zungenspitze) |
+| Berührung des Midas (Touch Of Midas) | CrTe | 20 | [359](#berührung-des-midas) |
+| Berührung der Gänsefeder (Touch Of The Goose Feather) | PeCo | 5 | [335](#berührung-der-gänsefeder) |
+| Berührung der Perlen (Touch Of The Pearls) | InAq | 5 | [322](#berührung-der-perlen) |
 | Turm aus wirbelndem Wasser (Tower Of Whirling Water) | ReAq | 35 | [325](#turm-aus-wirbelndem-wasser) |
-| Übernatürliches Wachsen und Schrumpfen (Preternatural Growth And Shrinking) | MuCo | 15 | [333](#übernatürliches-wachsen-und-schrumpfen) |
-| Das üppige Festmahl (Bountiful Feast, The) | CrHe | 35 | [339](#das-üppige-festmahl) |
-| Die unerbittliche Suche (Inexorable Search, The) | InCo | 20 | [333](#die-unerbittliche-suche) |
-| Die unnachgiebige Erde (Unyielding Earth) | ReTe | 10 | [363](#die-unnachgiebige-erde) |
-| Der unsichtbare Arm (Unseen Arm) | ReTe | 5 | [362](#der-unsichtbare-arm) |
-| Die unsichtbare Schleuder des Vilano (Invisible Sling Of Vilano) | ReTe | 10 | [363](#die-unsichtbare-schleuder-des-vilano) |
-| Der unsichtbare Träger (Unseen Porter, The) | ReTe | 10 | [363](#der-unsichtbare-träger) |
-| Unsichtbarkeit des stehenden Zauberers (Invisibility Of The Standing Wizard) | PeIm | 15 | [351](#unsichtbarkeit-des-stehenden-zauberers) |
-| Unzerbrechliche Erde (Earth That Breaks No More) | MuTe | 20 | [361](#unzerbrechliche-erde) |
-| Die verblichenen Fäden erneuern (Restore The Faded Threads) | CrVi | Allgemein | [365](#die-verblichenen-fäden-erneuern) |
-| Die verborgene Natur ergründen (Probe Nature's Hidden Lore) | InHe | 4 | [340](#die-verborgene-natur-ergründen) |
-| Das verborgene Tal (Shrouded Glen, The) | ReMe | 40 | [358](#das-verborgene-tal) |
-| Verdrehung der Zunge (Twist Of The Tongue) | PeCo | 30 | [336](#verdrehung-der-zunge) |
-| Verfluchtes Wasser der Unfruchtbarkeit (Vile Water Of Sterility) | MuAq | 45 | [323](#verfluchtes-wasser-der-unfruchtbarkeit) |
-| Vergangenheit eines anderen (Past Of Another) | MuMe | 35 | [355](#vergangenheit-eines-anderen) |
-| Vergiftung des Willens (Poisoning The Will) | PeMe | 65 | [356](#vergiftung-des-willens) |
-| Die verhasste Dürre herbeirufen (Calling The Odious Drought) | PeAq | 50 | [323](#die-verhasste-dürre-herbeirufen) |
-| Verkleidung des verwandelten Bildes (Disguise Of The Transformed Image) | MuIm | 15 | [350](#verkleidung-des-verwandelten-bildes) |
-| Verlust eines flüchtigen Augenblicks (Loss Of But A Moment's Memory) | PeMe | 15 | [356](#verlust-eines-flüchtigen-augenblicks) |
-| Vernichtung der metallenen Schranke (Obliteration Of The Metallic Barrier) | PeTe | 20 | [361](#vernichtung-der-metallenen-schranke) |
-| Der verräterische Speer (Treacherous Spear, The) | ReHe | 25 | [343](#der-verräterische-speer) |
-| Versiegele die Erde (Seal The Earth) | CrTe | 15 | [359](#versiegele-die-erde) |
-| Versklavung des sterblichen Geistes (Enslave The Mortal Mind) | ReMe | 40 | [358](#versklavung-des-sterblichen-geistes) |
-| Vertrauen des kindlichen Glaubens (Trust Of Childlike Faith) | PeMe | 10 | [356](#vertrauen-des-kindlichen-glaubens) |
+| Der spurlose Schritt (Trackless Step) | ReTe | 10 | [363](#der-spurlose-schritt) |
+| Spuren des Feenglühens (Tracks Of The Faerie Glow) | InTe | 25 | [359](#spuren-des-feenglühens) |
+| Verwandlung in Wasser (Transform To Water) | MuCo | 40 | [335](#verwandlung-in-wasser) |
 | Verwandlung der gefräßigen Bestie zur trägen Kröte (Transformation Of The Ravenous Beast To The Torpid Toad) | MuAn | 25 | [318](#verwandlung-der-gefräßigen-bestie-zur-trägen-kröte) |
 | Verwandlung des dornigen Stabs (Transformation Of The Thorny Staff) | MuHe | 10 | [341](#verwandlung-des-dornigen-stabs) |
-| Verwandlung in Wasser (Transform To Water) | MuCo | 40 | [335](#verwandlung-in-wasser) |
-| Verwirrung des betäubten Willens (Confusion Of The Numbed Will) | ReMe | 15 | [357](#verwirrung-des-betäubten-willens) |
-| Verwirrung des wahnsinnigen Vibrierens (Confusion Of The Insane Vibrations) | ReIm | 30 | [352](#verwirrung-des-wahnsinnigen-vibrierens) |
-| Verzauberung der Gleichgültigkeit (Enchantment Of Detachment) | PeMe | 15 | [356](#verzauberung-der-gleichgültigkeit) |
-| Verzauberung des Seherbeckens (Enchantment Of The Scrying Pool) | InAq | 30 | [322](#verzauberung-des-seherbeckens) |
-| Verzweiflung der zitternden Fesseln (Despair Of The Quivering Manacles) | ReCo | 15 | [337](#verzweiflung-der-zitternden-fesseln) |
-| Das vielfarbige Flammenmeer (Many-Hued Conflagration, The) | MuIg | 5 | [345](#das-vielfarbige-flammenmeer) |
-| Das vom Zauberer losgelöste Bild (Image From The Wizard Torn) | ReIm | 35 | [352](#das-vom-zauberer-losgelöste-bild) |
-| Die Waage des magischen Gewichts (Scales Of The Magical Weight) | InVi | 5 | [366](#die-waage-des-magischen-gewichts) |
-| Die wachende Wacht (Watching Ward) | ReVi | Allgemein | [372](#die-wachende-wacht) |
-| Wachstum des Kleingetiers (Growth Of The Creeping Things) | MuAn | 15 | [318](#wachstum-des-kleingetiers) |
-| Wacht des Zauberers (Wizard's Vigil) | MuVi | Allgemein | [370](#wacht-des-zauberers) |
+| Falle der schlingenden Ranken (Trap Of The Entwining Vines) | CrHe | 15 | [339](#falle-der-schlingenden-ranken) |
+| Das Feuer einfangen (Trapping The Fire) | MuIg | 25 | [346](#das-feuer-einfangen) |
+| Der verräterische Speer (Treacherous Spear, The) | ReHe | 25 | [343](#der-verräterische-speer) |
+| Den Aschenpfad beschreiten (Treading The Ashen Path) | PeHe | 30 | [342](#den-aschenpfad-beschreiten) |
+| Zitternder Schwung der Fackelflamme (Tremulous Vault Of The Torch's Flame) | ReIg | 5 | [347](#zitternder-schwung-der-fackelflamme) |
 | Die wahre Ruhe des verletzten Tieres (True Rest Of The Injured Brute) | CrAn | 20 | [316](#die-wahre-ruhe-des-verletzten-tieres) |
-| Wahrnehmung der widerstreitenden Motive (Perception Of The Conflicting Motives) | InMe | 15 | [354](#wahrnehmung-der-widerstreitenden-motive) |
-| Wams aus undurchdringlicher Seide (Doublet Of Impenetrable Silk) | MuAn | 15 | [318](#wams-aus-undurchdringlicher-seide) |
-| Wand aus lebendem Holz (Wall Of Living Wood) | CrHe | 25 | [339](#wand-aus-lebendem-holz) |
+| Klare Sicht durch die Luft (True Sight Of The Air) | InAu | 15 | [327](#klare-sicht-durch-die-luft) |
+| Vertrauen des kindlichen Glaubens (Trust Of Childlike Faith) | PeMe | 10 | [356](#vertrauen-des-kindlichen-glaubens) |
+| Verdrehung der Zunge (Twist Of The Tongue) | PeCo | 30 | [336](#verdrehung-der-zunge) |
+| Den lebenden Baum formen (Twist The Living Tree) | ReHe | 25 | [343](#den-lebenden-baum-formen) |
+| Das (Form)-Gefüge auflösen (Unraveling The Fabric Of (Form)) | PeVi | Allgemein | [370](#das-form-gefüge-auflösen) |
+| Der unsichtbare Arm (Unseen Arm) | ReTe | 5 | [362](#der-unsichtbare-arm) |
+| Der unsichtbare Träger (Unseen Porter, The) | ReTe | 10 | [363](#der-unsichtbare-träger) |
+| Die unnachgiebige Erde (Unyielding Earth) | ReTe | 10 | [363](#die-unnachgiebige-erde) |
+| Schleier der Unsichtbarkeit (Veil Of Invisibility) | PeIm | 20 | [351](#schleier-der-unsichtbarkeit) |
+| Verfluchtes Wasser der Unfruchtbarkeit (Vile Water Of Sterility) | MuAq | 45 | [323](#verfluchtes-wasser-der-unfruchtbarkeit) |
+| Blick der Viper (Viper's Gaze) | ReAn | 15 | [320](#blick-der-viper) |
+| Sicht durch Wärmestrahlung (Vision Of Heat's Light) | InIg | 20 | [345](#sicht-durch-wärmestrahlung) |
+| Erscheinung der heimsuchenden Geister (Vision Of The Haunting Spirits) | MuMe | 40 | [355](#erscheinung-der-heimsuchenden-geister) |
+| Erscheinungen der höllischen Schrecken (Visions Of The Infernal Terrors) | ReMe | 30 | [357](#erscheinungen-der-höllischen-schrecken) |
+| Stimme des Sees (Voice Of The Lake) | InAq | 25 | [322](#stimme-des-sees) |
 | Die wandelnde Leiche (Walking Corpse, The) | ReCo | 35 | [339](#die-wandelnde-leiche) |
-| Weberfalle aus Spinnfäden (Weaver's Trap Of Webs) | CrAn | 35 | [316](#weberfalle-aus-spinnfäden) |
-| Die weinende Wunde (Wound That Weeps, The) | PeCo | 15 | [335](#die-weinende-wunde) |
-| Das Welken der Pflanze (Plant's Withering Bane) | PeHe | 20 | [341](#das-welken-der-pflanze) |
+| Wand aus lebendem Holz (Wall Of Living Wood) | CrHe | 25 | [339](#wand-aus-lebendem-holz) |
+| Mauer aus schützendem Stein (Wall Of Protecting Stone) | CrTe | 25 | [359](#mauer-aus-schützendem-stein) |
+| Dornenwand (Wall Of Thorns) | CrHe | 20 | [339](#dornenwand) |
+| Schutzwall gegen die Feen der Lüfte (Ward Against Faeries Of The Air) | ReAu | Allgemein | [329](#schutzwall-gegen-die-feen-der-lüfte) |
+| Schutzwall gegen die Feen des Gebirges (Ward Against Faeries Of The Mountain) | ReTe | Allgemein | [362](#schutzwall-gegen-die-feen-des-gebirges) |
+| Schutzwall gegen die Feen der Gewässer (Ward Against Faeries Of The Waters) | ReAq | Allgemein | [323](#schutzwall-gegen-die-feen-der-gewässer) |
+| Schutzwall gegen die Feen des Waldes (Ward Against Faeries Of The Wood) | ReHe | Allgemein | [342](#schutzwall-gegen-die-feen-des-waldes) |
+| Schutz vor Hitze und Flammen (Ward Against Heat And Flames) | ReIg | 25 | [347](#schutz-vor-hitze-und-flammen) |
+| Schutz vor Regen (Ward Against Rain) | ReAu | 10 | [330](#schutz-vor-regen) |
+| Schutzwall gegen die Bestien der Legende (Ward Against The Beasts Of Legend) | ReAn | Allgemein | [319](#schutzwall-gegen-die-bestien-der-legende) |
+| Schutz vor Holz (Ward Against Wood) | ReHe | 25 | [343](#schutz-vor-holz) |
+| Die wachende Wacht (Watching Ward) | ReVi | Allgemein | [372](#die-wachende-wacht) |
 | Wellen des Ertrinkens und Zerschmetterns (Waves Of Drowning And Smashing) | ReAq | 30 | [324](#wellen-des-ertrinkens-und-zerschmetterns) |
-| Das Werk des Zauberers unterdrücken (Suppressing The Wizard's Handiwork) | ReVi | Allgemein | [372](#das-werk-des-zauberers-unterdrücken) |
-| Das Wesen der Kreatur bündeln (Gather The Essence Of The Beast) | ReVi | 15 | [372](#das-wesen-der-kreatur-bündeln) |
-| Das widerspenstige Tier meistern (Mastering The Unruly Beast) | ReAn | 25 | [320](#das-widerspenstige-tier-meistern) |
-| Wiederherstellung des entweihten Körpers (Restoration Of The Defiled Body) | CrCo | 25 | [332](#wiederherstellung-des-entweihten-körpers) |
-| Wiederherstellung des verschobenen Bildes (Restore The Moved Image) | ReIm | Allgemein | [352](#wiederherstellung-des-verschobenen-bildes) |
-| Wind der weltlichen Stille (Wind Of Mundane Silence) | PeVi | Allgemein | [370](#wind-der-weltlichen-stille) |
+| Weberfalle aus Spinnfäden (Weaver's Trap Of Webs) | CrAn | 35 | [316](#weberfalle-aus-spinnfäden) |
+| Gewicht von tausend Höllen (Weight Of A Thousand Hells) | CrMe | 25 | [353](#gewicht-von-tausend-höllen) |
+| Brunnen ohne Licht (Well Without Light) | PeIg | 25 | [346](#brunnen-ohne-licht) |
+| Flüsternde Winde (Whispering Winds) | InAu | 15 | [327](#flüsternde-winde) |
+| Geflüster durch das Schwarze Tor (Whispers Through The Black Gate) | InCo | 15 | [333](#geflüster-durch-das-schwarze-tor) |
+| Trage die unsichtbare Schleuder (Wielding The Invisible Sling) | ReTe | 10 | [363](#trage-die-unsichtbare-schleuder) |
 | Wind im Rücken (Wind At The Back) | ReAu | 5 | [329](#wind-im-rücken) |
-| Wolken der donnernden Macht (Clouds Of Thunderous Might) | ReAu | 30 | [330](#wolken-der-donnernden-macht) |
-| Wolken des Sommerschnees (Clouds Of Summer Snow) | CrAu | 25 | [326](#wolken-des-sommerschnees) |
-| Wolken von Regen und Donner (Clouds Of Rain And Thunder) | CrAu | 25 | [326](#wolken-von-regen-und-donner) |
-| Der wolkenlose Himmel kehrt zurück (Cloudless Sky Returned, The) | PeAu | 45 | [329](#der-wolkenlose-himmel-kehrt-zurück) |
+| Wind der weltlichen Stille (Wind Of Mundane Silence) | PeVi | Allgemein | [370](#wind-der-weltlichen-stille) |
+| Schwingen des aufsteigenden Windes (Wings Of The Soaring Wind) | CrAu | 30 | [326](#schwingen-des-aufsteigenden-windes) |
+| Eisige Berührung des Winters (Winter's Icy Touch) | PeIg | 10 | [346](#eisige-berührung-des-winters) |
+| Des Zauberers Herbst (Wizard's Autumn) | PeHe | 15 | [341](#des-zauberers-herbst) |
+| Schub des Zauberers (Form) (Wizard's Boost (Form)) | MuVi | Allgemein | [368](#schub-des-zauberers-form) |
+| Communion des Zauberers (Wizard's Communion) | MuVi | Allgemein | [369](#communion-des-zauberers) |
+| Finsternis des Zauberers (Wizard's Eclipse) | PeIg | 35 | [346](#finsternis-des-zauberers) |
+| Eisiger Griff des Zauberers (Wizard's Icy Grip) | PeIg | 30 | [346](#eisiger-griff-des-zauberers) |
+| Das Reittier des Zauberers (Wizard's Mount, The) | CrAn | 35 | [316](#das-reittier-des-zauberers) |
+| Reichweite des Zauberers (Form) (Wizard's Reach (Form)) | MuVi | Allgemein | [369](#reichweite-des-zauberers-form) |
+| Des Zauberers Schritt zur Seite (Wizard's Sidestep) | ReIm | 10 | [352](#des-zauberers-schritt-zur-seite) |
+| Wacht des Zauberers (Wizard's Vigil) | MuVi | Allgemein | [370](#wacht-des-zauberers) |
 | Worte der flackernden Flamme (Words Of The Flickering Flame) | InIg | 35 | [345](#worte-der-flackernden-flamme) |
 | Worte der ungebrochenen Stille (Words Of The Unbroken Silence) | CrMe | 10 | [353](#worte-der-ungebrochenen-stille) |
-| Wunde verbinden (Bind Wound) | CrCo | 10 | [332](#wunde-verbinden) |
-| Die Zähne der Erdmutter (Teeth Of The Earth Mother) | MuTe | 35 | [361](#die-zähne-der-erdmutter) |
-| Des Zauberers Herbst (Wizard's Autumn) | PeHe | 15 | [341](#des-zauberers-herbst) |
-| Des Zauberers Schritt zur Seite (Wizard's Sidestep) | ReIm | 10 | [352](#des-zauberers-schritt-zur-seite) |
-| Die zerschmetternde Faust (Fist Of Shattering) | PeTe | 10 | [361](#die-zerschmetternde-faust) |
-| Zimmer der abgestandenen Luft (Room Of Stale Air) | PeAu | 15 | [329](#zimmer-der-abgestandenen-luft) |
-| Zitternder Schwung der Fackelflamme (Tremulous Vault Of The Torch's Flame) | ReIg | 5 | [347](#zitternder-schwung-der-fackelflamme) |
+| Die weinende Wunde (Wound That Weeps, The) | PeCo | 15 | [335](#die-weinende-wunde) |
 | Zorn der wirbelnden Winde und des Wassers (Wrath Of Whirling Winds And Water) | CrAu | 65 | [327](#zorn-der-wirbelnden-winde-und-des-wassers) |
-| Zorn des Neptun (Neptune's Wrath) | ReAq | 40 | [325](#zorn-des-neptun) |
-| Zwang der Geister der Nacht (Coerce The Spirits Of The Night) | ReMe | 20 | [357](#zwang-der-geister-der-nacht) |
+| Kränze aus faulem Rauch (Wreaths Of Foul Smoke) | CrAu | 10 | [326](#kränze-aus-faulem-rauch) |
 
 ### Zauber-Leitlinien-Index
 
