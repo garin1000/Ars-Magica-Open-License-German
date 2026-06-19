@@ -295,6 +295,7 @@
 | Difficult Longevity Ritual | Schwieriges Langlebigkeitsritual | |
 | Disorientating Magic | Desorientierungsmagie | |
 | Erratic Magic | Unbeständige Magie | |
+| Flawed Powers | Fehlerhafte Kräfte | Übernatürliche Kräfte funktionieren unzuverlässig |
 | Flawed Parma | Fehlerhafte Parma | |
 | Incompatible Arts | Unvereinbare Künste | |
 | Lamed Caster | Lahmer Zauberer | |
@@ -703,6 +704,7 @@
 
 | Englisch (EN) | Deutsch (DE) | Anmerkung |
 |---|---|---|
+| Feral Upbringing | Wilde Erziehung | In der Wildnis aufgewachsen; nur Wildnisfertigkeiten als Ausgangsfertigkeiten |
 | Palsied Hands | Zittrige Hände | HoH:TL; Hände zittern, erschwert feinmotorische Tätigkeiten |
 
 #### Geschichte-Fehler, Klein / Story, Minor

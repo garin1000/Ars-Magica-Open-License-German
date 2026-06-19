@@ -375,6 +375,68 @@
 | Cabals | Kabalen | Tytalus-Organisationseinheit |
 | Calliclean Ethics | Kallikleische Ethik | Tytalus-Philosophie |
 | Hippian Ethics | Hippianische Ethik | Tytalus-Philosophie |
+| Analects of Tytalus | Analekten des Tytalus | Gesammeltes Werk des Gründers |
+| Book of Instruction | Buch der Unterweisung | Regelwerk für Lehrlingsbehandlung |
+| Decimus (pl. Decimi) | Decimus (Pl. Decimi) | Lat.; Anhänger des 10. Primus Harpax |
+| Fidelus (pl. Fideli) | Fidelus (Pl. Fideli) | Lat.; Loyalisten der 9. Prima Buliste |
+| Titanoi | Titanoi | Griech.; ausgerottete Geistermagier-Tradition |
+| Spira | Spira | Tytalus-Heraldik: das Selbst (lat., beibehalten) |
+| Concha | Concha | Tytalus-Heraldik: Nachrichten/Reputation (lat., beibehalten) |
+| Vertex | Vertex | Tytalus-Heraldik: Geheimnisse (lat., beibehalten) |
+| Clavicula | Clavicula | Tytalus-Heraldik: Tradition (lat., beibehalten) |
+| Swirl | Wirbel | Tytalus-Heraldik: Rivalität und Verwirrung |
+| Labyrinth | Labyrinth | Tytalus-Heraldik: Verbindung zweier Qualitäten |
+| Calliclean (person) | Kallikleaner | Anhänger der Kallikleischen Ethik |
+| Bond Strength (Agency) | Bindungsstärke | Agenturen-Mechanik; verschieden von Vertrauten-Bindungsstufe |
+| Argument Strength | Argumentstärke | Debattenregeln |
+| deep cover disguise | Deckidentität | Langfristige vollständige Tarnidentität in einer Gemeinschaft |
+| Magi Aegroti / Magus Aegrotus | Magi Aegroti / Magus Aegrotus | Lat. Eigenname für Lepra-Magi |
+| Theurgic Spirit Familiar | Theurgischer Geistervertrauter | Mysterientugend; Verweis auf DM:ÜA |
+| Student of Magic Realm | Student der Magiesphäre | Mysterientugend; Verweis auf DM:ÜA |
+| Office of the Seclusion of the Leper | Officium der Aussonderung der Leprakranken | Historischer kirchlicher Ritus |
+
+#### Haus Ex Miscellanea / House Ex Miscellanea
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Robes of Dusty Dawn | Roben der Staubigen Dämmerung | Insignie des Primus Ex Miscellanea |
+| Council of Four | Rat der Vier | Regierungsgremium des Hauses |
+| Warding (Ability) | Schutzkreismagie | Beschleunigte Fertigkeit der Columbae |
+| Ring/Circle Magic | Ring/Kreis-Magie | Kleine Hermetische Tugend (Columbae) |
+| Vulnerable to Folk Tradition | Anfällig für Volkszauber | Kleiner Hermetischer Fehler |
+| Control Fertility | Fruchtbarkeit beherrschen | Übernatürliche Fertigkeit |
+| Hermetic Haruspexes | Hermetische Haruspexe | Ex-Misc.-Tradition; Sg. Haruspex |
+| Karaites / Karaite Magic | Karäer / Karäische Magie | Ex-Misc.-Tradition |
+| Holy Magic | Heilige Magie | Große Tugend; Verweis auf SdM:D |
+| Craft Amulets | Amulette fertigen | Kleine Tugend; Verweis auf SdM:D |
+| Corrguineach | Corrguineach | Gäl. Eigenname; Ex-Misc.-Tradition |
+| Donatores Requietis Aeternae | Donatores Requietis Aeternae | Lat. Eigenname; Ex-Misc.-Tradition |
+| Cult of Orpheus | Kult des Orpheus | Ex-Misc.-Tradition |
+| Pharmacopoeians | Pharmakopoianer | Ex-Misc.-Tradition |
+| Lineage of Pralix / Filii Pralicis | Abstammungslinie der Pralix / Filii Pralicis | Ex-Misc.-Tradition |
+| Rusticani / Mechanicals | Rusticani / Mechanici | Ex-Misc.-Tradition |
+| Adelphixis | Adelphixis | Griech. Reichweite (Orpheus-Kult) |
+| Banishing | Verbannung | Große Übernatürliche Tugend (Donatores) |
+| Sanguine Humor's Blessing | Sanguinischer Segen | Große Allgemeine Tugend |
+| Orphic Magic | Orphische Magie | Kleine Hermetische Tugend (Orpheus) |
+| Root-Cutter | Wurzelschneiderin | Kleine Hermetische Tugend (Pharmako.) |
+| Craft Magic | Handwerksmagie | Große Übernatürliche Tugend (Rusticani) |
+| Spell Foci | Zauberfoki | Kleine Hermetische Tugend (Rusticani) |
+| Comprehend Magic | Magie verstehen | Große Übernatürliche Tugend (Pralix) |
+| Seirenes | Seirenen | Griech. Eigenname; rein weibliche Ex-Misc.-Tradition (lyrische Magie) |
+| Siren Song | Sirenengesang | Große Nicht-Hermetische Tugend (Seirenen) |
+| First Singer / First Lyrist / First Flautist | Erste Sängerin / Erste Lyristin / Erste Flötistin | Rollen im Seirenen-Trio |
+| Hermetic Sahirs | Hermetische Sahirs | Ex-Misc.-Tradition (Dschinnenmagie) |
+| Sihr | Sihr | Arab. Eigenname; Übernatürliche Fertigkeit der Sahirs |
+| Summoning Total | Beschwörungssumme | Sahir-Mechanik |
+| Summoning Strength | Beschwörungsstärke | Sahir-Mechanik |
+| Bargain Total | Verhandlungssumme | Sahir-Mechanik (Verhandlung mit Dschinnen) |
+| Bargain Modifier | Verhandlungsmodifikator | Sahir-Mechanik |
+| Discern Might | Machtwert erkennen | Sahir-Mechanik |
+| factor (agency) | Faktor | Agenturen-Mittelsmann |
+| agency points | Agenturpunkte | Agenturen-Mechanik |
+| Resistance Strength | Widerstandsstärke | Agenturen-Mechanik |
+| Persuasion Roll | Überzeugungswurf | Agenturen-Mechanik |
 
 #### Haus Jerbiton / House Jerbiton
 
@@ -388,6 +450,19 @@
 | Symposium | Symposium | Abendessen mit Debatte vor Tribunalen |
 | Black Lineage | Schwarze Linie | Katzen-Abstammungslinie vom Vertrauten des Gründers |
 | Nepotism | Günstlingswirtschaft | Praxis, Familienmitglieder als Agenten einzusetzen |
+| flourish | Schnörkel | Alternativer Ausdruck eines Sigils |
+| simile (of a class of objects) | Ähnlichkeitsbild | Muster der Variationsbreite einer Gegenstandsklasse |
+| macroture | Makrotur | Vergrößerungsillusion nahe am Auge |
+| anamorph / anamorphic illusion | Anamorph / anamorphe Illusion | Gestaltlose Illusion, die den Betrachter falsch klassifizieren lässt |
+| transparency (illusion type) | Transparenz | Illusion durch Vernichtung von Spezies vor dem Betrachter |
+| miniature (illusion type) | Miniatur (Illusionstyp) | Kleine gerichtete Illusion mit Perspektivtrick; nicht verwechseln mit mag. Qualität Miniatur |
+| synaesthesia | Synästhesie / synästhetische Illusion | Umwandlung von Spezies eines Sinnes in einen anderen |
+| World of Forms | Welt der Formen | Metaphysischer Ort, aus dem Schöpfungsdetails stammen |
+| mimicry (illusion term) | Mimikry (Illusionstyp) | Illusionäre Gegenstände mit omnidirektionalen Spezies; nicht verwechseln mit Tier-Stimmnachahmung |
+| mimesis / mimetic art | Mimesis / mimetische Kunst | Spiegelbildliche Genauigkeit in der Kunst |
+| proprioception | Propriozeption | Innerer Sinn für Körperposition |
+| Invocation of the Civic Patron | Anrufung des Schutzpatrons der Stadt | Heiligen um Wunderrecht bitten |
+| States of Consciousness | Bewusstseinszustände | Geisteszustände (wach, schlafend, etc.) |
 
 ### Redaktionelle Konventionen / Editorial Conventions
 

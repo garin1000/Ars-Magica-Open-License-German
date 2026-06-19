@@ -319,6 +319,7 @@
 
 | Englisch (EN) | Deutsch (DE) | Kunst und Stufe | Anmerkung |
 |---|---|---|---|
+| Agnosia | Agnosie | PeMe10 | HdH:S |
 | Tip Of The Tongue | Auf der Zungenspitze | PeMe5 | |
 | Rising Ire | Aufwallender Zorn | CrMe15 | |
 | Aura Of Rightful Authority | Aura der rechtmäßigen Autorität | ReMe20 | |
