@@ -6314,12 +6314,12 @@ Der Vitki kann Selbstvertrauen oder Vis ausgeben, um die Dauer zu verlängern, e
 **Langsamer Zauberer**<br>
 Klein, Übernatürlich
 
-Die Runenskripte des Vitkis erfordern wesentlich mehr Vorbereitungs- und Ausführungszeit als die anderer Vitkir und brauchen doppelt so lange zum Ritzen. Es ist ihm unmöglich, einen Effekt in einer einzelnen Runde zu erzeugen, obwohl er es in zwei Runden mit dem –15-Abzug schaffen kann, wenn er seinen Namen und die Beschreibung des Effekts weglässt.
-
 **Nátt-thel-anfällig**<br>
 Groß, Übernatürlich
 
 Der Vitki ist besonders anfällig dafür, von der Macht der Magie überwältigt zu werden, und erleidet die Auswirkungen von Nátt-thel (später beschrieben) jedes Mal, wenn ein einzelner übernatürlicher Patzer gewürfelt wird, statt eines doppelten Patzers.
+
+Die Runenskripte des Vitkis erfordern wesentlich mehr Vorbereitungs- und Ausführungszeit als die anderer Vitkir und brauchen doppelt so lange zum Ritzen. Es ist ihm unmöglich, einen Effekt in einer einzelnen Runde zu erzeugen, obwohl er es in zwei Runden mit dem –15-Abzug schaffen kann, wenn er seinen Namen und die Beschreibung des Effekts weglässt.
 
 ### Neue Fertigkeiten
 

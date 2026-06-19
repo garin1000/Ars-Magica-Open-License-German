@@ -1,0 +1,563 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Häuser des Hermes - Societates.md",
+  "file_hash": "sha256:3da5e796e05e00fc",
+  "sections": [
+    {
+      "heading": "## Haus Flambeau im Jahr 1220",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "8 H4-Blöcke",
+      "subheading": "### Flambeau-Konzepte"
+    },
+    {
+      "heading": "## Schulen des magischen Kampfes im Überblick",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Beispielschulen des magischen Kampfes"
+    },
+    {
+      "heading": "## Schulen des magischen Kampfes im Überblick",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge",
+      "subheading": "### Beispielschulen des magischen Kampfes"
+    },
+    {
+      "heading": "## Regeln für Haus Flambeau",
+      "type": "table",
+      "enabled": false,
+      "note": "16 Tabellenzeilen",
+      "subheading": "### Beispielhafte Ansehenszuerkennungen"
+    },
+    {
+      "heading": "## Regeln für Haus Flambeau",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Regeln für magischen Kampf"
+    },
+    {
+      "heading": "## Regeln für Haus Flambeau",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "5 Fetteinträge",
+      "subheading": "### Neue Magieregeln"
+    },
+    {
+      "heading": "## Regeln für Haus Flambeau",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "21 H4-Blöcke",
+      "subheading": "### Neue Zauber"
+    },
+    {
+      "heading": "## Regeln für Haus Flambeau",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "7 Fetteinträge",
+      "subheading": "### Neue Zauber"
+    },
+    {
+      "heading": "## Regeln für Haus Flambeau",
+      "type": "table",
+      "enabled": false,
+      "note": "7 Tabellenzeilen",
+      "subheading": "### Neue Zauber"
+    },
+    {
+      "heading": "## Die Geschichte des Hauses Jerbiton",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "8 H4-Blöcke",
+      "subheading": "### Flavius von Jerbiton, der Gründer"
+    },
+    {
+      "heading": "## Geschmackvolles Leben",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Suche nach Schönheit"
+    },
+    {
+      "heading": "## Geschmackvolles Leben",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Reisen"
+    },
+    {
+      "heading": "## Geschmackvolles Leben",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Etikette"
+    },
+    {
+      "heading": "## Die Struktur, die das Haus hat",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Der Primus"
+    },
+    {
+      "heading": "## Die Struktur, die das Haus hat",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "15 Fetteinträge",
+      "subheading": "### Ligamitgliedschaft"
+    },
+    {
+      "heading": "## Gestaltungshinweise für Jerbiton-Magi",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Neue Tugenden"
+    },
+    {
+      "heading": "## Urbane Magie",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Kleine Effekte und hohe Penetrationsboni"
+    },
+    {
+      "heading": "## Urbane Magie",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Kleine Effekte und hohe Penetrationsboni"
+    },
+    {
+      "heading": "## Die Erschaffung schöner Dinge",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Schöne Gegenstände und detaillierte Illusionen"
+    },
+    {
+      "heading": "## Wahrnehmung und Täuschung",
+      "type": "table",
+      "enabled": false,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Wandernde Spezies"
+    },
+    {
+      "heading": "## Die Sinnesorgane treffen",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Tricks der Interpretation"
+    },
+    {
+      "heading": "## Die Sinnesorgane treffen",
+      "type": "table",
+      "enabled": false,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Tricks der Interpretation"
+    },
+    {
+      "heading": "## Gedächtnis",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke"
+    },
+    {
+      "heading": "## Die Philosophie des Konflikts",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Der Antagonismus zwischen Physis und Nomos"
+    },
+    {
+      "heading": "## Die Philosophie des Konflikts",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Werkzeuge des Konflikts"
+    },
+    {
+      "heading": "## Intrige",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Tytalische Agenturen"
+    },
+    {
+      "heading": "## Intrige",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Verkleidungen und Personae"
+    },
+    {
+      "heading": "## Die hohe Kunst der Debatte",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "9 Fetteinträge",
+      "subheading": "### Meinungsverschiedenheiten beilegen"
+    },
+    {
+      "heading": "## Die hohe Kunst der Debatte",
+      "type": "table",
+      "enabled": false,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Meinungsverschiedenheiten beilegen"
+    },
+    {
+      "heading": "## Die hohe Kunst der Debatte",
+      "type": "table",
+      "enabled": false,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Argumente gewinnen"
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Lepra-Magi",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Magie",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge",
+      "subheading": "### Übernatürliche Fertigkeiten"
+    },
+    {
+      "heading": "## Magie",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Beispiele für Übernatürliche Fertigkeiten"
+    },
+    {
+      "heading": "## Magie",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Beispiele für Übernatürliche Fertigkeiten"
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "8 H4-Blöcke",
+      "subheading": "### Traditionen des Hauses Ex Miscellanea",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "25 Fetteinträge",
+      "subheading": "### Traditionen des Hauses Ex Miscellanea",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Eckdaten",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Die Donatores Requietis Aeternae",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Eckdaten"
+    },
+    {
+      "heading": "## Die Donatores Requietis Aeternae",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Geschichte"
+    },
+    {
+      "heading": "## Die Donatores Requietis Aeternae",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Kultur"
+    },
+    {
+      "heading": "## Die Donatores Requietis Aeternae",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Charaktere"
+    },
+    {
+      "heading": "## Der Kult des Orpheus",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Eckdaten"
+    },
+    {
+      "heading": "## Die Pharmakopoianer",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Eckdaten"
+    },
+    {
+      "heading": "## Kleine Hermetische Tugend: Wurzelschneiderin",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Eckdaten"
+    },
+    {
+      "heading": "## Kleine Hermetische Tugend: Wurzelschneiderin",
+      "type": "table",
+      "enabled": false,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Neue Übernatürliche Fertigkeit: Magie verstehen\\*"
+    },
+    {
+      "heading": "## Kleine Hermetische Tugend: Wurzelschneiderin",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Weitere magische Interessen"
+    },
+    {
+      "heading": "## Hermetische Sahirs",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Eckdaten"
+    },
+    {
+      "heading": "## Hermetische Sahirs",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "12 Fetteinträge",
+      "subheading": "### Charaktere"
+    },
+    {
+      "heading": "## Seirenen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Eckdaten"
+    },
+    {
+      "heading": "## Seirenen",
+      "type": "table",
+      "enabled": false,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Charaktere"
+    },
+    {
+      "heading": "## Seirenen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Agenten einsetzen"
+    },
+    {
+      "heading": "## Über die Autoren",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Eckdaten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Berühmte Gestalten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Elaines Schriften",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Werte der Milites",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Steigerung der Zauberpenetration",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Magische Foki für die Schulen des Sebastian",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Merkurische Zaubermeisterschafts-Sonderfähigkeiten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Eckdaten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Berühmte Gestalten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Zusätzliche, nebensächliche Sinne",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Schlüsselfakten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Berühmte Persönlichkeiten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Die Philosophen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Aktuelle Kabalen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Geschichten der Intrige",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "12 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Beispiele für Vorschlags-Fälle",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Die Titanen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Ein Geist des Zorns einer Person",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Ein Aspekt des Zelos",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Eckdaten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Auram",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Ignem",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Terram",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Heilige Visionen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Erschließung der Künste eines Heckenzauberers",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Gestaltungs- und Inschriftenboni",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Beispiel-Dschinn: Wahhab",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "10 Fetteinträge (Blockquote)"
+    }
+  ]
+}

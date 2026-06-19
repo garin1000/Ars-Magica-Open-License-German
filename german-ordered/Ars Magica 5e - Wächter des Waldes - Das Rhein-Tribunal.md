@@ -3006,7 +3006,7 @@ Rethra war einst eine große slawische heidnische Festungstempel-Anlage, ähnlic
 >Pommersche Werwölfe können geeignete Gefährtencharaktere darstellen; zusammen mit der Tugend oder dem Fehler, der ihnen den Gestaltwechsel erlaubt, können folgende Eigenschaften ebenfalls geeignet sein:
 
 >Tugenden: Tierverständnis, Enge Familienbande, Wege des (Landes), Natursinn<br>
->Fehler: Schützlinge, Feinde (rivalisierende Sippen), Verwilderte Erziehung, Magische Ausstrahlung, Tiere abstoßend, Zurückgezogen, Mit dem Bösen befleckt
+>Fehler: Schützlinge, Feinde (rivalisierende Sippen), Wilde Erziehung, Magische Ausstrahlung, Tiere abstoßend, Zurückgezogen, Mit dem Bösen befleckt
 
 >#### Abenteueridee: Den Tempel plündern
 >Rethra könnte von den Geistern längst verstorbener Magi heimgesucht werden, oder es beherbergt vielleicht noch einen alten Magus kurz vor dem Endgültigen Zwielicht. In jedem Fall könnte das Orakel eine Quelle von Intellego-Vis sein; die Fürsten Mecklenburgs werden es jedoch nicht zu schätzen wissen, wenn Magi das Sprachrohr ihres Gottes plündern.
