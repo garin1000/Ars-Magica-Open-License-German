@@ -486,7 +486,9 @@ def sort_bold_blocks(lines, section_start, section_end):
     if blocks and postamble_start == len(section):
         last = blocks[-1]
         bold_match = _BOLD_ENTRY_RE.match(last[0].strip())
-        has_inline = bool(bold_match and last[0].strip()[bold_match.end():].strip())
+        after_bold = last[0].strip()[bold_match.end():].strip() if bold_match else ""
+        after_bold = re.sub(r'<br\s*/?\s*>', '', after_bold).strip()
+        has_inline = bool(bold_match and after_bold)
         if has_inline:
             for k in range(1, len(last)):
                 if last[k].strip() != "":
