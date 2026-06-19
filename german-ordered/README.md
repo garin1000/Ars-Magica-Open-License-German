@@ -1,8 +1,8 @@
-# german-reviewed – Release-fertige deutsche Übersetzungen
+# german-ordered – Alphabetisch sortierte Übersetzungen
 
-⛔ **Dieses Verzeichnis ist schreibgeschützt.** Claude darf Dateien hier unter **keinen Umständen** verändern.
+Automatisch erzeugte Versionen der freigegebenen Übersetzungen aus [`/german-reviewed`](../german-reviewed/) mit **alphabetisch sortierten Einträgen** (Tugenden, Fehler, Fertigkeiten, Zauber, Indizes, Qualitäten).
 
-Müssen Änderungen vorgenommen werden, erstelle eine **Arbeitskopie** in [`/german-wip`](../german-wip/) und führe alle Änderungen dort durch.
+Erzeugt durch `/sort-entries` (`tools/sort-entries/sort_entries.py`). Dient als **Eingabe** für `/build-html`.
 
 ---
 
