@@ -87,6 +87,48 @@ def _adjust_for_chapter_opener(lines: list[str], end: int) -> int:
     return end
 
 
+_BQ_PREFIX_RE = re.compile(r"^>\s*")
+
+
+def _detect_bq_prefix(lines: list[str]) -> str:
+    """Bestimmt den häufigsten Blockquote-Präfix (z.B. '>' oder '> ')."""
+    from collections import Counter
+    prefixes = Counter()
+    for line in lines:
+        m = re.match(r"^(>\s?)", line)
+        if m and line.rstrip("\n") != ">":
+            prefixes[m.group(1)] += 1
+    if prefixes:
+        return prefixes.most_common(1)[0][0]
+    return ">"
+
+
+def _strip_bq_line(line: str) -> str:
+    """Entfernt den >-Präfix (mit beliebig vielen Leerzeichen) von einer Zeile."""
+    if line.rstrip("\n").rstrip() == ">":
+        return "\n"
+    return _BQ_PREFIX_RE.sub("", line, count=1)
+
+
+def _strip_bq_lines(lines: list[str]) -> list[str]:
+    return [_strip_bq_line(line) for line in lines]
+
+
+def _restore_bq_lines(lines: list[str], prefix: str) -> list[str]:
+    """Fügt einen einheitlichen Blockquote-Präfix hinzu."""
+    result = []
+    for line in lines:
+        if line.strip() == "":
+            result.append(">\n")
+        else:
+            result.append(prefix + line)
+    return result
+
+
+def _is_bq_line(line: str) -> bool:
+    return line.lstrip().startswith(">")
+
+
 def extract_link_name(line: str) -> str:
     m = re.match(r"\[(.+?)\]", line)
     return m.group(1) if m else line
@@ -440,6 +482,26 @@ def sort_bold_blocks(lines, section_start, section_end):
         blocks.append(section[current_start:])
         postamble_start = len(section)
 
+    trailing = []
+    if blocks and postamble_start == len(section):
+        last = blocks[-1]
+        bold_match = _BOLD_ENTRY_RE.match(last[0].strip())
+        has_inline = bool(bold_match and last[0].strip()[bold_match.end():].strip())
+        if has_inline:
+            for k in range(1, len(last)):
+                if last[k].strip() != "":
+                    continue
+                next_line = None
+                for m in range(k + 1, len(last)):
+                    if last[m].strip():
+                        next_line = last[m]
+                        break
+                if next_line and not _BOLD_ENTRY_RE.match(next_line.strip()):
+                    postamble_start = 0
+                    blocks[-1] = last[:k + 1]
+                    trailing = list(last[k + 1:])
+                    break
+
     if len(blocks) < 2:
         return section, stats
 
@@ -454,7 +516,8 @@ def sort_bold_blocks(lines, section_start, section_end):
     result = list(preamble)
     for block in sorted_blocks:
         result.extend(block)
-    if postamble_start < len(section):
+    result.extend(trailing)
+    if postamble_start > 0 and postamble_start < len(section):
         result.extend(section[postamble_start:])
 
     return result, stats
@@ -541,7 +604,7 @@ def _detect_table(lines, start, end):
         else:
             break
 
-    if data_rows < 20:
+    if data_rows < 3:
         return None
     if text_cells < data_rows // 2:
         return None
@@ -578,6 +641,19 @@ def _analyze_group(lines, start, end, heading, subheading, sections, headings,
             entry["subheading"] = subheading
         if occurrence is not None:
             entry["occurrence"] = occurrence
+        sections.append(entry)
+
+    table_info = _detect_table(lines, start, end)
+    if table_info:
+        entry = {"heading": heading, "type": "table",
+                 "enabled": True,
+                 "note": f"{table_info['rows']} Tabellenzeilen"}
+        if subheading:
+            entry["subheading"] = subheading
+        if occurrence is not None:
+            entry["occurrence"] = occurrence
+        if table_info.get("keep_sub_entries"):
+            entry["keep_sub_entries"] = True
         sections.append(entry)
 
 
@@ -620,16 +696,17 @@ def analyze_file(lines: list[str]) -> list[dict]:
             }))
             continue
 
-        table_info = _detect_table(lines, h2_line, h2_end)
-        if table_info:
-            extra = {"note": f"{table_info['rows']} Tabellenzeilen"}
-            if table_info.get("keep_sub_entries"):
-                extra["keep_sub_entries"] = True
-            sections.append(make_entry("table", extra))
-            continue
-
         h3_in_section = [(h[0], h[2]) for h in headings
                          if h[1] == 3 and h2_line < h[0] < h2_end]
+
+        if not h3_in_section:
+            table_info = _detect_table(lines, h2_line, h2_end)
+            if table_info:
+                extra = {"note": f"{table_info['rows']} Tabellenzeilen"}
+                if table_info.get("keep_sub_entries"):
+                    extra["keep_sub_entries"] = True
+                sections.append(make_entry("table", extra))
+                continue
 
         occ = occurrence if has_dup else None
         if h3_in_section:
@@ -643,7 +720,62 @@ def analyze_file(lines: list[str]) -> list[dict]:
             _analyze_group(lines, h2_line, h2_end, heading, None,
                            sections, headings, occurrence=occ)
 
+    _analyze_blockquote_sections(lines, sections)
     return sections
+
+
+def _analyze_blockquote_sections(lines: list[str],
+                                  sections: list[dict]) -> None:
+    """Erkennt sortierbare Inhalte innerhalb von Blockquotes."""
+    i = 0
+    while i < len(lines):
+        if not _is_bq_line(lines[i]):
+            i += 1
+            continue
+
+        bq_start = i
+        while i < len(lines) and _is_bq_line(lines[i]):
+            i += 1
+        bq_end = i
+
+        stripped = _strip_bq_lines(lines[bq_start:bq_end])
+
+        bq_headings = []
+        for j, line in enumerate(stripped):
+            s = line.strip()
+            if s.startswith("#"):
+                lvl = 0
+                while lvl < len(s) and s[lvl] == "#":
+                    lvl += 1
+                if lvl <= 5 and lvl < len(s) and s[lvl] == " ":
+                    bq_headings.append((j, lvl, s))
+
+        for h_idx, (h_line, h_level, h_text) in enumerate(bq_headings):
+            h_end = (bq_headings[h_idx + 1][0]
+                     if h_idx + 1 < len(bq_headings) else len(stripped))
+
+            bold_count = sum(1 for k in range(h_line, h_end)
+                             if _BOLD_ENTRY_RE.match(stripped[k].strip()))
+            if bold_count >= 3:
+                sections.append({
+                    "heading": h_text,
+                    "type": "bold_blocks",
+                    "blockquote": True,
+                    "enabled": True,
+                    "note": f"{bold_count} Fetteinträge (Blockquote)",
+                })
+
+            h4_count = sum(1 for k in range(h_line + 1, h_end)
+                           if stripped[k].strip().startswith("#### ")
+                           and not stripped[k].strip().startswith("##### "))
+            if h4_count >= 3:
+                sections.append({
+                    "heading": h_text,
+                    "type": "desc_blocks",
+                    "blockquote": True,
+                    "enabled": True,
+                    "note": f"{h4_count} H4-Blöcke (Blockquote)",
+                })
 
 
 # ---------------------------------------------------------------------------
@@ -666,6 +798,8 @@ def _section_key(sec: dict) -> str:
     parts = [sec["heading"], sec.get("subheading", ""), sec["type"]]
     if "occurrence" in sec:
         parts.append(str(sec["occurrence"]))
+    if sec.get("blockquote"):
+        parts.append("bq")
     return "|".join(parts)
 
 
@@ -759,6 +893,46 @@ def _resolve_section_range(lines: list[str], sec_cfg: dict) -> tuple[int, int]:
     return h_line, h2_end
 
 
+def _resolve_blockquote_section_range(lines: list[str],
+                                       sec_cfg: dict) -> tuple[int, int]:
+    """Findet einen Abschnitt innerhalb eines Blockquotes."""
+    heading = sec_cfg["heading"].strip()
+    occurrence = sec_cfg.get("occurrence", 1)
+
+    level = 0
+    while level < len(heading) and heading[level] == "#":
+        level += 1
+
+    count = 0
+    start = -1
+    for i, line in enumerate(lines):
+        if not _is_bq_line(line):
+            continue
+        content = _BQ_PREFIX_RE.sub("", line.lstrip(), count=1).strip()
+        if content == heading:
+            count += 1
+            if count == occurrence:
+                start = i
+                break
+
+    if start == -1:
+        return -1, -1
+
+    for j in range(start + 1, len(lines)):
+        stripped = lines[j].lstrip()
+        if not stripped.startswith(">"):
+            return start, j
+        content = _BQ_PREFIX_RE.sub("", stripped, count=1).strip()
+        if content.startswith("#"):
+            j_level = 0
+            while j_level < len(content) and content[j_level] == "#":
+                j_level += 1
+            if j_level <= level and j_level < len(content) and content[j_level] == " ":
+                return start, j
+
+    return start, len(lines)
+
+
 def process(input_path: str, output_dir: str, verbose: bool = False) -> None:
     with open(input_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
@@ -783,7 +957,10 @@ def process(input_path: str, output_dir: str, verbose: bool = False) -> None:
 
     sections_to_process = []
     for sec_cfg in enabled_sections:
-        start, end = _resolve_section_range(lines, sec_cfg)
+        if sec_cfg.get("blockquote"):
+            start, end = _resolve_blockquote_section_range(lines, sec_cfg)
+        else:
+            start, end = _resolve_section_range(lines, sec_cfg)
         if start == -1:
             name = sec_cfg["heading"]
             if "subheading" in sec_cfg:
@@ -803,43 +980,61 @@ def process(input_path: str, output_dir: str, verbose: bool = False) -> None:
         if "subheading" in sec_cfg:
             name += f" > {sec_cfg['subheading']}"
 
+        is_bq = sec_cfg.get("blockquote", False)
+        if is_bq:
+            bq_prefix = _detect_bq_prefix(output[start:end])
+            sort_input = _strip_bq_lines(output[start:end])
+            sort_start, sort_end = 0, len(sort_input)
+        else:
+            sort_input = output
+            sort_start, sort_end = start, end
+
+        new_lines = None
+        stats = None
+
         if stype == "link_list":
             cat_level = sec_cfg.get("cat_level", "### ")
-            new_lines, stats = sort_link_list_section(output, start, end, cat_level)
-            output[start:end] = new_lines
+            new_lines, stats = sort_link_list_section(
+                sort_input, sort_start, sort_end, cat_level)
             report.append(
                 f"  {name}: {stats['entries']} Einträge in {stats['categories']} "
                 f"Kategorien, {stats['reordered']} umsortiert"
             )
         elif stype == "desc_blocks":
-            new_lines, stats = sort_description_blocks(output, start, end)
-            output[start:end] = new_lines
+            new_lines, stats = sort_description_blocks(
+                sort_input, sort_start, sort_end)
             report.append(
                 f"  {name}: {stats['entries']} Einträge, "
                 f"{stats['reordered']} umsortiert"
             )
         elif stype == "spells":
-            new_lines, stats = sort_spell_section(output, start, end)
-            output[start:end] = new_lines
+            new_lines, stats = sort_spell_section(
+                sort_input, sort_start, sort_end)
             report.append(
                 f"  {name}: {stats['spells']} Zauber in {stats['levels']} Stufen, "
                 f"{stats['reordered']} umsortiert"
             )
         elif stype == "table":
             keep_sub = sec_cfg.get("keep_sub_entries", False)
-            new_lines, stats = sort_index_table(output, start, end, keep_sub)
-            output[start:end] = new_lines
+            new_lines, stats = sort_index_table(
+                sort_input, sort_start, sort_end, keep_sub)
             report.append(
                 f"  {name}: {stats['entries']} Einträge, "
                 f"{stats['reordered']} umsortiert"
             )
         elif stype == "bold_blocks":
-            new_lines, stats = sort_bold_blocks(output, start, end)
-            output[start:end] = new_lines
+            new_lines, stats = sort_bold_blocks(
+                sort_input, sort_start, sort_end)
             report.append(
                 f"  {name}: {stats['entries']} Einträge, "
                 f"{stats['reordered']} umsortiert"
             )
+
+        if new_lines is not None:
+            if is_bq:
+                output[start:end] = _restore_bq_lines(new_lines, bq_prefix)
+            else:
+                output[start:end] = new_lines
 
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, os.path.basename(input_path))
@@ -877,10 +1072,52 @@ def print_analysis(config: dict) -> None:
         name = sec["heading"]
         if "subheading" in sec:
             name += f" > {sec['subheading']}"
+        if sec.get("blockquote"):
+            name += " [Blockquote]"
         note = sec.get("note", "")
         print(f"  {status} [{sec['type']}] {name}")
         if note:
             print(f"    {note}")
+
+
+def print_preview(config: dict, lines: list[str]) -> None:
+    """Gibt eine Inhaltsvorschau jedes erkannten Abschnitts aus."""
+    sections = config.get("sections", [])
+    if not sections:
+        print("  Keine sortierbaren Abschnitte erkannt.")
+        return
+
+    for idx, sec in enumerate(sections):
+        if sec.get("blockquote"):
+            start, end = _resolve_blockquote_section_range(lines, sec)
+        else:
+            start, end = _resolve_section_range(lines, sec)
+        if start == -1:
+            continue
+
+        name = sec["heading"]
+        if "subheading" in sec:
+            name += f" > {sec['subheading']}"
+        if sec.get("blockquote"):
+            name += " [Blockquote]"
+
+        status = "✓" if sec.get("enabled", True) else "✗"
+        print(f"--- [{idx}] {status} [{sec['type']}] {name} ---")
+        print(f"    Zeilen {start + 1}–{end} | {sec.get('note', '')}")
+
+        count = 0
+        for i in range(start, min(end, start + 30)):
+            line = lines[i].rstrip("\n")
+            if line.strip():
+                print(f"    {line}")
+                count += 1
+                if count >= 8:
+                    break
+
+        remaining = end - start
+        if remaining > 30:
+            print(f"    … ({remaining} Zeilen insgesamt)")
+        print()
 
 
 def main():
@@ -901,6 +1138,10 @@ def main():
         help="Nur analysieren, Config erzeugen/aktualisieren",
     )
     parser.add_argument(
+        "--preview", action="store_true",
+        help="Vorschau der erkannten Abschnitte mit Inhalt",
+    )
+    parser.add_argument(
         "--verbose", "-v", action="store_true",
         help="Detaillierte Ausgabe",
     )
@@ -910,13 +1151,13 @@ def main():
         print(f"Fehler: Eingabedatei nicht gefunden: {args.input}", file=sys.stderr)
         sys.exit(1)
 
-    if args.analyze:
-        with open(args.input, "r", encoding="utf-8") as f:
-            lines = f.readlines()
-        for i in range(len(lines)):
-            if not lines[i].endswith("\n"):
-                lines[i] += "\n"
+    with open(args.input, "r", encoding="utf-8") as f:
+        lines = f.readlines()
+    for i in range(len(lines)):
+        if not lines[i].endswith("\n"):
+            lines[i] += "\n"
 
+    if args.analyze:
         config = analyze_and_save(args.input, lines)
         cfg_path = _config_path_for(args.input)
 
@@ -927,6 +1168,22 @@ def main():
         print(f"  Config:  {cfg_path}")
         print()
         print_analysis(config)
+        print("=" * 60)
+    elif args.preview:
+        cfg_path = _config_path_for(args.input)
+        if not cfg_path.exists():
+            print("Fehler: Keine Config vorhanden. Zuerst --analyze ausführen.",
+                  file=sys.stderr)
+            sys.exit(1)
+        config = json.loads(cfg_path.read_text(encoding="utf-8"))
+
+        print("=" * 60)
+        print("VORSCHAU")
+        print("=" * 60)
+        print(f"  Datei:   {args.input}")
+        print(f"  Config:  {cfg_path}")
+        print()
+        print_preview(config, lines)
         print("=" * 60)
     else:
         process(args.input, args.output_dir, args.verbose)

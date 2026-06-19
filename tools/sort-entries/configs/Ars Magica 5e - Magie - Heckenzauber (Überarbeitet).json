@@ -1,19 +1,19 @@
 {
   "version": 1,
-  "source_file": "Ars Magica 5e - Magie - Heckenzauber (Überarbeitet) Deutsch.md",
-  "file_hash": "sha256:239d6496196e62b2",
+  "source_file": "Ars Magica 5e - Magie - Heckenzauber (Überarbeitet).md",
+  "file_hash": "sha256:04169161b877071b",
   "sections": [
     {
       "heading": "## Heckentraditionen und der Orden",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Konvertiten zum Orden"
     },
     {
       "heading": "## Heckenzauber",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Heckenkünste und Übernatürliche Fertigkeiten"
     },
@@ -26,33 +26,33 @@
     {
       "heading": "## Vis",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke"
     },
     {
       "heading": "## Erschaffung von Heckencharakteren",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 H4-Blöcke",
       "subheading": "### Magi, Gefährten oder Grogs?"
     },
     {
       "heading": "## Erschaffung von Heckencharakteren",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 H4-Blöcke",
       "subheading": "### Häufige Heckentugenden und -fehler"
     },
     {
       "heading": "## Erwerb von Heckenzauberer-Kräften",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke"
     },
     {
       "heading": "## Elementaristen-Charaktere",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "10 H4-Blöcke",
       "subheading": "### Neue oder überarbeitete Tugenden"
     },
@@ -106,37 +106,51 @@
       "subheading": "### Läutern"
     },
     {
+      "heading": "## Elementaristische Techniken",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Läutern"
+    },
+    {
       "heading": "## Elementaristische Gesellschaften",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 H4-Blöcke",
       "subheading": "### Ikhwan as-Safa'"
     },
     {
       "heading": "## Elementaristische Gesellschaften",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "7 Fetteinträge",
       "subheading": "### Ikhwan as-Safa'"
     },
     {
       "heading": "## Elementaristische Gesellschaften",
-      "type": "desc_blocks",
+      "type": "table",
       "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Ikhwan as-Safa'"
+    },
+    {
+      "heading": "## Elementaristische Gesellschaften",
+      "type": "desc_blocks",
+      "enabled": false,
       "note": "7 H4-Blöcke",
       "subheading": "### Tulab Ibn Sina"
     },
     {
       "heading": "## Elementaristische Gesellschaften",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "9 Fetteinträge",
       "subheading": "### Tulab Ibn Sina"
     },
     {
       "heading": "## Erschaffung eines Volkshexen-Charakters",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "18 H4-Blöcke",
       "subheading": "### Neue Tugenden und Fehler"
     },
@@ -171,7 +185,7 @@
     {
       "heading": "## Volkshexen-Magie",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "14 H4-Blöcke",
       "subheading": "### Einrichtung der Küche"
     },
@@ -185,56 +199,63 @@
     {
       "heading": "## Volkshexen-Magie",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke",
       "subheading": "### Verzerrung"
     },
     {
       "heading": "## Volkshexen-Magie",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Verzerrung"
     },
     {
       "heading": "## Hexenzirkel",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "23 Fetteinträge",
       "subheading": "### Hexenzirkel-Einweihungen"
     },
     {
       "heading": "## Hexenzirkel",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Sabbat"
     },
     {
       "heading": "## Hexenzirkel",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "10 Fetteinträge",
       "subheading": "### Sabbat"
     },
     {
       "heading": "## Hexenzirkel",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke",
       "subheading": "### Erschaffung eines Hexenzirkels"
     },
     {
       "heading": "## Hexenzirkel",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "12 Fetteinträge",
+      "subheading": "### Erschaffung eines Hexenzirkels"
+    },
+    {
+      "heading": "## Hexenzirkel",
+      "type": "table",
+      "enabled": false,
+      "note": "4 Tabellenzeilen",
       "subheading": "### Erschaffung eines Hexenzirkels"
     },
     {
       "heading": "## Hermetische Integration",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### Energiemagie",
       "occurrence": 2
@@ -242,7 +263,7 @@
     {
       "heading": "## Hermetische Integration",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Gespür für das Mystische",
       "occurrence": 2
@@ -250,7 +271,7 @@
     {
       "heading": "## Hermetische Integration",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### Ritualgegenstände",
       "occurrence": 2
@@ -258,7 +279,7 @@
     {
       "heading": "## Charaktererschaffung",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Tugenden und Fehler",
       "occurrence": 1
@@ -266,7 +287,7 @@
     {
       "heading": "## Charaktererschaffung",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "23 Fetteinträge",
       "subheading": "### Tugenden und Fehler",
       "occurrence": 1
@@ -281,105 +302,112 @@
     {
       "heading": "## Gruagach-Magie",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Gruagach-Zauber"
     },
     {
       "heading": "## Gruagach-Magie",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Gruagach-Zauber"
     },
     {
       "heading": "## Gruagach-Magie",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke",
       "subheading": "### Gruagach-Laboraktivitäten"
     },
     {
       "heading": "## Gruagach-Magie",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge",
       "subheading": "### Einweihungen Begabter Gruagachan"
     },
     {
       "heading": "## Einweihungen UnBegabter Gruagachan",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Magische Abwehr"
     },
     {
       "heading": "## Einweihungen UnBegabter Gruagachan",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "7 H4-Blöcke",
+      "subheading": "### Geas- und Grenze-Dauern"
+    },
+    {
+      "heading": "## Einweihungen UnBegabter Gruagachan",
+      "type": "table",
+      "enabled": false,
+      "note": "6 Tabellenzeilen",
       "subheading": "### Geas- und Grenze-Dauern"
     },
     {
       "heading": "## Zauberleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### Segen"
     },
     {
       "heading": "## Zauberleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Flüche"
     },
     {
       "heading": "## Zauberleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Gestaltzauber"
     },
     {
       "heading": "## Zauberleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge",
       "subheading": "### Visionszauber"
     },
     {
       "heading": "## Zauberleitlinien",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke",
       "subheading": "### Patzer"
     },
     {
       "heading": "## Zauberleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "8 Fetteinträge",
       "subheading": "### Patzer"
     },
     {
       "heading": "## Gruagachan in eurer Saga",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 H4-Blöcke",
       "subheading": "### Geschichte der Gruagachan"
     },
     {
       "heading": "## Gruagachan in eurer Saga",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 H4-Blöcke",
       "subheading": "### Gruagachan im Spiel"
     },
     {
       "heading": "## Alternative Traditionen",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Trollsynir",
       "occurrence": 1
@@ -387,7 +415,7 @@
     {
       "heading": "## Alternative Traditionen",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Kolduni",
       "occurrence": 1
@@ -395,7 +423,7 @@
     {
       "heading": "## Charaktererschaffung",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Tugenden und Fehler",
       "occurrence": 2
@@ -403,7 +431,7 @@
     {
       "heading": "## Charaktererschaffung",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "38 Fetteinträge",
       "subheading": "### Tugenden und Fehler",
       "occurrence": 2
@@ -411,112 +439,112 @@
     {
       "heading": "## Magie der Gelehrten Magier",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Die Künste"
     },
     {
       "heading": "## Magie der Gelehrten Magier",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke",
       "subheading": "### Zauberformeln"
     },
     {
       "heading": "## Magie der Gelehrten Magier",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Zauberformeln"
     },
     {
       "heading": "## Magie der Gelehrten Magier",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "7 H4-Blöcke",
       "subheading": "### Laboraktivitäten"
     },
     {
       "heading": "## Magie der Gelehrten Magier",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge",
       "subheading": "### Laboraktivitäten"
     },
     {
       "heading": "## Magie der Gelehrten Magier",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 H4-Blöcke",
       "subheading": "### Einweihungen UnBegabter Mathematici"
     },
     {
       "heading": "## Magie der Gelehrten Magier",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "10 Fetteinträge",
       "subheading": "### Einweihungen UnBegabter Mathematici"
     },
     {
       "heading": "## Magie der Gelehrten Magier",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "18 Fetteinträge",
       "subheading": "### Magische Abwehr"
     },
     {
       "heading": "## Spruchleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Fortunam"
     },
     {
       "heading": "## Spruchleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Vulnero Fortunam"
     },
     {
       "heading": "## Spruchleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Magicam"
     },
     {
       "heading": "## Spruchleitlinien",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Salutem"
     },
     {
       "heading": "## Spruchleitlinien",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "9 Fetteinträge",
       "subheading": "### Salutem"
     },
     {
       "heading": "## Spruchleitlinien",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke",
       "subheading": "### Magische Gefahren"
     },
     {
       "heading": "## Gelehrte Magier in eurer Saga",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "7 H4-Blöcke",
       "subheading": "### Kultur der Mathematici"
     },
     {
       "heading": "## Alternative Traditionen",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Mythische Alchemisten",
       "occurrence": 2
@@ -524,7 +552,7 @@
     {
       "heading": "## Alternative Traditionen",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Weise Leute",
       "occurrence": 2
@@ -546,28 +574,28 @@
     {
       "heading": "## Kräfte im Detail",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "7 H4-Blöcke",
       "subheading": "### Ekstasis"
     },
     {
       "heading": "## Kräfte im Detail",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Tod in Nachtschlachten"
     },
     {
       "heading": "## Lokale Traditionen der Nachtwandler",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Benandanti"
     },
     {
       "heading": "## Abenteuerideen",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke"
     },
     {
@@ -587,21 +615,21 @@
     {
       "heading": "## Vitkar-Magie",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Vitkar-Runenskripte"
     },
     {
       "heading": "## Die Runen",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### K, Kauno, „Schmerz\""
     },
     {
       "heading": "## Die Runen",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### K, Kauno, „Schmerz\""
     }

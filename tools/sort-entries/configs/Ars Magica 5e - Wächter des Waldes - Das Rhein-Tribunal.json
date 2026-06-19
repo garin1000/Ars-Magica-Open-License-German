@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_file": "Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md",
-  "file_hash": "sha256:c8f08cce5927ef4c",
+  "file_hash": "sha256:723157d64c9d8f70",
   "sections": [
     {
       "heading": "## Über das Dasein als Rheintribunal-Magus",
@@ -55,7 +55,7 @@
     {
       "heading": "## Dankmar",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### Magi"
     },
@@ -127,6 +127,34 @@
       "enabled": true,
       "note": "6 H4-Blöcke",
       "subheading": "### Internetquellen"
+    },
+    {
+      "heading": "#### Vergangene und gegenwärtige Konvente des Rheintribunals",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "21 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Die Bäume Deutschlands",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "18 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Die Herrscher des Mittelrheins",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "15 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Geistergladiatoren",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
     }
   ]
 }

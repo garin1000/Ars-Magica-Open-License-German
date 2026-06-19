@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "source_file": "Ars Magica Definitive Edition Basisregeln Deutsch.md",
-  "file_hash": "sha256:19fdae69f4b9f1b7",
+  "source_file": "Ars Magica Definitive Edition Basisregeln.md",
+  "file_hash": "sha256:ae1490a37b3f9353",
   "sections": [
     {
       "heading": "## Gedenkseiten",
@@ -12,8 +12,9 @@
     {
       "heading": "## Abbildungsverzeichnis",
       "type": "table",
-      "enabled": false,
-      "note": "22 Tabellenzeilen"
+      "enabled": true,
+      "note": "15 Tabellenzeilen",
+      "subheading": "### Gemeinfreie Kunstwerke"
     },
     {
       "heading": "## Inhaltsverzeichnis",
@@ -26,6 +27,13 @@
       "type": "bold_blocks",
       "enabled": false,
       "note": "32 Fetteinträge"
+    },
+    {
+      "heading": "## Würfelwürfe",
+      "type": "table",
+      "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Stresswurf"
     },
     {
       "heading": "## Die Geschichte des Ordens",
@@ -78,9 +86,37 @@
     },
     {
       "heading": "## Detaillierte Charaktererschaffung",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Kindercharaktere"
+    },
+    {
+      "heading": "## Detaillierte Charaktererschaffung",
+      "type": "table",
+      "enabled": true,
+      "note": "12 Tabellenzeilen",
+      "subheading": "### Nur Magi: Hermetisches Haus"
+    },
+    {
+      "heading": "## Detaillierte Charaktererschaffung",
+      "type": "table",
+      "enabled": true,
+      "note": "7 Tabellenzeilen",
+      "subheading": "### Eigenschaften"
+    },
+    {
+      "heading": "## Detaillierte Charaktererschaffung",
       "type": "desc_blocks",
       "enabled": false,
       "note": "7 H4-Blöcke",
+      "subheading": "### Fertigkeiten"
+    },
+    {
+      "heading": "## Detaillierte Charaktererschaffung",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
       "subheading": "### Fertigkeiten"
     },
     {
@@ -111,6 +147,13 @@
       "subheading": "### Sozialer Status"
     },
     {
+      "heading": "## Typen von Tugenden und Fehlern",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Sozialer Status"
+    },
+    {
       "heading": "## Liste der Tugenden",
       "type": "link_list",
       "enabled": true,
@@ -119,9 +162,9 @@
     },
     {
       "heading": "## Tugenden",
-      "type": "desc_blocks",
+      "type": "table",
       "enabled": true,
-      "note": "318 H4-Blöcke"
+      "note": "4 Tabellenzeilen"
     },
     {
       "heading": "## Liste der Fehler",
@@ -145,15 +188,16 @@
     },
     {
       "heading": "## Fertigkeitsliste",
-      "type": "desc_blocks",
+      "type": "table",
       "enabled": true,
-      "note": "80 H4-Blöcke"
+      "note": "7 Tabellenzeilen"
     },
     {
-      "heading": "## Fertigkeitsliste",
-      "type": "bold_blocks",
-      "enabled": false,
-      "note": "7 Fetteinträge"
+      "heading": "## Maßgeschneiderte Konventserstellung",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Zugängliche Machtstufe"
     },
     {
       "heading": "## Maßgeschneiderte Konventserstellung",
@@ -191,6 +235,20 @@
       "subheading": "### Konventsloyalität"
     },
     {
+      "heading": "## Maßgeschneiderte Konventserstellung",
+      "type": "table",
+      "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Konventsloyalität"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Einkommen"
+    },
+    {
       "heading": "## Konventsfinanzen",
       "type": "bold_blocks",
       "enabled": false,
@@ -209,6 +267,13 @@
       "type": "bold_blocks",
       "enabled": false,
       "note": "7 Fetteinträge",
+      "subheading": "### Ausgaben"
+    },
+    {
+      "heading": "## Konventsfinanzen",
+      "type": "table",
+      "enabled": true,
+      "note": "11 Tabellenzeilen",
       "subheading": "### Ausgaben"
     },
     {
@@ -268,6 +333,27 @@
       "subheading": "### Die Niederen Grenzen"
     },
     {
+      "heading": "## Zauber wirken",
+      "type": "table",
+      "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Formulaische Magie"
+    },
+    {
+      "heading": "## Zauber wirken",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Ritualmagie"
+    },
+    {
+      "heading": "## Zauber wirken",
+      "type": "table",
+      "enabled": true,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Konzentration"
+    },
+    {
       "heading": "## Optionen beim Zaubern",
       "type": "bold_blocks",
       "enabled": false,
@@ -276,10 +362,30 @@
     },
     {
       "heading": "## Optionen beim Zaubern",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Nicht-Ritualzauber"
+    },
+    {
+      "heading": "## Optionen beim Zaubern",
       "type": "bold_blocks",
       "enabled": false,
       "note": "5 Fetteinträge",
       "subheading": "### Spontane Zauber"
+    },
+    {
+      "heading": "## Arkane Verbindungen",
+      "type": "table",
+      "enabled": true,
+      "note": "7 Tabellenzeilen"
+    },
+    {
+      "heading": "## Penetration",
+      "type": "table",
+      "enabled": true,
+      "note": "7 Tabellenzeilen",
+      "subheading": "### Sympathetische Verbindungen"
     },
     {
       "heading": "## Zaubermeisterschaft",
@@ -317,6 +423,13 @@
       "subheading": "### Certamen"
     },
     {
+      "heading": "## Gefahren",
+      "type": "table",
+      "enabled": true,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Certamen"
+    },
+    {
       "heading": "## Mysterien",
       "type": "bold_blocks",
       "enabled": false,
@@ -349,6 +462,13 @@
       "type": "bold_blocks",
       "enabled": false,
       "note": "3 Fetteinträge",
+      "subheading": "### Merinita – Feenmagie"
+    },
+    {
+      "heading": "## Mysterien",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
       "subheading": "### Merinita – Feenmagie"
     },
     {
@@ -395,6 +515,13 @@
     },
     {
       "heading": "## Verzauberungen",
+      "type": "table",
+      "enabled": true,
+      "note": "10 Tabellenzeilen",
+      "subheading": "### Form und Material"
+    },
+    {
+      "heading": "## Verzauberungen",
       "type": "desc_blocks",
       "enabled": false,
       "note": "5 H4-Blöcke",
@@ -408,10 +535,24 @@
       "subheading": "### Effekte einbetten"
     },
     {
+      "heading": "## Verzauberungen",
+      "type": "table",
+      "enabled": true,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Effekte einbetten"
+    },
+    {
       "heading": "## Labortexte",
       "type": "bold_blocks",
       "enabled": false,
       "note": "4 Fetteinträge",
+      "subheading": "### Labortexte verwenden"
+    },
+    {
+      "heading": "## Labortexte",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
       "subheading": "### Labortexte verwenden"
     },
     {
@@ -451,15 +592,30 @@
     },
     {
       "heading": "## Arkane Entdeckung",
-      "type": "table",
+      "type": "bold_blocks",
       "enabled": false,
-      "note": "241 Tabellenzeilen"
+      "note": "5 Fetteinträge",
+      "subheading": "### Experimentieren"
+    },
+    {
+      "heading": "## Arkane Entdeckung",
+      "type": "table",
+      "enabled": true,
+      "note": "241 Tabellenzeilen",
+      "subheading": "### Tabelle der Form- und Materialboni"
     },
     {
       "heading": "## Regeln zur Laborpersonalisierung",
       "type": "desc_blocks",
       "enabled": false,
       "note": "10 H4-Blöcke",
+      "subheading": "### Laboratorienseigenschaften"
+    },
+    {
+      "heading": "## Regeln zur Laborpersonalisierung",
+      "type": "table",
+      "enabled": true,
+      "note": "9 Tabellenzeilen",
       "subheading": "### Laboratorienseigenschaften"
     },
     {
@@ -614,6 +770,13 @@
       "subheading": "### Bücher"
     },
     {
+      "heading": "## Fortschritt",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Ablenkungen"
+    },
+    {
       "heading": "## Bücher",
       "type": "desc_blocks",
       "enabled": false,
@@ -635,6 +798,13 @@
       "subheading": "### Preise für Bücher"
     },
     {
+      "heading": "## Mysterieneinweihung",
+      "type": "table",
+      "enabled": true,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Beispielhafte Elemente eines Einweihungsskripts"
+    },
+    {
       "heading": "## Verzerrung",
       "type": "desc_blocks",
       "enabled": false,
@@ -643,9 +813,9 @@
     },
     {
       "heading": "## Altern",
-      "type": "bold_blocks",
-      "enabled": false,
-      "note": "8 Fetteinträge"
+      "type": "table",
+      "enabled": true,
+      "note": "10 Tabellenzeilen"
     },
     {
       "heading": "## Kampf",
@@ -653,6 +823,13 @@
       "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Kampfwerte"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "table",
+      "enabled": true,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Schadenstafel"
     },
     {
       "heading": "## Kampf",
@@ -677,6 +854,13 @@
     },
     {
       "heading": "## Kampf",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Kampfoptionen"
+    },
+    {
+      "heading": "## Kampf",
       "type": "desc_blocks",
       "enabled": false,
       "note": "3 H4-Blöcke",
@@ -691,6 +875,13 @@
     },
     {
       "heading": "## Kampf",
+      "type": "table",
+      "enabled": true,
+      "note": "6 Tabellenzeilen",
+      "subheading": "### Rüstung"
+    },
+    {
+      "heading": "## Kampf",
       "type": "bold_blocks",
       "enabled": false,
       "note": "8 Fetteinträge",
@@ -698,9 +889,23 @@
     },
     {
       "heading": "## Kampf",
+      "type": "table",
+      "enabled": true,
+      "note": "28 Tabellenzeilen",
+      "subheading": "### Nahkampfwaffen-Statistiken"
+    },
+    {
+      "heading": "## Kampf",
       "type": "bold_blocks",
       "enabled": false,
       "note": "9 Fetteinträge",
+      "subheading": "### Fernkampfwaffen-Statistiken"
+    },
+    {
+      "heading": "## Kampf",
+      "type": "table",
+      "enabled": true,
+      "note": "7 Tabellenzeilen",
       "subheading": "### Fernkampfwaffen-Statistiken"
     },
     {
@@ -718,10 +923,38 @@
       "subheading": "### Waffenbeschreibungen"
     },
     {
+      "heading": "## Erschöpfung",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Erholungstabelle für Erschöpfung"
+    },
+    {
+      "heading": "## Wunden",
+      "type": "table",
+      "enabled": true,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Schadenstafel"
+    },
+    {
+      "heading": "## Wunden",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Wundtabelle"
+    },
+    {
       "heading": "## Wunden",
       "type": "desc_blocks",
       "enabled": false,
       "note": "3 H4-Blöcke",
+      "subheading": "### Wunden heilen"
+    },
+    {
+      "heading": "## Wunden",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
       "subheading": "### Wunden heilen"
     },
     {
@@ -730,6 +963,41 @@
       "enabled": false,
       "note": "4 H4-Blöcke",
       "subheading": "### Schwächung"
+    },
+    {
+      "heading": "## Weitere Gefahren",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Schwächung"
+    },
+    {
+      "heading": "## Weitere Gefahren",
+      "type": "table",
+      "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Entbehrung"
+    },
+    {
+      "heading": "## Weitere Gefahren",
+      "type": "table",
+      "enabled": true,
+      "note": "9 Tabellenzeilen",
+      "subheading": "### Hitze und Ätzung"
+    },
+    {
+      "heading": "## Weitere Gefahren",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Aufprall"
+    },
+    {
+      "heading": "## Auren der Sphären",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Wechselwirkungen zwischen den Sphären"
     },
     {
       "heading": "## Kreaturen einer Sphäre",
@@ -747,8 +1015,9 @@
     {
       "heading": "## Format der Kreatur",
       "type": "table",
-      "enabled": false,
-      "note": "22 Tabellenzeilen"
+      "enabled": true,
+      "note": "22 Tabellenzeilen",
+      "subheading": "### Größenbeispiele"
     },
     {
       "heading": "## Kreaturen erschaffen",
@@ -765,10 +1034,31 @@
     },
     {
       "heading": "## Gewöhnliche Tiere erschaffen",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### 2. Eigenschaften"
+    },
+    {
+      "heading": "## Gewöhnliche Tiere erschaffen",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### 4. Grundfertigkeiten"
+    },
+    {
+      "heading": "## Gewöhnliche Tiere erschaffen",
       "type": "bold_blocks",
       "enabled": false,
       "note": "47 Fetteinträge",
       "subheading": "### 5. Eigenschaften"
+    },
+    {
+      "heading": "## Gewöhnliche Tiere erschaffen",
+      "type": "table",
+      "enabled": true,
+      "note": "10 Tabellenzeilen",
+      "subheading": "### Tabelle der natürlichen Waffen"
     },
     {
       "heading": "## Gewöhnliche Tiere erschaffen",
@@ -790,6 +1080,13 @@
       "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Neue Tugenden und Fehler"
+    },
+    {
+      "heading": "## Feenwesen",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Großer Ljeschi"
     },
     {
       "heading": "## Höllische Kreaturen",
@@ -820,10 +1117,73 @@
       "subheading": "### Die ausführliche Antwort"
     },
     {
+      "heading": "## Allgemeine Regeln",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Reisedistanz"
+    },
+    {
+      "heading": "## Übernatürliche Wahrnehmung",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Magiegespür"
+    },
+    {
+      "heading": "## Übernatürliche Wahrnehmung",
+      "type": "table",
+      "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Gespür für Heiliges und Unheiliges"
+    },
+    {
+      "heading": "## Schaden außerhalb des Kampfes",
+      "type": "table",
+      "enabled": true,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Schadenstafel"
+    },
+    {
+      "heading": "## Schaden außerhalb des Kampfes",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Hitze und Ätzung"
+    },
+    {
+      "heading": "## Schaden außerhalb des Kampfes",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Gift"
+    },
+    {
+      "heading": "## Schaden außerhalb des Kampfes",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Aufprall"
+    },
+    {
+      "heading": "## Schaden außerhalb des Kampfes",
+      "type": "table",
+      "enabled": true,
+      "note": "7 Tabellenzeilen",
+      "subheading": "### Entbehrung"
+    },
+    {
       "heading": "## Wundenheilung",
       "type": "bold_blocks",
       "enabled": false,
       "note": "9 Fetteinträge",
+      "subheading": "### Fernkampfwaffen-Statistiken"
+    },
+    {
+      "heading": "## Wundenheilung",
+      "type": "table",
+      "enabled": true,
+      "note": "7 Tabellenzeilen",
       "subheading": "### Fernkampfwaffen-Statistiken"
     },
     {
@@ -835,9 +1195,23 @@
     },
     {
       "heading": "## Wundenheilung",
+      "type": "table",
+      "enabled": true,
+      "note": "6 Tabellenzeilen",
+      "subheading": "### Rüstungstafel"
+    },
+    {
+      "heading": "## Wundenheilung",
       "type": "bold_blocks",
       "enabled": false,
       "note": "8 Fetteinträge",
+      "subheading": "### Nahkampfwaffen-Statistiken"
+    },
+    {
+      "heading": "## Wundenheilung",
+      "type": "table",
+      "enabled": true,
+      "note": "28 Tabellenzeilen",
       "subheading": "### Nahkampfwaffen-Statistiken"
     },
     {
@@ -855,6 +1229,20 @@
       "subheading": "### Zauber wirken"
     },
     {
+      "heading": "## Zauberregeln",
+      "type": "table",
+      "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Zauber wirken"
+    },
+    {
+      "heading": "## Zauberregeln",
+      "type": "table",
+      "enabled": true,
+      "note": "8 Tabellenzeilen",
+      "subheading": "### Certamen"
+    },
+    {
       "heading": "## Laborregeln",
       "type": "desc_blocks",
       "enabled": false,
@@ -869,10 +1257,23 @@
       "subheading": "### Verzauberte Gegenstände"
     },
     {
+      "heading": "## Laborregeln",
+      "type": "table",
+      "enabled": true,
+      "note": "10 Tabellenzeilen",
+      "subheading": "### Verzauberte Gegenstände"
+    },
+    {
       "heading": "## Tabelle außergewöhnlicher Ergebnisse",
-      "type": "bold_blocks",
-      "enabled": false,
-      "note": "8 Fetteinträge"
+      "type": "table",
+      "enabled": true,
+      "note": "9 Tabellenzeilen"
+    },
+    {
+      "heading": "## Alterung",
+      "type": "table",
+      "enabled": true,
+      "note": "10 Tabellenzeilen"
     },
     {
       "heading": "## Saisonale Tätigkeiten",
@@ -889,10 +1290,18 @@
       "subheading": "### Quellenqualitäten für den Fortschritt"
     },
     {
+      "heading": "## Saisonale Tätigkeiten",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Ablenkungen"
+    },
+    {
       "heading": "## Zauberindex",
       "type": "table",
       "enabled": true,
-      "note": "360 Tabellenzeilen"
+      "note": "50 Tabellenzeilen",
+      "subheading": "### Zauber-Leitlinien-Index"
     },
     {
       "heading": "## Bestiariumsindex",

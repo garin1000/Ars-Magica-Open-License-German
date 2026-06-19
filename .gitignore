@@ -1,3 +1,4 @@
 /tmp/*
 /lektorat/*
 /.claude/*.local.*
+__pycache__

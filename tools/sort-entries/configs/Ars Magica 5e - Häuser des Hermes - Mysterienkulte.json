@@ -1,0 +1,473 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md",
+  "file_hash": "sha256:05f2dc4594f777e6",
+  "sections": [
+    {
+      "heading": "## Bräuche von Haus Bjornaer",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Haus, Clan & Sippe"
+    },
+    {
+      "heading": "## Bräuche von Haus Bjornaer",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "30 Fetteinträge",
+      "subheading": "### Haus, Clan & Sippe"
+    },
+    {
+      "heading": "## Bräuche von Haus Bjornaer",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Die Lehre eines Bjornaer-Magus"
+    },
+    {
+      "heading": "## Das Herztier",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Das Herztier im Spiel"
+    },
+    {
+      "heading": "## Die Mysterien des Hauses Bjornaer",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge",
+      "subheading": "### Einweihung der Clanmysterien"
+    },
+    {
+      "heading": "## Die Mysterien des Hauses Bjornaer",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Einweihung der Hausmysterien"
+    },
+    {
+      "heading": "## Die Mysterien des Hauses Bjornaer",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "21 Fetteinträge",
+      "subheading": "### Einweihung der Hausmysterien"
+    },
+    {
+      "heading": "## Die Mysterien des Hauses Bjornaer",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Einweihung der Mysterien des Inneren Herztieres"
+    },
+    {
+      "heading": "## Die Mysterien des Hauses Bjornaer",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Die drei Inneren Mysterien"
+    },
+    {
+      "heading": "## Die Mysterien des Hauses Bjornaer",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "8 Fetteinträge",
+      "subheading": "### Verfeinerung des Inneren Herztieres"
+    },
+    {
+      "heading": "## Die Jägerin im Wald",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Aufbau der Jägerin"
+    },
+    {
+      "heading": "## Die Jägerin im Wald",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "16 Fetteinträge",
+      "subheading": "### Aufbau der Jägerin"
+    },
+    {
+      "heading": "## Charaktere des Hauses Bjornaer",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Tugenden und Fehler"
+    },
+    {
+      "heading": "## Charaktere des Hauses Bjornaer",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Neue Tugenden"
+    },
+    {
+      "heading": "## Charaktere des Hauses Bjornaer",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Neue Fehler"
+    },
+    {
+      "heading": "## Charaktere des Hauses Bjornaer",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Neue Fertigkeiten"
+    },
+    {
+      "heading": "## Anhang: Weltliche Tiere",
+      "type": "table",
+      "enabled": true,
+      "note": "9 Tabellenzeilen",
+      "subheading": "### 2. Eigenschaften"
+    },
+    {
+      "heading": "## Anhang: Weltliche Tiere",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### 4. Grundfertigkeiten"
+    },
+    {
+      "heading": "## Anhang: Weltliche Tiere",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "38 Fetteinträge",
+      "subheading": "### 5. Eigenschaften"
+    },
+    {
+      "heading": "## Woran das Haus glaubt",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Der Fall der Unsterblichen und das Gebot des Rechten Handelns"
+    },
+    {
+      "heading": "## Die Höhle der Zuckenden Schatten",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Die Prima"
+    },
+    {
+      "heading": "## Die Pfade",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Enigmatische Weisheit"
+    },
+    {
+      "heading": "## Die Pfade",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Der Pfad des Körpers"
+    },
+    {
+      "heading": "## Die Pfade",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Der Pfad des Scheins"
+    },
+    {
+      "heading": "## Die Pfade",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Der Pfad des Streits"
+    },
+    {
+      "heading": "## Die Pfade",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Der Pfad des Rückwärtsgehens"
+    },
+    {
+      "heading": "## Die Pfade",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Neue Tugenden"
+    },
+    {
+      "heading": "## Die Pfade",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Neue Fehler"
+    },
+    {
+      "heading": "## Hausgesellschaft",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Die Suche nach Arkadien"
+    },
+    {
+      "heading": "## Hausgesellschaft",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Glaube und Mythisches Europa"
+    },
+    {
+      "heading": "## Hausgesellschaft",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Die Schattenmeister"
+    },
+    {
+      "heading": "## Hausgesellschaft",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Die getrennten Sphären"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Neue Tugenden"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Neue Fehler"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Vertraute"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Arkadische Mysterien"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "17 Fetteinträge",
+      "subheading": "### Arkadische Mysterien"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "table",
+      "enabled": true,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Arkadische Mysterien"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Volksmysterien"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "6 Fetteinträge",
+      "subheading": "### Volksmysterien"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Illusionsmysterien"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Illusionsmysterien"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Naturmysterien"
+    },
+    {
+      "heading": "## Merinita-Mysterien",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "14 Fetteinträge",
+      "subheading": "### Naturmysterien"
+    },
+    {
+      "heading": "## Der Mysterienkult des Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "5 Fetteinträge",
+      "subheading": "### Prüfungen"
+    },
+    {
+      "heading": "## Der Mysterienkult des Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "23 Fetteinträge",
+      "subheading": "### Die Bruderschaft des Roland"
+    },
+    {
+      "heading": "## Der Mysterienkult des Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "7 Fetteinträge",
+      "subheading": "### Die Bruderschaft des Himinis des Wahnsinnigen"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "6 Fetteinträge",
+      "subheading": "### Zauberwerkzeuge verzaubern (Kleines Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Qualitätsgegenstände (Kleines Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Verzauberte Gegenstände umschmieden (Kleines Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "5 Fetteinträge",
+      "subheading": "### Verzauberte Gegenstände umschmieden (Kleines Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Ältere Verditius-Runen (Kleines Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "table",
+      "enabled": true,
+      "note": "12 Tabellenzeilen",
+      "subheading": "### Ältere Verditius-Runen (Kleines Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Automaten (Großes Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "13 Fetteinträge",
+      "subheading": "### Automaten (Großes Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Fluch binden (Großes Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "20 Fetteinträge",
+      "subheading": "### Fluch binden (Großes Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Magische Tiere binden (Großes Hausmysterium)"
+    },
+    {
+      "heading": "## Innere Mysterien des Hauses Verditius",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge",
+      "subheading": "### Abgestimmte Gegenstände (Großes Hausmysterium)"
+    },
+    {
+      "heading": "## Tugenden & Fehler",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Neue Tugenden"
+    },
+    {
+      "heading": "## Tugenden & Fehler",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "8 H4-Blöcke",
+      "subheading": "### Neue Fehler"
+    },
+    {
+      "heading": "## Anhang: Erweiterte Form- & Materialboni",
+      "type": "table",
+      "enabled": true,
+      "note": "26 Tabellenzeilen",
+      "subheading": "### Werkzeuge"
+    },
+    {
+      "heading": "## Anhang: Erweiterte Form- & Materialboni",
+      "type": "table",
+      "enabled": true,
+      "note": "17 Tabellenzeilen",
+      "subheading": "### Bäume"
+    },
+    {
+      "heading": "## Anhang: Erweiterte Form- & Materialboni",
+      "type": "table",
+      "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Bäume unter besonderen Umständen"
+    },
+    {
+      "heading": "## Minerale",
+      "type": "table",
+      "enabled": true,
+      "note": "18 Tabellenzeilen"
+    },
+    {
+      "heading": "## Über die Autoren",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "4 Fetteinträge"
+    },
+    {
+      "heading": "## Über die Illustratoren",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "3 Fetteinträge"
+    }
+  ]
+}
