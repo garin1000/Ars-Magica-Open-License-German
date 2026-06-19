@@ -1391,7 +1391,7 @@ Bjornaer-Charaktere haben wahrscheinlich kein Feenblut, aufgrund der allgemeinen
 > - **Natursinn**: Besonders passend für traditionelle „wilde" Bjornaer-Magi. 
 > - **Tierischer Gefährte**: Manche Bjornaer-Magi bilden tiefe Bindungen zu Tieren derselben Art, die Rollen ähnlich wie Ehepartner oder Schützlinge einnehmen können.
 > - **Schlechte Reputation**: Wenn er vor dem Ritual der Zwölf Jahre als Gestaltwandler bekannt ist, kann ein Charakter die Reputation eines Uswaurpa (Verstoßener) nehmen. 
-> - **Verwilderte Erziehung**: Einst verbreitet, ist dieser Fehler heute viel seltener, da das Haus versucht, seine primitiven Wurzeln abzulegen; es sucht keine derartigen Lehrlinge mehr. 
+> - **Wilde Erziehung**: Einst verbreitet, ist dieser Fehler heute viel seltener, da das Haus versucht, seine primitiven Wurzeln abzulegen; es sucht keine derartigen Lehrlinge mehr. 
 > - **Geringes Selbstwertgefühl**: Magi, die den größten Teil ihrer Lehrzeit Catuli waren, gewöhnen sich oft daran, herumkommandiert zu werden, selbst von jenen, die jünger sind als sie. 
 > - **Magischer Tiergefährte**: Bjornaer-Magi schließen manchmal Freundschaften mit magischen Kreaturen, um die Leere des Vertrautenverbots zu füllen. 
 > - **Mentor**: Ein Sippenmitglied, dem der Charakter einen Großteil seiner Ausbildung verdankt. 

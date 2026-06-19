@@ -5235,7 +5235,7 @@ Riesen haben keine weiteren verpflichtenden Tugenden oder Fehler, können aber b
 
 **Tugenden:** Große Immunität, Wege des (Landes); Tierverständnis, Natursinn, Berserker, Begabung in (Kampffertigkeit), Kraftreserven, Spitze Ohren, Zäh, Krieger. (Wähle für einen echten Riesen nicht Riesenblut; verwende stattdessen die Qualität Gigantisch.)
 
-**Fehler:** Großer Persönlichkeitsfehler (Habgierig, Mitfühlend, Gierig oder Stolz, je nach Geschichtenrolle), Furor, Große Verfluchung, Geächtet, Wanderlust; Kleine Verfluchung, Sprachfehler, Verwilderte Erziehung, Bucklig, Berüchtigt, Schwache Intelligenz, Einfältig, Schwäche, Willensschwach.
+**Fehler:** Großer Persönlichkeitsfehler (Habgierig, Mitfühlend, Gierig oder Stolz, je nach Geschichtenrolle), Furor, Große Verfluchung, Geächtet, Wanderlust; Kleine Verfluchung, Sprachfehler, Wilde Erziehung, Bucklig, Berüchtigt, Schwache Intelligenz, Einfältig, Schwäche, Willensschwach.
 
 #### Jahreszeit und Fertigkeiten
 

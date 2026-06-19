@@ -1630,7 +1630,7 @@ Persönlichkeitseigenschaften: Beschäftigt +3, Bescheiden +1, Willensstark –1
 
 Andrus, ein dünner und kahlköpfiger Mann mit einem aufmerksamen und bestimmenden Blick, etwa vierzig Jahre nach seiner Lehrlingsprüfung, ist der erste Filius der Murion. Er ist ein Colens Arcanorum (vgl. *Häuser des Hermes: Wahre Abstammungslinien*), gemeinsam verantwortlich für die Verbreitung des Wissens und der Forschung des Hauses, und seine aufreibenden Pflichten als Bibliothekar nehmen viel seiner Zeit in Anspruch und lenken ihn von seiner Forschung ab, was bedeutet, dass er immer im Konvent ist. Da Andrus den Zugang zur Großen Bibliothek kontrolliert, ist es sehr unklug, ihn zu verärgern. Politisch gilt er als Murions Marionette und es heißt, er bereite sich darauf vor, sie in den kommenden Jahren um den Erzmagirang herauszufordern.
 
-**TANDALINE, GEFOLGSMÄNNIN DES BONISAGUS**
+**TANDALINE, GEFOLGSFRAU DES BONISAGUS**
 
 Alter: 78 (Meisterin)<br>
 Persönlichkeitseigenschaften: Undurchdringlich +3, Blasiert +1, Mitfühlend +1
@@ -1670,7 +1670,7 @@ Ein ansonsten mittelmäßiger Magus, das Bemerkenswerteste an Petrus (sehr zu se
 >
 >Petrus verliebt sich unerklärlich in ein Bauersmädchen, und trotz der widrigen Auswirkungen seiner Gabe scheinen die Gefühle gegenseitig zu sein. Als Akt des Aufbegehrens plant er seine Hochzeit in einer nahegelegenen Stadt. Wenn er heiratet, wird Durenmar seine Seele gefährden, indem es versucht, ihn zur Verletzung seiner Keuschheitsgelübde zu zwingen? Wenn ihm erlaubt wird, ein normales Eheleben ohne Einmischung zu führen, werden eventuelle Kinder aus dieser Verbindung für den Konvent von großem Interesse sein.
 
-**WINFRIDA, GEFOLGSMÄNNIN DES GUERNICUS**
+**WINFRIDA, GEFOLGSFRAU DES GUERNICUS**
 
 Alter: 27 (Gesellin)<br>
 Persönlichkeitseigenschaften: Sehnsucht nach einem besseren Leben +2, Selbstbewusst –1, Bestimmt –2
@@ -1838,7 +1838,7 @@ Obwohl sie Quaesitorin ist, ist Winfrida jung, unerfahren und ein wenig ängstli
 
 #### WEITERE MAGI
 
-Es gibt drei weitere Bonisagus-Magi in Durenmar sowie drei Magi des Meisterranges aus anderen Häusern. Einer dieser Magi ist Gudrun Tigurina, Gefolgsmännin des Verditius, die den Titel der Kunsthandwerkerin inne hat. Ein anderer ist Xavier von Haus Mercere, das einzige Begabte Mitglied seines Hauses im Tribunal und dessen Archivar, der in Durenmar wohnt, da es eines der beiden offiziellen Mercere-Häuser im Rheintribunal ist. Horst von Fengheld (vgl. Kapitel 8: Mitteldeutschland, Fengheld) ist jedoch der Anführer der Rotkappen des Tribunals im anderen Mercere-Haus, was Xavier gut passt. Durenmar kann auch bis zu sechs Peregrinatoren beherbergen und stellt stets sicher, dass mindestens ein Vertreter jeder Gilde ansässig ist. Es gibt eine lange Warteliste für einen Gastaufenthalt in Durenmar, und Magi sind oft bereit, absurde Abkommen mit dem Konvent einzugehen, um uneingeschränkten Zugang zur Großen Bibliothek zu erhalten. Von solchen Gastmagi wird in der Regel erwartet, dass sie während ihres Aufenthalts einem rheinischen Lehrling die Gildenausbildung erteilen, was zwei Jahreszeiten in Anspruch nimmt. Die Bonisagus-Magi, Mitglieder und Gäste gleichermaßen, teilen die Arbeitslast einer weiteren Jahreszeit Ausbildung für alle rheinischen Lehrlinge.
+Es gibt drei weitere Bonisagus-Magi in Durenmar sowie drei Magi des Meisterranges aus anderen Häusern. Einer dieser Magi ist Gudrun Tigurina, Gefolgsfrau des Verditius, die den Titel der Kunsthandwerkerin inne hat. Ein anderer ist Xavier von Haus Mercere, das einzige Begabte Mitglied seines Hauses im Tribunal und dessen Archivar, der in Durenmar wohnt, da es eines der beiden offiziellen Mercere-Häuser im Rheintribunal ist. Horst von Fengheld (vgl. Kapitel 8: Mitteldeutschland, Fengheld) ist jedoch der Anführer der Rotkappen des Tribunals im anderen Mercere-Haus, was Xavier gut passt. Durenmar kann auch bis zu sechs Peregrinatoren beherbergen und stellt stets sicher, dass mindestens ein Vertreter jeder Gilde ansässig ist. Es gibt eine lange Warteliste für einen Gastaufenthalt in Durenmar, und Magi sind oft bereit, absurde Abkommen mit dem Konvent einzugehen, um uneingeschränkten Zugang zur Großen Bibliothek zu erhalten. Von solchen Gastmagi wird in der Regel erwartet, dass sie während ihres Aufenthalts einem rheinischen Lehrling die Gildenausbildung erteilen, was zwei Jahreszeiten in Anspruch nimmt. Die Bonisagus-Magi, Mitglieder und Gäste gleichermaßen, teilen die Arbeitslast einer weiteren Jahreszeit Ausbildung für alle rheinischen Lehrlinge.
 
 ### Konventsbewohner
 
@@ -1882,7 +1882,7 @@ Persönlichkeitseigenschaften: Bösartig +5, Rachsüchtig +4, Kaltherzig +3
 
 Schadrit ist eine ehemalige Schülerin des Hauses Bonisagus und ehemalige Bewohnerin Durenmars. Als Aschlaranda von Bonisagus in Durenmar wieder auftauchte (vgl. Kapitel 3: Tribunalsgeschichte und Gepflogenheiten, Der Schismakrieg), brachte sie Schadrit mit, und diese schloss ihre Ausbildung in Durenmar ab. Als Aschlaranda aus dem Haus Bonisagus ausgestoßen wurde, war Schadrit nur noch ein Jahr von ihrer Lehrlingsprüfung entfernt, musste aber dasselbe Schicksal wie ihre Meisterin erleiden. Gemeinsam gründeten sie einen Konvent und nannten ihn Dankmar in Anlehnung an den Geburtsort des Ordens. Schadrit ist wahrhaft uralt und nur noch wenige Jahrzehnte von der Vollendung ihres zweiten Jahrhunderts entfernt. Ihr Langlebigkeitstrank hat ihr Aussehen nicht so gut erhalten wie ihr Alter, und sie ist eine ausgemergelte Vettel, die sich in einem bauschigen schwarzen Gewand mit tiefer Kapuze hüllt. Ihr Gesicht ist so tief von Falten durchfurcht, dass ihre Züge kaum erkennbar sind, außer ihrer langen, leberfleckenübersäten Nase. Schadrit hat eine Expertise in Feenmagie entwickelt und ist vielleicht die einzige Praktikerin außerhalb des Hauses Merinita. Sie ist bösartig bis zur reinen Boshaftigkeit und regiert Dankmar mit eiserner Hand.
 
-**ORPHEDRA, GEFOLGSMÄNNIN DER MERINITA**
+**ORPHEDRA, GEFOLGSFRAU DER MERINITA**
 
 Alter: 139 (Meisterin)<br>
 Persönlichkeitseigenschaften: Grausam +3, Furchterregend +3, Optimistisch –2
