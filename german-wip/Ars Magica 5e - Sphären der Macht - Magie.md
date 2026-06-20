@@ -50,7 +50,7 @@ Von den vier Herrschaftssphären im Mythischen Europa ist die Magie zugleich die
 
 Copyright 2011 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Reproduktion dieses Werkes in jeglicher Form ohne schriftliche Genehmigung des Verlags, mit Ausnahme kurzer Auszüge für Rezensionszwecke, ist ausdrücklich untersagt.
 
-**Ars Magica**, Mythic Europe, Realms of Power: Magic und Charting New Realms of Imagination sind eingetragene Marken von Trident, Inc. Order of Hermes, Tremere und Doissetep sind eingetragene Marken von White Wolf, Inc. und werden mit Genehmigung verwendet.
+**Ars Magica**, Mythisches Europa, Sphären der Macht: Magie und Charting New Realms of Imagination sind Warenzeichen von Trident, Inc. Orden des Hermes, Tremere und Doissetep sind Warenzeichen von White Wolf, Inc. und werden mit Genehmigung verwendet.
 
 # Inhaltsverzeichnis
 ## Inhalt<br>

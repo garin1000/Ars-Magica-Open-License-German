@@ -1,6 +1,6 @@
 # HTML-Regelwerk erstellen
 
-Konvertiere Markdown-Dateien aus `german-ordered/` zu selbstständigen HTML-Dateien mit Navigation und Fuzzy-Suche.
+Konvertiere Markdown-Dateien aus `german-ordered/` zu selbstständigen HTML-Dateien mit Navigation und Volltextsuche.
 
 **Argument (optional):** Pfad zu einer oder mehreren Markdown-Dateien. Ohne Argument werden alle `.md`-Dateien in `german-ordered/` konvertiert.
 

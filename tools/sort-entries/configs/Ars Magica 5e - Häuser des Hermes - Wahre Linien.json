@@ -1,235 +1,354 @@
 {
   "version": 1,
   "source_file": "Ars Magica 5e - Häuser des Hermes - Wahre Linien.md",
-  "file_hash": "sha256:8dc805c1d088f3e8",
+  "file_hash": "sha256:2b3b2a381b61320e",
   "sections": [
     {
       "heading": "## Die Magi des Hauses Bonisagus",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "3 H4-Blöcke – narrativ (Lehrlingsausbildung)",
+      "note": "3 H4-Blöcke",
       "subheading": "### Lehrlinge"
     },
     {
       "heading": "## Die Magi des Hauses Bonisagus",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "6 Fetteinträge – narrativ (politische Leitlinien)",
+      "note": "6 Fetteinträge",
       "subheading": "### Magi Trianomae"
+    },
+    {
+      "heading": "## Einrichtungen des Hauses",
+      "type": "table",
+      "enabled": false,
+      "note": "11 Tabellenzeilen",
+      "subheading": "### Forschung und Haus-Ansehenspunkte"
     },
     {
       "heading": "## Ansehen im Haus – Punkte und Wertung",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "5 H4-Blöcke – narrativ (Folios verfassen/lesen/kopieren)",
+      "note": "5 H4-Blöcke",
       "subheading": "### Folios"
     },
     {
       "heading": "## Ansehen im Haus – Punkte und Wertung",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "3 H4-Blöcke – gemischte Kategorien, keine echte Liste",
+      "note": "3 H4-Blöcke",
       "subheading": "### Kleine Allgemeine Tugend"
     },
     {
       "heading": "## Ansehen im Haus – Punkte und Wertung",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "3 Fetteinträge – gemischte Kategorien, keine echte Liste",
+      "note": "3 Fetteinträge",
       "subheading": "### Kleine Allgemeine Tugend"
     },
     {
       "heading": "## Originäre Forschung",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "8 H4-Blöcke – Regeltext mit Stufenfolge"
+      "note": "8 H4-Blöcke"
     },
     {
       "heading": "## Originäre Forschung",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "4 Fetteinträge – Regelbegriffe im Fließtext"
+      "note": "4 Fetteinträge"
     },
     {
       "heading": "## Beispielentdeckungen",
       "type": "bold_blocks",
       "enabled": true,
-      "note": "6 Fetteinträge – Parma-Faltungen",
+      "note": "6 Fetteinträge",
       "subheading": "### Arma Magica"
     },
     {
       "heading": "## Bibliografie",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "10 Fetteinträge – Kapitelstruktur in logischer Reihenfolge",
+      "note": "10 Fetteinträge",
       "subheading": "### Kapitelstruktur"
     },
     {
       "heading": "## Der Kodex des Hermes",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "8 H4-Blöcke – Regeltext in inhaltlicher Ordnung",
+      "note": "8 H4-Blöcke",
       "subheading": "### Krieg der Zauberer"
     },
     {
       "heading": "## Der Kodex des Hermes",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "9 Fetteinträge – Regelzitate im Fließtext",
+      "note": "9 Fetteinträge",
       "subheading": "### Krieg der Zauberer"
     },
     {
       "heading": "## Der Kodex des Hermes",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "3 H4-Blöcke – logische Reihenfolge",
+      "note": "3 H4-Blöcke",
       "subheading": "### Der Periphere Kodex"
     },
     {
       "heading": "## Strafen",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "4 H4-Blöcke – nach Schweregrad geordnete Hierarchie",
+      "note": "4 H4-Blöcke",
       "subheading": "### Bereitung von Artefakten"
     },
     {
       "heading": "## Quaesitoriale Magie",
       "type": "desc_blocks",
       "enabled": true,
-      "note": "14 H4-Blöcke – Zauberliste nach Kunst/Form",
+      "note": "14 H4-Blöcke",
       "subheading": "### Zauber und Leitlinien"
     },
     {
       "heading": "## Quaesitoriale Magie",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "31 Fetteinträge – Zauberparameter, keine eigenständigen Einträge",
+      "note": "31 Fetteinträge",
       "subheading": "### Zauber und Leitlinien"
     },
     {
       "heading": "## Fenicils Rituale",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "6 Fetteinträge – Ritualbeschreibungen mit Regeltext",
+      "note": "6 Fetteinträge",
       "subheading": "### Große Rituale"
     },
     {
       "heading": "## Fenicils Rituale",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "12 Fetteinträge – Regelparameter in Ritualbeschreibungen",
+      "note": "12 Fetteinträge",
       "subheading": "### Kleine Rituale"
+    },
+    {
+      "heading": "## Rotkappen",
+      "type": "table",
+      "enabled": false,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Händler und Bankiers"
     },
     {
       "heading": "## Magische Merceres",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "4 Fetteinträge – narrativ (Mutantes-Beschreibung)",
+      "note": "4 Fetteinträge",
       "subheading": "### Mutantes"
     },
     {
       "heading": "## Magische Merceres",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "6 Fetteinträge – narrativer Abschnitt mit Empfehlungen",
+      "note": "6 Fetteinträge",
       "subheading": "### Andere Spezialisierungen"
     },
     {
       "heading": "## Laborregeln",
       "type": "desc_blocks",
       "enabled": true,
-      "note": "9 H4-Blöcke – Fähigkeitenliste",
+      "note": "9 H4-Blöcke",
       "subheading": "### Spezialfähigkeiten gemeisterter Zauber"
     },
     {
       "heading": "## Zauber",
       "type": "desc_blocks",
       "enabled": true,
-      "note": "6 H4-Blöcke – Zauberliste nach Kunst/Form",
+      "note": "6 H4-Blöcke",
       "subheading": "### Mutantum-Zauber"
     },
     {
       "heading": "## Zauber",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "10 Fetteinträge – Zauberparameter im Fließtext",
+      "note": "10 Fetteinträge",
       "subheading": "### Mutantum-Zauber"
     },
     {
       "heading": "## Zauber",
       "type": "desc_blocks",
       "enabled": true,
-      "note": "3 H4-Blöcke – Zauberliste nach Kunst/Form",
+      "note": "3 H4-Blöcke",
       "subheading": "### Andere Zauber"
     },
     {
       "heading": "## Zauber",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "3 Fetteinträge – Zauberparameter im Fließtext",
+      "note": "3 Fetteinträge",
       "subheading": "### Andere Zauber"
     },
     {
       "heading": "## Tugenden und Fehler",
       "type": "desc_blocks",
       "enabled": true,
-      "note": "15 H4-Blöcke – Tugendliste (zusammengefasst)",
+      "note": "17 H4-Blöcke",
       "subheading": "### Tugenden"
     },
     {
       "heading": "## Tugenden und Fehler",
       "type": "desc_blocks",
       "enabled": true,
-      "note": "9 H4-Blöcke – Fehlerliste",
+      "note": "9 H4-Blöcke",
       "subheading": "### Fehler"
     },
     {
       "heading": "## Das Haus im Jahr 1220",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "3 H4-Blöcke – politische Positionen in inhaltlicher Ordnung",
+      "note": "3 H4-Blöcke",
       "subheading": "### Politische Prioritäten"
     },
     {
       "heading": "## Struktur",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "5 H4-Blöcke – hierarchisch geordnete Rollen"
+      "note": "5 H4-Blöcke"
     },
     {
       "heading": "## Magi des Hauses Tremere gestalten",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "3 H4-Blöcke – narrativ (magische Spezialisierungen)",
+      "note": "3 H4-Blöcke",
       "subheading": "### Künste und Zauber"
     },
     {
       "heading": "## Magi des Hauses Tremere gestalten",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "3 H4-Blöcke – organisatorische Beschreibung",
+      "note": "3 H4-Blöcke",
       "subheading": "### Spezialistenrollen"
     },
     {
       "heading": "## Magi des Hauses Tremere gestalten",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "3 H4-Blöcke – organisatorische Beschreibung",
+      "note": "3 H4-Blöcke",
       "subheading": "### Nauarchos"
     },
     {
       "heading": "## Duellieren",
       "type": "desc_blocks",
       "enabled": true,
-      "note": "15 H4-Blöcke – Certamen-Schulen",
+      "note": "15 H4-Blöcke",
       "subheading": "### Certamen-Stile"
     },
     {
       "heading": "## Neue Zauber",
       "type": "desc_blocks",
       "enabled": false,
-      "note": "4 H4-Blöcke – thematisch geordneter Anhang",
+      "note": "4 H4-Blöcke",
       "subheading": "### Samovilenblut"
+    },
+    {
+      "heading": "## Eckdaten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Berühmte Persönlichkeiten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Glaucon, Magus Trianomae und Sucher",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "14 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Häufige Tugenden und Fehler",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "19 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Schlüsseldaten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Berühmte Persönlichkeiten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Fehler",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Eckdaten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Legionär",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "17 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Kataphraktos",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "16 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Wili",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "16 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Moro",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "9 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Gemeine Weiße Wölfe",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "17 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Schatteneulen und Feuerfalken",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "14 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Ergänzungen zur Form- und Materialbonustabelle",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
     }
   ]
 }

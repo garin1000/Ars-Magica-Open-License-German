@@ -3,7 +3,7 @@
 
 Jede HTML-Datei enthält:
   - Einklappbare Navigation (links, H1-H3)
-  - Fuzzy-Suche mit Fuse.js (rechts)
+  - Volltextsuche (rechts)
   - Volltext-Suchindex
   - Bildschirmoptimiertes CSS
 """
@@ -23,7 +23,7 @@ SCRIPT_DIR = Path(__file__).parent
 
 def pandoc_to_html(md_path: str) -> str:
     result = subprocess.run(
-        ["pandoc", "--from", "markdown", "--to", "html5",
+        ["pandoc", "--from", "markdown+lists_without_preceding_blankline", "--to", "html5",
          "--wrap=none", str(md_path)],
         capture_output=True, text=True, check=True,
     )
@@ -496,6 +496,99 @@ body.search-open #search-field {
   100% { background: transparent; }
 }
 
+/* --- Link-Hover Tooltip ------------------------------------------------ */
+
+.link-tooltip {
+  position: fixed;
+  z-index: 300;
+  max-width: 420px;
+  min-width: 200px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+  padding: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+  font-size: 0.85rem;
+  line-height: 1.5;
+  overflow: hidden;
+}
+
+.link-tooltip.visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.link-tooltip-title {
+  padding: 8px 12px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--accent);
+  background: var(--bg-nav);
+  border-bottom: 1px solid var(--border);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.link-tooltip-body {
+  padding: 8px 12px;
+  color: var(--text);
+  max-height: 150px;
+  overflow: hidden;
+  position: relative;
+}
+
+.link-tooltip-body p { margin: 0 0 0.4em; }
+
+.link-tooltip-body table {
+  font-size: 0.8rem;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.link-tooltip-body th,
+.link-tooltip-body td {
+  border: 1px solid var(--border);
+  padding: 2px 6px;
+  text-align: left;
+}
+
+.link-tooltip-body th { background: var(--bg-nav); }
+
+.link-tooltip-body ul,
+.link-tooltip-body ol {
+  margin: 0 0 0 1.2em;
+  padding: 0;
+}
+
+.link-tooltip-body blockquote {
+  border-left: 3px solid var(--accent-light);
+  padding: 4px 8px;
+  margin: 0;
+  background: rgba(139,69,19,0.04);
+}
+
+.link-tooltip-fade {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 30px;
+  background: linear-gradient(transparent, #fff);
+  pointer-events: none;
+}
+
+@media (max-width: 800px) {
+  .link-tooltip { display: none !important; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .link-tooltip { transition: none; }
+}
+
 /* --- Nav toggle (mobile) ----------------------------------------------- */
 
 #nav-toggle {
@@ -551,11 +644,56 @@ body.search-open #search-field {
 /* --- Print ------------------------------------------------------------- */
 
 @media print {
-  #sidebar, #search-panel, #search-field, #nav-toggle, #nav-resize, #search-resize { display: none !important; }
+  #sidebar, #search-panel, #search-field, #nav-toggle, #nav-resize, #search-resize, .link-tooltip { display: none !important; }
   #main-content, #page-footer { margin: 0; padding: 1cm; }
   #main-content a { color: inherit; text-decoration: none; }
 }
 """
+
+
+def get_worker_js(fuse_js: str) -> str:
+    """Erzeugt den Web-Worker-Script-Code (Fuse.js + Suchlogik)."""
+    handler = """\
+function normalize(s) {
+  return s.replace(/[äÄ]/g, 'a').replace(/[öÖ]/g, 'o')
+           .replace(/[üÜ]/g, 'u').replace(/ß/g, 'ss').toLowerCase();
+}
+
+var fuseInstance = null;
+
+self.onmessage = function(e) {
+  if (e.data.type === 'init') {
+    var items = e.data.index.map(function(item, i) {
+      return { idx: i, title: normalize(item.title), text: normalize(item.text) };
+    });
+
+    fuseInstance = new Fuse(items, {
+      keys: [
+        { name: 'title', weight: 2 },
+        { name: 'text', weight: 1 }
+      ],
+      threshold: 0.35,
+      ignoreLocation: true,
+      minMatchCharLength: 2,
+      findAllMatches: false,
+      limit: 50,
+    });
+
+    self.postMessage({ type: 'ready' });
+  }
+
+  if (e.data.type === 'search') {
+    if (!fuseInstance) return;
+    var results = fuseInstance.search(e.data.query);
+    self.postMessage({
+      type: 'results',
+      query: e.data.query,
+      hits: results.map(function(r) { return r.item.idx; })
+    });
+  }
+};
+"""
+    return fuse_js + "\n" + handler
 
 
 def get_js(search_index_json: str) -> str:
@@ -565,19 +703,34 @@ def get_js(search_index_json: str) -> str:
 
   const searchIndex = {search_index_json};
 
-  // --- Fuse.js setup ---
-  const fuse = new Fuse(searchIndex, {{
-    keys: [
-      {{ name: 'title', weight: 2 }},
-      {{ name: 'text', weight: 1 }}
-    ],
-    threshold: 0.35,
-    ignoreLocation: true,
-    includeMatches: true,
-    minMatchCharLength: 2,
-    findAllMatches: false,
-    limit: 50,
-  }});
+  // --- Umlaut-Normalisierung (für Snippet-Highlighting auf dem Hauptthread) ---
+  function normalizeForSearch(text) {{
+    return text.replace(/[äÄ]/g, 'a').replace(/[öÖ]/g, 'o')
+               .replace(/[üÜ]/g, 'u').replace(/ß/g, 'ss').toLowerCase();
+  }}
+
+  // --- Web Worker für Fuse.js ---
+  const workerScript = document.getElementById('search-worker-script').textContent;
+  const searchWorker = new Worker(URL.createObjectURL(
+    new Blob([workerScript], {{ type: 'application/javascript' }})
+  ));
+  let searchReady = false;
+  let pendingQuery = '';
+
+  searchWorker.postMessage({{ type: 'init', index: searchIndex }});
+
+  searchWorker.onmessage = function(e) {{
+    if (e.data.type === 'ready') {{
+      searchReady = true;
+      if (pendingQuery.length >= 2) doSearch();
+      return;
+    }}
+    if (e.data.type === 'results') {{
+      const currentNormQuery = normalizeForSearch(searchInput.value.trim());
+      if (e.data.query !== currentNormQuery) return;
+      renderSearchResults(e.data.hits, pendingQuery);
+    }}
+  }};
 
   // --- DOM refs ---
   const sidebar = document.getElementById('sidebar');
@@ -698,14 +851,17 @@ def get_js(search_index_json: str) -> str:
   }});
 
   function navigateToResult(item) {{
-    location.hash = '#' + item.id;
-    const target = document.getElementById(item.id);
-    if (target) {{
-      target.classList.add('highlight-target');
-      setTimeout(() => target.classList.remove('highlight-target'), 2500);
-    }}
     closeSearch();
     searchInput.blur();
+    setTimeout(function() {{
+      const target = document.getElementById(item.id);
+      if (target) {{
+        target.scrollIntoView();
+        history.replaceState(null, '', '#' + item.id);
+        target.classList.add('highlight-target');
+        setTimeout(function() {{ target.classList.remove('highlight-target'); }}, 2500);
+      }}
+    }}, 160);
   }}
 
   function updateFocus() {{
@@ -742,14 +898,28 @@ def get_js(search_index_json: str) -> str:
     if (query.length < 2) {{
       searchCount.textContent = '';
       currentResults = [];
+      pendingQuery = '';
       return;
     }}
 
-    const results = fuse.search(query);
-    currentResults = results;
-    searchCount.textContent = results.length + ' Treffer';
+    pendingQuery = query;
 
-    if (results.length === 0) {{
+    if (!searchReady) {{
+      searchCount.textContent = 'Index wird aufgebaut…';
+      return;
+    }}
+
+    searchCount.textContent = 'Suche…';
+    searchWorker.postMessage({{ type: 'search', query: normalizeForSearch(query) }});
+  }}
+
+  function renderSearchResults(hits, query) {{
+    searchResults.innerHTML = '';
+    selectedIndex = -1;
+    currentResults = hits.map(function(idx) {{ return {{ item: searchIndex[idx] }}; }});
+    searchCount.textContent = currentResults.length + ' Treffer';
+
+    if (currentResults.length === 0) {{
       const noRes = document.createElement('div');
       noRes.className = 'search-no-results';
       noRes.textContent = 'Keine Treffer gefunden.';
@@ -757,7 +927,7 @@ def get_js(search_index_json: str) -> str:
       return;
     }}
 
-    results.forEach(function(r) {{
+    currentResults.forEach(function(r) {{
       const item = r.item;
       const div = document.createElement('div');
       div.className = 'search-result';
@@ -778,11 +948,6 @@ def get_js(search_index_json: str) -> str:
 
       searchResults.appendChild(div);
     }});
-  }}
-
-  function normalizeForSearch(text) {{
-    return text.replace(/[äÄ]/g, 'a').replace(/[öÖ]/g, 'o')
-               .replace(/[üÜ]/g, 'u').replace(/ß/g, 'ss').toLowerCase();
   }}
 
   function buildSnippet(text, query) {{
@@ -858,6 +1023,216 @@ def get_js(search_index_json: str) -> str:
   initResize('nav-resize', sidebar, '--nav-width', 'left');
   initResize('search-resize', searchPanel, '--search-width', 'right');
 
+  // --- Link-Hover Tooltips ---
+  (function initTooltips() {{
+    if ('ontouchstart' in window && !window.matchMedia('(hover: hover)').matches) return;
+
+    var mainContent = document.getElementById('main-content');
+    if (!mainContent) return;
+
+    var tooltip = document.createElement('div');
+    tooltip.className = 'link-tooltip';
+    tooltip.id = 'link-tooltip';
+    tooltip.setAttribute('role', 'tooltip');
+    tooltip.setAttribute('aria-hidden', 'true');
+    tooltip.innerHTML = '<div class="link-tooltip-title"></div>'
+      + '<div class="link-tooltip-body"></div>'
+      + '<div class="link-tooltip-fade"></div>';
+    document.body.appendChild(tooltip);
+
+    var tooltipTitle = tooltip.querySelector('.link-tooltip-title');
+    var tooltipBody = tooltip.querySelector('.link-tooltip-body');
+    var tooltipFade = tooltip.querySelector('.link-tooltip-fade');
+
+    var showTimer = null;
+    var hideTimer = null;
+    var currentLink = null;
+    var resizing = false;
+    var cache = {{}};
+
+    var navResize = document.getElementById('nav-resize');
+    var searchResize = document.getElementById('search-resize');
+    if (navResize) navResize.addEventListener('mousedown', function() {{ resizing = true; }});
+    if (searchResize) searchResize.addEventListener('mousedown', function() {{ resizing = true; }});
+    document.addEventListener('mouseup', function() {{ resizing = false; }});
+
+    function extractContent(targetId) {{
+      if (targetId in cache) return cache[targetId];
+
+      var el = document.getElementById(targetId);
+      if (!el || !/^H[1-6]$/.test(el.tagName)) {{
+        cache[targetId] = null;
+        return null;
+      }}
+
+      var title = el.textContent.trim();
+      var level = parseInt(el.tagName[1], 10);
+      var bodyHTML = '';
+      var charCount = 0;
+      var elCount = 0;
+      var sib = el.nextElementSibling;
+
+      while (sib && elCount < 3) {{
+        if (sib.tagName === 'HR') {{ sib = sib.nextElementSibling; continue; }}
+        var sibMatch = sib.tagName.match(/^H([1-6])$/);
+        if (sibMatch && parseInt(sibMatch[1], 10) <= level) break;
+        if (sibMatch) break;
+
+        var html = sib.outerHTML;
+        var text = sib.textContent || '';
+
+        if (sib.tagName === 'TABLE') {{
+          var thead = sib.querySelector('thead');
+          var rows = sib.querySelectorAll('tbody tr');
+          var tableHTML = '<table>';
+          if (thead) tableHTML += thead.outerHTML;
+          tableHTML += '<tbody>';
+          for (var r = 0; r < Math.min(2, rows.length); r++) {{
+            tableHTML += rows[r].outerHTML;
+          }}
+          if (rows.length > 2) {{
+            tableHTML += '<tr><td colspan="99">…</td></tr>';
+          }}
+          tableHTML += '</tbody></table>';
+          html = tableHTML;
+          text = sib.textContent.slice(0, 100);
+        }}
+
+        charCount += text.length;
+        if (charCount > 300 && elCount > 0) break;
+
+        bodyHTML += html;
+        elCount++;
+        if (charCount > 300) break;
+        sib = sib.nextElementSibling;
+      }}
+
+      var result = bodyHTML ? {{ title: title, bodyHTML: bodyHTML }} : null;
+      cache[targetId] = result;
+      return result;
+    }}
+
+    function positionTooltip(linkRect) {{
+      var gap = 8;
+      var margin = 12;
+      var footerH = 30;
+      var tw = tooltip.offsetWidth;
+      var th = tooltip.offsetHeight;
+
+      var left = linkRect.left + linkRect.width / 2 - tw / 2;
+      left = Math.max(margin, Math.min(left, window.innerWidth - tw - margin));
+
+      var top = linkRect.bottom + gap;
+      if (top + th > window.innerHeight - footerH - margin) {{
+        top = linkRect.top - gap - th;
+        if (top < margin) top = margin;
+      }}
+
+      tooltip.style.left = left + 'px';
+      tooltip.style.top = top + 'px';
+    }}
+
+    function showTooltip(link) {{
+      var href = link.getAttribute('href');
+      if (!href || href.charAt(0) !== '#') return;
+      var targetId = href.slice(1);
+      if (!targetId) return;
+
+      var data = extractContent(targetId);
+      if (!data) return;
+
+      tooltipTitle.textContent = data.title;
+      tooltipBody.innerHTML = data.bodyHTML;
+
+      positionTooltip(link.getBoundingClientRect());
+
+      var bodyOverflows = tooltipBody.scrollHeight > tooltipBody.clientHeight;
+      tooltipFade.style.display = bodyOverflows ? '' : 'none';
+
+      tooltip.classList.add('visible');
+      tooltip.setAttribute('aria-hidden', 'false');
+      link.setAttribute('aria-describedby', 'link-tooltip');
+    }}
+
+    function hideTooltip() {{
+      tooltip.classList.remove('visible');
+      tooltip.setAttribute('aria-hidden', 'true');
+      if (currentLink) {{
+        currentLink.removeAttribute('aria-describedby');
+      }}
+      currentLink = null;
+    }}
+
+    function clearTimers() {{
+      if (showTimer) {{ clearTimeout(showTimer); showTimer = null; }}
+      if (hideTimer) {{ clearTimeout(hideTimer); hideTimer = null; }}
+    }}
+
+    function findAnchorLink(el) {{
+      while (el && el !== mainContent) {{
+        if (el.tagName === 'A' && el.getAttribute('href')
+            && el.getAttribute('href').charAt(0) === '#') {{
+          return el;
+        }}
+        el = el.parentElement;
+      }}
+      return null;
+    }}
+
+    mainContent.addEventListener('mouseover', function(e) {{
+      if (resizing) return;
+      var link = findAnchorLink(e.target);
+      if (!link) return;
+      if (link === currentLink) return;
+
+      clearTimers();
+      if (tooltip.classList.contains('visible')) hideTooltip();
+      currentLink = link;
+
+      showTimer = setTimeout(function() {{
+        showTooltip(link);
+      }}, 500);
+    }});
+
+    mainContent.addEventListener('mouseout', function(e) {{
+      var link = findAnchorLink(e.target);
+      if (!link && !tooltip.contains(e.target)) return;
+
+      var related = e.relatedTarget;
+      if (related && link && link.contains(related)) return;
+      if (related && tooltip.contains(related)) return;
+      if (related && findAnchorLink(related) === currentLink) return;
+
+      clearTimers();
+      hideTimer = setTimeout(hideTooltip, 150);
+    }});
+
+    tooltip.addEventListener('mouseenter', function() {{
+      if (hideTimer) {{ clearTimeout(hideTimer); hideTimer = null; }}
+    }});
+
+    tooltip.addEventListener('mouseleave', function(e) {{
+      var related = e.relatedTarget;
+      if (related && findAnchorLink(related) === currentLink) return;
+      clearTimers();
+      hideTimer = setTimeout(hideTooltip, 150);
+    }});
+
+    window.addEventListener('scroll', function() {{
+      if (tooltip.classList.contains('visible')) {{
+        clearTimers();
+        hideTooltip();
+      }}
+    }}, {{ passive: true }});
+
+    document.addEventListener('keydown', function(e) {{
+      if (e.key === 'Escape' && tooltip.classList.contains('visible')) {{
+        clearTimers();
+        hideTooltip();
+      }}
+    }});
+  }})();
+
   // Initial scroll spy
   updateActiveNav();
 }})();
@@ -865,7 +1240,7 @@ def get_js(search_index_json: str) -> str:
 
 
 def build_html(body_html: str, nav_html: str, css: str, js: str,
-               fuse_js: str, title: str, logo_b64: str) -> str:
+               worker_js: str, title: str, logo_b64: str) -> str:
     esc_title = html.escape(title)
     return f"""<!DOCTYPE html>
 <html lang="de">
@@ -913,8 +1288,8 @@ def build_html(body_html: str, nav_html: str, css: str, js: str,
   Order of Hermes, Tremere, Doissetep, Grimgroth &trade; Paradox Interactive AB
 </footer>
 
-<script>
-{fuse_js}
+<script id="search-worker-script" type="text/js-worker">
+{worker_js}
 </script>
 <script>
 {js}
@@ -932,6 +1307,7 @@ def process(input_dir: str, output_dir: str,
         sys.exit(1)
 
     fuse_js = fuse_path.read_text(encoding="utf-8")
+    worker_js = get_worker_js(fuse_js)
 
     logo_path = Path(input_dir).parent / "arm5openlicenselogo.png"
     if logo_path.is_file():
@@ -978,7 +1354,7 @@ def process(input_dir: str, output_dir: str,
 
         css = get_css()
         js = get_js(search_index_json)
-        full_html = build_html(body_html, nav_html, css, js, fuse_js, title, logo_b64)
+        full_html = build_html(body_html, nav_html, css, js, worker_js, title, logo_b64)
 
         out_path = Path(output_dir) / (md_file.stem + ".html")
         out_path.write_text(full_html, encoding="utf-8")

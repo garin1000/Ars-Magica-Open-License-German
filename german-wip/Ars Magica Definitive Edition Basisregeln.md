@@ -2270,15 +2270,15 @@ Die hermetischen Häuser werden ab [Seite 12](#die-häuser-des-hermes-1) ausfüh
 | Haus           | Typ              | Beschreibung                                                | Vorteil  |
 | -------------- | ---------------- | ----------------------------------------------------------- | -------- |
 | Bjornaer       | Mysterienkult    | Magi, die ebenso Tier wie Mensch sind                       | Herztier ([Seite 85](#herztier)), Anfangswert von 1 in der Fertigkeit Herztier. |
-| Bonisagus      | Echte Linie      | Aufgeteilt zwischen Forschern und Politikern                | Begabung in Magietheorie (Forscher) oder Begabung in Intrige (Politiker). |
+| Bonisagus      | Wahre Linie      | Aufgeteilt zwischen Forschern und Politikern                | Begabung in Magietheorie (Forscher) oder Begabung in Intrige (Politiker). |
 | Criamon        | Mysterienkult    | Mystische Philosophen und Meister der Rätsel                | Das Enigma ([Seite 78](#das-enigma)), Anfangswert von 1 in Enigmatische Weisheit. |
 | Ex Miscellanea | Societas         | Viele Magi aus verschiedenen Traditionen, nicht alle vollständig hermetisch | Eine kostenlose Kleine Hermetische Tugend, eine kostenlose Große nicht-hermetische Tugend und ein verpflichtender Großer Hermetischer Fehler, die die jeweilige Tradition innerhalb des Hauses repräsentieren. Diese Tugenden und Fehler kommen zum normalen Anteil hinzu. |
 | Flambeau       | Societas         | Kampferfahrene Meister von Feuer und Zerstörung             | Begabung in Perdo oder Begabung in Ignem. |
-| Guernicus      | Echte Linie      | Ermittler, Anwälte und Vermittler                           | Hermetisches Ansehen. |
+| Guernicus      | Wahre Linie      | Ermittler, Anwälte und Vermittler                           | Hermetisches Ansehen. |
 | Jerbiton       | Societas         | Adlige, Gelehrte und Künstler                               | Eine Kleine Tugend in Bezug auf Gelehrsamkeit, Künste oder Umgang mit Sterblichen. |
-| Mercere        | Echte Linie      | Boten des Ordens                                            | Begabung in Creo oder Begabung in Muto.<br>Beachte, dass unBegabte Rotkappen als Gefährten erstellt werden und die Große Status-Tugend Rotkappe nehmen. Begabte Rotkappen nehmen die Status-Tugend Hermetischer Magus und nicht die Große Status-Tugend Rotkappe. |
+| Mercere        | Wahre Linie      | Boten des Ordens                                            | Begabung in Creo oder Begabung in Muto.<br>Beachte, dass unBegabte Rotkappen als Gefährten erstellt werden und die Große Status-Tugend Rotkappe nehmen. Begabte Rotkappen nehmen die Status-Tugend Hermetischer Magus und nicht die Große Status-Tugend Rotkappe. |
 | Merinita       | Mysterienkult    | Feenmagi                                                    | Feenmagie ([Seite 79](#feenmagie)), Anfangswert von 1 in Feenmagie. Jeder Magus dieses Hauses ohne eine feenbezogene Tugend oder einen feenbezogenen Fehler erhält einen Verzerrungspunkt, der zugefügt wird, um die Einweihung in das Mysterium zu ermöglichen. |
-| Tremere        | Echte Linie      | Ein hierarchisches und diszipliniertes Haus                 | Kleiner Magischer Fokus (Certamen). |
+| Tremere        | Wahre Linie      | Ein hierarchisches und diszipliniertes Haus                 | Kleiner Magischer Fokus (Certamen). |
 | Tytalus        | Societas         | Magi, die in jedem Konflikt aufblühen                       | Selbstbewusst. |
 | Verditius      | Mysterienkult    | Hersteller verzauberter Gegenstände                         | Verditius-Magie ([Seite 114](#verditius-magie)). |
 
@@ -2795,7 +2795,7 @@ Sozialer-Status-Tugenden und -Fehler stellen den gesellschaftlichen Stand eines 
 
 Eine beträchtliche Anzahl von Sozialen Status ist nur für Männer verfügbar. Das liegt daran, dass die Gesellschaften des mittelalterlichen Europas, auf denen jene des Mythischen Europas eng basieren, keine Geschlechtergleichheit kannten. Da es sich um soziale Status handelt, sind die Tugenden und Fehler mit einer männlichen Voraussetzung für Charaktere verfügbar, die von der Gesellschaft als männlich wahrgenommen werden (oder als jemand, der eine andere angegebene Voraussetzung erfüllt). Eine weibliche Figur, die als männlich auftritt, kann beispielsweise diese Status wählen, solange die Gesellschaft sie für einen Mann hält. (Du möchtest ihr vielleicht Fehler geben, um die Komplexität ihrer Situation darzustellen — siehe den nebenstehenden Kasten zu "Fehler wählen".)
 
-Das gilt nur für Soziale Status. Alle anderen Tugenden und Fehler stehen Charakteren jeder Rasse, jedes Geschlechts und jeder Herkunft offen, obwohl einige in bestimmten Gruppen häufiger vorkommen mögen. Krieger ist zum Beispiel eine Allgemeine Tugend und kann daher auch von weiblichen Charakteren gewählt werden, obwohl die meisten ausgebildeten Kämpfer im Mythischen Europa Männer sind.
+Das gilt nur für Soziale Status. Alle anderen Tugenden und Fehler stehen Charakteren jeder Ethnie, jedes Geschlechts und jeder Herkunft offen, obwohl einige in bestimmten Gruppen häufiger vorkommen mögen. Krieger ist zum Beispiel eine Allgemeine Tugend und kann daher auch von weiblichen Charakteren gewählt werden, obwohl die meisten ausgebildeten Kämpfer im Mythischen Europa Männer sind.
 
 > ## Welche Fehler würdest du wählen?
 >
@@ -3658,7 +3658,7 @@ Ihr ist fast ständig ein kleiner Dämon zugeteilt, der in der Regel in geistige
 
 Das Leben einer Charakter mit Dämonischem Blut ist kurz – ungefähr halb so lang wie das eines reinblütigen Menschen. Ihr effektives Alter (das beim Erschaffen eines Langlebigkeitsrituals und beim Würfeln auf der Alterungstabelle wie ihr tatsächliches Alter gilt) steigt für jedes vergangene Jahr um zwei Jahre, und du musst einmal pro Jahr zwei Alterungswürfe vornehmen, sobald ihr effektives Alter 35 erreicht. Es gibt keine Möglichkeit, dies zu stoppen oder zu verlangsamen, außer durch Langlebigkeitsrituale, sofern sie jemanden dazu überreden kann, eines für sie herzustellen. Sie zeigt jedoch keine Anzeichen von Alterung; erworbene Alterungspunkte werden nicht auf ihre Eigenschaften angewendet, zählen aber weiterhin als Erfahrungspunkte für die Gebrechlichkeit.
 
-Du kannst nicht die Tugend Höllische Segnungen nehmen, die in *Sphären der Macht: Das Infernale* beschrieben wird; die Tugend Dämonische Kräfte ersetzt jene Tugend für den dämonisch Geblüteten. Du kannst keine Tugend nehmen, die sie mit einer anderen Sphäre als der Höllensphäre verbindet. Außerdem kannst du nicht die Tugend Kein Altern oder den Fehler Schnelles Altern nehmen. Sie kann keine Kinder haben und daher auch keine Schützlinge dieser Art.
+Du kannst nicht die Tugend Infernaler Segen nehmen, die in *Sphären der Macht: Das Infernale* beschrieben wird; die Tugend Dämonische Kräfte ersetzt jene Tugend für den dämonisch Geblüteten. Du kannst keine Tugend nehmen, die sie mit einer anderen Sphäre als der Höllensphäre verbindet. Außerdem kannst du nicht die Tugend Kein Altern oder den Fehler Schnelles Altern nehmen. Sie kann keine Kinder haben und daher auch keine Schützlinge dieser Art.
 
 #### Dämonische Macht
 *Klein, Übernatürlich*<br>
@@ -3974,7 +3974,7 @@ Du kannst neue Konzepte und Fähigkeiten mit großer Leichtigkeit vermitteln. Ad
 
 #### Riesenblut
 *Groß, Allgemein*<br>
-Das Blut der alten Rassen der Riesen fließt in deinen Adern. Obwohl du nicht so groß bist wie deine Vorfahren, kannst du bis zu acht Fuß groß werden und bis zu 500 Pfund wiegen. Deine Größe beträgt +2, sodass du Wunden in Schritten von 7 Punkten erleidest, anstatt der üblichen 5 (siehe [Seite 404](#zierlicher-körperbau)). Du erhältst außerdem +1 sowohl auf Stärke als auch auf Ausdauer. Dieser Bonus kann deine Werte in diesen Eigenschaften auf bis zu +6 anheben. Du kannst diese Tugend nicht zusammen mit Großgewachsen ([Seite 89](#wunden)), Zierlicher Körperbau ([Seite 145](#zwerg)) oder Zwerg ([Seite 126](#großgewachsen)) nehmen.
+Das Blut der alten Völker der Riesen fließt in deinen Adern. Obwohl du nicht so groß bist wie deine Vorfahren, kannst du bis zu acht Fuß groß werden und bis zu 500 Pfund wiegen. Deine Größe beträgt +2, sodass du Wunden in Schritten von 7 Punkten erleidest, anstatt der üblichen 5 (siehe [Seite 404](#zierlicher-körperbau)). Du erhältst außerdem +1 sowohl auf Stärke als auch auf Ausdauer. Dieser Bonus kann deine Werte in diesen Eigenschaften auf bis zu +6 anheben. Du kannst diese Tugend nicht zusammen mit Großgewachsen ([Seite 89](#wunden)), Zierlicher Körperbau ([Seite 145](#zwerg)) oder Zwerg ([Seite 126](#großgewachsen)) nehmen.
 
 #### Gorgiast
 *Klein, Hermetisch*<br>
@@ -10162,9 +10162,9 @@ Haus Ex Miscellanea ist alles andere als eine geschlossene Einheit – es besteh
 
 Diese Tradition beherrscht eine Magie, welche die hermetische Theorie vor große Schwierigkeiten stellt: das Rufen und Beherrschen wilder Tiere. Jeder Lehrling dieser Tradition wurde von seinem Meister schon in früher Kindheit in der Wildnis ausgesetzt und musste dort allein zurechtkommen. In dieser Zeit entwickelte er eine besondere Verbundenheit mit einer bestimmten Tiergruppe, die fortan seine Magie prägt. Aufgrund dieser ungewöhnlichen Ausbildung besitzen alle Tiermeister die Tugenden Tierverständnis und einen Kleinen Magischen Fokus auf eine bestimmte Tiergruppe. Sie lernen weder, eine Tiergestalt anzunehmen, noch, Tieren zu schaden – daraus ergibt sich der Fehler Unvereinbare Künste (MuCo & PeAn). Sie müssen mindestens einen weiteren Fehler nehmen, um ihre Tugenden auszugleichen, und haben danach noch 8 Fehlerpunkte zur Verfügung, um weitere 8 Punkte an Tugenden zu erwerben.
 
-*Große Nicht-Hermetische Tugend:* Tiere rufen
-*Kleine Hermetische Tugend:* Harmlos für Tiere
-*Großer Hermetischer Fehler:* Studienbedingung
+*Große Nicht-Hermetische Tugend:* Tiere rufen<br>
+*Kleine Hermetische Tugend:* Harmlos für Tiere<br>
+*Großer Hermetischer Fehler:* Studienbedingung<br>
 *Pflichttugenden und -fehler:* Tierverständnis, Kleiner Magischer Fokus; Unvereinbare Künste.
 
 #### Tiere rufen

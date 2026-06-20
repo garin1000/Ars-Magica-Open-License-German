@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """Sortiert alphabetisch relevante Abschnitte deutscher Ars-Magica-Regelwerke.
 
-Unterstützt 5 Sortiertypen:
+Unterstützt 6 Sortiertypen:
   A. link_list    — Link-Einträge [Name](link) innerhalb von Kategorieüberschriften
   B. desc_blocks  — ####-Blöcke (Tugenden, Fehler, Fertigkeiten)
   C. spells       — #####-Blöcke innerhalb #### STUFE X
   D. table        — Markdown-Tabellenzeilen
   E. bold_blocks  — **Name:**-Absatzblöcke (Qualitäten, Mängel)
+  F. inline_list  — Kommaseparierte Einträge innerhalb von Tabellenzellen
 
 Die zu sortierenden Abschnitte werden pro Datei in einer JSON-Config gespeichert
 (tools/sort-entries/configs/). Beim ersten Lauf wird die Config automatisch durch
@@ -198,6 +199,12 @@ def sort_link_list_section(lines, section_start, section_end, cat_level):
                     link_lines,
                     key=lambda l: sort_key_german(extract_link_name(l))
                 )
+                for k in range(len(sorted_links)):
+                    sl = sorted_links[k].rstrip('\n')
+                    sl = re.sub(r'<br\s*/?\s*>\s*$', '', sl)
+                    if k < len(sorted_links) - 1:
+                        sl += '<br>'
+                    sorted_links[k] = sl + '\n'
                 if sorted_links != link_lines:
                     stats["reordered"] += sum(
                         1 for a, b in zip(link_lines, sorted_links) if a != b
@@ -216,7 +223,8 @@ def sort_link_list_section(lines, section_start, section_end, cat_level):
 # Typ B — Beschreibungsblöcke (####-Ebene)
 # ---------------------------------------------------------------------------
 
-def sort_description_blocks(lines, section_start, section_end):
+def sort_description_blocks(lines, section_start, section_end,
+                            blockquote_attach=None):
     section = lines[section_start:section_end]
     stats = {"entries": 0, "reordered": 0}
 
@@ -252,9 +260,22 @@ def sort_description_blocks(lines, section_start, section_end):
     if not blocks:
         return section, stats
 
+    if blockquote_attach:
+        attach_next = {k for k, v in blockquote_attach.items()
+                       if v == "next"}
+        if attach_next:
+            _move_blockquotes_to_next(blocks, attach_next)
+
+    blocks = [b for b in blocks if b]
+    if not blocks:
+        return section, stats
+
     stats["entries"] = len(blocks)
 
     def block_name(block):
+        for line in block:
+            if line.startswith("#### "):
+                return line[5:].strip()
         return block[0][5:].strip()
 
     sorted_blocks = sorted(blocks, key=lambda b: sort_key_german(block_name(b)))
@@ -273,6 +294,32 @@ def sort_description_blocks(lines, section_start, section_end):
         result.extend(section[last_block_end:])
 
     return result, stats
+
+
+def _move_blockquotes_to_next(blocks, attach_next_names):
+    """Verschiebt Blockquote-Sidebars vom Ende eines Blocks an den Anfang des nächsten."""
+    for i in range(len(blocks) - 1):
+        block = blocks[i]
+        bq_start = None
+        for j in range(len(block) - 1, 0, -1):
+            line = block[j]
+            stripped = line.strip()
+            if stripped == "":
+                continue
+            if not stripped.startswith(">"):
+                break
+            heading_match = re.match(r">\s*####\s+(.*)", line)
+            if heading_match:
+                name = heading_match.group(1).strip()
+                if name in attach_next_names:
+                    bq_start = j
+                    break
+        if bq_start is not None:
+            while bq_start > 0 and block[bq_start - 1].strip() == "":
+                bq_start -= 1
+            bq_lines = block[bq_start:]
+            blocks[i] = block[:bq_start]
+            blocks[i + 1] = bq_lines + blocks[i + 1]
 
 
 # ---------------------------------------------------------------------------
@@ -525,6 +572,46 @@ def sort_bold_blocks(lines, section_start, section_end):
     return result, stats
 
 
+def sort_inline_list_section(lines, section_start, section_end, sort_column=2):
+    """Sortiert kommaseparierte Einträge innerhalb von Tabellenzellen."""
+    section = list(lines[section_start:section_end])
+    stats = {"entries": 0, "reordered": 0, "rows": 0}
+
+    col_idx = sort_column - 1
+
+    is_header = set()
+    for i, line in enumerate(section):
+        if line.strip().startswith("|") and "---" in line:
+            is_header.add(i)
+            if i > 0 and section[i - 1].strip().startswith("|"):
+                is_header.add(i - 1)
+
+    for i, line in enumerate(section):
+        if i in is_header:
+            continue
+        if not line.strip().startswith("|"):
+            continue
+
+        cells = line.split("|")
+        if len(cells) < col_idx + 2:
+            continue
+
+        cell = cells[col_idx + 1].strip()
+        items = [item.strip() for item in cell.split(", ")]
+        if len(items) < 2:
+            continue
+
+        stats["rows"] += 1
+        stats["entries"] += len(items)
+        sorted_items = sorted(items, key=sort_key_german)
+        if sorted_items != items:
+            stats["reordered"] += 1
+            cells[col_idx + 1] = " " + ", ".join(sorted_items) + " "
+            section[i] = "|".join(cells)
+
+    return section, stats
+
+
 # ---------------------------------------------------------------------------
 # Strukturanalyse
 # ---------------------------------------------------------------------------
@@ -617,6 +704,47 @@ def _detect_table(lines, start, end):
     return result
 
 
+def _detect_inline_list(lines, start, end):
+    """Erkennt Tabellen mit kommaseparierten nicht-numerischen Listen in Zellen.
+
+    Nur wenn mindestens 50% der Datenzeilen Komma-Listen enthalten, wird
+    inline_list erkannt. Vereinzelte Komma-Zellen in einer großen Tabelle
+    werden ignoriert (das ist normaler Tabellentext, kein Listenformat).
+    """
+    matching_rows = 0
+    total_data_rows = 0
+    best_column = -1
+    header_lines = set()
+    for i in range(start, end):
+        stripped = lines[i].strip()
+        if stripped.startswith("|") and "---" in stripped:
+            header_lines.add(i)
+            if i > 0 and lines[i - 1].strip().startswith("|"):
+                header_lines.add(i - 1)
+    for i in range(start, end):
+        stripped = lines[i].strip()
+        if not stripped.startswith("|") or i in header_lines:
+            continue
+        total_data_rows += 1
+        cells = stripped.split("|")
+        for col_idx, cell in enumerate(cells):
+            cell = cell.strip()
+            items = [item.strip() for item in cell.split(", ")]
+            if len(items) >= 3:
+                has_text = any(not item.replace(".", "").replace(",", "").strip().isdigit()
+                              for item in items if item)
+                if has_text:
+                    matching_rows += 1
+                    if best_column < 0:
+                        best_column = col_idx
+                    break
+    if matching_rows >= 2 and total_data_rows > 0:
+        ratio = matching_rows / total_data_rows
+        if ratio >= 0.5:
+            return {"rows": matching_rows, "sort_column": best_column}
+    return None
+
+
 def _analyze_group(lines, start, end, heading, subheading, sections, headings,
                    occurrence=None):
     h4_count = sum(1 for h in headings
@@ -647,15 +775,21 @@ def _analyze_group(lines, start, end, heading, subheading, sections, headings,
 
     table_info = _detect_table(lines, start, end)
     if table_info:
-        entry = {"heading": heading, "type": "table",
-                 "enabled": True,
-                 "note": f"{table_info['rows']} Tabellenzeilen"}
+        is_inline = _detect_inline_list(lines, start, end)
+        if is_inline:
+            entry = {"heading": heading, "type": "inline_list",
+                     "enabled": True, "sort_column": is_inline["sort_column"],
+                     "note": f"{is_inline['rows']} Zeilen mit Komma-Listen"}
+        else:
+            entry = {"heading": heading, "type": "table",
+                     "enabled": True,
+                     "note": f"{table_info['rows']} Tabellenzeilen"}
+            if table_info.get("keep_sub_entries"):
+                entry["keep_sub_entries"] = True
         if subheading:
             entry["subheading"] = subheading
         if occurrence is not None:
             entry["occurrence"] = occurrence
-        if table_info.get("keep_sub_entries"):
-            entry["keep_sub_entries"] = True
         sections.append(entry)
 
 
@@ -700,15 +834,6 @@ def analyze_file(lines: list[str]) -> list[dict]:
 
         h3_in_section = [(h[0], h[2]) for h in headings
                          if h[1] == 3 and h2_line < h[0] < h2_end]
-
-        if not h3_in_section:
-            table_info = _detect_table(lines, h2_line, h2_end)
-            if table_info:
-                extra = {"note": f"{table_info['rows']} Tabellenzeilen"}
-                if table_info.get("keep_sub_entries"):
-                    extra["keep_sub_entries"] = True
-                sections.append(make_entry("table", extra))
-                continue
 
         occ = occurrence if has_dup else None
         if h3_in_section:
@@ -851,10 +976,13 @@ def analyze_and_save(input_path: str, lines: list[str]) -> dict:
     if cfg_path.exists():
         old_config = json.loads(cfg_path.read_text(encoding="utf-8"))
         old_by_key = {_section_key(s): s for s in old_config.get("sections", [])}
+        _PRESERVE_KEYS = {"enabled", "blockquote_attach", "sort_column"}
         for sec in new_sections:
             old = old_by_key.get(_section_key(sec))
             if old is not None:
-                sec["enabled"] = old.get("enabled", True)
+                for key in _PRESERVE_KEYS:
+                    if key in old:
+                        sec[key] = old[key]
 
     config = {
         "version": 1,
@@ -1003,8 +1131,10 @@ def process(input_path: str, output_dir: str, verbose: bool = False) -> None:
                 f"Kategorien, {stats['reordered']} umsortiert"
             )
         elif stype == "desc_blocks":
+            bq_attach = sec_cfg.get("blockquote_attach")
             new_lines, stats = sort_description_blocks(
-                sort_input, sort_start, sort_end)
+                sort_input, sort_start, sort_end,
+                blockquote_attach=bq_attach)
             report.append(
                 f"  {name}: {stats['entries']} Einträge, "
                 f"{stats['reordered']} umsortiert"
@@ -1029,6 +1159,14 @@ def process(input_path: str, output_dir: str, verbose: bool = False) -> None:
                 sort_input, sort_start, sort_end)
             report.append(
                 f"  {name}: {stats['entries']} Einträge, "
+                f"{stats['reordered']} umsortiert"
+            )
+        elif stype == "inline_list":
+            sort_col = sec_cfg.get("sort_column", 2)
+            new_lines, stats = sort_inline_list_section(
+                sort_input, sort_start, sort_end, sort_col)
+            report.append(
+                f"  {name}: {stats['rows']} Zeilen, {stats['entries']} Einträge, "
                 f"{stats['reordered']} umsortiert"
             )
 

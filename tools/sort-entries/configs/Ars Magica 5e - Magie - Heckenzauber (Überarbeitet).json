@@ -107,9 +107,10 @@
     },
     {
       "heading": "## Elementaristische Techniken",
-      "type": "table",
-      "enabled": true,
-      "note": "4 Tabellenzeilen",
+      "type": "inline_list",
+      "enabled": false,
+      "sort_column": 2,
+      "note": "4 Zeilen mit Komma-Listen",
       "subheading": "### Läutern"
     },
     {
@@ -129,7 +130,7 @@
     {
       "heading": "## Elementaristische Gesellschaften",
       "type": "table",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Tabellenzeilen",
       "subheading": "### Ikhwan as-Safa'"
     },
@@ -632,6 +633,62 @@
       "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### K, Kauno, „Schmerz\""
+    },
+    {
+      "heading": "#### Elementare Eigenschaften",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Sabbatzeiten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "8 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### ABENTEUERIDEEN zur Behutsamen Erschließung",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### ABENTEUERIDEEN zur Energiemagie",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### ABENTEUERIDEEN zu Gruagachan-Formen und -Techniken",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Mit einer Glückshaube geboren",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Vitkar-Tugenden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Vitkar-Magiefoki",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "8 Fetteinträge (Blockquote)"
     }
   ]
 }

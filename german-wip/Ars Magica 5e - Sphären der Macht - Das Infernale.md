@@ -39,11 +39,11 @@ Rick Barton, Wendell Joyner, Angus MacDonald, Sarah MacDonald, Brian Watson, Que
 
 **Ars Magica** players participate in a thriving fan community by subscribing to email discussion lists (like the Berkeley list), compiling archives of game material (such as Project Redcap), maintaining fan-created web sites, and running demos through Atlas Games' Special Ops program. To learn more, visit www.atlas-games.com/ArM5. You can also participate in discussion of **Ars Magica** at the official Atlas Games forums located at www.atlas-games.com/forum.
 
-Copyright 2006 Trident, Inc. d/b/a Atlas Games. All rights reserved. Reproduction of this work by any means without written permission from the publisher, except short excerpts for the purpose of reviews, is expressly prohibited. Illustrations on pages 2, 5, 28, 35, 36, 38, 40, 41, 51, 65, 85, 88, 90, and 142 copyright 2006 Jupiterimages Corporation.
+Copyright 2006 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Reproduktion dieses Werks in jeglicher Form ohne schriftliche Genehmigung des Verlags, mit Ausnahme kurzer Auszüge zu Rezensionszwecken, ist ausdrücklich untersagt. Illustrationen auf den Seiten 2, 5, 28, 35, 36, 38, 40, 41, 51, 65, 85, 88, 90 und 142 Copyright 2006 Jupiterimages Corporation.
 
-**Ars Magica**, Mythic Europe, Realms of Power: The Infernal, Realms of Power: The Divine, Houses of Hermes: Mystery Cults, Houses of Hermes: True Lineages, The Mysteries, Covenants, Guardians of the Forests, The Broken Covenant of Calebais, and Charting New Realms of Imagination are trademarks of Trident, Inc. Order of Hermes, Tremere, and Doissetep are trademarks of White Wolf, Inc. and are used with permission.
+**Ars Magica**, Mythisches Europa, Sphären der Macht: Das Infernale, Sphären der Macht: Das Göttliche, Häuser des Hermes: Mysterienkulte, Häuser des Hermes: Wahre Linien, Die Mysterien, Konvente, Wächter des Waldes, Der Gebrochene Bund von Calebais und Charting New Realms of Imagination sind Warenzeichen von Trident, Inc. Orden des Hermes, Tremere und Doissetep sind Warenzeichen von White Wolf, Inc. und werden mit Genehmigung verwendet.
 
-**Digital Edition Version 1.0**
+**Digitale Ausgabe Version 1.0**
 
 # Inhaltsverzeichnis
 

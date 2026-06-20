@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_file": "Ars Magica 5e - Sphären der Macht - Magie.md",
-  "file_hash": "sha256:10e5113b023dbe9a",
+  "file_hash": "sha256:4ecb0afb73f37dd2",
   "sections": [
     {
       "heading": "## Autorenbiographien",
@@ -58,6 +58,13 @@
     },
     {
       "heading": "## Ausgerichtete Auren",
+      "type": "table",
+      "enabled": true,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Auren, die Emotionen verstärken"
+    },
+    {
+      "heading": "## Ausgerichtete Auren",
       "type": "bold_blocks",
       "enabled": true,
       "note": "15 Fetteinträge",
@@ -86,6 +93,13 @@
     },
     {
       "heading": "## Regeln der Sphäre",
+      "type": "table",
+      "enabled": false,
+      "note": "7 Tabellenzeilen",
+      "subheading": "### Magisches Reisen"
+    },
+    {
+      "heading": "## Regeln der Sphäre",
       "type": "bold_blocks",
       "enabled": false,
       "note": "7 Fetteinträge",
@@ -106,10 +120,31 @@
       "subheading": "### Jahreszeit"
     },
     {
+      "heading": "## Magische Charaktererschaffung",
+      "type": "table",
+      "enabled": false,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Jahreszeit"
+    },
+    {
+      "heading": "## Magische Charaktererschaffung",
+      "type": "table",
+      "enabled": false,
+      "note": "4 Tabellenzeilen",
+      "subheading": "### Machtwert"
+    },
+    {
       "heading": "## Qualitäten und Mängel",
       "type": "bold_blocks",
       "enabled": true,
       "note": "12 Fetteinträge",
+      "subheading": "### Große Magische Qualitäten"
+    },
+    {
+      "heading": "## Qualitäten und Mängel",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
       "subheading": "### Große Magische Qualitäten"
     },
     {
@@ -124,6 +159,13 @@
       "type": "bold_blocks",
       "enabled": true,
       "note": "6 Fetteinträge",
+      "subheading": "### Große Magische Mängel"
+    },
+    {
+      "heading": "## Qualitäten und Mängel",
+      "type": "table",
+      "enabled": true,
+      "note": "5 Tabellenzeilen",
       "subheading": "### Große Magische Mängel"
     },
     {
@@ -183,6 +225,13 @@
       "subheading": "### Gewöhnung"
     },
     {
+      "heading": "## Fortschritt",
+      "type": "table",
+      "enabled": false,
+      "note": "12 Tabellenzeilen",
+      "subheading": "### Gewöhnung"
+    },
+    {
       "heading": "## Tugendtiere",
       "type": "desc_blocks",
       "enabled": true,
@@ -215,6 +264,13 @@
       "type": "bold_blocks",
       "enabled": false,
       "note": "51 Fetteinträge",
+      "subheading": "### Drachen als Charaktere"
+    },
+    {
+      "heading": "## Drachen und Drachenvolk",
+      "type": "table",
+      "enabled": false,
+      "note": "7 Tabellenzeilen",
       "subheading": "### Drachen als Charaktere"
     },
     {
@@ -319,6 +375,13 @@
       "enabled": true,
       "note": "3 H4-Blöcke",
       "subheading": "### Wiedergänger, die wandelnden Toten"
+    },
+    {
+      "heading": "## Verwandelte Menschen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Geister als Charaktere"
     },
     {
       "heading": "## Luftgeister",
@@ -467,6 +530,14 @@
     },
     {
       "heading": "## Elementare",
+      "type": "inline_list",
+      "enabled": false,
+      "sort_column": 2,
+      "note": "4 Zeilen mit Komma-Listen",
+      "subheading": "### Gestaltung von Elementaren"
+    },
+    {
+      "heading": "## Elementare",
       "type": "bold_blocks",
       "enabled": false,
       "note": "3 Fetteinträge",
@@ -576,6 +647,272 @@
       "enabled": false,
       "note": "14 Fetteinträge",
       "subheading": "### Wolf (Lupus)"
+    },
+    {
+      "heading": "### Beispiele für Auren mit mehreren Verankerungen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "8 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Sinne in der Leere",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "10 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Positive und negative Eigenschaften",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "10 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Creo-Leitlinien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Muto-Leitlinien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Perdo-Leitlinien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Rego-Leitlinien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Charakterleitfäden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Charakterleitfaden: Ein Magischer Jagdhund",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "11 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Aeolus, Magisches Pferd",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "16 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Tugenden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "9 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Fehler",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "10 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Soziale Fertigkeiten und Magische Wesen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "13 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Vis-Konsum",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Empfohlene Vertraute nach Kunst",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "15 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Abenteuerideen zu Tugendtieren",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "8 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Charakterleitfaden Vogel von Nephelokokkygien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "13 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Katzencharakter-Vorlage",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Ein Scitalis",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "15 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Ein Lindwurm",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "17 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Drachen-Abenteuerideen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Ein typischer Riese",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "18 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Atlantier-Charakterleitfaden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "14 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Wiedergänger, leichenartige Gestalt",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "15 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Wiedergänger, Skelettgestalt",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "14 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Intellego (Form)",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Rego Vim",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### ABENTEUERIDEEN für Vis der Minderen Verzauberung",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### ABENTEUERIDEEN für zauberähnliches Vis",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Form- und Materialboni für Tugendkräuter",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Form- und Materialboni für Tugendobjekte",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Ein Belebter Baum",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "13 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Eine Alraunwurzel der Tugend",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "15 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Elementare Abenteuerideen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Ein Erdelementar",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "14 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Ein Wasserelementar",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "14 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Ein Luftelementar",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "14 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Charakterleitfaden: Ein Feuerelementar",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "14 Fetteinträge (Blockquote)"
     }
   ]
 }

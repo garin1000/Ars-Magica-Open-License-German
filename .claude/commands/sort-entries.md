@@ -37,6 +37,25 @@ Finde die korrespondierende englische Originaldatei in `original-english/reviewe
 | `link_list` | Sind die `[Name](link)`-Zeilen pro Kategorie alphabetisch sortiert? |
 | `table` | Ist die erste Datenspalte alphabetisch sortiert? |
 | `spells` | Sind die `#####`-Zauber innerhalb jeder `STUFE` alphabetisch sortiert? |
+| `inline_list` | Sind die kommaseparierten Einträge innerhalb der Tabellenzellen alphabetisch sortiert? |
+
+### 2b. Blockquote-Sidebars prüfen
+
+Prüfe für jeden `desc_blocks`-Abschnitt, ob Blockquote-Sidebars (`> #### ...`) enthalten sind. Falls ja:
+
+1. Lies den thematischen Inhalt des Blockquotes.
+2. Identifiziere den vorangehenden und folgenden `####`-Block.
+3. Entscheide, zu welchem Block der Blockquote thematisch gehört.
+4. Trage die Zuordnung in die Config ein als `blockquote_attach`:
+
+```json
+"blockquote_attach": {
+  "Sidebar-Name": "next"
+}
+```
+
+- `"next"`: Blockquote gehört zum **folgenden** Block
+- `"previous"` (Standard, muss nicht eingetragen werden): Blockquote gehört zum **vorangehenden** Block
 
 ### 3. Empfehlung ableiten
 

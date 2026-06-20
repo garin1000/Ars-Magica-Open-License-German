@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_file": "Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md",
-  "file_hash": "sha256:05f2dc4594f777e6",
+  "file_hash": "sha256:1fe4f48348014dd6",
   "sections": [
     {
       "heading": "## Bräuche von Haus Bjornaer",
@@ -90,7 +90,7 @@
     {
       "heading": "## Charaktere des Hauses Bjornaer",
       "type": "table",
-      "enabled": true,
+      "enabled": false,
       "note": "5 Tabellenzeilen",
       "subheading": "### Tugenden und Fehler"
     },
@@ -118,15 +118,16 @@
     {
       "heading": "## Anhang: Weltliche Tiere",
       "type": "table",
-      "enabled": true,
+      "enabled": false,
       "note": "9 Tabellenzeilen",
       "subheading": "### 2. Eigenschaften"
     },
     {
       "heading": "## Anhang: Weltliche Tiere",
-      "type": "table",
-      "enabled": true,
-      "note": "4 Tabellenzeilen",
+      "type": "inline_list",
+      "enabled": false,
+      "sort_column": 2,
+      "note": "4 Zeilen mit Komma-Listen",
       "subheading": "### 4. Grundfertigkeiten"
     },
     {
@@ -265,7 +266,7 @@
     {
       "heading": "## Merinita-Mysterien",
       "type": "table",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Tabellenzeilen",
       "subheading": "### Arkadische Mysterien"
     },
@@ -370,7 +371,7 @@
     {
       "heading": "## Innere Mysterien des Hauses Verditius",
       "type": "table",
-      "enabled": true,
+      "enabled": false,
       "note": "12 Tabellenzeilen",
       "subheading": "### Ältere Verditius-Runen (Kleines Hausmysterium)"
     },
@@ -433,7 +434,7 @@
     {
       "heading": "## Anhang: Erweiterte Form- & Materialboni",
       "type": "table",
-      "enabled": true,
+      "enabled": false,
       "note": "26 Tabellenzeilen",
       "subheading": "### Werkzeuge"
     },
@@ -447,7 +448,7 @@
     {
       "heading": "## Anhang: Erweiterte Form- & Materialboni",
       "type": "table",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Tabellenzeilen",
       "subheading": "### Bäume unter besonderen Umständen"
     },
@@ -468,6 +469,188 @@
       "type": "bold_blocks",
       "enabled": true,
       "note": "3 Fetteinträge"
+    },
+    {
+      "heading": "### Eckdaten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Berühmte Persönlichkeiten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Spielwerte von Gestaltwandlern",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Beispielhafte Mythische Taten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Beispiele für Elementargestalten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Beispiel einer Tiererschaffung: Bär",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "11 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Sagenhafte Tiere",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "20 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Kernfakten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Berühmte Magi",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Glossar",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "18 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Der Pfad des Körpers, symbolisch dargestellt",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Der Pfad des Scheins, in Zahlen dargestellt",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Der Pfad des Streits, dargestellt mit Zahlen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Der Pfad des Rückwärtsgehens, arithmetisch dargestellt",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Eckdaten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Berühmte Gestalten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Creo Animal",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Muto Animal",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Muto Corpus",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Creo Terram",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Muto Terram",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Zauberspruchkategorien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Symbol-Reichweite, -Dauer und -Ziel",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Glamour-Leitlinien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Kernfakten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Berühmte Persönlichkeiten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "7 Fetteinträge (Blockquote)"
     }
   ]
 }
