@@ -514,5 +514,21 @@
 | Venomous Velites | Giftige Velites | CrAn45 | HoH:TL; Giftiger Skorpionschwarm mit Rego-Requisit |
 | Voices from Hollow Spaces | Stimmen aus hohlen Räumen | ReMe25 | HoH:TL; Geisterbindung an Objekte/Orte |
 
+### Ergänzungen aus Realms of Power: The Infernal (RoP:I)
+
+| Englisch (EN) | Deutsch (DE) | Kunst und Stufe | Anmerkung |
+|---|---|---|---|
+| Fanning the Infernal Flames | Das Infernale Feuer schüren | CrVi Gen | SdM:I; Machtvorrat eines Dämons wiederherstellen |
+| Plucking the Hair from the Billy Goat's Chin | Dem Ziegenbock das Barthaar zupfen | CrVi 20 | SdM:I; temporäre Arkane Verbindung zu Dämon |
+| Sulfurous Whispers | Schwefelflüstern | InVi 30 | SdM:I; Fernkommunikation mit Dämon |
+| Early Punishment for the Sinful Witch | Frühe Bestrafung der sündigen Hexe | MuVi Gen | SdM:I; Infernalen Effekt auf Infernalist zerstören |
+| The Wicked Jar | Das verwünschte Gefäß | MuVi Gen | SdM:I; Dämon an physischen Gegenstand binden |
+| Bind the Devil's Hands | Die Hände des Teufels binden | PeVi Gen | SdM:I; Infernale Kräfte in einem Raum behindern |
+| Exorcise the Filthy Spirit | Den unreinen Geist austreiben | PeVi Gen | SdM:I; Exorzismus bei Besessung |
+| Lash of the Chastened Servant | Peitsche des gezüchtigten Dieners | PeVi 15 | SdM:I; 5 Machtpunkte entziehen |
+| Adjuration of the Hell-Sworn Spirit | Beschwörung des höllenverschworenen Geistes | ReVi 35 | SdM:I; Dämon per Wahrem Namen beschwören |
+| Cleanse the Verminous Vis | Läuterung des besudelten Vis | ReVi 15 | SdM:I; infernales Vis um eine Stufe reinigen |
+| Command the Vile Spirit | Den niederträchtigen Geist befehligen | ReVi 20 | SdM:I; Dämon zum Gehorsam zwingen |
+
 ---
-*Quellen: Zauberübersetzungstabelle.md (Ars Magica Definitive Edition, Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License) · ArM_DE_Zusatztermini.md · Houses of Hermes: True Lineages (Atlas Games, 2005)*
+*Quellen: Zauberübersetzungstabelle.md (Ars Magica Definitive Edition, Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License) · ArM_DE_Zusatztermini.md · Houses of Hermes: True Lineages (Atlas Games, 2005) · Realms of Power: The Infernal (Atlas Games, 2006)*

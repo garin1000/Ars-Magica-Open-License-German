@@ -98,7 +98,7 @@
 | Englisch (EN) | Deutsch (DE) | Erstes Auftreten | Anmerkung |
 |---|---|---|---|
 | Sundering, the | die Zertrennung | Kapitel 2 | Historisches Ereignis des Hauses Tremere; DE-Übersetzung sinngemäß treffend |
-| True Lineage | Wahre Abstammungslinie | Kapitel 2 | Konsistent so verwendet; sinnvolle Übersetzung |
+| True Lineage | Wahre Linie | Kapitel 2 | Passend zum Supplementtitel „Häuser des Hermes: Wahre Linien" |
 | venditor (pl. venditores) | Venditor (Venditores) | Kapitel 2 | Lat. Fachbegriff für Handelsvertreter von Haus Verditius; im DE-Text unübersetzt belassen – korrekt |
 | voting sigil | Abstimmungs-Sigil | Kapitel 2 | Kompositum zur Unterscheidung vom Zauberer-Sigil (Persönlichkeitsausdruck); Tabelle kennt nur „Sigil" |
 

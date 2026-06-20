@@ -207,11 +207,11 @@
 |---|---|---|
 | Ars Magica Definitive Edition (Core Rules) | Ars Magica Definitive Edition (Basisregeln) | Kernregelwerk; Abk. EN **ArM5** / **ArMDE**, DE **ArM5** / **ArMDE** |
 | Houses of Hermes: True Lineages | Häuser des Hermes: Wahre Linien | Supplementband; Abk. EN **HoH:TL**, DE **HdH:WL** |
-| Realms of Power | Sphären der Macht | Supplementreihe; Abk. **SdM** |
-| Realms of Power: Magic | Sphären der Macht: Magie | Abk. **SdM:M** |
-| Realms of Power: Faerie | Sphären der Macht: Feenwelt | Abk. **SdM:F** |
-| Realms of Power: The Divine | Sphären der Macht: Das Göttliche | Abk. **SdM:D** |
-| Realms of Power: The Infernal | Sphären der Macht: Das Infernale | Abk. **SdM:I** |
+| Realms of Power | Sphären der Macht | Supplementreihe; Abk. EN **RoP**, DE **SdM** |
+| Realms of Power: Magic | Sphären der Macht: Magie | Abk. EN **RoP:M**, DE **SdM:M** |
+| Realms of Power: Faerie | Sphären der Macht: Feenwelt | Abk. EN **RoP:F**, DE **SdM:F** |
+| Realms of Power: The Divine | Sphären der Macht: Das Göttliche | Abk. EN **RoP:D**, DE **SdM:D** |
+| Realms of Power: The Infernal | Sphären der Macht: Das Infernale | Abk. EN **RoP:I**, DE **SdM:I** |
 | Houses of Hermes: Mystery Cults | Häuser des Hermes: Mysterienkulte | Supplementband; Abk. EN **HoH:MC**, DE **HdH:MK** |
 | Houses of Hermes: Societates | Häuser des Hermes: Societates | Supplementband; Abk. EN **HoH:S**, DE **HdH:S**; lat. „Gemeinschaften" |
 | The Mysteries Revised Edition | Die Mysterien (Überarbeitete Ausgabe) | Supplementband; Abk. EN **TMRE**, DE **DM:ÜA** |

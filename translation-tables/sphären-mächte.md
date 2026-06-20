@@ -232,4 +232,209 @@ Lädt sich im Laufe eines Tages gleichmäßig auf den Machtwert auf (z. B. Macht
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024) · Ars Magica 5e – Sphären der Macht: Magie (Atlas Games) · Deutsche Übersetzung (ArsMagica_DE_Gesamt_work.md)*
+## Ergänzungen aus Sphären der Macht: Das Infernale (SdM:I)
+
+### Infernale Auren / Infernal Auras
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Tarnished aura | Angelaufene Aura | Aura mit Resonanz für bestimmtes sündhaftes Verhalten |
+| Corrupted aura | Korrumpierte Aura | Vollständig vom Infernalen verdorbene Aura |
+| Debauched aura | Ausschweifende Aura | Korrumpierte Aura; fördert Sünden der Selbstsucht und Trägheit |
+| Malevolent aura | Bösartige Aura | Korrumpierte Aura; fördert Sünden der Perversion und des Übermaßes |
+| Perfidious aura | Hinterhältige Aura | Korrumpierte Aura; fördert Sünden arglistiger Täuschung |
+| Corruption roll | Korrumpierungswurf | Wurf zur Entstehung/Verstärkung infernaler Auren |
+| Corruption rite | Korrumpierungsritus | Diabolisten-Ritual zur Auren-Korrumpierung |
+| Tarnishing | Anlaufen | Vorgang des Anlaufens einer Aura durch infernalen Einfluss |
+| Tarnish Trait | Anlauf-Eigenschaft | Persönlichkeitseigenschaft einer angelaufenen Aura |
+| Personal influence | Persönlicher Einfluss | Infernale Beeinflussungsmethode über ein Quartal |
+| Ceremonial influence | Zeremonieller Einfluss | Infernale Beeinflussungsmethode per Zeremonie |
+
+### Dämonenhierarchie und Theologie / Demon Hierarchy and Theology
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Archdemon | Erzdämon | Oberhaupt einer Dämonenordnung |
+| Electors of Hell | Kurfürsten der Hölle | Rat der neun Erzdämonen |
+| Maskim | Maskim | Hebr. Eigenname; die neun Erzdämonen |
+| Sammael / Poison Angel | Sammael / Giftengel | Jüdische Personifizierung des Bösen |
+| Yezer ra | Jezer Ra | Hebr.; böse Neigung im Menschen |
+
+### Infernale Regelmechanik / Infernal Mechanics
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Hierarchy score | Hierarchiewert | Höchster infernaler Reputationswert eines Dämons |
+| Infernal Reputation | Infernale Reputation | Reputationen von Dämonen innerhalb der Hierarchie |
+| Corrupt Beast | Verdorbene Bestie | Kreaturentyp; infernal korrumpiertes Tier |
+
+### Allgemeine Dämonenkräfte / Common Demon Powers
+
+| Englisch (EN) | Deutsch (DE) | Ordnung / Anmerkung |
+|---|---|---|
+| Shroud the Stench of the Pit | Den Gestank der Grube verhüllen | Falsche Götter |
+| The Wealth of Nations | Der Reichtum der Nationen | Falsche Götter |
+| His Master's Voice | Die Stimme seines Herrn | Falsche Götter |
+| Change Form | Gestaltwandel | Geister des Betrugs |
+| Trust of the Innocent | Vertrauen des Unschuldigen | Geister des Betrugs |
+| Forked Tongue of the Serpent | Gespaltene Zunge der Schlange | Geister des Betrugs |
+| The Serpent's Oracle | Das Orakel der Schlange | Geister des Betrugs |
+| Form of Wickedness | Gestalt der Verruchtheit | Gefäße der Bosheit |
+| Form of Man | Menschengestalt | Gefäße der Bosheit |
+| Contagious Obsession | Ansteckende Besessenheit | Gefäße der Bosheit |
+| Punish the Sinner | Den Sünder bestrafen | Rächer des Bösen |
+| Delusion | Verblendung | Verführer |
+| Duplicate the Magi's Creation | Die Schöpfung der Magi duplizieren | Verführer |
+| Elemental Control | Elementare Beherrschung | Luftmächte |
+| Recalcitrance | Aufsässigkeit | Luftmächte |
+| Waxing Tide of Humors | Anschwellende Flut der Säfte | Furien |
+| Berserker Rage | Berserkerrausch | Furien |
+| Endurance of the Enraged | Ausdauer der Rasenden | Furien |
+| Betrayal of the Heart | Verrat des Herzens | Ankläger |
+| Whispers Behind the Back | Flüstern hinter dem Rücken | Ankläger |
+| Scourging the Infernal | Geißelung des Infernalen | Reliquienkraft |
+| Coagulation | Koagulation | Allg. Dämonenkraft; physische Manifestation |
+| Enervators | Blender | Verführer-Unterfamilie; täuschen stärkere Magie vor |
+| Infernal Dragons | Infernale Drachen | Meister der Geister des Betrugs |
+| Men of Good Intent | Männer guter Absicht | Geister-des-Betrugs-Unterfamilie |
+| Spirits of Solomon | Geister Salomons | Verführer-Unterfamilie |
+| Watchers (Demons) | Wächter | Herzöge der Verführer (Grigori) |
+| Miser's Pot | Topf des Knausers | Ankläger-Dämon |
+| Deceiver's Boost | Schub des Betrügers | Blender-Kraft |
+| Nails of the Cuckold's Vengeance | Nägel der Rache des Gehörnten | Andrew |
+| Ennoble the Base | Das Niedrige erheben | Berith |
+| Face of the Count | Antlitz des Grafen | Berith |
+| Seven Leagues in One Night | Sieben Wegstunden in einer Nacht | Berith |
+| Crushing the Will | Den Willen brechen | Bordelon |
+| Chastise the Disobedient | Den Ungehorsamen züchtigen | Bordelon |
+| Hide from Mortal Sight | Vor sterblichem Blick verbergen | Forcas |
+| Retrieve That Which is Lost | Das Verlorene zurückholen | Forcas |
+| Body of Brass | Leib aus Messing | Topf des Knausers |
+| Seize the Miser's Hoard | Den Hort des Geizhalses ergreifen | Topf des Knausers |
+| Idea | Idee | Topf des Knausers |
+| The Wordless Conversation | Das Wortlose Gespräch | Wächter |
+| Corrupted Knowledge | Korrumpiertes Wissen | Wächter |
+| The Worst You Can Be | Das Schlimmste, das du sein kannst | Geister Salomons |
+| The Abandoned Corpse | Der zurückgelassene Leichnam | Premnemosyne |
+| Aethnici | Aethnici | Luftmächte-Familie; lat. Eigenname |
+| Demons of the Fifth Trump | Dämonen der Fünften Posaune | Furien-Familie; Offb. 9 |
+| Dibbukim | Dibbukim | Furien-Familie; hebr. Eigenname |
+| Lord of the Furies | Fürst der Furien | Hierarchie-Titel; Bael |
+| Master of the Furies | Meister der Furien | Hierarchie-Titel; Architectus |
+| Command the Four Hosts of Builders | Gebiete den vier Heerscharen der Erbauer | Architectus |
+| Eyes of Stone Demons | Augen der Steindämonen | Architectus |
+| Form of the Serpent | Schlangengestalt | Aethnici |
+| Elemental Control of Fire | Elementare Beherrschung des Feuers | Aethnici |
+| Seething Resentment | Brodelnder Groll | Bael |
+| Worm of the Mind | Wurm des Geistes | Bael |
+| Inescapable | Unentrinnbar | Dämonen der Fünften Posaune |
+| Scorpion's Tail | Skorpionschwanz | Dämonen der Fünften Posaune |
+| Fictiles / Fictilis | Fictiles / Fictilis | Lat. Eigenname; Luftmächte aus nassem Ton |
+| Lilin / Lil | Lilin / Lil | Hebr. Eigenname; Nachtgeister, Verführer |
+| Lucifuges | Lucifuges | Lat. „Lichtflüchtige"; Luftmächte in der Erde |
+| Maggots / Astasian | Maden / Astasian | Winzige Verführer |
+| Merry Devils | Lustige Teufel | Gefäße der Bosheit |
+| Reveners | Wiedergänger | Gefäße der Bosheit; beleben Leichname |
+| Mazzikim / Mazzik | Mazzikim / Mazzik | Hebr.; Schädiger des Menschen |
+| Khrafstar | Khrafstar | Pers.; schädliche Kreaturen |
+| Daevas | Daevas | Zoroastrische böse Geister |
+| Spentas | Spentas | Zoroastrische Geister der Güte |
+| Blight the Household | Den Hausstand verderben | Fictiles |
+| Cloud of Pepper | Pfefferwolke | Gourmand |
+| Conjure Spices | Gewürze herbeizaubern | Gourmand |
+| Hide Flavor | Geschmack verbergen | Gourmand |
+| Pleasant Clouds in the Mind | Angenehme Wolken im Geist | Lustige Teufel |
+| Endurance of the Gluttonous | Ausdauer der Gefräßigen | Mahonin |
+| Grant Victory | Sieg verleihen | Morrighu |
+| Shout | Ruf | Hulikang |
+| A Murder of Crows | Ein Schwarm von Krähen | Sabaoth |
+| Piercing Eye | Durchdringender Blick | Sabaoth |
+| Fear of the Wilderness | Furcht der Wildnis | Mazzikim |
+| Steal Life | Leben stehlen | Lilin |
+| Mass Hallucination | Massenhalluzination | Lilin |
+| Steal Blood | Blut stehlen | Lucifuges |
+| Steal Thoughts | Gedanken stehlen | Lucifuges |
+| The Dead That Walk Again | Die Toten, die wieder wandeln | Wiedergänger |
+| The Tempest's Fury | Des Sturmes Zorn | Naonhaithya |
+| Calling the Khrafstar | Die Khrafstar rufen | Naonhaithya |
+| Mastery of the Oceans | Herrschaft über die Ozeane | Rahab |
+| Wrath of the Oceans | Zorn der Ozeane | Rahab |
+| Waxing Size of the Swelling Ocean | Wachsende Größe des schwellenden Ozeans | Rahab |
+| Breath of the Desert | Atem der Wüste | Xaphan |
+| Breath of the Bellows | Atem des Blasebalgs | Xaphan |
+| Burning Curse | Brennender Fluch | Xaphan |
+| Ways of the Ocean | Wege des Ozeans | Tugend; Rahab |
+
+### Infernale Tugenden und Fehler / Infernal Virtues and Flaws
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Infernal Blessing | Infernaler Segen | Groß/Klein, Übernatürlich, Befleckt; 60/120 Stufen unheiliger Effekte |
+| Hermetic Sorcery | Hermetische Hexerei | Groß, Hermetisch, Befleckt; Goetische Kunst-EP fließen halb in Rego |
+| No Tradition | Ohne Tradition | Klein, Allgemein; Infernalist ohne zugehörige Tradition |
+| Tainted Offspring | Befleckter Nachkomme | Groß, Geschichte, Befleckt; Kind von mächtigem Dämon vorgesehen |
+| Tainted Treasure | Verfluchter Schatz | Klein, Allgemein, Befleckt; in Basisregeln bestätigt |
+
+### Maleficia – Begriffe und Parameter / Maleficia Terms
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Maleficium / Maleficia | Maleficium / Maleficia | Lat. Eigenname; infernale Zauber (Methode + Kraft) |
+| Crossroads (Range) | Kreuzung (Reichweite) | Infernale Reichweite; wie Stimme |
+| Cursed (condition) (Duration) | Verflucht (Bedingung) (Dauer) | Bedingte infernale Dauer; wie Sonne + zweite Dauer |
+| Forsaken (Duration) | Verstoßen (Dauer) | Permanente infernale Dauer; wie Jahr |
+| Passion (Target) | Leidenschaft (Ziel) | Infernales Ziel über Leidenschaften; wie Gruppe |
+| Infernal curse | Infernaler Fluch | Verfluchungs-Maleficia mit Dauer Verstoßen |
+| False Power | Falsche Macht | Fehler; vom Infernalen korrumpierte übernatürliche Kraft |
+| Vengeful Powers | Rachsüchtige Mächte | Fehler; böse Folgen bei tugendhafter Nutzung infernaler Kräfte |
+| Corrupted Abilities | Verderbte Fertigkeiten | Fehler; durch infernalen Einfluss verdorben |
+
+### Ars Goetia – Begriffe / Goetic Arts Terms
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Scouring | Geisternetz | Ungerichtete Herbeirufung; „Netz auswerfen" nach beliebigem Geist |
+| Scouring Total | Geisternetzsumme | Würfelsumme für Geisternetz |
+| Ablation Total | Abtragungssumme | Würfelsumme für Abtragung |
+| Ablation Points | Abtragungspunkte | Punkte aus dem Abtragungsprozess |
+| Ablation Target Level | Abtragung-Zielstufe | Schwierigkeitsgrad der Abtragung |
+| Commanding Total | Befehligungssumme | Würfelsumme für Befehligung |
+| Capability (Ablation use) | Eigenschaften | Abtragungspunkte für Charaktereigenschaften ausgeben |
+| Summoner (Virtue) | Beschwörer | Freie Spezialtugend des Mythischen Gefährten |
+| thaumaturgist | Thaumaturg | Alternative Selbstbezeichnung goetischer Praktiker |
+| ghostly warder | Geisterhafter Hüter | Geisterhafter Begleiter eines Beschwörers |
+| Outcast | Ausgestoßener | Fehler |
+| Diabolic Past | Diabolische Vergangenheit | Fehler |
+
+### Schwarze Magie / Black Magic
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Apotropaic Mastery | Apotropäische Meisterschaft | Zaubermeisterschafts-Fähigkeit; Bonus bei Anti-Dämon-Zaubern |
+| Goetic Mastery | Goetische Meisterschaft | Zaubermeisterschafts-Fähigkeit; Bonus bei Geister-Zaubern |
+| Nigromancy | Nigromantie | Synonym für schwarze Magie |
+| Cinquefoil | Fünfblatt | Form/Material-Bonus; +3 Dämonen vertreiben |
+| Phylactery | Phylakterium | Form/Material-Bonus; +5 Träger schützen |
+| Hand of Glory | Hand des Ruhms | Infernaler Gegenstand; Diebeshilfe |
+| Hag Ride | Nachtmahr | Inkubi/Sukkubae-Kraft |
+| Harness the Wind | Den Wind zähmen | Inkubi/Sukkubae-Kraft; Flug |
+| Mutable Gender | Wandelbares Geschlecht | Inkubi/Sukkubae-Kraft; Geschlechtswechsel |
+
+### Infernale Regiones / Infernal Regiones
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Tartaran regio | Tartarische Regio | Spiegelt die Qualen der Hölle wider |
+| Abyssal regio | Abgrundregio | Stellt Gottesferne dar |
+
+### Infernales Vis / Infernal Vis
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Vis infesta | Vis infesta | Lat. Eigenname; „unsicheres Vis"; mildeste Form infernalen Vis |
+| Vis sordida | Vis sordida | Lat. Eigenname; „schmutziges Vis"; mittlere Form infernalen Vis |
+| Vis prava | Vis prava | Lat. Eigenname; „böses Vis"; gefährlichste Form infernalen Vis |
+
+---
+
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024) · Ars Magica 5e – Sphären der Macht: Magie (Atlas Games) · Ars Magica 5e – Sphären der Macht: Das Infernale (Atlas Games) · Deutsche Übersetzung (ArsMagica_DE_Gesamt_work.md)*
