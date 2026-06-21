@@ -316,7 +316,7 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 >
 >[Charakterleitfaden: Ein Lindwurm](#charakterleitfaden-ein-lindwurm)
 >
->[Kleiner Konventsaufhänger: Verzerrtes Vieh](#kleiner-konventsaufhänger-verzerrtes-vieh)
+>[Kleiner Konventshaken: Verzerrtes Vieh](#kleiner-konventshaken-verzerrtes-vieh)
 >
 >[Ein Tier absichtlich verzerren](#ein-tier-absichtlich-verzerren)
 >
@@ -4904,7 +4904,7 @@ Mächtige mystische Effekte verursachen Verzerrung bei Menschen wie Tieren gleic
 
 Tiere erhalten Verzerrungspunkte auf dieselbe Weise wie Menschen (**ArM5**, Seiten 167–168). Sobald ein Tier einen Verzerrungswert von 1 erreicht, erwirbt es einen Kleinen Fehler, und es erhält einen weiteren Kleinen Fehler, wenn sein Verzerrungswert 3 erreicht. Bei einem Verzerrungswert von 5 wird eine Kleine Tugend erlangt, und weitere Erhöhungen des Verzerrungswerts führen zum Erwerb Großer Fehler. Man beachte, dass ein Tier, das eine Kleine Tugend erwirbt (weil es einen Verzerrungswert von 5 erreicht hat), keine Verzerrungspunkte mehr allein durch den Aufenthalt in derselben Art von Aura erhält.
 
->#### Kleiner Konventsaufhänger: Verzerrtes Vieh
+>#### Kleiner Konventshaken: Verzerrtes Vieh
 >
 >Der Konvent hat eine große Population an Tieren, die durch den langen Umgang mit dem Konvent verzerrt worden sind. Eine Minderheit der Tiere besitzt ungewöhnliche und nützliche Kräfte, aber die Anwesenheit von Monstrositäten zieht weltliche Aufmerksamkeit und Misstrauen auf den Konvent. Wenn die Population an Monstrositäten groß genug ist, können die Tiere zur Gewinnung von Muto-Vis gezüchtet werden — dies wird durch die Zuweisung einer entsprechenden Vis-Quellen-Vergünstigung an den Konvent dargestellt.
 
