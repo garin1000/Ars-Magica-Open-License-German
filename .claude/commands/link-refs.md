@@ -41,13 +41,15 @@ Für die **nicht gematchten** TOC-Einträge:
 2. Falls ein passender Header gefunden wird, dessen Text sich zu stark vom TOC-Eintrag unterscheidet: Korrigiere den TOC-Eintrag manuell (den Text an den Header-Text anpassen und den Link einfügen).
 3. Falls kein passender Header existiert: Vermerk im Bericht, TOC-Eintrag unverlinkt lassen.
 
-## Schritt 3 — Seitenverweise auflösen (Agent-gestützt)
+## Schritt 3 — Seitenverweise **vollständig** auflösen
+
+**Ziel:** Alle auflösbaren Verweise in **einem** Durchgang verlinken. Nur Verweise auf nicht übersetzte Bücher (Alias = `null` in `book_aliases.json` und auch nicht in `german-wip/` vorhanden) dürfen am Ende unverlinkt bleiben.
 
 Lies `tmp/link-report.json`. Für jeden Eintrag in `unresolved_refs`:
 
-### 3a. Automatisch aufgelöste Verweise
+### 3a. Automatisch aufgelöste Verweise — verifizieren
 
-Verweise mit genau einem Kandidaten haben bereits `resolved_anchor` gesetzt. Diese können direkt übernommen werden.
+Verweise mit genau einem Kandidaten haben `resolved_anchor` gesetzt. **Stichprobenartig prüfen**, ob die Zuordnung zum Kontext passt (z.B. verweist „Seite 167" auf Verzerrung, nicht auf „Lebende Sprache"?). Offensichtlich falsche Auto-Auflösungen korrigieren oder auf `null` setzen.
 
 ### 3b. Mehrdeutige Verweise (Agent-Auflösung)
 
@@ -58,16 +60,27 @@ Für Verweise mit **mehreren Kandidaten** (`candidates`-Liste > 1):
 3. Bestimme den **korrekten Anker** basierend auf inhaltlicher Übereinstimmung.
 4. Setze `resolved_anchor` im Report.
 
-### 3c. Verweise ohne Kandidaten
+### 3c. Verweise ohne Kandidaten — aktiv auflösen
 
-Für Verweise **ohne Kandidaten** (Seitenzahl nicht im Mapping):
+Für **alle** Verweise ohne Kandidaten (Seitenzahl nicht im Mapping):
 
-1. Lies den **Kontext** des Verweises.
-2. Suche in der **Zieldatei** nach dem passenden Abschnitt (über Keywords aus dem Kontext).
-3. Wenn gefunden: Setze `resolved_anchor` und ergänze die Seite im `page_to_anchors` der Zieldatei-Config (`tools/link-refs/configs/`).
-4. Wenn nicht findbar: Vermerk im Bericht, Verweis unverlinkt lassen.
+1. **Gruppiere** die fehlenden Seitenzahlen nach Ziel-Buch.
+2. Nutze einen **Agenten**, um die Zuordnungen für alle fehlenden Seiten eines Buchs auf einmal zu finden: Agent liest den Kontext jedes Verweises, sucht den passenden Header in der Zieldatei und liefert den Anchor-Slug zurück.
+3. **Parallele Agenten** pro Ziel-Buch einsetzen, um Zeit zu sparen.
+4. Setze `resolved_anchor` und `target_file` im Report.
 
-### 3d. Report speichern
+### 3d. Falsch klassifizierte Verweise korrigieren
+
+Das Analyse-Tool erkennt manchmal Buch-Aliase nicht korrekt:
+- Verweise mit `type: "internal"` und `book: null/self`, die im Kontext explizit ein anderes Buch nennen (z.B. „Seite 29 von *Häuser des Hermes: Mysterienkulte*"), müssen **umklassifiziert** werden: `target_file` und `type` auf das korrekte Buch setzen.
+- Ungewöhnliche Aliase wie „ArM" (statt „ArM5"), „Ars Magica Fünfte Edition", „Grundregelwerk" erkennen und auf die richtige Zieldatei mappen.
+- Auch `german-wip/`-Dateien als gültige Zieldateien berücksichtigen (z.B. wenn SdM:I in wip vorliegt, aber `book_aliases.json` noch `null` hat).
+
+### 3e. Zieldateien in german-wip prüfen
+
+Vor dem Aufgeben eines Verweises: Prüfe, ob die Zieldatei in `german-wip/` existiert, auch wenn `book_aliases.json` den Eintrag als `null` führt. Falls ja, aktualisiere `book_aliases.json` und löse den Verweis auf.
+
+### 3f. Report speichern
 
 Speichere den aktualisierten Report als `tmp/resolved.json`.
 
