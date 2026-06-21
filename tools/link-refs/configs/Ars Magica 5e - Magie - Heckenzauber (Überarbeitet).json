@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Magie - Heckenzauber (Überarbeitet).md",
+  "file_hash": "sha256:61bdcb95b12a4448",
+  "page_to_anchors": {},
+  "toc": {
+    "enabled": false,
+    "start_markers": [
+      "## Inhalt",
+      "## Inhaltsverzeichnis",
+      "# Inhaltsverzeichnis"
+    ],
+    "indent_chars": [
+      "&emsp;",
+      "&nbsp;"
+    ]
+  },
+  "exclude_patterns": [
+    "www.atlas-games.com/ArM5"
+  ]
+}
