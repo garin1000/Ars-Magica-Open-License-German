@@ -1,0 +1,649 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica Definitive Edition Basisregeln.md",
+  "file_hash": "sha256:09351f727f24b44b",
+  "page_to_anchors": {
+    "233": [
+      "bjornaer--das-herztier",
+      "criamon--das-enigma",
+      "bjornaer-das-herztier"
+    ],
+    "82": [
+      "sanfte-gabe"
+    ],
+    "236": [
+      "merinita--feenmagie",
+      "feenmagie-2",
+      "enigmatische-weisheit-1"
+    ],
+    "224": [
+      "sigile"
+    ],
+    "240": [
+      "verditius--verditius-magie",
+      "verditius-verditius-magie"
+    ],
+    "494": [
+      "kapitel-14-mythisches-europa"
+    ],
+    "528": [
+      "spieltruppen-rollenspiel"
+    ],
+    "63": [
+      "die-gabe",
+      "regeln-und-richtlinien-für-tugenden-und-fehler",
+      "mythische-gefährten-2"
+    ],
+    "203": [
+      "die-gabe-2"
+    ],
+    "31": [
+      "grog-vorlagen"
+    ],
+    "61": [
+      "kapitel-4-tugenden-und-fehler"
+    ],
+    "426": [
+      "kapitel-13-bestiarium",
+      "macht-der-kreatur"
+    ],
+    "403": [
+      "belastung",
+      "erschöpfung"
+    ],
+    "157": [
+      "kapitel-5-fertigkeiten",
+      "fertigkeiten-ohne-wert"
+    ],
+    "158": [
+      "zaubermeisterschafts-fertigkeiten"
+    ],
+    "386": [
+      "reputation-verändern",
+      "ruf-verändern"
+    ],
+    "43": [
+      "detaillierte-charaktererschaffung"
+    ],
+    "391": [
+      "altern"
+    ],
+    "389": [
+      "verzerrung-2",
+      "verzerrung-und-nicht-menschen",
+      "verzerrungspunkte-erwerben"
+    ],
+    "206": [
+      "die-hermetischen-künste"
+    ],
+    "229": [
+      "wirkungen-des-zwielichts"
+    ],
+    "225": [
+      "besondere-fähigkeiten-gemeisterter-zauber",
+      "zaubermeisterschaft",
+      "mehrfaches-zaubern"
+    ],
+    "301": [
+      "kapitel-9-zauber"
+    ],
+    "46": [
+      "übersicht-der-hermetischen-häuser"
+    ],
+    "13": [
+      "die-häuser-des-hermes-1",
+      "haus-bjornaer"
+    ],
+    "27": [
+      "beschreibungen-der-eigenschaften",
+      "eigenschaften"
+    ],
+    "48": [
+      "eigenschaften-1",
+      "fertigkeiten-1"
+    ],
+    "392": [
+      "altern"
+    ],
+    "527": [
+      "sagatempo"
+    ],
+    "12": [
+      "die-häuser-des-hermes-1",
+      "kapitel-5-fertigkeiten"
+    ],
+    "85": [
+      "herztier",
+      "hermetischer-magus",
+      "gezügelte-magie"
+    ],
+    "78": [
+      "das-enigma"
+    ],
+    "79": [
+      "feenmagie",
+      "feenblut"
+    ],
+    "114": [
+      "verditius-magie",
+      "nicht-alternd"
+    ],
+    "65": [
+      "soziale-status-nach-kultur"
+    ],
+    "167": [
+      "lebende-sprache"
+    ],
+    "311": [
+      "requisiten"
+    ],
+    "249": [
+      "kapitel-8-das-laboratorium"
+    ],
+    "261": [
+      "langlebigkeitsrituale"
+    ],
+    "28": [
+      "persönlichkeitseigenschaften",
+      "reputationen"
+    ],
+    "29": [
+      "selbstvertrauen"
+    ],
+    "210": [
+      "die-grenze-der-wesensnatur",
+      "grenzen-der-magie"
+    ],
+    "383": [
+      "übernatürliche-fertigkeiten-erlernen"
+    ],
+    "270": [
+      "deinen-lehrling-ausbilden"
+    ],
+    "410": [
+      "wechselwirkungen-zwischen-den-sphären",
+      "tabelle-zur-sphärenwechselwirkung"
+    ],
+    "159": [
+      "tierumgang",
+      "fertigkeiten-nach-typ",
+      "übernatürliche-fertigkeiten",
+      "tierverständnis-1"
+    ],
+    "103": [
+      "nicht-alternd"
+    ],
+    "11": [
+      "nicht-alternd"
+    ],
+    "269": [
+      "lehrlinge-1"
+    ],
+    "357": [
+      "aura-der-rechtmäßigen-autorität"
+    ],
+    "216": [
+      "worte-und-gesten"
+    ],
+    "257": [
+      "wirkungsanpassungen"
+    ],
+    "164": [
+      "wünschelrutengehen-1",
+      "bezaubernde-fertigkeit-1",
+      "betörung-1"
+    ],
+    "235": [
+      "enigmatische-weisheit-1"
+    ],
+    "217": [
+      "schnellzaubern",
+      "zeremonielles-zaubern"
+    ],
+    "250": [
+      "vis-gewinnung",
+      "vis-übertragung",
+      "arkane-verbindungen-festigen"
+    ],
+    "260": [
+      "ähnliche-zauber"
+    ],
+    "170": [
+      "zweites-gesicht-1",
+      "vorahnungen-1",
+      "gespür-für-heiliges-und-unheiliges",
+      "gespür-für-leidenschaft"
+    ],
+    "457": [
+      "geisterwächter"
+    ],
+    "404": [
+      "zierlicher-körperbau",
+      "wunden",
+      "großgewachsen",
+      "langzeiterschöpfung",
+      "schadenstafel-1",
+      "wundtabelle"
+    ],
+    "89": [
+      "wunden",
+      "wirkungen-des-zwielichts"
+    ],
+    "145": [
+      "zwerg",
+      "wunden",
+      "riesenblut"
+    ],
+    "126": [
+      "großgewachsen",
+      "riesenblut",
+      "schwierige-spontane-magie"
+    ],
+    "90": [
+      "mindere-macht"
+    ],
+    "406": [
+      "krankheiten",
+      "gifttabelle"
+    ],
+    "45": [
+      "krankheiten"
+    ],
+    "219": [
+      "arkane-verbindungen",
+      "penetration-1"
+    ],
+    "322": [
+      "verzauberung-des-seherbeckens"
+    ],
+    "346": [
+      "eisiger-griff-des-zauberers"
+    ],
+    "166": [
+      "einflüstern-1"
+    ],
+    "83": [
+      "wunden",
+      "große-immunität",
+      "zierlicher-körperbau",
+      "zwerg"
+    ],
+    "169": [
+      "penetration"
+    ],
+    "168": [
+      "magiegespür-1",
+      "altern"
+    ],
+    "262": [
+      "labortexte-1",
+      "bücher-1",
+      "labortexte-verwenden"
+    ],
+    "384": [
+      "kreaturen-abrichten"
+    ],
+    "138": [
+      "klostergelübde"
+    ],
+    "370": [
+      "wacht-des-zauberers",
+      "aegis-des-herdes-1",
+      "rego-vim-zauber"
+    ],
+    "369": [
+      "wacht-des-zauberers"
+    ],
+    "213": [
+      "formulaische-magie",
+      "zauber-wirken",
+      "ritualmagie"
+    ],
+    "282": [
+      "tabelle-der-form-und-materialboni"
+    ],
+    "419": [
+      "reliquien",
+      "wahrer-glaube-1"
+    ],
+    "150": [
+      "gelübde",
+      "viaticarus"
+    ],
+    "115": [
+      "wohlhabend"
+    ],
+    "15": [
+      "haus-mercere",
+      "kapitel-5-fertigkeiten"
+    ],
+    "256": [
+      "tabelle-zur-verwendungshäufigkeit"
+    ],
+    "116": [
+      "vielgereist"
+    ],
+    "421": [
+      "regiones-betreten-und-verlassen"
+    ],
+    "52": [
+      "reputationen-1"
+    ],
+    "171": [
+      "gestaltwandler-1"
+    ],
+    "106": [
+      "zweites-gesicht"
+    ],
+    "64": [
+      "übernatürlich"
+    ],
+    "172": [
+      "natursinn-1"
+    ],
+    "288": [
+      "sicherheit"
+    ],
+    "153": [
+      "schwache-spontane-magie"
+    ],
+    "125": [
+      "auffällige-gabe"
+    ],
+    "107": [
+      "gestaltwandler"
+    ],
+    "105": [
+      "stille-magie"
+    ],
+    "110": [
+      "subtile-magie",
+      "studierbonus"
+    ],
+    "113": [
+      "wahre-liebe-sc",
+      "wahrer-glaube"
+    ],
+    "407": [
+      "hitze-und-ätzungstabelle",
+      "hitze-und-ätzung",
+      "verletzungen",
+      "entbehrung"
+    ],
+    "405": [
+      "wunden-heilen"
+    ],
+    "245": [
+      "kräfte"
+    ],
+    "303": [
+      "reichweiten",
+      "änderung-von-reichweiten-dauern-und-zielen",
+      "reichweiten-dauern-und-ziele"
+    ],
+    "160": [
+      "artes-liberales"
+    ],
+    "215": [
+      "konzentration-1",
+      "penetrationssumme"
+    ],
+    "420": [
+      "regiones"
+    ],
+    "243": [
+      "tiere-rufen-2"
+    ],
+    "246": [
+      "tempestaria-wetterhexe"
+    ],
+    "178": [
+      "grund-konventsressourcen",
+      "mittlerer-konvent",
+      "mächtiger-konvent",
+      "winter-ruinen",
+      "maßgeschneiderte-konventserstellung"
+    ],
+    "177": [
+      "kämpfend",
+      "herbstmacht"
+    ],
+    "523": [
+      "kapitel-16-sagas"
+    ],
+    "181": [
+      "haken"
+    ],
+    "179": [
+      "maßgeschneiderte-konventserstellung",
+      "zugängliche-machtstufe"
+    ],
+    "252": [
+      "verzauberungen"
+    ],
+    "379": [
+      "labortexte-1",
+      "bücher-1"
+    ],
+    "274": [
+      "verzauberungen",
+      "sigile",
+      "experimentieren"
+    ],
+    "263": [
+      "labortexte-verwenden",
+      "zaubertafeln-1"
+    ],
+    "212": [
+      "rohes-vis"
+    ],
+    "422": [
+      "vis-quellen"
+    ],
+    "183": [
+      "vorzüge"
+    ],
+    "375": [
+      "fortschrittstabellen",
+      "erfahrung-und-fortschritt",
+      "fortschritt"
+    ],
+    "120": [
+      "auffällige-gabe"
+    ],
+    "186": [
+      "vertrautheit"
+    ],
+    "313": [
+      "zauberformat"
+    ],
+    "306": [
+      "magisches-handwerk"
+    ],
+    "228": [
+      "das-zwielicht",
+      "in-das-zwielicht-geraten",
+      "das-zwielicht-verstehen"
+    ],
+    "412": [
+      "magieresistenz-und-penetration"
+    ],
+    "427": [
+      "kräfte-der-kreatur"
+    ],
+    "209": [
+      "imaginem-im-erscheinung"
+    ],
+    "393": [
+      "kampf",
+      "kampfwerte"
+    ],
+    "310": [
+      "ziele-und-größen"
+    ],
+    "395": [
+      "fernkampf"
+    ],
+    "378": [
+      "unterricht",
+      "vis-2"
+    ],
+    "387": [
+      "mysterieneinweihung"
+    ],
+    "220": [
+      "sympathetische-verbindungen",
+      "arkane-verbindungen"
+    ],
+    "286": [
+      "regeln-zur-laborpersonalisierung"
+    ],
+    "255": [
+      "material-und-größentabellen"
+    ],
+    "254": [
+      "vorbereitung-zur-verzauberung"
+    ],
+    "264": [
+      "hilfe-im-laboratorium"
+    ],
+    "372": [
+      "die-wachende-wacht"
+    ],
+    "380": [
+      "bücher-kopieren"
+    ],
+    "297": [
+      "das-sanctum"
+    ],
+    "25": [
+      "charakter-grundlagen"
+    ],
+    "16": [
+      "bjornaer-das-herztier"
+    ],
+    "230": [
+      "wirkungen-des-zwielichts"
+    ],
+    "277": [
+      "arkane-entdeckung",
+      "der-durchbruch"
+    ],
+    "334": [
+      "fluch-der-kirke"
+    ],
+    "388": [
+      "mysterieneinweihung"
+    ],
+    "275": [
+      "tabelle-außergewöhnlicher-ergebnisse"
+    ],
+    "50": [
+      "nur-magi-lehrlingszeit"
+    ],
+    "296": [
+      "labor-features"
+    ],
+    "290": [
+      "laborspezialisierungen"
+    ],
+    "309": [
+      "behälter-ziele"
+    ],
+    "8": [
+      "schwierigkeitsgrad"
+    ],
+    "367": [
+      "die-natur-der-vis-erkennen"
+    ],
+    "396": [
+      "ausgebildete-gruppe"
+    ],
+    "400": [
+      "nahkampfwaffen-statistiken"
+    ],
+    "227": [
+      "patzer"
+    ],
+    "394": [
+      "kampfwerte"
+    ],
+    "332": [
+      "des-chirurgen-heilende-berührung",
+      "läuterung-der-eiternden-wunden"
+    ],
+    "505": [
+      "wunder-1"
+    ],
+    "398": [
+      "nicht-tödlicher-kampf"
+    ],
+    "397": [
+      "nicht-tödlicher-kampf"
+    ],
+    "41": [
+      "wahrer-glaube-1"
+    ],
+    "531": [
+      "die-reine-fantasie-saga"
+    ],
+    "100": [
+      "erkaufte-rechte"
+    ],
+    "124": [
+      "dunkles-geheimnis"
+    ],
+    "131": [
+      "geschlechtsnichtkonform"
+    ],
+    "495": [
+      "historisch-spielen",
+      "kapitel-14-mythisches-europa"
+    ],
+    "493": [
+      "kapitel-14-mythisches-europa"
+    ],
+    "408": [
+      "reisen"
+    ],
+    "20": [
+      "belastung"
+    ],
+    "67": [
+      "gespür-für-heiliges-und-unheiliges"
+    ],
+    "189": [
+      "gespür-für-heiliges-und-unheiliges"
+    ],
+    "218": [
+      "zeremonielles-zaubern"
+    ],
+    "97": [
+      "material-und-größentabellen"
+    ],
+    "94": [
+      "arkane-verbindungen-festigen",
+      "kapitel-8-das-laboratorium"
+    ]
+  },
+  "toc": {
+    "enabled": true,
+    "start_markers": [
+      "## Inhalt",
+      "## Inhaltsverzeichnis",
+      "# Inhaltsverzeichnis"
+    ],
+    "indent_chars": [
+      "&emsp;",
+      "&nbsp;"
+    ],
+    "detected": {
+      "start_line": 304,
+      "end_line": 339,
+      "entry_count": 31
+    }
+  },
+  "exclude_patterns": [
+    "www.atlas-games.com/ArM5"
+  ]
+}

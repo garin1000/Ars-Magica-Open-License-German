@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Sphären der Macht - Magie.md",
+  "file_hash": "sha256:4ecb0afb73f37dd2",
+  "page_to_anchors": {},
+  "toc": {
+    "enabled": true,
+    "start_markers": [
+      "## Inhalt",
+      "## Inhaltsverzeichnis",
+      "# Inhaltsverzeichnis"
+    ],
+    "indent_chars": [
+      "&emsp;",
+      "&nbsp;"
+    ],
+    "detected": {
+      "start_line": 55,
+      "end_line": 440,
+      "entry_count": 373
+    }
+  },
+  "exclude_patterns": [
+    "www.atlas-games.com/ArM5"
+  ]
+}

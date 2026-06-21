@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "aliases": {
+    "ArM5": "Ars Magica Definitive Edition Basisregeln.md",
+    "Basisregeln": "Ars Magica Definitive Edition Basisregeln.md",
+    "Ars Magica Fifth Edition": "Ars Magica Definitive Edition Basisregeln.md",
+    "Grundregelwerk": "Ars Magica Definitive Edition Basisregeln.md",
+    "Grundregelwerk von Ars Magica Fifth Edition": "Ars Magica Definitive Edition Basisregeln.md",
+
+    "Häuser des Hermes: Wahre Linien": "Ars Magica 5e - Häuser des Hermes - Wahre Linien.md",
+    "Häuser. des. Hermes:. Wahre. Linien": "Ars Magica 5e - Häuser des Hermes - Wahre Linien.md",
+    "Hermes: Wahre Linien": "Ars Magica 5e - Häuser des Hermes - Wahre Linien.md",
+    "HoH:TL": "Ars Magica 5e - Häuser des Hermes - Wahre Linien.md",
+    "HdH:WL": "Ars Magica 5e - Häuser des Hermes - Wahre Linien.md",
+
+    "Häuser des Hermes: Mysterienkulte": "Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md",
+    "Häuser des Hermes: Mysterienkultee": "Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md",
+    "HoH:MC": "Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md",
+    "HdH:MK": "Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md",
+
+    "Häuser des Hermes: Societates": "Ars Magica 5e - Häuser des Hermes - Societates.md",
+    "Häuser des Hermes: Gemeinschaften": "Ars Magica 5e - Häuser des Hermes - Societates.md",
+    "HoH:S": "Ars Magica 5e - Häuser des Hermes - Societates.md",
+    "HdH:S": "Ars Magica 5e - Häuser des Hermes - Societates.md",
+
+    "Sphären der Macht: Magie": "Ars Magica 5e - Sphären der Macht - Magie.md",
+    "RoP:M": "Ars Magica 5e - Sphären der Macht - Magie.md",
+    "SdM:M": "Ars Magica 5e - Sphären der Macht - Magie.md",
+
+    "Wächter des Waldes": "Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md",
+    "Wächter des Waldes: Das Rhein-Tribunal": "Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md",
+    "GotF": "Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md",
+    "WdW": "Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md",
+
+    "Heckenzauber": "Ars Magica 5e - Magie - Heckenzauber (Überarbeitet).md",
+    "HMRE": "Ars Magica 5e - Magie - Heckenzauber (Überarbeitet).md",
+
+    "Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)": null,
+    "Sphären der Macht: Das Göttliche": null,
+    "Das Göttliche": null,
+    "RoP:D": null,
+    "SdM:G": null,
+
+    "Sphären der Macht: Das Infernale": null,
+    "Mächte des Übernatürlichen: Das Infernale": null,
+    "RoP:I": null,
+    "SdM:I": null,
+
+    "Sphären der Macht: Feenwelt": null,
+    "RoP:F": null,
+    "SdM:F": null,
+
+    "Die Mysterien (Überarbeitete Ausgabe)": null,
+    "Die Mysterien: Überarbeitete Ausgabe": null,
+    "Die Mysterien Überarbeitete Ausgabe": null,
+    "Die Mysterien": null,
+    "TMRE": null,
+
+    "Covenants": null,
+    "Konvente": null,
+    "Grogs": null,
+
+    "Kunst & Gelehrsamkeit": null,
+    "A&A": null,
+
+    "Stadt & Gilde": null,
+    "C&G": null,
+
+    "Die Kirche": null,
+
+    "Der Löwe und die Lilie": null,
+    "The Lion and the Lilly": null,
+    "L&L": null,
+
+    "Die Wiege und der Halbmond": null,
+    "The Cradle and the Crescent": null,
+
+    "Zwischen Sand und Meer": null,
+    "Between Sand & Sea": null,
+
+    "Länder des Nils": null,
+
+    "Alte Magie": null,
+    "Ancient Magic": null,
+
+    "The Sundered Eagle": null,
+    "TSE": null,
+
+    "Against the Dark": null,
+    "AtD": null,
+
+    "Faith & Flame": null,
+    "Faith and Flame": null,
+    "F&F": null,
+
+    "The Contested Isle": null,
+    "TCI": null,
+
+    "Legends of Hermes": null,
+    "Tales of Power": null,
+
+    "Through the Aegis": null,
+    "Manifestation": null
+  },
+  "english_to_german_files": {
+    "Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md": "Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md",
+    "Ars Magica 5e - Realms of Power - The Divine (Revised).md": null,
+    "Ars Magica 5e - Faith & Flame - The Provencal Tribunal.md": null,
+    "Ars Magica 5e - The Lion and the Lily - The Normandy Tribunal.md": null
+  }
+}
