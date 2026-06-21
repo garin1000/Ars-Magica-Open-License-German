@@ -1216,7 +1216,7 @@ Absorption: +9 (Ausdauer, vollständige Metallschuppenrüstung)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-6), -3 (7-12), -5 (13-18), Lähmend (19–24)
+Wundabzüge: -1 (1-6), -3 (7-12), -5 (13-18), Kampfunfähig (19–24)
 
 Fertigkeiten: Gebietskunde 1 (Bäche), Athletik 2 (Laufen), Aufmerksamkeit 3 (Angreifer), Raufen 3 (Treten), Täuschung 1 (Entschuldigen), Große Waffe 5 (Stangenaxt), Muttersprache 5 (Beleidigungen), Einzelwaffe 1 (Tartsche), Überleben 3 (Hügel)
 
@@ -1252,7 +1252,7 @@ Absorption: +8 (vollständige Metallschuppenrüstung)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16–20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16–20)
 
 Fertigkeiten: Gebiet A-Kunde 4 (Monster), Gebiet B-Kunde 2 (Monster), Aufmerksamkeit 5 (im Kampf), Bogenschießen 5 (Langbogen), Raufen 3 (Treten), Zechen 3 (mit Kampfgenossen), Menschenkenntnis 1 (Magi), Große Waffe 5 (Stangenaxt), Täuschung 2 (Extra-Rationen ergattern), Führung 3 (im Kampf), Lebende Sprache 5 (Soldatensprache), Kunde des Ordens des Hermes 3 (Grogs), Einzelwaffe 8 (Tartsche), Schleichen 3 (in Rüstung), Überleben 1 (in einer Gruppe), Wurfwaffe 4 (Messer)
 
@@ -1285,7 +1285,7 @@ Absorption: +3 (Teil-Lederrüstung, Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Gebietskunde 4 (Wildwechsel), Athletik 1 (Klettern), Aufmerksamkeit 5 (Wälder), Bogenschießen 4 (aus der Deckung schießen), Jagen 5 (Hirsche), Muttersprache 5 (über Wälder reden), Schleichen 2 (Jagen), Überleben 4 (Wälder)
 
@@ -1321,7 +1321,7 @@ Absorption: +9 (vollständige Metallschuppenrüstung)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Gebietskunde 3 (Krieger), Athletik 3 (Laufen), Aufmerksamkeit 4 (im Kampf), Feilschen 2 (Waffen), Bogenschießen 1 (2) (Kurzbogen), Raufen 5 (Ausweichen), Zechen 1 (Trinken), Lebende Sprache 5 (über Kämpfe reden), Einzelwaffe 7+2 (Tartsche)
 
@@ -1357,7 +1357,7 @@ Absorption: +8 (vollständige Metallschuppenrüstung)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Gebietskunde 3 (Schenken), Athletik 3 (Laufen), Aufmerksamkeit 3 (im Kampf), Bogenschießen 4 (Kurzbogen), Raufen 4 (Schlagen), Zechen 3 (Trinken), Charme 2 (anderes Geschlecht), Etikette 2 (Magi), Große Waffe 4 (Stangenaxt), Täuschung 2 (Pflichten umgehen), Muttersprache 5 (vulgäre Worte), Einzelwaffe 5 (Tartsche), Überleben 1 (für kurze Zeit)
 
@@ -1393,7 +1393,7 @@ Absorption: +13 (vollständige Metallschuppenrüstung + Zäh)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-6), -3 (7-12), -5 (13-18), Lähmend (19-24)
+Wundabzüge: -1 (1-6), -3 (7-12), -5 (13-18), Kampfunfähig (19-24)
 
 Fertigkeiten: Gebietskunde 2 (Brauer), Athletik 1 (Laufen), Aufmerksamkeit 3 (im Kampf), Bogenschießen 1 (Kurzbogen), Raufen 3 (Ringen), Zechen 4 (Trinken), Charme 3 (wenn betrunken), Menschenkenntnis 1 (Magi), Große Waffe 3 (Stangenaxt), Täuschung 1 (Magi anlügen), Lebende Sprache 5 (über Kämpfe reden), Musik 1 (Trinklieder), Einzelwaffe 5 (Tartsche), Überleben 1 (an Flüssen), Wurfwaffe 2 (Axt)
 
@@ -1434,7 +1434,7 @@ Absorption: -1 (Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Arabisch 1 (medizinische Begriffe), Gebietskunde 2 (Frauenklöster), Artes Liberales 3 (Rhetorik), Charme 2 (Gelehrte), Kirchenkunde 2 (Gelehrte), Zivil- und Kanonisches Recht 1 (Frauenrechte), Menschenkenntnis 2 (Gelehrte), Täuschung 2 (Autoritäten anlügen), Latein 5 (akademische Debatte), Lebende Sprache 5 (Debatte), Medizin 1 (Frauenleiden), Philosophiae 3 (Moralphilosophie), Unterrichten 3 (Artes Liberales), Theologie 2 (Status der Frau)
 
@@ -1475,7 +1475,7 @@ Absorption: +10 (Kettenhemd, Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Tierumgang 2 (Falknerei), Gebietskunde 3 (Adel), Athletik 2 (Laufen), Aufmerksamkeit 3 (Schlacht), Raufen 2 (Schlagen), Chirurgie 1 (Schwertwunden), Etikette 3 (Adel), Große Waffe 5 (Großschwert), Jagen 2 (Hirsche), Intrige 1 (Adelshöfe), Führung 4 (Soldaten), Musik 1 (Singen), Muttersprache 5 (Befehle erteilen), Reiten 5 (im Kampf), Einzelwaffe 5+2 (Tartsche), Überleben 1 (Wälder)
 
@@ -1512,7 +1512,7 @@ Absorption: +0 (Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Gebietskunde 5 (Kirchen), Artes Liberales 2 (Rhetorik), Raufen 1 (Ausweichen), Charme 5 (Pfarrkinder), Kirchenkunde 3 (lokale Diözese), Zivil- und Kanonisches Recht 1 (Bestimmungen für die Geistlichkeit), Dominiumkunde 3+2 (Engel), Etikette 3 (Kirche), Menschenkenntnis 6 (Personen, die er sehr gut kennt), Intrige 1 (Pfarreien), Latein 4 (die Bibel), Führung 3 (Predigen), Lebende Sprache 5 (Predigen), Heiligkeit/Unheiligkeit spüren 4 (Engel), Theologie 2 (Angelologie)
 
@@ -1549,7 +1549,7 @@ Absorption: 0 (Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16–20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16–20)
 
 Fertigkeiten: Gebietskunde 1 (Häuser reicher Leute), Athletik 3 (Klettern), Aufmerksamkeit 3 (bemerken, ob er beobachtet wird), Raufen 3 (Wegkommen), Charme 2 (Leute, die ihn aufregend finden), Menschenkenntnis 1 (Autoritätspersonen), Täuschung 1 (auf frischer Tat ertappt), Fingerfertigkeit 5+2 (Taschendiebstahl), Muttersprache 5 (höflich sein), Schleichen 5+2 (leise sein)
 
@@ -1586,7 +1586,7 @@ Absorption: +0 (Ausdauer)
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Gebietskunde 3 (Heilkräuter), Artes Liberales 1 (Astronomie), Athletik 1 (Klettern), Aufmerksamkeit 1 (Tiere), Charme 3 (Bauern), Chirurgie 4 (Bauernhof-Unfälle), Dominiumkunde 1 (Reliquien), Feenkunde 2 (Flüche), Menschenkenntnis 3 (Bauern), Täuschung 3 (Geistlichkeit), Infernalkunde 1 (Diabolisten), Latein 4 (medizinische Begriffe), Magiekunde 3+2 (Regiones), Medizin 5 (versehentliche Vergiftungen), Muttersprache 5 (Wortwahl mit Bedacht), Vorahnungen 3 (Bedrohungen anderer), Zweites Gesicht 3 (Geister), Überleben 3 (in der Nähe von Bauernland), Natursinn 3 (Wetter)
 
@@ -1627,7 +1627,7 @@ Absorption: +1
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Gebietskunde 1 (Wälder), Artes Liberales 1 (Grammatik), Athletik 2 (Ausdauer), Aufmerksamkeit 2 (Personen), Raufen 2 (Ausweichen), Finesse 1 (Zielen), Menschenkenntnis 1 (Jäger), Täuschung 1 (so tun, als wisse man weniger als man weiß), Herztier 2 (in einen Wolf verwandeln), Jagen 2 (Kleintiere), Latein 4 (hermetische Begriffe), Lebende Sprache 5 (über die Wildnis reden), Magietheorie 3 (Animal), Parma Magica 1 (Animal), Penetration 1 (Muto), Kunde des Ordens des Hermes 1 (Bjornaer), Zweite Gebietskunde 1 (Wälder), Überleben 3 (Wälder)
 
@@ -1678,7 +1678,7 @@ Absorption: 0
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Artes Liberales 1 (Logik), Aufmerksamkeit 2 (bei der Arbeit), Charme 2 (Gleichgestellte), Konzentration 3 (Zaubern), Menschenkenntnis 2 (Magi), Latein 4 (hermetische Fachbegriffe), Magiekunde 1 (nicht-hermetische Magie), Magietheorie 4+2 (Creo), Muttersprache 5 (gebildete Sprache), Kunde des Ordens des Hermes 2 (große Entdeckungen), Parma Magica 1 (Mentem), Penetration 1 (Auram), Unterrichten 3 (Hermetische Künste)
 
@@ -1726,7 +1726,7 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16–20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16–20)
 
 Fertigkeiten: Artes Liberales 1 (Rhetorik), Charme 5 (Gebildete), Konzentration 3 (Zaubern), Enigmatische Weisheit 3+2 (Rätsel), Menschenkenntnis 1 (Gebildete), Latein 4 (Enigmatische Begriffe), Magiegespür 2 (Auren), Magietheorie 3 (Vim), Muttersprache 5 (lange Worte), Kunde des Ordens des Hermes 1 (Mysterien), Parma Magica 1
 
@@ -1777,7 +1777,7 @@ Absorption: +7
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-7), -3 (8-14), -5 (15-21), Lähmend (22–28)
+Wundabzüge: -1 (1-7), -3 (8-14), -5 (15-21), Kampfunfähig (22–28)
 
 Fertigkeiten: Gebietskunde 3 (Bergpfade), Artes Liberales 1 (Astronomie), Raufen 3 (Ringen), Konzentration 3 (Zaubern), Finesse 2 (Terram), Latein 4 (hermetischer Sprachgebrauch), Magietheorie 3 (Terram), Muttersprache 5 (höflich sein), Parma Magica 1 (Ignem), Penetration 2 (Terram), Überleben 3 (Berge)
 
@@ -1827,7 +1827,7 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Lähmend (16–20)
+Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20)
 
 Fertigkeiten: Gebietskunde 2 (Verstecke), Artes Liberales 1 (Logik), Athletik 2 (Laufen), Aufmerksamkeit 3 (im Kampf), Raufen 2 (Ausweichen), Menschenkenntnis 1 (Personen, die Autorität über ihn haben), Täuschung 3 (behaupten, etwas nicht getan zu haben), Kunde des Ordens des Hermes 1 (Haus Flambeau), Latein 4 (Beleidigungen), Lebende Sprache 5 (Beleidigungen), Magietheorie 3 (Ignem), Parma Magica 1 (Mentem), Penetration 2 (Ignem), Schleichen 1 (Gebäude oder Räume betreten), Überleben 1 (Wälder)
 
@@ -1874,7 +1874,7 @@ Absorption: +0
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Artes Liberales 1 (Logik), Aufmerksamkeit 3 (Hinweise), Raufen 1 (Ausweichen), Charme 2 (verdächtige Personen), Kodex des Hermes 3 (das lokale Tribunal), Konzentration 1 (Personen oder Orte beobachten), Menschenkenntnis 4 (Lügner), Täuschung 2 (Untersuchungen verschleiern), Latein 4 (hermetische Begriffe), Magietheorie 3 (Intellego), Muttersprache 5 (Fragen), Kunde des Ordens des Hermes 1 (Rechtsfälle), Parma Magica 1
 
@@ -1923,7 +1923,7 @@ Absorption: +0
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Artes Liberales 1 (Musik), Zechen 2 (Würde wahren), Charme 3 (anderes Geschlecht), Kodex des Hermes 1 (Umgang mit Sterblichen). Etikette 2 (Adel), Menschenkenntnis 2 (Adlige), Täuschung 2 (schnelle Ausreden), Latein 5 (musikalische Begriffe), Magietheorie 3 (Imaginem), Musik 4+2 (Singen) Muttersprache 5 (adliger Stil), Kunde des Ordens des Hermes 2 (Jerbiton), Parma Magica 1 (Mentem)
 
@@ -1976,7 +1976,7 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Gebietskunde 3 (Routen zwischen Siedlungen), Artes Liberales 1 (Astronomie), Athletik 1 (Wandern), Aufmerksamkeit 1 (Wetterzeichen), Jagen 2 (Kleinwild), Latein 4 (hermetische Begriffe), Magietheorie 3 (Auram), Muttersprache 5 (mit Reisenden reden), Parma Magica 1 (Ignem), Penetration 2 (Auram), Schleichen 3 (im Wald), Überleben 4 (bei schlechtem Wetter)
 
@@ -2024,7 +2024,7 @@ Absorption: -1
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16–20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16–20)
 
 Fertigkeiten: Artes Liberales 1 (Rhetorik), Charme 2 (Vertrauen gewinnen), Feenkunde 3+2 (Wasserfeen), Feenmagie 1 (Illusionen), Menschenkenntnis 2 (was Leute glauben werden), Täuschung 5 (anhaltende Lügen), Latein 4 (hermetische Begriffe), Magietheorie 3 (Imaginem), Muttersprache 5 (Feen), Penetration 2 (Mentem), Parma Magica 1 (Mentem)
 
@@ -2074,7 +2074,7 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16–20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16–20)
 
 Fertigkeiten: Artes Liberales 1 (Arithmetik), Charme 2 (Magi), Kodex des Hermes 1 (Certamen-Recht), Etikette 2 (hermetisch), Finesse 2 (Terram), Menschenkenntnis 3 (Magi), Täuschung 2 (Untergebene anlügen), Intrige 2 (hermetische Politik), Latein 4 (hermetische Begriffe), Führung 3 (Institutionen leiten), Magietheorie 3 (Creo), Muttersprache 5 (Befehle erteilen), Kunde des Ordens des Hermes 2 (Tremere), Parma Magica 1 (Mentem), Penetration 3 (Ignem)
 
@@ -2127,7 +2127,7 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16–20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16–20)
 
 Fertigkeiten: Artes Liberales 1 (Logik), Aufmerksamkeit 2 (Hinterhalte), Feilschen 2 (Luxusgüter), Raufen 3 (Ringen), Konzentration 2 (Zaubern), Täuschung 2 (aus dem Stegreif), Intrige 2 (Verschwörungen), Latein 4 (hermetische Begriffe), Führung 2 (langjährige Gefolgsleute), Magietheorie 3 (Mentem), Muttersprache 5 (Streiten), Parma Magica 1 (Mentem)
 
@@ -2175,7 +2175,7 @@ Absorption: +1
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-Wundabzüge: -1(1-3), -3(4-6), -5(7-9), Lähmend (10–12)
+Wundabzüge: -1(1-3), -3(4-6), -5(7-9), Kampfunfähig (10–12)
 
 Fertigkeiten: Artes Liberales 1 (Geometrie), Aufmerksamkeit 3 (Mängel in Stein- und Metallarbeit), Athletik 2 (Ausdauer), Handwerk (Schmied) 5+3 (Eisen), Handwerk (Steinmetz) 4+3 (Verzierungen), Feenkunde 2 (Zwerge), Latein 4 (hermetische Begriffe), Magietheorie 3 (Terram), Muttersprache 5 (über Metall und Stein reden), Parma Magica 1 (Terram), Philosophiae 1 (Naturphilosophie)
 
@@ -2562,7 +2562,7 @@ Dein Charakter darf mit jeder Ausrüstung oder allen Besitztümern beginnen, die
 >
 > Erschöpfungsstufen: OK, 0, 0, -2, -4, Bewusstlos
 >
-> Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20) (\* angesammelte Wundabzüge reduzieren sich um 1 durch Ausdauernde Konstitution)
+> Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20) (\* angesammelte Wundabzüge reduzieren sich um 1 durch Ausdauernde Konstitution)
 >
 > Fertigkeiten: Artes Liberales 4 (Grammatik), Athletik 2 (Laufen), Aufmerksamkeit 3 (Aufmerksamkeit), Feilschen 2 (Bücher), Bayern-Kunde 2 (Geographie), Raufen 3 (Schlagen), Chirurgie 2 (Wunden verbinden), Zivil- und Kanonisches Recht 1 (Lokale Gebräuche), Kodex des Hermes 3 (Züge der Magier), Konzentration 3 (Zauber), Dominiumkunde 2 (Göttliche Kreaturen), Etikette 2 (Händler), Feenkunde 2 (Feenwälder), Finesse 4 (Präzision), Menschenkenntnis 2 (Bauern), Deutsch 5 (Händlerjargon), Große Waffe 4 (Langer Speer), Täuschung 3 (schnelles Reden), Jagen 2 (Spurenlesen), Infernalkunde 2 (Dämonen), Intrige 3 (Intrigieren), Latein 4 (hermetisch), Führung 3 (Einschüchtern), (Lokale Gebiets-)Kunde 3 (Persönlichkeiten), Magiekunde 2 (Kreaturen), Magietheorie 5 (Zauber erfinden), Kunde des Ordens des Hermes 4 (Verbrecher), Parma Magica 5 (Corpus), Penetration 6 (Perdo), Philosophiae 2 (Moralphilosophie), Vorahnungen 3 (Feindliche Magi), Beruf - Schreiber 2 (Geschwindigkeit), Zweites Gesicht 3 (Unsichtbarkeit), Schleichen 2 (Beschatten), Überleben 2 (Wälder), Schwimmen 2 (Raues Wasser)
 >
@@ -19398,7 +19398,7 @@ Absorption: +9
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-Wundabzüge: –1 (1–10), –3 (11–20), –5 (21–30), Lähmende Wunde (31–40), Tot (41+)
+Wundabzüge: –1 (1–10), –3 (11–20), –5 (21–30), Kampfunfähig (31–40), Tot (41+)
 
 Fertigkeiten: Raufen 4 (Tritt), Große Waffe 5 (Prügel), Lebende Sprache 4 (derbe Ausdrücke), Wurfwaffe 3 (Stein)
 

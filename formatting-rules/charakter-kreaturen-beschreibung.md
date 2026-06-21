@@ -120,17 +120,18 @@
 | 4 | `Selbstvertrauenswert:` | ○ | |
 | 5 | `Tugenden und Fehler:` | ○ | |
 | 6 | `Persönlichkeitseigenschaften:` | ✓ | |
-| 7 | `Rufe:` | ○ | Statt `Reputationen:` |
-| 8 | `Kampf:` | ✓ | |
-| 9 | `Absorption:` | ✓ | |
-| 10 | `Erschöpfungsstufen:` | ○ | |
-| 11 | `Wundabzüge:` | ✓ | |
-| 12 | `Fertigkeiten:` | ○ | |
-| 13 | `Kräfte:` | ✓ | |
-| 14 | `Vis:` | ○ | |
-| 15 | `Ausrüstung:` | ○ | |
-| 16 | `Belastung:` | ○ | |
-| 17 | `Erscheinungsbild:` | ○ | |
+| 7 | `Hierarchie:` | ○ | Nur Dämonen; höchste Infernale Reputation oder Rang |
+| 8 | `Reputationen:` | ○ | |
+| 9 | `Kampf:` | ✓ | |
+| 10 | `Absorption:` | ✓ | |
+| 11 | `Erschöpfungsstufen:` | ○ | |
+| 12 | `Wundabzüge:` | ✓ | |
+| 13 | `Fertigkeiten:` | ○ | |
+| 14 | `Kräfte:` | ✓ | |
+| 15 | `Vis:` | ○ | |
+| 16 | `Ausrüstung:` | ○ | |
+| 17 | `Belastung:` | ○ | |
+| 18 | `Erscheinungsbild:` | ○ | |
 
 ---
 
@@ -181,7 +182,16 @@ Reihenfolge durch Semikolon gegliedert: Kostenlose Tugenden → Große/Kleine Tu
 Persönlichkeitseigenschaften: Tapfer +3, Sache verschrieben +3, Effizient +3
 ```
 
-### 4.6 Reputationen
+### 4.6 Hierarchie (nur Dämonen)
+
+```
+Hierarchie: 5
+Hierarchie: 0
+```
+
+Der Hierarchiewert eines Dämons entspricht dem höchsten Wert seiner Infernalen Reputationen, einschließlich des äquivalenten Reputationswerts für seinen Rang. Nur bei Dämonen-Statblöcken vorhanden; bei anderen Kreaturen mit Machtwert weglassen.
+
+### 4.7 Reputationen
 
 ```
 Reputationen: Engagierter Hoplit +3 (hermetische Magi)
@@ -191,9 +201,7 @@ Reputationen: Keine.
 
 Einheitlich `Reputationen:` für alle Charaktertypen — Reputation ist ein fester Regelbegriff. Format: `Inhalt Stufe (Typ)`. Wenn keine vorhanden: `Keine.` oder weglassen.
 
-Hinweis: Die aktuelle Übersetzungsdatei (ArsMagica_DE_Gesamt.md) verwendet bei Kreaturen `Rufe:` — dies wird in der deutschen Ausgabe **nicht** übernommen.
-
-### 4.7 Kampf
+### 4.8 Kampf
 
 ```
 Kampf:
@@ -205,7 +213,7 @@ Kampf:
 
 Jede Option in einer Zeile mit `-`. Spaltenreihenfolge: **Init, Ang, Vert, Sch**. Nicht anwendbare Werte: `n/v`. Freitext zu Kampfbesonderheiten (z. B. Hitze beim Angriff) als eigener Absatz nach der Liste, vor `Schadensabsorption`.
 
-### 4.8 Absorption
+### 4.9 Absorption
 
 ```
 Absorption: +0
@@ -214,7 +222,7 @@ Absorption: +8 (vollständige Metallschuppenrüstung)
 
 Quelle in Klammern nur wenn spielrelevant.
 
-### 4.9 Erschöpfungsstufen
+### 4.10 Erschöpfungsstufen
 
 ```
 Erschöpfungsstufen: OK, 0, 0, -2, -4, Bewusstlos
@@ -224,17 +232,17 @@ Erschöpfungsstufen: OK, 0/0, -1/-1, -3, -5, Bewusstlos
 
 Zusätzliche Stufen durch Schrägstrich innerhalb einer Stufe: `0/0`. Letzte Stufe `Bewusstlos`; bei Wesen die sterben statt bewusstlos werden: `Tot`.
 
-### 4.10 Wundabzüge
+### 4.11 Wundabzüge
 
 ```
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 Wundabzüge: -1 (1-4), -3 (5-8), -5 (9-12), Kampfunfähig (13-16), Tot (17+)
 Wundabzüge: -1 (1-7), -3 (8-14), -5 (15-21), Kampfunfähig (22-28), Tot (29+)
 ```
 
-Intervallgröße skaliert mit Größe (Größe 0 = 5er-Schritte, Größe -1 = 4er-Schritte, Größe +3 = 7er-Schritte usw.). Letzte Stufe je nach Typ: Sterbliche → `Lähmend`; Kreaturen → `Kampfunfähig` + `Tot`; vertriebene Wesen → `Verbannt`.
+Intervallgröße skaliert mit Größe (Größe 0 = 5er-Schritte, Größe -1 = 4er-Schritte, Größe +3 = 7er-Schritte usw.). Letzte Stufe je nach Typ: Sterbliche → `Kampfunfähig`; Kreaturen → `Kampfunfähig` + `Tot`; vertriebene Wesen → `Verbannt`.
 
-### 4.11 Fertigkeiten
+### 4.12 Fertigkeiten
 
 ```
 Fertigkeiten: Artes Liberales 4 (Grammatik), Athletik 2 (Laufen), Aufmerksamkeit 3 (Wachsamkeit), Raufen 3 (Schlagen), Magietheorie 5 (Zauber erfinden), Parma Magica 5 (Corpus)
@@ -242,7 +250,7 @@ Fertigkeiten: Artes Liberales 4 (Grammatik), Athletik 2 (Laufen), Aufmerksamkeit
 
 Format: `Fertigkeitsname Wert (Spezialisierung)`. Kommagetrennt, kein Zeilenumbruch je Eintrag. Ortsbezogene Wissensfähigkeiten: `(Gebiets-)Kunde` oder `Gebietskunde`.
 
-### 4.12 Künste (nur Magi)
+### 4.13 Künste (nur Magi)
 
 ```
 Künste: Cr 10, In 6, Mu 4, Pe 18+3 (15), Re 9; An 5, Aq 6, Au 6, Co 15, He 6, Ig 6, Im 5, Me 6, Te 6 (4), Vi 8
@@ -250,7 +258,7 @@ Künste: Cr 10, In 6, Mu 4, Pe 18+3 (15), Re 9; An 5, Aq 6, Au 6, Co 15, He 6, I
 
 Techniken zuerst (Cr In Mu Pe Re), Semikolon, dann Formen (An Aq Au Co He Ig Im Me Te Vi). Begabung in Kunst: `Pe 18+3 (15)` — aktueller Wert + Bonus (Basiswert in Klammern).
 
-### 4.13 Zwielichtnarben
+### 4.14 Zwielichtnarben
 
 ```
 Zwielichtnarben: Die Schatten in Darius' Kapuze sind ungewöhnlich tief und verbergen sein Gesicht; nahegelegene, nicht-magische Gegenstände verfallen, wenn Darius Magie wirkt.
@@ -259,7 +267,7 @@ Zwielichtnarben: Keine
 
 Freitext; mehrere Narben durch Semikolon trennen.
 
-### 4.14 Ausrüstung
+### 4.15 Ausrüstung
 
 ```
 Ausrüstung: Langer Speer mit als Talisman verzaubertem Schaft, eingebettet mit dem Effekt Die Wunde, die weint (PeCo 15, Penetration 0, 50 Anwendungen pro Tag), abgestimmt auf einen +4-Bonus für Zauber, die auf Distanz zerstören, Langlebigkeitsritual: Laborsumme 35, +7 Alterungsbonus
@@ -267,7 +275,7 @@ Ausrüstung: Langer Speer mit als Talisman verzaubertem Schaft, eingebettet mit 
 
 Verzauberte Gegenstände mit deutschem Effektnamen, Technik-Form-Kürzel, Stufe und Nutzungsbeschränkung. Langlebigkeitsritual im Ausrüstungsfeld, kein eigener Abschnitt.
 
-### 4.15 Belastung
+### 4.16 Belastung
 
 ```
 Belastung: 0(2)
@@ -276,7 +284,7 @@ Belastung: 4 (4)
 
 Format: `Wert(Last)` oder `Wert (Last)` — beide Varianten kommen vor.
 
-### 4.16 Bekannte Zauber (nur Magi)
+### 4.17 Bekannte Zauber (nur Magi)
 
 ```
 Bekannte Zauber:
@@ -289,7 +297,7 @@ Bekannte Zauber:
 
 Format: `- Deutscher Zaubername (TechForm Stufe/+Bonus), Meisterschaft Stufe (Technik)`. Sonderboni mit `*` markieren; Erläuterung als Fußnote nach der Liste.
 
-### 4.17 Eigenschaften: Tier-Qualities (zweites Vorkommen bei Tieren)
+### 4.18 Eigenschaften: Tier-Qualities (zweites Vorkommen bei Tieren)
 
 ```
 Eigenschaften: Aggressiv, Widerstandsfähig, Feiner Geruchssinn, Rudeltier/Rudelführer, Verfolgungsjäger, Scharfe Ohren, Dickes Fell, Lautstark
@@ -297,7 +305,7 @@ Eigenschaften: Aggressiv, Widerstandsfähig, Feiner Geruchssinn, Rudeltier/Rudel
 
 Dasselbe Feldlabel `Eigenschaften:` erscheint bei Tieren ein zweites Mal — nach `Tugenden und Fehler:` — für die Tier-Qualities (positive Tiereigenschaften). Kommagetrennte Liste.
 
-### 4.18 Natürliche Waffen (nur Tiere)
+### 4.19 Natürliche Waffen (nur Tiere)
 
 ```
 Natürliche Waffen:
@@ -306,7 +314,7 @@ Natürliche Waffen:
 
 Format wie `Kampf:`. Freitext zu Besonderheiten (z. B. Fell-Schutzbonus) als eigener Absatz darunter.
 
-### 4.19 Kräfte (nur Kreaturen mit Machtwert)
+### 4.20 Kräfte (nur Kreaturen mit Machtwert)
 
 ```
 Kräfte:
@@ -320,7 +328,7 @@ Baghl ist von Natur aus sowohl unsichtbar als auch nicht greifbar ...
 
 Format: `*Kraftname*, X Punkte, Init Y, Form:<br>` — mit `<br>` am Ende der Header-Zeile, dann Beschreibungstext in der nächsten Zeile. Machtkosten 0 ausschreiben. Dauernde Kräfte: `Init Konstant`. Variable Kosten: `variable Punkte` mit Erläuterung in der Beschreibung. Kräfte durch Leerzeile trennen.
 
-### 4.20 Vis
+### 4.21 Vis
 
 ```
 Vis: 2 Ignem, 1 Rego
@@ -329,7 +337,7 @@ Vis: 1 Bauer Terram-Vis kann jedes Jahr aus seinem Revier gesammelt werden, in F
 
 Kurze Angabe oder Freitext mit Fundort.
 
-### 4.21 Erscheinungsbild
+### 4.22 Erscheinungsbild
 
 Fließtext. Empfohlene Reihenfolge: äußere Beschreibung → Hintergrund/Persönlichkeit → Spielleitungshinweise (optional).
 
@@ -397,7 +405,7 @@ Absorption: +0
 
 Erschöpfungsstufen: OK, 0, 0, -2, -4, Bewusstlos
 
-Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Lähmend (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Athletik 2 (Laufen), Aufmerksamkeit 3 (Wachsamkeit), Große Waffe 4 (Langer Speer), Konzentration 3 (Zauber), Magietheorie 5 (Zauber erfinden), Parma Magica 5 (Corpus), Penetration 6 (Perdo)
 
@@ -433,6 +441,8 @@ Selbstvertrauenswert: 1 (3 Punkte)
 Tugenden und Fehler: Große Immunität: Feuer, Willensstark, Zäh, Große Verfluchung (muss eingegangene Abmachungen halten)
 
 Persönlichkeitseigenschaften: Zurückgezogen +5, Unveränderlich +3, Stolz +2
+
+Hierarchie: 3
 
 Kampf:
 - Kriegshammer: Init -1, Ang +11, Vert +3, Sch +15

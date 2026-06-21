@@ -41,6 +41,7 @@
 | Dominion | – | – | – | – | Dominium | Übernatürliche (Herrschafts-)Sphäre der Heiligen Kirche |
 | Domus Magna | – | Domus Magna | – | Domus Magnae | Domus Magna | Hauptkonvent eines Hauses |
 | Ease Factor | – | – | – | – | Schwierigkeitsgrad | Wert, gegen den ein Gesamtwert verglichen wird; konsistent verwendet |
+| Effusion | – | – | – | – | Effusion (f.) | Infernale Übernatürliche Fertigkeit; lateinischer Begriff beibehalten (RoP:I) |
 | The Enigma | – | – | – | – | Das Enigma | Mysterium des Hauses Criamon |
 | Extras (NPCs) | – | – | – | – | Statisten | EN „extras" → DE „Statisten"; nicht in Haupttabelle geregelt; sinnvolle Übersetzung |
 | Faerie / Fae | – | – | – | – | Fee / Feenwesen | Übernatürliches Wesen der Wildnis; Komposita nach Muster: Feensphäre, Feenlord, Feenkopie |
@@ -59,6 +60,7 @@
 | Grog | – | – | – | – | Grog | Bewaffneter Diener des Konvents |
 | Hedge Magic | – | – | – | – | Heckenzauber | Nicht-hermetische Magie (abwertend) |
 | Hedge Wizard | – | – | – | – | Heckenzauberer | Nicht-hermetischer Zauberer |
+| Hubris | – | – | – | – | Hybris (f.) | Göttliches Äquivalent zum Zwielicht; griechischer Begriff beibehalten (RoP:D) |
 | Hermetic | – | – | – | – | Hermetisch | Vom Orden des Hermes |
 | Hermetic Name | – | – | – | – | Hermetischer Name | Name nach der Lehrlingsprüfung |
 | High Crime | – | – | – | – | Hohes Vergehen | Verstoß gegen den Kodex; Strafe: Tod |
@@ -122,6 +124,7 @@
 | Twilight (Wizard's Twilight) | – | – | – | – | Das Zwielicht | Magischer Zusammenbruch eines Magus |
 | Twilight Comprehension | - | - | - | - | Zwielichtverständnis, Zwielicht verstehen | |
 | Twilight Void | - | - | - | - | Zwielichtleere | (RoP:M) |
+| Vituperation | – | – | – | – | Vituperation (f.) | Infernales Äquivalent zum Zwielicht; lateinischer Begriff beibehalten (RoP:I) |
 | unGifted | – | – | – | – | unBegabt | Adjektiv für Mensch ohne die Gabe |
 | unGifted | – | – | – | – | UnBegabter | Mensch ohne die Gabe |
 | Vis | – | Vis | – | Vires | Vis | Magische Kraft / Substanz (im Spiel indeklinabel) |

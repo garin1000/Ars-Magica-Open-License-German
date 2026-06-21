@@ -124,7 +124,7 @@ Copyright 2006 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 - Sphärenzuordnungen
 - Infernalisten
 - &emsp;Hierarchie
-- &emsp;Schmähung
+- &emsp;Vituperation
 - &emsp;Opferung
 - &emsp;Entweihung des Heiligen
 - Befleckte Charaktere
@@ -144,7 +144,7 @@ Copyright 2006 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 - Unheilige Kräfte
 - &emsp;Verzehrung
 - &emsp;Diablerie
-- &emsp;Erguss
+- &emsp;Effusion
 - &emsp;Verfluchung
 - &emsp;Phantasma
 - &emsp;Psychomachie
@@ -529,7 +529,7 @@ Beispielwirkungen einer Hinterhältigen Aura:
 
 > ## Die Verschlingende Regio
 > 
-> Es gibt Gerüchte, dass manche infernale Regiones nicht an einen Ort gebunden sind, sondern wahllos durch die Welt wandern. Diese Regiones scheinen von bösen Seelen angezogen zu werden, und man sagt, sie öffneten sich um eine Person herum, verschlängen sie mitsamt jenen in ihrer unmittelbaren Nähe und verschwänden dann. Von allen Geschichten über Regiones, die direkt zu den Toren der Hölle führen, scheint es am wahrscheinlichsten, dass es sich bei diesen um solche handelt, die ihre Opfer geradewegs ihrer ewigen Strafe zuführen. Dennoch müssen nicht alle direkt zur Hölle führen; manche halten ihre Opfer stattdessen wochen- oder monatelang fest und speien sie dann zurück auf die Erde. Es wurde vermutet, dass diese Verschlingenden Regiones eine Manifestation der Schmähung sein könnten (siehe Kapitel 9: Infernale Charaktere) und dem infernalen Zauberer einen Vorgeschmack auf die Qualen geben, die ihn erwarten. Alternativ könnten diese Regiones ein Mittel des Teufels sein, um sicherzustellen, dass eine besonders böse Seele zu ihm gelangt, oder sie könnten stattdessen von Gott gelenkt sein, um die Welt von der Verderbnis zu befreien, ehe sie sich weiter ausbreitet. Noch erschreckender ist die Möglichkeit, dass diese Regiones wahrhaft zufällig sein könnten.
+> Es gibt Gerüchte, dass manche infernale Regiones nicht an einen Ort gebunden sind, sondern wahllos durch die Welt wandern. Diese Regiones scheinen von bösen Seelen angezogen zu werden, und man sagt, sie öffneten sich um eine Person herum, verschlängen sie mitsamt jenen in ihrer unmittelbaren Nähe und verschwänden dann. Von allen Geschichten über Regiones, die direkt zu den Toren der Hölle führen, scheint es am wahrscheinlichsten, dass es sich bei diesen um solche handelt, die ihre Opfer geradewegs ihrer ewigen Strafe zuführen. Dennoch müssen nicht alle direkt zur Hölle führen; manche halten ihre Opfer stattdessen wochen- oder monatelang fest und speien sie dann zurück auf die Erde. Es wurde vermutet, dass diese Verschlingenden Regiones eine Manifestation der Vituperation sein könnten (siehe Kapitel 9: Infernale Charaktere) und dem infernalen Zauberer einen Vorgeschmack auf die Qualen geben, die ihn erwarten. Alternativ könnten diese Regiones ein Mittel des Teufels sein, um sicherzustellen, dass eine besonders böse Seele zu ihm gelangt, oder sie könnten stattdessen von Gott gelenkt sein, um die Welt von der Verderbnis zu befreien, ehe sie sich weiter ausbreitet. Noch erschreckender ist die Möglichkeit, dass diese Regiones wahrhaft zufällig sein könnten.
 
 ## Infernale Regiones
 
@@ -1599,7 +1599,7 @@ Eigenschaften: Int +3, Wah 0, Prä +3, Kom +1, Stä +5, Aus +5, Ges +4, Sck +4
 
 Größe: 0 (menschlich), +2 (Pfau)
 
-**Selbstvertrauenswert**: 3 (9 Punkte)
+Selbstvertrauenswert: 3 (9 Punkte)
 
 Tugenden und Fehler: Große Immunität gegen Flamme und Hitze, Begabung in Führung, Durchdringender Blick
 
@@ -1607,7 +1607,7 @@ Persönlichkeitseigenschaften: Stolz +6, Königlich +6, Herablassend +3
 
 Reputationen: König der Hölle 8 (Infernal), Entzünder der Höllenfeuer 5 (Infernal)
 
-**Hierarchie:** 9
+Hierarchie: 9
 
 Kampf:
 
@@ -1617,7 +1617,7 @@ Absorption: +9
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20)
+Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20)
 
 Fertigkeiten: Artes Liberales 7 (Geometrie), Aufmerksamkeit 4 (Sünder), Feilschen 8 (Pakte), Raufen 4 (Tritt), Charme 5 (Unschuldige), Menschenkenntnis 7 (Diabolisten), Große Waffe 8 (Großschwert), Täuschung 10 (die Stolzen), Infernalkunde 8 (Feuerdämonen), Intrige 8 (die Grube), Führung 12+2 (Menschen), Philosophiae 7 (Metaphysik), Unterrichten 6 (Akademische Fertigkeiten), Theologie 8 (Wesen des Bösen)
 
@@ -1657,7 +1657,7 @@ Eigenschaften: Int +1, Wah +2, Prä –5, Kom +1, Stä +4, Aus +5, Ges +1, Sck +
 
 Größe: +2
 
-**Selbstvertrauenswert**: 3 (9 Punkte)
+Selbstvertrauenswert: 3 (9 Punkte)
 
 Tugenden und Fehler: Überempfindlich (Beischlaf), Beleibt
 
@@ -1665,7 +1665,7 @@ Persönlichkeitseigenschaften: Stolz +6, Hungrig +3, Scham –3
 
 Reputationen: Schatzmeister der Hölle 6 (Infernal), Dämon des Schmutzes 5 (Infernal)
 
-**Hierarchie:** 6
+Hierarchie: 6
 
 Kampf:
 
@@ -1685,7 +1685,7 @@ Wundabzüge: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (22–28
 
 Fertigkeiten: Artes Liberales 4 (Arithmetik), Raufen 4 (Klauen), Zivil- und Kanonisches Recht 4 (Handel), Menschenkenntnis 6 (Unzucht), Infernalkunde 5 (Reichtum), Intrige 7 (Neid), Medizin 4 (Gifte), Beruf: Kaufmann 7 (Unfaire Geschäfte)
 
-**Kräfte**
+Kräfte
 
 *Frauengestalt*, 0 Punkte, Init 0, Corpus: Baal-Peor kann die Gestalt einer Frau annehmen, obwohl er diese Kraft nicht nutzen kann, um eine bestimmte Frau nachzuahmen. Er wählt stets eine Gestalt, die vom Zielpublikum seiner Machenschaften als schön angesehen wird.
 
@@ -1725,7 +1725,7 @@ Persönlichkeitseigenschaften: Groll gegenüber Kontrolle +5, Selbstsüchtig +5,
 
 Reputationen: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Kampf:
 
@@ -1735,7 +1735,7 @@ Absorption: +1
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1), –3 (2), –5 (3), Kampfunfähig (4)
+Wundabzüge: –1 (1), –3 (2), –5 (3), Kampfunfähig (4)
 
 Fertigkeiten: Athletik 5 (Fliegen), Raufen 6 (Ausweichen), Täuschung 6 (Prahlereien)
 
@@ -1789,7 +1789,7 @@ Persönlichkeitseigenschaften: Selbstsüchtig +6, Wollüstig +5, Hinterlistig +4
 
 Reputationen: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Kampf:
 
@@ -1829,7 +1829,7 @@ Eigenschaften: Int 0, Wah 0, Prä +1, Kom +3, Stä +2, Aus +2, Ges +1, Sck +2
 
 Größe: +1
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Überheblich
 
@@ -1837,7 +1837,7 @@ Persönlichkeitseigenschaften: Stolz +6, Selbstgefällig +6, Tapfer –2
 
 Reputationen: Mächtiger Fürst der Hölle 7 (Infernal)
 
-**Hierarchie:** 7
+Hierarchie: 7
 
 Kampf:
 
@@ -1847,11 +1847,11 @@ Absorption: +5
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24)
+Wundabzüge: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24)
 
 Fertigkeiten: Raufen 1 (Klauen), Charme 5 (Überredung), Täuschung 5 (eigene Selbstgefälligkeit), Infernalkunde 6 (Vorgesetzte), Intrige 5 (Dämonische Pläne)
 
-**Kräfte**
+Kräfte
 
 *Koagulation*, 1 Punkt, Init –1, Corpus: Siehe Kapitel 4: Infernale Legionen, Dämonenkräfte.
 
@@ -1880,13 +1880,13 @@ Eigenschaften: Int +1, Wah +2, Prä +1, Kom +1, Stä +2, Aus +2, Ges +2, Sck +1
 
 Größe: 0
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Persönlichkeitseigenschaften: Unerbittlich +5, Leidenschaftslos +4, Gnädig –3
 
 Reputationen: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Kampf:
 
@@ -1898,7 +1898,7 @@ Absorption: +5
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20)
+Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20)
 
 Fertigkeiten: Charme 3 (Überredung), Dominiumkunde 3 (Schutzengel), Menschenkenntnis 4 (sein „Schützling"),
 
@@ -1946,13 +1946,13 @@ Eigenschaften: Int –1, Wah +5, Prä –1, Kom –3, Stä +3, Aus +3, Ges +3, S
 
 Größe: +2
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Persönlichkeitseigenschaften: Unerbittlich +5, Leidenschaftslos +4, Guter Menschenkenner –3, Gnädig –3
 
 **Reputationen**: Geißel der Maßlosen 1 (Infernal), Engel der Bestrafung 1 (Infernal)
 
-**Hierarchie:** 1
+Hierarchie: 1
 
 Kampf:
 
@@ -1962,7 +1962,7 @@ Absorption: +5
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (22–28)
+Wundabzüge: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (22–28)
 
 Fertigkeiten: Aufmerksamkeit 4 (Sünder), Zivil- und Kanonisches Recht 4 (Vergehen), Philosophiae 5 (Ethik), Einzelwaffe 5 (Rute), Theologie 6 (Sünde)
 
@@ -1992,7 +1992,7 @@ Eigenschaften: Int +1, Wah +3, Prä 0, Kom 0, Stä –3, Aus 0, Ges +4, Sck +3
 
 Größe: –3
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Perfektes Gleichgewicht, Begabung in Aufmerksamkeit, Scharfe Ohren; Nachtaktiv
 
@@ -2000,7 +2000,7 @@ Persönlichkeitseigenschaften: Stolz +6, Selbstzufrieden +5, Träge +3, Mutig �
 
 Reputationen: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Kampf:
 
@@ -2012,7 +2012,7 @@ Absorption: +1
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–2), –3 (3–4), –5 (5–6), Kampfunfähig (7–8)
+Wundabzüge: –1 (1–2), –3 (3–4), –5 (5–6), Kampfunfähig (7–8)
 
 Fertigkeiten: Athletik 3 (Springen), Aufmerksamkeit 4 (bei Nacht), Raufen 2 (Klauen), Jagen 4 (Mäuse), Schleichen 4 (Anschleichen), Überleben 3 (Dörfer)
 
@@ -2051,7 +2051,7 @@ Eigenschaften: Int +3, Wah +1, Prä 0, Kom –3, Stä +4, Aus +4, Ges +4, Sck +4
 
 Größe: +2
 
-**Selbstvertrauenswert**: 2 (6 Punkte)
+Selbstvertrauenswert: 2 (6 Punkte)
 
 Tugenden und Fehler: Große Immunität (Krankheit), Mindere Reinigende Berührung (Nierenkrankheiten), Begabung in Medizin
 
@@ -2059,7 +2059,7 @@ Persönlichkeitseigenschaften: Unerbittlich +5, Leidenschaftslos +4, Gnädig –
 
 Reputationen: Meister des Chors der Erzengel 3 (Infernal)
 
-**Hierarchie:** 3
+Hierarchie: 3
 
 Kampf:
 
@@ -2069,7 +2069,7 @@ Absorption: +5
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (22–28)
+Wundabzüge: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (22–28)
 
 Fertigkeiten: Aufmerksamkeit 4 (Sünder), Raufen 2 (Knüppel), Chirurgie 6 (Infektion), Medizin 10+2 (Nierenkrankheiten)
 
@@ -2141,13 +2141,13 @@ Eigenschaften: Int +1, Wah –1, Prä +1, Kom +3, Stä +3, Aus +3, Ges +2, Sck +
 
 Größe: 0
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Willensschwach
 
 Persönlichkeitseigenschaften: Selbstsüchtig +5, Unterwürfig +4, Bissig +2
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Kampf:
 
@@ -2159,7 +2159,7 @@ Absorption: +4
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bew.
 
-**Wundabzüge**: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20)
+Wundabzüge: –1 (1–5), –3 (6–10), –5 (11–15), Kampfunfähig (16–20)
 
 Fertigkeiten: Raufen 3 (Klauen), Charme 4 (auserwähltes Opfer), Menschenkenntnis 6 (Charakterschwächen), Täuschung 6 (eingebildete Schwächen)
 
@@ -2193,7 +2193,7 @@ Eigenschaften: Int +1, Wah +2, Prä +1, Kom +1, Stä +4, Aus +3, Ges +2, Sck +1
 
 Größe: +3
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Verbesserte Eigenschaften (x2), Durchdringender Blick, Begabung in Raufen, Zäh, Willensschwach
 
@@ -2201,7 +2201,7 @@ Persönlichkeitseigenschaften: Schadenfroh +3
 
 Reputationen: Meisterdieb 3 (Infernal)
 
-**Hierarchie:** 3
+Hierarchie: 3
 
 Kampf:
 
@@ -2211,7 +2211,7 @@ Absorption: +11 (Nacht)
 
 Erschöpfungsstufen: OK, 0/0, –1/–1, –3/–3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–7), –3 (8–14), –5
+Wundabzüge: –1 (1–7), –3 (8–14), –5
 
 (15–21), Kampfunfähig (22–28) Fertigkeiten: Aufmerksamkeit 3 (Obrigkeiten), Raufen 5+2 (Klauen), Menschenkenntnis 5 (Diebe), Infernalkunde 3 (Nekromantische Gegenstände), Intrige 3 (Höllenpolitik), Fingerfertigkeit 5 (Stibitzen), Schleichen 5 (Nacht)
 
@@ -2287,11 +2287,11 @@ Persönlichkeitseigenschaften: Grausam +6, Hass auf Frauen +4, Wollüstig +2
 
 Reputationen: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Fertigkeiten: Gebietskunde 4 (Ehebrecher), Aufmerksamkeit 3 (Suchen), Zechen 3 (Bier), Beruf: Zimmermann 5 (Särge)
 
-**Kräfte**
+Kräfte
 
 *Nägel der Rache des Gehörnten*, 1 Punkt, Init +1, Corpus: Jede Anwendung dieser Kraft verursacht einen stechenden Schmerz in einem Körperteil, als sei ein Nagel hineingetrieben worden. Dies stört die Konzentration und führt bei einem misslungenen Ausdauerwurf gegen einen Schwierigkeitsgrad von 6 zum Verlust einer Erschöpfungsstufe. Die von diesem Angriff verursachten Stichwunden sind deutlich sichtbar.
 
@@ -2319,7 +2319,7 @@ Eigenschaften: Int +1, Wah -1, Prä +1, Kom +3, Stä +1, Aus +1, Ges +2, Sck +2
 
 Größe: 0
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Befehligen, Diablerie, Beschwörung, Herbeirufen; Begabung in Täuschung, Begabung in Unterrichten
 
@@ -2327,7 +2327,7 @@ Persönlichkeitseigenschaften: Neugierig +4, Glaubwürdig +3, Charmant +3, Versc
 
 Reputationen: Mächtige Zauberin 3 (Infernal)
 
-**Hierarchie:** 3
+Hierarchie: 3
 
 Kampf:
 
@@ -2337,11 +2337,11 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Charme 5 (Verführung), Diablerie 8 (Mazzikim), Feenkunde 6 (Dschinni), Täuschung 6+2 (über Magie), Beschwörung 5 (beim Anrufen von Namen), Infernalkunde 6 (Mazzikim), Magiekunde 6 (Geister), Einzelwaffe 4 (Kurzschwert), Unterrichten 6+2 (Herbeirufen)
 
-**Kräfte**
+Kräfte
 
 *Die Schöpfung der Magi duplizieren*, variable Punkte, Init +1, variable Form: Siehe Kapitel 4: Die infernalen Legionen, Verführer. Aqrab kann nur Creo-Zauber duplizieren.
 
@@ -2371,7 +2371,7 @@ Eigenschaften: Int 0, Wah +1, Prä 0, Kom +3, Stä +2, Aus +3, Ges +3, Sck +2
 
 Größe: 0
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Hass (Wahre Liebende)
 
@@ -2379,7 +2379,7 @@ Persönlichkeitseigenschaften: Betrügerisch +6, Rachsüchtig +4, Vertrauenswür
 
 Reputationen: Säer der Zwietracht 1 (Infernal)
 
-**Hierarchie:** 1
+Hierarchie: 1
 
 Kampf:
 
@@ -2391,11 +2391,11 @@ Absorption: +3
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bew.
 
-**Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Raufen 3 (Ausweichen), Charme 4 (Geschlecht entgegengesetzt zur aktuellen Gestalt), Menschenkenntnis 6 (Ehepaare), Intrige 5 (eheliche Zwietracht)
 
-**Kräfte**
+Kräfte
 
 *Koagulation*, 2 Punkte, Init -1, Corpus: Siehe Kapitel 4: Die infernalen Legionen, Allgemeine Dämonenkräfte.
 
@@ -2427,7 +2427,7 @@ Eigenschaften: Int +3, Wah +1, Prä 0, Kom 0, Stä +5, Aus +5, Ges -3, Sck 0
 
 Größe: +3
 
-**Selbstvertrauenswert**: 2 (6 Punkte)
+Selbstvertrauenswert: 2 (6 Punkte)
 
 Tugenden und Fehler: Landadliger\*, Ausdauernd
 
@@ -2437,7 +2437,7 @@ Persönlichkeitseigenschaften: Arrogant +6, Betrügerisch +6, Vertrauenswürdig 
 
 Reputationen: Veredler der Reichtümer 3 (Infernal), Lehrer der Alchemisten 1 (Infernal)
 
-**Hierarchie:** 3
+Hierarchie: 3
 
 Kampf:
 
@@ -2451,7 +2451,7 @@ Absorption: +15
 
 Erschöpfungsstufen: OK, 0/0/0, -1/-1, -3/-3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-8), -3 (9-16), -5 (17-24), Kampfunfähig (25-32)
+Wundabzüge: -1 (1-8), -3 (9-16), -5 (17-24), Kampfunfähig (25-32)
 
 Fertigkeiten: Athletik 6 (Galoppieren), Raufen 6 (Hufe), Menschenkenntnis 6 (adlige Gebietsansprüche), Große Waffe 6 (Großschwert), Täuschung 6 (Dinge erheben), Intrige 8 (sterbliche Adlige)
 
@@ -2495,7 +2495,7 @@ Eigenschaften: Int +2, Wah +1, Prä 0, Kom +2, Stä -1, Aus 0, Ges +3, Sck +4
 
 Größe: 0
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Durchdringender Blick, Begabung in Führung
 
@@ -2503,7 +2503,7 @@ Persönlichkeitseigenschaften: Grausam +6, Streng +5,
 
 Unnachgiebig +3 Reputationen: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Kampf:
 
@@ -2513,7 +2513,7 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Führung 6+2 (Kinder), Einzelwaffe 5 (Rute)
 
@@ -2563,7 +2563,7 @@ Eigenschaften: Int +4, Wah 0, Prä 0, Kom +2, Stä +1, Aus +4, Ges +2, Sck +6
 
 Größe: +3
 
-**Selbstvertrauenswert**: 2 (6 Punkte)
+Selbstvertrauenswert: 2 (6 Punkte)
 
 Tugenden und Fehler: Ausschweifung, Ergießung, Phantasma; Guter Lehrer, Begabung in Artes Liberales, Begabung in Täuschung; Nichtkämpfer
 
@@ -2571,7 +2571,7 @@ Persönlichkeitseigenschaften: Arrogant +4, Glaubwürdig +3, Verschlagen +2, Wei
 
 Reputationen: Herzog der Rhetorik 7 (Infernal)
 
-**Hierarchie:** 7
+Hierarchie: 7
 
 Kampf:
 
@@ -2581,11 +2581,11 @@ Absorption: +4
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-8), -3 (9-16), -5 (17-24), Kampfunfähig (25-32)
+Wundabzüge: -1 (1-8), -3 (9-16), -5 (17-24), Kampfunfähig (25-32)
 
 Fertigkeiten: Artes Liberales 8+2 (Mathematik), Raufen 3 (Ausweichen), Ausschweifung 10 (Phantasma), Ergießung 12, Täuschung 7+2 (Heckenzauberer), Infernalkunde 6 (Hierarchien), Intrige 4 (akademisch), Magiekunde 4 (Pflanzenheilkunde), Phantasma 8 (Aussehen verändern), Philosophiae 6 (Naturwissenschaften), Beruf: Schauspieler 4 (Lippenbewegungen), Unterrichten 6 (Artes Liberales), Theologie 4 (als Lehre getarnte Häresie)
 
-**Kräfte**
+Kräfte
 
 *Vor sterblichem Blick verbergen*, 4 Punkte, Init +6, Imaginem: Forcas kann jeden, den er sehen kann, unsichtbar machen, obwohl dieser vor seinem eigenen Blick niemals verborgen ist. Dies ist wahre Unsichtbarkeit, da sie aufgrund ihrer infernalen Natur nicht durch hermetische Magie enthüllt werden kann. Die Unsichtbarkeit hält bis zum nächsten Sonntag an oder bis Forcas beschließt, sie aufzuheben.
 
@@ -2657,7 +2657,7 @@ Persönlichkeitseigenschaften: Geschwätzig +3
 
 Reputationen: Keine
 
-**Hierarchie:** 0 Kampf:
+Hierarchie: 0 Kampf:
 
 Ausweichen: Init +2, Angriff n/v, Verteidigung +5, Schaden n/v
 
@@ -2665,11 +2665,11 @@ Absorption: +18 (aus massivem Messing, keine lebenswichtigen Organe)
 
 Erschöpfungsstufen: Unermüdlich
 
-**Wundabzüge**: -1 (1-3), -3 (4-6), -5 (7-9), Kampfunfähig (10-12)
+Wundabzüge: -1 (1-3), -3 (4-6), -5 (7-9), Kampfunfähig (10-12)
 
 Fertigkeiten: Athletik 5 (bei Verfolgung), Raufen 2 (Ausweichen), Charme 4 (Geizhälse), Menschenkenntnis 4 (reiche Leute)
 
-**Kräfte**
+Kräfte
 
 *Leib aus Messing*, 0 Punkte, Init +6, Terram: Der Topf hat keinen lebendigen Körper und ist daher immun gegen Erschöpfung, Krankheit, Entbehrung und manche Zauber. Der Topf bewegt sich auf gelenklosen, knochenlosen Beinen und kann in der Geschwindigkeit eines galoppierenden Pferdes sprinten. Gewöhnlich tut er dies kurz nachdem eine reiche Person Schätze in ihn gelegt hat.
 
@@ -2719,7 +2719,7 @@ Eigenschaften: Int +2, Wah +1, Prä +1, Kom +1, Stä +6, Aus +1, Ges +1, Sck +1
 
 Größe: 0
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Persönlichkeitseigenschaften: Grausam +6
 
@@ -2727,7 +2727,7 @@ Reputationen: Anführer einer Legion
 
 korrumpierter Priester 3 (Infernal)
 
-**Hierarchie:** 3
+Hierarchie: 3
 
 Kampf:
 
@@ -2755,11 +2755,11 @@ Absorption: +5
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Raufen 5 (Faust), Charme 6 (Schmeichelei), Menschenkenntnis 8 (Wertlosigkeit), Täuschung 6 (Selbstwert zerstören), Führung 5 (Willensschwache), Beruf: Schauspieler 6 (Bittsteller)
 
-**Kräfte**
+Kräfte
 
 *Menschengestalt*, 2 Punkte, Init 0, Corpus: Der Dämon kann die Gestalt jedes Menschen annehmen.
 
@@ -2789,7 +2789,7 @@ Eigenschaften: Int +2, Wah -1, Prä +1, Kom +2, Stä +1, Aus +2, Ges 0, Sck +1
 
 Größe: 0
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Vorahnungen, Begabung in Täuschung, Soziale Kontakte
 
@@ -2797,7 +2797,7 @@ Persönlichkeitseigenschaften: Betrügerisch +6, Trägheit +1, Vertrauenswürdig
 
 Reputationen: Prophetin 1 (Infernal)
 
-**Hierarchie:** 1
+Hierarchie: 1
 
 Kampf:
 
@@ -2807,11 +2807,11 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
+Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
 
 Fertigkeiten: Charme 4 (Leichtgläubige), Europakunde 3 (Aberglaube), Menschenkenntnis 6 (Wahrsagerei), Täuschung 5+2 (über zukünftige Ereignisse), Vorahnungen 4 (nicht dringende Ereignisse), Überleben 2 (auf der Straße)
 
-**Kräfte**
+Kräfte
 
 *Der zurückgelassene Leichnam*, 1 Punkt, Init +5, Corpus: Premnemosyne kann bei der Umwandlung in geistige Gestalt einen Leichnam erzeugen und so aussehen lassen, als hinterlasse sie einen Körper. Dieser Körper verwest schneller als ein wirklicher menschlicher Kadaver und verschwindet innerhalb eines Monats vollständig.
 
@@ -2849,7 +2849,7 @@ Eigenschaften: Int +3, Wah +1, Prä 0, Kom 0, Stä +2, Aus +1, Ges +3, Sck +5
 
 Größe: +1
 
-**Selbstvertrauenswert**: 2 (6 Punkte)
+Selbstvertrauenswert: 2 (6 Punkte)
 
 Tugenden und Fehler: Berserker, Kleine Verfluchung (Unbehagen durch Sonnenlicht)
 
@@ -2857,7 +2857,7 @@ Persönlichkeitseigenschaften: Jähzornig +4, Selbstbeherrscht +2
 
 Reputationen: Leicht hereinzulegen 3 (lokal)
 
-**Hierarchie:** 3
+Hierarchie: 3
 
 Kampf:
 
@@ -2869,11 +2869,11 @@ Absorption: +6
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-6), -3 (7-12), -5 (13-18), Kampfunfähig (19-24)
+Wundabzüge: -1 (1-6), -3 (7-12), -5 (13-18), Kampfunfähig (19-24)
 
 Fertigkeiten: Raufen 1 (Klauen), Charme 6 (jene, die er in Geschäfte zu locken beabsichtigt), Handwerk 2 (Maurerarbeiten), Täuschung 3 (Töchter), Infernalkunde 6 (große physische Werke von Dämonen), Intrige 5 (Geopolitik), Führung 3 (Arbeiter), Beruf 9 (Architektur), Einzelwaffe 7 (Flegel — beschwerte Peitsche)
 
-**Kräfte**
+Kräfte
 
 *Gebiete den vier Heerscharen der Erbauer*, 10 Punkte, Init 0, Vim: Dieser Dämon kann einen Schwarm geringerer Kreaturen befehligen. Diese werden gewöhnlich ausgesandt, um Materialien zu beschaffen und dann unter seiner Anleitung Gebäude zu errichten, doch sie können auch mit vielen anderen Aufgaben betraut werden. Diese winzigen Dämonen arbeiten mit außerordentlicher Geschwindigkeit und sind in der Lage, innerhalb eines einzigen Abends komplizierte Bauwerke zu errichten. Architectus schwingt seine Peitsche knallend in die vier Himmelsrichtungen, um seine Schwärme zu rufen, doch dies ist eine Marotte und keine Notwendigkeit — die Peitsche ist lediglich ein Requisit.
 
@@ -2935,7 +2935,7 @@ Eigenschaften: Int +3, Wah +3, Prä -6, Kom +2, Stä +6, Aus +1, Ges +4, Sck -2
 
 Größe: +2
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Berserker
 
@@ -2943,7 +2943,7 @@ Persönlichkeitseigenschaften: Rebellisch +6, Jähzornig +4, Selbstbeherrscht -6
 
 Reputationen: Zerstörer der Nationen 5 (Infernal)
 
-**Hierarchie:** 5
+Hierarchie: 5
 
 Kampf:
 
@@ -2957,11 +2957,11 @@ Absorption: +9
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-7), -3 (8-14), -5 (15-21), Kampfunfähig (22-28)
+Wundabzüge: -1 (1-7), -3 (8-14), -5 (15-21), Kampfunfähig (22-28)
 
 Fertigkeiten: Raufen 5 (Klauen), Menschenkenntnis 6 (Adel), Führung 9 (Sklaven), Beruf: Schlachttaktiker 5 (Sturmangriff), Einzelwaffe 5 (Langschwert)
 
-**Kräfte**
+Kräfte
 
 *Menschengestalt*, 0 Punkte, Init 0, Corpus: Bael kann die Gestalt jedes beliebigen Menschen annehmen. Er nimmt oft die Gestalt eines Militärberaters der Krone an.
 
@@ -3025,7 +3025,7 @@ Persönlichkeitseigenschaften: Unbändig +5, Einschüchternd +3
 
 Reputationen: Champion der Hölle 1 (Infernal)
 
-**Hierarchie:** 1
+Hierarchie: 1
 
 Kampf:
 
@@ -3037,7 +3037,7 @@ Absorption: +15
 
 Erschöpfungsstufen: OK, 0, -1, -3, -5, Bewusstlos
 
-**Wundabzüge**: -1 (1-7), -3 (8-14), -5 (15-21), Kampfunfähig (22-28)
+Wundabzüge: -1 (1-7), -3 (8-14), -5 (15-21), Kampfunfähig (22-28)
 
 Fertigkeiten: Athletik 3 (Verfolgen), Aufmerksamkeit 4 (Feinde), Raufen 5 (Faust), Große Waffe 6+2 (Keule)
 
@@ -3081,11 +3081,11 @@ Persönlichkeitseigenschaften: Verschwenderisch mit Geld +8, Jähzornig +4, Hekt
 
 Reputationen: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Fertigkeiten: Aufmerksamkeit 3 (Sünder), Feilschen 3 (Besitztümer), Beruf: Händler 5 (Wolle)
 
-**Kräfte**
+Kräfte
 
 *Besessung*, variable Punkte, Init +2, Mentem: Siehe Kapitel 4: Die infernalen Legionen, Dämonenkräfte.
 
@@ -3133,7 +3133,7 @@ Tugenden und Fehler: Gestaltwandler
 
 Schwäche: Fließendes Wasser
 
-**Kräfte**
+Kräfte
 
 Elementare Beherrschung der Erde, variable Punkte, Init +1, Terram: Wie die Kraft, die allen Luftmächten gemein ist. Sie bevorzugen Effekte wie *Erde, die nicht mehr bricht* und *Faust der Zerschmetterung*.
 
@@ -3149,7 +3149,7 @@ Eigenschaften: Int +1, Wah 0, Prä +2, Kom +2, Stä +4, Aus +4, Ges +4, Sck 0
 
 Größe: +1
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Persönlichkeitseigenschaften: Verdorben +6, Hasserfüllt
 
@@ -3167,11 +3167,11 @@ Absorption: +6
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24)
+Wundabzüge: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24)
 
 Fertigkeiten: Kirchenkunde 5 (Sekten), Dominiumkunde 5 (Häresie), Islamkunde 5 (Sekten), Jüdische Kunde 5 (Sekten), Führung 6 (Mobs), Einzelwaffe 6 (Keule), Theologie 6 (Denkfehler)
 
-**Kräfte**
+Kräfte
 
 *Besessenheit*, 1 bis 3 Punkte, Init –5, Vim: Religiöse Intoleranz. Siehe Kapitel 4: Die infernalen Legionen, Dämonenkräfte.
 
@@ -3197,7 +3197,7 @@ Eigenschaften: Int +1, Wah +3, Prä 0, Kom +0, Stä +3, Aus 0, Ges +3, Sck +2
 
 Größe: +1
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Scheint den Fehler Fettleibig zu haben, erleidet aber keinerlei Abzüge.
 
@@ -3205,7 +3205,7 @@ Persönlichkeitseigenschaften: Verdorben +6, Hasserfüllt +6, Völlerei +3
 
 Reputationen: Gewürzhändler 1 (Infernal)
 
-**Hierarchie:** 1
+Hierarchie: 1
 
 Kampf:
 
@@ -3215,11 +3215,11 @@ Absorption: +2
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24)
+Wundabzüge: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24)
 
 Fertigkeiten: Feilschen 6 (Gewürze), Handwerk: Konditorei 5 (Zucker), Große Waffe 3 (Prügel), Täuschung 3 (Kaufleute)
 
-**Kräfte**
+Kräfte
 
 *Pfefferwolke*, 1 Punkt, Init +3, Herbam: Diese Kraft füllt einen Raum — oder in unbegrenzten Bereichen einen Kreis von 100 Schritt Durchmesser — für eine Runde mit einer erstickenden Wolke aus Pfefferstaub. Dies reizt die Lungen und Augen von Menschen, verursacht aber keinen dauerhaften Schaden. Charaktere innerhalb der Wolke müssen einen Ausdauerwurf gegen einen Schwierigkeitsgrad von 9 bestehen. Erfolgreiche Charaktere sind vom Staub nicht betroffen. Jene mit niedrigeren Gesamtwerten werden für eine Runde geblendet und erleiden eine Erschöpfungsstufe durch Erstickungsschaden. Sie dürfen jede Runde einen neuen Ausdauerwurf ablegen, wobei der Schwierigkeitsgrad pro Runde seit der Beeinträchtigung um eins sinkt. Der Pfeffer entzieht keinem Opfer mehr als eine Erschöpfungsstufe. Gourmand setzt diese Kraft ein, um Feinde zu behindern, entweder um den Kampf zu erleichtern oder um ihm die Flucht zu ermöglichen.
 
@@ -3287,7 +3287,7 @@ Eigenschaften: Int 0, Wah +1, Prä –1, Kom +3, Stä +1, Aus +4, Ges +3, Sck +3
 
 Größe: +1
 
-**Selbstvertrauenswert**: 2 (6 Punkte)
+Selbstvertrauenswert: 2 (6 Punkte)
 
 Tugenden und Fehler: Verbesserte Eigenschaften, Begabung in Athletik
 
@@ -3295,7 +3295,7 @@ Persönlichkeitseigenschaften: Verdorben +6, Hasserfüllt +6, Lustig +6
 
 Reputationen: Hauptmann der Roten Teufel 2 (Infernal)
 
-**Hierarchie:** 2
+Hierarchie: 2
 
 Kampf:
 
@@ -3309,11 +3309,11 @@ Absorption: +9
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24)
+Wundabzüge: –1 (1–6), –3 (7–12), –5 (13–18), Kampfunfähig (19–24)
 
 Fertigkeiten: Athletik 6+2 (Sport), Raufen 1 (Ausweichen), Zechen 6 (Menge), Menschenkenntnis 6 (Rivalitäten), Intrige 4 (Schlägereien anstiften)
 
-**Kräfte**
+Kräfte
 
 *Ruf*, 1 Punkt, Init 0, Imaginem: Erlaubt dem Dämon, einen kurzen Satz zu sagen, der für jede Person in einer Menge perfekt hörbar ist, obwohl sie seine Quelle nicht bestimmen kann.
 
@@ -3377,11 +3377,11 @@ Absorption: +1
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1), –3 (2), –5 (3), Kampfunfähig (4)
+Wundabzüge: –1 (1), –3 (2), –5 (3), Kampfunfähig (4)
 
 Fertigkeiten: Athletik 10 (Fliegen), Raufen 10 (Ausweichen)
 
-**Kräfte**
+Kräfte
 
 *Ausdauer der Gefräßigen*, 0 Punkte, Init +1, Mentem: Jede Kreatur, die von Mahonin besessen ist, ist unempfindlich gegen Schmerzen beim Essen oder Unbehagen und Schaden, die durch das Verzehrte verursacht werden. Sie erleidet dennoch alle Wund- oder Erschöpfungsabzüge, die durch diese Verletzungen oder Leiden verursacht werden, ist sich ihrer aber nicht bewusst.
 
@@ -3407,7 +3407,7 @@ Eigenschaften: Int +3, Wah +3, Prä –3, Kom +1, Stä –2, Aus –2, Ges +4, S
 
 Größe: –1
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Bezaubernde Musik
 
@@ -3415,7 +3415,7 @@ Persönlichkeitseigenschaften: Unbändig +5, Prahlsüchtig +4, Rachsüchtig +4, 
 
 Reputationen: Bringerin des Sieges 2 (Infernal)
 
-**Hierarchie:** 2
+Hierarchie: 2
 
 Kampf:
 
@@ -3427,11 +3427,11 @@ Absorption: +0
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–4), –3 (5–8), –5 (9–12), Kampfunfähig (13–16)
+Wundabzüge: –1 (1–4), –3 (5–8), –5 (9–12), Kampfunfähig (13–16)
 
 Fertigkeiten: Athletik 5 (Fliegen), Raufen 4 (Ausweichen), Bezaubernde Musik 4 (Einlullen), Schleichen 5 (schlafende Feinde)
 
-**Kräfte**
+Kräfte
 
 *Elementare Beherrschung der Luft*, variable Punkte, Init +1, Auram: Siehe Kapitel 4: Die infernalen Legionen, Luftmächte. Sie setzt häufig Effekte ein, die *Gestank von zwanzig Leichen* und *Ansturm der zornigen Winde* ähneln.
 
@@ -3497,13 +3497,13 @@ Eigenschaften: Int +3, Wah +1, Prä +1, Kom +3, Stä +4, Aus +6, Ges +2, Sck +3
 
 Größe: +2
 
-**Selbstvertrauenswert**: 2 (6 Punkte)
+Selbstvertrauenswert: 2 (6 Punkte)
 
 Persönlichkeitseigenschaften: Verdorben +6, Hasserfüllt +6, Rebellisch +6
 
 Reputationen: Feind der Menschheit 4 (Infernal), Fürst der Seraphim 5 (Infernal)
 
-**Hierarchie:** 5
+Hierarchie: 5
 
 Kampf:
 
@@ -3513,11 +3513,11 @@ Absorption: +11
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (22–28)
+Wundabzüge: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (22–28)
 
 Fertigkeiten: Raufen 7 (Klauen), Europakunde 6 (Herrscher), Heiliges-Land-Kunde 8 (Herrscher), Persische Kunde 8 (Herrscher), Russische Kunde 4 (Herrscher), Theologie 6 (Dualismus)
 
-**Kräfte**
+Kräfte
 
 *Des Sturmes Zorn*, 8 Punkte, Init 0, Auram: Diese Kraft beschwört einen gewaltigen Sturm aus bereits vorhandenen Wolken. Der Sturm bedeckt den gesamten sichtbaren Himmel. Er besteht aus Regen, Hagel, mächtigen Winden, Donner und Blitz, alles unter der Kontrolle Naonhaithyas.
 
@@ -3549,7 +3549,7 @@ Eigenschaften: Int +1, Wah +2, Prä +2, Kom 0, Stä +4, Aus +4, Ges +3, Sck +2
 
 Größe: +3
 
-**Selbstvertrauenswert**: 2 (6 Punkte)
+Selbstvertrauenswert: 2 (6 Punkte)
 
 Tugenden und Fehler: Mindere Immunität gegen Ertrinken, Wege des Ozeans
 
@@ -3557,7 +3557,7 @@ Persönlichkeitseigenschaften: Hass auf Juden +6, Stolz +6, Unbändig +5
 
 Reputationen: Fürst des Urmeers 9 (Infernal), Feind der Juden 5 (Infernal)
 
-**Hierarchie:** 9
+Hierarchie: 9
 
 Kampf:
 
@@ -3567,11 +3567,11 @@ Absorption: +13
 
 Erschöpfungsstufen: OK, 0, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–8), –3 (9–16), –5 (17–24), Kampfunfähig (25–32)
+Wundabzüge: –1 (1–8), –3 (9–16), –5 (17–24), Kampfunfähig (25–32)
 
 Fertigkeiten: Raufen 10 (Faust), Ozeankunde 8 (das Rote Meer), Überleben 8 (im Wasser), Schwimmen 10 (Ozeane), Natursinn 9 (Ozeane)
 
-**Kräfte**
+Kräfte
 
 *Herrschaft über die Ozeane*, variable Punkte, Init +3, Aquam: Rahab kann jeden auf Aquam basierenden Effekt erzeugen, zu Kosten von 1 Machtpunkt pro zwei Magnituden. Ritualeffekte kosten ihn doppelt so viel und erfordern eine Stunde der Beschwörung.
 
@@ -3609,7 +3609,7 @@ Persönlichkeitseigenschaften: Jähzornig +4, Selbst-
 
 beherrscht –6 **Reputationen**: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Kampf:
 
@@ -3623,7 +3623,7 @@ Absorption: +1
 
 Erschöpfungsstufen: OK, 0, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**:
+Wundabzüge:
 
 Natürliche Gestalt: –1 (1–3), –3 (4–6), –5 (7–9), Kampfunfähig (10–12)
 
@@ -3631,7 +3631,7 @@ Gesplitterte Gestalt: –1 (1), –3 (2), –5 (3), Kampfunfähig (4)
 
 Fertigkeiten: Aufmerksamkeit 6 (Fehdeführende), Raufen 2 (Klauen), Menschenkenntnis 4 (Klatsch)
 
-**Kräfte**
+Kräfte
 
 *Ein Schwarm von Krähen*, 0 Punkte, Init +5, Animal: In ihrer körperlichen Gestalt kann Sabaoth diese Gestalt in bis zu zwanzig Raben zersplittern. Jeder Vogel trägt einen Teil der Macht des Dämons, und jeder Vogel muss mindestens 1 Machtpunkt besitzen. Jeder Vogel kann unabhängig von den anderen handeln und unbegrenzt weit von ihnen entfernt sein, und doch ist jeder sofort der Handlungen der anderen gewahr. Jeder Rabe hat seinen eigenen Machtvorrat in Höhe seiner Macht; er kann keine seiner Kräfte einsetzen, für die sein Machtvorrat nicht ausreicht. Einzelne Raben können sich, wenn sie aufeinandertreffen, zu einem einzelnen Vogel mit einer Macht gleich der Summe ihrer Machtwerte vereinen, und Sabaoth muss alle lebenden Körper wieder vereinen, bevor sie ihre natürliche körperlose Gestalt wieder annehmen können. Wird ein Rabe getötet, verliert Sabaoth die Infernale Macht, die in diesen Körper investiert war.
 
@@ -3679,7 +3679,7 @@ Eigenschaften: Int –2, Wah +2, Prä +2, Kom 0, Stä +4, Aus +2, Ges +1, Sck +1
 
 Größe: +2
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Begabung in Große Waffe, Zäh; Willensschwach
 
@@ -3687,7 +3687,7 @@ Persönlichkeitseigenschaften: Wütend +3, Sadistisch +3; Friedfertig –5
 
 Reputationen: Keine
 
-**Hierarchie:** 0
+Hierarchie: 0
 
 Kampf:
 
@@ -3701,11 +3701,11 @@ Absorption: +10
 
 Erschöpfungsstufen: OK, 0, 0, –1, –1, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (21–28)
+Wundabzüge: –1 (1–7), –3 (8–14), –5 (15–21), Kampfunfähig (21–28)
 
 Fertigkeiten: Athletik 3 (Sprint), Aufmerksamkeit 3 (Beute), Raufen 5 (Zähne), Große Waffe 5+2 (Prügel), Jagen 4 (Menschen), Überleben 5 (Nahrungssuche), Schwimmen 3 (gegen die Strömung)
 
-**Kräfte**
+Kräfte
 
 *Furcht der Wildnis*, 2 Punkte, Init +1, Mentem: Siehe Mazzikim.
 
@@ -3731,7 +3731,7 @@ Eigenschaften: Int +2, Wah +1, Prä 0, Kom +2, Stä +2, Aus 0, Ges +3, Sck +3
 
 Größe: –1
 
-**Selbstvertrauenswert**: 1 (3 Punkte)
+Selbstvertrauenswert: 1 (3 Punkte)
 
 Tugenden und Fehler: Große Immunität gegen Feuer und Hitze, Besessenheit (Feuer legen)
 
@@ -3739,13 +3739,13 @@ Persönlichkeitseigenschaften: Unbändig +5
 
 Reputationen: Oberster Heizer der Höllenfeuer 5 (Infernal)
 
-**Hierarchie:** 5
+Hierarchie: 5
 
 Klauen: Init +5, Angriff +5, Verteidigung +6, Schaden +3
 
 > Erschöpfungsstufen: OK, 0, –3, –5, Bewusstlos
 
-**Wundabzüge**: –1 (1–4), –3 (5–8), –5 (9–12), Kampfunfähig (13–16)
+Wundabzüge: –1 (1–4), –3 (5–8), –5 (9–12), Kampfunfähig (13–16)
 
 Fertigkeiten: Athletik 3 (Springen), Raufen 1 (Klauen), Handwerk: Schmiedekunst 8 (Kupfer), Handwerk: Waffenschmied 8 (Schwerter), Handwerk: Feinschmied 6 (Silber)
 
@@ -3974,7 +3974,7 @@ Mythische Gefährten besitzen eine besondere Freie Tugend, die beschreibt, was s
 > 
 > - Verzehrung
 > - Diablerie
-> - Erguss
+> - Effusion
 > - Verfluchung
 > - Phantasma
 > - Psychomachie
@@ -4099,7 +4099,7 @@ Manche Infernalisten können korrumpiertes Wissen lehren, was durch diese Tugend
 
 > ## Charaktere mit Machtwert
 > 
-> Charaktere mit einem Machtwert sind streng genommen keine Menschen. Kein Wesen mit einem Machtwert kann Tugenden besitzen, die es einer anderen Sphäre zuordnen, denn es ist vollwertiges Mitglied der übernatürlichen Sphäre, die ihm seinen Machtwert verleiht. Dies umfasst die Gabe, Wahren Glauben, Feenblut, Blut der Nephilim (siehe *Sphären der Macht: Das Göttliche*) und alle Übernatürlichen Tugenden, die aus Quellen einer anderen Sphäre als der ihres Machtwerts schöpfen. Sie dürfen nicht einmal korrumpierte Versionen dieser Tugenden nehmen, wie etwa die Falsche Gabe. Wenn ein Charakter Magieresistenz aus mehr als einer Quelle erhält, werden diese Summen nicht addiert, selbst wenn sie aus derselben Sphäre stammen (Infernale Macht und eine Infernale Kraft zum Beispiel); man verwendet einfach die höhere Summe. Charaktere mit einem Machtwert sind immun gegen jede Verzerrung (siehe Verzerrung und Nichtmenschen, ArM5, Seite 168). Sie können jedoch einen Punkt ihres Machtvorrats ausgeben, um eine Fertigkeit oder Kraft einzusetzen, die normalerweise Verzerrung verursacht (wie Beschwörung oder Selbstvertrauensgewinn durch Sündigen). Wesen mit einem Machtwert sind immun gegen übernatürliche Rückschläge ihrer Sphäre, wie Zwielicht, Hybris, Schmähung und dergleichen, erleiden aber dennoch alle anderen Konsequenzen eines misslungenen oder verpatzten Wurfs beim Einsatz ihrer Kräfte.
+> Charaktere mit einem Machtwert sind streng genommen keine Menschen. Kein Wesen mit einem Machtwert kann Tugenden besitzen, die es einer anderen Sphäre zuordnen, denn es ist vollwertiges Mitglied der übernatürlichen Sphäre, die ihm seinen Machtwert verleiht. Dies umfasst die Gabe, Wahren Glauben, Feenblut, Blut der Nephilim (siehe *Sphären der Macht: Das Göttliche*) und alle Übernatürlichen Tugenden, die aus Quellen einer anderen Sphäre als der ihres Machtwerts schöpfen. Sie dürfen nicht einmal korrumpierte Versionen dieser Tugenden nehmen, wie etwa die Falsche Gabe. Wenn ein Charakter Magieresistenz aus mehr als einer Quelle erhält, werden diese Summen nicht addiert, selbst wenn sie aus derselben Sphäre stammen (Infernale Macht und eine Infernale Kraft zum Beispiel); man verwendet einfach die höhere Summe. Charaktere mit einem Machtwert sind immun gegen jede Verzerrung (siehe Verzerrung und Nichtmenschen, ArM5, Seite 168). Sie können jedoch einen Punkt ihres Machtvorrats ausgeben, um eine Fertigkeit oder Kraft einzusetzen, die normalerweise Verzerrung verursacht (wie Beschwörung oder Selbstvertrauensgewinn durch Sündigen). Wesen mit einem Machtwert sind immun gegen übernatürliche Rückschläge ihrer Sphäre, wie Zwielicht, Hybris, Vituperation und dergleichen, erleiden aber dennoch alle anderen Konsequenzen eines misslungenen oder verpatzten Wurfs beim Einsatz ihrer Kräfte.
 
 #### Zeremonie
 
@@ -4159,11 +4159,11 @@ Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Diablerie be
 
 Diese Tugend hat keine Kosten und kann nur für einen Mythischen Gefährten genommen werden, der seine Seele der Höllensphäre übereignet hat. Einzelheiten finden sich in Kapitel 10: Die Maleficia, Diabolisten.
 
-#### Erguss
+#### Effusion
 
 *Groß, Unheilige Kraft*
 
-Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Erguss bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
+Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Effusion bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
 
 #### Verführer der Massen
 
@@ -4215,7 +4215,7 @@ Hier sind einige häufige Segnungen. Alle bedürfen selbstverständlich der Gene
 
 - **Infernale Fertigkeit** (Ausschweifung, Phantasma, Stufe 20): Der Körper des Charakters wird verändert, um ihm eine unnatürliche Fähigkeit zu verleihen (wie Flügel, eine zusätzliche Gliedmaße, einziehbare Reißzähne oder Augen, die im Dunkeln sehen können), die jedoch im Dominium oder bei Einwirkung eines ungewöhnlichen Umstands wie Salz, fließendem Wasser oder Eisen nicht funktioniert. **·**
 - **Infernales Selbstvertrauen** (Ausschweifung, Psychomachie, Stufe 20): Der Charakter erhält einen zusätzlichen Selbstvertrauenspunkt. **·**
-- **Infernales Artefakt** (Beschwörung, Erguss, Stufe 40): Der Charakter besitzt ein Artefakt, das verzaubert wurde, um einen unheiligen Effekt bis Stufe 15 zu erzeugen. **·**
+- **Infernales Artefakt** (Beschwörung, Effusion, Stufe 40): Der Charakter besitzt ein Artefakt, das verzaubert wurde, um einen unheiligen Effekt bis Stufe 15 zu erzeugen. **·**
 - **Infernale Erhabenheit** (Beschwörung, Diablerie, Stufe 60): Der Charakter erhält die Wirkung einer angemessenen Großen Tugend, wie Große Immunität, Wege des (Landes) oder Wohlhabend. **·**
 - **Infernale Gesundheit** (Beschwörung, Verzehrung, Stufe 40): Der Charakter erhält einen Bonus von +3 auf alle Alterungswürfe auf Kosten eines anderen, der einen Malus von –3 erhält. Stirbt dieses Opfer, hört sein Segen auf zu wirken. **·**
 - **Infernale Mächte** (Beschwörung, Diablerie, Stufe 40): Der Charakter erhält die Wirkung einer angemessenen Kleinen Tugend, wie Affinität zu (Fertigkeit), Verbesserte Eigenschaften, Begabung in (Fertigkeit) oder Selbstbewusst. **·**
@@ -4549,7 +4549,7 @@ Durch dunkle Riten kann der Charakter die Lebensenergie lebender Wesen manipulie
 > - Korrumpierung\*
 > - Ausschweifung\*
 > - Diablerie\*
-> - Erguss\*
+> - Effusion\*
 > - Verhexung\*
 > - Beschwörung\*
 > - Verfluchung\*
@@ -4582,7 +4582,7 @@ Der Charakter kann Kontrolle über Geister, Dämonen und die Höllensphäre aus�
 
 **Spezialisierungen:** Art der betroffenen Wesen, ein bestimmter Effekt, unter bestimmten Umständen (Übernatürlich)
 
-#### Erguss\*
+#### Effusion\*
 
 Der Charakter übt Macht über die physische Welt aus, durch Streit und Bosheit, verändert die Eigenschaften anorganischer Materialien und beherrscht mächtige Naturkräfte (siehe Kapitel 10: Die Maleficia).
 
@@ -4657,7 +4657,7 @@ Durch blasphemische Worte, Phrasen und Gebete ruft der Charakter die Macht des I
 > | Dämonische Kräfte          | Infernal                         | Siehe oben |
 > | Diablerie                  | Infernal                         | Kapitel 10 |
 > | Betörung                   | Infernal                         | ArM5 S. 65, Kapitel 13 |
-> | Erguss                     | Infernal                         | Kapitel 10 |
+> | Effusion                     | Infernal                         | Kapitel 10 |
 > | Falsches Feenblut          | Fee                              | Siehe Falsche Mächte, oben |
 > | Falsche Magie              | Magie                            | Kapitel 12 |
 > | Falsche Macht              | Fee oder Magie                   | Siehe oben |
@@ -4737,7 +4737,7 @@ Jeder Charakter, der mit infernalen oder infernal befleckten Fertigkeiten, Tugen
 
 Infernalisten und Dämonen haben außerdem einen **Hierarchiewert**, der in vielen Formeln verwendet wird, die die Ergebnisse ihrer Kräfte bestimmen. Dieser entspricht einfach dem Wert der höchsten Reputation, die der Charakter besitzt. Er steht dafür, dass der Charakter größere Autorität über Dämonen und infernale Kräfte hat, repräsentiert aber auch eine allgemeine Böswilligkeit und gehässige Absicht seitens des Infernalen, ihn zu Fall zu bringen, sowie größeres Leid, sollte die Hölle jemals Macht über ihn erlangen.
 
-### Schmähung
+### Vituperation
 
 Wenn ein Infernalist zwei oder mehr Verzerrungspunkte auf einmal erhält, oder jedes Mal, wenn er versucht, die Macht des Infernalen zu kanalisieren und die Kontrolle darüber verliert, können sein Geist und sein Körper von infernaler Macht überwältigt werden und ihm großen Schmerz und großes Leid zufügen. Manchmal reicht dies aus, um dauerhaften Schaden zu verursachen und schreckliche Narben zu hinterlassen. Der Charakter muss die folgende Formel anwenden, um festzustellen, ob er negative Auswirkungen erleidet.
 
@@ -4749,11 +4749,11 @@ Ist er erfolgreich, gelingt es dem Infernalisten nach zwei Minuten, die bösarti
 
 Diese körperliche und geistige Folter kann nur wenige Minuten oder viele Jahre dauern, abhängig vom Verzerrungswert des Charakters (verwende die Tabelle für die Dauer des Zwielichts des Magiers, ArM5, Seite 88). Während dieser Zeit kann er zu einem Geist werden oder sogar vollständig verschwinden. Sein Körper könnte an Ort und Stelle verbleiben, völlig still sein oder unaufhörlich vor Qual schreien, oder für die Dauer von einem Dämon besessen werden.
 
-Wenn die Schmähung vorüber ist, kehrt der Charakter zurück und muss einen Alterungswurf ablegen, addiert aber seinen modifizierten Verzerrungswert zu seiner Summe. Langlebigkeitsrituale und andere Effekte, die das Leben des Charakters verlängern, fließen nicht in diese Formel ein, da sie während dieser Zeit übernatürlicher Peinigung nicht wirken. Dauert die Schmähung jedoch ein Quartal oder weniger, darf der Charakter den Modifikator für seine Lebensbedingungen im Vorjahr anwenden (ArM5, Seite 170), da dieser in seine allgemeine Gesundheit einfließt.
+Wenn die Vituperation vorüber ist, kehrt der Charakter zurück und muss einen Alterungswurf ablegen, addiert aber seinen modifizierten Verzerrungswert zu seiner Summe. Langlebigkeitsrituale und andere Effekte, die das Leben des Charakters verlängern, fließen nicht in diese Formel ein, da sie während dieser Zeit übernatürlicher Peinigung nicht wirken. Dauert die Vituperation jedoch ein Quartal oder weniger, darf der Charakter den Modifikator für seine Lebensbedingungen im Vorjahr anwenden (ArM5, Seite 170), da dieser in seine allgemeine Gesundheit einfließt.
 
 **Alterungswurf: Stresswürfel (kein Patzer) + (Alter / 10, aufgerundet) – Lebensbedingungsmodifikator + Verzerrungswert**
 
-Ist diese Prüfung vorüber, kann der Selbstvertrauenswert des Charakters um eins erhöht werden, sofern er unter seinem Verzerrungswert oder seiner Gebrechlichkeit liegt. Dies steht dafür, dass die erschreckende Erfahrung die Entschlossenheit des Charakters stärkt und seine Eigenständigkeit erhöht. Der Charakter erhält außerdem die gleiche Anzahl an Selbstvertrauenspunkten wie an Verzerrungspunkten, allerdings nicht, wenn er den Vermeidungswurf verpatzt hat. Aus diesen Gründen könnte ein Infernalist sich dafür entscheiden, die Schmähung ohne Vermeidungswurf hinzunehmen, um seinen Willen zu stärken.
+Ist diese Prüfung vorüber, kann der Selbstvertrauenswert des Charakters um eins erhöht werden, sofern er unter seinem Verzerrungswert oder seiner Gebrechlichkeit liegt. Dies steht dafür, dass die erschreckende Erfahrung die Entschlossenheit des Charakters stärkt und seine Eigenständigkeit erhöht. Der Charakter erhält außerdem die gleiche Anzahl an Selbstvertrauenspunkten wie an Verzerrungspunkten, allerdings nicht, wenn er den Vermeidungswurf verpatzt hat. Aus diesen Gründen könnte ein Infernalist sich dafür entscheiden, die Vituperation ohne Vermeidungswurf hinzunehmen, um seinen Willen zu stärken.
 
 > ## Die Buße des Teufels
 > 
@@ -4981,9 +4981,9 @@ Die bösen Kräfte, die die meisten Infernalisten praktizieren, werden die **Mal
 
 Wenn ein Charakter ein Maleficium wirken möchte, muss er zunächst seinen beabsichtigten Effekt beschreiben. Dazu gehört die Wahl einer Methode und einer Kraft sowie die Festlegung von Reichweite, Dauer und Ziel des Effekts. Maleficia verwenden dieselben Parameter wie hermetische Magie, mit den Standardwerten Reichweite Persönlich, Dauer Momentan und Ziel Individuum, und diese werden auf dieselbe Weise modifiziert. Ein bestimmter Effekt wird mit den folgenden Leitlinien verglichen, um die Zielstufe zu bestimmen, und der Spieler addiert die Werte seines Charakters und würfelt einen Stresswurf. Ist diese Summe größer oder gleich der Zielstufe, manifestiert sich der Effekt spontan wie beabsichtigt.
 
-Liegt die Summe unter der Zielstufe des Maleficiums -- oder schlimmer, wenn der Charakter patzt -- geschehen sehr schlimme Dinge. Die Hölle richtet bösartig ihre Verwüstung über den möchtegern-Infernalisten an. Behandle einen fehlgeschlagenen Wurf als einen Patzer für je zehn Stufen oder Bruchteil davon, die dem Infernalisten fehlen. Dies ist dem Verpatzen eines hermetischen Zaubers sehr ähnlich, und die Schwere der negativen Auswirkungen variiert je nach Schwere des Patzers. Der Charakter erhält außerdem einen Verzerrungspunkt für jeden Patzer oder je zehn fehlende Stufen, und wenn ein Charakter zwei oder mehr Verzerrungspunkte daraus erhält, muss er auf Schmähung überprüfen (siehe Kapitel 9: Infernale Charaktere: Schmähung).
+Liegt die Summe unter der Zielstufe des Maleficiums -- oder schlimmer, wenn der Charakter patzt -- geschehen sehr schlimme Dinge. Die Hölle richtet bösartig ihre Verwüstung über den möchtegern-Infernalisten an. Behandle einen fehlgeschlagenen Wurf als einen Patzer für je zehn Stufen oder Bruchteil davon, die dem Infernalisten fehlen. Dies ist dem Verpatzen eines hermetischen Zaubers sehr ähnlich, und die Schwere der negativen Auswirkungen variiert je nach Schwere des Patzers. Der Charakter erhält außerdem einen Verzerrungspunkt für jeden Patzer oder je zehn fehlende Stufen, und wenn ein Charakter zwei oder mehr Verzerrungspunkte daraus erhält, muss er auf Vituperation überprüfen (siehe Kapitel 9: Infernale Charaktere: Vituperation).
 
-Charaktere können diese Umstände mit ihrem Hierarchiewert etwas abmildern. Der Infernalist darf seinen (Hierarchiewert x 10) anstelle seiner Maleficium-Summe einsetzen, aber nur um die Konsequenzen eines fehlgeschlagenen Wurfs zu bestimmen. Angenommen beispielsweise, ein Infernalist versucht einen Effekt der Stufe 30, würfelt aber nur eine Summe von 18. Normalerweise würde er 2 Verzerrungspunkte erhalten und müsste auf Schmähung überprüfen, aber hätte er einen Hierarchiewert von 3, wäre er sicher und erlitte keinerlei negative Auswirkungen. Hätte er einen Hierarchiewert von 2, erhielte er nur 1 Verzerrungspunkt und erlitte die Strafen nur eines Patzers.
+Charaktere können diese Umstände mit ihrem Hierarchiewert etwas abmildern. Der Infernalist darf seinen (Hierarchiewert x 10) anstelle seiner Maleficium-Summe einsetzen, aber nur um die Konsequenzen eines fehlgeschlagenen Wurfs zu bestimmen. Angenommen beispielsweise, ein Infernalist versucht einen Effekt der Stufe 30, würfelt aber nur eine Summe von 18. Normalerweise würde er 2 Verzerrungspunkte erhalten und müsste auf Vituperation überprüfen, aber hätte er einen Hierarchiewert von 3, wäre er sicher und erlitte keinerlei negative Auswirkungen. Hätte er einen Hierarchiewert von 2, erhielte er nur 1 Verzerrungspunkt und erlitte die Strafen nur eines Patzers.
 
 Nachdem er alle anderen Strafen für ein Scheitern erduldet hat, hat ein Infernalist, der tatsächlich den Maleficium-Wurf verpatzt hat, ein Quartal Zeit, um eine Seele für die Hölle zu sichern. Das heißt, er muss für den Tod einer Person sorgen, die sich im Zustand der Todsünde befindet, und sicherstellen, dass sie nicht im letzten Moment bereut. Gelingt ihm dies nicht innerhalb eines Quartals, holt sich der Teufel sein Recht -- der Infernalist stirbt stattdessen, sein Herz bleibt stehen, sobald seine Zeit abgelaufen ist. Manche Infernalisten nutzen die Zeit in dieser Situation, um Erlösung zu suchen, in der Hoffnung, durch Gottes Gnade der ewigen Verdammnis zu entgehen, doch nur sehr wenige von ihnen haben damit Erfolg, und die meisten ziehen es vor, weiterzuleben und suchen daher jemand anderen, der ihren Platz einnimmt.
 
@@ -5021,7 +5021,7 @@ Darüber hinaus erlaubt diese Methode ihm, die Länge des Wirkrituals noch weite
 > 
 > Richard von Glastonbury (siehe unten) beabsichtigt, sich selbst einen Infernalen Segen zu verleihen: die Fähigkeit, Gut von Böse zu unterscheiden. Dies wird dadurch dargestellt, dass er die Übernatürliche Fertigkeit Gespür für Heiliges und Unheiliges erhält. Dies ist ein Basis-15-Beschwörung/Diablerie-Effekt, und er wird ihn mit Reichweite Persönlich, Dauer Verstoßen und Ziel Individuum wirken, was ein Maleficium der Stufe 35 ergibt. Beschwörung ist mit Kommunikation verbunden, und Richards Wert beträgt 5. Er wird verdorbene Schriftpassagen rezitieren (Beschwörung 5 + 1 für seine Spezialisierung), um seinen Infernalen Segen zu erbitten (Diablerie 5 + 1 für seine Spezialisierung), innerhalb einer Infernalen Aura der Stärke 5. Er muss einen Selbstvertrauenspunkt ausgeben, um den Effekt zu aktivieren, und kann bei Bedarf bis zu zwei weitere Punkte ausgeben, für einen Bonus von +6. Das ergibt eine Zaubersumme von 22 vor dem Würfeln, und er braucht eine 7 oder besser, um Erfolg zu haben.
 > 
-> Leider würfelt sein Spieler eine 0, ein potenzieller Patzer. Er muss sechs Würfel werfen, einen plus fünf für die Aura, und glücklicherweise zeigt keiner dieser Würfel einen Patzer. Allerdings beträgt seine Zaubersumme immer noch nur 22, was weniger ist als die Zielstufe – 10. Das würde ihn trotzdem die Auswirkungen von zwei Patzern erleiden lassen, was ihm 2 Verzerrungspunkte einbringt und ihn zwingt, auf Schmähung zu überprüfen. Deshalb gibt er einen Selbstvertrauenspunkt aus, um seine Summe auf 25 zu bringen, was gerade ausreicht, um sicherzustellen, dass er nur einen Patzer erleidet. Er erhält einen Verzerrungspunkt und stellt fest, dass er vorübergehend mit dem Bösen befleckt ist, als hätte er den Kleinen Fehler.
+> Leider würfelt sein Spieler eine 0, ein potenzieller Patzer. Er muss sechs Würfel werfen, einen plus fünf für die Aura, und glücklicherweise zeigt keiner dieser Würfel einen Patzer. Allerdings beträgt seine Zaubersumme immer noch nur 22, was weniger ist als die Zielstufe – 10. Das würde ihn trotzdem die Auswirkungen von zwei Patzern erleiden lassen, was ihm 2 Verzerrungspunkte einbringt und ihn zwingt, auf Vituperation zu überprüfen. Deshalb gibt er einen Selbstvertrauenspunkt aus, um seine Summe auf 25 zu bringen, was gerade ausreicht, um sicherzustellen, dass er nur einen Patzer erleidet. Er erhält einen Verzerrungspunkt und stellt fest, dass er vorübergehend mit dem Bösen befleckt ist, als hätte er den Kleinen Fehler.
 
 > ## Mächtige Maleficia
 > 
@@ -5059,7 +5059,7 @@ Es gibt sechs Unheilige Kräfte, von denen jede mit einer Unheiligen Methode kom
 
 Infernale Kräfte können nichts Reales erschaffen, sie können nur verdrehen, verderben und zerstören. Verzehrung ist daher die Fähigkeit, die Lebens- und Gesundheitskraft lebender Wesen anzuzapfen und sie für böse Zwecke einzusetzen. Durch Ausschweifung kann ein Infernalist Fleisch und Blut verwandeln, die Gestalt seines Körpers und Geistes verändern; Beschwörung ermöglicht es ihm, anderen das Leben zu stehlen und sich auf ihre Kosten zu heilen und wiederherzustellen.
 
-Ein Scheitern wirkt sich tendenziell negativ auf den Infernalisten aus, da die Hölle den Körper und Geist verformt. Er könnte in einer minderwertigen Gestalt gefangen sein, entstellt oder verstümmelt, oder er könnte sogar Schmähung erleiden.
+Ein Scheitern wirkt sich tendenziell negativ auf den Infernalisten aus, da die Hölle den Körper und Geist verformt. Er könnte in einer minderwertigen Gestalt gefangen sein, entstellt oder verstümmelt, oder er könnte sogar Vituperation erleiden.
 
 **Die sollen ihre Macht und Stärke dem Untier geben**
 
@@ -5169,7 +5169,7 @@ Dieses Maleficium heilt augenblicklich eine Leichte Wunde eines beliebigen Lebew
 
 > Beschwörung, Verzehrung, Stufe 50 R: Stimme, D: Mom, Z: Ind
 
-Um dieses Maleficium zu wirken, muss der Charakter ein infernales Ritual vollziehen, das ein Gefäß verdirbt -- einen Gegenstand, der infernales Vis enthält und sich innerhalb der Reichweite seiner Stimme befinden muss -- und überträgt seine Seele dauerhaft in das Objekt. Dadurch wird es zu einer festen Arkanen Verbindung zu ihm, und solange es ganz und unbeschädigt bleibt, kann er nicht sterben. Jedes Mal, wenn er eine tödliche Wunde erleiden oder eine Alterskrise nicht überleben würde, erhält er einen Verzerrungspunkt und erfährt stattdessen automatisch Schmähung. Danach kehrt sein Geist in seinen Körper zurück, es sei denn, der Körper wurde vollständig zerstört, in welchem Fall er wahrscheinlich zu einem Geist wird.
+Um dieses Maleficium zu wirken, muss der Charakter ein infernales Ritual vollziehen, das ein Gefäß verdirbt -- einen Gegenstand, der infernales Vis enthält und sich innerhalb der Reichweite seiner Stimme befinden muss -- und überträgt seine Seele dauerhaft in das Objekt. Dadurch wird es zu einer festen Arkanen Verbindung zu ihm, und solange es ganz und unbeschädigt bleibt, kann er nicht sterben. Jedes Mal, wenn er eine tödliche Wunde erleiden oder eine Alterskrise nicht überleben würde, erhält er einen Verzerrungspunkt und erfährt stattdessen automatisch Vituperation. Danach kehrt sein Geist in seinen Körper zurück, es sei denn, der Körper wurde vollständig zerstört, in welchem Fall er wahrscheinlich zu einem Geist wird.
 
 Wenn das Objekt, das seine Seele verbirgt, jemals zerbrochen oder sein Vis verwendet wird, stirbt er sofort.
 
@@ -5265,17 +5265,17 @@ Der Charakter befiehlt einer übernatürlichen Kreatur innerhalb der Reichweite 
 
 (Basis 20, +2 Stimme, +4 Verstoßen)
 
-### Erguss
+### Effusion
 
-Die Höllensphäre soll eine starke Verbindung zur physischen Welt haben, so sehr, dass viele im Mythischen Europa lehren, die Erde sei das Reich des Teufels, während Gott über den Geist und das Jenseits herrsche. Vielleicht hat sich die Unheilige Kraft des Ergusses aus diesen dunklen Assoziationen entwickelt. Oder vielleicht ist Erguss einfach eine Erweiterung der Mächte der Hölle, der quälenden Hitze und eisigen Kälte, die die Verdammten peinigen. Ungeachtet seiner Ursprünge erlaubt diese Kraft den Infernalisten, die Elemente auf unnatürliche Weise zu beeinflussen. Ausschweifung gibt Kontrolle über unsichtbare Kräfte, die wärmeren Elemente Feuer und Luft, während Beschwörung die kalten Formen roher Materie, Wasser und Erde beeinflusst.
+Die Höllensphäre soll eine starke Verbindung zur physischen Welt haben, so sehr, dass viele im Mythischen Europa lehren, die Erde sei das Reich des Teufels, während Gott über den Geist und das Jenseits herrsche. Vielleicht hat sich die Unheilige Kraft des Effusiones aus diesen dunklen Assoziationen entwickelt. Oder vielleicht ist Effusion einfach eine Erweiterung der Mächte der Hölle, der quälenden Hitze und eisigen Kälte, die die Verdammten peinigen. Ungeachtet seiner Ursprünge erlaubt diese Kraft den Infernalisten, die Elemente auf unnatürliche Weise zu beeinflussen. Ausschweifung gibt Kontrolle über unsichtbare Kräfte, die wärmeren Elemente Feuer und Luft, während Beschwörung die kalten Formen roher Materie, Wasser und Erde beeinflusst.
 
-Erguss kann nichts Lebendiges erzeugen; er zielt auf Grundmaterialien oder unkörperliche Kräfte ab, aber nichts anderes -- obwohl diese Kräfte und Materialien ihrerseits lebende Dinge beeinflussen können. Tatsächlich kann Erguss auch nichts erschaffen; er kann ein Feuer anfachen oder ein Ziel so sehr erhitzen, dass es sich spontan entzündet, aber er erzeugt keine Flammen aus dem Nichts. Er kann einen Gegenstand in die Hand des Infernalisten rufen, aber dieser Gegenstand muss bereits in der Welt existieren. Infernalisten könnten diese Kräfte nutzen, um Winde zu erzeugen oder Wolken zusammenzuziehen, aber dies geschieht einfach durch die Kontrolle der Luft, die überall um sie herum ist, und sie können tatsächlich keine Luft erschaffen.
+Effusion kann nichts Lebendiges erzeugen; er zielt auf Grundmaterialien oder unkörperliche Kräfte ab, aber nichts anderes -- obwohl diese Kräfte und Materialien ihrerseits lebende Dinge beeinflussen können. Tatsächlich kann Effusion auch nichts erschaffen; er kann ein Feuer anfachen oder ein Ziel so sehr erhitzen, dass es sich spontan entzündet, aber er erzeugt keine Flammen aus dem Nichts. Er kann einen Gegenstand in die Hand des Infernalisten rufen, aber dieser Gegenstand muss bereits in der Welt existieren. Infernalisten könnten diese Kräfte nutzen, um Winde zu erzeugen oder Wolken zusammenzuziehen, aber dies geschieht einfach durch die Kontrolle der Luft, die überall um sie herum ist, und sie können tatsächlich keine Luft erschaffen.
 
-Scheitern bei Erguss bedeutet üblicherweise den Verlust der Kontrolle über die Elemente, wodurch sich diese chaotisch verhalten, mit ungewollten Effekten, die dem Zauberer schaden oder auf bösartige Weise die Besitztümer des Infernalisten zerstören.
+Scheitern bei Effusion bedeutet üblicherweise den Verlust der Kontrolle über die Elemente, wodurch sich diese chaotisch verhalten, mit ungewollten Effekten, die dem Zauberer schaden oder auf bösartige Weise die Besitztümer des Infernalisten zerstören.
 
 **Den bereiteten Stein, die Gabe zu verleihen / Mit übelster Kunst ihn zu weihen**
 
-Beschwörung/Erguss, Allgemein
+Beschwörung/Effusion, Allgemein
 
 R: Berührung, D: Jahr, Z: Ind
 
@@ -5287,17 +5287,17 @@ Dieses Maleficium kann mehrfach durchgeführt werden, sodass der Charakter ein Z
 
 **Finsternis hat Macht über alle Dinge überall / Wetter und Wind und alle veränderlichen Bahnen**
 
-> Ausschweifung/Erguss, Stufe 20 R: Sicht, D: Konz, Z: Ind
+> Ausschweifung/Effusion, Stufe 20 R: Sicht, D: Konz, Z: Ind
 
 Dieser Effekt sammelt heftige Winde, die stark genug sind, um eine Person durch die Luft zu heben und mit hoher Geschwindigkeit durch den Himmel zu tragen. Der Charakter muss sich auf diese Winde konzentrieren, um sie zu kontrollieren, und kann dies nicht tun, wenn sie aus seiner Sicht fliegen. Die meisten Infernalisten wirken diesen Effekt auf sich selbst und fliegen durch die Nacht, um ihre bösen Zusammenkünfte zu erreichen, obwohl es heißt, dass sie den Namen Christi nicht aussprechen dürfen, während sie in der Luft sind, oder sie werden ihren Halt verlieren und sofort zu Boden stürzen.
 
 (Basis 4: +3 Sicht, +1 Konz)
 
-> ## Leitlinien für Erguss
+> ## Leitlinien für Effusion
 > 
 > Unnatürliche Effekte, wie Phänomene, die in einer Form außerhalb ihres natürlichen Kontextes herbeigerufen werden, fügen dem Stufenwert üblicherweise zwei zusätzliche Magnituden hinzu.
 > 
-> ### Ausschweifung/Erguss
+> ### Ausschweifung/Effusion
 > 
 > **Allgemein:** Erweiche ein Objekt und gib ihm einen Abzug auf Schaden oder Schutz in Höhe der Magnitude des Effekts.
 > 
@@ -5327,7 +5327,7 @@ Dieser Effekt sammelt heftige Winde, die stark genug sind, um eine Person durch 
 > 
 > **Stufe 15:** Schütze ein Ziel gegen alle Formen natürlicher Phänomene (Feuer, Wind, Regen, Blitz).
 > 
-> ### Beschwörung/Erguss
+> ### Beschwörung/Effusion
 > 
 > **Allgemein:** Härte ein Objekt und gib ihm einen Bonus auf Schaden oder Schutz in Höhe der Magnitude des Effekts.
 > 
@@ -5373,7 +5373,7 @@ Dieser Effekt sammelt heftige Winde, die stark genug sind, um eine Person durch 
 
 **Rollt, ihr Wolken, und Donner, schrei / Und schlag mit Flammen vom leeren Himmel herbei**
 
-Ausschweifung/Erguss, Stufe 25
+Ausschweifung/Effusion, Stufe 25
 
 Der Charakter beschwört ein mächtiges Gewitter aus heiterem Himmel, mit orkanartigen Winden und Blitzschlägen. Es dauert nur wenige Minuten, sich zusammenzuziehen, während sie sich konzentriert. Sie hat keine Kontrolle über das Gewitter, doch wenn sie aufhört sich zu konzentrieren, beginnt es sich aufzulösen, und wenige Minuten später zeigt das Wetter kein Anzeichen mehr, dass es jemals ein Gewitter gegeben hat.
 
@@ -5381,7 +5381,7 @@ Der Charakter beschwört ein mächtiges Gewitter aus heiterem Himmel, mit orkana
 
 **Ich beschwöre dies, durch finsteren Erlass / In dessen Gleichnis, das mir gleicht**
 
-Beschwörung/Erguss, Stufe 25 R: ArkV, D: Mom, Z: Ind
+Beschwörung/Effusion, Stufe 25 R: ArkV, D: Mom, Z: Ind
 
 Der Charakter streckt seine Hand aus und ruft jeden Gegenstand herbei, den er sehen kann oder zu dem er eine Arkane Verbindung hat. Der Gegenstand erscheint augenblicklich in seinem Griff, sodass er, wenn es eine Waffe oder ein Werkzeug ist, ihn sofort einsetzen kann.
 
@@ -5648,7 +5648,7 @@ Dies lässt ihm zehn Fehlerpunkte zum Ausgeben, die bis zu 20 weitere Tugendpunk
 > **Stufe 10:** Erhöhe oder verringere eine Persönlichkeitseigenschaft eines Charakters um eine Stufe, bis zu einem Maximum von +5 oder –5.
 > 
 > - Gib einem Ziel eine vorübergehende Persönlichkeitseigenschaft auf +2.
-> - Gib einem Ziel 2 Verzerrungspunkte, was möglicherweise Schmähung oder Zwielicht auslöst.
+> - Gib einem Ziel 2 Verzerrungspunkte, was möglicherweise Vituperation oder Zwielicht auslöst.
 > - **•** Treibe ein Ziel für die Dauer des Effekts in den Wahnsinn.
 > 
 > **Stufe 15:** Erhöhe oder verringere eine Persönlichkeitseigenschaft eines Charakters um eine Stufe, bis zu einem Maximum von +6 oder –6.
@@ -5779,7 +5779,7 @@ Wenn die Herbeirufungs- oder Geisternetzsumme nicht das Doppelte des Machtwerts 
 
 Solange der Geist im Kreis verbleibt, kann er weder den Hexer noch irgendetwas anderes außerhalb des Umfangs mit seinen Kräften beeinflussen. Oft wartet ein erzürnter Geist unsichtbar in einem hastig gezogenen Ring, bis dieser erodiert oder genug Staub ansammelt, um die Linie zu durchbrechen, und rächt sich dann an dem Hexer oder jedem anderen in der Nähe, sobald er befreit ist. Der Hexer kann seine Schutzgrenze auch kurzzeitig durch Konzentration senken, um einen Effekt hindurchzulassen, ähnlich wie ein Magus einen Effekt durch seine Parma Magica lassen kann.
 
-Ein Patzer beim Herbeirufungswurf könnte einen anderen Geist herbeirufen als den beabsichtigten, oder einen Dämon, der sich als sein Ziel ausgibt. Es könnte auch bedeuten, dass der Kreis oder das Herbeirufungsritual fehlerhaft ist, sodass der Geist zwar herbeigerufen wird, aber nichts ihn am Angriff hindert. Oder die Herbeirufung könnte dem Hexer einfach Verzerrungspunkte einbringen und vielleicht eine Überprüfung auf Schmähung erzwingen.
+Ein Patzer beim Herbeirufungswurf könnte einen anderen Geist herbeirufen als den beabsichtigten, oder einen Dämon, der sich als sein Ziel ausgibt. Es könnte auch bedeuten, dass der Kreis oder das Herbeirufungsritual fehlerhaft ist, sodass der Geist zwar herbeigerufen wird, aber nichts ihn am Angriff hindert. Oder die Herbeirufung könnte dem Hexer einfach Verzerrungspunkte einbringen und vielleicht eine Überprüfung auf Vituperation erzwingen.
 
 **Herbeirufungs- oder Geisternetz-Zielstufe: Machtwert des Geistes x 2**
 
@@ -5803,7 +5803,7 @@ Der wissentliche Umgang mit Dämonen ist ein äußerst gefährliches Unterfangen
 
 Manche gewieften Dämonen sind subtiler. Sie könnten einwilligen, einem Hexer für einen relativ geringen Preis zu helfen, um ihn zu verderben, ihn glauben zu machen, dass Dämonen „gar nicht so schlimm sind", oder um die Illusion aufrechtzuerhalten, einer anderen Sphäre anzugehören. Natürlich birgt das Bösetun seine eigene Strafe, denn allein die Tatsache, sich von einer infernalen Kraft beeinflussen zu lassen, befleckt die Seele des Charakters — selbst wenn er nicht wusste, dass er es mit einem Dämon zu tun hatte —, und kein Handel ist schlecht für den Dämon, wenn der Charakter am Ende als Sünder dasteht. Sobald er eine Beziehung zum Hexer aufgebaut und ihn von seiner Hilfe abhängig gemacht hat, ist es viel einfacher, den Druck zu erhöhen und ihn in umfassende Verdorbenheit und Verderbtheit zu führen.
 
-Während der Abtragung muss der Hexer mächtige Kräfte ertragen, die in seinen Körper gezogen werden, und das Wissen über die übernatürliche Sphäre des Geistes verbessert seine Fähigkeit, sich an sie anzupassen. Wenn du den Stresswurf verpatzt, erleidet der Charakter mit ziemlicher Sicherheit Schmähung.
+Während der Abtragung muss der Hexer mächtige Kräfte ertragen, die in seinen Körper gezogen werden, und das Wissen über die übernatürliche Sphäre des Geistes verbessert seine Fähigkeit, sich an sie anzupassen. Wenn du den Stresswurf verpatzt, erleidet der Charakter mit ziemlicher Sicherheit Vituperation.
 
 **Abtragungssumme: Stresswurf + Ausdauer + Abtragung + (Sphären-)Kunde + Aura + (Penetration x Penetrationsmultiplikator)**
 
@@ -5820,7 +5820,7 @@ Diese Abtragungspunkte können für einen der folgenden Effekte ausgegeben werde
 - **Selbstvertrauen:** Der Hexer erhält diese Menge an Selbstvertrauenspunkten, allerdings nicht mehr als seinen (Selbstvertrauenswert x 5). Du kannst diese Abtragungspunkte auch für seinen Selbstvertrauenswert wie Erfahrungspunkte ausgeben und ihn steigern, als wäre er eine Fertigkeit. **•**
 - **Eignung:** Du kannst Abtragungspunkte für passende Eigenschaften ausgeben, genau wie die Punkte, die während der Charaktererschaffung oder durch die Tugend Verbesserte Eigenschaften erhalten werden. Diese können seine Werte nicht über die Werte des Geistes hinaus erhöhen. **•**
 - **Gesundheit:** Der Hexer kann sofort seine Verletzungen heilen: 5 Punkte heilen eine Schwere Wunde, 3 Punkte heilen eine Mittelschwere Wunde und 1 Punkt heilt eine Leichte Wunde. Ein Punkt kann auch sofort eine langfristige Erschöpfungsstufe wiederherstellen. **•**
-- **Unsterblichkeit:** Addiere diesen Betrag als Langlebigkeitsbonus zu den Alterungswürfen des Hexers (allerdings nicht zu jenen, die mit Schmähung verbunden sind). Dieser Bonus ist nicht kumulativ und hält nur an, bis er eine Alterungskrise erleidet. **•**
+- **Unsterblichkeit:** Addiere diesen Betrag als Langlebigkeitsbonus zu den Alterungswürfen des Hexers (allerdings nicht zu jenen, die mit Vituperation verbunden sind). Dieser Bonus ist nicht kumulativ und hält nur an, bis er eine Alterungskrise erleidet. **•**
 - **Einblick:** Der Hexer empfängt einen Teil der Gedanken und Erinnerungen des Geistes, was Einblick in seine Pläne, seinen Hintergrund und seine Absichten gewährt. Je mehr Macht ihm entzogen wird, desto mehr weiß der Charakter. **•**
 - **Wissen:** Der Hexer erhält fünfmal so viele Erfahrungspunkte in einer passenden Kunst oder Fertigkeit, obwohl dies die eigenen Werte des Geistes nicht überschreiten kann. Dies ersetzt jedes andere Studium, dem der Charakter im betreffenden Quartal nachgeht, da das neue Wissen ihn von anderen Vorhaben ablenkt.
 - **Macht:** Der Hexer erhält diese Menge an Punkten Infernaler Macht (selbst wenn der Geist tatsächlich einer anderen Sphäre zugeordnet ist), obwohl dieser Betrag weder den früheren Machtwert des Geistes noch deinen (Selbstvertrauenswert x 5) überschreiten kann. Manche Charaktere können dies nicht tun; siehe Kapitel 9: Infernale Charaktere, Charaktere mit Machtwert für Einschränkungen, welche Art von Charakteren Infernale Macht besitzen kann. 
@@ -5853,9 +5853,9 @@ Wenn ein Geist an eine Person gebunden ist, kann diese Person lernen, im Laufe d
 
 Darüber hinaus kann ein Charakter mit einem an ihn gebundenen Geist lernen, die Kräfte und Machtpunkte des Geistes zu nutzen. Jede Kraft wird wie eine Übernatürliche Fertigkeit erlernt, obwohl es keinen Lernabzug für das Besitzen anderer Kräfte gibt. Sobald die Kraft erworben ist, kann der Charakter Erfahrungspunkte dafür ausgeben und seinen Wert darin wie eine Fertigkeit steigern. Wenn der Charakter einen Wert in der Kraft erreicht hat, der der Anzahl der zu ihrer Aktivierung nötigen Machtpunkte entspricht, kann er sie nutzen, als wäre er der Geist, und die Machtpunkte des Geistes ausgeben, als wären es seine eigenen.
 
-Außer wenn er Schmähung erleidet, muss ein Charakter mit einem an ihn gebundenen Geist keine Alterungswürfe ablegen, da sein Leben durch die Macht des Geistes verlängert wird. Er erhält jedoch jedes Jahr einen Verzerrungspunkt, weil er unter einem dauerhaften übernatürlichen Effekt steht. Außerdem erhält ein Infernalist, der einen Dämon an sich bindet, gewöhnlich eine Infernale Reputation mit einem Rang gleich dem Hierarchiewert des gebundenen Dämons. Schließlich muss die Person die Persönlichkeitseigenschaften des Geistes behandeln, als wären es ihre eigenen, und ertappt sich oft dabei, auf die Vorschläge des Geistes zu reagieren.
+Außer wenn er Vituperation erleidet, muss ein Charakter mit einem an ihn gebundenen Geist keine Alterungswürfe ablegen, da sein Leben durch die Macht des Geistes verlängert wird. Er erhält jedoch jedes Jahr einen Verzerrungspunkt, weil er unter einem dauerhaften übernatürlichen Effekt steht. Außerdem erhält ein Infernalist, der einen Dämon an sich bindet, gewöhnlich eine Infernale Reputation mit einem Rang gleich dem Hierarchiewert des gebundenen Dämons. Schließlich muss die Person die Persönlichkeitseigenschaften des Geistes behandeln, als wären es ihre eigenen, und ertappt sich oft dabei, auf die Vorschläge des Geistes zu reagieren.
 
-Wenn die Person oder der Gegenstand, an den ein Geist gebunden ist, zerstört wird, wird der Geist freigelassen. Bei einem Gegenstand genügt es üblicherweise, ihn in Stücke zu zerbrechen, obwohl es sicherer ist, ihn zu Staub zu zermalmen. Tiere und Menschen müssen gründlicher zerstört werden, üblicherweise durch Einäscherung, denn ein besitzender Geist kann einen Körper übernehmen, wenn sein ursprünglicher Geist ihn aus irgendeinem Grund verlässt, einschließlich Bewusstlosigkeit, Schmähung und Tod.
+Wenn die Person oder der Gegenstand, an den ein Geist gebunden ist, zerstört wird, wird der Geist freigelassen. Bei einem Gegenstand genügt es üblicherweise, ihn in Stücke zu zerbrechen, obwohl es sicherer ist, ihn zu Staub zu zermalmen. Tiere und Menschen müssen gründlicher zerstört werden, üblicherweise durch Einäscherung, denn ein besitzender Geist kann einen Körper übernehmen, wenn sein ursprünglicher Geist ihn aus irgendeinem Grund verlässt, einschließlich Bewusstlosigkeit, Vituperation und Tod.
 
 Nur sehr wenige Geister stimmen einer Bindung zu; jene, die es tun, erwarten gewöhnlich etwas von großem Wert im Gegenzug für ihr Opfer. Geister, die lange Zeit gebunden waren, sind bei ihrer Befreiung oft sehr übellaunig und desorientiert und greifen ihre Befreier ebenso wahrscheinlich an, wie ihnen zu danken.
 
@@ -6212,7 +6212,7 @@ Diese Fähigkeit befleckt den Zauber durch die Verbindung mit den Goetischen Kü
 
 Das Infernale besitzt die Fähigkeit, die Kräfte anderer Sphären zu korrumpieren und nachzuahmen, und eine der heimtückischsten Anwendungen betrifft Charaktere, die eine Version der Gabe besitzen, die nicht der anderer Charaktere gleicht, sondern vielmehr durch Infernale Kräfte gründlich korrumpiert wurde. Diese „Falsche Gabe" umfasst alle Vorteile und Nachteile der magischen Version: Der Charakter leidet unter Misstrauen, Argwohn und Neid der gewöhnlichen Bevölkerung, und obwohl er magische Übernatürliche Fertigkeiten erlernen kann, sind diese aufgrund seiner Verbindung mit der Höllensphäre in Wirklichkeit Falsche Mächte, die Göttlichen oder Infernalen Kräften der Untersuchung stets als unheilig erscheinen.
 
-Wenn er Verzerrung ausgesetzt wird, muss ein Charakter mit der Falschen Gabe statt des Zwielichts eine Schmähung erleiden. Sollte der Charakter je die Natur seiner Gabe beichten und geistliche Absolution annehmen, sodass seine Seele von der Sünde gereinigt und die Infernalen Einflüsse, die sein Wesen korrumpiert haben, ausgetrieben werden, verliert er die Gabe vollständig. Dies hindert ihn auch daran, Übernatürliche Fertigkeiten einzusetzen, die er mit der Gabe erlernt hat, einschließlich der Hermetischen Künste.
+Wenn er Verzerrung ausgesetzt wird, muss ein Charakter mit der Falschen Gabe statt des Zwielichts eine Vituperation erleiden. Sollte der Charakter je die Natur seiner Gabe beichten und geistliche Absolution annehmen, sodass seine Seele von der Sünde gereinigt und die Infernalen Einflüsse, die sein Wesen korrumpiert haben, ausgetrieben werden, verliert er die Gabe vollständig. Dies hindert ihn auch daran, Übernatürliche Fertigkeiten einzusetzen, die er mit der Gabe erlernt hat, einschließlich der Hermetischen Künste.
 
 Falsche Magie ist etwas Tragisches, denn sobald der Charakter die infernale Natur seiner Kräfte erkennt, mag er zu dem Schluss kommen, dass ihre Verwendung aus jedem Grund eine Form des Infernalismus darstellt. Doch nur wenige Menschen würden sich entscheiden, ihre Kräfte aufzugeben, wenn sie in eine ähnliche Lage versetzt würden, und vielleicht kann der Charakter den Makel seiner Sünden als eine Art unangenehmen Nebeneffekt seiner Gabe rechtfertigen: durch die Verbindung mit der Höllensphäre verdammt, aber nicht tatsächlich böse. Dies ist eine faszinierende und tragische Reise im Rollenspiel, da der Charakter langsam akzeptieren muss, dass das, was ihn im Mythischen Europa als Person fast vollständig definiert, eine Lüge ist.
 
@@ -6376,7 +6376,7 @@ Im Jahr 1220 sind die Luziferaner am stärksten innerhalb der Christlichen Kirch
 
 ### Infernale Tradition: Strigae
 
-**Bevorzugte Fertigkeiten:** Ausschweifung, Erguss, Phantasma, Zeremonie
+**Bevorzugte Fertigkeiten:** Ausschweifung, Effusion, Phantasma, Zeremonie
 
 Seit den frühesten Zeiten haben viele Dämonen es als lohnenswert erachtet, bestehende Kulte zu vereinnahmen, die einst eine heidnische Gottheit anbeteten. Als viele dieser alten Götter ihre Macht nach und nach aus der Welt zurückzogen, während das Dominium auf das Gebiet vordrang, sahen manche Dämonen in dieser schwindenden Macht ein Mittel zur Seelenverderbnnis und nahmen den Platz des Gottes ein, wobei sie die Anbetung durch offenkundige Machtdemonstrationen erneuerten, um seine Anhänger zu verführen. Im Laufe der Zeit veränderte der Dämon den Kult durch schrittweise Manipulation von Schlüsselfiguren, bis er eine vollwertige Schar ergebener Anbeter hatte. Es ist eine List, die viel Zeit und Feingefühl erfordert, und gewöhnlich werden zumindest einige hochrangige Mitglieder der wahren Macht ihrer Tradition gewahr und fügen sich ihr, weil Dämonen nicht für ihre Geduld oder Zurückhaltung bekannt sind (siehe Kapitel 4: Die infernalen Legionen, Dämonen in der Saga).
 
@@ -6494,7 +6494,7 @@ Jene, die der Tradition der Dunklen Gnostiker folgen, setzen ihre Maleficia oft 
 
 ### Infernale Tradition: Die Schreckliche Schar
 
-**Bevorzugte Fertigkeiten:** Bindung, Erguss, Beschwörung, Herbeirufung
+**Bevorzugte Fertigkeiten:** Bindung, Effusion, Beschwörung, Herbeirufung
 
 Viele bäuerliche Volkssagen beschreiben, wie die Toten wieder unter den Lebenden wandeln, im Dienst ihrer Infernalen Herren oder um größere Sünden zu begehen als jene, die sie zu Lebzeiten verübten. Diese Erzählungen könnten von den Taten dieser Tradition stammen, deren Mitglieder glauben, dass ihr Status in der Hölle zu Lebzeiten sich auf ihren Status in der Hölle nach dem Tod überträgt. Das heißt, sie bilden sich ein, dass sie nach ihrem Tod zu Infernalen Geistern werden können, im Wesentlichen zu Dämonen in der Hierarchie der Hölle, und sie unternehmen Schritte, um dies sicherzustellen. Typischerweise beinhaltet dies, Dämonen als ihre Diener zu binden, manchmal sie sogar an ihre eigenen Körper zu binden.
 

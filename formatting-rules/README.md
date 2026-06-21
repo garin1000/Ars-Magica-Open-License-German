@@ -24,10 +24,6 @@ Thematisch gegliederte Formatierungsregeln für die deutsche Ausgabe von Ars Mag
 
 Feldbezeichnungen werden **nicht fett** gesetzt — schlicht als Label mit Doppelpunkt (`Eigenschaften:`, `Kampf:` usw.). Jedes Feld beginnt in einer neuen Zeile; zwischen Feldern steht eine Leerzeile.
 
-### Reputationen vs. Rufe
-
-Das Feld heißt einheitlich `Reputationen:` für alle Charaktertypen. Die in `ArsMagica_DE_Gesamt.md` bei Kreaturen verwendete Variante `Rufe:` wird in der deutschen Ausgabe **nicht** übernommen.
-
 ### Kraftheader-Format
 
 Kraftnamen werden kursiv mit Sternchen gesetzt (`*Kraftname*`). Nach dem Kraft-Header steht ein `<br>` vor dem Beschreibungstext — kein einfacher Zeilenumbruch.
@@ -36,7 +32,7 @@ Kraftnamen werden kursiv mit Sternchen gesetzt (`*Kraftname*`). Nach dem Kraft-H
 
 | Charaktertyp | Letzte Stufe |
 |---|---|
-| Sterbliche | `Lähmend` |
+| Sterbliche | `Kampfunfähig` |
 | Kreaturen | `Kampfunfähig` + `Tot` |
 | Vertriebene Wesen | `Verbannt` |
 
