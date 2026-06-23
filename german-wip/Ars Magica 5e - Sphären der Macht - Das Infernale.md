@@ -45,141 +45,141 @@ Copyright 2006 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 
 **Digitale Ausgabe Version 1.0**
 
-# Inhaltsverzeichnis
+# [Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-## Einleitung
-- Mythisches Böses
-- Was ist dieses Buch?
-- Dieses Buch verwenden
-- &emsp;Subtile Korrumpierungen
-- &emsp;Im Dunkeln
-- &emsp;Ein letzter Hinweis
+## [Einleitung](#einleitung-1)
+- [Mythisches Böses](#mythisches-böses)
+- [Was ist dieses Buch?](#was-ist-dieses-buch)
+- [Dieses Buch verwenden](#dieses-buch-verwenden)
+- &emsp;[Subtile Korrumpierungen](#subtile-korrumpierungen)
+- &emsp;[Im Dunkeln](#im-dunkeln)
+- &emsp;[Ein letzter Hinweis](#ein-letzter-hinweis)
 
-## Kapitel 1: Die Höllensphäre
-- Der Ursprung des Bösen
-- &emsp;Die Quelle allen Übels
-- &emsp;Der Ort der Bestrafung
-- &emsp;Die Höllensphäre und die Hölle
-- Infernale Auren
-- &emsp;Infernale Auren im Spiel
-- &emsp;Angelaufene Auren
-- &emsp;Korrumpierte Auren
-- Infernale Regiones
-- Infernale Verzerrung
-- &emsp;Ursachen infernaler Verzerrung
-- Infernales Vis
+## [Kapitel 1: Die Höllensphäre](#kapitel-1-die-höllensphäre-1)
+- [Der Ursprung des Bösen](#der-ursprung-des-bösen)
+- &emsp;[Die Quelle allen Übels](#die-quelle-allen-übels)
+- &emsp;[Der Ort der Bestrafung](#der-ort-der-bestrafung)
+- &emsp;[Die Höllensphäre und die Hölle](#die-höllensphäre-und-die-hölle)
+- [Infernale Auren](#infernale-auren-1)
+- &emsp;[Infernale Auren im Spiel](#infernale-auren-im-spiel)
+- &emsp;[Angelaufene Auren](#angelaufene-auren)
+- &emsp;[Korrumpierte Auren](#korrumpierte-auren)
+- [Infernale Regiones](#infernale-regiones)
+- [Infernale Verzerrung](#infernale-verzerrung)
+- &emsp;[Ursachen infernaler Verzerrung](#ursachen-infernaler-verzerrung)
+- [Infernales Vis](#infernales-vis)
 
-## Kapitel 2: Sünde und Versuchung
-- Was ist Sünde?
-- &emsp;Arten der Sünde
-- Sündhafte Eigenschaften
-- &emsp;Erlösung
-- Infernaler Einfluss
-- &emsp;Makel
-- &emsp;Selbstvertrauen durch Sünde gewinnen
+## [Kapitel 2: Sünde und Versuchung](#kapitel-2-sünde-und-versuchung-1)
+- [Was ist Sünde?](#was-ist-sünde)
+- &emsp;[Arten der Sünde](#arten-der-sünde)
+- [Sündhafte Eigenschaften](#sündhafte-eigenschaften)
+- &emsp;[Erlösung](#erlösung)
+- [Infernaler Einfluss](#infernaler-einfluss)
+- &emsp;[Makel](#makel)
+- &emsp;[Selbstvertrauen durch Sünde gewinnen](#selbstvertrauen-durch-sünde-gewinnen)
 
-## Kapitel 3: Der Teufel und der Ursprung der Dämonen
-- Der jüdische Teufel
-- Der christliche Teufel
-- Der islamische Teufel
-- Der Fall der Engel
+## [Kapitel 3: Der Teufel und der Ursprung der Dämonen](#kapitel-3-der-teufel-und-der-ursprung-der-dämonen-1)
+- [Der jüdische Teufel](#der-jüdische-teufel)
+- [Der christliche Teufel](#der-christliche-teufel)
+- [Der islamische Teufel](#der-islamische-teufel)
+- [Der Fall der Engel](#der-fall-der-engel)
 
-## Kapitel 4: Die infernalen Legionen
-- Was sind Dämonen?
-- &emsp;Die geistige Gestalt eines Dämons
-- &emsp;Die körperliche Gestalt eines Dämons
-- &emsp;Dämonische Eigenschaften
-- &emsp;Wahre Namen
-- Die infernale Hierarchie
-- &emsp;Falsche Götter
-- &emsp;Geister des Betrugs
-- &emsp;Gefäße der Bosheit
-- &emsp;Rächer des Bösen
-- &emsp;Verführer
-- &emsp;Luftmächte
-- &emsp;Furien
-- &emsp;Ankläger
-- &emsp;Versucher und böse Geister
-- Dämonen in der Saga einsetzen
-- &emsp;Ein Leben ohne Tugend
-- &emsp;Menschliche Unterstützung
-- &emsp;Die Rolle der Dämonen
-- Ein Verzeichnis der Dämonen
+## [Kapitel 4: Die infernalen Legionen](#kapitel-4-die-infernalen-legionen)
+- [Was sind Dämonen?](#was-sind-dämonen)
+- &emsp;[Die geistige Gestalt eines Dämons](#die-geistige-gestalt-eines-dämons)
+- &emsp;[Die körperliche Gestalt eines Dämons](#die-körperliche-gestalt-eines-dämons)
+- &emsp;[Dämonische Eigenschaften](#dämonische-eigenschaften-1)
+- &emsp;[Wahre Namen](#wahre-namen)
+- [Die infernale Hierarchie](#die-infernale-hierarchie)
+- &emsp;[Falsche Götter](#falsche-götter-1)
+- &emsp;[Geister des Betrugs](#geister-des-betrugs-1)
+- &emsp;[Gefäße der Bosheit](#gefäße-der-bosheit-1)
+- &emsp;[Rächer des Bösen](#rächer-des-bösen-1)
+- &emsp;[Verführer](#verführer-1)
+- &emsp;[Luftmächte](#luftmächte-1)
+- &emsp;[Furien](#furien-1)
+- &emsp;[Ankläger](#ankläger-1)
+- &emsp;[Versucher und böse Geister](#versucher-und-böse-geister-1)
+- [Dämonen in der Saga verwenden](#dämonen-in-der-saga-verwenden)
+- &emsp;[Ein Leben ohne Tugend](#ein-leben-ohne-tugend)
+- &emsp;[Menschliche Unterstützung](#menschliche-unterstützung)
+- &emsp;[Die Rolle der Dämonen](#die-rolle-der-dämonen)
+- [Ein Verzeichnis der Dämonen](#ein-verzeichnis-der-dämonen)
 
-## Kapitel 5: Dämonen als Korrumpierer
+## [Kapitel 5: Dämonen als Korrumpierer](#kapitel-5-dämonen-als-korrumpierer)
 
-## Kapitel 6: Dämonen als Betrüger
+## [Kapitel 6: Dämonen als Betrüger](#kapitel-6-dämonen-als-betrüger-1)
 
-## Kapitel 7: Dämonen als Zerstörer
+## [Kapitel 7: Dämonen als Zerstörer](#kapitel-7-dämonen-als-zerstörer)
 
-## Kapitel 8: Korrumpierte Bestien
+## [Kapitel 8: Korrumpierte Bestien](#kapitel-8-korrumpierte-bestien)
 
-## Kapitel 9: Infernale Charaktere
-- Falsche Mächte
-- Mythische Gefährten
-- Befleckte Tugenden und Fehler
-- &emsp;Neue Tugenden
-- &emsp;Neue Fehler
-- Neue Fertigkeiten
-- Sphärenzuordnungen
-- Infernalisten
-- &emsp;Hierarchie
-- &emsp;Vituperation
-- &emsp;Opferung
-- &emsp;Entweihung des Heiligen
-- Befleckte Charaktere
-- &emsp;Ursprünge befleckter Kinder
-- &emsp;Dämonische Verwendung befleckter Charaktere
-- &emsp;Unvermeidlich fehlerbehaftet
-- &emsp;Bauern und Marionetten
-- Beispiele befleckter Charaktere
-- Die Kinder der Dämonen
-- &emsp;Charaktere mit Dämonenblut
-- &emsp;Mythischer Gefährte: Teufelskind
+## [Kapitel 9: Infernale Charaktere](#kapitel-9-infernale-charaktere-1)
+- [Falsche Mächte](#falsche-mächte)
+- [Mythische Gefährten](#mythische-gefährten)
+- [Befleckte Tugenden und Fehler](#befleckte-tugenden-und-fehler)
+- &emsp;[Neue Tugenden](#neue-tugenden-1)
+- &emsp;[Neue Fehler](#neue-fehler-1)
+- [Neue Fertigkeiten](#neue-fertigkeiten-1)
+- [Sphärenzuordnungen](#sphärenzuordnungen)
+- [Infernalisten](#infernalisten)
+- &emsp;[Hierarchie](#hierarchie)
+- &emsp;[Vituperation](#vituperation)
+- &emsp;[Opferung](#opferung)
+- &emsp;[Entweihung des Heiligen](#entweihung-des-heiligen)
+- [Befleckte Charaktere](#befleckte-charaktere)
+- &emsp;[Quellen befleckter Kinder](#quellen-befleckter-kinder)
+- &emsp;[Dämonische Verwendung für befleckte Charaktere](#dämonische-verwendung-für-befleckte-charaktere)
+- &emsp;[Unweigerlich fehlerhaft](#unweigerlich-fehlerhaft)
+- &emsp;[Marionetten und Puppen](#marionetten-und-puppen)
+- [Beispiele für befleckte Charaktere](#beispiele-für-befleckte-charaktere)
+- [Die Kinder der Dämonen](#die-kinder-der-dämonen)
+- &emsp;[Charaktere mit Dämonischem Blut](#charaktere-mit-dämonischem-blut)
+- &emsp;[Mythischer Gefährte: Teufelskind](#mythischer-gefährte-teufelskind)
 
-## Kapitel 10: Die Maleficia
-- Unheilige Methoden
-- &emsp;Ausschweifung
-- &emsp;Beschwörung
-- Unheilige Kräfte
-- &emsp;Verzehrung
-- &emsp;Diablerie
-- &emsp;Effusion
-- &emsp;Verfluchung
-- &emsp;Phantasma
-- &emsp;Psychomachie
-- Mythischer Gefährte: Der Diabolist
+## [Kapitel 10: Die Maleficia](#kapitel-10-die-maleficia-1)
+- [Unheilige Methoden](#unheilige-methoden)
+- &emsp;[Ausschweifung](#ausschweifung-2)
+- &emsp;[Beschwörung](#beschwörung-2)
+- [Unheilige Kräfte](#unheilige-kräfte)
+- &emsp;[Verzehrung](#verzehrung-2)
+- &emsp;[Diablerie](#diablerie-2)
+- &emsp;[Effusion](#effusion-2)
+- &emsp;[Verfluchung](#verfluchung-2)
+- &emsp;[Phantasma](#phantasma-2)
+- &emsp;[Psychomachie](#psychomachie-2)
+- [Mythischer Gefährte: Der Diabolist](#mythischer-gefährte-der-diabolist)
 
-## Kapitel 11: Ars Goetia
-- Die goetischen Künste
-- &emsp;Herbeirufung
-- &emsp;Abtragung
-- &emsp;Bindung
-- &emsp;Befehligung
-- Mythischer Gefährte: Der Beschwörer
+## [Kapitel 11: Ars Goetia](#kapitel-11-ars-goetia-1)
+- [Die goetischen Künste](#die-goetischen-künste)
+- &emsp;[Herbeirufung](#herbeirufung-1)
+- &emsp;[Abtragung](#abtragung)
+- &emsp;[Bindung](#bindung-1)
+- &emsp;[Befehligung](#befehligung-1)
+- [Mythischer Gefährte: Der Beschwörer](#mythischer-gefährte-der-beschwörer)
 
-## Kapitel 12: Schwarze Magie
-- Dämonenjäger
-- &emsp;Die Venatoren
-- &emsp;Apotropäische Zauber
-- Infernale Magie
-- &emsp;Chthonische Magie
-- &emsp;Goetische Magie
-- &emsp;Falsche Magie
+## [Kapitel 12: Schwarze Magie](#kapitel-12-schwarze-magie-1)
+- [Dämonenjäger](#dämonenjäger)
+- &emsp;[Die Venatoren](#die-venatoren)
+- &emsp;[Apotropäische Zauber](#apotropäische-zauber)
+- [Infernale Magie](#infernale-magie)
+- &emsp;[Chthonische Magie](#chthonische-magie-2)
+- &emsp;[Goetische Magie](#goetische-magie)
+- &emsp;[Falsche Magie](#falsche-magie)
 
-## Kapitel 13: Infernale Traditionen
-- Fehlgeleitete Traditionen
-- &emsp;Die Luziferaner
-- &emsp;Strigae
-- &emsp;Die Hexenhämmer
-- Verderbte Traditionen
-- &emsp;Dunkle Gnostiker
-- &emsp;Die Schreckliche Schar
-- &emsp;Die Mulhidun
-- Hermetische Traditionen
-- &emsp;Die Damhadh-Duidsan
-- &emsp;Der Ordo Vagorum
-- &emsp;Die Hexen von Thessalien
+## [Kapitel 13: Infernale Traditionen](#kapitel-13-infernale-traditionen-1)
+- [Fehlgeleitete Traditionen](#fehlgeleitete-traditionen)
+- &emsp;[Infernale Tradition: Die Luziferaner](#infernale-tradition-die-luziferaner)
+- &emsp;[Infernale Tradition: Strigae](#infernale-tradition-strigae)
+- &emsp;[Infernale Tradition: Die Hexenhämmer](#infernale-tradition-die-hexenhämmer)
+- [Verderbte Traditionen](#verderbte-traditionen)
+- &emsp;[Infernale Tradition: Dunkle Gnostiker](#infernale-tradition-dunkle-gnostiker)
+- &emsp;[Infernale Tradition: Die Schreckliche Schar](#infernale-tradition-die-schreckliche-schar)
+- &emsp;[Infernale Tradition: Die Mulhidun](#infernale-tradition-die-mulhidun)
+- [Hermetische Traditionen](#hermetische-traditionen)
+- &emsp;[Infernale Societas: Die Damhadh-Duidsan](#infernale-societas-die-damhadh-duidsan)
+- &emsp;[Infernale Societas: Der Ordo Vagorum](#infernale-societas-der-ordo-vagorum)
+- &emsp;[Infernale Societas: Die Hexen von Thessalien](#infernale-societas-die-hexen-von-thessalien)
 
 # Einleitung
 
@@ -189,7 +189,7 @@ Willkommen bei *Sphären der Macht: Das Infernale*, dem zweiten Band der Reihe v
 
 ## Was ist dieses Buch?
 
-*Sphären der Macht: Das Infernale* ist ein Quellenwerk, das **Ars Magica**-Spielleitern und -Spielern dabei helfen soll, die Höllensphäre in ihre Sagas einzubauen. Es ergänzt, erweitert und aktualisiert die Abschnitte Die Höllensphäre (ArM5, Seite 186) und Infernale Kreaturen (ArM5, Seiten 196--198) im Hauptregelwerk. Obwohl das Material auf realen Glaubensvorstellungen und Praktiken basiert, ist es weder als okkulte Einführung noch als historisches Nachschlagewerk gedacht. Die Geschichten, zu denen dieses Buch anregt, sind fiktive Werke mit imaginären Charakteren, die möglicherweise erschreckende oder unmoralische Handlungen begehen, und die unter Spielern geteilt werden, die reif genug sind, selbst zu entscheiden, was richtig und was falsch ist.
+*Sphären der Macht: Das Infernale* ist ein Quellenwerk, das **Ars Magica**-Spielleitern und -Spielern dabei helfen soll, die Höllensphäre in ihre Sagas einzubauen. Es ergänzt, erweitert und aktualisiert die Abschnitte Die Höllensphäre (ArM5, [Seite 186](<Ars Magica Definitive Edition Basisregeln.md#die-höllensphäre>)) und Infernale Kreaturen (ArM5, Seiten 196--198) im Hauptregelwerk. Obwohl das Material auf realen Glaubensvorstellungen und Praktiken basiert, ist es weder als okkulte Einführung noch als historisches Nachschlagewerk gedacht. Die Geschichten, zu denen dieses Buch anregt, sind fiktive Werke mit imaginären Charakteren, die möglicherweise erschreckende oder unmoralische Handlungen begehen, und die unter Spielern geteilt werden, die reif genug sind, selbst zu entscheiden, was richtig und was falsch ist.
 
 Es ist so aufgebaut, dass es sich am besten von vorne nach hinten lesen lässt, beginnend mit dieser Einleitung, und gliedert den Stoff nach Anwendungsbereichen, sodass Spieler je nach Bedarf zu den verschiedenen Abschnitten blättern können. Der erste Teil, **Das Wesen des Bösen**, enthält allgemeine Regeln für den Umgang mit der Höllensphäre, darunter Informationen über Sünde und Erlösung, infernalen Einfluss, Auren und infernales Vis. Die Legionen der Hölle und ihre Fähigkeiten finden sich im zweiten Teil, **Das Böse an sich**, mit Beispieldämonen und Ideen, wie man sie in eine Saga einbringen kann. Der dritte Teil, **Jene, die Böses tun**, enthält Regeln für Charaktere, die mit der Höllensphäre verbunden sind, infernale Tugenden und Fehler sowie Möglichkeiten, infernale Macht mit hermetischer Magie zu verbinden.
 
@@ -440,7 +440,7 @@ Infernale Auren sind ein Fluch für jene, die in ihren Bereich geraten. Sie sind
 
 Alle permanenten infernalen Auren haben folgende Wirkungen:
 
-- Jeder Einsatz übernatürlicher Kräfte wird durch die in ArM5, Seite 183 beschriebenen Modifikatoren beeinflusst.
+- Jeder Einsatz übernatürlicher Kräfte wird durch die in ArM5, [Seite 183](<Ars Magica Definitive Edition Basisregeln.md#tabelle-zur-sphärenwechselwirkung>) beschriebenen Modifikatoren beeinflusst.
 - Offene Wunden neigen dazu, sich in Gebieten konzentrierten Bösen zu infizieren und zu eitern. Jeder, der eine infernale Aura mit ungeheilten Wunden betritt und mindestens einen Tag verweilt, oder jeder, der innerhalb der Aura eine Wunde erleidet, erleidet einen Abzug auf den Genesungswurf für diese Wunden in Höhe der Aurastärke. Ebenso erleiden Krankheiten und Verletzungen durch Entbehrung denselben Abzug auf Genesungswürfe; überdies bessern sich Krankheiten nie, wenn sie in einer infernalen Aura behandelt werden -- behandle alle Verbesserungsergebnisse auf der Genesungstabelle als Stabile Ergebnisse. Normale Heilung setzt bei Verlassen der Aura wieder ein, doch mindestens ein Genesungswurf wird durch die infernale Aura mit Abzug belegt.
 
 Es sei angemerkt, dass alle Menschen -- selbst jene, die der Höllensphäre zugeordnet sind -- unter diesen Auswirkungen leiden.
@@ -535,7 +535,7 @@ Beispielwirkungen einer Hinterhältigen Aura:
 
 Infernale Regiones sind jene Orte, die von Gott der Aufsicht des Infernalen überantwortet wurden. Während infernale Auren Orte konzentrierten Bösen sind, sind infernale Regiones die Vorzimmer der Hölle selbst und dienen den Herrschern der Hölle einem ganz anderen Zweck. Infernale Regiones entstehen, wenn die göttliche Gegenwart sich zurückzieht und die Autoritäten -- jener Engelschor, der mit der Regelung der Schöpfung betraut ist (siehe *Sphären der Macht: Das Göttliche*, Kapitel 2: Himmel und Erde) -- den Ort nicht mehr aufsuchen. Infernale Regiones sind Orte, an denen Hoffnung und Glück aufgegeben sind. Es ist unmöglich, in einer infernalen Regio eine heitere Gemütslage zu bewahren, und es ist unmöglich, irgendeine Form von Vergnügen zu empfinden.
 
-Aufgrund der Trennung von Gottes Willen sind jene Charaktere, die übernatürliche Macht aus dem Göttlichen beziehen, in diesen Kräften eingeschränkt. Während die passiven Wirkungen solcher Kräfte weiterhin bestehen bleiben (wie die durch Wahren Glauben gewährte Magieresistenz), können Charaktere nicht Gott um Hilfe anrufen, Heilige um Fürsprache bitten oder Heiligen Einfluss ausüben (siehe *Sphären der Macht: Das Göttliche*, Kapitel 3: Von Gott gesegnet für Einzelheiten zu diesen göttlichen Fähigkeiten). Heilige Kräfte oder Heilige Magie erleiden einen Abzug auf ihre Würfe in Höhe der Aurastärke der infernalen Regio, trotz der üblichen Sphärenwechselwirkung (ArM5, Seite 183). Es ist nicht so, dass Gott den Rufen seiner Gläubigen nicht antworten kann, sondern dass Charakteren innerhalb infernaler Regiones diese Gaben aus welchem Grund auch immer verwehrt werden. Die einzige Ausnahme sind Wunder, die ein Zeugnis von Gottes Barmherzigkeit sind und sich selbst bis in den Schlund der Hölle erstrecken.
+Aufgrund der Trennung von Gottes Willen sind jene Charaktere, die übernatürliche Macht aus dem Göttlichen beziehen, in diesen Kräften eingeschränkt. Während die passiven Wirkungen solcher Kräfte weiterhin bestehen bleiben (wie die durch Wahren Glauben gewährte Magieresistenz), können Charaktere nicht Gott um Hilfe anrufen, Heilige um Fürsprache bitten oder Heiligen Einfluss ausüben (siehe *Sphären der Macht: Das Göttliche*, Kapitel 3: Von Gott gesegnet für Einzelheiten zu diesen göttlichen Fähigkeiten). Heilige Kräfte oder Heilige Magie erleiden einen Abzug auf ihre Würfe in Höhe der Aurastärke der infernalen Regio, trotz der üblichen Sphärenwechselwirkung (ArM5, [Seite 183](<Ars Magica Definitive Edition Basisregeln.md#tabelle-zur-sphärenwechselwirkung>)). Es ist nicht so, dass Gott den Rufen seiner Gläubigen nicht antworten kann, sondern dass Charakteren innerhalb infernaler Regiones diese Gaben aus welchem Grund auch immer verwehrt werden. Die einzige Ausnahme sind Wunder, die ein Zeugnis von Gottes Barmherzigkeit sind und sich selbst bis in den Schlund der Hölle erstrecken.
 
 Wenn eine Regio auf ihrer untersten Ebene eine infernale Aura aufweist, die nicht die dominierende Aura des Ortes ist, unterliegt diese infernale Aura nicht den normalen Erosionswirkungen durch die stärkere Aura (siehe Infernale Auren im Spiel, oben).
 
@@ -581,11 +581,11 @@ Wie andernorts beschrieben (Kapitel 2: Sünde und Versuchung), erhält ein Chara
 
 #### Infernale Auren
 
-Mächtige infernale Auren und Regiones gewähren Verzerrungspunkte (ArM5, Seite 167), es sei denn, der Charakter besitzt infernale Kräfte oder übernatürliche Fertigkeiten infernalen Ursprungs, in welchem Fall er gegen Verzerrung durch infernale Auren immun ist, nicht aber gegen andere Quellen.
+Mächtige infernale Auren und Regiones gewähren Verzerrungspunkte (ArM5, [Seite 167](<Ars Magica Definitive Edition Basisregeln.md#verzerrung-2>)), es sei denn, der Charakter besitzt infernale Kräfte oder übernatürliche Fertigkeiten infernalen Ursprungs, in welchem Fall er gegen Verzerrung durch infernale Auren immun ist, nicht aber gegen andere Quellen.
 
 #### Infernale Kräfte
 
-Die Kräfte infernaler Wesen können Verzerrung verursachen; wenn die Stufe der Kraft 30 oder mehr beträgt oder ein Dämon 6 oder mehr Machtpunkte für die Aktivierung der Kraft aufwendet, erwerben die Ziele einen Verzerrungspunkt für den Mächtigen Mystischen Effekt (ArM5, Seite 168).
+Die Kräfte infernaler Wesen können Verzerrung verursachen; wenn die Stufe der Kraft 30 oder mehr beträgt oder ein Dämon 6 oder mehr Machtpunkte für die Aktivierung der Kraft aufwendet, erwerben die Ziele einen Verzerrungspunkt für den Mächtigen Mystischen Effekt (ArM5, [Seite 168](<Ars Magica Definitive Edition Basisregeln.md#verzerrungspunkte-erwerben>)).
 
 #### Patzer
 
@@ -605,7 +605,7 @@ Die am wenigsten gefährliche der Sorten infernalen Vis, denen Magi begegnen, is
 
 Ein hermetischer Magus, der Vis infesta verwendet, zieht sich keine zusätzliche Gefahr über das hinaus zu, was die Verwendung von Rohem Vis mit sich bringt; das heißt, ein zusätzlicher Patzerwürfel pro Bauer Vis. Sollte jedoch eine magische Handlung unter Verwendung von Vis infesta einen Patzer ergeben, ist der Patzer schwerwiegender als sonst zu erwarten. Solche Patzer verursachen oft Schaden am Wirkenden oder bringen ihn anderweitig in Gefahr. Das Studium aus Vis infesta birgt keine zusätzliche Gefahr jenseits der veränderten Persönlichkeitseigenschaften und der erhöhten Folgen eines Patzers.
 
-Bei der Verwendung von Vis infesta in einer Verzauberung zeigt sich diese zusätzliche Gefahr nur dann, wenn der Magus mit der Verzauberung experimentiert (ArM5, S. 107). Würfle wie gewöhnlich auf das Experimentierergebnis, doch statt bei Katastrophen, Nebeneffekten und Modifizierten Effekten erneut zu würfeln, sollte der Spielleiter das gefährlichste oder unangenehmste Ergebnis wählen. Die eingeflößte Kraft ist durch die Höllensphäre verdorben und wirkt auf unangenehm unerwartete Weise. Bei einem Entdeckungsergebnis werden die Erfahrungspunkte auf Infernalkunde angerechnet.
+Bei der Verwendung von Vis infesta in einer Verzauberung zeigt sich diese zusätzliche Gefahr nur dann, wenn der Magus mit der Verzauberung experimentiert (ArM5, [S. 107](<Ars Magica Definitive Edition Basisregeln.md#arkanes-experimentieren>)). Würfle wie gewöhnlich auf das Experimentierergebnis, doch statt bei Katastrophen, Nebeneffekten und Modifizierten Effekten erneut zu würfeln, sollte der Spielleiter das gefährlichste oder unangenehmste Ergebnis wählen. Die eingeflößte Kraft ist durch die Höllensphäre verdorben und wirkt auf unangenehm unerwartete Weise. Bei einem Entdeckungsergebnis werden die Erfahrungspunkte auf Infernalkunde angerechnet.
 
 Infernal ausgerichtete Zauberwirker können Vis infesta verwenden, ohne diese Nebenwirkungen zu erleiden.
 
@@ -613,7 +613,7 @@ Infernal ausgerichtete Zauberwirker können Vis infesta verwenden, ohne diese Ne
 
 **Vis sordida** („schmutziges Vis") ist eine schwache Destillation des Bösen selbst und das am häufigsten von hermetischen Magi angetroffene infernale Vis, da es spontan in einer infernalen Aura erscheint, ähnlich wie Vis in Magie- oder Feenauren. Vis sordida kann auch aus den Leichnamen mäßig mächtiger Dämonen (Macht 10–25) gewonnen werden.
 
-Da es mächtiger als gewöhnliches Vis ist, ist es vielleicht das gefährlichste. Jeder Bauer Vis sordida, der zur Verstärkung einer Zaubersumme eingesetzt wird, addiert fünf auf den Wurf statt der +2 des normalen Vis. Allerdings ist es für Magier, die nicht der Höllensphäre zugeordnet sind, heikler Stoff, da Patzer sowohl wahrscheinlicher als auch schwerwiegender sind. Die Verwendung von Vis sordida verursacht stets drei zusätzliche Patzerwürfel pro eingesetztem Bauer, und sollte der Magus über eine Methode verfügen, die Anzahl der Patzerwürfel zu reduzieren -- durch eine Tugend oder Zaubermeisterschaft etwa --, würfelt der Spieler dennoch eine Mindestzahl an Patzerwürfeln gleich der Anzahl eingesetzter Bauern. Bei einem Patzer ist dieser stets schwerwiegender, wie unter Vis infesta beschrieben. Ein Magus darf Hermetische Künste aus Vis sordida studieren und erhält einen Bonus von +1 auf die Quellenqualität (ArM5, Seite 165) pro Bauer eingesetztem Vis sordida. Das Studium aus Vis sordida birgt jedoch dasselbe erhöhte Risiko eines gefährlichen Patzers und dieselbe Wirkung auf Persönlichkeitseigenschaften wie Vis infesta.
+Da es mächtiger als gewöhnliches Vis ist, ist es vielleicht das gefährlichste. Jeder Bauer Vis sordida, der zur Verstärkung einer Zaubersumme eingesetzt wird, addiert fünf auf den Wurf statt der +2 des normalen Vis. Allerdings ist es für Magier, die nicht der Höllensphäre zugeordnet sind, heikler Stoff, da Patzer sowohl wahrscheinlicher als auch schwerwiegender sind. Die Verwendung von Vis sordida verursacht stets drei zusätzliche Patzerwürfel pro eingesetztem Bauer, und sollte der Magus über eine Methode verfügen, die Anzahl der Patzerwürfel zu reduzieren -- durch eine Tugend oder Zaubermeisterschaft etwa --, würfelt der Spieler dennoch eine Mindestzahl an Patzerwürfeln gleich der Anzahl eingesetzter Bauern. Bei einem Patzer ist dieser stets schwerwiegender, wie unter Vis infesta beschrieben. Ein Magus darf Hermetische Künste aus Vis sordida studieren und erhält einen Bonus von +1 auf die Quellenqualität (ArM5, [Seite 165](<Ars Magica Definitive Edition Basisregeln.md#vis-2>)) pro Bauer eingesetztem Vis sordida. Das Studium aus Vis sordida birgt jedoch dasselbe erhöhte Risiko eines gefährlichen Patzers und dieselbe Wirkung auf Persönlichkeitseigenschaften wie Vis infesta.
 
 Bei Verwendung von Vis sordida zur Bereitung eines Gegenstands für die Verzauberung scheint die Arbeit planmäßig zu verlaufen, doch zehn Stufen an Effekten im Gegenstand werden für jeden eingesetzten Bauer Vis sordida korrumpiert. Effekte, die in den bereiteten Gegenstand eingeflößt werden, müssen die Experimentierregeln verwenden, bis die verdorbenen Effektstufen aufgebraucht sind. Verdorbene Stufen werden stets zuerst verbraucht, und die Ergebnisse des Experimentierens werden wie unter Vis infesta oben beschrieben beurteilt.
 
@@ -625,7 +625,7 @@ Vis sordida verursacht keine dieser Nebenwirkungen auf Übernatürliche Kräfte 
 
 #### Vis Prava
 
-Die abscheulichste und konzentrierteste Form infernalen Vis wird **Vis prava**, also „böses Vis", genannt. Diese Art von Vis kann in starken infernalen Auren (Stärke 5 und darüber) gefunden werden. Vim-Vis kann von einem hermetischen Magus aus einer infernalen Aura (beliebiger Stärke) extrahiert werden, als wäre sie eine Magieaura (ArM5, Seite 94); allerdings ist solches Vis automatisch Vis prava. Ferner ist Vis, das aus dem Leichnam eines mächtigen Dämons stammt (mit einer Macht über 25), ebenfalls Vis dieses Typs. Es ist für jeden, der nicht der Höllensphäre zugeordnet ist, äußerst gefährlich zu verwenden; jeder Wurf unter Verwendung von Vis prava ist automatisch eine Null und erzwingt eine sofortige Patzerprüfung, wobei zwei zusätzliche Patzerwürfel pro eingesetztem Bauer Vis prava gewürfelt werden; es gilt eine Mindestanzahl von Patzerwürfeln gleich der Anzahl eingesetzter Bauern, ungeachtet von Tugenden, Zaubermeisterschaft und dergleichen. Patzer unter Verwendung von Vis prava sind daher mehr als zehnmal wahrscheinlicher als bei Verwendung von gewöhnlichem Vis. Wie zuvor sind Patzer unter Verwendung infernal verdorbenen Vis stets unangenehm und gefährlich für den Wirkenden. Zusätzlich zu dieser Wirkung verursacht der Versuch, aus Vis prava zu studieren, einen Verzerrungspunkt pro eingesetztem Bauer sowie eine Beeinflussung der Persönlichkeitseigenschaften, wie oben beschrieben.
+Die abscheulichste und konzentrierteste Form infernalen Vis wird **Vis prava**, also „böses Vis", genannt. Diese Art von Vis kann in starken infernalen Auren (Stärke 5 und darüber) gefunden werden. Vim-Vis kann von einem hermetischen Magus aus einer infernalen Aura (beliebiger Stärke) extrahiert werden, als wäre sie eine Magieaura (ArM5, [Seite 94](<Ars Magica Definitive Edition Basisregeln.md#vis-übertragung>)); allerdings ist solches Vis automatisch Vis prava. Ferner ist Vis, das aus dem Leichnam eines mächtigen Dämons stammt (mit einer Macht über 25), ebenfalls Vis dieses Typs. Es ist für jeden, der nicht der Höllensphäre zugeordnet ist, äußerst gefährlich zu verwenden; jeder Wurf unter Verwendung von Vis prava ist automatisch eine Null und erzwingt eine sofortige Patzerprüfung, wobei zwei zusätzliche Patzerwürfel pro eingesetztem Bauer Vis prava gewürfelt werden; es gilt eine Mindestanzahl von Patzerwürfeln gleich der Anzahl eingesetzter Bauern, ungeachtet von Tugenden, Zaubermeisterschaft und dergleichen. Patzer unter Verwendung von Vis prava sind daher mehr als zehnmal wahrscheinlicher als bei Verwendung von gewöhnlichem Vis. Wie zuvor sind Patzer unter Verwendung infernal verdorbenen Vis stets unangenehm und gefährlich für den Wirkenden. Zusätzlich zu dieser Wirkung verursacht der Versuch, aus Vis prava zu studieren, einen Verzerrungspunkt pro eingesetztem Bauer sowie eine Beeinflussung der Persönlichkeitseigenschaften, wie oben beschrieben.
 
 > ## Abenteuerideen
 > 
@@ -931,7 +931,7 @@ Alle Dämonen besitzen mindestens 1 Punkt Infernale Macht und können keiner and
 
 Alle Dämonen besitzen mindestens eine Persönlichkeitseigenschaft, die die bestimmte Sünde definiert, die sie verkörpern. Diese Eigenschaft kann allgemeiner Art sein („Stolz") oder spezifisch („Neid wegen Haarfarbe"), und mächtige Dämonen neigen zu allgemeineren Eigenschaften.
 
-Kein Dämon ist aus freiem Willen in der Lage, irgendeine Form tugendhafter Persönlichkeitseigenschaft zu zeigen, kann aber von jenen, die ihn beherrschen, gezwungen werden, Tugend vorzutäuschen. Dämonen können insbesondere weder Glaube, Hoffnung, Nächstenliebe, Klugheit, Mäßigung, Tapferkeit noch Gerechtigkeit zeigen (siehe Dämonen in der Saga weiter unten). Ein Dämon scheitert automatisch bei Persönlichkeitswürfen (ArM5, Seite 18), wenn ein Erfolg ihn dazu bringen würde, tugendhaft zu handeln.
+Kein Dämon ist aus freiem Willen in der Lage, irgendeine Form tugendhafter Persönlichkeitseigenschaft zu zeigen, kann aber von jenen, die ihn beherrschen, gezwungen werden, Tugend vorzutäuschen. Dämonen können insbesondere weder Glaube, Hoffnung, Nächstenliebe, Klugheit, Mäßigung, Tapferkeit noch Gerechtigkeit zeigen (siehe Dämonen in der Saga weiter unten). Ein Dämon scheitert automatisch bei Persönlichkeitswürfen (ArM5, [Seite 18](<Ars Magica Definitive Edition Basisregeln.md#persönlichkeitseigenschaften>)), wenn ein Erfolg ihn dazu bringen würde, tugendhaft zu handeln.
 
 #### Dämonische Macht
 
@@ -955,7 +955,7 @@ Dämonen haben den Zustand reiner Intelligenz, den die Engel besaßen, verloren 
 | 4–5 | Luzifers Sekretär, Marquis des Chors der Ofanim, Graf des Chors der Seraphim, Befehlshaber von 31 Höllenlegionen, Dämon der Wissenschaften |
 | 6–7 | General der Höllenlegionen, Luzifers Bannerträger, Herzog des Chors der Engel, Mitunterzeichner von Pakten |
 | 8–9 | Premierminister der Hölle, König des Nordens, Fürst des Chors der Throne, Dämon Frankreichs |
-Machtwert des Dämons (Infernale Macht / 5) – 10. Es gibt keinen maximalen Eigenschaftswert für einen Dämon, und es wird keine Tugend oder kein Fehler für extreme Eigenschaften benötigt. Verwende die Tabelle für Kunstfortschritt (ArM5, Seite 32), um die Kosten von Eigenschaften über +3 zu ermitteln. Nicht-körperliche Eigenschaften werden normalerweise mit bis zu 7 Punkten gekauft, obwohl besonders mächtige Dämonen mehr als 7 Punkte für diese vier Eigenschaften zur Verfügung haben.
+Machtwert des Dämons (Infernale Macht / 5) – 10. Es gibt keinen maximalen Eigenschaftswert für einen Dämon, und es wird keine Tugend oder kein Fehler für extreme Eigenschaften benötigt. Verwende die Tabelle für Kunstfortschritt (ArM5, [Seite 32](<Ars Magica Definitive Edition Basisregeln.md#nur-magi--nach-der-lehrlingszeit>)), um die Kosten von Eigenschaften über +3 zu ermitteln. Nicht-körperliche Eigenschaften werden normalerweise mit bis zu 7 Punkten gekauft, obwohl besonders mächtige Dämonen mehr als 7 Punkte für diese vier Eigenschaften zur Verfügung haben.
 
 **Eigenschaftspunkte für körperliche Eigenschaften des Dämons: Infernale Macht**
 
@@ -969,7 +969,7 @@ Die Größe eines Dämons wird durch seine physische Gestalt bestimmt und steht 
 
 Alle Dämonen besitzen die folgenden Kräfte:
 
-*Koagulation*, 1 Punkt pro 10 Macht (oder angefangene 10), Init –1, Corpus: Diese Kraft erlaubt es Dämonen, aus dem formlosen Urstoff des Universums einen festen Körper zu erschaffen. Sie können mit dieser Kraft nur eine einzige bestimmte Gestalt annehmen (die unter Erscheinungsbild in den Spielwerten des Dämons beschriebene), es sei denn, sie besitzen eine weitere Kraft, die es ihnen erlaubt, diese zu verändern. Die Manifestation einer körperlichen Gestalt dauert pro Punkt Infernaler Macht des Dämons eine Runde; Dämonen mit einem hohen Infernalen Machtwert müssen mehr Kraft sammeln und in feste Form zwingen. Der Dämon kann diesen Effekt jederzeit beenden und seinen Körper feiner und feinstofflicher werden lassen, um in seinen natürlichen Zustand zurückzukehren. Die Auflösung der festen Gestalt erfolgt nahezu augenblicklich und erfordert vom Dämon lediglich eine Runde der Konzentration, die allerdings unterbrochen werden kann (verwende die Regeln für Konzentration, ArM5, Seite 82).
+*Koagulation*, 1 Punkt pro 10 Macht (oder angefangene 10), Init –1, Corpus: Diese Kraft erlaubt es Dämonen, aus dem formlosen Urstoff des Universums einen festen Körper zu erschaffen. Sie können mit dieser Kraft nur eine einzige bestimmte Gestalt annehmen (die unter Erscheinungsbild in den Spielwerten des Dämons beschriebene), es sei denn, sie besitzen eine weitere Kraft, die es ihnen erlaubt, diese zu verändern. Die Manifestation einer körperlichen Gestalt dauert pro Punkt Infernaler Macht des Dämons eine Runde; Dämonen mit einem hohen Infernalen Machtwert müssen mehr Kraft sammeln und in feste Form zwingen. Der Dämon kann diesen Effekt jederzeit beenden und seinen Körper feiner und feinstofflicher werden lassen, um in seinen natürlichen Zustand zurückzukehren. Die Auflösung der festen Gestalt erfolgt nahezu augenblicklich und erfordert vom Dämon lediglich eine Runde der Konzentration, die allerdings unterbrochen werden kann (verwende die Regeln für Konzentration, ArM5, [Seite 82](<Ars Magica Definitive Edition Basisregeln.md#sanfte-gabe>)).
 
 Die Spielwerte eines Dämons ändern sich nicht, unabhängig davon, ob er sich in seiner körperlichen oder geistigen Gestalt befindet, obwohl ein Dämon in geistiger Gestalt seine körperlichen Eigenschaften nicht einsetzen kann. Diese Kraft muss kein Corpus-Effekt sein, falls der Körper des Dämons von Natur aus aus einer anderen Substanz besteht, etwa aus elementarer Materie oder in Tiergestalt. Dämonen in christlichen Landen sind gezwungen, ihre koagulierte Gestalt am Karsamstag aufzugeben (siehe Religiöse Beschränkungen für Dämonen weiter unten).
 
@@ -981,7 +981,7 @@ Jeder Dämon kann nur bestimmte Züge auferlegen, die seine besondere Rolle bei 
 
 > ## Beispiel für Besessenheit
 > 
-> Bartholomäus (ArM5, Seite 197) hat den Besessenheitszug Habgier. Er sieht eine Nonne, die Almosen für ein Waisenhaus sammelt, und stößt sie absichtlich auf der Straße an. Das Aufflackern von Ärger der Nonne über seine scheinbare Unachtsamkeit öffnet Bartholomäus die Tür, und er erlegt ihr den Zug auf, indem er drei Punkte aus seinem Machtvorrat aufwendet. Als die Nonne später an diesem Tag ihre Pfennige zählt, hat sie Gelegenheit, der dämonisch eingeflößten Habgier nachzugeben, und ist daher gezwungen, einen Habgier-Persönlichkeitswurf abzulegen. Sie würfelt eine 5, addiert +3 für den Besessenheitszug und kommt auf insgesamt 8. Ihr Gegenwurf ergibt nur eine 6, doch sie besitzt auch den Persönlichkeitszug Großzügig, was das Ergebnis auf insgesamt 9 erhöht. Sie widersteht dem Drang zu stehlen und nimmt sich vor, inbrünstiger zu beten — erschüttert darüber, dass sie eine solche Tat überhaupt in Betracht gezogen hat.
+> Bartholomäus (ArM5, [Seite 197](<Ars Magica Definitive Edition Basisregeln.md#bartholomäus>)) hat den Besessenheitszug Habgier. Er sieht eine Nonne, die Almosen für ein Waisenhaus sammelt, und stößt sie absichtlich auf der Straße an. Das Aufflackern von Ärger der Nonne über seine scheinbare Unachtsamkeit öffnet Bartholomäus die Tür, und er erlegt ihr den Zug auf, indem er drei Punkte aus seinem Machtvorrat aufwendet. Als die Nonne später an diesem Tag ihre Pfennige zählt, hat sie Gelegenheit, der dämonisch eingeflößten Habgier nachzugeben, und ist daher gezwungen, einen Habgier-Persönlichkeitswurf abzulegen. Sie würfelt eine 5, addiert +3 für den Besessenheitszug und kommt auf insgesamt 8. Ihr Gegenwurf ergibt nur eine 6, doch sie besitzt auch den Persönlichkeitszug Großzügig, was das Ergebnis auf insgesamt 9 erhöht. Sie widersteht dem Drang zu stehlen und nimmt sich vor, inbrünstiger zu beten — erschüttert darüber, dass sie eine solche Tat überhaupt in Betracht gezogen hat.
 > 
 > Am nächsten Tag beobachtet Bartholomäus einen Vogt, der seinen Herrn bei den Steuern betrügt, und erlegt ihm seinen Habgier-Zug auf, erneut für drei Punkte. Der Vogt bekommt sofort die Gelegenheit, noch mehr zu stehlen, und muss einen Wurf ablegen. Er würfelt 3 und addiert den Besessenheitszug von +3, was insgesamt 6 ergibt. Der Gegenwurf, eine 6, wird durch den eigenen Gierig-Persönlichkeitszug des Vogts von +1 gemindert, und so stiehlt der Vogt seinem Herrn noch mehr Geld als beabsichtigt. Der Gierig-Zug des Vogts steigt auf +2, und Bartholomäus merkt sich, bald wiederzukommen.
 
@@ -1001,7 +1001,7 @@ Hermetische Magie kann keine von einem Dämon erzeugte Täuschung durchdringen, 
 
 Der Schwierigkeitsgrad für die Fertigkeit Zweites Gesicht, um von Natur aus unsichtbare Dinge (wie Geister) wahrzunehmen, beträgt normalerweise 9. Die schiere Hinterlist der Dämonen erhöht diesen Schwierigkeitsgrad jedoch um die Magnitude ihres Machtwerts. Stammt diese Fertigkeit aus nicht-göttlichen Quellen, vermag sie von Dämonen geschaffene Illusionen möglicherweise überhaupt nicht zu durchdringen; im Falle eines Zweiten Gesichts göttlichen Ursprungs verwende den normalen Schwierigkeitsgrad von 6 + Magnitude des Machtwerts, um diese Täuschungen zu durchschauen.
 
-Ein hermetischer Magus muss sein Ziel wahrnehmen können, um es zu beeinflussen (ArM5, Seite 80; Grenze der Arkanen Verbindungen), und ein Dämon in geistiger Gestalt kann weder durch weltliche Mittel noch durch hermetische Magie aufgrund seiner inhärenten Hinterlist wahrgenommen werden. Kann ein geistiger Dämon dazu verleitet werden, seine Übernatürlichen Kräfte einzusetzen (und ist ein Magus in der Lage, den Effekt der Kraft ohne hermetische Magie wahrzunehmen), dann kann er den Dämon mit seinen Zaubern anvisieren. Andernfalls muss er sich auf andere Mittel wie das Zweite Gesicht, Gespür für Heiliges und Unheiliges oder Göttliche Kräfte (eigene oder die eines anderen) verlassen, um den Dämon zu offenbaren.
+Ein hermetischer Magus muss sein Ziel wahrnehmen können, um es zu beeinflussen (ArM5, [Seite 80](<Ars Magica Definitive Edition Basisregeln.md#zweites-gesicht-1>); Grenze der Arkanen Verbindungen), und ein Dämon in geistiger Gestalt kann weder durch weltliche Mittel noch durch hermetische Magie aufgrund seiner inhärenten Hinterlist wahrgenommen werden. Kann ein geistiger Dämon dazu verleitet werden, seine Übernatürlichen Kräfte einzusetzen (und ist ein Magus in der Lage, den Effekt der Kraft ohne hermetische Magie wahrzunehmen), dann kann er den Dämon mit seinen Zaubern anvisieren. Andernfalls muss er sich auf andere Mittel wie das Zweite Gesicht, Gespür für Heiliges und Unheiliges oder Göttliche Kräfte (eigene oder die eines anderen) verlassen, um den Dämon zu offenbaren.
 
 Dämonen können durch die Form abgewehrt werden, die neben ihrer Infernalen Macht aufgeführt ist, und in körperlicher Gestalt können sie von der entsprechenden Form der Magie beeinflusst werden. Somit gibt es zusätzlich zum Rego-Vim-Zauber *Schutzkreis gegen Dämonen*, der alle Dämonen betrifft, einen Rego-Animal-*Schutzkreis gegen Tierdämonen*, einen Rego-Aquam-*Schutzkreis gegen Wasserdämonen* und so weiter. Da die meisten Dämonen intelligente Wesen sind, können sie auch mit Mentem-Zaubern anvisiert werden.
 
@@ -2361,7 +2361,7 @@ Vis: 2 Bauern Imaginem, in den Augen (alle hundert!)
 
 Erscheinungsbild: In ihrer natürlichen Gestalt ist Aqrab eine Wolke aus mitternachtsblauem Rauch, gefüllt mit Augen und gähnenden Mäulern. Gewöhnlich hüllt sie sich in eine Illusion, sodass sie als arabische Frau mit blauer Haut und dunkelblauen Haaren erscheint, die nur einen Lendenschurz trägt. Sie kann auch als dieselbe Frau, aber ohne die blaue Färbung auftreten; in dieser Gestalt kleidet sie sich in Blau.
 
-Aqrab ist eine Verführerin, die vor allem in islamischen Ländern aktiv ist. Sie gibt sich entweder als Zauberin oder als Dschinnija aus, die bereit ist, anderen ihre Magie zu lehren, zu der neben anderen Kräften auch das Wissen gehört, wie man magische Kreaturen beschwört. Tatsächlich bringt sie sie auf den Weg zur Diabolistenwerdung. Sie ist in der Lage, die Infernalen Fertigkeiten Beschwörung und Diablerie (siehe Kapitel 10: Die Maleficia) sowie die Goetischen Künste Herbeirufen und Befehligen (siehe Kapitel 11: Ars Goetia) an Begabte Schüler zu lehren. Jeder, der bei ihr lernt, zieht ihre Macht vom Malus ab, der auf Studiengesamtwerte beim Erlernen Übernatürlicher Fertigkeiten angewandt wird (ArM5, Seite 166).
+Aqrab ist eine Verführerin, die vor allem in islamischen Ländern aktiv ist. Sie gibt sich entweder als Zauberin oder als Dschinnija aus, die bereit ist, anderen ihre Magie zu lehren, zu der neben anderen Kräften auch das Wissen gehört, wie man magische Kreaturen beschwört. Tatsächlich bringt sie sie auf den Weg zur Diabolistenwerdung. Sie ist in der Lage, die Infernalen Fertigkeiten Beschwörung und Diablerie (siehe Kapitel 10: Die Maleficia) sowie die Goetischen Künste Herbeirufen und Befehligen (siehe Kapitel 11: Ars Goetia) an Begabte Schüler zu lehren. Jeder, der bei ihr lernt, zieht ihre Macht vom Malus ab, der auf Studiengesamtwerte beim Erlernen Übernatürlicher Fertigkeiten angewandt wird (ArM5, [Seite 166](<Ars Magica Definitive Edition Basisregeln.md#einflüstern-1>)).
 
 #### Ataf der Spalter
 
@@ -2551,7 +2551,7 @@ Bordelon glaubt, dass Sanftmut eine Tugend ist und dass jene, die nach Höherem 
 > 
 > Kräfte:
 > 
-> *Schub des Betrügers*, 1 oder mehr Punkte, Init +5, Vim: Wenn ein Dämon diese Kraft einsetzt, ist ihr Ziel ein von einem Sterblichen gewirkter Zauber. Der Dämon muss mindestens einen Machtpunkt für den Effekt aufwenden, kann aber wählen, mehr auszugeben. Der Dämon muss außerdem die Magieresistenz des Zaubernden durchdringen, falls vorhanden. Für jeden vom Dämon aufgewendeten Machtpunkt erhält der Magus +2 auf seine Zaubersumme. Allerdings können Zauber, die durch diese Kraft verstärkt wurden, vom Dämon auf geringfügige Weise manipuliert werden, etwa indem das Ziel des Zaubers geändert wird, die Konzentration nach Belieben des Dämons beendet wird und dergleichen. Der Zauber muss innerhalb der Regeln für Ähnliche Zauber (ArM5, Seite 101) bleiben und darf nicht mächtiger sein als die Zauberstufe + aufgewendete Machtpunkte, aber der Dämon kann ansonsten jeden einzelnen Aspekt des Zaubers frei manipulieren. Wenn der Spieler eines Zaubernden unter dem Einfluss dieser Kraft eine Null würfelt, muss er einen zusätzlichen Patzerwürfel werfen.
+> *Schub des Betrügers*, 1 oder mehr Punkte, Init +5, Vim: Wenn ein Dämon diese Kraft einsetzt, ist ihr Ziel ein von einem Sterblichen gewirkter Zauber. Der Dämon muss mindestens einen Machtpunkt für den Effekt aufwenden, kann aber wählen, mehr auszugeben. Der Dämon muss außerdem die Magieresistenz des Zaubernden durchdringen, falls vorhanden. Für jeden vom Dämon aufgewendeten Machtpunkt erhält der Magus +2 auf seine Zaubersumme. Allerdings können Zauber, die durch diese Kraft verstärkt wurden, vom Dämon auf geringfügige Weise manipuliert werden, etwa indem das Ziel des Zaubers geändert wird, die Konzentration nach Belieben des Dämons beendet wird und dergleichen. Der Zauber muss innerhalb der Regeln für Ähnliche Zauber (ArM5, [Seite 101](<Ars Magica Definitive Edition Basisregeln.md#ähnliche-zauber>)) bleiben und darf nicht mächtiger sein als die Zauberstufe + aufgewendete Machtpunkte, aber der Dämon kann ansonsten jeden einzelnen Aspekt des Zaubers frei manipulieren. Wenn der Spieler eines Zaubernden unter dem Einfluss dieser Kraft eine Null würfelt, muss er einen zusätzlichen Patzerwürfel werfen.
 
 #### Forcas
 
@@ -3829,7 +3829,7 @@ Die Kreatur ist in irgendeiner Weise grauenhaft entstellt, und diese Entstellung
 
 *Große Übernatürliche Tugend, nur verderbte Tiere*
 
-Diese Tugend erhöht die Infernale Macht des verderbten Tieres um 5 und verleiht der Kreatur eine Infernale Kraft, die sie durch Ausgabe von Punkten aus ihrem Machtvorrat aktivieren kann. Gestalte den Effekt als Infernale Kraft (siehe Kapitel 10: Die Maleficia), mit einer Effektstufe, die die Infernale Macht des verderbten Tieres + 10 nicht übersteigen darf. Eine solche Kraft kostet normalerweise ihre Magnitude in Machtpunkten zur Aktivierung und hat einen Initiativebonus gleich Schnelligkeit + Magnitude. Eine Kraft ist nur dann für diese Tugend geeignet, wenn sie eine Penetrationssumme erfordert. (Andernfalls ist sie eine Mindere Infernale Kraft.) Zur Berechnung einer Penetrationssumme siehe ArM5, Seite 191. Verderbte Tiere können diese Tugend mehrfach besitzen, jeweils für eine andere Kraft, und die Infernale Macht erhöht sich mit jeder erworbenen Kraft.
+Diese Tugend erhöht die Infernale Macht des verderbten Tieres um 5 und verleiht der Kreatur eine Infernale Kraft, die sie durch Ausgabe von Punkten aus ihrem Machtvorrat aktivieren kann. Gestalte den Effekt als Infernale Kraft (siehe Kapitel 10: Die Maleficia), mit einer Effektstufe, die die Infernale Macht des verderbten Tieres + 10 nicht übersteigen darf. Eine solche Kraft kostet normalerweise ihre Magnitude in Machtpunkten zur Aktivierung und hat einen Initiativebonus gleich Schnelligkeit + Magnitude. Eine Kraft ist nur dann für diese Tugend geeignet, wenn sie eine Penetrationssumme erfordert. (Andernfalls ist sie eine Mindere Infernale Kraft.) Zur Berechnung einer Penetrationssumme siehe ArM5, [Seite 191](<Ars Magica Definitive Edition Basisregeln.md#kreaturen-einer-sphäre>). Verderbte Tiere können diese Tugend mehrfach besitzen, jeweils für eine andere Kraft, und die Infernale Macht erhöht sich mit jeder erworbenen Kraft.
 
 #### Mindere Infernale Kraft
 
@@ -4099,7 +4099,7 @@ Manche Infernalisten können korrumpiertes Wissen lehren, was durch diese Tugend
 
 > ## Charaktere mit Machtwert
 > 
-> Charaktere mit einem Machtwert sind streng genommen keine Menschen. Kein Wesen mit einem Machtwert kann Tugenden besitzen, die es einer anderen Sphäre zuordnen, denn es ist vollwertiges Mitglied der übernatürlichen Sphäre, die ihm seinen Machtwert verleiht. Dies umfasst die Gabe, Wahren Glauben, Feenblut, Blut der Nephilim (siehe *Sphären der Macht: Das Göttliche*) und alle Übernatürlichen Tugenden, die aus Quellen einer anderen Sphäre als der ihres Machtwerts schöpfen. Sie dürfen nicht einmal korrumpierte Versionen dieser Tugenden nehmen, wie etwa die Falsche Gabe. Wenn ein Charakter Magieresistenz aus mehr als einer Quelle erhält, werden diese Summen nicht addiert, selbst wenn sie aus derselben Sphäre stammen (Infernale Macht und eine Infernale Kraft zum Beispiel); man verwendet einfach die höhere Summe. Charaktere mit einem Machtwert sind immun gegen jede Verzerrung (siehe Verzerrung und Nichtmenschen, ArM5, Seite 168). Sie können jedoch einen Punkt ihres Machtvorrats ausgeben, um eine Fertigkeit oder Kraft einzusetzen, die normalerweise Verzerrung verursacht (wie Beschwörung oder Selbstvertrauensgewinn durch Sündigen). Wesen mit einem Machtwert sind immun gegen übernatürliche Rückschläge ihrer Sphäre, wie Zwielicht, Hybris, Vituperation und dergleichen, erleiden aber dennoch alle anderen Konsequenzen eines misslungenen oder verpatzten Wurfs beim Einsatz ihrer Kräfte.
+> Charaktere mit einem Machtwert sind streng genommen keine Menschen. Kein Wesen mit einem Machtwert kann Tugenden besitzen, die es einer anderen Sphäre zuordnen, denn es ist vollwertiges Mitglied der übernatürlichen Sphäre, die ihm seinen Machtwert verleiht. Dies umfasst die Gabe, Wahren Glauben, Feenblut, Blut der Nephilim (siehe *Sphären der Macht: Das Göttliche*) und alle Übernatürlichen Tugenden, die aus Quellen einer anderen Sphäre als der ihres Machtwerts schöpfen. Sie dürfen nicht einmal korrumpierte Versionen dieser Tugenden nehmen, wie etwa die Falsche Gabe. Wenn ein Charakter Magieresistenz aus mehr als einer Quelle erhält, werden diese Summen nicht addiert, selbst wenn sie aus derselben Sphäre stammen (Infernale Macht und eine Infernale Kraft zum Beispiel); man verwendet einfach die höhere Summe. Charaktere mit einem Machtwert sind immun gegen jede Verzerrung (siehe Verzerrung und Nichtmenschen, ArM5, [Seite 168](<Ars Magica Definitive Edition Basisregeln.md#verzerrungspunkte-erwerben>)). Sie können jedoch einen Punkt ihres Machtvorrats ausgeben, um eine Fertigkeit oder Kraft einzusetzen, die normalerweise Verzerrung verursacht (wie Beschwörung oder Selbstvertrauensgewinn durch Sündigen). Wesen mit einem Machtwert sind immun gegen übernatürliche Rückschläge ihrer Sphäre, wie Zwielicht, Hybris, Vituperation und dergleichen, erleiden aber dennoch alle anderen Konsequenzen eines misslungenen oder verpatzten Wurfs beim Einsatz ihrer Kräfte.
 
 #### Zeremonie
 
@@ -4119,7 +4119,7 @@ Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Ausschweifun
 
 Der Charakter hat einen Dämon als Elternteil und wurde von seiner infernalen Mutter oder seinem infernalen Vater für eine bestimmte Aufgabe gezeugt. Deshalb ist er ein infernales Wesen und besitzt einen Infernale-Macht(Corpus)-Wert von 5. Dies gewährt ihm Magieresistenz. Sein Körper enthält außerdem einen Bauern Corpus-Vis, der erst nach seinem Tod extrahiert werden kann. Er ist immun gegen jede Art von Verzerrung, muss weder essen noch trinken und kann kein Kind zeugen; allerdings leidet er unter den natürlichen Trieben, die mit diesen Handlungen verbunden sind, und muss gegebenenfalls Persönlichkeitswürfe ablegen, um seine Begierden zu überwinden.
 
-Er besitzt bis zu 30 Stufen an Infernalen Kräften, die durch Ausgabe von Machtpunkten aktiviert werden können. Gestalte die Effekte nach den Maleficia-Leitlinien (siehe Kapitel 10: Die Maleficia), unter Berücksichtigung der Kräfte des dämonischen Elternteils. Die Machtkosten jeder Kraft entsprechen ihrer halben Magnitude (aber immer mindestens einem Punkt). Diese können konstante Effekte sein, die auf die übliche Weise gestaltet werden (Dauer Sonne, zwei Anwendungen pro Tag und ein Umgebungsauslöser; siehe ArM5, Seite 99); sein Machtvorrat ist stets um die Kosten dieser Kraft reduziert, und er kann diese Kraft nicht abschalten. Die Initiativesumme jeder Kraft entspricht der Schnelligkeit des Charakters.
+Er besitzt bis zu 30 Stufen an Infernalen Kräften, die durch Ausgabe von Machtpunkten aktiviert werden können. Gestalte die Effekte nach den Maleficia-Leitlinien (siehe Kapitel 10: Die Maleficia), unter Berücksichtigung der Kräfte des dämonischen Elternteils. Die Machtkosten jeder Kraft entsprechen ihrer halben Magnitude (aber immer mindestens einem Punkt). Diese können konstante Effekte sein, die auf die übliche Weise gestaltet werden (Dauer Sonne, zwei Anwendungen pro Tag und ein Umgebungsauslöser; siehe ArM5, [Seite 99](<Ars Magica Definitive Edition Basisregeln.md#wirkungsanpassungen>)); sein Machtvorrat ist stets um die Kosten dieser Kraft reduziert, und er kann diese Kraft nicht abschalten. Die Initiativesumme jeder Kraft entspricht der Schnelligkeit des Charakters.
 
 Er weiß möglicherweise nichts von seiner wahren Herkunft, in welchem Fall er vermutlich entweder den Fehler Wahnvorstellung oder Fabrizierte Unwissenheit besitzt, um seine bemerkenswerten Fähigkeiten zu erklären. Die enge Aufmerksamkeit der Hölle bedeutet, dass er diese Tugend mit dem Großen Fehler Tragisches Leben ausgleichen muss (siehe Befleckte Charaktere unten). Der Charakter darf bei der Charaktererschaffung Infernalkunde erlernen, ohne die Kleine Tugend Arkanes Wissen nehmen zu müssen.
 
@@ -4656,7 +4656,7 @@ Durch blasphemische Worte, Phrasen und Gebete ruft der Charakter die Macht des I
 > | Infernale Macht            | Infernal                         | Siehe oben |
 > | Dämonische Kräfte          | Infernal                         | Siehe oben |
 > | Diablerie                  | Infernal                         | Kapitel 10 |
-> | Betörung                   | Infernal                         | ArM5 S. 65, Kapitel 13 |
+> | Betörung                   | Infernal                         | ArM5 [S. 65](<Ars Magica Definitive Edition Basisregeln.md#betörung>), Kapitel 13 |
 > | Effusion                     | Infernal                         | Kapitel 10 |
 > | Falsches Feenblut          | Fee                              | Siehe Falsche Mächte, oben |
 > | Falsche Magie              | Magie                            | Kapitel 12 |
@@ -4676,7 +4676,7 @@ Durch blasphemische Worte, Phrasen und Gebete ruft der Charakter die Macht des I
 > | Phantasma                  | Infernal                         | Kapitel 10 |
 > | Psychomachie               | Infernal                         | Kapitel 10 |
 > | Leidenschaften spüren      | Fee, Infernal oder Magie         | Siehe oben |
-> | Gestaltwandler             | Infernal                         | ArM5 S. 67, Kapitel 13 |
+> | Gestaltwandler             | Infernal                         | ArM5 [S. 67](<Ars Magica Definitive Edition Basisregeln.md#gestaltwandler-1>), Kapitel 13 |
 > | Herbeirufung               | Fee, Infernal oder Magie         | Kap. 11 |
 
 #### Verfluchung\*
@@ -4709,7 +4709,7 @@ Der Charakter kann auch feststellen, ob eine Aura angelaufen ist (oder eine Ausr
 
 Durch das Spüren von Leidenschaften kann der Charakter oft körperlose Geister erkennen. Du darfst Leidenschaften spüren wie Zweites Gesicht behandeln, wenn versucht wird, die Anwesenheit unsichtbarer oder körperloser Wesen zu erkennen. Dies erlaubt ihr jedoch nicht, Illusionen zu durchschauen, nicht einmal Illusionen starker Emotionen, und sie kann die Geister nicht tatsächlich sehen, sondern lediglich ihre Nähe wahrnehmen.
 
-Darüber hinaus erlaubt diese Fertigkeit dem Charakter, in begrenztem Umfang Heiligkeit und Unheiligkeit zu spüren, ähnlich der Tugend Gespür für Heiliges und Unheiliges (ArM5, Seite 67). Sie kann erkennen, dass etwas entweder heilig oder unheilig ist, kann aber nicht zwischen beiden unterscheiden. Sie empfindet die emotionale Präsenz, die mit dem Göttlichen oder dem Infernalen verbunden ist, kann aber deren übernatürlichen Ursprung nicht genau bestimmen. So könnte sie einen Dämon in schöner Gestalt für einen Engel halten oder einen furchteinflößend aussehenden Engel für einen Dämon. Indem sie jedoch die vorherrschenden Emotionen oder Wünsche des Ziels identifiziert, kann man gewöhnlich eine gute Vorstellung davon gewinnen, welcher Sphäre das Ziel zugeordnet ist, vorausgesetzt, der Charakter kann seine Magieresistenz durchdringen.
+Darüber hinaus erlaubt diese Fertigkeit dem Charakter, in begrenztem Umfang Heiligkeit und Unheiligkeit zu spüren, ähnlich der Tugend Gespür für Heiliges und Unheiliges (ArM5, [Seite 67](<Ars Magica Definitive Edition Basisregeln.md#zweites-gesicht-1>)). Sie kann erkennen, dass etwas entweder heilig oder unheilig ist, kann aber nicht zwischen beiden unterscheiden. Sie empfindet die emotionale Präsenz, die mit dem Göttlichen oder dem Infernalen verbunden ist, kann aber deren übernatürlichen Ursprung nicht genau bestimmen. So könnte sie einen Dämon in schöner Gestalt für einen Engel halten oder einen furchteinflößend aussehenden Engel für einen Dämon. Indem sie jedoch die vorherrschenden Emotionen oder Wünsche des Ziels identifiziert, kann man gewöhnlich eine gute Vorstellung davon gewinnen, welcher Sphäre das Ziel zugeordnet ist, vorausgesetzt, der Charakter kann seine Magieresistenz durchdringen.
 
 Leidenschaften spüren ist entweder eine Falsche Macht (siehe Falsche Mächte oben) oder der Höllensphäre zugeordnet. Das Vorhandensein infernaler Befleckung ermöglicht es dem Aspekt des Spürens von Heiligkeit und Unheiligkeit zu funktionieren. Wenn die Spieltruppe es zulässt, dass Göttliche Kräfte falsch sein können, kann dies die falsche Version von Gespür für Heiliges und Unheiliges sein.
 
@@ -4731,7 +4731,7 @@ Es liegt nahe, dass eine Umkehrung in die andere Richtung ebenso möglich wäre.
 
 Rang ist für Dämonen von großer Bedeutung, da er beeinflusst, wie sie einander behandeln; ein Herzog der Hölle muss sich einem Fürsten beugen, selbst wenn er gegen ihn intrigiert, weil der Fürst Autorität über den Herzog, seinen Untergebenen, besitzt. Diese Ränge haben für Menschen wenig Bedeutung, abgesehen von ihrer Ähnlichkeit mit feudalen Rangordnungen. Doch wenn Infernalisten beginnen, mit Dämonen und der Höllensphäre umzugehen, erlangen auch sie Bekanntheit in der Hölle. Viele von ihnen glauben, dass sich dies in einen Platz in der infernalen Hierarchie übersetzt, da Dämonen geringeren Status sich schneller einreihen und ihren Befehlen gehorchen.
 
-So hat das Infernale seine eigene Kategorie der Reputation, die das widerspiegelt, was die anderen Mächte der Hölle allgemein über den Charakter denken. Man muss kein Infernalist sein, um eine solche Reputation zu erlangen, da ein Charakter, der viele Dämonen besiegt, als Bedrohung angesehen werden könnte und eine Reputation wie Gefährlich 3 (Infernal) erwirbt. Jeder Infernalist erlangt jedoch schnell eine Infernale Reputation, da sie eine natürliche Folge des Umgangs mit Dämonen ist, und diese Reputationen steigen und fallen wie in ArM5, Seite 167, beschrieben.
+So hat das Infernale seine eigene Kategorie der Reputation, die das widerspiegelt, was die anderen Mächte der Hölle allgemein über den Charakter denken. Man muss kein Infernalist sein, um eine solche Reputation zu erlangen, da ein Charakter, der viele Dämonen besiegt, als Bedrohung angesehen werden könnte und eine Reputation wie Gefährlich 3 (Infernal) erwirbt. Jeder Infernalist erlangt jedoch schnell eine Infernale Reputation, da sie eine natürliche Folge des Umgangs mit Dämonen ist, und diese Reputationen steigen und fallen wie in ArM5, [Seite 167](<Ars Magica Definitive Edition Basisregeln.md#reputationen>), beschrieben.
 
 Jeder Charakter, der mit infernalen oder infernal befleckten Fertigkeiten, Tugenden oder Fehlern beginnt, darf mit einer angemessenen Infernalen Reputation der Stufe 1 starten. Infernale Reputationen gelten stets als vorteilhaft für den Charakter, selbst wenn sie den Umgang mit Dämonen erschweren, und können daher nicht mit Fehlern genommen werden, die eine schlechte Reputation verleihen, wie Berüchtigt.
 
@@ -4747,9 +4747,9 @@ Wenn ein Infernalist zwei oder mehr Verzerrungspunkte auf einmal erhält, oder j
 
 Ist er erfolgreich, gelingt es dem Infernalisten nach zwei Minuten, die bösartigen übernatürlichen Kräfte zu beherrschen, die ihn angreifen, und er erleidet keine langfristigen Schäden. Andernfalls übernehmen diese Kräfte die Kontrolle über ihn, reißen ihn aus dem Bewusstsein und zerreißen vorübergehend seinen Geist und seinen Körper. Für die Dauer ist es, als befände er sich in der Hölle, gepeinigt von intensivem Schmerz und erschreckenden Emotionen. Vielleicht sieht er grauenhafte Bilder, erlebt schuldbeladene Erinnerungen wieder oder wird schlicht erbarmungslos gequält.
 
-Diese körperliche und geistige Folter kann nur wenige Minuten oder viele Jahre dauern, abhängig vom Verzerrungswert des Charakters (verwende die Tabelle für die Dauer des Zwielichts des Magiers, ArM5, Seite 88). Während dieser Zeit kann er zu einem Geist werden oder sogar vollständig verschwinden. Sein Körper könnte an Ort und Stelle verbleiben, völlig still sein oder unaufhörlich vor Qual schreien, oder für die Dauer von einem Dämon besessen werden.
+Diese körperliche und geistige Folter kann nur wenige Minuten oder viele Jahre dauern, abhängig vom Verzerrungswert des Charakters (verwende die Tabelle für die Dauer des Zwielichts des Magiers, ArM5, [Seite 88](<Ars Magica Definitive Edition Basisregeln.md#das-zwielicht>)). Während dieser Zeit kann er zu einem Geist werden oder sogar vollständig verschwinden. Sein Körper könnte an Ort und Stelle verbleiben, völlig still sein oder unaufhörlich vor Qual schreien, oder für die Dauer von einem Dämon besessen werden.
 
-Wenn die Vituperation vorüber ist, kehrt der Charakter zurück und muss einen Alterungswurf ablegen, addiert aber seinen modifizierten Verzerrungswert zu seiner Summe. Langlebigkeitsrituale und andere Effekte, die das Leben des Charakters verlängern, fließen nicht in diese Formel ein, da sie während dieser Zeit übernatürlicher Peinigung nicht wirken. Dauert die Vituperation jedoch ein Quartal oder weniger, darf der Charakter den Modifikator für seine Lebensbedingungen im Vorjahr anwenden (ArM5, Seite 170), da dieser in seine allgemeine Gesundheit einfließt.
+Wenn die Vituperation vorüber ist, kehrt der Charakter zurück und muss einen Alterungswurf ablegen, addiert aber seinen modifizierten Verzerrungswert zu seiner Summe. Langlebigkeitsrituale und andere Effekte, die das Leben des Charakters verlängern, fließen nicht in diese Formel ein, da sie während dieser Zeit übernatürlicher Peinigung nicht wirken. Dauert die Vituperation jedoch ein Quartal oder weniger, darf der Charakter den Modifikator für seine Lebensbedingungen im Vorjahr anwenden (ArM5, [Seite 170](<Ars Magica Definitive Edition Basisregeln.md#altern>)), da dieser in seine allgemeine Gesundheit einfließt.
 
 **Alterungswurf: Stresswürfel (kein Patzer) + (Alter / 10, aufgerundet) – Lebensbedingungsmodifikator + Verzerrungswert**
 
@@ -4999,7 +4999,7 @@ Die beiden Methoden, die mit den Maleficia verbunden sind, heißen Ausschweifung
 > 
 > Aufgrund der ungewöhnlichen Eigenschaften von Effekten, die durch die Höllensphäre angetrieben werden, gibt es einige zusätzliche Zauberparameter für Maleficia, zusätzlich zu denen, die in den Regeln für hermetische Magie enthalten sind. Diese Parameter werden im Folgenden beschrieben. Jeder Infernalist kann diese beim Entwurf eines Effekts in ein Maleficium einbauen.
 > 
-> **Kreuzung (Reichweite):** Der Teufel ist dafür bekannt, Orte zu bevorzugen, an denen eine Straße eine andere kreuzt, vielleicht weil sie eine Wahl zwischen zwei Wegen darstellen. Diese Reichweite erlaubt es dem Charakter, ein Ziel zu beeinflussen, das sich auf einer Straße befindet, von einer anderen Straße aus, die sie kreuzt, und ist ansonsten wie die Feenmagie-Reichweite: Straße (ArM5, Seite 92), außer dass sich mit dieser Reichweite beliebig viele Straßen kreuzen können. Beachte, dass der infernale Zauberer keine Ziele auf derselben Straße wie er selbst beeinflussen kann. Sie ist am wirksamsten, wenn sie an einer Kreuzung gewirkt wird, da sie dort Ziele auf beiden Straßen beeinflussen kann. Die Reichweite Kreuzung entspricht derselben Stufe wie die Reichweite Stimme.
+> **Kreuzung (Reichweite):** Der Teufel ist dafür bekannt, Orte zu bevorzugen, an denen eine Straße eine andere kreuzt, vielleicht weil sie eine Wahl zwischen zwei Wegen darstellen. Diese Reichweite erlaubt es dem Charakter, ein Ziel zu beeinflussen, das sich auf einer Straße befindet, von einer anderen Straße aus, die sie kreuzt, und ist ansonsten wie die Feenmagie-Reichweite: Straße (ArM5, [Seite 92](<Ars Magica Definitive Edition Basisregeln.md#merinita--feenmagie>)), außer dass sich mit dieser Reichweite beliebig viele Straßen kreuzen können. Beachte, dass der infernale Zauberer keine Ziele auf derselben Straße wie er selbst beeinflussen kann. Sie ist am wirksamsten, wenn sie an einer Kreuzung gewirkt wird, da sie dort Ziele auf beiden Straßen beeinflussen kann. Die Reichweite Kreuzung entspricht derselben Stufe wie die Reichweite Stimme.
 > 
 > **Verflucht (Bedingung) (Dauer):** Anstatt einen Effekt sofort eintreten zu lassen, kann der Infernalist ihn mit dieser Dauer als bedingten Effekt wirken. Dies stellt sicher, dass der Effekt nur als Reaktion auf einen ungewöhnlichen Umstand eintritt, der dem Opfer als Teil des Zaubers klar dargelegt wird. Beispielsweise könnte eine Reihe von Flüchen bestimmen, dass ein neugieriges Mädchen schreckliche Schmerzen erleidet, wenn sie jemals jemandem von einer bestimmten Zeremonie erzählt, der sie beigewohnt hat, oder den Namen des Zauberers ausspricht, oder eine Kirche betritt. Der Effekt des Fluchs kann auch auf etwas anderes als die Person abzielen, die von der Bedingung betroffen ist, solange beide Ziele zum Zeitpunkt des Wirkens innerhalb der Reichweite des Effekts sind. Beispielsweise könnte ein Adliger verflucht werden, dass seine Tochter stirbt, wenn er jemals seine Sünden beichtet. Wenn entweder das Ziel oder das Opfer Magieresistenz besitzt, muss der Effekt zum Zeitpunkt des Wirkens durchdringen, um eine Wirkung zu haben, und er kann durch Kräfte, die andere Kräfte aufheben, aufgehoben werden, bevor der Effekt eintritt. Die Dauer (Bedingung) entspricht derselben Stufe wie die Dauer Sonne, erfordert aber zusätzlich eine zweite Dauer, um den ausgelösten Effekt zu beschreiben.
 > 
@@ -5791,7 +5791,7 @@ Ein Hexer kann diese Gelegenheit auch nutzen, um den Geist mit seinen anderen Kr
 > 
 > Die Kunst der Herbeirufung ist nicht notwendigerweise eine infernale Kraft (obwohl Abtragung, Bindung und Befehligung es sind); wie andere Übernatürliche Kräfte ist sie oft mit der Magie- oder Feensphäre verbunden und verwendet eine dieser Spalten auf der Aura-Wechselwirkungstabelle. Wegen ihrer unheilvollen Verbindungen mit Geistern und der Unterwelt ist die Herbeirufung jedoch stets befleckt — Göttliche Untersuchungskräfte nehmen ihren Einsatz als unheilig wahr, selbst wenn sie einer anderen Sphäre angehört. Dennoch ist sie sehr passend für Charaktere, die Nekromantie betreiben, Naturgeister beschwören oder die magischen Geheimnisse der Theurgie und Synthemata studieren (siehe *Die Mysterien (Überarbeitete Ausgabe)*). Zukünftige **Ars-Magica**-Ergänzungsbände könnten andere Formen der Herbeirufung enthalten, die nicht durch Assoziation unheilig sind (wie solche, die Feen oder Tiere rufen), mit verwandten Herbeirufungskünsten, die Charaktere nutzen können, um sie in Dienst zu binden.
 
-Beachte, dass die Interaktion mit dem Geist auf beliebige Weise — selbst ein einfaches Gespräch — einen Ausdauer + Konzentration-Wurf erfordert, um den Kreis aufrechtzuerhalten, wenn die Herbeirufungs- oder Geisternetzsumme nicht mindestens das Doppelte der Zielstufe betrug (siehe Konzentrationstabelle, ArM5, Seite 82). Wie oben erwähnt, gibt es Requisiten, die der Hexer in den Effekt einbeziehen kann, um es ihm zu erleichtern, die Konzentration aufrechtzuerhalten, aber es ist besser, nicht würfeln zu müssen, da immer die Möglichkeit eines Patzers besteht.
+Beachte, dass die Interaktion mit dem Geist auf beliebige Weise — selbst ein einfaches Gespräch — einen Ausdauer + Konzentration-Wurf erfordert, um den Kreis aufrechtzuerhalten, wenn die Herbeirufungs- oder Geisternetzsumme nicht mindestens das Doppelte der Zielstufe betrug (siehe Konzentrationstabelle, ArM5, [Seite 82](<Ars Magica Definitive Edition Basisregeln.md#sanfte-gabe>)). Wie oben erwähnt, gibt es Requisiten, die der Hexer in den Effekt einbeziehen kann, um es ihm zu erleichtern, die Konzentration aufrechtzuerhalten, aber es ist besser, nicht würfeln zu müssen, da immer die Möglichkeit eines Patzers besteht.
 
 ### Abtragung
 
@@ -6129,7 +6129,7 @@ ReVi 15
 
 R: Berührung, D: Mom., Z: Ind
 
-Dieser Zauber wird verwendet, um Vis infernaler Herkunft für den Gebrauch durch einen hermetischen Magus sicher zu machen. Er überträgt das Vis aus seiner ursprünglichen physischen Form in einen Gegenstand nach Wahl des Magus, der das ursprüngliche Vis berühren muss. Dieser Gegenstand muss eine geeignete Gestalt und ein geeignetes Material aufweisen (ArM5, Seite 97), um das übertragene Vis aufnehmen zu können. Allerdings funktioniert dieser Zauber nicht ganz so, wie die Venatoren glauben: Vis, das stark vom Infernalen korrumpiert ist, enthält noch immer einen Rest seiner Befleckung. Vis prava wird zu Vis sordida, Vis sordida wird zu Vis infesta, und nur Vis infesta wird zu normalem Vis (siehe Kapitel 1: Die Höllensphäre, Infernales Vis). Beachte, dass das Wirken dieses Zaubers auch die zusätzlichen Patzerwürfel nach sich zieht, die dem Umgang mit infernalem Vis innewohnen, obwohl das infernale Vis beim Wirken nicht verbraucht wird.
+Dieser Zauber wird verwendet, um Vis infernaler Herkunft für den Gebrauch durch einen hermetischen Magus sicher zu machen. Er überträgt das Vis aus seiner ursprünglichen physischen Form in einen Gegenstand nach Wahl des Magus, der das ursprüngliche Vis berühren muss. Dieser Gegenstand muss eine geeignete Gestalt und ein geeignetes Material aufweisen (ArM5, [Seite 97](<Ars Magica Definitive Edition Basisregeln.md#material-und-größentabellen>)), um das übertragene Vis aufnehmen zu können. Allerdings funktioniert dieser Zauber nicht ganz so, wie die Venatoren glauben: Vis, das stark vom Infernalen korrumpiert ist, enthält noch immer einen Rest seiner Befleckung. Vis prava wird zu Vis sordida, Vis sordida wird zu Vis infesta, und nur Vis infesta wird zu normalem Vis (siehe Kapitel 1: Die Höllensphäre, Infernales Vis). Beachte, dass das Wirken dieses Zaubers auch die zusätzlichen Patzerwürfel nach sich zieht, die dem Umgang mit infernalem Vis innewohnen, obwohl das infernale Vis beim Wirken nicht verbraucht wird.
 
 (Basis 10, +1 Berührung)
 
@@ -6145,7 +6145,7 @@ Der Zaubernde kann einen Dämon zwingen, seinen Befehlen zu gehorchen, durch Ein
 
 ### Apotropäische Meisterschaft
 
-Diese neue Spezialfähigkeit der Zaubermeisterschaft (siehe ArM5, Seite 87) wird von vielen Magi erlernt, die Dämonen verfolgen, gewöhnlich um Dämonen zu vernichten oder sie zu vertreiben. Allerdings ist sie auch für infernalistische Magi nützlich, weshalb sie üblicherweise im Geheimen gelehrt wird, um quaesitoriale Verfolgung zu vermeiden.
+Diese neue Spezialfähigkeit der Zaubermeisterschaft (siehe ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)) wird von vielen Magi erlernt, die Dämonen verfolgen, gewöhnlich um Dämonen zu vernichten oder sie zu vertreiben. Allerdings ist sie auch für infernalistische Magi nützlich, weshalb sie üblicherweise im Geheimen gelehrt wird, um quaesitoriale Verfolgung zu vermeiden.
 
 Sie erlaubt dem Zaubernden, seinen (Meisterschaftswert x Hierarchiewert) zur Effektstufe des gemeisterten Zaubers hinzuzuaddieren. Dies kann nur für Zauber genommen werden, die Infernale Macht direkt betreffen, wie *Ewige Auslöschung des Dämons* oder *Schutzkreis gegen Dämonen*. Zauber wie die *Aegis des Herdes*, die nicht angeben, welche Art von Macht sie betreffen, sind nicht zulässig.
 
@@ -6284,7 +6284,7 @@ Seit der Antike hat der Mensch Kreaturen aus den Schlünden der Hölle gedient u
 
 Nur sehr wenige Infernalisten üben ihre abscheulichen Kräfte allein aus — die meisten von ihnen versammeln sich in Gruppen, die sie als Hexenzirkel, Sabbat oder Kult bezeichnen mögen. Für regeltechnische Zwecke werden diese Gruppen als **Traditionen** bezeichnet. Indem sie auf ungefähr ähnliche Ziele hinarbeiten, steigern sie das Ausmaß des Bösen, das sie hervorbringen können. Sie unterstützen sich möglicherweise auch gegenseitig, indem sie einander die Geheimnisse ihrer Tradition lehren und ihr okkultes Wissen verbreiten. Infernalisten sind oft mit einem Dämon verbunden, der als Versucher und Lehrmeister der Gruppe fungiert. Wenn seine Infernalisten mächtiger werden, gewinnt der Dämon an Status in der Hölle, und so profitieren beide von der Verbindung.
 
-Alle Gefährten-Charaktere oder Magi, die auf irgendeine Weise vom Bösen berührt worden sind, können Übernatürliche Fertigkeiten erlernen, die mit der Höllensphäre verbunden sind — einen Verzerrungspunkt aus einer Infernalen Quelle zu erhalten genügt beispielsweise, ebenso wie einen Pakt mit einem Dämon zu schließen. Jede Art von Infernaler Tugend oder Infernalen Fehler ermöglicht es, diese Fertigkeiten zu erlernen. Diese Studientätigkeit folgt denselben Regeln wie das Erlernen magischer Übernatürlicher Fertigkeiten durch Magi (ArM5, Seite 166) — der Charakter muss seine Werte in anderen Übernatürlichen Fertigkeiten von den in einem Studienquartal erzielten Gesamterfahrungspunkten abziehen und muss in diesem Quartal einen Wert von 1 erreichen, um die Fertigkeit zu erlernen.
+Alle Gefährten-Charaktere oder Magi, die auf irgendeine Weise vom Bösen berührt worden sind, können Übernatürliche Fertigkeiten erlernen, die mit der Höllensphäre verbunden sind — einen Verzerrungspunkt aus einer Infernalen Quelle zu erhalten genügt beispielsweise, ebenso wie einen Pakt mit einem Dämon zu schließen. Jede Art von Infernaler Tugend oder Infernalen Fehler ermöglicht es, diese Fertigkeiten zu erlernen. Diese Studientätigkeit folgt denselben Regeln wie das Erlernen magischer Übernatürlicher Fertigkeiten durch Magi (ArM5, [Seite 166](<Ars Magica Definitive Edition Basisregeln.md#einflüstern-1>)) — der Charakter muss seine Werte in anderen Übernatürlichen Fertigkeiten von den in einem Studienquartal erzielten Gesamterfahrungspunkten abziehen und muss in diesem Quartal einen Wert von 1 erreichen, um die Fertigkeit zu erlernen.
 
 Infernale Traditionen verfügen gewöhnlich über vier Übernatürliche Fertigkeiten, auf die sie sich spezialisieren (diese werden ihre **Bevorzugten Fertigkeiten** genannt). Mitglieder der Tradition können diese Übernatürlichen Fertigkeiten erlernen, ohne einen Malus auf ihre Studiengesamtwerte zu erleiden, und müssen ihre Werte in diesen Fertigkeiten beim Erlernen anderer Infernaler Übernatürlicher Fertigkeiten nicht abziehen. Allerdings können Charaktere diesen Vorteil nur aus dem Beitritt zu einer einzigen Infernalen Tradition in ihrem Leben erhalten — wenn sie eine Bevorzugte Fertigkeit einer Tradition erlernen, können sie niemals irgendwelche Bevorzugten Fertigkeiten anderer Traditionen als Bevorzugte Fertigkeiten erlernen.
 
@@ -6398,7 +6398,7 @@ Das vielleicht berühmteste Beispiel dieses Phänomens stammt aus Rom in den Jah
 
 > ## Abenteueridee: Die Nachtschlachten
 > 
-> Ohne es zu wissen, wurde einer der Charaktere mit einer Glückshaube geboren, und als er in einem Dorf übernachtet, das von den Stregoni heimgesucht wird und nahe einer der Vis-Quellen des Konvents liegt, wird er in den Ritus der Benandanti verwickelt. Er erwacht inmitten einer weiten Landschaft, und andere phantasmatische Nachtwandler erscheinen um ihn herum und reichen ihm einen Fenchelstängel. Dann greifen die Stregoni vom Himmel herab an, in Gestalt von Frauen mit den Flügeln und Klauen von Eulen. Jeder, der in einer Nachtschlacht getötet wird, erleidet eine Lähmung, die wie eine Schwächung (ArM5, Seite 180) behandelt werden sollte, die einer Mittelschweren Wunde entspricht. Wenn die Nachtwandler die Schlacht gewinnen, ist die Ernte sicher, und die örtliche Vis-Quelle bringt ihren jährlichen Ertrag hervor. Sollten die Stregoni siegen, wird das Vis zu Vis prava verdorben (siehe Kapitel 1: Die Höllensphäre, Infernales Vis) und wahrscheinlich von den Hexen gestohlen.
+> Ohne es zu wissen, wurde einer der Charaktere mit einer Glückshaube geboren, und als er in einem Dorf übernachtet, das von den Stregoni heimgesucht wird und nahe einer der Vis-Quellen des Konvents liegt, wird er in den Ritus der Benandanti verwickelt. Er erwacht inmitten einer weiten Landschaft, und andere phantasmatische Nachtwandler erscheinen um ihn herum und reichen ihm einen Fenchelstängel. Dann greifen die Stregoni vom Himmel herab an, in Gestalt von Frauen mit den Flügeln und Klauen von Eulen. Jeder, der in einer Nachtschlacht getötet wird, erleidet eine Lähmung, die wie eine Schwächung (ArM5, [Seite 180](<Ars Magica Definitive Edition Basisregeln.md#krankheiten>)) behandelt werden sollte, die einer Mittelschweren Wunde entspricht. Wenn die Nachtwandler die Schlacht gewinnen, ist die Ernte sicher, und die örtliche Vis-Quelle bringt ihren jährlichen Ertrag hervor. Sollten die Stregoni siegen, wird das Vis zu Vis prava verdorben (siehe Kapitel 1: Die Höllensphäre, Infernales Vis) und wahrscheinlich von den Hexen gestohlen.
 
 Als andere Götter in der Legende verblassten, stahlen Dämonen rasch ihren Ruhm und auch viele ihrer Anhänger. Auf diese Weise entstand eine Infernale Tradition von Frauen und Männern, die Dämonen als heidnische Götter anbeteten. Man beschrieb sie oft als Hexen, die durch die Nacht auf schrecklichen Bestien ritten, durch die Luft auf unnatürlichen Winden, oder durch die Träume und Albträume der Tugendhaften, einem struppigen, maskulinen Dämon der Wildnis folgend, der leicht in das populäre Bild Satans passte, oder einer furchterregenden Dämonin, die die Gebildeten als Herodias (einer bösen Frau aus der Bibel) oder Diana bezeichneten, nach der römischen Göttin der Jagd. Diese Infernalisten konnten viele Heiden aus ihren den alten Gottheiten gewidmeten Kulten weglocken, oft indem sie sie davon überzeugten, sie verehrten einfach einen anderen Aspekt desselben Gottes oder derselben Göttin.
 
@@ -6606,7 +6606,7 @@ Ihre Geheimgesellschaft ist ähnlich strukturiert wie die neu entstehenden Bette
 
 Der Ordo Vagorum ist im Mythischen Europa äußerst jung und erst in den letzten ungefähr 50 Jahren zu einer erkennbaren Organisation geworden. Im Jahr 1220 gibt es im Wesentlichen drei „Kapitel": den zentralen Orden in Paris, der sich über den Großteil Nordfrankreichs ausgebreitet hat; eine kleinere Gruppe namens die Vagi Scholares („Wandernde Gelehrte") mit Schwerpunkt in Österreich und den östlichen Marken der Alpen; und einen Clan von Vagantes aus Norditalien, der manchmal Eberhardini genannt wird. Allerdings sind all diese Infernalisten äußerst mobil und reisen oft, wohin die Laune sie führt, einzeln oder sogar als Gruppen fahrender Spielleute.
 
-Der Vagabundenorden hat sehr lose Bindungen zum Orden des Hermes, durch die vielen Rotkappen, die als Mercere-Societas den Goliarden beigetreten sind (siehe *Häuser des Hermes: Wahre Linien*, Seite 93, für weitere Einzelheiten), obwohl keine der beiden Gruppen wissentlich mit der anderen verkehrt. Es gibt einige wenige Legenden und Hinweise unter dem Gesindel über einen geheimen Orden von Zauberern, der über sie wacht, aber sowohl die Rotkappen als auch die infernalistischen Vagantes glauben, diese Hinweise bezögen sich auf sie selbst, und sehen daher wenig Grund, ihnen weiter nachzugehen. Dennoch ist es kaum zu glauben, dass zwei Gruppen mit demselben Namen und demselben Hintergrund im selben Teil der Welt koexistieren könnten, ohne irgendeine Verbindung zueinander, sodass vielleicht wirklich mehr hinter ihrer Beziehung steckt, als auf den ersten Blick erkennbar ist.
+Der Vagabundenorden hat sehr lose Bindungen zum Orden des Hermes, durch die vielen Rotkappen, die als Mercere-Societas den Goliarden beigetreten sind (siehe *Häuser des Hermes: Wahre Linien*, [Seite 93](<Ars Magica 5e - Häuser des Hermes - Wahre Linien.md#societas-merceris-die-goliarden>), für weitere Einzelheiten), obwohl keine der beiden Gruppen wissentlich mit der anderen verkehrt. Es gibt einige wenige Legenden und Hinweise unter dem Gesindel über einen geheimen Orden von Zauberern, der über sie wacht, aber sowohl die Rotkappen als auch die infernalistischen Vagantes glauben, diese Hinweise bezögen sich auf sie selbst, und sehen daher wenig Grund, ihnen weiter nachzugehen. Dennoch ist es kaum zu glauben, dass zwei Gruppen mit demselben Namen und demselben Hintergrund im selben Teil der Welt koexistieren könnten, ohne irgendeine Verbindung zueinander, sodass vielleicht wirklich mehr hinter ihrer Beziehung steckt, als auf den ersten Blick erkennbar ist.
 
 Sowohl Rotkappe- als auch Nicht-Rotkappe-Vagantes sollten die Anforderungen für den Beitritt zu den Goliarden erfüllen, wie in *Häuser des Hermes: Wahre Linien* dargelegt. Das heißt, sie sollten entweder Kleriker oder Gebildet wählen und irgendeine Art von sündhaftem Zwang besitzen. Sie sollten auch eine Tugend oder einen Fehler haben, der ihren Infernalen Hintergrund erklärt, wie Diabolische Vergangenheit oder Student des Infernalen, und können jede der oben aufgeführten Bevorzugten Fertigkeiten bei der Charaktererschaffung als Tugenden wählen. Für einen Magus unter den Vagantes sollte der Charakter entweder dem Haus Mercere oder dem Haus Jerbiton angehören, letzteres mit starken Bindungen zu den Universitäten entworfen.
 

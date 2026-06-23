@@ -84,6 +84,19 @@ Vor dem Aufgeben eines Verweises: Prüfe, ob die Zieldatei in `german-wip/` exis
 
 Speichere den aktualisierten Report als `tmp/resolved.json`.
 
+### 3g. Aufgelöste Seitenzuordnungen in Configs zurückschreiben
+
+Alle in Schritt 3 neu aufgelösten Seite→Anker-Zuordnungen müssen in die `page_to_anchors`-Mappings der jeweiligen Config-Dateien unter `tools/link-refs/configs/` eingetragen werden, damit sie bei künftigen Durchläufen automatisch aufgelöst werden.
+
+1. **Sammle** alle aufgelösten Verweise aus `tmp/resolved.json`, die einen `resolved_anchor` haben.
+2. **Gruppiere** sie nach Zieldatei:
+   - Interne Verweise (`type: "internal"`) → Config der bearbeiteten Datei.
+   - Cross-File-Verweise (`type: "cross_file"`) → Config der jeweiligen `target_file`.
+3. **Für jede Zieldatei:**
+   - Falls keine Config existiert: Erstelle eine mit `version`, `source_file` und leerem `page_to_anchors`.
+   - Trage jede neue Seite→Anker-Zuordnung ein (nur wenn die Seite noch nicht in der Config enthalten ist, oder der Anker noch nicht in der Liste der Seite steht).
+4. **Überspringe** Verweise, die bewusst auf `null` gesetzt wurden (nicht übersetzbar, Substring-Überlappung, 5th-Ed-Seitenzahlen ohne DE-Entsprechung).
+
 ## Schritt 4 — Links einfügen
 
 ```bash

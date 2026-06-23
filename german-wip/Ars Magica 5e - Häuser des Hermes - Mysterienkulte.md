@@ -48,130 +48,130 @@ JUNI 2006
 
 ### Mysterienkulte
 
-**Einführung: Die Mechanik der Einweihung**<br>
-&emsp;Potente Magie<br>
+**[Einführung: Die Mechanik der Einweihung](#einführung-die-mechanik-der-einweihung)**<br>
+&emsp;[Potente Magie](#potente-magie)<br>
 <br>
-**Kapitel Eins: Haus Bjornaer**<br>
-&emsp;Geschichte<br>
-&emsp;&emsp;Bjornaer die Gründerin<br>
-&emsp;&emsp;Die Gründung des Hauses Bjornaer<br>
-&emsp;&emsp;Die frühen Jahre des Hauses<br>
-&emsp;&emsp;Der Schismakrieg<br>
-&emsp;&emsp;Jüngste Ereignisse<br>
-&emsp;Bräuche des Hauses Bjornaer<br>
-&emsp;&emsp;Harmonisten & Wildisten<br>
-&emsp;&emsp;Haus, Clan & Sippe<br>
-&emsp;&emsp;Der Bjornaer-Rat<br>
-&emsp;&emsp;Die Versammlung der Zwölf Jahre<br>
-&emsp;&emsp;Die Lehrlingszeit eines Bjornaer-Magus<br>
-&emsp;Das Herztier<br>
-&emsp;&emsp;Die Wahl des Herztiers<br>
-&emsp;&emsp;Das Herztier im Spiel<br>
-&emsp;Die Mysterien des Hauses Bjornaer<br>
-&emsp;&emsp;Einweihung in die Clan-Mysterien<br>
-&emsp;&emsp;Einweihung in die Haus-Mysterien<br>
-&emsp;&emsp;Einweihung des Inneren Herztiers<br>
-&emsp;&emsp;Die Drei Inneren Mysterien<br>
-&emsp;&emsp;Das Innere Herztier im Spiel<br>
-&emsp;&emsp;Verfeinerung des Inneren Herztiers<br>
-&emsp;Die Jägerin im Wald<br>
-&emsp;&emsp;Geschichte der Jägerin im Wald<br>
-&emsp;&emsp;Die Jägerin heute<br>
-&emsp;&emsp;Aufbau der Jägerin<br>
-&emsp;Die Magie des Hauses Bjornaer<br>
-&emsp;Charaktere des Hauses Bjornaer<br>
-&emsp;&emsp;Tugenden & Fehler<br>
-&emsp;&emsp;Neue Tugenden<br>
-&emsp;&emsp;Neue Fehler<br>
-&emsp;&emsp;Neue Fertigkeiten<br>
-&emsp;&emsp;Anhang: Gewöhnliche Tiere<br>
+**[Kapitel Eins: Haus Bjornaer](#kapitel-eins-haus-bjornaer)**<br>
+&emsp;[Geschichte](#geschichte-2)<br>
+&emsp;&emsp;[Bjornaer die Gründerin](#bjornaer-die-gründerin)<br>
+&emsp;&emsp;[Die Gründung von Haus Bjornaer](#die-gründung-von-haus-bjornaer)<br>
+&emsp;&emsp;[Die frühen Jahre des Hauses](#die-frühen-jahre-des-hauses)<br>
+&emsp;&emsp;[Der Schismakrieg](#der-schismakrieg)<br>
+&emsp;&emsp;[Jüngste Ereignisse](#jüngste-ereignisse)<br>
+&emsp;[Bräuche von Haus Bjornaer](#bräuche-von-haus-bjornaer)<br>
+&emsp;&emsp;[Harmonisten & Wildisten](#harmonisten-wildisten)<br>
+&emsp;&emsp;[Haus, Clan & Sippe](#haus-clan-sippe)<br>
+&emsp;&emsp;[Der Bjornaer-Rat](#der-bjornaer-rat)<br>
+&emsp;&emsp;[Die Versammlung der Zwölf Jahre](#die-versammlung-der-zwölf-jahre)<br>
+&emsp;&emsp;[Die Lehre eines Bjornaer-Magus](#die-lehre-eines-bjornaer-magus)<br>
+&emsp;[Das Herztier](#das-herztier)<br>
+&emsp;&emsp;[Wahl des Herztieres](#wahl-des-herztieres)<br>
+&emsp;&emsp;[Das Herztier im Spiel](#das-herztier-im-spiel)<br>
+&emsp;[Die Mysterien des Hauses Bjornaer](#die-mysterien-des-hauses-bjornaer)<br>
+&emsp;&emsp;[Einweihung in die Clan-Mysterien](#einweihung-in-die-clan-mysterien)<br>
+&emsp;&emsp;[Einweihung in die Haus-Mysterien](#einweihung-in-die-haus-mysterien)<br>
+&emsp;&emsp;[Einweihung der Mysterien des Inneren Herztieres](#einweihung-der-mysterien-des-inneren-herztieres)<br>
+&emsp;&emsp;[Die drei Inneren Mysterien](#die-drei-inneren-mysterien)<br>
+&emsp;&emsp;[Das Innere Herztier im Spiel](#das-innere-herztier-im-spiel)<br>
+&emsp;&emsp;[Verfeinerung des Inneren Herztieres](#verfeinerung-des-inneren-herztieres)<br>
+&emsp;[Die Jägerin im Wald](#die-jägerin-im-wald)<br>
+&emsp;&emsp;[Geschichte der Jägerin im Wald](#geschichte-der-jägerin-im-wald)<br>
+&emsp;&emsp;[Die Jägerin heute](#die-jägerin-heute)<br>
+&emsp;&emsp;[Aufbau der Jägerin](#aufbau-der-jägerin)<br>
+&emsp;[Die Magie des Hauses Bjornaer](#die-magie-des-hauses-bjornaer)<br>
+&emsp;[Charaktere des Hauses Bjornaer](#charaktere-des-hauses-bjornaer)<br>
+&emsp;&emsp;[Tugenden & Fehler](#tugenden-fehler)<br>
+&emsp;&emsp;[Neue Tugenden](#neue-tugenden-3)<br>
+&emsp;&emsp;[Neue Fehler](#neue-fehler-3)<br>
+&emsp;&emsp;[Neue Fertigkeiten](#neue-fertigkeiten-1)<br>
+&emsp;&emsp;[Anhang: Weltliche Tiere](#anhang-weltliche-tiere)<br>
 <br>
-**Kapitel Zwei: Haus Criamon**<br>
-&emsp;Die Gründerin<br>
-&emsp;Was das Haus glaubt<br>
-&emsp;Praktiken & Überzeugungen<br>
-&emsp;&emsp;Rechtes Handeln<br>
-&emsp;&emsp;Rätsel<br>
-&emsp;&emsp;Stigmata<br>
-&emsp;&emsp;Regeln zur Körpermodifikation<br>
-&emsp;&emsp;Das Leben als Criamon-Magus<br>
-&emsp;&emsp;Die Gorgiasten<br>
-&emsp;&emsp;Letzte Übertragung<br>
-&emsp;&emsp;Verfälschungen: Fortbestehende Probleme<br>
-&emsp;Die Höhle der Zuckenden Schatten<br>
-&emsp;&emsp;Das Zentrale Gelege<br>
-&emsp;&emsp;Die Prima<br>
-&emsp;Die Pfade<br>
-&emsp;&emsp;Stationen<br>
-&emsp;&emsp;Enigmatische Weisheit<br>
-&emsp;&emsp;Der Pfad des Körpers<br>
-&emsp;&emsp;Der Pfad des Scheins<br>
-&emsp;&emsp;Der Pfad des Streits<br>
-&emsp;&emsp;Der Pfad des Rückwärtsgehens<br>
-&emsp;&emsp;Andere Pfade<br>
-&emsp;&emsp;Neue Tugenden<br>
-&emsp;&emsp;Neue Fehler<br>
+**[Kapitel Zwei: Haus Criamon](#kapitel-zwei-haus-criamon)**<br>
+&emsp;[Der Gründer](#der-gründer)<br>
+&emsp;[Woran das Haus glaubt](#woran-das-haus-glaubt)<br>
+&emsp;[Praktiken & Überzeugungen](#praktiken-überzeugungen)<br>
+&emsp;&emsp;[Rechtes Handeln](#rechtes-handeln)<br>
+&emsp;&emsp;[Rätsel](#rätsel)<br>
+&emsp;&emsp;[Stigmata](#stigmata)<br>
+&emsp;&emsp;[Regeln zur Körpermodifikation](#regeln-zur-körpermodifikation)<br>
+&emsp;&emsp;[Das Leben als Criamon-Magus](#das-leben-als-criamon-magus)<br>
+&emsp;&emsp;[Die Gorgiasten](#die-gorgiasten)<br>
+&emsp;&emsp;[Letzte Übertragung](#letzte-übertragung)<br>
+&emsp;&emsp;[Verfälschungen: Nachwirkende Probleme](#verfälschungen-nachwirkende-probleme)<br>
+&emsp;[Die Höhle der Zuckenden Schatten](#die-höhle-der-zuckenden-schatten)<br>
+&emsp;&emsp;[Das Zentrale Gelege](#das-zentrale-gelege)<br>
+&emsp;&emsp;[Die Prima](#die-prima)<br>
+&emsp;[Die Pfade](#die-pfade)<br>
+&emsp;&emsp;[Stationen](#stationen)<br>
+&emsp;&emsp;[Enigmatische Weisheit](#enigmatische-weisheit)<br>
+&emsp;&emsp;[Der Pfad des Körpers](#der-pfad-des-körpers)<br>
+&emsp;&emsp;[Der Pfad des Scheins](#der-pfad-des-scheins)<br>
+&emsp;&emsp;[Der Pfad des Streits](#der-pfad-des-streits)<br>
+&emsp;&emsp;[Der Pfad des Rückwärtsgehens](#der-pfad-des-rückwärtsgehens)<br>
+&emsp;&emsp;[Andere Pfade](#andere-pfade)<br>
+&emsp;&emsp;[Neue Tugenden](#neue-tugenden-3)<br>
+&emsp;&emsp;[Neue Fehler](#neue-fehler-3)<br>
 <br>
-**Kapitel Drei: Haus Merinita**<br>
-&emsp;Geschichte<br>
-&emsp;&emsp;Das gespaltene Haus<br>
-&emsp;&emsp;200 Jahre danach<br>
-&emsp;&emsp;Die Zukunft des Hauses<br>
-&emsp;Hausgesellschaft<br>
-&emsp;&emsp;Die Suche nach Arkadien<br>
-&emsp;&emsp;Glaube & Mythisches Europa<br>
-&emsp;&emsp;Träumen Feen vom Schäfchenzählen?<br>
-&emsp;&emsp;Die Getrennten Sphären<br>
-&emsp;Merinita-Mysterien<br>
-&emsp;&emsp;Neue Tugenden<br>
-&emsp;&emsp;Neue Fehler<br>
-&emsp;&emsp;Neue Fertigkeiten<br>
-&emsp;&emsp;Vertraute<br>
-&emsp;&emsp;Arkadische Mysterien<br>
-&emsp;&emsp;Volksmysterien<br>
-&emsp;&emsp;Illusionsmysterien<br>
-&emsp;&emsp;Naturmysterien<br>
+**[Kapitel Drei: Haus Merinita](#kapitel-drei-haus-merinita)**<br>
+&emsp;[Geschichte](#geschichte-2)<br>
+&emsp;&emsp;[Das gespaltene Haus](#das-gespaltene-haus)<br>
+&emsp;&emsp;[200 Jahre danach](#200-jahre-danach)<br>
+&emsp;&emsp;[Die Zukunft des Hauses](#die-zukunft-des-hauses)<br>
+&emsp;[Hausgesellschaft](#hausgesellschaft)<br>
+&emsp;&emsp;[Die Suche nach Arkadien](#die-suche-nach-arkadien)<br>
+&emsp;&emsp;[Glaube und Mythisches Europa](#glaube-und-mythisches-europa)<br>
+&emsp;&emsp;[Träumen Feen vom Schäfchenzählen?](#träumen-feen-vom-schäfchenzählen)<br>
+&emsp;&emsp;[Die getrennten Sphären](#die-getrennten-sphären)<br>
+&emsp;[Merinita-Mysterien](#merinita-mysterien)<br>
+&emsp;&emsp;[Neue Tugenden](#neue-tugenden-3)<br>
+&emsp;&emsp;[Neue Fehler](#neue-fehler-3)<br>
+&emsp;&emsp;[Neue Fertigkeiten](#neue-fertigkeiten-1)<br>
+&emsp;&emsp;[Vertraute](#vertraute)<br>
+&emsp;&emsp;[Arkadische Mysterien](#arkadische-mysterien)<br>
+&emsp;&emsp;[Volksmysterien](#volksmysterien)<br>
+&emsp;&emsp;[Illusionsmysterien](#illusionsmysterien)<br>
+&emsp;&emsp;[Naturmysterien](#naturmysterien)<br>
 <br>
-**Kapitel Vier: Haus Verditius**<br>
-&emsp;Geschichte<br>
-&emsp;&emsp;Der Kult des Hephaistos<br>
-&emsp;&emsp;Der Kult des Vulkan<br>
-&emsp;&emsp;Der Gründer Verditius<br>
-&emsp;&emsp;Die frühen Jahre des Hauses Verditius<br>
-&emsp;&emsp;Das Haus nach Verditius<br>
-&emsp;&emsp;Krisen im Orden<br>
-&emsp;&emsp;Konflikte im Haus<br>
-&emsp;&emsp;Aktuelle Anliegen<br>
-&emsp;Verditius-Magi<br>
-&emsp;&emsp;Lehrlingszeit<br>
-&emsp;&emsp;Geprüfter Magus<br>
-&emsp;&emsp;Gesellen und Meister<br>
-&emsp;&emsp;Der Primus<br>
-&emsp;&emsp;Preise für Verzauberungen<br>
-&emsp;&emsp;Vendettas<br>
-&emsp;&emsp;Der Wettstreit<br>
-&emsp;Der Mysterienkult des Verditius<br>
-&emsp;&emsp;Einweihungsmysterien des Verditius<br>
-&emsp;&emsp;Das Äußere Mysterium der Verditius-Magie<br>
-&emsp;&emsp;Die Inneren Mysterien erlernen<br>
-&emsp;&emsp;Hybris<br>
-&emsp;&emsp;Prüfungen<br>
-&emsp;&emsp;Bruderschaften<br>
-&emsp;Innere Mysterien des Hauses Verditius<br>
-&emsp;&emsp;Zauberwerkzeuge verzaubern<br>
-&emsp;&emsp;Qualitätsgegenstände<br>
-&emsp;&emsp;Verzauberte Gegenstände neu schmieden<br>
-&emsp;&emsp;Ältere Verditius-Runen<br>
-&emsp;&emsp;Automaten<br>
-&emsp;&emsp;Fluch binden<br>
-&emsp;&emsp;Magische Kreaturen binden<br>
-&emsp;&emsp;Abgestimmte Gegenstände<br>
-&emsp;Tugenden & Fehler<br>
-&emsp;&emsp;Neue Tugenden<br>
-&emsp;&emsp;Neue Fehler<br>
-&emsp;&emsp;Anhang: Erweiterte Form- & Materialboni<br>
+**[Kapitel Vier: Haus Verditius](#kapitel-vier-haus-verditius)**<br>
+&emsp;[Geschichte](#geschichte-2)<br>
+&emsp;&emsp;[Der Kult des Hephaistos](#der-kult-des-hephaistos)<br>
+&emsp;&emsp;[Der Kult des Vulkan](#der-kult-des-vulkan)<br>
+&emsp;&emsp;[Der Gründer Verditius](#der-gründer-verditius)<br>
+&emsp;&emsp;[Die frühen Jahre des Hauses Verditius](#die-frühen-jahre-des-hauses)<br>
+&emsp;&emsp;[Das Haus nach Verditius](#das-haus-nach-verditius)<br>
+&emsp;&emsp;[Krisen im Orden](#krisen-im-orden)<br>
+&emsp;&emsp;[Konflikte im Haus](#konflikte-im-haus)<br>
+&emsp;&emsp;[Aktuelle Belange](#aktuelle-belange)<br>
+&emsp;[Verditius-Magi](#verditius-magi)<br>
+&emsp;&emsp;[Lehrzeit](#lehrzeit)<br>
+&emsp;&emsp;[Geprüfter Magus](#geprüfter-magus)<br>
+&emsp;&emsp;[Gesellen und Meister](#gesellen-und-meister)<br>
+&emsp;&emsp;[Der Primus](#der-primus)<br>
+&emsp;&emsp;[Preise für Verzauberungen](#preise-für-verzauberungen)<br>
+&emsp;&emsp;[Vendettas](#vendetta)<br>
+&emsp;&emsp;[Der Wettstreit](#der-wettstreit)<br>
+&emsp;[Der Mysterienkult des Verditius](#der-mysterienkult-des-verditius)<br>
+&emsp;&emsp;[Einweihung in die Mysterien des Verditius](#einweihung-in-die-mysterien-des-verditius)<br>
+&emsp;&emsp;[Das Äußere Mysterium der Verditius-Magie](#das-äußere-mysterium-der-verditius-magie)<br>
+&emsp;&emsp;[Erlernen der Inneren Mysterien](#erlernen-der-inneren-mysterien)<br>
+&emsp;&emsp;[Hybris](#hybris)<br>
+&emsp;&emsp;[Prüfungen](#prüfungen)<br>
+&emsp;&emsp;[Bruderschaften](#bruderschaften)<br>
+&emsp;[Innere Mysterien des Hauses Verditius](#innere-mysterien-des-hauses-verditius)<br>
+&emsp;&emsp;[Zauberwerkzeuge verzaubern](#zauberwerkzeuge-verzaubern-kleines-hausmysterium)<br>
+&emsp;&emsp;[Qualitätsgegenstände](#qualitätsgegenstände-kleines-hausmysterium)<br>
+&emsp;&emsp;[Verzauberte Gegenstände umschmieden](#verzauberte-gegenstände-umschmieden-kleines-hausmysterium)<br>
+&emsp;&emsp;[Ältere Verditius-Runen](#ältere-verditius-runen)<br>
+&emsp;&emsp;[Automaten](#automaten-großes-hausmysterium)<br>
+&emsp;&emsp;[Fluch binden](#fluch-binden-großes-hausmysterium)<br>
+&emsp;&emsp;[Magische Tiere binden](#magische-tiere-binden-großes-hausmysterium)<br>
+&emsp;&emsp;[Abgestimmte Gegenstände](#abgestimmte-gegenstände-großes-hausmysterium)<br>
+&emsp;[Tugenden & Fehler](#tugenden-fehler)<br>
+&emsp;&emsp;[Neue Tugenden](#neue-tugenden-3)<br>
+&emsp;&emsp;[Neue Fehler](#neue-fehler-3)<br>
+&emsp;&emsp;[Anhang: Erweiterte Form- & Materialboni](#anhang-erweiterte-form--materialboni)<br>
 <br>
-**Mitwirkende**<br>
+**[Mitwirkende](#mitwirkende)**<br>
 
 # Einführung: Die Mechanik der Einweihung
 
@@ -261,7 +261,7 @@ Eine Maga mit Potenter Magie darf auch neue Potente Zauber (siehe unten) innerha
 
 #### Potente Zauber
 
-Ein Potenter Zauber hat einen Bonus, der als seine Potenz bekannt ist und sich aus der Kombination eines oder mehrerer Zauberwerkzeuge im Zauberentwurf ergibt. Zauberwerkzeuge verwenden die Faktoren aus der Tabelle der Form- und Materialboni (siehe ArMDE, Seite 110): Jedes Zauberwerkzeug liefert einen Bonus. (Falls mehr als ein Bonus möglich ist, legt der Zauberentwurf fest, welcher verwendet wird.)
+Ein Potenter Zauber hat einen Bonus, der als seine Potenz bekannt ist und sich aus der Kombination eines oder mehrerer Zauberwerkzeuge im Zauberentwurf ergibt. Zauberwerkzeuge verwenden die Faktoren aus der Tabelle der Form- und Materialboni (siehe ArMDE, [Seite 110](<Ars Magica Definitive Edition Basisregeln.md#tabelle-der-form-und-materialboni>)): Jedes Zauberwerkzeug liefert einen Bonus. (Falls mehr als ein Bonus möglich ist, legt der Zauberentwurf fest, welcher verwendet wird.)
 
 **Potenz = Summe des Bonus jedes Zauberwerkzeugs**
 
@@ -301,7 +301,7 @@ Wenn man sie fragt, wissen die meisten Magi über die Mitglieder von Haus Bjorna
 > 
 > **Domus Magna:** Crintera im Rheintribunal
 > 
-> **Prima:** Falke. Ihr wurde diese Position im Haus aufgedrängt, und sie ringt darum, die Eigenschaften einer Führungspersönlichkeit zu entwickeln. Gegenwärtig verfolgt sie eine Strategie der Isolation und Geduld und bemüht sich, das Vertrauen der Quaesitores und anderer im Orden zurückzugewinnen. Falkes Herztier ist ein silbergrauer Falke mit weiß gebänderten Flügeln. Weitere Informationen zu Falke finden sich in *Wächter des Waldes: Das Rhein-Tribunal*, Seite 96.
+> **Prima:** Falke. Ihr wurde diese Position im Haus aufgedrängt, und sie ringt darum, die Eigenschaften einer Führungspersönlichkeit zu entwickeln. Gegenwärtig verfolgt sie eine Strategie der Isolation und Geduld und bemüht sich, das Vertrauen der Quaesitores und anderer im Orden zurückzugewinnen. Falkes Herztier ist ein silbergrauer Falke mit weiß gebänderten Flügeln. Weitere Informationen zu Falke finden sich in *Wächter des Waldes: Das Rhein-Tribunal*, [Seite 96](<Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md#falke-prima-des-bjornaer>).
 > 
 > **Bevorzugte Tribunale:** Das Novgorod- und das Loch-Leglean-Tribunal, wo es noch viele wilde Orte gibt, durch die man ungestört streifen kann, gefolgt vom Rheintribunal.
 > 
@@ -331,7 +331,7 @@ Als Geschichten über eine reisende Hexe die Ohren des Stammes erreichten, schic
 
 > ### Crintera: Domus Magna
 > 
-> Die Domus Magna von Haus Bjornaer ist Crintera, gelegen auf der Insel Rügen in der Ostsee, knapp vor der Nordküste Deutschlands. Ihre ständigen Mitglieder sind die sechs Mitglieder des Bjornaer-Rats. Der eigentliche Konvent befindet sich in einer Regio inmitten eines magischen Waldes. Neben den sechs Hütten des Bjornaer-Rats verfügt die oberste Ebene der Regio über einen großen Versammlungsplatz, an dem die Versammlung der Zwölf Jahre abgehalten wird. Weitere Informationen über Crintera und die Mitglieder des Bjornaer-Rats finden sich in *Wächter des Waldes*, Seite 92.
+> Die Domus Magna von Haus Bjornaer ist Crintera, gelegen auf der Insel Rügen in der Ostsee, knapp vor der Nordküste Deutschlands. Ihre ständigen Mitglieder sind die sechs Mitglieder des Bjornaer-Rats. Der eigentliche Konvent befindet sich in einer Regio inmitten eines magischen Waldes. Neben den sechs Hütten des Bjornaer-Rats verfügt die oberste Ebene der Regio über einen großen Versammlungsplatz, an dem die Versammlung der Zwölf Jahre abgehalten wird. Weitere Informationen über Crintera und die Mitglieder des Bjornaer-Rats finden sich in *Wächter des Waldes*, [Seite 92](<Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md#crintera>).
 
 > ### Der Name „Bjornaer"
 > 
@@ -359,7 +359,7 @@ Nur Ilfetu lernte das Ritual der Zwölf Jahre von seinem Meister, und das Haus t
 > 
 >**ABENTEUERIDEE: DER VERBORGENE FEIND**
 > 
-> Die gotischen Gestaltwandler gewinnen einen charismatischen Anführer, der einige der Stämme unter einem Banner vereint. Dieser Anführer wird ausreichend motiviert, die Auslöschung von Haus Bjornaer zu versuchen, möglicherweise aufgrund von Handlungen, die die Spielercharaktere ausgeführt oder miterlebt haben. Diese Leute tun alles in ihrer Macht Stehende, um jeden letzten Bjornaer-Gefolgsmann auszulöschen, selbst auf Kosten ihres eigenen Lebens. Im Vergleich zu hermetischen Magi sind sie magisch schwach, aber sie sind körperlich stark, einander in hohem Maße loyal und fanatisch in ihrer Aufgabe. Mehr über die pommerschen Hexen findet sich in *Wächter des Waldes*, Seite 99.
+> Die gotischen Gestaltwandler gewinnen einen charismatischen Anführer, der einige der Stämme unter einem Banner vereint. Dieser Anführer wird ausreichend motiviert, die Auslöschung von Haus Bjornaer zu versuchen, möglicherweise aufgrund von Handlungen, die die Spielercharaktere ausgeführt oder miterlebt haben. Diese Leute tun alles in ihrer Macht Stehende, um jeden letzten Bjornaer-Gefolgsmann auszulöschen, selbst auf Kosten ihres eigenen Lebens. Im Vergleich zu hermetischen Magi sind sie magisch schwach, aber sie sind körperlich stark, einander in hohem Maße loyal und fanatisch in ihrer Aufgabe. Mehr über die pommerschen Hexen findet sich in *Wächter des Waldes*, [Seite 99](<Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md#die-werwölfe-pommerns>).
 
 ### Die frühen Jahre des Hauses
 
@@ -717,7 +717,7 @@ Natürlich kann ein Magus nur ein Herztier haben, denn er besitzt nur einen einz
 
 Herztiere lassen sich in vier Grundtypen einteilen, benannt nach den vier klassischen Temperamenten der menschlichen Physiognomie – sanguinisch, cholerisch, melancholisch und phlegmatisch. In der Vergangenheit trugen diese vier Typen andere Namen, abgeleitet von den vier Elementen (Luft, Feuer, Erde bzw. Wasser) oder, noch weiter zurück, den vier Jahreszeiten (Frühling, Sommer, Herbst und Winter). Seit dem Schismakrieg verwenden jedoch alle Bjornaer-Magi die Temperamentsklassifikation, um mit ihrer heidnischen Vergangenheit zu brechen.
 
-Die vier Haupttemperamente können **rein** sein oder durch ein anderes Temperament **aspektiert** (siehe Diagramm auf S. 21).
+Die vier Haupttemperamente können **rein** sein oder durch ein anderes Temperament **aspektiert** (siehe Diagramm auf [S. 21](#temperamente-der-herztiere)).
 
 Sanguinische Herztiere sind Vögel, vom größten Adler bis zum kleinsten Rotkehlchen. Solche Charaktere sind oft gesellig und lebhaft, schlagfertig und geschickt. Tagaktive Raubvögel haben einen cholerischen Aspekt; Wasservögel gelten als phlegmatisch aspektiert.
 
@@ -851,14 +851,14 @@ Ein Magus in Herztier-Gestalt kann die für das Zaubern nötigen Gesten nicht au
 
 > ### Magische Gegenstände und Gestaltwechsel
 > 
-> Bjornaer-Magi, die verzauberte Gegenstände für den eigenen Gebrauch herstellen, stehen beim Gestaltwechsel vor dem Problem, dass sie die Gegenstände nicht aufgeben wollen, wenn diese die falsche Größe haben oder sie sie nicht mehr halten können. Die Lösung ist die folgende, weithin bekannte Wirkung, die in den Gegenstand eingebettet und dann mit einem Verknüpften Auslöser (siehe ArMDE, Seite 99) mit allen anderen Wirkungen verbunden wird, die in den Gegenstand eingebettet sind, wie etwa solche, die seine Größe, Form oder sein Aussehen verändern.
+> Bjornaer-Magi, die verzauberte Gegenstände für den eigenen Gebrauch herstellen, stehen beim Gestaltwechsel vor dem Problem, dass sie die Gegenstände nicht aufgeben wollen, wenn diese die falsche Größe haben oder sie sie nicht mehr halten können. Die Lösung ist die folgende, weithin bekannte Wirkung, die in den Gegenstand eingebettet und dann mit einem Verknüpften Auslöser (siehe ArMDE, [Seite 99](<Ars Magica Definitive Edition Basisregeln.md#wirkungsanpassungen>)) mit allen anderen Wirkungen verbunden wird, die in den Gegenstand eingebettet sind, wie etwa solche, die seine Größe, Form oder sein Aussehen verändern.
 > 
 > ##### Den Wandel wahrnehmen
 > 
 > InAn 14  
 > R: Berührung, D: Sonne, Z: Individuum Pen 0, dauerhafte Wirkung
 > 
-> Diese Wirkung erkennt, ob der verzauberte Gegenstand ein Tier berührt; wenn ja, löst sie alle mit einem Verknüpften Auslöser verbundenen Wirkungen aus. Verknüpfte Wirkungen sollten als dauerhafte Wirkung entworfen werden. Sie hebt alle verknüpften Wirkungen auf, sobald die Menschengestalt angenommen wird. Der Träger kann wählen, dieser Wirkung keinen Widerstand zu leisten (siehe ArMDE, Seite 99). Wird diese Wirkung in einen Talisman eingebettet, kann sie mit Reichweite Persönlich für eine Endstufe von 9 hergestellt werden.
+> Diese Wirkung erkennt, ob der verzauberte Gegenstand ein Tier berührt; wenn ja, löst sie alle mit einem Verknüpften Auslöser verbundenen Wirkungen aus. Verknüpfte Wirkungen sollten als dauerhafte Wirkung entworfen werden. Sie hebt alle verknüpften Wirkungen auf, sobald die Menschengestalt angenommen wird. Der Träger kann wählen, dieser Wirkung keinen Widerstand zu leisten (siehe ArMDE, [Seite 99](<Ars Magica Definitive Edition Basisregeln.md#wirkungsanpassungen>)). Wird diese Wirkung in einen Talisman eingebettet, kann sie mit Reichweite Persönlich für eine Endstufe von 9 hergestellt werden.
 > 
 > (Basis 3, +1 Berührung, +2 Sonne; +1 zwei Anwendungen/Tag, +3 Umgebungsauslöser \[Sonnenaufgang/Sonnenuntergang\])
 
@@ -880,7 +880,7 @@ Wenn das Endgültige Zwielicht über einen Bjornaer-Magus kommt, nimmt er stets 
 
 Das Äußere Mysterium des Hauses Bjornaer ist das **Herztier**, das den Ahnengeist mit der menschlichen Seele in Einklang bringt. Es bereitet den Weg für die Annahme der **Hausmysterien**, die es dem Magus ermöglichen, seinen Ahnen und ihrer Magie nachzueifern. Die **Clanmysterien** unterstützen die Clans bei der Erfüllung ihrer Pflichten gegenüber ihren Ahnen. Die **Inneren Mysterien** des Hauses Bjornaer bringen den Magus noch näher an seine Ahnen heran. Der Magus lernt durch den Prozess des **Atavismus** – der Aneignung von Ahneneigenschaften –, die Gestalt eines besonders bemerkenswerten tierischen Ahnen anzunehmen. Er erwirbt eine dritte Gestalt des Herztieres, die ihm ein äußeres Herztier (die Tiergestalt) und ein inneres Herztier (die Ahnengestalt) verleiht.
 
-### Einweihung der Clanmysterien
+### Einweihung in die Clan-Mysterien
 
 Clanmysterien werden von älteren Mitgliedern des Clans als Mystagogen eingeweiht; diese Clanmitglieder gehören oft derselben Sippe wie der Einzuweihende an. Die von einem Clan verwendeten Einweihungsskripte sind für diesen Clan einzigartig und werden von anderen Clans nicht eingesetzt. Diese Skripte entstammen den einheimischen Überzeugungen der Gründer jedes Clans, wurden aber im Laufe der Jahre weiterentwickelt; dennoch folgen sie alle im Großen und Ganzen einer ähnlichen Vorlage. Alle Clanmysterien (mit einer Ausnahme; siehe Clan Ilfetu, oben) sind Kleine Tugenden und haben daher einen Schwierigkeitsgrad von 15. Sie erfordern einen Mystagogen, der die gesuchte Tugend kennt und einen Wert von (Präsenz + Kunde des Hauses Bjornaer) von mindestens 8 hat, obwohl ein früherer Prüfungsbonus wirksam sein kann, der diesen Wert senkt.
 
@@ -896,7 +896,7 @@ Der Einzuweihende erhält den Auftrag, eine Queste zu finden, die seinen Ahnen G
 
 Der Einzuweihende muss einen feierlichen Eid schwören, der dem Fehler Gelübde entspricht (+3) und der seinen Ahnen gefallen wird, und ein Jahr lang seine Treue zu diesem Eid unter Beweis stellen (+1). Sein Mystagoge muss dann ein Quartal darauf verwenden, ihm die neue Tugend zu lehren (+3). Wird der Eid auf geringfügige Weise gebrochen, geht die Tugend verloren, bis Wiedergutmachung geleistet wird. Wird er in schwerwiegender Weise gebrochen, ist keine Wiedergutmachung ausreichend.
 
-### Einweihung der Hausmysterien
+### Einweihung in die Haus-Mysterien
 
 Die Hausmysterien (Herztier, Geheimer Name, Sinnesmagie, Theriomorphie) werden von Mitgliedern des Clans Ilfetu eingeweiht. Die Beschreibung jedes der unten aufgeführten Hausmysterien enthält das Einweihungsskript, obwohl dem Clan Ilfetu alternative, strengere Skripte bekannt sein können, falls der Mystagoge die einzuweihende Tugend nicht kennt oder seine Kenntnis der Hauskunde unzureichend ist. Das Ritual der Zwölf Jahre ist jedoch die einzige Methode, die das Haus zur Einweihung neuer Mitglieder einsetzt.
 
@@ -1002,7 +1002,7 @@ Der Zauber betrifft jedes Wesen, das den Wirkenden riecht, wirksam über ungefä
 
 **Klang**
 
-Der Zauber betrifft jedes Wesen, das den vom Wirkenden erzeugten Klang hört. Verwende die Spalte Reichweite Stimme der Tabelle für Worte und Gesten auf ArMDE, Seite 83, um den Wirkungsbereich um den Magus zu bestimmen. Potenzielle Ziele mit dem Fehler Schlechtes Hörvermögen (oder solche, die sich die Ohren verstopft haben) werden behandelt, als wären sie eine Kategorie weiter vom Wirkenden entfernt; solche mit der Tugend Spitze Ohren gelten als eine Kategorie näher. Diese Zauber können ohne Worte gewirkt werden (mit dem üblichen Abzug), aber es muss ein tatsächlicher Klang erzeugt werden, der den Zauber trägt. Das Ziel Klang entspricht dem Ziel Bauwerk.
+Der Zauber betrifft jedes Wesen, das den vom Wirkenden erzeugten Klang hört. Verwende die Spalte Reichweite Stimme der Tabelle für Worte und Gesten auf ArMDE, [Seite 83](<Ars Magica Definitive Edition Basisregeln.md#worte-und-gesten>), um den Wirkungsbereich um den Magus zu bestimmen. Potenzielle Ziele mit dem Fehler Schlechtes Hörvermögen (oder solche, die sich die Ohren verstopft haben) werden behandelt, als wären sie eine Kategorie weiter vom Wirkenden entfernt; solche mit der Tugend Spitze Ohren gelten als eine Kategorie näher. Diese Zauber können ohne Worte gewirkt werden (mit dem üblichen Abzug), aber es muss ein tatsächlicher Klang erzeugt werden, der den Zauber trägt. Das Ziel Klang entspricht dem Ziel Bauwerk.
 
 **Schauspiel**
 
@@ -1329,7 +1329,7 @@ Die Hierophanten hüten ein Einweihungsskript für das innerste Mysterium des Ku
 
 Ein Gefolgsmann des Hauses Bjornaer hat wahrscheinlich eine Verbindung zwischen seinem Herztier und seiner Magie. Zumindest einige der Zauber eines Magus ahmen die mythischen Eigenschaften nach, die seinem Herztier zugeschrieben werden, oder verstärken seine natürlichen Fähigkeiten. Zauber, die es ihm ermöglichen, in Tiergestalt Dinge zu tun, die er normalerweise nur in menschlicher Gestalt tun könnte, sind ebenfalls sehr beliebt. Die meisten Bjornaer-Magi kennen beispielsweise den Unsichtbaren Arm (oder können ihn spontan zaubern), um Türen öffnen und Buchseiten umblättern zu können; mit anderen Zaubern können sich viele ein Kleidungsstück erschaffen, wenn sie viel in Herztiergestalt reisen. Die Mitglieder des Hauses Bjornaer machen weit stärkeren Gebrauch von den magischen Sinnesziel-Kategorien als andere Häuser, selbst jene, die die Tugend Sinnesmagie nicht eingeweiht haben (siehe oben). Ihre Version von Rede mit der lebendigen Flamme ist beispielsweise ein Zauber mit Reichweite: Persönlich, Ziel: Gehör und einem freien Mentem-Requisit, der den Klang des Feuers in Gedanken übersetzt.
 
-Es gibt einige dem Haus Bjornaer bekannte Zauber, die im Orden nicht weit verbreitet sind, aber häufig in den persönlichen Bibliotheken von Mitgliedern des Hauses Bjornaer zu finden sind; diese Zauber werden nachfolgend beschrieben. Jeder Zauber, der ein Herztier der Größe +2 oder größer betrifft, muss mit einem Größenmodifikator erfunden werden (siehe ArMDE, Seite 113) und ist daher mindestens eine Magnitude höher.
+Es gibt einige dem Haus Bjornaer bekannte Zauber, die im Orden nicht weit verbreitet sind, aber häufig in den persönlichen Bibliotheken von Mitgliedern des Hauses Bjornaer zu finden sind; diese Zauber werden nachfolgend beschrieben. Jeder Zauber, der ein Herztier der Größe +2 oder größer betrifft, muss mit einem Größenmodifikator erfunden werden (siehe ArMDE, [Seite 113](<Ars Magica Definitive Edition Basisregeln.md#ziele-und-größen>)) und ist daher mindestens eine Magnitude höher.
 
 ##### Die Stimme des Bjornaer-Magus
 MuAn 15  
@@ -1359,7 +1359,7 @@ Es gibt vier Versionen dieses Zaubers, eine für jedes der Temperamente sanguini
 MuVi Gen  
 R: Berührung, D: Mom, Z: Ind
 
-Dieser Zauber wird gleichzeitig mit einem anderen formulaischen Zauber gewirkt (siehe ArMDE, Seite 159), dessen Stufe geringer als das Doppelte der Stufe dieses Zaubers sein muss. Wenn er erfolgreich gewirkt wird, kann der Zielzauber ohne Malus auf die Zaubersumme aufgrund eingeschränkter oder fehlender Gesten und/oder Stimme gewirkt werden. Während dieser Muto Vim-Zauber Gesten und Stimme wie gewöhnlich benötigt, erleidet die Zaubersumme des Folgezaubers keinen Abzug, und so haben schwierige Zauber am Limit der Fähigkeiten eines Magus unter eingeschränkten Umständen eine größere Erfolgschance, ohne Erschöpfungsverlust zu verursachen. Hat der Zielzauber Reichweite: Stimme, bestimmt die für diesen Zauber verwendete Lautstärke die tatsächliche Reichweite. Es gibt zehn Versionen dieses Zaubers, von denen jede Zauber einer der hermetischen Formen betrifft. Dieser Zauber ist besonders nützlich für Bjornaer-Magi, die das Erscheinungsbild gewöhnlicher Tiere beibehalten und dennoch Zauber wirken möchten.
+Dieser Zauber wird gleichzeitig mit einem anderen formulaischen Zauber gewirkt (siehe ArMDE, [Seite 159](<Ars Magica Definitive Edition Basisregeln.md#muto-vim--leitlinien>)), dessen Stufe geringer als das Doppelte der Stufe dieses Zaubers sein muss. Wenn er erfolgreich gewirkt wird, kann der Zielzauber ohne Malus auf die Zaubersumme aufgrund eingeschränkter oder fehlender Gesten und/oder Stimme gewirkt werden. Während dieser Muto Vim-Zauber Gesten und Stimme wie gewöhnlich benötigt, erleidet die Zaubersumme des Folgezaubers keinen Abzug, und so haben schwierige Zauber am Limit der Fähigkeiten eines Magus unter eingeschränkten Umständen eine größere Erfolgschance, ohne Erschöpfungsverlust zu verursachen. Hat der Zielzauber Reichweite: Stimme, bestimmt die für diesen Zauber verwendete Lautstärke die tatsächliche Reichweite. Es gibt zehn Versionen dieses Zaubers, von denen jede Zauber einer der hermetischen Formen betrifft. Dieser Zauber ist besonders nützlich für Bjornaer-Magi, die das Erscheinungsbild gewöhnlicher Tiere beibehalten und dennoch Zauber wirken möchten.
 
 (Basiseffekt, +1 Berührung)
 
@@ -1469,7 +1469,7 @@ Der Charakter ist faul und träge und genießt nichts mehr, als so wenig wie mö
 
 ### Neue Fertigkeiten
 
-Ein Sternchen (\*) kennzeichnet eine Fertigkeit, die ohne Wert überhaupt nicht eingesetzt werden kann (siehe ArMDE, Seite 62).
+Ein Sternchen (\*) kennzeichnet eine Fertigkeit, die ohne Wert überhaupt nicht eingesetzt werden kann (siehe ArMDE, [Seite 62](<Ars Magica Definitive Edition Basisregeln.md#fertigkeiten-ohne-wert>)).
 
 #### Tote Sprache: Gotisch (Akademisch)\*
 
@@ -1491,7 +1491,7 @@ Anstatt einen erschöpfenden Anhang mit vielen Kreaturenwerten bereitzustellen, 
 
 Es gibt vier Kategorien von Tieren: Vögel, Fische, Huftiere und Klauentiere. Vögel sind selbsterklärend. Fische umfassen Amphibien wie Frösche, Kröten und Salamander sowie Reptilien wie Schlangen und Eidechsen, ebenso wie traditionellere Fische und Wale. Huftiere umfassen sowohl Haustiere als auch Wildtiere. Die Kategorie der Klauentiere enthält alle Kreaturen, die nicht in die anderen Typen passen.
 
-Jede Größenkategorie ist ungefähr doppelt so schwer wie die nächstkleinere Größenkategorie. Ein Größenunterschied von 1 Punkt verdoppelt das Gewicht, 2 Punkte verfünffachen es, und eine Erhöhung der Größe um 1 Punkt bedeutet eine Verzehnfachung der Masse. So wiegt ein Schwein ungefähr so viel wie 50 Igel, 200 Ratten oder 2.000 Mäuse. Beachte, dass die Ratte von Größe -8 in ArMDE (Seite 192) auf Größe -7 in dieser Tabelle verschoben wurde. Vögel sind einen Größenpunkt größer, als ihr Gewicht vermuten ließe, was ihre größere Gesamtdimension berücksichtigt; wenn du das Gewicht eines Vogels wissen musst, subtrahiere eins von der Größe vor der Berechnung. Alle Gewichte sind ungefähr.
+Jede Größenkategorie ist ungefähr doppelt so schwer wie die nächstkleinere Größenkategorie. Ein Größenunterschied von 1 Punkt verdoppelt das Gewicht, 2 Punkte verfünffachen es, und eine Erhöhung der Größe um 1 Punkt bedeutet eine Verzehnfachung der Masse. So wiegt ein Schwein ungefähr so viel wie 50 Igel, 200 Ratten oder 2.000 Mäuse. Beachte, dass die Ratte von Größe -8 in ArMDE ([Seite 192](<Ars Magica Definitive Edition Basisregeln.md#kreaturen-mit-nicht-standardmäßiger-größe>)) auf Größe -7 in dieser Tabelle verschoben wurde. Vögel sind einen Größenpunkt größer, als ihr Gewicht vermuten ließe, was ihre größere Gesamtdimension berücksichtigt; wenn du das Gewicht eines Vogels wissen musst, subtrahiere eins von der Größe vor der Berechnung. Alle Gewichte sind ungefähr.
 
 #### Größenbeispiele
 
@@ -1522,7 +1522,7 @@ Jede Größenkategorie ist ungefähr doppelt so schwer wie die nächstkleinere G
 
 ### 2. Eigenschaften
 
-Wie auf Seite 191 von ArMDE angegeben, haben weltliche Tiere anstelle eines Intelligenzwerts eine Eigenschaft namens Gerissenheit. Verwende Gerissenheit für Würfe, die sonst Intelligenz erfordern würden, etwa um einen Weg aus einer verschlossenen Scheune zu finden. Obwohl Tiere eine begrenzte Fähigkeit zur Problemlösung besitzen, fehlen ihnen Vorstellungskraft, Vernunft und Intelligenz im eigentlichen Sinne. Kommunikation und Präsenz haben für Tiere eine leicht abweichende Bedeutung. Präsenz gibt an, wie stark die Kreatur auf menschliche Betrachter wirkt. Kreaturen mit niedriger Präsenz werden kaum bemerkt; solche mit hoher Präsenz flößen Ehrfurcht, Angst oder Staunen ein. Kommunikation bezeichnet wie beim Menschen die Fähigkeit des Tieres, Informationen weiterzugeben; nur wenige Tiere (nach mittelalterlicher Vorstellung) sind zur Übertragung komplexer Gedanken an andere fähig. Für Tiere hat die Eigenschaft Schnelligkeit hauptsächlich mit Reflexen und Gewandtheit zu tun und wenig mit Bewegungsgeschwindigkeit. Viele Tiere können schneller laufen als ein Mensch, aber das bedeutet nicht zwangsläufig, dass sie bessere Initiative- und Verteidigungswerte haben. Tiere, die schnell laufen, aber keine besonders guten Reflexe haben, besitzen eine Eigenschaft (siehe unten), die dies widerspiegelt.
+Wie auf [Seite 191](<Ars Magica Definitive Edition Basisregeln.md#2-eigenschaften>) von ArMDE angegeben, haben weltliche Tiere anstelle eines Intelligenzwerts eine Eigenschaft namens Gerissenheit. Verwende Gerissenheit für Würfe, die sonst Intelligenz erfordern würden, etwa um einen Weg aus einer verschlossenen Scheune zu finden. Obwohl Tiere eine begrenzte Fähigkeit zur Problemlösung besitzen, fehlen ihnen Vorstellungskraft, Vernunft und Intelligenz im eigentlichen Sinne. Kommunikation und Präsenz haben für Tiere eine leicht abweichende Bedeutung. Präsenz gibt an, wie stark die Kreatur auf menschliche Betrachter wirkt. Kreaturen mit niedriger Präsenz werden kaum bemerkt; solche mit hoher Präsenz flößen Ehrfurcht, Angst oder Staunen ein. Kommunikation bezeichnet wie beim Menschen die Fähigkeit des Tieres, Informationen weiterzugeben; nur wenige Tiere (nach mittelalterlicher Vorstellung) sind zur Übertragung komplexer Gedanken an andere fähig. Für Tiere hat die Eigenschaft Schnelligkeit hauptsächlich mit Reflexen und Gewandtheit zu tun und wenig mit Bewegungsgeschwindigkeit. Viele Tiere können schneller laufen als ein Mensch, aber das bedeutet nicht zwangsläufig, dass sie bessere Initiative- und Verteidigungswerte haben. Tiere, die schnell laufen, aber keine besonders guten Reflexe haben, besitzen eine Eigenschaft (siehe unten), die dies widerspiegelt.
 
 Anders als menschliche Charaktere geben Tiere nur Punkte für ihre vier körperlichen Eigenschaften (Ausdauer, Stärke, Geschicklichkeit und Schnelligkeit) aus. Wie menschliche Charaktere hat jedes bis zu sieben Punkte zur Verfügung, um diese Eigenschaften zu steigern. Negative Punkte dürfen ebenfalls genommen werden, um eine gleiche Anzahl positiver Punkte zu erhalten, aber ein Tier kann nicht mehr als zwei Eigenschaften mit negativen Werten haben, und der Mindestwert ist gleich (Größe - 5). Es gibt keinen Höchstwert für eine Eigenschaft bei Tieren, und es ist keine Tugend oder kein Fehler für extreme Eigenschaftswerte bei Tieren erforderlich.
 
@@ -1629,7 +1629,7 @@ Gewährt Schleichen 4 (Beute anschleichen) und Jagen 4 (Beute). Die Spezialisier
 
 **Guter Springer:** Addiere +3 auf alle Würfe, die Springen betreffen.
 
-**Greifen:** Die Kreatur kann einen Greifangriff statt eines normalen Angriffs machen. Dieser Angriff kann nur gegen einen Gegner eingesetzt werden, der kleiner oder gleich der (Größe + 1) der Kreatur ist. Siehe Nicht-tödlicher Kampf (ArMDE, Seite 174) für Regeln zum Ringen. Wenn die Kreatur eine andere natürliche Waffe hat (wie einen Biss), kann sie in den folgenden Runden ihre aktuelle Greifstärke zur Angriffssumme addieren, bis der Gegner sich befreit. Die Kreatur muss sich gegen Gegner außerhalb des Griffs mit ihrer Greifverteidigung verteidigen (siehe Tabelle natürlicher Waffen, unten).
+**Greifen:** Die Kreatur kann einen Greifangriff statt eines normalen Angriffs machen. Dieser Angriff kann nur gegen einen Gegner eingesetzt werden, der kleiner oder gleich der (Größe + 1) der Kreatur ist. Siehe Nicht-tödlicher Kampf (ArMDE, [Seite 174](<Ars Magica Definitive Edition Basisregeln.md#nicht-tödlicher-kampf>)) für Regeln zum Ringen. Wenn die Kreatur eine andere natürliche Waffe hat (wie einen Biss), kann sie in den folgenden Runden ihre aktuelle Greifstärke zur Angriffssumme addieren, bis der Gegner sich befreit. Die Kreatur muss sich gegen Gegner außerhalb des Griffs mit ihrer Greifverteidigung verteidigen (siehe Tabelle natürlicher Waffen, unten).
 
 **Zäh:** Die Kreatur ist an raue Bedingungen gewöhnt; sie hat Überleben 5 (Heimatgelände) und eine zusätzliche Erschöpfungsstufe.
 
@@ -1675,13 +1675,13 @@ Gewährt Schleichen 4 (Beute anschleichen) und Jagen 4 (Beute). Die Spezialisier
 
 **Zähes Fell:** Addiere 2 auf Schutz; diese Eigenschaft kumuliert mit der Tugend Zäh und der Eigenschaft Dickes Fell.
 
-**Giftig:** Einer der Angriffe der Kreatur (gewöhnlich der Biss) injiziert auch Gift in die verursachten Wunden. Vergleiche den Angriffsvorteil der Kreatur mit dem Schutz des Opfers (nicht der Absorption). Ist der Vorteil der Kreatur höher, dann erleidet das Opfer die Wirkung des Gifts, unabhängig davon, ob der Biss eine tatsächliche Wunde verursacht. Der Schwierigkeitsgrad, um Giftschaden zu vermeiden, variiert von 3 bis 15 (siehe ArMDE, Seite 180).
+**Giftig:** Einer der Angriffe der Kreatur (gewöhnlich der Biss) injiziert auch Gift in die verursachten Wunden. Vergleiche den Angriffsvorteil der Kreatur mit dem Schutz des Opfers (nicht der Absorption). Ist der Vorteil der Kreatur höher, dann erleidet das Opfer die Wirkung des Gifts, unabhängig davon, ob der Biss eine tatsächliche Wunde verursacht. Der Schwierigkeitsgrad, um Giftschaden zu vermeiden, variiert von 3 bis 15 (siehe ArMDE, [Seite 180](<Ars Magica Definitive Edition Basisregeln.md#gifte>)).
 
 **Stimmgewaltig:** Die Kreatur kann beeindruckende Lautäußerungen von sich geben, wie ein kraftvolles Brüllen oder Heulen, schönen Vogelgesang oder Ähnliches. Kommunikation wird auf 0 erhöht (wenn negativ) oder um 1 erhöht; gewähre Musik 3. Diese Eigenschaft kann zweimal für besonders beeindruckende Stimmfähigkeit genommen werden, wobei Musik auf 5 steigt.
 
 ### 5. Kampfwerte
 
-Kampfwerte werden wie üblich berechnet (siehe ArMDE, Seite 171), unter Verwendung der Tabelle natürlicher Waffen. Da Kampfsummen von Eigenschaften beeinflusst werden, können diese Waffen für Kreaturen aller Größen verwendet werden; eine Maus und eine Katze haben die gleichen Grundwerte für ihre Bissangriffe, aber die Kampfsummen sind sehr unterschiedlich.
+Kampfwerte werden wie üblich berechnet (siehe ArMDE, [Seite 171](<Ars Magica Definitive Edition Basisregeln.md#kampfwerte>)), unter Verwendung der Tabelle natürlicher Waffen. Da Kampfsummen von Eigenschaften beeinflusst werden, können diese Waffen für Kreaturen aller Größen verwendet werden; eine Maus und eine Katze haben die gleichen Grundwerte für ihre Bissangriffe, aber die Kampfsummen sind sehr unterschiedlich.
 
 > #### Tabelle natürlicher Waffen
 > 
@@ -2126,7 +2126,7 @@ Verfälschungen sind Unreinheiten aus den Gedanken der Magi, durch mystische Kr�
 
 Mitglieder von Haus Criamon glauben, dass Magi im Moment des Aufstiegs ins Endgültige Zwielicht Augenblicke der Selbsterkenntnis und Selbstdefinition erleben. Sie stoßen alle Teile ihrer selbst ab, die sie nicht in die Ewigkeit mitnehmen wollen. Diese Stücke — gewöhnlich Ängste oder Bestrebungen — fallen in die sterbliche Welt zurück. Diese unerwünschten Gedanken nehmen materielle Form an und werden zu Verfälschungen, die es anderen Magi ermöglicht, sich mit ihnen zu befassen.
 
-Eine zweite Quelle von Verfälschungen sind unkontrollierte Zwielicht-Erfahrungen. Diese Verfälschungen sind Manifestationen von Gedanken, die der Stress des Zwielichts aus Magi hervorgeholt hat. Diese mögliche Zwielicht-Konsequenz sollte als Ergänzung zur Liste negativer Zwielicht-Effekte auf Seite 89 der Basisregeln betrachtet werden. Diese Verfälschungen werden zu dem Magus hingezogen, der sie erschaffen hat. Löst er die Verfälschung auf, wird der Magus von der Last befreit, die sie repräsentiert. In Ausnahmefällen erhält ein Magus, der eine bedeutende Verfälschung auflöst, einen Vorteil aus der Liste positiver Zwielicht-Ergebnisse, der zu seinen jüngsten Erfahrungen passt. Auch andere Formen magischen Traumas, etwa Laborunfälle, erzeugen manchmal Verfälschungen.
+Eine zweite Quelle von Verfälschungen sind unkontrollierte Zwielicht-Erfahrungen. Diese Verfälschungen sind Manifestationen von Gedanken, die der Stress des Zwielichts aus Magi hervorgeholt hat. Diese mögliche Zwielicht-Konsequenz sollte als Ergänzung zur Liste negativer Zwielicht-Effekte auf [Seite 89](<Ars Magica Definitive Edition Basisregeln.md#wirkungen-des-zwielichts>) der Basisregeln betrachtet werden. Diese Verfälschungen werden zu dem Magus hingezogen, der sie erschaffen hat. Löst er die Verfälschung auf, wird der Magus von der Last befreit, die sie repräsentiert. In Ausnahmefällen erhält ein Magus, der eine bedeutende Verfälschung auflöst, einen Vorteil aus der Liste positiver Zwielicht-Ergebnisse, der zu seinen jüngsten Erfahrungen passt. Auch andere Formen magischen Traumas, etwa Laborunfälle, erzeugen manchmal Verfälschungen.
 
 Der Tod eines Lehrlings, so glauben Criamon-Magi, ist besonders tragisch. Lehrlinge können die Hypostase nicht betreten, besitzen aber dennoch ein mächtiges, aktives magisches Potenzial. Dieses wird oft zu einer Verfälschung, die den ehemaligen Meister des Lehrlings aufsucht. Man sagt, eines der Übel, die die größten Verfälschungen sind, sei ein Lehrling Criamons, der starb. Es verfolgt den Orden und tötet andere Lehrlinge, damit auch diese Verfälschungen hervorbringen.
 
@@ -3194,7 +3194,7 @@ Zu beachten ist, dass Anziehend für Magische Wesen hermetische Magi beeinflusse
 
 *Klein, Übernatürlich*
 
-Wie Bezaubernde Musik (ArM5, Seite 65) gilt diese Übernatürliche Fertigkeit für eine bestimmte Art künstlerischen Ausdrucks: Tanz, Zeichnen, Geschichtenerzählen, sogar Handwerk. Jene mit dieser Tugend mögen feststellen, dass ihnen diese Fertigkeit in Feenauren erlaubt, Ereignisse basierend darauf zu verändern oder zu kontrollieren, wie gut sie sie mit ihrer Kunst darstellen.
+Wie Bezaubernde Musik (ArM5, [Seite 65](<Ars Magica Definitive Edition Basisregeln.md#soziale-status-nach-kultur>)) gilt diese Übernatürliche Fertigkeit für eine bestimmte Art künstlerischen Ausdrucks: Tanz, Zeichnen, Geschichtenerzählen, sogar Handwerk. Jene mit dieser Tugend mögen feststellen, dass ihnen diese Fertigkeit in Feenauren erlaubt, Ereignisse basierend darauf zu verändern oder zu kontrollieren, wie gut sie sie mit ihrer Kunst darstellen.
 
 #### Feengeprägte Magie
 
@@ -3204,7 +3204,7 @@ Die Erfahrung des Charakters mit Feen und der Feensphäre hat ihn darauf konditi
 
 Um auf diese Weise einen Zauber zu erfinden, muss die Summe aus Technik + Form + Intelligenz + Magietheorie des Magus mindestens (die Zauberstufe – 10) betragen, und du musst eine Anzahl von Erfahrungspunkten gleich (der Zauber-Magnitude + 4) ausgeben. Zauber der Stufe 5 oder weniger kosten ihre Stufe in Erfahrungspunkten (aber immer mindestens 1). Zum Beispiel kostet ein Zauber der Stufe 2 zwei Erfahrungspunkte, und ein Zauber der Stufe 15 kostet 7 Erfahrungspunkte. Der Magus kann auf diese Weise keine Ritualzauber erfinden.
 
-Wenn der Magus bereits einen Zauber kennt, der einem ähnelt, den er erfinden möchte (siehe Ähnliche Zauber, ArM5, Seite 101), werden alle Erfahrungspunkte, die du für das Erlernen dieses Zaubers ausgibst, um die Hälfte erhöht. Das bedeutet, dass ein Zauber der Stufe 25 zum Beispiel 6 Erfahrungspunkte statt 9 kosten würde.
+Wenn der Magus bereits einen Zauber kennt, der einem ähnelt, den er erfinden möchte (siehe Ähnliche Zauber, ArM5, [Seite 101](<Ars Magica Definitive Edition Basisregeln.md#ähnliche-zauber>)), werden alle Erfahrungspunkte, die du für das Erlernen dieses Zaubers ausgibst, um die Hälfte erhöht. Das bedeutet, dass ein Zauber der Stufe 25 zum Beispiel 6 Erfahrungspunkte statt 9 kosten würde.
 
 Diese Tugend umfasst auch Zaubervariierung (siehe unten). Das heißt, du darfst die Magnitude eines bekannten formulaischen Zaubers als Bonus zur Zaubersumme deines Charakters addieren, wenn er spontan einen ähnlichen Zauber wirkt.
 
@@ -3232,7 +3232,7 @@ Einige Merinitae bezeichnen diese Tugenden mit besonderen Begriffen, die an die 
 
 *Klein, Hermetisch*
 
-Der Magus darf die Magnitude eines ihm bekannten formulaischen Zaubers als Bonus zu seiner Zaubersumme addieren, wenn er spontan einen ähnlichen Zauber wirkt (siehe Ähnliche Zauber, ArM5, Seite 101). Dies schließt das Schnellzaubern eines Zaubers ein, der einem seiner formulaischen Zauber gleich oder sehr ähnlich ist, obwohl er diesen Bonus nicht erhält, wenn er die Schnellzaubern-Fähigkeit eines gemeisterten Zaubers nutzt, da in diesem Fall stattdessen sein Zaubermeisterschaftswert addiert wird. Dieser Bonus lässt sich nicht mit anderen Boni auf seine Zaubersumme kumulieren, noch lässt er sich mit sich selbst kumulieren, wenn der Magus zufällig mehrere ähnliche Zauber kennt.
+Der Magus darf die Magnitude eines ihm bekannten formulaischen Zaubers als Bonus zu seiner Zaubersumme addieren, wenn er spontan einen ähnlichen Zauber wirkt (siehe Ähnliche Zauber, ArM5, [Seite 101](<Ars Magica Definitive Edition Basisregeln.md#ähnliche-zauber>)). Dies schließt das Schnellzaubern eines Zaubers ein, der einem seiner formulaischen Zauber gleich oder sehr ähnlich ist, obwohl er diesen Bonus nicht erhält, wenn er die Schnellzaubern-Fähigkeit eines gemeisterten Zaubers nutzt, da in diesem Fall stattdessen sein Zaubermeisterschaftswert addiert wird. Dieser Bonus lässt sich nicht mit anderen Boni auf seine Zaubersumme kumulieren, noch lässt er sich mit sich selbst kumulieren, wenn der Magus zufällig mehrere ähnliche Zauber kennt.
 
 ### Neue Fehler
 
@@ -3294,7 +3294,7 @@ Diese Fertigkeiten werden nur Magi gelehrt, die die Mysterien des Hauses Merinit
 
 #### Feenmagie
 
-Feenmagie ist eine Arkane Fertigkeit, die erlernt wird, nachdem Merinitae das Äußere Mysterium der Feenmagie eingeweiht haben (siehe ArM5, Seite 92), das darstellt, wie sich ihre Magie von normaler hermetischer Magie unterscheidet. Dies umfasst die Fähigkeit, feenhaftes Denken auf arkane Tätigkeiten anzuwenden, gewöhnlich indem sympathetische Verbindungen zwischen magischen und weltlichen Dingen herausgearbeitet werden.
+Feenmagie ist eine Arkane Fertigkeit, die erlernt wird, nachdem Merinitae das Äußere Mysterium der Feenmagie eingeweiht haben (siehe ArM5, [Seite 92](<Ars Magica Definitive Edition Basisregeln.md#merinita--feenmagie>)), das darstellt, wie sich ihre Magie von normaler hermetischer Magie unterscheidet. Dies umfasst die Fähigkeit, feenhaftes Denken auf arkane Tätigkeiten anzuwenden, gewöhnlich indem sympathetische Verbindungen zwischen magischen und weltlichen Dingen herausgearbeitet werden.
 
 Diese mystischen Beziehungen können in Zauberwerkzeuge integriert werden, die Merinitae oft bei ihren Zaubern verwenden und die als **Zaubersprüche** bezeichnet werden (siehe Kasten). Dies sind symbolische Darstellungen, die darauf ausgelegt sind, eine bestimmte Eigenschaft des Ziels hervorzuheben, und die immer eine Art von künstlerischer Fähigkeit umfassen. Sie können zur Erhöhung der Penetration verwendet werden, aber auch bei vielen der Inneren Mysterien, um andere interessante Effekte zu erzielen.
 
@@ -3304,7 +3304,7 @@ Diese mystischen Beziehungen können in Zauberwerkzeuge integriert werden, die M
 > 
 > Ein **vorübergehender Zauberspruch** braucht etwa zehn Minuten, um ihn zu entwerfen, und muss sofort verwendet werden, typischerweise mit spontaner Magie. Dauerhaftere Zaubersprüche, oder **permanente Zaubersprüche**, brauchen mehrere Stunden und müssen einen besonderen Gegenstand umfassen, den die Maga führt, wenn sie den Zauberspruch aktiviert, wobei sie den Gegenstand in den Effekt einbindet; wird dieser Gegenstand beschädigt, muss der Zauberspruch neu angefertigt werden.
 > 
-> Eine Maga, die einen Wert in Feenmagie und eine Arkane Verbindung zu ihrem Ziel besitzt, kann einen Zauberspruch als sympathetische Darstellung verwenden und ihren Penetrationsmultiplikator um zwei erhöhen. Dies erfordert einen Wurf bei der Anfertigung des Zauberspruchs: Das Komponieren eines Liedes könnte Kommunikation + Musik verwenden, während eine Zeichnung Geschicklichkeit + Handwerk erfordern könnte. Die Maga erzeugt einen wirksamen Zauberspruch bei einem Ergebnis von sechs oder mehr, oder neun oder mehr bei einem permanenten Zauberspruch. Andere Magi können dies ohne Feenmagie tun, aber sie brauchen länger und ein höheres Ergebnis beim Wurf (siehe Sympathetische Verbindungen, ArM5, Seite 84).
+> Eine Maga, die einen Wert in Feenmagie und eine Arkane Verbindung zu ihrem Ziel besitzt, kann einen Zauberspruch als sympathetische Darstellung verwenden und ihren Penetrationsmultiplikator um zwei erhöhen. Dies erfordert einen Wurf bei der Anfertigung des Zauberspruchs: Das Komponieren eines Liedes könnte Kommunikation + Musik verwenden, während eine Zeichnung Geschicklichkeit + Handwerk erfordern könnte. Die Maga erzeugt einen wirksamen Zauberspruch bei einem Ergebnis von sechs oder mehr, oder neun oder mehr bei einem permanenten Zauberspruch. Andere Magi können dies ohne Feenmagie tun, aber sie brauchen länger und ein höheres Ergebnis beim Wurf (siehe Sympathetische Verbindungen, ArM5, [Seite 84](<Ars Magica Definitive Edition Basisregeln.md#sympathetische-verbindungen>)).
 > 
 > Vorübergehende Zaubersprüche können nur einmal verwendet werden, da sie stets einzigartige Eigenschaften enthalten, die mit dem Effekt verbunden sind, obwohl ein permanenter Zauberspruch, der mit einem besonderen Gegenstand verbunden ist, verwendet werden kann, wann immer er anwendbar ist. Eine Maga kann beliebig viele Zaubersprüche im Voraus vorbereiten, aber nur einen Zauberspruch in einen gegebenen Zauber auf diese Weise einbinden.
 
@@ -3330,7 +3330,7 @@ Merinita führte das Ritual ein, das es einer Maga erlaubt, sich mit ihrem Vertr
 
 #### Einen Feenvertrauten binden
 
-Wenn ein Charakter in das Äußere Mysterium der Feenmagie eingeweiht wurde, kann er als Vertrauten jedes Lebewesen binden, das seinem Wesen nach feenhaft ist. Dies wird fast immer durch einen Feenmachtwert dargestellt, kann aber auch für Personen und Tiere gelten, die durch enge Verbindung mit der Feensphäre selbst feenhaft geworden sind. Das Wesen muss auf irgendeine Weise auf die Maga eingestimmt sein, damit die Verzauberung gelingt, genau wie bei magischen Tieren, was gegenseitige Bewunderung und ein kompatibles Wesen erfordert. Der Charakter verzaubert die Fee dann wie üblich unter Verwendung der Laborsumme für die Vertrautenbindung (ArM5, Seite 104).
+Wenn ein Charakter in das Äußere Mysterium der Feenmagie eingeweiht wurde, kann er als Vertrauten jedes Lebewesen binden, das seinem Wesen nach feenhaft ist. Dies wird fast immer durch einen Feenmachtwert dargestellt, kann aber auch für Personen und Tiere gelten, die durch enge Verbindung mit der Feensphäre selbst feenhaft geworden sind. Das Wesen muss auf irgendeine Weise auf die Maga eingestimmt sein, damit die Verzauberung gelingt, genau wie bei magischen Tieren, was gegenseitige Bewunderung und ein kompatibles Wesen erfordert. Der Charakter verzaubert die Fee dann wie üblich unter Verwendung der Laborsumme für die Vertrautenbindung (ArM5, [Seite 104](<Ars Magica Definitive Edition Basisregeln.md#vorschläge-für-vertraute-nach-kunst>)).
 
 Es gibt drei besondere Kräfte, die der Verzauberung eines Feenvertrauten innewohnen:
 
@@ -3616,7 +3616,7 @@ Wie bei der Einweihung von Mysterien werden alle diese Verwandlungsrituale durch
 
 **Verwandlung des Körpers: (Alter des Charakters − 35) + (5 × Gebrechlichkeitswert)**
 
-**Verwandlung des Geistes:** Die Maga braucht keinen Schlaf. Das bedeutet, sie hat zwei zusätzliche freie Quartale pro Jahr, obwohl sie in diesen keine Laborarbeiten durchführen kann. Sie kann jedoch studieren oder Abenteuer erleben und kann ihre zusätzliche Zeit für den Anfang oder das Ende eines Quartals aufsparen, sodass sie Laborprojekte in zwei statt drei Monaten abschließen kann und bis zu sechzehn Tage vom Labor abwesend sein darf, ohne Einbußen. Allerdings kann sie niemals wieder neue Fertigkeiten erlernen – sie kann Fertigkeiten verbessern, die sie bereits besitzt, aber keine neuen erwerben – und sie kann keine Zauber oder magischen Effekte erfinden, die nicht zumindest ähnlich zu Zaubern sind, die sie bereits kennt (siehe Ähnliche Zauber, ArM5 Seite 101). Dies schränkt ihre spontane Magie und ihre Laborerfindungen ein, obwohl sie weiterhin die Zauber meistern kann, die sie gelernt hat. Die Stufe dieser Verzauberung ist die Summe ihrer Werte in all ihren Fertigkeiten.
+**Verwandlung des Geistes:** Die Maga braucht keinen Schlaf. Das bedeutet, sie hat zwei zusätzliche freie Quartale pro Jahr, obwohl sie in diesen keine Laborarbeiten durchführen kann. Sie kann jedoch studieren oder Abenteuer erleben und kann ihre zusätzliche Zeit für den Anfang oder das Ende eines Quartals aufsparen, sodass sie Laborprojekte in zwei statt drei Monaten abschließen kann und bis zu sechzehn Tage vom Labor abwesend sein darf, ohne Einbußen. Allerdings kann sie niemals wieder neue Fertigkeiten erlernen – sie kann Fertigkeiten verbessern, die sie bereits besitzt, aber keine neuen erwerben – und sie kann keine Zauber oder magischen Effekte erfinden, die nicht zumindest ähnlich zu Zaubern sind, die sie bereits kennt (siehe Ähnliche Zauber, ArM5 [Seite 101](<Ars Magica Definitive Edition Basisregeln.md#ähnliche-zauber>)). Dies schränkt ihre spontane Magie und ihre Laborerfindungen ein, obwohl sie weiterhin die Zauber meistern kann, die sie gelernt hat. Die Stufe dieser Verzauberung ist die Summe ihrer Werte in all ihren Fertigkeiten.
 
 **Verwandlung des Geistes: Gesamtwert in Fertigkeiten**
 
@@ -3672,7 +3672,7 @@ Ein Zauber kann auch mehrere Zaubersprüche gleichzeitig einbinden: Beim Erfinde
 
 **Zaubersummen-Bonus: +1 für jeden Zauberspruch, +1 für jede vertretene Kategorie**
 
-Die Maga kann Zaubersprüche auch nutzen, um die Wirksamkeit ihrer Penetration durch eine Arkane Verbindung zum Ziel zu verbessern. Dies erhöht ihren Penetrationsmultiplikator um eins für jede Kategorie jenseits der ersten, die der Zauber vertritt, zusätzlich zum normalen +2 für eine sympathetische Darstellung (siehe Sympathetische Verbindungen, ArM5 Seite 86). Ein Zauber, der darauf ausgelegt ist, „Darius" (Charakter) im „Winter" (Ereignis) zu beeinflussen, würde der Maga +3 auf ihren Penetrationsmultiplikator geben, wenn er mit einer Arkanen Verbindung gewirkt wird.
+Die Maga kann Zaubersprüche auch nutzen, um die Wirksamkeit ihrer Penetration durch eine Arkane Verbindung zum Ziel zu verbessern. Dies erhöht ihren Penetrationsmultiplikator um eins für jede Kategorie jenseits der ersten, die der Zauber vertritt, zusätzlich zum normalen +2 für eine sympathetische Darstellung (siehe Sympathetische Verbindungen, ArM5 [Seite 86](<Ars Magica Definitive Edition Basisregeln.md#zaubermeisterschaft>)). Ein Zauber, der darauf ausgelegt ist, „Darius" (Charakter) im „Winter" (Ereignis) zu beeinflussen, würde der Maga +3 auf ihren Penetrationsmultiplikator geben, wenn er mit einer Arkanen Verbindung gewirkt wird.
 
 **Sympathetische Verbindung-Bonus: +2, +1 für jede Kategorie jenseits der ersten**
 
@@ -3963,7 +3963,7 @@ Nur Magi, die das Mysterium der Verwilderung eingeweiht haben, können dieses wi
 
 Eine Naturmaga kann lernen, ihren Geist mit der Natur zu vereinen und selbst zu einem Schutzgeist zu werden. Sie versenkt sich in das umgebende Gebiet – ein Gebiet mit einer Magieaura und mit dem sie mithilfe ihrer Naturkunde-Fertigkeit fließend sprechen kann – und alles an dem Ort wird zu einer Erweiterung ihres Wesens, ihr sogenannter **Locus**. Eine Maga, die sich mit einem Berg verbindet, kann Schritte auf der Oberfläche spüren wie eine Fliege, die ihre Haut durchquert. Eine andere, die eins mit den Tieren eines Gebiets wird, kann sie wie einen Schwarmgeist lenken und ihr Bewusstsein von einem zum anderen huschen lassen, um zu sehen, was sie sehen. Innerhalb der physischen Grenzen ihres Locus kann sie die Natur kontrollieren, als wäre sie eine Verlängerung ihres eigenen Körpers, und sie nach ihrem Gutdünken lenken.
 
-Um eins mit einem Gebiet zu werden, muss die Maga ein geheimes Ritual durchführen, das angeblich von Merinita selbst stammt. Dies erfordert mindestens eine Stunde Konzentration, kostet sie eine Erschöpfungsstufe und eine Anzahl von Visbauern in Höhe der Aurastufe, die einer mit ihrer Naturkunde-Fertigkeit verbundenen Form angehören müssen. Es erfordert auch einen Präsenz + Naturkunde-Wurf gegen einen Schwierigkeitsgrad von (Aura × Gebietsgröße-Modifikator) unter Verwendung der unter Erweckung genannten Gebietsgröße-Modifikatoren. Die Maga kann auch ein bereits von einem Schutzgeist beschütztes Gebiet übernehmen, solange sie dessen Magieresistenz überwindet (siehe ArM5, Seite 184); der Geist wird bei Abschluss des Rituals in ihr Wesen aufgenommen.
+Um eins mit einem Gebiet zu werden, muss die Maga ein geheimes Ritual durchführen, das angeblich von Merinita selbst stammt. Dies erfordert mindestens eine Stunde Konzentration, kostet sie eine Erschöpfungsstufe und eine Anzahl von Visbauern in Höhe der Aurastufe, die einer mit ihrer Naturkunde-Fertigkeit verbundenen Form angehören müssen. Es erfordert auch einen Präsenz + Naturkunde-Wurf gegen einen Schwierigkeitsgrad von (Aura × Gebietsgröße-Modifikator) unter Verwendung der unter Erweckung genannten Gebietsgröße-Modifikatoren. Die Maga kann auch ein bereits von einem Schutzgeist beschütztes Gebiet übernehmen, solange sie dessen Magieresistenz überwindet (siehe ArM5, [Seite 184](<Ars Magica Definitive Edition Basisregeln.md#magische-auren>)); der Geist wird bei Abschluss des Rituals in ihr Wesen aufgenommen.
 
 **Schutzgeist-Ritualsumme: Stresswürfel + Präsenz + Naturkunde**
 
@@ -4467,7 +4467,7 @@ Kurz nachdem Fenistour Zauberwerkzeuge erfunden hatte, die es Verditius-Magi erl
 
 Der Magus kann seine Zauberwerkzeuge verzaubern, um bestimmte Effekte gemeisterter Zauber widerzuspiegeln und beim Einsatz Zauberboni zu gewähren. Dies ist ein Laborprozess, der ein Quartal in einem hermetischen Laboratorium erfordert. Jedes Zauberwerkzeug kann nur einmal verzaubert werden – selbst wenn es mehr als eine Eigenschaft hat –, und der Magus muss die Verzauberung in einem einzigen Quartal abschließen können, als ob er ein Schlichtes Artefakt herstellen würde. Verzauberte Zauberwerkzeuge können nicht mit anderen magischen Kräften ausgestattet werden und können nicht als Basis für ein Schlichtes oder Bereitetes Artefakt dienen.
 
-Um ein Zauberwerkzeug zu verzaubern, vergleiche die Technik- und Form-Laborsumme des Magus mit der Stufe des Zaubers, mit dem das Zauberwerkzeug verbunden ist. Ein Zauberwerkzeug ist durch die Verditius-Mysterien eng mit dem Zauber verbunden, sodass der Magus Verditius-Runen in das Werkzeug schnitzen darf, was seinen Philosophiae-Wert zur Laborsumme hinzufügt – selbst wenn das Werkzeug normalerweise keinen Form- und Materialbonus für diesen Zauber hätte. Hat der Magus eine Handwerksfertigkeit, die das Herstellen von Werkzeugen einschließen könnte, darf er auch seinen Handwerkswert hinzufügen. Da verzauberte Zauberwerkzeuge dauerhaft Arkane Verbindungen zum Magus werden, füge seinen Hybris-Persönlichkeitswert zur Laborsumme hinzu. Der Magus erhält außerdem einen Bonus dafür, dass er den Zauber bereits kennt: Er fügt die Magnitude des Zaubers zur Laborsumme hinzu, ähnlich dem Bonus, den man für das Kennen eines ähnlichen Zaubers erhält (ArM5, Seite 101). Die Stufe für den Effekt entspricht der Stufe des Zaubers plus der Anpassung für etwaige zusätzliche Kräfte, die der Magus einbetten möchte, und die Laborsumme des Magus muss mindestens das Doppelte der Effektstufe betragen, damit er die Verzauberung in einem Quartal durchführen kann.
+Um ein Zauberwerkzeug zu verzaubern, vergleiche die Technik- und Form-Laborsumme des Magus mit der Stufe des Zaubers, mit dem das Zauberwerkzeug verbunden ist. Ein Zauberwerkzeug ist durch die Verditius-Mysterien eng mit dem Zauber verbunden, sodass der Magus Verditius-Runen in das Werkzeug schnitzen darf, was seinen Philosophiae-Wert zur Laborsumme hinzufügt – selbst wenn das Werkzeug normalerweise keinen Form- und Materialbonus für diesen Zauber hätte. Hat der Magus eine Handwerksfertigkeit, die das Herstellen von Werkzeugen einschließen könnte, darf er auch seinen Handwerkswert hinzufügen. Da verzauberte Zauberwerkzeuge dauerhaft Arkane Verbindungen zum Magus werden, füge seinen Hybris-Persönlichkeitswert zur Laborsumme hinzu. Der Magus erhält außerdem einen Bonus dafür, dass er den Zauber bereits kennt: Er fügt die Magnitude des Zaubers zur Laborsumme hinzu, ähnlich dem Bonus, den man für das Kennen eines ähnlichen Zaubers erhält (ArM5, [Seite 101](<Ars Magica Definitive Edition Basisregeln.md#ähnliche-zauber>)). Die Stufe für den Effekt entspricht der Stufe des Zaubers plus der Anpassung für etwaige zusätzliche Kräfte, die der Magus einbetten möchte, und die Laborsumme des Magus muss mindestens das Doppelte der Effektstufe betragen, damit er die Verzauberung in einem Quartal durchführen kann.
 
 **Laborsumme für Zauberwerkzeug-Verzauberung: Technik + Form + Intelligenz + Magietheorie + Auramodifikator + Philosophiae + Hybris + Magnitude des bekannten Zaubers + Handwerk (sofern anwendbar)**
 
@@ -4499,7 +4499,7 @@ Das Verzaubern von Zauberwerkzeugen erfordert Vis. Der Magus muss pro 10 Stufen 
 
 Viele der magischen Gegenstände, die Haus Verditius ursprünglich herstellte, um sie an Sterbliche zu verkaufen, waren keine verzauberten Artefakte, sondern Gegenstände und Werkzeuge, deren inhärente magische Eigenschaften durch sympathetische Magie und die Einschreibung von Runen an ihre Oberfläche gebracht worden waren. Gewiss wurden auch echte verzauberte Artefakte hergestellt und verkauft, doch die Mehrzahl der Gegenstände waren diese geringeren Stücke, Werkzeuge und Artefakte bestimmter Handwerke, die Sterblichen bei ihren täglichen Verrichtungen halfen. Verditius-Magi stellen diese Gegenstände noch immer her und verkaufen sie über ihre Agenten an die breite Bevölkerung. Frühlings-Konvente finden sie in ihren Anfangsjahren ebenfalls äußerst hilfreich.
 
-Qualitätsgegenstände sind leicht herzustellen, und jede Verditius-Maga, die dieses Mysterium kennt, kann einen erfolgreich in einem einzigen Quartal erschaffen. Wähle zunächst ein Werkzeug oder einen Gegenstand, der von einem Fachmann in seinem Handwerk angemessen verwendet werden würde. Dies muss kein Handwerksberuf sein, da jeder verschiedene Werkzeuge und Gegenstände benutzt, um Tätigkeiten in seinem täglichen Leben wirksam auszuführen. Ein Ritter verwendet ein Schwert, ein König ein Zepter, ein Höfling feine Kleidung, ein Schatzmeister einen Abakus, ein Schnitzer ein Messer und ein Schankwirt einen Besen. Der Gegenstand muss einen Form- und Materialbonus besitzen, wie auf Seite 110 in ArM5 und in anderen Büchern aufgeführt. Hat der Gegenstand mehr als einen magischen Bonus, muss der Magus nur einen für die Verzauberung auswählen. Ein Qualitätsgegenstand kann nur eine latente magische Eigenschaft an seine Oberfläche bringen.
+Qualitätsgegenstände sind leicht herzustellen, und jede Verditius-Maga, die dieses Mysterium kennt, kann einen erfolgreich in einem einzigen Quartal erschaffen. Wähle zunächst ein Werkzeug oder einen Gegenstand, der von einem Fachmann in seinem Handwerk angemessen verwendet werden würde. Dies muss kein Handwerksberuf sein, da jeder verschiedene Werkzeuge und Gegenstände benutzt, um Tätigkeiten in seinem täglichen Leben wirksam auszuführen. Ein Ritter verwendet ein Schwert, ein König ein Zepter, ein Höfling feine Kleidung, ein Schatzmeister einen Abakus, ein Schnitzer ein Messer und ein Schankwirt einen Besen. Der Gegenstand muss einen Form- und Materialbonus besitzen, wie auf [Seite 110](<Ars Magica Definitive Edition Basisregeln.md#tabelle-der-form-und-materialboni>) in ArM5 und in anderen Büchern aufgeführt. Hat der Gegenstand mehr als einen magischen Bonus, muss der Magus nur einen für die Verzauberung auswählen. Ein Qualitätsgegenstand kann nur eine latente magische Eigenschaft an seine Oberfläche bringen.
 
 Sobald der Magus sowohl den Gegenstand als auch den magischen Bonus ausgewählt hat, den er aus dessen wesentlicher Natur hervorholen möchte, verbringt er ein Quartal in seinem Labor und stärkt den Gegenstand mit Verditius-Runen, wobei er einen einzelnen Bauern Vim-Vis aufwendet. Er hat unabhängig von seiner Laborsumme Erfolg. Nach Vollendung gewährt der gestärkte Qualitätsgegenstand dem Benutzer einen Bonus auf den Wurf, wenn er in angemessener Weise verwendet wird. Dieser Bonus entspricht dem Bonus aus der Tabelle der Form- und Materialboni und darf auf jeden einfachen oder Stresswurf addiert werden, bei dem diese Kraft nützlich wäre. Allerdings ist dieser Bonus durch den Philosophiae-Wert des Magus zum Zeitpunkt der Herstellung begrenzt, da dieser Wert sein Verständnis der Verditius-Runen misst.
 
@@ -4531,7 +4531,7 @@ Magi, die in dieses Mysterium eingeweiht sind, können zerbrochene verzauberte G
 
 Der Magus muss in einem hermetischen Laboratorium arbeiten, um den Gegenstand zu reparieren. Kenntnisse der betreffenden Handwerksfertigkeit, die ursprünglich zur Herstellung des Gegenstands verwendet wurde, sind hilfreich, aber nicht erforderlich. Zunächst repariert er den Gegenstand physisch. Lege einen Geschicklichkeit-+-Handwerk-Stresswurf gegen einen Schwierigkeitsgrad von 9 ab. Ist der Gegenstand von überragender Qualität, kann der Spielleiter den Schwierigkeitsgrad erhöhen, aber für die meisten magischen Artefakte ist dies ein relativ einfacher Vorgang. Wurde der Gegenstand von einer anderen Verditius-Maga hergestellt, erhöht sich der Schwierigkeitsgrad um den Philosophiae-Wert der Schöpferin zum Zeitpunkt der Herstellung des Gegenstands.
 
-Nach der physischen Reparatur untersucht der Magus den Gegenstand, bevor er dessen Magie wieder zusammenfügt. Mittels Creo-Magie bindet er die Kraft wieder in ihre ursprüngliche Verzauberung ein. Dies beginnt weitgehend wie das Untersuchen eines magischen Artefakts (ArM5, Seite 100). Lege eine Intellego-Vim-Laborsumme + einen Stresswurf gegen die Stufe der schwächsten im Artefakt enthaltenen Verzauberung ab. Viele Anfragen an Verditius-Magi zur Reparatur zerbrochener verzauberter Gegenstände kommen von anderen hermetischen Magi, und da die meisten hermetischen Magi ein gewisses Verständnis der betreffenden Verzauberungen haben, helfen die von ihnen bereitgestellten Informationen den Verditius-Magi oft bei ihren Untersuchungen. Wird einem Verditius-Magus korrekt über die Eigenschaften eines Gegenstands Auskunft gegeben, darf er +20 auf seine Untersuchungswürfe addieren. Die angebotenen Informationen sind jedoch nicht immer zutreffend. Wird ihm Falschinformation über ein Artefakt gegeben, wird sein Wurf um –5 bis –20 belastet, abhängig davon, wie unwahr die Information ist. Der Spielleiter ist der letzte Schiedsrichter über die genaue Höhe des Abzugs, wobei er seine Entscheidung darauf stützt, wie sehr sich die Information von der Wahrheit unterscheidet. Repariert der Magus ein Artefakt, das er selbst hergestellt hat, oder besitzt er einen Labortext dafür, kann er die Untersuchungsphase überspringen. Gelingt es dem Magus nicht, eine Eigenschaft erfolgreich zu untersuchen, darf kein Reparaturwurf abgelegt werden. Bei einem Patzer erhält der Magus Verzerrungspunkte in Höhe der Magnitude der untersuchten Eigenschaft.
+Nach der physischen Reparatur untersucht der Magus den Gegenstand, bevor er dessen Magie wieder zusammenfügt. Mittels Creo-Magie bindet er die Kraft wieder in ihre ursprüngliche Verzauberung ein. Dies beginnt weitgehend wie das Untersuchen eines magischen Artefakts (ArM5, [Seite 100](<Ars Magica Definitive Edition Basisregeln.md#erkaufte-rechte>)). Lege eine Intellego-Vim-Laborsumme + einen Stresswurf gegen die Stufe der schwächsten im Artefakt enthaltenen Verzauberung ab. Viele Anfragen an Verditius-Magi zur Reparatur zerbrochener verzauberter Gegenstände kommen von anderen hermetischen Magi, und da die meisten hermetischen Magi ein gewisses Verständnis der betreffenden Verzauberungen haben, helfen die von ihnen bereitgestellten Informationen den Verditius-Magi oft bei ihren Untersuchungen. Wird einem Verditius-Magus korrekt über die Eigenschaften eines Gegenstands Auskunft gegeben, darf er +20 auf seine Untersuchungswürfe addieren. Die angebotenen Informationen sind jedoch nicht immer zutreffend. Wird ihm Falschinformation über ein Artefakt gegeben, wird sein Wurf um –5 bis –20 belastet, abhängig davon, wie unwahr die Information ist. Der Spielleiter ist der letzte Schiedsrichter über die genaue Höhe des Abzugs, wobei er seine Entscheidung darauf stützt, wie sehr sich die Information von der Wahrheit unterscheidet. Repariert der Magus ein Artefakt, das er selbst hergestellt hat, oder besitzt er einen Labortext dafür, kann er die Untersuchungsphase überspringen. Gelingt es dem Magus nicht, eine Eigenschaft erfolgreich zu untersuchen, darf kein Reparaturwurf abgelegt werden. Bei einem Patzer erhält der Magus Verzerrungspunkte in Höhe der Magnitude der untersuchten Eigenschaft.
 
 Nachdem der Magus eine magische Kraft des Artefakts erfolgreich verstanden hat, wird ein Stresswurf gewürfelt und zu seiner Creo-Vim-Laborsumme addiert. Ist die Summe höher als die Effektstufe der Kraft, ist der Gegenstand repariert und funktioniert wieder normal. Ist sie niedriger, scheitert er. Bei einem Patzer erhält er Verzerrungspunkte in Höhe der Magnitude der Kraft, die er zu reparieren versuchte.
 
@@ -4539,11 +4539,11 @@ Bei Gegenständen mit mehreren Kräften muss der Magus eine Kraft verstehen und 
 
 #### Verzauberte Artefakte umschmieden
 
-Durch die Anwendung derselben grundlegenden Techniken, die bei der Reparatur magischer Artefakte zum Einsatz kommen, können diejenigen, die in dieses Mysterium eingeweiht sind, auch ein unversehrtes magisches Artefakt neu bearbeiten, es auf die Werkbank zurückbringen und die Magie im Gegenstand komprimieren, um Platz für weitere Verzauberungen zu schaffen. Man sagt, Verditius habe diese Fähigkeit mit großem Erfolg beim Herstellen seiner magischen Ringe eingesetzt, indem er sie fortwährend umschmiedete und dann zusätzliche magische Kräfte hinzufügte. Das Umschmieden verzauberter Artefakte erlaubt es einem Magus, die Grenzen zu überwinden, die einem Gegenstand durch seine physische Form auferlegt werden. Die meisten wirtschaftlich denkenden Verditius-Magi füllen ein magisches Artefakt mit Verzauberungen und nutzen den gesamten verfügbaren Platz, den ein Artefakt aufgrund der Material-und-Größe-Tabelle haben kann (ArM5, Seite 97). Umschmieden erlaubt ihnen, dieses Limit zu erhöhen. Ein Magus kann ein fertiges Schlichtes oder Bereitetes Artefakt, das er selbst hergestellt hat, einen abgestimmten Gegenstand oder ein Bereitetes Artefakt, das er für die Verzauberung vorbereitet, aber noch nicht mit Kräften ausgestattet hat, umschmieden. Er kann auch Artefakte anderer umschmieden, sofern er einen Labortext für den Gegenstand besitzt.
+Durch die Anwendung derselben grundlegenden Techniken, die bei der Reparatur magischer Artefakte zum Einsatz kommen, können diejenigen, die in dieses Mysterium eingeweiht sind, auch ein unversehrtes magisches Artefakt neu bearbeiten, es auf die Werkbank zurückbringen und die Magie im Gegenstand komprimieren, um Platz für weitere Verzauberungen zu schaffen. Man sagt, Verditius habe diese Fähigkeit mit großem Erfolg beim Herstellen seiner magischen Ringe eingesetzt, indem er sie fortwährend umschmiedete und dann zusätzliche magische Kräfte hinzufügte. Das Umschmieden verzauberter Artefakte erlaubt es einem Magus, die Grenzen zu überwinden, die einem Gegenstand durch seine physische Form auferlegt werden. Die meisten wirtschaftlich denkenden Verditius-Magi füllen ein magisches Artefakt mit Verzauberungen und nutzen den gesamten verfügbaren Platz, den ein Artefakt aufgrund der Material-und-Größe-Tabelle haben kann (ArM5, [Seite 97](<Ars Magica Definitive Edition Basisregeln.md#material-und-größentabellen>)). Umschmieden erlaubt ihnen, dieses Limit zu erhöhen. Ein Magus kann ein fertiges Schlichtes oder Bereitetes Artefakt, das er selbst hergestellt hat, einen abgestimmten Gegenstand oder ein Bereitetes Artefakt, das er für die Verzauberung vorbereitet, aber noch nicht mit Kräften ausgestattet hat, umschmieden. Er kann auch Artefakte anderer umschmieden, sofern er einen Labortext für den Gegenstand besitzt.
 
 > #### Beispiel: Umschmieden
 > 
-> Maga Mari Amwithig von Semita Errabunda hat Hephaestion gebeten, ihr Schlichtes Artefakt umzuschmieden, den Stab der tierischen Pein (ArM5, Seite 100). Hephaestion willigt ein und berechnet ihr acht Bauern Vis zuzüglich der vier, die für den Vorgang erforderlich sind. Hephaestions Rego-Vim-Laborsumme beträgt 20, was auch die endgültige Effektstufe des Stabes ist. Er addiert einen Stresswurf zu seiner Laborsumme (er würfelt eine Drei) und schmiedet den Stab in einem Quartal um. Der Stab kann nun vier weitere Bauern Vis aufnehmen und erneut als Schlichtes Artefakt verzaubert werden. Möchte Hephaestion den Stab erneut umschmieden, beträgt die angepasste endgültige Effektstufe seiner ursprünglichen Kraft 40 (Basis 20 + [5 × Hephaestions Philosophiae-Wert von 4]). Zwanzig wird auch zu allen zusätzlichen Kräften addiert, die Mari dem Stab bei späteren Umschmiedungen einbettet.
+> Maga Mari Amwithig von Semita Errabunda hat Hephaestion gebeten, ihr Schlichtes Artefakt umzuschmieden, den Stab der tierischen Pein (ArM5, [Seite 100](<Ars Magica Definitive Edition Basisregeln.md#erkaufte-rechte>)). Hephaestion willigt ein und berechnet ihr acht Bauern Vis zuzüglich der vier, die für den Vorgang erforderlich sind. Hephaestions Rego-Vim-Laborsumme beträgt 20, was auch die endgültige Effektstufe des Stabes ist. Er addiert einen Stresswurf zu seiner Laborsumme (er würfelt eine Drei) und schmiedet den Stab in einem Quartal um. Der Stab kann nun vier weitere Bauern Vis aufnehmen und erneut als Schlichtes Artefakt verzaubert werden. Möchte Hephaestion den Stab erneut umschmieden, beträgt die angepasste endgültige Effektstufe seiner ursprünglichen Kraft 40 (Basis 20 + [5 × Hephaestions Philosophiae-Wert von 4]). Zwanzig wird auch zu allen zusätzlichen Kräften addiert, die Mari dem Stab bei späteren Umschmiedungen einbettet.
 
 Um ein fertiges Artefakt umzuschmieden, vergleiche die Rego-Vim-Laborsumme des Magus + einen Stresswurf mit der Stufe der schwächsten Kraft des Artefakts. Ist die Summe gleich oder höher als die Stufe der schwächsten Kraft, kann der Magus fortfahren, und es werden nacheinander neue Würfe gegen etwaige mächtigere Verzauberungen des Artefakts abgelegt. Wenn du erfolgreich höher als die Stufen aller Kräfte des Artefakts würfelst, hat der Magus die Magie des Artefakts in sich selbst komprimiert. Der umgeschmiedete Gegenstand kann eine Anzahl zusätzlicher Bauern Vis aufnehmen, die seinem Philosophiae-Wert zum Zeitpunkt des Umschmiedens entspricht. Neue Kräfte können in den folgenden Laborquartalen eingebettet werden. Ist das umgeschmiedete Artefakt ein Schlichtes Artefakt, müssen alle neuen Verzauberungen in einem Quartal abgeschlossen werden. Scheitert der Magus, hat er den Gegenstand lediglich so wiederhergestellt, wie er war. Verfehlst du den Wurf um mehr als zehn, hat der Magus den Gegenstand beim Umschmieden beschädigt, und der Gegenstand verliert seine mächtigste Verzauberung. Bei einem Patzer zerstört der Magus den Gegenstand und erhält Verzerrungspunkte in Höhe der Gesamtmagnitude aller Effektstufen.
 
@@ -4602,7 +4602,7 @@ Jede Ältere Rune ist auch sympathetisch mit einer Baumart verbunden. Beschreibt
 
 Das Einschreiben jeder Älteren Rune kostet einen Bauern kunstspezifischen Vis. Dies kommt zu den endgültigen Kosten einer eingebetteten Kraft hinzu, deren endgültige Effektstufe durch die Einschreibung der Rune erhöht wird. Vis, das zum Einschreiben Älterer Runen verwendet wird, zählt zur maximalen Menge, die ein Gegenstand aufnehmen kann.
 
-Es gibt 24 Ältere Runen, von denen nur die Hälfte an die Hermetischen Künste angepasst wurde. Die Zuordnung einer Bedeutung zu den verbleibenden drei Künsten wäre jeweils ein Kleiner Durchbruch für jede Rune, und eine kleine Anzahl von Verditius-Magi arbeitet an genau einem solchen Durchbruch. (Siehe *Häuser des Hermes: Wahre Linien*, Seite 26, für Einzelheiten zur Forschung, die für eine solche Entdeckung erforderlich ist.)
+Es gibt 24 Ältere Runen, von denen nur die Hälfte an die Hermetischen Künste angepasst wurde. Die Zuordnung einer Bedeutung zu den verbleibenden drei Künsten wäre jeweils ein Kleiner Durchbruch für jede Rune, und eine kleine Anzahl von Verditius-Magi arbeitet an genau einem solchen Durchbruch. (Siehe *Häuser des Hermes: Wahre Linien*, [Seite 26](<Ars Magica 5e - Häuser des Hermes - Wahre Linien.md#die-grenzen-überschreiten>), für Einzelheiten zur Forschung, die für eine solche Entdeckung erforderlich ist.)
 
 Jeder Verditius-Magus kann Ältere Runen erkennen, was es ihm ermöglicht, sie leicht von gewöhnlichen Verditius-Runen zu unterscheiden. Ein erfolgreicher Intelligenz-+-Verditius-Kultkunde-+-einfacher-Wurf gegen einen Schwierigkeitsgrad von 9 erlaubt es ihm, die Rune und die ihr entsprechende Kunst zu identifizieren.
 
@@ -4612,7 +4612,7 @@ Eine zweite Anwendung dieses Inneren Mysteriums erlaubt es dem Magus, sein verti
 > 
 > Zehn Jahre nach seiner Lehrlingsprüfung erhält Hephaestion den Auftrag, einen Metallstab herzustellen, der *Die Erde spaltet sich auf* wirkt. Hephaestion beschließt, diesen Stab als Bereitetes Artefakt zu fertigen. Um den Vorgang zu beschleunigen, entscheidet er sich, das Artefakt mit der „Eis"-Rune zu beschreiben, die seinen Rego-Wert verdoppelt. Der Stab soll auch die Konzentration für den Träger aufrechterhalten, sodass die endgültige Effektstufe 40 beträgt: 30 für den Zauber + 5 für die Ältere Rune + 5 für die Konzentrationserhaltung.
 > 
-> Hephaestions reguläre Rego-Terram-Laborsumme ist 8 (Rego) + 19 (Terram einschließlich Begabungsbonus) + 3 (Intelligenz) + 6 (Magietheorie spezialisiert auf Terram) + 3 (Magische Aura), insgesamt 39. Der Eisenstab ist ein kleiner Gegenstand aus unedlem Metall und kann zehn Bauern Vis aufnehmen. Während des Quartals, das er mit der Vorbereitung des Stabes für die Verzauberung verbringt, kann Hephaestion seine Handwerksfertigkeit Schmied von den notwendigen Kosten abziehen, indem er den Stab mit Verditius-Runen beschriftet (ArM5, Seite 93). Sein Handwerk-Schmied-Wert beträgt 5 + 2 durch Begabung, spezialisiert auf Eisen. Es kostet Hephaestion nur zwei Bauern Terram-Vis, den Stab für die Verzauberung zu öffnen.
+> Hephaestions reguläre Rego-Terram-Laborsumme ist 8 (Rego) + 19 (Terram einschließlich Begabungsbonus) + 3 (Intelligenz) + 6 (Magietheorie spezialisiert auf Terram) + 3 (Magische Aura), insgesamt 39. Der Eisenstab ist ein kleiner Gegenstand aus unedlem Metall und kann zehn Bauern Vis aufnehmen. Während des Quartals, das er mit der Vorbereitung des Stabes für die Verzauberung verbringt, kann Hephaestion seine Handwerksfertigkeit Schmied von den notwendigen Kosten abziehen, indem er den Stab mit Verditius-Runen beschriftet (ArM5, [Seite 93](<Ars Magica Definitive Edition Basisregeln.md#verditius--verditius-magie>)). Sein Handwerk-Schmied-Wert beträgt 5 + 2 durch Begabung, spezialisiert auf Eisen. Es kostet Hephaestion nur zwei Bauern Terram-Vis, den Stab für die Verzauberung zu öffnen.
 > 
 > Hephaestion beginnt die Verzauberung des Artefakts im folgenden Quartal. Seine Laborsumme wird durch Verditius-Runen, seinen Handwerk-Schmied-Wert und den Vorteil der Älteren Rune erhöht. Seine überarbeitete Laborsumme beträgt 16 (8 Rego mal 2 durch die Ältere Rune) + 19 (Terram einschließlich Begabungsbonus) + 3 (Intelligenz) + 6 (Magietheorie 5 spezialisiert auf Terram) + 3 (Magische Aura) + 5 (+4 Form- und Materialbonus „Dinge auf Distanz kontrollieren" + 4 Philosophiae-Wert, begrenzt durch Magietheorie 5) + 8 (Handwerk Schmied 5 + Spezialisierung auf Eisen + 2 durch Begabung), insgesamt 60. Im ersten Quartal des eigentlichen Verzauberungsprozesses sammelt Hephaestion 20 Punkte zur Fertigstellung des Gegenstands an (Laborsumme 60 minus endgültige Effektstufe 40). Er vollendet ihn im zweiten Quartal. Der Stab benötigt sieben Bauern Terram-Vis, sechs für die endgültige Effektstufe der Kraft und einen für die Einschreibung der „Eis"-Rune. Hephaestion berechnet seinem Auftraggeber 18 Bauern Vis für seine Dienste, das Doppelte des für die Vorbereitung und Verzauberung des Gegenstands benötigten Betrags, plus die neun Bauern, die für die Verzauberung notwendig waren, insgesamt 27 Bauern.
 
@@ -4628,7 +4628,7 @@ Eine zweite Anwendung dieses Inneren Mysteriums erlaubt es dem Magus, sein verti
 
 Drei Jahrhunderte lang galt die Herstellung von Automaten – mechanisierten Bestien, Vögeln, Frauen und Männern, Schöpfungen für Kaiser und Caesaren – als das größte Mysterium des Hauses. Dies änderte sich im 12. Jahrhundert, als Icilius der Verräter begann, Magi anderer Häuser die Herstellung von Automaten beizubringen. Jeder, der wohlhabend genug war, sich einen Automaten leisten zu können, konnte einen besitzen. Im 13. Jahrhundert besitzen mehrere mächtige Adlige und wohlhabende Geistliche Automaten. Obwohl sie noch immer geschätzt werden, hat das Ansehen derjenigen, die diese Artefakte herstellen, abgenommen.
 
-Die Kenntnis dieses Mysteriums gewährt die Große Hermetische Tugend Automatenkunst, eine Fertigkeit mit einem Anfangswert von 1. Verditius-Magi erlernen dies durch Einweihung und Prüfung, aber andere hermetische Magi können dies als Übernatürliche Fertigkeit erlernen. Da dieses Mysterium mit Blick auf hermetische Magi entwickelt wurde, müssen Magi, die es erlernen möchten, nicht die Summe ihrer Kunstwerte von der Quellenqualität der Quelle abziehen (ArM5, Seite 166), obwohl sie die Summe aller anderen Übernatürlichen Tugenden, die sie besitzen mögen, abziehen müssen. Theoretisch könnten auch Verditius-Magi es auf diese Weise erlernen, doch die Erinnerung an Icilius' Verrat ist noch frisch, und jeder Magus, der dies tut, muss damit rechnen, von seinem Haus gemieden, wenn nicht sogar formell ausgestoßen zu werden.
+Die Kenntnis dieses Mysteriums gewährt die Große Hermetische Tugend Automatenkunst, eine Fertigkeit mit einem Anfangswert von 1. Verditius-Magi erlernen dies durch Einweihung und Prüfung, aber andere hermetische Magi können dies als Übernatürliche Fertigkeit erlernen. Da dieses Mysterium mit Blick auf hermetische Magi entwickelt wurde, müssen Magi, die es erlernen möchten, nicht die Summe ihrer Kunstwerte von der Quellenqualität der Quelle abziehen (ArM5, [Seite 166](<Ars Magica Definitive Edition Basisregeln.md#einflüstern-1>)), obwohl sie die Summe aller anderen Übernatürlichen Tugenden, die sie besitzen mögen, abziehen müssen. Theoretisch könnten auch Verditius-Magi es auf diese Weise erlernen, doch die Erinnerung an Icilius' Verrat ist noch frisch, und jeder Magus, der dies tut, muss damit rechnen, von seinem Haus gemieden, wenn nicht sogar formell ausgestoßen zu werden.
 
 Automaten sind konstruierte Nachbildungen aus einem Grundmaterial, üblicherweise Holz, Stein oder Metall, die Bestien oder Menschen gleichen und aus winzigen Zahnrädern, Seil- und Flaschenzugapparaten, Gelenkverbindungen, inneren Seilenanordnungen und sorgfältig ausgerichteten Gewichten und Gegengewichten bestehen. Aus der Ferne mögen sie echt wirken, doch bei näherer Betrachtung offenbart sich ihre künstliche Natur. Mit Magie durchdrungen, führen sie normalerweise Aufgaben aus, die für einen Diener oder Sklaven geeignet sind, doch manche können kompliziertere Aufgaben ausführen und ausgeklügelten Befehlen folgen. Sie haben jedoch keine eigenen Gedanken, und selbst der kunstvollste Automat kann nur den Befehlen seines Meisters folgen.
 
@@ -4636,7 +4636,7 @@ Die Konstruktion eines Automaten umfasst drei Phasen: die Erschaffung der Figur,
 
 #### Einen Automaten erschaffen
 
-Der Magus muss zunächst entscheiden, welche Form und welches Material seine Automaten haben sollen. Die Größe des Automaten und sein Material sind wichtig. Wähle eine Nachbildung einer Spezies, einschließlich Mensch, und bestimme ihre Größe unter Zuhilfenahme der Größenbeispieltabelle (ArM5, Seite 192) oder des Abschnitts Weltliche Tiere im Bjornaer-Kapitel. Wähle dann ein Material anhand der Material-und-Größe-Tabelle (ArM5, Seite 97), um die Basispunkte des Automaten zu bestimmen. Automaten sind magische Schöpfungen und haben daher einen Machtwert. Diese Zahlen bestimmen den Machtwert des Dinges – eine entscheidende Berechnung, die im gesamten Herstellungsprozess verwendet wird.
+Der Magus muss zunächst entscheiden, welche Form und welches Material seine Automaten haben sollen. Die Größe des Automaten und sein Material sind wichtig. Wähle eine Nachbildung einer Spezies, einschließlich Mensch, und bestimme ihre Größe unter Zuhilfenahme der Größenbeispieltabelle (ArM5, [Seite 192](<Ars Magica Definitive Edition Basisregeln.md#kreaturen-mit-nicht-standardmäßiger-größe>)) oder des Abschnitts Weltliche Tiere im Bjornaer-Kapitel. Wähle dann ein Material anhand der Material-und-Größe-Tabelle (ArM5, [Seite 97](<Ars Magica Definitive Edition Basisregeln.md#material-und-größentabellen>)), um die Basispunkte des Automaten zu bestimmen. Automaten sind magische Schöpfungen und haben daher einen Machtwert. Diese Zahlen bestimmen den Machtwert des Dinges – eine entscheidende Berechnung, die im gesamten Herstellungsprozess verwendet wird.
 
 **Machtwert des Automaten: 10 + Größe + Material-Basispunkte**
 
@@ -4840,7 +4840,7 @@ Gelegentlich kursieren Gerüchte, die darauf hindeuten, dass dieser Vorgang auch
 
 Dieses Mysterium lässt einen Magus ein Bereitetes Artefakt auf dieselbe Weise abstimmen, wie man einen Talisman abstimmt, wonach er die Verbindung zu ihm lösen kann, ohne den Gegenstand oder seine Effekte zu beschädigen. Dies sind mächtige Gegenstände, unbegrenzt in ihrer magischen Kraft durch ihre Form oder ihr Material, und fähig, große Mengen Vis aufzunehmen. Abgestimmte Gegenstände sind begehrte Artefakte, sowohl wegen ihrer mächtigen Effekte als auch, weil die verbleibende Persönlichkeit des Magus Gier nach dem Gegenstand auslöst, sobald er in den Händen eines anderen ist. Diese Artefakte sind die wahren „Kinder" der Verditius-Magi.
 
-Ein Magus, der einen abgestimmten Gegenstand herstellen möchte, verbringt das Quartal in seinem Laboratorium mit der Vorbereitung eines Gegenstands für diese Verzauberung. Er darf die Grenzen der Material-und-Größe-Tabelle (ArM5, Seite 97) missachten. Der Gegenstand kann eine Anzahl von Bauern Vis aufnehmen, die seiner höchsten Technik + höchsten Form + Philosophiae-Wert entspricht. Bereitet er ein Artefakt vor, das zu einem seiner Handwerkswerte passt, darf er auch diesen Wert zum Vis-Limit des Artefakts addieren. Diese Menge Vis muss in den Gegenstand eingebracht werden, bevor er zauberähnliche Verzauberungen einbettet, muss aber nicht im Vorbereitungsquartal aufgebracht werden und kann sich über weitere Quartale erstrecken.
+Ein Magus, der einen abgestimmten Gegenstand herstellen möchte, verbringt das Quartal in seinem Laboratorium mit der Vorbereitung eines Gegenstands für diese Verzauberung. Er darf die Grenzen der Material-und-Größe-Tabelle (ArM5, [Seite 97](<Ars Magica Definitive Edition Basisregeln.md#material-und-größentabellen>)) missachten. Der Gegenstand kann eine Anzahl von Bauern Vis aufnehmen, die seiner höchsten Technik + höchsten Form + Philosophiae-Wert entspricht. Bereitet er ein Artefakt vor, das zu einem seiner Handwerkswerte passt, darf er auch diesen Wert zum Vis-Limit des Artefakts addieren. Diese Menge Vis muss in den Gegenstand eingebracht werden, bevor er zauberähnliche Verzauberungen einbettet, muss aber nicht im Vorbereitungsquartal aufgebracht werden und kann sich über weitere Quartale erstrecken.
 
 Sobald der Gegenstand vorbereitet ist, bettet der Magus Effekte wie gewohnt ein. Aufgrund der inhärenten Verbindung, die das Artefakt zu ihm hat, addiere seinen Hybris-Wert zu allen Laborsummen, die bei der Verzauberung des Artefakts verwendet werden. Da diese Verbindung so stark ist, kann ein Magus nur an einem einzelnen abgestimmten Gegenstand gleichzeitig arbeiten. Dieses Artefakt ist eine Arkane Verbindung zu ihm, bis er die Verbindung löst, was am Ende des Verzauberungsprozesses geschieht. Sobald er den Gegenstand mit Kräften gefüllt hat – oder früher, falls er dies wünscht –, löst er seine Verbindung zu ihm. Vergleiche seine reguläre Perdo-Vim-Laborsumme + einen Stresswurf mit 10 + der maximalen Anzahl von Bauern Vis, die das Artefakt aufnehmen kann. Ist sie größer oder gleich der Zahl, hat er den abgestimmten Gegenstand vollendet. Ist sie kleiner, bleibt das Artefakt wie ein Talisman mit ihm verbunden. Bei einem Patzer erhält er Verzerrungspunkte in Höhe der Gesamtzahl der Bauern Vis im Gegenstand.
 

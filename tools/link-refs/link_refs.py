@@ -344,6 +344,8 @@ def _normalize_for_match(text: str) -> str:
     t = re.sub(r'\*([^*]+)\*', r'\1', t)
     t = t.replace('&emsp;', '').replace('&nbsp;', '')
     t = re.sub(r'<br\s*/?>', '', t)
+    t = re.sub(r'^#{1,6}\s+', '', t)
+    t = re.sub(r'^-\s+', '', t)
     t = t.strip()
     return t
 
@@ -383,11 +385,15 @@ def find_toc_range(lines: list[str], config: dict | None = None) -> tuple[int, i
                 toc_end = i
                 break
         if stripped.startswith('## ') and i > toc_start + 5:
-            has_indent = any(
-                c in lines[i].rstrip('\n')
-                for c in ['&emsp;', '&nbsp;']
-            )
-            if not has_indent:
+            is_toc_content = False
+            for j in range(i + 1, min(i + 6, len(lines))):
+                nxt = lines[j].strip()
+                if not nxt:
+                    continue
+                if nxt.startswith('- ') or nxt.startswith('&emsp;') or nxt.startswith('## '):
+                    is_toc_content = True
+                break
+            if not is_toc_content:
                 toc_end = i
                 break
     else:
@@ -507,19 +513,14 @@ def link_toc_entries(lines: list[str], headers: list[dict],
             if is_bq_entry:
                 bq_out = re.match(r'^((?:>\s*)+)', line).group(1) if re.match(r'^((?:>\s*)+)', line) else '>'
 
-            indent = ''
             temp = clean_line if is_bq_entry else line
-            while temp.startswith(('&emsp;', '&nbsp;')):
-                for ic2 in ['&emsp;', '&nbsp;']:
-                    if temp.startswith(ic2):
-                        indent += ic2
-                        temp = temp[len(ic2):]
-                        break
+            prefix_m = re.match(r'^((?:#{1,6}\s+)?(?:-\s+)?(?:(?:&emsp;|&nbsp;))*)', temp)
+            prefix = prefix_m.group(1) if prefix_m else ''
 
             if is_bold:
-                new_line = f'{bq_out}{indent}**[{display_text}](#{matched_anchor})**'
+                new_line = f'{bq_out}{prefix}**[{display_text}](#{matched_anchor})**'
             else:
-                new_line = f'{bq_out}{indent}[{display_text}](#{matched_anchor})'
+                new_line = f'{bq_out}{prefix}[{display_text}](#{matched_anchor})'
             if has_br:
                 new_line += '<br>'
             result[i] = new_line + '\n'

@@ -301,12 +301,12 @@ Dezember 2024
 | Wikimedia Commons                                 | 96, 119, 252, 308, 392, 463, 505                                                                           |
 | Verschiedene Quellen                              | 135, 159, 186, 257, 298, 316, 324, 361, 398                                                               |
 
-## Inhaltsverzeichnis
+[Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-**Danksagungen**<br>
-**Gedenkseiten**<br>
-**Vorwort**<br>
-**Abbildungsverzeichnis**<br>
+**[Danksagungen](#danksagungen)**<br>
+**[Gedenkseiten](#gedenkseiten)**<br>
+**[Vorwort](#vorwort)**<br>
+**[Abbildungsverzeichnis](#abbildungsverzeichnis)**<br>
 [**Kapitel 1: Einleitung**](#kapitel-1-einleitung)<br>
 [**Kapitel 2: Der Orden des Hermes**](#kapitel-2-der-orden-des-hermes)<br>
 [**Kapitel 3: Charaktere**](#kapitel-3-charaktere)<br>
@@ -331,11 +331,11 @@ Karte von Mythischem Europa<br>
 [**Anhang E: Zauberindex**](#zauberindex)<br>
 [**Anhang G: Traditioneller Index**](#traditioneller-index)<br>
 Anhang H: Charakterbogen<br>
-Anhang I: Spieltester der Fünften Edition<br>
+[Spieltester der Fünften Edition](#spieltester-der-fünften-edition)<br>
 
 ---
 
-> *Ein Aufblitzen bronzener Schuppen vor azurblauem Himmel! Sein Schatten begleitete uns tagelang wie ein flüchtiger Gefährte, doch nun stürzt das ungeheure Wesen auf unsere kleine Gruppe herab. Die Augen unseres Magus erglühen in arkaner Kraft, unser stämmiger Grog umfasst sein Schwert, und ich halte den Pfeil auf der Sehne, bereit zum Schuss. Der ferne Konvent, hoch oben an den aufragenden Hängen des Berges gelegen, wacht über unsere gefährliche Reise, während Kirchenglocken von unten her eine Warnung läuten. Eine verzweifelte Botschaft, in meiner Tasche verborgen, muss ihr Ziel noch vor Einbruch der Nacht erreichen! Unsere Reise hat gerade erst begonnen – durch dieses Land aus Mythos und Magie, wo die sterbliche Welt in die Umarmung der Legende versinkt.*
+> [Magi](#magi-1)
 
 # Kapitel 1: Einleitung
 
@@ -648,7 +648,7 @@ Aufgrund ihrer Natur sind Bjornaer-Magi nicht in der Lage, die notwendigen Bindu
 
 Das Haus ist in sechs Clans unterteilt. Clan Arelie kümmert sich um die Bewahrung der Vergangenheit, Clan Ilfetu ist für die Einweihung von Hausmitgliedern zuständig, Clan Maruhs strebt nach Selbsterkenntnis, Clan Midusulf führt, Clan Sirnas schützt, und Clan Wilkis hegt Magi und stärkt das Haus. Philosophisch ist das Haus gespalten zwischen den Harmonisten, die möchten, dass Menschen und Natur in Einklang miteinander leben, und den Wildisten, die die Menschen zurück in die Städte drängen und die Wildnis wieder zu ihrer Vorherrschaft zurückführen wollen. Die Wildisten-Philosophie war die ursprüngliche Philosophie des Hauses, während der erste Harmonist Hérisson war, ein Magus des zehnten Jahrhunderts, dessen Ideen erst nach dem Schismakrieg populär wurden.
 
-Die Prima des Hauses ist Falke, und seine Domus Magna ist Crintera im Rheintribunal, beschrieben in [*Wächter des Waldes*, Seite 92](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#crintera>). Der frühere Primus, Erzmagus Urgen, ist der Anführer des Clans Midusulf und im Haus nach wie vor bedeutsam; er sitzt in seinem Rat und wohnt in Crintera.
+Die Prima des Hauses ist Falke, und seine Domus Magna ist Crintera im Rheintribunal, beschrieben in [*Wächter des Waldes*, Seite 92](<Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md#crintera>). Der frühere Primus, Erzmagus Urgen, ist der Anführer des Clans Midusulf und im Haus nach wie vor bedeutsam; er sitzt in seinem Rat und wohnt in Crintera.
 
 Dieses Haus ist ein Mysterienkult, und die Fähigkeit, die Gestalt des Herztieres anzunehmen, ist das Äußere Mysterium (siehe [Seite 233](#bjornaer--das-herztier)).
 
@@ -656,7 +656,7 @@ Dieses Haus ist ein Mysterienkult, und die Fähigkeit, die Gestalt des Herztiere
 
 Haus Bonisagus ist in zwei Strömungen geteilt: die politische und die theoretische. Theoretische Bonisagus-Magi konzentrieren sich darauf, die Grenzen der hermetischen Magie zurückzudrängen, und sind die unbestrittenen Meister der Magietheorie. Politische Bonisagus-Magi, oft „Magi Trianomae" genannt, konzentrieren sich darauf, den Orden zusammenzuhalten, und zeichnen sich durch politisches Geschick aus.
 
-Die derzeitige Prima ist Erzmaga Murion, eine vollendete Politikerin, die in Durenmar im Rheintribunal residiert (siehe [*Wächter des Waldes*, Seite 51](<Ars Magica 5e - Guardians of the Forests - The Rhine Tribunal.md#durenmar>)). Das Haus erinnert sich typischerweise besser an seine Forscher als an seine Politiker: Gestalten wie Notatus, der erste Primus, der die Aegis des Herdes erschuf, und Conciatta, die die hermetische Magie erweiterte, um die anderen übernatürlichen Mächte direkt zu beeinflussen (Das Göttliche, die Feensphäre und das Infernale) (siehe *Legends of Hermes*, Kapitel Zwei). Unter den zeitgenössischen Mitgliedern ist Erzmagus Relisius für seinen christlichen Glauben und sein Eintreten für Harmonie zwischen Magie und dem Göttlichen bekannt (siehe *Tales of Power*, Kapitel Vier: *Encroaching Dominion*).
+Die derzeitige Prima ist Erzmaga Murion, eine vollendete Politikerin, die in Durenmar im Rheintribunal residiert (siehe [*Wächter des Waldes*, Seite 51](<Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md#durenmar>)). Das Haus erinnert sich typischerweise besser an seine Forscher als an seine Politiker: Gestalten wie Notatus, der erste Primus, der die Aegis des Herdes erschuf, und Conciatta, die die hermetische Magie erweiterte, um die anderen übernatürlichen Mächte direkt zu beeinflussen (Das Göttliche, die Feensphäre und das Infernale) (siehe *Legends of Hermes*, Kapitel Zwei). Unter den zeitgenössischen Mitgliedern ist Erzmagus Relisius für seinen christlichen Glauben und sein Eintreten für Harmonie zwischen Magie und dem Göttlichen bekannt (siehe *Tales of Power*, Kapitel Vier: *Encroaching Dominion*).
 
 ### Haus Criamon
 
@@ -734,7 +734,7 @@ Obwohl das Haus von Merinita gegründet wurde, hatte sie selbst wenig Interesse 
 
 Quendalon kehrte zwei Jahre später zurück, seine Augen durch Rubine ersetzt, und verkündete eine neue Richtung für das Haus. Myanar widersetzte sich dem, und innerhalb des Hauses brach Krieg aus. Schließlich siegte Quendalon, und die Merinita wandten sich dem Studium der Feen zu. Quendalon diente als Primus, zumindest dem Namen nach, bis zum Ende des zehnten Jahrhunderts, obwohl er in der zweiten Hälfte jenes Jahrhunderts kaum Kontakt zu seinem Haus hatte. Einige Magi vermuten noch heute, dass der zurückgekehrte Quendalon tatsächlich eine Fee war.
 
-Der derzeitige Primus ist Handri, der in der Domus Magna Irencillia im Rheintribunal lebt. Die frühere Prima, Vinaria, lebt ebenfalls dort. Im Jahr 1202 verschwand sie ähnlich wie Quendalon und ließ Handri das Ruder übernehmen. Als Vinaria jedoch 1209 zurückkehrte, unternahm sie keine Schritte, die Kontrolle über das Haus zurückzugewinnen, und lebt seither still in Irencillia (siehe *Wächter des Waldes*, Seite 104).
+Der derzeitige Primus ist Handri, der in der Domus Magna Irencillia im Rheintribunal lebt. Die frühere Prima, Vinaria, lebt ebenfalls dort. Im Jahr 1202 verschwand sie ähnlich wie Quendalon und ließ Handri das Ruder übernehmen. Als Vinaria jedoch 1209 zurückkehrte, unternahm sie keine Schritte, die Kontrolle über das Haus zurückzugewinnen, und lebt seither still in Irencillia (siehe *Wächter des Waldes*, [Seite 104](<Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md#irencillia>)).
 
 Lucian der Gelehrte ist ein älterer Magus, der im Konvent Aegea auf dem Grund des Ägäischen Meeres im Tribunal von Theben lebt. Er ist bekannt für seine tiefe Kenntnis der literarischen Traditionen des Byzantinischen Reiches und des antiken Griechenland und soll in die Geheimnisse der Geschichtenmagie eingeweiht worden sein (siehe *The Sundered Eagle*, Seite 81). Dama, die Praeco des Languedoc-Tribunals, wurde 993 geboren. Sie versank 1061 ins Zwielicht, tauchte aber 19 Jahre später wieder auf und ist bis heute aktiv. Sie ist eines von nur zwei Mitgliedern des Konvents Mimizan und soll einen Mysterienkult anführen, der nicht Teil des Hauses Merinita ist (siehe *Faith & Flame*, Seiten 29 und 64).
 
@@ -750,7 +750,7 @@ Haus Tremere ist eine wahre Abstammungslinie. Alle seine Mitglieder können eine
 
 Darüber hinaus behalten Tremere-Magi die Abstimmungs-Sigile ihrer Filii (siehe [Seite 224](#sigile)), bis der Filius den Parens im Certamen besiegt oder der Parens stirbt. Wenn ein Tremere-Magus, der sein eigenes Sigil nicht hält, einen Lehrling ausbildet, wird das Sigil des neuen Magus vom Parens des ausbildenden Magus gehalten – vorausgesetzt, jener Magus hält sein eigenes Sigil. Falls er es nicht tut, wird das Sigil die Kette weiter nach oben weitergegeben, bis es einen Magus erreicht, der sein eigenes Sigil hält. Infolge dieser Gepflogenheit sind die Stimmen des Hauses Tremere in sehr wenigen Händen konzentriert.
 
-Die Domus Magna ist Coeris im Transsilvanischen Tribunal, und die Prima ist Poena. Sie soll die Namen, magischen Stärken und Vorlieben jedes Mitglieds ihres Hauses kennen sowie jedes anderen Magus, der ihr nützlich sein könnte. Was auch immer die Wahrheit dahinter sei, sie verwaltet die Projekte des gesamten Hauses mit ungewöhnlicher Effizienz (siehe *Against the Dark*, Seite 21). Die Stellvertreterin des Hauses (anders als andere Häuser hat Tremere tatsächlich eine solche Position) ist Erzmaga Monica Ierne, eine Maga, die ursprünglich aus dem Stonehenge-Tribunal stammt und eine Meisterin der Kampfmagie ist. Sie ist nicht für die Position der Prima geeignet und hat dies öffentlich eingestanden, ist aber eine hervorragende Feldkommandantin (siehe *Against the Dark*, Seite 30). Erzmagus Stentorius ist genau das, was andere Magi sich vorstellen, wenn sie an ein älteres, mächtiges Mitglied des Hauses Tremere denken. Er ist der Anführer von Fengheld, dem größten Konvent im Rheintribunal, und hält drei Fünftel der Sigile der Tremere-Magi jenes Tribunals, während er zudem das Haus dort anführt. Selbst in einem Tribunal, das die Domus Magnae und Primi der Häuser Bonisagus, Bjornaer und Merinita beherbergt, hält er möglicherweise mehr politische Macht als jeder andere einzelne Magus (siehe *Wächter des Waldes*, Seite 84).
+Die Domus Magna ist Coeris im Transsilvanischen Tribunal, und die Prima ist Poena. Sie soll die Namen, magischen Stärken und Vorlieben jedes Mitglieds ihres Hauses kennen sowie jedes anderen Magus, der ihr nützlich sein könnte. Was auch immer die Wahrheit dahinter sei, sie verwaltet die Projekte des gesamten Hauses mit ungewöhnlicher Effizienz (siehe *Against the Dark*, Seite 21). Die Stellvertreterin des Hauses (anders als andere Häuser hat Tremere tatsächlich eine solche Position) ist Erzmaga Monica Ierne, eine Maga, die ursprünglich aus dem Stonehenge-Tribunal stammt und eine Meisterin der Kampfmagie ist. Sie ist nicht für die Position der Prima geeignet und hat dies öffentlich eingestanden, ist aber eine hervorragende Feldkommandantin (siehe *Against the Dark*, Seite 30). Erzmagus Stentorius ist genau das, was andere Magi sich vorstellen, wenn sie an ein älteres, mächtiges Mitglied des Hauses Tremere denken. Er ist der Anführer von Fengheld, dem größten Konvent im Rheintribunal, und hält drei Fünftel der Sigile der Tremere-Magi jenes Tribunals, während er zudem das Haus dort anführt. Selbst in einem Tribunal, das die Domus Magnae und Primi der Häuser Bonisagus, Bjornaer und Merinita beherbergt, hält er möglicherweise mehr politische Macht als jeder andere einzelne Magus (siehe *Wächter des Waldes*, [Seite 84](<Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md#fengheld>)).
 
 ### Haus Tytalus
 
@@ -850,7 +850,7 @@ Der Periphere Kodex besteht aus allen Entscheidungen, die seit der Gründung des
 
 Theoretisch ist die einzige Strafe für den Verstoß gegen den Kodex der Tod. In der Praxis verhängen Tribunale dies nur selten und begnügen sich stattdessen mit Vis-Bußen, Zeitaufwand für Dienste oder anderen geringeren Strafen. Diese Strafen werden jedoch durch die letzte Sanktion gestützt, und die Weigerung, sich der von einem Tribunal verhängten Strafe zu unterwerfen, gilt stets als Grund für die Todesstrafe. Diese wird durch die Erklärung eines Zuges der Magier durchgesetzt, der den Täter aus dem Orden ausstößt und ihn damit des Schutzes des Kodex beraubt. Dies wird als „Ordensbann" bezeichnet, und Magi, über die ein Zug der Magier verhängt wurde, sind als „ordensverstoßene Magi" bekannt. Da die Besitztümer des Verbrechers nach Überlieferung denen zugesprochen werden, die ihn töten, sind mächtige Magi häufig daran interessiert, bei der Jagd auf die Täter zu helfen.
 
-Weitaus mehr Informationen über den Peripheren Kodex und seine Durchsetzung finden sich in *Häuser des Hermes: Wahre Linien*, ab Seite 45.
+Weitaus mehr Informationen über den Peripheren Kodex und seine Durchsetzung finden sich in *Häuser des Hermes: Wahre Linien*, [ab Seite 45](<Ars Magica 5e - Häuser des Hermes - Wahre Linien.md#der-periphere-kodex>).
 
 ### Beraubung der magischen Kraft
 
@@ -3562,7 +3562,7 @@ Du gehst mit einer bestimmten Fertigkeit sehr sorgfältig um und scheitest bei i
 
 #### Clan Ilfetu
 *Klein, Hermetisch*<br>
-Der Charakter ist Mitglied des Clans Ilfetu innerhalb des Hauses Bjornaer und hat eine zusätzliche Ausbildung in den Ritualen des Hauses erhalten. Du erhältst 50 zusätzliche Erfahrungspunkte, die für Haus-Bjornaer-Kunde, Magiekunde (mit einer Spezialisierung auf die Großen Tiere) und Gotisch, die tote Sprache, die das Haus für alle seine Rituale verwendet, ausgegeben werden können. Es ist möglich, dass der Magus auch in das Esoterische Mysterium der Weissagung und Zeichendeutung eingeweiht wurde (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seite 58); wenn dies der Fall ist, muss jene Tugend mit dem normalen Kontingent von zehn Punkten an Tugenden und Fehlern erworben werden. Clan Ilfetu lehrt die Weissagungsmethode der Hämagomantie, also die Weissagung durch Beobachtung der Blutspritzer verwundeter Tiere; dies gibt folgende Boni auf Weissagung und Zeichendeutung: +5 Familie, +3 Corpus. Siehe *Häuser des Hermes: Mysterienkulte*, Seite 12, für weitere Details zu Haus Bjornaer und der Rolle des Clans Ilfetu.
+Der Charakter ist Mitglied des Clans Ilfetu innerhalb des Hauses Bjornaer und hat eine zusätzliche Ausbildung in den Ritualen des Hauses erhalten. Du erhältst 50 zusätzliche Erfahrungspunkte, die für Haus-Bjornaer-Kunde, Magiekunde (mit einer Spezialisierung auf die Großen Tiere) und Gotisch, die tote Sprache, die das Haus für alle seine Rituale verwendet, ausgegeben werden können. Es ist möglich, dass der Magus auch in das Esoterische Mysterium der Weissagung und Zeichendeutung eingeweiht wurde (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Seite 58); wenn dies der Fall ist, muss jene Tugend mit dem normalen Kontingent von zehn Punkten an Tugenden und Fehlern erworben werden. Clan Ilfetu lehrt die Weissagungsmethode der Hämagomantie, also die Weissagung durch Beobachtung der Blutspritzer verwundeter Tiere; dies gibt folgende Boni auf Weissagung und Zeichendeutung: +5 Familie, +3 Corpus. Siehe *Häuser des Hermes: Mysterienkulte*, [Seite 12](<Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md#clan-ilfetu>), für weitere Details zu Haus Bjornaer und der Rolle des Clans Ilfetu.
 
 #### Klarer Denker
 *Klein, Allgemein*<br>
@@ -3770,7 +3770,7 @@ Du besitzt die Macht, den Willen einer anderen Person zu beherrschen, indem du i
 
 #### Eunuch
 *Klein, Sozialer Status*<br>
-Du wurdest ausgebildet und trainiert, um der byzantinischen Adelsschicht als Hofbeamter, Verwalter, Kammerherr, Schreiber, Jurist oder Buchhalter zu dienen. Du bist wahrscheinlich bei einem Hof, einem niederen Adligen oder einem Konvent angestellt. Es ist dir auch möglich, eine Laufbahn in der östlichen Kirche einzuschlagen, da einige Klöster Eunuchen aufnehmen. Aufgrund deiner Ausbildung darfst du bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung, die zeugungsunfähig sein müssen, nicht bloß sexuell enthaltsam. Dies kann durch Kastration bedingt sein (siehe den Kastratus-Fehler auf Seite 122), muss es aber nicht.
+Du wurdest ausgebildet und trainiert, um der byzantinischen Adelsschicht als Hofbeamter, Verwalter, Kammerherr, Schreiber, Jurist oder Buchhalter zu dienen. Du bist wahrscheinlich bei einem Hof, einem niederen Adligen oder einem Konvent angestellt. Es ist dir auch möglich, eine Laufbahn in der östlichen Kirche einzuschlagen, da einige Klöster Eunuchen aufnehmen. Aufgrund deiner Ausbildung darfst du bei der Charaktererschaffung Akademische Fertigkeiten erwerben. Diese Tugend steht nur männlichen Charakteren zur Verfügung, die zeugungsunfähig sein müssen, nicht bloß sexuell enthaltsam. Dies kann durch Kastration bedingt sein (siehe den Kastratus-Fehler auf [Seite 122](#kastrat)), muss es aber nicht.
 
 #### Exotisches Zaubern
 *Klein, Hermetisch*<br>
@@ -4032,7 +4032,7 @@ Du kannst mit einer Berührung und dem Aufwand einer Erschöpfungsstufe eine ein
 *Groß, Allgemein*<br>
 Du hast gelernt, die Worte eines göttlichen Wächters zu vernehmen, der dir praktische und spirituelle Ratschläge erteilt. Der Engel flüstert dir ins Ohr und sagt dir, was geistlich – und nicht materiell – das Beste für dich ist. Er billigt Gewalt nur, wenn ein heiliger Grund vorliegt, was oft schwer zu belegen ist. Handelst du gegen den Rat des Engels, kann er dich verlassen, bis du deinen Weg korrigiert hast. Der Engel hat nur ein begrenztes Bewusstsein von deinen Gedanken, doch wenn du laut sprichst, kann er hören und sich mit dir unterhalten.
 
-Dein Schutzengel kann auch auf zwei praktische Weisen helfen. Erstens kann er dir einen Bonus von +5 auf die Absorption gewähren. Zweitens kann er dir eine Magieresistenz von 15 verleihen. Diese Magieresistenz ist nicht mit der Parma Magica eines Magus oder der Magieresistenz aus den meisten anderen Quellen vereinbar, addiert sich jedoch zur Magieresistenz, die aus Glaubenspunkten resultiert (siehe Seite 419). Der Engel gewährt dir diese Boni nur, wenn du im Einklang mit Gottes Willen handelst.
+Dein Schutzengel kann auch auf zwei praktische Weisen helfen. Erstens kann er dir einen Bonus von +5 auf die Absorption gewähren. Zweitens kann er dir eine Magieresistenz von 15 verleihen. Diese Magieresistenz ist nicht mit der Parma Magica eines Magus oder der Magieresistenz aus den meisten anderen Quellen vereinbar, addiert sich jedoch zur Magieresistenz, die aus Glaubenspunkten resultiert (siehe [Seite 419](#wahrer-glaube-1)). Der Engel gewährt dir diese Boni nur, wenn du im Einklang mit Gottes Willen handelst.
 
 #### Gast des Hauses Criamon
 *Klein, Hermetisch*<br>
@@ -4513,7 +4513,7 @@ Der Charakter befehligt ein Schiff und eine Besatzung. Der Charakter verfügt ü
 
 #### Merkurische Magie
 *Groß, Hermetisch*<br>
-Deine magische Abstammung und Tradition stammt von den römischen Priestern des Merkur, die dem Orden des Hermes vorausgingen, was dich besonders im Bereich der Ritualmagie und der gemeinschaftlich genutzten Magie begabt. Zusätzlich zu deiner normalen Zauberzuteilung kennst du auch Zaubervigil (Seite 370) auf einer Stufe, die dem höchsten Ritualsspruch entspricht, den du kennst; und solltest du einen Ritualsspruch höherer Stufe erfinden oder erlernen, erfindest du automatisch einen Zaubervigil-Spruch derselben Stufe, ohne zusätzliche Zeit aufwenden zu müssen.
+Deine magische Abstammung und Tradition stammt von den römischen Priestern des Merkur, die dem Orden des Hermes vorausgingen, was dich besonders im Bereich der Ritualmagie und der gemeinschaftlich genutzten Magie begabt. Zusätzlich zu deiner normalen Zauberzuteilung kennst du auch Zaubervigil ([Seite 370](#wacht-des-zauberers)) auf einer Stufe, die dem höchsten Ritualsspruch entspricht, den du kennst; und solltest du einen Ritualsspruch höherer Stufe erfinden oder erlernen, erfindest du automatisch einen Zaubervigil-Spruch derselben Stufe, ohne zusätzliche Zeit aufwenden zu müssen.
 
 Wenn du einen Zauber mit Zaubervigil ([Seite 370](#wacht-des-zauberers)) oder anderen Zaubern mit derselben Funktion, wie etwa Zauberkommunion ([Seite 369](#wacht-des-zauberers)), wirkst, darfst du deinen Meisterschaftswert ([Seite 225](#besondere-fähigkeiten-gemeisterter-zauber)) im gewirkten Zauber und deinen Meisterschaftswert in Zaubervigil zur effektiven Stufe des Zaubervigils addieren.
 
@@ -4537,7 +4537,7 @@ Der Charakter besitzt ein oder mehrere Gegenstände mit magischen Kräften. Dies
 *Klein, Hermetisch*<br>
 Deine Magie ist auf ein enges Feld besonders abgestimmt, etwa Selbstverwandlung, Raubvögel oder Heilung. Im Allgemeinen sollte das Feld etwas enger sein als eine einzelne Technik- und Form-Kombination, obwohl es eingeschränkte Bereiche mehrerer solcher Kombinationen umfassen darf. Heilung beispielsweise ist ein Teil von Creo Corpus, Creo Animal und möglicherweise Creo Herbam. Du kannst keinen Fokus auf eine Laboraktivität haben, etwa das Erschaffen von aufgeladenen Artefakten, obwohl ein Fokus durchaus auf Laboraktivitäten angewandt wird.
 
-Wenn du einen Zauber wirkst oder eine Laborsumme innerhalb deines Fokus berechnest, addiere den niedrigsten anwendbaren Kunstwert zweifach, wie beim Großen Magischen Fokus (Seite 94).
+Wenn du einen Zauber wirkst oder eine Laborsumme innerhalb deines Fokus berechnest, addiere den niedrigsten anwendbaren Kunstwert zweifach, wie beim Großen Magischen Fokus ([Seite 94](#großer-magischer-fokus)).
 
 Ein Magus darf nur einen einzigen Magischen Fokus besitzen, ob groß oder klein, unabhängig von der Quelle des Fokus.
 
@@ -5756,7 +5756,7 @@ Der Charakter ist sich stets bewusst, dass seine übernatürlichen Kräfte mögl
 
 #### Brutaler Künstler
 *Klein, Hermetisch*<br>
-Dieser Fehler steht nur Magi des Hauses Jerbiton zur Verfügung. Der Magus erschafft und genießt Kunst, die seinen Hausgenossen zufolge hässlich ist. Er erleidet eine –3-Strafe auf soziale Würfe mit Jerbiton-Magi und kann innerhalb des Hauses keine positive Reputation entwickeln, da sein Geist offensichtlich gestört ist. Das schränkt seine Beteiligung an den Ligen ein (siehe *Häuser des Hermes: Gemeinschaften*, Seite 53). Im Laufe der Zeit könnte der Charakter seine Sodales davon überzeugen, dass sein Werk nicht hässlich ist, doch das erfordert Geschichten, ähnlich wie das Ablegen eines anderen Fehlers.
+Dieser Fehler steht nur Magi des Hauses Jerbiton zur Verfügung. Der Magus erschafft und genießt Kunst, die seinen Hausgenossen zufolge hässlich ist. Er erleidet eine –3-Strafe auf soziale Würfe mit Jerbiton-Magi und kann innerhalb des Hauses keine positive Reputation entwickeln, da sein Geist offensichtlich gestört ist. Das schränkt seine Beteiligung an den Ligen ein (siehe *Häuser des Hermes: Gemeinschaften*, [Seite 53](<Ars Magica 5e - Häuser des Hermes - Societates.md#ligamitgliedschaft>)). Im Laufe der Zeit könnte der Charakter seine Sodales davon überzeugen, dass sein Werk nicht hässlich ist, doch das erfordert Geschichten, ähnlich wie das Ablegen eines anderen Fehlers.
 
 #### Klatschbase
 *Klein, Persönlichkeit*<br>
@@ -6047,7 +6047,7 @@ Für deine Vergehen gegen Gott und die Kirche wurdest du aus deinem Glauben ausg
 
 #### Verbannter Atlantier
 *Klein, Übernatürlich*<br>
-Der Charakter ist ein verbannter Atlantier; er ist durch seinen Kontakt mit der Oberwelt befleckt und kann nicht in seine magische Regio zurückkehren. Diese Verbannung wird durch die Natur der magischen Regio selbst erzwungen, der die Atlantier entstammen, sodass es keine Autorität gibt, an die sie appellieren könnte, und keine offensichtliche Möglichkeit, wieder in die Gunst aufgenommen zu werden. Die Verbannung gilt auch dann, wenn der Atlantier seine heimische magische Regio unfreiwillig verlassen hat. Weitere Einzelheiten über die Atlantier finden sich in Sphären der Macht: Magie, Seite 90.
+Der Charakter ist ein verbannter Atlantier; er ist durch seinen Kontakt mit der Oberwelt befleckt und kann nicht in seine magische Regio zurückkehren. Diese Verbannung wird durch die Natur der magischen Regio selbst erzwungen, der die Atlantier entstammen, sodass es keine Autorität gibt, an die sie appellieren könnte, und keine offensichtliche Möglichkeit, wieder in die Gunst aufgenommen zu werden. Die Verbannung gilt auch dann, wenn der Atlantier seine heimische magische Regio unfreiwillig verlassen hat. Weitere Einzelheiten über die Atlantier finden sich in Sphären der Macht: Magie, [Seite 90](<Ars Magica 5e - Sphären der Macht - Magie.md#atlantier>).
 
 #### Feenfreund
 *Klein, Geschichte*<br>
@@ -6089,7 +6089,7 @@ Eine der Übernatürlichen Tugenden des Charakters ist mit der Höllensphäre ve
 
 Es ist durchaus möglich, dass der Charakter nicht weiß, dass seine Macht falsch ist. Wenn er es erst einmal herausfindet, könnte er sich in einem moralischen Dilemma befinden. Die meisten Menschen betrachten es als Sünde, Mächte zu nutzen, die mit der Höllensphäre verbunden sind, aus welchem Grund auch immer, und würden ihn als Infernalisten bezeichnen, wenn sie die Natur seiner Macht entdeckten. Doch seine Macht ist auch mit einer anderen Sphäre verbunden, was es schwieriger macht, sie als infernal zu erkennen, und offen lässt, ob die Macht von Natur aus böse oder lediglich durch Assoziation befleckt ist. Vielleicht glaubt der Charakter, dass es für ihn nicht falsch ist, seine Mächte zu nutzen, solange er keine bösen Ziele damit verfolgt.
 
-Sobald der Charakter erkennt, dass die Macht einen unheiligen Aspekt hat, kann er sie jederzeit als Infernale Macht behandeln, dabei die Infernale Macht-Spalte der Sphären-Interaktionstabelle verwenden und so einen Bonus in infernalen Auren erhalten. Dies kann ihm auch andere Vorteile gewähren: Wie andere Infernalisten kann er seine Zaubersumme durch Opfergaben erhöhen und eine Infernale Zeremonie nutzen, um andere in die Aktivierung einzubeziehen, wie in Sphären der Macht: Das Infernale, Seite 91, beschrieben. Dies beseitigt jedoch alle Illusionen über die Sphäre der Macht – selbst magische und Feenmächte können erkennen, dass sie infernal ist.
+Sobald der Charakter erkennt, dass die Macht einen unheiligen Aspekt hat, kann er sie jederzeit als Infernale Macht behandeln, dabei die Infernale Macht-Spalte der Sphären-Interaktionstabelle verwenden und so einen Bonus in infernalen Auren erhalten. Dies kann ihm auch andere Vorteile gewähren: Wie andere Infernalisten kann er seine Zaubersumme durch Opfergaben erhöhen und eine Infernale Zeremonie nutzen, um andere in die Aktivierung einzubeziehen, wie in Sphären der Macht: Das Infernale, [Seite 91](<Ars Magica 5e - Sphären der Macht - Das Infernale.md#falsche-macht>), beschrieben. Dies beseitigt jedoch alle Illusionen über die Sphäre der Macht – selbst magische und Feenmächte können erkennen, dass sie infernal ist.
 
 Wenn der Charakter erkennt, dass seine Macht korrumpiert ist, kann er beschließen, Hilfe beim Göttlichen zu suchen. Aufrichtige Reue und die Teilnahme an einer Form der zeremoniellen Absolution erlauben es dem Charakter, diesen Fehler zu verlieren, obwohl damit auch die Tugend wegfällt, die er verändert. Dies ist eine schwere Buße, aber es ist der einzige Weg, den bösen Einfluss der Höllensphäre auszutreiben, und natürlich warten im Himmel weitaus größere Belohnungen.
 
@@ -6105,7 +6105,7 @@ Du hast Angst vor etwas, dem du ziemlich oft begegnen wirst. Seine Anwesenheit m
 
 #### Wilder Geruch
 *Klein, Allgemein*<br>
-Vielleicht aufgrund seines Tierbluts oder seiner wilden Erziehung hat der Charakter den starken natürlichen Geruch eines wilden Tieres. Menschen neigen dazu, ihm gegenüber nicht zu nahe zu kommen, und können in seiner Nähe ohne erkennbaren Grund angespannt sein. Er kann domestizierte Tiere erschrecken, wenn er sie überrascht. Er erleidet –1 auf soziale Interaktionen (was sich mit den Abzügen durch Die Gabe stapelt, falls er sie besitzt) und erwirbt eine negative Reputation als Unrein der Stufe 2. Hat er jedoch das Mysterium der Sinnesmagie eingeweiht (beschrieben in Häuser des Hermes: Mysterienkulte, Seite 27), haben alle Zauber, die er mit einem Duft-Ziel wirkt, die doppelte normale Reichweite.
+Vielleicht aufgrund seines Tierbluts oder seiner wilden Erziehung hat der Charakter den starken natürlichen Geruch eines wilden Tieres. Menschen neigen dazu, ihm gegenüber nicht zu nahe zu kommen, und können in seiner Nähe ohne erkennbaren Grund angespannt sein. Er kann domestizierte Tiere erschrecken, wenn er sie überrascht. Er erleidet –1 auf soziale Interaktionen (was sich mit den Abzügen durch Die Gabe stapelt, falls er sie besitzt) und erwirbt eine negative Reputation als Unrein der Stufe 2. Hat er jedoch das Mysterium der Sinnesmagie eingeweiht (beschrieben in Häuser des Hermes: Mysterienkulte, [Seite 27](<Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md#sinnesmagie-kleines-hausmysterium>)), haben alle Zauber, die er mit einem Duft-Ziel wirkt, die doppelte normale Reichweite.
 
 #### Wilde Erziehung
 *Klein, Allgemein*<br>
@@ -6381,7 +6381,7 @@ Du sehnst dich nach dem Rausch des Zauberns und dem Machterlebnis über die Magi
 
 #### Magische Ausstrahlung
 *Groß, Allgemein*<br>
-Menschen und Tiere reagieren auf dich, als hättest du die Gabe. Du kannst diesen Fehler nicht wählen, wenn du tatsächlich die Gabe besitzt; stattdessen siehe Auffällige Gabe (Seite 120).
+Menschen und Tiere reagieren auf dich, als hättest du die Gabe. Du kannst diesen Fehler nicht wählen, wenn du tatsächlich die Gabe besitzt; stattdessen siehe Auffällige Gabe ([Seite 120](#auffällige-gabe)).
 
 #### Magischer (Wesen)-Gefährte
 *Klein, Geschichte*<br>
@@ -6900,7 +6900,7 @@ Du darfst diesen Fehler nicht mehr als einmal nehmen; Charaktere, die für mehr 
 *Klein, Allgemein*<br>
 Ob durch einen Mangel im Verständnis der Lehre des Charakters, eine moralische Zerrissenheit, die entmutigende Absolution wiederholter Sünden oder die Exposition gegenüber widersprüchlichen Philosophien — er hat Schwierigkeiten, seine Hingabe an seinen Glauben vollständig auszudrücken. Ein Element des Zweifels steht zwischen ihm und dem Göttlichen, und alle Würfe für heiligen Einfluss, das Mildern einer Aura, das Anrufen von Gottes Hilfe oder das Anrufen eines Heiligen oder einer Baraka (siehe Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe), Seiten 38–41, 87 und 103) erleiden einen –3-Abzug.
 
-Der Charakter hat auch einen Persönlichkeitszug „Unsicherer Glaube" bei +1, der diesen Konflikt oder Zweifel beschreibt, der Dämonen immer eine Gelegenheit gibt, durch ihre Besessenheitsmacht (Sphären der Macht: Das Infernale, Seite 31) weiteren Zweifel zu säen.
+Der Charakter hat auch einen Persönlichkeitszug „Unsicherer Glaube" bei +1, der diesen Konflikt oder Zweifel beschreibt, der Dämonen immer eine Gelegenheit gibt, durch ihre Besessenheitsmacht (Sphären der Macht: Das Infernale, [Seite 31](<Ars Magica 5e - Sphären der Macht - Das Infernale.md#dämonische-kräfte>)) weiteren Zweifel zu säen.
 
 Übernatürliche Fertigkeiten göttlichen Ursprungs, einschließlich Methoden und Mächte, werden nicht bestraft. Dieser Fehler ist nicht kompatibel mit der Tugend Wahrer Glaube.
 
@@ -7446,7 +7446,7 @@ Du kannst eine Person dazu bringen, eine andere zu hassen. Diese Fertigkeit wird
 #### Bezaubernde (Fertigkeit)\*
 Wenn du es darauf anlegst, kannst du andere mit einer bestimmten darstellerischen Fertigkeit beeinflussen. Für eine spezifische Wirkung musst du Worte verwenden, die die Menschen verstehen können. Du kannst Trauernde allein durch Melodien beruhigen, doch brauchst du Texte, um Bauern dazu zu bewegen, sich gegen den örtlichen Lehnsherrn zu erheben. Allgemeine Wirkungen funktionieren bei Tieren, spezifische Wirkungen jedoch nur bei Wesen, die Worte verstehen können. Wenn du eine Bezaubernde (Fertigkeit) einsetzt, würfle einen Würfel (Stresswurf oder schlicht, je nach Situation) und addiere Kommunikation und Bezaubernde (Fertigkeit). Ein Schwierigkeitsgrad von 9 wird Aufgewühlte beruhigen, 12 jemandes Liebe gewinnen, 15 zu einem Aufruhr anstacheln, und eine 24 könnte eine Seele vom Fürsten der Finsternis zurückgewinnen. Bei einem Patzer rufst du eine ungewollte Empfindung hervor.
 
-Verfügt das Ziel über Magieresistenz, musst du sie durchdringen; siehe Seite 412 für die Regeln.
+Verfügt das Ziel über Magieresistenz, musst du sie durchdringen; siehe [Seite 412](#magieresistenz-und-penetration) für die Regeln.
 
 Du solltest auch für die Qualität der Darbietung würfeln, doch der magische Effekt ist davon unabhängig, sofern du nicht patzst. Patzst du beim Fertigkeitswurf, ist es dir aus irgendeinem Grund nicht gelungen, eine Darbietung zustande zu bringen, und die Übernatürliche Fertigkeit scheitert daher automatisch.<br>
 *Spezialisierungen:* eine bestimmte Empfindung, eine bestimmte Art von Person. (Übernatürlich)
@@ -7718,7 +7718,7 @@ Du kannst durch illusorische Verhüllung und Verkleidung hindurchsehen, einschli
 *Spezialisierungen:* Regiones, unsichtbare Dinge, illusorische Verkleidungen, Feen, Geister. (Übernatürlich)
 
 #### Gespür für Heiliges und Unheiliges\*
-Du bist in der Lage, die Gegenwart von Gut und Böse zu fühlen. Ein Wurf auf Wahrnehmung + Gespür für Heiliges und Unheiliges gegen einen Schwierigkeitsgrad von 9 lässt dich Heiligkeit oder Unheiligkeit in einem allgemeinen Bereich erspüren; gegen einen Schwierigkeitsgrad von 15 in einer Person oder einem Gegenstand. Der Schwierigkeitsgrad, einen Dämon zu erkennen, beträgt 0, doch der Charakter muss dennoch dessen Magieresistenz durchdringen. Verbirgt ein Engel seine göttliche Natur, was ungewöhnlich ist, beträgt der Schwierigkeitsgrad 15, und der Charakter muss durchdringen. Verbirgt der Engel seine göttliche Natur nicht, gelingt der Wurf automatisch. In Auren mit besonders starkem göttlichen oder infernalen Einfluss kann dein Gespür dich überwältigen. Diese Fertigkeit wird von der Göttlichen Sphäre verliehen, nicht von der Magie- oder Feensphäre, und verwendet daher die Spalte für das Göttliche der Sphäreninteraktionstabelle (Seite 410).<br>
+Du bist in der Lage, die Gegenwart von Gut und Böse zu fühlen. Ein Wurf auf Wahrnehmung + Gespür für Heiliges und Unheiliges gegen einen Schwierigkeitsgrad von 9 lässt dich Heiligkeit oder Unheiligkeit in einem allgemeinen Bereich erspüren; gegen einen Schwierigkeitsgrad von 15 in einer Person oder einem Gegenstand. Der Schwierigkeitsgrad, einen Dämon zu erkennen, beträgt 0, doch der Charakter muss dennoch dessen Magieresistenz durchdringen. Verbirgt ein Engel seine göttliche Natur, was ungewöhnlich ist, beträgt der Schwierigkeitsgrad 15, und der Charakter muss durchdringen. Verbirgt der Engel seine göttliche Natur nicht, gelingt der Wurf automatisch. In Auren mit besonders starkem göttlichen oder infernalen Einfluss kann dein Gespür dich überwältigen. Diese Fertigkeit wird von der Göttlichen Sphäre verliehen, nicht von der Magie- oder Feensphäre, und verwendet daher die Spalte für das Göttliche der Sphäreninteraktionstabelle ([Seite 410](#tabelle-zur-sphärenwechselwirkung)).<br>
 *Spezialisierungen:* Gut oder Böse. (Übernatürlich)
 
 #### Gespür für Leidenschaft\*
@@ -7728,7 +7728,7 @@ Der Charakter kann das Wesen und die Begierden eines vernunftbegabten Wesens ers
 
 Durch sorgfältige Beobachtung kann der Charakter auch Leidenschaften in Personen im allgemeinen Umkreis erkennen, sodass er sich in Sichtweite auf die mächtigste Empfindungsquelle einlassen kann, gewöhnlich auf den Charakter mit der höchsten (oder niedrigsten) Persönlichkeitseigenschaft. Dies erfordert eine 12 oder mehr beim Wurf auf Gespür für Leidenschaft.
 
-Der Charakter kann auch erkennen, ob eine Aura einen Makel (siehe *Sphären der Macht: Das Infernale*, Seite 13) oder ein Gemüt (siehe *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, Seite 38) trägt, sowie deren Art oder Arten, wenn er einen Schwierigkeitsgrad von 6 überwindet.
+Der Charakter kann auch erkennen, ob eine Aura einen Makel (siehe *Sphären der Macht: Das Infernale*, [Seite 13](<Ars Magica 5e - Sphären der Macht - Das Infernale.md#makel>)) oder ein Gemüt (siehe *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, Seite 38) trägt, sowie deren Art oder Arten, wenn er einen Schwierigkeitsgrad von 6 überwindet.
 
 Durch das Erspüren von Leidenschaften kann der Charakter oft körperlose Geister erkennen. Du darfst Gespür für Leidenschaft wie Zweites Gesicht behandeln, wenn du versuchst, die Anwesenheit unsichtbarer oder körperloser Wesen zu erkennen. Dies erlaubt ihr jedoch nicht, durch Illusionen zu sehen, selbst nicht durch Illusionen starker Empfindungen, und sie kann die Geister nicht tatsächlich sehen, sondern nur ihre Nähe erspüren.
 
@@ -8022,7 +8022,7 @@ Ressourcen sind für Magi sehr wichtig, da sie bestimmen, wie schnell sie ihre K
 
 ### Bibliothek
 
-Die Bibliothek ist in den meisten Konventen wahrscheinlich die wichtigste Ressource. Anders als Vis können Bücher immer wieder studiert und von allen Mitgliedern des Konvents genutzt werden. Regeln für Bücher finden sich auf Seite 379; es gibt zwei Arten: Summae, die mehrfach studiert werden können, und Tractatus, die nur einmal studiert werden können. Summae haben eine Stufe, und sobald die Stufe eines Charakters im Thema des Buches dieser Stufe entspricht, ist das Buch nicht länger von Nutzen. Tractatus können von Charakteren auf jeder Stufe genutzt werden. Die Qualität eines Buches ist ein Maß dafür, wie gut es ist – höher ist besser.
+Die Bibliothek ist in den meisten Konventen wahrscheinlich die wichtigste Ressource. Anders als Vis können Bücher immer wieder studiert und von allen Mitgliedern des Konvents genutzt werden. Regeln für Bücher finden sich auf [Seite 379](#bücher-1); es gibt zwei Arten: Summae, die mehrfach studiert werden können, und Tractatus, die nur einmal studiert werden können. Summae haben eine Stufe, und sobald die Stufe eines Charakters im Thema des Buches dieser Stufe entspricht, ist das Buch nicht länger von Nutzen. Tractatus können von Charakteren auf jeder Stufe genutzt werden. Die Qualität eines Buches ist ein Maß dafür, wie gut es ist – höher ist besser.
 
 **Kunst-Summae:** Addiere Stufe und Qualität. Jede Summa kostet einen Baupunkt pro Punkt der Summe. Die Stufe darf 20 nicht überschreiten; höherstufige Summae können nur durch Spielen erlangt werden. Die Qualität darf 11 nicht überschreiten, plus 1 für jeden Punkt unter 20 der Stufe, und in keinem Fall 22 übersteigen.
 
@@ -10108,7 +10108,7 @@ Hybris nimmt mit der Zeit zu und wächst wie eine Fertigkeit. Hybris kann vom Sp
 | 3                       | Verkauf oder Herstellung eines bereiteten Artefakts für eine andere Person.                                                                                                   |
 | 6                       | Verkauf oder Herstellung eines abgestimmten Gegenstands für eine andere Person.                                                                                               |
 | 1/Magnitude<br>der Macht | Verkauf eines Automaten.                                                                                                                                                      |
-| 1                       | Gewinn der Lehrlingskategorie des Wettbewerbs (siehe *Häuser des Hermes: Mysterienkulte*, Seite 116).                                                                           |
+| 1                       | Gewinn der Lehrlingskategorie des Wettbewerbs (siehe *Häuser des Hermes: Mysterienkulte*, [Seite 116](<Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md#der-wettstreit>)).                                                                           |
 | 3                       | Gewinn der Gesellenkategorie des Wettbewerbs.                                                                                                                                 |
 | 6                       | Gewinn der Meisterkategorie des Wettbewerbs.                                                                                                                                  |
 | 1                       | Erlernen eines neuen kleinen Inneren Hausmysteriums.                                                                                                                          |
@@ -16221,7 +16221,7 @@ Ein Charakter muss einen Wert von mindestens 1 in Magietheorie haben, um ein Buc
 
 ### Beschaffung
 
-Der Orden des Hermes unterhält einen lebendigen Buchhandel mit zwei Hauptzweigen: dem Verkauf fertiger Bücher und der Schreibhospitalität. Der Buchverkauf erfolgt über das Rotkappe-Netzwerk, ergänzt durch Tauschgeschäfte bei Tribunalstreffen. Der Einsatz von Magie zur Unterstützung des Rotkappe-Netzwerks wird in *Häuser des Hermes: Wahre Linien*, Seite 101, ausführlicher behandelt. Schreibhospitalität liegt vor, wenn einem Magus gestattet wird, aus der Bibliothek eines Konvents zu kopieren, dem er nicht angehört. Hospitalität wird in der Regel gegen eine Zahlung oder Dienstleistung gewährt.
+Der Orden des Hermes unterhält einen lebendigen Buchhandel mit zwei Hauptzweigen: dem Verkauf fertiger Bücher und der Schreibhospitalität. Der Buchverkauf erfolgt über das Rotkappe-Netzwerk, ergänzt durch Tauschgeschäfte bei Tribunalstreffen. Der Einsatz von Magie zur Unterstützung des Rotkappe-Netzwerks wird in *Häuser des Hermes: Wahre Linien*, [Seite 101](<Ars Magica 5e - Häuser des Hermes - Wahre Linien.md#merceres-portale>), ausführlicher behandelt. Schreibhospitalität liegt vor, wenn einem Magus gestattet wird, aus der Bibliothek eines Konvents zu kopieren, dem er nicht angehört. Hospitalität wird in der Regel gegen eine Zahlung oder Dienstleistung gewährt.
 
 #### Der Verkauf hermetischer Bücher
 
@@ -18532,7 +18532,7 @@ Eigenschaften sind Merkmale des Tieres, die seine Spielwerte beeinflussen. Füge
 
 **Ohne Wasser überleben:** Die Kreatur kann bis zu zwei Wochen ohne Wasser überleben.
 
-**Verschlucken:** Die Kreatur kann jede Kreatur ganz verschlucken, deren Größe mindestens 4 kleiner ist als die eigene. Das Opfer kann versuchen zu entkommen, aber die Enge des Schlunds erlaubt nur Raufenwürfe. Innerhalb der Kreatur ist Atmen unmöglich, sodass Entzugsproben (Seite 407) abgelegt werden müssen, selbst wenn das Opfer dem Griff entkommt. Drei Runden nach dem Verschlucken erreicht das Opfer den Magen. Die starken Säuren verursachen jede Runde +9 Schaden, vollständiges Eintauchen vervierfacht dies auf +36 (Seite 407). Ein Charakter kann versuchen, sich abzustützen und vollständiges Eintauchen zu vermeiden: Mache jede Runde einen Stärke + Athletik-Wurf: Schwierigkeitsgrad 6 bedeutet halbes Eintauchen (dreifacher Schaden), Schwierigkeitsgrad 9 bedeutet Eintauchen einer Gliedmaße (doppelter Schaden), und Schwierigkeitsgrad 12 bedeutet nur Spritzer (normaler Schaden). Die Kreatur kann erst dann eine zweite Kreatur verschlucken, wenn die erste den Magen erreicht hat.
+**Verschlucken:** Die Kreatur kann jede Kreatur ganz verschlucken, deren Größe mindestens 4 kleiner ist als die eigene. Das Opfer kann versuchen zu entkommen, aber die Enge des Schlunds erlaubt nur Raufenwürfe. Innerhalb der Kreatur ist Atmen unmöglich, sodass Entzugsproben ([Seite 407](#entbehrung)) abgelegt werden müssen, selbst wenn das Opfer dem Griff entkommt. Drei Runden nach dem Verschlucken erreicht das Opfer den Magen. Die starken Säuren verursachen jede Runde +9 Schaden, vollständiges Eintauchen vervierfacht dies auf +36 ([Seite 407](#hitze-und-ätzung)). Ein Charakter kann versuchen, sich abzustützen und vollständiges Eintauchen zu vermeiden: Mache jede Runde einen Stärke + Athletik-Wurf: Schwierigkeitsgrad 6 bedeutet halbes Eintauchen (dreifacher Schaden), Schwierigkeitsgrad 9 bedeutet Eintauchen einer Gliedmaße (doppelter Schaden), und Schwierigkeitsgrad 12 bedeutet nur Spritzer (normaler Schaden). Die Kreatur kann erst dann eine zweite Kreatur verschlucken, wenn die erste den Magen erreicht hat.
 
 **Ängstlich:** Präsenz um 1 senken, Schleichen 4 (Verstecken), Aufmerksamkeit 4 (Raubtiere); besitzt in der Regel keine natürlichen Waffen.
 
@@ -18739,7 +18739,7 @@ Könige wie Magi schätzen den Caladrius gleichermaßen wegen seiner Heilkräfte
 
 > ### Wesenseigenschaften
 >
-> Wesenseigenschaften (Essential Traits) besitzen manche Kreaturen, die von der Magiesphäre beeinflusst werden, und kennzeichnen Merkmale ihres Seins, die zu ihrer wesentlichen Natur gehören. Magie kann sie deshalb nicht dazu bringen, gegen diese Eigenschaften zu handeln. Sie werden in den Charakterwerten mit einem Sternchen markiert. Weitere Einzelheiten finden sich in *Sphären der Macht: Magie*, Seite 54.
+> Wesenseigenschaften (Essential Traits) besitzen manche Kreaturen, die von der Magiesphäre beeinflusst werden, und kennzeichnen Merkmale ihres Seins, die zu ihrer wesentlichen Natur gehören. Magie kann sie deshalb nicht dazu bringen, gegen diese Eigenschaften zu handeln. Sie werden in den Charakterwerten mit einem Sternchen markiert. Weitere Einzelheiten finden sich in *Sphären der Macht: Magie*, [Seite 54](<Ars Magica 5e - Sphären der Macht - Magie.md#essenzielle-eigenschaften>).
 
 ### Daimonen
 
@@ -19285,7 +19285,7 @@ Anmerkung: Eine aus Stürmen geborene Kreatur, die verheerende Wirkung entfalten
 
 ### Feuer-Elementare
 
-Feuer-Elementare, auch Phlegethi genannt (Singular: Phlegethus, von griech. „der Brennende"), sind unter einer Vielzahl weiterer Namen bekannt: ignigena (lateinisch für „Feuergeborene"), Vulkane, Rolamandri, Salamander (nicht zu verwechseln mit den Tugendhaften Tieren) sowie Aethnici – ein Begriff, der auch für feurige Dämonen verwendet wird (vgl. *Sphären der Macht: Das Infernale*, Seite 67). Auf der Erde sind sie selten anzutreffen, denn sie können sich nur aus natürlich entstandenen Flammen verdichten – meist aus Blitzeinschlägen, gelegentlich aber auch aus Erdfeuer, bestimmten natürlichen alchemistischen Reaktionen oder dem Feuer der oberen Atmosphäre. Wird ein natürlich entzündetes Feuer mit Brennmaterial genährt, hindert das die Verdichtung nicht, und ein bereits entstandener Feuer-Elementar kann gewöhnlichen Brennstoff verzehren. Feuer-Elementare sind oft kurzlebig – ihr Dasein währt nur so lange, wie Brennstoff vorhanden ist – und zu plötzlichen Bewegungen von bemerkenswerter Geschwindigkeit neigen sie ohnehin. Die menschliche Faszination für Feuer wird beim Anblick von Feuer-Elementaren meist noch gesteigert, und wer zu tief in ihre Flammen starrt, kann leicht in den Bann gezogen werden.
+Feuer-Elementare, auch Phlegethi genannt (Singular: Phlegethus, von griech. „der Brennende"), sind unter einer Vielzahl weiterer Namen bekannt: ignigena (lateinisch für „Feuergeborene"), Vulkane, Rolamandri, Salamander (nicht zu verwechseln mit den Tugendhaften Tieren) sowie Aethnici – ein Begriff, der auch für feurige Dämonen verwendet wird (vgl. *Sphären der Macht: Das Infernale*, [Seite 67](<Ars Magica 5e - Sphären der Macht - Das Infernale.md#kapitel-7-dämonen-als-zerstörer>)). Auf der Erde sind sie selten anzutreffen, denn sie können sich nur aus natürlich entstandenen Flammen verdichten – meist aus Blitzeinschlägen, gelegentlich aber auch aus Erdfeuer, bestimmten natürlichen alchemistischen Reaktionen oder dem Feuer der oberen Atmosphäre. Wird ein natürlich entzündetes Feuer mit Brennmaterial genährt, hindert das die Verdichtung nicht, und ein bereits entstandener Feuer-Elementar kann gewöhnlichen Brennstoff verzehren. Feuer-Elementare sind oft kurzlebig – ihr Dasein währt nur so lange, wie Brennstoff vorhanden ist – und zu plötzlichen Bewegungen von bemerkenswerter Geschwindigkeit neigen sie ohnehin. Die menschliche Faszination für Feuer wird beim Anblick von Feuer-Elementaren meist noch gesteigert, und wer zu tief in ihre Flammen starrt, kann leicht in den Bann gezogen werden.
 
 Ein Phlegethus erscheint als ein Verbund von Flammen, die sich widernatürlich bewegen. Jede einzelne Flamme ist tatsächlich ein Tetraeder – manchmal sind diese Pyramiden lang und schmal ausgezogen, manchmal niedrig und flach. Die Antriebe und Instinkte eines Feuer-Elementars sind einfach: Er will brennen, Kälte verzehren und durch Wärme ersetzen, und er will jede Einengung überwinden.
 
@@ -19375,7 +19375,7 @@ Vis: Keines. Magi können die Geisterwächter anderer Charaktere nicht für Vis 
 
 Erscheinung: Eine ältere Bäuerin, eher hager, in schlichten, aber sorgfältig geflickten Alltagskleidern. Sie trägt stets irgendeinen Gegenstand aus dem Haushalt bei sich – mal einen Spinnrocken mit Spindel, mal einen Topf, mal einen Besen; es wechselt von Zeit zu Zeit. Zu beachten ist, dass sie für Charaktere ohne eine entsprechende Tugend unsichtbar ist.
 
-Dieser Geisterwächter (vgl. die Tugend Magischer Wächter, Seite 93) war die Mutter, Tante oder vielleicht Großmutter des Charakters. Sie erteilt ihm noch immer all die Ratschläge, die er als Kind erhalten hat – etwa warm zu ziehen und vom Fluss fernzubleiben –, doch sie ist auch sehr aufmerksam, sowohl was Menschen als auch was weltliche Ereignisse angeht.
+Dieser Geisterwächter (vgl. die Tugend Magischer Wächter, [Seite 93](#magischer-hüter)) war die Mutter, Tante oder vielleicht Großmutter des Charakters. Sie erteilt ihm noch immer all die Ratschläge, die er als Kind erhalten hat – etwa warm zu ziehen und vom Fluss fernzubleiben –, doch sie ist auch sehr aufmerksam, sowohl was Menschen als auch was weltliche Ereignisse angeht.
 
 ### Ein typischer Riese
 
@@ -19649,7 +19649,7 @@ Eine durch einen Zauber belebte Leiche hat weder einen Machtwert noch einen Selb
 
 Eine durch dämonische Besessenheit oder die Manifestationskraft eines magischen Geistes belebte Leiche hat einen Machtwert gleich den Kosten jener Kraft. Sie verwendet den Selbstvertrauenswert des besitzenden Geistes, sofern vorhanden. Der kontrollierende Geist kann seine Kräfte möglicherweise durch den besessenen Leichnam einsetzen (abhängig von der Beschreibung der Besitzungskraft).
 
-*Sphären der Macht: Das Infernale* enthält auf Seite 75 Regeln für Dämonen, die Leichen beleben können.
+*Sphären der Macht: Das Infernale* enthält auf [Seite 75](<Ars Magica 5e - Sphären der Macht - Das Infernale.md#fictiles>) Regeln für Dämonen, die Leichen beleben können.
 
 Ungeachtet davon, wie die Leiche belebt wird, können ihre unbewaffneten Angriffe durch Magieresistenz abgeblockt werden.
 
@@ -20824,7 +20824,7 @@ Vis: 5 Bauern Auram Vis prava, hinterlassen als schwarzer Sand, wenn er zerstreu
 
 Erscheinung: Manifestiert sich üblicherweise als riesiger formloser Wirbel aus rasendem schwarzem Sand, angetrieben durch seine Auram-Kräfte. Wer Zweites Gesicht besitzt, kann einen riesigen menschenähnlichen Schatten im Inneren des Sandsturms erkennen.
 
-Dieser wilde Wüstensturmgeist, ein Buran, heimsuchte einst das kleine Dorf Yenghissar an der Route nach Kaschgar und brachte alle sieben Jahre Verwüstung über Ernte und Herden. Inzwischen ist er durch einen infernal ausgerichteten Sahir mithilfe der goetischen Kunst der Bindung gefesselt (siehe *Sphären der Macht: Das Infernale*, Seite 117). Eine stumme, zerstörerische Verkörperung des Zorns tobt er danach, freigelassen zu werden, und versucht beständig, elementares Chaos rund um den gedankenlosen Sahir zu stiften, der ihn in seinem Ahnenschwert gefangen hält.
+Dieser wilde Wüstensturmgeist, ein Buran, heimsuchte einst das kleine Dorf Yenghissar an der Route nach Kaschgar und brachte alle sieben Jahre Verwüstung über Ernte und Herden. Inzwischen ist er durch einen infernal ausgerichteten Sahir mithilfe der goetischen Kunst der Bindung gefesselt (siehe *Sphären der Macht: Das Infernale*, [Seite 117](<Ars Magica 5e - Sphären der Macht - Das Infernale.md#bindung>)). Eine stumme, zerstörerische Verkörperung des Zorns tobt er danach, freigelassen zu werden, und versucht beständig, elementares Chaos rund um den gedankenlosen Sahir zu stiften, der ihn in seinem Ahnenschwert gefangen hält.
 
 Anders als viele andere korrumpierte Dschinn fehlen dem Buran die Kräfte Koagulation und Besessenheit, die den meisten Dämonen gemein sind; er ist ein unkörperlicher Geist, der die materielle Welt nur durch seine Magie beeinflussen kann. Er ist ein Beispiel für einen infernalen Sturmgeist, wie er in der Taklamakawüste anzutreffen ist, obwohl noch sehr viel mächtigere und schwächere Kreaturen gleicher Art existieren (siehe *The Cradle and the Crescent*, Kapitel 9: Auf der Seidenstraße und darüber hinaus …). Viele Reiseberichte erzählen von Gefährten, die zurückgeblieben sind und durch die Illusionen dieser Dämonen vom Weg gelockt wurden.
 
@@ -22565,7 +22565,7 @@ Zwielicht: Die Anzahl der Zwielichtpunkte durch drei teilen und diesen Wert als 
 
 ### Schwierigkeitsgrade
 
-*Fifth Edition S. 7, Definitive Edition [S. 8](#schwierigkeitsgrad)*
+*Fifth Edition [S. 7](#schwierigkeitsgrad), Definitive Edition [S. 8](#schwierigkeitsgrad)*
 
 | Schwierigkeitsgrad | Schwierigkeit      | Beschreibung |
 | ------------------ | ------------------ | ------------ |
@@ -22636,7 +22636,7 @@ Zwielicht: Die Anzahl der Zwielichtpunkte durch drei teilen und diesen Wert als 
 
 ### Selbstvertrauen
 
-*S. 19, [S. 29](#selbstvertrauen)*
+*[S. 19](#selbstvertrauen), [S. 29](#selbstvertrauen)*
 
 #### Selbstvertrauen einsetzen
 
@@ -22657,7 +22657,7 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 ### Reputation
 
-*S. 19, [S. 28–29](#reputationen), [S. 386](#ruf-verändern)*
+*[S. 19](#reputationen), [S. 28–29](#reputationen), [S. 386](#ruf-verändern)*
 
 #### Reputation verändern
 
@@ -22678,7 +22678,7 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 ### Magiegespür
 
-*S. 45, [S. 168](#magiegespür-1)*
+*[S. 45](#magiegespür-1), [S. 168](#magiegespür-1)*
 
 | Wahrnehmung             | Schwierigkeitsgrad                   |
 | ----------------------- | ------------------------------------ |
@@ -22689,7 +22689,7 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 ### Zweites Gesicht
 
-*S. 67, [S. 170](#zweites-gesicht-1)*
+*[S. 67](#zweites-gesicht-1), [S. 170](#zweites-gesicht-1)*
 
 **REGIO-WAHRNEHMUNGSWURF: Wahrnehmung + Passende Fertigkeit + Stresswürfel**
 
@@ -23458,7 +23458,7 @@ Verketteter Auslöser: +3 Stufen
 
 #### Experimentieren
 
-S. 107–109
+[S. 107–109](#arkanes-experimentieren)
 
 - Stresswürfel + Risikomodifikator auf der Tabelle außergewöhnlicher Ergebnisse würfeln.
 - Patzerwürfel = 1 + Aura + Risikomodifikator

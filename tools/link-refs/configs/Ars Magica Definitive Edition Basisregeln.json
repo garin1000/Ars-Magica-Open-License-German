@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_file": "Ars Magica Definitive Edition Basisregeln.md",
-  "file_hash": "sha256:09351f727f24b44b",
+  "file_hash": "sha256:0b3739d6940ee431",
   "page_to_anchors": {
     "233": [
       "bjornaer--das-herztier",
@@ -53,7 +53,9 @@
     ],
     "157": [
       "kapitel-5-fertigkeiten",
-      "fertigkeiten-ohne-wert"
+      "fertigkeiten-ohne-wert",
+      "das-geschenk-des-enigmas",
+      "sinn-für-magische-macht"
     ],
     "158": [
       "zaubermeisterschafts-fertigkeiten"
@@ -63,7 +65,9 @@
       "ruf-verändern"
     ],
     "43": [
-      "detaillierte-charaktererschaffung"
+      "detaillierte-charaktererschaffung",
+      "gezügelte-magie",
+      "hermetischer-magus"
     ],
     "391": [
       "altern"
@@ -100,7 +104,10 @@
     ],
     "48": [
       "eigenschaften-1",
-      "fertigkeiten-1"
+      "fertigkeiten-1",
+      "begabung-in-fertigkeit",
+      "schnelle-genesung",
+      "zweites-gesicht"
     ],
     "392": [
       "altern"
@@ -113,26 +120,32 @@
       "kapitel-5-fertigkeiten"
     ],
     "85": [
-      "herztier",
+      "gezügelte-magie",
       "hermetischer-magus",
-      "gezügelte-magie"
+      "herztier",
+      "parma-magica"
     ],
     "78": [
       "das-enigma"
     ],
     "79": [
       "feenmagie",
-      "feenblut"
+      "feenblut",
+      "grenzen-der-magie"
     ],
     "114": [
-      "verditius-magie",
-      "nicht-alternd"
+      "magische-schutzkreise",
+      "nicht-alternd",
+      "verditius-magie"
     ],
     "65": [
-      "soziale-status-nach-kultur"
+      "soziale-status-nach-kultur",
+      "betörung"
     ],
     "167": [
-      "lebende-sprache"
+      "lebende-sprache",
+      "reputationen",
+      "verzerrung-2"
     ],
     "311": [
       "requisiten"
@@ -168,10 +181,12 @@
       "tierumgang",
       "fertigkeiten-nach-typ",
       "übernatürliche-fertigkeiten",
-      "tierverständnis-1"
+      "tierverständnis-1",
+      "muto-vim--leitlinien"
     ],
     "103": [
-      "nicht-alternd"
+      "nicht-alternd",
+      "ablenkungen-von-der-laborarbeit"
     ],
     "11": [
       "nicht-alternd"
@@ -191,7 +206,9 @@
     "164": [
       "wünschelrutengehen-1",
       "bezaubernde-fertigkeit-1",
-      "betörung-1"
+      "betörung-1",
+      "ausbildung",
+      "unterricht"
     ],
     "235": [
       "enigmatische-weisheit-1"
@@ -209,10 +226,11 @@
       "ähnliche-zauber"
     ],
     "170": [
-      "zweites-gesicht-1",
-      "vorahnungen-1",
+      "altern",
       "gespür-für-heiliges-und-unheiliges",
-      "gespür-für-leidenschaft"
+      "gespür-für-leidenschaft",
+      "vorahnungen-1",
+      "zweites-gesicht-1"
     ],
     "457": [
       "geisterwächter"
@@ -230,14 +248,16 @@
       "wirkungen-des-zwielichts"
     ],
     "145": [
-      "zwerg",
+      "aura-der-adligen-erscheinung",
+      "riesenblut",
       "wunden",
-      "riesenblut"
+      "zwerg"
     ],
     "126": [
       "großgewachsen",
       "riesenblut",
-      "schwierige-spontane-magie"
+      "schwierige-spontane-magie",
+      "schwingen-des-aufsteigenden-windes"
     ],
     "90": [
       "mindere-macht"
@@ -247,7 +267,9 @@
       "gifttabelle"
     ],
     "45": [
-      "krankheiten"
+      "großer-magischer-fokus",
+      "krankheiten",
+      "magiegespür-1"
     ],
     "219": [
       "arkane-verbindungen",
@@ -266,14 +288,17 @@
       "wunden",
       "große-immunität",
       "zierlicher-körperbau",
-      "zwerg"
+      "zwerg",
+      "worte-und-gesten"
     ],
     "169": [
       "penetration"
     ],
     "168": [
       "magiegespür-1",
-      "altern"
+      "altern",
+      "andauernde-übernatürliche-effekte",
+      "verzerrungspunkte-erwerben"
     ],
     "262": [
       "labortexte-1",
@@ -284,7 +309,8 @@
       "kreaturen-abrichten"
     ],
     "138": [
-      "klostergelübde"
+      "klostergelübde",
+      "ranken-der-umschlingenden-pflanzen"
     ],
     "370": [
       "wacht-des-zauberers",
@@ -307,7 +333,11 @@
       "wahrer-glaube-1"
     ],
     "150": [
+      "auf-der-zungenspitze",
+      "den-heimsuchenden-geist-zur-ruhe-betten",
       "gelübde",
+      "muto-mentem--leitlinien",
+      "vertrauen-des-kindlichen-glaubens",
       "viaticarus"
     ],
     "115": [
@@ -330,10 +360,12 @@
       "reputationen-1"
     ],
     "171": [
-      "gestaltwandler-1"
+      "gestaltwandler-1",
+      "kampfwerte"
     ],
     "106": [
-      "zweites-gesicht"
+      "zweites-gesicht",
+      "deinen-lehrling-finden"
     ],
     "64": [
       "übernatürlich"
@@ -348,21 +380,26 @@
       "schwache-spontane-magie"
     ],
     "125": [
-      "auffällige-gabe"
+      "auffällige-gabe",
+      "angriff-der-zornigen-winde"
     ],
     "107": [
-      "gestaltwandler"
+      "gestaltwandler",
+      "arkanes-experimentieren",
+      "die-künste-öffnen"
     ],
     "105": [
       "stille-magie"
     ],
     "110": [
       "subtile-magie",
-      "studierbonus"
+      "studierbonus",
+      "tabelle-der-form-und-materialboni"
     ],
     "113": [
       "wahre-liebe-sc",
-      "wahrer-glaube"
+      "wahrer-glaube",
+      "ziele-und-größen"
     ],
     "407": [
       "hitze-und-ätzungstabelle",
@@ -382,7 +419,9 @@
       "reichweiten-dauern-und-ziele"
     ],
     "160": [
-      "artes-liberales"
+      "artes-liberales",
+      "auflösung",
+      "communion-des-zauberers"
     ],
     "215": [
       "konzentration-1",
@@ -406,7 +445,8 @@
     ],
     "177": [
       "kämpfend",
-      "herbstmacht"
+      "herbstmacht",
+      "nahkampfwaffen-statistiken"
     ],
     "523": [
       "kapitel-16-sagas"
@@ -441,6 +481,8 @@
       "vis-quellen"
     ],
     "183": [
+      "magische-auren",
+      "tabelle-zur-sphärenwechselwirkung",
       "vorzüge"
     ],
     "375": [
@@ -449,10 +491,12 @@
       "fortschritt"
     ],
     "120": [
-      "auffällige-gabe"
+      "auffällige-gabe",
+      "kreis-der-bestienabwehr"
     ],
     "186": [
-      "vertrautheit"
+      "vertrautheit",
+      "die-höllensphäre"
     ],
     "313": [
       "zauberformat"
@@ -560,7 +604,8 @@
       "ausgebildete-gruppe"
     ],
     "400": [
-      "nahkampfwaffen-statistiken"
+      "nahkampfwaffen-statistiken",
+      "rüstungstabelle"
     ],
     "227": [
       "patzer"
@@ -591,10 +636,15 @@
       "erkaufte-rechte"
     ],
     "124": [
-      "dunkles-geheimnis"
+      "dunkles-geheimnis",
+      "mantel-der-entenfedern",
+      "wellen-des-ertrinkens-und-zerschmetterns"
     ],
     "131": [
-      "geschlechtsnichtkonform"
+      "die-unerbittliche-suche",
+      "gabe-der-bärenstärke",
+      "geschlechtsnichtkonform",
+      "gestalt-des-waldläufers"
     ],
     "495": [
       "historisch-spielen",
@@ -610,24 +660,309 @@
       "belastung"
     ],
     "67": [
-      "gespür-für-heiliges-und-unheiliges"
+      "gespür-für-heiliges-und-unheiliges",
+      "gestaltwandler-1",
+      "zweites-gesicht-1"
     ],
     "189": [
-      "gespür-für-heiliges-und-unheiliges"
+      "gespür-für-heiliges-und-unheiliges",
+      "regiones"
     ],
     "218": [
-      "zeremonielles-zaubern"
+      "zeremonielles-zaubern",
+      "langsame-saga"
     ],
     "97": [
       "material-und-größentabellen"
     ],
     "94": [
       "arkane-verbindungen-festigen",
-      "kapitel-8-das-laboratorium"
+      "kapitel-8-das-laboratorium",
+      "großer-magischer-fokus",
+      "vis-übertragung"
+    ],
+    "122": [
+      "kastrat",
+      "verzauberung-des-seherbeckens"
+    ],
+    "93": [
+      "magischer-hüter",
+      "merinita--feenmagie"
+    ],
+    "7": [
+      "schwierigkeitsgrad"
+    ],
+    "19": [
+      "reputationen",
+      "selbstvertrauen"
+    ],
+    "40": [
+      "tierverständnis"
+    ],
+    "44": [
+      "mindere-immunität"
+    ],
+    "47": [
+      "persönliche-vis-quelle",
+      "mythisches-blut"
+    ],
+    "49": [
+      "soziale-kontakte",
+      "willensstark",
+      "zäh"
+    ],
+    "51": [
+      "habgierig"
+    ],
+    "53": [
+      "abträgliche-umstände"
+    ],
+    "54": [
+      "heckenzauberer"
+    ],
+    "58": [
+      "verbot"
+    ],
+    "59": [
+      "stolz"
+    ],
+    "60": [
+      "visionen"
+    ],
+    "62": [
+      "die-gabe-2",
+      "tierverständnis-1",
+      "fertigkeiten-ohne-wert",
+      "spezialisierungen"
+    ],
+    "66": [
+      "magiegespür-1",
+      "organisations-kunde",
+      "spezialisierungen"
+    ],
+    "71": [
+      "maßgeschneiderte-konventserstellung"
+    ],
+    "75": [
+      "die-gabe-2",
+      "mentem-me--geist"
+    ],
+    "76": [
+      "etablierte-beziehungen"
+    ],
+    "81": [
+      "ritualmagie"
+    ],
+    "84": [
+      "arkane-verbindungen",
+      "parma-magica",
+      "sympathetische-verbindungen"
+    ],
+    "86": [
+      "zaubermeisterschaft",
+      "zielen"
+    ],
+    "87": [
+      "besondere-fähigkeiten-gemeisterter-zauber"
+    ],
+    "88": [
+      "wirkungen-des-zwielichts",
+      "das-zwielicht"
+    ],
+    "91": [
+      "vis-gewinnung",
+      "herztier"
+    ],
+    "92": [
+      "merinita--feenmagie"
+    ],
+    "95": [
+      "zauber-erfinden"
+    ],
+    "96": [
+      "schlichte-artefakte"
+    ],
+    "99": [
+      "wirkungsanpassungen"
+    ],
+    "101": [
+      "langlebigkeitsrituale",
+      "ähnliche-zauber"
+    ],
+    "102": [
+      "ein-hermetischer-zähmer",
+      "labortexte-1",
+      "labortexte-übersetzen"
+    ],
+    "104": [
+      "vorschläge-für-vertraute-nach-kunst"
+    ],
+    "109": [
+      "tabelle-außergewöhnlicher-ergebnisse"
+    ],
+    "112": [
+      "dauern"
+    ],
+    "118": [
+      "tier-ungeheurer-größe"
+    ],
+    "119": [
+      "das-neu-geformte-tier"
+    ],
+    "127": [
+      "des-seemanns-vorgeschmack-auf-den-morgigen-tag"
+    ],
+    "129": [
+      "wiederherstellung-des-entweihten-körpers"
+    ],
+    "130": [
+      "geflüster-durch-das-schwarze-tor"
+    ],
+    "132": [
+      "berührung-der-gänsefeder"
+    ],
+    "133": [
+      "creo-corpus-leitlinien",
+      "fluch-der-unangekündigten-seuche",
+      "herbeirufen-der-mattigkeit"
+    ],
+    "134": [
+      "den-schlummernden-leichnam-erwecken"
+    ],
+    "135": [
+      "wiedergänger--die-lebenden-toten"
+    ],
+    "136": [
+      "einfühlung-in-den-wald"
+    ],
+    "137": [
+      "den-schlummernden-baum-erwecken"
+    ],
+    "139": [
+      "herr-der-bäume"
+    ],
+    "144": [
+      "beschwörung-des-fernen-bildes"
+    ],
+    "146": [
+      "schleier-der-unsichtbarkeit"
+    ],
+    "148": [
+      "panik-des-zitternden-herzens"
+    ],
+    "149": [
+      "die-schweigende-frage-stellen"
+    ],
+    "151": [
+      "der-ruf-des-schlummers",
+      "rego-mentem--leitlinien",
+      "verwirrung-des-betäubten-willens"
+    ],
+    "154": [
+      "die-schritte-auf-der-erde-spüren"
+    ],
+    "155": [
+      "der-steinschlag",
+      "der-unsichtbare-arm"
+    ],
+    "161": [
+      "aegis-des-herdes-1",
+      "tabelle-der-form--und-materialboni"
+    ],
+    "162": [
+      "den-immateriellen-tunnel-öffnen",
+      "kampf"
+    ],
+    "165": [
+      "bücher-verfassen",
+      "vis-2"
+    ],
+    "174": [
+      "nicht-tödlicher-kampf"
+    ],
+    "175": [
+      "wasser-elementare"
+    ],
+    "176": [
+      "das-leben-in-starken-auren"
+    ],
+    "180": [
+      "entbehrung",
+      "krankheiten",
+      "schwächung",
+      "gifte"
+    ],
+    "184": [
+      "magische-auren"
+    ],
+    "188": [
+      "göttliche-auren"
+    ],
+    "191": [
+      "2-eigenschaften",
+      "kreaturen-einer-sphäre"
+    ],
+    "192": [
+      "kreaturen-mit-nicht-standardmäßiger-größe"
+    ],
+    "193": [
+      "wiedergänger--die-lebenden-toten"
+    ],
+    "194": [
+      "stellatus-der-drache"
+    ],
+    "32": [
+      "nur-magi--nach-der-lehrlingszeit"
+    ],
+    "163": [
+      "bücher"
+    ],
+    "143": [
+      "schutz-vor-hitze-und-flammen",
+      "sprung-des-feuers"
+    ],
+    "98": [
+      "talismanabstimmung"
+    ],
+    "117": [
+      "magieresistenz-umgehen"
+    ],
+    "121": [
+      "spuren-schlüpfrigen-öls"
+    ],
+    "142": [
+      "zitternder-schwung-der-fackelflamme"
+    ],
+    "156": [
+      "die-erde-bricht-auseinander"
+    ],
+    "173": [
+      "beschützer"
+    ],
+    "77": [
+      "creo-cr--ich-erschaffe"
+    ],
+    "10": [
+      "damhan-allaidh-und-der-ordo-miscellanea"
+    ],
+    "30": [
+      "die-gabe"
+    ],
+    "36": [
+      "die-gabe"
+    ],
+    "18": [
+      "persönlichkeitseigenschaften"
+    ],
+    "197": [
+      "bartholomäus"
+    ],
+    "80": [
+      "zweites-gesicht-1"
     ]
   },
   "toc": {
-    "enabled": true,
+    "enabled": false,
     "start_markers": [
       "## Inhalt",
       "## Inhaltsverzeichnis",
@@ -636,12 +971,7 @@
     "indent_chars": [
       "&emsp;",
       "&nbsp;"
-    ],
-    "detected": {
-      "start_line": 304,
-      "end_line": 339,
-      "entry_count": 31
-    }
+    ]
   },
   "exclude_patterns": [
     "www.atlas-games.com/ArM5"

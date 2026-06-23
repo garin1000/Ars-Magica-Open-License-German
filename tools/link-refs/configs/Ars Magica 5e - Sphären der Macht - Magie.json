@@ -2,7 +2,17 @@
   "version": 1,
   "source_file": "Ars Magica 5e - Sphären der Macht - Magie.md",
   "file_hash": "sha256:54a925e57463fa3f",
-  "page_to_anchors": {},
+  "page_to_anchors": {
+    "90": [
+      "atlantier"
+    ],
+    "54": [
+      "essenzielle-eigenschaften"
+    ],
+    "137": [
+      "beispielkräfte-1"
+    ]
+  },
   "toc": {
     "enabled": true,
     "start_markers": [
