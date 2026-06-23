@@ -556,6 +556,22 @@ def analyze(input_path: str, lines: list[str]) -> dict:
     unlinked = find_unlinked_refs(lines, aliases)
 
     # Kandidaten für jeden Verweis ermitteln
+    # ArM5-Verweise nutzen page_to_anchors_arm5, ArMDE/interne nutzen
+    # page_to_anchors_armde. Fallback auf page_to_anchors (Legacy).
+    # Innerhalb einer Edition: Falls die Seite im editionsspezifischen
+    # Mapping fehlt, wird page_to_anchors als Fallback verwendet (für
+    # Seiten, auf denen ArM5 und ArMDE übereinstimmen).
+    def _get_candidates(cfg: dict | None, book: str | None, page: str) -> list[str]:
+        if cfg is None:
+            return []
+        is_arm5 = book in ('ArM5', 'ArM')
+        edition_key = 'page_to_anchors_arm5' if is_arm5 else 'page_to_anchors_armde'
+        if edition_key in cfg:
+            result = cfg[edition_key].get(page, [])
+            if result:
+                return result
+        return cfg.get('page_to_anchors', {}).get(page, [])
+
     for ref in unlinked:
         if ref['type'] == 'cross_file' and ref['book']:
             target_file = aliases.get(ref['book'])
@@ -564,12 +580,8 @@ def analyze(input_path: str, lines: list[str]) -> dict:
                 ref['type'] = 'not_translatable'
                 ref['candidates'] = []
                 continue
-            # Kandidaten aus der Zieldatei-Config laden
             target_cfg = load_target_config(target_file)
-            if target_cfg and 'page_to_anchors' in target_cfg:
-                ref['candidates'] = target_cfg['page_to_anchors'].get(ref['page'], [])
-            else:
-                ref['candidates'] = []
+            ref['candidates'] = _get_candidates(target_cfg, ref['book'], ref['page'])
         else:
             ref['target_file'] = None
             ref['candidates'] = page_to_anchors.get(ref['page'], [])

@@ -4,15 +4,15 @@
   "file_hash": "sha256:0b3739d6940ee431",
   "page_to_anchors": {
     "233": [
-      "bjornaer--das-herztier",
-      "criamon--das-enigma",
+      "bjornaer-das-herztier",
+      "criamon-das-enigma",
       "bjornaer-das-herztier"
     ],
     "82": [
       "sanfte-gabe"
     ],
     "236": [
-      "merinita--feenmagie",
+      "merinita-feenmagie",
       "feenmagie-2",
       "enigmatische-weisheit-1"
     ],
@@ -20,7 +20,7 @@
       "sigile"
     ],
     "240": [
-      "verditius--verditius-magie",
+      "verditius-verditius-magie",
       "verditius-verditius-magie"
     ],
     "494": [
@@ -182,7 +182,7 @@
       "fertigkeiten-nach-typ",
       "übernatürliche-fertigkeiten",
       "tierverständnis-1",
-      "muto-vim--leitlinien"
+      "muto-vim-leitlinien"
     ],
     "103": [
       "nicht-alternd",
@@ -336,7 +336,7 @@
       "auf-der-zungenspitze",
       "den-heimsuchenden-geist-zur-ruhe-betten",
       "gelübde",
-      "muto-mentem--leitlinien",
+      "muto-mentem-leitlinien",
       "vertrauen-des-kindlichen-glaubens",
       "viaticarus"
     ],
@@ -687,7 +687,7 @@
     ],
     "93": [
       "magischer-hüter",
-      "merinita--feenmagie"
+      "merinita-feenmagie"
     ],
     "7": [
       "schwierigkeitsgrad"
@@ -745,7 +745,7 @@
     ],
     "75": [
       "die-gabe-2",
-      "mentem-me--geist"
+      "mentem-me-geist"
     ],
     "76": [
       "etablierte-beziehungen"
@@ -760,7 +760,8 @@
     ],
     "86": [
       "zaubermeisterschaft",
-      "zielen"
+      "zielen",
+      "sympathetische-verbindungen"
     ],
     "87": [
       "besondere-fähigkeiten-gemeisterter-zauber"
@@ -774,7 +775,7 @@
       "herztier"
     ],
     "92": [
-      "merinita--feenmagie"
+      "merinita-feenmagie"
     ],
     "95": [
       "zauber-erfinden"
@@ -795,7 +796,8 @@
       "labortexte-übersetzen"
     ],
     "104": [
-      "vorschläge-für-vertraute-nach-kunst"
+      "vorschläge-für-vertraute-nach-kunst",
+      "die-erste-bindung"
     ],
     "109": [
       "tabelle-außergewöhnlicher-ergebnisse"
@@ -830,7 +832,7 @@
       "den-schlummernden-leichnam-erwecken"
     ],
     "135": [
-      "wiedergänger--die-lebenden-toten"
+      "wiedergänger-die-lebenden-toten"
     ],
     "136": [
       "einfühlung-in-den-wald"
@@ -855,7 +857,7 @@
     ],
     "151": [
       "der-ruf-des-schlummers",
-      "rego-mentem--leitlinien",
+      "rego-mentem-leitlinien",
       "verwirrung-des-betäubten-willens"
     ],
     "154": [
@@ -867,7 +869,7 @@
     ],
     "161": [
       "aegis-des-herdes-1",
-      "tabelle-der-form--und-materialboni"
+      "tabelle-der-form-und-materialboni"
     ],
     "162": [
       "den-immateriellen-tunnel-öffnen",
@@ -906,13 +908,13 @@
       "kreaturen-mit-nicht-standardmäßiger-größe"
     ],
     "193": [
-      "wiedergänger--die-lebenden-toten"
+      "wiedergänger-die-lebenden-toten"
     ],
     "194": [
       "stellatus-der-drache"
     ],
     "32": [
-      "nur-magi--nach-der-lehrlingszeit"
+      "nur-magi-nach-der-lehrlingszeit"
     ],
     "163": [
       "bücher"
@@ -940,7 +942,7 @@
       "beschützer"
     ],
     "77": [
-      "creo-cr--ich-erschaffe"
+      "creo-cr-ich-erschaffe"
     ],
     "10": [
       "damhan-allaidh-und-der-ordo-miscellanea"
@@ -975,5 +977,44 @@
   },
   "exclude_patterns": [
     "www.atlas-games.com/ArM5"
-  ]
+  ],
+  "page_to_anchors_arm5": {
+    "65": [
+      "bezaubernde-fertigkeit-1",
+      "betörung-1",
+      "täuschung"
+    ],
+    "82": [
+      "konzentration-1"
+    ],
+    "83": [
+      "worte-und-gesten"
+    ],
+    "86": [
+      "sympathetische-verbindungen",
+      "zaubermeisterschaft",
+      "zielen"
+    ],
+    "100": [
+      "verzauberungen-untersuchen"
+    ],
+    "103": [
+      "hilfe-im-laboratorium"
+    ],
+    "104": [
+      "vorschläge-für-vertraute-nach-kunst",
+      "die-erste-bindung"
+    ],
+    "107": [
+      "arkanes-experimentieren",
+      "die-künste-öffnen",
+      "tabelle-außergewöhnlicher-ergebnisse"
+    ],
+    "158": [
+      "intellego-vim-leitlinien"
+    ],
+    "166": [
+      "übernatürliche-fertigkeiten-erlernen"
+    ]
+  }
 }

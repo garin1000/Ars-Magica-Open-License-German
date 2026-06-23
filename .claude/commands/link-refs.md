@@ -47,17 +47,40 @@ Für die **nicht gematchten** TOC-Einträge:
 
 Lies `tmp/link-report.json`. Für jeden Eintrag in `unresolved_refs`:
 
+### Grundregel: Kontext schlägt Config
+
+Bevor ein Kandidat aus der Config akzeptiert wird, **immer den Kontext-Text** (5–10 Zeilen um den Verweis) lesen. Häufig nennt der Text das Ziel beim Namen, z.B.:
+- „siehe **Sympathetische Verbindungen**, ArM5 Seite 86"
+- „wie **Bezaubernde Musik** (ArM5, Seite 65)"
+
+Wenn der Kontext einen solchen **expliziten Zielnamen** enthält:
+1. Suche diesen Namen als Header in der Zieldatei (case-insensitive, Slug-Match).
+2. Falls gefunden: Dieser Header hat **Vorrang** vor den Config-Kandidaten — auch wenn er nicht in `page_to_anchors` eingetragen ist.
+3. Trage den neuen Anker zusätzlich in die Config ein (Schritt 3h).
+
+Nur wenn der Kontext **keinen** expliziten Zielnamen enthält, werden die Config-Kandidaten wie unten beschrieben verwendet.
+
 ### 3a. Automatisch aufgelöste Verweise — verifizieren
 
-Verweise mit genau einem Kandidaten haben `resolved_anchor` gesetzt. **Stichprobenartig prüfen**, ob die Zuordnung zum Kontext passt (z.B. verweist „Seite 167" auf Verzerrung, nicht auf „Lebende Sprache"?). Offensichtlich falsche Auto-Auflösungen korrigieren oder auf `null` setzen.
+Verweise mit genau einem Kandidaten haben `resolved_anchor` gesetzt. **Prüfe für jeden Verweis**, ob die Zuordnung zum Kontext passt — lies dazu den Kontext-Text und vergleiche mit dem Kandidaten. Wende die Grundregel oben an: Nennt der Kontext einen Header-Namen, der nicht der Kandidat ist, ersetze den Kandidaten. Offensichtlich falsche Auto-Auflösungen korrigieren oder auf `null` setzen.
+
+#### ArM5-Verweise besonders prüfen
+
+Bei ArM5-Verweisen (Buch = `ArM5` oder `ArM`) stimmt die Seitenzahl oft **nicht** mit der ArMDE-Seitenzahl überein — dieselbe Seitennummer kann in beiden Editionen auf völlig verschiedene Kapitel verweisen. Das Tool verwendet `page_to_anchors_arm5` für ArM5-Verweise (mit Fallback auf `page_to_anchors`), aber dieses Mapping kann unvollständig oder veraltet sein.
+
+**Pflicht:** Für jeden ArM5-Verweis den **Kontext-Text** lesen und prüfen, ob der Kandidat zum beschriebenen Thema passt. Insbesondere:
+
+1. **Kapitelzugehörigkeit prüfen:** Verweist der Kontext z.B. auf Zauberregeln (Hermetic Magic), aber der Kandidat ist eine Tugend/Fehler-Beschreibung? → Falsche Edition, Kandidat verwerfen und korrekten Anchor suchen.
+2. **Namentlich genannte Regelelemente direkt verlinken:** Nennt der Kontext einen Zauber, eine Tugend, einen Fehler oder einen Regelabschnitt beim Namen (z.B. „*Grube der klaffenden Erde*", „Glück", „Tabelle außergewöhnlicher Ergebnisse"), dann den **exakten Header** dieses Elements in der Zieldatei suchen und direkt darauf verlinken — nicht auf eine Nachbar-Überschrift auf derselben Seite. Seitenzahlen sind in Markdown bedeutungslos; nur der Anchor zählt.
+3. **Bekannte Problemseiten:** Die Seiten 65, 82, 83, 100, 103, 107, 158, 166 haben unterschiedliche Inhalte in ArM5 und ArMDE. Kandidaten aus `page_to_anchors` für diese Seiten sind bei ArM5-Verweisen mit hoher Wahrscheinlichkeit falsch.
 
 ### 3b. Mehrdeutige Verweise (Agent-Auflösung)
 
 Für Verweise mit **mehreren Kandidaten** (`candidates`-Liste > 1):
 
 1. Lies den **Kontext** (5–10 Zeilen um den Verweis in der Quelldatei).
-2. Lies die **Kandidaten-Header** in der Zieldatei (Überschrift + die ersten Zeilen des Abschnitts).
-3. Bestimme den **korrekten Anker** basierend auf inhaltlicher Übereinstimmung.
+2. Wende die **Grundregel** an: Nennt der Kontext das Ziel beim Namen, suche den Header direkt in der Zieldatei.
+3. Andernfalls: Lies die **Kandidaten-Header** in der Zieldatei (Überschrift + die ersten Zeilen des Abschnitts) und bestimme den korrekten Anker basierend auf inhaltlicher Übereinstimmung.
 4. Setze `resolved_anchor` im Report.
 
 ### 3c. Verweise ohne Kandidaten — aktiv auflösen
@@ -65,7 +88,7 @@ Für Verweise mit **mehreren Kandidaten** (`candidates`-Liste > 1):
 Für **alle** Verweise ohne Kandidaten (Seitenzahl nicht im Mapping):
 
 1. **Gruppiere** die fehlenden Seitenzahlen nach Ziel-Buch.
-2. Nutze einen **Agenten**, um die Zuordnungen für alle fehlenden Seiten eines Buchs auf einmal zu finden: Agent liest den Kontext jedes Verweises, sucht den passenden Header in der Zieldatei und liefert den Anchor-Slug zurück.
+2. Nutze einen **Agenten**, um die Zuordnungen für alle fehlenden Seiten eines Buchs auf einmal zu finden: Agent liest den Kontext jedes Verweises (und wendet die Grundregel an), sucht den passenden Header in der Zieldatei und liefert den Anchor-Slug zurück.
 3. **Parallele Agenten** pro Ziel-Buch einsetzen, um Zeit zu sparen.
 4. Setze `resolved_anchor` und `target_file` im Report.
 
@@ -80,22 +103,61 @@ Das Analyse-Tool erkennt manchmal Buch-Aliase nicht korrekt:
 
 Vor dem Aufgeben eines Verweises: Prüfe, ob die Zieldatei in `german-wip/` existiert, auch wenn `book_aliases.json` den Eintrag als `null` führt. Falls ja, aktualisiere `book_aliases.json` und löse den Verweis auf.
 
-### 3f. Report speichern
+### 3f. Anchor-Format validieren
+
+Alle Anchors müssen dem Format von `pandoc_anchor_id()` entsprechen:
+- Kleinbuchstaben, Bindestriche statt Leerzeichen, Umlaute erhalten
+- **Keine Doppel-Hyphens** (`--`): Sonderzeichen wie Gedankenstriche (–, —) in Überschriften werden entfernt und hinterlassen ggf. aufeinanderfolgende Hyphens, die `pandoc_anchor_id()` zu einem einzelnen Hyphen zusammenfasst. Beispiel: Header `Merinita – Feenmagie` → Anchor `merinita-feenmagie` (nicht `merinita--feenmagie`).
+
+Wenn ein Kandidat oder ein Eintrag in der Config einen `--` enthält: mit `pandoc_anchor_id()` den korrekten Anchor aus dem Header-Text neu generieren und sowohl den Link als auch den Config-Eintrag korrigieren.
+
+### 3g. Abweichende Verweistexte (Redirect-Kommentare)
+
+Die Definitive Edition (DE) hat gegenüber der 5th Edition Regelelemente umbenannt, zusammengefasst oder ersetzt (z.B. „Enchanting Music" → „Enchanting (Ability)"). Da die Quellenbände auf der 5th Edition basieren, referenzieren sie noch die alten Namen, die in der DE nicht mehr als Header existieren.
+
+**Vorgehen:**
+
+1. **Prüfe auf bestehenden Kommentar.** Suche in der Quelldatei nach einem HTML-Kommentar direkt **am Link** im Format:
+   ```
+   [...](<...>)<!-- link-redirect: "Quelltext" → "Zieltext" -->
+   ```
+   Falls vorhanden: Verwende den im Kommentar angegebenen Anker als `resolved_anchor`. **Nicht erneut nachfragen.**
+
+2. **Kein Kommentar vorhanden:** Wenn ein Verweis aufgelöst wird und der Verweistext (z.B. „Bezaubernde Musik") **nicht** als Header in der Zieldatei existiert, aber der `resolved_anchor` auf einen **anderen** Header zeigt (z.B. „Bezaubernde (Fertigkeit)"):
+   - **Frage den Benutzer**, ob der Link auf den gefundenen Anker zeigen soll, und nenne dabei den Verweistext, den Ziel-Header und die Zieldatei.
+   - Falls **ja**: Setze `resolved_anchor` und markiere den Verweis als `redirect: true` im Report.
+   - Falls **nein** oder der Benutzer ein anderes Ziel nennt: Entsprechend anpassen.
+
+3. **Kommentar einfügen.** Für jeden bestätigten Redirect wird der HTML-Kommentar **direkt an die Linkdefinition** angehängt, ohne Zeilenumbruch:
+   ```
+   [Seite 65](<Basisregeln.md#bezaubernde-fertigkeit>)<!-- link-redirect: "Bezaubernde Musik" → "Bezaubernde (Fertigkeit)" -->
+   ```
+   So bleibt die **Zeilenzahl** unverändert und der Kommentar ist eindeutig dem Link zugeordnet.
+
+### 3g. Report speichern
 
 Speichere den aktualisierten Report als `tmp/resolved.json`.
 
-### 3g. Aufgelöste Seitenzuordnungen in Configs zurückschreiben
+### 3h. Aufgelöste Seitenzuordnungen in Configs zurückschreiben
 
-Alle in Schritt 3 neu aufgelösten Seite→Anker-Zuordnungen müssen in die `page_to_anchors`-Mappings der jeweiligen Config-Dateien unter `tools/link-refs/configs/` eingetragen werden, damit sie bei künftigen Durchläufen automatisch aufgelöst werden.
+Alle in Schritt 3 neu aufgelösten Seite→Anker-Zuordnungen müssen in die Config-Dateien unter `tools/link-refs/configs/` eingetragen werden, damit sie bei künftigen Durchläufen automatisch aufgelöst werden.
+
+**Getrennte Mappings für ArM5 und ArMDE:** Die Definitive Edition hat gegenüber der 5th Edition Seitenzahlen verschoben — dieselbe Seitenzahl kann in ArM5 und ArMDE auf unterschiedliche Abschnitte verweisen. Daher werden die Zuordnungen in **zwei getrennten** Mappings verwaltet:
+- `page_to_anchors_arm5` — für Verweise mit Buch-Kontext `ArM5` / `ArM`
+- `page_to_anchors_armde` — für Verweise mit Buch-Kontext `ArMDE` und für interne Verweise
+
+Das alte `page_to_anchors` wird als **Legacy-Fallback** noch gelesen, aber neue Einträge werden immer in das passende editionsspezifische Mapping geschrieben.
+
+**Migration bestehender Configs:** Wenn eine Config nur das alte `page_to_anchors` enthält, muss es **nicht** sofort migriert werden — das Tool fällt automatisch darauf zurück. Bei Gelegenheit (oder wenn ein Seitenzahl-Konflikt zwischen ArM5 und ArMDE auftritt) sollten die Einträge aufgeteilt werden.
 
 1. **Sammle** alle aufgelösten Verweise aus `tmp/resolved.json`, die einen `resolved_anchor` haben.
 2. **Gruppiere** sie nach Zieldatei:
-   - Interne Verweise (`type: "internal"`) → Config der bearbeiteten Datei.
-   - Cross-File-Verweise (`type: "cross_file"`) → Config der jeweiligen `target_file`.
+   - Interne Verweise (`type: "internal"`) → Config der bearbeiteten Datei (`page_to_anchors_armde`).
+   - Cross-File-Verweise (`type: "cross_file"`) → Config der jeweiligen `target_file` (`page_to_anchors_arm5` oder `page_to_anchors_armde`, je nach `book`-Feld).
 3. **Für jede Zieldatei:**
-   - Falls keine Config existiert: Erstelle eine mit `version`, `source_file` und leerem `page_to_anchors`.
-   - Trage jede neue Seite→Anker-Zuordnung ein (nur wenn die Seite noch nicht in der Config enthalten ist, oder der Anker noch nicht in der Liste der Seite steht).
-4. **Überspringe** Verweise, die bewusst auf `null` gesetzt wurden (nicht übersetzbar, Substring-Überlappung, 5th-Ed-Seitenzahlen ohne DE-Entsprechung).
+   - Falls keine Config existiert: Erstelle eine mit `version`, `source_file` und leeren editionsspezifischen Mappings.
+   - Trage jede neue Seite→Anker-Zuordnung in das **passende** Mapping ein (nur wenn die Seite noch nicht enthalten ist, oder der Anker noch nicht in der Liste der Seite steht).
+4. **Überspringe** Verweise, die bewusst auf `null` gesetzt wurden (nicht übersetzbar, Substring-Überlappung, Seitenzahlen ohne DE-Entsprechung).
 
 ## Schritt 4 — Links einfügen
 
@@ -143,5 +205,6 @@ Stichprobenartig prüfen:
 Gib dem Benutzer eine Zusammenfassung:
 - TOC: N verlinkt, M korrigiert, O ohne Match
 - Seitenverweise: N aufgelöst, M mehrdeutig (vom Agent aufgelöst), O ohne Kandidaten, P nicht übersetzbar
+- Redirects: N abweichende Verweistexte (davon M neu bestätigt, O aus bestehendem Kommentar)
 - Cross-File-Links: N korrigiert (englisch → deutsch)
 - Zeilenzahl: unverändert / verändert (FEHLER)
