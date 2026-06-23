@@ -4,15 +4,15 @@
   "file_hash": "sha256:0b3739d6940ee431",
   "page_to_anchors": {
     "233": [
-      "bjornaer-das-herztier",
-      "criamon-das-enigma",
-      "bjornaer-das-herztier"
+      "bjornaer--das-herztier",
+      "criamon--das-enigma",
+      "bjornaer--das-herztier"
     ],
     "82": [
       "sanfte-gabe"
     ],
     "236": [
-      "merinita-feenmagie",
+      "merinita--feenmagie",
       "feenmagie-2",
       "enigmatische-weisheit-1"
     ],
@@ -20,8 +20,8 @@
       "sigile"
     ],
     "240": [
-      "verditius-verditius-magie",
-      "verditius-verditius-magie"
+      "verditius--verditius-magie",
+      "verditius--verditius-magie"
     ],
     "494": [
       "kapitel-14-mythisches-europa"
@@ -182,7 +182,7 @@
       "fertigkeiten-nach-typ",
       "übernatürliche-fertigkeiten",
       "tierverständnis-1",
-      "muto-vim-leitlinien"
+      "muto-vim--leitlinien"
     ],
     "103": [
       "nicht-alternd",
@@ -315,7 +315,7 @@
     "370": [
       "wacht-des-zauberers",
       "aegis-des-herdes-1",
-      "rego-vim-zauber"
+      "rego-vim--zauber"
     ],
     "369": [
       "wacht-des-zauberers"
@@ -326,7 +326,7 @@
       "ritualmagie"
     ],
     "282": [
-      "tabelle-der-form-und-materialboni"
+      "tabelle-der-form--und-materialboni"
     ],
     "419": [
       "reliquien",
@@ -336,7 +336,7 @@
       "auf-der-zungenspitze",
       "den-heimsuchenden-geist-zur-ruhe-betten",
       "gelübde",
-      "muto-mentem-leitlinien",
+      "muto-mentem--leitlinien",
       "vertrauen-des-kindlichen-glaubens",
       "viaticarus"
     ],
@@ -394,7 +394,7 @@
     "110": [
       "subtile-magie",
       "studierbonus",
-      "tabelle-der-form-und-materialboni"
+      "tabelle-der-form--und-materialboni"
     ],
     "113": [
       "wahre-liebe-sc",
@@ -402,7 +402,7 @@
       "ziele-und-größen"
     ],
     "407": [
-      "hitze-und-ätzungstabelle",
+      "hitze--und-ätzungstabelle",
       "hitze-und-ätzung",
       "verletzungen",
       "entbehrung"
@@ -516,7 +516,7 @@
       "kräfte-der-kreatur"
     ],
     "209": [
-      "imaginem-im-erscheinung"
+      "imaginem-im--erscheinung"
     ],
     "393": [
       "kampf",
@@ -543,7 +543,7 @@
       "regeln-zur-laborpersonalisierung"
     ],
     "255": [
-      "material-und-größentabellen"
+      "material--und-größentabellen"
     ],
     "254": [
       "vorbereitung-zur-verzauberung"
@@ -564,7 +564,7 @@
       "charakter-grundlagen"
     ],
     "16": [
-      "bjornaer-das-herztier"
+      "bjornaer--das-herztier"
     ],
     "230": [
       "wirkungen-des-zwielichts"
@@ -583,7 +583,7 @@
       "tabelle-außergewöhnlicher-ergebnisse"
     ],
     "50": [
-      "nur-magi-lehrlingszeit"
+      "nur-magi--lehrlingszeit"
     ],
     "296": [
       "labor-features"
@@ -673,7 +673,7 @@
       "langsame-saga"
     ],
     "97": [
-      "material-und-größentabellen"
+      "material--und-größentabellen"
     ],
     "94": [
       "arkane-verbindungen-festigen",
@@ -687,7 +687,7 @@
     ],
     "93": [
       "magischer-hüter",
-      "merinita-feenmagie"
+      "merinita--feenmagie"
     ],
     "7": [
       "schwierigkeitsgrad"
@@ -745,7 +745,7 @@
     ],
     "75": [
       "die-gabe-2",
-      "mentem-me-geist"
+      "mentem-me--geist"
     ],
     "76": [
       "etablierte-beziehungen"
@@ -775,7 +775,7 @@
       "herztier"
     ],
     "92": [
-      "merinita-feenmagie"
+      "merinita--feenmagie"
     ],
     "95": [
       "zauber-erfinden"
@@ -824,7 +824,7 @@
       "berührung-der-gänsefeder"
     ],
     "133": [
-      "creo-corpus-leitlinien",
+      "creo-corpus--leitlinien",
       "fluch-der-unangekündigten-seuche",
       "herbeirufen-der-mattigkeit"
     ],
@@ -832,7 +832,7 @@
       "den-schlummernden-leichnam-erwecken"
     ],
     "135": [
-      "wiedergänger-die-lebenden-toten"
+      "wiedergänger--die-lebenden-toten"
     ],
     "136": [
       "einfühlung-in-den-wald"
@@ -857,7 +857,7 @@
     ],
     "151": [
       "der-ruf-des-schlummers",
-      "rego-mentem-leitlinien",
+      "rego-mentem--leitlinien",
       "verwirrung-des-betäubten-willens"
     ],
     "154": [
@@ -869,7 +869,7 @@
     ],
     "161": [
       "aegis-des-herdes-1",
-      "tabelle-der-form-und-materialboni"
+      "tabelle-der-form--und-materialboni"
     ],
     "162": [
       "den-immateriellen-tunnel-öffnen",
@@ -908,13 +908,13 @@
       "kreaturen-mit-nicht-standardmäßiger-größe"
     ],
     "193": [
-      "wiedergänger-die-lebenden-toten"
+      "wiedergänger--die-lebenden-toten"
     ],
     "194": [
       "stellatus-der-drache"
     ],
     "32": [
-      "nur-magi-nach-der-lehrlingszeit"
+      "nur-magi--nach-der-lehrlingszeit"
     ],
     "163": [
       "bücher"
@@ -942,7 +942,7 @@
       "beschützer"
     ],
     "77": [
-      "creo-cr-ich-erschaffe"
+      "creo-cr--ich-erschaffe"
     ],
     "10": [
       "damhan-allaidh-und-der-ordo-miscellanea"
@@ -1011,7 +1011,7 @@
       "tabelle-außergewöhnlicher-ergebnisse"
     ],
     "158": [
-      "intellego-vim-leitlinien"
+      "intellego-vim--leitlinien"
     ],
     "166": [
       "übernatürliche-fertigkeiten-erlernen"

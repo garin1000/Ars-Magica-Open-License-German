@@ -107,9 +107,29 @@ Vor dem Aufgeben eines Verweises: Prüfe, ob die Zieldatei in `german-wip/` exis
 
 Alle Anchors müssen dem Format von `pandoc_anchor_id()` entsprechen:
 - Kleinbuchstaben, Bindestriche statt Leerzeichen, Umlaute erhalten
-- **Keine Doppel-Hyphens** (`--`): Sonderzeichen wie Gedankenstriche (–, —) in Überschriften werden entfernt und hinterlassen ggf. aufeinanderfolgende Hyphens, die `pandoc_anchor_id()` zu einem einzelnen Hyphen zusammenfasst. Beispiel: Header `Merinita – Feenmagie` → Anchor `merinita-feenmagie` (nicht `merinita--feenmagie`).
+- **Doppel-Hyphens** (`--`) sind korrekt und dürfen **nicht** zu `-` zusammengefasst werden. Sie entstehen, wenn Sonderzeichen wie Gedankenstriche (–, —), Schrägstriche (/) oder Kaufmanns-Und (&) in Überschriften entfernt werden und zwei Bindestriche aufeinanderfolgen. Beispiel: Header `Merinita – Feenmagie` → Anchor `merinita--feenmagie`.
 
-Wenn ein Kandidat oder ein Eintrag in der Config einen `--` enthält: mit `pandoc_anchor_id()` den korrekten Anchor aus dem Header-Text neu generieren und sowohl den Link als auch den Config-Eintrag korrigieren.
+### 3f-2. Duplikat-Header und Seitenzahl-Zuordnung
+
+In der Zieldatei können **mehrere Header mit identischem Text** existieren (z.B. „Selbstvertrauen" in verschiedenen Kapiteln). Pandoc/GFM nummeriert diese: `#selbstvertrauen`, `#selbstvertrauen-1`, `#selbstvertrauen-2`.
+
+**Wenn eine Seitenzahl auf einen Header verweist, der mehrfach vorkommt:**
+1. Prüfe im **englischen Original** (gleiche Zeilennummer), welcher Anchor-Suffix dort verwendet wird (z.B. `#confidence` vs. `#confidence-1`).
+2. Verwende den **entsprechenden DE-Suffix** (z.B. `#selbstvertrauen` vs. `#selbstvertrauen-1`).
+3. Zwei Seitenzahlen auf derselben Zeile, die zum **selben Anchor** zeigen, dürfen **nur dann zu einem Link zusammengefasst** werden, wenn es tatsächlich nur **einen** Header gibt und beide Seiten denselben Abschnitt meinen. In diesem Fall einen `<!-- link-arm5: ... -->` Kommentar anhängen.
+4. Wenn zwei Seitenzahlen auf **verschiedene Abschnitte** verweisen (auch wenn der Header-Text gleich ist), müssen sie **getrennte Links** mit den korrekten Suffixen sein.
+
+**Verweise auf nicht übersetzte Bücher:** Seitenzahlen, die auf nicht übersetzte Quellenbücher verweisen (z.B. *Kunst & Gelehrsamkeit*, *Art & Academe*), werden **entlinkt** (reiner Text). Der interne Verweis bleibt als Link bestehen.
+
+### 3f-3. ArM5-Seitenverweise in den Basisregeln (link-arm5 Kommentare)
+
+Die Basisregeln-Referenzsektion enthält Seitenpaare aus ArM5 (5th Edition) und ArMDE (Definitive Edition), die auf denselben Abschnitt verweisen. Diese werden in **einem** Link zusammengefasst und mit einem Kommentar versehen:
+
+```
+[S. 89/S. 229](#wirkungen-des-zwielichts)<!-- link-arm5: "S. 89" → gleiche Stelle wie "S. 229" -->
+```
+
+Prüfe auf bestehende `<!-- link-arm5: ... -->` Kommentare, bevor ein Seitenpaar getrennt wird. Falls vorhanden: **Nicht trennen**.
 
 ### 3g. Abweichende Verweistexte (Redirect-Kommentare)
 
@@ -134,11 +154,11 @@ Die Definitive Edition (DE) hat gegenüber der 5th Edition Regelelemente umbenan
    ```
    So bleibt die **Zeilenzahl** unverändert und der Kommentar ist eindeutig dem Link zugeordnet.
 
-### 3g. Report speichern
+### 3h. Report speichern
 
 Speichere den aktualisierten Report als `tmp/resolved.json`.
 
-### 3h. Aufgelöste Seitenzuordnungen in Configs zurückschreiben
+### 3i. Aufgelöste Seitenzuordnungen in Configs zurückschreiben
 
 Alle in Schritt 3 neu aufgelösten Seite→Anker-Zuordnungen müssen in die Config-Dateien unter `tools/link-refs/configs/` eingetragen werden, damit sie bei künftigen Durchläufen automatisch aufgelöst werden.
 

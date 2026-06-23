@@ -21,6 +21,32 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).parent
 
 
+def _fix_internal_links(html_out: str) -> str:
+    """Gleicht href-Targets an tatsächliche IDs an.
+
+    Pandoc erzeugt IDs inkonsistent: Bei Headern mit echtem Hyphen
+    (z.B. „Zivil- und") bleibt „--" erhalten, bei entfernten
+    Sonderzeichen (–, /, &) wird zu „-" kollabiert.  Die MD-Links
+    verwenden durchgehend „--".  Dieser Post-Processing-Schritt
+    passt die hrefs an die tatsächlich erzeugten IDs an.
+    """
+    id_re = re.compile(r'<h[1-6]\s+id="([^"]*)"')
+    ids = set(id_re.findall(html_out))
+    if not ids:
+        return html_out
+
+    def fix_href(m):
+        anchor = m.group(1)
+        if anchor in ids:
+            return m.group(0)
+        collapsed = re.sub(r'-{2,}', '-', anchor)
+        if collapsed in ids:
+            return f'href="#{collapsed}"'
+        return m.group(0)
+
+    return re.compile(r'href="#([^"]*)"').sub(fix_href, html_out)
+
+
 def pandoc_to_html(md_path: str) -> str:
     result = subprocess.run(
         ["pandoc", "--from", "markdown+lists_without_preceding_blankline", "--to", "html5",
@@ -30,6 +56,7 @@ def pandoc_to_html(md_path: str) -> str:
     html_out = re.sub(r'<colgroup>.*?</colgroup>\n?', '', result.stdout, flags=re.DOTALL)
     html_out = re.sub(r'<!--.*?-->\n?', '', html_out, flags=re.DOTALL)
     html_out = re.sub(r'(href="[^"]+)\.md(#[^"]*")', r'\1.html\2', html_out)
+    html_out = _fix_internal_links(html_out)
     return html_out
 
 

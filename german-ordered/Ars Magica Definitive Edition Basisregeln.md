@@ -4219,7 +4219,7 @@ Du kannst jede Eigenschaft, die bereits einen Wert von mindestens +3 hat, um ein
 
 #### Herztier
 *Klein, Hermetisch*<br>
-Du wurdest in das Äußere Mysterium des Herztieres eingeweiht (siehe [Seite 233](#bjornaer-das-herztier)) und bist damit ein Mitglied des Hauses Bjornaer. Du beginnst mit der Fertigkeit Herztier 1. Beachte, dass alle Bjornaer-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
+Du wurdest in das Äußere Mysterium des Herztieres eingeweiht (siehe [Seite 233](#bjornaer--das-herztier)) und bist damit ein Mitglied des Hauses Bjornaer. Du beginnst mit der Fertigkeit Herztier 1. Beachte, dass alle Bjornaer-Magi diese Tugend bei der Charaktererschaffung kostenlos erhalten.
 
 #### Höherer Klerus
 *Groß, Sozialer Status*<br>

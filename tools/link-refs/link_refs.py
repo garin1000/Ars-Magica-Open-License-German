@@ -45,7 +45,6 @@ def pandoc_anchor_id(heading_text: str, seen: dict[str, int] | None = None) -> s
     text = re.sub(r'\s+', '-', text)
     text = re.sub(r'[^\w\-.]', '', text, flags=re.UNICODE)
     text = re.sub(r'^[\d.-]+', '', text)
-    text = re.sub(r'-{2,}', '-', text)
     text = text.strip('-')
     if not text:
         text = 'section'
