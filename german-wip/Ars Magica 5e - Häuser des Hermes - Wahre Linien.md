@@ -203,7 +203,7 @@ October 2005
 &emsp;&emsp;[Künste und Zauber](#künste-und-zauber)<br>
 &emsp;&emsp;[Tugenden und Fehler](#tugenden-und-fehler-1)<br>
 &emsp;&emsp;[Fertigkeiten](#fertigkeiten)<br>
-&emsp;&emsp;[Magische Gegenstände](#magische-gegenstände)<br>
+&emsp;&emsp;[Im Haus beliebte magische Gegenstände](#im-haus-beliebte-magische-gegenstände)<br>
 &emsp;&emsp;[Spezialistenrollen](#spezialistenrollen)<br>
 &emsp;[Duellieren](#duellieren)<br>
 &emsp;&emsp;[Certamen-Stile](#certamen-stile)<br>

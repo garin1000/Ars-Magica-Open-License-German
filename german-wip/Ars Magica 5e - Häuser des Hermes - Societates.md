@@ -148,7 +148,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;[Der Primus](#der-primus-1)<br>
 &emsp;&emsp;&emsp;[Die Wahl des Primus](#die-wahl-des-primus)<br>
 &emsp;&emsp;&emsp;[Der Derzeitige Primus und seine Familie](#der-derzeitige-primus-und-seine-familie)<br>
-&emsp;&emsp;&emsp;[Der Primus](#der-primus)<br>
+&emsp;&emsp;&emsp;[Die Politik des Primus](#die-politik-des-primus)<br>
 &emsp;&emsp;[Valnastium](#valnastium)<br>
 &emsp;&emsp;[Ligamitgliedschaft](#ligamitgliedschaft)<br>
 &emsp;&emsp;&emsp;[Eine Liga entwerfen](#eine-liga-entwerfen)<br>
@@ -165,13 +165,13 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;&emsp;[Neue Fehler](#neue-fehler-3)<br>
 &emsp;&emsp;&emsp;&emsp;[Brutaler Künstler](#brutaler-künstler)<br>
 &emsp;&emsp;&emsp;&emsp;[Beneidete Schönheit](#beneidete-schönheit)<br>
-&emsp;[Magie](#magie-1)<br>
+&emsp;[Stadtmagie](#stadtmagie)<br>
 &emsp;&emsp;[Lacunae](#lacunae)<br>
 &emsp;&emsp;[Kleine Effekte und hohe Penetrationsboni](#kleine-effekte-und-hohe-penetrationsboni)<br>
 &emsp;&emsp;[Subtile Zauber](#subtile-zauber)<br>
 &emsp;&emsp;[Öffentliche Zauber](#öffentliche-zauber)<br>
 &emsp;&emsp;[Wildniszauber](#wildniszauber)<br>
-&emsp;&emsp;[Magie](#magie-1)<br>
+&emsp;&emsp;[Zeremonielles Zaubern](#zeremonielles-zaubern)<br>
 &emsp;&emsp;[Zaubermeisterschaft für städtische Charaktere](#zaubermeisterschaft-für-städtische-charaktere)<br>
 &emsp;&emsp;[Arkane Verbindungen](#arkane-verbindungen)<br>
 &emsp;[Die Erschaffung schöner Dinge](#die-erschaffung-schöner-dinge)<br>
@@ -183,7 +183,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;[Spezies](#spezies)<br>
 &emsp;&emsp;[Der Vorgang der Wahrnehmung](#der-vorgang-der-wahrnehmung)<br>
 &emsp;&emsp;[Mimikry: Illusionäre Gegenstände erschaffen](#mimikry-illusionäre-gegenstände-erschaffen)<br>
-&emsp;&emsp;[Reisen](#reisen)<br>
+&emsp;&emsp;[Wandernde Species](#wandernde-species)<br>
 &emsp;&emsp;[Transparenz](#transparenz)<br>
 &emsp;&emsp;[Die Sinnesorgane treffen](#die-sinnesorgane-treffen)<br>
 &emsp;&emsp;[Makroturen: Illusionen der Nähe zum Sinnesorgan](#makroturen-illusionen-der-nähe-zum-sinnesorgan)<br>
@@ -237,7 +237,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;&emsp;[Schläger](#schläger)<br>
 &emsp;&emsp;&emsp;[Doppelagenten und feindliche Übernahmen](#doppelagenten-und-feindliche-übernahmen)<br>
 &emsp;&emsp;[Verkleidungen und Personae](#verkleidungen-und-personae)<br>
-&emsp;&emsp;&emsp;[Kleidung](#kleidung)<br>
+&emsp;&emsp;&emsp;[Kurzzeitige Verkleidungen](#kurzzeitige-verkleidungen)<br>
 &emsp;&emsp;&emsp;[Deckidentitäten](#deckidentitäten)<br>
 &emsp;&emsp;&emsp;[Personae](#personae)<br>
 &emsp;[Die Hohe Kunst der Debatte](#die-hohe-kunst-der-debatte)<br>
@@ -254,7 +254,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;&emsp;[Titanoi](#titanoi)<br>
 &emsp;&emsp;&emsp;[Lepra-Magi](#lepra-magi)<br>
 &emsp;[Magie](#magie-1)<br>
-&emsp;&emsp;[Magie](#magie-1)<br>
+&emsp;&emsp;[Magie für die Debattierarena](#magie-für-die-debattierarena)<br>
 &emsp;&emsp;[Die Magie der Nachahmung](#die-magie-der-nachahmung)<br>
 &emsp;&emsp;[Die Magie der Intrige](#die-magie-der-intrige)<br>
 &emsp;&emsp;[Die Magie der Titanoi](#die-magie-der-titanoi)<br>
@@ -267,12 +267,12 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;[Magie](#magie-1)<br>
 &emsp;&emsp;[Übernatürliche Fertigkeiten](#übernatürliche-fertigkeiten)<br>
 &emsp;&emsp;&emsp;[Die Grundlagen](#die-grundlagen)<br>
-&emsp;&emsp;&emsp;[Neue Übernatürliche Fertigkeit: Persona*](#neue-übernatürliche-fertigkeit-persona)<br>
+&emsp;&emsp;&emsp;[Entwurf einer Übernatürlichen Fertigkeit](#entwurf-einer-übernatürlichen-fertigkeit)<br>
 &emsp;&emsp;&emsp;[Beispiele für übernatürliche Fertigkeiten](#beispiele-für-übernatürliche-fertigkeiten)<br>
 &emsp;&emsp;&emsp;[Tiere rufen](#tiere-rufen)<br>
 &emsp;&emsp;&emsp;[Den Wind herbeipfeifen](#den-wind-herbeipfeifen)<br>
 &emsp;&emsp;&emsp;[Fruchtbarkeit beherrschen](#fruchtbarkeit-beherrschen)<br>
-&emsp;&emsp;[Magi Ex Miscellanea](#magi-ex-miscellanea)<br>
+&emsp;&emsp;[Magi Ex Miscellanea ohne eine Große Übernatürliche Fertigkeit](#magi-ex-miscellanea-ohne-eine-große-übernatürliche-fertigkeit)<br>
 &emsp;[Charaktere](#charaktere-9)<br>
 &emsp;&emsp;[Magi Ex Miscellanea](#magi-ex-miscellanea)<br>
 &emsp;&emsp;[Magi Orbi](#magi-orbi)<br>
@@ -281,7 +281,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;&emsp;[Exotisches Zaubern](#exotisches-zaubern)<br>
 &emsp;&emsp;[Neue Fehler](#neue-fehler-3)<br>
 &emsp;&emsp;&emsp;[Fehlerhafte Kräfte](#fehlerhafte-kräfte)<br>
-&emsp;&emsp;&emsp;[Magie](#magie-1)<br>
+&emsp;&emsp;&emsp;[Anfällig für Volkszauber](#anfällig-für-volkszauber)<br>
 &emsp;[Traditionen des Hauses Ex Miscellanea](#traditionen-des-hauses-ex-miscellanea)<br>
 &emsp;&emsp;[Tiermeister](#tiermeister)<br>
 &emsp;&emsp;[Damhadh-Duidsan](#damhadh-duidsan)<br>
@@ -2381,7 +2381,7 @@ Charaktere mit diesem Fehler können seinen Nachteilen entgehen, indem sie sich 
 
 Ein Charakter ohne positiven Präsenzwert darf diesen Fehler nicht besitzen.
 
-## Urbane Magie
+## Stadtmagie
 
 Gefolgsleute des Hauses Jerbiton sind Pioniere. Sie reisen in Städte oder leben sogar in ihnen. Die Städte Europas sind in den letzten 50 Jahren rasant an Größe, Einwohnerzahl und Dominium gewachsen. Jerbiton-Magi glauben, dass diese modernen Städte etwas für den Westen Neues sind: magische Ödlande, völlig anders als die antiken Städte, in denen der Kult des Merkur blühte. Jerbiton-Magi haben an ähnlichen Orten im Osten gelebt, am bemerkenswertesten in Konstantinopel, und nutzen die von ihren Vorfahren entwickelten Techniken, um diese neuen, schönen, schatzreichen Städte zu erkunden.
 
@@ -2691,7 +2691,7 @@ Magi können täuschen, indem sie den Vorgang der Wahrnehmung in jeder seiner vi
 
 Die im Basisregelwerk beschriebenen hermetischen Illusionen basieren fast alle auf Mimikry – dem Fachausdruck für die Erschaffung illusionärer Gegenstände. Mimikry erfordert wenig Finesse, ist aber wenig subtil. Als Beispiel für Mimikry: Ein Magus, der sein Opfer glauben machen will, eine Schlange liege auf seinem Bett, erschafft eine Illusion, die natürliche, nichtmagische Spezies wie die einer Schlange von der Oberfläche des Bettes aussendet. Jeder in der Nähe sieht die illusionäre Schlange und reagiert auf sie, als wäre sie real. Nachgeahmte Bilder haben überzeugende Spiegelbilder, da sie Spezies in alle Richtungen aussenden. Nachgeahmte Bilder werden nicht von der Parma Magica aufgehalten, da ihre Spezies nicht magisch sind.
 
-### Wandernde Spezies
+### Wandernde Species
 
 Magi können die Ströme von Spezies manipulieren, die aus Gegenständen hervorquellen. Die einfachsten Manipulationen ersetzen oder vernichten die von einem Gegenstand erzeugten Spezies. Ein Magus, der ein Blatt wie eine Münze aussehen lässt, ersetzt die Spezies der Münze. Ein Magus, der einen Dolch unsichtbar macht, vernichtet dessen Fähigkeit, optische Spezies zu erzeugen. Es gibt jedoch subtilere Wege, wandernde Spezies zu manipulieren.
 
@@ -3948,9 +3948,9 @@ Alle Magi Aegroti müssen die Tugend Lepra-Magus und den Fehler Lepra erwerben. 
 
 Die Magi des Tytalus haben unterschiedliche Interessen und daher möglicherweise sehr unterschiedliche Vorlieben in der Magie. Allerdings zeigen alle eine Faszination für Intrigen, was sich gut mit der Praxis der Mentem-Magie verträgt. Die folgenden Abschnitte beschreiben einige nützliche Zauber für Tätigkeiten, in denen tytalische Magi gewöhnlich herausragen.
 
-#### Magie für die Debattenarena
+#### Magie für die Debattierarena
 
-Der Einsatz von Magie in der Debattenarena wird vom Orden des Hermes streng missbilligt. Mehrere Tribunalssitzungen finden unter einer *Aegis des Herdes* statt, die vom Praeco und dem vorsitzenden Quaesitor eigens gewirkt wird, um Magie zu unterbinden, die die demokratischen Prozesse des Ordens beeinflussen könnte. Bei anderen Tribunalen fordern die Quaesitores ausdrücklich dazu auf, in der Debattenarena keine Verzauberungen einzusetzen, und führen regelmäßig Kontrollen dagegen durch. Doch nicht alle Tribunale ergreifen solche Vorsichtsmaßnahmen, und ein Mitglied des Hauses Tytalus kann oft von einem geschickten Einsatz von Debattenmagie profitieren. Magi, die diesen gefährlichen Weg beschreiten, sollten sich auf Magie konzentrieren, die ihre eigenen Fähigkeiten verbessert, anstatt das Publikum direkt zu beeinflussen. Zum Beispiel verändert die *Aura der adligen Erscheinung* das Erscheinungsbild des Magus so, dass er Spezies des Sehens und Hörens ausstrahlt, die ihn überzeugender erscheinen lassen, und gewährt einen +3 Bonus auf alle Verteidigungs-Gesamtwerte der Debatte, die die Fertigkeit Führung verwenden. Tytalische Magi haben ähnliche Zauber entwickelt, die sie sympathischer (und somit Charme-Verteidigungen beeinflussen) oder glaubwürdiger (und somit Täuschungs-Verteidigungen verbessern) erscheinen lassen; siehe die Zauber *Aura des betörenden Erscheinungsbilds* und *Aura der kindlichen Unschuld* weiter unten. Nach Ermessen des Spielleiters könnte die *Aura der adligen Erscheinung* die Manifestation der Gabe in derselben Weise verzerren wie diese beiden Zauber; während sie den üblichen Bonus gegenüber Sterblichen gewährt, drückt der Charakter seine verstärkte Führungskraft als harter Zuchtmeister oder grausamer Herrscher aus.
+Der Einsatz von Magie in der Debattierarena wird vom Orden des Hermes streng missbilligt. Mehrere Tribunalssitzungen finden unter einer *Aegis des Herdes* statt, die vom Praeco und dem vorsitzenden Quaesitor eigens gewirkt wird, um Magie zu unterbinden, die die demokratischen Prozesse des Ordens beeinflussen könnte. Bei anderen Tribunalen fordern die Quaesitores ausdrücklich dazu auf, in der Debattierarena keine Verzauberungen einzusetzen, und führen regelmäßig Kontrollen dagegen durch. Doch nicht alle Tribunale ergreifen solche Vorsichtsmaßnahmen, und ein Mitglied des Hauses Tytalus kann oft von einem geschickten Einsatz von Debattenmagie profitieren. Magi, die diesen gefährlichen Weg beschreiten, sollten sich auf Magie konzentrieren, die ihre eigenen Fähigkeiten verbessert, anstatt das Publikum direkt zu beeinflussen. Zum Beispiel verändert die *Aura der adligen Erscheinung* das Erscheinungsbild des Magus so, dass er Spezies des Sehens und Hörens ausstrahlt, die ihn überzeugender erscheinen lassen, und gewährt einen +3 Bonus auf alle Verteidigungs-Gesamtwerte der Debatte, die die Fertigkeit Führung verwenden. Tytalische Magi haben ähnliche Zauber entwickelt, die sie sympathischer (und somit Charme-Verteidigungen beeinflussen) oder glaubwürdiger (und somit Täuschungs-Verteidigungen verbessern) erscheinen lassen; siehe die Zauber *Aura des betörenden Erscheinungsbilds* und *Aura der kindlichen Unschuld* weiter unten. Nach Ermessen des Spielleiters könnte die *Aura der adligen Erscheinung* die Manifestation der Gabe in derselben Weise verzerren wie diese beiden Zauber; während sie den üblichen Bonus gegenüber Sterblichen gewährt, drückt der Charakter seine verstärkte Führungskraft als harter Zuchtmeister oder grausamer Herrscher aus.
 
 Andere Magi erheben sofort Protest, wenn sie entdecken, dass solche Zauber während einer Tribunalssitzung eingesetzt wurden, doch es gibt keine Bestimmung im Kodex des Hermes, die diese Taktiken verbieten würde. Sollte ihr Einsatz allerdings weitverbreitet werden, ginge entweder der Vorteil der Tytali verloren, oder es würden magische oder juristische Gegenmaßnahmen ergriffen, um sie zunichte zu machen. Tytalische Magi werden von ihren Parentes ermahnt, diese Zauber mit Bedacht einzusetzen (oder mit einem guten *Den Geruch der Magie verschleiern*-Zauber!).
 
