@@ -458,7 +458,7 @@
       "heading": "## Die Philosophen",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge (Blockquote)"
     },
     {

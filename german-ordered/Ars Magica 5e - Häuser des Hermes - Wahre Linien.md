@@ -238,27 +238,27 @@ Die folgenden Seiten beschreiben Haus Bonisagus im Detail, beginnend mit seinen 
 Bonisagus wurde im Jahr 690 in Florenz geboren. Beunruhigt durch seine mächtige Gabe, schickten ihn seine Eltern zu seinem Onkel, einem Diakon in der Kirche Or San Michele, in der Hoffnung, dass dessen beruhigende Gegenwart den Jungen heilen möge. Sein Onkel erkannte Bonisagus' wahre Natur und förderte die Neigungen des Jungen, statt sie zu unterdrücken. Redegewandt und charismatisch verbrachte Bonisagus seine frühen Jahre damit, die Bibliothek seines Onkels zu durchstöbern und den umherziehenden Rednern zu lauschen, die von den Stufen der Kirche predigten.
 
 > ## Eckdaten
->
+> 
 > **Anzahl:** 81 (52 Magi Bonisagi, 29 Magi Trianomae)
->
-> **Bevorzugte Tribunale:** Das Rhein- und das Römische Tribunal, gefolgt vom Iberischen und dem Languedoc-Tribunal.
->
+> 
 > **Domus Magna:** Durenmar im Rheintribunal.
->
+> 
 > **Prima:** Die Erzmaga Murion. Eine skrupellose Intrigantin und überzeugte Konservative führt Murion das Haus auf einem ehrgeizigen Pfad, der — wenn er Erfolg hat — die Macht des Hauses Bonisagus unter den Häusern wiederherstellen wird.
->
+> 
+> **Bevorzugte Tribunale:** Das Rhein- und das Römische Tribunal, gefolgt vom Iberischen und dem Languedoc-Tribunal.
+> 
 > ## Berühmte Persönlichkeiten
->
+> 
 > **Bonisagus,** Erfinder der Parma Magica und der hermetischen Magietheorie, Gründer des Hauses.
->
-> **Lucian,** Trianomas erster Lehrling, der erste Sucher. **Viea,** Trianomas Zwillingsschwester, Feindin des Ordens.
->
-> **Notatus,** erster Primus, Lehrling von Bonisagus, Erfinder der *Aegis des Herdes.*
->
-> **Thamus Collis,** Primus während des Schismakriegs. **Jovius,** letzter Lehrling von Bonisagus, durch seinen Parens dem Zug der Magier überantwortet.
->
+> 
 > **Trianoma,** Visionärin und Verantwortliche für die Gründung des Ordens des Hermes, Gründerin des Hauses.
->
+> 
+> **Lucian,** Trianomas erster Lehrling, der erste Sucher. **Viea,** Trianomas Zwillingsschwester, Feindin des Ordens.
+> 
+> **Notatus,** erster Primus, Lehrling von Bonisagus, Erfinder der *Aegis des Herdes.*
+> 
+> **Thamus Collis,** Primus während des Schismakriegs. **Jovius,** letzter Lehrling von Bonisagus, durch seinen Parens dem Zug der Magier überantwortet.
+> 
 > ## Durenmar: Domus Magna
 > 
 > Die Domus Magna des Hauses Bonisagus ist Durenmar, gelegen im Schwarzwald im Heiligen Römischen Reich (dem heutigen Deutschland). Erbaut auf den Ruinen eines merkurischen Tempels, ist es der Ort, an dem die Zwölf Gründer im Jahr 767 dem Orden des Hermes die Treue schworen. Es besteht aus drei Türmen, einem Forum und mehreren Nebengebäuden in einem der wenigen Täler des Waldes. Die drei Türme sind nach den drei bedeutendsten Magi des Hauses Bonisagus benannt. Der Turm des Bonisagus beherbergt die Große Bibliothek, eine unübertroffene Büchersammlung. Der Turm des Notatus enthält die Wohnräume der ansässigen Magi Bonisagi, einschließlich der Prima Murion. Der Turm der Trianoma ist die Heimstatt der Magi Trianomae, Rotkappen und anderer Magi, die nicht zum Haus Bonisagus gehören. Das Forum des Hermes ist der Ort, an dem die Sitzungen des Rheintribunals und die Großtribunale abgehalten werden. Wesentlich mehr Informationen über Durenmar finden sich in *Wächter des Waldes: Das Rhein-Tribunal*.
@@ -433,65 +433,65 @@ Der Primus ernennt auch seinen Nachfolger, der das Amt auf Lebenszeit innehat. S
 Ein künftiger Primus muss mehrere Voraussetzungen erfüllen. Erstens muss er ein Magus Bonisagi sein, da kein Magus Trianomae jemals davon träumen würde, das Haus offen zu führen. Es ist üblich, dass der Primus ein Erzmagus ist (siehe *Wächter des Waldes: Das Rhein-Tribunal*), aber nicht zwingend. Er muss erfolgreich einen Lehrling ausgebildet und sein Wissen persönlich weitergegeben haben. Er muss zudem ein *Dendrophori* sein, die höchste Statusstufe, die ein Magus Bonisagus erreichen kann. Schließlich muss ein künftiger Primus als Colens Arcanorum gedient haben, um die Organisation und Bürokratie des Hauses aus eigener Erfahrung zu kennen. Im Jahr 1220 gibt es etwa ein halbes Dutzend Magi Bonisagi, die als Primus des Hauses in Frage kommen.
 
 > ## Glaucon, Magus Trianomae und Sucher
->
+> 
+> **Eigenschaften:** Int +3, Wah +3, Prä 0, Kom +1, Stä 0, Aus
+> 
+> +1, Ges -1, Sck 0
+> 
+> **Größe:** 0 **Alter:** 29 (6 Jahre nach der Lehrlingsprüfung)
+> 
+> **Gebrechlichkeit:** 0 **Verzerrungswert:** 0 (2) **Selbstvertrauenswert:** 1 (4)
+> 
+> **Tugenden und Fehler:** Die Gabe; Hermetischer Magus; Sanfte Gabe; Affinität zu Intellego, Verbesserte Eigenschaften (x2), Persönliche Vis-Quelle, Begabung in Intrige (Freie Tugend), Zweites Gesicht, Willensstark, Studierbonus; Feinde, Schmerzhafte Magie; Desorientierungsmagie, Berüchtigt, Zittrige Hände, Sucher
+> 
+> **Persönlichkeitseigenschaften:** Neugierig +3, Beharrlich +3, Selbstsüchtig +2 **Reputation:** Grabräuber 4 (Tribunal der Hohen Alpen)
+> 
+> **Kampf:** Ausweichen: Init +0, Angriff n/v, Verteidigung +3, Schaden n/v
+> 
 > **Absorption:** 1
->
-> **Anmerkungen:** Glaucon ist ein Sucher, der sich auf die Durchsuchung gebirgiger Regionen nach alten merkurischen Tempeln spezialisiert hat. Das Wirken von Zaubern bereitet Glaucon Schmerzen, und er glaubt, dass das Auffinden einer älteren Magiequelle ihm helfen wird, die qualvolle Natur seiner Gabe zu verstehen. Glaucon meidet andere Magi seines Hauses in der Hoffnung, den regulären Pflichten der Magi Trianomae zu entgehen. Die Tenentes Occultorum sind verärgert über Glaucon, weil er die genauen Orte seiner Reisen nur ungern preisgibt, insbesondere den Standort seiner geheimen Vis-Quelle.
->
+> 
+> **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
+> 
+> **Wundabzüge:** –1 (1-5), –3 (6-10), –5 (11-15), Lähmend (16-20)
+> 
+> **Fertigkeiten:** Athletik 3 (Höhlenforschung), Artes Liberales 1 (Geometrie), Aufmerksamkeit 2 (Hinterhalte), Raufen 2 (Ausweichen), Konzentration 1 (bei Verwundung), Feenkunde 1 (Bergfeen), Täuschung 2 (vergangene Aktivitäten verbergen), Intrige 2 (+2) (Interessen anderer erkennen), Kunde des Königreichs Aragón 2 (Berge), Latein 4 (kartographische Fachbegriffe), Parma Magica 3 (Mentem), Penetration 3 (Mentem), Magiekunde 2 (merkurische Tempel), Magietheorie 3 (Zauber erfinden), Reiten 1 (Strecken), Zweites Gesicht 1 (Geister), Spanisch 5 (blumige Ausdrucksweise), Überleben 2 (Berge)
+> 
+> **Künste:** Cr 0, In 9, Mu 2, Pe 8, Re 3; An 0, Aq 0, Au 0, Co 6, He 0, Ig 1, Im 1, Me 10, Te 0, Vi 7
+> 
+> **Zwielichtnarben:** Keine
+> 
 > **Belastung:** 0 (0) **Bekannte Zauber:**
->
+> 
 > *Übernatürliches Wachsen und Schrumpfen* (MuCo 15) +9
->
+> 
 > *Aufstieg des federleichten Körpers* (ReCo 10) +10
->
+> 
 > *Flamme in der Hand* (CrIg 5) +2
->
+> 
 > *Den verweilenden Geist enthüllen* (InMe 20) +20
 >
-> *Vertrauen des kindlichen Glaubens* (ReMe 10) +14
+>*Vertrauen des kindlichen Glaubens* (ReMe 10) +14
 >
-> *Den heimsuchenden Geist zur Ruhe betten* (PeMe 15) +19
+>*Den heimsuchenden Geist zur Ruhe betten* (PeMe 15) +19
 >
-> *Den heimsuchenden Geist zur Ruhe betten* (PeMe 25) +19
->
+>*Den heimsuchenden Geist zur Ruhe betten* (PeMe 25) +19
+> 
 > *Den Feenschleier durchdringen* (InVi 20) +17
 >
-> *Den Magieschleier durchdringen* (InVi 20) +17
+>*Den Magieschleier durchdringen* (InVi 20) +17
 >
-> *Das enthüllte unsichtbare Auge* (InVi 20) +17
->
-> **Eigenschaften:** Int +3, Wah +3, Prä 0, Kom +1, Stä 0, Aus
->
-> +1, Ges -1, Sck 0
->
-> **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
->
-> **Fertigkeiten:** Athletik 3 (Höhlenforschung), Artes Liberales 1 (Geometrie), Aufmerksamkeit 2 (Hinterhalte), Raufen 2 (Ausweichen), Konzentration 1 (bei Verwundung), Feenkunde 1 (Bergfeen), Täuschung 2 (vergangene Aktivitäten verbergen), Intrige 2 (+2) (Interessen anderer erkennen), Kunde des Königreichs Aragón 2 (Berge), Latein 4 (kartographische Fachbegriffe), Parma Magica 3 (Mentem), Penetration 3 (Mentem), Magiekunde 2 (merkurische Tempel), Magietheorie 3 (Zauber erfinden), Reiten 1 (Strecken), Zweites Gesicht 1 (Geister), Spanisch 5 (blumige Ausdrucksweise), Überleben 2 (Berge)
->
-> **Gebrechlichkeit:** 0 **Verzerrungswert:** 0 (2) **Selbstvertrauenswert:** 1 (4)
->
-> **Größe:** 0 **Alter:** 29 (6 Jahre nach der Lehrlingsprüfung)
->
-> **Kampf:** Ausweichen: Init +0, Angriff n/v, Verteidigung +3, Schaden n/v
->
-> **Künste:** Cr 0, In 9, Mu 2, Pe 8, Re 3; An 0, Aq 0, Au 0, Co 6, He 0, Ig 1, Im 1, Me 10, Te 0, Vi 7
->
-> **Persönlichkeitseigenschaften:** Neugierig +3, Beharrlich +3, Selbstsüchtig +2 **Reputation:** Grabräuber 4 (Tribunal der Hohen Alpen)
->
-> **Tugenden und Fehler:** Die Gabe; Hermetischer Magus; Sanfte Gabe; Affinität zu Intellego, Verbesserte Eigenschaften (x2), Persönliche Vis-Quelle, Begabung in Intrige (Freie Tugend), Zweites Gesicht, Willensstark, Studierbonus; Feinde, Schmerzhafte Magie; Desorientierungsmagie, Berüchtigt, Zittrige Hände, Sucher
->
-> **Wundabzüge:** –1 (1-5), –3 (6-10), –5 (11-15), Lähmend (16-20)
->
-> **Zwielichtnarben:** Keine
->
+>*Das enthüllte unsichtbare Auge* (InVi 20) +17
+> 
+> **Anmerkungen:** Glaucon ist ein Sucher, der sich auf die Durchsuchung gebirgiger Regionen nach alten merkurischen Tempeln spezialisiert hat. Das Wirken von Zaubern bereitet Glaucon Schmerzen, und er glaubt, dass das Auffinden einer älteren Magiequelle ihm helfen wird, die qualvolle Natur seiner Gabe zu verstehen. Glaucon meidet andere Magi seines Hauses in der Hoffnung, den regulären Pflichten der Magi Trianomae zu entgehen. Die Tenentes Occultorum sind verärgert über Glaucon, weil er die genauen Orte seiner Reisen nur ungern preisgibt, insbesondere den Standort seiner geheimen Vis-Quelle.
+> 
 > ### Neuer Intellego-Mentem-Zauber
->
+> 
 > ##### Den verweilenden Geist enthüllen
->
+> 
 > **R:** Per, **D:** Konz, **Z:** Vision, **Stufe 30**
->
+> 
 > Dieser Zauber erlaubt es dir, unsichtbare Geister zu sehen. Durchdringt der Zauber die Magieresistenz des Geistes, kannst du ihn sehen. Der Zauber zwingt den Geist nicht, für andere sichtbar zu werden.
->
+> 
 > (Basis 5, +1 Konzentration, +4 Vision)
 
 ### Sucher
@@ -505,48 +505,48 @@ Ein Magus jedes Hauses kann ein Sucher sein. Nominell unterstehen sie der Kontro
 Im Jahr 1220 gibt es etwa 25 Sucher; fünf davon sind Magi des Hauses Bonisagus, die höchste Konzentration aus einer einzelnen Linie.
 
 > ## Häufige Tugenden und Fehler
->
+> 
 > Jeder Magus Bonisagi besitzt die freie Allgemeine, Kleine Tugend: **Begabung in Magietheorie**. Weitere häufige Tugenden und Fehler sind:
->
-> **Affinität zu (Kunst)**. Dein Parens hat diese Spezialisierung in dir gefördert, und andere Magi Bonisagi erwarten, dass du seinen Bemühungen gerecht wirst.
->
-> **Auffällige Gabe**.
->
-> **Ausdauernd**. Das ständige Reisen mit deinem Parens hat deine Ausdauer gestärkt.
->
+> 
 > **Begabter Laborlehrling**. Dein Parens hat das Labor nie verlassen.
->
-> **Begabter Schüler**. Das meiste deines Wissens wurde dir von Menschen beigebracht, nicht von Büchern.
->
-> **Bücherwurm**.
->
-> **Defizitäre Technik** und **Defizitäre Form**. Zwei bedauerliche Nebeneffekte eines Parens, der sich übermäßig auf Künste spezialisiert hat, die ihn interessieren oder in denen der Lehrling besonders begabt ist.
->
-> **Erfahrener Parens**. Die Magi Bonisagi legen Wert darauf, ihr Wissen an ihre Lehrlinge weiterzugeben und widmen sich dieser Aufgabe mit besonderer Sorgfalt.
->
-> **Feinde**. Die ständigen politischen Verstrickungen deines Parens hatten Folgen.
->
+> 
+> **Affinität zu (Kunst)**. Dein Parens hat diese Spezialisierung in dir gefördert, und andere Magi Bonisagi erwarten, dass du seinen Bemühungen gerecht wirst.
+> 
 > **Flexible Formulaische Magie**. Dies ist ideal für einen Dilettanten, der sich an Änderungen bei Reichweite, Dauer und Zielgröße erfreut.
->
-> **Gefälligkeiten**. Eine weitere politische Folge der Einmischungen deines Parens.
->
-> **Getrieben**. Du strebst danach, der Experte auf deinem spezialisierten Forschungsgebiet zu werden.
->
-> Jeder Magus Trianomae besitzt die freie Allgemeine, Kleine Tugend: **Begabung in Intrige**. Weitere häufige Tugenden und Fehler sind:
->
-> **Gewandte Form**. Deine Lehrzeit bot viele Gelegenheiten, eine deiner Künste besser zu beherrschen.
->
+> 
 > **Hermetisches Ansehen**. Dein Parens war so bekannt, dass seine Reputation über die Grenzen des Hauses hinausreichte. **Erfinderisches Genie**.
->
-> **Linguist.** Deine Wanderlehrzeit machte dir das Erlernen von Sprachen leicht.
->
+> 
 > **Nebenerkenntnis**. Du verstehst instinktiv die hermetischen Zusammenhänge zwischen den Künsten.
->
+> 
+> **Erfahrener Parens**. Die Magi Bonisagi legen Wert darauf, ihr Wissen an ihre Lehrlinge weiterzugeben und widmen sich dieser Aufgabe mit besonderer Sorgfalt.
+> 
+> **Auffällige Gabe**.
+> 
+> **Bücherwurm**.
+> 
+> **Defizitäre Technik** und **Defizitäre Form**. Zwei bedauerliche Nebeneffekte eines Parens, der sich übermäßig auf Künste spezialisiert hat, die ihn interessieren oder in denen der Lehrling besonders begabt ist.
+> 
+> **Getrieben**. Du strebst danach, der Experte auf deinem spezialisierten Forschungsgebiet zu werden.
+> 
+> Jeder Magus Trianomae besitzt die freie Allgemeine, Kleine Tugend: **Begabung in Intrige**. Weitere häufige Tugenden und Fehler sind:
+> 
+> **Begabter Schüler**. Das meiste deines Wissens wurde dir von Menschen beigebracht, nicht von Büchern.
+> 
+> **Gewandte Form**. Deine Lehrzeit bot viele Gelegenheiten, eine deiner Künste besser zu beherrschen.
+> 
 > **Sanfte Gabe**. Du wurdest von deinem Parens ausgewählt, weil du mühelos mit Sterblichen umgehen konntest.
->
-> **Schwacher Gelehrter**. Die Zeit auf Reisen hat dein Potenzial zum Lernen aus Büchern gemindert.
+> 
+> **Linguist.** Deine Wanderlehrzeit machte dir das Erlernen von Sprachen leicht.
+> 
+> **Ausdauernd**. Das ständige Reisen mit deinem Parens hat deine Ausdauer gestärkt.
+> 
 > **Vielgereist**.
->
+> 
+> **Feinde**. Die ständigen politischen Verstrickungen deines Parens hatten Folgen.
+> 
+> **Gefälligkeiten**. Eine weitere politische Folge der Einmischungen deines Parens.
+> 
+> **Schwacher Gelehrter**. Die Zeit auf Reisen hat dein Potenzial zum Lernen aus Büchern gemindert.
 
 ## Die Magi des Hauses Bonisagus
 
@@ -1086,13 +1086,13 @@ Dieses Kapitel ist in zehn Hauptabschnitte unterteilt, die nachfolgend aufgefüh
 **Fenicils Rituale:** Die geheimen Rituale des Hauses Guernicus.
 
 > ## Schlüsseldaten
->
-> **Domus Magna:** Magvillus im Römischen Tribunal.
->
+> 
 > **Mitgliederzahl:** 98 (plus 41 Nicht-Guernicus-Quaesitores).
->
+> 
+> **Domus Magna:** Magvillus im Römischen Tribunal.
+> 
 > **Prima:** Die Erzmaga Bilera. Bekannt für ihre Ermittlungs- und Verhandlungskompetenz, wurde Bilera zur Prima ernannt, um den Riss zwischen den Traditionalisten und den Transitionalisten zu heilen.
->
+> 
 > ## Berühmte Persönlichkeiten
 > 
 > **Guernicus,** Gründer des Hauses.
@@ -2291,48 +2291,6 @@ Andere Tatorte werden nicht rechtzeitig entdeckt, um Zauberspurenmagie einzusetz
 
 ### Zauber und Leitlinien
 
-#### Creo-Mentem-Leitlinien
-
-**Stufe 4:** Stellt eine Erinnerung an ein kurzes Ereignis in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Die betroffene Erinnerung kann nicht umfangreicher sein als eine kurze Unterhaltung (zwei bis drei Runden).
-
-**Stufe 5:** Stellt eine Erinnerung an ein Ereignis in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Die betroffene Erinnerung kann nicht umfangreicher sein als etwa zwei Minuten.
-
-**Stufe 10:** Stellt eine Erinnerung an die Ereignisse eines Tages in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Ereignisse werden erinnert, als hätten sie erst vor einer Stunde stattgefunden.
-
-#### Creo-Mentem-Zauber
-
-##### An seinen Werken
-
-**R:** Pers, **D:** Konz, **T:** Ind, **Stufe 5**
-
-Frischt eine bestimmte Erinnerung im Geist des Zaubernden auf; solange noch ein Fragment davon vorhanden ist, wird dieser Zauber sie wiederherstellen. Einmal aufgefrischt, kann der Zaubernde die vervollkommnete Erinnerung halten, solange er sich konzentriert. Das Studieren der Erinnerung erzeugt effektiv eine neue Erinnerung, die nach dem Ende des Zaubers nicht verblasst. Dieser Zauber wurde geschaffen, um Quaesitores die perfekte Erinnerung an Zauber-Sigile zu ermöglichen, denen sie begegnen. Der Zauber kann auch zum Erinnern anderer Einzelheiten eines kurzen Ereignisses genutzt werden, wie Gesichter oder Stimmen. Dieser Zauber wird häufig zur doppelten Überprüfung von Identifizierungen eingesetzt.
-
-(Basis 4, +1 Konz)
-
-##### Der Gute Zeuge
-
-**R:** Berührung, **D:** Sonne, **T:** Ind, **Stufe 25**
-
-Frischt die Erinnerung an einen Tag im Geist der Zielperson auf; solange noch ein Fragment davon vorhanden ist, wird dieser Zauber sie wiederherstellen. Die Zielperson wird beim Wirken des Zaubers gebeten, sich an ein Ereignis an dem fraglichen Tag zu erinnern. Ereignisse dieses Tages werden erinnert, als hätten sie erst vor einer Stunde stattgefunden. Je nachdem, wie lange der Tag zurückliegt, kann ein bestimmtes Ereignis vollständig verschwunden sein, abhängig davon, wie einprägsam es war. So können manche Einzelheiten perfekt erinnert werden und andere vollständig fehlen.
-
-(Basis 10, +1 Berührung, +2 Sonne)
-
-#### Creo-Vim-Leitlinien
-
-**Allg:** Frischt alle Zauberspuren innerhalb des Ziels auf, die sich in negativer Magnitude befinden und weniger als die Magnitude der Leitlinie -1 betragen.
-
-#### Creo-Vim-Zauber
-
-##### Die verblichenen Fäden erneuern
-
-**R:** Berührung, **D:** Dchm, **T:** Kreis, **Stufe allg**
-
-Sobald eine Spur gefunden oder vermutet wird, wird dieser Zauber eingesetzt, um sie untersuchbar zu machen. Dieser Zauber stellt Zauberspuren vorübergehend in einen frischen Zustand wieder her (als wären sie gerade erloschen). Der Zauber stellt Zauberspuren mit negativer Magnitude bis zur Magnitude dieses Zaubers -3 wieder her. Die Spur muss noch vorhanden sein, um betroffen zu werden (Magnitude -9 oder höher). Somit ist die maximale wirksame Stufe dieses Zaubers 50.
-
-Versionen dieses Zaubers existieren auch für alle Standardziele. Die Dauer Durchmesser ist normalerweise lang genug, um Intellego-Vim-Untersuchungen der Zauberspuren durchzuführen.
-
-(Basis, +1 Berührung, +1 Dchm)
-
 #### Intellego-Corpus-Zauber
 
 ##### Das Ganze aus dem Teil
@@ -2361,6 +2319,32 @@ Eine verstärkte Version von *Erkennen der wahren und trügerischen Bilder*. Du 
 
 (Basis, +2 Sonne, +1 Verstärkter Effekt)
 
+#### Creo-Mentem-Leitlinien
+
+**Stufe 4:** Stellt eine Erinnerung an ein kurzes Ereignis in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Die betroffene Erinnerung kann nicht umfangreicher sein als eine kurze Unterhaltung (zwei bis drei Runden).
+
+**Stufe 5:** Stellt eine Erinnerung an ein Ereignis in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Die betroffene Erinnerung kann nicht umfangreicher sein als etwa zwei Minuten.
+
+**Stufe 10:** Stellt eine Erinnerung an die Ereignisse eines Tages in einen frischen Zustand wieder her, solange noch ein Fragment davon vorhanden ist. Ereignisse werden erinnert, als hätten sie erst vor einer Stunde stattgefunden.
+
+#### Creo-Mentem-Zauber
+
+##### An seinen Werken
+
+**R:** Pers, **D:** Konz, **T:** Ind, **Stufe 5**
+
+Frischt eine bestimmte Erinnerung im Geist des Zaubernden auf; solange noch ein Fragment davon vorhanden ist, wird dieser Zauber sie wiederherstellen. Einmal aufgefrischt, kann der Zaubernde die vervollkommnete Erinnerung halten, solange er sich konzentriert. Das Studieren der Erinnerung erzeugt effektiv eine neue Erinnerung, die nach dem Ende des Zaubers nicht verblasst. Dieser Zauber wurde geschaffen, um Quaesitores die perfekte Erinnerung an Zauber-Sigile zu ermöglichen, denen sie begegnen. Der Zauber kann auch zum Erinnern anderer Einzelheiten eines kurzen Ereignisses genutzt werden, wie Gesichter oder Stimmen. Dieser Zauber wird häufig zur doppelten Überprüfung von Identifizierungen eingesetzt.
+
+(Basis 4, +1 Konz)
+
+##### Der Gute Zeuge
+
+**R:** Berührung, **D:** Sonne, **T:** Ind, **Stufe 25**
+
+Frischt die Erinnerung an einen Tag im Geist der Zielperson auf; solange noch ein Fragment davon vorhanden ist, wird dieser Zauber sie wiederherstellen. Die Zielperson wird beim Wirken des Zaubers gebeten, sich an ein Ereignis an dem fraglichen Tag zu erinnern. Ereignisse dieses Tages werden erinnert, als hätten sie erst vor einer Stunde stattgefunden. Je nachdem, wie lange der Tag zurückliegt, kann ein bestimmtes Ereignis vollständig verschwunden sein, abhängig davon, wie einprägsam es war. So können manche Einzelheiten perfekt erinnert werden und andere vollständig fehlen.
+
+(Basis 10, +1 Berührung, +2 Sonne)
+
 #### Intellego-Mentem-Zauber
 
 ##### Ohr der Wahrheit
@@ -2370,6 +2354,38 @@ Eine verstärkte Version von *Erkennen der wahren und trügerischen Bilder*. Du 
 Der Zaubernde kann erkennen, ob er die Wahrheit hört oder nicht. Wenn die Magieresistenz eines Sprechers den verstärkten Sinn blockiert, nimmt der Zaubernde dies als eine Abwesenheit wahr. Viele Quaesitores entwickeln eine hohe Meisterschaftsstufe für diesen Zauber und setzen ihn mit der Fähigkeit Geschärfter Sinn mit großer Wirkung ein.
 
 (Basis 10, +1 Konz, +3 Hören)
+
+#### Rego-Mentem-Zauber
+
+##### Vertrau mir
+
+**R:** Auge, **D:** Sonne, **T:** Ind, **Stufe 20**
+
+Gelegentlich muss ein Quaesitor Sterbliche direkt befragen, typischerweise Grogs und Gefährten. Dieser Zauber kann eingesetzt werden, um den Vorgang weniger aufwändig und ergiebiger zu gestalten. Der Effekt erzeugt einfach eine ausgleichende Kraft auf den Geist der Zielperson. Die Gabe selbst wird in keiner Weise beeinflusst, nur der Geist der Zielperson.
+
+Der Zauber ist so mächtig wie *Aura der rechtmäßigen Autorität*, aber subtiler. Er wirkt nur darauf hin, die Haltung der Zielperson gegenüber dem Zaubernden zu normalisieren, sie nicht gehorsam oder unnatürlich wohlgesinnt zu machen. Da die betroffene Person ihren freien Willen behält, gilt dieser Effekt nicht als Ausspähen. Eine Befragung unter Einsatz von *Aura der rechtmäßigen Autorität* gilt dagegen als Ausspähen.
+
+(Basis 5, +1 Auge, +2 Sonne)
+
+##### Das Geständnis des Büßers
+
+**R:** Auge, **D:** Konz, **T:** Ind, **Stufe 30**
+
+Die Zielperson wird wahrheitsgemäß und bereitwillig über ihre Beteiligung an allem berichten, worüber der Magus sie befragt. Die Zielperson wird ihr Bestes tun, den Magus so umfassend wie möglich zu informieren; sie wird nicht in belanglosen Details abschweifen, übermäßig wörtlich sein oder auf irgendeine andere Weise ausweichen. Sie kann verwandte Angelegenheiten zur Sprache bringen, nach denen nicht speziell gefragt wurde, wenn sie aufrichtig glaubt, dass dies von Interesse sein könnte.
+
+Dieser Effekt gilt als Ausspähen und verursacht Verzerrung, weshalb sich nur sehr wenige Magi ihm freiwillig unterziehen werden. Magi können jedoch gestatten, dass dieser Zauber auf ihre Bediensteten angewandt wird.
+
+(Basis 20, +1 Auge, +1 Konz)
+
+##### Aura der Bedeutungslosigkeit
+
+**R:** Berührung, **D:** Sonne, **T:** Spez, **Stufe 25**
+
+Gelegentlich muss ein Quaesitor Ermittlungen in der sterblichen Gesellschaft durchführen. Inspiriert durch das nicht-hermetische Ritual *Schleier aller Augen* (siehe unten) kann dieser Zauber eingesetzt werden, um das Vermeiden sterblicher Aufmerksamkeit zu unterstützen. Dieser Zauber kann entweder auf den Magus selbst oder einen Verbündeten gewirkt werden; diese Person ist der Empfänger. Zu jedem Zeitpunkt während der Wirkungsdauer des Zaubers geraten Personen unter den Einfluss dieses Zaubers, indem sie den Empfänger ansehen. Der Zauber hört auf, Personen zu beeinflussen, sobald sie wegblicken. Das Ziel des Zaubers wird als Z: Bauwerk eingestuft. Die Penetration des Zaubers sollte beim Wirken notiert werden, da sie während der gesamten Wirkungsdauer gilt.
+
+Dieser Zauber lenkt einfach beiläufige Aufmerksamkeit vom Empfänger ab. Sofern der Empfänger nicht auf sich aufmerksam macht oder ein Beobachter aktiv wachsam ist, werden die Leute ihn nicht beachten. Wenn ein Charakter einen Grund hat, aufmerksam zu sein, ist ihm ein Wah-+-Aufmerksamkeit-Wurf von 12+ erlaubt, um den Empfänger zu bemerken. Die Auffällige Gabe senkt den Schwierigkeitsgrad auf 9+. Wenn der Magus darauf achtet, unauffällig zu sein, kann der Schwierigkeitsgrad erhöht werden. Quaesitores mit fähigen Gefährten wirken diesen Zauber oft auf sich selbst, um sterbliche Ermittlungen nicht durch ihre Anwesenheit zu gefährden. Allerdings reagieren Tiere weiterhin normal auf den Magus.
+
+(Basis 3, +1 Berührung, +2 Sonne, +3 Spez)
 
 #### Intellego-Terram-Leitlinien
 
@@ -2412,6 +2428,22 @@ Wie *Traum des ruhenden Geistes*, aber auf künstliche Steinobjekte anwendbar, w
 Wie *Traum des ruhenden Geistes*, aber auch auf Metallgegenstände anwendbar. Die Kooperation des Geistes ist nicht erforderlich, aber wie immer liegt der Detailgrad der Erinnerung im Ermessen des Spielleiters.
 
 (Basis 40, +1 Berührung, +2 Sonne)
+
+#### Creo-Vim-Leitlinien
+
+**Allg:** Frischt alle Zauberspuren innerhalb des Ziels auf, die sich in negativer Magnitude befinden und weniger als die Magnitude der Leitlinie -1 betragen.
+
+#### Creo-Vim-Zauber
+
+##### Die verblichenen Fäden erneuern
+
+**R:** Berührung, **D:** Dchm, **T:** Kreis, **Stufe allg**
+
+Sobald eine Spur gefunden oder vermutet wird, wird dieser Zauber eingesetzt, um sie untersuchbar zu machen. Dieser Zauber stellt Zauberspuren vorübergehend in einen frischen Zustand wieder her (als wären sie gerade erloschen). Der Zauber stellt Zauberspuren mit negativer Magnitude bis zur Magnitude dieses Zaubers -3 wieder her. Die Spur muss noch vorhanden sein, um betroffen zu werden (Magnitude -9 oder höher). Somit ist die maximale wirksame Stufe dieses Zaubers 50.
+
+Versionen dieses Zaubers existieren auch für alle Standardziele. Die Dauer Durchmesser ist normalerweise lang genug, um Intellego-Vim-Untersuchungen der Zauberspuren durchzuführen.
+
+(Basis, +1 Berührung, +1 Dchm)
 
 #### Intellego-Vim-Leitlinien
 
@@ -2489,38 +2521,6 @@ Dieser Zauber löst jeden aktiven Vim-Effekt innerhalb des Kreises auf, dessen Z
 Als Tribunalsstrafe eingesetzt, erfordert dieser Zauber die aktive Mitwirkung des verurteilten Magus. Die Bande zwischen Magus und Vertrautem werden dauerhaft durchtrennt, wenn das Doppelte der Stufe dieses Zaubers + ein Stresswürfel (kein Patzer) die höchste dem Vertrauten gegebene Verzauberung übersteigt (dies kann die Verzauberung der Vertrautenbindung sein). Dies ist eine überaus schmerzhafte und emotional traumatisierende Erfahrung für beide Seiten. Nach der Durchtrennung der Bande empfinden sowohl der Magus als auch der ehemalige Vertraute die Gegenwart des anderen als unerträglich. Ein Vertrauter flieht normalerweise in die Wildnis und meidet jeden künftigen Kontakt mit Magi. Der ehemalige Vertraute kann üblicherweise nicht erneut gebunden werden.
 
 (Basis, +1 Berührung)
-
-#### Rego-Mentem-Zauber
-
-##### Vertrau mir
-
-**R:** Auge, **D:** Sonne, **T:** Ind, **Stufe 20**
-
-Gelegentlich muss ein Quaesitor Sterbliche direkt befragen, typischerweise Grogs und Gefährten. Dieser Zauber kann eingesetzt werden, um den Vorgang weniger aufwändig und ergiebiger zu gestalten. Der Effekt erzeugt einfach eine ausgleichende Kraft auf den Geist der Zielperson. Die Gabe selbst wird in keiner Weise beeinflusst, nur der Geist der Zielperson.
-
-Der Zauber ist so mächtig wie *Aura der rechtmäßigen Autorität*, aber subtiler. Er wirkt nur darauf hin, die Haltung der Zielperson gegenüber dem Zaubernden zu normalisieren, sie nicht gehorsam oder unnatürlich wohlgesinnt zu machen. Da die betroffene Person ihren freien Willen behält, gilt dieser Effekt nicht als Ausspähen. Eine Befragung unter Einsatz von *Aura der rechtmäßigen Autorität* gilt dagegen als Ausspähen.
-
-(Basis 5, +1 Auge, +2 Sonne)
-
-##### Das Geständnis des Büßers
-
-**R:** Auge, **D:** Konz, **T:** Ind, **Stufe 30**
-
-Die Zielperson wird wahrheitsgemäß und bereitwillig über ihre Beteiligung an allem berichten, worüber der Magus sie befragt. Die Zielperson wird ihr Bestes tun, den Magus so umfassend wie möglich zu informieren; sie wird nicht in belanglosen Details abschweifen, übermäßig wörtlich sein oder auf irgendeine andere Weise ausweichen. Sie kann verwandte Angelegenheiten zur Sprache bringen, nach denen nicht speziell gefragt wurde, wenn sie aufrichtig glaubt, dass dies von Interesse sein könnte.
-
-Dieser Effekt gilt als Ausspähen und verursacht Verzerrung, weshalb sich nur sehr wenige Magi ihm freiwillig unterziehen werden. Magi können jedoch gestatten, dass dieser Zauber auf ihre Bediensteten angewandt wird.
-
-(Basis 20, +1 Auge, +1 Konz)
-
-##### Aura der Bedeutungslosigkeit
-
-**R:** Berührung, **D:** Sonne, **T:** Spez, **Stufe 25**
-
-Gelegentlich muss ein Quaesitor Ermittlungen in der sterblichen Gesellschaft durchführen. Inspiriert durch das nicht-hermetische Ritual *Schleier aller Augen* (siehe unten) kann dieser Zauber eingesetzt werden, um das Vermeiden sterblicher Aufmerksamkeit zu unterstützen. Dieser Zauber kann entweder auf den Magus selbst oder einen Verbündeten gewirkt werden; diese Person ist der Empfänger. Zu jedem Zeitpunkt während der Wirkungsdauer des Zaubers geraten Personen unter den Einfluss dieses Zaubers, indem sie den Empfänger ansehen. Der Zauber hört auf, Personen zu beeinflussen, sobald sie wegblicken. Das Ziel des Zaubers wird als Z: Bauwerk eingestuft. Die Penetration des Zaubers sollte beim Wirken notiert werden, da sie während der gesamten Wirkungsdauer gilt.
-
-Dieser Zauber lenkt einfach beiläufige Aufmerksamkeit vom Empfänger ab. Sofern der Empfänger nicht auf sich aufmerksam macht oder ein Beobachter aktiv wachsam ist, werden die Leute ihn nicht beachten. Wenn ein Charakter einen Grund hat, aufmerksam zu sein, ist ihm ein Wah-+-Aufmerksamkeit-Wurf von 12+ erlaubt, um den Empfänger zu bemerken. Die Auffällige Gabe senkt den Schwierigkeitsgrad auf 9+. Wenn der Magus darauf achtet, unauffällig zu sein, kann der Schwierigkeitsgrad erhöht werden. Quaesitores mit fähigen Gefährten wirken diesen Zauber oft auf sich selbst, um sterbliche Ermittlungen nicht durch ihre Anwesenheit zu gefährden. Allerdings reagieren Tiere weiterhin normal auf den Magus.
-
-(Basis 3, +1 Berührung, +2 Sonne, +3 Spez)
 
 ## Fenicils Rituale
 
@@ -3217,18 +3217,6 @@ Dieser Zauber erzeugt eine nahezu perfekte Kopie des Einbands und jeder Seite ei
 
 (Basis 5, +1 Berührung, +2 Gruppe, +5 Komplexität, +1 Requisiten; Verstärkt)
 
-#### Intellego Terram Mutantum-Zauber
-
-##### Den wahren Pfad erspüren
-
-**R:** Arkane Verbindung, **D:** Konzentration, **T:** Ind, **Level 15**
-
-Du kannst die Richtung jedes Ortes erspüren, zu dem du eine Arkane Verbindung besitzt. Du spürst einen instinktiven Zug zu seiner relativen Position, während du dich konzentrierst, obwohl du einfache Wahrnehmungswürfe gegen einen Schwierigkeitsgrad von 6+ ablegen musst, um auf dem Weg zu bleiben, wenn du zu Fuß durch Wälder oder Unterholz reist, und falls sich dein Ziel bewegt, steigt der Schwierigkeitsgrad dieses Wurfs je nach Geschwindigkeit.
-
-Der Zauber ist gefesselt, sodass er von einem anderen kontrolliert werden kann, und verstärkt, sodass er bei Bedarf länger andauern kann.
-
-(Basis 2, +4 Arkane Verbindung, +1 Konzentration; Verstärkt, Gefesselt)
-
 #### Muto Animal Mutantum-Zauber
 
 ##### Der verwandelte Foliant
@@ -3239,6 +3227,16 @@ Dieser Zauber verwandelt alle Seiten eines Buches für die Dauer des Zaubers in 
 (Basis 1, +1 Berührung, +4 Jahr, +2 Gruppe, +5 Komplexität; Verstärkt, Gezügelt)
 
 Der unermüdliche Flug ([S. 102](#der-unermüdliche-flug)): Ändere die Berechnungsinformationen wie folgt: (Basis 10, +1 Berührung, +1 Konzentration; Verstärkt, Gezügelt, Gefesselt) 
+
+#### Perdo Animal Mutantum-Zauber
+
+##### Tödlicher Pfeil des Jägers
+
+**R:** Berührung, **D:** Durchmesser, **T:** Ind, **Level 40**
+
+Dieser Zauber fügt einem Tier eine tödliche Wunde zu, als wäre ihm das Herz durchbohrt worden. Den Zauber zu wirken, während man beabsichtigt, das Tier zu berühren, ist gefährlich, da es mehrere Minuten dauern kann, bis es stirbt, und es in dieser Zeit wild um sich schlagen oder den Zauberer angreifen kann. Aus diesem Grund fesseln Milvi den Zauber gewöhnlich an einen Pfeil oder Wurfspeer (obwohl jede Art von Fessel verwendet werden kann), was es ihnen erlaubt, ihn im Verborgenen aus sicherer Entfernung zu wirken. Das Tier wird sterben, nachdem es getroffen wurde, und die verlängerte Dauer stellt sicher, dass der Zauberer nach dem Wirken des Zaubers genug Zeit hat, den Pfeil abzuschießen.
+
+(Basis 30, +1 Berührung, +1 Durchmesser; Gefesselt)
 
 #### Muto Corpus Mutantum-Zauber
 
@@ -3252,16 +3250,6 @@ Du verwandelst das Ziel in einen Habicht, Milan oder anderen kleinen Greifvogel,
 
 (Basis 20, +1 Berührung, +3 Mond; Gezügelt, Gefesselt)
 
-#### Perdo Animal Mutantum-Zauber
-
-##### Tödlicher Pfeil des Jägers
-
-**R:** Berührung, **D:** Durchmesser, **T:** Ind, **Level 40**
-
-Dieser Zauber fügt einem Tier eine tödliche Wunde zu, als wäre ihm das Herz durchbohrt worden. Den Zauber zu wirken, während man beabsichtigt, das Tier zu berühren, ist gefährlich, da es mehrere Minuten dauern kann, bis es stirbt, und es in dieser Zeit wild um sich schlagen oder den Zauberer angreifen kann. Aus diesem Grund fesseln Milvi den Zauber gewöhnlich an einen Pfeil oder Wurfspeer (obwohl jede Art von Fessel verwendet werden kann), was es ihnen erlaubt, ihn im Verborgenen aus sicherer Entfernung zu wirken. Das Tier wird sterben, nachdem es getroffen wurde, und die verlängerte Dauer stellt sicher, dass der Zauberer nach dem Wirken des Zaubers genug Zeit hat, den Pfeil abzuschießen.
-
-(Basis 30, +1 Berührung, +1 Durchmesser; Gefesselt)
-
 #### Rego Corpus Mutantum-Zauber
 
 ##### Der unermüdliche Flug
@@ -3273,6 +3261,18 @@ Das Ziel spürt für die Dauer des Zaubers keine Erschöpfung, was es ihm erlaub
 Der Zauber ist gefesselt, sodass das Ziel den Effekt kontrollieren kann, was es ihm erlaubt, die Konzentration zu beenden, wenn es sein Ziel erreicht hat und Zeit zur Erholung hat. Er ist auch verstärkt, sodass die Dauer bei Bedarf auf bis zu einen Monat verlängert werden kann, und gezügelt, sodass das Ziel ihn trotzdem jederzeit nach Belieben beenden kann.
 
 (Basis 10, +1 Berührung, +3 Mond; Verstärkt, Gezügelt, Gefesselt)
+
+#### Intellego Terram Mutantum-Zauber
+
+##### Den wahren Pfad erspüren
+
+**R:** Arkane Verbindung, **D:** Konzentration, **T:** Ind, **Level 15**
+
+Du kannst die Richtung jedes Ortes erspüren, zu dem du eine Arkane Verbindung besitzt. Du spürst einen instinktiven Zug zu seiner relativen Position, während du dich konzentrierst, obwohl du einfache Wahrnehmungswürfe gegen einen Schwierigkeitsgrad von 6+ ablegen musst, um auf dem Weg zu bleiben, wenn du zu Fuß durch Wälder oder Unterholz reist, und falls sich dein Ziel bewegt, steigt der Schwierigkeitsgrad dieses Wurfs je nach Geschwindigkeit.
+
+Der Zauber ist gefesselt, sodass er von einem anderen kontrolliert werden kann, und verstärkt, sodass er bei Bedarf länger andauern kann.
+
+(Basis 2, +4 Arkane Verbindung, +1 Konzentration; Verstärkt, Gefesselt)
 
 ### Andere Zauber
 
@@ -3539,33 +3539,33 @@ Indem du einen Bauern Vis beim Wirken formulaischer Zauber einsetzt, kannst du d
 Du bist ungewöhnlich empfindlich für rohes Vis und kannst allein durch Berührung feststellen, ob ein Gegenstand welches enthält. Du kannst auch bestimmen, wie viele Bauern er wert ist, indem du ihn in der Hand wiegst, und die zugehörige Kunst durch genaue Untersuchung ermitteln. Auf diese Weise kannst du magische Gegenstände, aktive Rituale, Vertraute und andere Objekte erkennen, die Vis zu ihrer Herstellung benötigen, obwohl du sie nicht identifizieren oder bestimmte Details über sie ermitteln kannst. Du darfst auch ohne Kosten die Tugend Magiegespür zu Spielbeginn nehmen. Magiegespür ist nicht verpflichtend, wenn du den Abzug auf die Magieresistenz nicht wünschst.
 
 > ## Fehler
->
+> 
 > **GESCHICHTE, GROSS**
->
+> 
 > Heide
->
-> **GESCHICHTE, KLEIN**
->
-> Hermetischer Patron
->
-> Vermächtnis
->
+> 
 > **HERMETISCH, KLEIN**
->
+> 
 > Gebundene Magie
->
+> 
 > Gekettete Magie
->
+> 
 > Illegitime Abstammung
->
+> 
 > **HEROISCH, KLEIN**
->
+> 
 > Heroische Persönlichkeit
->
+> 
 > Tragische (Eigenschaft)
->
+> 
+> **GESCHICHTE, KLEIN**
+> 
+> Hermetischer Patron
+> 
+> Vermächtnis
+> 
 > **STATUS, KLEIN**
->
+> 
 > Wucherer
 
 
@@ -4173,166 +4173,166 @@ Manche Tremere-Magi sind geschickt darin, Träume zu beherrschen. Viele Menschen
 > Tremere-Magi haben festgestellt, dass es viele Arten von Geistern gibt. Die häufigsten, jene die der Magiesphäre zugehören, sind an die Welt gebunden, entweder durch unerledigte Angelegenheiten oder durch eine Last der Sünde. Viele Geister in Transsilvanien können dauerhafte, feste Formen annehmen. Diese sind nicht von den dunklen Feen Westeuropas zu unterscheiden. Warum bestimmte Todesarten Feen erschaffen, während andere Geister erzeugen, ist den Tremere-Magi nicht klar. Sie sind daran interessiert, Forschung zu dieser Frage zu fördern. Es ist Tremere-Magi verboten, die Geister der Verdammten zu beschwören, da dies den Kodex bricht. Viele Tremere betrachten Heilige als besonders mächtige Geister, doch die Beschwörung von Heiligen funktioniert nicht.
 > 
 > #### Legionär
->
+> 
 > Dieser Geist ist typisch für die gefallenen Legionäre, die in Westeuropa beschworen werden. Viele verschwinden nach ihrem ersten Sieg im Kampf, aber ein kleiner Teil fühlt sich verpflichtet, Rom zu verteidigen, und unternimmt nächtliche Pilgerreisen zur Ewigen Stadt, wobei sie sich am Ende ihrer Suche im Dominium auflösen.
->
-> **Alter:** Scheint zwischen 16 und 35 zu sein
->
-> **Ausrüstung:** Waffen und Ausrüstung eines römischen Soldaten
->
-> **Belastung:** 0 (0)
->
-> **Eigenschaften:** Int 0, Wah 0, Prä 0, Kom 0, Stä +2, Aus +2, Ges +2, Sck +1
->
-> **Erscheinungsbild:** Unterschiedlich: gewöhnlich ein kräftiger junger Mann in antiker Rüstung, gelegentlich aber ein skelettierter oder verwesender Leichnam in verrosteter Rüstung und zerfetzter Kleidung.
->
-> **Erschöpfungsstufen:** Unermüdlich
->
-> **Fertigkeiten:** \[Gebiets-\]Kunde 3 (antike Befestigungen), Athletik 3 (Marschieren), Aufmerksamkeit 3 (im Kampf), Feilschen 2 (für Vorräte), Raufen 4 (Dolch), Zechen 3 (Trinken), Charme 2 (Gegengeschlecht), Latein 5 (Militärjargon), Legionskunde 2 (Sold und Bedingungen), Beruf (Soldat) 4 (Befestigungen), Einzelwaffe 5 (Kurzschwert), Überleben 1 (Nahrungssuche), Wurfwaffe 4 (Wurfspeer)
->
-> **Gebrechlichkeit:** n/v
->
-> **Größe:** 0
->
-> **Kampf:**
->
-> *Schwert (Gladius) und Rechteckschild (Scutum):* Init +2, Ang +11, Vert +12, Sch +7.
->
-> *Dolch (Pugio):* Init 1, Ang +9, Vert +6, Sch +5 *Wurfspeer (Pilum):* Init +1, Ang +9, Vert +10, Sch +7
->
-> **Kräfte:**
->
-> *Schlag:* 0 Punkte, Terram: Der Zenturio kann durch einen einzelnen Besitz auf die Welt einwirken. Bei den meisten ist dies ein Gladius: ein römisches Schwert.
->
+> 
 > **Machtwert:** 10 (Mentem)
->
-> **Persönlichkeitseigenschaften:** Loyal +3
->
-> **Reputationen:** n/v
->
-> **Schadensabsorption:** Variiert nach historischer Epoche je nach Rüstung: Kette 6, Platte 9, Schuppen 8, einschließlich Ausdauerbonus. Immun gegen physische Waffen.
->
-> **Tugenden und Fehler:** n/v
->
-> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
->
-> #### Kataphraktos
->
-> Kataphrakten sind die berittenen Krieger des Oströmischen Reiches. Im Westen findet man sie an einer Handvoll Orte, zurückgelassen nach Justinians imperialem Abenteuer im sechsten Jahrhundert. Im Westen aufgefundene Kataphrakten sind für das Haus besonders nützlich. Ihre unerledigte Aufgabe ist oft der Wiederaufbau des Reiches: eine Aufgabe, der die Tremere nicht entgegenstehen. Das Haus rekrutiert geisterhafte Kataphrakten, wo es kann, und lenkt die übrigen über die Grenze ins Tribunal von Theben, wo sie die lateinischen Eroberer bedrängen. Die hier aufgeführten Werte gelten für einen jungen Kataphrakten mit Grundausbildung, aber wenig Kampferfahrung.
->
-> **Alter:** Scheint 20
->
-> **Ausrüstung:** Volle Kettenrüstung, Kavallerieschwert, mittelgroßer Schild, Bogen, Lanze.
->
-> **Belastung:** 0 (0)
->
-> **Eigenschaften:** Int 0, Wah +1, Prä 0, Kom 0, Stä +1, Aus +1, Ges +2, Sck +2
->
-> **Erschöpfungsstufen:** Unermüdlich
->
-> **Fertigkeiten:** Tierumgang 2 (Pferde), \[Gebiets-\]Kunde 3 (Standort), Athletik 2 (Wandern), Aufmerksamkeit 3 (Schlacht), Bogenschießen 5 (Kurzbogen), Raufen 1 (Dolch), Chirurgie 1 (Pfeilwunden), Etikette (archaisch byzantinisch) 3, Jagen 2 (variiert je nach Standort), Intrige 1 (byzantinischer Hof), Führung 4 (Soldaten), Kunde der Römischen Armee 2 (Pflichten der Offiziere), Griechisch 5 (Befehle erteilen), Reiten 5 (im Kampf), Einzelwaffe 5 (Spatha), Überleben 1 (Wüsten),
->
-> **Gebrechlichkeit:** n/v
->
+> 
+> **Eigenschaften:** Int 0, Wah 0, Prä 0, Kom 0, Stä +2, Aus +2, Ges +2, Sck +1
+> 
 > **Größe:** 0
->
+> 
+> **Alter:** Scheint zwischen 16 und 35 zu sein
+> 
+> **Gebrechlichkeit:** n/v
+> 
+> **Tugenden und Fehler:** n/v
+> 
+> **Persönlichkeitseigenschaften:** Loyal +3
+> 
+> **Reputationen:** n/v
+> 
 > **Kampf:**
->
-> *Kavallerieschwert (Spatha) und Schild (beritten):* Init +4, Ang +15, Vert +14, Sch +7
->
-> *Kavallerieschwert (Spatha) und Schild (zu Fuß):* Init +4, Ang +12, Vert +11, Sch +7
->
-> *Lanze (beritten):* Init +4, Ang +17, Vert +8, Sch +6\* *Bogen (beritten):* Init +1, Ang +14, Vert +11, Sch +7 *Bogen (zu Fuß):* Init +1, Ang +11, Vert +8, Sch +7
->
-> *Dolch:* Init +2, Ang +7, Vert +5, Sch: +4
->
-> \* Kataphrakten greifen in enger Formation langsam an, da ihnen Steigbügel fehlen.
->
-> **Machtwert:** 15 (Mentem)
->
-> **Persönlichkeitseigenschaften:** Loyal +3, Stolz +2
->
-> **Reputationen**: n/v
->
-> **Schadensabsorption:** gewöhnlich +10 für Kettenrüstung oder +8 für Schuppenrüstung. Seltene Exemplare mit Plattenrüstung (+12) sind bekannt.
->
-> **Tugenden und Fehler:** Verbesserte Eigenschaften
->
-> **Vis:** 2 Bauern Mentem, Verlobungsring oder Andenken. **Erscheinungsbild:** Ein eindrucksvoller Krieger, von seiner Rüstung verborgen. Manchmal enthält die Rüstung ein ätherisches Skelett. Manchmal ist sie leer.
->
-> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20) 
->
-> #### Wili
->
-> Diese dunklen Feen sind die Geister von Mädchen, die am Tag ihrer Hochzeit starben. Man findet sie oft auf Friedhöfen, einzeln oder in Gruppen, wo sie versuchen, junge Männer dazu zu überreden, sie zu küssen. Ein Rudel Wili kann einem jungen Mann in wenigen Minuten den Lebensatem entziehen. Das Haus setzt Wili als Attentäterinnen ein. Die meisten Wili wollen mit ihrem Verlobten wiedervereint werden, doch das ist gewöhnlich unmöglich. Die Vernichtung ihres Geliebten vertreibt manche. Die meisten können exorziert werden.
->
-> **Alter:** Scheint 16
->
-> **Ausrüstung:** Trägt das wunderschöne Kleid, in dem sie begraben wurde. Trägt wahrscheinlich ein Medaillon, Kreuz, Haarband oder anderes Andenken ihres Verlobten.
->
-> **Belastung:** 0 (0)
->
-> **Eigenschaften:** Int 0, Wah +1, Prä +3, Kom +1, Stä +1,
->
-> Aus 0, Ges 0, Sck 0
->
+> 
+> *Schwert (Gladius) und Rechteckschild (Scutum):* Init +2, Ang +11, Vert +12, Sch +7.
+> 
+> *Dolch (Pugio):* Init 1, Ang +9, Vert +6, Sch +5 *Wurfspeer (Pilum):* Init +1, Ang +9, Vert +10, Sch +7
+> 
+> **Schadensabsorption:** Variiert nach historischer Epoche je nach Rüstung: Kette 6, Platte 9, Schuppen 8, einschließlich Ausdauerbonus. Immun gegen physische Waffen.
+> 
 > **Erschöpfungsstufen:** Unermüdlich
+> 
+> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
+> 
+> **Fertigkeiten:** \[Gebiets-\]Kunde 3 (antike Befestigungen), Athletik 3 (Marschieren), Aufmerksamkeit 3 (im Kampf), Feilschen 2 (für Vorräte), Raufen 4 (Dolch), Zechen 3 (Trinken), Charme 2 (Gegengeschlecht), Latein 5 (Militärjargon), Legionskunde 2 (Sold und Bedingungen), Beruf (Soldat) 4 (Befestigungen), Einzelwaffe 5 (Kurzschwert), Überleben 1 (Nahrungssuche), Wurfwaffe 4 (Wurfspeer)
+> 
+> **Kräfte:**
+> 
+> *Schlag:* 0 Punkte, Terram: Der Zenturio kann durch einen einzelnen Besitz auf die Welt einwirken. Bei den meisten ist dies ein Gladius: ein römisches Schwert.
+> 
+> **Ausrüstung:** Waffen und Ausrüstung eines römischen Soldaten
+> 
+> **Belastung:** 0 (0)
+> 
+> **Erscheinungsbild:** Unterschiedlich: gewöhnlich ein kräftiger junger Mann in antiker Rüstung, gelegentlich aber ein skelettierter oder verwesender Leichnam in verrosteter Rüstung und zerfetzter Kleidung.
+> 
+> #### Kataphraktos
+> 
+> Kataphrakten sind die berittenen Krieger des Oströmischen Reiches. Im Westen findet man sie an einer Handvoll Orte, zurückgelassen nach Justinians imperialem Abenteuer im sechsten Jahrhundert. Im Westen aufgefundene Kataphrakten sind für das Haus besonders nützlich. Ihre unerledigte Aufgabe ist oft der Wiederaufbau des Reiches: eine Aufgabe, der die Tremere nicht entgegenstehen. Das Haus rekrutiert geisterhafte Kataphrakten, wo es kann, und lenkt die übrigen über die Grenze ins Tribunal von Theben, wo sie die lateinischen Eroberer bedrängen. Die hier aufgeführten Werte gelten für einen jungen Kataphrakten mit Grundausbildung, aber wenig Kampferfahrung.
+> 
+> **Machtwert:** 15 (Mentem)
+> 
+> **Eigenschaften:** Int 0, Wah +1, Prä 0, Kom 0, Stä +1, Aus +1, Ges +2, Sck +2
+> 
+> **Größe:** 0
+> 
+> **Alter:** Scheint 20
+> 
+> **Gebrechlichkeit:** n/v
+> 
+> **Tugenden und Fehler:** Verbesserte Eigenschaften
+> 
+> **Persönlichkeitseigenschaften:** Loyal +3, Stolz +2
+> 
+> **Reputationen**: n/v
+> 
+> **Kampf:**
+> 
+> *Kavallerieschwert (Spatha) und Schild (beritten):* Init +4, Ang +15, Vert +14, Sch +7
+> 
+> *Kavallerieschwert (Spatha) und Schild (zu Fuß):* Init +4, Ang +12, Vert +11, Sch +7
+> 
+> *Lanze (beritten):* Init +4, Ang +17, Vert +8, Sch +6\* *Bogen (beritten):* Init +1, Ang +14, Vert +11, Sch +7 *Bogen (zu Fuß):* Init +1, Ang +11, Vert +8, Sch +7
+> 
+> *Dolch:* Init +2, Ang +7, Vert +5, Sch: +4
+> 
+> \* Kataphrakten greifen in enger Formation langsam an, da ihnen Steigbügel fehlen.
+> 
+> **Schadensabsorption:** gewöhnlich +10 für Kettenrüstung oder +8 für Schuppenrüstung. Seltene Exemplare mit Plattenrüstung (+12) sind bekannt.
+> 
+> **Erschöpfungsstufen:** Unermüdlich
+> 
+> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20) 
+> 
+> **Fertigkeiten:** Tierumgang 2 (Pferde), \[Gebiets-\]Kunde 3 (Standort), Athletik 2 (Wandern), Aufmerksamkeit 3 (Schlacht), Bogenschießen 5 (Kurzbogen), Raufen 1 (Dolch), Chirurgie 1 (Pfeilwunden), Etikette (archaisch byzantinisch) 3, Jagen 2 (variiert je nach Standort), Intrige 1 (byzantinischer Hof), Führung 4 (Soldaten), Kunde der Römischen Armee 2 (Pflichten der Offiziere), Griechisch 5 (Befehle erteilen), Reiten 5 (im Kampf), Einzelwaffe 5 (Spatha), Überleben 1 (Wüsten),
+> 
+> **Ausrüstung:** Volle Kettenrüstung, Kavallerieschwert, mittelgroßer Schild, Bogen, Lanze.
+> 
+> **Belastung:** 0 (0)
+> 
+> **Vis:** 2 Bauern Mentem, Verlobungsring oder Andenken. **Erscheinungsbild:** Ein eindrucksvoller Krieger, von seiner Rüstung verborgen. Manchmal enthält die Rüstung ein ätherisches Skelett. Manchmal ist sie leer.
+> 
+> #### Wili
+> 
+> Diese dunklen Feen sind die Geister von Mädchen, die am Tag ihrer Hochzeit starben. Man findet sie oft auf Friedhöfen, einzeln oder in Gruppen, wo sie versuchen, junge Männer dazu zu überreden, sie zu küssen. Ein Rudel Wili kann einem jungen Mann in wenigen Minuten den Lebensatem entziehen. Das Haus setzt Wili als Attentäterinnen ein. Die meisten Wili wollen mit ihrem Verlobten wiedervereint werden, doch das ist gewöhnlich unmöglich. Die Vernichtung ihres Geliebten vertreibt manche. Die meisten können exorziert werden.
+> 
+> **Machtwert:** 15 (Mentem)
+> 
+> **Eigenschaften:** Int 0, Wah +1, Prä +3, Kom +1, Stä +1,
+> 
+> Aus 0, Ges 0, Sck 0
+> 
+> **Größe:** 0
+> 
+> **Alter:** Scheint 16
+> 
+> **Gebrechlichkeit:** n/v
+> 
+> **Tugenden und Fehler:** n/v
+> 
+> **Persönlichkeitseigenschaften:** Einsam +5
+> 
+> **Reputationen:** Mörderisch +1
+> 
+> **Kampf:** n/v: Wili können nicht körperlich angreifen. **Schadensabsorption:** 0, immun gegen physische Waffen.
+> 
+> **Erschöpfungsstufen:** Unermüdlich
+> 
+> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20) 
 >
 > **Fertigkeiten:** Variieren je nach Lebensstand
->
-> **Gebrechlichkeit:** n/v
->
-> **Größe:** 0
->
-> **Kampf:** n/v: Wili können nicht körperlich angreifen. **Schadensabsorption:** 0, immun gegen physische Waffen.
->
+> 
 > **Kräfte:**
->
+> 
 > *Schweben*, 0 Punkte, Mentem: Wili können in Schrittgeschwindigkeit durch die Luft schweben.
->
+> 
 > *Körperlos,* 0 Punkte, Mentem: Dieser Geist ist körperlos, wenn sie es wünscht, und fest, wenn sie es begehrt.
->
+> 
 > *Augen, in denen man alles vergessen kann*, 5 Punkte, Init +5, Mentem: Wenn die Wili Blickkontakt mit einem jungen Mann herstellt, kann sie seinen Verstand umnebeln, sodass er jede Warnung vergisst, die man ihm über die Wili gegeben hat. Er kann sich mit einem Intelligenz-Wurf von 9+ schützen, der ihn daran erinnert, dem Mädchen auf dem Friedhof nicht in die Augen zu schauen.
->
+> 
 > *Kuss:* 5 Punkte, Corpus: Wenn die Wili ein bereitwilliges Opfer küsst oder eines, das durch ihre betörenden Augen gefügig gemacht wurde, stiehlt sie dem Charakter dauerhaft eine Erschöpfungsstufe und erhält all ihre Machtpunkte zurück. Jede Wili kann ein Opfer nur einmal pro Tag aussaugen, aber ein Rudel Wili kann einen Mann in einer einzigen Runde von Küssen töten.
->
+> 
 > Wenn ein Mann eine Wili küsst, wird sein Verstand umnebelt. Er weiß, dass die Wili ein Geist ist, der ihn mit ihren Küssen tötet, doch er kann sich nicht dazu bringen, ihr nächstes Stelldichein zu meiden. Sofern der Mann keinen Intelligenz-Wurf von 9+ schafft, tut er alles in seiner Macht Stehende, um die Wili wiederzutreffen. Freunde können diesen Bann mit Hilfe eines Priesters brechen, wonach der Mann nach jeder Nacht der Ruhe eine Erschöpfungsstufe zurückgewinnt. Manche Wili töten mit dem zweiten Kuss, andere entziehen eine weitere Erschöpfungsstufe.
->
-> **Machtwert:** 15 (Mentem)
->
-> **Persönlichkeitseigenschaften:** Einsam +5
->
-> **Reputationen:** Mörderisch +1
->
-> **Tugenden und Fehler:** n/v
->
+> 
+> **Ausrüstung:** Trägt das wunderschöne Kleid, in dem sie begraben wurde. Trägt wahrscheinlich ein Medaillon, Kreuz, Haarband oder anderes Andenken ihres Verlobten.
+> 
+> **Belastung:** 0 (0)
+> 
 > **Vis:** 2 Bauern Mentem, Verlobungsring oder Andenken. **Erscheinungsbild:** Ein schönes, wenn auch trauriges Mädchen in einem wallenden weißen Kleid, trauernd an einer frischen Grabstätte.
->
-> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20) 
->
+> 
 > #### Moro
->
+> 
 > Moro sind Vampire, die entstehen, wenn Eltern ihre Kinder durch Aussetzung töten. Sie können die Gestalt von Schmetterlingen annehmen und Blut trinken, aber der Verlust ist vernachlässigbar. Sie können das Leben selbst entziehen, eine Kraft, gegen die Kinder besonders anfällig sind. Die meisten Moro wollen Rache an ihren Eltern, was die Tremere ihnen zu gewähren für nur gerecht halten.
->
-> **Alter:** Scheint ein Säugling zu sein
->
-> **Eigenschaften:** Int +1, Wah 0, Prä -2, Kom 0, Stä -1,
->
-> Aus -1, Ges 0, Sck 0
->
-> **Gebrechlichkeit:** n/v
->
-> **Größe:** -2 (Säuglingsgestalt), -4 (Insektengestalt)
->
-> **Kampf:** n/v, Moro greifen nur heimlich an.
+> 
 > **Machtwert:** 20 (Animal)
->
-> **Persönlichkeitseigenschaften:** Rachsüchtig +5
->
-> **Reputationen:** Vampir +5
->
+> 
+> **Eigenschaften:** Int +1, Wah 0, Prä -2, Kom 0, Stä -1,
+> 
+> Aus -1, Ges 0, Sck 0
+> 
+> **Größe:** -2 (Säuglingsgestalt), -4 (Insektengestalt)
+> 
+> **Alter:** Scheint ein Säugling zu sein
+> 
+> **Gebrechlichkeit:** n/v
+> 
 > **Tugenden und Fehler:** n/v
->
+> 
+> **Persönlichkeitseigenschaften:** Rachsüchtig +5
+> 
+> **Reputationen:** Vampir +5
+> 
+> **Kampf:** n/v, Moro greifen nur heimlich an.
 
 **Schadensabsorption:** 0, immun gegen normale Waffen.
 > 
@@ -4365,109 +4365,109 @@ Haus Tremere besitzt keine detaillierte Doktrin für magische Reittiere. Es ist 
 > Tremere-Magi fangen und studieren häufig die magischen Tiere, denen sie begegnen, und fügen sie den Ressourcen des Hauses hinzu. Verfügt ein Konvent über eine Population interessanter Tiere, vielleicht als Vis-Quelle, kann ein junger Tremere-Magus entsandt werden, um deren Nützlichkeit zu bestimmen. Erweisen sie sich als wertvoll, wird der Magus lebende Exemplare für seine Vorgesetzten beschaffen wollen. Das Haus könnte auch Zuchtpaare sichern, um neue Kolonien der Tiere bei einem Haus-Konvent anzusiedeln.
 > 
 > ### Gemeine Weiße Wölfe
->
+> 
 > Es gibt mehrere Arten magischer Wölfe, die dem Haus in seinen Rudeln dienen, aber dieser Typ, abstammend von Tremeres Vertrautem, ist der häufigste.
->
-> **Ausrüstung:** Keine.
->
-> **Belastung:** 0 (0)
->
+> 
+> **Machtwert:** 10 (Animal)
+> 
 > **Eigenschaften:** Int +1, Wah +3, Prä +1, Kom +1, Stä +2, Aus +2, Ges +2, Sck +2
->
-> **Erscheinungsbild:** Großer Wolf, weiß bis grau im Fell, der amüsiert dreinschaut.
->
-> **Erschöpfungsstufen:** 0,-1/-1,-3/-3,-5,Bewusstlos
->
-> **Fertigkeiten:** \[Gebiets-\]Kunde 6 (Rudelland), Raufen 3 (Biss), Menschenkenntnis (Tremere-Magi) 3, Jagen 6 (im Rudel), Latein\* 3 (hermetische Begriffe). Schleichen (Wälder) 3, Schwimmen (Seen) 1, Überleben 6 (Wälder)
->
-> \* Kann ohne magische Unterstützung kein Latein sprechen, aber manche Rudel sind darauf trainiert, es zu verstehen, durch Vertraute, die es können.
->
-> **Gebrechlichkeit:** n/v
->
+> 
 > **Größe:** 1 **Alter:** n/v
->
-> **Kampf:**
->
-> *Biss:* Init +12, Ang +10, Vert +14, Sch +9
->
-> **Kräfte:**
->
-> *Stimmendiebstahl,* 1 Punkt, Init +10, Mentem: Der Wolf kann jedem Menschen die Stimme stehlen, mit dem er Blickkontakt herstellt. Die Wirkung dauert gewöhnlich bis zum nächsten Sonnenaufgang, obwohl manche einzelnen Wölfe abweichende Kräfte haben, sodass die Wirkung beim Überqueren eines Baches, beim Betreten einer Kirche oder bei Feuerschein endet.
->
-> *Augen wie Laternen,* 5 Punkte, Init +5, Mentem: Der Wolf kann ein Opfer mit Furcht lähmen. Dies erfordert, dass der Wolf Blickkontakt herstellt und das Opfer einen Tapfer-Wurf mit einem Schwierigkeitsgrad von 9+ nicht besteht. Ein Opfer, das Blickkontakt mit mehreren Wölfen herstellt, muss möglicherweise mehrere Würfe ablegen. Das Opfer darf jede Runde einen neuen Wurf ablegen, wenn es angegriffen wird, mit einem Schwierigkeitsgrad von 6+, weshalb Wölfe dazu neigen, einen Kreis um ein hypnotisiertes Opfer zu bilden und alle gleichzeitig anzuspringen. Schlagen oder Schütteln des Opfers erlaubt ebenfalls einen Wurf, gegen einen Schwierigkeitsgrad von 6+.
->
-> **Machtwert:** 10 (Animal)
->
-> **Persönlichkeitseigenschaften:** Loyal +2, Amüsiert über Menschen +1
->
-> **Reputationen:** Keine
->
-> **Schadensabsorption:** +7
->
-> **Tugenden und Fehler:** Die Tugend Visionen kommt unter diesen Wölfen gelegentlich vor.
->
-> **Vis:** 1 Bauer Animal, Schwanz
->
-> **Wundabzüge**: -1 (1-6), -3 (7-12), -5 (13-18), Kampfunfähig (19-24) 
->
-> Weiße Wölfe sind weit größer als normale Wölfe und äußerst intelligent. Im Laufe der Jahrhunderte haben ihre menschlichen Verbündeten den Wölfen geholfen, ihre Rudelgebiete umzugestalten. Diese Reservate um die Tremere-Haus-Konvente herum sind verwirrender als natürlicher Wald und enthalten oft Wildwechsel, Gruben und verzauberte Gegenstände, die die Wölfe aktivieren können.
->
-> ### Schatteneulen und Feuerfalken
->
-> Schatteneulen und Feuerfalken sind kleine Greifvögel, die viele mechanische Werte teilen.
->
-> **Alter:** n/v
->
-> **Eigenschaften:** Klu -2, Wah +5, Prä n/v, Kom n/v, Stä -2, Aus 0, Ges +2, Sck +3
->
-> **Erschöpfungsstufen:** 0, -3, Bewusstlos
->
-> **Fertigkeiten:** n/v
->
+> 
 > **Gebrechlichkeit:** n/v
->
-> **Größe:** -3
->
-> **Kampf:** Klauen: Init +7, Ang +6, Vert -1, Sch +4
->
-> **Kräfte der Schatteneule:**
->
-> *Tarnfleck,* 1 Punkt, Imaginem: Schatteneulen können das Aussehen ihres Gefieders verändern, sodass sie besser mit ihrer Umgebung verschmelzen. Wenn die Eule reglos ist, wird sie von einer kleinen Illusion des Sehsinns verborgen. Im Flug erleidet jeder Wurf zum Erkennen einer Eule, die diese Kraft einsetzt, einen Abzug von -3.
->
-> *Geisterjagd,* 1 Punkt, Animal: Nach Aktivierung dieser Kraft kann eine Schatteneule für die nächsten Minuten durch feste Gegenstände fliegen, als wäre sie ein Geist. Schatteneulen können nicht durch Gegenstände wie Rüstungen hindurchschlagen, da sie fest sein müssen, um ihr Ziel zu verletzen. Eulen verfolgen Wild durch Wälder mittels dieser Kraft. Das Haus setzt diese Eulen zum Sammeln Arkaner Verbindungen ein, da sie Wild oder kleine Gegenstände in Geistergestalt tragen können.
->
-> **Machtwert:** 10 (Animal)
->
-> **Persönlichkeitseigenschaften:** Wild +5, Geduldig +2
->
+> 
+> **Tugenden und Fehler:** Die Tugend Visionen kommt unter diesen Wölfen gelegentlich vor.
+> 
+> **Persönlichkeitseigenschaften:** Loyal +2, Amüsiert über Menschen +1
+> 
 > **Reputationen:** Keine
->
-> **Schadensabsorption:** 0
->
+> 
+> **Kampf:**
+> 
+> *Biss:* Init +12, Ang +10, Vert +14, Sch +9
+> 
+> **Schadensabsorption:** +7
+> 
+> **Erschöpfungsstufen:** 0,-1/-1,-3/-3,-5,Bewusstlos
+> 
+> **Wundabzüge**: -1 (1-6), -3 (7-12), -5 (13-18), Kampfunfähig (19-24) 
+> 
+> **Fertigkeiten:** \[Gebiets-\]Kunde 6 (Rudelland), Raufen 3 (Biss), Menschenkenntnis (Tremere-Magi) 3, Jagen 6 (im Rudel), Latein\* 3 (hermetische Begriffe). Schleichen (Wälder) 3, Schwimmen (Seen) 1, Überleben 6 (Wälder)
+> 
+> \* Kann ohne magische Unterstützung kein Latein sprechen, aber manche Rudel sind darauf trainiert, es zu verstehen, durch Vertraute, die es können.
+> 
+> **Kräfte:**
+> 
+> *Stimmendiebstahl,* 1 Punkt, Init +10, Mentem: Der Wolf kann jedem Menschen die Stimme stehlen, mit dem er Blickkontakt herstellt. Die Wirkung dauert gewöhnlich bis zum nächsten Sonnenaufgang, obwohl manche einzelnen Wölfe abweichende Kräfte haben, sodass die Wirkung beim Überqueren eines Baches, beim Betreten einer Kirche oder bei Feuerschein endet.
+> 
+> *Augen wie Laternen,* 5 Punkte, Init +5, Mentem: Der Wolf kann ein Opfer mit Furcht lähmen. Dies erfordert, dass der Wolf Blickkontakt herstellt und das Opfer einen Tapfer-Wurf mit einem Schwierigkeitsgrad von 9+ nicht besteht. Ein Opfer, das Blickkontakt mit mehreren Wölfen herstellt, muss möglicherweise mehrere Würfe ablegen. Das Opfer darf jede Runde einen neuen Wurf ablegen, wenn es angegriffen wird, mit einem Schwierigkeitsgrad von 6+, weshalb Wölfe dazu neigen, einen Kreis um ein hypnotisiertes Opfer zu bilden und alle gleichzeitig anzuspringen. Schlagen oder Schütteln des Opfers erlaubt ebenfalls einen Wurf, gegen einen Schwierigkeitsgrad von 6+.
+> 
+> **Ausrüstung:** Keine.
+> 
+> **Belastung:** 0 (0)
+> 
+> **Vis:** 1 Bauer Animal, Schwanz
+> 
+> **Erscheinungsbild:** Großer Wolf, weiß bis grau im Fell, der amüsiert dreinschaut.
+> 
+> Weiße Wölfe sind weit größer als normale Wölfe und äußerst intelligent. Im Laufe der Jahrhunderte haben ihre menschlichen Verbündeten den Wölfen geholfen, ihre Rudelgebiete umzugestalten. Diese Reservate um die Tremere-Haus-Konvente herum sind verwirrender als natürlicher Wald und enthalten oft Wildwechsel, Gruben und verzauberte Gegenstände, die die Wölfe aktivieren können.
+> 
+> ### Schatteneulen und Feuerfalken
+> 
+> Schatteneulen und Feuerfalken sind kleine Greifvögel, die viele mechanische Werte teilen.
+> 
+> **Machtwert:** 10 (Animal)
+> 
+> **Eigenschaften:** Klu -2, Wah +5, Prä n/v, Kom n/v, Stä -2, Aus 0, Ges +2, Sck +3
+> 
+> **Größe:** -3
+> 
+> **Alter:** n/v
+> 
+> **Gebrechlichkeit:** n/v
+> 
 > **Tugenden und Fehler:** Keine
->
+> 
+> **Persönlichkeitseigenschaften:** Wild +5, Geduldig +2
+> 
+> **Reputationen:** Keine
+> 
+> **Kampf:** Klauen: Init +7, Ang +6, Vert -1, Sch +4
+> 
+> **Schadensabsorption:** 0
+> 
+> **Erschöpfungsstufen:** 0, -3, Bewusstlos
+> 
 > **Wundabzüge**: -1 (1-2), -3 (3-4), -5 (5-6), Kampfunfähig (7-8)
->
+> 
+> **Fertigkeiten:** n/v
+> 
+> **Kräfte der Schatteneule:**
+> 
+> *Tarnfleck,* 1 Punkt, Imaginem: Schatteneulen können das Aussehen ihres Gefieders verändern, sodass sie besser mit ihrer Umgebung verschmelzen. Wenn die Eule reglos ist, wird sie von einer kleinen Illusion des Sehsinns verborgen. Im Flug erleidet jeder Wurf zum Erkennen einer Eule, die diese Kraft einsetzt, einen Abzug von -3.
+> 
+> *Geisterjagd,* 1 Punkt, Animal: Nach Aktivierung dieser Kraft kann eine Schatteneule für die nächsten Minuten durch feste Gegenstände fliegen, als wäre sie ein Geist. Schatteneulen können nicht durch Gegenstände wie Rüstungen hindurchschlagen, da sie fest sein müssen, um ihr Ziel zu verletzen. Eulen verfolgen Wild durch Wälder mittels dieser Kraft. Das Haus setzt diese Eulen zum Sammeln Arkaner Verbindungen ein, da sie Wild oder kleine Gegenstände in Geistergestalt tragen können.
+> 
 > #### Kräfte des Feuerfalken:
->
+> 
 > *Entzünden,* 1 Punkt, +5 Init. Ignem: Feuerfalken können brennbare Gegenstände durch Berührung entzünden. Sie legen kleine Buschfeuer, um Insekten aufzuscheuchen und manchmal zu garen. Gewöhnlich greifen sie einen Stock oder Grasbüschel, entzünden ihn und lassen ihn dann fallen, während sie über ein Zielgebiet hinweggleiten. Ein Falke, der die Entzünden-Kraft einsetzt und einen Feind trifft, verursacht +9 Schaden (einschließlich des oben angegebenen Klauenschadens). Das Haus setzt diese Tiere als Saboteure ein.
->
+> 
 > **Ausrüstung:** Keine. **Belastung:** 0 (0)
->
+> 
 > **Vis:** 1 Bauer Imaginem, Federn oder 1 Bauer Ignem, beide Klauen.
->
+> 
 > Das Haus hat Verwendung für eine Vielzahl kleiner Greifvögel gefunden. Schatteneulen sind nützlich zum Sammeln Arkaner Verbindungen. Feuerfalken werden als Saboteure eingesetzt.
->
+> 
 > Der beliebteste große Greifvogel im Haus Tremere ist der Gänsegeier, der entlang der Adriaküste vorkommt. Diese Kreaturen, die Greifen folgen und sich von deren Resten ernähren, können ungeheure Entfernungen sehen und sind magisch empfindlich. Ihr kooperatives Jagdmuster, bei dem sie das Umland in Kammformation nach toten Lämmern absuchen, macht sie zu perfekten Informationssammlern.
->
+> 
 > #### Ätherische Fischerspinnen
->
+> 
 > Ätherische Fischerspinnen sind soziale Spinnen: Spinnentiere, die gemeinschaftlich arbeiten, um Fallen zu bauen. Sie verzehren die Geister ihrer Opfer, die gewöhnlich Insekten sind. Zur Fortpflanzung müssen die Ätherischen Fischerspinnen zusätzliche Masse aufnehmen und dann ihre Eier verteilen. Sie tun dies, indem sie beständige Geister einfangen, vorzugsweise menschliche Geister.
->
+> 
 > Die von Ätherischen Fischerspinnen gebauten Netze sind einzeln klein, aber sie arbeiten als Schwarm, um große, aufwendige Strukturen zu bauen, die Geister mit einem Machtwert von 20 oder weniger einfangen. Verwende den Zauber *Weberfalle aus Spinnfäden* als Richtlinie, um zu bestimmen, ob der Geist entkommen kann. Die Spinnen bevorzugen es, bei der Fortpflanzung Netze über Wege zu spannen, um wandernde Geister einzufangen. Die winzigen Spinnen schwärmen über alles her, was in ihr Netz fällt, und verpuppen es. Sie nähren sich vom Geist, indem sie seinen Machtvorrat wiederholt aussaugen, bis sie aufgebläht genug sind, um sich fortzupflanzen. Die Spinnen legen dann Eier, die in spektraler Form vorliegen, in den Geist. Der Geist wird dann freigelassen, um zu seinem üblichen Spukort zu fliehen, wobei er die Spinneneier mitnimmt. Die schlüpfenden Spinnen zerstören den Geist gewöhnlich.
->
+> 
 > Die Netze Ätherischer Fischerspinnen fangen keine Menschen. Berührung mit dem Netz verursacht keinen Schaden, obwohl sie ein kaltes, prickelndes Gefühl auslöst. Für das Zweite Gesicht ist das Netz tiefblau, fast schwarz, aber die Spinnen leuchten milchig. Sie bilden wunderschöne Konstellationen in ihren dreidimensionalen Fallen. Manche Tremere halten sie allein wegen ihrer Schönheit, andere wegen der Kühle ihrer Netze, die im mediterranen Sommer angenehm ist.
->
+> 
 > Tremere-Magi sind fasziniert davon, wie diese Spinnen die Grenze zwischen dem materiellen und dem ätherischen Zustand streifen. Sie nutzen kontrollierte Spinnenschwärme, um Geister einzusperren. Tremere-Magi züchten diese Spinnen wegen ihrer wunderschönen Seide, aus der sie Festroben fertigen. Ihre kleine Zuchtkolonie wird mit reinem Mentem-Vis gefüttert. Die Seide wird beim Färben schimmernd und durchscheinend. Manche Tremere glauben, dass es ein vollständiges ätherisches Ökosystem gibt, das Magi nur am Rande erblicken.
 
 ### Tugenden und Fehler
@@ -4616,6 +4616,10 @@ Zu Beginn jedes Certamen wählt jeder Kämpfer, ob er als Anhänger seiner Schul
 
 Magi werden in der Schule ihres Meisters erzogen. Magi, die während der Lehrzeit nicht im Certamen unterrichtet wurden, werden Mitglied einer Schule, indem sie ein Quartal bei einem erfahrenen Mitglied der Schule studieren. Die meisten Schulen sind lose Gruppen von Magi, die auf ähnliche Weise duellieren, aber manche Schulen haben nach Ermessen der Spieltruppe politische Hierarchien.
 
+#### Gladiator
+
+Die Schule des Schwertmanns ist der Stil des Gründers Tremere, wie er in den Grundregeln beschrieben wird. Es ist ein ausgewogener, einfacher Stil, für den viele Lehrer verfügbar sind. Gerüchte halten sich, dass es eine Reihe geheimer Techniken für diese Schule gibt, die engagierten Anhängern erlauben, Vis wirksamer einzusetzen als andere Magi. Die Tremere behandeln diese Gerüchte als Angriff auf ihre Integrität — verlören andere Magi das Vertrauen in das Certamen-System, würde das dem Haus schaden. Die gemeinsamen Illusionen der Schule des Schwertmanns tendieren zur Menschengestalt und sind stark vom Sigil des Magus beeinflusst.
+
 #### Andabatus
 
 Anhänger der Schule des Blindkampfes nutzen wilde, chaotische Angriffe, um Duelle schnell zu beenden, während sie Treffer gegen sich selbst hinnehmen. Der Andabatus addiert einen Bonus auf seine Angriffssumme bis zum Doppelten seines Finesse-Wertes, akzeptiert aber auch einen gleichen Abzug auf seine Verteidigungssumme. Im Stil des Andabata zu kämpfen erlaubt einem Magus, einen Bonus auf seine Angriffssumme bis zu seinem Finesse-Wert zu akzeptieren, aber der Abzug beträgt das Doppelte des Bonus. Die gemeinsame Illusion des Certamen wogt und verliert den Fokus, wenn ein Andabatus kämpft, denn seine Technik ist instinktiv, unpräzise und geht davon aus, dass der Gegner ihn treffen wird.
@@ -4624,6 +4628,12 @@ Anhänger der Schule des Blindkampfes nutzen wilde, chaotische Angriffe, um Duel
 
 Ausschließlich von Mitgliedern des Hauses Bjornaer angewandt, erlauben die Techniken der Schule der Bestien ihnen, ihren Herztier-Wert anstelle ihres Finesse-Wertes während Duellen in der Muto-Form oder wenn es um ihre eigenen Körper geht einzusetzen. In Muto Corpus- oder Muto Animal-Duellen können sie das Doppelte ihres Herztier-Wertes zu ihrer Widerstandssumme addieren. Bjornaer, die in der Bestiarius-Technik dilettieren, addieren ihren Herztier-Wert auf ihren Widerstand.
 
+#### Knochenbeißer
+
+Diese Technik basiert auf den magischen Praktiken bestimmter irischer Barden und wurde von Magi des Hauses Diedne in den Orden gebracht. Sie erlaubt einem Magus, sich selbst zu verletzen, um Erschöpfung zu widerstehen oder die Stärke seines nächsten Angriffs zu erhöhen. Die engagierten Anhänger dieser Technik starben im Schismakrieg. Jene, die in diesem Stil kämpfen, fügen sich selbst eine Leichte Wunde zu und ignorieren entweder den Verlust der nächsten zwei Erschöpfungsstufen oder addieren zehn Punkte auf ihre nächste Angriffssumme. Traditionell beißt der Magus durch die Spitze des linken Daumens bis auf den Knochen.
+
+Im Jahr 1220 beißen die wenigen Magi, die diese Technik praktizieren, stattdessen auf ihre Zunge. Gelegentliches versehentliches Zungenbeißen kommt beim Certamen vor, sodass dies nicht wie eine offenkundig druidische Praxis aussieht. Es ist für diese Magi sehr schwierig, sich heimlich mehr als eine Körperstufe Schaden zuzufügen, da dies sich in der gemeinsamen Illusion widerspiegelt, mit Elementen von Blut und Feuer.
+
 #### Charon
 
 Eher ein Trick als eine Schule, benannt nach dem Fährmann auf dem Fluss Styx, darf ein Magus, der im Stil des Charon kämpft, am Ende des Certamen zwei Zauber auf einen Gegner wirken. Er tut dies, indem er in einer früheren Runde des Certamen einen Zauber still und ohne Gesten wirkt (Intelligenz + Konzentration von 15+), ihn dann bis zur Runde aufrechterhält, von der er glaubt, es sei die letzte, was vor dem Angriffswurf erklärt werden muss (Intelligenz + Konzentration von 12+ jede Runde). Liegt er richtig, wandert dieser Zauber entlang der Arkanen Verbindung, die das Certamen-Duell bietet, zusammen mit dem Zauber, den er in der Runde nach Abschluss des Certamen wirkt. Diesen Trick anzuwenden ist wahrscheinlich ein Verstoß gegen den Peripheren Kodex, aber er ist erst kürzlich aufgetaucht, und kein Tribunal hat ihn bisher behandelt. Gerüchte besagen, dass es eine Schule des Charon gibt, deren Mitglieder viele Zauber auf jene wirken können, die sie im Certamen besiegen.
@@ -4631,10 +4641,6 @@ Eher ein Trick als eine Schule, benannt nach dem Fährmann auf dem Fluss Styx, d
 #### Essedarius
 
 Die Techniken des Streitwagenfahrers sind auffällig und einschüchternd. Sie unterwerfen Feinde psychologisch. Nach einem erfolgreichen Angriff kann der Essedarius wählen, keinen Schaden zuzufügen und stattdessen den Eindruck eines mächtigen und furchtbaren Angriffs zu erzeugen, der nur um Haaresbreite scheiterte. Die Absicht ist, den Feind zur Aufgabe zu verängstigen, was eintreten kann, wenn er einen Tapfer-Wurf von 3 + 2 pro Erschöpfungsstufe, auf die der Essedarius in diesem Certamen verzichtet hat, nicht besteht. Magi, die in diesem Stil kämpfen, können einen ähnlichen Tapfer-Wurf erzwingen, aber der Schwierigkeitsgrad beträgt 3 + 2 pro Erschöpfungsstufe, auf die in dieser Runde des Kampfes verzichtet wurde.
-
-#### Gladiator
-
-Die Schule des Schwertmanns ist der Stil des Gründers Tremere, wie er in den Grundregeln beschrieben wird. Es ist ein ausgewogener, einfacher Stil, für den viele Lehrer verfügbar sind. Gerüchte halten sich, dass es eine Reihe geheimer Techniken für diese Schule gibt, die engagierten Anhängern erlauben, Vis wirksamer einzusetzen als andere Magi. Die Tremere behandeln diese Gerüchte als Angriff auf ihre Integrität — verlören andere Magi das Vertrauen in das Certamen-System, würde das dem Haus schaden. Die gemeinsamen Illusionen der Schule des Schwertmanns tendieren zur Menschengestalt und sind stark vom Sigil des Magus beeinflusst.
 
 #### Gladiatrix
 
@@ -4662,12 +4668,6 @@ Manche Mitglieder dieser Schule glauben, dass sie eine komplizierte Form des Tea
 #### Hoplomachus
 
 Dieser Stil, benannt nach Kriegern, die in Nachahmung der griechischen Hopliten gerüstet sind, opfert viele Vorteile zugunsten erhöhter Defensivkraft. Ein Hoplomachus kann Initiativewettbewerbe nicht gewinnen, außer gegen einen anderen Hoplomachus. Jede Runde reduziert der Hoplomachus seine Angriffssumme um bis zu seinen Finesse-Wert und erhöht dann seine Verteidigungssumme um bis zum Doppelten dieses Abzugs. In einer Runde, in der der Hoplomachus gänzlich auf einen Angriff verzichtet, erhält seine Verteidigungssumme einen Bonus des Dreifachen seines Finesse-Wertes. Andere Magi, die im Stil des Hoplomachus kämpfen, können in einer Runde auf den Angriff verzichten und einen Bonus auf ihre Verteidigungssumme in Höhe des Doppelten ihres Finesse-Wertes erhalten. Die vom Hoplomachus kontrollierte Hälfte der gemeinsamen Illusion tendiert dazu, langsam, aber ärgerlich beharrlich und schadensresistent zu sein.
-
-#### Knochenbeißer
-
-Diese Technik basiert auf den magischen Praktiken bestimmter irischer Barden und wurde von Magi des Hauses Diedne in den Orden gebracht. Sie erlaubt einem Magus, sich selbst zu verletzen, um Erschöpfung zu widerstehen oder die Stärke seines nächsten Angriffs zu erhöhen. Die engagierten Anhänger dieser Technik starben im Schismakrieg. Jene, die in diesem Stil kämpfen, fügen sich selbst eine Leichte Wunde zu und ignorieren entweder den Verlust der nächsten zwei Erschöpfungsstufen oder addieren zehn Punkte auf ihre nächste Angriffssumme. Traditionell beißt der Magus durch die Spitze des linken Daumens bis auf den Knochen.
-
-Im Jahr 1220 beißen die wenigen Magi, die diese Technik praktizieren, stattdessen auf ihre Zunge. Gelegentliches versehentliches Zungenbeißen kommt beim Certamen vor, sodass dies nicht wie eine offenkundig druidische Praxis aussieht. Es ist für diese Magi sehr schwierig, sich heimlich mehr als eine Körperstufe Schaden zuzufügen, da dies sich in der gemeinsamen Illusion widerspiegelt, mit Elementen von Blut und Feuer.
 
 #### Laquerius
 
@@ -4744,8 +4744,8 @@ Dieser Zauber befiehlt einem Seidentuch, einen Feind zu erdrosseln, zu dem der M
 > **Bernstein:** +3 Bewegung kontrollieren, +3 Corpus.
 >
 > **Blei:** +4 Abwehr, +3 Geister beschwören oder binden **Spiegel:** +6 Bilder zeigen, +3 Geister beschwören oder binden **Opal:** +4 Reisen, +6 Augen, +2 Bilder, +2 Unsichtbarkeit **Rhodochrosit:** +3 Vergessen, +2 Erinnerungen, +3 Wunden verbinden
-> **Menschenschädel:** +4 menschlichen Körper vernichten, +5 menschlichen Geist vernichten, +5 Geister vernichten oder beherrschen, +10 Geist des betreffenden Schädels vernichten oder beherrschen.
 >
+> **Menschenschädel:** +4 menschlichen Körper vernichten, +5 menschlichen Geist vernichten, +5 Geister vernichten oder beherrschen, +10 Geist des betreffenden Schädels vernichten oder beherrschen.
 
 #### Rego Aquam-Zauber
 

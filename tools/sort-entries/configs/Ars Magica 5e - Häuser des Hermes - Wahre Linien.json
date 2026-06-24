@@ -102,7 +102,7 @@
     {
       "heading": "## Quaesitoriale Magie",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "14 H4-Blöcke",
       "subheading": "### Zauber und Leitlinien"
     },
@@ -158,7 +158,7 @@
     {
       "heading": "## Zauber",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 H4-Blöcke",
       "subheading": "### Mutantum-Zauber"
     },
@@ -234,7 +234,7 @@
     {
       "heading": "## Duellieren",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "15 H4-Blöcke",
       "subheading": "### Certamen-Stile"
     },
@@ -249,98 +249,98 @@
       "heading": "## Eckdaten",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge (Blockquote)"
     },
     {
       "heading": "## Berühmte Persönlichkeiten",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge (Blockquote)"
     },
     {
       "heading": "## Glaucon, Magus Trianomae und Sucher",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "14 Fetteinträge (Blockquote)"
     },
     {
       "heading": "## Häufige Tugenden und Fehler",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "19 Fetteinträge (Blockquote)"
     },
     {
       "heading": "## Schlüsseldaten",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge (Blockquote)"
     },
     {
       "heading": "## Berühmte Persönlichkeiten",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge (Blockquote)"
     },
     {
       "heading": "## Fehler",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge (Blockquote)"
     },
     {
       "heading": "## Eckdaten",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Legionär",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "17 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Kataphraktos",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "16 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Wili",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "16 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Moro",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "9 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Gemeine Weiße Wölfe",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "17 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Schatteneulen und Feuerfalken",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "14 Fetteinträge (Blockquote)"
     },
     {

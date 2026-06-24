@@ -12,7 +12,7 @@
     {
       "heading": "## Abbildungsverzeichnis",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### Gemeinfreie Kunstwerke"
     },
@@ -150,7 +150,7 @@
     {
       "heading": "## Typen von Tugenden und Fehlern",
       "type": "inline_list",
-      "enabled": true,
+      "enabled": false,
       "sort_column": 2,
       "note": "11 Zeilen mit Komma-Listen",
       "subheading": "### Sozialer Status"
@@ -169,7 +169,8 @@
       "note": "318 H4-Blöcke",
       "blockquote_attach": {
         "Tiercharaktere": "next"
-      }
+      },
+      "sort_note": "EN-Original fast sortiert (6 benachbarte Fehler bei 318 Einträgen, u.a. Tippfehler 'Rard' statt 'Bard')"
     },
     {
       "heading": "## Tugenden",
@@ -188,7 +189,8 @@
       "heading": "## Fehler",
       "type": "desc_blocks",
       "enabled": true,
-      "note": "308 H4-Blöcke"
+      "note": "308 H4-Blöcke",
+      "sort_note": "EN-Original fast sortiert (6 benachbarte Fehler bei 308 Einträgen)"
     },
     {
       "heading": "## Fertigkeiten nach Typ",
@@ -400,7 +402,7 @@
     {
       "heading": "## Arkane Verbindungen",
       "type": "inline_list",
-      "enabled": true,
+      "enabled": false,
       "sort_column": 2,
       "note": "6 Zeilen mit Komma-Listen"
     },
@@ -626,7 +628,8 @@
       "type": "table",
       "enabled": true,
       "note": "241 Tabellenzeilen",
-      "subheading": "### Tabelle der Form- und Materialboni"
+      "subheading": "### Tabelle der Form- und Materialboni",
+      "sort_note": "EN-Original fast sortiert (3 benachbarte Fehler bei 241 Einträgen)"
     },
     {
       "heading": "## Regeln zur Laborpersonalisierung",
@@ -838,7 +841,7 @@
     {
       "heading": "## Altern",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "8 Fetteinträge"
     },
     {
@@ -997,7 +1000,7 @@
     {
       "heading": "## Weitere Gefahren",
       "type": "inline_list",
-      "enabled": true,
+      "enabled": false,
       "sort_column": 3,
       "note": "4 Zeilen mit Komma-Listen",
       "subheading": "### Schwächung"
@@ -1046,7 +1049,7 @@
     {
       "heading": "## Format der Kreatur",
       "type": "inline_list",
-      "enabled": true,
+      "enabled": false,
       "sort_column": 4,
       "note": "11 Zeilen mit Komma-Listen",
       "subheading": "### Größenbeispiele"
@@ -1074,7 +1077,7 @@
     {
       "heading": "## Gewöhnliche Tiere erschaffen",
       "type": "inline_list",
-      "enabled": true,
+      "enabled": false,
       "sort_column": 2,
       "note": "4 Zeilen mit Komma-Listen",
       "subheading": "### 4. Grundfertigkeiten"
@@ -1299,7 +1302,7 @@
     {
       "heading": "## Tabelle außergewöhnlicher Ergebnisse",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "8 Fetteinträge"
     },
     {
@@ -1346,90 +1349,92 @@
       "heading": "## Bestiariumsindex",
       "type": "table",
       "enabled": true,
-      "note": "62 Tabellenzeilen"
+      "note": "62 Tabellenzeilen",
+      "sort_note": "EN-Original fast sortiert (1 Fehler bei 62 Einträgen)"
     },
     {
       "heading": "## Traditioneller Index",
       "type": "table",
       "enabled": true,
       "note": "1535 Tabellenzeilen",
-      "keep_sub_entries": true
+      "keep_sub_entries": true,
+      "sort_note": "EN-Original fast sortiert (49 benachbarte Fehler bei 1392 Einträgen)"
     },
     {
       "heading": "#### Aufführungsfertigkeiten",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Schwacher Konvent",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Mittlerer Konvent",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Mächtiger Konvent",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Ausgaben – Ein einfaches Beispiel",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "14 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Certamen-Beispiel",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Beispielkräfte",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "7 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Zusammenfassung: Größe und Verfeinerung",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Laborspezialisierungen und Erscheinungsbild",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "23 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Kampf: Komplexes Beispiel",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge (Blockquote)"
     },
     {
       "heading": "### Ressourcen",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge (Blockquote)"
     }
   ]

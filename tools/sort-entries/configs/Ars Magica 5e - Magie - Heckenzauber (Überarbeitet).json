@@ -59,49 +59,49 @@
     {
       "heading": "## Elementaristische Formen",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Elementaristische Luft"
     },
     {
       "heading": "## Elementaristische Formen",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Elementaristische Erde"
     },
     {
       "heading": "## Elementaristische Formen",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Elementaristisches Wasser"
     },
     {
       "heading": "## Elementaristische Techniken",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Herbeirufen"
     },
     {
       "heading": "## Elementaristische Techniken",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Beherrschen"
     },
     {
       "heading": "## Elementaristische Techniken",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Weissagen"
     },
     {
       "heading": "## Elementaristische Techniken",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 H4-Blöcke",
       "subheading": "### Läutern"
     },
@@ -158,21 +158,21 @@
     {
       "heading": "## Erschaffung eines Volkshexen-Charakters",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### Bestehende Tugenden und Fehler"
     },
     {
       "heading": "## Volkshexen-Magie",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "10 H4-Blöcke",
       "subheading": "### Kräfte der Volkshexen"
     },
     {
       "heading": "## Volkshexen-Magie",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "20 Fetteinträge",
       "subheading": "### Kräfte der Volkshexen"
     },
@@ -193,7 +193,7 @@
     {
       "heading": "## Volkshexen-Magie",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "18 Fetteinträge",
       "subheading": "### Einrichtung der Küche"
     },
@@ -296,7 +296,7 @@
     {
       "heading": "## Gruagach-Magie",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Gruagach-Künste"
     },
@@ -645,49 +645,49 @@
       "heading": "#### Sabbatzeiten",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "8 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### ABENTEUERIDEEN zur Behutsamen Erschließung",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### ABENTEUERIDEEN zur Energiemagie",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### ABENTEUERIDEEN zu Gruagachan-Formen und -Techniken",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Mit einer Glückshaube geboren",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Vitkar-Tugenden",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge (Blockquote)"
     },
     {
       "heading": "#### Vitkar-Magiefoki",
       "type": "bold_blocks",
       "blockquote": true,
-      "enabled": true,
+      "enabled": false,
       "note": "8 Fetteinträge (Blockquote)"
     }
   ]

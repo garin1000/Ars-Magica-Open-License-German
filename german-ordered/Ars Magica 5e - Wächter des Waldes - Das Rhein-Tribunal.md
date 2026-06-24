@@ -540,17 +540,17 @@ Das Rheintribunal hat vier anerkannte Ränge, nach denen es seine Mitglieder ein
 
 ### Neue Tugenden und Fehler für Rheintribunal-Magi
 
-**Erzmagus**: Du hast den erhabenen Titel des *archimagus* erworben. Du hast eine Hermetische Reputation der Stufe 4 für die großen Taten, die du vollbracht hast, um diesen Status zu erwerben, sowie eine Hermetische Reputation als Erzmagus, ebenfalls der Stufe 4. Dies gilt für jedes Tribunal. Bist du Mitglied des Rheintribunals, erhältst du eine zusätzliche Stellvertreterstimme eines pensionierten Magus, was dir insgesamt drei Stimmen einräumt.
+**KOSTENLOSE SOZIALER-STATUS-TUGENDEN**
+
+**Lehrling**: Diese Tugend, anwendbar auf jedes Tribunal, kann von einem Kindercharakter gewählt werden, der die Gabe besitzt und von einem erfahrenen hermetischen Magus (im Rheintribunal: einem Meister oder Erzmagus) angenommen wurde, mit Zustimmung des Spielleiters. Du bist ein *discipulus* und wirst eine umfangreiche magische Ausbildung erhalten, mit dem Potenzial, selbst ein hermetischer Magus zu werden. Du musst jedoch den Anordnungen und Aufträgen deines Meisters gehorchen, seine rigorose Ausbildung erdulden und kannst wie ein Sklave behandelt werden.
 
 **Geselle**: Dies entspricht der kostenlosen Status-Tugend Hermetischer Magus (siehe ArM5, [Seite 43](<Ars Magica Definitive Edition Basisregeln.md#hermetischer-magus>)), die hier aufgrund des besonderen Sozialsystems des Rheintribunals umbenannt wurde. Du bist ein *tyro*, ein junger Magus, und musst in einem rechtmäßigen Streit Magi höheren Ranges nachgeben. Gehörst du jedoch einer Gilde an, darfst du dich der Unterstützung ihrer älteren Mitglieder erfreuen.
 
 Es gibt zwei weitere kostenlose Sozialer-Status-Tugenden; obwohl sie keine Kosten haben, müssen sie verdient werden. Wenn dein Spielleiter die Erschaffung von Magi erlaubt, die älter als der Standard sind, solltest du mit ihm oder ihr besprechen, ob diese Tugenden genommen werden können:
 
-**KOSTENLOSE SOZIALER-STATUS-TUGENDEN**
-
-**Lehrling**: Diese Tugend, anwendbar auf jedes Tribunal, kann von einem Kindercharakter gewählt werden, der die Gabe besitzt und von einem erfahrenen hermetischen Magus (im Rheintribunal: einem Meister oder Erzmagus) angenommen wurde, mit Zustimmung des Spielleiters. Du bist ein *discipulus* und wirst eine umfangreiche magische Ausbildung erhalten, mit dem Potenzial, selbst ein hermetischer Magus zu werden. Du musst jedoch den Anordnungen und Aufträgen deines Meisters gehorchen, seine rigorose Ausbildung erdulden und kannst wie ein Sklave behandelt werden.
-
 **Meister**: Du hast den Status eines *magister* erlangt und darfst Lehrlinge ohne gesellschaftlichen Makel ausbilden. Du hast eine Hermetische Reputation der Stufe 2, die sich auf deine Anerkennung als Meister bezieht. Das Abstimmungs-Sigil eines pensionierten Magus wird dir anvertraut; du kannst dieses bei jeder Zusammenkunft des Rheintribunals verwenden, obwohl erwartet wird, dass du es entsprechend den Interessen seines ursprünglichen Besitzers einsetzt. Diese Status-Tugend ist ein besonderes Merkmal des Rheintribunals.
+
+**Erzmagus**: Du hast den erhabenen Titel des *archimagus* erworben. Du hast eine Hermetische Reputation der Stufe 4 für die großen Taten, die du vollbracht hast, um diesen Status zu erwerben, sowie eine Hermetische Reputation als Erzmagus, ebenfalls der Stufe 4. Dies gilt für jedes Tribunal. Bist du Mitglied des Rheintribunals, erhältst du eine zusätzliche Stellvertreterstimme eines pensionierten Magus, was dir insgesamt drei Stimmen einräumt.
 
 ### KLEINE HERMETISCHE TUGEND
 
@@ -860,6 +860,18 @@ Der Grund für diesen Widerstand liegt in den Kräften, welche die römischen Za
 
 Der Geist des Herzynischen Waldes schöpfte seine Macht aus der Magiesphäre. Er war ein Abbild des idealen Waldes, in jeder Hinsicht vollkommen; einige Magi haben sogar behauptet, er sei der Garten Eden gewesen, die erste Emanation des Göttlichen Waldes im Himmel. Doch unter den Bemühungen zunächst der magischen Rituale des Kultes des Merkur und dann, Jahrhunderte später, dem Wunder des heiligen Bonifatius, zersplitterte dieser Urgeist in viele magische Geister, von denen jeder in einem Teil des nun geteilten Herzynischen Waldes wohnte. Vier mögliche Schicksale erwarteten jeden dieser Geister:
 
+#### ÜBERLEBEN
+
+Der *Genius Loci* des Waldes ist stark genug, um sich gegen das Vordringen der Sterblichen und des Dominiums zu behaupten. Diese Geister geben Anlass zu magischen Wäldern, wie dem Teutoburger Wald (Kapitel 7: Die Tiefebene, Sachsen), dem Drudenbaum (Kapitel 8: Mitteldeutschland, Franken) und der Romowe-Eiche (Kapitel 9: Die östlichen Marken, Pommern).
+
+#### AUFLÖSUNG
+
+Der Genius Loci ist zu schwach, um die Kontrolle über den Wald aufrechtzuerhalten, oder er grenzt an mächtigere Auren, die seine Kraft aufzehren, bis nichts mehr übrig bleibt. Diese Geister hinterlassen einen gewöhnlichen Wald. Das erklärt zum Beispiel, warum der Hertogenwald südlich von Aachen keinen einwohnenden Geist oder keine Aura hat. Niederlothringen ist ein besiedeltes Ackerbaugebiet, und die starke Göttliche Aura, die vom Dom zu Aachen ausstrahlt, hat die Kraft des Geistes aufgezehrt, der einst hier lebte.
+
+#### ERSATZ
+
+Der Genius Loci ist wie oben geschwunden und wurde durch ein anderes übernatürliches Wesen ersetzt. Am häufigsten entstehen dadurch Feenwälder, aber es können auch göttliche oder infernale Wälder entstehen. Dieser Prozess gab Anlass zum Schwarzwald (Kapitel 6: Der Schwarzwald), der Eschenfrau von Nortorf (Kapitel 7: Die Tiefebene, Holstein) und der Donareiche (Kapitel 8: Mitteldeutschland, Thüringen).
+
 #### ALLIANZ
 
 Der Genius Loci schließt einen Pakt mit einem anderen übernatürlichen Wesen — meist einer Fee — oder er ergreift von einem solchen Wesen Besitz. Die vereinte Macht der beiden übernatürlichen Wesen reicht dann aus, um die Bedrohung der Auflösung abzuwehren. Dies führt im Allgemeinen zu einem Wald, der vorwiegend einer Sphäre angehört, aber gelegentlich Flecken von Auren einer anderen Sphäre aufweist. Die vier Jahreszeitenhöfe, die in diesem Kapitel vorgestellt werden, sind ein Beispiel dafür.
@@ -880,27 +892,15 @@ Der Genius Loci schließt einen Pakt mit einem anderen übernatürlichen Wesen �
 >
 >Diese seltenen infernalen Wälder sind schreckliche Orte. Die Bäume sind oft in abscheuliche Formen verdreht, und die Flora ist durchgehend giftig. Ungeziefer und Giftgetier wie Kröten und Schlangen lauern unter jedem Ast und Stein, und Raubtiere sind in Hülle und Fülle vorhanden. Pflanzen und Tiere können existieren, die anderswo nicht zu finden sind, grausame Verhöhnungen von Gottes Schöpfung. Infernale Wälder strahlen oft ein Gefühl brütender Bedrohlichkeit aus, hasserfüllter noch als selbst die dunkelsten Feenwälder.
 
-#### AUFLÖSUNG
-
-Der Genius Loci ist zu schwach, um die Kontrolle über den Wald aufrechtzuerhalten, oder er grenzt an mächtigere Auren, die seine Kraft aufzehren, bis nichts mehr übrig bleibt. Diese Geister hinterlassen einen gewöhnlichen Wald. Das erklärt zum Beispiel, warum der Hertogenwald südlich von Aachen keinen einwohnenden Geist oder keine Aura hat. Niederlothringen ist ein besiedeltes Ackerbaugebiet, und die starke Göttliche Aura, die vom Dom zu Aachen ausstrahlt, hat die Kraft des Geistes aufgezehrt, der einst hier lebte.
-
-#### ERSATZ
-
-Der Genius Loci ist wie oben geschwunden und wurde durch ein anderes übernatürliches Wesen ersetzt. Am häufigsten entstehen dadurch Feenwälder, aber es können auch göttliche oder infernale Wälder entstehen. Dieser Prozess gab Anlass zum Schwarzwald (Kapitel 6: Der Schwarzwald), der Eschenfrau von Nortorf (Kapitel 7: Die Tiefebene, Holstein) und der Donareiche (Kapitel 8: Mitteldeutschland, Thüringen).
-
-#### ÜBERLEBEN
-
-Der *Genius Loci* des Waldes ist stark genug, um sich gegen das Vordringen der Sterblichen und des Dominiums zu behaupten. Diese Geister geben Anlass zu magischen Wäldern, wie dem Teutoburger Wald (Kapitel 7: Die Tiefebene, Sachsen), dem Drudenbaum (Kapitel 8: Mitteldeutschland, Franken) und der Romowe-Eiche (Kapitel 9: Die östlichen Marken, Pommern).
-
 ### Allgemeine Mächte
 
 Jeder Wald hat einen Machtwert, der seine Größe und sein Maß an Urmacht widerspiegelt. Der Machtwert variiert je nach Größe und Alter des Waldgebiets, aber alle Wälder haben einen Machtwert von mindestens 30 — fällt er darunter, beginnt die Kraft des Dominiums an seinen Rändern den Machtwert des Geistes aufzuzehren, bis er gänzlich verschwunden ist. Der Machtwert eines Waldgeistes dient dazu, magischen Effekten zu widerstehen, die eingesetzt werden, um den Wald oder seine Bewohner zu schädigen. Diese Macht ist nicht ständig im Einsatz; sie bedeutet nicht, dass jedes Tier und jede Pflanze im Wald eine Magieresistenz besitzt, die dem Machtwert des Geistes entspricht. Jedoch wird jede Magie, die eingesetzt wird, um irgendeinen Aspekt des Waldes großflächig oder wiederholt zu beschädigen, wahrscheinlich die Aufmerksamkeit (und damit den Schutz) des Geistes auf sich ziehen.
 
 Alle Waldgeister besitzen die folgenden Mächte.
 
-**Manifestation** (mindestens 5 Punkte, Init +1, Animal oder Herbam je nach Lage): Der Geist kann sein Bewusstsein in Tieren des Waldes manifestieren und ihnen vorübergehend einen Machtwert verleihen, um so ihre Handlungen zu lenken. Für 5 Machtpunkte kann eine einzelne Kreatur der Größe 0 (oder eine gleichwertige Masse kleinerer Kreaturen) beherrscht werden. Für je 5 weitere Machtpunkte können zehn weitere Kreaturen dieser Größe beherrscht werden. Indem der Geist sein Bewusstsein in Pflanzen des Waldes manifestiert, kann er sie mit übernatürlicher Geschwindigkeit wachsen lassen: ein Büschel Unkraut kann über Nacht aufschießen; dichtes Unterholz kann sich in einer Woche bilden; ein Baum kann von einem Sämling in einem Monat heranwachsen. Eine Basispflanze mit einem Schritt im Durchmesser (oder die entsprechende Masse) kostet 5 Machtpunkte, und jede zehnfache Massenzunahme kostet weitere 5 Punkte. Teilt der Geist seinen gesamten Machtwert auf diese Weise auf, ohne Punkte unmanifestiert zu lassen, wird die Präsenzmacht des Geistes vorübergehend zurückgezogen (obwohl etwaige Auren bestehen bleiben, sofern die Macht des Geistes nicht länger als ein Quartal zurückgezogen bleibt). Menschen und andere vernunftbegabte Wesen können durch diese Macht nicht beherrscht werden; dafür ist die Besessenheitsmacht zu verwenden (siehe unten).
-
 **Präsenz** (0 Punkte): Der Geist ist sich über alles bewusst, was innerhalb seiner Grenzen geschieht. Im Wesentlichen ist der Geist der Wald, sodass er gleichzeitig überall innerhalb der Grenzen des Waldes präsent ist. Die Präsenz des Geistes ist an manchen Stellen stärker als an anderen; an diesen Orten entsteht eine Aura von einer dem Machtwert des Geistes entsprechenden Stärke. Je größer der Machtwert des Geistes, desto stärker die Aura oder desto größer ihr Wirkungsbereich.
+
+**Manifestation** (mindestens 5 Punkte, Init +1, Animal oder Herbam je nach Lage): Der Geist kann sein Bewusstsein in Tieren des Waldes manifestieren und ihnen vorübergehend einen Machtwert verleihen, um so ihre Handlungen zu lenken. Für 5 Machtpunkte kann eine einzelne Kreatur der Größe 0 (oder eine gleichwertige Masse kleinerer Kreaturen) beherrscht werden. Für je 5 weitere Machtpunkte können zehn weitere Kreaturen dieser Größe beherrscht werden. Indem der Geist sein Bewusstsein in Pflanzen des Waldes manifestiert, kann er sie mit übernatürlicher Geschwindigkeit wachsen lassen: ein Büschel Unkraut kann über Nacht aufschießen; dichtes Unterholz kann sich in einer Woche bilden; ein Baum kann von einem Sämling in einem Monat heranwachsen. Eine Basispflanze mit einem Schritt im Durchmesser (oder die entsprechende Masse) kostet 5 Machtpunkte, und jede zehnfache Massenzunahme kostet weitere 5 Punkte. Teilt der Geist seinen gesamten Machtwert auf diese Weise auf, ohne Punkte unmanifestiert zu lassen, wird die Präsenzmacht des Geistes vorübergehend zurückgezogen (obwohl etwaige Auren bestehen bleiben, sofern die Macht des Geistes nicht länger als ein Quartal zurückgezogen bleibt). Menschen und andere vernunftbegabte Wesen können durch diese Macht nicht beherrscht werden; dafür ist die Besessenheitsmacht zu verwenden (siehe unten).
 
 **Vis erzeugen** (1 Punkt pro Bauer): Alle von einem Geist bewohnten Wälder bringen eine jährliche Ernte an Vis hervor, deren Menge in Bauern bis zum Machtwert reicht. Dieses Vis stammt meist aus verschiedenartigen Quellen: pflanzlich (wie Rinde, Früchte, Samen, Pilze oder Blätter), tierisch (wie Häute, Knochen, Zähne oder Dung) oder es findet sich in der Erde oder dem Wasser des Waldes. Die meisten Magi können in der Regel nur einen kleinen Teil des verfügbaren Vis entdecken oder ernten, wenn überhaupt.
 
@@ -908,27 +908,27 @@ Alle Waldgeister besitzen die folgenden Mächte.
 
 Jeder Wald besitzt eine Reihe weiterer Mächte, von denen einige Beispiele im Folgenden aufgeführt sind. Der Spielleiter ist eingeladen, einzigartige Mächte für jeden Wald zu entwickeln, den er erschafft. Bei Wäldern mit einem Feenmachtwert ähneln oder gleichen diese Mächte oft denen der Feenbewohner des Waldes. Typische Initiativewerte wurden für jede Macht angegeben, aber manche Geister können schneller oder langsamer sein. Eine hermetische Form wurde dort angegeben, wo die Möglichkeit besteht, dem Effekt zu widerstehen. Diese Mächte verursachen in der Regel Verzerrung (gemäß den Regeln in ArM5, [Seite 167](<Ars Magica Definitive Edition Basisregeln.md#verzerrung-2>)), wenn sie direkt auf einen Charakter angewendet werden.
 
-**Besessenheit** (5 Punkte, Init +2, Mentem): Um einen Menschen (oder ein anderes vernunftbegabtes Wesen wie eine Fee) zu besitzen, löst der Geist einen Teil seines Machtwerts ab. Wird der Widerstand des Ziels von dieser Macht überwunden, wird das Opfer von einem Fragment des Bewusstseins des Geistes besessen und gerät unter seine direkte Kontrolle. Beliebig viele Punkte aus dem verbleibenden Machtvorrat des Geistes können in die besessene Kreatur eingebracht werden; diese Punkte werden erst nach Beendigung der Besessenheit regeneriert. Der Geist kann Punkte aus dem in seinem Opfer platzierten Machtvorrat aufwenden, um innerhalb seines eigenen Waldes jede seiner üblichen Mächte einzusetzen; verlässt er jedoch seinen eigenen Wald, muss er sich ausschließlich auf die Fähigkeiten stützen, über die das besessene Opfer verfügt. Jeder Versuch, die besessene Person zu einer Handlung zu zwingen, die völlig gegen ihre Natur verstößt, oder eine ihrer eigenen magischen Kräfte einzusetzen, erfordert, dass der Geist Punkte aus dem in das Behältnis platzierten Machtvorrat ausgibt. Eine übernatürliche Macht erfordert 1 Machtpunkt pro Magnitude, zusätzlich zu den Machtkosten (falls vorhanden) der Besessenheit. Eine fragwürdige Handlung erfordert, dass der Geist den Persönlichkeitswurf des Besessenen mit einem Stresswürfel + ausgegebenen Machtpunkten übertrifft. Der Spielleiter kann dem Persönlichkeitswurf einen Modifikator basierend auf der Art des Befehls geben. Es ist zu beachten, dass der Einsatz einer übernatürlichen Macht auch gegen die Natur des Opfers verstoßen kann; in diesem Fall müssen beide Kosten gedeckt werden. Sobald der in das Opfer eingebrachte Machtvorrat null erreicht, endet die Besessenheit. Es sei darauf hingewiesen, dass ein Wesen mit nur 1 Machtpunkt besessen werden kann, solange der Geist als Wirt nicht zu viel unternehmen möchte.
-
-**Eid beschwören** (5 oder 10 Punkte, Init +0, Vim): Der Geist kann die Kraft eines feierlich geschwörenen Eides zwischen zwei oder mehr Parteien erzwingen. Alle Parteien müssen dem Eid aus freiem Willen zustimmen. Versucht einer der Teilnehmer, direkt gegen den Eid zu handeln, wird er sich dessen sofort bewusst. Setzt er dies trotzdem fort, wird er mit einem Fehler belegt (entweder Klein oder Groß, je nach den vom Geist bezahlten Machtkosten). Dieser Fehler kann entfernt werden, indem der Eid vor den ursprünglichen Teilnehmern neu geschworen wird. Diese Macht besteht fort, solange keine Aufzeichnung des Eides mehr existiert, weder in den Erinnerungen der Teilnehmer noch in schriftlicher Form. Neue Teilnehmer können dem Eid hinzugefügt werden, indem sie ihn in Gegenwart des Geistes schwören, wenn dieser die ursprünglichen Machtkosten erneut bezahlt.
+**Wetter beherrschen** (10 Punkte, Init 0, Auram): Der Waldgeist kann das Wetter über seinem Gebiet in erheblichem Maße verändern, muss jedoch in gewissem Maß dem laufenden Quartal angemessen bleiben, da alle Wälder dem Wandel der Jahreszeiten unterworfen sind.
 
 **Fehler verleihen** (5 Punkte für einen kleinen Fehler, 10 Punkte für einen großen Fehler, Init 0, Vim): Der Geist kann denjenigen, die seinen Zorn erregt haben, einen bestimmten Fehler auferlegen. Jeder Geist kann mehr als eine Macht dieser Art besitzen, wobei jede einen anderen Fehler verleiht. In den meisten Fällen bleiben die Auswirkungen der Fehler auch dann bestehen, wenn das Opfer dem Einfluss des Geistes entkommen ist, verblassen jedoch allmählich im Laufe der Jahre, solange das Opfer dem Zentrum der Macht des Geistes fernbleibt.
+
+**Sieg verleihen** (variable Kosten, Init +3, Corpus): Ähnlich der Manifestationsmacht kann der Geist einen Teil seiner Macht in Menschen einbringen und ihnen so Überlegenheit im Kampf verleihen. Für jeden investierten Machtpunkt können zehn Männer ein +1 auf alle Kampfwürfe erhalten; oder einem Mann kann ein +3 auf die Absorption gewährt werden. Varianten dieser Macht gewähren +1 auf alle Würfe in einer bestimmten Situation oder +3 auf einen bestimmten Wurf. So könnten zehn Männer +1 auf alle Waldkunde-Würfe erhalten, oder ein Mann könnte +3 auf seine Jagen-Fertigkeit erlangen. Für diese Macht aufgewendete Machtpunkte werden zurückgewonnen, wenn ihre Wirkung aufgehoben wird.
+
+**Tugend verleihen** (5 Punkte für eine kleine Tugend, 10 Punkte für eine große Tugend, Init 0, Vim): Der Geist kann denjenigen, die er begünstigt, eine bestimmte Tugend verleihen. Jeder Geist kann mehr als eine Macht dieser Art besitzen, wobei jede eine andere Tugend verleiht. In den meisten Fällen verblasst die Wirkung der Tugend, wenn der Besitzer zu lange von der Machtquelle des Geistes entfernt bleibt.
 
 **Führen** (2 Punkte, Init 0, Mentem): Der Waldgeist ist in der Lage, Besucher auf subtile Weise in eine gewünschte Richtung oder an einen gewünschten Ort zu lenken. Die Besucher können bestimmten mystischen Zeichen folgen oder einfach einen neuen Pfad vorfinden, der den Weg weist, oder einem der Waldtiere folgen, obwohl sie nicht gezwungen sind, diesen Hinweisen zu folgen.
 
 **Heilung** (4 Punkte, Init –1, Corpus): Der Geist kann einen Menschen oder ein Tier heilen: ihre schlimmste Wunde verbessert sich um eine Stufe. Tiere, die im Wald heimisch sind, können vollständig geheilt werden. Die Heilung kann bewirkt werden, wenn der Empfänger eine bestimmte Handlung ausführt, wie das Trinken aus einer Waldquelle, die Verwendung geernteter Waldkräuter oder einfach das Verbringen einer Nacht im Wald.
 
+**Besessenheit** (5 Punkte, Init +2, Mentem): Um einen Menschen (oder ein anderes vernunftbegabtes Wesen wie eine Fee) zu besitzen, löst der Geist einen Teil seines Machtwerts ab. Wird der Widerstand des Ziels von dieser Macht überwunden, wird das Opfer von einem Fragment des Bewusstseins des Geistes besessen und gerät unter seine direkte Kontrolle. Beliebig viele Punkte aus dem verbleibenden Machtvorrat des Geistes können in die besessene Kreatur eingebracht werden; diese Punkte werden erst nach Beendigung der Besessenheit regeneriert. Der Geist kann Punkte aus dem in seinem Opfer platzierten Machtvorrat aufwenden, um innerhalb seines eigenen Waldes jede seiner üblichen Mächte einzusetzen; verlässt er jedoch seinen eigenen Wald, muss er sich ausschließlich auf die Fähigkeiten stützen, über die das besessene Opfer verfügt. Jeder Versuch, die besessene Person zu einer Handlung zu zwingen, die völlig gegen ihre Natur verstößt, oder eine ihrer eigenen magischen Kräfte einzusetzen, erfordert, dass der Geist Punkte aus dem in das Behältnis platzierten Machtvorrat ausgibt. Eine übernatürliche Macht erfordert 1 Machtpunkt pro Magnitude, zusätzlich zu den Machtkosten (falls vorhanden) der Besessenheit. Eine fragwürdige Handlung erfordert, dass der Geist den Persönlichkeitswurf des Besessenen mit einem Stresswürfel + ausgegebenen Machtpunkten übertrifft. Der Spielleiter kann dem Persönlichkeitswurf einen Modifikator basierend auf der Art des Befehls geben. Es ist zu beachten, dass der Einsatz einer übernatürlichen Macht auch gegen die Natur des Opfers verstoßen kann; in diesem Fall müssen beide Kosten gedeckt werden. Sobald der in das Opfer eingebrachte Machtvorrat null erreicht, endet die Besessenheit. Es sei darauf hingewiesen, dass ein Wesen mit nur 1 Machtpunkt besessen werden kann, solange der Geist als Wirt nicht zu viel unternehmen möchte.
+
+**Eid beschwören** (5 oder 10 Punkte, Init +0, Vim): Der Geist kann die Kraft eines feierlich geschwörenen Eides zwischen zwei oder mehr Parteien erzwingen. Alle Parteien müssen dem Eid aus freiem Willen zustimmen. Versucht einer der Teilnehmer, direkt gegen den Eid zu handeln, wird er sich dessen sofort bewusst. Setzt er dies trotzdem fort, wird er mit einem Fehler belegt (entweder Klein oder Groß, je nach den vom Geist bezahlten Machtkosten). Dieser Fehler kann entfernt werden, indem der Eid vor den ursprünglichen Teilnehmern neu geschworen wird. Diese Macht besteht fort, solange keine Aufzeichnung des Eides mehr existiert, weder in den Erinnerungen der Teilnehmer noch in schriftlicher Form. Neue Teilnehmer können dem Eid hinzugefügt werden, indem sie ihn in Gegenwart des Geistes schwören, wenn dieser die ursprünglichen Machtkosten erneut bezahlt.
+
 **Regio** (10 Punkte pro Stufe, Init 0): Eine Regio kann an einem Teil des Waldes existieren, wo eine Aura vorhanden ist. Der Geist kontrolliert den Zugang zu den verschiedenen Stufen der Regio, und auf höheren Stufen kann er direkter kontaktiert werden oder deutlicher präsent sein. In manchen Fällen ist die Regio nur zu bestimmten Jahreszeiten zugänglich. Der Machtpunkteaufwand ist dauerhaft, solange die Regio aufrechterhalten wird. Eine Regio mit Stufen mit Aurastärken von 5 und 7 würde beispielsweise die dauerhafte Bindung von 20 Machtpunkten erfordern.
 
 **Schleier** (6 Punkte, Init 0, Mentem): Der Waldgeist ist in der Lage, Eindringlinge zu behindern, um sie daran zu hindern, einen bestimmten Bereich des Waldes zu erreichen. Sie können feststellen, dass ihr Weg durch undurchdringliches Unterholz, schwieriges Gelände oder ein Wildtier versperrt ist, und stattdessen einen günstigeren Weg einschlagen, der sie in die falsche Richtung führt. Dies bewirkt einen Effekt ähnlich dem Zauber *Die verschleierte Lichtung*.
 
-**Sieg verleihen** (variable Kosten, Init +3, Corpus): Ähnlich der Manifestationsmacht kann der Geist einen Teil seiner Macht in Menschen einbringen und ihnen so Überlegenheit im Kampf verleihen. Für jeden investierten Machtpunkt können zehn Männer ein +1 auf alle Kampfwürfe erhalten; oder einem Mann kann ein +3 auf die Absorption gewährt werden. Varianten dieser Macht gewähren +1 auf alle Würfe in einer bestimmten Situation oder +3 auf einen bestimmten Wurf. So könnten zehn Männer +1 auf alle Waldkunde-Würfe erhalten, oder ein Mann könnte +3 auf seine Jagen-Fertigkeit erlangen. Für diese Macht aufgewendete Machtpunkte werden zurückgewonnen, wenn ihre Wirkung aufgehoben wird.
-
 **Stillstand** (15 Punkte, Init 0, Vim): Ein bestimmter innerer Teil des Waldes kann so abgelegen und von der Außenwelt abgeschlossen sein, dass der Lauf der Zeit selbst verändert wird. Sterbliche, die hier leben, altern nicht (keine Alterungspunkte werden angesammelt), solange sie dort verbleiben. Jedoch verschwimmen ihre Wahrnehmung der vergangenen Jahre und Erinnerungen an ihr früheres Leben allmählich, und sie werden nach Jahrzehnten oder mehr im Wald Verzerrung erleiden. Dies könnte es Magi oder anderen legendären Persönlichkeiten aus vergangenen Jahrhunderten ermöglichen, verborgen tief in einem mächtigen Wald zu bestehen. Eine Voraussetzung für diese seltene Macht ist das Vorhandensein einer Regio mit einer Aura hoher Stufe. Eine etwas häufigere, geringere Variante ist die Tugend verleihen-Macht (Nicht alternd).
-
-**Tugend verleihen** (5 Punkte für eine kleine Tugend, 10 Punkte für eine große Tugend, Init 0, Vim): Der Geist kann denjenigen, die er begünstigt, eine bestimmte Tugend verleihen. Jeder Geist kann mehr als eine Macht dieser Art besitzen, wobei jede eine andere Tugend verleiht. In den meisten Fällen verblasst die Wirkung der Tugend, wenn der Besitzer zu lange von der Machtquelle des Geistes entfernt bleibt.
-
-**Wetter beherrschen** (10 Punkte, Init 0, Auram): Der Waldgeist kann das Wetter über seinem Gebiet in erheblichem Maße verändern, muss jedoch in gewissem Maß dem laufenden Quartal angemessen bleiben, da alle Wälder dem Wandel der Jahreszeiten unterworfen sind.
 
 >#### Die Bäume Deutschlands
 >
@@ -1582,8 +1582,6 @@ Dies ist ein Überblick über den Inhalt der Großen Bibliothek. Der Spielleiter
 
 Rund um die Wände der besuchbaren Etagen des Turms sind eine Reihe robuster Eichentische aufgestellt, die hoch mit Büchern und Schriftrollen gestapelt sind, sowie große Schreibpulte, an denen Magi studieren. Viele der Bände sind Kopien von Originalen, die vor Jahrhunderten von renommierten Magi verfasst wurden.
 
-**Das dritte und vierte Obergeschoss:** Jedes dieser Stockwerke ist in zwei Laboratorien aufgeteilt, zur Nutzung durch Magi, die von den vielen in der Bibliothek gesammelten Labortexten arbeiten möchten. Die Laboratorien sind etwas beengt, aber speziell angefertigte Ausrüstung bedeutet, dass sie ohne Abzug genutzt werden können, und sie sind generell sehr begehrt.
-
 **Das Erdgeschoss:** Beim Betreten des Turms gelangt man in das Skriptorium, wo Bücher abgeschrieben, gebunden und kopiert werden. An einem Ende befindet sich außerdem eine eklektische und disparate Sammlung überwiegend antiker weltlicher Bücher, die aus verschiedenen fernen Orten zusammengetragen wurden.
 
 Endlose Stapel von Labornotizen (die die obskuren, vergessenen und unvollendeten Forschungsprojekte längst verstorbener Magi beschreiben – Labortexte abgeschlossener Projekte befinden sich im zweiten Stockwerk) sammeln hier Staub, zusammen mit den umfangreichen vollständigen Aufzeichnungen der Zusammenkünfte des Rheintribunals und der Großtribunale seit der Ordensgründung. Ein Magus kann eine Jahreszeit damit verbringen, nach einem Satz Labornotizen zu suchen, der für ein bestimmtes Projekt oder Forschungsinteresse relevant ist. Der Erfolg sollte durch einen Intelligenz + Magietheorie-Wurf gegen einen angemessenen Schwierigkeitsgrad bestimmt werden. Wenn ein Magus die Labornotizen eines bestimmten Verfassers einsehen möchte, ist kein solcher Wurf erforderlich; die entsprechenden Notizen werden nach höchstens einigen Tagen der Suche wahrscheinlich gefunden, es sei denn, der Zugang ist eingeschränkt (siehe unten).
@@ -1598,10 +1596,6 @@ Um festzustellen, ob ein gewünschter Zauber in der Bibliothek vorhanden ist, w�
 
 Bei verzauberten Gegenständen würfelt man einen Stresswurf. Der Schwierigkeitsgrad liegt zwischen 6 und 21, wie bei Nicht-Standardzaubern, doch ein Übertreffen des Schwierigkeitsgrades bedeutet nur, dass ein Labortext für eine Verzauberung vorhanden ist, die der gewünschten sehr ähnlich ist. Nur wenn der Wurf den Schwierigkeitsgrad um mindestens 6 übertrifft, gibt es einen Labortext für genau die gewünschte Verzauberung.
 
-**Das fünfte und sechste Obergeschoss:** Die obersten zwei Etagen des Turms umfassen das Sanctum des Bibliothekars und sind daher gesperrt, außer auf seine Einladung hin. Seine Gemächer beherbergen zahlreiche verschiedene magische Bücher sowie jene Labornotizen, von denen bekannt ist, dass sie exotische Theorien und Heckenzauber-Traditionen betreffen, zu denen der Zugang stark eingeschränkt ist.
-
-**Der Keller:** Die Kellergeschosse des Turms werden durch eine große eiserne Falltür geschützt, die magisch verzaubert ist. Hier werden viele der Originale der kostbarsten Bände der Bibliothek sicher aufbewahrt, von denen nur die Kopien in den oberen Etagen eingesehen werden dürfen. Hier befinden sich auch Durenmars Vis-Vorräte sowie unzählige Gegenstände und „Relikte" (darunter einige der ursprünglichen Besitztümer der Gründer).
-
 **Das zweite Obergeschoss:** Diese Ebene ist Tractatus und Summae zu Fertigkeiten gewidmet, hauptsächlich Magietheorie, obwohl unter den mehreren Hundert Bänden auch Bücher über andere Arkane Fertigkeiten und die Künste zu finden sind.
 
 Ein Magus müsste Dutzende von Tractatus lesen, bevor er das Angebot zu einer bestimmten Kunst erschöpft hätte. Sie variieren stark; eine typische Qualität liegt zwischen 3 und 9, mit einem Maximum von etwa 12.
@@ -1612,23 +1606,15 @@ Die Summae der Bibliothek zu den Künsten und Arkanen Fertigkeiten (darunter dre
 
 Um festzustellen, ob einem Magus eine Summa einer bestimmten Kunst zur Verfügung steht, würfelt man einen einfachen Würfelwurf und addiert 10. (Meister, Bonisagus-Magi und Mitglieder Durenmars dürfen diesem Wurf weitere 3 hinzufügen. Erzmagi dürfen weitere 6 hinzufügen. Der Gesamtwert darf jedoch 20 nicht überschreiten.) Der Schwierigkeitsgrad ist die gewünschte Stufe der Summa. Ein Misserfolg bedeutet, dass entweder eine solche hochstufige Summa in der Bibliothek nicht existiert (obwohl Summae von mindestens Stufe 17 für alle fünfzehn Künste vorhanden sind) oder – wahrscheinlicher – dass ein Magus mit höherem Rang oder Vorrecht den Band in dieser Jahreszeit benutzt. Um eine Summa zu einer Arkanen Fertigkeit zu finden, würfelt man nur einen einfachen Würfelwurf (ohne +10 oder weiteren Bonus) gegen die gewünschte Stufe; ein Misserfolg bedeutet, dass das gewünschte Buch nicht existiert. Für beide Arten gilt: Trifft der Wurf genau den Schwierigkeitsgrad, gibt es einen Magus gleichen Ranges, der denselben Band in derselben Jahreszeit lesen möchte: ein Certamen muss ausgefochten werden. Um die Qualität einer Summa in der Bibliothek zu bestimmen, würfelt man einen einfachen Würfelwurf und addiert 5. Die Durenmar-Kunde kann diesem Wurf hinzugefügt werden, jedoch mit einem kumulativen Abzug von 1 Punkt für jede solche vorangegangene Verwendung der Durenmar-Kunde in derselben Kunst oder Fertigkeit. Es wird empfohlen, dass die Qualität 30 − die Stufe der Summa oder 24 nicht übersteigen sollte (je nachdem, was niedriger ist), wobei 28 als absolutes Limit gilt.
 
+**Das dritte und vierte Obergeschoss:** Jedes dieser Stockwerke ist in zwei Laboratorien aufgeteilt, zur Nutzung durch Magi, die von den vielen in der Bibliothek gesammelten Labortexten arbeiten möchten. Die Laboratorien sind etwas beengt, aber speziell angefertigte Ausrüstung bedeutet, dass sie ohne Abzug genutzt werden können, und sie sind generell sehr begehrt.
+
+**Das fünfte und sechste Obergeschoss:** Die obersten zwei Etagen des Turms umfassen das Sanctum des Bibliothekars und sind daher gesperrt, außer auf seine Einladung hin. Seine Gemächer beherbergen zahlreiche verschiedene magische Bücher sowie jene Labornotizen, von denen bekannt ist, dass sie exotische Theorien und Heckenzauber-Traditionen betreffen, zu denen der Zugang stark eingeschränkt ist.
+
+**Der Keller:** Die Kellergeschosse des Turms werden durch eine große eiserne Falltür geschützt, die magisch verzaubert ist. Hier werden viele der Originale der kostbarsten Bände der Bibliothek sicher aufbewahrt, von denen nur die Kopien in den oberen Etagen eingesehen werden dürfen. Hier befinden sich auch Durenmars Vis-Vorräte sowie unzählige Gegenstände und „Relikte" (darunter einige der ursprünglichen Besitztümer der Gründer).
+
 ### Magi
 
 Derzeit gibt es zehn Bonisagus-Magi in Durenmar sowie fünf Magi aus anderen Häusern, von denen die meisten im Folgenden beschrieben werden. Spielleiter sollten diese Magi jedoch gern verändern oder ihre Zahl erhöhen, falls es den Bedürfnissen ihrer Saga entspricht. Unter jenen aus anderen Häusern hält einer den Ehrentitel „Beschützer" (verantwortlich für die kriegerische Verteidigung des Konvents) und ein anderer wird als „Kunsthandwerker" bezeichnet (dessen Pflicht es ist, Gegenstände zum Ruhm des Konvents zu fertigen). Traditionell werden bemerkenswerte Magi von Flambeau bzw. Verditius, jeweils Meister oder Erzmagi, vom Primus ausgewählt und eingeladen beizutreten. Es ist auch immer mindestens ein Magus des Hauses Guernicus anwesend – Durenmar beherbergt üblicherweise den ranghöchsten Quaesitor des Tribunals. Traditionell ist ein Begabtes Mitglied des Hauses Mercere ansässig und beaufsichtigt das Mercere-Haus. Ein oder mehrere Rotkappen können zu jeder Zeit hier anzutreffen sein – eine vielbefahrene Route führt südlich zum Tribunal der Hohen Alpen und zu Harco im Römischen Tribunal, entweder über die Rorschach-Kapitelgruppe am Bodensee, das Gasthaus Zum Kupfernen Hahn in Basel, den Konvent der Sehnen des Wissens, der enge und freundschaftliche Beziehungen zu Durenmar unterhält, oder direkt durch das Mercere-Portal nach Harco.
-
-**ANDRUS, GEFOLGSMANN DES BONISAGUS**
-
-Alter: 61 (Meister)<br>
-Persönlichkeitseigenschaften: Beschäftigt +3, Bescheiden +1, Willensstark –1
-
-Andrus, ein dünner und kahlköpfiger Mann mit einem aufmerksamen und bestimmenden Blick, etwa vierzig Jahre nach seiner Lehrlingsprüfung, ist der erste Filius der Murion. Er ist ein Colens Arcanorum (vgl. *Häuser des Hermes: Wahre Abstammungslinien*), gemeinsam verantwortlich für die Verbreitung des Wissens und der Forschung des Hauses, und seine aufreibenden Pflichten als Bibliothekar nehmen viel seiner Zeit in Anspruch und lenken ihn von seiner Forschung ab, was bedeutet, dass er immer im Konvent ist. Da Andrus den Zugang zur Großen Bibliothek kontrolliert, ist es sehr unklug, ihn zu verärgern. Politisch gilt er als Murions Marionette und es heißt, er bereite sich darauf vor, sie in den kommenden Jahren um den Erzmagirang herauszufordern.
-
-**CAECILIUS, GEFOLGSMANN DES BONISAGUS**
-
-Alter: etwa 160 (Erzmagus)<br>
-Persönlichkeitseigenschaften: Fleißig +3, Reizbar +2, Träge +1
-
-Caecilius ist der ehrwürdigste der Magi Durenmars und gilt als der größte lebende Meister der Intellego-Magie. Seit er vor vielen Jahren zum Quaesitor ernannt wurde, tendiert seine Forschung dazu, die Grenzen der Untersuchungsrituale des Hauses Guernicus auszureizen. Es heißt, er habe den Titel zunächst abgelehnt, aber schließlich aus einem Gefühl der Pflicht überredet worden, da die quaesitorische Präsenz im Tribunal ansonsten sehr schwach gewesen wäre. Er bleibt ein etwas widerwilliger Quaesitor, der in der Politik oder bei der Durchsetzung des Kodex nicht gerade proaktiv ist – obwohl dies teilweise auf seine zunehmend häufigen Zwielicht-Episoden zurückzuführen sein mag. Wenn er jedoch aufgerufen wird zu handeln, erweist er sich als brillanter Ermittler, dessen Genie im Laufe der Jahre zahlreiche hermetische Verbrechen aufgeklärt und vereitelt hat. Caecilius hat eine makellose hermetische Aufzeichnung, was bei seinem hohen Alter bemerkenswert ist, und beim Tribunal urteilt er als ranghöchster Quaesitor. Sein Vertrauter ist ein silberfarbener Wolf.
 
 **MURION, PRIMA DES HAUSES BONISAGUS**
 
@@ -1637,12 +1623,40 @@ Persönlichkeitseigenschaften: Loyal gegenüber persönlicher Agenda +3, Urteile
 
 Eine hochmütige und herrische Frau, Murion möchte Durenmar (und das Rheintribunal) an den ihnen gebührenden Platz der Vorherrschaft im Orden zurückführen. Obwohl nicht ihre höchste Priorität, ergänzen die Pläne der Aschengilde, in die nordischen Länder einzufallen, diese Ambition gut: Ein solcher Krieg würde mächtige Magi und Ressourcen ins Tribunal ziehen, geplündertes Vis und Artefakte würden es bereichern, und letztlich würde eine hermetische Kolonisierung der nördlichen Länder das geopolitische Zentrum des Ordens zurück zum Rhein verschieben. Murion ist in allen Hermetischen Künsten bewandert, brilliert aber besonders in Rego und Imaginem. Sie trägt einen großen Umhang aus weißen Federn, der mit illusionären Kräften verzaubert ist, und Verschwörungstheorien kursieren über die bemerkenswerten Magi, die sie möglicherweise imitiert hat, oder die verschiedenen Machenschaften, in die sie verwickelt sein könnte. Ihr Raben-Vertrauter Kolkrabus wird gelegentlich ausgesandt, um die Magi von Dankmar und andere wahrgenommene Feinde auszuspionieren (in Missachtung des Kodex des Hermes). Als sowohl Praeco des Tribunals, Halterin des Sigils des Bonisagus (vgl. Kapitel 3: Tribunalsgeschichte und Gepflogenheiten, Tribunalszusammenkünfte), als auch Anführerin der größten Gilde, der Eichengilde, ist Murion unbestreitbar die politisch mächtigste Maga im Tribunal.
 
+**ANDRUS, GEFOLGSMANN DES BONISAGUS**
+
+Alter: 61 (Meister)<br>
+Persönlichkeitseigenschaften: Beschäftigt +3, Bescheiden +1, Willensstark –1
+
+Andrus, ein dünner und kahlköpfiger Mann mit einem aufmerksamen und bestimmenden Blick, etwa vierzig Jahre nach seiner Lehrlingsprüfung, ist der erste Filius der Murion. Er ist ein Colens Arcanorum (vgl. *Häuser des Hermes: Wahre Abstammungslinien*), gemeinsam verantwortlich für die Verbreitung des Wissens und der Forschung des Hauses, und seine aufreibenden Pflichten als Bibliothekar nehmen viel seiner Zeit in Anspruch und lenken ihn von seiner Forschung ab, was bedeutet, dass er immer im Konvent ist. Da Andrus den Zugang zur Großen Bibliothek kontrolliert, ist es sehr unklug, ihn zu verärgern. Politisch gilt er als Murions Marionette und es heißt, er bereite sich darauf vor, sie in den kommenden Jahren um den Erzmagirang herauszufordern.
+
+**TANDALINE, GEFOLGSFRAU DES BONISAGUS**
+
+Alter: 78 (Meisterin)<br>
+Persönlichkeitseigenschaften: Undurchdringlich +3, Blasiert +1, Mitfühlend +1
+
+Tandaline, eine blasse und schlanke Frau, deren Augen auf hypnotische Weise beständig die Farbe zu wechseln scheinen, gilt seit mehreren Jahrzehnten als Meisterin sowohl in Muto als auch in Auram; sie sucht nach weiterer Erkenntnis in ihrer bevorzugten Form durch den bemerkenswerten Prozess, sich selbst vorübergehend in Dampf zu verwandeln. Sie entstammt jedoch der politisch orientierten Abstammungslinie der Trianoma. Sie ist die engste Vertraute der Murion, die sie zur Tenens Occultorum ernannt hat (vgl. *Häuser des Hermes: Wahre Abstammungslinien*), und deren politische Neigungen größtenteils mit ihren eigenen übereinstimmen, obwohl sie als freie Denkerin und hoch angesehene Maga in eigenem Recht gilt. Im Rahmen ihrer Pflichten nimmt Tandaline es auf sich, mit vielen Magi ihres Hauses schriftlich in Kontakt zu bleiben, und sie setzt ihre beträchtlichen politischen Verbindungen ein, um großen Ärger für jeden zu verursachen, von dem berichtet wird, dass er einen Bonisagus-Magus misshandelt.
+
+**CAECILIUS, GEFOLGSMANN DES BONISAGUS**
+
+Alter: etwa 160 (Erzmagus)<br>
+Persönlichkeitseigenschaften: Fleißig +3, Reizbar +2, Träge +1
+
+Caecilius ist der ehrwürdigste der Magi Durenmars und gilt als der größte lebende Meister der Intellego-Magie. Seit er vor vielen Jahren zum Quaesitor ernannt wurde, tendiert seine Forschung dazu, die Grenzen der Untersuchungsrituale des Hauses Guernicus auszureizen. Es heißt, er habe den Titel zunächst abgelehnt, aber schließlich aus einem Gefühl der Pflicht überredet worden, da die quaesitorische Präsenz im Tribunal ansonsten sehr schwach gewesen wäre. Er bleibt ein etwas widerwilliger Quaesitor, der in der Politik oder bei der Durchsetzung des Kodex nicht gerade proaktiv ist – obwohl dies teilweise auf seine zunehmend häufigen Zwielicht-Episoden zurückzuführen sein mag. Wenn er jedoch aufgerufen wird zu handeln, erweist er sich als brillanter Ermittler, dessen Genie im Laufe der Jahre zahlreiche hermetische Verbrechen aufgeklärt und vereitelt hat. Caecilius hat eine makellose hermetische Aufzeichnung, was bei seinem hohen Alter bemerkenswert ist, und beim Tribunal urteilt er als ranghöchster Quaesitor. Sein Vertrauter ist ein silberfarbener Wolf.
+
 **OCCULTES, GEFOLGSMANN DES BONISAGUS**
 
 Alter: 72 (Meister)<br>
 Persönlichkeitseigenschaften: Freundlich +3, Neugierig +2, Geltungsbedürftig +1
 
 Occultes ist ein bunter Mann, dessen magische Forschung Handschriften und Gegenstände aller Art betrifft. Es ist ihm gelungen, einen kleinen Golem zu erschaffen, der mit begrenzter Wirkung in seinem Labor dient, und er hat zahlreiche magische Texte und Federkiele verzaubert. Er sammelt Informationen von nah und fern über bemerkenswerte Artefakte oder seltsame magische Praktiken. Eine bedeutende Minderheit von Bonisagus-Magi würde Occultes lieber als Primus ihres Hauses statt Murion sehen, da er der Aushängeschild einer Gruppe nach außen gerichteter Magi ist, die einen sanfteren und inklusiveren Ansatz bevorzugen, der die Erweiterung der hermetischen Magie durch die Einbeziehung exotischer Techniken und Heckenzauber ermöglicht. Er diente früher als Bibliothekar, wurde jedoch von Avarret, dem früheren Primus, von diesem Posten abgelöst. Seitdem ist er jedoch zum Anführer der Lindengilde aufgestiegen. Obwohl er keinen Zugang mehr zu den eingeschränkten Texten in der Bibliothek hat, kennt er den Inhalt dieser Bände sehr wohl. Tatsächlich hat er die interessantesten stillschweigend kopiert oder in sein eigenes Sanctum verlagert, von wo er sie vertrauenswürdigen Verbündeten mit einem entsprechenden Forschungsinteresse heimlich weitergibt. Murion duldet die Anwesenheit des Occultes im Konvent, behält aber ein wachsames Auge auf ihn. Da er ein umgänglicher Mensch mit bescheidenen politischen Ambitionen ist, nimmt sie an, dass er keine große Bedrohung darstellt. Außerdem könnte ein Vorgehen gegen einen so hoch angesehenen Magus die Fraktionsunterschiede im Haus zu einem schädigenden Schisma vertiefen, das sie vermeiden möchte.
+
+**RICARDUS CAESPUUS, GEFOLGSMANN DES BONISAGUS**
+
+Alter: 56 (Meister)<br>
+Persönlichkeitseigenschaften: Zurückgezogen +3, Künstlerisch +2, Intensiv +1
+
+Ricardus lebt etwas abseits der anderen Magi Durenmars – sein Sanctum am südlichen Rand des Konvents ist ein großes Gebäude, dessen Wände größtenteils aus Glas gebaut sind. Angesichts der Kosten und der kleinen Größe von Fenstern des 13. Jahrhunderts ist es ein bemerkenswertes und einzigartiges Bauwerk, bestehend aus Tausenden von zarten, bleigerahmten Scheiben, die von Holzbalken getragen werden. Dies ist ein Labor, das hochgradig auf Herbam spezialisiert ist und allerlei sonderbare und exotische Pflanzen beherbergt, aus denen Ricardus es geschafft hat, mehrere verschiedene Vis-Arten in einer Methode zu kultivieren, die der Vis-Gewinnung ähnelt. Obwohl seine Arbeit von Bedeutung zu sein scheint, werden seine Bemühungen, seine Entdeckungen mitzuteilen, als mangelhaft wahrgenommen – oder zumindest kann niemand ein Wort von dem verstehen, was er sagt, trotz seiner ernsthaften und freundlichen Art. Von Murion und ihren Anhängern kaum besser als ein Heckenzauberer angesehen, wird seine fortgesetzte Anwesenheit in Durenmar nur wegen seiner äußersten Nützlichkeit bei der Vis-Ernte und seiner regelmäßigen Beiträge zu den Konventsvorräten geduldet.
 
 **PETRUS VIRILIS, GEFOLGSMANN DES BONISAGUS**
 
@@ -1655,20 +1669,6 @@ Ein ansonsten mittelmäßiger Magus, das Bemerkenswerteste an Petrus (sehr zu se
 >Eine der weiblichen Spielercharaktere sehnt sich nach einem Begabten Kind und hört von Petrus. Was wird sie ihm als Gegenleistung für seine Dienste anbieten müssen? (Da er dem Umgang mit Frauen so abgeneigt ist, wird mehr als konventionelle Verführung nötig sein.)
 >
 >Petrus verliebt sich unerklärlich in ein Bauersmädchen, und trotz der widrigen Auswirkungen seiner Gabe scheinen die Gefühle gegenseitig zu sein. Als Akt des Aufbegehrens plant er seine Hochzeit in einer nahegelegenen Stadt. Wenn er heiratet, wird Durenmar seine Seele gefährden, indem es versucht, ihn zur Verletzung seiner Keuschheitsgelübde zu zwingen? Wenn ihm erlaubt wird, ein normales Eheleben ohne Einmischung zu führen, werden eventuelle Kinder aus dieser Verbindung für den Konvent von großem Interesse sein.
-
-**RICARDUS CAESPUUS, GEFOLGSMANN DES BONISAGUS**
-
-Alter: 56 (Meister)<br>
-Persönlichkeitseigenschaften: Zurückgezogen +3, Künstlerisch +2, Intensiv +1
-
-Ricardus lebt etwas abseits der anderen Magi Durenmars – sein Sanctum am südlichen Rand des Konvents ist ein großes Gebäude, dessen Wände größtenteils aus Glas gebaut sind. Angesichts der Kosten und der kleinen Größe von Fenstern des 13. Jahrhunderts ist es ein bemerkenswertes und einzigartiges Bauwerk, bestehend aus Tausenden von zarten, bleigerahmten Scheiben, die von Holzbalken getragen werden. Dies ist ein Labor, das hochgradig auf Herbam spezialisiert ist und allerlei sonderbare und exotische Pflanzen beherbergt, aus denen Ricardus es geschafft hat, mehrere verschiedene Vis-Arten in einer Methode zu kultivieren, die der Vis-Gewinnung ähnelt. Obwohl seine Arbeit von Bedeutung zu sein scheint, werden seine Bemühungen, seine Entdeckungen mitzuteilen, als mangelhaft wahrgenommen – oder zumindest kann niemand ein Wort von dem verstehen, was er sagt, trotz seiner ernsthaften und freundlichen Art. Von Murion und ihren Anhängern kaum besser als ein Heckenzauberer angesehen, wird seine fortgesetzte Anwesenheit in Durenmar nur wegen seiner äußersten Nützlichkeit bei der Vis-Ernte und seiner regelmäßigen Beiträge zu den Konventsvorräten geduldet.
-
-**TANDALINE, GEFOLGSFRAU DES BONISAGUS**
-
-Alter: 78 (Meisterin)<br>
-Persönlichkeitseigenschaften: Undurchdringlich +3, Blasiert +1, Mitfühlend +1
-
-Tandaline, eine blasse und schlanke Frau, deren Augen auf hypnotische Weise beständig die Farbe zu wechseln scheinen, gilt seit mehreren Jahrzehnten als Meisterin sowohl in Muto als auch in Auram; sie sucht nach weiterer Erkenntnis in ihrer bevorzugten Form durch den bemerkenswerten Prozess, sich selbst vorübergehend in Dampf zu verwandeln. Sie entstammt jedoch der politisch orientierten Abstammungslinie der Trianoma. Sie ist die engste Vertraute der Murion, die sie zur Tenens Occultorum ernannt hat (vgl. *Häuser des Hermes: Wahre Abstammungslinien*), und deren politische Neigungen größtenteils mit ihren eigenen übereinstimmen, obwohl sie als freie Denkerin und hoch angesehene Maga in eigenem Recht gilt. Im Rahmen ihrer Pflichten nimmt Tandaline es auf sich, mit vielen Magi ihres Hauses schriftlich in Kontakt zu bleiben, und sie setzt ihre beträchtlichen politischen Verbindungen ein, um großen Ärger für jeden zu verursachen, von dem berichtet wird, dass er einen Bonisagus-Magus misshandelt.
 
 **WINFRIDA, GEFOLGSFRAU DES GUERNICUS**
 
@@ -2010,20 +2010,6 @@ Waddenzee gibt sich große Mühe, seine Aktivitäten nach dem Kodex des Hermes l
 
 ### Magi
 
-**ERIC RIBECUS, GEFOLGSMANN DES TYTALUS**
-
-Alter: 52 (Geselle)<br>
-Persönlichkeitseigenschaften: Rücksichtslos +6, Trockener Humor +4, Passiv –4
-
-Eric Ribecus ist der andere Gründer des Konvents. Dieser schwarzhaarige Magus des Hauses Tytalus stammt aus Ribe in Dänemark und nimmt den Piratenlebensstil unter allen Magi Waddenzees am ernstesten. Er ist ein verwegener Extrovert, dem die Damen gewogen sind, und er überschätzt seine eigenen Fähigkeiten maßlos. Er erscheint aufgrund von Illusionen und einem guten Langlebigkeitsritual weit jünger als sein wahres Alter. In seiner Magie ist er Generalist, bevorzugt jedoch Aquam und Auram. Im Kampf findet man ihn meist an der Seite seiner Männer mit seinem magischen Schwert. Sein Vertrauter ist ein Schmarotzerraubmöwe namens Aegir, ein großer Seevogel, bekannt für seine räuberischen Gewohnheiten.
-
-**HACHIM AL'KHALEJJ, GEFOLGSMANN DES CRIAMON**
-
-Alter: 36 (Geselle)<br>
-Persönlichkeitseigenschaften: Verschwiegen +3, Frommer Muslim +2, Introvertiert +2
-
-Hachim al'Khalejj ist eine gewisse Kuriosität – ein stiller, naiver muslimischer Magus des Hauses Criamon (Filius von Hassan von Fengheld), der rein zufällig mit den anderen drei aggressiven Magi zusammengefunden zu haben scheint. Dennoch ermöglicht ihm ihre Raubzüge einen üppigen Lebensstil, und seine Kenntnisse der Astrologie erweisen sich für die anderen Magi bei der Planung ihrer Überfälle als sehr nützlich. Hachim kleidet sich in erbeutete Seide, bevorzugt Creme und Blau, und geht mit einem Hinken.
-
 **HYGWALD VERITAS, GEFOLGSMANN DES TREMERE**
 
 Alter: 48 (Geselle)<br>
@@ -2031,12 +2017,26 @@ Persönlichkeitseigenschaften: Arrogant +3, Ehrlich gegenüber Quaesitoren +3, R
 
 Hygwald Veritas ist ein hinterhältiger Magus des Hauses Tremere und Mitgründer von Waddenzee. Als gebürtiger Engländer (ausgebildet im Stonehenge-Konvent Blackthorn) ist Hygwald den Quaesitoren gegenüber peinlich genau ehrlich und strebt insgeheim danach, Mitglied dieser erlesenen Gruppe zu werden. Im Umgang mit anderen Wesen – ob Magus oder nicht, Mensch oder nicht – zeigt sich Hygwalds Arroganz deutlich. Mitgliedern seines Hauses und andernorts nach Bedarf erweist er Respekt, hat aber keinerlei Skrupel, zu lügen, zu betrügen und zu stehlen, um seine eigenen Ziele zu verfolgen. Er erscheint als gepflegter Mann Ende dreißig und kleidet sich stets auf eine Weise, die seinen großen persönlichen Reichtum und sein Bedeutungsgefühl zur Schau stellt. Er ist Spezialist für Mentem-Magie, insbesondere Rego Mentem, und macht ausgiebigen Gebrauch von *Aura der rechtmäßigen Autorität*.
 
+**ERIC RIBECUS, GEFOLGSMANN DES TYTALUS**
+
+Alter: 52 (Geselle)<br>
+Persönlichkeitseigenschaften: Rücksichtslos +6, Trockener Humor +4, Passiv –4
+
+Eric Ribecus ist der andere Gründer des Konvents. Dieser schwarzhaarige Magus des Hauses Tytalus stammt aus Ribe in Dänemark und nimmt den Piratenlebensstil unter allen Magi Waddenzees am ernstesten. Er ist ein verwegener Extrovert, dem die Damen gewogen sind, und er überschätzt seine eigenen Fähigkeiten maßlos. Er erscheint aufgrund von Illusionen und einem guten Langlebigkeitsritual weit jünger als sein wahres Alter. In seiner Magie ist er Generalist, bevorzugt jedoch Aquam und Auram. Im Kampf findet man ihn meist an der Seite seiner Männer mit seinem magischen Schwert. Sein Vertrauter ist ein Schmarotzerraubmöwe namens Aegir, ein großer Seevogel, bekannt für seine räuberischen Gewohnheiten.
+
 **LUCAS VON BECK, GEFOLGSMANN DES FLAMBEAU**
 
 Alter: 45 (Geselle)<br>
 Persönlichkeitseigenschaften: Aggressiv +3, Düster +2, Direkt +1
 
 Lucas von Beck von Haus Flambeau ist der Sohn eines deutschen Altgrafen und scheint nicht gewillt, seinen adeligen Lebensstil aufzugeben, obwohl er von seiner weltlichen Familie als tot gilt. Lucas ist ein sehr großer, stämmiger Mann, der stets in Schwarz gekleidet ist – obwohl ihm seit einem Zwielichterlebnis das peinliche Problem anhaftet, dass seine Kleidung nach übermäßigem Zaubern zerfällt. Er ist Experte für Perdo-Magie und bekannt für sein aufbrausendes Temperament; er neigt dazu, Streitereien mit ihn störenden Sterblichen durch schnelle und brutale Anwendung von Perdo Corpus-Zaubersprüchen zu beenden. Kürzlich hat er begonnen, Nekromantie zu studieren und dabei festgestellt, dass sein Piratenleben ihm reichlich Leichen für die Forschung liefert.
+
+**HACHIM AL'KHALEJJ, GEFOLGSMANN DES CRIAMON**
+
+Alter: 36 (Geselle)<br>
+Persönlichkeitseigenschaften: Verschwiegen +3, Frommer Muslim +2, Introvertiert +2
+
+Hachim al'Khalejj ist eine gewisse Kuriosität – ein stiller, naiver muslimischer Magus des Hauses Criamon (Filius von Hassan von Fengheld), der rein zufällig mit den anderen drei aggressiven Magi zusammengefunden zu haben scheint. Dennoch ermöglicht ihm ihre Raubzüge einen üppigen Lebensstil, und seine Kenntnisse der Astrologie erweisen sich für die anderen Magi bei der Planung ihrer Überfälle als sehr nützlich. Hachim kleidet sich in erbeutete Seide, bevorzugt Creme und Blau, und geht mit einem Hinken.
 
 ### Konventsbewohner
 
@@ -2124,50 +2124,6 @@ Kürzlich hat der Magus Theoderich von Haus Jerbiton (siehe Kapitel 9: Die Ostma
 
 ### Magi
 
-**BORIS VON NOWGOROD, GEFOLGSMANN DES MERCERE**
-
-Alter: 37 (Geselle)<br>
-Persönlichkeitseigenschaften: Träge +2, Habgierig +1, Redselig +1
-
-Boris ist ein weitgereister, spitzmäuseartiger Russe, der als fahrender Kaufmann auftritt. Seine Rotkappe-Pflichten führen ihn häufig zu den nördlichen Rheinkonventen und dem Novgorod-Tribunal, obwohl er Lübeck als nützliche Basis empfindet. Wenn er nicht auf Reisen ist, genießt er die Annehmlichkeiten der Stadt und beaufsichtigt sein neu erbautes Lokal am nördlichen Ende der Stadt, das Nowgoroder Gasthaus, das bei Rotkappen und russischen Kaufleuten zunehmend beliebt wird. Er hofft, in den nächsten Jahren den Rang eines Meisters zu erlangen, woraufhin sein Gasthaus möglicherweise mit dem Status eines Mercere-Hauses ausgezeichnet wird und noch mehr Rotkappen anzieht. Boris hat die Angewohnheit, Magi allerlei Kleinigkeiten zu verkaufen, an denen er bescheiden verdient; er ist möglicherweise bereit, Tauschhandel mit Büchern, Gegenständen oder Vis mit dem Spielerkonvent einzugehen, zum richtigen Preis natürlich. Insbesondere kann er Vis aus den Nowgoroder Konventen verhältnismäßig günstig beschaffen.
-
->#### Abenteueridee: Die Entstehung der Hanse
->Dass Oculus Septentrionalis in der Stadt angesiedelt ist, die zufällig die Hanse begründen wird, dürfte kein Zufall sein! Das genaue Ausmaß der Beteiligung des Konvents liegt in Ihrer Saga bei Ihnen. Henri de Tours, ein erfahrener Diplomat und berühmter Kaufmann, könnte eine führende Rolle bei der Aushandlung des Vertrags von Lübeck und Hamburg spielen. Die Hanse könnte sogar ein Konzept des Konvents selbst sein, wobei Henri zum Ältermann aufsteigt. Alternativ mögen die Magi eine eher zurückhaltende Rolle bevorzugen. In jedem Fall wird Oculus Septentrionalis wahrscheinlich in der Lage sein, ungeahnten Reichtum anzuhäufen. Doch je mehr ihr Vermögen wächst, desto wahrscheinlicher wird die Ungnade der Quaesitoren und das Risiko einer eingehenden Untersuchung. Sollten diese Aktivitäten vor dem Tribunal enthüllt werden, mögen die Magi versuchen, andere Konvente durch riesige Bestechungsgelder zur Abwehr einer Verurteilung zu bewegen.
-
->#### Die Hanse
->*Der Vertreter und gemeinsame Rat von Lübeck: Wir haben eine Vereinbarung mit unseren geliebten Freunden, den Bürgern von Hamburg, getroffen.*
->
->*Dass, wenn zufällig Räuber oder andere böse Männer gegen unsere Bürger oder ihre aufsteigen, von jenem Ort, wo der Fluss, der Trave heißt, ins Meer fließt, bis Hamburg, und von dort die Elbe entlang bis zur See, und wenn sie unsere Bürger oder die ihren anfallen, welche Kosten oder Ausgaben auch immer für die Ausrottung jener Räuber entstehen, sollen wir mit ihnen teilen, und sie mit uns.*
->
->*Wenn zufällig ein Verbrecher auf unerhörte Weise außerhalb der Stadt einen Bürger von Hamburg oder Lübeck tötet, verwundet, schlägt oder, Gott verhüte es, auf irgendeine Weise misshandelt, den er beschuldigt hat, sollen wir, welche Ausgaben auch immer bei seiner Ergreifung und Bestrafung entstehen, mit ihnen teilen und sie mit uns, mit der Bedingung, dass, was auch immer ihren Bürgern nahe ihrer Stadt und unseren Bürgern nahe unserer Stadt geschieht, sie mit ihren Bürgern, und wir mit unseren, auf Kosten der Stadt bestrafen werden.*
->
->*Ferner, wenn einer der Bürger der ihren nahe unserer Stadt Lübeck oder Bürger nahe der Stadt Hamburg misshandelt wird, werden wir den oder die Täter zur Bestrafung ausliefern, und sie werden uns solche Personen auf Kosten der Gemeinde ebenso ausliefern.*
->
->— Vertrag von Lübeck und Hamburg, 1241
->
->Hanse (Handelsvereinigungen; Einzahl „Hansa") existieren in Deutschland seit mindestens dem 12. Jahrhundert. Verträge und Abkommen zwischen Kaufleuten können gegenseitigen Schutz vor Piraten und Räubern, ein Mittel zur Beilegung von Streitigkeiten und vereinbarte Preise zum Schutz und zur Sicherung von Gewinnen bieten. Bis heute sind diese Handelsvereinigungen jedoch überwiegend kleinmaßstäblich geblieben. Wenn Ihre Saga der wahren Geschichte folgt, wird der Vertrag von Lübeck und Hamburg der bedeutendste bisher sein. In den folgenden Jahrzehnten werden sich viele Städte in Deutschland und um die Ostsee herum diesem Unternehmen anschließen, das als Hanse bekannt wird. Gegen Ende des 13. Jahrhunderts werden Dutzende von Städten Mitglieder sein, und die Hanse wird reich und einflussreich geworden sein – eine große Macht, mit der zu rechnen ist. Lübeck ist die führende Stadt der Hanse, wobei die Lübecker Statuten als Vorbild für ihre Regierung dienen.
-
-**CAROLUS, GEFOLGSMANN DES JERBITON**
-
-Alter: 35 (Geselle)<br>
-Persönlichkeitseigenschaften: Analytisch +2, Idealistisch +1, Organisiert –3
-
-Carolus ist ein gutmeinender, aber zerstreuter junger Magus, der als exzentrischer Gelehrter auftritt und gelegentlich seine Dienste jenen Stadtbürgern anbietet, die einen Hang zur Bildung haben. Ein etwas naiver jüngster Aufenthalt bei Crintera, in dem Versuch, die Beziehungen zum Rügener Konvent zu verbessern, schlug fehl, als sein Rabe-Vertrauter, dem man verdächtigte, er spioniere, von Caprea von Bjornaer, einer dortigen Gastmaga, geblendet wurde. Tatsächlich spionierte ein Rabe bei Crintera, jedoch war es in Wirklichkeit Kolkrabus, der hinterhältige Vertraute von Murion (siehe Kapitel 6: Der Schwarzwald, Durenmar). Caprea wurde getäuscht, und ihr Zorn richtete sich stattdessen gegen Carolus' Vertrauten.
-
-**ESTRID DANESSON, MAGUS EX MISCELLANEA**
-
-Alter: 36 (Geselle)<br>
-Persönlichkeitseigenschaften: Extravertiert +2, Tatkräftig +1, Versöhnlich –3
-
-Estrid ist ein verhältnismäßig neues Mitglied und der zweite skandinavische Zauberer, der erfolgreich vom Konvent aufgenommen wurde. In Ribe in Dänemark geboren, ist er der jüngere Vetter und erbitterte Feind von Eric Ribecus bei Waddenzee. Während Eric früh mit seiner hermetischen Ausbildung begann, trat Estrid dem Orden des Hermes erst viel später als Heckenzauberer bei, der auf Seefahrts- und Wettermagie spezialisiert war. Die beiden Magi haben mehr als einmal auf dem offenen Meer miteinander gekämpft, ohne dass es bisher zu einem vollständigen Krieg der Zauberer gekommen ist. Ein schwungvoller und verwegener Mann – das Gegenteil seiner eher bescheidenen Frau – unterhält er sein Sanctum und Labor auf seinem Schiff und ist öfter auf See als in Lübeck.
-
-**GUNHILDA HENRASDOTTIR, GEFOLGSFRAU DES JERBITON**
-
-Alter: 31 (Gesellin)<br>
-Persönlichkeitseigenschaften: Der Familie loyal +3, Mitfühlend +1, Unabhängig -2
-
-Gunhilda Henrasdottir von Haus Jerbiton ist Henris Tochter und Filia, eine etwas rundliche junge Maga, die auf Hauswirtschaft spezialisiert ist. Sie leidet darunter, von ihren Eltern übermäßig beschützt zu werden, doch ihre Ehe mit Estrid bietet ihr einen Vorgeschmack auf Abenteuerlust.
-
 **HENRI DE TOURS, GEFOLGSMANN DES JERBITON**
 
 Alter: 66 (Meister)<br>
@@ -2185,6 +2141,20 @@ Brunhilda, Henris Frau, ist eine mütterliche und einsichtsreiche Frau aus Schwe
 >Dieser Zauber veranlasst das Ziel zu glauben, der Zaubernde sei ein alter Freund. Der Zauber bewirkt tatsächlich, dass der Zaubernde vorübergehend einen der echten Freunde des Ziels ersetzt, was dem Ganzen Glaubwürdigkeit verleiht; das bedeutet, dass das Ziel keinen Verdacht hegen und nicht übermäßig über die Ersetzung nachsinnen wird. Zudem wird das Ziel nach Ablauf des Zaubers nicht unbedingt erkennen, dass es getäuscht wurde. Das Ziel wird eine wichtige Erinnerung an den Zaubernden haben, gewöhnlich (aber nicht immer) darüber, wie sie Freunde wurden, sowie eine Vielzahl unterstützender Erinnerungen an geringfügige Ereignisse. Zu beachten ist, dass der Zaubernde nicht weiß, welche Erinnerungen ersetzt werden; er kann jedoch auf eine freundliche Reaktion zählen (das Ziel erwirbt die Persönlichkeitseigenschaft „Freundlich gegenüber dem Zaubernden" mit +3). Nur wenn das Ziel ein Menschenfeind ohne gute Freunde ist, werden die Erinnerungen vollständig falsch sein; in diesem Fall erhält das Ziel einen Intelligenzwurf gegen Schwierigkeitsgrad 9, um die Erinnerung als falsch zu entlarven. Henris Sigil, das seine Handelsinteressen widerspiegelt, neigt dazu, eine Erinnerung an einen Geschäftspartner oder eine frühere Transaktion zu erzeugen.
 >
 >(Basis 5, +1 Auge, +2 Sonne, +1 Komplexität)
+
+**GUNHILDA HENRASDOTTIR, GEFOLGSFRAU DES JERBITON**
+
+Alter: 31 (Gesellin)<br>
+Persönlichkeitseigenschaften: Der Familie loyal +3, Mitfühlend +1, Unabhängig -2
+
+Gunhilda Henrasdottir von Haus Jerbiton ist Henris Tochter und Filia, eine etwas rundliche junge Maga, die auf Hauswirtschaft spezialisiert ist. Sie leidet darunter, von ihren Eltern übermäßig beschützt zu werden, doch ihre Ehe mit Estrid bietet ihr einen Vorgeschmack auf Abenteuerlust.
+
+**ESTRID DANESSON, MAGUS EX MISCELLANEA**
+
+Alter: 36 (Geselle)<br>
+Persönlichkeitseigenschaften: Extravertiert +2, Tatkräftig +1, Versöhnlich –3
+
+Estrid ist ein verhältnismäßig neues Mitglied und der zweite skandinavische Zauberer, der erfolgreich vom Konvent aufgenommen wurde. In Ribe in Dänemark geboren, ist er der jüngere Vetter und erbitterte Feind von Eric Ribecus bei Waddenzee. Während Eric früh mit seiner hermetischen Ausbildung begann, trat Estrid dem Orden des Hermes erst viel später als Heckenzauberer bei, der auf Seefahrts- und Wettermagie spezialisiert war. Die beiden Magi haben mehr als einmal auf dem offenen Meer miteinander gekämpft, ohne dass es bisher zu einem vollständigen Krieg der Zauberer gekommen ist. Ein schwungvoller und verwegener Mann – das Gegenteil seiner eher bescheidenen Frau – unterhält er sein Sanctum und Labor auf seinem Schiff und ist öfter auf See als in Lübeck.
 
 **MARCUS NAVICULARIUS, GEFOLGSMANN DES VERDITIUS**
 
@@ -2279,6 +2249,36 @@ Marcus, ein großer, streng dreinblickender Mann mit eisengrauem Haar und Bart, 
 >Vor etwa zwanzig Jahren, als er Peregrinator war, verbrachte Imanitos einige Jahre als Gast bei Waddenzee, als die neuen Magi jenes Konvents ihre Machtübernahme gerade abgeschlossen hatten, angeblich auf einer Mission zur Förderung guter Beziehungen mit Oculus Septentrionalis. Mit Eric und Lucas kam er gut aus, nicht aber mit Hygwald, der ihn trotz seiner eigenen Unterordnung charakteristischerweise mit einer gewissen Geringschätzung betrachtete. Bei seiner Rückkehr nach Lübeck schien es bald, als hätte Imanitos' Diplomatie angesichts von Waddenzees offenkundiger Piraterie versagt. Tatsächlich war dies Teil seines Plans; er ist in eine große Verschwörung mit dem Piratenkonvent verwickelt – Einzelheiten über die Schiffsbewegungen des Oculus Septentrionalis werden Eric heimlich im Voraus mitgeteilt, damit er ihre Überfälle sehr wirkungsvoll planen kann. Als Gegenleistung fordert Imanitos einen Teil der Beute. Seine Loyalitäten sind damit ernsthaft gespalten, obwohl seine tiefere Loyalität sich selbst gilt. Er sieht in diesem hinterhältigen Treiben schlicht eine Möglichkeit zur persönlichen Bereicherung. Die anderen Magi des Oculus Septentrionalis, die von seinem Verrat nichts ahnen, stehen ihm trotz seiner losen Moral zwiespältig gegenüber; es wird anerkannt, dass er seine Nützlichkeiten hat. Sollten jedoch seine geheimen Verbindungen zu Waddenzee aufgedeckt werden, würde er zweifellos unverzüglich aus dem Konvent ausgestoßen werden und ihre unvergängliche Feindschaft auf sich ziehen.
 
 
+
+**CAROLUS, GEFOLGSMANN DES JERBITON**
+
+Alter: 35 (Geselle)<br>
+Persönlichkeitseigenschaften: Analytisch +2, Idealistisch +1, Organisiert –3
+
+Carolus ist ein gutmeinender, aber zerstreuter junger Magus, der als exzentrischer Gelehrter auftritt und gelegentlich seine Dienste jenen Stadtbürgern anbietet, die einen Hang zur Bildung haben. Ein etwas naiver jüngster Aufenthalt bei Crintera, in dem Versuch, die Beziehungen zum Rügener Konvent zu verbessern, schlug fehl, als sein Rabe-Vertrauter, dem man verdächtigte, er spioniere, von Caprea von Bjornaer, einer dortigen Gastmaga, geblendet wurde. Tatsächlich spionierte ein Rabe bei Crintera, jedoch war es in Wirklichkeit Kolkrabus, der hinterhältige Vertraute von Murion (siehe Kapitel 6: Der Schwarzwald, Durenmar). Caprea wurde getäuscht, und ihr Zorn richtete sich stattdessen gegen Carolus' Vertrauten.
+
+**BORIS VON NOWGOROD, GEFOLGSMANN DES MERCERE**
+
+Alter: 37 (Geselle)<br>
+Persönlichkeitseigenschaften: Träge +2, Habgierig +1, Redselig +1
+
+Boris ist ein weitgereister, spitzmäuseartiger Russe, der als fahrender Kaufmann auftritt. Seine Rotkappe-Pflichten führen ihn häufig zu den nördlichen Rheinkonventen und dem Novgorod-Tribunal, obwohl er Lübeck als nützliche Basis empfindet. Wenn er nicht auf Reisen ist, genießt er die Annehmlichkeiten der Stadt und beaufsichtigt sein neu erbautes Lokal am nördlichen Ende der Stadt, das Nowgoroder Gasthaus, das bei Rotkappen und russischen Kaufleuten zunehmend beliebt wird. Er hofft, in den nächsten Jahren den Rang eines Meisters zu erlangen, woraufhin sein Gasthaus möglicherweise mit dem Status eines Mercere-Hauses ausgezeichnet wird und noch mehr Rotkappen anzieht. Boris hat die Angewohnheit, Magi allerlei Kleinigkeiten zu verkaufen, an denen er bescheiden verdient; er ist möglicherweise bereit, Tauschhandel mit Büchern, Gegenständen oder Vis mit dem Spielerkonvent einzugehen, zum richtigen Preis natürlich. Insbesondere kann er Vis aus den Nowgoroder Konventen verhältnismäßig günstig beschaffen.
+
+>#### Abenteueridee: Die Entstehung der Hanse
+>Dass Oculus Septentrionalis in der Stadt angesiedelt ist, die zufällig die Hanse begründen wird, dürfte kein Zufall sein! Das genaue Ausmaß der Beteiligung des Konvents liegt in Ihrer Saga bei Ihnen. Henri de Tours, ein erfahrener Diplomat und berühmter Kaufmann, könnte eine führende Rolle bei der Aushandlung des Vertrags von Lübeck und Hamburg spielen. Die Hanse könnte sogar ein Konzept des Konvents selbst sein, wobei Henri zum Ältermann aufsteigt. Alternativ mögen die Magi eine eher zurückhaltende Rolle bevorzugen. In jedem Fall wird Oculus Septentrionalis wahrscheinlich in der Lage sein, ungeahnten Reichtum anzuhäufen. Doch je mehr ihr Vermögen wächst, desto wahrscheinlicher wird die Ungnade der Quaesitoren und das Risiko einer eingehenden Untersuchung. Sollten diese Aktivitäten vor dem Tribunal enthüllt werden, mögen die Magi versuchen, andere Konvente durch riesige Bestechungsgelder zur Abwehr einer Verurteilung zu bewegen.
+
+>#### Die Hanse
+>*Der Vertreter und gemeinsame Rat von Lübeck: Wir haben eine Vereinbarung mit unseren geliebten Freunden, den Bürgern von Hamburg, getroffen.*
+>
+>*Dass, wenn zufällig Räuber oder andere böse Männer gegen unsere Bürger oder ihre aufsteigen, von jenem Ort, wo der Fluss, der Trave heißt, ins Meer fließt, bis Hamburg, und von dort die Elbe entlang bis zur See, und wenn sie unsere Bürger oder die ihren anfallen, welche Kosten oder Ausgaben auch immer für die Ausrottung jener Räuber entstehen, sollen wir mit ihnen teilen, und sie mit uns.*
+>
+>*Wenn zufällig ein Verbrecher auf unerhörte Weise außerhalb der Stadt einen Bürger von Hamburg oder Lübeck tötet, verwundet, schlägt oder, Gott verhüte es, auf irgendeine Weise misshandelt, den er beschuldigt hat, sollen wir, welche Ausgaben auch immer bei seiner Ergreifung und Bestrafung entstehen, mit ihnen teilen und sie mit uns, mit der Bedingung, dass, was auch immer ihren Bürgern nahe ihrer Stadt und unseren Bürgern nahe unserer Stadt geschieht, sie mit ihren Bürgern, und wir mit unseren, auf Kosten der Stadt bestrafen werden.*
+>
+>*Ferner, wenn einer der Bürger der ihren nahe unserer Stadt Lübeck oder Bürger nahe der Stadt Hamburg misshandelt wird, werden wir den oder die Täter zur Bestrafung ausliefern, und sie werden uns solche Personen auf Kosten der Gemeinde ebenso ausliefern.*
+>
+>— Vertrag von Lübeck und Hamburg, 1241
+>
+>Hanse (Handelsvereinigungen; Einzahl „Hansa") existieren in Deutschland seit mindestens dem 12. Jahrhundert. Verträge und Abkommen zwischen Kaufleuten können gegenseitigen Schutz vor Piraten und Räubern, ein Mittel zur Beilegung von Streitigkeiten und vereinbarte Preise zum Schutz und zur Sicherung von Gewinnen bieten. Bis heute sind diese Handelsvereinigungen jedoch überwiegend kleinmaßstäblich geblieben. Wenn Ihre Saga der wahren Geschichte folgt, wird der Vertrag von Lübeck und Hamburg der bedeutendste bisher sein. In den folgenden Jahrzehnten werden sich viele Städte in Deutschland und um die Ostsee herum diesem Unternehmen anschließen, das als Hanse bekannt wird. Gegen Ende des 13. Jahrhunderts werden Dutzende von Städten Mitglieder sein, und die Hanse wird reich und einflussreich geworden sein – eine große Macht, mit der zu rechnen ist. Lübeck ist die führende Stadt der Hanse, wobei die Lübecker Statuten als Vorbild für ihre Regierung dienen.
 
 #### WEITERE MAGI
 
@@ -2507,6 +2507,49 @@ Fengheld beherbergt eines der beiden Mercer-Häuser des Rheintribunals (siehe *H
 
 ### Magi
 
+**STENTORIUS, ANHÄNGER VON TREMERE**
+
+Alter: 107 (Erzmagus)<br>
+Persönlichkeitseigenschaften: Stolz +3, Pedantisch +2, Vergebend –3
+
+Stentorius ist einer der politisch mächtigsten Magi im Rheintribunal.
+
+Er ist der autoritäre Leiter des größten Konvents des Tribunals, ein Erzmagus aus eigenen Verdiensten und der Tremere-Exarch des Rheintribunals (siehe *Häuser des Hermes: Wahre Abstammungslinien*). Als solcher verwaltet er etwa drei Fünftel der Sigile der Tremere-Magi im Tribunal, einschließlich jener seines Filius und der beiden Tremere-Magi von Triamore (der Rest wird von Severicus von Roznov gehalten).
+
+Stentorius ist ein großgewachsener Mann, der seine Lehrlingsprüfung fast hundert Jahre zurückliegend hat, sein hohes Alter aber gut trägt. Er hat einen beeindruckenden, buschigen Bart von eisengrauer Farbe, der seine Brust bedeckt, und eine kantige Nase. Er gilt, wenig überraschend, als Meister der Rego-Magie, obwohl er mit den meisten Formen gleichermaßen gewandt ist. Er trägt prunkvolle Roben in tiefem Karmesinrot, besetzt mit den hermetischen Symbolen für Rego, die Formen und Haus Tremere.
+
+Sein Vertrauter seit mehr als einem halben Jahrhundert ist eine überaus arrogante große graue Katze namens Oswald. Sie trägt ein juwelenverziertes goldenes Medaillon, das Stentorius für sie angefertigt hat (eingebettet mit mehreren Anwendungen der *Aura der rechtmäßigen Autorität* und anderen Effekten) und hält sich ernsthaft für den Herrscher Fenghelds und all seiner Bewohner, wenn nicht gar des gesamten Tribunals. Wenn er sich herablässt, Durenmar zu besuchen, ärgert er sich sehr über das Spotten von Kolkrabus, dem Raben-Vertrauten von Murion. Kolkrabus glaubt, Stentorius habe die rechtmäßige Rolle seines Menschenpartners als Leiter der Eichengilde usurpiert.
+
+**HORST, ANHÄNGER VON MERCERE**
+
+Alter: 68 (Meister)<br>
+Persönlichkeitseigenschaften: Belesen +3, Fesselnd +2, Politisch –3
+
+Horst ist ein gefeierter Autor, der Bücher von hoher Qualität zu einem breiten Themenspektrum geschrieben hat, sowohl über weltliche Themen als auch über Magietheorie (obwohl er keine Gabe besitzt). Seine Bücher sind in der Regel das Rückgrat der Lehrzeit eines Rhein-Magus, und er gilt als geradezu enzyklopädisch in seinem Wissen. Der korpulente Rotkappe wird auf Tribunalen gebeten, sein ungewöhnliches Gedächtnis einzusetzen, um obskure Punkte des hermetischen Rechts in Erinnerung zu rufen, und sein umfangreiches Wissen über die Geschäfte des Ordens wäre ein großes Gut für Fengheld, wenn Horst nicht völlig unpolitisch wäre. Horst ist der ranghöchste Rotkappe des Rheintribunals, beaufsichtigt das Mercer-Haus, und viele Rotkappen sind hier anzutreffen, wenn sie von ihren Reisen ausruhen.
+
+**EULE, ANHÄNGERIN VON BJORNAER**
+
+Alter: ungefähr 160 (Meisterin)<br>
+Persönlichkeitseigenschaften: Eulengleich +6, Gleichgültig +3, Weise +3
+
+Als Anwärterin auf den Titel des ältesten Magus im Tribunal (zusammen mit Caecilius von Durenmar und Schadrit von Dankmar) ist Eule ein bemerkenswertes Phänomen – eine Anhängerin Bjornaers, der von Haus Guernicus der Ehrenrang eines Quaesitors verliehen wurde. Viele Jahre lang war sie die einzige ranghöchste Quaesitorin im Rheintribunal, befindet sich nun aber im Ruhestand von ihren offiziellen Pflichten. Ihr Herztier (wie ihr Name andeutet) ist eine Eule, und Magi suchen sie noch immer wegen ihres berühmten guten Rats auf.
+
+Nur ihr Filius (Günther Lupus) vermutet, dass Eule das Endgültige Zwielicht betreten hat. Sie hat seit vielen Jahren keine menschliche Gestalt mehr angenommen und noch länger nicht mehr gesprochen. Der Mythos ihrer Weisheit wird durch einen von Günther eingefädelten Schwindel aufrechterhalten: Im Boden des Zimmers, in dem sie ihre Besucher empfängt, ist ein magisches Objekt mit einem niederstufigen (aber sehr hochpenetrierenden) Perdo-Mentem-Effekt verborgen, der den Geist beruhigt und Emotionen unterdrückt. Mit wenigen verbalen Anstößen von Günther (der die Schreie seiner Herrin „übersetzt") finden ihre Bittsteller in der Regel selbst die Antworten auf ihre Rätsel, schreiben die Lösung jedoch der Weisheit Eules zu.
+
+**PETER VON WÜRZBURG, ANHÄNGER VON VERDITIUS**
+
+Alter: 62 (Meister)<br>
+Persönlichkeitseigenschaften: Charmant +3, Großzügig +2, Fleißig +2
+
+Peter ist ein gefeierter Weinbauer und Weinmacher, sowohl innerhalb des Ordens als auch unter den Adeligen Südsachsens und Thüringens. Eine Reihe kleinerer magischer Gegenstände unterstützt den Anbau der Weinreben, die Fenghelds Südhangg bedecken und die sonst auf diesem verhältnismäßig nördlichen Breitengrad Schwierigkeiten hätten; besondere Traubensorten veredelt er zu Wein, den er als Aufgeladene Artefakte nutzt. Sein Eichhörnchen-Vertrauter ist genauso fleißig wie er, und beide sind häufig gemeinsam zu sehen, wenn sie die Reben mit Garn festbinden, deren Süße prüfen und den Boden düngen. Peter ist oft der erste Magus, dem Besucher Fenghelds begegnen, wenn er sich um seine kostbaren Reben kümmert.
+
+**DORANA, ANHÄNGERIN VON BONISAGUS**
+
+Alter: 76 (Meisterin)<br>
+Persönlichkeitseigenschaften: Genussfreudig +2, Friedfertig +1, Verschwiegen –2
+
+Dorana ist die bedeutendste Maga der Linie von Irmele filia Trianoma im Tribunal; nach mehreren Jahrzehnten des Reisens als Peregrina, in denen sie sich ein detailliertes Wissen über nahezu alle Konvente des Tribunals und viele seiner Magi angeeignet hat, ließ sie sich in Fengheld nieder. Obwohl sie in Fenghelds Angelegenheiten generell für Vernunft und Frieden eintritt und ihre Sichtweise oft die Oberhand behält, kann sie ihre Prima Murion dennoch nicht ausstehen. Sie drängt Stentorius, sie um die Führerschaft der Eichengilde herauszufordern, und ihren engen Verbündeten Occultes in Durenmar, sie um den Primat von Haus Bonisagus herauszufordern. Doranas Expertise in Wetterzaubern kommt ihr zugute, da Fenghelds Landwirtschaft eine sorgfältige Balance aus Sonne und Regen erfordert, gelegentlich ergänzt durch dichten Nebel, um unerwünschte Besucher abzuhalten. Ihre jüngste Schülerin Felecia (siehe Kapitel 3: Das Rheintribunal, Als Rhein-Magus) hat gerade ihre Lehrlingsprüfung abgelegt und ist auf Reisen gegangen.
+
 **BALASTOR, ANHÄNGER VON CRIAMON**
 
 Alter: 26 (Geselle)<br>
@@ -2520,49 +2563,6 @@ Alter: 20 (Geselle)<br>
 Persönlichkeitseigenschaften: Anderweltlich +2, Misstrauisch +2, Naiv +1
 
 Dieser frischgebackene Geselle, von seinem Lehrmeister Primus Handri (siehe Kapitel 10: Böhmen, Irencillia) in Irencillia in die Lehre gegeben, hat das Privileg erhalten, einen Platz am Hauptsitz des Konvents angeboten zu bekommen; er ist sich jedoch über die politischen Gründe für seine Ernennung nicht im Klaren und ist verständlicherweise nervös. Buchenblatt steht stark unter dem Einfluss der Feen; er wurde von einer Dryade aufgezogen und versteht die Gepflogenheiten der Feenwesen besser als die der Menschen. Seine Haut hat einen leichten Grünton, und sein bronzefarbenes Haar scheint ein Eigenleben zu führen, bewegt von einer unsichtbaren Brise.
-
-**DORANA, ANHÄNGERIN VON BONISAGUS**
-
-Alter: 76 (Meisterin)<br>
-Persönlichkeitseigenschaften: Genussfreudig +2, Friedfertig +1, Verschwiegen –2
-
-Dorana ist die bedeutendste Maga der Linie von Irmele filia Trianoma im Tribunal; nach mehreren Jahrzehnten des Reisens als Peregrina, in denen sie sich ein detailliertes Wissen über nahezu alle Konvente des Tribunals und viele seiner Magi angeeignet hat, ließ sie sich in Fengheld nieder. Obwohl sie in Fenghelds Angelegenheiten generell für Vernunft und Frieden eintritt und ihre Sichtweise oft die Oberhand behält, kann sie ihre Prima Murion dennoch nicht ausstehen. Sie drängt Stentorius, sie um die Führerschaft der Eichengilde herauszufordern, und ihren engen Verbündeten Occultes in Durenmar, sie um den Primat von Haus Bonisagus herauszufordern. Doranas Expertise in Wetterzaubern kommt ihr zugute, da Fenghelds Landwirtschaft eine sorgfältige Balance aus Sonne und Regen erfordert, gelegentlich ergänzt durch dichten Nebel, um unerwünschte Besucher abzuhalten. Ihre jüngste Schülerin Felecia (siehe Kapitel 3: Das Rheintribunal, Als Rhein-Magus) hat gerade ihre Lehrlingsprüfung abgelegt und ist auf Reisen gegangen.
-
-**EULE, ANHÄNGERIN VON BJORNAER**
-
-Alter: ungefähr 160 (Meisterin)<br>
-Persönlichkeitseigenschaften: Eulengleich +6, Gleichgültig +3, Weise +3
-
-Als Anwärterin auf den Titel des ältesten Magus im Tribunal (zusammen mit Caecilius von Durenmar und Schadrit von Dankmar) ist Eule ein bemerkenswertes Phänomen – eine Anhängerin Bjornaers, der von Haus Guernicus der Ehrenrang eines Quaesitors verliehen wurde. Viele Jahre lang war sie die einzige ranghöchste Quaesitorin im Rheintribunal, befindet sich nun aber im Ruhestand von ihren offiziellen Pflichten. Ihr Herztier (wie ihr Name andeutet) ist eine Eule, und Magi suchen sie noch immer wegen ihres berühmten guten Rats auf.
-
-Nur ihr Filius (Günther Lupus) vermutet, dass Eule das Endgültige Zwielicht betreten hat. Sie hat seit vielen Jahren keine menschliche Gestalt mehr angenommen und noch länger nicht mehr gesprochen. Der Mythos ihrer Weisheit wird durch einen von Günther eingefädelten Schwindel aufrechterhalten: Im Boden des Zimmers, in dem sie ihre Besucher empfängt, ist ein magisches Objekt mit einem niederstufigen (aber sehr hochpenetrierenden) Perdo-Mentem-Effekt verborgen, der den Geist beruhigt und Emotionen unterdrückt. Mit wenigen verbalen Anstößen von Günther (der die Schreie seiner Herrin „übersetzt") finden ihre Bittsteller in der Regel selbst die Antworten auf ihre Rätsel, schreiben die Lösung jedoch der Weisheit Eules zu.
-
-**HORST, ANHÄNGER VON MERCERE**
-
-Alter: 68 (Meister)<br>
-Persönlichkeitseigenschaften: Belesen +3, Fesselnd +2, Politisch –3
-
-Horst ist ein gefeierter Autor, der Bücher von hoher Qualität zu einem breiten Themenspektrum geschrieben hat, sowohl über weltliche Themen als auch über Magietheorie (obwohl er keine Gabe besitzt). Seine Bücher sind in der Regel das Rückgrat der Lehrzeit eines Rhein-Magus, und er gilt als geradezu enzyklopädisch in seinem Wissen. Der korpulente Rotkappe wird auf Tribunalen gebeten, sein ungewöhnliches Gedächtnis einzusetzen, um obskure Punkte des hermetischen Rechts in Erinnerung zu rufen, und sein umfangreiches Wissen über die Geschäfte des Ordens wäre ein großes Gut für Fengheld, wenn Horst nicht völlig unpolitisch wäre. Horst ist der ranghöchste Rotkappe des Rheintribunals, beaufsichtigt das Mercer-Haus, und viele Rotkappen sind hier anzutreffen, wenn sie von ihren Reisen ausruhen.
-
-**PETER VON WÜRZBURG, ANHÄNGER VON VERDITIUS**
-
-Alter: 62 (Meister)<br>
-Persönlichkeitseigenschaften: Charmant +3, Großzügig +2, Fleißig +2
-
-Peter ist ein gefeierter Weinbauer und Weinmacher, sowohl innerhalb des Ordens als auch unter den Adeligen Südsachsens und Thüringens. Eine Reihe kleinerer magischer Gegenstände unterstützt den Anbau der Weinreben, die Fenghelds Südhangg bedecken und die sonst auf diesem verhältnismäßig nördlichen Breitengrad Schwierigkeiten hätten; besondere Traubensorten veredelt er zu Wein, den er als Aufgeladene Artefakte nutzt. Sein Eichhörnchen-Vertrauter ist genauso fleißig wie er, und beide sind häufig gemeinsam zu sehen, wenn sie die Reben mit Garn festbinden, deren Süße prüfen und den Boden düngen. Peter ist oft der erste Magus, dem Besucher Fenghelds begegnen, wenn er sich um seine kostbaren Reben kümmert.
-
-**STENTORIUS, ANHÄNGER VON TREMERE**
-
-Alter: 107 (Erzmagus)<br>
-Persönlichkeitseigenschaften: Stolz +3, Pedantisch +2, Vergebend –3
-
-Stentorius ist einer der politisch mächtigsten Magi im Rheintribunal.
-
-Er ist der autoritäre Leiter des größten Konvents des Tribunals, ein Erzmagus aus eigenen Verdiensten und der Tremere-Exarch des Rheintribunals (siehe *Häuser des Hermes: Wahre Abstammungslinien*). Als solcher verwaltet er etwa drei Fünftel der Sigile der Tremere-Magi im Tribunal, einschließlich jener seines Filius und der beiden Tremere-Magi von Triamore (der Rest wird von Severicus von Roznov gehalten).
-
-Stentorius ist ein großgewachsener Mann, der seine Lehrlingsprüfung fast hundert Jahre zurückliegend hat, sein hohes Alter aber gut trägt. Er hat einen beeindruckenden, buschigen Bart von eisengrauer Farbe, der seine Brust bedeckt, und eine kantige Nase. Er gilt, wenig überraschend, als Meister der Rego-Magie, obwohl er mit den meisten Formen gleichermaßen gewandt ist. Er trägt prunkvolle Roben in tiefem Karmesinrot, besetzt mit den hermetischen Symbolen für Rego, die Formen und Haus Tremere.
-
-Sein Vertrauter seit mehr als einem halben Jahrhundert ist eine überaus arrogante große graue Katze namens Oswald. Sie trägt ein juwelenverziertes goldenes Medaillon, das Stentorius für sie angefertigt hat (eingebettet mit mehreren Anwendungen der *Aura der rechtmäßigen Autorität* und anderen Effekten) und hält sich ernsthaft für den Herrscher Fenghelds und all seiner Bewohner, wenn nicht gar des gesamten Tribunals. Wenn er sich herablässt, Durenmar zu besuchen, ärgert er sich sehr über das Spotten von Kolkrabus, dem Raben-Vertrauten von Murion. Kolkrabus glaubt, Stentorius habe die rechtmäßige Rolle seines Menschenpartners als Leiter der Eichengilde usurpiert.
 
 #### WEITERE MAGI
 
@@ -2733,13 +2733,6 @@ Alle Magi des zukünftigen Konvents Heorot stammen aus dem Rheintribunal, und ih
 
 ### Magi
 
-**PANCRESTIS FILIUS OCCULTES, GEFOLGSMANN DES BONISAGUS**
-
-Alter: 28 (Geselle)<br>
-Persönlichkeitseigenschaften: Ehrgeizig +3, Angst vor der Wildnis +2, Unentschlossen –2
-
-Dieser junge Magus brennt darauf, einen nordischen Zauberer zu treffen und so viel wie möglich über dessen Magie zu erfahren. Er hat sowohl einen berühmten Meister als auch einen mächtigen Mentor, Erzmagus Philippus Niger (siehe Kapitel 6: Der Schwarzwald, Durenmar), der ihm das dringende Bedürfnis eingeflößt hat, diese Geheimnisse dem Orden zu enthüllen. Pancrestis jedoch hegt eine tief verwurzelte Angst vor der Wildnis und ist noch nicht so weit in die heidnischen Regionen Skandinaviens vorgedrungen.
-
 **SIGNUM IRRUPTUS, GEFOLGSMANN DES CRIAMON**
 
 Alter: 53 (Meister)<br>
@@ -2753,6 +2746,13 @@ Alter: 37 (Geselle)<br>
 Persönlichkeitseigenschaften: Schwermütig +3, Wissbegierig +2, Wortkarg +1
 
 Ehemaliges Mitglied von Oculus Septentrionalis ist Theoderich ein Nekromant und Historiker, der die Geister verstorbener Männer herbeiruft, um sie über die Vergangenheit zu befragen. Zu seiner großen Enttäuschung hat er weder die sterblichen Überreste König Hrothgars noch die Beowulfs gefunden.
+
+**PANCRESTIS FILIUS OCCULTES, GEFOLGSMANN DES BONISAGUS**
+
+Alter: 28 (Geselle)<br>
+Persönlichkeitseigenschaften: Ehrgeizig +3, Angst vor der Wildnis +2, Unentschlossen –2
+
+Dieser junge Magus brennt darauf, einen nordischen Zauberer zu treffen und so viel wie möglich über dessen Magie zu erfahren. Er hat sowohl einen berühmten Meister als auch einen mächtigen Mentor, Erzmagus Philippus Niger (siehe Kapitel 6: Der Schwarzwald, Durenmar), der ihm das dringende Bedürfnis eingeflößt hat, diese Geheimnisse dem Orden zu enthüllen. Pancrestis jedoch hegt eine tief verwurzelte Angst vor der Wildnis und ist noch nicht so weit in die heidnischen Regionen Skandinaviens vorgedrungen.
 
 ## Rügen
 
@@ -2837,34 +2837,6 @@ Obwohl sie seit über vierhundert Jahren dem Orden angehören, wird Haus Bjornae
 
 ### Magi
 
-**ARDEA, GEFOLGSFRAU DES BJORNAER**
-
-Alter: 83 (Meisterin)<br>
-Persönlichkeitseigenschaften: Neutral +2, Gelassen +2, Wissensdurstig +1
-
-Ardea hält den Sitz des Schwans und hat das Herztier eines Reihers, wie alle, die diesen Sitz innehaben. Sie ist ruhig und betrachtend und äußert sich selten zu politischen Angelegenheiten. Bislang hat sie es sorgfältig vermieden, sich entweder zum harmonistischen oder zum wilderistischen Standpunkt zu bekennen, da sie weiß, dass ihre Meinung bei anderen viel Gewicht hat – berühmt, wie sie ist, für ihre Voraussicht und ihre divinatorischen Fähigkeiten. Sie hegt den Durst nach magischem Wissen, den man eher von Mitgliedern des Hauses Bonisagus als von Bjornaer erwarten würde.
-
-**ISTVAN PADAS, GEFOLGSMANN DES BJORNAER**
-
-Alter: 48 (Meister)<br>
-Persönlichkeitseigenschaften: Hitzköpfig +3, Tapfer +2, Subtil –2
-
-Istvan Padas nimmt den Sitz des Pferdes ein, was durchaus angemessen ist, da sein Herztier das eines prächtigen Hengstes ist. Er ist der Jüngste der Ältesten und der Eigensinnigste – ein Magus der Tat statt des Gedankens. Er stammt aus einer Linie von pferdegestaltigen Bjornaer, die in den frühen Tagen des Ordens aus den einfallenden Magyaren ins Haus aufgenommen wurden (siehe Kapitel 2: Geschichte, Aufstieg des Neuen Reiches). Seine Haltung als Wilderist wird stark von seiner Geliebten Zora unterstützt, der feenblütigen Priesterin Herthas (siehe oben).
-
-**JON ARNSSON, GEFOLGSMANN DES BJORNAER**
-
-Alter: 98 (Meister)<br>
-Persönlichkeitseigenschaften: Fromm +3, Zerrissen
-
-Jon Arnsson dient dem Rat auf dem Sitz des Hirsches. Er übernahm diese Rolle beim Zwölfjährigen Treffen von 1167, ohne zu ahnen, dass die Aufgabe des Beschützers des Konvents im darauf folgenden Jahr so wichtig werden würde. Jon hat ein zusätzliches Problem: Er ist ein frommer Christ und glaubt daher, dass die Invasion durch König Waldemar I. rechtens war, da sie von der Kirche unterstützt wurde. Da er auch Crintera gegenüber glühend loyal ist, sind seine Loyalitäten ernsthaft geteilt. Trotz seines aufrichtigen Glaubens würden seine Ideen von jedem anderen Christen als ketzerisch betrachtet. Jon hat das Herztier eines Löwen, ist von Natur aus jedoch sanftmütig und verabscheut Gewalt – sieht aber in manchen Umständen die Notwendigkeit dafür. Abgesehen von Urgen ist Jon das älteste Mitglied des Rates und ein glühender Harmonist. In seiner Rolle als Beschützer sieht er es als seine Aufgabe, an Zügen gegen Mitglieder seines Hauses teilzunehmen, wenn dies möglich ist.
-
-**PHYLLIA, GEFOLGSFRAU DES BJORNAER**
-
-Alter: 58 (Meisterin)<br>
-Persönlichkeitseigenschaften: Neugierig +3, Rastlos +1, Verschwiegen –3
-
-Phyllia ist die Adler-Älteste und dafür zuständig, den Rat über die Vorgänge im übrigen Orden auf dem Laufenden zu halten. Sie reist weit und hat Kontakte im gesamten Tribunal (und darüber hinaus), ist aber für ihr Geschwätz bekannt und weitgehend unfähig, irgendwelche Geheimnisse, die sie entdeckt, für sich zu behalten. Sie hat das Herztier eines Iltisses und vertritt den harmonistischen Standpunkt.
-
 **URGEN, GEFOLGSMANN DES BJORNAER**
 
 Alter: 114 (Erzmagus)<br>
@@ -2946,6 +2918,34 @@ Urgen hält den Sitz des Bären. Er war der Primus des Hauses von 1165 bis 1203 
 >Als mächtige und einflussreiche Persönlichkeit im Tribunal eignet sich Falke in den meisten Sagas nicht als Spielercharakter.
 
 
+
+**JON ARNSSON, GEFOLGSMANN DES BJORNAER**
+
+Alter: 98 (Meister)<br>
+Persönlichkeitseigenschaften: Fromm +3, Zerrissen
+
+Jon Arnsson dient dem Rat auf dem Sitz des Hirsches. Er übernahm diese Rolle beim Zwölfjährigen Treffen von 1167, ohne zu ahnen, dass die Aufgabe des Beschützers des Konvents im darauf folgenden Jahr so wichtig werden würde. Jon hat ein zusätzliches Problem: Er ist ein frommer Christ und glaubt daher, dass die Invasion durch König Waldemar I. rechtens war, da sie von der Kirche unterstützt wurde. Da er auch Crintera gegenüber glühend loyal ist, sind seine Loyalitäten ernsthaft geteilt. Trotz seines aufrichtigen Glaubens würden seine Ideen von jedem anderen Christen als ketzerisch betrachtet. Jon hat das Herztier eines Löwen, ist von Natur aus jedoch sanftmütig und verabscheut Gewalt – sieht aber in manchen Umständen die Notwendigkeit dafür. Abgesehen von Urgen ist Jon das älteste Mitglied des Rates und ein glühender Harmonist. In seiner Rolle als Beschützer sieht er es als seine Aufgabe, an Zügen gegen Mitglieder seines Hauses teilzunehmen, wenn dies möglich ist.
+
+**PHYLLIA, GEFOLGSFRAU DES BJORNAER**
+
+Alter: 58 (Meisterin)<br>
+Persönlichkeitseigenschaften: Neugierig +3, Rastlos +1, Verschwiegen –3
+
+Phyllia ist die Adler-Älteste und dafür zuständig, den Rat über die Vorgänge im übrigen Orden auf dem Laufenden zu halten. Sie reist weit und hat Kontakte im gesamten Tribunal (und darüber hinaus), ist aber für ihr Geschwätz bekannt und weitgehend unfähig, irgendwelche Geheimnisse, die sie entdeckt, für sich zu behalten. Sie hat das Herztier eines Iltisses und vertritt den harmonistischen Standpunkt.
+
+**ARDEA, GEFOLGSFRAU DES BJORNAER**
+
+Alter: 83 (Meisterin)<br>
+Persönlichkeitseigenschaften: Neutral +2, Gelassen +2, Wissensdurstig +1
+
+Ardea hält den Sitz des Schwans und hat das Herztier eines Reihers, wie alle, die diesen Sitz innehaben. Sie ist ruhig und betrachtend und äußert sich selten zu politischen Angelegenheiten. Bislang hat sie es sorgfältig vermieden, sich entweder zum harmonistischen oder zum wilderistischen Standpunkt zu bekennen, da sie weiß, dass ihre Meinung bei anderen viel Gewicht hat – berühmt, wie sie ist, für ihre Voraussicht und ihre divinatorischen Fähigkeiten. Sie hegt den Durst nach magischem Wissen, den man eher von Mitgliedern des Hauses Bonisagus als von Bjornaer erwarten würde.
+
+**ISTVAN PADAS, GEFOLGSMANN DES BJORNAER**
+
+Alter: 48 (Meister)<br>
+Persönlichkeitseigenschaften: Hitzköpfig +3, Tapfer +2, Subtil –2
+
+Istvan Padas nimmt den Sitz des Pferdes ein, was durchaus angemessen ist, da sein Herztier das eines prächtigen Hengstes ist. Er ist der Jüngste der Ältesten und der Eigensinnigste – ein Magus der Tat statt des Gedankens. Er stammt aus einer Linie von pferdegestaltigen Bjornaer, die in den frühen Tagen des Ordens aus den einfallenden Magyaren ins Haus aufgenommen wurden (siehe Kapitel 2: Geschichte, Aufstieg des Neuen Reiches). Seine Haltung als Wilderist wird stark von seiner Geliebten Zora unterstützt, der feenblütigen Priesterin Herthas (siehe oben).
 
 #### WEITERE MAGI
 
@@ -3158,20 +3158,6 @@ Der Feenmachtwert einer Karikatur schwankt. Er steigt oft im Laufe der Zeit, bis
 
 ### Magi
 
-**GLESIG, ANHÄNGERIN DES MERINITA**
-
-Alter: 62 (Meisterin)<br>
-Persönlichkeitseigenschaften: Ungeduldig +2, Freundlich +1, Nachsichtig gegenüber Narren –2
-
-Glesig gilt als das Mitglied des Hauses Merinita, das mit den unterirdischen Feen am vertrautesten ist. Sie ist eine massiv gebaute Maga mit schlichten Zügen, doch ihr Haar scheint aufgrund des Zwielichts aus leuchtenden Kupferfäden zu bestehen. Natürlich ist sie auf Terram-Magie spezialisiert. Ihre Karikatur Humnel hat die Gestalt eines riesigen Trolls angenommen, und Glesig hat ihn zu ihrem Feenvertrauten gemacht. Humnel beschützt seine Herrin sehr und verträgt es besonders schlecht, wenn sie beleidigt wird.
-
-**GRAVIS, ANHÄNGER DES BONISAGUS**
-
-Alter: 33 (Geselle)<br>
-Persönlichkeitseigenschaften: Fröhlich +2, Getrieben +2, Empfindsam +1
-
-Gravis ist nach Irencillia gekommen, um seiner lebenslangen Faszination für die Feen nachzugehen. Er gehört dem Haus Bonisagus an und findet es besonders frustrierend, dass er nicht einmal die Grundlagen der Feenmagie erlernen konnte, obwohl seine Feenkunde die vieler Merinita-Magi übertrifft. Gravis ist jedoch nicht verbittert geworden und arbeitet noch immer auf sein Ziel hin. Seine Karikatur Danket ist so ziemlich sein Gegenteil: ein mürrischer, stockdünner Zwerg mit einem ewigen Stirnrunzeln, der mit Gravis' rundlicher Gestalt und heiterer Gemütsart kontrastiert.
-
 **HANDRI, PRIMUS DES HAUSES MERINITA**
 
 Alter: 81 (Meister)<br>
@@ -3225,6 +3211,20 @@ Handri, der Primus des Hauses Merinita, ist ein verschwiegener Mann, der seine S
 
 
 
+**VINARIA, ANHÄNGERIN DES MERINITA**
+
+Alter: 97 (Erzmaga)<br>
+Persönlichkeitseigenschaften: Rätselhaft +3, Selbstsicher +3, Feindselig –3
+
+Vinaria war die frühere Prima des Hauses, trat aber zurück, nachdem Handri sie in den internen Machtspielen überlistet hatte. Anfangs wurde behauptet, sie sei ins „Feenzwielicht" eingetreten, doch sieben Jahre später kehrte sie ohne erkennbare Veränderung in Erscheinung oder Persönlichkeit zurück. Insgeheim hat Handri Angst vor ihr — seit ihrer Rückkehr spürt er, dass sie eine innere Stärke besitzt, die zuvor nie vorhanden war. Er meidet sie nach Kräften und lässt ihr sogar freie Hand, ohne einzugreifen. Vinaria ist politisch stark — in ihrer Zeit als Prima führte sie lange Beratungen mit vielen anderen Primi und versteht es außerordentlich gut, diese Kontakte für ihre eigenen Zwecke einzusetzen. Ihre Karikatur war der Feenkönig von Irencillia, der jetzt Handris Karikatur ist; seit ihrer Rückkehr hat sie auf rätselhafte Weise keine neue erworben, was Handri weiteren Anlass zur Beunruhigung gibt. Ihre Magie ist besonders stark in den rohen Elementarkünsten, obwohl ihre Zauber stets in schönen Glanz gekleidet sind.
+
+**GLESIG, ANHÄNGERIN DES MERINITA**
+
+Alter: 62 (Meisterin)<br>
+Persönlichkeitseigenschaften: Ungeduldig +2, Freundlich +1, Nachsichtig gegenüber Narren –2
+
+Glesig gilt als das Mitglied des Hauses Merinita, das mit den unterirdischen Feen am vertrautesten ist. Sie ist eine massiv gebaute Maga mit schlichten Zügen, doch ihr Haar scheint aufgrund des Zwielichts aus leuchtenden Kupferfäden zu bestehen. Natürlich ist sie auf Terram-Magie spezialisiert. Ihre Karikatur Humnel hat die Gestalt eines riesigen Trolls angenommen, und Glesig hat ihn zu ihrem Feenvertrauten gemacht. Humnel beschützt seine Herrin sehr und verträgt es besonders schlecht, wenn sie beleidigt wird.
+
 **IACOB, ANHÄNGER DES MERINITA**
 
 Alter: 43 (Meister)<br>
@@ -3232,19 +3232,19 @@ Persönlichkeitseigenschaften: Unabhängig +2, Misstrauisch +1, Redselig –2
 
 Iacob filius Handri ist der politisch aktivste Magus von Irencillia (vielleicht abgesehen von Vinaria) und der etwas vorwitzige Anführer der Älteren Gilde. Er leitet auch ein geheimes Projekt, das Handri bei seiner Amtsübernahme als Primus des Hauses Merinita ausgedacht hat — eine Religion im Namen der Feen zu begründen. Iacob hütet sich sorgfältig davor, den Sterblichen gegenüber magische Kräfte zu offenbaren; dennoch werden die Quaesitoren tief unzufrieden sein, sollten sie von dem Vorhaben erfahren. Iacob ist ein Meister der Mentem-Magie, hat diesen Rang in bemerkenswertem jungen Alter erworben und eine Reihe von Zaubern erfunden, die Gedanken und Ideen in die Köpfe seiner Ziele pflanzen. Er ist ein hochgewachsener Mann, scheinbar Anfang dreißig (aber tatsächlich ein Jahrzehnt älter), mit einer einnehmenden Persönlichkeit und einer fast hypnotischen Stimme. Seine Karikatur ist Nestor, eine weiße Krähe, die ihn auf seinen Reisen begleitet.
 
+**GRAVIS, ANHÄNGER DES BONISAGUS**
+
+Alter: 33 (Geselle)<br>
+Persönlichkeitseigenschaften: Fröhlich +2, Getrieben +2, Empfindsam +1
+
+Gravis ist nach Irencillia gekommen, um seiner lebenslangen Faszination für die Feen nachzugehen. Er gehört dem Haus Bonisagus an und findet es besonders frustrierend, dass er nicht einmal die Grundlagen der Feenmagie erlernen konnte, obwohl seine Feenkunde die vieler Merinita-Magi übertrifft. Gravis ist jedoch nicht verbittert geworden und arbeitet noch immer auf sein Ziel hin. Seine Karikatur Danket ist so ziemlich sein Gegenteil: ein mürrischer, stockdünner Zwerg mit einem ewigen Stirnrunzeln, der mit Gravis' rundlicher Gestalt und heiterer Gemütsart kontrastiert.
+
 **RICHENDA SPINOSA, ANHÄNGERIN DES FLAMBEAU**
 
 Alter: 28 (Gesellin)<br>
 Persönlichkeitseigenschaften: Verbittert +3, Stachelig +2, Feenhaft –2
 
 Richenda ist ein sehr untypisches Mitglied des Hauses Flambeau. Als Lehrling zeigte sie eine große Begabung für Feuermagie, doch war ihrem Meister (Indulius von Fengheld) unbekannt, dass dies auf ihr verborgenes feeisches Erbe zurückzuführen war — sie stammte von Kupala ab, einem Feeenlord, der in slawischen Landen die Feuerblume bewacht. Die Ungeschicklichkeit ihres Meisters (in ihrer Sicht) beschädigte ihre Gabe, und sie wurde unfähig, Feuermagie außer mit großer Mühe zu verwenden. Ihre natürliche Begabung für Herbam machte sie zur Lachnummer ihres Hauses, besonders als bekannt wurde, dass sie Feenblut besaß. Richenda ist eine sehr zornige junge Maga geworden, die eine Affinität zu Zaubern mit Dornen hat, und hat ihrem Meister Rache geschworen. Sie hat sich noch nicht vollständig mit ihrer feeischen Seite abgefunden, obwohl ihre Karikatur Jennis ihr dabei hilft; er erscheint als männliche Version der polnischen Maga, und beide haben viel voneinander gelernt.
-
-**VINARIA, ANHÄNGERIN DES MERINITA**
-
-Alter: 97 (Erzmaga)<br>
-Persönlichkeitseigenschaften: Rätselhaft +3, Selbstsicher +3, Feindselig –3
-
-Vinaria war die frühere Prima des Hauses, trat aber zurück, nachdem Handri sie in den internen Machtspielen überlistet hatte. Anfangs wurde behauptet, sie sei ins „Feenzwielicht" eingetreten, doch sieben Jahre später kehrte sie ohne erkennbare Veränderung in Erscheinung oder Persönlichkeit zurück. Insgeheim hat Handri Angst vor ihr — seit ihrer Rückkehr spürt er, dass sie eine innere Stärke besitzt, die zuvor nie vorhanden war. Er meidet sie nach Kräften und lässt ihr sogar freie Hand, ohne einzugreifen. Vinaria ist politisch stark — in ihrer Zeit als Prima führte sie lange Beratungen mit vielen anderen Primi und versteht es außerordentlich gut, diese Kontakte für ihre eigenen Zwecke einzusetzen. Ihre Karikatur war der Feenkönig von Irencillia, der jetzt Handris Karikatur ist; seit ihrer Rückkehr hat sie auf rätselhafte Weise keine neue erworben, was Handri weiteren Anlass zur Beunruhigung gibt. Ihre Magie ist besonders stark in den rohen Elementarkünsten, obwohl ihre Zauber stets in schönen Glanz gekleidet sind.
 
 #### WEITERE MAGI
 
@@ -3358,6 +3358,18 @@ Hier folgt eine keineswegs erschöpfende Liste geeigneter Standorte für die Gr�
 >#### Antagonisten in eurer Saga
 >Dieses Kapitel schlägt eine Reihe mächtiger Organisationen und Wesenheiten vor (etwa den Orden Odins, mächtige Teufel, Sekten von Schurken-Zauberern usw.), die allesamt fakultativ sind und keineswegs alle im Rheintribunal vorhanden sein müssen. Es handelt sich lediglich um *Vorschläge* für die Art mächtiger Antagonisten und Handlungsbögen, die ihr für eure Saga entwerfen könntet. Bedenkt sorgfältig die Konsequenzen für eure Saga, bevor ihr eines dieser Elemente einführt. Wie würde dies den Fokus und die Stimmung der Saga beeinflussen? In welchem Maße ist es allgemein bekannt? Wie könnten die Magi des Tribunals auf diese Bedrohung reagieren? Welche Herausforderungen entstehen dadurch, und wie könnten die Spielercharaktere sie überwinden?
 
+#### DIE RHEINSCHLUCHT
+
+Von manchen im Tribunal für verflucht gehalten, ist diese Region der Schauplatz mehrerer gescheiterter Konvente – obwohl man ihr auch eine Reihe alter Vis-Quellen nachsagt. Es handelt sich jedoch um eine dicht besiedelte Gegend, und jeder hier gegründete Konvent wird es wahrscheinlich mit den Adligen, Erzbischöfen und Raubrittern zu tun bekommen, die den Handel entlang des Flusses kontrollieren. Siehe Kapitel 12: Der Fluch der Rheinschlucht.
+
+#### NIEDERLOTHRINGEN
+
+Dieses recht ausgedehnte Gebiet verfügt derzeit über keinen Konvent und besitzt vermutlich zumindest einige unerschlossene Vis-Quellen, möglicherweise im Süden der Region und in den Vogesen. Eine hier angesiedelte Saga könnte in die Intrigen der Apfelgilde verwickelt werden, die von Triamore und den Konventen des benachbarten Normannischen Tribunals ersonnen wurden und mit konkurrierenden weltlichen deutschen und französischen Interessen zusammenhängen könnten. Siehe Kapitel 5: Der Rhein.
+
+#### DER SCHWARZWALD
+
+Im Schwarzwald finden sich genügend magische Ressourcen, um einen dritten Konvent zu unterhalten. Eine Saga hier wird wahrscheinlich einen hohen Fantasyanteil und wenig weltliche Verwicklungen aufweisen, da die Charaktere in die Ränkespiele der dunklen Waldfeen und die Rivalität zwischen Durenmar und Dankmar hineingezogen werden. Siehe Kapitel 6: Der Schwarzwald.
+
 #### DÄNEMARK ODER SKANDINAVIEN
 
 Offiziell Teil des Novgorod-Tribunals, obwohl dies bald beim Großtribunal angefochten werden wird (siehe Kapitel 9: Die Ostmarken, Heorot): Die Themen wären die Erschließung von Ländern, die dem Orden des Hermes noch neu sind, sowie die Begegnung mit den nordischen Zauberern. Oculus Septentrionalis hat ebenfalls ein starkes Interesse an dieser Region, da der Konvent die Kontrolle über den Handel auf der Ostsee anstrebt. Siehe Kapitel 7: Die Niederlande.
@@ -3366,25 +3378,13 @@ Offiziell Teil des Novgorod-Tribunals, obwohl dies bald beim Großtribunal angef
 
 Die mittleren Regionen des Tribunals sind weitgehend bewaldet und reich an mystischen Stätten (besonders Feenstätten), jedoch mit wenig hermetischer Präsenz. Diese Umgebung eignet sich besonders für einen Konvent oder eine Außenstelle, die ihren Ursprung in Irencillia haben und dem Einfluss der Feenhöfe ausgesetzt sind; doch jeder Konvent könnte sich in diesen bewaldeten Hochlagen behaupten. Einer der alpinen Konvente im Süden könnte sogar versuchen, hier eine Außenstelle zu errichten – als (wohl unerwünschten) Einfall in das benachbarte Tribunal. Siehe Kapitel 8: Mitteleuropa.
 
-#### NIEDERLOTHRINGEN
-
-Dieses recht ausgedehnte Gebiet verfügt derzeit über keinen Konvent und besitzt vermutlich zumindest einige unerschlossene Vis-Quellen, möglicherweise im Süden der Region und in den Vogesen. Eine hier angesiedelte Saga könnte in die Intrigen der Apfelgilde verwickelt werden, die von Triamore und den Konventen des benachbarten Normannischen Tribunals ersonnen wurden und mit konkurrierenden weltlichen deutschen und französischen Interessen zusammenhängen könnten. Siehe Kapitel 5: Der Rhein.
-
-#### DIE ÖSTLICHEN BERGE
-
-Diese Region wimmelt von den Intrigen des Transsilvanischen Tribunals. Der Konvent Roznov war als Brückenkopf für die Politik des Hauses Tremere gedacht, und jeder hier neu gegründete Konvent wird unweigerlich in ihre Ränkespiele verwickelt werden. Zudem ist diese wilde Gegend einer der ganz wenigen verbliebenen Orte im Heiligen Römischen Reich, an denen noch heidnische Überreste zu finden sind. Siehe Kapitel 10: Böhmen.
-
 #### DER POMMERSCHE WALD
 
 Dies ist eine wilde und ungezähmte Region, die seit jeher als Heimstatt von Hexen, Werwölfen und Riesen gilt. Ein hier angesiedelter Konvent könnte versuchen, die Gegend zu zivilisieren, oder aber von den nicht-romanischen Häusern wie Bjornaer und Ex Miscellanea geprägt sein. Pommern ist ein weiteres Streitgebiet zwischen dem Rheintribunal und dem Novgorod-Tribunal, und eine hier angesiedelte Saga wird wohl von einem erheblichen Maß an internem Streit bestimmt sein. Siehe Kapitel 9: Die Ostmarken.
 
-#### DIE RHEINSCHLUCHT
+#### DIE ÖSTLICHEN BERGE
 
-Von manchen im Tribunal für verflucht gehalten, ist diese Region der Schauplatz mehrerer gescheiterter Konvente – obwohl man ihr auch eine Reihe alter Vis-Quellen nachsagt. Es handelt sich jedoch um eine dicht besiedelte Gegend, und jeder hier gegründete Konvent wird es wahrscheinlich mit den Adligen, Erzbischöfen und Raubrittern zu tun bekommen, die den Handel entlang des Flusses kontrollieren. Siehe Kapitel 12: Der Fluch der Rheinschlucht.
-
-#### DER SCHWARZWALD
-
-Im Schwarzwald finden sich genügend magische Ressourcen, um einen dritten Konvent zu unterhalten. Eine Saga hier wird wahrscheinlich einen hohen Fantasyanteil und wenig weltliche Verwicklungen aufweisen, da die Charaktere in die Ränkespiele der dunklen Waldfeen und die Rivalität zwischen Durenmar und Dankmar hineingezogen werden. Siehe Kapitel 6: Der Schwarzwald.
+Diese Region wimmelt von den Intrigen des Transsilvanischen Tribunals. Der Konvent Roznov war als Brückenkopf für die Politik des Hauses Tremere gedacht, und jeder hier neu gegründete Konvent wird unweigerlich in ihre Ränkespiele verwickelt werden. Zudem ist diese wilde Gegend einer der ganz wenigen verbliebenen Orte im Heiligen Römischen Reich, an denen noch heidnische Überreste zu finden sind. Siehe Kapitel 10: Böhmen.
 
 ## Das Crintera-Schisma
 
@@ -4684,20 +4684,6 @@ Diese Werke wurden beim Schreiben dieses Ergänzungsbandes herangezogen und kön
 * *The Catholic Encyclopedia*:
 * http://www.newadvent.org/cathen/
 
-#### GENEALOGIE
-
-* Obsidian, B. *Regnal Chronologies - Germany*: http://www.hostkingdom.net/germany.html
-* *German Genealogy*: http://www.genealogienetz.de/genealogy.html
-
-#### GEOGRAFIE UND SPEZIFISCHE ORTE
-
-* Duckeck, J. *Geological Maps of Germany*: http://www.showcaves.com/english/de/Maps/index.html
-* Ruseler, G. *Megalithen und Hünengräber (Megaliths and Megalithic Tombs)* (in German, with machine translation): http://www.stonepages.de/
-* Meijer, H. *Dolmens in the Netherlands*: http://users.bart.nl/\~jbmeijer/frntpage.htm
-* Bertaux, C. *Grand (Andresina)*: http://www. exagonline.com/grand/index2.htm
-* Washausen, T. *The Teufelsmoor*: http://www.washausen.de/fischerhude/sh42c.htm
-* *The Rhinefalls*: http://www.rhinefalls.com/
-
 #### HISTORISCHE WERKE
 
 * Caesar. *The Gallic Wars*, trans. McDevitte, W., and Bohn, W.:
@@ -4709,12 +4695,26 @@ Diese Werke wurden beim Schreiben dieses Ergänzungsbandes herangezogen und kön
 * Widukind of Corvey. *History of the Saxons* (in Latin): http://www.domus-ecclesiae.de/historica/widukindus-corbejus/widukindus.vita.html
 * Anonymous. *The Nibelungenlied*, trans. Shumway, D.: http://sunsite.berkeley.edu/OMACL/Nibelungenlied/
 
+#### GENEALOGIE
+
+* Obsidian, B. *Regnal Chronologies - Germany*: http://www.hostkingdom.net/germany.html
+* *German Genealogy*: http://www.genealogienetz.de/genealogy.html
+
 #### MYTHEN UND LEGENDEN
 
 * Ashliman, D. *Germanic Myths, Legends, and Sagas*: http://www.pitt.edu/\~dash/ mythlinks.html
 * Grimm, J. *Teutonic Mythology*: http://www. northvegr.org/lore/grimmst/index.php
 * Morscher, W. *Anthology of German Myths and Legends*: http://www.sagen.at/english/index.html
 * Ruland, W. *Legends of the Rhine*: http://www.kellscraft.com/LegendsRhine/legendsrhinecontents.html
+
+#### GEOGRAFIE UND SPEZIFISCHE ORTE
+
+* Duckeck, J. *Geological Maps of Germany*: http://www.showcaves.com/english/de/Maps/index.html
+* Ruseler, G. *Megalithen und Hünengräber (Megaliths and Megalithic Tombs)* (in German, with machine translation): http://www.stonepages.de/
+* Meijer, H. *Dolmens in the Netherlands*: http://users.bart.nl/\~jbmeijer/frntpage.htm
+* Bertaux, C. *Grand (Andresina)*: http://www. exagonline.com/grand/index2.htm
+* Washausen, T. *The Teufelsmoor*: http://www.washausen.de/fischerhude/sh42c.htm
+* *The Rhinefalls*: http://www.rhinefalls.com/
 
 #### VERSCHIEDENES
 

@@ -6,28 +6,28 @@
     {
       "heading": "## Über das Dasein als Rheintribunal-Magus",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge",
       "subheading": "### Neue Tugenden und Fehler für Rheintribunal-Magi"
     },
     {
       "heading": "## Der Wald",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 H4-Blöcke",
       "subheading": "### Die Waldgeister"
     },
     {
       "heading": "## Der Wald",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Allgemeine Mächte"
     },
     {
       "heading": "## Der Wald",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "11 Fetteinträge",
       "subheading": "### Spezifische Mächte"
     },
@@ -41,14 +41,14 @@
     {
       "heading": "## Durenmar",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Kultur und Traditionen"
     },
     {
       "heading": "## Durenmar",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "8 Fetteinträge",
       "subheading": "### Magi"
     },
@@ -62,49 +62,49 @@
     {
       "heading": "## Waddenzee",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "4 Fetteinträge",
       "subheading": "### Magi"
     },
     {
       "heading": "## Oculus Septentrionalis",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Magi"
     },
     {
       "heading": "## Fengheld",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "7 Fetteinträge",
       "subheading": "### Magi"
     },
     {
       "heading": "## Die Ostsee",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "3 Fetteinträge",
       "subheading": "### Magi"
     },
     {
       "heading": "## Crintera",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "5 Fetteinträge",
       "subheading": "### Magi"
     },
     {
       "heading": "## Irencillia",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 Fetteinträge",
       "subheading": "### Magi"
     },
     {
       "heading": "## Euren Konvent gründen",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "7 H4-Blöcke",
       "subheading": "### Mögliche Standorte"
     },
@@ -124,7 +124,7 @@
     {
       "heading": "## Anhang C: Bibliografie",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "6 H4-Blöcke",
       "subheading": "### Internetquellen"
     },

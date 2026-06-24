@@ -1687,13 +1687,13 @@ Die Volkshexe war nicht gut ausgebildet; sie erhält 50 weniger Erfahrungspunkte
 
 Die folgenden bestehenden Hermetischen Tugenden und Fehler aus ArM5 sind für Begabte Volkshexen geeignet.
 
-**Große Hermetische Fehler:** Auffällige Gabe, Schwieriges Langlebigkeitsritual, Notwendige Bedingung, Schmerzhafte Magie, Einschränkung, Starre Magie, Vis-Verschwender.
-
 **Große Hermetische Tugenden:** Sanfte Gabe
 
-**Kleine Hermetische Fehler:** Nachlässiger Zauberer, Kreative Blockade, Zyklische Magie (negativ), Schädliche Umstände, Desorientierungsmagie, Anfälligkeit für Göttliche Kraft, Anfälligkeit für Feenkraft, Anfälligkeit für Infernale Kraft, Phantasieloser Lerner, Verzerrte Magie, Schwache Magie, Sonderbare Magie.
-
 **Kleine Hermetische Tugenden:** Begabter Laborlehrling, Vorsichtiger Zauberer, Zyklische Magie (positiv), Schneller Zauberer, Freies Studium, Gezügelte Magie, Erfinderisches Genie, Magisches Gedächtnis, Persönliche Vis-Quelle, Stille Magie, Nebeneffekt, Besondere Umstände, Subtile Magie.
+
+**Große Hermetische Fehler:** Auffällige Gabe, Schwieriges Langlebigkeitsritual, Notwendige Bedingung, Schmerzhafte Magie, Einschränkung, Starre Magie, Vis-Verschwender.
+
+**Kleine Hermetische Fehler:** Nachlässiger Zauberer, Kreative Blockade, Zyklische Magie (negativ), Schädliche Umstände, Desorientierungsmagie, Anfälligkeit für Göttliche Kraft, Anfälligkeit für Feenkraft, Anfälligkeit für Infernale Kraft, Phantasieloser Lerner, Verzerrte Magie, Schwache Magie, Sonderbare Magie.
 
 ## Volkshexen-Magie
 
@@ -1708,21 +1708,47 @@ Obwohl Volkshexen keine allgemeine Magieresistenz besitzen, verfügen sie wie vi
 
 Wenn eine Volkshexe ihre Übernatürlichen Fertigkeiten einsetzt, wird eine Zaubersumme erzeugt und mit dem Schwierigkeitsgrad des Effekts verglichen, um festzustellen, ob der Effekt gelingt. Eine Begabte Volkshexe kann ihren Zauberwert zudem durch den Einsatz der entsprechenden Form an Vis verstärken. Beachte, dass unBegabte Volkshexen kein Vis einsetzen können, um ihren Zauberwert zu verstärken. Jede Fertigkeitsbeschreibung gibt an, welche Form angemessen ist, und dies ist auch der Formbonus, den hermetische Magi nutzen, wenn sie dem Volkshexen-Effekt widerstehen. Jede Beschreibung gibt zudem an, welche Eigenschaft zur Erzeugung des Zauberwerts verwendet wird.
 
-**ENTSPRECHENDE ZAUBERSTUFE:** (5 x Fertigkeit)
+**ZAUBERWERT DER VOLKSHEXE:** Eigenschaft + Fertigkeit + Auramodifikator
 
 **MAGNITUDE DES EFFEKTS:** Fertigkeit
 
-**MAXIMALER VIS-EINSATZ:** Fertigkeit + Vis-Kosten des Effekts
-
-**PENETRATIONSSUMME:** Zaubersumme + Penetrationsbonus – Schwierigkeitsgrad
-
-**Schwierigkeitsgrad:** Wird durch den Effekt bestimmt
-
-**VIS-BONUS AUF DEN ZAUBERWERT:** +1 pro Bauer (nur bei Begabten)
+**ENTSPRECHENDE ZAUBERSTUFE:** (5 x Fertigkeit)
 
 **ZAUBERSUMME DER VOLKSHEXE:** Zauberwert + Stresswurf
 
-**ZAUBERWERT DER VOLKSHEXE:** Eigenschaft + Fertigkeit + Auramodifikator
+**Schwierigkeitsgrad:** Wird durch den Effekt bestimmt
+
+**PENETRATIONSSUMME:** Zaubersumme + Penetrationsbonus – Schwierigkeitsgrad
+
+**VIS-BONUS AUF DEN ZAUBERWERT:** +1 pro Bauer (nur bei Begabten)
+
+**MAXIMALER VIS-EINSATZ:** Fertigkeit + Vis-Kosten des Effekts
+
+#### Wirkungsmethoden
+
+Eine Volkshexe verwendet Wirkungsmethoden, die der hermetischen Magie fremd sind, und die Wirkungsmethoden für jede Übernatürliche Fertigkeit sind unten angegeben. Beachte, dass diese besonderen Wirkungsmethoden nur für die Art gelten, wie Volkshexen diese Übernatürlichen Fertigkeiten einsetzen; ein Charakter, der eine dieser Übernatürlichen Fertigkeiten aus einer anderen Quelle erlernt hat, ist auf diese Weise nicht eingeschränkt. Volkshexen müssen die entsprechende Wirkungsmethode verwenden – sie können ihre Methode nicht variieren wie Magi. Die Wirkungsmethoden der Volkshexen sind:
+
+**Trank:** Die Fertigkeit wird eingesetzt, indem ein Trank gebraut wird (siehe unten), den das Ziel trinkt.
+
+**Beschwörung:** Die Volkshexe rezitiert ein kleines Reimgedicht, um ihre Fertigkeit einzusetzen. Das Ziel muss diese Beschwörung hören können, um betroffen zu sein (siehe die Tabelle Worte und Gesten für die Reichweite jeder Lautstärkestufe; ArM5, [Seite 83](<Ars Magica Definitive Edition Basisregeln.md#worte-und-gesten>)). Die Volkshexe kann die Fertigkeit nicht einsetzen, wenn sie nicht sprechen kann. Wenn sie die Erinnerung an die Beschwörung verliert (zum Beispiel durch feindliche Magie), würfle für sie jeden Tag nach Ende des die Erinnerung verändernden Effekts einen Intelligenz-+ Konzentrations-Wurf gegen einen Schwierigkeitsgrad von 6. Wenn dieser Wurf gelingt, kehrt ihre Erinnerung an die Beschwörung zurück.
+
+**Fetisch:** Die Volkshexe muss einen bestimmten Gegenstand (den Fetisch) halten, um die Fertigkeit einzusetzen. Sie kann die Fertigkeit nicht einsetzen, wenn dieser Gegenstand fehlt, und sie kann auch keinen Gegenstand verwenden, der von einem anderen Charakter hergestellt wurde. Es dauert ein Quartal Laborarbeit, um einen geeigneten Gegenstand herzustellen. Eine Volkshexe kann mehrere Fetisch-Gegenstände für eine einzelne Fertigkeit haben und benötigt nur einen davon, um die Fertigkeit einzusetzen. Das bedeutet, sie kann Ersatz-Fetische herstellen und an verschiedenen Orten deponieren.
+
+#### Patzer
+
+Ein Patzer bei ihrer Zaubersumme kann für eine Volkshexe verheerend sein. Üblicherweise tritt dennoch ein Effekt ein, doch er ist unkontrolliert und nicht das, was die Hexe erwartet hat. Sie erhält zudem 1 Verzerrungspunkt für jede 0 auf den Patzerwürfeln (siehe Verzerrung, weiter unten in diesem Kapitel).
+
+#### Zeichen
+
+Jede Volkshexe hat ein Zeichen, das einen Effekt als von ihr gewirkt erkennen lässt. Dies ähnelt dem Sigil eines Magus. Um zu prüfen, ob ein Charakter ein Volkshexen-Zeichen erkennen kann, würfle Wahrnehmung + Organisationskunde: Volkshexen gegen einen Schwierigkeitsgrad von 9. Eine Volkshexe kann ihr Zeichen normalerweise nicht unterdrücken, und sie hat auch nicht die Fähigkeit, das Zeichen einer anderen Volkshexe zu fälschen. Zudem identifiziert ein erfolgreicher Wurf auf Wahrnehmung + Organisationskunde: Volkshexen gegen einen Schwierigkeitsgrad von 6 einen Effekt als von einer Volkshexe gewirkt, ohne jedoch die bestimmte Hexe zu identifizieren.
+
+#### Tierverständnis
+
+Eigenschaft: Kommunikation<br>
+Form: Animal<br>
+Methode: Beschwörung (das Tier/die Tiere muss/müssen die Beschwörung hören können) oder Trank.
+
+Siehe ArM5, [Seite 62](<Ars Magica Definitive Edition Basisregeln.md#die-gabe-2>). Beachte, dass ein Tier normalerweise schlecht auf eine Begabte Volkshexe reagiert – ebenso wie auf einen Magus.
 
 #### Fluchen
 
@@ -1756,6 +1782,14 @@ Tierfluch: Der Fluch verwandelt den Charakter in ein kleines Tier (zum Beispiel 
 **Schwierigkeitsgrad: 18**<br>
 Verkleinerungsfluch: Der Fluch verringert die Größe des Charakters. Jeden Monat verliert der Charakter eine Größenstufe. Dies setzt sich fort, bis entweder der Fluchgegenstand zerstört, die Arkane Verbindung abgelaufen oder der Charakter durch einen anderen magischen Effekt auf seine ursprüngliche Größe zurückgebracht wird. Wenn der Effekt endet, kehrt der Charakter mit einer Rate von 1 Größenstufe pro Stunde zu seiner ursprünglichen Größe zurück. Wenn der Charakter eine Größe von –18 erreicht, verringert er sich nicht weiter, doch er kehrt erst zu seiner ursprünglichen Größe zurück, wenn der Effekt endet.
 
+#### Wünschelrutengehen
+
+Eigenschaft: Wahrnehmung<br>
+Form: Hängt vom Ziel ab (Animal für Tiere, Corpus für Menschen, Vim für Vis usw.).<br>
+Methode: Fetisch oder Trank.
+
+Siehe ArM5, [Seite 64](<Ars Magica Definitive Edition Basisregeln.md#übernatürlich>). Diese Fertigkeit ist für Volkshexen wichtig, da sie ihnen erlaubt, Vis aufzuspüren.
+
 #### Flug
 
 Eigenschaft: Ausdauer<br>
@@ -1765,14 +1799,6 @@ Methode: Fetisch oder Trank.
 Die Volkshexe besitzt die Fähigkeit zu fliegen. Der Schwierigkeitsgrad, um sich in die Luft zu erheben, beträgt 9. Die Anwendung dieser Kraft kostet sie 1 langfristige Erschöpfungsstufe (selbst bei einem gescheiterten Wurf), wenn sie die Fetisch-Methode anwendet; bei der Trank-Methode kostet sie keine Erschöpfung. In beiden Fällen verliert sie bei einem Patzer eine Anzahl zusätzlicher langfristiger Erschöpfungsstufen gleich der Anzahl der Patzer. Einmal in der Luft, kann sie etwa mit der Geschwindigkeit eines galoppierenden Pferdes fliegen und bleibt eine Anzahl Stunden in der Luft, die ihrem Flug-Fertigkeitswert entspricht, doch der Flug endet, wenn sie vorher den Boden berührt.
 
 Wenn Würfe bestimmen sollen, ob die Volkshexe ein komplexes Manöver erfolgreich durchführt, verwende die Fertigkeit Athletik. Wenn eine fliegende Volkshexe in einen Kampf verwickelt ist, wird ihr Flug-Fertigkeitswert sowohl zu ihrer Angriffssumme als auch zu ihrer Verteidigungssumme addiert – jedoch nur, wenn ihr Gegner nicht fliegen kann.
-
-#### Gestaltwandler
-
-Eigenschaft: Ausdauer<br>
-Form: Animal<br>\
-Methode: Fetisch oder Trank.
-
-Siehe ArM5, [Seite 67](<Ars Magica Definitive Edition Basisregeln.md#gespür-für-heiliges-und-unheiliges>). Der Fetisch wird aus der Haut der Tiergestalt hergestellt.
 
 #### Heilung
 Eigenschaft: Ausdauer<br>
@@ -1788,40 +1814,6 @@ Die Volkshexe kann sich selbst oder einen anderen Charakter heilen. Dies ist ech
 | 12   | Schwere Wunde (5 B)         | Müde (3 B)           |
 | 15   | Lähmende Wunde (6 B)        | Betäubt (4 B)        |
 
-#### Patzer
-
-Ein Patzer bei ihrer Zaubersumme kann für eine Volkshexe verheerend sein. Üblicherweise tritt dennoch ein Effekt ein, doch er ist unkontrolliert und nicht das, was die Hexe erwartet hat. Sie erhält zudem 1 Verzerrungspunkt für jede 0 auf den Patzerwürfeln (siehe Verzerrung, weiter unten in diesem Kapitel).
-
-#### Tierverständnis
-
-Eigenschaft: Kommunikation<br>
-Form: Animal<br>
-Methode: Beschwörung (das Tier/die Tiere muss/müssen die Beschwörung hören können) oder Trank.
-
-Siehe ArM5, [Seite 62](<Ars Magica Definitive Edition Basisregeln.md#die-gabe-2>). Beachte, dass ein Tier normalerweise schlecht auf eine Begabte Volkshexe reagiert – ebenso wie auf einen Magus.
-
-#### Wirkungsmethoden
-
-Eine Volkshexe verwendet Wirkungsmethoden, die der hermetischen Magie fremd sind, und die Wirkungsmethoden für jede Übernatürliche Fertigkeit sind unten angegeben. Beachte, dass diese besonderen Wirkungsmethoden nur für die Art gelten, wie Volkshexen diese Übernatürlichen Fertigkeiten einsetzen; ein Charakter, der eine dieser Übernatürlichen Fertigkeiten aus einer anderen Quelle erlernt hat, ist auf diese Weise nicht eingeschränkt. Volkshexen müssen die entsprechende Wirkungsmethode verwenden – sie können ihre Methode nicht variieren wie Magi. Die Wirkungsmethoden der Volkshexen sind:
-
-**Trank:** Die Fertigkeit wird eingesetzt, indem ein Trank gebraut wird (siehe unten), den das Ziel trinkt.
-
-**Beschwörung:** Die Volkshexe rezitiert ein kleines Reimgedicht, um ihre Fertigkeit einzusetzen. Das Ziel muss diese Beschwörung hören können, um betroffen zu sein (siehe die Tabelle Worte und Gesten für die Reichweite jeder Lautstärkestufe; ArM5, [Seite 83](<Ars Magica Definitive Edition Basisregeln.md#worte-und-gesten>)). Die Volkshexe kann die Fertigkeit nicht einsetzen, wenn sie nicht sprechen kann. Wenn sie die Erinnerung an die Beschwörung verliert (zum Beispiel durch feindliche Magie), würfle für sie jeden Tag nach Ende des die Erinnerung verändernden Effekts einen Intelligenz-+ Konzentrations-Wurf gegen einen Schwierigkeitsgrad von 6. Wenn dieser Wurf gelingt, kehrt ihre Erinnerung an die Beschwörung zurück.
-
-**Fetisch:** Die Volkshexe muss einen bestimmten Gegenstand (den Fetisch) halten, um die Fertigkeit einzusetzen. Sie kann die Fertigkeit nicht einsetzen, wenn dieser Gegenstand fehlt, und sie kann auch keinen Gegenstand verwenden, der von einem anderen Charakter hergestellt wurde. Es dauert ein Quartal Laborarbeit, um einen geeigneten Gegenstand herzustellen. Eine Volkshexe kann mehrere Fetisch-Gegenstände für eine einzelne Fertigkeit haben und benötigt nur einen davon, um die Fertigkeit einzusetzen. Das bedeutet, sie kann Ersatz-Fetische herstellen und an verschiedenen Orten deponieren.
-
-#### Wünschelrutengehen
-
-Eigenschaft: Wahrnehmung<br>
-Form: Hängt vom Ziel ab (Animal für Tiere, Corpus für Menschen, Vim für Vis usw.).<br>
-Methode: Fetisch oder Trank.
-
-Siehe ArM5, [Seite 64](<Ars Magica Definitive Edition Basisregeln.md#übernatürlich>). Diese Fertigkeit ist für Volkshexen wichtig, da sie ihnen erlaubt, Vis aufzuspüren.
-
-#### Zeichen
-
-Jede Volkshexe hat ein Zeichen, das einen Effekt als von ihr gewirkt erkennen lässt. Dies ähnelt dem Sigil eines Magus. Um zu prüfen, ob ein Charakter ein Volkshexen-Zeichen erkennen kann, würfle Wahrnehmung + Organisationskunde: Volkshexen gegen einen Schwierigkeitsgrad von 9. Eine Volkshexe kann ihr Zeichen normalerweise nicht unterdrücken, und sie hat auch nicht die Fähigkeit, das Zeichen einer anderen Volkshexe zu fälschen. Zudem identifiziert ein erfolgreicher Wurf auf Wahrnehmung + Organisationskunde: Volkshexen gegen einen Schwierigkeitsgrad von 6 einen Effekt als von einer Volkshexe gewirkt, ohne jedoch die bestimmte Hexe zu identifizieren.
-
 #### Zweites Gesicht
 
 Eigenschaft: Wahrnehmung<br>
@@ -1829,6 +1821,14 @@ Form: Vim<br>
 **Methode:** Beschwörung (das wahrgenommene Objekt muss die Beschwörung hören können) oder Trank.
 
 Siehe ArM5, [Seite 67](<Ars Magica Definitive Edition Basisregeln.md#gespür-für-heiliges-und-unheiliges>).
+
+#### Gestaltwandler
+
+Eigenschaft: Ausdauer<br>
+Form: Animal<br>\
+Methode: Fetisch oder Trank.
+
+Siehe ArM5, [Seite 67](<Ars Magica Definitive Edition Basisregeln.md#gespür-für-heiliges-und-unheiliges>). Der Fetisch wird aus der Haut der Tiergestalt hergestellt.
 
 ### Magische Abwehr
 
@@ -2210,16 +2210,16 @@ An jedem Sabbattermin gibt es nur ein begrenztes Zeitfenster, in dem diese hilfr
 
 >#### Sabbatzeiten
 >
+>**WINTERSONNWENDE**
+>
+>**Imbolg/Brigid/Lichtmess:** 1. Februar <br>
+>**Eostre:** Frühjahrstagundnachtgleiche<br>
 >**Beltane/Maifest/Walpurgisnacht:** 30. April/1. Mai
 >
->**Eostre:** Frühjahrstagundnachtgleiche<br>
->**Imbolg/Brigid/Lichtmess:** 1. Februar <br>
+>**SOMMERSONNWENDE**<br>
 >**Lammas/Lugnasad:** 2. August <br>
 >**Mabon:** Herbsttagundnachtgleiche <br>
 >**Samhain/Allerheiligenabend:** 31. Oktober/1. November
->**SOMMERSONNWENDE**<br>
->**WINTERSONNWENDE**
->
 
 >#### ABENTEUERIDEE: Der Große Sabbat
 >
@@ -2550,21 +2550,21 @@ Anders als bei einem normalen Integrationsergebnis gewinnt der erfindende Charak
 
 >#### ABENTEUERIDEEN zur Behutsamen Erschließung
 >
->**Ein behutsamerer Preis**
->
->Ein Tytalus-Magus erfindet die Behutsame Erschließung, weigert sich aber, seine Methode zu teilen, und verlangt stattdessen ein Honorar von anderen Magi, um sie an deren Lehrlingen durchzuführen. Sein Preis ist angemessen, aber die Behutsame Erschließung wird so beliebt, dass der Magus der Nachfrage nicht nachkommen kann, und dieser Engpass verursacht eine Verzögerung in der Ausbildung einer großen Zahl von Lehrlingen im Tribunal. Einige besorgte Magi versuchen, ein Tribunalsurteil durchzusetzen, das den Magus zwingt, die Methode der Behutsamen Erschließung zu teilen. Es ist möglich, dass andere Magi versuchen, die Methode zu stehlen, oder alternativ darum wetteifern, die Forschung selbst durchzuführen (wobei sie die Gabe einiger unglücklicher Lehrlinge während der Experimente beschädigen).
->**Lang verlorene Macht**
->
->Die Magi der Linie des Pralix (siehe *Häuser des Hermes: Gemeinschaften*, [Seite 126](<Ars Magica 5e - Häuser des Hermes - Societates.md#die-abstammungslinie-der-pralix>)) erzielen diesen Durchbruch und erschließen die Künste einer Reihe von Lehrlingen mithilfe der Behutsamen Erschließung. Den neuen Lehrlingen wird dann Zugang zu einer geheimen Bibliothek gewährt, die viele Bücher enthält, die im Laufe der Jahrhunderte von zum Orden des Hermes konvertierten Heckenzauberern geschrieben wurden. Durch das Studium des Bücherbestands können die Lehrlinge exotische Übernatürliche Fertigkeiten erlernen, die dem Orden des Hermes als verloren galten.
->
 >**Ruinierte Lehrlinge**
 >
 >Ein vom Pech verfolgter Bonisagus-Magus, der diesen Durchbruch zu erforschen versucht, beschlagnahmt eine Reihe vielversprechender „Lehrlinge" und beschädigt oder zerstört deren Gaben durch experimentelle Methoden der Erschließung der Künste. Dies sind aufrichtige Fehler – der Bonisagus-Magus handelt nicht böswillig –, und da seine „Opfer" noch nicht ihre Künste erschlossen bekommen hatten, waren sie technisch gesehen niemandes Lehrlinge. Nichtsdestotrotz sind die anderen Magi des Tribunals entsetzt über diese Verschwendung Begabten Talents und versuchen, die Forschung des Magus zu unterbinden.
+>
+>**Lang verlorene Macht**
+>
+>Die Magi der Linie des Pralix (siehe *Häuser des Hermes: Gemeinschaften*, [Seite 126](<Ars Magica 5e - Häuser des Hermes - Societates.md#die-abstammungslinie-der-pralix>)) erzielen diesen Durchbruch und erschließen die Künste einer Reihe von Lehrlingen mithilfe der Behutsamen Erschließung. Den neuen Lehrlingen wird dann Zugang zu einer geheimen Bibliothek gewährt, die viele Bücher enthält, die im Laufe der Jahrhunderte von zum Orden des Hermes konvertierten Heckenzauberern geschrieben wurden. Durch das Studium des Bücherbestands können die Lehrlinge exotische Übernatürliche Fertigkeiten erlernen, die dem Orden des Hermes als verloren galten.
 >
 >**Unterwanderung durch den Orden Odins**
 >
 >Heckenzauberer des Ordens Odins erfahren von dieser Verbesserung der hermetischen Theorie und nutzen sie zusammen mit einem Bonisagus-Verbündeten als Grundlage eines neuen Forschungsprojekts, das es einem Lehrling ermöglicht, sowohl Runenmagie als auch hermetische Magie ohne Abzug zu erlernen. Sobald dieses Projekt abgeschlossen ist, kann der Orden Odins beginnen, den Orden des Hermes praktisch unentdeckt zu unterwandern.
 >
+>**Ein behutsamerer Preis**
+>
+>Ein Tytalus-Magus erfindet die Behutsame Erschließung, weigert sich aber, seine Methode zu teilen, und verlangt stattdessen ein Honorar von anderen Magi, um sie an deren Lehrlingen durchzuführen. Sein Preis ist angemessen, aber die Behutsame Erschließung wird so beliebt, dass der Magus der Nachfrage nicht nachkommen kann, und dieser Engpass verursacht eine Verzögerung in der Ausbildung einer großen Zahl von Lehrlingen im Tribunal. Einige besorgte Magi versuchen, ein Tribunalsurteil durchzusetzen, das den Magus zwingt, die Methode der Behutsamen Erschließung zu teilen. Es ist möglich, dass andere Magi versuchen, die Methode zu stehlen, oder alternativ darum wetteifern, die Forschung selbst durchzuführen (wobei sie die Gabe einiger unglücklicher Lehrlinge während der Experimente beschädigen).
 
 #### Integrationseffekte
 
@@ -2646,21 +2646,21 @@ Dieser Integrationseffekt verändert das Kräftegleichgewicht zwischen Formulais
 
 >#### ABENTEUERIDEEN zur Energiemagie
 >
->**Der Bjornaer-Kreuzzug**
+>**Ein prestigeträchtiges Projekt**
 >
->Ermutigt durch die Fähigkeit, Erschöpfung wiederherzustellen – und somit leichter in einer Göttlichen Aura zu agieren – bricht ein Bjornaer-Konventikel aus dem Wald hervor. Die brüllenden Bestien zerstören eine Reihe von Städten am Rand der Wildnis, und die Angriffe fordern mehrere Bischöfe. Das empörte Papsttum ruft einen Kreuzzug aus, und Tausende von Rittern, darunter Gruppen, die mit Heiligenreliquien bewaffnet sind, stehen am Waldrand zum Krieg bereit. Die Bjornaer sind relativ sicher – sie verbergen sich in einer Reihe von Wald-Regiones, aus denen sie gelegentlich Ausfälle unternehmen, um die Kreuzfahrer zu belästigen –, doch die frustrierten Kreuzfahrer könnten benachbarte Konvente angreifen.
->**Eine Diedne-Wiederkehr?**
->
->Die Magi des Hauses Diedne waren Meister der Spontanen Magie. Als mehrere Gruppen von Hopliten im Römischen Tribunal eine überraschende Fertigkeit in der Spontanen Magie demonstrieren, vermuten die leitenden Quaesitoren des Tribunals, dass die Hopliten auf Diedne-Geheimnisse gestoßen sind. Ermittler werden ausgesandt, um die Quelle dieser vermeintlich „wiederentdeckten" Diedne-Magie aufzuklären.
+>Ein Zirkel hat erschöpfungswiederherstellende Tränke an einen hermetischen Konvent verkauft, welche die ansässigen Magi heimlich studieren. Die Magi haben das Geheimnis ihrer Herstellung ergründet (das heißt, sie erfinden die Energiemagie) und sind bemüht, den Ursprung ihres hermetischen Durchbruchs zu verschleiern – sie möchten den Durchbruch dem Orden als Frucht eines prestigeträchtigeren, originären Forschungsprojekts präsentieren. Daher versuchen die Magi, den Volkshexen-Zirkel aufzuspüren und auszulöschen.
 >
 >**Kräftegleichgewicht**
 >
 >Ein Tytalus-Magus erfindet heimlich die Energiemagie und lehrt sie einer Clique niedrigrangiger Tremere. Diese Tremere nutzen ihre neue Fähigkeit, Erschöpfung wiederherzustellen und zu zerstören, um ihre Vorgesetzten sowohl im Certamen als auch im Krieg der Zauberer anzugreifen und so rasch ihre eigenen Sigile zu beanspruchen. Dies stört das Kräftegleichgewicht unter den Tremere und fragmentiert vorübergehend den Tremere-Stimmblock bei vielen Tribunalen. Während die neuen Tremere-Meister ihre Macht konsolidieren, nutzen andere Tribunalsfraktionen die Gelegenheit, eine Reihe von Tribunalsurteilen durchzusetzen, die seit Jahrzehnten von den Tremere blockiert wurden.
 >
->**Ein prestigeträchtiges Projekt**
+>**Eine Diedne-Wiederkehr?**
 >
->Ein Zirkel hat erschöpfungswiederherstellende Tränke an einen hermetischen Konvent verkauft, welche die ansässigen Magi heimlich studieren. Die Magi haben das Geheimnis ihrer Herstellung ergründet (das heißt, sie erfinden die Energiemagie) und sind bemüht, den Ursprung ihres hermetischen Durchbruchs zu verschleiern – sie möchten den Durchbruch dem Orden als Frucht eines prestigeträchtigeren, originären Forschungsprojekts präsentieren. Daher versuchen die Magi, den Volkshexen-Zirkel aufzuspüren und auszulöschen.
+>Die Magi des Hauses Diedne waren Meister der Spontanen Magie. Als mehrere Gruppen von Hopliten im Römischen Tribunal eine überraschende Fertigkeit in der Spontanen Magie demonstrieren, vermuten die leitenden Quaesitoren des Tribunals, dass die Hopliten auf Diedne-Geheimnisse gestoßen sind. Ermittler werden ausgesandt, um die Quelle dieser vermeintlich „wiederentdeckten" Diedne-Magie aufzuklären.
 >
+>**Der Bjornaer-Kreuzzug**
+>
+>Ermutigt durch die Fähigkeit, Erschöpfung wiederherzustellen – und somit leichter in einer Göttlichen Aura zu agieren – bricht ein Bjornaer-Konventikel aus dem Wald hervor. Die brüllenden Bestien zerstören eine Reihe von Städten am Rand der Wildnis, und die Angriffe fordern mehrere Bischöfe. Das empörte Papsttum ruft einen Kreuzzug aus, und Tausende von Rittern, darunter Gruppen, die mit Heiligenreliquien bewaffnet sind, stehen am Waldrand zum Krieg bereit. Die Bjornaer sind relativ sicher – sie verbergen sich in einer Reihe von Wald-Regiones, aus denen sie gelegentlich Ausfälle unternehmen, um die Kreuzfahrer zu belästigen –, doch die frustrierten Kreuzfahrer könnten benachbarte Konvente angreifen.
 
 ### Gespür für das Mystische
 **Empfohlene Durchbruchpunkte:** 45
@@ -3605,9 +3605,6 @@ Der Zauber erlaubt es dem Zaubernden nicht, die Stimme oder die Eigenheiten des 
 
 >#### ABENTEUERIDEEN zu Gruagachan-Formen und -Techniken
 >
->**Die Katze im Sack**
->
->Ein Gruagach-Lehrling verwandelt sich in prächtige Exemplare verschiedener Tiere und lässt sich von seinem Vater auf dem Markt verkaufen. Der Gruagach entkommt später seinen Käufern und kehrt zu seinem Vater zurück. Ein Charakter besucht den Markt und kauft den Lehrling, da er den verwandelten Gruagach für ein magisches Tier hält, das als Vertrauter geeignet wäre oder aus dem sich das Vis gewinnen ließe, das er dem Tier zuschreibt. Als der Lehrling nicht zurückkehrt, meldet sein Vater sein Fehlen, und der Meister des Gruagach beginnt Nachforschungen.
 >**DER MACHINATOR DER MAGIER**
 >
 >Ein mächtiger Gruagach verliert den Verstand und stellt eine Armee von Gruagachan auf, indem er Segen geben nutzt, um seinen Gefolgsleuten die Gruagach-Techniken und -Formen zu verleihen. Andere Gruagachan sehen dies als Affront gegen ihre Tradition, aber wegen der Größe seiner Armee sind sie machtlos, ihn aufzuhalten. Diese Gruagachan wenden sich an die Charaktere um Hilfe.
@@ -3616,6 +3613,9 @@ Der Zauber erlaubt es dem Zaubernden nicht, die Stimme oder die Eigenheiten des 
 >
 >Ein Gruagach verflucht einen Verbündeten des Konvents, der daraufhin die Charaktere um Hilfe bittet. Der Fluch ist zu stark, als dass die Charaktere ihn mit allgemeinem Perdo Vim auflösen könnten, daher müssen die Charaktere, falls sie mit Gruagach-Magie nicht vertraut sind, zunächst einige Kenntnisse darüber erwerben, bevor sie den Fluch entfernen können. Wenn die Charaktere den Fluch entfernen, entdeckt der Gruagach ihre Taten, ersinnt einen härteren Fluch für ihren Verbündeten und sucht Vergeltung gegen den Konvent, weil er es seinem Verbündeten erlaubt hat, „Gerechtigkeit" zu unterlaufen.
 >
+>**Die Katze im Sack**
+>
+>Ein Gruagach-Lehrling verwandelt sich in prächtige Exemplare verschiedener Tiere und lässt sich von seinem Vater auf dem Markt verkaufen. Der Gruagach entkommt später seinen Käufern und kehrt zu seinem Vater zurück. Ein Charakter besucht den Markt und kauft den Lehrling, da er den verwandelten Gruagach für ein magisches Tier hält, das als Vertrauter geeignet wäre oder aus dem sich das Vis gewinnen ließe, das er dem Tier zuschreibt. Als der Lehrling nicht zurückkehrt, meldet sein Vater sein Fehlen, und der Meister des Gruagach beginnt Nachforschungen.
 
 ### Visionszauber
 
@@ -5541,19 +5541,19 @@ Einige Nachtwandler brechen Flüche mithilfe chthonischer Kräfte, wie im Ergän
 >
 >Eine Glückshaube zu besitzen, ob durch Geburt oder Kauf, gewährt jede der unten aufgeführten Eigenschaften, die jeweils als Tugend erworben wird. Auf Glückshauben basierende Tugenden finden sich häufig unter Nachtwandlern, sind aber für die Mitgliedschaft in keiner Nachtwandler-Tradition erforderlich.
 >
->**Glück** (Klein, ArM5, [Seite 45](<Ars Magica Definitive Edition Basisregeln.md#glück>))
->
 >**Immunität gegen Ertrinken** (Groß, ArM5, [Seite 43](<Ars Magica Definitive Edition Basisregeln.md#große-immunität>)). Der Charakter ist immun gegen Ertrinken, kann jedoch nicht unter Wasser atmen. Er treibt einfach bewusstlos zum nächsten Ufer, falls er andernfalls ertrinken würde.
+>
+>**Glück** (Klein, ArM5, [Seite 45](<Ars Magica Definitive Edition Basisregeln.md#glück>))
 >
 >**Selbstbewusst** (Klein, ArM5, [Seite 48](<Ars Magica Definitive Edition Basisregeln.md#selbstbewusst>)) 
 >
->**Wettergespür** (Klein). Der Charakter hat ein intuitives Verständnis des Wetters, das in seiner Wirkung identisch mit dem Zauber Seemanns Vorgeschmack auf den Morgen ist (ArM5, [Seite 127](<Ars Magica Definitive Edition Basisregeln.md#des-seemanns-vorgeschmack-auf-den-morgigen-tag>)). Der Charakter muss sich lediglich konzentrieren, um diese Fähigkeit einzusetzen: sie erfordert keinen Wurf.
 >**Willensstark** (Klein, ArM5, [Seite 49](<Ars Magica Definitive Edition Basisregeln.md#willensstark>))
 >
 >Mit einer Glückshaube geboren zu werden, unabhängig davon, ob sie aufbewahrt wurde, gewährt häufig eine der folgenden Tugenden:
 >
 >**Wünschelrutengehen** (Klein, ArM5, [Seite 41](<Ars Magica Definitive Edition Basisregeln.md#wünschelrutengehen>)) Zweites Gesicht (Klein, ArM5, [Seite 48](<Ars Magica Definitive Edition Basisregeln.md#zweites-gesicht>))
 >
+>**Wettergespür** (Klein). Der Charakter hat ein intuitives Verständnis des Wetters, das in seiner Wirkung identisch mit dem Zauber Seemanns Vorgeschmack auf den Morgen ist (ArM5, [Seite 127](<Ars Magica Definitive Edition Basisregeln.md#des-seemanns-vorgeschmack-auf-den-morgigen-tag>)). Der Charakter muss sich lediglich konzentrieren, um diese Fähigkeit einzusetzen: sie erfordert keinen Wurf.
 
 #### Große Reinigende Berührung
 
@@ -6158,10 +6158,6 @@ Vitkir-Charaktere dürfen bis zu zehn Fehler wählen, um zehn Tugenden auszuglei
 
 >#### Vitkar-Tugenden
 >
->**Frei, Sozialer Status**<br>
->Vitki\*
->
->\* Neue oder überarbeitete Tugenden
 >**Groß, Übernatürlich**<br>
 >Sanfte Gabe <br>
 >Großer Runenfokus\* <br>
@@ -6186,6 +6182,10 @@ Vitkir-Charaktere dürfen bis zu zehn Fehler wählen, um zehn Tugenden auszuglei
 >Nebeneffekt <br>
 >Besondere Umstände<br>
 >
+>**Frei, Sozialer Status**<br>
+>Vitki\*
+>
+>\* Neue oder überarbeitete Tugenden
 
 ### Neue oder überarbeitete Tugenden
 
@@ -6222,21 +6222,21 @@ Der Vitki hat einen magischen Fokus mit einer einzelnen Rune, die in einer besti
 >
 >Hier sind einige Beispiele für Magiefoki, entnommen dem mittelalterlichen Gedicht *Sigrdrífumál*, in dem die Walküre Sigrdrífa dem Helden Sigurðr die sieben verschiedenen Anwendungen der Runenmagie lehrt.
 >
+>**Siegrunen (Sigrúnar):** Diese Runen dienen dazu, den Erfolg des Vitkis in der Schlacht zu sichern, und werden in metallene Waffen und Rüstungen geritzt, gewöhnlich in die Klingen von Schwertern oder langen Messern. Runen, die häufig mit dieser Art von Magie verbunden sind, umfassen Tiwaz (T), Othila (O) und Ehwaz (E).
+>
 >**Bierrunen (Ölúnar):** Diese Runen müssen in Horn oder gehärtetes Leder geritzt werden, etwa ein Trinkhorn, oder in die eigenen Fingernägel des Vitkis. Sie verleihen gewöhnlich Glück und schützen den Vitki vor Gift oder anderen verborgenen Gefahrenformen; ein Kleiner Fokus könnte mit Algiz (Z), Naudiz (N) oder Perth (P) verbunden sein.
 >
 >**Fruchtbarkeitsrunen (Bjargrúnar):** Diese Runen helfen, den Wohlstand und die Prosperität des Vitkis und seiner Familie zu sichern, und werden in Münzen geritzt, die sie tragen, oder in Schmuck, den sie anlegen. Häufige Runen für diese Art von Magie umfassen Fehu (F), Ingwaz (Ng) und Jera (J).
 >
->**Heilrunen (Limrúnar):** Diese Runen beschleunigen die Genesung von Schmerz und Verletzung, heilen Wunden und lindern Kummer. Sie müssen in Knochen geritzt werden, seien es menschliche oder tierische. Runen, die häufig für einen Kleinen Fokus gewählt werden, umfassen Berkanan (B), Dagaz (D) oder Wunjo (W).
->
->**Kraftrunen (Meginrúnar):** Kraftrunen sind mit der Magie der Wildnis und mit dunklen, übernatürlichen Mächten verbunden. Sigrdrífa lehrte Sigurðr diese Art der Runenmagie nicht, doch das Sigrdrífumál beschreibt sie als Runen, die die Götter auf unmögliche Dinge einschreiben, wie Met, Feuer, das Herz oder den Himmel. Kraftrunen könnten auf Fleisch geschrieben werden, denn es heißt, nur den Göttern sei es gestattet, Runen auf einen lebenden Körper einzuschreiben. Natürlich können Vitkir mit diesem Fokus dieses Gebot ignorieren, oder sie ritzen Kraftrunen stattdessen auf die Toten. Für einen Kleinen Fokus könnten Uruz (U), Thurisaz (Th) oder Isa (I) geeignet sein.
 >**Meerrunen (Brimrúnar):** Diese Runen werden traditionell auf ein Schiff geschrieben, in einen Karren geritzt oder in ein Segel gewebt: Jedes Objekt, das größer ist als ein Mensch, kommt in Frage. Sie erlauben dem Vitki, Reisen und Reisebedingungen mit seinen Runen zu beeinflussen. Für einen Kleinen Fokus könnten die Runen Laguz (L), Raido (R) oder Hagalaz (H) geeignet sein.
+>
+>**Heilrunen (Limrúnar):** Diese Runen beschleunigen die Genesung von Schmerz und Verletzung, heilen Wunden und lindern Kummer. Sie müssen in Knochen geritzt werden, seien es menschliche oder tierische. Runen, die häufig für einen Kleinen Fokus gewählt werden, umfassen Berkanan (B), Dagaz (D) oder Wunjo (W).
 >
 >**Redrunen (Málrúnar)**: Diese Runen müssen in Holz geritzt werden: einen Stab, einen Baum, eine Truhe oder vielleicht einen Tisch. Sie verleihen Beredsamkeit und inspirieren andere und werden verwendet, um die Beziehungen des Vitkis zu seinen Mitvitkir oder seinen Gefährten zu verbessern. Für einen Kleinen Fokus könnten die Runen Ansuz (A), Gebo (G) oder Mannaz (M) in Frage kommen.
 >
->**Siegrunen (Sigrúnar):** Diese Runen dienen dazu, den Erfolg des Vitkis in der Schlacht zu sichern, und werden in metallene Waffen und Rüstungen geritzt, gewöhnlich in die Klingen von Schwertern oder langen Messern. Runen, die häufig mit dieser Art von Magie verbunden sind, umfassen Tiwaz (T), Othila (O) und Ehwaz (E).
->
 >**Weisheitsrunen (Hugrúnar):** Weisheitsrunen werden in Stein geritzt und dienen dazu, dem Vitki zu helfen, Weisheit zu erlangen, indem er verborgene Eigenschaften seiner Umgebung erspürt. Der Kleine Runenfokus eines Vitkis könnte mit Ihwaz (Y), Sowilo (S) oder Kauno (K) verbunden sein.
 >
+>**Kraftrunen (Meginrúnar):** Kraftrunen sind mit der Magie der Wildnis und mit dunklen, übernatürlichen Mächten verbunden. Sigrdrífa lehrte Sigurðr diese Art der Runenmagie nicht, doch das Sigrdrífumál beschreibt sie als Runen, die die Götter auf unmögliche Dinge einschreiben, wie Met, Feuer, das Herz oder den Himmel. Kraftrunen könnten auf Fleisch geschrieben werden, denn es heißt, nur den Göttern sei es gestattet, Runen auf einen lebenden Körper einzuschreiben. Natürlich können Vitkir mit diesem Fokus dieses Gebot ignorieren, oder sie ritzen Kraftrunen stattdessen auf die Toten. Für einen Kleinen Fokus könnten Uruz (U), Thurisaz (Th) oder Isa (I) geeignet sein.
 
 **Namenlose Runen**<br>
 Klein, Übernatürlich

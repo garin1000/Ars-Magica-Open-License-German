@@ -296,17 +296,17 @@ Bei der Erschaffung eines Konvents und der Auswahl von Labortexten für die Bibl
 Wenn man sie fragt, wissen die meisten Magi über die Mitglieder von Haus Bjornaer nur, dass sie ihre Gestalt wechseln können. Die arroganteren Magi tun sie als Anwender primitiver Magie ab; die verträumteren sehen in ihnen die letzten Überreste eines vergessenen Volkes — edle Wilde. Keine der beiden Gruppen wird leicht einen Magus des Hauses finden, der eines der beiden Klischees erfüllt, und doch halten sie sich hartnäckig. Kaum jemand kann ein berühmtes historisches Mitglied des Hauses nennen, noch weniger kennen ein historisches Ereignis, an dem ein Bjornaer-Magus beteiligt war. Obwohl der Orden es nicht bemerkt, weiß er so gut wie nichts über dieses geheimnisvolle Haus, und das Wenige, was er weiß, entbehrt jeder Grundlage. Dies ist das Ergebnis bewusster Anstrengungen seitens der Gefolgsleute Bjornaers, die die Macht erkennen, die in Geheimnissen liegt. In Wahrheit ist Haus Bjornaer ein Ahnenkult, der in der Gegenwart Macht erlangt durch das Gewicht all jener, die zuvor gegangen sind. Sie glauben, dass es die Ahnengeister sind, die in ihnen wohnen, die ihnen die Kraft verleihen, ihre Gestalt zu wandeln; durch tiefere Kommunikation mit diesen inneren Geistern streben sie danach, Wesen der Magie zu werden.
 
 > ### Eckdaten
->
-> **Bevorzugte Tribunale:** Das Novgorod- und das Loch-Leglean-Tribunal, wo es noch viele wilde Orte gibt, durch die man ungestört streifen kann, gefolgt vom Rheintribunal.
->
-> **Domus Magna:** Crintera im Rheintribunal
->
+> 
 > **Mitgliederzahl:** 79
->
-> **Motto:** *Potentio super ipso potentia super allis.* (Macht über sich selbst ist Macht über andere.)
->
+> 
+> **Domus Magna:** Crintera im Rheintribunal
+> 
 > **Prima:** Falke. Ihr wurde diese Position im Haus aufgedrängt, und sie ringt darum, die Eigenschaften einer Führungspersönlichkeit zu entwickeln. Gegenwärtig verfolgt sie eine Strategie der Isolation und Geduld und bemüht sich, das Vertrauen der Quaesitores und anderer im Orden zurückzugewinnen. Falkes Herztier ist ein silbergrauer Falke mit weiß gebänderten Flügeln. Weitere Informationen zu Falke finden sich in *Wächter des Waldes: Das Rhein-Tribunal*, [Seite 96](<Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md#falke-prima-des-bjornaer>).
->
+> 
+> **Bevorzugte Tribunale:** Das Novgorod- und das Loch-Leglean-Tribunal, wo es noch viele wilde Orte gibt, durch die man ungestört streifen kann, gefolgt vom Rheintribunal.
+> 
+> **Motto:** *Potentio super ipso potentia super allis.* (Macht über sich selbst ist Macht über andere.)
+> 
 > **Symbole:** Ein Kegel. Als Trianoma die Ikonographie des Ordens entwarf, wählte sie den Kegel als Symbol für Haus Bjornaer; da er den Schatten eines Dreiecks oder eines Kreises werfen kann, aber niemals beides gleichzeitig, spiegelt er so das Herztier wider. Haus Bjornaer verwendet auch ein anderes Symbol: einen Januskopf, der das Gesicht einer Bärin mit dem einer Frau vereint.
 
 ## Geschichte
@@ -320,13 +320,13 @@ Wie bei vielen Mysterienkulten ist die Geschichte der zentralen Gestalt von Haus
 Als Geschichten über eine reisende Hexe die Ohren des Stammes erreichten, schickten Birnas Vorgesetzte selbstverständlich ihr entbehrlichstes Mitglied, um sich ihr zu stellen. Diese „Hexe" jedoch, mit Namen Trianoma, berichtete Birna von einer neuen magischen Gesellschaft, in der sie als Gleichgestellte behandelt und Magie gelehrt bekäme, die jene ihrer Verächter übertreffen würde. Birna willigte bereitwillig ein, dem Orden des Hermes beizutreten, riet Trianoma aber, es habe wenig Sinn, weiter nach Osten in das Gebiet der germanischen Stämme vorzudringen, da die dortigen Zauberer sowohl feindselig als auch unbedeutend seien. Diese kleinliche Rache verwehrte ihrer früheren Tradition die Möglichkeit, dem Orden beizutreten, und diese wiederum nahmen an, Birna sei von der Hexe getötet worden, und betrauerten sie nicht.
 
 > ### Berühmte Persönlichkeiten
->
+> 
 > **Birna**: Gotische Hexe und Gründerin des Hauses
->
+> 
 > **Hérisson**: Begründer der Harmonisten-Philosophie; zu Lebzeiten nicht geschätzt
->
+> 
 > **Salmo**: Primus nach dem Schismakrieg, der das Haus in eine stärker hermetisch geprägte Richtung lenkte
->
+> 
 > **Urgen**: Vorheriger Primus, ein direkter und bisweilen gewalttätiger Magus, der zugunsten von Falke zurücktrat
 
 > ### Crintera: Domus Magna
@@ -403,6 +403,16 @@ Wildisten (Feritarii) hingegen wünschen, dass die Menschheit in die Städte zur
 
 Haus Bjornaer hat eine Stammesstruktur, die auf der Unterteilung des Hauses in Clans und der Clans in Sippen beruht. Diese Struktur fördert eine enge Beziehung zwischen den Magi des Hauses; die Mitglieder einer Sippe sind in der Regel enge Kameraden, die durch Bande gegenseitiger Unterstützung verbunden sind. Dies macht Haus Bjornaer ungewöhnlich geschlossen, und Magi sind oft überrascht, dass diese „primitiven" Magi zu dem Grad an Organisation und Stärke fähig sind, den sie in der Vergangenheit gezeigt haben.
 
+#### Die sechs Clans
+
+Die grundlegende Organisationsebene des Hauses ist der **Clan**. Jeder in das Haus aufgenommene Lehrling tritt dem Clan derer bei, die ihn ausgebildet haben, und wird Teil jener Linie. Diese Clans sind nach Birnas sechs Lehrlingen benannt, es gibt also einen Clan Arelie, einen Clan Ilfetu und so weiter. Jeder Clan besteht aus mehreren Abstammungslinien dieser ersten Lehrlinge, und zusammen bilden sie sechs Blickwinkel, die die Politik des Hauses bestimmen. Einzelne Personen innerhalb eines Clans sind nicht an die politische Haltung ihres Clans gebunden, neigen aber aufgrund ihrer Erziehung dazu, deren Meinungen zu teilen. Ein kleines Tribunal kann leicht von einem einzelnen Clan dominiert werden. Tribunale mit wenigen verbliebenen Wildnisgebieten haben tendenziell Mitglieder aus den Harmonisten-Clans, während Mitglieder der Clans Midusulf, Maruhs und Ilfetu (der Wildisten-Clans) eher an den Rändern des Ordens zu finden sind, wo noch ursprüngliche Wildnis herrscht.
+
+Die Clans Midusulf und Sirnas sind mit jeweils etwa 18 Mitgliedern die größten; Clan Ilfetu ist mit sechs Magi der kleinste. Die anderen drei Clans haben jeweils etwa 12 Mitglieder.
+
+> ### Die Clanmysterien
+> 
+> Bjornaer-Magi können sowohl in **Clanmysterien** als auch in **Hausmysterien** eingeweiht werden. Die Beschreibung jedes Clans enthält die Einweihungsskripte für die Clanmysterien, die den Mitgliedern dieses Clans zugänglich sind. Jene Mysterien, die in den nachfolgenden Clanbeschreibungen mit einem Sternchen (\*) gekennzeichnet sind, werden in *Die Mysterien (Überarbeitete Ausgabe)* beschrieben; die übrigen finden sich in diesem Buch oder in ArMDE. Die Spielmechanik dieser Skripte findet sich unter der Überschrift Einweihung in die Clanmysterien weiter unten.
+
 #### Clan Arelie
 
 *„Erinnere"*
@@ -410,18 +420,6 @@ Haus Bjornaer hat eine Stammesstruktur, die auf der Unterteilung des Hauses in C
 **Beschreibung**
 
 Clan Arelie glaubt, dass die Ahnen am besten durch Erinnerung geehrt werden können, und bemüht sich, so viele Geschichten und Lehren des vergangenen Zeitalters wie möglich zu bewahren. Er versucht, das Klischee des „germanischen Barbaren" im Haus zu zerstreuen, und ist der am stärksten nach außen gerichtete der Clans, begierig darauf zu erfahren, was im Rest des Ordens vor sich geht. Viele Mitglieder werden in der seltenen Akademischen Fertigkeit Gedächtniskunst unterrichtet (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Kapitel 3: Kuriose Allgemeinmagie).
-
-**Claneinweihungen**
-
-*Die Prüfung des Baumes:* Der Einzuweihende wird vier Tage lang an den Handgelenken aufgehängt, leidet fortan unter Zittrigen Händen, erwirbt aber einen Durchdringenden Blick.
-
-*Die Tat des vergessenen Wissens:* Der Einzuweihende muss eine zuvor vergessene oder unbekannte Tatsache über einen Clanvorfahren aufdecken, wofür er die Tugend Klarer Denker erwirbt.
-
-*Der Eid der Leeren Hand:* Der Einzuweihende gelobt, niemals eine Waffe gegen ein anderes Wesen zu erheben, und erwirbt eine Affinität zu Mentem.
-
-**Clanoberhaupt**
-
-Ursula Densacer („Scharfzahn" auf Lateinisch) hat von Haus Jerbiton Anerkennung für ihre Gelehrsamkeit erhalten, und ihre Gedichtbände werden von jenem Haus weit verbreitet. Ihr Herztier ist ein Wolf, und sie ist mit Prima Falke eng befreundet.
 
 **Politische Haltung**
 
@@ -434,6 +432,18 @@ Harmonistisch, bis hin zum Pazifismus. Sie sind die Ersten, die sich beim Haus b
 *Spion:* Bewandert in subtiler Magie und weltlicher Heimlichkeit, erfährt dieser Magus viel über andere, sowohl Freunde als auch Feinde. Er mag einen edlen Zweck verfolgen (etwa für das Wohl des Hauses spionieren), aber nicht alle tun das.
 
 *Philosoph:* Bewandert in Rhetorik und Debatte, hat dieser Magus eine klassische Ausbildung genossen und liebt das Hin und Her gelehrter Diskussionen.
+
+**Claneinweihungen**
+
+*Die Prüfung des Baumes:* Der Einzuweihende wird vier Tage lang an den Handgelenken aufgehängt, leidet fortan unter Zittrigen Händen, erwirbt aber einen Durchdringenden Blick.
+
+*Die Tat des vergessenen Wissens:* Der Einzuweihende muss eine zuvor vergessene oder unbekannte Tatsache über einen Clanvorfahren aufdecken, wofür er die Tugend Klarer Denker erwirbt.
+
+*Der Eid der Leeren Hand:* Der Einzuweihende gelobt, niemals eine Waffe gegen ein anderes Wesen zu erheben, und erwirbt eine Affinität zu Mentem.
+
+**Clanoberhaupt**
+
+Ursula Densacer („Scharfzahn" auf Lateinisch) hat von Haus Jerbiton Anerkennung für ihre Gelehrsamkeit erhalten, und ihre Gedichtbände werden von jenem Haus weit verbreitet. Ihr Herztier ist ein Wolf, und sie ist mit Prima Falke eng befreundet.
 
 #### Clan Ilfetu
 
@@ -599,16 +609,6 @@ Harmonistisch. Mitglieder von Clan Wilkis neigen dazu, die sterbliche Bevölkeru
 
 Offiziell ist die Prima das Oberhaupt von Clan Wilkis, aber sie ernennt einen Stellvertreter, gegenwärtig Retetarius Bjornaer. Sein Herztier ist ein Lachs, und er lebt in der Donau und ihren Nebenflüssen. Dies erlaubt es ihm, sich schnell durch den größten Teil Süd- und Osteuropas zu bewegen, und indem er über Land zur Quelle des Rheins wechselt, auch durch den Rest Europas. Seine Sippe ist eine der geographisch am weitesten verstreuten, doch alle können die Flüsse als Transportweg nutzen.
 
-#### Die sechs Clans
-
-Die grundlegende Organisationsebene des Hauses ist der **Clan**. Jeder in das Haus aufgenommene Lehrling tritt dem Clan derer bei, die ihn ausgebildet haben, und wird Teil jener Linie. Diese Clans sind nach Birnas sechs Lehrlingen benannt, es gibt also einen Clan Arelie, einen Clan Ilfetu und so weiter. Jeder Clan besteht aus mehreren Abstammungslinien dieser ersten Lehrlinge, und zusammen bilden sie sechs Blickwinkel, die die Politik des Hauses bestimmen. Einzelne Personen innerhalb eines Clans sind nicht an die politische Haltung ihres Clans gebunden, neigen aber aufgrund ihrer Erziehung dazu, deren Meinungen zu teilen. Ein kleines Tribunal kann leicht von einem einzelnen Clan dominiert werden. Tribunale mit wenigen verbliebenen Wildnisgebieten haben tendenziell Mitglieder aus den Harmonisten-Clans, während Mitglieder der Clans Midusulf, Maruhs und Ilfetu (der Wildisten-Clans) eher an den Rändern des Ordens zu finden sind, wo noch ursprüngliche Wildnis herrscht.
-
-Die Clans Midusulf und Sirnas sind mit jeweils etwa 18 Mitgliedern die größten; Clan Ilfetu ist mit sechs Magi der kleinste. Die anderen drei Clans haben jeweils etwa 12 Mitglieder.
-
-> ### Die Clanmysterien
-> 
-> Bjornaer-Magi können sowohl in **Clanmysterien** als auch in **Hausmysterien** eingeweiht werden. Die Beschreibung jedes Clans enthält die Einweihungsskripte für die Clanmysterien, die den Mitgliedern dieses Clans zugänglich sind. Jene Mysterien, die in den nachfolgenden Clanbeschreibungen mit einem Sternchen (\*) gekennzeichnet sind, werden in *Die Mysterien (Überarbeitete Ausgabe)* beschrieben; die übrigen finden sich in diesem Buch oder in ArMDE. Die Spielmechanik dieser Skripte findet sich unter der Überschrift Einweihung in die Clanmysterien weiter unten.
-
 ### Die Sippen
 
 Sippen sind informelle Gruppierungen, deren Mitglieder alle demselben Clan angehören und hermetisch von einem gemeinsamen Vorfahren abstammen. Sippen werden gewöhnlich nach dem jüngsten Vorfahren benannt, den alle Mitglieder gemeinsam haben, doch gelegentlich gibt stattdessen ein herausragendes Mitglied der Linie den Namen. Manche Sippen bestehen aus engen „familiären" Banden und teilen Besonderheiten ihrer Magie, wie eine bestimmte Kunst oder ein gemeinsames Herztier, doch andere Sippen entstehen aufgrund geographischer Nähe statt starker Blutsbande, und ihre Mitglieder können sehr unterschiedlich sein. Es ist sehr ungewöhnlich, eine Sippe mit höchst unterschiedlichen Herztieren zu finden, und die meisten teilen zumindest ein Temperament (siehe unten).
@@ -649,6 +649,16 @@ Sagas mit Bjornaer-Magi sollten die Versammlung der Zwölf Jahre nicht vernachl�
 
 Die Ausbildung eines jungen Bjornaer-Magus besteht aus zwei unterschiedlichen Phasen, die als die **schlafenden Jahre** (von der Erschließung der Künste bis zum Ritual der Zwölf Jahre) und die **erwachten Jahre** (vom Ritual der Zwölf Jahre bis zur Aufnahme in den Orden) bekannt sind.
 
+#### Die schlafenden Jahre
+
+Wenn Begabte Kinder von einem Bjornaer-Gefolgsmann gefunden werden, verbringen sie normalerweise mindestens zwei Jahre bei dem Magus, bevor die Lehrzeit beginnt. Während dieser Zeit wird dem Kind Latein gelehrt und es wird genau hinsichtlich seines Temperaments und seiner Persönlichkeit beobachtet. Wird es als für die Sippe geeignet befunden, wird das Kind als Lehrling genommen, andernfalls wird es an einen anderen Magus weitergegeben. Ein neuer Lehrling wird **Catulus** genannt, was „Junges" bedeutet. Die Catulus-Phase unterscheidet sich stark von der Lehrzeit anderer hermetischer Magi. Catuli sind Gemeingut der Sippe; alle Magi der Sippe übernehmen abwechselnd die Unterweisung des Catulus, und ebenso haben alle Mitglieder ein gleiches Recht auf seine Unterstützung im Laboratorium. Da Sippenmitglieder dazu neigen, in enger Nachbarschaft zu wohnen, beeinträchtigt dieses regelmäßige Reisen das Studium eines Lehrlings nicht. Während der schlafenden Jahre versucht eine Sippe, das Herztier des Catulus anhand seiner Persönlichkeit und seines Körperbaus zu erraten. Dies ist wichtig, denn die Einweihung in das Herztier könnte scheitern, wenn der Catulus für die Sippe ungeeignet ist. Die kultischen Bräuche und Überzeugungen des Hauses werden einem Catulus gegenüber kaum erwähnt; solche Geheimnisse werden in dem Quartal unmittelbar vor der Einweihung des Lehrlings in das Hausmysterium offenbart, um ihm gerade genug Verständnis zu geben, damit er das Ritual überstehen kann. Ein Catulus, der einem Magus ohne Sippe zugeteilt ist, erhält seine Ausbildung unter einem einzigen Magus, ähnlich einer hermetischen Standardlehrzeit.
+
+#### Die erwachten Jahre
+
+Die gemeinsame Ausbildung endet, wenn das Ritual der Zwölf Jahre durchgeführt wird und der Lehrling zum ersten Mal seine Herztiergestalt annimmt. Ab diesem Zeitpunkt gilt er als Lehrlingsprüfung bestanden und ist Mitglied von Haus Bjornaer, mit einer Stimme, die der jedes anderen Hausmitglieds gleich ist. Der Kodex des Hermes schreibt jedoch vor, dass ein Lehrling in fünfzehn Jahren fünfzehn Quartale Ausbildung erhalten soll, bevor er dem Orden beitritt. Ein einzelner Magus übernimmt daher die Ausbildung des eingeweihten Lehrlings, bis er bereit ist, den Eid des Hermes zu schwören und ein vollwertiges Mitglied des Ordens zu werden. Die Identität dieses Meisters wird von der Sippe bestimmt, obwohl gelegentlich das Haus entscheidet, dass der Lehrling besser bei einem anderen Meister aufgehoben ist. Ein besonders geschätzter Lehrling kann heftige politische Ränkespiele, Raufereien oder Certamina auslösen, um festzustellen, wer das Recht hat, seine Ausbildung abzuschließen. Die Ausbildung wird stets von einem Magus abgeschlossen, dessen eigenes Herztier zum Herztier des Lehrlings passt — kein Luchsmagus wird einen Hasen ausbilden, zum Beispiel!
+
+Neben der magischen Ausbildung wird der Lehrling in den Lehren des Ahnenkults und seiner wahren Geschichte unterwiesen und ermutigt, seine hermetische Abstammung zu erforschen.
+
 #### Bjornaer-Magi und gestaltwandelnde Lehrlinge
 
 Entgegen der Überzeugung der meisten Magi nehmen Bjornaer-Gefolgsleute selten Lehrlinge an, die bereits die Fähigkeit besitzen, ihre Gestalt zu wandeln. Haus Bjornaer besteht darauf, dass das Herztier während des Rituals der Zwölf Jahre geweckt werden muss, und glaubt, dass Kinder, die sich bereits verwandeln können, Sprösslinge der uralten Feinde des Hauses sein müssen, oder aber vom Fluch der Lykanthropie befallen. Es ist jedoch möglich — wenn auch sehr unwahrscheinlich —, dass ein Bjornaer-Gefolgsmann die Einweihung in den Orden des Hermes mit der Tugend Tierwandler oder Gestaltwandler erreicht. Die Clans Arelie und Ilfetu akzeptieren niemals gestaltwandelnde Lehrlinge aus Angst vor einer Unterwanderung durch ihre Erbfeinde. Die Clans Midusulf und Wilkis, die Begabte Gestaltwandler entdecken, nehmen sie öffentlich als Lehrlinge an, doch diese Lehrlinge treffen während ihrer Ausbildung stets bedauerliche Unfälle und werden nie Mitglieder von Haus Bjornaer. Die Clans Sirnas und Maruhs nehmen gestaltwandelnde Kinder auf, solange der Lehrling nur eine einzige Gestalt annehmen kann, denn sie glauben, dass es besser ist, solche Kinder in die Überzeugungen des Hauses einzuführen, um sie von ihrem Erbe fernzuhalten. Weckt das Ritual der Zwölf Jahre ein anderes Herztier als die Gestalt, die der Lehrling bisher genutzt hat, wird das Kind an Clan Wilkis übergeben und nicht wiedergesehen. Natürlich sichern diese Maßnahmen das Haus nicht mit Gewissheit gegen Gestaltwandler; ein Lehrling mag geschickt darin sein, sein Erbe zu verbergen, völlig unwissend darüber sein, oder seine Sippe mag bereit sein, das Erbe des Lehrlings aus welchem Grund auch immer zu verheimlichen.
@@ -668,16 +678,6 @@ Wird ein Lehrling unmittelbar nach einer Versammlung entdeckt, hat er zwölf Jah
 > ### ABENTEUERIDEE: DER UNERWÜNSCHTE LEHRLING
 > 
 > Ein guter Freund des Konvents (vielleicht sogar ein Gefährte) hat ein Begabtes Kind, das auch seine Gestalt wandeln kann. Die Charaktere könnten durchaus entscheiden, dass es im besten Interesse des Kindes ist, von einem Bjornaer-Magus ausgebildet zu werden (es sei denn, es gibt einen Bjornaer-Magus im Konvent, der sie von diesem Vorhaben abbringt). Wenn das Kind einige Jahre später verschwindet, könnten die Charaktere gebeten werden, Nachforschungen anzustellen.
-
-#### Die erwachten Jahre
-
-Die gemeinsame Ausbildung endet, wenn das Ritual der Zwölf Jahre durchgeführt wird und der Lehrling zum ersten Mal seine Herztiergestalt annimmt. Ab diesem Zeitpunkt gilt er als Lehrlingsprüfung bestanden und ist Mitglied von Haus Bjornaer, mit einer Stimme, die der jedes anderen Hausmitglieds gleich ist. Der Kodex des Hermes schreibt jedoch vor, dass ein Lehrling in fünfzehn Jahren fünfzehn Quartale Ausbildung erhalten soll, bevor er dem Orden beitritt. Ein einzelner Magus übernimmt daher die Ausbildung des eingeweihten Lehrlings, bis er bereit ist, den Eid des Hermes zu schwören und ein vollwertiges Mitglied des Ordens zu werden. Die Identität dieses Meisters wird von der Sippe bestimmt, obwohl gelegentlich das Haus entscheidet, dass der Lehrling besser bei einem anderen Meister aufgehoben ist. Ein besonders geschätzter Lehrling kann heftige politische Ränkespiele, Raufereien oder Certamina auslösen, um festzustellen, wer das Recht hat, seine Ausbildung abzuschließen. Die Ausbildung wird stets von einem Magus abgeschlossen, dessen eigenes Herztier zum Herztier des Lehrlings passt — kein Luchsmagus wird einen Hasen ausbilden, zum Beispiel!
-
-Neben der magischen Ausbildung wird der Lehrling in den Lehren des Ahnenkults und seiner wahren Geschichte unterwiesen und ermutigt, seine hermetische Abstammung zu erforschen.
-
-#### Die schlafenden Jahre
-
-Wenn Begabte Kinder von einem Bjornaer-Gefolgsmann gefunden werden, verbringen sie normalerweise mindestens zwei Jahre bei dem Magus, bevor die Lehrzeit beginnt. Während dieser Zeit wird dem Kind Latein gelehrt und es wird genau hinsichtlich seines Temperaments und seiner Persönlichkeit beobachtet. Wird es als für die Sippe geeignet befunden, wird das Kind als Lehrling genommen, andernfalls wird es an einen anderen Magus weitergegeben. Ein neuer Lehrling wird **Catulus** genannt, was „Junges" bedeutet. Die Catulus-Phase unterscheidet sich stark von der Lehrzeit anderer hermetischer Magi. Catuli sind Gemeingut der Sippe; alle Magi der Sippe übernehmen abwechselnd die Unterweisung des Catulus, und ebenso haben alle Mitglieder ein gleiches Recht auf seine Unterstützung im Laboratorium. Da Sippenmitglieder dazu neigen, in enger Nachbarschaft zu wohnen, beeinträchtigt dieses regelmäßige Reisen das Studium eines Lehrlings nicht. Während der schlafenden Jahre versucht eine Sippe, das Herztier des Catulus anhand seiner Persönlichkeit und seines Körperbaus zu erraten. Dies ist wichtig, denn die Einweihung in das Herztier könnte scheitern, wenn der Catulus für die Sippe ungeeignet ist. Die kultischen Bräuche und Überzeugungen des Hauses werden einem Catulus gegenüber kaum erwähnt; solche Geheimnisse werden in dem Quartal unmittelbar vor der Einweihung des Lehrlings in das Hausmysterium offenbart, um ihm gerade genug Verständnis zu geben, damit er das Ritual überstehen kann. Ein Catulus, der einem Magus ohne Sippe zugeteilt ist, erhält seine Ausbildung unter einem einzigen Magus, ähnlich einer hermetischen Standardlehrzeit.
 
 ### Beitritt zu Haus Bjornaer
 
@@ -784,10 +784,6 @@ Aufgrund dieser starken Gefühle bezüglich der Gestaltwandlung gilt es als töd
 
 Die Konsequenzen des Besitzes eines Herztieres werden im Folgenden erörtert und erweitern die Details des Äußeren Mysteriums des Hauses Bjornaer, die auf den Seiten 91–92 der **Ars Magica Definitive Edition** beschrieben sind. Eine erweiterte Beschreibung der Fertigkeit Herztier findet sich unter Neue und modifizierte Fertigkeiten, unten.
 
-#### Bjornaer-Magi und Vertraute
-
-Die letzte Konsequenz der Einweihung in das Äußere Mysterium des Hauses Bjornaer ist die Unfähigkeit, einen Vertrauten zu binden. Das Ritual der Zwölf Jahre hinterlässt, wie andere Mysterien der Einweihung, eine Narbe auf der Seele des eingeweihten Magus; Birna, die kein persönliches Verlangen hatte, einen Vertrauten zu binden, betrachtete dies als hinnehmbare Einbuße, als sie das Ritual erfand. Jeder Magus, der jemals einen Vertrauten gebunden hat, selbst wenn dieser inzwischen gestorben ist, kann das Ritual der Zwölf Jahre nicht erfolgreich abschließen und somit dem Haus nicht beitreten.
-
 #### Gestaltwechsel
 
 Ein Bjornaer-Magus kann nach einem Moment der Konzentration seine Herztier-Gestalt annehmen, und unter den meisten Umständen ist dafür kein Wurf erforderlich. Die eigentliche Verwandlung dauert eine volle Runde, in der sich der Magus allmählich in seine Tiergestalt verwandelt. Während dieser Runde kann der Magus die meisten physischen oder geistigen Handlungen ungehindert ausführen, aber keine komplexen Aufgaben wie das Wirken von Zaubern bewältigen. Eine während der Verwandlung unternommene Handlung kann die Fertigkeiten beider Gestalten nutzen, da der Magus bestimmt, welcher Teil seines Körpers sich zuerst verwandelt. So könnte er mit einem Schwert angreifen und es am Ende der Runde fallen lassen, wenn seine Hände zu Pfoten werden, oder stattdessen zuerst seinen Oberkörper verwandeln und einen Bissangriff einsetzen, während seine Hinterläufe sich noch von Menschenbeinen verwandeln. Bei kleinen Herztieren mögen diese Unterschiede des Wechsels wegen der dramatischen Verringerung der Gesamtgröße verloren gehen. Die Verwandlung in Menschengestalt verläuft identisch, nur in umgekehrter Reihenfolge. Die Kleidung und der Besitz des Magus verwandeln sich nicht mit ihm.
@@ -797,60 +793,60 @@ Wenn der Magus unter dem Einfluss eines Gestaltwandlungszaubers steht, kann er v
 Ein Magus in Herztier-Gestalt kann die für das Zaubern nötigen Gesten nicht ausführen; selbst exotische Formen wie Affen verfügen nicht über die erforderliche manuelle Geschicklichkeit. Es ist einem Magus nicht möglich, sich ohne die Hilfe eines Zaubers oder des Mysteriums der Theriomorphie (siehe Hausmysterien, unten) teilweise zu verwandeln.
 
 > ### Spielwerte von Gestaltwandlern
->
+> 
 > Der Anhang zu diesem Kapitel beschreibt den Vorgang zur Erstellung der Spielwerte für ein durchschnittliches Mitglied einer bestimmten Spezies, aber die meisten Spielercharaktere sind keine durchschnittlichen Menschen und neigen daher dazu, in Tiergestalt Eigenschaften zu haben, die vom Speziesdurchschnitt abweichen. Für Bjornaer-Magi und andere Gestaltwandler ermittle die Spielwerte für die Kreatur wie im Anhang beschrieben und folge dann diesen Schritten:
->
-> **1. Eigenschaften**
->
+> 
+>**1. Eigenschaften**
+> 
 > Für alle Eigenschaften außer Intelligenz/Gerissenheit:
->
+> 
 > - Sind sowohl die menschliche als auch die tierische Eigenschaft negativ, verwende die niedrigere von beiden.
 > - Sind sowohl die menschliche als auch die tierische Eigenschaft positiv, verwende die höhere von beiden.
->
+> 
 > Andernfalls addiere die beiden Eigenschaften.
->
-> **2. Gerissenheit vs. Intelligenz**
->
+> 
+>**2. Gerissenheit vs. Intelligenz**
+> 
 > Ist der Gestaltwandler ein Lykanthrop, wird der Gerissenheitswert des Tieres angewandt; andernfalls behält er die menschliche Intelligenz.
->
+> 
 > *Beispiel für Eigenschaften, Gerissenheit und Intelligenz:*
->
+> 
 > *Ulf (Magus): Int +2, Wah –1, Prä +2, Kom 0, Stä –1, Aus +1, Ges +1, Sck +1*
->
+> 
 > *Wolf: Ger +1, Wah +2, Prä 0, Kom +1, Stä –1, Aus +3, Ges +2, Sck +1*
->
+> 
 > *Int +2 (menschlicher Wert) Wah –1 (Summe aus Mensch –1 und Wolf +2) Prä +2 (Summe aus Mensch +2 und Wolf 0)*
->
+> 
 > *Ulf in Herztier-Gestalt:*
->
+> 
 > *Kom +1 (Summe aus Mensch 0 und Wolf +1) Stä –1 (niedrigster Wert aus Mensch –1 und Wolf –1)*
->
+> 
 > *Aus +3 (höchster Wert aus Mensch +1 und Wolf +3)*
->
+> 
 > *Ges +2 (höchster Wert aus Mensch +1 und Wolf +2)*
->
+> 
 > *Sck +1 (höchster Wert aus Mensch +1 und Wolf +1)*
->
-> **3. Größe**
->
+> 
+>**3. Größe**
+> 
 > Die menschliche Größe hat keinen Einfluss auf den Größenwert der verwandelten Gestalt. Liegt die Tiergestalt jedoch innerhalb des Größenbereichs der meisten Tiere (Größe –4 bis Größe 0) und besitzt der Charakter eine Tugend oder einen Fehler, die die Größe beeinflussen, dann ist sie ein auffallend großes oder kleines Exemplar ihrer Art.
->
-> **4. Tugenden und Fehler**
->
+> 
+>**4. Tugenden und Fehler**
+> 
 > Wende alle Tugenden und Fehler der Tiergestalt an, solange du verwandelt bist, ebenso wie alle Tugenden und Fehler der Menschengestalt, sofern anwendbar. Zum Beispiel ist ein lahmer Charakter auch als Tier lahm. Besitzt die Tiergestalt bereits eine Tugend oder einen Fehler, die der Charakter ebenfalls hat, gilt sie nur einmal.
->
-> **5. Allgemeine Fertigkeiten**
->
+> 
+>**5. Allgemeine Fertigkeiten**
+> 
 > Verwende die Allgemeinen Fertigkeiten der Tiergestalt. Die Allgemeinen Fertigkeiten der Tiergestalt sind nicht für menschliche Körper geeignet und können menschlichen Charakteren nicht gelehrt werden. Auf keine der menschlichen Allgemeinen Fertigkeiten kann zugegriffen werden, außer auf Sprachen (die noch verstanden werden können) und Kunden. Arkane und Akademische Fertigkeiten stehen dem Gestaltwandler zur Verfügung, wenn er Intelligenz behält. Übernatürliche Fertigkeiten können stets eingesetzt werden.
->
-> **6. Kommunikation**
->
+> 
+>**6. Kommunikation**
+> 
 > Erwirb die Fähigkeit, mit Mitgliedern derselben oder einer ähnlichen Spezies wie der verwandelten Gestalt zu kommunizieren. Tiere desselben Temperaments und Aspekts, die zudem dieselbe Ernährung und denselben Lebensraum teilen, können als Sprecher von Dialekten derselben Sprache betrachtet werden. So kann angenommen werden, dass alle Adler, Habichte und Bussarde eine gemeinsame Sprache teilen, die sich aber von der gemeinsamen Sprache der Schwäne, Störche und Reiher unterscheidet und auch von der Sprache der Singvögel.
->
-> **7. Wunden und Erfahrung**
->
+> 
+>**7. Wunden und Erfahrung**
+> 
 > Alle Wunden, die in Menschengestalt erlitten werden, spiegeln sich in der Tiergestalt wider und umgekehrt. Ein Mensch mit einer Mittelschweren Wunde hat also auch in Katzengestalt eine Mittelschwere Wunde, obwohl diese Wunde, wäre sie in Katzengestalt zugefügt worden, aufgrund der unterschiedlichen Wundbereiche von Katze und Mensch schwerwiegender gewesen wäre. Lykanthropen bilden eine Ausnahme – bei der Rückverwandlung in Menschengestalt werden alle als Tier erlittenen Wunden geheilt, obwohl als Mensch erlittene Wunden bestehen bleiben.
->
+> 
 > Ein Charakter, der eine beträchtliche Zeit in Tiergestalt verbringt, kann jegliche Erfahrung, die in diesem Zeitraum gesammelt wurde (sei es durch Abenteuer, Exposition oder Übung), auf die Fertigkeiten seiner Tiergestalt anwenden.
 
 > ### Magische Gegenstände und Gestaltwechsel
@@ -866,15 +862,19 @@ Ein Magus in Herztier-Gestalt kann die für das Zaubern nötigen Gesten nicht au
 > 
 > (Basis 3, +1 Berührung, +2 Sonne; +1 zwei Anwendungen/Tag, +3 Umgebungsauslöser \[Sonnenaufgang/Sonnenuntergang\])
 
+#### Die Verborgene Gestalt
+
+Ein weiterer Aspekt des Bjornaer-Herztieres wird als die Verborgene Gestalt bezeichnet. Obwohl der eigentliche Verwandlungsakt magisch ist, besteht nach dem Abschluss der Verwandlung kein fortdauernder mystischer Effekt, weil das Herztier eine Widerspiegelung der Wesensnatur des Magus ist. Für jede Magie, die der Grenze der Wesensnatur unterliegt (einschließlich hermetischer Magie), erscheint ein Herztier als gewöhnliches Tier. Dennoch kann ein Bjornaer-Magus in Herztier-Gestalt, der unter dem Einfluss eines magischen Effekts steht (einschließlich der Parma Magica), durch Zauber und Kräfte, die das Vorhandensein von Magie aufspüren können, von einem gewöhnlichen Tier unterschieden werden. Der Magus besitzt noch immer die Gabe, doch Menschen bemerken die negativen sozialen Auswirkungen eines Wildtieres selten, da sie ohnehin gewöhnlich ziemlich misstrauisch gegenüber Wildtieren sind.
+
+#### Bjornaer-Magi und Vertraute
+
+Die letzte Konsequenz der Einweihung in das Äußere Mysterium des Hauses Bjornaer ist die Unfähigkeit, einen Vertrauten zu binden. Das Ritual der Zwölf Jahre hinterlässt, wie andere Mysterien der Einweihung, eine Narbe auf der Seele des eingeweihten Magus; Birna, die kein persönliches Verlangen hatte, einen Vertrauten zu binden, betrachtete dies als hinnehmbare Einbuße, als sie das Ritual erfand. Jeder Magus, der jemals einen Vertrauten gebunden hat, selbst wenn dieser inzwischen gestorben ist, kann das Ritual der Zwölf Jahre nicht erfolgreich abschließen und somit dem Haus nicht beitreten.
+
 #### Herztiere und das Zwielicht
 
 Wenn ein Bjornaer-Magus ein Zwielicht erfährt, nimmt er gewöhnlich die Gestalt seines Herztieres an. Allerdings verhält er sich dabei oft wie das gewöhnliche Tier seines Herztieres und nicht wie ein Wesen mit Intelligenz, und manche vergleichen das Zwielicht mit einer Form der Bjornaer-Lykanthropie (freilich nicht in Hörweite eines Hausmitglieds!). Magi mit hohen Verzerrungswerten nehmen möglicherweise die Gestalt ihres innersten Herztieres an (siehe Innere Mysterien, unten).
 
 Wenn das Endgültige Zwielicht über einen Bjornaer-Magus kommt, nimmt er stets die Gestalt seines Herztieres an und flieht jeden menschlichen Kontakt. Kennt der Magus nur das Äußere Hausmysterium, wird er zu einem gewöhnlichen Tier. Hat er jedoch eines der Inneren Mysterien des Hauses erreicht, verwandelt er sich in sein Inneres Herztier und erwirbt einen Machtwert von (5 x Fertigkeit Herztier). Haus Bjornaer bezeichnet diese Wesen als Große Tiere und behandelt sie mit großer Ehrfurcht und Abergläubigkeit. Das Erscheinen eines Großen Tieres wird als mächtiges Omen betrachtet, insbesondere bei der Versammlung der Zwölf Jahre. Das letzte Mal, dass ein Großes Tier gesichtet wurde, war bei der Versammlung von 1167; nur ein Jahr später wurde die Insel vom König von Dänemark überfallen.
-
-#### Die Verborgene Gestalt
-
-Ein weiterer Aspekt des Bjornaer-Herztieres wird als die Verborgene Gestalt bezeichnet. Obwohl der eigentliche Verwandlungsakt magisch ist, besteht nach dem Abschluss der Verwandlung kein fortdauernder mystischer Effekt, weil das Herztier eine Widerspiegelung der Wesensnatur des Magus ist. Für jede Magie, die der Grenze der Wesensnatur unterliegt (einschließlich hermetischer Magie), erscheint ein Herztier als gewöhnliches Tier. Dennoch kann ein Bjornaer-Magus in Herztier-Gestalt, der unter dem Einfluss eines magischen Effekts steht (einschließlich der Parma Magica), durch Zauber und Kräfte, die das Vorhandensein von Magie aufspüren können, von einem gewöhnlichen Tier unterschieden werden. Der Magus besitzt noch immer die Gabe, doch Menschen bemerken die negativen sozialen Auswirkungen eines Wildtieres selten, da sie ohnehin gewöhnlich ziemlich misstrauisch gegenüber Wildtieren sind.
 
 ## Die Mysterien des Hauses Bjornaer
 
@@ -884,10 +884,6 @@ Das Äußere Mysterium des Hauses Bjornaer ist das **Herztier**, das den Ahnenge
 
 In die Clanmysterien wird von älteren Mitgliedern des Clans eingeweiht, die als Mystagogen fungieren; diese Clanmitglieder gehören oft derselben Sippe wie der Einzuweihende an. Die von einem Clan verwendeten Einweihungsskripte sind für diesen Clan einzigartig und werden von anderen Clans nicht eingesetzt. Diese Skripte entstammen den einheimischen Überzeugungen der Gründer jedes Clans, wurden aber im Laufe der Jahre weiterentwickelt; dennoch folgen sie alle im Großen und Ganzen einer ähnlichen Vorlage. Alle Clanmysterien (mit einer Ausnahme; siehe Clan Ilfetu, oben) sind Kleine Tugenden und haben daher einen Schwierigkeitsgrad von 15. Sie erfordern einen Mystagogen, der die gesuchte Tugend kennt und einen Wert von (Präsenz + Kunde des Hauses Bjornaer) von mindestens 8 hat, obwohl ein früherer Prüfungsbonus wirksam sein kann, der diesen Wert senkt.
 
-**Der Eid des (Name)**
-
-Der Einzuweihende muss einen feierlichen Eid schwören, der dem Fehler Gelübde entspricht (+3) und der seinen Ahnen gefallen wird, und ein Jahr lang seine Treue zu diesem Eid unter Beweis stellen (+1). Sein Mystagoge muss dann ein Quartal darauf verwenden, ihm die neue Tugend zu lehren (+3). Wird der Eid auf geringfügige Weise gebrochen, geht die Tugend verloren, bis Wiedergutmachung geleistet wird. Wird er in schwerwiegender Weise gebrochen, ist keine Wiedergutmachung ausreichend.
-
 **Die Prüfung des (Name)**
 
 An einem besonderen Ort und zu einer besonderen Zeit (+3) muss der Einzuweihende einen Ritus der körperlichen oder geistigen Kasteiung durchlaufen (+1) und erleidet eine Kleine Prüfung (+3). Wird stattdessen eine Große Prüfung erduldet, hat dieses Skript einen Skriptbonus von +13.
@@ -895,6 +891,10 @@ An einem besonderen Ort und zu einer besonderen Zeit (+3) muss der Einzuweihende
 **Die Tat des (Name)**
 
 Der Einzuweihende erhält den Auftrag, eine Queste zu finden, die seinen Ahnen Genüge tut (+3); diese Queste zu vollenden (+3); danach ein Quartal darauf zu verwenden, ein Gedicht, ein Lied oder einen Gesang zu verfassen, der seine heldenhaften Taten schildert (+1).
+
+**Der Eid des (Name)**
+
+Der Einzuweihende muss einen feierlichen Eid schwören, der dem Fehler Gelübde entspricht (+3) und der seinen Ahnen gefallen wird, und ein Jahr lang seine Treue zu diesem Eid unter Beweis stellen (+1). Sein Mystagoge muss dann ein Quartal darauf verwenden, ihm die neue Tugend zu lehren (+3). Wird der Eid auf geringfügige Weise gebrochen, geht die Tugend verloren, bis Wiedergutmachung geleistet wird. Wird er in schwerwiegender Weise gebrochen, ist keine Wiedergutmachung ausreichend.
 
 ### Einweihung in die Hausmysterien
 
@@ -911,22 +911,6 @@ Die Einweihungsskripte für die Hausmysterien verlangen oft, dass das Ritual an 
 > #### Pool der Kerry Mountains
 > 
 > Tief in den Kerry Mountains in Hibernien gibt es einen Pool, in den die alten Iren wertvolle Votivgaben von großem persönlichem Wert für ihre Ahnen warfen. Man glaubt, dass die stillen schwarzen Wasser des Pools unermessliche Reichtümer an Gold, Silber und vielleicht sogar uralte Verzauberungen verbergen.
-
-#### Geheimer Name (Kleines Hausmysterium)
-
-Dieses Mysterium durchtrennt dauerhaft die sympathetischen Resonanzen des Namens eines Magus und schmiedet sie mit einem nur dem Mystagogen und dem Eingeweihten bekannten Namen neu. Alle Arkanen Verbindungen zum Magus, die von vor dem Ritual stammen, verfallen sofort bei dessen Abschluss, und alle sympathetischen Verbindungen werden ungültig. Der Magus erzeugt nach dem Ritual neue Arkane Verbindungen, doch keine sympathetische Verbindung wird jemals wieder gegen ihn wirken, selbst wenn sie nach dem Ritual geschaffen wird. Der Mystagoge gewährt einen geheimen Namen, der es dem Magus erlaubt, Magie auf sich selbst zu wirken; ohne diesen wäre er nicht in der Lage, die Reichweite Persönlich zu nutzen. Allerdings muss jeder, der den geheimen Namen kennt – wie der Mystagoge oder Zauberer, die das Mysterium der Synthemata-Magie kennen (siehe *Die Mysterien (Überarbeitete Ausgabe)*) –, die Zauberstufe nicht von der Penetrationssumme von gegen das Ziel gewirkten Zaubern abziehen, ähnlich dem Fehler Schwache Magieresistenz. Der Clan Ilfetu betrachtet diese geheimen Namen als heiliges Vertrauensgut und wurde noch nie verdächtigt, sie zu missbrauchen.
-
-Der Einzuweihende wählt neben dem geheimen auch einen neuen öffentlichen Namen. Zwangsläufig folgt eine Zeit der Verwirrung, während sich die Sodales daran gewöhnen, den Magus mit seinem neuen öffentlichen Namen anzusprechen, doch dies ist Teil des symbolischen Opfers dieses Mysteriums. Dieses Mysterium kann jeder Person zugutekommen (Begabt oder nicht), die Magieresistenz besitzt, und die wenigen Magi außerhalb des Hauses, die davon erfahren, bitten das Haus gelegentlich, es an ihnen durchzuführen.
-
-Die Einweihung in dieses Mysterium scheitert, wenn der Magus einen Talisman oder einen Vertrauten besitzt; diese Verzauberungen bilden eine zu starke Bindung an die frühere Identität des Magus, um durch die Einweihung gebrochen zu werden.
-
-**Einweihung des Geheimen Namens**
-
-**Schwierigkeitsgrad**: 15 (Kleine Tugend, die der Mystagoge kennt)
-
-**Skriptbonus**: +8
-
-**Skriptdetails**: Am Jahrestag der Geburt des Einzuweihenden betreten der Mystagoge und der Einzuweihende ein rundes Zelt, das an einer Ahnenstätte errichtet wurde (+3), und führen gemeinsam eine rituelle Reinigung durch, die zur Geburtsstunde des Einzuweihenden enden muss (+2); der Einzuweihende erwirbt eine geringere Version des Fehlers Schwache Magieresistenz, eine Kleine Prüfung (+3).
 
 #### Das Ritual der Zwölf Jahre (Kleines Hausmysterium)
 
@@ -951,6 +935,38 @@ Für zukünftige Einweihungen in Clan- oder Hausmysterien zählt der permanente 
 > Es ist ein wohlgehütetes Geheimnis des Clans Ilfetu, dass die Gabe keine Voraussetzung für die Einweihung in das Mysterium des Herztieres ist (obwohl für UnBegabte ein anderes Einweihungsskript erforderlich ist, da die Prüfung, die die Fähigkeit zur Bindung eines Vertrauten zerstört, nicht angemessen ist). Da das Ritual den Einzuweihenden jedoch an die hermetischen Ahnen bindet, würde kein vernünftiger Mystagoge einen Sterblichen durch Einweihung mystisch in die Bjornaer-Familie aufnehmen.
 > 
 > Gerüchten zufolge tut jedoch ein abtrünniges Mitglied des Clans Ilfetu genau dies. Der Clan Ilfetu ist entsetzt über die Profanierung seines heiligsten Rituals, während das Haus besorgt ist, dass gegen den Kodex verstoßen wurde. Geschichten über ganze Dörfer von Sterblichen, die auf ihre Herztiere zugreifen können, sind sicherlich Übertreibungen, oder nicht? Beunruhigender ist, dass diese Sterblichen durch das Ritual allesamt Teil des Hauses Bjornaer geworden sind – was wird das Haus mit ihnen anfangen?
+
+#### Geheimer Name (Kleines Hausmysterium)
+
+Dieses Mysterium durchtrennt dauerhaft die sympathetischen Resonanzen des Namens eines Magus und schmiedet sie mit einem nur dem Mystagogen und dem Eingeweihten bekannten Namen neu. Alle Arkanen Verbindungen zum Magus, die von vor dem Ritual stammen, verfallen sofort bei dessen Abschluss, und alle sympathetischen Verbindungen werden ungültig. Der Magus erzeugt nach dem Ritual neue Arkane Verbindungen, doch keine sympathetische Verbindung wird jemals wieder gegen ihn wirken, selbst wenn sie nach dem Ritual geschaffen wird. Der Mystagoge gewährt einen geheimen Namen, der es dem Magus erlaubt, Magie auf sich selbst zu wirken; ohne diesen wäre er nicht in der Lage, die Reichweite Persönlich zu nutzen. Allerdings muss jeder, der den geheimen Namen kennt – wie der Mystagoge oder Zauberer, die das Mysterium der Synthemata-Magie kennen (siehe *Die Mysterien (Überarbeitete Ausgabe)*) –, die Zauberstufe nicht von der Penetrationssumme von gegen das Ziel gewirkten Zaubern abziehen, ähnlich dem Fehler Schwache Magieresistenz. Der Clan Ilfetu betrachtet diese geheimen Namen als heiliges Vertrauensgut und wurde noch nie verdächtigt, sie zu missbrauchen.
+
+Der Einzuweihende wählt neben dem geheimen auch einen neuen öffentlichen Namen. Zwangsläufig folgt eine Zeit der Verwirrung, während sich die Sodales daran gewöhnen, den Magus mit seinem neuen öffentlichen Namen anzusprechen, doch dies ist Teil des symbolischen Opfers dieses Mysteriums. Dieses Mysterium kann jeder Person zugutekommen (Begabt oder nicht), die Magieresistenz besitzt, und die wenigen Magi außerhalb des Hauses, die davon erfahren, bitten das Haus gelegentlich, es an ihnen durchzuführen.
+
+Die Einweihung in dieses Mysterium scheitert, wenn der Magus einen Talisman oder einen Vertrauten besitzt; diese Verzauberungen bilden eine zu starke Bindung an die frühere Identität des Magus, um durch die Einweihung gebrochen zu werden.
+
+**Einweihung des Geheimen Namens**
+
+**Schwierigkeitsgrad**: 15 (Kleine Tugend, die der Mystagoge kennt)
+
+**Skriptbonus**: +8
+
+**Skriptdetails**: Am Jahrestag der Geburt des Einzuweihenden betreten der Mystagoge und der Einzuweihende ein rundes Zelt, das an einer Ahnenstätte errichtet wurde (+3), und führen gemeinsam eine rituelle Reinigung durch, die zur Geburtsstunde des Einzuweihenden enden muss (+2); der Einzuweihende erwirbt eine geringere Version des Fehlers Schwache Magieresistenz, eine Kleine Prüfung (+3).
+
+#### Theriomorphie (Kleines Hausmysterium)
+
+Mithilfe dieses Mysteriums kann ein Magus jede Eigenschaft (siehe den Anhang zu diesem Kapitel, unten) oder Tugend, die sein Herztier besitzt, auf seine Menschengestalt anwenden, indem er einen Wurf auf Ausdauer + Herztier gegen einen Schwierigkeitsgrad von 9 ablegt. Dieser Vorgang dauert eine volle Runde. Er erhält alle Vorteile dieser Eigenschaft, durchläuft aber auch eine körperliche Veränderung, die die erworbenen Fähigkeiten widerspiegelt. Wenn beispielsweise Schnellläufer auf die Menschengestalt übertragen wird, erhält der Magus die Beine seines Herztieres. Wenn er Spitze Ohren hinzufügt, wachsen ihm Tierohren. Der Magus kann auf diese Weise natürliche Waffen erwerben und sie mit seiner menschlichen Fertigkeit Raufen einsetzen. Um sich von der Eigenschaft oder Tugend zu befreien, muss der Magus einen weiteren Wurf auf Ausdauer + Herztier gegen einen Schwierigkeitsgrad von 9 ablegen.
+
+Die Anwendung dieser Tugend wird nicht durch die Verborgene Gestalt geschützt und zählt im Hinblick auf Verzerrung als dauerhafter mystischer Effekt. Der Einsatz dieses Mysteriums vor anderen (insbesondere Sterblichen) kann eine starke psychologische Wirkung haben; ein Tapferkeitswurf ist erforderlich, um einer solchen Kreatur gegenüberzutreten.
+
+Besitzt ein Magus mit diesem Mysterium auch ein Inneres Herztier (siehe unten), kann er zusätzlich zu dessen Eigenschaften und Tugenden auch auf die Kleinen Mächte des Inneren Herztieres zugreifen. Viele Bjornaer-Magi lehnen dieses Mysterium ab, aber manchen gelingt es, ihren Abscheu gegen Gestaltwandlung zugunsten seines Nutzens zu überwinden.
+
+**Einweihung der Theriomorphie**
+
+**Schwierigkeitsgrad**: 15 (Kleine Tugend, die der Mystagoge kennt)
+
+**Skriptbonus**: +6
+
+**Skriptdetails**: Der Einzuweihende muss ein ganzes Jahr als sein Herztier verbringen und dabei gänzlich im Einklang mit den Fähigkeiten eines gewöhnlichen Tieres handeln, sowohl auf Magie als auch auf seine Parma Magica verzichten (+3). Darauf folgt ein Ritual, das diese Kraft erweckt und die Menschengestalt dauerhaft mit einem tierischen Merkmal entstellt, eine Kleine Prüfung, die sich entweder in Wildgeruch oder Entstellt (tierisches Merkmal) niederschlägt (+3).
 
 #### Sinnesmagie (Kleines Hausmysterium)
 
@@ -1068,22 +1084,6 @@ Der Zauber betrifft jedes Wesen, das den Wirkenden sieht. Ziele, die in die völ
 > 
 > (Basis 10, +2 Sonne, +4 Schauspiel)
 
-#### Theriomorphie (Kleines Hausmysterium)
-
-Mithilfe dieses Mysteriums kann ein Magus jede Eigenschaft (siehe den Anhang zu diesem Kapitel, unten) oder Tugend, die sein Herztier besitzt, auf seine Menschengestalt anwenden, indem er einen Wurf auf Ausdauer + Herztier gegen einen Schwierigkeitsgrad von 9 ablegt. Dieser Vorgang dauert eine volle Runde. Er erhält alle Vorteile dieser Eigenschaft, durchläuft aber auch eine körperliche Veränderung, die die erworbenen Fähigkeiten widerspiegelt. Wenn beispielsweise Schnellläufer auf die Menschengestalt übertragen wird, erhält der Magus die Beine seines Herztieres. Wenn er Spitze Ohren hinzufügt, wachsen ihm Tierohren. Der Magus kann auf diese Weise natürliche Waffen erwerben und sie mit seiner menschlichen Fertigkeit Raufen einsetzen. Um sich von der Eigenschaft oder Tugend zu befreien, muss der Magus einen weiteren Wurf auf Ausdauer + Herztier gegen einen Schwierigkeitsgrad von 9 ablegen.
-
-Die Anwendung dieser Tugend wird nicht durch die Verborgene Gestalt geschützt und zählt im Hinblick auf Verzerrung als dauerhafter mystischer Effekt. Der Einsatz dieses Mysteriums vor anderen (insbesondere Sterblichen) kann eine starke psychologische Wirkung haben; ein Tapferkeitswurf ist erforderlich, um einer solchen Kreatur gegenüberzutreten.
-
-Besitzt ein Magus mit diesem Mysterium auch ein Inneres Herztier (siehe unten), kann er zusätzlich zu dessen Eigenschaften und Tugenden auch auf die Kleinen Mächte des Inneren Herztieres zugreifen. Viele Bjornaer-Magi lehnen dieses Mysterium ab, aber manchen gelingt es, ihren Abscheu gegen Gestaltwandlung zugunsten seines Nutzens zu überwinden.
-
-**Einweihung der Theriomorphie**
-
-**Schwierigkeitsgrad**: 15 (Kleine Tugend, die der Mystagoge kennt)
-
-**Skriptbonus**: +6
-
-**Skriptdetails**: Der Einzuweihende muss ein ganzes Jahr als sein Herztier verbringen und dabei gänzlich im Einklang mit den Fähigkeiten eines gewöhnlichen Tieres handeln, sowohl auf Magie als auch auf seine Parma Magica verzichten (+3). Darauf folgt ein Ritual, das diese Kraft erweckt und die Menschengestalt dauerhaft mit einem tierischen Merkmal entstellt, eine Kleine Prüfung, die sich entweder in Wildgeruch oder Entstellt (tierisches Merkmal) niederschlägt (+3).
-
 ### Einweihung in die Mysterien des Inneren Herztieres
 
 Wenn ein Magus des Hauses Bjornaer die Legenden seiner Ahnen erforscht, entdeckt er, dass einige von ihnen in der Lage waren, die Gestalt Großer Tiere anzunehmen, bevor sie dem Endgültigen Zwielicht erlagen, und zu Kreaturen des Mythos mit einer Vielzahl übernatürlicher Kräfte wurden. Zudem sterben jene, die als Große Tiere ins Endgültige Zwielicht eingehen, keines natürlichen Todes, und sie können aufgesucht werden, um das Geheimnis des Inneren Herztieres zu offenbaren. Der Bjornaer-Magus muss eine Kunde des Hauses Bjornaer von mindestens 5 besitzen, um zu dieser Schlussfolgerung zu gelangen. Der Spieler eines Bjornaer-Magus sollte mit seinem Spielleiter besprechen, welche Gestalt das Innere Herztier seines Magus haben soll, bevor sein Charakter mit dieser Einweihung beginnt; grob gesprochen gibt es drei Möglichkeiten: ein vollkommener **Idealtypus** seiner Spezies; eine **Chimäre** oder ein Amalgam aus zwei oder mehr Kreaturen; oder ein Anima, eine Kreatur aus reiner Elementarmaterie. Jede gilt als eigenes Inneres Mysterium des Hauses Bjornaer.
@@ -1124,6 +1124,37 @@ Am Ende des Quartals wird die Einweihungssumme auf Grundlage der Werte des Groß
 
 Es gibt drei Pfade zu den Inneren Mysterien des Hauses Bjornaer, jeder mit einem anderen Typ des Inneren Herztieres als letztlichem Ziel.
 
+#### Das Mysterium des Idealtypus (Großes Hausmysterium)
+
+*Der Begabte Mensch ist ein Vollkommenerer Mensch, das Tugendsame Tier ist ein Vollkommeneres Tier.*
+
+Das Große Tier zeigt dem Magus, wie er die Gestalt seines Herztieres so vervollkommnen kann, dass sie eine Perfektion der Grundgestalt und eine treuere Widerspiegelung der idealen Form dieser Kreatur wird – ein Tugendtier. Ein Tugendtier ist eine übernatürliche Version eines gewöhnlichen Tieres. Im Aussehen unterscheidet es sich nicht wesentlich vom gewöhnlichen Tier, obwohl es größer und imposanter sein kann. Dies ist der häufigste Pfad des Hauses Bjornaer, der den Magus in engeren Kontakt mit der Essenz seines wahren Selbst bringt.
+
+Bei der Einweihung in dieses Mysterium wird das Innere Herztier aus dem Äußeren Herztier hervorgelockt. Diese Verwandlung bringt eine Reihe von Vorteilen:
+
+- Eine Eigenschaft des Inneren Herztieres (außer Intelligenz) erhält einen permanenten Bonus von +3 auf den Wert des Grundtieres (ohne Berücksichtigung von Anpassungen durch die eigenen Eigenschaften des Magus). Dieselbe Eigenschaft erhält auch in Menschengestalt einen permanenten Bonus von +1, was die Eigenschaften des Äußeren Herztieres auf die übliche Weise verändern kann. Die auf diese Weise erhöhte Eigenschaft muss eine sein, für die das gewöhnliche Tier bekannt ist, wie die Wahrnehmung eines Adlers, die Präsenz eines Wolfes oder die Ausdauer eines Bären.
+
+*Beispiel: Ein Adler hat eine Wahrnehmung von +2, aber die menschliche Wahrnehmung des Bjornaer-Magus ist –1, sodass sein Äußeres Herztier eine Wahrnehmung von +1 hat. Sein Inneres Herztier erwirbt jedoch eine Wahrnehmung von +5, und seine Menschengestalt erhält ebenfalls einen Bonus von +1 für eine endgültige Wahrnehmung von 0. Das bedeutet, dass sein Äußeres Herztier letztlich eine Wahrnehmung von +2 hat.*
+
+- Das Innere Herztier kann eine Mythische Tat vollbringen, die mit seiner erhöhten Eigenschaft zusammenhängt, für den Einsatz von 1 Selbstvertrauenspunkt. Eine Mythische Tat ist eine automatisch erfolgreiche, unglaubliche Handlung, die normalerweise durch einen einzelnen Würfelwurf abgedeckt würde, und sie kann nicht für eine Tätigkeit eingesetzt werden, die gewöhnlich Tage oder Quartale in Anspruch nimmt.
+- Das Innere Herztier ist ein perfektes Exemplar seiner Art. In der Gestalt seines tugendhaften Inneren Herztieres leidet ein Bjornaer-Magus nicht unter Physischen Fehlern, die normalerweise seine Gestalt beeinträchtigen würden. Ein lahmer Magus ist als Tugendtier beispielsweise nicht lahm, obwohl er in seinem Äußeren Herztier weiterhin von diesem Fehler betroffen ist.
+
+> ### Beispielhafte Mythische Taten
+> 
+> **Wahrnehmung:** In einer Meile Entfernung ein gezogenes Schwert sehen; das Gras wachsen hören
+> 
+> **Präsenz:** Einen Aufruhr mit einem Blick beenden, ein Tier sklavisch gehorsam machen
+> 
+> **Kommunikation:** Einer Kreatur befehlen, bis zum Tod zu gehorchen, eine nie gehörte Sprache sprechen
+> 
+> **Stärke:** Etwas vom 20-fachen des eigenen Gewichts heben, einer Kreatur der Größe +1 oder weniger bei einem erfolgreichen Angriff eine Schwere Wunde zufügen
+> 
+> **Ausdauer:** Unbeweglich werden, bis man sich zu bewegen entscheidet (Ringkampfstärke von 21 erforderlich, um einen solchen Charakter zu bewegen), eine Lähmende Wunde zwei Minuten lang ignorieren, eine Leichte Wunde über Nacht heilen
+> 
+> **Geschicklichkeit:** Über Baumwipfel laufen, gleichzeitig gegen zwei Gegner kämpfen
+> 
+> **Schnelligkeit:** Sich mit der zehnfachen Normalgeschwindigkeit bewegen, bis erschöpft, zweimal in einer einzigen Runde handeln
+
 #### Das Mysterium der Chimäre (Großes Hausmysterium)
 
 *Die Fabelwesen sind unsere Ahnen, nicht unsere Feinde.*
@@ -1141,15 +1172,15 @@ Neben der Kombination von Merkmalen jeder Tiergestalt bringt diese Verwandlung e
 *Beispiel: Ein Adler-Bjornaer (Größe –2), der Merkmale eines Löwen (Größe +2) erwirbt, wird Größe +2. Ein Löwen-Bjornaer, der die Merkmale eines Adlers hinzufügt, wird Größe +3.*
 
 > ### Beispiele für Elementargestalten
->
-> **Feuer:** Der Körper verwandelt sich in lebendes Feuer. Der Magus braucht keinen Brennstoff zum Brennen, aber er entzündet brennbare Materialien bei Berührung und fügt jedem, den er berührt, +10 Schaden zu. Sein Feuer kann nicht gelöscht werden, und er kann es nicht unterdrücken.
->
-> **Luft:** Wie *Mantel aus Nebel*, beständig in Kraft.
->
+> 
 > **Stein:** Der Körper verwandelt sich in massiven Stein. Die Masse des Magus verfünffacht sich ohne Veränderung der Gesamtabmessungen (+2 auf Größe mit entsprechend erhöhtem Wundbereich, aber Stärke bleibt unverändert). Sein Absorptionswert erhält einen Bonus von +15, aber Schnelligkeit wird um 5 gesenkt.
->
+> 
+> **Luft:** Wie *Mantel aus Nebel*, beständig in Kraft.
+> 
+> **Feuer:** Der Körper verwandelt sich in lebendes Feuer. Der Magus braucht keinen Brennstoff zum Brennen, aber er entzündet brennbare Materialien bei Berührung und fügt jedem, den er berührt, +10 Schaden zu. Sein Feuer kann nicht gelöscht werden, und er kann es nicht unterdrücken.
+> 
 > **Wasser:** Wie *Verwandlung in Wasser*, beständig in Kraft.
->
+> 
 > Andere Elemente sollten auf den hier aufgeführten Effekten basieren.
 
 #### Das Mysterium des Anima (Großes Hausmysterium)
@@ -1159,37 +1190,6 @@ Neben der Kombination von Merkmalen jeder Tiergestalt bringt diese Verwandlung e
 Das Große Tier verwandelt das Herztier in eine geistige oder elementare Gestalt. Dies sind oft die schwierigsten Übergänge zum Inneren Herztier, weil die neue Gestalt sich so grundlegend von der alten unterscheidet, und sind daher die seltensten.
 
 Mit dem Erwerb dieses Inneren Mysteriums kann sich der Bjornaer-Magus in eine Kreatur von derselben Form und Größe wie sein Äußeres Herztier verwandeln, die jedoch aus Elementarmaterie besteht. Dieser Körper kann aus einem der traditionellen vier Elemente Erde, Feuer, Luft oder Wasser bestehen, oder aus anderen Stoffen wie Rauch oder Schatten. In dieser Gestalt wird der Magus von der Hermetischen Form beeinflusst, die dem Element zugeordnet (oder am nächsten) ist, statt von der Form Animal.
-
-#### Das Mysterium des Idealtypus (Großes Hausmysterium)
-
-*Der Begabte Mensch ist ein Vollkommenerer Mensch, das Tugendsame Tier ist ein Vollkommeneres Tier.*
-
-Das Große Tier zeigt dem Magus, wie er die Gestalt seines Herztieres so vervollkommnen kann, dass sie eine Perfektion der Grundgestalt und eine treuere Widerspiegelung der idealen Form dieser Kreatur wird – ein Tugendtier. Ein Tugendtier ist eine übernatürliche Version eines gewöhnlichen Tieres. Im Aussehen unterscheidet es sich nicht wesentlich vom gewöhnlichen Tier, obwohl es größer und imposanter sein kann. Dies ist der häufigste Pfad des Hauses Bjornaer, der den Magus in engeren Kontakt mit der Essenz seines wahren Selbst bringt.
-
-Bei der Einweihung in dieses Mysterium wird das Innere Herztier aus dem Äußeren Herztier hervorgelockt. Diese Verwandlung bringt eine Reihe von Vorteilen:
-
-- Eine Eigenschaft des Inneren Herztieres (außer Intelligenz) erhält einen permanenten Bonus von +3 auf den Wert des Grundtieres (ohne Berücksichtigung von Anpassungen durch die eigenen Eigenschaften des Magus). Dieselbe Eigenschaft erhält auch in Menschengestalt einen permanenten Bonus von +1, was die Eigenschaften des Äußeren Herztieres auf die übliche Weise verändern kann. Die auf diese Weise erhöhte Eigenschaft muss eine sein, für die das gewöhnliche Tier bekannt ist, wie die Wahrnehmung eines Adlers, die Präsenz eines Wolfes oder die Ausdauer eines Bären.
-
-*Beispiel: Ein Adler hat eine Wahrnehmung von +2, aber die menschliche Wahrnehmung des Bjornaer-Magus ist –1, sodass sein Äußeres Herztier eine Wahrnehmung von +1 hat. Sein Inneres Herztier erwirbt jedoch eine Wahrnehmung von +5, und seine Menschengestalt erhält ebenfalls einen Bonus von +1 für eine endgültige Wahrnehmung von 0. Das bedeutet, dass sein Äußeres Herztier letztlich eine Wahrnehmung von +2 hat.*
-
-- Das Innere Herztier kann eine Mythische Tat vollbringen, die mit seiner erhöhten Eigenschaft zusammenhängt, für den Einsatz von 1 Selbstvertrauenspunkt. Eine Mythische Tat ist eine automatisch erfolgreiche, unglaubliche Handlung, die normalerweise durch einen einzelnen Würfelwurf abgedeckt würde, und sie kann nicht für eine Tätigkeit eingesetzt werden, die gewöhnlich Tage oder Quartale in Anspruch nimmt.
-- Das Innere Herztier ist ein perfektes Exemplar seiner Art. In der Gestalt seines tugendhaften Inneren Herztieres leidet ein Bjornaer-Magus nicht unter Physischen Fehlern, die normalerweise seine Gestalt beeinträchtigen würden. Ein lahmer Magus ist als Tugendtier beispielsweise nicht lahm, obwohl er in seinem Äußeren Herztier weiterhin von diesem Fehler betroffen ist.
-
-> ### Beispielhafte Mythische Taten
->
-> **Ausdauer:** Unbeweglich werden, bis man sich zu bewegen entscheidet (Ringkampfstärke von 21 erforderlich, um einen solchen Charakter zu bewegen), eine Lähmende Wunde zwei Minuten lang ignorieren, eine Leichte Wunde über Nacht heilen
->
-> **Geschicklichkeit:** Über Baumwipfel laufen, gleichzeitig gegen zwei Gegner kämpfen
->
-> **Kommunikation:** Einer Kreatur befehlen, bis zum Tod zu gehorchen, eine nie gehörte Sprache sprechen
->
-> **Präsenz:** Einen Aufruhr mit einem Blick beenden, ein Tier sklavisch gehorsam machen
->
-> **Schnelligkeit:** Sich mit der zehnfachen Normalgeschwindigkeit bewegen, bis erschöpft, zweimal in einer einzigen Runde handeln
-> **Stärke:** Etwas vom 20-fachen des eigenen Gewichts heben, einer Kreatur der Größe +1 oder weniger bei einem erfolgreichen Angriff eine Schwere Wunde zufügen
->
-> **Wahrnehmung:** In einer Meile Entfernung ein gezogenes Schwert sehen; das Gras wachsen hören
->
 
 ### Das Innere Herztier im Spiel
 
@@ -1279,6 +1279,18 @@ Die Treffen der Jägerin finden stets unter erheblicher Geheimhaltung an den Ide
 
 Die Jägerin besitzt drei Einweihungsstufen: die äußeren **Kerykes**, die inneren **Eumolpiden** und die innersten **Hierophanten**. Die Fertigkeit Kunde der Jägerin im Wald (abgekürzt als Jägerinkunde) ist für die Einweihung in diese Grade erforderlich.
 
+#### Kerykes
+
+Mitglieder dieses Rangs widmen sich dem Studium der Natur und befassen sich nicht mit dem übergeordneten Ziel der Gesellschaft; sie kennen die Ziele des Kultes sogar nur, wenn sie persönliches Interesse daran nehmen. Sie sind damit beauftragt, das den Antiken bekannte Naturwissen wiederzuerlangen, das in modernen Zeiten verloren ging. Um Mitglied der Gesellschaft zu werden und den Kerykes beizutreten, muss man bei einem der jährlichen Treffen des Kultes eine Einweihung durchlaufen, die das Mysterium der Naturkunde gewährt (siehe Haus Merinita: Naturmysterien). Ein Bjornaer-Magus, der in den Kult aufgenommen wird, wird wahrscheinlich von seinen Sippenmitgliedern eingeweiht, aber erst nach seiner Aufnahme in den Orden des Hermes.
+
+**Einweihung in den Rang des Keryx und das Mysterium der Naturkunde**
+
+**Schwierigkeitsgrad**: 15 (Kleine Tugend, dem Mystagogen bekannt)
+
+**Skriptbonus**: +9
+
+**Skriptdetails**: Der Einzuweihende muss eine Jägerinkunde von 1 durch mindestens ein Quartal Unterricht beim Mystagogen erwerben (+3); ein den Hierophanten bisher unbekanntes Stück magischen Wissens über das Studium oder die Verehrung der Natur entdecken und ihnen geben, beispielsweise einen neuen (oder alten) Zauber, ein antikes Buch oder einen bereiteten Gegenstand des Hauses Diedne (+3); und einen Schwur des Gehorsams gegenüber den Hierophanten des Kultes ablegen (Fehler Gelübde, +3).
+
 #### Eumolpiden
 
 Die Eumolpiden befassen sich mit dem religiösen Aspekt der Gesellschaft, insbesondere der Verehrung der Diana und der Identifizierung und Ausbildung des heidnischen Messias. Ein Keryx, der den Eumolpiden beitreten möchte, muss eine Jägerinkunde von 3 haben, und seine Einweihung gewährt das Mysterium der Hermetischen Theurgie (siehe *Die Mysterien Überarbeitete Ausgabe*). Eumolpiden, die sich der Jägerin gegenüber als loyal erweisen und deren Ziele fördern, können auch in die Mysterien der Namen der Macht und der Anrufungsmagie eingeweiht werden (beide beschrieben in *Die Mysterien Überarbeitete Ausgabe*), wobei sie die Namen mächtiger, naturverbundener Gottheiten wie Demeter und Kore erlernen.
@@ -1312,18 +1324,6 @@ Die Hierophanten hüten ein Einweihungsskript für das innerste Mysterium des Ku
 **Skriptbonus**: +24
 
 **Skriptdetails**: Der Einzuweihende muss eine einzigartige Queste durchlaufen, um Quendalon in Arkadien zu finden und zu erschlagen (+6). Darauf folgt das Opfer alles dessen, was er in seinem Leben als Magus besitzt, geschaffen oder geschrieben hat (+6), und eine rituelle Blendung durch die Hierophanten (Große Prüfung, +9) in Gegenwart der Diana selbst (+3).
-
-#### Kerykes
-
-Mitglieder dieses Rangs widmen sich dem Studium der Natur und befassen sich nicht mit dem übergeordneten Ziel der Gesellschaft; sie kennen die Ziele des Kultes sogar nur, wenn sie persönliches Interesse daran nehmen. Sie sind damit beauftragt, das den Antiken bekannte Naturwissen wiederzuerlangen, das in modernen Zeiten verloren ging. Um Mitglied der Gesellschaft zu werden und den Kerykes beizutreten, muss man bei einem der jährlichen Treffen des Kultes eine Einweihung durchlaufen, die das Mysterium der Naturkunde gewährt (siehe Haus Merinita: Naturmysterien). Ein Bjornaer-Magus, der in den Kult aufgenommen wird, wird wahrscheinlich von seinen Sippenmitgliedern eingeweiht, aber erst nach seiner Aufnahme in den Orden des Hermes.
-
-**Einweihung in den Rang des Keryx und das Mysterium der Naturkunde**
-
-**Schwierigkeitsgrad**: 15 (Kleine Tugend, dem Mystagogen bekannt)
-
-**Skriptbonus**: +9
-
-**Skriptdetails**: Der Einzuweihende muss eine Jägerinkunde von 1 durch mindestens ein Quartal Unterricht beim Mystagogen erwerben (+3); ein den Hierophanten bisher unbekanntes Stück magischen Wissens über das Studium oder die Verehrung der Natur entdecken und ihnen geben, beispielsweise einen neuen (oder alten) Zauber, ein antikes Buch oder einen bereiteten Gegenstand des Hauses Diedne (+3); und einen Schwur des Gehorsams gegenüber den Hierophanten des Kultes ablegen (Fehler Gelübde, +3).
 
 ## Die Magie des Hauses Bjornaer
 
@@ -1602,82 +1602,82 @@ Ein junges Tier hat möglicherweise nicht alle Eigenschaften, die es als ausgewa
 
 Eigenschaften sind Merkmale des Tieres, die seine Fähigkeiten beeinflussen. Füge dem Grundprofil jeder Kreatur passende Eigenschaften aus der folgenden Liste hinzu, oder erfinde eigene. Wenn eine Eigenschaft eine Fertigkeit gewährt, die die Kreatur bereits hat, verwende den höchsten Wert und wähle die am besten passende Spezialisierung. Durch Eigenschaften kann eine Kreatur eine oder mehrere zusätzliche Erschöpfungsstufen haben. Eine zusätzliche Erschöpfungsstufe gewährt eine zusätzliche Stufe Außer Atem, zwei zusätzliche gewähren eine weitere Stufe Außer Atem und eine weitere Stufe Erschöpft, und so fort.
 
-**Abstoßendes Äußeres:** Die Kreatur ist so abstoßend, dass ihre Präsenz auf -6 sinkt. Dies sollte jedoch als Präsenz von +3 behandelt werden, wenn das Tier versucht, einen Gegner zu erschrecken oder einzuschüchtern.
-
-**Aggressiv:** Addiere 1 zur Gerissenheit; gewährt Raufen 5 (natürliche Waffen).
-
-**Amphibisch:** Gewährt Schwimmen 4 (Heimatgelände). Das Tier kann den Atem doppelt so lange anhalten wie normal.
-
-**Defensiver Kämpfer:** Die Kreatur kämpft nur zur Selbstverteidigung. Gewährt Raufen (Ausweichen) 4 und eine zusätzliche Erschöpfungsstufe.
-
-**Dickes Fell/Dicke Schuppen:** Addiere 1 auf Schutz; diese Eigenschaft kumuliert mit der Tugend Zäh und der Eigenschaft Zähes Fell.
-
-**Feiner Geruchssinn:** Addiere 1 zur Wahrnehmung, +3 auf alle Würfe, die den Geruchssinn betreffen, und +2 auf alle Jagen-Würfe.
-
-**Furchtsam:** Subtrahiere 1 von Präsenz; gewähre Schleichen 4 (Verstecken) und Aufmerksamkeit 4 (Raubtiere). Furchtsame Kreaturen haben normalerweise keine natürlichen Waffen.
-
-**Geschickter Kletterer:** Addiere +3 auf alle Würfe, die Klettern betreffen.
-
 **Gewandter Flieger:** Dieser Vogel ist entweder ein besonders kraftvoller oder ein akrobatischer Flieger. Gewährt Athletik 5 (Fliegen); die Kreatur muss zum Fliegen fähig sein.
 
-**Gezähmt:** Das Tier verliert die Fertigkeit Überleben, die es möglicherweise hat, erhält aber 1 Punkt Kommunikation, wenn dieser derzeit negativ ist.
-
-**Giftig:** Einer der Angriffe der Kreatur (gewöhnlich der Biss) injiziert auch Gift in die verursachten Wunden. Vergleiche den Angriffsvorteil der Kreatur mit dem Schutz des Opfers (nicht der Absorption). Ist der Vorteil der Kreatur höher, dann erleidet das Opfer die Wirkung des Gifts, unabhängig davon, ob der Biss eine tatsächliche Wunde verursacht. Der Schwierigkeitsgrad, um Giftschaden zu vermeiden, variiert von 3 bis 15 (siehe ArMDE, [Seite 180](<Ars Magica Definitive Edition Basisregeln.md#gifte>)).
-
-**Glitschig:** Diese Kreatur hat +6 auf Verteidigungswürfe gegen Greifangriffe. Diese Eigenschaft kann mehrfach genommen werden; der Bonus steigt bei jeder weiteren Wahl um +3.
-
-**Greifen:** Die Kreatur kann einen Greifangriff statt eines normalen Angriffs machen. Dieser Angriff kann nur gegen einen Gegner eingesetzt werden, der kleiner oder gleich der (Größe + 1) der Kreatur ist. Siehe Nicht-tödlicher Kampf (ArMDE, [Seite 174](<Ars Magica Definitive Edition Basisregeln.md#nicht-tödlicher-kampf>)) für Regeln zum Ringen. Wenn die Kreatur eine andere natürliche Waffe hat (wie einen Biss), kann sie in den folgenden Runden ihre aktuelle Greifstärke zur Angriffssumme addieren, bis der Gegner sich befreit. Die Kreatur muss sich gegen Gegner außerhalb des Griffs mit ihrer Greifverteidigung verteidigen (siehe Tabelle natürlicher Waffen, unten).
-
-**Große Klauen:** Die Klauen der Kreatur sind größer als für eine Kreatur ihrer Größe üblich. Verwende die unten aufgeführten Waffenwerte für Große Klauen.
-
-**Große Zähne:** Die Zähne der Kreatur sind größer als für eine Kreatur ihrer Größe üblich. Verwende die unten aufgeführten Waffenwerte für Große Zähne.
-
-**Großes Geweih/Große Hörner:** Die Hörner oder das Geweih der Kreatur sind größer als für eine Kreatur ihrer Größe üblich. Verwende die unten aufgeführten Waffenwerte für Große Hörner.
-
-**Guter Springer:** Addiere +3 auf alle Würfe, die Springen betreffen.
-
-**Herdentier:** Die Kreatur ist mutig, wenn sie mit anderen ihrer Art zusammen ist. Wenn sie gezwungen wird, als Gruppe zu kämpfen, erhalten Herdentiere vorübergehend die Tugend Wildheit, die sie nutzen können, um in Panik auszubrechen oder dem zu entkommen, was sie als Gruppe bedroht. Diese Tiere haben die Tugend Wildheit nicht, wenn sie allein gefangen werden, es sei denn, sie wird als Tugend genommen. Ein Hirsch könnte beispielsweise die Tugend haben, während die Hirschkühe in seiner Herde diese Eigenschaft haben.
+**Aggressiv:** Addiere 1 zur Gerissenheit; gewährt Raufen 5 (natürliche Waffen).
 
 **Hinterhältiger Jäger:** Das Tier lauert seiner Beute auf und überrascht sie.
 Gewährt Schleichen 4 (Beute anschleichen) und Jagen 4 (Beute). Die Spezialisierung des Tiers für Raufen wechselt zu einer der natürlichen Waffen des Tiers. Wenn es sich erfolgreich an seine Beute herangeschlichen hat, gewinnt es automatisch die Initiative in der ersten Kampfrunde und erhält einen Bonus von +3 auf seine Angriffssumme nur für die erste Runde.
 
-**Imponierendes Äußeres:** Die Kreatur hat ein schönes, majestätisches oder ehrfurchtgebietendes Erscheinungsbild, das selbst Menschen anspricht. Erhöhe Präsenz auf 0 (wenn negativ) oder erhöhe sie andernfalls um 1. Diese Eigenschaft kann mehrfach für besonders schöne oder beeindruckende Kreaturen genommen werden.
-
-**Panzer:** Die Kreatur ist von einem schützenden Panzer umgeben. Gewährt +4 auf Schutz, aber die Kreatur erleidet einen Malus von -3 auf alle Würfe, die schnelle oder wendige Bewegung betreffen.
-
-**Rudel-/Herdenführer:** Addiere 1 zur Kommunikation und gewähre Führung 5 (eigene Art).
-
-**Rudeltier:** Diese Kreaturen können als ausgebildete Gruppe kämpfen, wenn ein Rudelführer anwesend ist. Ist der Rudelführer nicht anwesend, können sie dennoch als unausgebildete Gruppe kämpfen.
-
-**Scharfe Augen:** Addiere 1 zur Wahrnehmung und +3 auf alle Würfe, die das Sehvermögen betreffen.
-
-**Schlau:** Erhöhe Gerissenheit auf 0 (wenn derzeit negativ), oder addiere 1. Diese Eigenschaft kann mehrfach für besonders schlaue Tiere genommen werden.
-
-**Schnellflieger:** Addiere +3 auf alle Würfe, die Fluggeschwindigkeit betreffen; die Kreatur muss zum Fliegen fähig sein.
-
-**Schnellläufer:** Addiere +3 auf alle Würfe, die Laufen betreffen.
-
-**Spitze Ohren:** Addiere 1 zur Wahrnehmung und +3 auf Würfe, die das Gehör betreffen.
-
-**Stacheln:** Die Kreatur ist mit Stacheln bedeckt; diese gewähren einen Bonus von +1 auf Schutz. Wenn ein Gegner die Kreatur mit einem Biss-, Klauen- oder Faustangriff trifft, verursacht er Schaden wie normal, erleidet aber seinerseits +5 Schaden. Manche Kreaturen haben Giftstacheln (siehe Giftig, unten), in welchem Fall der eigene Angriffsvorteil des Angreifers nur zur Bestimmung des Erfolgs des Giftgegenangriffs gegen ihn verwendet wird.
-
-**Stimmgewaltig:** Die Kreatur kann beeindruckende Lautäußerungen von sich geben, wie ein kraftvolles Brüllen oder Heulen, schönen Vogelgesang oder Ähnliches. Kommunikation wird auf 0 erhöht (wenn negativ) oder um 1 erhöht; gewähre Musik 3. Diese Eigenschaft kann zweimal für besonders beeindruckende Stimmfähigkeit genommen werden, wobei Musik auf 5 steigt.
-
-**Stimmnachahmung:** Die Kreatur ist fähig, andere Geräusche nachzuahmen, wie etwa eine menschliche Stimme. Erhöhe Kommunikation auf 0 (wenn negativ) oder erhöhe sie um 1. Sie versteht die Bedeutung der Laute, die sie von sich gibt, nicht, es sei denn, die Kreatur hat Intelligenz statt Gerissenheit, in welchem Fall die Kreatur Lebende Sprache 3 erwirbt. Beachte, dass ein Magus, der sich in eine Kreatur mit dieser Eigenschaft verwandelt hat, nicht die präzisen und komplexen Laute bilden kann, die zum Zaubern erforderlich sind.
-
-**Tarnung:** Addiere +3 auf alle Würfe zum Verstecken, solange sich die Kreatur nicht bewegt.
-
-**Unermüdlich:** Die Kreatur erhält zwei zusätzliche Erschöpfungsstufen.
-
-**Verfolgungsjäger:** Das Tier jagt aktiv seine Beute, indem es entweder deren Fährte verfolgt oder sie hetzt. Gewährt Jagen 4 (Beute) und eine zusätzliche Erschöpfungsstufe. Die Spezialisierung des Tiers für Raufen wechselt zu einer der natürlichen Waffen des Tiers.
+**Amphibisch:** Gewährt Schwimmen 4 (Heimatgelände). Das Tier kann den Atem doppelt so lange anhalten wie normal.
 
 **Wassergebunden:** Gewährt Schwimmen 5 (Heimatgelände). Das Tier kann unter Wasser atmen.
 
+**Tarnung:** Addiere +3 auf alle Würfe zum Verstecken, solange sich die Kreatur nicht bewegt.
+
+**Schlau:** Erhöhe Gerissenheit auf 0 (wenn derzeit negativ), oder addiere 1. Diese Eigenschaft kann mehrfach für besonders schlaue Tiere genommen werden.
+
+**Defensiver Kämpfer:** Die Kreatur kämpft nur zur Selbstverteidigung. Gewährt Raufen (Ausweichen) 4 und eine zusätzliche Erschöpfungsstufe.
+
+**Gezähmt:** Das Tier verliert die Fertigkeit Überleben, die es möglicherweise hat, erhält aber 1 Punkt Kommunikation, wenn dieser derzeit negativ ist.
+
+**Zusätzliche natürliche Waffen:** Erhalte ein zusätzliches Paar natürlicher Waffen, wie Hörner/Geweih, Zähne/Hauer, Klauen oder Hufe. Nur ein Satz Waffen kann in jeder Kampfrunde verwendet werden. Diese Eigenschaft kann mehrfach genommen werden.
+
+**Schnellläufer:** Addiere +3 auf alle Würfe, die Laufen betreffen.
+
+**Schnellflieger:** Addiere +3 auf alle Würfe, die Fluggeschwindigkeit betreffen; die Kreatur muss zum Fliegen fähig sein.
+
+**Guter Springer:** Addiere +3 auf alle Würfe, die Springen betreffen.
+
+**Greifen:** Die Kreatur kann einen Greifangriff statt eines normalen Angriffs machen. Dieser Angriff kann nur gegen einen Gegner eingesetzt werden, der kleiner oder gleich der (Größe + 1) der Kreatur ist. Siehe Nicht-tödlicher Kampf (ArMDE, [Seite 174](<Ars Magica Definitive Edition Basisregeln.md#nicht-tödlicher-kampf>)) für Regeln zum Ringen. Wenn die Kreatur eine andere natürliche Waffe hat (wie einen Biss), kann sie in den folgenden Runden ihre aktuelle Greifstärke zur Angriffssumme addieren, bis der Gegner sich befreit. Die Kreatur muss sich gegen Gegner außerhalb des Griffs mit ihrer Greifverteidigung verteidigen (siehe Tabelle natürlicher Waffen, unten).
+
 **Zäh:** Die Kreatur ist an raue Bedingungen gewöhnt; sie hat Überleben 5 (Heimatgelände) und eine zusätzliche Erschöpfungsstufe.
+
+**Herdentier:** Die Kreatur ist mutig, wenn sie mit anderen ihrer Art zusammen ist. Wenn sie gezwungen wird, als Gruppe zu kämpfen, erhalten Herdentiere vorübergehend die Tugend Wildheit, die sie nutzen können, um in Panik auszubrechen oder dem zu entkommen, was sie als Gruppe bedroht. Diese Tiere haben die Tugend Wildheit nicht, wenn sie allein gefangen werden, es sei denn, sie wird als Tugend genommen. Ein Hirsch könnte beispielsweise die Tugend haben, während die Hirschkühe in seiner Herde diese Eigenschaft haben.
+
+**Imponierendes Äußeres:** Die Kreatur hat ein schönes, majestätisches oder ehrfurchtgebietendes Erscheinungsbild, das selbst Menschen anspricht. Erhöhe Präsenz auf 0 (wenn negativ) oder erhöhe sie andernfalls um 1. Diese Eigenschaft kann mehrfach für besonders schöne oder beeindruckende Kreaturen genommen werden.
+
+**Scharfe Augen:** Addiere 1 zur Wahrnehmung und +3 auf alle Würfe, die das Sehvermögen betreffen.
+
+**Feiner Geruchssinn:** Addiere 1 zur Wahrnehmung, +3 auf alle Würfe, die den Geruchssinn betreffen, und +2 auf alle Jagen-Würfe.
+
+**Große Klauen:** Die Klauen der Kreatur sind größer als für eine Kreatur ihrer Größe üblich. Verwende die unten aufgeführten Waffenwerte für Große Klauen.
+
+**Großes Geweih/Große Hörner:** Die Hörner oder das Geweih der Kreatur sind größer als für eine Kreatur ihrer Größe üblich. Verwende die unten aufgeführten Waffenwerte für Große Hörner.
+
+**Große Zähne:** Die Zähne der Kreatur sind größer als für eine Kreatur ihrer Größe üblich. Verwende die unten aufgeführten Waffenwerte für Große Zähne.
+
+**Abstoßendes Äußeres:** Die Kreatur ist so abstoßend, dass ihre Präsenz auf -6 sinkt. Dies sollte jedoch als Präsenz von +3 behandelt werden, wenn das Tier versucht, einen Gegner zu erschrecken oder einzuschüchtern.
+
+**Stimmnachahmung:** Die Kreatur ist fähig, andere Geräusche nachzuahmen, wie etwa eine menschliche Stimme. Erhöhe Kommunikation auf 0 (wenn negativ) oder erhöhe sie um 1. Sie versteht die Bedeutung der Laute, die sie von sich gibt, nicht, es sei denn, die Kreatur hat Intelligenz statt Gerissenheit, in welchem Fall die Kreatur Lebende Sprache 3 erwirbt. Beachte, dass ein Magus, der sich in eine Kreatur mit dieser Eigenschaft verwandelt hat, nicht die präzisen und komplexen Laute bilden kann, die zum Zaubern erforderlich sind.
+
+**Rudeltier:** Diese Kreaturen können als ausgebildete Gruppe kämpfen, wenn ein Rudelführer anwesend ist. Ist der Rudelführer nicht anwesend, können sie dennoch als unausgebildete Gruppe kämpfen.
+
+**Rudel-/Herdenführer:** Addiere 1 zur Kommunikation und gewähre Führung 5 (eigene Art).
+
+**Verfolgungsjäger:** Das Tier jagt aktiv seine Beute, indem es entweder deren Fährte verfolgt oder sie hetzt. Gewährt Jagen 4 (Beute) und eine zusätzliche Erschöpfungsstufe. Die Spezialisierung des Tiers für Raufen wechselt zu einer der natürlichen Waffen des Tiers.
+
+**Spitze Ohren:** Addiere 1 zur Wahrnehmung und +3 auf Würfe, die das Gehör betreffen.
+
+**Panzer:** Die Kreatur ist von einem schützenden Panzer umgeben. Gewährt +4 auf Schutz, aber die Kreatur erleidet einen Malus von -3 auf alle Würfe, die schnelle oder wendige Bewegung betreffen.
+
+**Geschickter Kletterer:** Addiere +3 auf alle Würfe, die Klettern betreffen.
+
+**Glitschig:** Diese Kreatur hat +6 auf Verteidigungswürfe gegen Greifangriffe. Diese Eigenschaft kann mehrfach genommen werden; der Bonus steigt bei jeder weiteren Wahl um +3.
+
+**Stacheln:** Die Kreatur ist mit Stacheln bedeckt; diese gewähren einen Bonus von +1 auf Schutz. Wenn ein Gegner die Kreatur mit einem Biss-, Klauen- oder Faustangriff trifft, verursacht er Schaden wie normal, erleidet aber seinerseits +5 Schaden. Manche Kreaturen haben Giftstacheln (siehe Giftig, unten), in welchem Fall der eigene Angriffsvorteil des Angreifers nur zur Bestimmung des Erfolgs des Giftgegenangriffs gegen ihn verwendet wird.
+
+**Furchtsam:** Subtrahiere 1 von Präsenz; gewähre Schleichen 4 (Verstecken) und Aufmerksamkeit 4 (Raubtiere). Furchtsame Kreaturen haben normalerweise keine natürlichen Waffen.
+
+**Unermüdlich:** Die Kreatur erhält zwei zusätzliche Erschöpfungsstufen.
+
+**Dickes Fell/Dicke Schuppen:** Addiere 1 auf Schutz; diese Eigenschaft kumuliert mit der Tugend Zäh und der Eigenschaft Zähes Fell.
 
 **Zähes Fell:** Addiere 2 auf Schutz; diese Eigenschaft kumuliert mit der Tugend Zäh und der Eigenschaft Dickes Fell.
 
-**Zusätzliche natürliche Waffen:** Erhalte ein zusätzliches Paar natürlicher Waffen, wie Hörner/Geweih, Zähne/Hauer, Klauen oder Hufe. Nur ein Satz Waffen kann in jeder Kampfrunde verwendet werden. Diese Eigenschaft kann mehrfach genommen werden.
+**Giftig:** Einer der Angriffe der Kreatur (gewöhnlich der Biss) injiziert auch Gift in die verursachten Wunden. Vergleiche den Angriffsvorteil der Kreatur mit dem Schutz des Opfers (nicht der Absorption). Ist der Vorteil der Kreatur höher, dann erleidet das Opfer die Wirkung des Gifts, unabhängig davon, ob der Biss eine tatsächliche Wunde verursacht. Der Schwierigkeitsgrad, um Giftschaden zu vermeiden, variiert von 3 bis 15 (siehe ArMDE, [Seite 180](<Ars Magica Definitive Edition Basisregeln.md#gifte>)).
+
+**Stimmgewaltig:** Die Kreatur kann beeindruckende Lautäußerungen von sich geben, wie ein kraftvolles Brüllen oder Heulen, schönen Vogelgesang oder Ähnliches. Kommunikation wird auf 0 erhöht (wenn negativ) oder um 1 erhöht; gewähre Musik 3. Diese Eigenschaft kann zweimal für besonders beeindruckende Stimmfähigkeit genommen werden, wobei Musik auf 5 steigt.
 
 ### 5. Kampfwerte
 
@@ -1707,38 +1707,38 @@ Kampfwerte werden wie üblich berechnet (siehe ArMDE, [Seite 171](<Ars Magica De
 > Bei der Bestimmung der durchschnittlichen Lebensdauer einer Kreatur ist strikte biologische Genauigkeit im Mythischen Europa nicht erforderlich. Die meisten kleinen Tiere haben eine durchschnittliche Lebensdauer von unter zehn Jahren.
 
 > #### Beispiel einer Tiererschaffung: Bär
->
+> 
 > Ein Bär ist ein Klauentier der Größe +2. Der Spielleiter möchte, dass er stark und zäh ist, aber vielleicht etwas langsam und ungeschickt. Er kauft Verbesserte Eigenschaften zweimal und erhält 12 zusätzliche Eigenschaftspunkte (weil der Bär Größe +2 hat), für insgesamt 19. Diese werden wie folgt verteilt: Stä +2, Aus +4, Ges +2, Sck +2. Nach den Anpassungen für die Größe hat der Bär Stä +6 und Sck 0.
->
+> 
 > Der Spielleiter gibt dem Bären die Tugenden Zäh und Wildheit und nimmt die Kleinen Fehler Gierig und Zurückgezogen. Er wählt folgende Eigenschaften für den Bären: Aggressiv, Zusätzliche natürliche Waffen (Biss), Greifen, Verfolgungsjäger, Zäh, Imponierendes Äußeres, Große Klauen und Zähes Fell. Der Spielleiter beschließt auch, dem Bären eine zusätzliche Fertigkeit zu geben: Schwimmen. Die endgültigen Werte des Bären sehen wie folgt aus:
->
-> **Absorption:** +9
->
+> 
 > **Eigenschaften:** Ger +1, Wah 0, Prä 0, Kom -5, Stä +6, Aus +4, Ges +2, Sck 0
->
-> **Eigenschaften:** Aggressiv, Zusätzliche natürliche Waffen (Biss), Schnellläufer, Greifen, Verfolgungsjäger, Zäh, Imponierendes Äußeres, Große Klauen, Zähes Fell
->
-> **Erschöpfungsstufen:** OK, 0/0, -1/-1, -3, -5, Bewusstlos
->
-> **Fertigkeiten:** Athletik 3 (Sprinten), Aufmerksamkeit 3 (Beute), Raufen 5 (Klauen), Jagen 4 (Hirsche), Überleben 5 (Nahrungssuche), Schwimmen 3 (gegen die Strömung)
+> 
 > **Größe:** +2
->
-> **Persönlichkeitseigenschaften:** Tapfer +3, Träge +3, Aggressiv +2
->
-> **Reputationen:** Blutrünstig (lokal) 2 **Kampf:**
->
-> *Klauen:* Init 0, Angriff +13, Verteidigung +9, Schaden +10
->
-> *Zähne:* Init 0, Angriff +10, Verteidigung +6, Schaden +7
->
-> *Greifen:* Init 0, Angriff +7, Verteidigung +5, Schaden n/v
->
+> 
 > **Selbstvertrauenswert:** 1 (3)
->
+> 
 > **Tugenden und Fehler:** Wildheit (wenn verletzt), Verbesserte Eigenschaften (x2), Zäh, Gierig (Klein), Zurückgezogen
->
+> 
+> **Eigenschaften:** Aggressiv, Zusätzliche natürliche Waffen (Biss), Schnellläufer, Greifen, Verfolgungsjäger, Zäh, Imponierendes Äußeres, Große Klauen, Zähes Fell
+> 
+> **Persönlichkeitseigenschaften:** Tapfer +3, Träge +3, Aggressiv +2
+> 
+> **Reputationen:** Blutrünstig (lokal) 2 **Kampf:**
+> 
+> *Klauen:* Init 0, Angriff +13, Verteidigung +9, Schaden +10
+> 
+> *Zähne:* Init 0, Angriff +10, Verteidigung +6, Schaden +7
+> 
+> *Greifen:* Init 0, Angriff +7, Verteidigung +5, Schaden n/v
+> 
+> **Absorption:** +9
+> 
+> **Erschöpfungsstufen:** OK, 0/0, -1/-1, -3, -5, Bewusstlos
+> 
 > **Wundabzüge:** -1 (1-7), -3 (8-14), -5 (15-21), Kampfunfähig (22-28)
->
+> 
+> **Fertigkeiten:** Athletik 3 (Sprinten), Aufmerksamkeit 3 (Beute), Raufen 5 (Klauen), Jagen 4 (Hirsche), Überleben 5 (Nahrungssuche), Schwimmen 3 (gegen die Strömung)
 
 > ### Sagenhafte Tiere
 >
@@ -1801,26 +1801,26 @@ Criamons Gefolgsleute akzeptieren nicht, dass sie anderen Menschen überlegen si
 Criamons Gefolgsleute haben sich der Suche nach der Antwort verschrieben. Sie erwerben Wissen, um mögliche Antworten zu formulieren. Sie suchen Weisheit, um die Qualität der gefundenen Informationen beurteilen zu können. Die Suche nach der Lösung des Enigmas mag viele Jahrhunderte dauern. In der Zwischenzeit leben Criamon-Magi so rechtschaffen wie möglich. Sie glauben, dass ein verderbter Geist die Antwort wohl kaum begreifen kann.
 
 > ### Kernfakten
->
-> **Bevorzugte Tribunale:** Die Hohen Alpen, aber Gelege finden sich in sechs weiteren. Teile des Hauses fühlen sich in muslimischen Ländern besonders wohl.
->
-> **Domus Magna**: Die Höhle der Zuckenden Schatten im Tribunal der Hohen Alpen beherbergt viele der älteren Mitglieder des Hauses. Ihre ansässigen Magi, 12 lebende und zahlreiche tote, werden auch das Zentrale Gelege genannt.
->
+> 
 > **Mitglieder**: Das Haus hat 94 lebende Mitglieder, aufgeteilt in sieben Gruppen, die Gelege genannt werden. Ein Gelege besteht aus allen Criamon-Magi eines Tribunals. In den frühen Jahren des Ordens lebte jedes Gelege als ein Konvent und folgte einem einzigartigen Lebensstil und einer eigenen Reihe von Einweihungen, Pfad genannt. Im Jahr 1220 hat jedes Gelege noch starke Verbindungen zu seinem ursprünglichen Pfad, auch wenn alle bis auf eines Mitglieder anderer Pfade haben. Jedes Gelege hat noch immer einen Konvent, der als sein Zentrum gilt, aber einige davon sind keine Hauskonvente mehr. Manche Magi sind Wanderer: Sie gehören zu einem Gelege, leben aber nicht mit anderen Criamon-Magi zusammen. Diese Magi, meist jung, leben in Konventen mit gemischten Häusern und besuchen ihre Gelege gelegentlich, um ihre Erkenntnisse weiterzugeben und Unterweisung zu empfangen. Zwei Pfade haben kein Gelege.
->
-> **Motto**: *Die Innere Welt ist die Äußere Welt*. Sollten die Mitglieder des Hauses jemals einen Konsens über die Bedeutung des Mottos erreichen, werden sie ein neues wählen.
->
+> 
+> **Domus Magna**: Die Höhle der Zuckenden Schatten im Tribunal der Hohen Alpen beherbergt viele der älteren Mitglieder des Hauses. Ihre ansässigen Magi, 12 lebende und zahlreiche tote, werden auch das Zentrale Gelege genannt.
+> 
 > **Prima**: Muscaria, filia Demetrius. Die Rolle der Prima besteht darin, ihre Hausgefährten zu unterstützen, indem sie weltliche Aufgaben verwaltet, damit diese nicht von der Suche nach dem Enigma abgelenkt werden. Sie ist jung, pragmatisch und verabscheut Verschleierungen.
->
+> 
+> **Bevorzugte Tribunale:** Die Hohen Alpen, aber Gelege finden sich in sechs weiteren. Teile des Hauses fühlen sich in muslimischen Ländern besonders wohl.
+> 
+> **Motto**: *Die Innere Welt ist die Äußere Welt*. Sollten die Mitglieder des Hauses jemals einen Konsens über die Bedeutung des Mottos erreichen, werden sie ein neues wählen.
+> 
 > **Symbol**: Die Schleife des Unendlichen im Auge der Zeit ist das aktuelle Symbol des Hauses. Es ist eine Kurzform des älteren Symbols, einer Kette in Form einer Acht um ein Paar Hände. Diese stellten die gebundenen Handgelenke der griechischen Göttin Ananke dar. Die Griechen beteten Ananke, die Göttin der Unausweichlichkeit, nie an, weil sie nicht wählen konnte, ihren Verehrern Gunst zu erweisen. Einige Criamon-Geister haben schuppige Male an ihren Handgelenken: Diese stellten die Windungen des Kronos dar, der griechischen Verkörperung der Zeit in Schlangengestalt.
 
 > ### Berühmte Magi
->
-> **Abdkypris** entdeckte die Verbindungen zwischen den Überzeugungen seines Hauses und dem Sufismus.
+> 
 > **Juliasta** war als Nachfolgerin des ersten Gründers, der aus dem Amt schied, die erste Prima überhaupt eines Hauses. Sie verbreitete die Überzeugungen des Hauses und vervollständigte dessen Wissen über die Künste.
->
+> 
 > **Vederis** schrieb *Die Reisen des Fedoso*, ein klassisches Werk esoterischer Gelehrsamkeit.
->
+> 
+> **Abdkypris** entdeckte die Verbindungen zwischen den Überzeugungen seines Hauses und dem Sufismus.
 
 ## Der Gründer
 
@@ -1849,42 +1849,42 @@ Empedokles glaubte, die Zeit setze sich ewig in Zyklen fort. Er sah dies als Gar
 Die Zeit ist ein Kreis, also hat sie keinen Anfang, aber der Erklärung halber stelle man sich vor, dass das Universum als eine riesige Sphäre undifferenzierter Materie beginnt. Diese Sphäre wird durch die Kraft der Harmonie zusammengehalten. Das Haus nennt diesen Zustand des Universums den Spharios. Die Zeit beginnt, wenn Streit, die trennende Kraft, zum Spharios kommt und Veränderung bringt. Streit und Veränderung nehmen im Laufe der Zeit zu. Der Spharios teilt sich in die vier Elemente. Während der Streit zunimmt, brauchen die vier Elemente Tausende von Jahren, um sich in zunehmend komplexen Mustern zu vermischen und alles zu erschaffen. Dann entsteht einfaches Leben als umherstreifende, unabhängige Organe. Im Laufe der Zeit verschmelzen diese Organe und bilden komplexe Organismen. Die zunehmende Komplexität des Universums und des Lebens darin setzt sich über unzählige Jahrtausende fort, bis die Umgebung zu chaotisch wird, um Leben zu ermöglichen, und die Lebensformen zu inkohärent werden, um ganz zu bleiben. Das Leben erlischt. Das Universum versinkt in einem brodelnden Mahlstrom vollständigen Streits: dem Wirbel des Chaos. Dann wirkt die Harmonie auf den Wirbel ein. Sie zieht Materie zu differenzierten Klumpen zusammen. Die Dinge werden zunehmend eigenständig, und Leben entsteht, sobald die Umgebung es tragen kann. Über Äonen hinweg wird jede Generation geringfügig einfacher und reiner. Schließlich wird die Umgebung
 
 > ### Glossar
->
-> **Alam**: Ein mystischer Zustand, der so weit vom normalen menschlichen Leben entfernt ist, dass seine Verbindung zu den vier Sphären nur auf ungeprüfte Weise besteht.
->
-> **Allee:** Die Art und Weise, wie ein Criamon-Magus eine Mysterientugend erlangt, wird die Allee jener Tugend genannt.
->
-> **Axis Magica:** Die Regio, in der die Höhle der Zuckenden Schatten liegt.
->
-> **Enigma:** Criamons letztes Rätsel, das seine Nachkommen lösen sollen: „Wie können wir alle dem Kreislauf der Zeit entkommen?"
->
-> **Entrückung**: Was Criamon-Magi anstelle des Sterbens tun. Variiert je nach Pfad.
->
-> **Gelege:** Ursprünglich die Studiengruppe eines Pfades. Heute die Criamon-Magi eines bestimmten Tribunals.
->
-> **Gorgiasten**: Magi, die Haus Criamon verlassen haben, weil sie seine Überzeugungen nicht mehr teilen.
->
-> **Harmonie**: Die anziehende Kraft. Eine der beiden großen Kräfte des Universums.
->
-> **Die Hypostase**: Der Ort außerhalb des Universums, den Criamon-Magi zu erreichen streben. Von vielen anderen Magi lose als „Zwielicht" bezeichnet.
->
-> **Inspirato:** Der Ozean magischer Energie, der über die Erde wogt und das Zaubern ermöglicht.
->
-> **Pfad:** Ein Forschungsgebiet, ein Wertesystem und der daraus entstehende Lebensstil. Jeder Pfad gewährt unterschiedliche Mysterientugenden.
->
-> **Rechtes Handeln:** Moralische Korrektheit.
->
-> **Spharios**: Die Sphäre der vollkommenen Harmonie. Das Universum am Extrem der Harmonie im Kreislauf der Zeit.
->
-> **Station**: Ein Ort deutlich gesteigerter Weisheit auf einem Pfad, dargestellt durch den Erwerb einer Mysterientugend.
->
-> **Stigma:** Ein Zeichen auf der Haut, ähnlich einer Tätowierung, das ein Stück geistiger Entwicklung darstellt.
->
-> **Streit**: Die trennende Kraft. Eine der beiden großen Kräfte des Universums.
-> **Unsterbliche:** In der Kosmologie von Haus Criamon ein vollkommenes Volk, das in die materielle Welt fiel. Magi, oder vielleicht alle Menschen, sind reinkarnierte Unsterbliche.
->
+> 
 > **Verfälschung:** Eine Kreatur oder ein Ort, die/der aus den psychischen Rückständen eines Magus erschaffen wurde, insbesondere eines solchen, der ins Endgültige Zwielicht eingetreten ist.
->
+> 
+> **Rechtes Handeln:** Moralische Korrektheit.
+> 
+> **Allee:** Die Art und Weise, wie ein Criamon-Magus eine Mysterientugend erlangt, wird die Allee jener Tugend genannt.
+> 
+> **Alam**: Ein mystischer Zustand, der so weit vom normalen menschlichen Leben entfernt ist, dass seine Verbindung zu den vier Sphären nur auf ungeprüfte Weise besteht.
+> 
+> **Axis Magica:** Die Regio, in der die Höhle der Zuckenden Schatten liegt.
+> 
+> **Gelege:** Ursprünglich die Studiengruppe eines Pfades. Heute die Criamon-Magi eines bestimmten Tribunals.
+> 
+> **Enigma:** Criamons letztes Rätsel, das seine Nachkommen lösen sollen: „Wie können wir alle dem Kreislauf der Zeit entkommen?"
+> 
+> **Gorgiasten**: Magi, die Haus Criamon verlassen haben, weil sie seine Überzeugungen nicht mehr teilen.
+> 
+> **Harmonie**: Die anziehende Kraft. Eine der beiden großen Kräfte des Universums.
+> 
+> **Die Hypostase**: Der Ort außerhalb des Universums, den Criamon-Magi zu erreichen streben. Von vielen anderen Magi lose als „Zwielicht" bezeichnet.
+> 
+> **Unsterbliche:** In der Kosmologie von Haus Criamon ein vollkommenes Volk, das in die materielle Welt fiel. Magi, oder vielleicht alle Menschen, sind reinkarnierte Unsterbliche.
+> 
+> **Inspirato:** Der Ozean magischer Energie, der über die Erde wogt und das Zaubern ermöglicht.
+> 
+> **Pfad:** Ein Forschungsgebiet, ein Wertesystem und der daraus entstehende Lebensstil. Jeder Pfad gewährt unterschiedliche Mysterientugenden.
+> 
+> **Entrückung**: Was Criamon-Magi anstelle des Sterbens tun. Variiert je nach Pfad.
+> 
+> **Spharios**: Die Sphäre der vollkommenen Harmonie. Das Universum am Extrem der Harmonie im Kreislauf der Zeit.
+> 
+> **Station**: Ein Ort deutlich gesteigerter Weisheit auf einem Pfad, dargestellt durch den Erwerb einer Mysterientugend.
+> 
+> **Stigma:** Ein Zeichen auf der Haut, ähnlich einer Tätowierung, das ein Stück geistiger Entwicklung darstellt.
+> 
+> **Streit**: Die trennende Kraft. Eine der beiden großen Kräfte des Universums.
 
 ### Der Fall der Unsterblichen und das Gebot des Rechten Handelns
 
@@ -1893,10 +1893,6 @@ Empedokles glaubte, der Spharios sei in Streit verfallen, weil er persönlich sc
 Infolgedessen zwangen die grundlegenden Gesetze des Universums, die das Haus Notwendigkeit nennt, die Unsterblichen für drei Ewigkeiten in den Kreislauf der Zeit. Die Unsterblichen wurden in niedrigen Formen wiedergeboren. Durch Jahrtausende der Wiedergeburt und des Leidens konnte jeder seine Reinheit wiedererlangen. Dies würde den Streit beenden, das Universum wieder vereinen und den Spharios neu erschaffen.
 
 Empedokles glaubte, der Prozess der Sühne werde schneller enden, wenn die Unsterblichen auf eine Weise lebten, die keinen weiteren Schaden anrichtete. Er war Vegetarier, weil er glaubte, die Menschen äßen regelmäßig Tiere, die Reinkarnationen ihrer Verwandten seien. Er weigerte sich, Geschlechtsverkehr zu haben, weil er es für falsch hielt, weitere Menschen zu erschaffen, die leiden müssten. Empedokles war auch Pazifist und Demokrat. Empedokles lehnte die Königswürde seiner Heimatstadt ab und setzte stattdessen einen demokratischen Rat ein, der sich um die Bedürfnisse des Volkes kümmerte.
-
-#### Die Feensphäre
-
-Einige Criamon-Magi glauben, dass das Feenreich eine Spiegelung der sterblichen Welt ist, andere glauben, es sei der gegenzyklische Alam. Wenn es die weltliche Welt spiegelt, lohnt es sich möglicherweise nicht, es zu erforschen, da alles, was es enthält, bereits in der sterblichen Welt vorhanden ist. Andere Criamon denken, das Feenreich sei keine Spiegelung, oder dass ein vereinfachtes Abbild grundlegende Prinzipien klarer ausdrücken könnte, und studieren es daher.
 
 #### Das Gebot der Flucht und das Enigma
 
@@ -1916,6 +1912,10 @@ Criamon verbleibt teilweise in der Zeit und hält den Weg des Zwielichts offen. 
 > 
 > In eurer eigenen Saga könnten die Criamon-Magi allerdings Recht haben.
 
+#### Die Hypostase
+
+Die Hypostase, auch Zwielicht oder der Alam der Entrückung genannt, ist das, was außerhalb der Zeit liegt. Criamon versicherte seinen Gefolgsleuten, dass es ein wunderbarer Ort sei und dass er ihre Fähigkeit gewährleiste, dort die endgültige Ruhe zu finden. Criamon-Magi glauben, dass jene, die ins Endgültige Zwielicht fallen, die Randgebiete der Hypostase betreten. Wenn sie unreine Geister haben, bedürfen sie einer langwierigen und schmerzhaften Anpassung, bevor sie sie vollständig betreten können. Dies ist einer der Beweggründe für das ethische Verhalten der Criamon-Magi. Criamon-Magi nennen jene, von denen man annimmt, dass sie in der Hypostase leben, die „tangentialen Magi".
+
 #### Der Gegenzyklische Alam
 
 Wenn die Zeit kreisförmig ist, existiert alle Zeit gleichzeitig für einen Beobachter außerhalb des Kreises. Das bedeutet, dass das gegenwärtige Universum, das auf den Wirbel des Chaos zusteuert, gleichzeitig mit der Zeit des Universums existiert, in der die Harmonie zunimmt. Einige Criamon-Magi behaupten, in den gegenzyklischen Alam gereist zu sein. Sie irren sich, aber es gibt keine Möglichkeit, das zu beweisen, ohne außerhalb der Zeit zu sein.
@@ -1923,6 +1923,22 @@ Wenn die Zeit kreisförmig ist, existiert alle Zeit gleichzeitig für einen Beob
 Die Mehrheit der Charaktere, die behaupten, den gegenzyklischen Alam besucht zu haben, haben dies während unkontrollierter Zwielicht-Erfahrungen getan. Einige wenige andere Magi behaupten, mit Kreaturen aus dem Gegenzyklus gesprochen oder gegen sie gekämpft zu haben. Wer die Existenz eines gegenzyklischen Alams bezweifelt, hält die Reiseerfahrungen, die Magi berichten, für durch das Zwielicht hervorgerufene Halluzinationen und die Kreaturen, die gegenzyklisch erscheinen, für Verfälschungen (psychische Rückstände, unten beschrieben). Die geistigen Rückstände älterer Criamon-Magi, so behaupten sie, täuschen jüngere Criamon-Magi.
 
 Criamon-Magi sind sich uneins darüber, was der gegenzyklische Alam ist. Manche sagen, er sei völlig weltlich und es fehle der für Magie notwendige Streit. Andere meinen, im gegenzyklischen Alam sei es leichter zu erschaffen als zu zerstören. Sie postulieren, der Alam der Formen sei der Gegenzyklus nahe der Wiederherstellung des Spharios, was die Magiesphäre gegenzyklisch mache. Einige meinen, das Feenreich sei gegenzyklisch. Manche behaupten, sie befänden sich bereits in der Zeit der steigenden Harmonie, oder es gebe nur ein einziges Universum, das zwischen den Extremen oszilliere, was die Diskussion enorm erschwert. Der Gegenzyklus der Zeit sollte etwa 45.000 Jahre dauern, sodass er viele seltsame Umgebungen enthalten könnte.
+
+#### Die Magiesphäre
+
+Mitglieder von Haus Criamon glauben, dass Magie in einem immateriellen Ozean um die Erde fließt und in einer prächtigen Flut um die Axis Magica wirbelt. Dieser Ozean, den sie den Inspirato nennen, sickert natürlich aus der Erde, bildet aber Wirbel unter astrologischen Einflüssen. Magie sammelt sich an Orten, an denen sie die Weltlichkeit der Erde abgetragen hat, an denen große Magie gewirkt wurde oder an denen Kreaturen, die sich vom Ozean nähren, gelebt haben. Dies sind die Auren. Manchmal konzentriert sich der Inspirato in Gegenständen und erschafft Vis.
+
+Empedokles behauptete, er sei aus der Harmonie geschleudert worden und habe sich dem Streit unterstellt. Magie ist die Kraft des Streits, dem Willen des Zaubernden unterworfen. Deshalb ist es möglich, mit Magie zu zerstören, aber nicht zu erschaffen, ohne Vis zu verbrauchen. Jede magische Handlung zieht das Universum von der Harmonie fort und bringt das Erlöschen des Lebens näher. Criamon-Magi planen, die Zeit zu verlassen, bevor das geschieht, und alle anderen mitzunehmen, weshalb sie den Einsatz von Magie nicht als böse betrachten.
+
+Die Magiesphäre und die Hypostase sind, so behaupten Criamon-Magi, nicht derselbe Ort. Criamon erklärte, die Hypostase sei die Struktur, die das Universum umschließt; sie befindet sich daher außerhalb des Universums. Die Magiesphäre wird als regulierter Ort, der mit der weltlichen Welt interagiert, wahrscheinlich im Wirbel aufgelöst. Vielen Magi fällt es am leichtesten, die Hypostase durch Magie zu erreichen. Einige Theoretiker anderer Häuser behaupten, das liege daran, dass die beiden nicht wirklich getrennt seien — dass die Hypostase den Fernen Landen Arkadiens, dem Höchsten Himmel oder der Tiefsten Hölle gleiche.
+
+#### Die Feensphäre
+
+Einige Criamon-Magi glauben, dass das Feenreich eine Spiegelung der sterblichen Welt ist, andere glauben, es sei der gegenzyklische Alam. Wenn es die weltliche Welt spiegelt, lohnt es sich möglicherweise nicht, es zu erforschen, da alles, was es enthält, bereits in der sterblichen Welt vorhanden ist. Andere Criamon denken, das Feenreich sei keine Spiegelung, oder dass ein vereinfachtes Abbild grundlegende Prinzipien klarer ausdrücken könnte, und studieren es daher.
+
+#### Die Hölle
+
+Manche Criamon-Magi befürchten, dass sie die Hölle verursacht haben, andere, dass sie deren Bewohner sind. Oberflächlich betrachtet ist die Hölle voller kleiner, böser Halbgötter, die die Menschen in der Zeit halten wollen. Criamon-Magi glauben, dass sie sich ewig reinkarnieren; wenn das Haus die Zeit also nicht verlassen kann, bevor die chaotische Zersetzung der Materie kurz vor dem Erlöschen des Lebens eintritt, müssen sie Formen annehmen, die in jener Umgebung leben können. Dämonen könnten daher zukünftige Leben von Magi sein. Vielleicht werden nur die Erleuchtetsten in diesem Zyklus der Zeit entkommen, und die Hölle, die sich mit der Annäherung des Wirbels bildet, füllt sich mit den Geistern, die in dieser Iteration nicht gerettet werden konnten. Sie könnten aus Neid gegen Magi vorgehen oder aus Rache dafür, verlassen worden zu sein.
 
 #### Der Himmel
 
@@ -1933,22 +1949,6 @@ Criamon-Magi sind geteilter Meinung über Jesus. Einige sind Muslime oder Christ
 > Criamon-Magi stimmen nicht alle in einer einzigen Kosmologie überein, aber die in diesem Kapitel dargestellte Sichtweise ist typisch. Magi anderer Häuser, das sei angemerkt, stimmen den Criamon-Überzeugungen nicht zu. Die Sicht des Hauses darauf, wie das Universum wirklich funktioniert, färbt die Reaktionen seiner Mitglieder auf die Vertreter der Sphären, denen sie in Geschichten begegnen.
 > 
 > Criamon-Magi sind vielen seltsamen Seinszuständen begegnet und haben die Existenz vieler weiterer vermutet. Sie verwenden den Begriff Alam für mystische Zustände, die so weit von der weltlichen Welt entfernt sind, dass ihre Zuordnung zu den vier Sphären umstritten ist. Zwei Alams, die Hypostase und der gegenzyklische Alam, spielen grundlegende Rollen in der Criamon-Kosmologie.
-
-#### Die Hölle
-
-Manche Criamon-Magi befürchten, dass sie die Hölle verursacht haben, andere, dass sie deren Bewohner sind. Oberflächlich betrachtet ist die Hölle voller kleiner, böser Halbgötter, die die Menschen in der Zeit halten wollen. Criamon-Magi glauben, dass sie sich ewig reinkarnieren; wenn das Haus die Zeit also nicht verlassen kann, bevor die chaotische Zersetzung der Materie kurz vor dem Erlöschen des Lebens eintritt, müssen sie Formen annehmen, die in jener Umgebung leben können. Dämonen könnten daher zukünftige Leben von Magi sein. Vielleicht werden nur die Erleuchtetsten in diesem Zyklus der Zeit entkommen, und die Hölle, die sich mit der Annäherung des Wirbels bildet, füllt sich mit den Geistern, die in dieser Iteration nicht gerettet werden konnten. Sie könnten aus Neid gegen Magi vorgehen oder aus Rache dafür, verlassen worden zu sein.
-
-#### Die Hypostase
-
-Die Hypostase, auch Zwielicht oder der Alam der Entrückung genannt, ist das, was außerhalb der Zeit liegt. Criamon versicherte seinen Gefolgsleuten, dass es ein wunderbarer Ort sei und dass er ihre Fähigkeit gewährleiste, dort die endgültige Ruhe zu finden. Criamon-Magi glauben, dass jene, die ins Endgültige Zwielicht fallen, die Randgebiete der Hypostase betreten. Wenn sie unreine Geister haben, bedürfen sie einer langwierigen und schmerzhaften Anpassung, bevor sie sie vollständig betreten können. Dies ist einer der Beweggründe für das ethische Verhalten der Criamon-Magi. Criamon-Magi nennen jene, von denen man annimmt, dass sie in der Hypostase leben, die „tangentialen Magi".
-
-#### Die Magiesphäre
-
-Mitglieder von Haus Criamon glauben, dass Magie in einem immateriellen Ozean um die Erde fließt und in einer prächtigen Flut um die Axis Magica wirbelt. Dieser Ozean, den sie den Inspirato nennen, sickert natürlich aus der Erde, bildet aber Wirbel unter astrologischen Einflüssen. Magie sammelt sich an Orten, an denen sie die Weltlichkeit der Erde abgetragen hat, an denen große Magie gewirkt wurde oder an denen Kreaturen, die sich vom Ozean nähren, gelebt haben. Dies sind die Auren. Manchmal konzentriert sich der Inspirato in Gegenständen und erschafft Vis.
-
-Empedokles behauptete, er sei aus der Harmonie geschleudert worden und habe sich dem Streit unterstellt. Magie ist die Kraft des Streits, dem Willen des Zaubernden unterworfen. Deshalb ist es möglich, mit Magie zu zerstören, aber nicht zu erschaffen, ohne Vis zu verbrauchen. Jede magische Handlung zieht das Universum von der Harmonie fort und bringt das Erlöschen des Lebens näher. Criamon-Magi planen, die Zeit zu verlassen, bevor das geschieht, und alle anderen mitzunehmen, weshalb sie den Einsatz von Magie nicht als böse betrachten.
-
-Die Magiesphäre und die Hypostase sind, so behaupten Criamon-Magi, nicht derselbe Ort. Criamon erklärte, die Hypostase sei die Struktur, die das Universum umschließt; sie befindet sich daher außerhalb des Universums. Die Magiesphäre wird als regulierter Ort, der mit der weltlichen Welt interagiert, wahrscheinlich im Wirbel aufgelöst. Vielen Magi fällt es am leichtesten, die Hypostase durch Magie zu erreichen. Einige Theoretiker anderer Häuser behaupten, das liege daran, dass die beiden nicht wirklich getrennt seien — dass die Hypostase den Fernen Landen Arkadiens, dem Höchsten Himmel oder der Tiefsten Hölle gleiche.
 
 ## Praktiken & Überzeugungen
 
@@ -2174,6 +2174,14 @@ Das Zentrale Gelege ist der Hüter des Wissensschatzes des Hauses. Seine Hauptau
 
 Die Prima des Hauses hat viele Pflichten. Sie führt den Rat aus Magi und gewählten Konventsmitgliedern, der die Höhle der Zuckenden Schatten regiert. Sie koordiniert die Aktivitäten des Hauses und ist dessen Sprecherin gegenüber den anderen Häusern. Die meisten Primi betreiben auch Forschung. Die Prima steigt durch ein kompliziertes Ritual in die Rolle auf, während dessen viele Criamon-Magi in eine gemeinschaftliche Vision eintreten.
 
+#### Die Tötung der Prima
+
+Wenn die Prima das Endgültige Zwielicht nahen fühlt, versammeln sich die Mitglieder von Haus Criamon in der Höhle der Zuckenden Schatten, um sie zu töten. Eine Prozession windet sich zur neunten Ebene der Regio, wo ein Nicht-Criamon sie zeremoniell tötet. Ihr Geist schwebt dann frei empor und verkündet seine Absicht, nicht durch das Tor in die Hypostase zu schreiten. Er wählt stattdessen, in der sterblichen Welt zu bleiben und das Haus zu hüten, bis das Enigma beantwortet ist.
+
+Jene anwesenden Magi mit einem Wert von 3 oder mehr in Enigmatischer Weisheit treten dann in eine gemeinschaftliche Trance ein, die von unbegreiflichen Bildern erfüllt ist. Wenn einer glaubt, die Bilder deuteten darauf hin, dass er die Rolle annehmen sollte, erhebt er sich und verkündet dies. Der Magus wird von seinen Sodales akklamiert. Die einzige weitere Formalität der Amtseinsetzung besteht darin, Briefe an jene Criamon-Magi zu senden, die nicht am Ritual teilnehmen konnten, und an die Primi der anderen Häuser.
+
+Das Haus versucht, die Zeit zwischen dem Tod und dem Aufstieg eines Primus zu begrenzen. Man glaubt, die Hypostase sei unzugänglich, wenn es keinen lebenden Primus gibt. Daher glaubt man, dass Magi, die in vorübergehendes Zwielicht gefallen sind, nicht zurückkehren können, solange das Amt vakant ist, und dass Magi, deren Umstände sie normalerweise ins Endgültige Zwielicht zwingen würden, in solchen Zeiten dort keinen Schutz finden können; sie sterben schlicht.
+
 #### Berühmte Primi
 
 Die Primi, die auf Criamon folgten, waren jünger und weniger mystisch, als Außenstehende gewöhnlich erwarten. Persönlichkeit und Begabungen der Primi scheinen die Krisen vorherzusagen, denen das Haus während ihrer Amtszeit gegenübersteht. Während des Schismakriegs zum Beispiel zog ein kampfbetonter Primus vom Pfad des Streits das Haus zur Höhle der Zuckenden Schatten zurück. Er bot Mitgliedern nichtkombattanter Häuser Zuflucht, von denen einige dem Haus danach beitraten und ungewöhnliche Criamon-Blutlinien begründeten. Drei vergangene Primi haben dem Haus besonders bedeutende Vermächtnisse hinterlassen.
@@ -2203,14 +2211,6 @@ Viele Faktoren verhindern die Wahl eines Magus, der die Primatsstellung aus Verl
 Bei fünf Gelegenheiten beanspruchte eine Person, die aus einem anderen Grund als der Teilnahme an den Beratungen anwesend war, das Primat. Drei dienten dem Haus bewundernswert. Der erste war ein Forscher namens Cato von Bonisagus. Er war in den Mysterien des Enigmas bewandert und ein großer Verfechter von Criamons Erkenntnissen. Die zweite, Diana von Merinita, war anwesend, um den vorherigen Primus zu töten. Ihre Annahme verursachte einen Sturm kosmologischer Spekulation, da Criamon-Magi annahmen, der Mörder befinde sich für immer in einem Zustand geistiger Verunreinigung. Auch sie diente dem Haus gut, und ihr Geist lehrt weiterhin jene Criamon, die an Feenkunde interessiert sind. Der dritte Primus, Johannes, war kein Magus; er war ein Notar im Dienst eines Quaesitors, der bei der Beratung anwesend war. Der Rest seines Hauses akzeptierte schließlich sein Primat. Johannes ernannte einen Magus, um mit Außenstehenden zu kommunizieren und in seinem Namen am Großtribunal teilzunehmen. Jenes Tribunal ratifizierte die Privilegien Criamons, die Entscheidung, die Hausbräuche wie die Tötung eines willigen Primus erlaubt. Johannes' Geist besteht fort und ist der Hausexperte für hermetische Rechtspräzedenzfälle.
 
 Die beiden „falschen Anwärter" erging es schlechter. Victor von Tytalus war ein Diabolist, der versuchte, seine Seele in der Hypostase zu verstecken. Unmittelbar nachdem er als Primus akklamiert worden war, warf er sich in die Hypostase und wurde zu Verfälschungen reduziert. Sagitar von Tremere entdeckte, dass die Rolle des Primus eine Form freiwilliger mystischer Knechtschaft ist, ein unwiderrufliches Angebot, dem Haus zu dienen. Sein kurzes Primat war von tragischen Zufällen erfüllt, die, einmal bewältigt, dem Haus zugutekamen. Sein Geist geistert durch die Höhle der Zuckenden Schatten, reuig und weit weiser durch seine Tortur.
-
-#### Die Tötung der Prima
-
-Wenn die Prima das Endgültige Zwielicht nahen fühlt, versammeln sich die Mitglieder von Haus Criamon in der Höhle der Zuckenden Schatten, um sie zu töten. Eine Prozession windet sich zur neunten Ebene der Regio, wo ein Nicht-Criamon sie zeremoniell tötet. Ihr Geist schwebt dann frei empor und verkündet seine Absicht, nicht durch das Tor in die Hypostase zu schreiten. Er wählt stattdessen, in der sterblichen Welt zu bleiben und das Haus zu hüten, bis das Enigma beantwortet ist.
-
-Jene anwesenden Magi mit einem Wert von 3 oder mehr in Enigmatischer Weisheit treten dann in eine gemeinschaftliche Trance ein, die von unbegreiflichen Bildern erfüllt ist. Wenn einer glaubt, die Bilder deuteten darauf hin, dass er die Rolle annehmen sollte, erhebt er sich und verkündet dies. Der Magus wird von seinen Sodales akklamiert. Die einzige weitere Formalität der Amtseinsetzung besteht darin, Briefe an jene Criamon-Magi zu senden, die nicht am Ritual teilnehmen konnten, und an die Primi der anderen Häuser.
-
-Das Haus versucht, die Zeit zwischen dem Tod und dem Aufstieg eines Primus zu begrenzen. Man glaubt, die Hypostase sei unzugänglich, wenn es keinen lebenden Primus gibt. Daher glaubt man, dass Magi, die in vorübergehendes Zwielicht gefallen sind, nicht zurückkehren können, solange das Amt vakant ist, und dass Magi, deren Umstände sie normalerweise ins Endgültige Zwielicht zwingen würden, in solchen Zeiten dort keinen Schutz finden können; sie sterben schlicht.
 
 ### Die aktuelle Prima
 
@@ -2294,6 +2294,14 @@ Die Alleen und Stationen allein genügen nicht, um neue Tugenden oder Kräfte zu
 
 Enigmatische Weisheit steht am Anfang jedes Pfades. Criamon-Lehrlinge lernen, Ereignisse und Gegenstände auf ungewöhnliche und intuitive Weise zu betrachten, gewöhnlich indem sie über 15 Rätsel zu den Künsten meditieren. Diese Schulung hilft ihnen, Verbindungen zwischen Konzepten zu finden und dieses Wissen in den Kontext des Enigmas zu stellen. Dies wiederum ermöglicht es Criamon-Magi, die Natur der Menschen, des Universums und der Bande zwischen ihnen auf eine Weise zu verstehen, die anderen Magi unbegreiflich ist. Sobald ein Magus die grundlegenden Elemente der Weisheit erfasst hat, kann er ein tieferes Verständnis entwickeln, indem er die Erkenntnisse anderer betrachtet, die durch Bücher, Diskussion oder mystische Erfahrungen übermittelt werden können.
 
+#### Symbolisches Verständnis
+
+Ein Criamon-Magus kann seinen Wert in Enigmatischer Weisheit nutzen, um subtile Symbole zu verstehen. Dies ermöglicht es Magi, arkane Ereignisse, verwirrende Situationen, Träume und Visionen zu deuten.
+
+Criamon-Magi können mit einem erfolgreichen Wurf auf Intelligenz + Enigmatische Weisheit gegen einen Schwierigkeitsgrad von 6 erkennen, welche Art von Lebenserfahrung hinter jedem der Stigmata eines anderen Magus steckt. Sie können mit einem Wurf auf Wahrnehmung + Enigmatische Weisheit gegen einen Schwierigkeitsgrad von sechs oder mehr feststellen, ob ein Charakter verzerrt wurde und wie schwer, und wenn sie einen Schwierigkeitsgrad von 12 übertreffen, verstehen sie in allgemeinen Zügen, welche Art von Lebenserfahrung die Verzerrung verursacht hat.
+
+Diese Fertigkeit hilft auch bei der Deutung von Träumen und Visionen. Sie gewährt keine übernatürlichen Visionen, aber viele Criamon haben auch jenen — separaten — Fehler.
+
 #### Labyrinth-Meditationen
 
 Criamon-Magi können ihre Konzentration verbessern, indem sie Labyrinth-Meditationen durchführen. Eine Labyrinth-Meditation ist ein nicht-magisches Ritual, bei dem der Magus langsam durch ein Labyrinth geht und dabei ein Problem betrachtet. Viele Kontemplationslabyrinthe sind einfache Bänder mit einem einzigen Pfad, der zu einem Zentrum und wieder hinaus führt. Einfache Kontemplationslabyrinthe können mit Zaubern niedriger Stufe erschaffen werden.
@@ -2303,14 +2311,6 @@ Der Geisteszustand des Magus bleibt eine Stunde nach dem Durchschreiten des Laby
 Der Magus muss mindestens einen Wert von eins in der benötigten Fertigkeit haben, bevor sie durch Labyrinth-Meditationen unterstützt werden kann. Meditationen verleihen den Gedanken und Handlungen des Magus Anmut, gewähren aber kein bewusstes Können. Ein Magus, der nicht schwimmen kann, kann zum Beispiel die durch die Meditation gegebene Klarheit des Denkens und Handelns nicht zum Schwimmen nutzen.
 
 Charaktere mit einem Wert von drei oder mehr in Enigmatischer Weisheit brauchen kein physisches Labyrinth; sie können im Kreis gehen und erzielen denselben Effekt. Jene mit einem Wert von sechs oder mehr brauchen nicht einmal zu gehen — sie können sich den Kreis vorstellen. Labyrinthrituale dauern sechzehn Stunden für Charaktere mit einem Wert von eins in Enigmatischer Weisheit. Die benötigte Zeit halbiert sich für jede Stufe, die sie erlangen. Charaktere mit kurzen Meditationszeiten können jedoch nicht mehrere Meditationen durchführen und die Boni aufbewahren oder stapeln.
-
-#### Symbolisches Verständnis
-
-Ein Criamon-Magus kann seinen Wert in Enigmatischer Weisheit nutzen, um subtile Symbole zu verstehen. Dies ermöglicht es Magi, arkane Ereignisse, verwirrende Situationen, Träume und Visionen zu deuten.
-
-Criamon-Magi können mit einem erfolgreichen Wurf auf Intelligenz + Enigmatische Weisheit gegen einen Schwierigkeitsgrad von 6 erkennen, welche Art von Lebenserfahrung hinter jedem der Stigmata eines anderen Magus steckt. Sie können mit einem Wurf auf Wahrnehmung + Enigmatische Weisheit gegen einen Schwierigkeitsgrad von sechs oder mehr feststellen, ob ein Charakter verzerrt wurde und wie schwer, und wenn sie einen Schwierigkeitsgrad von 12 übertreffen, verstehen sie in allgemeinen Zügen, welche Art von Lebenserfahrung die Verzerrung verursacht hat.
-
-Diese Fertigkeit hilft auch bei der Deutung von Träumen und Visionen. Sie gewährt keine übernatürlichen Visionen, aber viele Criamon haben auch jenen — separaten — Fehler.
 
 #### Zwielicht
 
@@ -2335,40 +2335,40 @@ Die Gefolgsleute des Pfads des Körpers neigen zu praktischen, nützlichen Erken
 > Gefolgsleute dieses Pfades haben oft Menschenaffen oder Äffchen als Vertraute. Es gilt als besonders glückverheißend, einen ägyptischen Pavian zu haben, weil das Wesen, das sowohl als Thoth als auch als Hermes bekannt ist, diese Gestalt annahm, als es in die Zeit herabstieg, um die Urväter der menschlichen Magie zu unterweisen.
 
 > ### Der Pfad des Körpers, symbolisch dargestellt
->
+> 
 > Die Einweihungsskripte für den Pfad des Körpers lauten wie folgt:
->
+> 
 > **Die Allee der Bezwingung des Fleisches und die Station des Vollkommenen Werkzeugs**
->
+> 
 > Zielstufe 21, als Große Tugend (Kleine Potenz in einem Aspekt von Corpus, darf Enigmatische Weisheit anstelle von Medizin und Chirurgie verwenden)
->
+> 
 > Skriptbonus +15: Große Einweihungsprüfung bestehend aus drei Kleinen Fehlern (Gelübde, den Körper nicht zu verunreinigen und ihn rechtschaffen zu nutzen, Schädliche Umstände bei Krankheit, Entstellt durch Stigmata) +9, sympathischer Bonus (ein vollständiger Jahreszyklus als Pflanze oder Ähnliches) +3, besondere Zeit und besonderer Ort (symbolische Wiedergeburt) +3
->
-> **Die Allee der Ruhe im Körper und die Schwelle der Körperlichen Entrückung**
->
-> Zielstufe 17, Große Tugend 21 (von sterblichen Gebrechen gereinigt), zweite Einweihung nach Mittlerer Einweihungsprüfung –4
->
-> Skriptbonus +12: Drei Questen zu legendären Orten +9, besondere Zeit und besonderer Ort +3
-> **Die Allee des Kugelspiegels und die Station des Mikrokosmos**
->
-> Zielstufe 15, Große Tugend 21 (Arkane Verbindungen zu den meisten Dingen), erste Einweihung nach Mittlerer Einweihungsprüfung –6
->
-> Skriptbonus +9: Psychodramatische Queste +3, Zeit des Mystagogen +3, besondere Zeit und besonderer Ort +3
->
+> 
 > **Die Allee des Trinkens der Winde der Inspiration und die Station der Geistigen Ernährung**
->
+> 
 > Siehe den Hinweis im einleitenden Abschnitt zu diesem Pfad, um zu bestimmen, ob diese als dritte Station und Vollkommene Bewegung als zweite erlangt wird.
->
+> 
 > Zielstufe 12, als Große Tugend 21 (ermöglicht Charakteren in hohen Auren, weder zu essen, zu trinken noch zu schlafen, und ersetzt das Langlebigkeitsritual), erste Einweihung nach Großer Einweihungsprüfung –9
->
+> 
 > Skriptbonus +6: Psychodramatische Visionen oder Kampf um die Sicherung eines Ortes (Queste) +3, besondere Zeit und besonderer Ort +3
->
+> 
 > **Die Allee des Winzigsten Samens und die Station der Vollkommenen Bewegungsökonomie**
->
+> 
 > Zielstufe 15, als Große Tugend 21 (vollkommen präzise Bewegung), zweite Einweihung nach Großer Einweihungsprüfung –6
->
+> 
 > Skriptbonus +9: Großer Fehler (Fromm) ersetzt Kleinen Fehler (Gelübde) +6, Zeit des Mystagogen +3
->
+> 
+> **Die Allee des Kugelspiegels und die Station des Mikrokosmos**
+> 
+> Zielstufe 15, Große Tugend 21 (Arkane Verbindungen zu den meisten Dingen), erste Einweihung nach Mittlerer Einweihungsprüfung –6
+> 
+> Skriptbonus +9: Psychodramatische Queste +3, Zeit des Mystagogen +3, besondere Zeit und besonderer Ort +3
+> 
+> **Die Allee der Ruhe im Körper und die Schwelle der Körperlichen Entrückung**
+> 
+> Zielstufe 17, Große Tugend 21 (von sterblichen Gebrechen gereinigt), zweite Einweihung nach Mittlerer Einweihungsprüfung –4
+> 
+> Skriptbonus +12: Drei Questen zu legendären Orten +9, besondere Zeit und besonderer Ort +3
 
 #### Die Allee der Bezwingung des Fleisches und die Station des Vollkommenen Werkzeugs
 
@@ -2377,38 +2377,6 @@ Verschiedene rituelle Einsetzungen helfen Magi, die erste Station des Pfads des 
 An der ersten Station des Pfads des Körpers erkennt der Magus, dass der Körper das vollkommene Werkzeug der hermetischen Magie ist, weil er für Magie geschaffen ist und die Magie ihrerseits für ihn geschaffen ist. Die genaue Untersuchung des Körpers durch den Magus ermöglicht die Entwicklung einer Kleinen Potenz in einem Aspekt der Kunst Corpus. Magi, die diese Station gefunden haben, sehen die inneren Verbindungen zwischen dem Körper und den magischen Energien, die er lenkt, und können daher ihr Verständnis magischer Ereignisse nutzen, um den Körper zu pflegen. Sie dürfen Enigmatische Weisheit anstelle von Chirurgie und Medizin bei Würfen einsetzen. Sie wissen auch instinktiv, ob ihr Körper krank ist und wo, obwohl sie die angemessene Behandlung möglicherweise nicht kennen.
 
 Eingeweihte dieser Station sind an den Lebensstil des Hauses gebunden (Gelübde) und finden es schwieriger, ihre Magie einzusetzen, wenn ihr Körper krank ist (Schädliche Umstände). Manche Krankheiten blockieren bestimmte mystische Effekte nicht; das übliche Beispiel lautet, dass Fieber Ignem-Zauber nicht einschränken, weil sie durch einen Überschuss feuriger Säfte verursacht werden. Wunden verhindern für sich genommen keinen Magieeinsatz, öffnen aber den Körper für Infektionen, die es möglicherweise tun.
-
-#### Die Allee der Ruhe im Körper und die Schwelle der Körperlichen Entrückung
-
-Ein Magus bereitet sich auf die letzte Station des Pfads des Körpers, seine Entrückung, vor, indem er seinen Geist darauf vorbereitet, vom mikrokosmischen Körper in seine parallele, makrokosmische Form überzugehen.
-
-Das Ritual wird an einem Ort und zu einer Zeit durchgeführt, an dem die Verbindung zwischen Körper und Universum besonders augenscheinlich ist. Die Axis Magica kann stattdessen dienen, doch das Haus bevorzugt es, dass seine Mitglieder weniger gut verstandene Verbindungen zwischen Körper und Universum erfahren.
-
-Eine historisch beliebte war der Zusammenfluss des Weißen und des Blauen Nils im Moment der Flut, der die erste Teilung der Arterien vom Herzen symbolisiert.
-
-Beim Ritual verzehrt der Magus mystische Darstellungen der vier Körpersäfte. Eine dieser Darstellungen befindet sich am Einweihungsort. Die anderen drei müssen durch Questen zu Orten beschafft werden, die ihrerseits so außergewöhnlich sind, dass sie als Einweihungsorte geeignet wären. Die geisterhaften Primi erinnern sich an die von früheren Reisenden auf dem Pfad genutzten Orte, ermutigen Magi aber, mindestens einen neuartigen Ort zu finden.
-
-Spielleiter sollten sicherstellen, dass diese legendären Orte auch für andere Spielercharaktere von Interesse sind. Die Darstellungen der Säfte enthalten Vis und können bei der Originären Forschung helfen. Sie befinden sich an seltsamen Schauplätzen, die mit alten Zivilisationen verbunden sind. Bizarre Ungeheuer, die antiken Magiern dienten, bewachen einige Orte.
-
-Jene, die diese Station erlangt haben, sich aber entscheiden, nicht aus der Welt zu scheiden, tun dies, weil sie glauben, dass ihre Fähigkeit, die physischen Strukturen des Universums zu verändern, ernsthaft eingeschränkt wird, wenn sie in die Entrückung eingehen. Magi entscheiden sich, zurückzubleiben, um an Projekten zu arbeiten, die ihre physische Anwesenheit erfordern, wie das Ausbilden von Lehrlingen, den Widerstand gegen tyrannische Herrscher, den Kampf gegen Dämonen und das Verfassen von Büchern.
-
-Solange sie verweilen, leben diese Magi in Körpern, die von allen sterblichen Gebrechen gereinigt sind. Der Magus erlangt alle durch das Altern verlorenen Attribute zurück und verwendet nicht mehr das Alterungspunkte-System. Alle negativen physischen Eigenschaften, die der Charakter hat, werden auf 0 angehoben. Sofern er nicht stirbt, regeneriert sich der Körper des Magus, wenn er beschädigt wird, und heilt bei Vollmondaufgang vollständig. Dieser Prozess lässt alle weltlichen Entstellungen des Magus verblassen, einschließlich seiner Nabelnarbe. Der Magus behält jedoch seine Stigmata und erhält weiterhin Verzerrungspunkte.
-
-#### Die Allee des Kugelspiegels und die Station des Mikrokosmos
-
-Die Erkenntnis im Herzen der vierten Station des Pfads des Körpers ist eine, derer sich die meisten Magi intellektuell bewusst sind. Die menschliche Gestalt und das Universum haben identische zugrunde liegende Strukturen: Der Körper ist ein Mikrokosmos. Die übliche Methode, die instinktiven, reflexhaften Verbindungen zwischen dem Körper des Magus und dem Universum zu wecken, ist Entzug. Der Magus wird in Quarz oder Glas eingeschlossen und dann in Dunkelheit gelassen, wie tot, für ein Quartal. Die Fähigkeit des Magus, sich vom Inspirato zu nähren, gewährleistet die Versorgung, während der Magus lernt, die körperlichen Verbindungen zum Universum zu spüren, isoliert von allen Ablenkungen.
-
-In der frühen Geschichte des Hauses war es üblich, dass Magi dieses Ritual allein durchführten. Es wurde in Nordafrika entdeckt, und der ideale Ort dafür ist ein Höhlenkomplex in Äthiopien. Die extreme Schwierigkeit, den Komplex zu erreichen, hat die Nutzung von Ersatzorten erforderlich gemacht, wobei ein Führer vermittelt, um den Abschluss des Rituals zu ermöglichen. Einige Reisende auf dem Pfad des Körpers möchten zur älteren Weise zurückkehren, die ihrer Meinung nach eher zu neuartigen Erkenntnissen über das Enigma führt. Andere sagen, das neuere Ritual, das ein Viertel der Zeit des ursprünglichen beansprucht, sei selbst ein wunderbarer Durchbruch.
-
-Die mikrokosmische Erkenntnis zeigt dem Magus, dass er mit allen weltlichen Dingen im Universum verbunden ist. Dies ermöglicht es dem Magus, Zauber zu wirken, als halte er eine Arkane Verbindung zu jedem weltlichen Ort, den er besucht hat, oder zu jedem weltlichen Ding, das er berührt hat und das sich gegenwärtig an einem weltlichen Ort befindet. Menschen, die selbst Karten des Universums sind, können nicht mit dieser Fähigkeit als Ziel von Zaubern dienen. Einige religiöse Criamon bestehen darauf, dies liege daran, dass die Seele einen Funken des Göttlichen enthalte und Menschen daher nicht weltlich seien. Diese Station ermöglicht es Criamon-Magi, mithilfe des *Sprungs der Heimkehr* frei durch das Mythische Europa zu reisen.
-
-Eine Einschränkung dieser Kraft ist, dass der Magus seine Verbindungen nur zu Dingen oder Orten nutzen kann, an die er sich deutlich erinnert. Der Spieler des Criamon-Magus legt einen Intelligenzwurf ab, um zu bestimmen, woran er sich deutlich erinnert, wobei die Schwierigkeit steigt, je flüchtiger der Kontakt des Magus mit einem Ort oder Ding war. Die Spieltruppe kann vereinbaren, dass es bestimmte Orte gibt, die der Charakter so regelmäßig sieht, dass der Spieler nicht würfeln muss, zum Beispiel die Straße vor seinem Konvent, die Brücke am Eingang des nächsten Dorfes oder sein Elternhaus. Ebenso können Orte, an denen der Magus dem Tod ins Auge sah oder große Taten vollbrachte, nach Ermessen der Spieltruppe unauslöschlich im Gedächtnis eingebrannt sein.
-
-- Orte, die der Magus regelmäßig besucht hat, erfordern einen Wurf gegen einen Schwierigkeitsgrad von 6.
-- Orte, die der Magus jährlich besucht, erfordern Würfe gegen einen Schwierigkeitsgrad von 9.
-- Orte, die der Magus vor langer Zeit besucht hat, erfordern Würfe gegen einen Schwierigkeitsgrad von 12.
-
-Magi dürfen bis zu drei auf ihre Würfe addieren, wenn sie etwas besitzen, das ihre Erinnerungen an einen Ort hervorruft, wie ein Souvenir, eine Tätowierung oder eine Narbe. Ein verpatzer Wurf bedeutet, der Magus hat sich an den falschen Ort erinnert, weiß es aber nicht.
 
 #### Die Allee des Trinkens der Winde der Inspiration und die Station der Geistigen Ernährung
 
@@ -2434,6 +2402,38 @@ Einmal am Tag, nach einer Labyrinth-Meditation, gelingt dem Charakter automatisc
 
 Ein Magus, der die dritte Station des Pfads des Körpers erreicht, ist in seinem Innersten von der Richtigkeit des Pfades überzeugt. Diese Gewissheit wird durch den Fehler Fromm dargestellt, der den zuvor auf dem Pfad erlangten Fehler Gelübde ersetzt.
 
+#### Die Allee des Kugelspiegels und die Station des Mikrokosmos
+
+Die Erkenntnis im Herzen der vierten Station des Pfads des Körpers ist eine, derer sich die meisten Magi intellektuell bewusst sind. Die menschliche Gestalt und das Universum haben identische zugrunde liegende Strukturen: Der Körper ist ein Mikrokosmos. Die übliche Methode, die instinktiven, reflexhaften Verbindungen zwischen dem Körper des Magus und dem Universum zu wecken, ist Entzug. Der Magus wird in Quarz oder Glas eingeschlossen und dann in Dunkelheit gelassen, wie tot, für ein Quartal. Die Fähigkeit des Magus, sich vom Inspirato zu nähren, gewährleistet die Versorgung, während der Magus lernt, die körperlichen Verbindungen zum Universum zu spüren, isoliert von allen Ablenkungen.
+
+In der frühen Geschichte des Hauses war es üblich, dass Magi dieses Ritual allein durchführten. Es wurde in Nordafrika entdeckt, und der ideale Ort dafür ist ein Höhlenkomplex in Äthiopien. Die extreme Schwierigkeit, den Komplex zu erreichen, hat die Nutzung von Ersatzorten erforderlich gemacht, wobei ein Führer vermittelt, um den Abschluss des Rituals zu ermöglichen. Einige Reisende auf dem Pfad des Körpers möchten zur älteren Weise zurückkehren, die ihrer Meinung nach eher zu neuartigen Erkenntnissen über das Enigma führt. Andere sagen, das neuere Ritual, das ein Viertel der Zeit des ursprünglichen beansprucht, sei selbst ein wunderbarer Durchbruch.
+
+Die mikrokosmische Erkenntnis zeigt dem Magus, dass er mit allen weltlichen Dingen im Universum verbunden ist. Dies ermöglicht es dem Magus, Zauber zu wirken, als halte er eine Arkane Verbindung zu jedem weltlichen Ort, den er besucht hat, oder zu jedem weltlichen Ding, das er berührt hat und das sich gegenwärtig an einem weltlichen Ort befindet. Menschen, die selbst Karten des Universums sind, können nicht mit dieser Fähigkeit als Ziel von Zaubern dienen. Einige religiöse Criamon bestehen darauf, dies liege daran, dass die Seele einen Funken des Göttlichen enthalte und Menschen daher nicht weltlich seien. Diese Station ermöglicht es Criamon-Magi, mithilfe des *Sprungs der Heimkehr* frei durch das Mythische Europa zu reisen.
+
+Eine Einschränkung dieser Kraft ist, dass der Magus seine Verbindungen nur zu Dingen oder Orten nutzen kann, an die er sich deutlich erinnert. Der Spieler des Criamon-Magus legt einen Intelligenzwurf ab, um zu bestimmen, woran er sich deutlich erinnert, wobei die Schwierigkeit steigt, je flüchtiger der Kontakt des Magus mit einem Ort oder Ding war. Die Spieltruppe kann vereinbaren, dass es bestimmte Orte gibt, die der Charakter so regelmäßig sieht, dass der Spieler nicht würfeln muss, zum Beispiel die Straße vor seinem Konvent, die Brücke am Eingang des nächsten Dorfes oder sein Elternhaus. Ebenso können Orte, an denen der Magus dem Tod ins Auge sah oder große Taten vollbrachte, nach Ermessen der Spieltruppe unauslöschlich im Gedächtnis eingebrannt sein.
+
+- Orte, die der Magus regelmäßig besucht hat, erfordern einen Wurf gegen einen Schwierigkeitsgrad von 6.
+- Orte, die der Magus jährlich besucht, erfordern Würfe gegen einen Schwierigkeitsgrad von 9.
+- Orte, die der Magus vor langer Zeit besucht hat, erfordern Würfe gegen einen Schwierigkeitsgrad von 12.
+
+Magi dürfen bis zu drei auf ihre Würfe addieren, wenn sie etwas besitzen, das ihre Erinnerungen an einen Ort hervorruft, wie ein Souvenir, eine Tätowierung oder eine Narbe. Ein verpatzer Wurf bedeutet, der Magus hat sich an den falschen Ort erinnert, weiß es aber nicht.
+
+#### Die Allee der Ruhe im Körper und die Schwelle der Körperlichen Entrückung
+
+Ein Magus bereitet sich auf die letzte Station des Pfads des Körpers, seine Entrückung, vor, indem er seinen Geist darauf vorbereitet, vom mikrokosmischen Körper in seine parallele, makrokosmische Form überzugehen.
+
+Das Ritual wird an einem Ort und zu einer Zeit durchgeführt, an dem die Verbindung zwischen Körper und Universum besonders augenscheinlich ist. Die Axis Magica kann stattdessen dienen, doch das Haus bevorzugt es, dass seine Mitglieder weniger gut verstandene Verbindungen zwischen Körper und Universum erfahren.
+
+Eine historisch beliebte war der Zusammenfluss des Weißen und des Blauen Nils im Moment der Flut, der die erste Teilung der Arterien vom Herzen symbolisiert.
+
+Beim Ritual verzehrt der Magus mystische Darstellungen der vier Körpersäfte. Eine dieser Darstellungen befindet sich am Einweihungsort. Die anderen drei müssen durch Questen zu Orten beschafft werden, die ihrerseits so außergewöhnlich sind, dass sie als Einweihungsorte geeignet wären. Die geisterhaften Primi erinnern sich an die von früheren Reisenden auf dem Pfad genutzten Orte, ermutigen Magi aber, mindestens einen neuartigen Ort zu finden.
+
+Spielleiter sollten sicherstellen, dass diese legendären Orte auch für andere Spielercharaktere von Interesse sind. Die Darstellungen der Säfte enthalten Vis und können bei der Originären Forschung helfen. Sie befinden sich an seltsamen Schauplätzen, die mit alten Zivilisationen verbunden sind. Bizarre Ungeheuer, die antiken Magiern dienten, bewachen einige Orte.
+
+Jene, die diese Station erlangt haben, sich aber entscheiden, nicht aus der Welt zu scheiden, tun dies, weil sie glauben, dass ihre Fähigkeit, die physischen Strukturen des Universums zu verändern, ernsthaft eingeschränkt wird, wenn sie in die Entrückung eingehen. Magi entscheiden sich, zurückzubleiben, um an Projekten zu arbeiten, die ihre physische Anwesenheit erfordern, wie das Ausbilden von Lehrlingen, den Widerstand gegen tyrannische Herrscher, den Kampf gegen Dämonen und das Verfassen von Büchern.
+
+Solange sie verweilen, leben diese Magi in Körpern, die von allen sterblichen Gebrechen gereinigt sind. Der Magus erlangt alle durch das Altern verlorenen Attribute zurück und verwendet nicht mehr das Alterungspunkte-System. Alle negativen physischen Eigenschaften, die der Charakter hat, werden auf 0 angehoben. Sofern er nicht stirbt, regeneriert sich der Körper des Magus, wenn er beschädigt wird, und heilt bei Vollmondaufgang vollständig. Dieser Prozess lässt alle weltlichen Entstellungen des Magus verblassen, einschließlich seiner Nabelnarbe. Der Magus behält jedoch seine Stigmata und erhält weiterhin Verzerrungspunkte.
+
 #### Entrückung im Körper
 
 Magi finden die Entrückung auf diesem Pfad, indem sie als das Universum selbst wiedergeboren werden. Sie werden eins mit der Notwendigkeit und versuchen, sie zu verändern, damit der Kreislauf von fallender und steigender Harmonie enden kann.
@@ -2453,38 +2453,50 @@ Der Pfad des Scheins schöpft aus der Erkenntnis, dass die Geheimnisse des Enigm
 > Gefolgsleute dieses Pfades haben oft Vertraute, die an der Grenze zweier Elemente leben. Wasservögel sind beliebt, besonders der Heilige Ibis. Dies war die Gestalt, die Thoth, auch Hermes genannt, annahm, als er die frühen Menschen in der Magie unterwies. Biber, Otter und Krokodile sind ebenfalls überraschend häufig vertreten.
 
 > ### Der Pfad des Scheins, in Zahlen dargestellt
->
+> 
 > Der Pfad des Scheins umfasst folgende Einweihungsskripte:
->
+> 
 > DIE ALLEE VON GRÜTZE, WASSER UND STERNENLICHT UND DIE STATION DER UNTERSCHEIDUNG DES SCHEINS
->
+> 
 > Zielstufe 21: Paket behandelt als Große Tugend (Klarer Denker, Gesunder Menschenverstand und Scharfe Sicht)
->
+> 
 > Skriptbonus +15: Kleine Einweihungsprüfung: Entstellung +3, Zeit des Mystagogen +3, psychodramatische Queste, die das Bezwingen der Sinne darstellt +3, besonderer Ort und besondere Zeit (ein bestimmter Höhlenkomplex bei Neumond) +3, sympathischer Bonus (Entzug) +3
->
+> 
 > **Die Allee, die die Bescheidenheit des Universums stürmt, und die Station des Wahren Blicks**
->
+> 
 > Zielstufe 18, als Große Tugend 21 (darf Enigmatische Weisheit verwenden, als sei sie Magiegespür und Zweites Gesicht), erste Einweihung seit Kleiner Einweihungsprüfung –3
->
+> 
 > Skriptbonus +12: Einweihungsprüfung (Gelübde) +3, Queste des irren Umherwanderns +3, besondere Zeit und besonderer Ort +3, Zeit des Mystagogen +3
->
+> 
 > DIE ALLEE DER UNERWARTETEN SEITEN UND DIE STATION LEBHAFTER ERINNERUNGEN AUS GEGENSTÄNDEN
->
+> 
 > Zielstufe 18, als Große Tugend 21 (kann die Erinnerungen von Gegenständen lesen), erste Einweihung seit Kleiner Einweihungsprüfung –3
->
+> 
 > Skriptbonus +12: Einweihungsprüfung (Großer Fehler Fromm ersetzt Kleinen Fehler Gelübde) +6, besondere Zeit und besonderer Ort +3 (oder möglicherweise Verlust des Talismans +3), psychodramatische Queste +3
->
+> 
 > **Die Allee, die eine Kreuzung ist, und die Station des Durchschreitens des Scheins**
->
+> 
 > Zielstufe 15, als Große Tugend 21 (Geistreisen), erste Einweihung seit Mittlerer Einweihungsprüfung –6
->
+> 
 > Skriptbonus +12: Zeit des Mystagogen +3, besondere Zeit und besonderer Ort +3, sympathischer Bonus +3, Queste +3
->
+> 
 > **Die Allee, die zur Transzendenz führt, und die Station, von der aus man das Reale ignoriert**
->
+> 
 > Zielstufe 17, als Große Tugend 21 (kann kurzzeitig weltliche Gegenstände ignorieren), zweite Einweihung seit Mittlerer Einweihungsprüfung –4
->
+> 
 > Skriptbonus +12: Einweihungsprüfung (Großer Fehler Zwielicht-anfällig) +9, Zeit des Mystagogen +3
+
+#### Die Allee von Grütze, Wasser und Sternenlicht und die Station der Unterscheidung des Scheins
+
+Junge Magi, die den Pfad des Scheins beginnen, werden von Sinneseindrücken überflutet. Das macht Lärm ohrenbetäubend, Licht grell und Essen widerlich reich. Diese Magi führen Labyrinth-Meditationen durch, während sie den fadesten Brei essen und nur Wasser trinken, bis sie eine Reihe von Einsetzungen durchlaufen, die sie lehren, ihre Sinne abzustimmen. Diese Prüfungen unter der Anleitung von Lehrern werden traditionell in einer Reihe von Höhlen durchgeführt. Geeignete Orte wurden in drei Tribunalen eingerichtet.
+
+Reisende auf diesem Pfad gelangen zu einem intellektuellen Verständnis des Unterschieds zwischen Wahrheit und Schein: dem, was ist, und dem, was zu sein scheint. Jeder Magus entwickelt die Tugenden Klarer Denker, Gesunder Menschenverstand und Scharfe Sicht, wobei der Spieler Scharfe Sicht gegen einen ähnlichen Effekt für einen anderen Sinn eintauschen kann. Criamon-Magi auf dem Pfad des Scheins sind am besten in der Lage, mit Außenstehenden zu kommunizieren, denn sie sind klare Gesprächspartner, geschult in einer strengen Logik. Sie können jedoch die magischen Erkenntnisse des Hauses nicht erfolgreich mit jenen besprechen, denen der Bezugsrahmen fehlt, den die Enigmatische Weisheit bietet.
+
+#### Die Allee, die die Bescheidenheit des Universums stürmt, und die Station des Wahren Blicks
+
+Magi, die diese Station suchen, können die zugrunde liegenden Strukturen der Welt wahrnehmen, haben aber Schwierigkeiten, diese neuen Wahrnehmungen zu verstehen. Sie entwickeln manchmal eingebildete Freunde und Feinde und erleben seltsame Abenteuer. Diese ähneln psychodramatischen Abenteuern, spielen sich aber nicht ausschließlich im Geist des Magus ab. Die Gefährten des Magus und schließlich sein Führer müssen den Reisenden auf dem Pfad vor Gefahren beschützen, die er nicht verstehen kann, während er im Wahnsinn umherirrt. Der Magus erholt sich gewöhnlich nach einem Quartal, benötigt aber in den letzten Wochen Eingreifen und Schulung durch seinen Führer.
+
+Ein Magus, der sich wiederfasst, wird in seinem Glauben an den Pfad bestätigt und erwirbt den Fehler Gelübde. Magi, die in diese Station eingeweiht werden, lernen, dem Universum instinktiv seine Illusionen zu entreißen. Sie dürfen ihren Wert in Enigmatischer Weisheit nutzen, als sei er sowohl die Fertigkeit Zweites Gesicht als auch Magiegespür.
 
 #### Die Allee der Unerwarteten Seiten und die Station Lebhafter Erinnerungen aus Gegenständen
 
@@ -2503,12 +2515,6 @@ Es ist möglich, eine Stadt so zu erinnern, als durchwandere man sie mit einem g
 >#### Beispiel: Die Allee der Unerwarteten Seiten
 >
 >Antigone, eine Gefolgsfrau dieses Pfades mit Expertise in Imaginem-Magie, fällt mit einem silbernen Kerzenständer zwischen den Händen ins Koma. Innerhalb ihrer psychodramatischen Queste erwacht sie im Körper eines Schweinehirten namens Tobias, der acht Kilometer vom Konvent entfernt lebt. Er erwacht mit dem Kerzenständer in der Hand und weiß, dass er ihn einer ahnungslosen Antigone überbringen muss. Antigone-als-Tobias muss einen beschwerlichen Marsch bewältigen, Räubern begegnen, die den Leuchter wollen, mit
-
-#### Die Allee, die die Bescheidenheit des Universums stürmt, und die Station des Wahren Blicks
-
-Magi, die diese Station suchen, können die zugrunde liegenden Strukturen der Welt wahrnehmen, haben aber Schwierigkeiten, diese neuen Wahrnehmungen zu verstehen. Sie entwickeln manchmal eingebildete Freunde und Feinde und erleben seltsame Abenteuer. Diese ähneln psychodramatischen Abenteuern, spielen sich aber nicht ausschließlich im Geist des Magus ab. Die Gefährten des Magus und schließlich sein Führer müssen den Reisenden auf dem Pfad vor Gefahren beschützen, die er nicht verstehen kann, während er im Wahnsinn umherirrt. Der Magus erholt sich gewöhnlich nach einem Quartal, benötigt aber in den letzten Wochen Eingreifen und Schulung durch seinen Führer.
-
-Ein Magus, der sich wiederfasst, wird in seinem Glauben an den Pfad bestätigt und erwirbt den Fehler Gelübde. Magi, die in diese Station eingeweiht werden, lernen, dem Universum instinktiv seine Illusionen zu entreißen. Sie dürfen ihren Wert in Enigmatischer Weisheit nutzen, als sei er sowohl die Fertigkeit Zweites Gesicht als auch Magiegespür.
 
 #### Die Allee, die eine Kreuzung ist, und die Station des Durchschreitens des Scheins
 
@@ -2544,12 +2550,6 @@ Ein Magus, der diese Station erreicht hat, kann weltliche Gegenstände kurzzeiti
 
 Charaktere, die diese Station erreichen, unterscheiden die weltliche Welt und die Hypostase nicht mehr klar. Dies macht sie anfälliger für Zwielicht-Erfahrungen, da ihre Fähigkeit, in die sterbliche Welt zurückzunavigieren, beeinträchtigt ist.
 
-#### Die Allee von Grütze, Wasser und Sternenlicht und die Station der Unterscheidung des Scheins
-
-Junge Magi, die den Pfad des Scheins beginnen, werden von Sinneseindrücken überflutet. Das macht Lärm ohrenbetäubend, Licht grell und Essen widerlich reich. Diese Magi führen Labyrinth-Meditationen durch, während sie den fadesten Brei essen und nur Wasser trinken, bis sie eine Reihe von Einsetzungen durchlaufen, die sie lehren, ihre Sinne abzustimmen. Diese Prüfungen unter der Anleitung von Lehrern werden traditionell in einer Reihe von Höhlen durchgeführt. Geeignete Orte wurden in drei Tribunalen eingerichtet.
-
-Reisende auf diesem Pfad gelangen zu einem intellektuellen Verständnis des Unterschieds zwischen Wahrheit und Schein: dem, was ist, und dem, was zu sein scheint. Jeder Magus entwickelt die Tugenden Klarer Denker, Gesunder Menschenverstand und Scharfe Sicht, wobei der Spieler Scharfe Sicht gegen einen ähnlichen Effekt für einen anderen Sinn eintauschen kann. Criamon-Magi auf dem Pfad des Scheins sind am besten in der Lage, mit Außenstehenden zu kommunizieren, denn sie sind klare Gesprächspartner, geschult in einer strengen Logik. Sie können jedoch die magischen Erkenntnisse des Hauses nicht erfolgreich mit jenen besprechen, denen der Bezugsrahmen fehlt, den die Enigmatische Weisheit bietet.
-
 #### Keine Entrückung
 
 Magi auf diesem Pfad finden keine Entrückung. Sie hören einfach auf, zwischen Zwielicht und Wirklichkeit zu unterscheiden, und verblassen wie Illusionen. Manche haben die Vermutung geäußert, diese Magi hätten sich in ein langwieriges, vorübergehendes Zwielicht zurückgezogen und würden in die Welt zurückkehren, wenn sie es wünschten — wahrscheinlich um die Antwort zu hören, wenn sie entdeckt wird — doch jeder von ihnen könnte theoretisch jederzeit zurückkehren.
@@ -2573,44 +2573,72 @@ Die Gefolgsleute dieses Pfades sehen Dämonen als Schwelger in einer Art Streit,
 > Die Stigmata dieses Pfades neigen dazu, Flamme und Strahlung widerzuspiegeln. Magi im mystischen Kampf berichten häufig, dass ihre Stigmata glühen und manchmal miteinander verschmelzen. Einige entfernen die Kleidung von ihrem Oberkörper vor intensivem Magieeinsatz, weil die Hitze ihrer Stigmata den Stoff entzündet, den sie berühren. Diese Magi berichten, dass ihre Stigmata nach solchen Vorfällen empfindlich sind, wie bei einem Sonnenbrand.
 
 > ### Der Pfad des Streits, dargestellt mit Zahlen
->
+> 
 > Streit nimmt viele Formen an, hat aber diese Einweihungsskripte:
->
-> **Die Allee der Befreundung der Stummen und die Station, die die Elemente bezaubert**
->
-> Zielstufe 21, als Große Tugend (mit elementar reinen Gegenständen sprechen)
->
-> Skriptbonus +15: Einweihungsprüfung (Großer Fehler Fromm ersetzt Kleinen Fehler Höheres Ziel) +6, Einweihungsprüfung (Äquivalent zu Übernatürliche Plage) +3, Einweihungsprüfung (Entstellt) +3, Zeit des Mystagogen +3
->
-> **Allee des Charmes und der Verachtung und die Station, die Elemente abstößt und anzieht**
->
-> Zielstufe 15, als Große Tugend 21 (kann ein einzelnes Element gleichzeitig anziehen oder abstoßen), zweite Einweihung seit Großer Einweihungsprüfung –6. (Letztere ist –9 für jene, die einen Primus getötet haben, aber das Haus nutzt dies nicht aus. Charaktere auf dem Pfad könnten entdecken, dass besonderer Ort und besondere Zeit für Primus-Töter nicht erforderlich sind.)
->
-> Skriptbonus +9: Queste (Geliebten suchen) +3, besonderer Ort und besondere Zeit +3, sympathetischer Bonus (Ehe als Metapher für Liebe und Streit) +3
->
+> 
 > **Die Allee des Glaubens an den Streit und die Station des Sündenessers**
->
+> 
 > Zielstufe 21: Als Große Tugend behandelt (kann Magie spüren und eine Waffe mit dem Wert in Enigmatischer Weisheit führen)
->
+> 
 > Skriptbonus +15: Einweihungsprüfung (Auffällige Gabe) +9, besonderer Ort und besondere Zeit +3, sympathetischer Bonus (Übertretung begehen durch Fleischessen, Geschlechtsverkehr und andere Entweihungen) +3
->
+> 
 > Als alternatives Skript werden jene Magi, die den Primus während des Nachfolgerituals des Hauses töten, in die erste Station dieses Pfades eingeweiht. Sie können auf dem Pfad nicht voranschreiten, bis sie Haus-Criamon-Kunde studieren, und wissen möglicherweise nicht, dass das Haus ihnen dieses Geschenk gemacht hat, bis sich ihr mystischer Sinn zu manifestieren beginnt. Gefolgsleute des zweiten Skripts entwickeln keine Auffällige Gabe. Bei diesem Ritual fungiert der Genius des Hauses als Mystagoge (Präsenz + Haus-Criamon-Kunde von 15).
->
+> 
 > Skriptbonus +6: Besonderer Ort und besondere Zeit +3, sympathetischer Bonus (Übertretung des Mordes am Primus) +3
->
-> **Allee des Todes und die Station des Goldenen Cidre**
->
-> Zielstufe 15, als Große Tugend 21 (manche mystischen Dinge weltlich machen), erste Einweihung seit Mittlerer Einweihungsprüfung –6
->
-> Skriptbonus +12: Einweihungsprüfung (vier Paare Unvereinbarer Künste) +12
+> 
 > **Die Allee, die sich aufspaltet, und die Station von Blut und Bronze**
->
+> 
 > Zielstufe 12, als Große Tugend 21 (kann Dinge durch Meditation um sie herum zerstören und zusätzlichen Schaden mit Waffen anrichten), erste Einweihung seit Großer Einweihungsprüfung –9
->
+> 
 > Skriptbonus +6: Kleine Einweihungsprüfung (Höheres Ziel: Sünden im Namen des Hauses essen) +3, besonderer Ort und besondere Zeit +3. Charaktere, die auf der ersten Allee einen Primus getötet haben, erleiden auf
->
+> 
 > dieser Allee eine zusätzliche Einweihungsprüfung, die ihnen die Auffällige Gabe gibt +9 (gleicht den Verlust des Modifikators von –9 in der Zielstufe für die erste Einweihung seit Großer Einweihungsprüfung aus).
->
+> 
+> **Allee des Charmes und der Verachtung und die Station, die Elemente abstößt und anzieht**
+> 
+> Zielstufe 15, als Große Tugend 21 (kann ein einzelnes Element gleichzeitig anziehen oder abstoßen), zweite Einweihung seit Großer Einweihungsprüfung –6. (Letztere ist –9 für jene, die einen Primus getötet haben, aber das Haus nutzt dies nicht aus. Charaktere auf dem Pfad könnten entdecken, dass besonderer Ort und besondere Zeit für Primus-Töter nicht erforderlich sind.)
+> 
+> Skriptbonus +9: Queste (Geliebten suchen) +3, besonderer Ort und besondere Zeit +3, sympathetischer Bonus (Ehe als Metapher für Liebe und Streit) +3
+> 
+> **Die Allee der Befreundung der Stummen und die Station, die die Elemente bezaubert**
+> 
+> Zielstufe 21, als Große Tugend (mit elementar reinen Gegenständen sprechen)
+> 
+> Skriptbonus +15: Einweihungsprüfung (Großer Fehler Fromm ersetzt Kleinen Fehler Höheres Ziel) +6, Einweihungsprüfung (Äquivalent zu Übernatürliche Plage) +3, Einweihungsprüfung (Entstellt) +3, Zeit des Mystagogen +3
+> 
+> **Allee des Todes und die Station des Goldenen Cidre**
+> 
+> Zielstufe 15, als Große Tugend 21 (manche mystischen Dinge weltlich machen), erste Einweihung seit Mittlerer Einweihungsprüfung –6
+> 
+> Skriptbonus +12: Einweihungsprüfung (vier Paare Unvereinbarer Künste) +12
+
+#### Die Allee des Glaubens an den Streit und die Station des Sündenessers
+
+Die Prima und andere hochrangige Magi raten jungen Magi davon ab, diesen Pfad zu suchen. Können sie nicht davon abgebracht werden, weist man sie zum Einsetzungsort, der weit von der Höhle der Zuckenden Schatten entfernt unterhalten wird. Dort prüft der Hüter des Pfades sie: Sie müssen das Labyrinth des Streits durchlaufen, ein verschlungenes Tunnelsystem, dem Magi nur entkommen können, indem sie Taten vollbringen, die gegen die üblichen Criamon-Grundsätze des Rechten Handelns verstoßen. Wenn die Magi das Ende des Degradierungsprozesses erreichen, entdecken sie die erste Station auf dem Pfad und werden mit der Kraft des Streits erfüllt.
+
+Magi auf diesem Pfad haben sich dem Streit verschrieben. Sie können die Zunahme des Streits spüren, die eintritt, wenn Magie gewirkt wird. Sie wiederum sind so auf den Streit eingestimmt, dass sie ihn ausstrahlen. Sie können ihre Enigmatische Weisheit als die Fertigkeit Magiegespür verwenden, ziehen sie aber nicht von ihrer Magieresistenz ab. Sie entwickeln die Auffällige Gabe.
+
+Mitglieder dieses Pfades führen ihre Labyrinth-Meditationen bewaffnet durch. Die zugehörigen Bewegungen — eine Reihe von Schlägen, Blocks und Finten, die mit peinlicher Langsamkeit ausgeführt werden — wirken auf jene, die mit diesem Pfad nicht vertraut sind, anmutig und tanzähnlich. Ein Magus auf diesem Pfad kann seinen Wert in Enigmatischer Weisheit verwenden, als wäre er ein Wert für eine einzelne Waffenart. Der Magus kann seine Waffenart wechseln, wenn sein Wert in Enigmatischer Weisheit steigt. Eine Waffe bezieht sich in diesem Fall auf einen einzelnen Tabelleneintrag aus den Tabellen in ArMDE, Seiten 176–177, mit Ausnahme jeder Art von Rüstung oder Schild.
+
+#### Die Allee, die sich aufspaltet, und die Station von Blut und Bronze
+
+Jene, die die zweite Station auf dem Pfad des Streits suchen, versuchen die Fähigkeit zu erlangen, nach Belieben gewaltigen Schaden anzurichten. Sie werden erst geführt, nachdem ein Vertreter der Prima eine letzte Gelegenheit erhalten hat, sie von diesem Pfad abzubringen. Ein entschlossener Magus wird an einem mit Streit gesättigten Ort eingesetzt, am Jahrestag der größten Zahl von Todesfällen, die Streit verursacht hat. Die Ruinen von Herculaneum, in alter Zeit zusammen mit Pompeji durch den Ausbruch des Ätna zerstört, werden traditionell für dieses Ritual verwendet.
+
+Ein Magus, der diese Rituale vollzogen hat, hat sich dem Pfad des Streits verschrieben und darf keinen anderen Pfad mehr einschlagen, mit Ausnahme des Spiegelpfades, der dem Primus vorbehalten ist. Er kann nicht ins Endgültige Zwielicht eintreten. Jede Situation, die gewöhnlich zum Endgültigen Zwielicht führen würde, tötet den Magus stattdessen und hinterlässt eine Ansammlung besonders bösartiger Verfälschungen.
+
+Die Fähigkeit des Magus, Streit zu spüren, erlaubt es ihm, Schwäche oder Verfall in Gegenständen zu erkennen und zu fördern. Eine Labyrinth-Meditation um einen Gegenstand ohne Magieresistenz herum lässt ihn verrotten oder rosten, bis er kaum mehr als Staub ist. Eine Labyrinth-Meditation um einen Raum, der nicht breiter als 500 Fuß pro Stufe der Enigmatischen Weisheit des Magus sein kann, tötet jedes weltliche Lebewesen in diesem Bereich auf eine Weise, die dem Sigil des Magus entspricht. Diese Station kann Menschen nicht direkt schaden, weil sie Seelen besitzen, die sie schützen.
+
+Schläge mit der Meditationswaffe des Magus nutzen winzige Schwächen im Opfer mit äußerster Präzision aus. Sie haben den vierfachen üblichen Angriffsbonus und können Kreaturen verletzen, die gegen nicht-magische Angriffe immun sind. Die Penetration dieser Kraft beträgt (Enigmatische Weisheit des Magus
+
+× 5), wobei die Form der Schneide der Waffe maßgeblich ist. Kreaturen, die der Göttlichen Sphäre zugehörig sind, haben niemals solche Schwachstellen, die derart mächtige Angriffe ermöglichen, und sind gegen diese Kraft immun. Ebenso hat eine Kreatur, die aus einer undifferenzierten Masse von Materie besteht, wie es bei manchen Elementargeistern der Fall ist, keine ausnutzbaren Schwachstellen.
+
+#### Allee des Charmes und der Verachtung und die Station, die Elemente abstößt und anzieht
+
+Diese Allee wird vollendet, indem man einen Geliebten findet, den der Magus in einem mystischen Ritus heiratet. Der Geliebte muss ein perfektes symbolisches Gegenstück zum Magus sein. Der Geliebte kann zum Beispiel das Element vertreten, das der Spezialisierung des Magus entgegengesetzt ist. Die Hochzeit muss an einem günstigen Ort stattfinden, der eine Vereinigung der beiden im Liebespaar verkörperten gegensätzlichen Prinzipien darstellt. Der Mystagoge fungiert als Zelebrant für die immerwährende Verbindung des Paares. Magi, die diese Ehepartner verlieren, entwickeln häufig den Fehler Verlorene Liebe.
+
+Auf dieser Stufe der Meisterschaft kann ein Diener des Streits weltliche Gegenstände mithilfe von Streit und Harmonie abstoßen oder anziehen. Der Magus kann immer nur eine einzelne Form gleichzeitig anziehen oder abstoßen. Der Magus kann diese Fähigkeit nach Belieben einsetzen. Er kann Gegenstände und Formen einmal pro Runde wechseln, und die Fähigkeit erfordert weder Erschöpfung noch Konzentration. Der Magus kann mehrere Gegenstände beeinflussen, sofern ihr Gesamtgewicht das Dreifache des Gewichts des Magus nicht übersteigt. Der Magus muss sich der jeweiligen Gegenstände bewusst sein, um diese Fähigkeit auf sie anwenden zu können, muss sie aber nicht genau erkennen können. Es ist zum Beispiel möglich, dass der Magus die Metallspitzen einer Wolke von Pfeilen abstößt, die aus einer Deckung durch Gestrüpp abgeschossen werden. Diese Kraft besitzt keinen Penetrationswert und versagt gegen geschützte Gegenstände.
+
+Diese Fertigkeit wird häufig verwendet, um Gegenstände zur Hand des Magus schweben oder rasch von ihr wegfliegen zu lassen, hat aber auch andere Verwendungen. So kann ein Magus, der eine Wand zu seinen Händen hin anzieht, beim Klettern nicht abrutschen, und ein Magus, der Wasser abstößt, kann bequem durch strömenden Regen gehen. Viele Magi mit dieser Fähigkeit können schweben; sie behaupten, den Boden abzustoßen. Andere Magi bemerken, dass dies überhaupt keinen Sinn ergibt.
 
 #### Die Allee der Befreundung der Stummen und die Station, die die Elemente bezaubert
 
@@ -2626,22 +2654,6 @@ Gegenstände bewegen sich gewöhnlich durch eine Gleitbewegung, aber Gegenständ
 
 Magi, die auf dem Pfad des Streits so weit vorangeschritten sind, befinden sich trotz vieler schwerer geistiger Verfehlungen in liebevollen Beziehungen, umgeben von Gemeinschaften von Freunden. Sie kommen gewöhnlich zu dem Gefühl, dass es angenehm wäre, wenn sie gezwungen wären, auf diese Weise immer und immer wieder für die Ewigkeit zu leben. Diese fröhliche Sicht wird von anderen Criamon-Magi als seltsam betrachtet und macht solche Magi zu Anhängern des Pfades.
 
-#### Allee des Charmes und der Verachtung und die Station, die Elemente abstößt und anzieht
-
-Diese Allee wird vollendet, indem man einen Geliebten findet, den der Magus in einem mystischen Ritus heiratet. Der Geliebte muss ein perfektes symbolisches Gegenstück zum Magus sein. Der Geliebte kann zum Beispiel das Element vertreten, das der Spezialisierung des Magus entgegengesetzt ist. Die Hochzeit muss an einem günstigen Ort stattfinden, der eine Vereinigung der beiden im Liebespaar verkörperten gegensätzlichen Prinzipien darstellt. Der Mystagoge fungiert als Zelebrant für die immerwährende Verbindung des Paares. Magi, die diese Ehepartner verlieren, entwickeln häufig den Fehler Verlorene Liebe.
-
-Auf dieser Stufe der Meisterschaft kann ein Diener des Streits weltliche Gegenstände mithilfe von Streit und Harmonie abstoßen oder anziehen. Der Magus kann immer nur eine einzelne Form gleichzeitig anziehen oder abstoßen. Der Magus kann diese Fähigkeit nach Belieben einsetzen. Er kann Gegenstände und Formen einmal pro Runde wechseln, und die Fähigkeit erfordert weder Erschöpfung noch Konzentration. Der Magus kann mehrere Gegenstände beeinflussen, sofern ihr Gesamtgewicht das Dreifache des Gewichts des Magus nicht übersteigt. Der Magus muss sich der jeweiligen Gegenstände bewusst sein, um diese Fähigkeit auf sie anwenden zu können, muss sie aber nicht genau erkennen können. Es ist zum Beispiel möglich, dass der Magus die Metallspitzen einer Wolke von Pfeilen abstößt, die aus einer Deckung durch Gestrüpp abgeschossen werden. Diese Kraft besitzt keinen Penetrationswert und versagt gegen geschützte Gegenstände.
-
-Diese Fertigkeit wird häufig verwendet, um Gegenstände zur Hand des Magus schweben oder rasch von ihr wegfliegen zu lassen, hat aber auch andere Verwendungen. So kann ein Magus, der eine Wand zu seinen Händen hin anzieht, beim Klettern nicht abrutschen, und ein Magus, der Wasser abstößt, kann bequem durch strömenden Regen gehen. Viele Magi mit dieser Fähigkeit können schweben; sie behaupten, den Boden abzustoßen. Andere Magi bemerken, dass dies überhaupt keinen Sinn ergibt.
-
-#### Die Allee des Glaubens an den Streit und die Station des Sündenessers
-
-Die Prima und andere hochrangige Magi raten jungen Magi davon ab, diesen Pfad zu suchen. Können sie nicht davon abgebracht werden, weist man sie zum Einsetzungsort, der weit von der Höhle der Zuckenden Schatten entfernt unterhalten wird. Dort prüft der Hüter des Pfades sie: Sie müssen das Labyrinth des Streits durchlaufen, ein verschlungenes Tunnelsystem, dem Magi nur entkommen können, indem sie Taten vollbringen, die gegen die üblichen Criamon-Grundsätze des Rechten Handelns verstoßen. Wenn die Magi das Ende des Degradierungsprozesses erreichen, entdecken sie die erste Station auf dem Pfad und werden mit der Kraft des Streits erfüllt.
-
-Magi auf diesem Pfad haben sich dem Streit verschrieben. Sie können die Zunahme des Streits spüren, die eintritt, wenn Magie gewirkt wird. Sie wiederum sind so auf den Streit eingestimmt, dass sie ihn ausstrahlen. Sie können ihre Enigmatische Weisheit als die Fertigkeit Magiegespür verwenden, ziehen sie aber nicht von ihrer Magieresistenz ab. Sie entwickeln die Auffällige Gabe.
-
-Mitglieder dieses Pfades führen ihre Labyrinth-Meditationen bewaffnet durch. Die zugehörigen Bewegungen — eine Reihe von Schlägen, Blocks und Finten, die mit peinlicher Langsamkeit ausgeführt werden — wirken auf jene, die mit diesem Pfad nicht vertraut sind, anmutig und tanzähnlich. Ein Magus auf diesem Pfad kann seinen Wert in Enigmatischer Weisheit verwenden, als wäre er ein Wert für eine einzelne Waffenart. Der Magus kann seine Waffenart wechseln, wenn sein Wert in Enigmatischer Weisheit steigt. Eine Waffe bezieht sich in diesem Fall auf einen einzelnen Tabelleneintrag aus den Tabellen in ArMDE, Seiten 176–177, mit Ausnahme jeder Art von Rüstung oder Schild.
-
 #### Allee des Todes und die Station des Goldenen Cidre
 
 Magi, die sich für die Einsetzung über die Allee des Todes entscheiden, durchlaufen ein Ritual unter Aufsicht des ranghöchsten Magus auf diesem Pfad. Sie verlieren die Fähigkeit, die Kunst Creo in Verbindung mit allen Formen außer Corpus und Vim zu verwenden. Sie haben sich so weit von der Harmonie entfernt, dass sie sie schlicht nicht mehr nutzen können. Die Erschaffung magischer Energie lenkt Streit, und die Sorge um das Wohlergehen der Körper anderer, insbesondere des Ehepartners des Magus, ist auf diesem Pfad eine Übertretung. Die Einzelheiten dieses Rituals werden geheim gehalten, und nicht alle Bittsteller überleben es.
@@ -2655,18 +2667,6 @@ Diese Kraft erfordert eine vorbereitende Labyrinth-Meditation vor dem Kampf, und
 Charaktere müssen vor dem Kampf über die Schwächen ihres Opfers meditieren. Sie müssen über ausreichende Informationen über den Feind für eine zutreffende Meditation verfügen. Sie können nicht wiederholt meditieren, um mehrere Versuche im selben Kampf zu ermöglichen, und können keine allgemeinen Meditationen für spätere Verwendung aufbewahren.
 
 Diese Kraft kann viele übernatürliche Begabungen zerstören. Die Gabe selbst ist auf irgendeine Weise an die Seele gebunden, was sie mit der Harmonie verknüpft. Ein Magus des Streits kann die Gabe nicht durchtrennen, außer mit der aktiven, wissentlichen Unterstützung des Begabten. Wenn die Gabe durchtrennt wird, verblasst die magische Ausstrahlung, die die meisten Menschen dazu bringt, Magi zu misstrauen.
-
-#### Die Allee, die sich aufspaltet, und die Station von Blut und Bronze
-
-Jene, die die zweite Station auf dem Pfad des Streits suchen, versuchen die Fähigkeit zu erlangen, nach Belieben gewaltigen Schaden anzurichten. Sie werden erst geführt, nachdem ein Vertreter der Prima eine letzte Gelegenheit erhalten hat, sie von diesem Pfad abzubringen. Ein entschlossener Magus wird an einem mit Streit gesättigten Ort eingesetzt, am Jahrestag der größten Zahl von Todesfällen, die Streit verursacht hat. Die Ruinen von Herculaneum, in alter Zeit zusammen mit Pompeji durch den Ausbruch des Ätna zerstört, werden traditionell für dieses Ritual verwendet.
-
-Ein Magus, der diese Rituale vollzogen hat, hat sich dem Pfad des Streits verschrieben und darf keinen anderen Pfad mehr einschlagen, mit Ausnahme des Spiegelpfades, der dem Primus vorbehalten ist. Er kann nicht ins Endgültige Zwielicht eintreten. Jede Situation, die gewöhnlich zum Endgültigen Zwielicht führen würde, tötet den Magus stattdessen und hinterlässt eine Ansammlung besonders bösartiger Verfälschungen.
-
-Die Fähigkeit des Magus, Streit zu spüren, erlaubt es ihm, Schwäche oder Verfall in Gegenständen zu erkennen und zu fördern. Eine Labyrinth-Meditation um einen Gegenstand ohne Magieresistenz herum lässt ihn verrotten oder rosten, bis er kaum mehr als Staub ist. Eine Labyrinth-Meditation um einen Raum, der nicht breiter als 500 Fuß pro Stufe der Enigmatischen Weisheit des Magus sein kann, tötet jedes weltliche Lebewesen in diesem Bereich auf eine Weise, die dem Sigil des Magus entspricht. Diese Station kann Menschen nicht direkt schaden, weil sie Seelen besitzen, die sie schützen.
-
-Schläge mit der Meditationswaffe des Magus nutzen winzige Schwächen im Opfer mit äußerster Präzision aus. Sie haben den vierfachen üblichen Angriffsbonus und können Kreaturen verletzen, die gegen nicht-magische Angriffe immun sind. Die Penetration dieser Kraft beträgt (Enigmatische Weisheit des Magus
-
-× 5), wobei die Form der Schneide der Waffe maßgeblich ist. Kreaturen, die der Göttlichen Sphäre zugehörig sind, haben niemals solche Schwachstellen, die derart mächtige Angriffe ermöglichen, und sind gegen diese Kraft immun. Ebenso hat eine Kreatur, die aus einer undifferenzierten Masse von Materie besteht, wie es bei manchen Elementargeistern der Fall ist, keine ausnutzbaren Schwachstellen.
 
 #### Entrückung
 
@@ -2691,46 +2691,38 @@ Mitglieder dieses Pfades sind die Criamon-Magi, die am ehesten religiös sind. M
 > Die Stigmata dieses Pfades neigen zu dunstigen, hellen Farben. Die Bilder, die diese Stigmata formen, sind erhebend und spiegeln das Element Luft wider. Die Gefolgsleute dieses Pfades scheinen von einer kühlen Brise begleitet zu werden, wenn sie reisen. Die Stigmata des Magus verströmen auch einen angenehmen Duft, der von Magus zu Magus variiert. Der Duft sickert in jene Dinge, die sie berühren. Die Vertrauten dieser Magi sind stets Pflanzenfresser oder gelegentlich magische Pflanzen.
 
 > ### Der Pfad des Rückwärtsgehens, arithmetisch dargestellt
->
+> 
 > Der Pfad des Rückwärtsgehens besteht aus folgenden Einweihungsskripten:
->
-> **Die Allee der Heilung und die Station von Reis und Honig**
->
-> Zielstufe 12, als Große Tugend 21 (kann um weltliche Gegenstände meditieren und sie in ihre Ganzheit zurückversetzen), erste Einweihung seit Großer Einweihungsprüfung –9
->
-> Skriptbonus +6: Einweihungsprüfung (Nichtkämpfer) +3, Einweihungsprüfung (Äquivalent zu einem Gelübde, Verletzten zu helfen) +3
->
+> 
 > **Die Allee der Hingabe und die Station des Dienstes an der Harmonie**
->
+> 
 > Zielstufe 21, Große Tugend (Sanfte Gabe) oder Beseitigung eines Fehlers (Auffällige Gabe)
->
+> 
 > Skriptbonus +15: Große Einweihungsprüfung (Fromm) +9, besonderer Ort und besondere Zeit +3, Zeit des Mystagogen +3
->
+> 
+> **Die Allee der Heilung und die Station von Reis und Honig**
+> 
+> Zielstufe 12, als Große Tugend 21 (kann um weltliche Gegenstände meditieren und sie in ihre Ganzheit zurückversetzen), erste Einweihung seit Großer Einweihungsprüfung –9
+> 
+> Skriptbonus +6: Einweihungsprüfung (Nichtkämpfer) +3, Einweihungsprüfung (Äquivalent zu einem Gelübde, Verletzten zu helfen) +3
+> 
 > **Die Allee der Huldigung und die Station des Ausdrucks**
->
+> 
 > Zielstufe 15, als Große Tugend 21 (Freie Ausdrucksfähigkeit, Inspirierend, darf Enigmatische Weisheit anstelle einer künstlerischen Fertigkeit verwenden), zweite Einweihung seit Großer Einweihungsprüfung –6
->
+> 
 > Skriptbonus +9: Zeit des Mystagogen +3, Queste zu einem Ort unsagbarer Schönheit +3, besonderer Ort und besondere Zeit +3
->
+> 
 > **Die Allee der Tausend Schönen Gesichter und die Station der Erhöhung**
->
+> 
 > Zielstufe 18, als Große Tugend 21 (kann um Gegenstände meditieren, um ihnen eine einzelne, positive Eigenschaft zu verleihen), dritte Einweihung seit Großer Einweihungsprüfung –3
->
+> 
 > Skriptbonus +12: Einweihungsprüfung (4 × Unvereinbare Künste) +12
->
+> 
 > **Unsterblicher Aufstieg als Entrückung**
->
+> 
 > Zielstufe 15, Große Tugend 21 (darf scheinbares Alter und Geschlecht wählen), zweite Einweihung seit Großer Einweihungsprüfung –6
->
+> 
 > Skriptbonus +9: Zeit des Mystagogen +3, Questen zur Bewältigung psychischer Rückstände +3, besonderer Ort und besondere Zeit +3.
-
-#### Die Allee der Heilung und die Station von Reis und Honig
-
-Ein Magus, der so weit auf dem rückwärts gerichteten Pfad gewandelt ist, kann beschädigte Dinge ohne den Einsatz von Vis in ihre Ganzheit zurückversetzen. Dies erfordert eine Labyrinth-Meditation, während er den Gegenstand trägt oder umkreist. Zum Beispiel kann ein Magus, der einen gesprungenen Smaragd hält, ihn zur Ganzheit tanzen. Durch menschliche Handwerkskunst unvollkommen gemachte Gegenstände können nicht ganz gemacht werden; ein zu einer Perle gebohrter Edelstein könnte also zu einer makellosen, ungebrochenen Perle wiederhergestellt werden, aber nicht in den Zustand eines ganzen Steins. Diese Kraft heilt Tiere und Pflanzen, außer wenn sie durch menschliche Werkzeuge verletzt wurden, kann aber toten Dingen kein Leben zurückgeben. Der Gegenstand kann gewöhnlich nicht mehr als zehn Schritt Durchmesser haben, aber Versammlungen jener mit dieser Tugend können Tanzkreise um verhältnismäßig größere Gegenstände bilden, um sie zu reparieren. Die Penetration dieser Kraft beträgt das Fünffache der Enigmatischen Weisheit des Magus.
-
-Die besondere Natur des Menschen als Geschöpf, das für sein eigenes Schicksal verantwortlich ist, macht ihn schwer zu manipulieren. Der Magus kann Menschen nicht ohne Vis sofort heilen. Durch Labyrinth-Meditationen um eine sterbende Person herum kann der Magus sie jedoch an der Schwelle des Todes halten und anderen Zeit geben, ihre Verletzungen zu stabilisieren oder magische Heilung zu gewähren. Ein Magus kann die Meditationen sicher für eine Anzahl von Stunden fortsetzen, die seinem Wert in Enigmatischer Weisheit entspricht. Dieser Prozess ist erschöpfend, aber nicht gefährlich. Der Magus kann sogar über seinen Wert in Enigmatischer Weisheit hinaus für einen zusätzlichen Zeitraum weitermachen, der einem positiven Ausdauerwert entspricht, aber dies löst eine Zwielicht-Erfahrung aus.
-
-Ein Charakter, der zum Heiler geworden ist, kann sich nicht mehr für Gewalt entscheiden; er erhält den Fehler Nichtkämpfer. Diese Magi ziehen auch verletzte, mystisch begabte Kreaturen an. Solche Wesen zu heilen erfordert manchmal, die zugrunde liegenden weltlichen Probleme zu behandeln, die ihre Wunden widerspiegeln. Zum Beispiel könnte eine Dryade mit nagenden Magenkrämpfen den Schmerz eines Teils ihres Waldes empfinden, der von magischen Termiten befallen wurde.
 
 #### Die Allee der Hingabe und die Station des Dienstes an der Harmonie
 
@@ -2739,6 +2731,14 @@ Magi beginnen diesen Pfad, indem sie ihrer zerstörerischen Vergangenheit abschw
 Nach der Reinigung bildet der Mystagoge den Bittsteller ein Quartal lang in Wissen aus, um ihm beim weiteren Beschreiten des Pfades zu helfen. In der islamischen Variante des Pfades ist dies muslimische Theologie. Sobald der Wunsch des Magus zu schaden und zu begehren vollständig verblasst ist, verlässt der Geruch der Gabe seine Seele.
 
 Die Gabe der meisten Charaktere auf diesem Pfad wird Sanft. Jene mit der Auffälligen Gabe verlieren diesen Fehler und nehmen stattdessen die normalen Nachteile der Gabe auf sich. Wenn der Charakter eine Verzerrungserfahrung erleidet, die den Geruch der Gabe wiederherstellen oder die Auffällige Gabe zurückbringen würde, wähle einen alternativen Verzerrungseffekt.
+
+#### Die Allee der Heilung und die Station von Reis und Honig
+
+Ein Magus, der so weit auf dem rückwärts gerichteten Pfad gewandelt ist, kann beschädigte Dinge ohne den Einsatz von Vis in ihre Ganzheit zurückversetzen. Dies erfordert eine Labyrinth-Meditation, während er den Gegenstand trägt oder umkreist. Zum Beispiel kann ein Magus, der einen gesprungenen Smaragd hält, ihn zur Ganzheit tanzen. Durch menschliche Handwerkskunst unvollkommen gemachte Gegenstände können nicht ganz gemacht werden; ein zu einer Perle gebohrter Edelstein könnte also zu einer makellosen, ungebrochenen Perle wiederhergestellt werden, aber nicht in den Zustand eines ganzen Steins. Diese Kraft heilt Tiere und Pflanzen, außer wenn sie durch menschliche Werkzeuge verletzt wurden, kann aber toten Dingen kein Leben zurückgeben. Der Gegenstand kann gewöhnlich nicht mehr als zehn Schritt Durchmesser haben, aber Versammlungen jener mit dieser Tugend können Tanzkreise um verhältnismäßig größere Gegenstände bilden, um sie zu reparieren. Die Penetration dieser Kraft beträgt das Fünffache der Enigmatischen Weisheit des Magus.
+
+Die besondere Natur des Menschen als Geschöpf, das für sein eigenes Schicksal verantwortlich ist, macht ihn schwer zu manipulieren. Der Magus kann Menschen nicht ohne Vis sofort heilen. Durch Labyrinth-Meditationen um eine sterbende Person herum kann der Magus sie jedoch an der Schwelle des Todes halten und anderen Zeit geben, ihre Verletzungen zu stabilisieren oder magische Heilung zu gewähren. Ein Magus kann die Meditationen sicher für eine Anzahl von Stunden fortsetzen, die seinem Wert in Enigmatischer Weisheit entspricht. Dieser Prozess ist erschöpfend, aber nicht gefährlich. Der Magus kann sogar über seinen Wert in Enigmatischer Weisheit hinaus für einen zusätzlichen Zeitraum weitermachen, der einem positiven Ausdauerwert entspricht, aber dies löst eine Zwielicht-Erfahrung aus.
+
+Ein Charakter, der zum Heiler geworden ist, kann sich nicht mehr für Gewalt entscheiden; er erhält den Fehler Nichtkämpfer. Diese Magi ziehen auch verletzte, mystisch begabte Kreaturen an. Solche Wesen zu heilen erfordert manchmal, die zugrunde liegenden weltlichen Probleme zu behandeln, die ihre Wunden widerspiegeln. Zum Beispiel könnte eine Dryade mit nagenden Magenkrämpfen den Schmerz eines Teils ihres Waldes empfinden, der von magischen Termiten befallen wurde.
 
 #### Die Allee der Huldigung und die Station des Ausdrucks
 
@@ -2784,17 +2784,17 @@ Es gibt vier Pfade, die keine lebenden Wanderer mehr haben. Jeder wird von minde
 
 ### Neue Tugenden
 
+#### Tanz, der heilt
+
+*Groß, Übernatürlich*
+
+Charaktere aus manchen Sufi-Traditionen haben die Fähigkeit, Gegenstände zur Ganzheit zu tanzen, ähnlich wie Magi auf dem Pfad des Rückwärtsgehens.
+
 #### Gast des Hauses
 
 *Klein, Allgemein*
 
 Magi mit dieser Tugend sind politisch Mitglieder von Haus Criamon, können aber mit den Regeln jedes anderen Hauses erschaffen werden. Gästen wird die Mitgliedschaft angeboten, die Criamon als politische Formalität betrachten, aus vielen Gründen. Die Spieltruppe und der Spieler sollten bestimmen, warum der Charakter es für nötig befunden hat, bei diesem Haus Zuflucht zu suchen.
-
-#### Gespräch mit den Stummen
-
-*Groß, Übernatürlich*
-
-Der Charakter hat die Fähigkeit, elementare Gegenstände dazu zu bewegen, ihm zu helfen, wie es Magi auf dem Pfad des Streits tun.
 
 #### Gorgiast
 
@@ -2802,19 +2802,13 @@ Der Charakter hat die Fähigkeit, elementare Gegenstände dazu zu bewegen, ihm z
 
 Diese Magi oder ihre Vorfahren haben die Lehren von Haus Criamon abgelehnt. Diese Magi dürfen nach der Charaktererschaffung Werte in Enigmatischer Weisheit und Haus-Criamon-Kunde haben. Der Wert des Charakters in Enigmatischer Weisheit kann ohne die Unterstützung von Criamon-Magi oder einen magischen Durchbruch den Wert 4 nicht übersteigen. Haus Criamon versucht, gorgiastische Magi zur Rückkehr zu bewegen. Gorgiastische Magi haben gewöhnlich keine Criamon-Stigmata, entwickeln sie aber, wenn sie beginnen, den Ursachen der Dinge nachzuforschen.
 
-#### Tanz, der heilt
+#### Gespräch mit den Stummen
 
 *Groß, Übernatürlich*
 
-Charaktere aus manchen Sufi-Traditionen haben die Fähigkeit, Gegenstände zur Ganzheit zu tanzen, ähnlich wie Magi auf dem Pfad des Rückwärtsgehens.
+Der Charakter hat die Fähigkeit, elementare Gegenstände dazu zu bewegen, ihm zu helfen, wie es Magi auf dem Pfad des Streits tun.
 
 ### Neue Fehler
-
-#### Bösartiger Magus
-
-*Klein, Geschichte, Übernatürlich*
-
- Ein Stück der Psyche des Magus wurde durch eine Zwielicht-Erfahrung losgebrochen und manifestiert sich nun physisch als Verfälschung. Dies ermöglicht es dem Magus, eine angenehme und aufrechte Person zu sein, weil seine negativen Impulse schreckliche Dinge tun, ohne dass der Magus es bemerkt. Schließlich muss die Verfälschung des Charakters aufgelöst werden, aber in der Zwischenzeit werden seine Feinde von einem magischen Ungeheuer mysteriösen Ursprungs angegriffen, ohne die bewusste Zustimmung oder Billigung des Magus.
 
 #### Eingeschriebener Schatten
 
@@ -2827,6 +2821,12 @@ Charaktere aus manchen Sufi-Traditionen haben die Fähigkeit, Gegenstände zur G
 *Klein, Übernatürlich*
 
 Die Anwesenheit des Charakters lässt symbolische Zeichen auf den Körpern von Menschen ohne Magieresistenz in seiner Nähe erscheinen. Der Magus kann diesen Prozess nicht kontrollieren, kann aber Würfe auf Intelligenz + Enigmatische Weisheit von 6 oder mehr ablegen, um den Betroffenen mitzuteilen, welche Form der geistigen Reinigung sie durchlaufen müssen, damit die Stigmata verschwinden. Charaktere, die stigmatisiert werden, könnten dem Magus gegenüber gewalttätig reagieren.
+
+#### Bösartiger Magus
+
+*Klein, Geschichte, Übernatürlich*
+
+ Ein Stück der Psyche des Magus wurde durch eine Zwielicht-Erfahrung losgebrochen und manifestiert sich nun physisch als Verfälschung. Dies ermöglicht es dem Magus, eine angenehme und aufrechte Person zu sein, weil seine negativen Impulse schreckliche Dinge tun, ohne dass der Magus es bemerkt. Schließlich muss die Verfälschung des Charakters aufgelöst werden, aber in der Zwischenzeit werden seine Feinde von einem magischen Ungeheuer mysteriösen Ursprungs angegriffen, ohne die bewusste Zustimmung oder Billigung des Magus.
 
 #### Vorhersagende Stigmata
 
@@ -2909,18 +2909,18 @@ Diese Magi dienen im Grunde zwei Herren: der Magiesphäre und der Feensphäre. S
 Das Haus ist nach Merinita benannt, der Frau, die Bonisagus den Hermetischen Eid schwor und sich den Gründern anschloss, als diese sich erstmals versammelten, doch viele halten ihren Anhänger Quendalon für die wahre treibende Kraft hinter seiner Identität, und manche bezeichnen ihn fälschlicherweise als einen der ursprünglichen Gründer. Die meisten „Merinitae" sind nicht dafür bekannt, aussagekräftige Aufzeichnungen oder Historien zu führen, aber sie sind berühmt für ihre Wertschätzung von Geschichten, und einige, die die Gründerin und die Geschichte des Hauses betreffen, werden noch immer unter Magi erzählt, die sich dafür interessieren, von jenen, die behaupten, sie von anderen zu haben, die dabei waren. Eine besonders verbreitete berichtet, dass Quendalon gewöhnlich einen schweren Umhang mit einer Kapuze trug, die seine Augen verdeckte, und viele Merinitae legen diese Kleidung gelegentlich an.
 
 > ### Berühmte Gestalten
->
-> **Alsia**, erfand das Ritual für zeitweilige Vertraute
->
-> **Ambrosius**, brachte Volksmysterien in das Haus
->
-> **Farrago**, entdeckte drei zusätzliche Vertrautenkordeln
+> 
 > **Merinita**, Gründerin, führte die Verzauberung ein, die einen Vertrauten bindet **Quendalon**, erster Primus, entdeckte die Feenmysterien
->
+> 
 > **Myanar**, zweite Prima, in Ungnade gefallen, ihre Linie verbannt
->
+> 
+> **Alsia**, erfand das Ritual für zeitweilige Vertraute
+> 
+> **Ambrosius**, brachte Volksmysterien in das Haus
+> 
 > **Pendule**, half seinen Anhängern, die Illusionsmysterien zu entwickeln
->
+> 
+> **Farrago**, entdeckte drei zusätzliche Vertrautenkordeln
 
 > **Mendalus**, plädierte für eine Rückkehr zu Merinitas Wegen
 > 
@@ -3328,47 +3328,6 @@ Dies ist die Fertigkeit, die Merinitae verwenden, um ihre Hausmysterien einzuwei
 
 Merinita führte das Ritual ein, das es einer Maga erlaubt, sich mit ihrem Vertrauten zu binden, und viele ihrer Anhänger haben eine besondere Affinität zu ihnen entwickelt. Tatsächlich wird es innerhalb des Hauses weitaus mehr respektiert, einen Vertrauten anzunehmen, als einen Lehrling auszubilden, und jene, die Letzteres vor Ersterem tun, werden von ihren Kollegen eher geringgeschätzt. Merinitae, die sich für diese Richtung interessieren, könnten einen Großen Magischen Fokus auf Vertraute nehmen, der auf alle Zauber und Laborarbeiten angewendet wird, die Vertraute betreffen, ob ihre eigenen oder jene anderer Magi.
 
-#### Bindung der Gabe (Kleines Hausmysterium)
-
-Merinita wusste, wie man eine zusätzliche Eigenschaft der Kordeln freisetzen konnte, die eine Maga an ihren Vertrauten binden: Sie lernte, die übernatürliche Qualität ihrer Gabe, die soziale Beziehungen beeinflusst, mit dem Vertrauten zu teilen, und konnte so einige der Nachteile abmildern. Man sagt, dies habe ihr geholfen, ihre legendäre Schüchternheit zu überwinden. Sie lehrte dieses Geheimnis vielen ihrer Anhänger, darunter einigen, die sich später Quendalon anschlossen, und daher wird es noch immer in ihrem Haus gelehrt.
-
-Nach der Einweihung in dieses Mysterium leidet der Vertraute des Magus unter denselben sozialen Nachteilen, die der Magus selbst wegen der Gabe erleidet – die meisten Menschen und Tiere können spüren, dass etwas an dem Vertrauten anders ist, und werden durch seine Anwesenheit verunsichert. Wenn der Magus die Sanfte Gabe besitzt, oder wenn seine Gabe für eine bestimmte Art von Wesen unauffällig ist, wird sein Vertrauter von diesen Tugenden gleichermaßen geschützt. Wenn er die Auffällige Gabe besitzt oder anderweitig für manche abstoßend ist, erbt sein Vertrauter auch diese Fehler.
-
-Die drei Kordeln, die den Magus und seinen Vertrauten binden, dienen auch dazu, die Nachteile für beide zu verringern, und wenn sie einander näherkommen, können sie die Nachteile sogar gänzlich überwinden und für bestimmte Arten von Menschen oder Kreaturen anziehender werden. Der Vertraute wirkt besänftigend auf die Gabe des Magus und hilft, andere Wesen mit ähnlichem Hintergrund in seiner Nähe zu beruhigen. Jede Kordel hat somit eine zusätzliche Wirkung, wie unten beschrieben.
-
-**Die Goldene Gabe:** Der Spielleiter sollte den Wert der Goldenen Kordel auf soziale Würfe addieren, die Interaktionen mit allen magischen Wesen betreffen, das heißt solchen, die einen Machtwert der Magiesphäre besitzen oder einen übernatürlichen Hintergrund haben, der mit der Magiesphäre verbunden ist. Dies schließt hermetische Magi ein, obwohl diese aufgrund der Parma Magica gewöhnlich gegen soziale Auswirkungen der Gabe immun sind.
-- **Die Silberne Gabe:** Dies stärkt die Beziehung des Magus zu Feen und Feenkreaturen. Addiere den Wert der Silbernen Kordel auf alle sozialen Würfe, die Personen und Kreaturen mit Feenmacht betreffen, oder die einen übernatürlichen Hintergrund haben, der mit den Feen verbunden ist. Magi mit Feentugenden und -fehlern fallen in diese Kategorie, aber auch sie sind gewöhnlich durch die Parma Magica vor dem Effekt geschützt. 
-- **Die Bronzene Gabe:** Die Gabe des Magus ist weniger lästig für sterbliche Tiere; der Spielleiter sollte den Wert der Bronzenen Kordel auf alle Würfe addieren, die soziale Interaktionen mit ihnen betreffen. Einige Tiere – gewöhnlich solche mit übernatürlicher Natur – reagieren nicht negativ auf die Gabe, und in diesem Fall verbessert diese Kordel die Beziehungen des Magus zu ihnen nicht, da es keinen Nachteil gibt, den die Kordel ausgleichen könnte. 
-
-Die Bindung mit einem Feenvertrauten umfasst gewöhnlich das Schmieden dreier zusätzlicher Kordeln, wie oben beschrieben, und diese Kordeln werden durch diese Tugend ebenfalls negativ beeinflusst. Der Wert der Kordel wird zum Nachteil der Gabe addiert, wodurch der Magus und sein Vertrauter unter bestimmten, mit der Kordel zusammenhängenden Umständen noch stärker gemieden werden.
-
-- **Die Bleierne Kordel:** Der Magus wird im Dominium weniger anziehend, und göttliche Wesen oder Personen, die mit der Göttlichen Sphäre verbunden sind, werden durch seine Anwesenheit stärker verunsichert. Der Spielleiter sollte den Wert der bleiernen Kordel von allen sozialen Würfen abziehen, die unter diesen Bedingungen gemacht werden, einschließlich immer dann, wenn der Magus etwas berührt, das mit der Göttlichen Sphäre verbunden ist. 
-- **Die Eiserne Kordel:** Die Höllensphäre bringt negative Eigenschaften im Magus und seinem Vertrauten zum Vorschein und verstärkt das Unbehagen, das seine Gabe verursacht. Ziehe den Wert der eisernen Kordel von allen sozialen Würfen ab, die in Infernalen Auren gemacht werden, im Umgang mit Wesen, die Infernale Macht oder einen infernalen Hintergrund besitzen, oder beim Berühren von Dingen, die mit dem Bösen befleckt sind. Der Magus wird auch ähnlich benachteiligt, wann immer er Eisen berührt.
-
-**Die Zinnerne Kordel:** Die Gabe des Magus ist besonders lästig für normale Menschen, jene, die keinerlei übernatürlichen Hintergrund besitzen. Der Spielleiter sollte den Wert der zinnernen Kordel von allen sozialen Würfen abziehen, die sterbliche menschliche Interaktion betreffen. 
-
-Unter Umständen, in denen mehr als eine Kordel gilt, verwende diejenige mit dem höheren Wert. Wenn zum Beispiel mit einer Person interagiert wird, die sowohl feenhafte als auch magische Aspekte besitzt, wende entweder die Goldene Gabe oder die Silberne Gabe an, je nachdem, welche stärker ist. Wenn sowohl eine positive als auch eine negative Kordel gilt, verwende beide, addiere den Bonus und ziehe den Abzug ab.
-
-Dieses Mysterium gilt als ein seltsames Relikt des Hauses aus der Zeit vor Quendalon, und die meisten etablierten Einweihungsskripte dafür sind sehr naturorientiert und umfassen oft Prüfungen, bei denen der Magus eine Zeitlang in der Wildnis oder am Rande der Gesellschaft leben muss.
-
-#### Die drei Feenkordeln
-
-In den späten 1000er Jahren fand eine Maga namens Farrago Bonisagi eine Lösung für das Dilemma der Feenvertrauten. Sie gehörte Haus Bonisagus an, war aber sehr daran interessiert, Feenkräfte in die hermetische Magietheorie zu integrieren, und weihte das Mysterium der Feenmagie viele Jahre nach dem Eid ein, wobei sie Haus Merinita beitrat, um ihre Forschung voranzutreiben. Ihr erstes Projekt beinhaltete den Versuch, einen Weg zu finden, Feenkräfte von einem Feenvertrauten zu erlernen und sie durch die Bindung einzuweihen, doch sie scheiterte daran völlig und schrieb ihr Versagen der vergänglichen Natur der Verzauberung zu. Bald wurde sie davon besessen, einen Weg zu finden, sich dauerhaft an eine Fee zu binden.
-
-Ihre Studien führten sie dazu, kryptische Kommentare zu untersuchen, die Merinita zugeschrieben werden, über zusätzliche Kordeln in der Vertrautenverzauberung. Sie konnte keine Beschreibung dieser Kordeln finden, aber sie vermutete, dass sie irgendwie mit den anderen verbunden waren, und nach vielen Jahren des Experimentierens konnte sie drei davon isolieren. Sie nannte sie die bleierne Kordel, die eiserne Kordel und die zinnerne Kordel, und sie dokumentierte ihre Entdeckungen gut, sodass jeder, der in die Feenmagie eingeweiht war, davon profitieren konnte. Sie glaubte auch, dass es mindestens eine weitere noch zu identifizierende Kordel gab, spekulierte aber nicht, was sie bewirken könnte.
-
-Diese drei Kordeln haben negative statt positive Auswirkungen. Sie behindern den Geist, den Körper und die Seele der Maga unter bestimmten Umständen, gleichen die Vorteile der anderen Kordeln aus und machen sie verwundbarer. Das liegt daran, dass sie Maga und Vertrauten nicht einander näherbringen, sondern den Vertrauten sicherer an die Maga binden und so verhindern, dass seine Feennatur die Kordeln, die sie verbinden, erodiert. In gewissem Sinne stärken diese negativen Kordeln die positiven Kordeln, während sie zugleich deren Kraft begrenzen.
-
-Die Kordeln werden genau auf dieselbe Weise erworben wie die anderen, indem die Laborsumme der Maga für ein Quartal in Punkte aufgeteilt wird, die unter ihnen verteilt werden. Die Kordeln dienen dazu, einander auszugleichen, und solange die Summe der Werte eines Satzes von Kordeln die Summe der Werte des anderen nicht übersteigt, verfallen die Kordeln nicht und die Maga muss keine Alterungspunkte auf sie anwenden. Das bedeutet, dass eine negative Kordel mit Wert +3 drei positive Kordeln mit je +1 ausgleichen kann, oder umgekehrt. Besteht eine Diskrepanz, erhält die Kordel mit dem höchsten Wert auf der Seite mit der größeren Gesamtsumme, ob negativ oder positiv, jedes Jahr wie gewöhnlich einen Alterungspunkt.
-
-Wie die positiven Kordeln hat auch jede negative Kordel eine unterschiedliche Auswirkung, die sowohl die Maga als auch ihren Vertrauten benachteiligt.
-
-- **Die Bleierne Kordel:** Die Maga ist anfälliger für das Göttliche und neigt in dessen Gegenwart stärker zu magischen Fehlern; addiere den Wert dieser Kordel zur Anzahl der Patzerwürfel, die gewürfelt werden müssen, wenn die Maga ihre Kräfte im Dominium oder bei Berührung eines heiligen Gegenstands einsetzt. Du musst diesen Wert auch von ihren Versuchen abziehen, göttlichem Einfluss zu widerstehen, einschließlich Persönlichkeitseigenschafts- und natürlichen Widerstandswürfen. 
-- **Die Eiserne Kordel:** Die Maga verträgt das Berühren von Eisen nicht. Wenn sie es berührt, muss der Wert dieser Kordel als Abzug auf alle ihre Würfe angewendet und von ihrer Absorption abgezogen werden, wenn sie von eisernen Waffen getroffen wird. Sie ist auch weitaus anfälliger für die Höllensphäre und muss die Anzahl der Patzerwürfel um diesen Betrag erhöhen, wenn sie ihre Kräfte in einer Infernalen Aura einsetzt. 
-- **Die Zinnerne Kordel:** Die Maga ist außerhalb übernatürlicher Auren verwundbarer, und der Mangel an Verbindung zu einer mystischen Sphäre macht sie sehr nervös und unwohl. Wenn sie sich nicht innerhalb einer übernatürlichen Aura irgendeiner Art befindet, muss der Wert dieser Kordel von allen Persönlichkeitseigenschaftswürfen, natürlichen Widerstandswürfen, Heilungswürfen, Entbehrungswürfen und Alterungswürfen abgezogen werden. Du ziehst diesen Wert auch von ihrer Absorption ab. 
-
-Feen, die mit diesen negativen Kordeln gebunden sind, beginnen oft, ihre Herren zu verachten, und verspüren ein furchtbares Verlangen nach Freiheit. Es liegt in der Natur der Feen, sich gegen Fesseln zu sträuben; wenn die Bindungen nicht natürlich verfallen, beginnt der Vertraute, Freiheit stärker zu begehren als alles andere, und wird mit der Vereinbarung zunehmend unzufrieden. Manche Feenvertraute begehen Selbstmord, um ihren Bindungen zu entkommen, während andere in seltsamer und gehässiger Weise aufbegehren, und einige ertragen ihre Gefangenschaft einfach in stiller Verzweiflung.
-
 #### Einen Feenvertrauten binden
 
 Wenn ein Charakter in das Äußere Mysterium der Feenmagie eingeweiht wurde, kann er als Vertrauten jedes Lebewesen binden, das seinem Wesen nach feenhaft ist. Dies wird fast immer durch einen Feenmachtwert dargestellt, kann aber auch für Personen und Tiere gelten, die durch enge Verbindung mit der Feensphäre selbst feenhaft geworden sind. Das Wesen muss auf irgendeine Weise auf die Maga eingestimmt sein, damit die Verzauberung gelingt, genau wie bei magischen Tieren, was gegenseitige Bewunderung und ein kompatibles Wesen erfordert. Der Charakter verzaubert die Fee dann wie üblich unter Verwendung der Laborsumme für die Vertrautenbindung (ArM5, [Seite 104](<Ars Magica Definitive Edition Basisregeln.md#die-erste-bindung>)).
@@ -3403,9 +3362,71 @@ Andere Merinitae sind von dieser Praxis beunruhigt, zumal sie das genaue Gegente
 > 
 > (Basiseffekt, +1 Berührung, +4 Bis)
 
+#### Die drei Feenkordeln
+
+In den späten 1000er Jahren fand eine Maga namens Farrago Bonisagi eine Lösung für das Dilemma der Feenvertrauten. Sie gehörte Haus Bonisagus an, war aber sehr daran interessiert, Feenkräfte in die hermetische Magietheorie zu integrieren, und weihte das Mysterium der Feenmagie viele Jahre nach dem Eid ein, wobei sie Haus Merinita beitrat, um ihre Forschung voranzutreiben. Ihr erstes Projekt beinhaltete den Versuch, einen Weg zu finden, Feenkräfte von einem Feenvertrauten zu erlernen und sie durch die Bindung einzuweihen, doch sie scheiterte daran völlig und schrieb ihr Versagen der vergänglichen Natur der Verzauberung zu. Bald wurde sie davon besessen, einen Weg zu finden, sich dauerhaft an eine Fee zu binden.
+
+Ihre Studien führten sie dazu, kryptische Kommentare zu untersuchen, die Merinita zugeschrieben werden, über zusätzliche Kordeln in der Vertrautenverzauberung. Sie konnte keine Beschreibung dieser Kordeln finden, aber sie vermutete, dass sie irgendwie mit den anderen verbunden waren, und nach vielen Jahren des Experimentierens konnte sie drei davon isolieren. Sie nannte sie die bleierne Kordel, die eiserne Kordel und die zinnerne Kordel, und sie dokumentierte ihre Entdeckungen gut, sodass jeder, der in die Feenmagie eingeweiht war, davon profitieren konnte. Sie glaubte auch, dass es mindestens eine weitere noch zu identifizierende Kordel gab, spekulierte aber nicht, was sie bewirken könnte.
+
+Diese drei Kordeln haben negative statt positive Auswirkungen. Sie behindern den Geist, den Körper und die Seele der Maga unter bestimmten Umständen, gleichen die Vorteile der anderen Kordeln aus und machen sie verwundbarer. Das liegt daran, dass sie Maga und Vertrauten nicht einander näherbringen, sondern den Vertrauten sicherer an die Maga binden und so verhindern, dass seine Feennatur die Kordeln, die sie verbinden, erodiert. In gewissem Sinne stärken diese negativen Kordeln die positiven Kordeln, während sie zugleich deren Kraft begrenzen.
+
+Die Kordeln werden genau auf dieselbe Weise erworben wie die anderen, indem die Laborsumme der Maga für ein Quartal in Punkte aufgeteilt wird, die unter ihnen verteilt werden. Die Kordeln dienen dazu, einander auszugleichen, und solange die Summe der Werte eines Satzes von Kordeln die Summe der Werte des anderen nicht übersteigt, verfallen die Kordeln nicht und die Maga muss keine Alterungspunkte auf sie anwenden. Das bedeutet, dass eine negative Kordel mit Wert +3 drei positive Kordeln mit je +1 ausgleichen kann, oder umgekehrt. Besteht eine Diskrepanz, erhält die Kordel mit dem höchsten Wert auf der Seite mit der größeren Gesamtsumme, ob negativ oder positiv, jedes Jahr wie gewöhnlich einen Alterungspunkt.
+
+Wie die positiven Kordeln hat auch jede negative Kordel eine unterschiedliche Auswirkung, die sowohl die Maga als auch ihren Vertrauten benachteiligt.
+
+- **Die Bleierne Kordel:** Die Maga ist anfälliger für das Göttliche und neigt in dessen Gegenwart stärker zu magischen Fehlern; addiere den Wert dieser Kordel zur Anzahl der Patzerwürfel, die gewürfelt werden müssen, wenn die Maga ihre Kräfte im Dominium oder bei Berührung eines heiligen Gegenstands einsetzt. Du musst diesen Wert auch von ihren Versuchen abziehen, göttlichem Einfluss zu widerstehen, einschließlich Persönlichkeitseigenschafts- und natürlichen Widerstandswürfen. 
+- **Die Eiserne Kordel:** Die Maga verträgt das Berühren von Eisen nicht. Wenn sie es berührt, muss der Wert dieser Kordel als Abzug auf alle ihre Würfe angewendet und von ihrer Absorption abgezogen werden, wenn sie von eisernen Waffen getroffen wird. Sie ist auch weitaus anfälliger für die Höllensphäre und muss die Anzahl der Patzerwürfel um diesen Betrag erhöhen, wenn sie ihre Kräfte in einer Infernalen Aura einsetzt. 
+- **Die Zinnerne Kordel:** Die Maga ist außerhalb übernatürlicher Auren verwundbarer, und der Mangel an Verbindung zu einer mystischen Sphäre macht sie sehr nervös und unwohl. Wenn sie sich nicht innerhalb einer übernatürlichen Aura irgendeiner Art befindet, muss der Wert dieser Kordel von allen Persönlichkeitseigenschaftswürfen, natürlichen Widerstandswürfen, Heilungswürfen, Entbehrungswürfen und Alterungswürfen abgezogen werden. Du ziehst diesen Wert auch von ihrer Absorption ab. 
+
+Feen, die mit diesen negativen Kordeln gebunden sind, beginnen oft, ihre Herren zu verachten, und verspüren ein furchtbares Verlangen nach Freiheit. Es liegt in der Natur der Feen, sich gegen Fesseln zu sträuben; wenn die Bindungen nicht natürlich verfallen, beginnt der Vertraute, Freiheit stärker zu begehren als alles andere, und wird mit der Vereinbarung zunehmend unzufrieden. Manche Feenvertraute begehen Selbstmord, um ihren Bindungen zu entkommen, während andere in seltsamer und gehässiger Weise aufbegehren, und einige ertragen ihre Gefangenschaft einfach in stiller Verzweiflung.
+
+#### Bindung der Gabe (Kleines Hausmysterium)
+
+Merinita wusste, wie man eine zusätzliche Eigenschaft der Kordeln freisetzen konnte, die eine Maga an ihren Vertrauten binden: Sie lernte, die übernatürliche Qualität ihrer Gabe, die soziale Beziehungen beeinflusst, mit dem Vertrauten zu teilen, und konnte so einige der Nachteile abmildern. Man sagt, dies habe ihr geholfen, ihre legendäre Schüchternheit zu überwinden. Sie lehrte dieses Geheimnis vielen ihrer Anhänger, darunter einigen, die sich später Quendalon anschlossen, und daher wird es noch immer in ihrem Haus gelehrt.
+
+Nach der Einweihung in dieses Mysterium leidet der Vertraute des Magus unter denselben sozialen Nachteilen, die der Magus selbst wegen der Gabe erleidet – die meisten Menschen und Tiere können spüren, dass etwas an dem Vertrauten anders ist, und werden durch seine Anwesenheit verunsichert. Wenn der Magus die Sanfte Gabe besitzt, oder wenn seine Gabe für eine bestimmte Art von Wesen unauffällig ist, wird sein Vertrauter von diesen Tugenden gleichermaßen geschützt. Wenn er die Auffällige Gabe besitzt oder anderweitig für manche abstoßend ist, erbt sein Vertrauter auch diese Fehler.
+
+Die drei Kordeln, die den Magus und seinen Vertrauten binden, dienen auch dazu, die Nachteile für beide zu verringern, und wenn sie einander näherkommen, können sie die Nachteile sogar gänzlich überwinden und für bestimmte Arten von Menschen oder Kreaturen anziehender werden. Der Vertraute wirkt besänftigend auf die Gabe des Magus und hilft, andere Wesen mit ähnlichem Hintergrund in seiner Nähe zu beruhigen. Jede Kordel hat somit eine zusätzliche Wirkung, wie unten beschrieben.
+
+**Die Goldene Gabe:** Der Spielleiter sollte den Wert der Goldenen Kordel auf soziale Würfe addieren, die Interaktionen mit allen magischen Wesen betreffen, das heißt solchen, die einen Machtwert der Magiesphäre besitzen oder einen übernatürlichen Hintergrund haben, der mit der Magiesphäre verbunden ist. Dies schließt hermetische Magi ein, obwohl diese aufgrund der Parma Magica gewöhnlich gegen soziale Auswirkungen der Gabe immun sind.
+- **Die Silberne Gabe:** Dies stärkt die Beziehung des Magus zu Feen und Feenkreaturen. Addiere den Wert der Silbernen Kordel auf alle sozialen Würfe, die Personen und Kreaturen mit Feenmacht betreffen, oder die einen übernatürlichen Hintergrund haben, der mit den Feen verbunden ist. Magi mit Feentugenden und -fehlern fallen in diese Kategorie, aber auch sie sind gewöhnlich durch die Parma Magica vor dem Effekt geschützt. 
+- **Die Bronzene Gabe:** Die Gabe des Magus ist weniger lästig für sterbliche Tiere; der Spielleiter sollte den Wert der Bronzenen Kordel auf alle Würfe addieren, die soziale Interaktionen mit ihnen betreffen. Einige Tiere – gewöhnlich solche mit übernatürlicher Natur – reagieren nicht negativ auf die Gabe, und in diesem Fall verbessert diese Kordel die Beziehungen des Magus zu ihnen nicht, da es keinen Nachteil gibt, den die Kordel ausgleichen könnte. 
+
+Die Bindung mit einem Feenvertrauten umfasst gewöhnlich das Schmieden dreier zusätzlicher Kordeln, wie oben beschrieben, und diese Kordeln werden durch diese Tugend ebenfalls negativ beeinflusst. Der Wert der Kordel wird zum Nachteil der Gabe addiert, wodurch der Magus und sein Vertrauter unter bestimmten, mit der Kordel zusammenhängenden Umständen noch stärker gemieden werden.
+
+- **Die Bleierne Kordel:** Der Magus wird im Dominium weniger anziehend, und göttliche Wesen oder Personen, die mit der Göttlichen Sphäre verbunden sind, werden durch seine Anwesenheit stärker verunsichert. Der Spielleiter sollte den Wert der bleiernen Kordel von allen sozialen Würfen abziehen, die unter diesen Bedingungen gemacht werden, einschließlich immer dann, wenn der Magus etwas berührt, das mit der Göttlichen Sphäre verbunden ist. 
+- **Die Eiserne Kordel:** Die Höllensphäre bringt negative Eigenschaften im Magus und seinem Vertrauten zum Vorschein und verstärkt das Unbehagen, das seine Gabe verursacht. Ziehe den Wert der eisernen Kordel von allen sozialen Würfen ab, die in Infernalen Auren gemacht werden, im Umgang mit Wesen, die Infernale Macht oder einen infernalen Hintergrund besitzen, oder beim Berühren von Dingen, die mit dem Bösen befleckt sind. Der Magus wird auch ähnlich benachteiligt, wann immer er Eisen berührt.
+
+**Die Zinnerne Kordel:** Die Gabe des Magus ist besonders lästig für normale Menschen, jene, die keinerlei übernatürlichen Hintergrund besitzen. Der Spielleiter sollte den Wert der zinnernen Kordel von allen sozialen Würfen abziehen, die sterbliche menschliche Interaktion betreffen. 
+
+Unter Umständen, in denen mehr als eine Kordel gilt, verwende diejenige mit dem höheren Wert. Wenn zum Beispiel mit einer Person interagiert wird, die sowohl feenhafte als auch magische Aspekte besitzt, wende entweder die Goldene Gabe oder die Silberne Gabe an, je nachdem, welche stärker ist. Wenn sowohl eine positive als auch eine negative Kordel gilt, verwende beide, addiere den Bonus und ziehe den Abzug ab.
+
+Dieses Mysterium gilt als ein seltsames Relikt des Hauses aus der Zeit vor Quendalon, und die meisten etablierten Einweihungsskripte dafür sind sehr naturorientiert und umfassen oft Prüfungen, bei denen der Magus eine Zeitlang in der Wildnis oder am Rande der Gesellschaft leben muss.
+
 ### Arkadische Mysterien
 
 Diese sind die Mysterien, die angeblich von Quendalon entdeckt wurden und die für den dramatischen Wandel in der Ausrichtung seines Hauses verantwortlich waren. Sie befassen sich mit Feen und der Feensphäre und ermöglichen es Magi, durch die Feenwelt zu reisen, Feen aus Arkadien in die physische Welt zu rufen und selbst zu Feen zu werden.
+
+#### Arkadische Reise (Kleines Arkadisches Mysterium)
+
+Dieses Mysterium erlaubt es der Maga, relativ mühelos zwischen der Feenwelt und der sterblichen Welt zu reisen, und zwar über besondere Pfade, die **Feenpfade** genannt werden. Feenpfade sind Wege, die in die Feenwelt hinein- und aus ihr herausführen; sie verbinden die verschiedenen Ebenen der Regiones miteinander und mit der weltlichen Welt und können sogar nach Arkadien führen. Diese Pfade entstehen gelegentlich auf natürliche Weise, wie jene wissen, die mit Regiones vertraut sind, doch mit dieser geheimen Magie können Merinitae sie nach Belieben erscheinen lassen.
+
+Einen Feenpfad zu öffnen erfordert, dass die Maga zunächst einen Zauberspruch (siehe oben) entwirft, der das Ziel des Feenpfads darstellt. Es ist möglich, einen Zauberspruch für einen Ort zu erschaffen, an dem sie nie gewesen ist – der Schwierigkeitsgrad beträgt 12 für einen weltlichen Ort, 15 für eine Regioebene und 18, wenn das Ziel Teil Arkadiens ist. Menschen können Feenpfade erschaffen, um phantastische Orte zu besuchen, die sie sich nur vorstellen können; Feen hingegen können das nicht – sie können nur zu Orten reisen, die sie kennen.
+
+Sobald sie einen geeigneten Zauberspruch hat, muss sich die Maga darauf konzentrieren; sie muss in der Lage sein, den Zauberspruch wahrzunehmen, und wenn er im Voraus angefertigt wurde, muss sie den damit verbundenen Gegenstand berühren. Dieser Vorgang dauert gewöhnlich etwa zehn Minuten, doch wenn sie den Zauberspruch spontan entwirft, kann sie diese Zeit mit der Herstellungszeit verbinden. Dann muss die Maga ihre Werte in Wahrnehmung + der zur Anfertigung des Zauberspruchs verwendeten Fertigkeit als Wurf ablegen.
+
+**Arkadische Reise-Summe: Stresswürfel + Wahrnehmung + (Fertigkeit) + Aura**
+
+Ein weltliches Ziel kann nur erreicht werden, indem man zuerst zu einer darüber liegenden Regioebene reist, und je weiter von der Realität entfernt das Ziel liegt, desto schwieriger ist es, den Feenpfad zu öffnen, wie die folgende Tabelle zeigt. Wenn die Maga jedoch eine Arkane Verbindung zum Ziel des Feenpfads besitzt, darf sie 6 vom Schwierigkeitsgrad abziehen. Für die Bewertung des Modifikators einer übernatürlichen Aura kannst du dies entweder als Feenkraft oder als Magische Kraft behandeln, wobei der günstigere Effekt gilt.
+
+| Ziel          | Schwierigkeitsgrad                         |
+|---------------|---------------------------------------------|
+| Regioebene    | Ebene des Ziels × 3                         |
+| Regio verlassen | aktuelle Regioebene × 3                   |
+| Arkadien      | (13 − aktueller Auramodifikator) × 3        |
+| Arkadien verlassen | (13 − Auramodifikator des Ziels) × 3   |
+
+Neben der Maga kann ein Feenpfad eine Anzahl weiterer Personen befördern, die ihrem Feenmagie-Wert entspricht, solange sie alle an der Aktivierung des Zauberspruchs teilnehmen und sich wie die Maga darauf konzentrieren. Während sie in das Erlebnis vertieft sind, führt die Maga sie durch den Feenpfad, und sie erscheinen sofort an seinem Ziel neben der Maga. Es ist unmöglich, einen Feenpfad gegen seinen Willen zu betreten, wohl aber unwissentlich.
 
 #### Animae-Magie (Großes Arkadisches Mysterium)
 
@@ -3426,23 +3447,23 @@ Merinitae streiten oft über die Herkunft der Animae. Manche sagen, sie seien sc
 > Feentiere gleichen weltlichen Tieren, außer dass sie gewöhnlich sprechen können, wie Menschen laufen und oft andere menschliche Eigenschaften besitzen. Tiere oder Tierprodukte, die in Animae verwandelt werden, behalten gewöhnlich tierhafte Eigenschaften, obwohl sie dennoch intelligent sind. Zum Beispiel wäre eine in eine Fee verwandelte Ziege haarig, mit Hörnern und Ziegenfüßen, und hätte entsprechend ziegenhafte Persönlichkeitszüge; ein Fisch könnte zu einer Meerjungfrau oder einer anderen Art von Mischwesen aus Mensch und Seegeschöpf werden.
 > 
 > #### Creo Animal
->
+> 
 > **Stufe 10:** Erschaffe eine Feeninsekt.
->
+> 
 > **Stufe 15:** Erschaffe einen Feenvogel, ein Feenreptil, einen Feenfisch oder eine Feenamphibie.
->
+> 
 > **Stufe 20:** Erschaffe ein Feensäugetier.
->
+> 
 > **Stufe 25:** Erschaffe eine Fee mit Tierteilen, wie Flügeln oder Kiemen. Erschaffe eine Fee, die eine Kombination aus mehreren Tieren ist.
->
+> 
 > #### Muto Animal
->
+> 
 > **Stufe 10:** Verwandle ein Tier in eine Fee.
->
+> 
 > **Stufe 15:** Verwandle etwas aus Tierprodukten in eine Fee.
->
+> 
 > **Stufe 20:** Verwandle etwas aus mehreren Tieren oder Tierprodukten in eine Fee.
->
+> 
 > ### Aquam
 > 
 > Wasserfeen können launisch sein, sind aber oft tiefgründig und unergründlich. Sie haben mächtige Begierden und können unglaublich zerstörerisch sein, wenn sie entfesselt werden.
@@ -3478,13 +3499,13 @@ Merinitae streiten oft über die Herkunft der Animae. Manche sagen, sie seien sc
 > **Stufe 15:** Erschaffe eine Fee, die im Wesentlichen menschlich erscheint (eine Leiche, ein Buckliger).
 > 
 > #### Muto Corpus
->
+> 
 > **Stufe 15:** Verwandle ein Skelett, eine Leiche oder andere menschliche Überreste in eine Fee.
->
+> 
 > **Stufe 20:** Belebe menschliche Überreste in ungewöhnlicher Form oder eine Kombination mehrerer Körper.
->
+> 
 > **Stufe 25:** Verbinde menschliche und tierische Überreste zu einer Fee (Animal-Requisit).
->
+> 
 > ### Herbam
 > 
 > Feen des Holzes sind wohl die bekanntesten Feen im Mythischen Europa. Sie verhalten sich im Allgemeinen sehr ähnlich wie Bäume, deren Bewusstsein erweckt wurde.
@@ -3542,25 +3563,25 @@ Merinitae streiten oft über die Herkunft der Animae. Manche sagen, sie seien sc
 > Feen der Berge neigen dazu, schroff und langsam zu sein, obwohl sie sich wie Lawinen manchmal mit überraschender Geschwindigkeit bewegen können. Feen der Erde sind oft warmherzig und gutmütig, während Feen des Steins kalt und leidenschaftslos sein können. Eisenfeen sind gewöhnlich bösartig und dämonisch.
 > 
 > #### Creo Terram
->
-> **Stufe 15:** Erschaffe eine Fee, die mit unedlem Metall verbunden ist.
->
-> **Stufe 25:** Erschaffe eine Fee, die mit Edelmetall verbunden ist.
->
+> 
 > **Stufe 3:** Erschaffe eine Fee, die mit Sand, Dreck, Schlamm oder Lehm verbunden ist.
->
-> **Stufe 35:** Erschaffe eine Fee, die mit einem Edelstein verbunden ist.
->
+> 
 > **Stufe 5:** Erschaffe eine Fee, die mit Stein oder Glas verbunden ist.
->
+> 
+> **Stufe 15:** Erschaffe eine Fee, die mit unedlem Metall verbunden ist.
+> 
+> **Stufe 25:** Erschaffe eine Fee, die mit Edelmetall verbunden ist.
+> 
+> **Stufe 35:** Erschaffe eine Fee, die mit einem Edelstein verbunden ist.
+> 
 > #### Muto Terram
->
-> **Stufe 10:** Verwandle Metall oder einen Edelstein in eine Fee.
->
+> 
 > **Stufe 4:** Verwandle Dreck, Sand, Schlamm oder Lehm in eine Fee.
->
+> 
 > **Stufe 5:** Verwandle Stein oder Glas in eine Fee.
->
+> 
+> **Stufe 10:** Verwandle Metall oder einen Edelstein in eine Fee.
+> 
 > ### Vim
 > 
 > Vim-Feen sind die unberechenbarsten von allen, im Wesentlichen rohe Magie, der Leben eingehaucht wurde. Sie sind mit übernatürlichen Effekten und besonders mit Verzerrung verbunden und werden von Auren, Zaubern und verzauberten Geräten angezogen. Sie haben Kräfte, die Daimones ähneln (siehe *Die Mysterien (Überarbeitete Ausgabe)*, Theurgie). Beachte, dass in Feen verwandelte Zauber nur so lange anhalten wie der ursprüngliche Zauber, selbst wenn der Verwandlungszauber eine längere Dauer hat.
@@ -3574,45 +3595,6 @@ Merinitae streiten oft über die Herkunft der Animae. Manche sagen, sie seien sc
 > **Allg.:** Verwandle einen Zauber oder Effekt mit einer Stufe kleiner oder gleich (Stufe dieses Zaubers + 5) in eine Fee.
 > 
 > **Stufe 2:** Verwandle Vis in eine Fee, mit (Anzahl der Bauern × 5) Machtpunkten, wobei das Vis im Prozess verbraucht wird.
-
-#### Arkadische Reise (Kleines Arkadisches Mysterium)
-
-Dieses Mysterium erlaubt es der Maga, relativ mühelos zwischen der Feenwelt und der sterblichen Welt zu reisen, und zwar über besondere Pfade, die **Feenpfade** genannt werden. Feenpfade sind Wege, die in die Feenwelt hinein- und aus ihr herausführen; sie verbinden die verschiedenen Ebenen der Regiones miteinander und mit der weltlichen Welt und können sogar nach Arkadien führen. Diese Pfade entstehen gelegentlich auf natürliche Weise, wie jene wissen, die mit Regiones vertraut sind, doch mit dieser geheimen Magie können Merinitae sie nach Belieben erscheinen lassen.
-
-Einen Feenpfad zu öffnen erfordert, dass die Maga zunächst einen Zauberspruch (siehe oben) entwirft, der das Ziel des Feenpfads darstellt. Es ist möglich, einen Zauberspruch für einen Ort zu erschaffen, an dem sie nie gewesen ist – der Schwierigkeitsgrad beträgt 12 für einen weltlichen Ort, 15 für eine Regioebene und 18, wenn das Ziel Teil Arkadiens ist. Menschen können Feenpfade erschaffen, um phantastische Orte zu besuchen, die sie sich nur vorstellen können; Feen hingegen können das nicht – sie können nur zu Orten reisen, die sie kennen.
-
-Sobald sie einen geeigneten Zauberspruch hat, muss sich die Maga darauf konzentrieren; sie muss in der Lage sein, den Zauberspruch wahrzunehmen, und wenn er im Voraus angefertigt wurde, muss sie den damit verbundenen Gegenstand berühren. Dieser Vorgang dauert gewöhnlich etwa zehn Minuten, doch wenn sie den Zauberspruch spontan entwirft, kann sie diese Zeit mit der Herstellungszeit verbinden. Dann muss die Maga ihre Werte in Wahrnehmung + der zur Anfertigung des Zauberspruchs verwendeten Fertigkeit als Wurf ablegen.
-
-**Arkadische Reise-Summe: Stresswürfel + Wahrnehmung + (Fertigkeit) + Aura**
-
-Ein weltliches Ziel kann nur erreicht werden, indem man zuerst zu einer darüber liegenden Regioebene reist, und je weiter von der Realität entfernt das Ziel liegt, desto schwieriger ist es, den Feenpfad zu öffnen, wie die folgende Tabelle zeigt. Wenn die Maga jedoch eine Arkane Verbindung zum Ziel des Feenpfads besitzt, darf sie 6 vom Schwierigkeitsgrad abziehen. Für die Bewertung des Modifikators einer übernatürlichen Aura kannst du dies entweder als Feenkraft oder als Magische Kraft behandeln, wobei der günstigere Effekt gilt.
-
-| Ziel          | Schwierigkeitsgrad                         |
-|---------------|---------------------------------------------|
-| Regioebene    | Ebene des Ziels × 3                         |
-| Regio verlassen | aktuelle Regioebene × 3                   |
-| Arkadien      | (13 − aktueller Auramodifikator) × 3        |
-| Arkadien verlassen | (13 − Auramodifikator des Ziels) × 3   |
-
-Neben der Maga kann ein Feenpfad eine Anzahl weiterer Personen befördern, die ihrem Feenmagie-Wert entspricht, solange sie alle an der Aktivierung des Zauberspruchs teilnehmen und sich wie die Maga darauf konzentrieren. Während sie in das Erlebnis vertieft sind, führt die Maga sie durch den Feenpfad, und sie erscheinen sofort an seinem Ziel neben der Maga. Es ist unmöglich, einen Feenpfad gegen seinen Willen zu betreten, wohl aber unwissentlich.
-
-#### Die Linie Quendalons
-
-Nach der Hausspaltung nahm Quendalon viele neue Lehrlinge an, da er das Wissen, das er von den Feen gewonnen hatte, mit seinen treuen Anhängern teilen wollte. Er lehrte auch andere Magi seine Geheimnisse, ohne dafür eine Gegenleistung zu verlangen, um seine Magie im gesamten Orden zu verbreiten. Diese Magi wurden als die Linie Quendalons bekannt. Im Gegenzug für seine phantastischen Kräfte bat Quendalon nur darum, dass sie seinem Haus beitreten und ihm als Primus ihre Loyalität schwören sollten. Seitdem sind alle Anführer des Hauses aus dieser Linie hervorgegangen, darunter Rhiannon, Vinaria und Handri.
-
-Quendalon weihte seine Anhänger in alle drei Arkadischen Mysterien ein, und Charaktere, die von seiner Linie abstammen, können die Arkadische Reise oder Animae-Magie durch eines von vielen bekannten Einweihungsskripten einweihen. Da Quendalon selbst von Feen aufgezogen wurde, soll er alle seine Anhänger ermutigt haben, Begabte Kinder in die Obhut der Feen zu geben, und so haben viele seiner Linie Feengeprägte Magie. Andere besitzen häufig einen Großen Magischen Fokus auf Feenwesen. Wenn sie sich bereit glauben und die anderen Inneren Mysterien gemeistert haben, weihen die Ältesten der Linie ihre Filii ins Werden ein und unterstützen sie bei der Verwandlung vom Menschen zur Fee.
-
-Quendalon nahm nie einen Vertrauten an, und so sind diese Merinitae weniger kritisch gegenüber jenen, die auf das Ritual der Gründerin verzichten, obwohl sie oft Feenfreunde haben und komplexe Beziehungen zu den Feen pflegen. Die beliebtesten Künste in dieser Linie sind Vim, Muto und Creo, und die meisten Merinitae studieren eine Form, die die Art von Feen repräsentiert, für die sie sich am meisten interessieren. Quendalon soll Terram besonders bevorzugt haben.
-
-Diese Magi werden manchmal mit dem Namen „Der Letzte Auftrag" in Verbindung gebracht, in Bezug auf eine Legende, wonach Bonisagus selbst Quendalons Bemühungen gutgeheißen und ihn mit der Aufgabe betraut habe, die Macht der Feensphäre allen Magi zugänglicher zu machen. Aus diesem Grund weihen Quendalons Anhänger gelegentlich Magi aus anderen Häusern ein, insbesondere aus Haus Bonisagus. Viele von ihnen sind Sucher, und mehr als alle anderen Merinitae widmen sie sich der experimentellen Forschung und der Erkundung der Grenzen hermetischer Magie.
-
-**Beispiel einer Einweihung der Linie Quendalons: Animae-Magie**
-
-**Schwierigkeitsgrad:** 21 (Große Tugend, dem Mystagogen bekannt)
-
-**Skriptbonus:** +16
-
-**Skriptdetails:** Der Einzuweihende muss ein Quartal damit verbringen, eine Feenaura zu besuchen, ihre Bewohner zu studieren und detaillierte Aufzeichnungen über ihr Verhalten und ihre Beziehungen zu machen (+3). Dann muss er die Fee finden und sich mit ihr anfreunden, die seiner höchsten Technik und Form am besten entspricht (+1), wobei er den Fehler Feenfreund erhält (+3). Um ihre dauerhafte Freundschaft zu sichern, muss er einen Handel mit ihr eingehen und eine einzigartig menschliche Eigenschaft aufgeben, die nicht ersetzt werden kann, wie die Farbe seiner Augen, alle Erinnerungen an seine Eltern oder sein erstgeborenes Kind (+6). Außerdem erhält er ein Verbot, niemals sein Wort zu brechen, oder er wird von einer Feensiechtum-Krankheit befallen (+3).
 
 #### Werden (Großes Arkadisches Mysterium)
 
@@ -3656,73 +3638,27 @@ Nachdem die Maga zu einer Fee geworden ist, kann sie ihre Verbindung zur Feensph
 
 **Die Ermächtigte Fee:** Die Maga kann einen neuen Zauber erlernen, im Wesentlichen eine Feenkraft, die sie mit ihrer Macht aktivieren kann. Die Stufe der Verzauberung entspricht der Stufe des Zaubers, den sie erlangen wird, der sie eine Anzahl von Machtpunkten in Höhe seiner Magnitude zum Wirken kostet. Übertrifft sie die Stufe um fünf, reduziert das die Machtkosten um eins, sodass eine Verdoppelung den Zauber kostenlos macht. Sie kann auch die Kosten von Zaubern, die sie bereits kennt, mit demselben Ritual senken. Ebenso kann sie die Anzahl der Machtpunkte erhöhen, die eine Kraft zur Aktivierung kostet, wenn sie ihre Penetrationssumme steigern möchte.
 
+#### Die Linie Quendalons
+
+Nach der Hausspaltung nahm Quendalon viele neue Lehrlinge an, da er das Wissen, das er von den Feen gewonnen hatte, mit seinen treuen Anhängern teilen wollte. Er lehrte auch andere Magi seine Geheimnisse, ohne dafür eine Gegenleistung zu verlangen, um seine Magie im gesamten Orden zu verbreiten. Diese Magi wurden als die Linie Quendalons bekannt. Im Gegenzug für seine phantastischen Kräfte bat Quendalon nur darum, dass sie seinem Haus beitreten und ihm als Primus ihre Loyalität schwören sollten. Seitdem sind alle Anführer des Hauses aus dieser Linie hervorgegangen, darunter Rhiannon, Vinaria und Handri.
+
+Quendalon weihte seine Anhänger in alle drei Arkadischen Mysterien ein, und Charaktere, die von seiner Linie abstammen, können die Arkadische Reise oder Animae-Magie durch eines von vielen bekannten Einweihungsskripten einweihen. Da Quendalon selbst von Feen aufgezogen wurde, soll er alle seine Anhänger ermutigt haben, Begabte Kinder in die Obhut der Feen zu geben, und so haben viele seiner Linie Feengeprägte Magie. Andere besitzen häufig einen Großen Magischen Fokus auf Feenwesen. Wenn sie sich bereit glauben und die anderen Inneren Mysterien gemeistert haben, weihen die Ältesten der Linie ihre Filii ins Werden ein und unterstützen sie bei der Verwandlung vom Menschen zur Fee.
+
+Quendalon nahm nie einen Vertrauten an, und so sind diese Merinitae weniger kritisch gegenüber jenen, die auf das Ritual der Gründerin verzichten, obwohl sie oft Feenfreunde haben und komplexe Beziehungen zu den Feen pflegen. Die beliebtesten Künste in dieser Linie sind Vim, Muto und Creo, und die meisten Merinitae studieren eine Form, die die Art von Feen repräsentiert, für die sie sich am meisten interessieren. Quendalon soll Terram besonders bevorzugt haben.
+
+Diese Magi werden manchmal mit dem Namen „Der Letzte Auftrag" in Verbindung gebracht, in Bezug auf eine Legende, wonach Bonisagus selbst Quendalons Bemühungen gutgeheißen und ihn mit der Aufgabe betraut habe, die Macht der Feensphäre allen Magi zugänglicher zu machen. Aus diesem Grund weihen Quendalons Anhänger gelegentlich Magi aus anderen Häusern ein, insbesondere aus Haus Bonisagus. Viele von ihnen sind Sucher, und mehr als alle anderen Merinitae widmen sie sich der experimentellen Forschung und der Erkundung der Grenzen hermetischer Magie.
+
+**Beispiel einer Einweihung der Linie Quendalons: Animae-Magie**
+
+**Schwierigkeitsgrad:** 21 (Große Tugend, dem Mystagogen bekannt)
+
+**Skriptbonus:** +16
+
+**Skriptdetails:** Der Einzuweihende muss ein Quartal damit verbringen, eine Feenaura zu besuchen, ihre Bewohner zu studieren und detaillierte Aufzeichnungen über ihr Verhalten und ihre Beziehungen zu machen (+3). Dann muss er die Fee finden und sich mit ihr anfreunden, die seiner höchsten Technik und Form am besten entspricht (+1), wobei er den Fehler Feenfreund erhält (+3). Um ihre dauerhafte Freundschaft zu sichern, muss er einen Handel mit ihr eingehen und eine einzigartig menschliche Eigenschaft aufgeben, die nicht ersetzt werden kann, wie die Farbe seiner Augen, alle Erinnerungen an seine Eltern oder sein erstgeborenes Kind (+6). Außerdem erhält er ein Verbot, niemals sein Wort zu brechen, oder er wird von einer Feensiechtum-Krankheit befallen (+3).
+
 ### Volksmysterien
 
 Das einfache Volk hat im Laufe der Jahre eine große Menge an Weisheiten über Feen angesammelt, und Merinitae haben diese Volksüberlieferungen in ein einzigartiges Set von Mysterien umgewandelt. Diese erkunden Feenmagie, die mit Zaubersprüchen (siehe oben) verbunden ist, einschließlich Zaubersprüchen, die Zauber auf bestimmte Ziele fokussieren, Zaubersprüchen, die archetypische Ereignisse herbeirufen, und Zaubersprüchen, die die Macht von Symbolen und sympathetischer Magie im Labor nutzbar machen.
-
-#### Erben Merlins
-
-Bei der Inauguration des Hauses Ex Miscellanea im Jahr 817 gab es eine große Gruppe nicht-hermetischer Zauberer von den Britischen Inseln, die Pralix ins Rheinland begleiteten und an ihrer Willkommenszeremonie als dem dreizehnten Haus teilnahmen. Unter ihnen befanden sich ein walisischer Seher namens Emrys und sein sechsjähriger Sohn Ambrosius. Emrys hatte vorhergesehen, dass sein Sohn noch als Kind sterben würde, schloss aber einen Pakt mit den Feen seiner Heimat, um stattdessen sein eigenes Leben zu opfern. Er hatte lange als magischer Berater eines Feenhofs gedient, und auf Befehl des Feenkönigs wurde ihm eine Frist von sieben Jahren und einem Tag gewährt (die verbleibende Zeit, die sein Sohn gelebt hätte), um für die Zukunft des Jungen zu sorgen, bevor er seinen Platz in den Hallen der Toten einnehmen musste.
-
-Emrys war daran interessiert, dass sein Sohn dem Haus Merinita beitritt: Auf demselben Tribunal, auf dem Emrys den Eid schwor, verkündete Quendalon die neue Hinwendung seines Hauses zur Feenwelt. Der edelsteinäugige Primus hörte sich die Geschichte des Sehers an, nahm seinen Schützling an und brachte den Jungen mit sich nach Irencillia zurück. Emrys ging mit ihnen, blieb lang genug, um seinen Sohn eingerichtet und formal als Quendalons Lehrling angenommen zu sehen, bevor er nach Wales zurückkehrte, um sich seinem Ende zu stellen. Es hieß, dass Personen mit Zweitem Gesicht danach manchmal den Geist von Emrys sehen konnten, der in den Sommermonaten über den Jungen wachte.
-
-Ambrosius von Merinita hatte offensichtlich starkes Feenerbe (seine Mutter war eine Feenenchanterin, wie es hieß) und hatte bereits vor Quendalons Einweihung in die Geheimnisse der Feenmagie Zeichen mächtiger übernatürlicher Fähigkeiten gezeigt. Als er heranwuchs, begann er ein instinktives Wissen über andere Mysterien zu zeigen, Magie, die mit Zaubersprüchen und Symbolen verbunden war, sowie mit Glück und Schicksal. Er hatte eine bemerkenswerte Begabung für symbolische Vorhersagen und schrieb viele davon auf langen Schriftrollen in poetischen Versen nieder.
-
-Er nahm eigene Lehrlinge an, und nach seinem Vorbild lernten sie, ähnliche Leistungen der Prophezeiung zu vollbringen, obwohl jeder von ihnen ein anderes Medium verwendete. Einer seiner Anhänger trug einen Satz geschnitzter Steine mit Symbolen, die er beim Wirken seiner Zauber warf und befragte. Ein anderer war Musiker und komponierte für jeden Zauberspruch ein anderes Lied. Ein dritter interessierte sich für die Heraldik und fertigte Zaubersprüche auf der Grundlage von Farben und Wappenfiguren an.
-
-Diese hermetische Abstammungslinie überlebt noch immer als die „Erben Merlins", denn viele behaupten, Ambrosius' Vater sei ein Nachkomme des großen Zauberers von einst gewesen. Ihre Anhänger treten oft als Berater an Feenhöfen auf – Magi sollen nicht als Hofzauberer für Sterbliche dienen, da dies als unter ihrer Würde betrachtet wird, doch es gibt keinen Grund, warum ein Magus nicht einem Feenkönig oder einer Feenkönigin die Treue schwören kann, solange er nicht deren Zorn auf den Orden lenkt.
-
-Die Erben können Sympathiemagie oder Geschichtenmagie einweihen und lernen typischerweise Symbolische Magie später im Leben, gewöhnlich nachdem ihre Meister in den Ruhestand treten und sie deren Positionen am Hof übernehmen. Viele von ihnen haben Feenblut und entwickeln oft Vorahnungen, Zweites Gesicht oder einen Großen Magischen Fokus auf Zaubersprüche. Bindung der Gabe ist ebenfalls verbreitet. Intellego ist bei weitem ihre beliebteste Kunst. Sie schwören häufig bei der Einweihung der Feenmagie Feenlords oder Feenladies die Treue, und ihre Einweihungsquesten für die Inneren Mysterien könnten darin bestehen, deren Willen zu dienen, ihre Reiche zu beschützen oder Krieg gegen ihre Feinde zu führen.
-
-**Beispieleinweihung der Erben Merlins: Sympathiemagie**
-
-**Schwierigkeitsgrad:** 15 (Kleine Tugend, dem Mystagogen bekannt)
-
-**Skriptbonus:** +8
-
-**Skriptdetails:** Der Einzuweihende muss eine bestimmte Art von Zauberspruch-Fertigkeit wählen und ein Jahr lang als Lehrling bei einem Meister dieser Kunst verbringen (+1). Dann muss er einen Zauberspruch für einen Feenadligen aus sehr teuren Materialien (hochwertigem Holz, einem außergewöhnlichen Instrument, einem prächtigen Kostüm oder Goldtinte) anfertigen (+1), der eine besondere symbolische Eigenschaft seines Patrons darstellt (+3), wobei er zunächst einen einzigartigen Gegenstand von Mythos oder Legende suchen und erlangen muss, um ihn mit dem Zauberspruch zu verbinden (+3), wie ein Artefakt, das einst einem berühmten Magus oder einer historischen Gestalt vergangener Zeiten gehörte.
-
-#### Geschichtenmagie (Großes Volksmysterium)
-
-Volksmagier wissen, dass Dinge in einer mittelalterlichen Geschichte immer auf eine bestimmte Weise geschehen müssen, und glauben, dass sie selbst an einer sich entfaltenden Geschichte teilnehmen. Dieses Mysterium erlaubt es der Maga, die Geschichte ihres eigenen Lebens zu beeinflussen, indem sie eine Art Volksmagie verwendet, die den Lauf der Ereignisse verändert, indem sie bestimmte Umstände inspiriert, wie sie in einer mittelalterlichen Geschichte geschehen sollten. Sie bringt Bedingungen hervor, die dem entsprechen, wie die Dinge in einem Mythos oder einer Legende wären, genau wie Feen gemäß volkstümlichen Überzeugungen und Geschichten entstehen.
-
-Geschichtenmagie erfordert, dass die Maga zunächst einen **Geschichtenzauberspruch** entwirft. Dies ist eine besondere Art von Zauberspruch, der nicht spontan entworfen werden kann, da er eine einzigartige Eigenschaft eines Ereignisses nutzt. Um zum Beispiel einen „Magus"-Geschichtenzauberspruch anzufertigen, könnte sie eine Verbindung zu einem besonders beeindruckenden Magus benötigen. Vielleicht bräuchte sie für einen „Winter"-Geschichtenzauberspruch die Erinnerung daran, in einer Schneewehe in der kältesten Nacht des Jahres gelegen zu haben. Ein „Axt"-Geschichtenzauberspruch könnte eine besonders feine Axt erfordern, die einst einen ganzen Wald gefällt hat. Einen geeigneten Gegenstand für einen Geschichtenzauberspruch zu finden, könnte Teil einer besonderen Queste sein, ähnlich der Suche nach einem kompatiblen Tier für einen Vertrauten. Ohne diesen legendären Bezugsrahmen kann eine Maga keinen wirksamen Geschichtenzauberspruch anfertigen.
-
-Sobald sie inspiriert ist, bereitet die Maga den Zauberspruch wie gewohnt vor: Sie beschafft einen geeigneten Gegenstand für den Zauberspruch und verbringt mehrere Stunden mit dessen Entwurf. Dann würfelt sie die zugehörige Eigenschaft + Fertigkeit gegen einen Schwierigkeitsgrad von 9. Wie bei Sympathiemagie-Zaubersprüchen sollte der Zauberspruch einen beschreibenden Begriff erhalten, der mit einer Kategorie (Sprichwort, Aspekt usw.) verbunden ist, auf die das Geschichtsereignis zutrifft. Nachdem sie eine denkwürdige Belagerung überstanden hat, könnte sie zum Beispiel einen „Burg" (Ort)-, „Schlacht" (Ereignis)- oder „Eile mit Weile" (Sprichwort)-Zauberspruch anfertigen.
-
-Ein Geschichtenzauberspruch kann jederzeit verwendet werden, am besten jedoch, wenn der Charakter ein Abenteuer erlebt. Ihn zu aktivieren erfordert, dass die Maga einen Selbstvertrauenspunkt ausgibt. Danach manifestiert sich die Idee des Zauberspruchs irgendwann während der Sitzung: Ein Ereignis tritt ein, ein Gegenstand taucht auf, ein anderer Charakter wird beeinflusst oder ein Thema wird betont, gewöhnlich zum Vorteil der Maga. Der Spieler darf Vorschläge machen, was geschehen soll, aber der Spielleiter bestimmt die tatsächlichen Ergebnisse und baut das Konzept des Zauberspruchs irgendwie in die Erzählung ein. Dieses Erzählelement liegt vollständig im Ermessen des Spielleiters; es muss ins Spiel kommen, tritt aber nicht unbedingt so ein, wie der Spieler erwartet, und es ist sogar möglich, dass der Effekt seiner Aufmerksamkeit entgeht.
-
-*Beispiel: Nach der Einweihung der Geschichtenmagie gelingt es Mari Amwithig, einen Feenlord um sein Erstgeburtsrecht zu betrügen, und sie stellt diese Erfahrung mit einer silbernen Krone dar. Sie schreibt ein Gedicht über ihre Klugheit und wählt einen „gerissen" (Aspekt)-Zauberspruch, und* *besteht einen Schwierigkeitsgrad von 9 bei ihrem Kommunikation + Sprache-Wurf: Die Krone wird zu einem Geschichtenzauberspruch. Später, bevor sie einen Feenmarkt betritt, setzt sie die Krone auf und gibt einen Selbstvertrauenspunkt aus, wobei sie leise ihr Gedicht rezitiert. Deshalb entscheidet der Spielleiter, dass sie besonders gut handelt und gerissen einen Krug Wein gegen einen Goblindiener eintauscht, der ihr ein Jahr und einen Tag gehorchen wird oder bis sie ihm eine Frage stellt, die er nicht beantworten kann.*
-
-Im Allgemeinen sollte ein Geschichtenzauberspruch auf die aktuelle Situation anwendbar sein und sich als Hinweis auf ein Geheimnis oder als Verbündeter mit einem nützlichen Stück Hilfe manifestieren. Vielleicht könnte er als vorübergehender Bonus auf bestimmte Würfe dargestellt werden. Er ist weder wundersam noch besonders mächtig, sollte dem Spieler aber das Gefühl geben, zusätzliche Kontrolle über die Richtung der Szene zu haben. Man stelle ihn sich wie einen Kleinen Geschichte-Fehler vor, der für das gesamte Abenteuer gilt und den die Maga nutzen kann, wenn sie darauf achtet. Wenn ein klarer mechanischer Vorteil benötigt wird, gehe davon aus, dass der Charakter einen Bonus von +3 auf alle mit dem Zauberspruch verbundenen Würfe für die gesamte Szene hat.
-
-Die Maga kann auch Geschichtenzaubersprüche als Ersatz für Zaubersprüche in Sympathiemagie-Zaubern verwenden. Auf diese Weise sind Geschichtenzaubersprüche wie „Joker" für ihre jeweilige Zauberspruchkategorie. Ein Geschichtenzauberspruch kann anstelle jedes Zauberspruchs aus derselben Kategorie verwendet werden: Eine Maga könnte einen „Führer" (Charakter)-Geschichtenzauberspruch als Ersatz für einen „Magus" (Charakter)- oder einen „Darius" (Charakter)-Zauberspruch verwenden, wenn sie einen Zauber wirkt, der einen dieser Zaubersprüche einbindet, da sie alle Charaktere betreffen. Dies kostet die Maga weiterhin einen Selbstvertrauenspunkt, um den Zauberspruch zu aktivieren.
-
-#### Symbolische Magie (Großes Volksmysterium)
-
-Symbolische Magie umfasst mehrere Laborarbeiten, die mit Zaubersprüchen und den in der sympathetischen Magie verwendeten Symbolen verbunden sind.
-
-Eine Maga mit Symbolischer Magie kann Zaubersprüche beim Entwerfen bereiteter Artefakte verwenden, bis zu so viele Zaubersprüche wie ihr Wert in Feenmagie, wobei sie den doppelten Zauberspruch- und Kategoriebonus zu ihrer Laborsumme statt zu ihrer Zaubersumme addiert. Bei Verwendung mit einer Arkanen Verbindung erhöht dies auch den Penetrationsmultiplikator für das Artefakt, was nur dann nützlich ist, wenn einige Stufen für Penetration vorgesehen sind. Da die Zaubersprüche bei der Erschaffung in den Effekt eingebaut werden, kann der Effekt kein Ziel beeinflussen, das nicht von den Zaubersprüchen abgedeckt ist – anders als bei einem Zauber mit Zaubersprüchen, der lediglich den Bonus verliert. Die Auslösehandlung muss ebenfalls diese Zaubersprüche einbinden, sodass der Effekt keinen Umgebungs- oder verknüpften Auslöser haben kann, obwohl die Maga weiterhin einschränken kann, wer das Artefakt verwenden darf.
-
-*Beispiel: Mari Amwithigs Parens baut ihr eine verzauberte Flöte mit mehreren eingebetteten Effekten unter Verwendung Symbolischer Magie. Einer davon ist ein Effekt, der es ihr erlaubt, mit Tieren zu sprechen (InAn20). Dieser bindet drei Zaubersprüche ein: „dieses Tier kann fliegen" (Aspekt), „dunkel" (Aspekt) und „man hört nur, was man hören will" (Sprichwort), was ihm einen Bonus von +10 auf seine Laborsumme gibt (drei Zaubersprüche und zwei verschiedene Kategorien, verdoppelt). Dies beschränkt den Effekt auf dunkle Tiere, die fliegen können, und weder sie noch das Tier werden etwas hören, das sie nicht hören wollen. Wenn sie eine Arkane Verbindung zum Tier hat, erhält sie einen Bonus von +3 auf ihren Penetrationsmultiplikator. Um die Flöte zu aktivieren, muss sie ein Lied über das Fliegen, die Dunkelheit und das Hören dessen, was man hören will, spielen.*
-
-Eine Maga mit dieser Tugend kann auch Zauberspruch-Boni auf ihren Talisman anwenden. Wie bei der Abstimmung auf einen Effekt, der mit seiner Form oder seinem Material verbunden ist, kann die Maga ihren Talisman modifizieren, damit er unter bestimmten Umständen als Zauberspruch wirkt und ihre Zaubersumme erhöht, wann immer diese Umstände gelten, wie bei der Sympathiemagie. Ein Talisman kann auf beliebig viele Zaubersprüche abgestimmt werden, aber nur ein Zauberspruch kann pro Quartal abgestimmt werden, und nicht mehr Zaubersprüche als ihr Wert in Feenmagie dürfen in einen einzelnen Effekt eingebunden werden.
-
-Eine Maga mit Symbolischer Magie kann permanente Zaubersprüche entwerfen, die andere Charaktere verwenden können, indem sie sympathetische Darstellungen erstellt oder die Effekte der Arkadischen Reise oder Geschichtenmagie in Gegenstände integriert, die Charaktere ohne diese Mysterien tragen können. Der Träger aktiviert den Zauberspruch anstelle der Maga, die ihn entworfen hat, und muss daher den nötigen Selbstvertrauenspunkt ausgeben oder sich auf das Ziel des Feenpfads konzentrieren, wenn der Zauberspruch verwendet wird.
-
-Schließlich erhält die Maga die Fähigkeit, rituelle Zauber zu entwerfen, die eine neue Symbol-Reichweite, -Dauer und ein neues Symbol-Ziel verwenden, die im Folgenden beschrieben werden. Jedes Ritual erfordert, dass sie eine sympathetische Darstellung anfertigt, die das Ziel durch mindestens drei verschiedene Zaubersprüche identifiziert (dies erfordert Feenmagie 3 und einen Eigenschafts- + Fertigkeitswurf gegen einen Schwierigkeitsgrad von 12 für den Entwurf des Symbols). Zum Beispiel könnte ein Porträt, das die Feenkönigin von Irencillia auf Symbol-Reichweite beeinflussen soll, einen „Königin" (Charakter)-Zauberspruch, einen „Winter" (Ereignis)-Zauberspruch und einen „Fee" (Charakter)-Zauberspruch enthalten. Um Symbol-Reichweite, -Dauer und -Ziel zusammen in einem Zauber zu verwenden, wären insgesamt neun Zaubersprüche erforderlich (was Feenmagie 9 voraussetzt).
-
-> #### Symbol-Reichweite, -Dauer und -Ziel
->
-> **Symbol** (Reichweite): Du kannst etwas, das durch ein Symbol dargestellt wird, so beeinflussen, als hättest du eine Arkane Verbindung dazu, was dir im Wesentlichen erlaubt, eine Arkane Verbindung zu deinem Ziel herzustellen. Dieser Zauber muss ein Ritual sein, entspricht aber ansonsten der Reichweite Arkane Verbindung. Wenn das Symbol das Ziel nicht eindeutig beschreibt, schlägt der Zauber fehl, da eine Arkane Verbindung für ein einzelnes Ziel spezifisch sein muss (es sei denn, der Zauber wird mit Ziel: Symbol gewirkt).
->
-> **Symbol** (Dauer): Der Effekt hält so lange an wie das Symbol (und das Symbol muss ein physischer Gegenstand sein, sodass ein Gedicht oder Lied zum Beispiel niedergeschrieben werden muss). Wenn das Symbol zerbrochen, ausgelöscht wird, zerfällt, stirbt oder anderweitig beschädigt wird, endet der Zauber. Wenn sich das Ziel so verändert, dass eine der Eigenschaften des Symbols nicht mehr zutrifft, wird der Zauber unterbrochen, doch die Wirkungen kehren zurück, sobald diese Eigenschaften wieder zutreffen – im Gegensatz zur Dauer Bis (Bedingung) kann dieser Effekt den Zaubernden überdauern. Er hat dieselbe Stufe wie Jahr und erfordert ein Ritual.
->
-> **Symbol** (Ziel): Du beeinflusst alle Ziele, die vom Symbol dargestellt werden, innerhalb der Reichweite des Zaubers. Es wird auf derselben Stufe wie Grenze berechnet, ist aber im Wesentlichen eine große Gruppe, und Modifikatoren entsprechend der Größe des Ziels gelten. Er muss als Ritual gewirkt werden.
-
-Wenn einer der Zaubersprüche nicht zutrifft, wenn das Ritual gewirkt wird, schlägt der Zauber fehl; wenn eine der mit diesen Zaubersprüchen verbundenen Bedingungen nicht mehr zutrifft, während der Zauber noch aktiv ist, endet der Effekt sofort.
-
-Jede Verwendung eines Symbols erfordert einen einzigartigen rituellen Zauber. Wenn die Zaubersprüche jedoch breit genug beschrieben sind, kann dasselbe Ritual unter verschiedenen Umständen erneut verwendet werden. Zum Beispiel könnte der oben beschriebene rituelle Zauber eine menschliche Königin mit Feenblut beeinflussen, wenn er im Winter gewirkt wird, solange neue „Königin"-, „Winter"- und „Fee"-Zaubersprüche angefertigt werden, um sie zu identifizieren.
 
 #### Sympathiemagie (Kleines Volksmysterium)
 
@@ -3757,83 +3693,80 @@ Nach Ermessen des Spielleiters geben Zaubersprüche, die absurd weit gefasst sin
 > **Gegenstand:** Form oder Material des Ziels oder ein Objekt, das stark mit dem Ziel assoziiert wird.
 >
 > **Ort:** Der Aufenthaltsort des Ziels: ein Wald, Berg, Konvent, Dorf oder Schiff.
-> **Sprichwort:** „Im Wein liegt Wahrheit", „Macht korrumpiert" oder „Aus den Augen, aus dem Sinn."
 >
+> **Sprichwort:** „Im Wein liegt Wahrheit", „Macht korrumpiert" oder „Aus den Augen, aus dem Sinn."
 
 Ein Zauber, der Zaubersprüche einbindet, kann auch ohne die Zaubersprüche gewirkt werden, oder auf ein Ziel, das nicht den Zaubersprüchen entspricht. Die Boni gelten jedoch nur, wenn die Maga die Zaubersprüche besitzt und das Ziel geeignet ist.
 
 Anstatt ihre Zaubermeisterschaftsfähigkeiten zu verbessern, kann eine Maga Meisterschaftserfahrung dafür aufwenden, ihren formulaischen Zaubern zusätzliche Zaubersprüche zuzuordnen. Für jeden Zauberspruch kostet dies 1 Erfahrungspunkt pro Magnitude des modifizierten Zaubers. Jeder der einem Zauber zugeordneten Zaubersprüche kann beim Wirken dieses Zaubers verwendet werden, obwohl die Gesamtzahl der in einen Zauberwirkung eingebundenen Zaubersprüche niemals den Feenmagie-Wert der Maga übersteigen kann.
 
-### Illusionsmysterien
+#### Geschichtenmagie (Großes Volksmysterium)
 
-Diese Mysterien befassen sich mit Illusionen und Bildern, einschließlich Aspekten der physischen Welt, die Feen sehen können, die meisten Menschen jedoch nicht. Dazu gehören ungewöhnliche Dauern für Feenmagie-Zauber, die nahezu ewig anhalten können.
+Volksmagier wissen, dass Dinge in einer mittelalterlichen Geschichte immer auf eine bestimmte Weise geschehen müssen, und glauben, dass sie selbst an einer sich entfaltenden Geschichte teilnehmen. Dieses Mysterium erlaubt es der Maga, die Geschichte ihres eigenen Lebens zu beeinflussen, indem sie eine Art Volksmagie verwendet, die den Lauf der Ereignisse verändert, indem sie bestimmte Umstände inspiriert, wie sie in einer mittelalterlichen Geschichte geschehen sollten. Sie bringt Bedingungen hervor, die dem entsprechen, wie die Dinge in einem Mythos oder einer Legende wären, genau wie Feen gemäß volkstümlichen Überzeugungen und Geschichten entstehen.
 
-#### Beständigkeit (Großes Illusionsmysterium)
+Geschichtenmagie erfordert, dass die Maga zunächst einen **Geschichtenzauberspruch** entwirft. Dies ist eine besondere Art von Zauberspruch, der nicht spontan entworfen werden kann, da er eine einzigartige Eigenschaft eines Ereignisses nutzt. Um zum Beispiel einen „Magus"-Geschichtenzauberspruch anzufertigen, könnte sie eine Verbindung zu einem besonders beeindruckenden Magus benötigen. Vielleicht bräuchte sie für einen „Winter"-Geschichtenzauberspruch die Erinnerung daran, in einer Schneewehe in der kältesten Nacht des Jahres gelegen zu haben. Ein „Axt"-Geschichtenzauberspruch könnte eine besonders feine Axt erfordern, die einst einen ganzen Wald gefällt hat. Einen geeigneten Gegenstand für einen Geschichtenzauberspruch zu finden, könnte Teil einer besonderen Queste sein, ähnlich der Suche nach einem kompatiblen Tier für einen Vertrauten. Ohne diesen legendären Bezugsrahmen kann eine Maga keinen wirksamen Geschichtenzauberspruch anfertigen.
 
-Dieses Mysterium gewährt Zugang zu drei Zauberdauern, die potenziell ewig anhalten können. Alle drei haben dieselbe Stufe wie Jahr und erfordern stets ein Ritual.
+Sobald sie inspiriert ist, bereitet die Maga den Zauberspruch wie gewohnt vor: Sie beschafft einen geeigneten Gegenstand für den Zauberspruch und verbringt mehrere Stunden mit dessen Entwurf. Dann würfelt sie die zugehörige Eigenschaft + Fertigkeit gegen einen Schwierigkeitsgrad von 9. Wie bei Sympathiemagie-Zaubersprüchen sollte der Zauberspruch einen beschreibenden Begriff erhalten, der mit einer Kategorie (Sprichwort, Aspekt usw.) verbunden ist, auf die das Geschichtsereignis zutrifft. Nachdem sie eine denkwürdige Belagerung überstanden hat, könnte sie zum Beispiel einen „Burg" (Ort)-, „Schlacht" (Ereignis)- oder „Eile mit Weile" (Sprichwort)-Zauberspruch anfertigen.
 
-- **Macht (Dauer):** Entweder das Ziel oder der Zaubernde muss Feen- oder Magische Macht besitzen und am Leben sein; der Zauber schlägt fehl, wenn diese Bedingung nicht erfüllt ist, einschließlich durch Eintreten ins Zwielicht, nach Arkadien oder in einen anderen jenseitigen Zustand. 
-- **Aura (Dauer):** Der Zauber hält an, solange das Ziel innerhalb einer übernatürlichen Aura verbleibt. Wenn das Ziel die Aura oder die physische Welt vollständig verlässt (stirbt, ins Zwielicht gerät oder nach Arkadien geht, zum Beispiel), endet der Zauber. Dies erlaubt das Wechseln von einer Aura in eine andere, solange sich die beiden Auren überlappen – solange das Ziel nie eine übernatürliche Aura irgendeiner Art verlässt. 
-- **Verborgen (Dauer):** Der Zauber hält an, solange der Zaubernde oder das Ziel (oder ein wesentlicher Teil des Zaubernden oder Ziels) verborgen ist – in der Erde begraben, in eine Kiste gelegt, mit einem Vorhang bedeckt oder durch ein Kostüm verkleidet – alles, sogar ein anderer Zauber, solange der Effekt mit der Dauer Verborgen das Ziel nicht selbst verbirgt. Wenn jemand außer dem Zaubernden es entdeckt, endet der Zauber sofort.
+Ein Geschichtenzauberspruch kann jederzeit verwendet werden, am besten jedoch, wenn der Charakter ein Abenteuer erlebt. Ihn zu aktivieren erfordert, dass die Maga einen Selbstvertrauenspunkt ausgibt. Danach manifestiert sich die Idee des Zauberspruchs irgendwann während der Sitzung: Ein Ereignis tritt ein, ein Gegenstand taucht auf, ein anderer Charakter wird beeinflusst oder ein Thema wird betont, gewöhnlich zum Vorteil der Maga. Der Spieler darf Vorschläge machen, was geschehen soll, aber der Spielleiter bestimmt die tatsächlichen Ergebnisse und baut das Konzept des Zauberspruchs irgendwie in die Erzählung ein. Dieses Erzählelement liegt vollständig im Ermessen des Spielleiters; es muss ins Spiel kommen, tritt aber nicht unbedingt so ein, wie der Spieler erwartet, und es ist sogar möglich, dass der Effekt seiner Aufmerksamkeit entgeht.
 
-Merinitae, die Beständigkeit lernen, erhalten bei ihrer Einweihung gewöhnlich den Fehler Unnatürliche Magie.
+*Beispiel: Nach der Einweihung der Geschichtenmagie gelingt es Mari Amwithig, einen Feenlord um sein Erstgeburtsrecht zu betrügen, und sie stellt diese Erfahrung mit einer silbernen Krone dar. Sie schreibt ein Gedicht über ihre Klugheit und wählt einen „gerissen" (Aspekt)-Zauberspruch, und* *besteht einen Schwierigkeitsgrad von 9 bei ihrem Kommunikation + Sprache-Wurf: Die Krone wird zu einem Geschichtenzauberspruch. Später, bevor sie einen Feenmarkt betritt, setzt sie die Krone auf und gibt einen Selbstvertrauenspunkt aus, wobei sie leise ihr Gedicht rezitiert. Deshalb entscheidet der Spielleiter, dass sie besonders gut handelt und gerissen einen Krug Wein gegen einen Goblindiener eintauscht, der ihr ein Jahr und einen Tag gehorchen wird oder bis sie ihm eine Frage stellt, die er nicht beantworten kann.*
 
-#### Glamour (Großes Illusionsmysterium)
+Im Allgemeinen sollte ein Geschichtenzauberspruch auf die aktuelle Situation anwendbar sein und sich als Hinweis auf ein Geheimnis oder als Verbündeter mit einem nützlichen Stück Hilfe manifestieren. Vielleicht könnte er als vorübergehender Bonus auf bestimmte Würfe dargestellt werden. Er ist weder wundersam noch besonders mächtig, sollte dem Spieler aber das Gefühl geben, zusätzliche Kontrolle über die Richtung der Szene zu haben. Man stelle ihn sich wie einen Kleinen Geschichte-Fehler vor, der für das gesamte Abenteuer gilt und den die Maga nutzen kann, wenn sie darauf achtet. Wenn ein klarer mechanischer Vorteil benötigt wird, gehe davon aus, dass der Charakter einen Bonus von +3 auf alle mit dem Zauberspruch verbundenen Würfe für die gesamte Szene hat.
 
-Glamoure sind Illusionen mit einem beträchtlichen Anteil an Realität. Sie sind Muto- oder Creo-Imaginem-Zauber, die nur Magi mit dieser Tugend erfinden oder wirken dürfen.
+Die Maga kann auch Geschichtenzaubersprüche als Ersatz für Zaubersprüche in Sympathiemagie-Zaubern verwenden. Auf diese Weise sind Geschichtenzaubersprüche wie „Joker" für ihre jeweilige Zauberspruchkategorie. Ein Geschichtenzauberspruch kann anstelle jedes Zauberspruchs aus derselben Kategorie verwendet werden: Eine Maga könnte einen „Führer" (Charakter)-Geschichtenzauberspruch als Ersatz für einen „Magus" (Charakter)- oder einen „Darius" (Charakter)-Zauberspruch verwenden, wenn sie einen Zauber wirkt, der einen dieser Zaubersprüche einbindet, da sie alle Charaktere betreffen. Dies kostet die Maga weiterhin einen Selbstvertrauenspunkt, um den Zauberspruch zu aktivieren.
 
-Ein Glamour scheint alle Eigenschaften eines tatsächlichen Dings desselben Typs zu besitzen, einschließlich Substanz. So kann eine Glamour-Brücke Gewicht tragen, ein Glamour-Feuer Pergament entzünden und Glamour-Wein Durst löschen. Sie sind für die Dauer des Zaubers im Wesentlichen real, was bedeutet, dass sie dauerhafte Auswirkungen auf ihre Umgebung haben können.
+#### Symbolische Magie (Großes Volksmysterium)
 
-> #### Glamour-Leitlinien
->
-> Besonders kunstvolle Glamoure, wie solche, die ein erkennbares Subjekt nachahmen, oder solche mit komplexen Sinneskomponenten wie klaren Worten oder beweglichen Teilen, addieren eine zusätzliche Magnitude zum Zauber. Einen Glamour zu erzeugen, der sich unter der geistigen Lenkung des Zaubernden bewegen oder handeln kann, addiert zwei Magnituden.
->
-> Das Verwandeln eines belebten Ziels (etwas, das sich aus eigener Kraft bewegen kann) in einen unbelebten Gegenstand ist ebenfalls schwieriger und erfordert zwei zusätzliche Magnituden. Im Laufe der Zeit beginnt das Ziel jedoch seine Beweglichkeit wiederzuerlangen, sofern der Zaubernde den Effekt nicht regelmäßig durch Konzentration aufrechterhält. Zum Beispiel kann eine Person in einen Baum verwandelt werden, doch wenn er einige Tage ignoriert wird, beginnt dieser Baum sich möglicherweise zu bewegen und einem Menschen zu ähneln, da sein wesentliches Wesen sich über den Glamour hinwegzusetzen beginnt.
->
-> Die endgültige Form eines in Glamour verwandelten Ziels wird gewöhnlich erkennbare Gemeinsamkeiten mit seiner wahren Gestalt aufweisen. Zum Beispiel könnte eine in ein Tier verwandelte Person besonders ausdrucksstark sein und möglicherweise andere menschliche Eigenschaften behalten, wie die Fähigkeit zu sprechen oder aufrecht zu gehen. Größenmodifikatoren gelten ebenfalls für die Zauberstufe, wenn ein erheblicher Unterschied zwischen der ursprünglichen und der neuen Gestalt besteht.
->
-> **Creo Imaginem Stufe 10:** Erschaffe einen Glamour.
->
-> **Muto Imaginem**  
-> **Stufe 10:** Verwandle ein Ziel in Glamour. (Requisit der Form des Ziels erforderlich.)
+Symbolische Magie umfasst mehrere Laborarbeiten, die mit Zaubersprüchen und den in der sympathetischen Magie verwendeten Symbolen verbunden sind.
 
-> #### Zauberglamoure
+Eine Maga mit Symbolischer Magie kann Zaubersprüche beim Entwerfen bereiteter Artefakte verwenden, bis zu so viele Zaubersprüche wie ihr Wert in Feenmagie, wobei sie den doppelten Zauberspruch- und Kategoriebonus zu ihrer Laborsumme statt zu ihrer Zaubersumme addiert. Bei Verwendung mit einer Arkanen Verbindung erhöht dies auch den Penetrationsmultiplikator für das Artefakt, was nur dann nützlich ist, wenn einige Stufen für Penetration vorgesehen sind. Da die Zaubersprüche bei der Erschaffung in den Effekt eingebaut werden, kann der Effekt kein Ziel beeinflussen, das nicht von den Zaubersprüchen abgedeckt ist – anders als bei einem Zauber mit Zaubersprüchen, der lediglich den Bonus verliert. Die Auslösehandlung muss ebenfalls diese Zaubersprüche einbinden, sodass der Effekt keinen Umgebungs- oder verknüpften Auslöser haben kann, obwohl die Maga weiterhin einschränken kann, wer das Artefakt verwenden darf.
+
+*Beispiel: Mari Amwithigs Parens baut ihr eine verzauberte Flöte mit mehreren eingebetteten Effekten unter Verwendung Symbolischer Magie. Einer davon ist ein Effekt, der es ihr erlaubt, mit Tieren zu sprechen (InAn20). Dieser bindet drei Zaubersprüche ein: „dieses Tier kann fliegen" (Aspekt), „dunkel" (Aspekt) und „man hört nur, was man hören will" (Sprichwort), was ihm einen Bonus von +10 auf seine Laborsumme gibt (drei Zaubersprüche und zwei verschiedene Kategorien, verdoppelt). Dies beschränkt den Effekt auf dunkle Tiere, die fliegen können, und weder sie noch das Tier werden etwas hören, das sie nicht hören wollen. Wenn sie eine Arkane Verbindung zum Tier hat, erhält sie einen Bonus von +3 auf ihren Penetrationsmultiplikator. Um die Flöte zu aktivieren, muss sie ein Lied über das Fliegen, die Dunkelheit und das Hören dessen, was man hören will, spielen.*
+
+Eine Maga mit dieser Tugend kann auch Zauberspruch-Boni auf ihren Talisman anwenden. Wie bei der Abstimmung auf einen Effekt, der mit seiner Form oder seinem Material verbunden ist, kann die Maga ihren Talisman modifizieren, damit er unter bestimmten Umständen als Zauberspruch wirkt und ihre Zaubersumme erhöht, wann immer diese Umstände gelten, wie bei der Sympathiemagie. Ein Talisman kann auf beliebig viele Zaubersprüche abgestimmt werden, aber nur ein Zauberspruch kann pro Quartal abgestimmt werden, und nicht mehr Zaubersprüche als ihr Wert in Feenmagie dürfen in einen einzelnen Effekt eingebunden werden.
+
+Eine Maga mit Symbolischer Magie kann permanente Zaubersprüche entwerfen, die andere Charaktere verwenden können, indem sie sympathetische Darstellungen erstellt oder die Effekte der Arkadischen Reise oder Geschichtenmagie in Gegenstände integriert, die Charaktere ohne diese Mysterien tragen können. Der Träger aktiviert den Zauberspruch anstelle der Maga, die ihn entworfen hat, und muss daher den nötigen Selbstvertrauenspunkt ausgeben oder sich auf das Ziel des Feenpfads konzentrieren, wenn der Zauberspruch verwendet wird.
+
+Schließlich erhält die Maga die Fähigkeit, rituelle Zauber zu entwerfen, die eine neue Symbol-Reichweite, -Dauer und ein neues Symbol-Ziel verwenden, die im Folgenden beschrieben werden. Jedes Ritual erfordert, dass sie eine sympathetische Darstellung anfertigt, die das Ziel durch mindestens drei verschiedene Zaubersprüche identifiziert (dies erfordert Feenmagie 3 und einen Eigenschafts- + Fertigkeitswurf gegen einen Schwierigkeitsgrad von 12 für den Entwurf des Symbols). Zum Beispiel könnte ein Porträt, das die Feenkönigin von Irencillia auf Symbol-Reichweite beeinflussen soll, einen „Königin" (Charakter)-Zauberspruch, einen „Winter" (Ereignis)-Zauberspruch und einen „Fee" (Charakter)-Zauberspruch enthalten. Um Symbol-Reichweite, -Dauer und -Ziel zusammen in einem Zauber zu verwenden, wären insgesamt neun Zaubersprüche erforderlich (was Feenmagie 9 voraussetzt).
+
+> #### Symbol-Reichweite, -Dauer und -Ziel
 > 
-> Eine kuriose Anwendung des Glamours hat sich unter dem Merinita-Zweig der Anhänger Pendules entwickelt, inspiriert von den Geschichten ihres Namensgebers. Anstatt Metamagie zu verwenden, um Zauber in andere Zauber zu verwandeln, nutzen sie Glamoure, um Zauber in andere Zauber zu verwandeln. Diese Zauberglamoure müssen den Leitlinien für Muto Vim entsprechen, da sie keine spontane Magie beeinflussen können, einen von einem anderen gewirkten Zauber anvisieren müssen, als Schnellzauber gewirkt werden müssen und die Penetrationssumme des Zaubers durchdringen müssen. Sie müssen auch die Form des betroffenen Zaubers angeben sowie die Art der Magie (hermetisch, Feenmagie, Hecken-Tradition usw.).
+> **Symbol** (Reichweite): Du kannst etwas, das durch ein Symbol dargestellt wird, so beeinflussen, als hättest du eine Arkane Verbindung dazu, was dir im Wesentlichen erlaubt, eine Arkane Verbindung zu deinem Ziel herzustellen. Dieser Zauber muss ein Ritual sein, entspricht aber ansonsten der Reichweite Arkane Verbindung. Wenn das Symbol das Ziel nicht eindeutig beschreibt, schlägt der Zauber fehl, da eine Arkane Verbindung für ein einzelnes Ziel spezifisch sein muss (es sei denn, der Zauber wird mit Ziel: Symbol gewirkt).
 > 
-> Zauberglamoure sind hervorragend für Gegenmagie, doch wenn sie bewusst gegen einen ahnungslosen Magus eingesetzt werden, gelten sie als Beraubung seiner magischen Macht, und Magi, deren Scherze zerstörerische Auswirkungen haben, könnten sich deswegen vor dem Tribunal wiederfinden. Pendules Anhänger werden von den meisten Magi des Hauses Flambeau verabscheut und könnten sich aus Prinzip auch in Kriege der Zauberer mit ihnen verwickelt finden.
+> **Symbol** (Dauer): Der Effekt hält so lange an wie das Symbol (und das Symbol muss ein physischer Gegenstand sein, sodass ein Gedicht oder Lied zum Beispiel niedergeschrieben werden muss). Wenn das Symbol zerbrochen, ausgelöscht wird, zerfällt, stirbt oder anderweitig beschädigt wird, endet der Zauber. Wenn sich das Ziel so verändert, dass eine der Eigenschaften des Symbols nicht mehr zutrifft, wird der Zauber unterbrochen, doch die Wirkungen kehren zurück, sobald diese Eigenschaften wieder zutreffen – im Gegensatz zur Dauer Bis (Bedingung) kann dieser Effekt den Zaubernden überdauern. Er hat dieselbe Stufe wie Jahr und erfordert ein Ritual.
 > 
-> **Ball der Abscheulichen Musik**
-> MuIm 20  
-> R: Stimme, D: Mom, Z: Ind Req: Vim
-> 
-> Dieser Zauber visiert einen formulaischen Ignem-Zauber während des Wirkens an und verändert ihn so, dass er anstelle von Feuer, Hitze oder Licht einen harmlosen Ausbruch von Farbe und Klang erzeugt. Dieser war angeblich Pendules Lieblingszauber, und er lehrte ihn allen seinen Merinita-Anhängern, nachdem er sie in das Innere Mysterium des Glamours eingeweiht hatte. Da der Zauber als Schnellzauber gewirkt werden muss, kann er nicht formulaisch gewirkt werden, es sei denn, er wurde zu diesem Zweck gemeistert.
-> 
-> (Basis 10, +2 Stimme)
+> **Symbol** (Ziel): Du beeinflusst alle Ziele, die vom Symbol dargestellt werden, innerhalb der Reichweite des Zaubers. Es wird auf derselben Stufe wie Grenze berechnet, ist aber im Wesentlichen eine große Gruppe, und Modifikatoren entsprechend der Größe des Ziels gelten. Er muss als Ritual gewirkt werden.
 
-Da Glamoure „solider" sind als andere Illusionen, werden sie von der Parma Magica und anderen Formen der Magieresistenz abgewehrt, im Gegensatz zu den Bildern, die andere Imaginem-Zauber erzeugen. Das liegt daran, dass Glamour das Ziel nicht einfach veränderte Species aussenden lässt, sondern die Species selbst magisch modifiziert. Sie sind jedoch immer noch Species und werden nur von der Form Imaginem beeinflusst; ein Glamour-Stein wird nicht von Terram beeinflusst, kann aber durch Perdo Imaginem zerstört werden. Glamoure sind auch Illusionen, und Charaktere mit Zweitem Gesicht können sie durchschauen, wenn sie genau hinschauen. Zu wissen, dass etwas ein Glamour ist, schützt den Charakter allerdings nicht davor; schließlich ist ein Feuer-Glamour immer noch ein Feuer und verbrennt jeden, der es berührt, ob er es durchschauen kann oder nicht.
+Wenn einer der Zaubersprüche nicht zutrifft, wenn das Ritual gewirkt wird, schlägt der Zauber fehl; wenn eine der mit diesen Zaubersprüchen verbundenen Bedingungen nicht mehr zutrifft, während der Zauber noch aktiv ist, endet der Effekt sofort.
 
-Merinitae erhalten beim Einweihen dieses Mysteriums stets den Fehler Verwundbare Magie. Deshalb glauben viele, dass Menschen nicht durch Glamoure getötet werden können, da jeder eine bestimmte Schwachstelle hat, die seine Wirkungen aufheben kann. Es heißt, wenn jemand durch den Glamour einer Maga getötet wird, die gegen Eisen verwundbar ist, könnte eine mit einem Eisennagel berührte Person zum Leben zurückkehren. Manche denken, dies könnte daran liegen, dass eine Fee, die ihr ähnelt, kommt, um ihren Platz einzunehmen, oder weil ihr Körper von einem Feengeist besessen wird, und manche denken, es bedeute, dass die Geister von durch Glamoure getöteten Personen in Arkadien verbleiben, bis sie wirklich sterben.
+Jede Verwendung eines Symbols erfordert einen einzigartigen rituellen Zauber. Wenn die Zaubersprüche jedoch breit genug beschrieben sind, kann dasselbe Ritual unter verschiedenen Umständen erneut verwendet werden. Zum Beispiel könnte der oben beschriebene rituelle Zauber eine menschliche Königin mit Feenblut beeinflussen, wenn er im Winter gewirkt wird, solange neue „Königin"-, „Winter"- und „Fee"-Zaubersprüche angefertigt werden, um sie zu identifizieren.
 
-#### Mysterienkult: die Anhänger Pendules
+#### Erben Merlins
 
-Pendule gilt innerhalb des Ordens als etwas Legendäres; niemand weiß, wie viel seiner Geschichte wahr und wie viel phantasievoll ausgeschmückt ist. Den Geschichten zufolge wurde der provenzalische Zauberer von Flambeau entdeckt und lehnte es ab, als man ihm die Wahl „beitreten oder sterben" gab. Er war mächtig genug, um dem feurigen Gründer und seinen Anhängern zu entkommen, und viele komödiantische Geschichten, die Pendule als Trickster darstellen, der den mächtigen und großspurigen Flambeau mit Witz und Illusionen besiegt, sind Teil hermetischer Überlieferung geworden.
+Bei der Inauguration des Hauses Ex Miscellanea im Jahr 817 gab es eine große Gruppe nicht-hermetischer Zauberer von den Britischen Inseln, die Pralix ins Rheinland begleiteten und an ihrer Willkommenszeremonie als dem dreizehnten Haus teilnahmen. Unter ihnen befanden sich ein walisischer Seher namens Emrys und sein sechsjähriger Sohn Ambrosius. Emrys hatte vorhergesehen, dass sein Sohn noch als Kind sterben würde, schloss aber einen Pakt mit den Feen seiner Heimat, um stattdessen sein eigenes Leben zu opfern. Er hatte lange als magischer Berater eines Feenhofs gedient, und auf Befehl des Feenkönigs wurde ihm eine Frist von sieben Jahren und einem Tag gewährt (die verbleibende Zeit, die sein Sohn gelebt hätte), um für die Zukunft des Jungen zu sorgen, bevor er seinen Platz in den Hallen der Toten einnehmen musste.
 
-Schließlich, so scheint es, wurde Pendule dieser Spiele müde und nahm vier hermetische Magi als seine Anhänger an. Niemand weiß genau, warum er dies tat; vielleicht wollte er einfach seine Geheimnisse mit anderen teilen, bevor er starb, oder vielleicht wollte er von ihnen die hermetische Magietheorie erlernen. Zwei dieser Anhänger stammten aus Haus Merinita, und da sie Feenmagie von Quendalon eingeweiht bekommen hatten, waren sie in der Lage, die von Pendule gelehrten Illusionsmysterien zu meistern – die anderen konnten sie nicht begreifen. Danach lehrten diese Merinitae die Geheimnisse ihren Anhängern als Teil einer besonderen Hauslinie weiter.
+Emrys war daran interessiert, dass sein Sohn dem Haus Merinita beitritt: Auf demselben Tribunal, auf dem Emrys den Eid schwor, verkündete Quendalon die neue Hinwendung seines Hauses zur Feenwelt. Der edelsteinäugige Primus hörte sich die Geschichte des Sehers an, nahm seinen Schützling an und brachte den Jungen mit sich nach Irencillia zurück. Emrys ging mit ihnen, blieb lang genug, um seinen Sohn eingerichtet und formal als Quendalons Lehrling angenommen zu sehen, bevor er nach Wales zurückkehrte, um sich seinem Ende zu stellen. Es hieß, dass Personen mit Zweitem Gesicht danach manchmal den Geist von Emrys sehen konnten, der in den Sommermonaten über den Jungen wachte.
 
-Pendules Magie war sehr sinnlich und persönlich, und er glaubte besonders an den Einsatz von Farbe und Klang in seinen Zaubern. Er erwartete, dass die Magie den Anwender verwandelt, anstatt sich ihm bereitwillig zu unterwerfen, und obwohl er seltsam empfindlich für den Lauf der Zeit war, schien er große Schwierigkeiten mit hermetischen Standarddauern zu haben und bevorzugte Zauber, die auf seltsamen Bedingungen beruhten oder die nach dem Wirken ausgelöst wurden. Er praktizierte auch andere Mysterien, die seine Merinita-Anhänger nicht meisterten, und andere Abstammungslinien, die seiner Magie gewidmet sind, existieren noch in anderen Häusern und Kulten innerhalb (und vielleicht außerhalb) des Ordens.
+Ambrosius von Merinita hatte offensichtlich starkes Feenerbe (seine Mutter war eine Feenenchanterin, wie es hieß) und hatte bereits vor Quendalons Einweihung in die Geheimnisse der Feenmagie Zeichen mächtiger übernatürlicher Fähigkeiten gezeigt. Als er heranwuchs, begann er ein instinktives Wissen über andere Mysterien zu zeigen, Magie, die mit Zaubersprüchen und Symbolen verbunden war, sowie mit Glück und Schicksal. Er hatte eine bemerkenswerte Begabung für symbolische Vorhersagen und schrieb viele davon auf langen Schriftrollen in poetischen Versen nieder.
 
-Anhänger Pendules weihen bei ihren Meistern gewöhnlich Zauberzeitpunkt und Glamour ein. Imaginem ist fast immer ihre primäre Kunst. Eine häufige Schwäche in der Abstammungslinie ist Eisen – beide Merinitae, die Pendules Geheimnisse studierten, waren besonders anfällig dafür –, und Pendule-Merinitae erlernen oft Zaubervariierung oder einen Großen Magischen Fokus auf Gegenzauber.
+Er nahm eigene Lehrlinge an, und nach seinem Vorbild lernten sie, ähnliche Leistungen der Prophezeiung zu vollbringen, obwohl jeder von ihnen ein anderes Medium verwendete. Einer seiner Anhänger trug einen Satz geschnitzter Steine mit Symbolen, die er beim Wirken seiner Zauber warf und befragte. Ein anderer war Musiker und komponierte für jeden Zauberspruch ein anderes Lied. Ein dritter interessierte sich für die Heraldik und fertigte Zaubersprüche auf der Grundlage von Farben und Wappenfiguren an.
 
-Pendule erlag im Jahr 854 still dem Tod, nicht ohne jedem seiner Anhänger ein letztes magisches Geheimnis mitgeteilt zu haben. Um diese Tradition aufrechtzuerhalten, wird das Innere Mysterium der Beständigkeit gewöhnlich einer Maga vorenthalten, bis ihr Meister stirbt, als letzte Lektion von Lehrer zu Schüler eingeweiht.
+Diese hermetische Abstammungslinie überlebt noch immer als die „Erben Merlins", denn viele behaupten, Ambrosius' Vater sei ein Nachkomme des großen Zauberers von einst gewesen. Ihre Anhänger treten oft als Berater an Feenhöfen auf – Magi sollen nicht als Hofzauberer für Sterbliche dienen, da dies als unter ihrer Würde betrachtet wird, doch es gibt keinen Grund, warum ein Magus nicht einem Feenkönig oder einer Feenkönigin die Treue schwören kann, solange er nicht deren Zorn auf den Orden lenkt.
 
-**Beispieleinweihung eines Pendule-Anhängers: Zauberzeitpunkt**
+Die Erben können Sympathiemagie oder Geschichtenmagie einweihen und lernen typischerweise Symbolische Magie später im Leben, gewöhnlich nachdem ihre Meister in den Ruhestand treten und sie deren Positionen am Hof übernehmen. Viele von ihnen haben Feenblut und entwickeln oft Vorahnungen, Zweites Gesicht oder einen Großen Magischen Fokus auf Zaubersprüche. Bindung der Gabe ist ebenfalls verbreitet. Intellego ist bei weitem ihre beliebteste Kunst. Sie schwören häufig bei der Einweihung der Feenmagie Feenlords oder Feenladies die Treue, und ihre Einweihungsquesten für die Inneren Mysterien könnten darin bestehen, deren Willen zu dienen, ihre Reiche zu beschützen oder Krieg gegen ihre Feinde zu führen.
+
+**Beispieleinweihung der Erben Merlins: Sympathiemagie**
 
 **Schwierigkeitsgrad:** 15 (Kleine Tugend, dem Mystagogen bekannt)
 
-**Skriptbonus:** +12
+**Skriptbonus:** +8
 
-**Skriptdetails:** Der Einzuweihende unterzieht sich einer Zeremonie, bei der er einen ganzen Tag und eine Nacht lang wach bleiben und jede Runde einen nicht erschöpfenden Imaginem-Zauber wirken muss, um zu zählen, wie viele einzelne Augenblicke verstreichen (+3). Nach diesem Ritus erhält er drei Kleine Fehler, die darstellen, wie seine Magie illusionärer wird und sein Zeitempfinden starrer: Harmlose Magie (+3), Schlechtes Gedächtnis (Gesichter) (+3) und Sozialer Makel (+3). Aufgrund dieser Prüfung beginnt der Eingeweihte, Pendule ähnlicher zu werden, und viele seiner Anhänger tragen fortan bunte, gemusterte Kleidung, färben ihre Haare oder verändern ihr äußeres Erscheinungsbild kurz nach ihrer Einweihung grundlegend.
+**Skriptdetails:** Der Einzuweihende muss eine bestimmte Art von Zauberspruch-Fertigkeit wählen und ein Jahr lang als Lehrling bei einem Meister dieser Kunst verbringen (+1). Dann muss er einen Zauberspruch für einen Feenadligen aus sehr teuren Materialien (hochwertigem Holz, einem außergewöhnlichen Instrument, einem prächtigen Kostüm oder Goldtinte) anfertigen (+1), der eine besondere symbolische Eigenschaft seines Patrons darstellt (+3), wobei er zunächst einen einzigartigen Gegenstand von Mythos oder Legende suchen und erlangen muss, um ihn mit dem Zauberspruch zu verbinden (+3), wie ein Artefakt, das einst einem berühmten Magus oder einer historischen Gestalt vergangener Zeiten gehörte.
+
+### Illusionsmysterien
+
+Diese Mysterien befassen sich mit Illusionen und Bildern, einschließlich Aspekten der physischen Welt, die Feen sehen können, die meisten Menschen jedoch nicht. Dazu gehören ungewöhnliche Dauern für Feenmagie-Zauber, die nahezu ewig anhalten können.
 
 #### Zauberzeitpunkt (Kleines Illusionsmysterium)
 
@@ -3867,9 +3800,114 @@ Wiederkehrenden Zaubern können Auslöser gegeben werden, indem die oben genannt
 > | Jahr       |     +2     |
 > | Jahrzehnt  |     +1     |
 
+#### Glamour (Großes Illusionsmysterium)
+
+Glamoure sind Illusionen mit einem beträchtlichen Anteil an Realität. Sie sind Muto- oder Creo-Imaginem-Zauber, die nur Magi mit dieser Tugend erfinden oder wirken dürfen.
+
+Ein Glamour scheint alle Eigenschaften eines tatsächlichen Dings desselben Typs zu besitzen, einschließlich Substanz. So kann eine Glamour-Brücke Gewicht tragen, ein Glamour-Feuer Pergament entzünden und Glamour-Wein Durst löschen. Sie sind für die Dauer des Zaubers im Wesentlichen real, was bedeutet, dass sie dauerhafte Auswirkungen auf ihre Umgebung haben können.
+
+> #### Glamour-Leitlinien
+> 
+> Besonders kunstvolle Glamoure, wie solche, die ein erkennbares Subjekt nachahmen, oder solche mit komplexen Sinneskomponenten wie klaren Worten oder beweglichen Teilen, addieren eine zusätzliche Magnitude zum Zauber. Einen Glamour zu erzeugen, der sich unter der geistigen Lenkung des Zaubernden bewegen oder handeln kann, addiert zwei Magnituden.
+> 
+> Das Verwandeln eines belebten Ziels (etwas, das sich aus eigener Kraft bewegen kann) in einen unbelebten Gegenstand ist ebenfalls schwieriger und erfordert zwei zusätzliche Magnituden. Im Laufe der Zeit beginnt das Ziel jedoch seine Beweglichkeit wiederzuerlangen, sofern der Zaubernde den Effekt nicht regelmäßig durch Konzentration aufrechterhält. Zum Beispiel kann eine Person in einen Baum verwandelt werden, doch wenn er einige Tage ignoriert wird, beginnt dieser Baum sich möglicherweise zu bewegen und einem Menschen zu ähneln, da sein wesentliches Wesen sich über den Glamour hinwegzusetzen beginnt.
+> 
+> Die endgültige Form eines in Glamour verwandelten Ziels wird gewöhnlich erkennbare Gemeinsamkeiten mit seiner wahren Gestalt aufweisen. Zum Beispiel könnte eine in ein Tier verwandelte Person besonders ausdrucksstark sein und möglicherweise andere menschliche Eigenschaften behalten, wie die Fähigkeit zu sprechen oder aufrecht zu gehen. Größenmodifikatoren gelten ebenfalls für die Zauberstufe, wenn ein erheblicher Unterschied zwischen der ursprünglichen und der neuen Gestalt besteht.
+> 
+> **Creo Imaginem Stufe 10:** Erschaffe einen Glamour.
+>
+> **Muto Imaginem**  
+> **Stufe 10:** Verwandle ein Ziel in Glamour. (Requisit der Form des Ziels erforderlich.)
+
+> #### Zauberglamoure
+> 
+> Eine kuriose Anwendung des Glamours hat sich unter dem Merinita-Zweig der Anhänger Pendules entwickelt, inspiriert von den Geschichten ihres Namensgebers. Anstatt Metamagie zu verwenden, um Zauber in andere Zauber zu verwandeln, nutzen sie Glamoure, um Zauber in andere Zauber zu verwandeln. Diese Zauberglamoure müssen den Leitlinien für Muto Vim entsprechen, da sie keine spontane Magie beeinflussen können, einen von einem anderen gewirkten Zauber anvisieren müssen, als Schnellzauber gewirkt werden müssen und die Penetrationssumme des Zaubers durchdringen müssen. Sie müssen auch die Form des betroffenen Zaubers angeben sowie die Art der Magie (hermetisch, Feenmagie, Hecken-Tradition usw.).
+> 
+> Zauberglamoure sind hervorragend für Gegenmagie, doch wenn sie bewusst gegen einen ahnungslosen Magus eingesetzt werden, gelten sie als Beraubung seiner magischen Macht, und Magi, deren Scherze zerstörerische Auswirkungen haben, könnten sich deswegen vor dem Tribunal wiederfinden. Pendules Anhänger werden von den meisten Magi des Hauses Flambeau verabscheut und könnten sich aus Prinzip auch in Kriege der Zauberer mit ihnen verwickelt finden.
+> 
+> **Ball der Abscheulichen Musik**
+> MuIm 20  
+> R: Stimme, D: Mom, Z: Ind Req: Vim
+> 
+> Dieser Zauber visiert einen formulaischen Ignem-Zauber während des Wirkens an und verändert ihn so, dass er anstelle von Feuer, Hitze oder Licht einen harmlosen Ausbruch von Farbe und Klang erzeugt. Dieser war angeblich Pendules Lieblingszauber, und er lehrte ihn allen seinen Merinita-Anhängern, nachdem er sie in das Innere Mysterium des Glamours eingeweiht hatte. Da der Zauber als Schnellzauber gewirkt werden muss, kann er nicht formulaisch gewirkt werden, es sei denn, er wurde zu diesem Zweck gemeistert.
+> 
+> (Basis 10, +2 Stimme)
+
+Da Glamoure „solider" sind als andere Illusionen, werden sie von der Parma Magica und anderen Formen der Magieresistenz abgewehrt, im Gegensatz zu den Bildern, die andere Imaginem-Zauber erzeugen. Das liegt daran, dass Glamour das Ziel nicht einfach veränderte Species aussenden lässt, sondern die Species selbst magisch modifiziert. Sie sind jedoch immer noch Species und werden nur von der Form Imaginem beeinflusst; ein Glamour-Stein wird nicht von Terram beeinflusst, kann aber durch Perdo Imaginem zerstört werden. Glamoure sind auch Illusionen, und Charaktere mit Zweitem Gesicht können sie durchschauen, wenn sie genau hinschauen. Zu wissen, dass etwas ein Glamour ist, schützt den Charakter allerdings nicht davor; schließlich ist ein Feuer-Glamour immer noch ein Feuer und verbrennt jeden, der es berührt, ob er es durchschauen kann oder nicht.
+
+Merinitae erhalten beim Einweihen dieses Mysteriums stets den Fehler Verwundbare Magie. Deshalb glauben viele, dass Menschen nicht durch Glamoure getötet werden können, da jeder eine bestimmte Schwachstelle hat, die seine Wirkungen aufheben kann. Es heißt, wenn jemand durch den Glamour einer Maga getötet wird, die gegen Eisen verwundbar ist, könnte eine mit einem Eisennagel berührte Person zum Leben zurückkehren. Manche denken, dies könnte daran liegen, dass eine Fee, die ihr ähnelt, kommt, um ihren Platz einzunehmen, oder weil ihr Körper von einem Feengeist besessen wird, und manche denken, es bedeute, dass die Geister von durch Glamoure getöteten Personen in Arkadien verbleiben, bis sie wirklich sterben.
+
+#### Beständigkeit (Großes Illusionsmysterium)
+
+Dieses Mysterium gewährt Zugang zu drei Zauberdauern, die potenziell ewig anhalten können. Alle drei haben dieselbe Stufe wie Jahr und erfordern stets ein Ritual.
+
+- **Macht (Dauer):** Entweder das Ziel oder der Zaubernde muss Feen- oder Magische Macht besitzen und am Leben sein; der Zauber schlägt fehl, wenn diese Bedingung nicht erfüllt ist, einschließlich durch Eintreten ins Zwielicht, nach Arkadien oder in einen anderen jenseitigen Zustand. 
+- **Aura (Dauer):** Der Zauber hält an, solange das Ziel innerhalb einer übernatürlichen Aura verbleibt. Wenn das Ziel die Aura oder die physische Welt vollständig verlässt (stirbt, ins Zwielicht gerät oder nach Arkadien geht, zum Beispiel), endet der Zauber. Dies erlaubt das Wechseln von einer Aura in eine andere, solange sich die beiden Auren überlappen – solange das Ziel nie eine übernatürliche Aura irgendeiner Art verlässt. 
+- **Verborgen (Dauer):** Der Zauber hält an, solange der Zaubernde oder das Ziel (oder ein wesentlicher Teil des Zaubernden oder Ziels) verborgen ist – in der Erde begraben, in eine Kiste gelegt, mit einem Vorhang bedeckt oder durch ein Kostüm verkleidet – alles, sogar ein anderer Zauber, solange der Effekt mit der Dauer Verborgen das Ziel nicht selbst verbirgt. Wenn jemand außer dem Zaubernden es entdeckt, endet der Zauber sofort.
+
+Merinitae, die Beständigkeit lernen, erhalten bei ihrer Einweihung gewöhnlich den Fehler Unnatürliche Magie.
+
+#### Mysterienkult: die Anhänger Pendules
+
+Pendule gilt innerhalb des Ordens als etwas Legendäres; niemand weiß, wie viel seiner Geschichte wahr und wie viel phantasievoll ausgeschmückt ist. Den Geschichten zufolge wurde der provenzalische Zauberer von Flambeau entdeckt und lehnte es ab, als man ihm die Wahl „beitreten oder sterben" gab. Er war mächtig genug, um dem feurigen Gründer und seinen Anhängern zu entkommen, und viele komödiantische Geschichten, die Pendule als Trickster darstellen, der den mächtigen und großspurigen Flambeau mit Witz und Illusionen besiegt, sind Teil hermetischer Überlieferung geworden.
+
+Schließlich, so scheint es, wurde Pendule dieser Spiele müde und nahm vier hermetische Magi als seine Anhänger an. Niemand weiß genau, warum er dies tat; vielleicht wollte er einfach seine Geheimnisse mit anderen teilen, bevor er starb, oder vielleicht wollte er von ihnen die hermetische Magietheorie erlernen. Zwei dieser Anhänger stammten aus Haus Merinita, und da sie Feenmagie von Quendalon eingeweiht bekommen hatten, waren sie in der Lage, die von Pendule gelehrten Illusionsmysterien zu meistern – die anderen konnten sie nicht begreifen. Danach lehrten diese Merinitae die Geheimnisse ihren Anhängern als Teil einer besonderen Hauslinie weiter.
+
+Pendules Magie war sehr sinnlich und persönlich, und er glaubte besonders an den Einsatz von Farbe und Klang in seinen Zaubern. Er erwartete, dass die Magie den Anwender verwandelt, anstatt sich ihm bereitwillig zu unterwerfen, und obwohl er seltsam empfindlich für den Lauf der Zeit war, schien er große Schwierigkeiten mit hermetischen Standarddauern zu haben und bevorzugte Zauber, die auf seltsamen Bedingungen beruhten oder die nach dem Wirken ausgelöst wurden. Er praktizierte auch andere Mysterien, die seine Merinita-Anhänger nicht meisterten, und andere Abstammungslinien, die seiner Magie gewidmet sind, existieren noch in anderen Häusern und Kulten innerhalb (und vielleicht außerhalb) des Ordens.
+
+Anhänger Pendules weihen bei ihren Meistern gewöhnlich Zauberzeitpunkt und Glamour ein. Imaginem ist fast immer ihre primäre Kunst. Eine häufige Schwäche in der Abstammungslinie ist Eisen – beide Merinitae, die Pendules Geheimnisse studierten, waren besonders anfällig dafür –, und Pendule-Merinitae erlernen oft Zaubervariierung oder einen Großen Magischen Fokus auf Gegenzauber.
+
+Pendule erlag im Jahr 854 still dem Tod, nicht ohne jedem seiner Anhänger ein letztes magisches Geheimnis mitgeteilt zu haben. Um diese Tradition aufrechtzuerhalten, wird das Innere Mysterium der Beständigkeit gewöhnlich einer Maga vorenthalten, bis ihr Meister stirbt, als letzte Lektion von Lehrer zu Schüler eingeweiht.
+
+**Beispieleinweihung eines Pendule-Anhängers: Zauberzeitpunkt**
+
+**Schwierigkeitsgrad:** 15 (Kleine Tugend, dem Mystagogen bekannt)
+
+**Skriptbonus:** +12
+
+**Skriptdetails:** Der Einzuweihende unterzieht sich einer Zeremonie, bei der er einen ganzen Tag und eine Nacht lang wach bleiben und jede Runde einen nicht erschöpfenden Imaginem-Zauber wirken muss, um zu zählen, wie viele einzelne Augenblicke verstreichen (+3). Nach diesem Ritus erhält er drei Kleine Fehler, die darstellen, wie seine Magie illusionärer wird und sein Zeitempfinden starrer: Harmlose Magie (+3), Schlechtes Gedächtnis (Gesichter) (+3) und Sozialer Makel (+3). Aufgrund dieser Prüfung beginnt der Eingeweihte, Pendule ähnlicher zu werden, und viele seiner Anhänger tragen fortan bunte, gemusterte Kleidung, färben ihre Haare oder verändern ihr äußeres Erscheinungsbild kurz nach ihrer Einweihung grundlegend.
+
 ### Naturmysterien
 
 Merinita kannte eine ganz andere Art von Magie als jene, die der Rest des Hauses praktiziert. Sie befasste sich mit der Macht ungezähmter Wildnis und dem Hervorholen der magischen Eigenschaften der Natur. Ihre Mysterien liegen außerhalb der Grenzen der Feenmagie und stehen den Mitgliedern ihres Hauses gewöhnlich nicht zur Verfügung. Sie finden sich manchmal bei Magi aus anderen Häusern, besonders bei Bjornaern aus der verlorenen Linie Myanars, und ein oder zwei Naturmagi sollen im Haus verblieben sein, um anderen den Weg zu weisen und die Naturmysterien neben den Hausmysterien der Feenmagie zu lehren. Größtenteils sind die Naturmysterien jedoch ein Rätsel für die Mitglieder von Merinitas Haus.
+
+#### Naturkunde (Kleines Äußeres Mysterium)
+
+Als ersten Schritt in die Naturmysterien muss eine Maga eine Art der Natur wählen, mit der sie verbunden ist. Dies stellt ihre übernatürliche Verbindung zur natürlichen Welt dar. Der Charakter erhält eine Übernatürliche Fertigkeit namens Naturkunde, die mit dieser Form der Natur verbunden ist. Ein Charakter, der sich zum Beispiel für Wälder interessiert, würde Waldkunde erlernen, und eine Maga, die sich für Tiere interessiert, würde Tierkunde erlernen. Dieses Mysterium verleiht ihr einen Wert von 1 in dieser Fertigkeit. Merinitas Interesse galt angeblich den Wäldern, und daher ist dies die verbreitetste Version – Charaktere, die Waldkunde erlernt haben, wie in *Wächter des Waldes: Das Rhein-Tribunal* beschrieben, besitzen diese Fertigkeit faktisch.
+
+> #### Beispielhafte Naturkunde
+> 
+> | Kunde    | Beschreibung |
+> |----------|-------------|
+> | Tier     | Alle wildlebenden Kreaturen einer Region |
+> | Wasser   | Flüsse, Seen, Meere und Ozeane |
+> | Wetter   | Der Himmel und weite offene Räume |
+> | Wald     | Der Geist der Bäume und anderer Flora |
+> | Wüste    | Trockenes, nicht urbares Land mit extremen Temperaturen |
+> | Berg     | Erde und Stein, in Hügeln, Gipfeln und Tälern zu finden |
+
+Der Naturkunde-Wert des Charakters dient vielen Zwecken. Zunächst kann er als Gebietskunde für den Ort verwendet werden, an dem die Maga ihn erlernt hat. Dies umfasst Wissen über übernatürliche Wesen und Orte mit einer Verbindung zum Gebiet, insbesondere was sie erfreuen oder erzürnen würde. Wenn dieses Verständnis wächst, entwickelt die Maga auch außerhalb dieses vertrauten Gebiets ein Gespür und kann an anderen Orten mit der Natur kommunizieren. Um dies darzustellen, behandle ihren Naturkunde-Wert außerhalb ihrer Heimatregion stets als um drei niedriger.
+
+Auf dieselbe Weise erlaubt Naturkunde dem Charakter, mit der gesamten Natur zu kommunizieren, die mit seiner Fertigkeit verbunden ist. Für viele Aspekte der Natur verläuft diese Kommunikation langsam, und viele Konzepte sind schwer zu vermitteln, da der Charakter auf die Sinne und Laute beschränkt ist, die das Subjekt besitzt. Ein Charakter mit Bergkunde 5 kann einen Stein befragen, indem er ihn einfach berührt, obwohl dieser Vorgang wahrscheinlich mehrere Stunden dauert.
+
+Naturkunde kann nur durch Abenteuer-, Übungs- oder Expositionserfahrung gesteigert werden, und die Quellenqualität entspricht der Aura des Gebiets. Naturmagi entwickeln gewöhnlich eine tiefe Bindung an diesen Ort und verbringen dort viel Zeit.
+
+> #### Naturkunde verwenden
+> 
+> Im Folgenden werden die Auswirkungen verschiedener Naturkunde-Werte beschrieben. Negative Werte haben keine nützliche Wirkung. Behandle den Naturkunde-Wert einer Maga außerhalb ihrer Heimatregion stets als um drei niedriger.
+> 
+> - 0 Ein grundlegendes Verständnis des Gebiets; die Maga muss nur einige Stunden an einem solchen Ort verbringen, um seine wichtigsten Stätten zu finden und seine größten Gefahren zu kennen.  
+> - 1 Ein grundlegendes Verständnis des Ortes, seiner Bewohner und wichtigen Orte. Begrenzte Kommunikation ist möglich.  
+> - 2 Ein Bewusstsein für die übernatürlichen Elemente des Gebiets; die Maga kann erkennen, wenn sie in der Nähe sind oder ob eine Person von ihnen betroffen wurde; sie kann die Grenzen magischer Regiones innerhalb des Gebiets wahrnehmen.  
+> - 3 Die Maga kann Vis im Gebiet aufspüren, einmal pro Quartal, indem sie nur einige Tage mit der Suche verbringt.  
+> - 4 Eine Übereinkunft mit den übernatürlichen Bewohnern des Gebiets; sie neigen dazu, der Maga gegenüber neutral zu handeln. Durch Zeichen und ihr Verhalten kann der Charakter erkennen, wenn Gefahr naht oder eine Störung im normalen Lauf der Dinge vorliegt.  
+> - 5 Die Maga kann fließend mit der Natur im Gebiet kommunizieren. Die Maga wird von den meisten Bewohnern respektiert.  
+> - 6 Die Maga wird vom Gebiet und seinen Bewohnern als Verbündete respektiert und anerkannt. Bewohner kommen der Maga gewöhnlich zu Hilfe, wenn sie gerufen werden.  
+> - 7 Die Maga kann mit den Bewohnern des Gebiets geistig kommunizieren, einfach indem sie an sie denkt. Die Maga muss sich nur konzentrieren, um Hilfe herbeizurufen.  
+> - 8 Die Maga kann jeden Teil des Gebiets anvisieren, als hätte sie eine permanente Arkane Verbindung dazu.  
+> - 9 Alle Bewohner des Gebiets fühlen sich gezwungen, der Maga zu gehorchen, und befolgen ihre Befehle treu.
+
+Der Charakter kann andere Mysterien einweihen, indem er mit den übernatürlichen Aspekten der Natur kommuniziert. Dieser Vorgang wird „den Pfad beschreiten" genannt. Der Charakter muss ein magisches Wesen finden, das mit seiner Fertigkeit verbunden ist und bereit ist, ihm seine Geheimnisse zu lehren. In Spielbegriffen erhält der Charakter einen Fehler (das „Opfer"), führt eine vom Lehrer zugewiesene Aufgabe aus (die „Queste"), und erhält bei Abschluss eine besondere Tugend (die „Frucht"). Ein Kleiner Fehler ergibt eine Kleine Tugend, und ein Großer Fehler gewährt eine Große Tugend. Weitere Informationen über diesen Vorgang und mehrere Beispielpfade finden sich in *Wächter des Waldes: Das Rhein-Tribunal*.
 
 #### Erweckung (Kleines Naturmysterium)
 
@@ -3879,13 +3917,7 @@ Die Erweckung dauert mindestens ein Quartal und erfordert ein natürlich hervorr
 
 Die Maga erzeugt dann eine Summe basierend auf einer Technik und Form, die die Persönlichkeit des erweckten Wesens bestimmen wird, wobei sie Naturkunde anstelle von Magietheorie verwendet und nicht die Aura ihres Labors einbezieht, da sie das Ritual in der Wildnis durchführt und stattdessen jene Aura nutzt. Die Basisstufe beträgt 25 plus dem Machtwert des Subjekts plus oder minus dem Fünffachen der Größe des Wesens, oder dem Fünffachen der Aura plus dem Gebietsgröße-Modifikator (siehe Kasten). Dies ähnelt der Formel zur Verzauberung eines Vertrauten; eine Kreatur mit Macht 5 und Größe −3 würde eine modifizierte Laborsumme von 15 erfordern, während der Geist einer Aura von 5 mit einem Gebietsmodifikator von +5 die Stufe 50 hätte.
 
-**Erweckungskosten: 1 Bauern Vis pro fünf Stufen oder Bruchteil**
-
-Eine Maga kann auch zusätzliche Quartale aufwenden, um dem frisch erweckten Wesen besondere Kräfte zu verleihen, die es mit seiner Macht aktivieren kann. Dies ähnelt der Herstellung eines bereiteten Artefakts, denn das Subjekt wurde als Teil des Erweckungsrituals für die Verzauberung vorbereitet. Notiere die Menge an Vis, die zur Erweckung aufgewendet wurde, denn diese begrenzt, wie viele Kräfte die Maga ihm verleihen kann.
-
-Bestimme jeden Effekt, den du verzaubern möchtest, genau so, als würdest du einen Effekt für ein bereitetes Artefakt entwerfen. Wenn es von Bedeutung ist, gilt das Wesen sowohl als Träger als auch als Artefakt für diese Kräfte. Dann bette den Effekt wie gewohnt ein, indem du deine Laborsumme basierend auf der Stufe des eingebetteten Effekts berechnest. Die Gesamtstufe aller Effekte darf nicht höher sein als das Zehnfache der Anzahl der beim Erweckungsritual investierten Visbauern. Wenn also die Erweckung einer Kreatur drei Bauern Vis gekostet hat, kann sie nicht mehr als 30 Stufen magischer Effekte besitzen.
-
-Du musst kein Vis aufwenden, um diese Kräfte einzubetten. Stattdessen kostet jede Kraft den Geist 1 Machtpunkt pro 10 Stufen des Effekts. Du kannst jedoch Vis aufwenden, um die Kosten zu senken: Fünf Bauern, die mit einer der Künste des Effekts verbunden sind, senken die Aktivierungskosten um 1 Machtpunkt. Dies kann nur zum Zeitpunkt der Einbettung der Kraft geschehen; du kannst die Kraft nicht nachträglich günstiger machen.
+**Erweckungssumme: Intelligenz + Naturkunde + Technik + Form + Aura**
 
 **Erweckungsstufe: 25 + Machtwert + (Größe × 5), oder (Aura + Größenmodifikator) × 5**
 
@@ -3901,15 +3933,31 @@ Du musst kein Vis aufwenden, um diese Kräfte einzubetten. Stattdessen kostet je
 
 Wie bei der Bindung eines Vertrauten muss die Summe des Charakters die Effektstufe erreichen oder übertreffen, um das Ritual abzuschließen, das einen Bauern Vis einer mit der Naturkunde-Fertigkeit der Maga verbundenen Kunst pro fünf Stufen der Summe kostet. Sobald die Verzauberung abgeschlossen ist, erhält das Wesen einen Magischen Machtwert, falls es noch keinen hat, in Höhe von (Aura × 5), und wenn es ein Tier ist, erhält es Intelligenz anstelle von Gerissenheit.
 
-**Erweckungssumme: Intelligenz + Naturkunde + Technik + Form + Aura**
+**Erweckungskosten: 1 Bauern Vis pro fünf Stufen oder Bruchteil**
+
+Eine Maga kann auch zusätzliche Quartale aufwenden, um dem frisch erweckten Wesen besondere Kräfte zu verleihen, die es mit seiner Macht aktivieren kann. Dies ähnelt der Herstellung eines bereiteten Artefakts, denn das Subjekt wurde als Teil des Erweckungsrituals für die Verzauberung vorbereitet. Notiere die Menge an Vis, die zur Erweckung aufgewendet wurde, denn diese begrenzt, wie viele Kräfte die Maga ihm verleihen kann.
+
+Bestimme jeden Effekt, den du verzaubern möchtest, genau so, als würdest du einen Effekt für ein bereitetes Artefakt entwerfen. Wenn es von Bedeutung ist, gilt das Wesen sowohl als Träger als auch als Artefakt für diese Kräfte. Dann bette den Effekt wie gewohnt ein, indem du deine Laborsumme basierend auf der Stufe des eingebetteten Effekts berechnest. Die Gesamtstufe aller Effekte darf nicht höher sein als das Zehnfache der Anzahl der beim Erweckungsritual investierten Visbauern. Wenn also die Erweckung einer Kreatur drei Bauern Vis gekostet hat, kann sie nicht mehr als 30 Stufen magischer Effekte besitzen.
+
+Du musst kein Vis aufwenden, um diese Kräfte einzubetten. Stattdessen kostet jede Kraft den Geist 1 Machtpunkt pro 10 Stufen des Effekts. Du kannst jedoch Vis aufwenden, um die Kosten zu senken: Fünf Bauern, die mit einer der Künste des Effekts verbunden sind, senken die Aktivierungskosten um 1 Machtpunkt. Dies kann nur zum Zeitpunkt der Einbettung der Kraft geschehen; du kannst die Kraft nicht nachträglich günstiger machen.
+
+**Kraft-Laborsumme: Technik + Form + Intelligenz + Magietheorie + Auramodifikator**
+
+**Kraft-Stufe: wie ein in ein Artefakt eingebetteter Effekt**
 
 **Kraft-Kosten: 1 Machtpunkt pro zehn Stufen oder Bruchteil des Effekts, minus 1 pro fünf Bauern (Technik- oder Form-)Vis**
 
 Anstatt ihm Kräfte zu verleihen, kann die Maga ein erwecktes Wesen als ihren Vertrauten binden und die Bindung wie gewohnt mit Kräften ausstatten. Sobald der Prozess der Ausstattung eines erweckten Wesens mit magischen Kräften einmal begonnen hat, kann er jedoch niemals rückgängig gemacht werden, und er macht das Wesen für immer als Vertrauter ungeeignet. Die Ausstattung eines Wesens mit magischen Kräften verursacht so dramatische Veränderungen, dass die Kordeln es nicht mehr binden können.
 
-**Kraft-Laborsumme: Technik + Form + Intelligenz + Magietheorie + Auramodifikator**
+#### Verwilderung (Großes Naturmysterium)
 
-**Kraft-Stufe: wie ein in ein Artefakt eingebetteter Effekt**
+Durch dieses Innere Mysterium lernt die Maga, die Kraft der Natur in physischen Dingen zum Vorschein zu bringen. Dies ähnelt dem Gewinnen von Vis aus einer Magieaura, da es ein Quartal an Zeit und Arbeit erfordert und eine Anzahl von Visbauern erzeugt, obwohl die physische Form dieses Vis vorübergehend ist und sofort verwendet werden muss, innerhalb weniger Tage. Es kann daher nicht für Quartalstätigkeiten oder Studium verwendet werden; die meisten Naturmagi nutzen die Verwilderung, um Vis für ihre rituellen Zauber zu erzeugen.
+
+Die Maga wählt ein ihrer Naturkunde-Fertigkeit entsprechendes Gefäß, das die Form des erzeugten Vis bestimmt: Ein Stein könnte Terram-Vis erzeugen, eine Pflanze Herbam-Vis und ein Tier Animal-Vis. Um für diesen Prozess in Frage zu kommen, muss der Gegenstand vollständig natürlich sein, niemals durch Kunstfertigkeit oder Handwerk bearbeitet. Zum Beispiel muss ein Stein auf natürliche Weise vom Berg abgebrochen sein, eine Pflanze dort wachsen, wo ihr Samen fiel, und ein Tier ungezähmt sein.
+
+**Verwilderung: (Naturkunde × 2) Bauern (entsprechende Form-)Vis**
+
+Nur Magi, die das Mysterium der Verwilderung eingeweiht haben, können dieses wilde Vis verwenden oder es ohne eigens dafür bestimmte Magie überhaupt als Vis erkennen. Andere Magi nehmen schlicht seine natürliche Form wahr.
 
 #### Hüterin der Natur (Großes Naturmysterium)
 
@@ -3952,54 +4000,6 @@ Wahre Merinitae beginnen stets mit Naturkunde, müssen aber auch Feenmagie einwe
 > - Eine Fee erklärt sich bereit, einer Maga als Vertrautensklavin zu dienen, im Tausch gegen das Versprechen, eine der kleineren Vis-Quellen des Konvents nicht abzuernten. Als jedoch ein anderer Konvent versucht, das Vis zu sammeln, muss die Maga es beschützen oder den Handel brechen und ihren Vertrauten verlieren.
 > - Der Volksheld eines nahegelegenen Dorfes war für sein Geschick als Heiler bekannt, und seine früheren Besitztümer wären sehr nützlich für eine Merinita mit ähnlichem Interesse, da sie in Zaubersprüche umgewandelt werden könnten. Ebenso würden selbst weltliche Besitztümer eines berühmten Magus wie Ambrosius unter Merinitae-Volksmagiern wahrscheinlich einen hohen Preis erzielen.
 > - Ein Teich soll einen magischen Fisch enthalten, der nicht gefangen werden kann, aber spricht und magische Kräfte besitzt. Die Magi erfahren, dass er der letzte Nachkomme eines Tieres ist, dem vor vielen Generationen von einer Frau in Grün Intelligenz verliehen wurde. Er droht den Magi und verflucht sie, wenn sie ihm nicht bei der Flucht helfen, damit er sich fortpflanzen kann.
-
-#### Naturkunde (Kleines Äußeres Mysterium)
-
-Als ersten Schritt in die Naturmysterien muss eine Maga eine Art der Natur wählen, mit der sie verbunden ist. Dies stellt ihre übernatürliche Verbindung zur natürlichen Welt dar. Der Charakter erhält eine Übernatürliche Fertigkeit namens Naturkunde, die mit dieser Form der Natur verbunden ist. Ein Charakter, der sich zum Beispiel für Wälder interessiert, würde Waldkunde erlernen, und eine Maga, die sich für Tiere interessiert, würde Tierkunde erlernen. Dieses Mysterium verleiht ihr einen Wert von 1 in dieser Fertigkeit. Merinitas Interesse galt angeblich den Wäldern, und daher ist dies die verbreitetste Version – Charaktere, die Waldkunde erlernt haben, wie in *Wächter des Waldes: Das Rhein-Tribunal* beschrieben, besitzen diese Fertigkeit faktisch.
-
-> #### Beispielhafte Naturkunde
-> 
-> | Kunde    | Beschreibung |
-> |----------|-------------|
-> | Tier     | Alle wildlebenden Kreaturen einer Region |
-> | Wasser   | Flüsse, Seen, Meere und Ozeane |
-> | Wetter   | Der Himmel und weite offene Räume |
-> | Wald     | Der Geist der Bäume und anderer Flora |
-> | Wüste    | Trockenes, nicht urbares Land mit extremen Temperaturen |
-> | Berg     | Erde und Stein, in Hügeln, Gipfeln und Tälern zu finden |
-
-Der Naturkunde-Wert des Charakters dient vielen Zwecken. Zunächst kann er als Gebietskunde für den Ort verwendet werden, an dem die Maga ihn erlernt hat. Dies umfasst Wissen über übernatürliche Wesen und Orte mit einer Verbindung zum Gebiet, insbesondere was sie erfreuen oder erzürnen würde. Wenn dieses Verständnis wächst, entwickelt die Maga auch außerhalb dieses vertrauten Gebiets ein Gespür und kann an anderen Orten mit der Natur kommunizieren. Um dies darzustellen, behandle ihren Naturkunde-Wert außerhalb ihrer Heimatregion stets als um drei niedriger.
-
-Auf dieselbe Weise erlaubt Naturkunde dem Charakter, mit der gesamten Natur zu kommunizieren, die mit seiner Fertigkeit verbunden ist. Für viele Aspekte der Natur verläuft diese Kommunikation langsam, und viele Konzepte sind schwer zu vermitteln, da der Charakter auf die Sinne und Laute beschränkt ist, die das Subjekt besitzt. Ein Charakter mit Bergkunde 5 kann einen Stein befragen, indem er ihn einfach berührt, obwohl dieser Vorgang wahrscheinlich mehrere Stunden dauert.
-
-Naturkunde kann nur durch Abenteuer-, Übungs- oder Expositionserfahrung gesteigert werden, und die Quellenqualität entspricht der Aura des Gebiets. Naturmagi entwickeln gewöhnlich eine tiefe Bindung an diesen Ort und verbringen dort viel Zeit.
-
-> #### Naturkunde verwenden
-> 
-> Im Folgenden werden die Auswirkungen verschiedener Naturkunde-Werte beschrieben. Negative Werte haben keine nützliche Wirkung. Behandle den Naturkunde-Wert einer Maga außerhalb ihrer Heimatregion stets als um drei niedriger.
-> 
-> - 0 Ein grundlegendes Verständnis des Gebiets; die Maga muss nur einige Stunden an einem solchen Ort verbringen, um seine wichtigsten Stätten zu finden und seine größten Gefahren zu kennen.  
-> - 1 Ein grundlegendes Verständnis des Ortes, seiner Bewohner und wichtigen Orte. Begrenzte Kommunikation ist möglich.  
-> - 2 Ein Bewusstsein für die übernatürlichen Elemente des Gebiets; die Maga kann erkennen, wenn sie in der Nähe sind oder ob eine Person von ihnen betroffen wurde; sie kann die Grenzen magischer Regiones innerhalb des Gebiets wahrnehmen.  
-> - 3 Die Maga kann Vis im Gebiet aufspüren, einmal pro Quartal, indem sie nur einige Tage mit der Suche verbringt.  
-> - 4 Eine Übereinkunft mit den übernatürlichen Bewohnern des Gebiets; sie neigen dazu, der Maga gegenüber neutral zu handeln. Durch Zeichen und ihr Verhalten kann der Charakter erkennen, wenn Gefahr naht oder eine Störung im normalen Lauf der Dinge vorliegt.  
-> - 5 Die Maga kann fließend mit der Natur im Gebiet kommunizieren. Die Maga wird von den meisten Bewohnern respektiert.  
-> - 6 Die Maga wird vom Gebiet und seinen Bewohnern als Verbündete respektiert und anerkannt. Bewohner kommen der Maga gewöhnlich zu Hilfe, wenn sie gerufen werden.  
-> - 7 Die Maga kann mit den Bewohnern des Gebiets geistig kommunizieren, einfach indem sie an sie denkt. Die Maga muss sich nur konzentrieren, um Hilfe herbeizurufen.  
-> - 8 Die Maga kann jeden Teil des Gebiets anvisieren, als hätte sie eine permanente Arkane Verbindung dazu.  
-> - 9 Alle Bewohner des Gebiets fühlen sich gezwungen, der Maga zu gehorchen, und befolgen ihre Befehle treu.
-
-Der Charakter kann andere Mysterien einweihen, indem er mit den übernatürlichen Aspekten der Natur kommuniziert. Dieser Vorgang wird „den Pfad beschreiten" genannt. Der Charakter muss ein magisches Wesen finden, das mit seiner Fertigkeit verbunden ist und bereit ist, ihm seine Geheimnisse zu lehren. In Spielbegriffen erhält der Charakter einen Fehler (das „Opfer"), führt eine vom Lehrer zugewiesene Aufgabe aus (die „Queste"), und erhält bei Abschluss eine besondere Tugend (die „Frucht"). Ein Kleiner Fehler ergibt eine Kleine Tugend, und ein Großer Fehler gewährt eine Große Tugend. Weitere Informationen über diesen Vorgang und mehrere Beispielpfade finden sich in *Wächter des Waldes: Das Rhein-Tribunal*.
-
-#### Verwilderung (Großes Naturmysterium)
-
-Durch dieses Innere Mysterium lernt die Maga, die Kraft der Natur in physischen Dingen zum Vorschein zu bringen. Dies ähnelt dem Gewinnen von Vis aus einer Magieaura, da es ein Quartal an Zeit und Arbeit erfordert und eine Anzahl von Visbauern erzeugt, obwohl die physische Form dieses Vis vorübergehend ist und sofort verwendet werden muss, innerhalb weniger Tage. Es kann daher nicht für Quartalstätigkeiten oder Studium verwendet werden; die meisten Naturmagi nutzen die Verwilderung, um Vis für ihre rituellen Zauber zu erzeugen.
-
-Die Maga wählt ein ihrer Naturkunde-Fertigkeit entsprechendes Gefäß, das die Form des erzeugten Vis bestimmt: Ein Stein könnte Terram-Vis erzeugen, eine Pflanze Herbam-Vis und ein Tier Animal-Vis. Um für diesen Prozess in Frage zu kommen, muss der Gegenstand vollständig natürlich sein, niemals durch Kunstfertigkeit oder Handwerk bearbeitet. Zum Beispiel muss ein Stein auf natürliche Weise vom Berg abgebrochen sein, eine Pflanze dort wachsen, wo ihr Samen fiel, und ein Tier ungezähmt sein.
-
-**Verwilderung: (Naturkunde × 2) Bauern (entsprechende Form-)Vis**
-
-Nur Magi, die das Mysterium der Verwilderung eingeweiht haben, können dieses wilde Vis verwenden oder es ohne eigens dafür bestimmte Magie überhaupt als Vis erkennen. Andere Magi nehmen schlicht seine natürliche Form wahr.
 
 # Kapitel Vier: Haus Verditius
 
@@ -4364,15 +4364,15 @@ Dämonen und andere infernale Agenten sind sich wohl bewusst, dass Verditius-Mag
 
 Haus Verditius hat mehrere Prüfungen entwickelt, um Einzuweihenden beim Erlangen zusätzlicher Innerer Mysterien zu helfen. Die erste Prüfung, die beim Erlernen des ersten Kleinen Inneren Mysteriums durchlaufen wird, verleiht stets den Kleinen Fehler Hybris. Weitere Prüfungen können auf Weisen eingesetzt werden, die am besten zu eurer Saga passen. Sie können mit bestimmten Inneren Mysterien verknüpft sein, in einer bestimmten Reihenfolge durchlaufen werden müssen oder in beliebiger Kombination für jedes Innere Mysterium verfügbar sein. Verditius-Magi haben die folgenden Prüfungen erfolgreich zur Einweihung ihrer Kameraden eingesetzt. Jede Prüfung darf von einem einzelnen Magus nur einmal genutzt werden.
 
-**Gesteigerte Hybris** (Kleine Prüfung): Diese Prüfung macht den Magus stolzer, pompöser, arroganter oder in welcher Form auch immer sein Hybris-Persönlichkeitszug sich äußert. Er wird bereitwillig egozentrischer und hochmütiger, wissend, dass dies das Potenzial hat, ihn von seinen Kameraden zu entfremden. Man erhält genügend Erfahrungspunkte im Hybris-Wert des Magus, um ihn eine Stufe zu erhöhen.
+**Trenne die Bande** (Große oder Kleine Prüfung): Die Prüfung bewirkt, dass der Einzuweihende jede emotionale Bindung an seine Familie und Freunde verliert und es ihm unmöglich wird, solche familiären Bindungen neu zu knüpfen. Dies kann je nach Schwere der getrennten Bindungen entweder einen Kleinen oder Großen Fehler auferlegen. Der Kleine Fehler bewirkt, dass ein Verditius-Magus seine Familie und seine Schmiedegefährten aus seinem Leben verstößt, und schließt alle freundschaftlichen Bindungen ein, die er zu weltlichen Menschen gehabt haben mag. Der Große Fehler bewirkt, dass der Verditius-Magus sich vollständig in sich selbst zurückzieht. Er muss seinen Vertrauten zerstören, falls er einen hatte, und kann keinen neuen binden. Er muss zudem seinen Lehrling aufgeben. Diese Prüfung sollte selten sein, da sie viele der gemeinschaftlichen Grundsätze des Hauses Verditius untergräbt, ist aber sehr passend für Magi, die das Innere Mysterium Fluch binden erlernen möchten. Verditius-Magi in der Nachfolgelinie des Primus dürfen diese Prüfung nicht durchlaufen.
+
+**Selbstverstümmelung** (Große oder Kleine Prüfung): Dem Vorbild des Verditius selbst folgend, begehen viele Verditius-Magi Akte der Selbstverstümmelung, gewöhnlich an ihren Beinen, und geißeln ihre Körper in dem Bestreben, ihre Seelen zu erhöhen. Drei Fehler können aus dieser Prüfung resultieren: Krüppel, Behindert oder Lahm. Die aus dieser Selbstverstümmelung resultierenden Wunden können nicht geheilt werden, weder durch physische noch durch magische Mittel. Während die anfängliche Blutung und die Knochenbrüche behandelt werden können, kann der langfristige Schaden nicht behoben werden. Der erhaltene Bonus hängt davon ab, ob die Verstümmelung einen Kleinen oder Großen Fehler zur Folge hat.
 
 **Risikofreudig** (Kleine Prüfung): Diese Prüfung verändert die Persönlichkeit des Magus und macht ihn extrem erpicht auf Risikobereitschaft und Experimentieren. Nach Durchlaufen dieser Prüfung muss er bei jeder Laboraktivität, die Experimentieren erlaubt, experimentieren, da er den Nervenkitzel des Unbekannten und seiner unerwarteten Ergebnisse liebt. Er erhält den Kleinen Prüfungsfehler Risikofreudig. Diese Prüfung ist unvereinbar mit der Prüfung Risikoscheu.
 
 **Risikoscheu** (Kleine Prüfung): Diese Prüfung verändert die Persönlichkeit des Magus und macht ihn übermäßig zurückhaltend gegenüber Laboraktivitäten, die Risiken bergen. Obwohl er weiterhin die Fertigkeiten des Kleinen Inneren Mysteriums Gegenstände umschmieden praktizieren darf, darf er bei Laboraktivitäten niemals experimentieren. Er erhält den Kleinen Prüfungsfehler Risikoscheu. Er darf die Prüfung Risikofreudig nicht durchlaufen.
 
-**Selbstverstümmelung** (Große oder Kleine Prüfung): Dem Vorbild des Verditius selbst folgend, begehen viele Verditius-Magi Akte der Selbstverstümmelung, gewöhnlich an ihren Beinen, und geißeln ihre Körper in dem Bestreben, ihre Seelen zu erhöhen. Drei Fehler können aus dieser Prüfung resultieren: Krüppel, Behindert oder Lahm. Die aus dieser Selbstverstümmelung resultierenden Wunden können nicht geheilt werden, weder durch physische noch durch magische Mittel. Während die anfängliche Blutung und die Knochenbrüche behandelt werden können, kann der langfristige Schaden nicht behoben werden. Der erhaltene Bonus hängt davon ab, ob die Verstümmelung einen Kleinen oder Großen Fehler zur Folge hat.
-
-**Trenne die Bande** (Große oder Kleine Prüfung): Die Prüfung bewirkt, dass der Einzuweihende jede emotionale Bindung an seine Familie und Freunde verliert und es ihm unmöglich wird, solche familiären Bindungen neu zu knüpfen. Dies kann je nach Schwere der getrennten Bindungen entweder einen Kleinen oder Großen Fehler auferlegen. Der Kleine Fehler bewirkt, dass ein Verditius-Magus seine Familie und seine Schmiedegefährten aus seinem Leben verstößt, und schließt alle freundschaftlichen Bindungen ein, die er zu weltlichen Menschen gehabt haben mag. Der Große Fehler bewirkt, dass der Verditius-Magus sich vollständig in sich selbst zurückzieht. Er muss seinen Vertrauten zerstören, falls er einen hatte, und kann keinen neuen binden. Er muss zudem seinen Lehrling aufgeben. Diese Prüfung sollte selten sein, da sie viele der gemeinschaftlichen Grundsätze des Hauses Verditius untergräbt, ist aber sehr passend für Magi, die das Innere Mysterium Fluch binden erlernen möchten. Verditius-Magi in der Nachfolgelinie des Primus dürfen diese Prüfung nicht durchlaufen.
+**Gesteigerte Hybris** (Kleine Prüfung): Diese Prüfung macht den Magus stolzer, pompöser, arroganter oder in welcher Form auch immer sein Hybris-Persönlichkeitszug sich äußert. Er wird bereitwillig egozentrischer und hochmütiger, wissend, dass dies das Potenzial hat, ihn von seinen Kameraden zu entfremden. Man erhält genügend Erfahrungspunkte im Hybris-Wert des Magus, um ihn eine Stufe zu erhöhen.
 
 ### Bruderschaften
 
@@ -4389,13 +4389,13 @@ Jede Bruderschaft besitzt ein einzigartiges Inneres Mysterium, das ihren Mitglie
 
 der Schlacht an sich, doch die Klinge wurde später von Verditius' Filius Roscius gestohlen und nach Verdi gebracht. Durch wiederholtes Studium des Schwertes wurden Roscius und seine Filii berühmte Hersteller magischer Schwerter. Jede Klinge ist mit einem winzigen „R" graviert, das ursprünglich für „Roscius" stand, nun aber in Erinnerung an den ursprünglichen Besitzer als „Roland" gedeutet wird. Von dieser Bruderschaft gefertigte Schwerter verbreiteten sich im neunten und zehnten Jahrhundert weit, wurden aber nach den Tribunalsentscheidungen von 1061 stärker eingeschränkt.
 
-**Einweihung in Kleiner Magischer Fokus (Schwerter)**
+**Produktion:** Die Bruderschaft des Roland fertigt Schwerter sowie andere von Hand geführte Kriegswaffen. Alle Mitglieder besitzen die Handwerksfertigkeit Schmied mit Spezialisierung auf Schwertherstellung. Sie produzieren Qualitätsgegenstände aus Schwertern, die auf die Verwundung von Menschen abgestimmt sind (siehe Qualitätsgegenstände, unten), sowie ein Sortiment weiterer verzauberter Klingen. Diese Schwerter werden diskret an christliche Ritter verkauft, oft an Kreuzfahrer.
 
 **Einweihungsmysterium:** Die Mitglieder der Bruderschaft haben eine Prüfung entwickelt, die die Kleine Hermetische Tugend Kleiner Magischer Fokus (Schwerter) verleiht.
 
 **Mysterienpfad:** Einzuweihende erlernen das Äußere Mysterium, dann Kleiner Magischer Fokus (Schwerter), Umschmieden, Qualitätsgegenstände, Ältere Verditius-Runen und Abgestimmte Gegenstände.
 
-**Produktion:** Die Bruderschaft des Roland fertigt Schwerter sowie andere von Hand geführte Kriegswaffen. Alle Mitglieder besitzen die Handwerksfertigkeit Schmied mit Spezialisierung auf Schwertherstellung. Sie produzieren Qualitätsgegenstände aus Schwertern, die auf die Verwundung von Menschen abgestimmt sind (siehe Qualitätsgegenstände, unten), sowie ein Sortiment weiterer verzauberter Klingen. Diese Schwerter werden diskret an christliche Ritter verkauft, oft an Kreuzfahrer.
+**Einweihung in Kleiner Magischer Fokus (Schwerter)**
 
 **Schwierigkeitsgrad:** 15
 
@@ -4443,13 +4443,13 @@ Viele Magi des Hauses Verditius bekennen sich zum Christentum, doch nicht alle. 
 
 Himinis, „der Wahnsinnige" genannt, war ein Magus des 11. Jahrhunderts, der viele magische Gegenstände produzierte und verkaufte, wodurch er seine habgierige Natur nährte und einer der gierigsten Verditius-Magi wurde, die je gelebt haben. Er wurde paranoid, dass andere Magi versuchten, seine Gegenstände zu stehlen, und begann daher, Trickgegenstände herzustellen — Gegenstände, die bei Auslösung gefährliche Zauber auf den Benutzer entluden. Nicht zufrieden mit dieser Hinterlist, erfand Himinis ein Mysterium, das es ihm ermöglichte, mächtige Flüche in seine Gegenstände einzubetten. Sein Lehrling setzte diese Tradition fort, und die daraus hervorgegangene Bruderschaft existiert noch heute.
 
-**Einweihung in Fluch binden**
+**Produktion:** Diese Bruderschaft ist weniger an ein bestimmtes Handwerk gebunden als andere Bruderschaften. Die Mitglieder stellen gewöhnliche magische Gegenstände her, wobei jeder ein Handwerk fortsetzt, das er vor der Lehrzeit besaß oder von seinem Parens lernte. Dieser Bruderschaft ist keine spezifische Handwerksfertigkeit zugeordnet.
 
 **Einweihungsmysterium:** Himinis entwickelte eine Prüfung, um seinen Einzuweihenden die Kleine Hermetische Tugend Kleiner Magischer Fokus (Holzstäbe) zu lehren. Sie erhalten zudem den unglückseligen Kleinen Persönlichkeitsfehler Neidisch.
 
 **Mysterienpfad:** Einzuweihende erlernen das Äußere Mysterium, gefolgt von Kleiner Magischer Fokus (Holzstäbe), Ältere Verditius-Runen, Abgestimmte Gegenstände und Fluch binden.
 
-**Produktion:** Diese Bruderschaft ist weniger an ein bestimmtes Handwerk gebunden als andere Bruderschaften. Die Mitglieder stellen gewöhnliche magische Gegenstände her, wobei jeder ein Handwerk fortsetzt, das er vor der Lehrzeit besaß oder von seinem Parens lernte. Dieser Bruderschaft ist keine spezifische Handwerksfertigkeit zugeordnet.
+**Einweihung in Fluch binden**
 
 **Schwierigkeitsgrad:** 21
 
@@ -4469,6 +4469,10 @@ Der Magus kann seine Zauberwerkzeuge verzaubern, um bestimmte Effekte gemeistert
 
 Um ein Zauberwerkzeug zu verzaubern, vergleiche die Technik- und Form-Laborsumme des Magus mit der Stufe des Zaubers, mit dem das Zauberwerkzeug verbunden ist. Ein Zauberwerkzeug ist durch die Verditius-Mysterien eng mit dem Zauber verbunden, sodass der Magus Verditius-Runen in das Werkzeug schnitzen darf, was seinen Philosophiae-Wert zur Laborsumme hinzufügt – selbst wenn das Werkzeug normalerweise keinen Form- und Materialbonus für diesen Zauber hätte. Hat der Magus eine Handwerksfertigkeit, die das Herstellen von Werkzeugen einschließen könnte, darf er auch seinen Handwerkswert hinzufügen. Da verzauberte Zauberwerkzeuge dauerhaft Arkane Verbindungen zum Magus werden, füge seinen Hybris-Persönlichkeitswert zur Laborsumme hinzu. Der Magus erhält außerdem einen Bonus dafür, dass er den Zauber bereits kennt: Er fügt die Magnitude des Zaubers zur Laborsumme hinzu, ähnlich dem Bonus, den man für das Kennen eines ähnlichen Zaubers erhält (ArM5, [Seite 101](<Ars Magica Definitive Edition Basisregeln.md#ähnliche-zauber>)). Die Stufe für den Effekt entspricht der Stufe des Zaubers plus der Anpassung für etwaige zusätzliche Kräfte, die der Magus einbetten möchte, und die Laborsumme des Magus muss mindestens das Doppelte der Effektstufe betragen, damit er die Verzauberung in einem Quartal durchführen kann.
 
+**Laborsumme für Zauberwerkzeug-Verzauberung: Technik + Form + Intelligenz + Magietheorie + Auramodifikator + Philosophiae + Hybris + Magnitude des bekannten Zaubers + Handwerk (sofern anwendbar)**
+
+Die Basiseffektstufe des Zauberwerkzeugs entspricht der Stufe des Zaubers, für den es verwendet wird. Die Effektstufe erhöht sich entsprechend den zusätzlichen Effekten, die der Magus einbetten möchte. Es gibt keine Begrenzung der Anzahl der Effekte, solange seine Laborsumme plus Boni das Doppelte der endgültigen Effektstufe beträgt.
+
 **Effekte des Zauberwerkzeugs verbessern:**
 - +2 Schnellzaubern (wie bei einem gemeisterten Zauber).
 - +2 Mehrfachzauber (wie bei einem gemeisterten Zauber). Dies erlaubt einen zusätzlichen Zauber; weitere Zauber können für jeweils +2 Effektstufenerhöhung hinzugefügt werden.
@@ -4484,10 +4488,6 @@ Das Verzaubern von Zauberwerkzeugen erfordert Vis. Der Magus muss pro 10 Stufen 
 > Hephaestion, ein Verditius-Magus fünf Jahre nach seiner Lehrlingsprüfung, möchte sein Zauberwerkzeug für den Zauber *Der Kristallpfeil* verzaubern. Seine Muto-Terram-Laborsumme ist recht hoch, 49, was seinen Philosophiae-Wert, seinen Hybris-Wert, seine anwendbare Handwerksfertigkeit und den Bonus für das Kennen des Zaubers einschließt. Die Basiseffektstufe des verzauberten Zauberwerkzeugs beträgt 10, die Stufe des Zaubers. Hephaestion erweitert sein Zauberwerkzeug um den Effekt Schnellzaubern, drei Mehrfachzauber und einen +6-Zauberwurfbonus. Die Gesamteffektstufe des verzauberten Zauberwerkzeugs beträgt 24. Hephaestion wendet 3 Bauern Terram-Vis auf und vollendet die Verzauberung in einem Quartal.
 
 **Einweihung in das Verzaubern von Zauberwerkzeugen**
-
-**Laborsumme für Zauberwerkzeug-Verzauberung: Technik + Form + Intelligenz + Magietheorie + Auramodifikator + Philosophiae + Hybris + Magnitude des bekannten Zaubers + Handwerk (sofern anwendbar)**
-
-Die Basiseffektstufe des Zauberwerkzeugs entspricht der Stufe des Zaubers, für den es verwendet wird. Die Effektstufe erhöht sich entsprechend den zusätzlichen Effekten, die der Magus einbetten möchte. Es gibt keine Begrenzung der Anzahl der Effekte, solange seine Laborsumme plus Boni das Doppelte der endgültigen Effektstufe beträgt.
 
 **Schwierigkeitsgrad:** 15 (Kleine Tugend, dem Mystagogen bekannt)
 
@@ -4525,21 +4525,17 @@ Die grundlegende Praxis des Umschmiedens vergleicht die Creo- oder Rego-Vim-Labo
 
 Umschmieden ist, wie das Untersuchen eines magischen Gegenstands, einer der seltenen Fälle, in denen ein Würfelwurf zu einem Quartalsereignis addiert wird. Dies liegt an der Komplexität des Umschmiedeprozesses und der Unberechenbarkeit der Magie.
 
-#### Verzauberte Artefakte einschmelzen
+#### Verzauberte Gegenstände reparieren
 
-Der dritte Einsatzzweck dieses Inneren Mysteriums besteht darin, ein verzaubertes Artefakt zu dekonstruieren oder „einzuschmelzen", indem die Methode des Umschmiedens verwendet wird, um Vis aus einem Gegenstand zu extrahieren. Dies ist ein besonders heimtückischer Gebrauch dieses Mysteriums, der es Verditius-Magi – und nur Verditius-Magi – erlaubt, verwendbare Bauern Vis aus hermetisch hergestellten magischen Gegenständen zu gewinnen. Das Einschmelzen eines Gegenstands dauert ein Quartal.
+Magi, die in dieses Mysterium eingeweiht sind, können zerbrochene verzauberte Gegenstände reparieren, indem sie die in den Bruchstücken vorhandene magische Energie wieder zusammenführen, um das Artefakt neu zu schmieden. Es ist unerheblich, wie der Gegenstand zerbrochen ist, und solange der Magus alle Teile hat, kann er ihn wieder zusammensetzen. Der Gegenstand selbst hilft ihm dabei, da die Magie in ihm danach strebt, sich zu einem Ganzen zu vereinigen. Es besteht ein Unterschied zwischen einem zerbrochenen Gegenstand und einem Gegenstand, dessen Magie durch das Verbrauchen etwaiger Ladungen erschöpft wurde. Letzterer ist nicht zerbrochen, sondern lediglich verbraucht, und kann nicht repariert werden.
 
-Um einen Gegenstand zu dekonstruieren, muss ein Magus ihn zunächst gründlich untersuchen, wobei er den oben beschriebenen Intellego-Vim-Laborsumme-+-Stresswurf-Prozess verwendet. Summiere alle eingebetteten Effektstufen des Artefakts, um die benötigte Stufe zu ermitteln. Bei erfolgreicher Untersuchung vergleiche die Rego-Vim-Laborsumme des Magus + einen Stresswurf mit den gesamten eingebetteten Effektstufen. Ist sie gleich oder höher, verliert der Gegenstand alle seine Kräfte, und der Magus extrahiert die Anzahl formspezifischer Bauern Vis, die zum Einbetten jener Kräfte verwendet wurden. Die Anzahl der Bauern, die der Magus erhält, ist jedoch begrenzt: entweder durch seine Magietheorie mal zwei oder, falls er das Innere Mysterium Ältere Verditius-Runen kennt, durch seine Magietheorie mal Philosophiae. Überschüssige Bauern gehen verloren. Scheitert der Wurf, verliert der Gegenstand seine Kraft, und das Vis verflüchtigt sich. Bei einem Patzer verliert der Gegenstand seine Kräfte, und der Magus erhält 1 Verzerrungspunkt pro Magnitude der kombinierten eingebetteten Effektstufen.
+Der Magus muss in einem hermetischen Laboratorium arbeiten, um den Gegenstand zu reparieren. Kenntnisse der betreffenden Handwerksfertigkeit, die ursprünglich zur Herstellung des Gegenstands verwendet wurde, sind hilfreich, aber nicht erforderlich. Zunächst repariert er den Gegenstand physisch. Lege einen Geschicklichkeit-+-Handwerk-Stresswurf gegen einen Schwierigkeitsgrad von 9 ab. Ist der Gegenstand von überragender Qualität, kann der Spielleiter den Schwierigkeitsgrad erhöhen, aber für die meisten magischen Artefakte ist dies ein relativ einfacher Vorgang. Wurde der Gegenstand von einer anderen Verditius-Maga hergestellt, erhöht sich der Schwierigkeitsgrad um den Philosophiae-Wert der Schöpferin zum Zeitpunkt der Herstellung des Gegenstands.
 
-Einschmelzen ist nicht zu 100% effizient. Ein Bauer von zehn geht stets verloren und verflüchtigt sich während des Einschmelzprozesses. Mindestens ein Bauer Vis geht verloren, unabhängig von der Gesamtzahl der Bauern, die aus dem Gegenstand gewonnen werden könnten. Nur Talismane, abgestimmte Gegenstände sowie Schlichte und Bereitete Artefakte können eingeschmolzen werden.
+Nach der physischen Reparatur untersucht der Magus den Gegenstand, bevor er dessen Magie wieder zusammenfügt. Mittels Creo-Magie bindet er die Kraft wieder in ihre ursprüngliche Verzauberung ein. Dies beginnt weitgehend wie das Untersuchen eines magischen Artefakts (ArM5, [Seite 100](<Ars Magica Definitive Edition Basisregeln.md#verzauberungen-untersuchen>))<!-- link-redirect: "Untersuchen eines magischen Artefakts" → "Verzauberungen untersuchen" -->. Lege eine Intellego-Vim-Laborsumme + einen Stresswurf gegen die Stufe der schwächsten im Artefakt enthaltenen Verzauberung ab. Viele Anfragen an Verditius-Magi zur Reparatur zerbrochener verzauberter Gegenstände kommen von anderen hermetischen Magi, und da die meisten hermetischen Magi ein gewisses Verständnis der betreffenden Verzauberungen haben, helfen die von ihnen bereitgestellten Informationen den Verditius-Magi oft bei ihren Untersuchungen. Wird einem Verditius-Magus korrekt über die Eigenschaften eines Gegenstands Auskunft gegeben, darf er +20 auf seine Untersuchungswürfe addieren. Die angebotenen Informationen sind jedoch nicht immer zutreffend. Wird ihm Falschinformation über ein Artefakt gegeben, wird sein Wurf um –5 bis –20 belastet, abhängig davon, wie unwahr die Information ist. Der Spielleiter ist der letzte Schiedsrichter über die genaue Höhe des Abzugs, wobei er seine Entscheidung darauf stützt, wie sehr sich die Information von der Wahrheit unterscheidet. Repariert der Magus ein Artefakt, das er selbst hergestellt hat, oder besitzt er einen Labortext dafür, kann er die Untersuchungsphase überspringen. Gelingt es dem Magus nicht, eine Eigenschaft erfolgreich zu untersuchen, darf kein Reparaturwurf abgelegt werden. Bei einem Patzer erhält der Magus Verzerrungspunkte in Höhe der Magnitude der untersuchten Eigenschaft.
 
-**Einweihung in das Umschmieden verzauberter Gegenstände**
+Nachdem der Magus eine magische Kraft des Artefakts erfolgreich verstanden hat, wird ein Stresswurf gewürfelt und zu seiner Creo-Vim-Laborsumme addiert. Ist die Summe höher als die Effektstufe der Kraft, ist der Gegenstand repariert und funktioniert wieder normal. Ist sie niedriger, scheitert er. Bei einem Patzer erhält er Verzerrungspunkte in Höhe der Magnitude der Kraft, die er zu reparieren versuchte.
 
-**Schwierigkeitsgrad:** 15 (Kleine Tugend, dem Mystagogen bekannt)
-
-**Skriptbonus:** +7
-
-**Skriptdetails:** Der Einzuweihende muss einen Gegenstand herstellen, üblicherweise etwas, das er mit seiner Handwerksfertigkeit anfertigen kann. Er muss so viele davon herstellen, wie er in dem Quartal kann, jedes so nahezu identisch wie das Handwerk es erlaubt (+1). Der Mystagoge opfert ein Quartal seiner Zeit, um den Einzuweihenden zu unterstützen (+3). Gegen Ende des Quartals zeigt der Einzuweihende die Gegenstände dem Mystagogen, der sie rituell in einem Feuer aus Schwefel, Zedernholz und Fischöl verbrennt. Aufgrund des repetitiven Prozesses der Einweihung erhält der Einzuweihende den Kleinen Fehler Risikoscheu (Opfer +3).
+Bei Gegenständen mit mehreren Kräften muss der Magus eine Kraft verstehen und reparieren, bevor er zur nächsten übergeht. Die Abfolge der Tätigkeiten lautet: untersuchen, dann reparieren, untersuchen, dann reparieren. Dies alles kann in einem Quartal geschehen, solange der Magus bei jedem Schritt des Vorgangs erfolgreich ist. Der Magus kann im folgenden Quartal fortfahren, wenn ein Scheitern ihn unterbricht und er dies wünscht. Es ist daher möglich, ein Artefakt zu haben, bei dem nur einige seiner Eigenschaften funktionieren.
 
 #### Verzauberte Artefakte umschmieden
 
@@ -4557,17 +4553,21 @@ Ein Magus kann ein Artefakt auch umschmieden, bevor Kräfte darin eingebettet we
 
 Schmiedet der Magus erfolgreich einen Gegenstand um, der nur für die Verzauberung vorbereitet ist, kann er danach normal Kräfte einbetten. Umschmieden verändert diesen Vorgang nicht. Gegenstände ohne eingebettete Kräfte können nur einmal umgeschmiedet werden, können aber später erneut umgeschmiedet werden, nachdem Kräfte in sie eingebettet wurden. Gegenstände, die umgeschmiedet wurden – ob vor oder nach dem Einbetten von Kräften –, erhalten bei der Effektstufe jeder ihrer Kräfte eine Erhöhung um das Fünffache des Philosophiae-Werts des Magus für zukünftige Umschmiedungen.
 
-#### Verzauberte Gegenstände reparieren
+#### Verzauberte Artefakte einschmelzen
 
-Magi, die in dieses Mysterium eingeweiht sind, können zerbrochene verzauberte Gegenstände reparieren, indem sie die in den Bruchstücken vorhandene magische Energie wieder zusammenführen, um das Artefakt neu zu schmieden. Es ist unerheblich, wie der Gegenstand zerbrochen ist, und solange der Magus alle Teile hat, kann er ihn wieder zusammensetzen. Der Gegenstand selbst hilft ihm dabei, da die Magie in ihm danach strebt, sich zu einem Ganzen zu vereinigen. Es besteht ein Unterschied zwischen einem zerbrochenen Gegenstand und einem Gegenstand, dessen Magie durch das Verbrauchen etwaiger Ladungen erschöpft wurde. Letzterer ist nicht zerbrochen, sondern lediglich verbraucht, und kann nicht repariert werden.
+Der dritte Einsatzzweck dieses Inneren Mysteriums besteht darin, ein verzaubertes Artefakt zu dekonstruieren oder „einzuschmelzen", indem die Methode des Umschmiedens verwendet wird, um Vis aus einem Gegenstand zu extrahieren. Dies ist ein besonders heimtückischer Gebrauch dieses Mysteriums, der es Verditius-Magi – und nur Verditius-Magi – erlaubt, verwendbare Bauern Vis aus hermetisch hergestellten magischen Gegenständen zu gewinnen. Das Einschmelzen eines Gegenstands dauert ein Quartal.
 
-Der Magus muss in einem hermetischen Laboratorium arbeiten, um den Gegenstand zu reparieren. Kenntnisse der betreffenden Handwerksfertigkeit, die ursprünglich zur Herstellung des Gegenstands verwendet wurde, sind hilfreich, aber nicht erforderlich. Zunächst repariert er den Gegenstand physisch. Lege einen Geschicklichkeit-+-Handwerk-Stresswurf gegen einen Schwierigkeitsgrad von 9 ab. Ist der Gegenstand von überragender Qualität, kann der Spielleiter den Schwierigkeitsgrad erhöhen, aber für die meisten magischen Artefakte ist dies ein relativ einfacher Vorgang. Wurde der Gegenstand von einer anderen Verditius-Maga hergestellt, erhöht sich der Schwierigkeitsgrad um den Philosophiae-Wert der Schöpferin zum Zeitpunkt der Herstellung des Gegenstands.
+Um einen Gegenstand zu dekonstruieren, muss ein Magus ihn zunächst gründlich untersuchen, wobei er den oben beschriebenen Intellego-Vim-Laborsumme-+-Stresswurf-Prozess verwendet. Summiere alle eingebetteten Effektstufen des Artefakts, um die benötigte Stufe zu ermitteln. Bei erfolgreicher Untersuchung vergleiche die Rego-Vim-Laborsumme des Magus + einen Stresswurf mit den gesamten eingebetteten Effektstufen. Ist sie gleich oder höher, verliert der Gegenstand alle seine Kräfte, und der Magus extrahiert die Anzahl formspezifischer Bauern Vis, die zum Einbetten jener Kräfte verwendet wurden. Die Anzahl der Bauern, die der Magus erhält, ist jedoch begrenzt: entweder durch seine Magietheorie mal zwei oder, falls er das Innere Mysterium Ältere Verditius-Runen kennt, durch seine Magietheorie mal Philosophiae. Überschüssige Bauern gehen verloren. Scheitert der Wurf, verliert der Gegenstand seine Kraft, und das Vis verflüchtigt sich. Bei einem Patzer verliert der Gegenstand seine Kräfte, und der Magus erhält 1 Verzerrungspunkt pro Magnitude der kombinierten eingebetteten Effektstufen.
 
-Nach der physischen Reparatur untersucht der Magus den Gegenstand, bevor er dessen Magie wieder zusammenfügt. Mittels Creo-Magie bindet er die Kraft wieder in ihre ursprüngliche Verzauberung ein. Dies beginnt weitgehend wie das Untersuchen eines magischen Artefakts (ArM5, [Seite 100](<Ars Magica Definitive Edition Basisregeln.md#verzauberungen-untersuchen>))<!-- link-redirect: "Untersuchen eines magischen Artefakts" → "Verzauberungen untersuchen" -->. Lege eine Intellego-Vim-Laborsumme + einen Stresswurf gegen die Stufe der schwächsten im Artefakt enthaltenen Verzauberung ab. Viele Anfragen an Verditius-Magi zur Reparatur zerbrochener verzauberter Gegenstände kommen von anderen hermetischen Magi, und da die meisten hermetischen Magi ein gewisses Verständnis der betreffenden Verzauberungen haben, helfen die von ihnen bereitgestellten Informationen den Verditius-Magi oft bei ihren Untersuchungen. Wird einem Verditius-Magus korrekt über die Eigenschaften eines Gegenstands Auskunft gegeben, darf er +20 auf seine Untersuchungswürfe addieren. Die angebotenen Informationen sind jedoch nicht immer zutreffend. Wird ihm Falschinformation über ein Artefakt gegeben, wird sein Wurf um –5 bis –20 belastet, abhängig davon, wie unwahr die Information ist. Der Spielleiter ist der letzte Schiedsrichter über die genaue Höhe des Abzugs, wobei er seine Entscheidung darauf stützt, wie sehr sich die Information von der Wahrheit unterscheidet. Repariert der Magus ein Artefakt, das er selbst hergestellt hat, oder besitzt er einen Labortext dafür, kann er die Untersuchungsphase überspringen. Gelingt es dem Magus nicht, eine Eigenschaft erfolgreich zu untersuchen, darf kein Reparaturwurf abgelegt werden. Bei einem Patzer erhält der Magus Verzerrungspunkte in Höhe der Magnitude der untersuchten Eigenschaft.
+Einschmelzen ist nicht zu 100% effizient. Ein Bauer von zehn geht stets verloren und verflüchtigt sich während des Einschmelzprozesses. Mindestens ein Bauer Vis geht verloren, unabhängig von der Gesamtzahl der Bauern, die aus dem Gegenstand gewonnen werden könnten. Nur Talismane, abgestimmte Gegenstände sowie Schlichte und Bereitete Artefakte können eingeschmolzen werden.
 
-Nachdem der Magus eine magische Kraft des Artefakts erfolgreich verstanden hat, wird ein Stresswurf gewürfelt und zu seiner Creo-Vim-Laborsumme addiert. Ist die Summe höher als die Effektstufe der Kraft, ist der Gegenstand repariert und funktioniert wieder normal. Ist sie niedriger, scheitert er. Bei einem Patzer erhält er Verzerrungspunkte in Höhe der Magnitude der Kraft, die er zu reparieren versuchte.
+**Einweihung in das Umschmieden verzauberter Gegenstände**
 
-Bei Gegenständen mit mehreren Kräften muss der Magus eine Kraft verstehen und reparieren, bevor er zur nächsten übergeht. Die Abfolge der Tätigkeiten lautet: untersuchen, dann reparieren, untersuchen, dann reparieren. Dies alles kann in einem Quartal geschehen, solange der Magus bei jedem Schritt des Vorgangs erfolgreich ist. Der Magus kann im folgenden Quartal fortfahren, wenn ein Scheitern ihn unterbricht und er dies wünscht. Es ist daher möglich, ein Artefakt zu haben, bei dem nur einige seiner Eigenschaften funktionieren.
+**Schwierigkeitsgrad:** 15 (Kleine Tugend, dem Mystagogen bekannt)
+
+**Skriptbonus:** +7
+
+**Skriptdetails:** Der Einzuweihende muss einen Gegenstand herstellen, üblicherweise etwas, das er mit seiner Handwerksfertigkeit anfertigen kann. Er muss so viele davon herstellen, wie er in dem Quartal kann, jedes so nahezu identisch wie das Handwerk es erlaubt (+1). Der Mystagoge opfert ein Quartal seiner Zeit, um den Einzuweihenden zu unterstützen (+3). Gegen Ende des Quartals zeigt der Einzuweihende die Gegenstände dem Mystagogen, der sie rituell in einem Feuer aus Schwefel, Zedernholz und Fischöl verbrennt. Aufgrund des repetitiven Prozesses der Einweihung erhält der Einzuweihende den Kleinen Fehler Risikoscheu (Opfer +3).
 
 ### Ältere Verditius-Runen (Kleines Hausmysterium)
 
@@ -4634,40 +4634,6 @@ Automaten sind konstruierte Nachbildungen aus einem Grundmaterial, üblicherweis
 
 Die Konstruktion eines Automaten umfasst drei Phasen: die Erschaffung der Figur, die Vorbereitung für die Verzauberung und das Einbetten zauberähnlicher Verzauberungen. Dieser Vorgang wird bildlich als Erschaffung des Körpers, Geistes und Verstandes des Automaten bezeichnet.
 
-#### Automaten im Spiel
-
-Einmal fertiggestellt, funktioniert der Automat wie ein gedankenloser NSC, der befohlene Aufgaben und Dienste ausführt. Muss er jemals einen Fertigkeitswurf ablegen, würfelt der Spielleiter wie gewohnt: Eigenschaft + Fertigkeit + Würfelwurf gegen einen festgelegten Schwierigkeitsgrad. Da Automaten dafür konstruiert sind, regelmäßige Routineaufgaben auszuführen, verwenden sie stets einen einfachen Wurf und nie einen Stresswurf. Große Erfolge und katastrophale Fehler liegen außerhalb der Fähigkeiten eines Automaten. Geistige Eigenschaften werden bei Fertigkeiten ignoriert, die sie erfordern, und der Spielleiter würfelt nur einen Wurf + die Fertigkeit des Automaten. Automaten können nur Fertigkeiten einsetzen, für die sie konstruiert wurden.
-
-Automaten sind komplizierte Maschinen und erfordern ständige Wartung. Am Ende jedes Jahres wird ein Stresswurf abgelegt und mit dem Machtwert des Automaten verglichen. Erreicht oder übertrifft er den Wert, ist der Automat in Ordnung. Wird er nicht erreicht, ist ein kleines Teil des Automaten kaputtgegangen. Senke den Machtwert des Automaten um 1 Punkt. Der Automat erleidet einen –1-Abzug auf alle Fertigkeitswürfe pro 2 Punkte verlorener Macht. Bei einem Patzer bricht der Automat zusammen und verliert 5 Punkte Machtwert pro tatsächlichem Patzer. Sobald der Machtwert des Automaten 0 erreicht, ist er kaputt und funktioniert nicht mehr. Es ist ratsam, diesen jährlichen Wurf abzulegen, wenn die anderen Charaktere ihre Alterungswürfe ablegen.
-
-Beschädigte Automaten können repariert werden. Ein Magus kann Reparaturen vor Ort an einem Automaten durchführen, indem er seinen Intelligenz-+-Automaten-herstellen-Wert + einen Stresswurf gegen einen Schwierigkeitsgrad von (6 + Magnitude des Machtwerts des Automaten) abgelegt. Bei Erfolg wird der Machtwert des Automaten um 1 Punkt auf seinen ursprünglichen Wert erhöht. Bei Scheitern war der Versuch erfolglos. Bei einem Patzer verliert der Automat 1 Punkt Macht pro tatsächlichem Patzer. Reparaturen vor Ort dauern eine Anzahl von Tagen in Höhe der Magnitude des ursprünglichen Machtwerts des Automaten, aufgerundet. Der Magus kann auch ein ganzes Quartal aufwenden und den gesamten Schaden an einem Automaten reparieren. Vergleiche seine Rego + entsprechende Form mit einem Mentem-Requisit-Laborsumme mit dem Machtwert des Automaten + der Anzahl seiner eingebetteten Kräfte. Seine Laborsumme muss höher als der angepasste Machtwert des Automaten sein, damit die Reparaturen erfolgreich sind. Ein Magus muss einen Automaten reparieren, bevor dessen Macht 0 erreicht; an diesem Punkt ist er endgültig kaputt und nutzlos.
-
-> #### Beispiel: Automat
-> 
-> Fünfzehn Jahre nach seiner Lehrlingsprüfung handelt Hephaestions Venditor einen äußerst lukrativen Handel mit Lord Guigues von Dauphiné aus, der eine mechanische Elster für sein Schlafgemach haben möchte. Da er erst kürzlich in das Mysterium der Automaten eingeweiht wurde, beginnt Hephaestion den Verzauberungsprozess mit Bangen. Er beschließt, eine Zinnelster herzustellen. Ihr Machtwert beträgt 11: Basis 10 + Größe (–4) + Material (5 für unedles Metall).
-> 
-> Hephaestion versucht, den Automaten im ersten Quartal zu fertigen. Seine Intelligenz beträgt +3 und seine Fertigkeit Automatenkunst 2. Sein Stresswurf ergibt eine 3, insgesamt 8 – nicht genug, um den Machtwert des Vogels zu erreichen. Im ersten Quartal gescheitert, versucht er es im nächsten mit einem +1-Bonus für den zuvor gescheiterten Versuch. Sein zweiter Stresswurf ergibt 4, was ihm eine Summe von 10 gibt (Wurf 4 + 3 Intelligenz + 2 Automatenkunst + 1 zuvor gescheitertes Quartal). Im dritten Versuch würfelt er eine 6, insgesamt 13 (Wurf 6 + 3 Intelligenz + 2 Automatenkunst + 2 zuvor gescheiterte Quartale), und baut den Automaten erfolgreich. Unter Verwendung des üblichen Vis-Preises (ein Bauer Vis entspricht zehn Mythischen Pfund) betragen die Materialkosten dieser drei Quartale 130 Pfund (Machtwert 11 + 2 gescheiterte Quartale).
-> 
-> Im vierten Quartal bereitet Hephaestion den Automaten problemlos für die Verzauberung vor. Da er das Kleine Innere Mysterium der Älteren Runen kennt, beträgt die maximale Vis-Menge, die er in einem Quartal zur Verzauberung eines Gegenstands verwenden kann, 20 (5 Magietheorie × 4 Philosophiae). Elf Bauern Terram-Vis werden benötigt, um die Elster für die Verzauberung zu öffnen.
-> 
-> Bereits ein Jahr in den Prozess hinein, verzaubert Hephaestion die Elster zum Singen. Singen ist ein Creo-Imaginem-Basiseffekt von 5. Er legt den Auslöser für den Effekt fest (das Wort „Sing" sagen), fügt den Befehl „Halt" hinzu und gibt ihm eine Effekthäufigkeit von drei Anwendungen pro Tag. Die endgültige Effektstufe dieser Kraft beträgt 10.
-> 
-> Hephaestions Creo-Imaginem-Laborsumme + Hybris beträgt 22. Die Kraft wird in einem Quartal eingebettet und kostet einen Bauern Creo- oder Imaginem-Vis. Der Automat kann noch zehn weitere Bauern Vis aufnehmen.
-> 
-> Hephaestion hätte den Vogel gern fliegen lassen, doch das übersteigt seine Fähigkeiten. Er kann ihn jedoch zum Hüpfen verzaubern. Er bettet die Kraft „Pflichtbewusste Bewegung" ein, einen Rego-Terram-Basiseffekt von 20. Er gibt dieser Kraft einen ähnlichen Auslöser, einen „Halt"-Befehl und drei Anwendungen pro Tag, für eine endgültige Effektstufe von 25. Seine Rego-Terram-Laborsumme + Hybris beträgt 40, und er kann diese Verzauberung in zwei Quartalen für drei Bauern kunstspezifischen Vis fertigstellen.
-> 
-> Schließlich beschließt Hephaestion, dass er den Vogel im Bedarfsfall zur Explosion bringen sollte, obwohl nur ein anderer Verditius-Magus verstehen würde, warum dies „nötig" sein könnte. Die Kraft bewirkt, dass der Vogel in Stücke explodiert, die in einem kreisförmigen Sprühregen herausfliegen und jedem im Umkreis eines Schritts +5 Schaden zufügen. Spieler und Spielleiter entscheiden, dass dies ein Rego-Terram-Effekt der Stufe 5 ist (Basis 3, +2 Gruppe). Das Ziel ist Gruppe statt Teil, weil der Effekt die gesamte Konstruktion betrifft. Er kann nur einmal eintreten, auf einen verbalen Befehl hin, sodass die endgültige Effektstufe 10 beträgt. Hephaestions Rego-Terram-Laborsumme beträgt noch immer 40. Er bettet diese Kraft mühelos für einen Bauern Terram-Vis ein.
-> 
-> Hephaestion hat zwei Jahre mit der Verzauberung dieses Automaten verbracht. Am Ende des letzten Quartals wirkt er *Verknüpfe die bindenden Fäden* der Stufe 30, was höher ist als der Machtwert 11 des Automaten + 15. Dies schließt den Vorgang ab und kostet sechs Bauern Vim-Vis. Die gesamten Vis-Kosten für den Automaten betragen 22 Bauern. Hephaestion berechnet Guigues 460 Mythische Pfund, 330 für das verwendete Vis und 130 für die Konstruktionskosten. Das ist die Hälfte der Kosten einer ganzen Burg! Guigues sträubt sich gegen den Preis, akzeptiert aber den Handel – sehr zum Leidwesen seiner ohnehin übermäßig belasteten Pächter.
-
-**Einweihung in Automaten**
-
-**Schwierigkeitsgrad:** 21 (Große Tugend, dem Mystagogen bekannt)
-
-**Skriptbonus:** +13
-
-**Skriptdetails:** Der Einzuweihende muss ein Quartal damit verbringen, einen der antiken Automaten des Hephaistos zu studieren, entweder in Verdi oder an einem anderen Verditius-Standort, der einen besitzt (+1). Sie muss dann zum Leuchtturm von Alexandria in Ägypten reisen, wo sie einen Brand aus der Quelle des Leuchtturms stehlen muss. Der Brand muss brennend bleiben, während sie zum Mystagogen reist (+3). Während der Einweihung durchläuft sie eine Große Prüfung, die den Großen Fehler Notwendige Bedingung (muss in der Nähe einer offenen Flamme sein, um Magie zu wirken) auferlegt (+9).
-
 #### Einen Automaten erschaffen
 
 Der Magus muss zunächst entscheiden, welche Form und welches Material seine Automaten haben sollen. Die Größe des Automaten und sein Material sind wichtig. Wähle eine Nachbildung einer Spezies, einschließlich Mensch, und bestimme ihre Größe unter Zuhilfenahme der Größenbeispieltabelle (ArM5, [Seite 192](<Ars Magica Definitive Edition Basisregeln.md#kreaturen-mit-nicht-standardmäßiger-größe>)) oder des Abschnitts Weltliche Tiere im Bjornaer-Kapitel. Wähle dann ein Material anhand der Material-und-Größe-Tabelle (ArM5, [Seite 97](<Ars Magica Definitive Edition Basisregeln.md#material--und-größentabellen>)), um die Basispunkte des Automaten zu bestimmen. Automaten sind magische Schöpfungen und haben daher einen Machtwert. Diese Zahlen bestimmen den Machtwert des Dinges – eine entscheidende Berechnung, die im gesamten Herstellungsprozess verwendet wird.
@@ -4730,6 +4696,40 @@ Dieser Zauber wird einzig bei der Konstruktion von Automaten verwendet. Die Basi
 
 (Basiseffekt, +1 Berührung, +2 Gruppe)
 
+#### Automaten im Spiel
+
+Einmal fertiggestellt, funktioniert der Automat wie ein gedankenloser NSC, der befohlene Aufgaben und Dienste ausführt. Muss er jemals einen Fertigkeitswurf ablegen, würfelt der Spielleiter wie gewohnt: Eigenschaft + Fertigkeit + Würfelwurf gegen einen festgelegten Schwierigkeitsgrad. Da Automaten dafür konstruiert sind, regelmäßige Routineaufgaben auszuführen, verwenden sie stets einen einfachen Wurf und nie einen Stresswurf. Große Erfolge und katastrophale Fehler liegen außerhalb der Fähigkeiten eines Automaten. Geistige Eigenschaften werden bei Fertigkeiten ignoriert, die sie erfordern, und der Spielleiter würfelt nur einen Wurf + die Fertigkeit des Automaten. Automaten können nur Fertigkeiten einsetzen, für die sie konstruiert wurden.
+
+Automaten sind komplizierte Maschinen und erfordern ständige Wartung. Am Ende jedes Jahres wird ein Stresswurf abgelegt und mit dem Machtwert des Automaten verglichen. Erreicht oder übertrifft er den Wert, ist der Automat in Ordnung. Wird er nicht erreicht, ist ein kleines Teil des Automaten kaputtgegangen. Senke den Machtwert des Automaten um 1 Punkt. Der Automat erleidet einen –1-Abzug auf alle Fertigkeitswürfe pro 2 Punkte verlorener Macht. Bei einem Patzer bricht der Automat zusammen und verliert 5 Punkte Machtwert pro tatsächlichem Patzer. Sobald der Machtwert des Automaten 0 erreicht, ist er kaputt und funktioniert nicht mehr. Es ist ratsam, diesen jährlichen Wurf abzulegen, wenn die anderen Charaktere ihre Alterungswürfe ablegen.
+
+Beschädigte Automaten können repariert werden. Ein Magus kann Reparaturen vor Ort an einem Automaten durchführen, indem er seinen Intelligenz-+-Automaten-herstellen-Wert + einen Stresswurf gegen einen Schwierigkeitsgrad von (6 + Magnitude des Machtwerts des Automaten) abgelegt. Bei Erfolg wird der Machtwert des Automaten um 1 Punkt auf seinen ursprünglichen Wert erhöht. Bei Scheitern war der Versuch erfolglos. Bei einem Patzer verliert der Automat 1 Punkt Macht pro tatsächlichem Patzer. Reparaturen vor Ort dauern eine Anzahl von Tagen in Höhe der Magnitude des ursprünglichen Machtwerts des Automaten, aufgerundet. Der Magus kann auch ein ganzes Quartal aufwenden und den gesamten Schaden an einem Automaten reparieren. Vergleiche seine Rego + entsprechende Form mit einem Mentem-Requisit-Laborsumme mit dem Machtwert des Automaten + der Anzahl seiner eingebetteten Kräfte. Seine Laborsumme muss höher als der angepasste Machtwert des Automaten sein, damit die Reparaturen erfolgreich sind. Ein Magus muss einen Automaten reparieren, bevor dessen Macht 0 erreicht; an diesem Punkt ist er endgültig kaputt und nutzlos.
+
+> #### Beispiel: Automat
+> 
+> Fünfzehn Jahre nach seiner Lehrlingsprüfung handelt Hephaestions Venditor einen äußerst lukrativen Handel mit Lord Guigues von Dauphiné aus, der eine mechanische Elster für sein Schlafgemach haben möchte. Da er erst kürzlich in das Mysterium der Automaten eingeweiht wurde, beginnt Hephaestion den Verzauberungsprozess mit Bangen. Er beschließt, eine Zinnelster herzustellen. Ihr Machtwert beträgt 11: Basis 10 + Größe (–4) + Material (5 für unedles Metall).
+> 
+> Hephaestion versucht, den Automaten im ersten Quartal zu fertigen. Seine Intelligenz beträgt +3 und seine Fertigkeit Automatenkunst 2. Sein Stresswurf ergibt eine 3, insgesamt 8 – nicht genug, um den Machtwert des Vogels zu erreichen. Im ersten Quartal gescheitert, versucht er es im nächsten mit einem +1-Bonus für den zuvor gescheiterten Versuch. Sein zweiter Stresswurf ergibt 4, was ihm eine Summe von 10 gibt (Wurf 4 + 3 Intelligenz + 2 Automatenkunst + 1 zuvor gescheitertes Quartal). Im dritten Versuch würfelt er eine 6, insgesamt 13 (Wurf 6 + 3 Intelligenz + 2 Automatenkunst + 2 zuvor gescheiterte Quartale), und baut den Automaten erfolgreich. Unter Verwendung des üblichen Vis-Preises (ein Bauer Vis entspricht zehn Mythischen Pfund) betragen die Materialkosten dieser drei Quartale 130 Pfund (Machtwert 11 + 2 gescheiterte Quartale).
+> 
+> Im vierten Quartal bereitet Hephaestion den Automaten problemlos für die Verzauberung vor. Da er das Kleine Innere Mysterium der Älteren Runen kennt, beträgt die maximale Vis-Menge, die er in einem Quartal zur Verzauberung eines Gegenstands verwenden kann, 20 (5 Magietheorie × 4 Philosophiae). Elf Bauern Terram-Vis werden benötigt, um die Elster für die Verzauberung zu öffnen.
+> 
+> Bereits ein Jahr in den Prozess hinein, verzaubert Hephaestion die Elster zum Singen. Singen ist ein Creo-Imaginem-Basiseffekt von 5. Er legt den Auslöser für den Effekt fest (das Wort „Sing" sagen), fügt den Befehl „Halt" hinzu und gibt ihm eine Effekthäufigkeit von drei Anwendungen pro Tag. Die endgültige Effektstufe dieser Kraft beträgt 10.
+> 
+> Hephaestions Creo-Imaginem-Laborsumme + Hybris beträgt 22. Die Kraft wird in einem Quartal eingebettet und kostet einen Bauern Creo- oder Imaginem-Vis. Der Automat kann noch zehn weitere Bauern Vis aufnehmen.
+> 
+> Hephaestion hätte den Vogel gern fliegen lassen, doch das übersteigt seine Fähigkeiten. Er kann ihn jedoch zum Hüpfen verzaubern. Er bettet die Kraft „Pflichtbewusste Bewegung" ein, einen Rego-Terram-Basiseffekt von 20. Er gibt dieser Kraft einen ähnlichen Auslöser, einen „Halt"-Befehl und drei Anwendungen pro Tag, für eine endgültige Effektstufe von 25. Seine Rego-Terram-Laborsumme + Hybris beträgt 40, und er kann diese Verzauberung in zwei Quartalen für drei Bauern kunstspezifischen Vis fertigstellen.
+> 
+> Schließlich beschließt Hephaestion, dass er den Vogel im Bedarfsfall zur Explosion bringen sollte, obwohl nur ein anderer Verditius-Magus verstehen würde, warum dies „nötig" sein könnte. Die Kraft bewirkt, dass der Vogel in Stücke explodiert, die in einem kreisförmigen Sprühregen herausfliegen und jedem im Umkreis eines Schritts +5 Schaden zufügen. Spieler und Spielleiter entscheiden, dass dies ein Rego-Terram-Effekt der Stufe 5 ist (Basis 3, +2 Gruppe). Das Ziel ist Gruppe statt Teil, weil der Effekt die gesamte Konstruktion betrifft. Er kann nur einmal eintreten, auf einen verbalen Befehl hin, sodass die endgültige Effektstufe 10 beträgt. Hephaestions Rego-Terram-Laborsumme beträgt noch immer 40. Er bettet diese Kraft mühelos für einen Bauern Terram-Vis ein.
+> 
+> Hephaestion hat zwei Jahre mit der Verzauberung dieses Automaten verbracht. Am Ende des letzten Quartals wirkt er *Verknüpfe die bindenden Fäden* der Stufe 30, was höher ist als der Machtwert 11 des Automaten + 15. Dies schließt den Vorgang ab und kostet sechs Bauern Vim-Vis. Die gesamten Vis-Kosten für den Automaten betragen 22 Bauern. Hephaestion berechnet Guigues 460 Mythische Pfund, 330 für das verwendete Vis und 130 für die Konstruktionskosten. Das ist die Hälfte der Kosten einer ganzen Burg! Guigues sträubt sich gegen den Preis, akzeptiert aber den Handel – sehr zum Leidwesen seiner ohnehin übermäßig belasteten Pächter.
+
+**Einweihung in Automaten**
+
+**Schwierigkeitsgrad:** 21 (Große Tugend, dem Mystagogen bekannt)
+
+**Skriptbonus:** +13
+
+**Skriptdetails:** Der Einzuweihende muss ein Quartal damit verbringen, einen der antiken Automaten des Hephaistos zu studieren, entweder in Verdi oder an einem anderen Verditius-Standort, der einen besitzt (+1). Sie muss dann zum Leuchtturm von Alexandria in Ägypten reisen, wo sie einen Brand aus der Quelle des Leuchtturms stehlen muss. Der Brand muss brennend bleiben, während sie zum Mystagogen reist (+3). Während der Einweihung durchläuft sie eine Große Prüfung, die den Großen Fehler Notwendige Bedingung (muss in der Nähe einer offenen Flamme sein, um Magie zu wirken) auferlegt (+9).
+
 ### Fluch binden (Großes Hausmysterium)
 
 Entwickelt vom berüchtigten Verditius-Magus Himinis dem Wahnsinnigen, erlaubt dieses Mysterium dem Magus, schreckliche Flüche in verzauberte Gegenstände einzubetten. Obwohl diese gewissen zauberähnlichen Richtlinien folgen, sind sie keine Zauber und können nur in hergestellten Artefakten untergebracht werden. Sie können in Schlichte Artefakte eingebettet werden, werden aber häufiger verwendet, um Bereitete Artefakte und abgestimmte Gegenstände zu schützen, wo sie zusammen mit anderen (nicht-fluchbezogenen) Effekten in solchen Artefakten eingebettet werden. Wegen der Gewaltigkeit ihrer arkanen Macht können sie nicht in Aufgeladene Artefakte eingebettet werden.
@@ -4737,6 +4737,8 @@ Entwickelt vom berüchtigten Verditius-Magus Himinis dem Wahnsinnigen, erlaubt d
 Flüche betreffen das Ziel, indem sie entweder einen Kleinen oder Großen Fehler auferlegen, der als Fluch bezeichnet wird und einer Kleinen oder Großen Verfluchung ähnelt. Kleine Flüche dauern eine Anzahl von Quartalen in Höhe des Magietheorie-Werts des Schöpfers zum Zeitpunkt der Verzauberung. Große Flüche dauern eine Anzahl von Jahren in Höhe des Magietheorie-Werts des Schöpfers zum selben Zeitpunkt. Die Parma Magica hilft beim Schutz gegen die erstmalige Auferlegung des Fluchs, doch scheitert die Magieresistenz eines Magus, ist er seinen Auswirkungen ausgeliefert.
 
 Flüche werden ähnlich wie zauberähnliche Effekte an Gegenstände gebunden. Flüche haben einen Basiseffekt plus Modifikatoren, ähnlich regulären verzauberten Gegenständen. Vergleiche die Laborsumme des Magus mit der endgültigen Effektstufe, um zu bestimmen, ob er den Fluch erfolgreich an den Gegenstand bindet und wie viele Quartale es dauert. Die grundlegende Verzauberungs-Effektstufe eines Kleinen Fluchs beträgt 25, und die eines Großen Fluchs beträgt 50. Die tatsächlich benötigte Technik und Form für die Bindung des Fluchs hängt von der Art des Fluchs ab. Viele sind Rego-, Muto- oder Perdo-Corpus-Effekte, doch sollte gesunder Menschenverstand und der Rat des Spielleiters letztlich über die Künste, einschließlich der Requisiten, entscheiden, die jeder Fluch erfordert.
+
+**Basiseffektstufe für Kleinen Fluch: 25**
 
 **Basiseffektstufe für Großen Fluch: 50**
 
@@ -4747,42 +4749,6 @@ Jeder Fluch benötigt eine auslösende Handlung, um seine magische Kraft freizus
 Flüche haben eine Basis-Penetration von 0. Wie bei anderen Standard-Verzauberungsgegenständen kann der Verzauberer diese erhöhen.
 
 Jeder Fluch ist ein einzelner eingebetteter Effekt, und das Limit solcher Effekte wird durch die Form und das Material des Gegenstands oder die Kräfte und bekannten Mysterien des Verditius-Magus bestimmt. Das Einbetten von Flüchen erfordert Vis, einen Bauern kunstspezifischen Vis pro 10 Stufen der endgültigen Effektstufe des Fluchs, aufgerundet.
-
-**Basiseffektstufe für Kleinen Fluch: 25**
-
-#### Flüche brechen
-
-Verfluchte Charaktere haben die Möglichkeit, den Fluch einfach seinen Lauf nehmen zu lassen, sodass er nach einigen Jahren oder Quartalen endet. Leider wissen sie nicht, wie lange der Fluch andauern wird. Dies mag sie dazu veranlassen, nach anderen Mitteln zu suchen, den Fluch zu beseitigen.
-
-Die magische Natur des Fluchs wirkt wie ein Blutegel, der sich an die verfluchte Person heftet. Perdo-Vim-Zauber, die auf den Fluch zielen, können ihn beseitigen. Die Stufe des Perdo-Vim-Zaubers muss der endgültigen Effektstufe des Fluchs entsprechen. Hat die verfluchte Person die Gabe, muss die Reichweite des Perdo-Vim-Zaubers auf Teil erhöht werden, um die Gabe der Person nicht zu beschädigen. Es ist weitaus leichter, Kleine Flüche mit Perdo-Vim-Zaubern zu beseitigen als Große Flüche.
-
-Kleine Flüche können auch beseitigt werden, wenn der Gegenstand, der den Fluch verhängt hat, zerstört wird. Bloßes Zerbrechen des Artefakts reicht nicht aus; die Magie des Artefakts muss abgezogen und der Gegenstand in seinen weltlichen Zustand zurückversetzt werden. Dies ist eine gute Gelegenheit, einen Verditius-Magus zu finden, der weiß, wie man die Magie aus einem Gegenstand einschmilzt. Die Suche nach einem solchen Magus sollte der Spieltruppe eine Geschichte liefern.
-
-Große Flüche sind schwerer zu beseitigen. Das Einschmelzen der Magie aus dem Artefakt, das den Fluch verhängt hat, ändert nur die Dauer des Fluchs – von einer Anzahl von Jahren zu einer Anzahl von Quartalen. Es macht Perdo-Vim-Zauber gegen den Fluch nicht leichter. Magische und Göttliche Kreaturen können den Fluch beseitigen, wenn ihre Macht der endgültigen Effektstufe des Fluchs entspricht oder sie übersteigt. Durch ihre inhärente Natur können solche Wesen die verfluchte Person einfach anhauchen, und der Fluch verflüchtigt sich. Dieses Heilmittel sollte der Spieltruppe eine oder zwei Sitzungen Geschichte liefern, während die verfluchte Person Heilung bei einem entsprechend mächtigen mystischen Wesen sucht.
-
-**Einweihung in Fluch binden**
-
-**Schwierigkeitsgrad:** 21 (Große Tugend, dem Mystagogen bekannt)
-
-**Skriptbonus:** +12
-
-**Skriptdetails:** Der Einzuweihende muss einen einzigartigen Gegenstand finden, ein Artefakt, das vom Gott Hephaistos oder seinem Gegenstück aus einem anderen heidnischen Mythos hergestellt wurde (+6). Er muss diesen Gegenstand zu seinem Mystagogen bringen, und gemeinsam müssen sie den Gegenstand untersuchen (+3). Wenn er verstanden ist, weiht der Mystagoge den Einzuweihenden ein, der einen brennenden Hass auf andere Magi außerhalb des Hauses entwickelt, die nach solchen Gegenständen suchen (Kleiner Prüfungsfehler Hass auf Sucher) (+3).
-
-#### Große Flüche
-
-**Alterung:** Das Opfer muss sofort einen Alterungswurf ablegen, gefolgt von einem zusätzlichen Alterungswurf pro Quartal, das der Fluch andauert. (Perdo-Corpus-[Vim]-Effekt)
-
-**Lepra:** Ein schwerer Fall fortgeschrittener Lepra überfällt das Opfer, dessen Nase, Finger und Zehen sich sofort schwärzen und abzufallen beginnen. Würfle einen einfachen Wurf für die Anzahl der Finger und Zehen, die abfallen – einer pro Monat. Alterungswürfe werden um –6 erschwert. (Perdo-Corpus-Effekt)
-
-**Brennendes Fleisch:** Die Haut des Opfers beginnt zu jucken, und zornig rote Flecken breiten sich über den gesamten Körper aus. Jede Tätigkeit außer Kratzen erfordert einen Ausdauer-+-Konzentration-+-Stresswurf gegen einen Schwierigkeitsgrad von 9. Ein Patzer bei diesem Wurf bedeutet, dass sich das Opfer so heftig gekratzt hat, dass eine Leichte Wunde entsteht. (Rego-Corpus-Effekt)
-
-**Brüchige Knochen:** Die Knochen des Opfers werden so brüchig wie die eines Vogels. Wann immer die Person hinfällt, etwas Schweres hebt oder eine anstrengende Tätigkeit ausübt, die einen Knochen gefährden könnte, muss sie einen Ausdauer-+-einfacher-Wurf gegen einen Schwierigkeitsgrad von 9 ablegen, um keinen Knochen zu brechen. Ein gebrochener Knochen wird als Schwere Wunde behandelt und heilt normal. (Rego-Corpus-Effekt)
-
-**Dämonengesicht:** Der Kopf des Opfers verwandelt sich in die Form eines Dämonenkopfes und wirkt wie ein Löwen-, Hunde- oder Eberkopf. Das Opfer erhält keine Kampfvorteile durch diese Veränderung. Bauern werden wahrscheinlich vor einer solchen Person fliehen. Kommunikations- und soziale Würfe werden um –6 erschwert, ebenso das Zaubern. (Muto-Corpus-[Animal]-Effekt)
-
-**Lebenslust:** Das Opfer wird besessen von sinnlichem Vergnügen, üblicherweise in Form von Sex, aber auch Essen und Alkohol werden gesucht. Jedes Quartal muss das Opfer einen Ausdauer-+-einfacher-Wurf gegen einen Schwierigkeitsgrad von 6 ablegen, um etwas anderes zu tun als seinen Zwängen zu folgen. Soziale Interaktionen werden um –6 erschwert, da sofort offensichtlich ist, dass das Opfer einer eigennützigen Agenda folgt. (Creo-Mentem-Effekt)
-
-**Zweifel:** Das Opfer ist von Zweifeln erfüllt und hinterfragt sich ständig. Bevor es eine Tätigkeit unternimmt, muss das Opfer einen Intelligenz-+-einfacher-Wurf gegen einen Schwierigkeitsgrad von 9 ablegen, um mit seiner Entscheidung fortzufahren. Ein Scheitern bedeutet, dass das Opfer es in der nächsten Runde erneut versuchen muss. (Rego-Mentem-Effekt)
 
 #### Himinis' Flüche
 
@@ -4805,6 +4771,40 @@ Kleine Flüche sollten lästig sein und leichte Abzüge im Spiel verursachen sow
 **Krähenstimme:** Das Opfer krächzt beim Sprechen. Kommunikationswürfe werden um –3 erschwert, ebenso das Zaubern. (Muto-Corpus-[Animal]-Effekt)
 
 **Grauer Star:** Die Augen des Opfers werden trüb und weiß, was seine Sehkraft einschränkt. Sichtbasierte Würfe sowie Fortschrittssummen durch Lesen werden um –3 erschwert. (Perdo-Corpus-Effekt)
+
+#### Große Flüche
+
+**Alterung:** Das Opfer muss sofort einen Alterungswurf ablegen, gefolgt von einem zusätzlichen Alterungswurf pro Quartal, das der Fluch andauert. (Perdo-Corpus-[Vim]-Effekt)
+
+**Lepra:** Ein schwerer Fall fortgeschrittener Lepra überfällt das Opfer, dessen Nase, Finger und Zehen sich sofort schwärzen und abzufallen beginnen. Würfle einen einfachen Wurf für die Anzahl der Finger und Zehen, die abfallen – einer pro Monat. Alterungswürfe werden um –6 erschwert. (Perdo-Corpus-Effekt)
+
+**Brennendes Fleisch:** Die Haut des Opfers beginnt zu jucken, und zornig rote Flecken breiten sich über den gesamten Körper aus. Jede Tätigkeit außer Kratzen erfordert einen Ausdauer-+-Konzentration-+-Stresswurf gegen einen Schwierigkeitsgrad von 9. Ein Patzer bei diesem Wurf bedeutet, dass sich das Opfer so heftig gekratzt hat, dass eine Leichte Wunde entsteht. (Rego-Corpus-Effekt)
+
+**Brüchige Knochen:** Die Knochen des Opfers werden so brüchig wie die eines Vogels. Wann immer die Person hinfällt, etwas Schweres hebt oder eine anstrengende Tätigkeit ausübt, die einen Knochen gefährden könnte, muss sie einen Ausdauer-+-einfacher-Wurf gegen einen Schwierigkeitsgrad von 9 ablegen, um keinen Knochen zu brechen. Ein gebrochener Knochen wird als Schwere Wunde behandelt und heilt normal. (Rego-Corpus-Effekt)
+
+**Dämonengesicht:** Der Kopf des Opfers verwandelt sich in die Form eines Dämonenkopfes und wirkt wie ein Löwen-, Hunde- oder Eberkopf. Das Opfer erhält keine Kampfvorteile durch diese Veränderung. Bauern werden wahrscheinlich vor einer solchen Person fliehen. Kommunikations- und soziale Würfe werden um –6 erschwert, ebenso das Zaubern. (Muto-Corpus-[Animal]-Effekt)
+
+**Lebenslust:** Das Opfer wird besessen von sinnlichem Vergnügen, üblicherweise in Form von Sex, aber auch Essen und Alkohol werden gesucht. Jedes Quartal muss das Opfer einen Ausdauer-+-einfacher-Wurf gegen einen Schwierigkeitsgrad von 6 ablegen, um etwas anderes zu tun als seinen Zwängen zu folgen. Soziale Interaktionen werden um –6 erschwert, da sofort offensichtlich ist, dass das Opfer einer eigennützigen Agenda folgt. (Creo-Mentem-Effekt)
+
+**Zweifel:** Das Opfer ist von Zweifeln erfüllt und hinterfragt sich ständig. Bevor es eine Tätigkeit unternimmt, muss das Opfer einen Intelligenz-+-einfacher-Wurf gegen einen Schwierigkeitsgrad von 9 ablegen, um mit seiner Entscheidung fortzufahren. Ein Scheitern bedeutet, dass das Opfer es in der nächsten Runde erneut versuchen muss. (Rego-Mentem-Effekt)
+
+#### Flüche brechen
+
+Verfluchte Charaktere haben die Möglichkeit, den Fluch einfach seinen Lauf nehmen zu lassen, sodass er nach einigen Jahren oder Quartalen endet. Leider wissen sie nicht, wie lange der Fluch andauern wird. Dies mag sie dazu veranlassen, nach anderen Mitteln zu suchen, den Fluch zu beseitigen.
+
+Die magische Natur des Fluchs wirkt wie ein Blutegel, der sich an die verfluchte Person heftet. Perdo-Vim-Zauber, die auf den Fluch zielen, können ihn beseitigen. Die Stufe des Perdo-Vim-Zaubers muss der endgültigen Effektstufe des Fluchs entsprechen. Hat die verfluchte Person die Gabe, muss die Reichweite des Perdo-Vim-Zaubers auf Teil erhöht werden, um die Gabe der Person nicht zu beschädigen. Es ist weitaus leichter, Kleine Flüche mit Perdo-Vim-Zaubern zu beseitigen als Große Flüche.
+
+Kleine Flüche können auch beseitigt werden, wenn der Gegenstand, der den Fluch verhängt hat, zerstört wird. Bloßes Zerbrechen des Artefakts reicht nicht aus; die Magie des Artefakts muss abgezogen und der Gegenstand in seinen weltlichen Zustand zurückversetzt werden. Dies ist eine gute Gelegenheit, einen Verditius-Magus zu finden, der weiß, wie man die Magie aus einem Gegenstand einschmilzt. Die Suche nach einem solchen Magus sollte der Spieltruppe eine Geschichte liefern.
+
+Große Flüche sind schwerer zu beseitigen. Das Einschmelzen der Magie aus dem Artefakt, das den Fluch verhängt hat, ändert nur die Dauer des Fluchs – von einer Anzahl von Jahren zu einer Anzahl von Quartalen. Es macht Perdo-Vim-Zauber gegen den Fluch nicht leichter. Magische und Göttliche Kreaturen können den Fluch beseitigen, wenn ihre Macht der endgültigen Effektstufe des Fluchs entspricht oder sie übersteigt. Durch ihre inhärente Natur können solche Wesen die verfluchte Person einfach anhauchen, und der Fluch verflüchtigt sich. Dieses Heilmittel sollte der Spieltruppe eine oder zwei Sitzungen Geschichte liefern, während die verfluchte Person Heilung bei einem entsprechend mächtigen mystischen Wesen sucht.
+
+**Einweihung in Fluch binden**
+
+**Schwierigkeitsgrad:** 21 (Große Tugend, dem Mystagogen bekannt)
+
+**Skriptbonus:** +12
+
+**Skriptdetails:** Der Einzuweihende muss einen einzigartigen Gegenstand finden, ein Artefakt, das vom Gott Hephaistos oder seinem Gegenstück aus einem anderen heidnischen Mythos hergestellt wurde (+6). Er muss diesen Gegenstand zu seinem Mystagogen bringen, und gemeinsam müssen sie den Gegenstand untersuchen (+3). Wenn er verstanden ist, weiht der Mystagoge den Einzuweihenden ein, der einen brennenden Hass auf andere Magi außerhalb des Hauses entwickelt, die nach solchen Gegenständen suchen (Kleiner Prüfungsfehler Hass auf Sucher) (+3).
 
 ### Magische Tiere binden (Großes Hausmysterium)
 
@@ -4862,12 +4862,6 @@ Diese Tugenden und Fehler sind für Verditius-Charaktere und ihre Haushaltsmitgl
 
 ### Neue Tugenden
 
-#### Automatenkunst
-
-*Groß, Hermetisch*
-
-Der Charakter weiß, wie man Automaten herstellt – mechanische Menschen und Tiere. Er hat einen Wert von 1 in Automatenkunst. Siehe das Große Innere Mysterium Automaten für Einzelheiten.
-
 #### Meisterstück
 
 *Klein, Hermetisch*
@@ -4886,19 +4880,43 @@ Der Charakter ist ein unBegabter Handwerker, der einem Verditius-Magus zugeordne
 
 Der Charakter ist ein Venditor, ein Verkaufsagent für eine Verditius-Maga, der ihre Waren an andere interessierte weltliche Parteien verhandelt. Er ist höchstwahrscheinlich ein niederer Adliger, gestürzter Kaufmannsgildenmeister oder enthobener Kleriker. Er kann bei der Charaktererschaffung Akademische Fertigkeiten wählen. Du erhältst außerdem 50 zusätzliche Erfahrungspunkte, die du in Feilschen, Charme, Menschenkenntnis, Täuschung, Intrige oder eine beliebige Lebende Sprache investieren kannst.
 
+#### Automatenkunst
+
+*Groß, Hermetisch*
+
+Der Charakter weiß, wie man Automaten herstellt – mechanische Menschen und Tiere. Er hat einen Wert von 1 in Automatenkunst. Siehe das Große Innere Mysterium Automaten für Einzelheiten.
+
 ### Neue Fehler
 
-#### Bruderschaftsmitglied
+#### Spontane Zauberwerkzeuge
 
-*Klein, Geschichte*
+*Klein, Hermetisch*
 
-Der Magus ist Mitglied eines der kleineren Kulte von Magi im Haus Verditius. Er ist für das einzigartige Innere Mysterium seiner Bruderschaft berechtigt und kann leicht Mystagogen finden, die ihn durch die Inneren Mysterien führen. Seine Mitstreiter bitten ihn gelegentlich um Hilfe, die er sich verpflichtet fühlt zu leisten. Er darf keine Vendettas mit Bruderschaftsmitgliedern führen.
+Der Charakter muss Zauberwerkzeuge einsetzen, um spontane Zauber zu wirken, genauso wie er es für formulaische Zauber tut. Er besitzt 15 einzelne Werkzeuge, eines für jede Kunst, die er in verschiedenen Kombinationen einsetzen muss, um spontane Zauber zu wirken.
+
+#### Verbrauchende Zauberwerkzeuge
+
+*Klein, Hermetisch*
+
+Die Zauberwerkzeuge des Charakters werden nach ihrer Verwendung magisch verbraucht. Das Herstellen eines neuen Zauberwerkzeugs dauert eine Stunde. Reguläre Zauberwerkzeuge erlauben es dem Magus nicht, mehrere Kopien davon herzustellen, sodass er keine Vorräte anlegen kann. Die Herstellung eines Zauberwerkzeugs für einen Zauber, der bereits ein Zauberwerkzeug hat, löscht die magische Verbindung vom bestehenden Werkzeug zu dem Zauber. Der Magus benötigt kein Laboratorium, um Zauberwerkzeuge herzustellen.
 
 #### Gebundene Zauberwerkzeuge
 
 *Klein, Hermetisch*
 
 Die Zauberwerkzeuge des Magus sind so persönlich, dass sie zu dauerhaften Arkanen Verbindungen zu ihm werden. Reguläre Zauberwerkzeuge bleiben wenige Wochen als Arkane Verbindungen erhalten, die zuletzt verwendeten bleiben es jahrelang.
+
+#### Verkrüppelt
+
+*Klein, Allgemein*
+
+Beide Beine des Charakters sind schwer beschädigt. Er kann nicht gehen, es sei denn mit Hilfe von Krücken oder anderen Hilfsmitteln, mit denen er sich nur mit einer halben Meile pro Stunde fortbewegen kann. Jeder Wurf, der schnelle Bewegung erfordert, wird um –9 erschwert. Sein Ausweichen und andere Kampfwürfe werden um –6 erschwert, und in Kampfsituationen wird die doppelte Anzahl an Patzerwürfeln gewürfelt.
+
+#### Bruderschaftsmitglied
+
+*Klein, Geschichte*
+
+Der Magus ist Mitglied eines der kleineren Kulte von Magi im Haus Verditius. Er ist für das einzigartige Innere Mysterium seiner Bruderschaft berechtigt und kann leicht Mystagogen finden, die ihn durch die Inneren Mysterien führen. Seine Mitstreiter bitten ihn gelegentlich um Hilfe, die er sich verpflichtet fühlt zu leisten. Er darf keine Vendettas mit Bruderschaftsmitgliedern führen.
 
 #### Groll
 
@@ -4912,30 +4930,12 @@ Aus irgendeinem Grund, der auf einem vergangenen Ereignis beruht, hegt der Magus
 
 Der Charakter ist Anwärter auf den Titel des Primus von Haus Verditius. Entweder sein Parens oder der Parens seines Parens ist der Primus, und er ist einer seiner Nachkommen. Er ist mindestens drei Plätze vom Primus entfernt. Er erhält ungebührliche Aufmerksamkeit vom Haus, da man ihn als potenziellen Primus im Auge hat. Die anderen Magi in derselben Linie mögen ihn ebenfalls mit Argwohn betrachten und hoffen, ihn irgendwie aus seinem Erbe zu verdrängen. Sein Aufstieg zum Primus ist keineswegs gesichert, und viele Ereignisse können eintreten, die ihn daran hindern, den Titel zu beanspruchen. Dies sollte sehr politische Geschichten für ihn hervorbringen.
 
-#### Spontane Zauberwerkzeuge
-
-*Klein, Hermetisch*
-
-Der Charakter muss Zauberwerkzeuge einsetzen, um spontane Zauber zu wirken, genauso wie er es für formulaische Zauber tut. Er besitzt 15 einzelne Werkzeuge, eines für jede Kunst, die er in verschiedenen Kombinationen einsetzen muss, um spontane Zauber zu wirken.
-
 #### Vendetta
 
 *Groß, Geschichte*
 
 Der Magus ist in eine der Vendettas des Hauses Verditius verwickelt und führt höchstwahrscheinlich die Vendetta seines Parens gegen einen anderen Verditius-Magus fort. Diese Vendetta hält sich knapp unterhalb körperlicher Verletzung für ihn oder den anderen. Keiner von ihnen wird diese Fehde zu den Quaesitoren bringen, da sie sie selbst beenden wollen. Der Magus, mit dem er im Streit liegt, muss ein NSC sein, der regelmäßig irgendeine Art von Aktion unternimmt, mit der der Charakter umgehen muss.
 
-
-#### Verbrauchende Zauberwerkzeuge
-
-*Klein, Hermetisch*
-
-Die Zauberwerkzeuge des Charakters werden nach ihrer Verwendung magisch verbraucht. Das Herstellen eines neuen Zauberwerkzeugs dauert eine Stunde. Reguläre Zauberwerkzeuge erlauben es dem Magus nicht, mehrere Kopien davon herzustellen, sodass er keine Vorräte anlegen kann. Die Herstellung eines Zauberwerkzeugs für einen Zauber, der bereits ein Zauberwerkzeug hat, löscht die magische Verbindung vom bestehenden Werkzeug zu dem Zauber. Der Magus benötigt kein Laboratorium, um Zauberwerkzeuge herzustellen.
-
-#### Verkrüppelt
-
-*Klein, Allgemein*
-
-Beide Beine des Charakters sind schwer beschädigt. Er kann nicht gehen, es sei denn mit Hilfe von Krücken oder anderen Hilfsmitteln, mit denen er sich nur mit einer halben Meile pro Stunde fortbewegen kann. Jeder Wurf, der schnelle Bewegung erfordert, wird um –9 erschwert. Sein Ausweichen und andere Kampfwürfe werden um –6 erschwert, und in Kampfsituationen wird die doppelte Anzahl an Patzerwürfeln gewürfelt.
 
 ## Anhang: Erweiterte Form- & Materialboni
 
@@ -4974,23 +4974,23 @@ Beide Beine des Charakters sind schwer beschädigt. Er kann nicht gehen, es sei 
 
 | Baum          | Bonus |
 |---------------|-------|
-| Feige         | +3 Sexualmagie, +3 Glücksspiel |
-| Flieder       | +2 Reisen |
-| Hainbuche     | +6 Stärke, +6 Vim gegen feindliche Magie |
-| Hartriegel    | +5 Kobolde |
-| Hickory       | +4 Ignem, +2 Majestät |
+| Mandel        | +3 Creo Herbam |
+| Schwarzdorn   | +6 Wächter, +2 Dunkle Feen |
+| Zeder         | +2 Geister binden, +5 alle Effekte mit Mentem- und Herbam-Requisiten |
 | Kastanie      | +4 Ehrlichkeit, +3 Gerechtigkeit |
 | Kirsche       | +4 Blutvergießen |
-| Mandel        | +3 Creo Herbam |
+| Zypresse      | +3 Geister, +3 Nekromantie |
+| Hartriegel    | +5 Kobolde |
+| Feige         | +3 Sexualmagie, +3 Glücksspiel |
+| Hickory       | +4 Ignem, +2 Majestät |
+| Hainbuche     | +6 Stärke, +6 Vim gegen feindliche Magie |
+| Zitrone       | +5 Gehör |
+| Flieder       | +2 Reisen |
 | Orange        | +5 Sicht |
 | Palme         | +3 Holz animieren |
-| Pappel, Weiß  | +3 Weissagung |
 | Pflaume       | +2 Blut |
-| Schwarzdorn   | +6 Wächter, +2 Dunkle Feen |
+| Pappel, Weiß  | +3 Weissagung |
 | Walnuss       | +4 Geist |
-| Zeder         | +2 Geister binden, +5 alle Effekte mit Mentem- und Herbam-Requisiten |
-| Zitrone       | +5 Gehör |
-| Zypresse      | +3 Geister, +3 Nekromantie |
 
 ### Bäume unter besonderen Umständen
 
@@ -5031,7 +5031,7 @@ Beide Beine des Charakters sind schwer beschädigt. Er kann nicht gehen, es sei 
 
 *Widmung: T. und Danielle, danke für eure Brillanz, Kreativität, Begeisterung und Freundschaft. Diese Schatten sind nach eurem Ebenbild geworfen.*
 
-**Mark Shirley:** Laut seiner Stellenbeschreibung ist Mark ein „Biomathematiker", was eine schicke Art zu sagen ist, dass er dafür bezahlt wird, Dachse zu zählen. Er lebt im Nordosten Englands mit seinen Frettchen und beschwert sich darüber, wie trostlos es im Norden ist.
+**Timothy Ferguson** ist Bibliothekar und lebt an der Gold Coast in Australien. Er wurde während des Schreibens des Criamon-Kapitels Vegetarier, um zu sehen, wie es die Sichtweise auf Tiere verändert, und hat beschlossen, dabei zu bleiben. Er sammelt Sukkulenten, hat aber noch keinen Weg gefunden, magische Kakteen in **Ars Magica** einzubauen. Er möchte dieses Buch Linda widmen, dafür, dass sie die Art von Person ist, der man Bücher widmet.
 
 **Matt Ryan** lebt und arbeitet in der Finger-Lakes-Region in Zentral-New York. Er trank viel Kaffee und hörte viele alte Pogues-Platten, während er dieses Stück schrieb, seinen zweiten großen Beitrag zu **Ars Magica**. Er erhielt außerdem großartige Unterstützung und viele hilfreiche Kommentare vom Redaktionsleiter, den anderen Autoren dieses Buches und den Autoren von *Die Mysterien* 
 
@@ -5039,19 +5039,19 @@ Beide Beine des Charakters sind schwer beschädigt. Er kann nicht gehen, es sei 
 
 *Widmung: Für Wallace Michael Lumb und Stephen Cobb, die mir durch einen extrem schwierigen Abschnitt der Reise geholfen haben.*
 
-**Timothy Ferguson** ist Bibliothekar und lebt an der Gold Coast in Australien. Er wurde während des Schreibens des Criamon-Kapitels Vegetarier, um zu sehen, wie es die Sichtweise auf Tiere verändert, und hat beschlossen, dabei zu bleiben. Er sammelt Sukkulenten, hat aber noch keinen Weg gefunden, magische Kakteen in **Ars Magica** einzubauen. Er möchte dieses Buch Linda widmen, dafür, dass sie die Art von Person ist, der man Bücher widmet.
+**Mark Shirley:** Laut seiner Stellenbeschreibung ist Mark ein „Biomathematiker", was eine schicke Art zu sagen ist, dass er dafür bezahlt wird, Dachse zu zählen. Er lebt im Nordosten Englands mit seinen Frettchen und beschwert sich darüber, wie trostlos es im Norden ist.
 
 *Widmung: Andrew und Camo, die endlose Sorgen, Tiraden und einseitige Diskussionen erdulden mussten. Eure Nachsicht ist uns allen eine Lehre.*
 
 ## Über die Illustratoren
+
+**Kelley Hensing** (www.wickiearts.com) ist Absolventin der Rhode Island School of Design. Das Erschaffen von Kreaturen und mythologischen Figuren gehört zu ihren Lieblingsthemen. Inspirationen sind Mythen, Märchen und religiöse Texte.
 
 **Brad McDevitt** (www.bradleykmcdevitt.net), ein 17-jähriger Veteran der Spielekunst, hat für alle gearbeitet, von TSR bis Pinnacle. Er lebt in Ohio mit seiner Frau Jessica.
 
 Seit 1989 an **Ars Magica** beteiligt, verfolgt **Jeff A. Menges** (www.skaircrow.com) derzeit einen Masterabschluss in Illustration und ist seit fast 20 Jahren als Freiberufler in der Spielebranche tätig.
 
 **Grey Thornberry** (www.greystudio.com) ist ein selbstdiagnostizierter (und selbstmedikamentierter) Illustrator aus Brooklyn, NY. „Über Kunst würde ich sagen, es gibt wenige Dinge, die wichtiger sind als eine gut gezogene Linie; über mich selbst: Koffein ist das Einzige, was zwischen mir und der bösen Person steht, die ich wirklich bin."
-
-**Kelley Hensing** (www.wickiearts.com) ist Absolventin der Rhode Island School of Design. Das Erschaffen von Kreaturen und mythologischen Figuren gehört zu ihren Lieblingsthemen. Inspirationen sind Mythen, Märchen und religiöse Texte.
 
 Von *Der Herr der Ringe* bis zur Welt der Dunkelheit hat sich **Kieran Yanner** (www.kieranyanner.com) in den letzten sechs Jahren in preisgekrönte Publikationen eingeschlichen. Jüngste Auftraggeber sind DC Comics und The Upper Deck Company.
 

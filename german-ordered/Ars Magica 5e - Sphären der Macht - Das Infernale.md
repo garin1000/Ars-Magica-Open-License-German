@@ -957,9 +957,9 @@ Dämonen haben den Zustand reiner Intelligenz, den die Engel besaßen, verloren 
 | 8–9 | Premierminister der Hölle, König des Nordens, Fürst des Chors der Throne, Dämon Frankreichs |
 Machtwert des Dämons (Infernale Macht / 5) – 10. Es gibt keinen maximalen Eigenschaftswert für einen Dämon, und es wird keine Tugend oder kein Fehler für extreme Eigenschaften benötigt. Verwende die Tabelle für Kunstfortschritt (ArM5, [Seite 32](<Ars Magica Definitive Edition Basisregeln.md#fortschrittstabelle>)), um die Kosten von Eigenschaften über +3 zu ermitteln. Nicht-körperliche Eigenschaften werden normalerweise mit bis zu 7 Punkten gekauft, obwohl besonders mächtige Dämonen mehr als 7 Punkte für diese vier Eigenschaften zur Verfügung haben.
 
-**Eigenschaftspunkte für geistige Eigenschaften des Dämons: 0 – 7 (möglicherweise mehr für mächtige Dämonen)**
-
 **Eigenschaftspunkte für körperliche Eigenschaften des Dämons: Infernale Macht**
+
+**Eigenschaftspunkte für geistige Eigenschaften des Dämons: 0 – 7 (möglicherweise mehr für mächtige Dämonen)**
 
 **Mindestwert körperlicher Eigenschaften eines Dämons: (Infernale Macht / 5) – 10**
 
@@ -1491,6 +1491,18 @@ Die Mächte der Hölle haben ein Ziel im Sinn — die Verderbung der gesamten Me
 
 Es gibt drei hauptsächliche Wege, auf denen Dämonen versuchen, Menschen im Interesse der Hölle zu umgarnen. Sie streben danach, zu zerstören, zu täuschen und zu verderben.
 
+#### Dämonen als Zerstörer
+
+Der einfachste und unkomplizierteste Weg, Seelen für die Hölle zu gewinnen, ist, sie zu Lebzeiten zu peinigen. Die Dämonen, die in der Rolle der Zerstörer agieren, haben eine Reihe von *Modi operandi*. Manche versuchen schlicht, Menschen zu töten, bevor diese Gelegenheit haben, ihre Sünden zu bereuen und Erlösung zu erlangen. Dies ist jedoch eine unwirksame Strategie, denn ein Dämon, der wahllos tötet, befördert möglicherweise Seelen ins Jenseits, die sich im Zustand der Gnade befinden. Nur eine unbereute Todsünde verdammt eine Seele für immer; lässliche Sünden bedingen nur einen Aufenthalt im Fegefeuer vor dem Einzug ins Paradies. Solche Erwägungen übersteigen die schwachen Dämonen, die diese Strategien verfolgen und hauptsächlich aus den Ordnungen der Furien und Versucher stammen.
+
+Dennoch kann der Tod eines geliebten Menschen tiefgreifende Auswirkungen auf die Hinterbliebenen haben, und sinnlose, zufällige Todesfälle durch Naturkatastrophen können viel dazu beitragen, dass Gemeinschaften die Absichten eines liebenden Gottes infrage stellen, der es Dämonen gestattet, solche Verheerungen anzurichten, und so auf lange Sicht mehr Seelen für die Hölle gewinnen. Dies ist das Ziel der Luftmächte, die Naturkatastrophen auf eben diese zufällige Weise verursachen.
+
+Eine alternative Taktik subtilerer Zerstörer besteht darin, alles zu zerstören, was die Menschheit wertschätzt — ihre Heime, ihre Familien, ihre Selbstachtung. Dies ist eine bevorzugte Taktik der Gefäße der Bosheit, die meist dafür sorgen, dass ihre Opfer am Ende die letzte Wahl haben, ob sie sich der Sünde unterwerfen, denn nur eine freiwillige Entscheidung für die böse Tat verdammt eine Seele.
+
+Zerstörer sind jene Dämonen, die die geringste Kontrolle über ihre Grundinstinkte und Leidenschaften haben, und ihre Motive sind gewöhnlich schlicht. Sie werden gelegentlich von mächtigeren Dämonen eingesetzt, die sie als Schläger nutzen, müssen aber streng an der Leine gehalten werden. Zerstörer sind bevorzugte Ziele für Diabolisten, die sie beschwören und kontrollieren und für Terror und gewaltsame Rache einsetzen.
+
+Kapitel 7: Dämonen als Zerstörer enthält Einzelheiten zu Dämonen, die für die Rolle als Zerstörer besonders geeignet sind.
+
 #### Dämonen als Täuscher
 
 Die Täuscher sind jene Dämonen, die die Menschheit durch Falschheit zu verderben suchen. Lügen und Tücke sind wirksame Mittel, um einen Menschen zur Sünde zu treiben. Die größten Meister der Täuschung sind naturgemäß die Geister des Betrugs, deren gängigste Taktik darin besteht, das Weltbild einer Person so stark zu verzerren, dass sie glaubt, Verderbnis und Laster seien ein Weg zur Erlösung. Dies kann lange dauern.
@@ -1574,18 +1586,6 @@ Verderber sind üblicherweise in der Lage, ihre Impulse zur Ungeduld zu zügeln,
 > | Valefar, der Diebes-Dämon | 15 | Versucher | — | Verderber (Kapitel 5) |
 > | Wächter (Familie) | 40 | Verführer | — | Täuscher (Kapitel 6) |
 > | Xaphan, Schmied der Hölle | 15 | Luftmächte | — | Zerstörer (Kapitel 7) |
-
-#### Dämonen als Zerstörer
-
-Der einfachste und unkomplizierteste Weg, Seelen für die Hölle zu gewinnen, ist, sie zu Lebzeiten zu peinigen. Die Dämonen, die in der Rolle der Zerstörer agieren, haben eine Reihe von *Modi operandi*. Manche versuchen schlicht, Menschen zu töten, bevor diese Gelegenheit haben, ihre Sünden zu bereuen und Erlösung zu erlangen. Dies ist jedoch eine unwirksame Strategie, denn ein Dämon, der wahllos tötet, befördert möglicherweise Seelen ins Jenseits, die sich im Zustand der Gnade befinden. Nur eine unbereute Todsünde verdammt eine Seele für immer; lässliche Sünden bedingen nur einen Aufenthalt im Fegefeuer vor dem Einzug ins Paradies. Solche Erwägungen übersteigen die schwachen Dämonen, die diese Strategien verfolgen und hauptsächlich aus den Ordnungen der Furien und Versucher stammen.
-
-Dennoch kann der Tod eines geliebten Menschen tiefgreifende Auswirkungen auf die Hinterbliebenen haben, und sinnlose, zufällige Todesfälle durch Naturkatastrophen können viel dazu beitragen, dass Gemeinschaften die Absichten eines liebenden Gottes infrage stellen, der es Dämonen gestattet, solche Verheerungen anzurichten, und so auf lange Sicht mehr Seelen für die Hölle gewinnen. Dies ist das Ziel der Luftmächte, die Naturkatastrophen auf eben diese zufällige Weise verursachen.
-
-Eine alternative Taktik subtilerer Zerstörer besteht darin, alles zu zerstören, was die Menschheit wertschätzt — ihre Heime, ihre Familien, ihre Selbstachtung. Dies ist eine bevorzugte Taktik der Gefäße der Bosheit, die meist dafür sorgen, dass ihre Opfer am Ende die letzte Wahl haben, ob sie sich der Sünde unterwerfen, denn nur eine freiwillige Entscheidung für die böse Tat verdammt eine Seele.
-
-Zerstörer sind jene Dämonen, die die geringste Kontrolle über ihre Grundinstinkte und Leidenschaften haben, und ihre Motive sind gewöhnlich schlicht. Sie werden gelegentlich von mächtigeren Dämonen eingesetzt, die sie als Schläger nutzen, müssen aber streng an der Leine gehalten werden. Zerstörer sind bevorzugte Ziele für Diabolisten, die sie beschwören und kontrollieren und für Terror und gewaltsame Rache einsetzen.
-
-Kapitel 7: Dämonen als Zerstörer enthält Einzelheiten zu Dämonen, die für die Rolle als Zerstörer besonders geeignet sind.
 
 # Kapitel 5: Dämonen als Verderber
 
@@ -4048,35 +4048,11 @@ In Kombination mit Herbeirufung ermöglicht Abtragung einem Hexer, einem Dämon 
 
 Der Charakter ist in der Lage, jede menschliche Gestalt anzunehmen, solange diese nicht erkennbar einer bestimmten Person gehört. Der Charakter entwickelt diese Fähigkeit, weil sein Körper die nahezu gasförmige Eigenschaft dämonischen Fleisches angenommen hat, sodass alle sichtbaren Veränderungen der Größe oder Fitness rein kosmetisch sind und die Spielwerte des Charakters nicht beeinflussen. Manche Amorphe können um Mitternacht eine einzelne Gestalt wählen, was die Große Variante der Tugend darstellt. Die Kleine Variante erlaubt es dem Charakter, seine Gestalt nur zu ändern, nachdem er eine bedeutende Handlung vollzogen hat, die mit der Besessenheit seines Schöpfers verbunden ist. Der Charakter kann nur zu seiner Geburtsgestalt zurückkehren, indem er sie wählt, sobald die Bedingungen der Verwandlung erfüllt sind, oder indem er unwillentlich seine Gestalt wechselt, wenn er stirbt oder heiligen Boden betritt.
 
-#### Ausschweifung
-
-*Groß, Unheilige Methode*
-
-Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Ausschweifung bei 1. Diese Unheilige Methode wird unter Neue Fertigkeiten und in Kapitel 10: Die Maleficia ausführlicher beschrieben.
-
-#### Befehligung
-
-*Groß, Goetische Kunst*
-
-Ein Hexer mit der Befehligungskunst kann Dämonen beschwören, die so handeln, wie er es ihnen aufträgt, wenn sie mit Herbeirufung kombiniert wird, wie in Kapitel 11: Ars Goetia beschrieben. Diese Tugend eröffnet den Wert des Charakters in Befehligung bei 0.
-
 #### Begabung für (Sünde)
 
 *Klein, Allgemein, Befleckt*
 
 Diese Sammeltugend ist für jene kleinen Wirkungen gedacht, die Dämonen ihren Opfern verleihen, damit diese wirksamer und daher häufiger sündigen können. Jede Begabung für eine bestimmte Sünde verleiht +3 auf alle Würfe in einem sehr begrenzten Umstand, der mit der Besessenheit eines Dämons verbunden ist. Beispielsweise können Charaktere Begabungen zum Taschendiebstahl, zum geschickten Begehen von Ehebruch oder zum Vergiften von Menschen besitzen.
-
-#### Beschwörer
-
-*Spezial*
-
-Diese Tugend hat keine Kosten und kann nur für einen Mythischen Gefährten genommen werden, der als Lehrling eines Hexers ausgebildet wurde. Siehe Kapitel 11: Ars Goetia für Einzelheiten.
-
-#### Beschwörung
-
-*Groß, Unheilige Methode*
-
-Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Beschwörung bei 1. Diese Unheilige Methode wird unter Neue Fertigkeiten und in Kapitel 10: Die Maleficia ausführlicher beschrieben.
 
 #### Bindung
 
@@ -4090,17 +4066,52 @@ Bindung ist die Kunst, einen Dämon oder einen ähnlich unkörperlichen Geist in
 
 Etwas an der Magie des Charakters ist sehr unheimlich oder dunkel, und deshalb kann er von vielen Aspekten der Höllensphäre profitieren, selbst wenn er nicht wirklich böse ist. Dies verleiht dem Charakter die Übernatürliche Fertigkeit Chthonische Magie bei 1 und hat weitere Vorteile, die unten unter Neue Fertigkeiten und in Kapitel 12: Schwarze Magie beschrieben werden.
 
-#### Dämonische Kräfte
+#### Tiere befehligen
 
-*Klein, Übernatürlich*
+*Groß, Übernatürlich, Befleckt*
 
-Nur ein Charakter mit der Tugend Dämonisches Blut darf Dämonische Kräfte besitzen. Er erhält zusätzlich 20 Stufen an Infernalen Kräften zu den von Dämonisches Blut gewährten Stufen. Beachte, dass sich diese Tugend wesentlich von der Tugend Infernaler Segen (siehe unten) unterscheidet, da die Kräfte offen mystisch sein können, anstatt andere Tugenden nachzuahmen. Du darfst diese Tugend ebenfalls mehrfach nehmen, doch sie darf nicht mehr als die Hälfte der Gesamttugenden des Charakters ausmachen.
+Der Charakter hat die Fähigkeit, gewöhnliche Exemplare einer Tierart, die üblicherweise mit dem Dämon assoziiert wird, der ihn befleckt hat, geistig zu befehligen. Der Charakter kann zu jeder Zeit bis zu 12 menschengroße Tiere befehligen und sie zu selbstmörderischen Handlungen anweisen. Kleinere Tiere können in weitaus größerer Zahl befehligt werden, sodass manche Charaktere Insektenschwärme oder Hunderte von Ratten befehligen können.
 
-#### Dämonische Macht
+#### Befehligung
 
-*Klein, Übernatürlich*
+*Groß, Goetische Kunst*
 
-Du darfst diese Tugend nur nehmen, wenn dein Charakter die Tugend Dämonisches Blut besitzt. Seine Infernale Macht steigt um 2 Punkte. Bei seinem Tod enthält sein Körper eine Anzahl von Bauern Corpus-Vis gleich seiner (Infernalen Macht / 5), aufgerundet. Du darfst diese Tugend mehrfach nehmen, doch sie darf nicht mehr als die Hälfte der Gesamttugenden des Charakters ausmachen.
+Ein Hexer mit der Befehligungskunst kann Dämonen beschwören, die so handeln, wie er es ihnen aufträgt, wenn sie mit Herbeirufung kombiniert wird, wie in Kapitel 11: Ars Goetia beschrieben. Diese Tugend eröffnet den Wert des Charakters in Befehligung bei 0.
+
+#### Verzehrung
+
+*Groß, Unheilige Kraft*
+
+Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Verzehrung bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
+
+#### Verschlungener Geist
+
+*Klein, Allgemein, Befleckt*
+
+Der Charakter ist den Machenschaften von Dämonen so oft ausgesetzt gewesen, dass er ein Gespür für ihre Denkweise entwickelt hat. Der Charakter erhält einen Bonus von +3 auf alle Infernalkunde-Würfe, um zu bestimmen, was ein Dämon tun wird, und besitzt ein Gefühl, ähnlich der Tugend Gesunder Menschenverstand, das ihn davon abhält, im Umgang mit Dämonen dumme Dinge zu tun.
+
+#### Korrumpierung
+
+*Groß, Übernatürlich*
+
+Manche Infernalisten können korrumpiertes Wissen lehren, was durch diese Tugend ermöglicht wird. Sie verleiht dem Charakter die Übernatürliche Fertigkeit Korrumpierung bei 1. Siehe Neue Fertigkeiten unten für Einzelheiten.
+
+
+> ## Charaktere mit Machtwert
+> 
+> Charaktere mit einem Machtwert sind streng genommen keine Menschen. Kein Wesen mit einem Machtwert kann Tugenden besitzen, die es einer anderen Sphäre zuordnen, denn es ist vollwertiges Mitglied der übernatürlichen Sphäre, die ihm seinen Machtwert verleiht. Dies umfasst die Gabe, Wahren Glauben, Feenblut, Blut der Nephilim (siehe *Sphären der Macht: Das Göttliche*) und alle Übernatürlichen Tugenden, die aus Quellen einer anderen Sphäre als der ihres Machtwerts schöpfen. Sie dürfen nicht einmal korrumpierte Versionen dieser Tugenden nehmen, wie etwa die Falsche Gabe. Wenn ein Charakter Magieresistenz aus mehr als einer Quelle erhält, werden diese Summen nicht addiert, selbst wenn sie aus derselben Sphäre stammen (Infernale Macht und eine Infernale Kraft zum Beispiel); man verwendet einfach die höhere Summe. Charaktere mit einem Machtwert sind immun gegen jede Verzerrung (siehe Verzerrung und Nichtmenschen, ArM5, [Seite 168](<Ars Magica Definitive Edition Basisregeln.md#verzerrungspunkte-erwerben>)). Sie können jedoch einen Punkt ihres Machtvorrats ausgeben, um eine Fertigkeit oder Kraft einzusetzen, die normalerweise Verzerrung verursacht (wie Beschwörung oder Selbstvertrauensgewinn durch Sündigen). Wesen mit einem Machtwert sind immun gegen übernatürliche Rückschläge ihrer Sphäre, wie Zwielicht, Hybris, Vituperation und dergleichen, erleiden aber dennoch alle anderen Konsequenzen eines misslungenen oder verpatzten Wurfs beim Einsatz ihrer Kräfte.
+
+#### Zeremonie
+
+*Groß, Übernatürlich*
+
+Der Charakter kann dunkle Rituale der Maleficia leiten oder daran teilnehmen, die einer Gruppe von Infernalisten erlauben, zusammenzuarbeiten und eine mächtigere Wirkung zu erzielen. Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Zeremonie bei 1, die unter Neue Fertigkeiten unten ausführlicher beschrieben wird.
+
+#### Ausschweifung
+
+*Groß, Unheilige Methode*
+
+Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Ausschweifung bei 1. Diese Unheilige Methode wird unter Neue Fertigkeiten und in Kapitel 10: Die Maleficia ausführlicher beschrieben.
 
 #### Dämonisches Blut
 
@@ -4117,6 +4128,24 @@ Er wird fast jederzeit von einem niederen Dämon begleitet, der gewöhnlich in g
 Die Lebensspanne eines Charakters mit Dämonenblut ist kurz — etwa halb so lang wie die eines reinblütigen Menschen. Sein effektives Alter (das so behandelt wird, als wäre es sein tatsächliches Alter bei der Erstellung eines Langlebigkeitsrituals und bei Würfen auf die Alterungstabelle) steigt für jedes verstreichende Jahr um zwei Jahre, und ab einem effektiven Alter von 35 müssen zwei Alterungswürfe pro Jahr abgelegt werden. Es gibt keine Möglichkeit, dies aufzuhalten oder zu verlangsamen, außer durch Langlebigkeitsrituale, wenn er jemanden überzeugen kann, eines für ihn anzufertigen. Allerdings zeigt er die Auswirkungen des Alterns nicht; erworbene Alterungspunkte werden nicht auf seine Eigenschaften angewandt, zählen aber dennoch als Erfahrungspunkte für die Gebrechlichkeit.
 
 Du darfst die Tugend Infernaler Segen nicht nehmen; die Tugend Dämonische Kräfte ersetzt diese Tugend für Charaktere mit Dämonenblut. Du darfst keine Tugend nehmen, die ihn einer anderen Sphäre als dem Infernalen zuordnet (siehe Kasten). Außerdem darfst du weder die Tugend Nicht-Alternd noch den Fehler Schnelles Altern nehmen. Er kann keine Kinder haben und daher keine Schützlinge dieser Art besitzen. Grogs sollten diese Tugend nicht nehmen.
+
+#### Dämonische Macht
+
+*Klein, Übernatürlich*
+
+Du darfst diese Tugend nur nehmen, wenn dein Charakter die Tugend Dämonisches Blut besitzt. Seine Infernale Macht steigt um 2 Punkte. Bei seinem Tod enthält sein Körper eine Anzahl von Bauern Corpus-Vis gleich seiner (Infernalen Macht / 5), aufgerundet. Du darfst diese Tugend mehrfach nehmen, doch sie darf nicht mehr als die Hälfte der Gesamttugenden des Charakters ausmachen.
+
+#### Dämonische Kräfte
+
+*Klein, Übernatürlich*
+
+Nur ein Charakter mit der Tugend Dämonisches Blut darf Dämonische Kräfte besitzen. Er erhält zusätzlich 20 Stufen an Infernalen Kräften zu den von Dämonisches Blut gewährten Stufen. Beachte, dass sich diese Tugend wesentlich von der Tugend Infernaler Segen (siehe unten) unterscheidet, da die Kräfte offen mystisch sein können, anstatt andere Tugenden nachzuahmen. Du darfst diese Tugend ebenfalls mehrfach nehmen, doch sie darf nicht mehr als die Hälfte der Gesamttugenden des Charakters ausmachen.
+
+#### Teufelskind
+
+*Spezial*
+
+Diese Tugend hat keine Kosten und kann nur für einen Mythischen Gefährten genommen werden, der von dämonischen Eltern geboren wurde. Siehe Teufelskinder unten für Einzelheiten.
 
 #### Diablerie
 
@@ -4136,23 +4165,17 @@ Diese Tugend hat keine Kosten und kann nur für einen Mythischen Gefährten geno
 
 Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Effusion bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
 
+#### Verführer der Massen
+
+*Klein, Allgemein, Befleckt*
+
+Der Charakter besitzt eine Version der Tugend Inspirierend, die nur dazu verwendet werden kann, Menschen zu bösen Taten zu manipulieren. Der Charakter wirkt demagogisch statt heldenhaft und kann eine Menschenmenge nicht mehr kontrollieren, sobald er sie in einen Rausch versetzt hat. Der Verführer zwingt Einzelpersonen in einer Gruppe, Persönlichkeitswürfe für die bestimmte Sünde abzulegen, die er heraufzubeschwören versucht, mit einem Bonus von +5 oder mehr.
+
 #### Geschlechtswandel
 
 *Klein, Übernatürlich, Befleckt*
 
 Um Mitternacht kann der Charakter wählen, sein Geschlecht zu wechseln. Die männliche und weibliche Gestalt des Charakters sind über Verwandlungen hinweg konsistent und scheinen gewöhnlich blutsverwandt zu sein. Die Persönlichkeitseigenschaften des Charakters können zwischen den Gestalten leicht variieren. Schwangere Charaktere können diese Kraft nicht einsetzen.
-
-#### Gespür für Leidenschaft
-
-*Groß, Übernatürlich*
-
-Der Charakter kann in die Herzen und Köpfe anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erfahren. Dies verleiht ihm die Übernatürliche Fertigkeit Gespür für Leidenschaft bei 1, die unter Neue Fertigkeiten unten ausführlicher beschrieben wird.
-
-#### Herbeirufung
-
-*Groß, Goetische Kunst*
-
-Diese Tugend verleiht dem Charakter die wichtigste Kunst der Ars Goetia, Herbeirufung. Er beginnt mit dieser Kunst bei 0 und kann sie durch Studium und Übung steigern. In Kombination mit den anderen Goetischen Künsten kann er Dämonen und andere Geister binden, vernichten und kontrollieren, wie in Kapitel 11: Ars Goetia beschrieben.
 
 #### Hermetische Hexerei
 
@@ -4161,6 +4184,12 @@ Diese Tugend verleiht dem Charakter die wichtigste Kunst der Ars Goetia, Herbeir
 Durch Unterweisung oder Intuition ist der Charakter in der Lage, sein Wissen über Hexerei leicht in hermetische Magie zu übersetzen. Wann immer er eine der vier Goetischen Künste (Abtragung, Bindung, Befehligung oder Herbeirufung) studiert, erhält er auch halb so viele Erfahrungspunkte in Rego. Ebenso erhält er, wann immer er eine Form übernatürlicher Kunde studiert (Dominiumkunde, Feenkunde, Infernalkunde oder Magiekunde), halb so viele Erfahrungspunkte in Vim.
 
 Der Charakter muss keine der Goetischen Künste erschlossen haben, um diese Tugend zu nehmen, obwohl sie offensichtlich doppelt so nützlich ist, wenn er sie hat.
+
+#### Verhexung
+
+*Groß, Übernatürlich*
+
+Der Charakter hat die Fähigkeit, seine Feinde zu verfluchen, indem er düstere Vorhersagen über ihre Zukunft macht, die dazu neigen, einzutreffen. Dies verleiht ihm die Übernatürliche Fertigkeit Verhexung bei 1, die unter Neue Fertigkeiten unten ausführlicher beschrieben wird.
 
 #### Immun gegen Krankheit
 
@@ -4205,16 +4234,23 @@ Infernale Erbstücke sind magische Gegenstände, die der Charakter von einem Dia
 
 Die meisten Infernalen Erbstücke haben nur einen einzigen Effekt und werden üblicherweise durch eine geringfügige sündhafte Handlung oder Absicht ausgelöst. Als Leitlinie darf jedes Erbstück einmal pro Tag einen Effekt erzeugen, der einem hermetischen Spruch der Stufe 25 entspricht. Gegenstände, die weniger mächtige Effekte erzeugen, können nach Ermessen der Spieltruppe häufiger eingesetzt werden.
 
-#### Korrumpierung
+#### Beschwörung
 
-*Groß, Übernatürlich*
+*Groß, Unheilige Methode*
 
-Manche Infernalisten können korrumpiertes Wissen lehren, was durch diese Tugend ermöglicht wird. Sie verleiht dem Charakter die Übernatürliche Fertigkeit Korrumpierung bei 1. Siehe Neue Fertigkeiten unten für Einzelheiten.
+Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Beschwörung bei 1. Diese Unheilige Methode wird unter Neue Fertigkeiten und in Kapitel 10: Die Maleficia ausführlicher beschrieben.
 
+#### Verfluchung
 
-> ## Charaktere mit Machtwert
-> 
-> Charaktere mit einem Machtwert sind streng genommen keine Menschen. Kein Wesen mit einem Machtwert kann Tugenden besitzen, die es einer anderen Sphäre zuordnen, denn es ist vollwertiges Mitglied der übernatürlichen Sphäre, die ihm seinen Machtwert verleiht. Dies umfasst die Gabe, Wahren Glauben, Feenblut, Blut der Nephilim (siehe *Sphären der Macht: Das Göttliche*) und alle Übernatürlichen Tugenden, die aus Quellen einer anderen Sphäre als der ihres Machtwerts schöpfen. Sie dürfen nicht einmal korrumpierte Versionen dieser Tugenden nehmen, wie etwa die Falsche Gabe. Wenn ein Charakter Magieresistenz aus mehr als einer Quelle erhält, werden diese Summen nicht addiert, selbst wenn sie aus derselben Sphäre stammen (Infernale Macht und eine Infernale Kraft zum Beispiel); man verwendet einfach die höhere Summe. Charaktere mit einem Machtwert sind immun gegen jede Verzerrung (siehe Verzerrung und Nichtmenschen, ArM5, [Seite 168](<Ars Magica Definitive Edition Basisregeln.md#verzerrungspunkte-erwerben>)). Sie können jedoch einen Punkt ihres Machtvorrats ausgeben, um eine Fertigkeit oder Kraft einzusetzen, die normalerweise Verzerrung verursacht (wie Beschwörung oder Selbstvertrauensgewinn durch Sündigen). Wesen mit einem Machtwert sind immun gegen übernatürliche Rückschläge ihrer Sphäre, wie Zwielicht, Hybris, Vituperation und dergleichen, erleiden aber dennoch alle anderen Konsequenzen eines misslungenen oder verpatzten Wurfs beim Einsatz ihrer Kräfte.
+*Groß, Unheilige Kraft*
+
+Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Verfluchung bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
+
+#### Von Dämonen unterwiesen
+
+*Klein, Allgemein, Befleckt*
+
+Ein von Dämonen unterwiesener Charakter lernt schneller, als es beim Studium mit menschlichen Lehrern möglich wäre, doch Dämonen lehren nur jene Fertigkeiten, die ihren Plänen für den Charakter dienen. Von Dämonen ausgebildete Charaktere können das für ein bestimmtes Alter durch die Regeln der Charaktererschaffung vorgegebene maximale Fertigkeitsniveau überschreiten. Schüler von Dämonen können auch Fertigkeiten besitzen, die normalerweise einem günstigen Hintergrund vorbehalten sind. Von Dämonen unterwiesene Personen erkennen die übernatürliche Natur ihrer Lehrer nicht — viele betrachten ihre außergewöhnlichen Fähigkeiten als Ausdruck ihrer angeborenen Überlegenheit gegenüber anderen. Diese Haltung ist besonders bei Kindern verbreitet, die unter Stolz leiden. Unterwiesene Charaktere haben zusätzliche 50 Erfahrungspunkte, die sie für jede beliebige Fertigkeit ausgeben können. Charaktere dürfen diese Tugend mehrfach erwerben und erhalten jedes Mal weitere 50 Erfahrungspunkte. Charaktere, die in diesem Ausmaß ausgebildet wurden, wissen, dass ihre Lehrer übernatürliche Gestalten sind, haben aber oft den Fehler Fabrizierte Unwissenheit.
 
 #### Phantasma
 
@@ -4228,17 +4264,23 @@ Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Phantasma be
 
 Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Psychomachie bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
 
-#### Teufelskind
+#### Gespür für Leidenschaft
+
+*Groß, Übernatürlich*
+
+Der Charakter kann in die Herzen und Köpfe anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erfahren. Dies verleiht ihm die Übernatürliche Fertigkeit Gespür für Leidenschaft bei 1, die unter Neue Fertigkeiten unten ausführlicher beschrieben wird.
+
+#### Beschwörer
 
 *Spezial*
 
-Diese Tugend hat keine Kosten und kann nur für einen Mythischen Gefährten genommen werden, der von dämonischen Eltern geboren wurde. Siehe Teufelskinder unten für Einzelheiten.
+Diese Tugend hat keine Kosten und kann nur für einen Mythischen Gefährten genommen werden, der als Lehrling eines Hexers ausgebildet wurde. Siehe Kapitel 11: Ars Goetia für Einzelheiten.
 
-#### Tiere befehligen
+#### Herbeirufung
 
-*Groß, Übernatürlich, Befleckt*
+*Groß, Goetische Kunst*
 
-Der Charakter hat die Fähigkeit, gewöhnliche Exemplare einer Tierart, die üblicherweise mit dem Dämon assoziiert wird, der ihn befleckt hat, geistig zu befehligen. Der Charakter kann zu jeder Zeit bis zu 12 menschengroße Tiere befehligen und sie zu selbstmörderischen Handlungen anweisen. Kleinere Tiere können in weitaus größerer Zahl befehligt werden, sodass manche Charaktere Insektenschwärme oder Hunderte von Ratten befehligen können.
+Diese Tugend verleiht dem Charakter die wichtigste Kunst der Ars Goetia, Herbeirufung. Er beginnt mit dieser Kunst bei 0 und kann sie durch Studium und Übung steigern. In Kombination mit den anderen Goetischen Künsten kann er Dämonen und andere Geister binden, vernichten und kontrollieren, wie in Kapitel 11: Ars Goetia beschrieben.
 
 #### Verfluchter Schatz
 
@@ -4249,48 +4291,6 @@ Der Charakter hat einen großen Schatz geerbt oder erworben, der jedoch verfluch
 Die Schwierigkeit besteht darin, dass der Reichtum verflucht ist, sodass ihm die natürliche Vermehrung an Fülle fehlt, die eine Gabe Gottes ist. Wird er gegen andere Wertgegenstände getauscht, wandert der Fluch auf diese über. Jedes Unternehmen, in das er investiert wird, wird letztendlich scheitern. Jedes Gebäude, das damit erworben wird, wird letztendlich niederbrennen. Wird er für einen nicht-sündhaften Zweck verwendet, zerstört sich der Schatz selbst: an Wohltätigkeit gegebenes Gold verwandelt sich in Sand, Schiffe, die Vorräte zu Hungernden bringen, steuern sich selbst auf Felsen.
 
 Der Reichtum kann verwendet werden, um die Dienste von Menschen zu kaufen, die, da sie Seelen besitzen, ihr eigenes Schicksal wählen. Die Einschränkung, dass der Reichtum sich nur für sündhafte Zwecke ausgeben lässt, bleibt jedoch bestehen, sodass er wahrscheinlich an amoralische, begehrliche, neidische, gefährliche Menschen gegeben wird.
-
-#### Verfluchung
-
-*Groß, Unheilige Kraft*
-
-Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Verfluchung bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
-
-#### Verführer der Massen
-
-*Klein, Allgemein, Befleckt*
-
-Der Charakter besitzt eine Version der Tugend Inspirierend, die nur dazu verwendet werden kann, Menschen zu bösen Taten zu manipulieren. Der Charakter wirkt demagogisch statt heldenhaft und kann eine Menschenmenge nicht mehr kontrollieren, sobald er sie in einen Rausch versetzt hat. Der Verführer zwingt Einzelpersonen in einer Gruppe, Persönlichkeitswürfe für die bestimmte Sünde abzulegen, die er heraufzubeschwören versucht, mit einem Bonus von +5 oder mehr.
-
-#### Verhexung
-
-*Groß, Übernatürlich*
-
-Der Charakter hat die Fähigkeit, seine Feinde zu verfluchen, indem er düstere Vorhersagen über ihre Zukunft macht, die dazu neigen, einzutreffen. Dies verleiht ihm die Übernatürliche Fertigkeit Verhexung bei 1, die unter Neue Fertigkeiten unten ausführlicher beschrieben wird.
-
-#### Verschlungener Geist
-
-*Klein, Allgemein, Befleckt*
-
-Der Charakter ist den Machenschaften von Dämonen so oft ausgesetzt gewesen, dass er ein Gespür für ihre Denkweise entwickelt hat. Der Charakter erhält einen Bonus von +3 auf alle Infernalkunde-Würfe, um zu bestimmen, was ein Dämon tun wird, und besitzt ein Gefühl, ähnlich der Tugend Gesunder Menschenverstand, das ihn davon abhält, im Umgang mit Dämonen dumme Dinge zu tun.
-
-#### Verzehrung
-
-*Groß, Unheilige Kraft*
-
-Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Verzehrung bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
-
-#### Von Dämonen unterwiesen
-
-*Klein, Allgemein, Befleckt*
-
-Ein von Dämonen unterwiesener Charakter lernt schneller, als es beim Studium mit menschlichen Lehrern möglich wäre, doch Dämonen lehren nur jene Fertigkeiten, die ihren Plänen für den Charakter dienen. Von Dämonen ausgebildete Charaktere können das für ein bestimmtes Alter durch die Regeln der Charaktererschaffung vorgegebene maximale Fertigkeitsniveau überschreiten. Schüler von Dämonen können auch Fertigkeiten besitzen, die normalerweise einem günstigen Hintergrund vorbehalten sind. Von Dämonen unterwiesene Personen erkennen die übernatürliche Natur ihrer Lehrer nicht — viele betrachten ihre außergewöhnlichen Fähigkeiten als Ausdruck ihrer angeborenen Überlegenheit gegenüber anderen. Diese Haltung ist besonders bei Kindern verbreitet, die unter Stolz leiden. Unterwiesene Charaktere haben zusätzliche 50 Erfahrungspunkte, die sie für jede beliebige Fertigkeit ausgeben können. Charaktere dürfen diese Tugend mehrfach erwerben und erhalten jedes Mal weitere 50 Erfahrungspunkte. Charaktere, die in diesem Ausmaß ausgebildet wurden, wissen, dass ihre Lehrer übernatürliche Gestalten sind, haben aber oft den Fehler Fabrizierte Unwissenheit.
-
-#### Zeremonie
-
-*Groß, Übernatürlich*
-
-Der Charakter kann dunkle Rituale der Maleficia leiten oder daran teilnehmen, die einer Gruppe von Infernalisten erlauben, zusammenzuarbeiten und eine mächtigere Wirkung zu erzielen. Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Zeremonie bei 1, die unter Neue Fertigkeiten unten ausführlicher beschrieben wird.
 
 ### Neue Fehler
 
@@ -4655,14 +4655,14 @@ Du musst außerdem einen Zeitrahmen für die Verhexung angeben, von einem Effekt
 | Verzögerung | Modifikator |
 |---|:---:|
 | Augenblick  | -12 |
-| Generation  | +9 |
-| Jahr        | +6 |
-| Lebenszeit  | +12 |
-| Monat       | 0 |
-| Quartal     | +3 |
 | Stunde      | -9 |
 | Tag         | -6 |
 | Woche       | -3 |
+| Monat       | 0 |
+| Quartal     | +3 |
+| Jahr        | +6 |
+| Generation  | +9 |
+| Lebenszeit  | +12 |
 
 Wenn du die Verhexung entsprechend formuliert hast, würfle Intelligenz + Verhexung + Aurabonus + Verzögerungsmodifikator und vergleiche das Ergebnis mit dem Schwierigkeitsgrad auf der Tabelle der Verhexungseffekte. Die Schwere dieser Effekte ist vergleichbar mit den Auswirkungen eines Patzers bei einem Wurf mit einer bestimmten Anzahl von Nullen auf den Patzerwürfeln, wie in der Tabelle angegeben. Solltest du den Verhexungswurf verpatzen, kann die Verhexung dennoch eintreten, aber mit unvorhersehbaren und unbeabsichtigten Ergebnissen, die möglicherweise den verhexenden Charakter oder jemanden in seiner Nähe treffen. Oder er könnte Verzerrungspunkte, Erschöpfung oder andere unangenehme Auswirkungen erleiden.
 

@@ -1481,8 +1481,8 @@ Dieser Zauber wird manchmal von Magi verwendet, die den Schulen des Sebastian fo
 > **Labormeisterschaft (Kult des Merkur):** Der Zaubernde versteht die Theorie des Zaubers so gründlich, dass er seinen Meisterschaftswert zu seiner Laborsumme addieren kann, wenn er Effekte entwirft, die ihm ähnlich sind (siehe Ähnliche Zauber, ArM5, [Seite 101](<Ars Magica Definitive Edition Basisregeln.md#ähnliche-zauber>)). Dies kommt zum Standard-Bonus für ähnliche Zauber hinzu.
 >
 > **Standhaftes Zaubern (Kult des Merkur):** Der Zauber ist für den Zaubernden weniger anstrengend. Handelt es sich um einen Ritualzauber, verliert er beim Wirken normale Erschöpfung statt Langzeiterschöpfung und nur halb so viele Erschöpfungsstufen, aufgerundet (aber immer mindestens eine). Handelt es sich um einen formulaischen Zauber, verliert er nie Erschöpfungsstufen durch eine niedrige Zaubersumme, selbst wenn der Zauber nicht gelingt.
-> **Zeremonielles Zaubern (Kult des Merkur):** Der Zaubernde kann beim Wirken dieses Zaubers zeremonielle Methoden anwenden, wodurch sich die Zauberdauer verlängert und er seine Artes Liberales und Philosophiae zu seiner Zaubersumme addiert. Diese Meisterschaftsfähigkeit kann nicht für Ritualzauber gewählt werden, da diese stets zeremonielles Zaubern erfordern.
 >
+> **Zeremonielles Zaubern (Kult des Merkur):** Der Zaubernde kann beim Wirken dieses Zaubers zeremonielle Methoden anwenden, wodurch sich die Zauberdauer verlängert und er seine Artes Liberales und Philosophiae zu seiner Zaubersumme addiert. Diese Meisterschaftsfähigkeit kann nicht für Ritualzauber gewählt werden, da diese stets zeremonielles Zaubern erfordern.
 
 #### Rego-Animal-Zauber
 
@@ -3255,19 +3255,19 @@ Auf den ersten Blick scheint diese Philosophie nahezulegen, dass ein Mensch stet
 Kallikleaner sind getrieben, die Welt dazu zu zwingen, ihren selbstsüchtigen Zielen entgegenzukommen. Sie zeigen gewöhnlich keinerlei Skrupel, Regeln zu brechen, die ihnen nicht passen, obwohl sie die Notwendigkeit erkennen, dies bisweilen im Verborgenen zu tun. Typische Rollen für diese Magi sind Hedonisten, Tyrannen, Raufbolde, Duellanten, Nervenkitzel-Sucher und *Agents provocateurs*.
 
 > ## Die Philosophen
->
+> 
 > Die folgenden Sophisten wurden in den *Analekten des Tytalus* häufig zitiert:
->
+> 
 > **Antiphon** vertrat die Ansicht, der Mensch sei besser dran, wenn er den Zwängen der Konvention entkomme. Er glaubte, ein Mensch könne sich nicht beherrschen, wenn er nie in Versuchung geführt worden sei, und lehrte ein Leben voller verfeinertem und geistigem Genuss, in dem aus einer kurzen und unvollkommenen Existenz das Höchstmaß an Vergnügen bei geringstem Leiden gewonnen werden solle.
->
-> **Gorgias** war ein Schüler des Empedokles und lehrte seine Schüler, die Künste der Überredung und des Betrugs zu meistern. Er veranschaulichte die korrumpierende Macht der Worte, indem er eine Rede zur Verteidigung der verruchten Helena von Troja verfasste. Er lenkte die Aufmerksamkeit des Zuhörers auf die heimtückischen Wirkungen der Rhetorik, indem er eben diese Wirkungen auf den Zuhörer selbst anwandte. In einem weiteren Werk beweist er durch Logik, dass a) nichts existiert, b) selbst wenn etwas existierte, Wissen davon unmöglich wäre und c) selbst wenn wir davon wissen könnten, wir es niemals anderen mitteilen könnten.
->
-> **Hippias** glaubte an die grundlegende Einheit der Menschheit durch ungeschriebene Gesetze göttlicher Herkunft. Er vertrat die Ansicht, dass Gesetze, die auf menschlicher Übereinkunft und Herkommen beruhen, Barrieren zwischen den Menschen errichten und gleichermaßen Tyrann wie Friedensstifter sein können.
->
+> 
 > **Kritias** war ein führendes Mitglied der Dreißig Tyrannen, die nach der Niederlage Athens durch die Spartaner herrschten. Er glaubte, Gesetze seien weder der menschlichen Natur innewohnend noch ein Geschenk der Götter, und dass Tugend durch Gewalt auferlegt werden könne. Religion sei eine rein menschliche Erfindung zur Kontrolle der Massen, und er war ein entschiedener Gegner der Demokratie, der erklärte, die Annahme von Konventionen sei kein Weg, eine Nation zu führen. Er wurde in einem Bürgerkrieg gegen die Demokraten getötet.
->
+> 
+> **Gorgias** war ein Schüler des Empedokles und lehrte seine Schüler, die Künste der Überredung und des Betrugs zu meistern. Er veranschaulichte die korrumpierende Macht der Worte, indem er eine Rede zur Verteidigung der verruchten Helena von Troja verfasste. Er lenkte die Aufmerksamkeit des Zuhörers auf die heimtückischen Wirkungen der Rhetorik, indem er eben diese Wirkungen auf den Zuhörer selbst anwandte. In einem weiteren Werk beweist er durch Logik, dass a) nichts existiert, b) selbst wenn etwas existierte, Wissen davon unmöglich wäre und c) selbst wenn wir davon wissen könnten, wir es niemals anderen mitteilen könnten.
+> 
+> **Hippias** glaubte an die grundlegende Einheit der Menschheit durch ungeschriebene Gesetze göttlicher Herkunft. Er vertrat die Ansicht, dass Gesetze, die auf menschlicher Übereinkunft und Herkommen beruhen, Barrieren zwischen den Menschen errichten und gleichermaßen Tyrann wie Friedensstifter sein können.
+> 
 > **Protagoras** erlangte einen Ruf als politischer und moralischer Denker, ohne sich selbst in die Politik einzumischen oder nach Macht für sich selbst zu streben. Er lehrte, dass der Mensch der Maßstab dafür sei, was als wirklich zähle und was nicht. Die Welt ist, wie wir sie darstellen; es gibt keine unabhängige Wahrheit.
->
+> 
 
 #### Hippianische Ethik
 

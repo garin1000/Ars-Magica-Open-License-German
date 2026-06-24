@@ -303,6 +303,9 @@ Dezember 2024
 
 [Inhaltsverzeichnis](#inhaltsverzeichnis)
 
+**[Danksagungen](#danksagungen)**<br>
+**[Gedenkseiten](#gedenkseiten)**<br>
+**[Vorwort](#vorwort)**<br>
 **[Abbildungsverzeichnis](#abbildungsverzeichnis)**<br>
 [**Kapitel 1: Einleitung**](#kapitel-1-einleitung)<br>
 [**Kapitel 2: Der Orden des Hermes**](#kapitel-2-der-orden-des-hermes)<br>
@@ -330,9 +333,6 @@ Karte von Mythischem Europa<br>
 Anhang H: Charakterbogen<br>
 [Spieltester der Fünften Edition](#spieltester-der-fünften-edition)<br>
 
-**[Danksagungen](#danksagungen)**<br>
-**[Gedenkseiten](#gedenkseiten)**<br>
-**[Vorwort](#vorwort)**<br>
 ---
 
 > [Magi](#magi-1)
@@ -2893,27 +2893,27 @@ Da Sozialer-Status-Tugenden und -Fehler den Platz eines Charakters in der Gesell
 
 | Kategorie               | Tugenden / Fehler                                                                                                     |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **Kostenlose Tugenden** | Arbeiter, Bauer, Bezahlte Rechte, Händler, Handwerker, Haustier, Hermetischer Magus, Konventsbewohner, Lehrling, Wanderer |
-| **Kleine Tugenden**     | Custos, Edelmann/frau, Einsame Rotkappe, Faktor, Gescheiterter Lehrling, Handelsabenteurer, Schmiede-Gefährte, Söldnerhauptmann, Weiser |
+| **Kostenlose Tugenden** | Lehrling, Konventsbewohner, Handwerker, Haustier, Hermetischer Magus, Arbeiter, Händler, Bezahlte Rechte, Bauer, Wanderer |
+| **Kleine Tugenden**     | Custos, Faktor, Gescheiterter Lehrling, Schmiede-Gefährte, Edelmann/frau, Einsame Rotkappe, Söldnerhauptmann, Handelsabenteurer, Weiser |
 | **Große Tugenden**      | Capo, Partner, Rotkappe, Venditor                                                                                     |
-| **Kleine Fehler**       | Anführer von Geächteten, Ausgestoßener, Außenseiter, Begleittier, Gebrandmarkter Verbrecher, Wucherer |
-| **Große Fehler**        | Außenseiter, Geächteter |
+| **Kleine Fehler**       | Gebrandmarkter Verbrecher, Begleittier, Ausgestoßener, Anführer von Geächteten, Außenseiter, Wucherer                |
+| **Große Fehler**        | Geächteter, Außenseiter                                                                                               |
 
 #### Westliches Christentum
 
 | Kategorie               | Tugenden / Fehler                                                                                                                                                                                                                              |
 | ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Kleine Tugenden**     | Amtsdiener, Baccalaureus, Bettelmönch, Bruder-Kaplan, Bruder-Ritter, Bruder-Sergeant, Einfacher Student, Falkner, Geselle, Hundemeister, Jurist, Kleriker, Marschall, Notar, Ordensmitglied, Priester, Ritter, Stadtrat, Templerinhaber, Templer-Spezialist, Templerverwalter, Universitäts-Grammatiklehrer, Zunftlehrling, Zunftmeister |
-| **Kostenlose Tugenden** | Männlicher Zunftsponsor, Nuntius, Tempeldiener, Templerbruder/-schwester |
-| **Große Tugenden**      | Doktor der (Fakultät), Domschulmeister, Hoher Klerus, Landadliger, Leitender Meister, Magister in Artibus, Magister in Medicina, Templerkommandeur, Zunftdekan |
-| **Kleine Fehler**       | Chirurgischer Empiriker, Gescheiterter Geselle, Gescheiterter Meister, Gescheiterter Mönch/Nonne |
+| **Kleine Tugenden**     | Baccalaureus, Amtsdiener, Bruder-Kaplan, Bruder-Ritter, Bruder-Sergeant, Kleriker, Falkner, Zunftlehrling, Zunftmeister, Geselle, Jurist, Ritter, Marschall, Hundemeister, Bettelmönch, Notar, Priester, Ordensmitglied, Einfacher Student, Templerverwalter, Templerinhaber, Templer-Spezialist, Stadtrat, Universitäts-Grammatiklehrer |
+| **Kostenlose Tugenden** | Männlicher Zunftsponsor, Nuntius, Templerbruder/-schwester, Tempeldiener                                                                                                                                                                      |
+| **Große Tugenden**      | Domschulmeister, Doktor der (Fakultät), Zunftdekan, Landadliger, Magister in Artibus, Magister in Medicina, Hoher Klerus, Leitender Meister, Templerkommandeur                                                                               |
+| **Kleine Fehler**       | Gescheiterter Geselle, Gescheiterter Meister, Gescheiterter Mönch/Nonne, Chirurgischer Empiriker                                                                                                                                              |
 
 #### Östliches Christentum
 
 | Kategorie           | Tugenden / Fehler                                                                          |
 | ------------------- | ------------------------------------------------------------------------------------------ |
-| **Kleine Tugenden** | Bettelmönch, Eunuch, Falkner, Hundemeister, Jurist, Kleriker, Marschall, Notar, Ordensmitglied, Priester, Ritter |
-| **Große Tugenden**  | Archieunuch, Hoher Klerus, Landadliger |
+| **Kleine Tugenden** | Kleriker, Eunuch, Falkner, Jurist, Ritter, Marschall, Hundemeister, Bettelmönch, Notar, Priester, Ordensmitglied |
+| **Große Tugenden**  | Archieunuch, Landadliger, Hoher Klerus                                                     |
 
 #### Islamisch
 
@@ -3509,11 +3509,11 @@ Formulaische Zauber müssen mit der neuen Dauer entworfen werden, um diese Ferti
 >
 > **Körperlich:** Athletik, Raufen, Chirurgie, Jagen, Fingerfertigkeit, Reiten, Schleichen, Schwimmen, Bogenschießen, Große Waffe, Einzelwaffe, Wurfwaffe
 >
-> **Variabel:** Handwerk (Art), Beruf (Art)
->
 > **VERBAL:** Feilschen, Charme, Täuschung, Intrige, Führung, Unterrichten
 >
 > **VERBAL UND KÖRPERLICH:** Tierumgang, Zechen, Musik
+>
+> **Variabel:** Handwerk (Art), Beruf (Art)
 >
 > Obwohl Raufen und Kampffertigkeiten in der Aufführungsmagie verwendet werden können, muss der Magus halb-rituelle Bewegungen ausführen, um Zauber zu wirken – als Reaktion auf die Anforderungen des Zaubers, nicht auf die Aktionen eines Gegners. Befindet sich der Magus im Kampf, darf er Aufführungsmagie (Raufen oder Kampffertigkeiten) nur nutzen, wenn der Spieler einen Stresswürfel mit drei zusätzlichen Patzerwürfeln wirft und alle Nicht-Patzer als Würfelergebnis null wertet. (Dies stellt dar, dass der Gegner ignoriert und der Zauber gewirkt wird.)
 >
@@ -7951,41 +7951,41 @@ Der Konvent befindet sich in einem Teil der Anlage eines Winter-Konvents. Es kan
 >
 > ### Schwacher Konvent
 >
-> **Aufgewendete Baupunkte:** 200
->
 > **Bibliothek:** Drei Kunst-Summae (Stufe 15 Qualität 12, Stufe 12 Qualität 12 und Stufe 6 Qualität 21), eine Fertigkeits-Summa (Stufe 4 Qualität 10) und vier Tractatus (Qualitäten 11, 10, 10 und 9), zu Künsten oder Fertigkeiten.
 >
 > **Labortexte:** 200 Stufen Zauber, keiner über Stufe 25.
 >
 > **Vis:** 1 oder mehr Quellen, die insgesamt 4 Bauern pro Jahr liefern. Keine Vorräte.
 >
+> **Aufgewendete Baupunkte:** 200
+>
 > Dies ist passend für einen Frühlings-Konvent oder für die zugänglichen Ressourcen eines Winter-Konvents.
 >
 > ### Mittlerer Konvent
->
-> **Aufgewendete Baupunkte:** 800
 >
 > **Bibliothek:** Acht Kunst-Summae (drei auf Stufe 16, Qualität 15, fünf auf Stufe 6, Qualität 21), drei Fertigkeits-Summae (eine auf Stufe 5, Qualität 20, und zwei auf Stufe 6, Qualität 15) und sieben Tractatus zu Künsten oder Fertigkeiten (zwei Qualität 11, vier Qualität 10 und einer Qualität 9).
 >
 > **Labortexte:** 1.000 Stufen Zauber, keiner über Stufe 40.
 >
+> **Vis:** Mindestens drei Quellen, von denen jede eine andere Kunst liefert, die insgesamt 20 Bauern pro Jahr ergeben. Vis-Vorräte von 100 Bauern, beliebig auf die Künste verteilt. Die Vorräte können auch aus einer einzelnen Kunst bestehen.
+>
 > **Verzauberte Gegenstände:** 200 Stufen verzauberter Gegenstände, mit einem höchsten Effekt der Stufe 40. Mindestens 100 Stufen sollten auf schlichte Artefakte mit einer Effektstufe von 20 oder weniger entfallen.
 >
-> **Vis:** Mindestens drei Quellen, von denen jede eine andere Kunst liefert, die insgesamt 20 Bauern pro Jahr ergeben. Vis-Vorräte von 100 Bauern, beliebig auf die Künste verteilt. Die Vorräte können auch aus einer einzelnen Kunst bestehen.
+> **Aufgewendete Baupunkte:** 800
 >
 > Dies ist passend für einen Konvent im frühen Sommer oder für die unmittelbar zugänglichen Ressourcen junger Magi in einem Herbst-Konvent.
 >
 > ### Mächtiger Konvent
 >
-> **Aufgewendete Baupunkte:** 2000
->
 > **Bibliothek:** Siebzehn Kunst-Summae, mindestens eine zu jeder Kunst (eine auf Stufe 20, Qualität 11; eine auf Stufe 18, Qualität 13; fünf auf Stufe 16, Qualität 15; zehn auf Stufe 6, Qualität 21), sechs Fertigkeits-Summae (drei auf Stufe 6, Qualität 17, und drei auf Stufe 5, Qualität 20) sowie dreißig Tractatus (12 Qualität 11, 9 Qualität 10, 9 Qualität 9), zu Künsten oder Fertigkeiten.
 >
 > **Labortexte:** Labortexte für 2.500 Stufen Zauber, ohne Obergrenze für die Stufe einzelner Zauber.
 >
+> **Vis:** Mindestens fünf Quellen, von denen jede eine andere Kunst liefert, die insgesamt 50 Bauern pro Jahr ergeben. Vis-Vorräte von 250 Bauern, frei auf die Künste verteilt.
+>
 > **Verzauberte Gegenstände:** 500 Stufen verzauberter Gegenstände. Mindestens einer sollte einen Effekt über Stufe 30 besitzen, und mindestens 100 Stufen sollten auf schlichte Artefakte mit einer Effektstufe von 20 oder weniger entfallen.
 >
-> **Vis:** Mindestens fünf Quellen, von denen jede eine andere Kunst liefert, die insgesamt 50 Bauern pro Jahr ergeben. Vis-Vorräte von 250 Bauern, frei auf die Künste verteilt.
+> **Aufgewendete Baupunkte:** 2000
 >
 > Dies ist passend für einen Konvent im Hochsommer, die Gesamtressourcen eines verhältnismäßig schwachen Herbst-Konvents oder die jungen Magi in einem sehr mächtigen Herbst-Konvent zugänglichen Ressourcen.
 
@@ -8602,7 +8602,13 @@ Hinzu kommen alle **Abgaben** und **sonstigen** Ausgaben.
 >
 > **Gebäude + Verbrauchsgüter + Verpflegung + Lohn:** 77 Pfund
 >
-> **Gebäude + Verbrauchsgüter + Verpflegung + Lohn:** 135 Pfund
+> **Inflation:** 0 Pfund
+>
+> **Laboratorien:** 6 Pfund
+>
+> **Waffen und Rüstung:** 1 Pfund
+>
+> **Schreibmaterialien:** 6 Pfund
 >
 > **Gesamt:** 90 Pfund
 >
@@ -8610,29 +8616,23 @@ Hinzu kommen alle **Abgaben** und **sonstigen** Ausgaben.
 >
 > Seine jährlichen Ausgaben (vor Kostenersparnis) lauten nun wie folgt:
 >
-> **Gesamt:** 125 Pfund
-> **Handwerker:** -16 Pfund
->
-> **Hilfsarbeiter:** -20 Pfund
->
-> **Inflation:** 0 Pfund
+> **Gebäude + Verbrauchsgüter + Verpflegung + Lohn:** 135 Pfund
 >
 > **Inflation:** 10 Pfund
 >
 > **Laboratorien:** 6 Pfund
 >
-> **Laboratorien:** 6 Pfund
->
-> **Schreibmaterialien:** 6 Pfund
+> **Waffen und Rüstung:** 2 Pfund
 >
 > **Schreibmaterialien:** 8 Pfund
 >
 > Seine Kostenersparnis lautet wie folgt:
 >
-> **Waffen und Rüstung:** 1 Pfund
+> **Hilfsarbeiter:** -20 Pfund
 >
-> **Waffen und Rüstung:** 2 Pfund
+> **Handwerker:** -16 Pfund
 >
+> **Gesamt:** 125 Pfund
 
 ## Die Organisation der Konventsbewohner
 
@@ -9322,13 +9322,13 @@ Arkane Verbindungen müssen sorgfältig aufbewahrt werden, da sie sonst zu Verbi
 
 | Dauer        | Beispielverbindungen                                                                                                                                                                                                                                |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Stunden      | abgestreifte Haut eines Menschen, Luft von einem bestimmten Ort, Wasser aus einem fließenden Gewässer. |
-| Tage         | Ausscheidungen., das das Ziel hergestellt hat, etwas Alltägliches, Ein häufig genutztes Werkzeug oder Kleidungsstück, Wasser aus einem stehenden Gewässer |
-| Wochen       | den das Ziel selbst verfasst und geschrieben hat. Ein Gegenstand, ein Gegenstand, ist eine Arkane Verbindung mit einer Dauer von Tagen zur herstellenden Person., Schlichtes Artefakt, der vom Ziel entworfen und hergestellt wurde – zum Beispiel ein Brief, der von einer Person entworfen und von einer anderen hergestellt wurde |
-| Monate       | bevorzugtes Werkzeug oder Kleidungsstück, Feder eines Vogels, Haarsträhne, Holzsplitter von einem bestimmten Ort, Schuppe eines Reptils. |
-| Jahre        | Bereitetes Artefakt, Blut, Gestein oder Metall von einem bestimmten Ort, Gruppe von Federn eines Vogels, Gruppe von Schuppen eines Reptils., Haarlocke |
+| Stunden      | Luft von einem bestimmten Ort, abgestreifte Haut eines Menschen, Wasser aus einem fließenden Gewässer.                                                                                                                                             |
+| Tage         | Ein häufig genutztes Werkzeug oder Kleidungsstück, Wasser aus einem stehenden Gewässer, etwas Alltägliches, das das Ziel hergestellt hat, Ausscheidungen.                                                                                          |
+| Wochen       | Schlichtes Artefakt, ein Gegenstand, der vom Ziel entworfen und hergestellt wurde – zum Beispiel ein Brief, den das Ziel selbst verfasst und geschrieben hat. Ein Gegenstand, der von einer Person entworfen und von einer anderen hergestellt wurde, ist eine Arkane Verbindung mit einer Dauer von Tagen zur herstellenden Person. |
+| Monate       | Haarsträhne, bevorzugtes Werkzeug oder Kleidungsstück, Holzsplitter von einem bestimmten Ort, Feder eines Vogels, Schuppe eines Reptils.                                                                                                            |
+| Jahre        | Bereitetes Artefakt, Gestein oder Metall von einem bestimmten Ort, Blut, Haarlocke, Gruppe von Federn eines Vogels, Gruppe von Schuppen eines Reptils.                                                                                             |
 | Jahrzehnte   | Körperteil.                                                                                                                                                                                                                                         |
-| Unbegrenzt   | fixierte Arkane Verbindungen (siehe „Arkane Verbindungen fixieren" im Laboratoriums-Kapitel, hermetischer Magus (Verbindung zum Vertrauten), hermetischer Talisman (Verbindung zum Erschaffer), Hermetischer Vertrauter (Verbindung zum Meister), [Seite 250](#arkane-verbindungen-festigen)). |
+| Unbegrenzt   | Hermetischer Vertrauter (Verbindung zum Meister), hermetischer Magus (Verbindung zum Vertrauten), hermetischer Talisman (Verbindung zum Erschaffer), fixierte Arkane Verbindungen (siehe „Arkane Verbindungen fixieren" im Laboratoriums-Kapitel, [Seite 250](#arkane-verbindungen-festigen)). |
 
 ## Penetration
 
@@ -9835,8 +9835,6 @@ Der Konzentrationsverlust bedeutet jedoch nicht zwingend, dass das Certamen been
 >
 > Moratamis von Guernicus hegt Verdacht darüber, was Carolus von Tytalus nachts treibt. Sie fordert ihn auf, ihr zu sagen, was er tut, und er weigert sich. Sie hat nicht genug für eine offizielle Quaesitor-Untersuchung, also fordert sie ihn zum Certamen heraus und verlangt, dass er ihr erzählt, was er getan hat, falls er verliert. Carolus stimmt zu, unter der Bedingung, dass Moratamis ihn nicht mehr nach seinen Aktivitäten fragen wird, es sei denn, sie ist in offizieller Quaesitor-Mission. (Er muss die Bedingung hinzufügen, auch wenn er es lieber nicht täte, denn sonst ist es unwahrscheinlich, dass das Tribunal ein Ergebnis zu seinen Gunsten anerkennt.) Carolus vermutet, dass er verlieren wird, da Moratamis älter und damit mächtiger ist.
 >
-> **Carolus:** Initiativewert: +2 (Sck 0 + Finesse 2), Angriff +6 (Rego: Rego 7 + Prä −1) oder +5 (Terram: Terram 6 + Prä −1), Verteidigung +6 (Rego: Rego 7 + Wah −1) oder +5 (Terram: Terram 6 + Wah −1), Schwächung +3 (Int +2 + Penetration 1), Widerstand +4 (Aus +1 + Parma Magica 3)
->
 > **Künste der Moratamis:** Cr 1, In 12, Mu 1, Pe 7, Re 8; An 5, Aq 0, Au 0, Co 5, He 0, Ig 0, Im 10, Me 13, Te 0, Vi 5
 >
 > Ihre Eigenschaften: Int +2, Wah +3, Prä +2, Kom +1, Stä −2, Aus +1, Ges −2, Sck −1
@@ -9858,6 +9856,8 @@ Der Konzentrationsverlust bedeutet jedoch nicht zwingend, dass das Certamen been
 > Die beiden haben nun folgende Werte:
 >
 > **Moratamis:** Initiativewert: +1 (Sck −1 + Finesse 2), Angriff: +10 (Rego: Rego 8 + Prä +2) oder +2 (Terram: Terram 0 + Prä +2), Verteidigung +11 (Rego: Rego 8 + Wah +3) oder +3 (Terram: Terram 0 + Wah +3), Schwächung +5 (Int +2 + Penetration 3), Widerstand +6 (Aus +1 + Parma Magica 5)
+>
+> **Carolus:** Initiativewert: +2 (Sck 0 + Finesse 2), Angriff +6 (Rego: Rego 7 + Prä −1) oder +5 (Terram: Terram 6 + Prä −1), Verteidigung +6 (Rego: Rego 7 + Wah −1) oder +5 (Terram: Terram 6 + Wah −1), Schwächung +3 (Int +2 + Penetration 1), Widerstand +4 (Aus +1 + Parma Magica 3)
 >
 > Die Phantome für den Kampf sind die Bodenplatten unter ihren Füßen, die versuchen, sich zu erheben und sie einzuhüllen.
 >
@@ -10893,7 +10893,7 @@ Du kannst nur einen Vertrauten gleichzeitig haben. Da dein Vertrauter lange bei 
 
 > ### Beispielkräfte
 >
-> **Feueraura:** Die Maga oder den Vertrauten in Flammen hüllen, die sie selbst nicht verbrennen, wohl aber alles, was in ihren Bereich kommt. Da das Feuer in einer unnatürlichen Gestalt erschaffen wird, verursacht es Schaden in Höhe seiner Stufe. Die Künste sind Creo Ignem mit einem Rego-Requisit. +5 Stufen erhöhen die Dauer auf Durchmesser, +5 Stufen für Berührungsreichweite, +5 für das Rego-Requisit, und +10 für unbegrenzte Nutzung. Endstufe ist Schaden + 25.
+> **Sprache:** Einem Tier die Fähigkeit zu verleihen, menschliche Sprache zu formen, ist Muto Animal mit einer Basisstufe von 5 (eine kleine Veränderung, die das Tier übernatürlich macht). Die Dauer muss auf Konzentration gesetzt sein, wobei die Bindung die Konzentration aufrechterhält, und die Reichweite muss auf Berührung erhöht werden. Das ergibt Stufe 20. Die Maga muss die Wirkung bei Sonnenauf- und -untergang aufrechterhalten, kann sie aber einmal täglich neu aktivieren, falls sie es „vergisst".
 >
 > **Gedankliche Kommunikation:** Zwei Effekte, die jeweils einem Partner erlauben, mit dem anderen zu kommunizieren. Der Effekt ist Creo Mentem, da ein Partner im Geist des anderen etwas erschafft. Können nur Worte übermittelt werden, ist die Basisstufe 3, plus eine Magnitude für Berührungsreichweite, plus zehn Stufen für unbegrenzte Nutzung — insgesamt Stufe 14. Können komplexere Gedanken wie Bilder und Gefühle übermittelt werden, ist die Basisstufe 4, plus eine Magnitude für Berührungsreichweite, plus zehn für unbegrenzte Nutzung — Gesamtstufe 15.
 >
@@ -10903,9 +10903,9 @@ Du kannst nur einen Vertrauten gleichzeitig haben. Da dein Vertrauter lange bei 
 >
 > **Ortsbestimmung:** Die Basisstufe, um den Partner zu finden, beträgt 3, was um eine Magnitude auf 4 für Berührungsreichweite erhöht werden muss. Dies ist Intellego Corpus, um die Maga zu finden, und Intellego Animal, um den Vertrauten zu finden.
 >
-> **Rasierklingenscharfe Stahlklauen:** Die Künste sind Muto Animal (für den Vertrauten) oder Muto Corpus (für die Maga), mit einem Terram-Requisit. Die Basisstufe für Muto Animal wäre 3, die für Muto Corpus 2 oder 3, weshalb die Basisstufe 5 beträgt, um einfaches Metall zu erschaffen. Fünf Stufen für Berührungsreichweite und zehn Stufen insgesamt für Konzentrationsdauer und von der Bindung aufrechterhaltene Konzentration kommen hinzu. Da die Klauen magisch scharf sein sollen, wird die Stufe um fünf erhöht. Zehn weitere Stufen ermöglichen es, den Effekt nach Belieben auszulösen — Endstufe 35.
-> **Sprache:** Einem Tier die Fähigkeit zu verleihen, menschliche Sprache zu formen, ist Muto Animal mit einer Basisstufe von 5 (eine kleine Veränderung, die das Tier übernatürlich macht). Die Dauer muss auf Konzentration gesetzt sein, wobei die Bindung die Konzentration aufrechterhält, und die Reichweite muss auf Berührung erhöht werden. Das ergibt Stufe 20. Die Maga muss die Wirkung bei Sonnenauf- und -untergang aufrechterhalten, kann sie aber einmal täglich neu aktivieren, falls sie es „vergisst".
+> **Feueraura:** Die Maga oder den Vertrauten in Flammen hüllen, die sie selbst nicht verbrennen, wohl aber alles, was in ihren Bereich kommt. Da das Feuer in einer unnatürlichen Gestalt erschaffen wird, verursacht es Schaden in Höhe seiner Stufe. Die Künste sind Creo Ignem mit einem Rego-Requisit. +5 Stufen erhöhen die Dauer auf Durchmesser, +5 Stufen für Berührungsreichweite, +5 für das Rego-Requisit, und +10 für unbegrenzte Nutzung. Endstufe ist Schaden + 25.
 >
+> **Rasierklingenscharfe Stahlklauen:** Die Künste sind Muto Animal (für den Vertrauten) oder Muto Corpus (für die Maga), mit einem Terram-Requisit. Die Basisstufe für Muto Animal wäre 3, die für Muto Corpus 2 oder 3, weshalb die Basisstufe 5 beträgt, um einfaches Metall zu erschaffen. Fünf Stufen für Berührungsreichweite und zehn Stufen insgesamt für Konzentrationsdauer und von der Bindung aufrechterhaltene Konzentration kommen hinzu. Da die Klauen magisch scharf sein sollen, wird die Stufe um fünf erhöht. Zehn weitere Stufen ermöglichen es, den Effekt nach Belieben auszulösen — Endstufe 35.
 
 ### Die Beteiligung der anderen Spieler
 
@@ -11539,9 +11539,9 @@ Ein Labor kann nicht kleiner als Größe –3 sein. Es gibt jedoch keine Obergre
 
 > #### Zusammenfassung: Größe und Verfeinerung
 >
-> **BELEGTE GRÖSSE: aktuelle Tugendpunkte – Fehlerpunkte – Verfeinerung**
->
 > **GRENZE DER TUGENDPUNKTE MINUS FEHLERPUNKTE: Größe + Verfeinerung**
+>
+> **BELEGTE GRÖSSE: aktuelle Tugendpunkte – Fehlerpunkte – Verfeinerung**
 >
 > **GRUNDSICHERHEIT DES LABORS: Verfeinerung – belegte Größe (wenn größer als null)**
 
@@ -11625,31 +11625,25 @@ Spezialisierungen werden durch Tugenden erworben (insbesondere durch Features un
 
 > #### Laborspezialisierungen und Erscheinungsbild
 >
-> **Animal:** Diese Spezialisierung verrät sich meist am wilden Geruch des Labors. Es kann zahlreiche Tierpräparate, tot oder lebendig, enthalten, und der Boden ist vielleicht mit Stroh, Fell oder Kot bedeckt.
+> **Experimentieren:** Das Labor kann mit ungewöhnlicher Spezialausstattung versehen sein oder eine nicht standardmäßige Konfiguration aufweisen, die Unkundigen verwirrend oder gar gefährlich erscheint.
 >
-> **Aquam:** Das Labor weist fast immer irgendeine Form von Wasser auf — still oder fließend — und kann feucht sein.
+> **Vertrauter:** Ein solches Labor ähnelt oft einem Labor mit Spezialisierung in Animal. Es verfügt wahrscheinlich über eine Art Gehege oder Unterkunft für einen Vertrauten an hervorgehobener Stelle.
 >
 > **Artefakte:** Das Labor ähnelt meist einer Werkstatt mit einer großen Vielfalt an Werkzeug und ist wahrscheinlich riechend, schmutzig oder laut.
 >
-> **Auram:** Ein solches Labor ist oft weiträumig mit hoher Decke und besitzt möglicherweise ein Fenster oder einen Balkon oder ist gar den Elementen ausgesetzt.
+> **Langlebigkeitsrituale:** Das Labor ähnelt oft stark einem mit Spezialisierung in Creo oder Corpus. Es könnte eine Liege aufweisen, auf der ein lebender Patient behandelt werden kann.
 >
-> **Corpus:** Das Labor könnte menschliche Leichen und Körperteile enthalten, wie Blut, Knochen und Haut, oder sogar lebende Personen. Vielleicht erinnert es an eine Chirurgenstube mit den Werkzeugen eines Wundarzts.
+> **Zauber:** Diese Spezialisierung ist meist nicht auf den ersten Blick erkennbar, da sich das Labor nur in feinen Nuancen von der Norm unterscheidet. Es könnte einen großen freien Bereich aufweisen, etwa einen Beschwörungskreis, in dem Zauber erprobt werden.
+>
+> **Unterrichten:** Das Labor ist in der Regel komfortabel eingerichtet, mit einem fest bestimmten Platz für Meister und Schüler, etwa einem Schreibpult vor einem Lehrerpult.
+>
+> **Texte:** Das Labor weist meist ein Schreibpult oder einen Buchständer an hervorgehobener Stelle auf, enthält vielfältige Schreibmaterialien und ist gut beleuchtet.
+>
+> **Vis-Gewinnung:** Ein solches Labor besitzt oft eine Art Mess- oder Raffiniervorrichtung, etwa eine aufwändige Destillieranlage, sowie zahlreiche Behälter für Vis.
 >
 > **Creo:** Das Labor ist oft hell erleuchtet, sauber oder enthält viele wachsende Dinge. Es ist meist eine angenehme Umgebung.
 >
-> **Experimentieren:** Das Labor kann mit ungewöhnlicher Spezialausstattung versehen sein oder eine nicht standardmäßige Konfiguration aufweisen, die Unkundigen verwirrend oder gar gefährlich erscheint.
->
-> **Herbam:** Ein solches Labor enthält erwartungsgemäß Pflanzen — in Töpfen, aus dem Boden oder den Wänden wachsend — oder das Labor selbst ist aus lebendem Holz gebaut. Es kann nach Laub, Blüten oder Holz riechen.
->
-> **Ignem:** Das Labor ist in der Regel sehr gut beheizt, mit mehreren Kaminen oder einem Ofen, oder von vielen hundert Kerzen erhellt. Es kann nach Rauch oder Schwefel riechen.
->
-> **Imaginem:** Das Labor kann überschwänglich dekoriert oder sogar teilweise illusorisch sein. Ebenso kann es den Anschein einer anderen Spezialisierung erwecken, denn dieses Labor ist möglicherweise nicht das, was es zu sein scheint.
->
 > **Intellego:** Ein solches esoterisches Labor könnte viele Bücher oder astronomische Geräte enthalten sowie Betrachtungsobjekte wie Kristallkugeln oder ein Schauungsbecken.
->
-> **Langlebigkeitsrituale:** Das Labor ähnelt oft stark einem mit Spezialisierung in Creo oder Corpus. Es könnte eine Liege aufweisen, auf der ein lebender Patient behandelt werden kann.
->
-> **Mentem:** Ein solches Labor ist oft rätselhaft und aufwändig gestaltet und kann esoterische Spielereien oder kunstvolle Objekte enthalten.
 >
 > **Muto:** Das Labor kann chaotisch wirken oder sich in einem Zustand ständiger Veränderung befinden. Vielleicht ordnet der Besitzer die Dinge ständig um.
 >
@@ -11657,19 +11651,25 @@ Spezialisierungen werden durch Tugenden erworben (insbesondere durch Features un
 >
 > **Rego:** Ein solches Labor ist ordentlich und wohlgeordnet, mit allem sauber aufgeräumt.
 >
+> **Animal:** Diese Spezialisierung verrät sich meist am wilden Geruch des Labors. Es kann zahlreiche Tierpräparate, tot oder lebendig, enthalten, und der Boden ist vielleicht mit Stroh, Fell oder Kot bedeckt.
+>
+> **Aquam:** Das Labor weist fast immer irgendeine Form von Wasser auf — still oder fließend — und kann feucht sein.
+>
+> **Auram:** Ein solches Labor ist oft weiträumig mit hoher Decke und besitzt möglicherweise ein Fenster oder einen Balkon oder ist gar den Elementen ausgesetzt.
+>
+> **Corpus:** Das Labor könnte menschliche Leichen und Körperteile enthalten, wie Blut, Knochen und Haut, oder sogar lebende Personen. Vielleicht erinnert es an eine Chirurgenstube mit den Werkzeugen eines Wundarzts.
+>
+> **Herbam:** Ein solches Labor enthält erwartungsgemäß Pflanzen — in Töpfen, aus dem Boden oder den Wänden wachsend — oder das Labor selbst ist aus lebendem Holz gebaut. Es kann nach Laub, Blüten oder Holz riechen.
+>
+> **Ignem:** Das Labor ist in der Regel sehr gut beheizt, mit mehreren Kaminen oder einem Ofen, oder von vielen hundert Kerzen erhellt. Es kann nach Rauch oder Schwefel riechen.
+>
+> **Imaginem:** Das Labor kann überschwänglich dekoriert oder sogar teilweise illusorisch sein. Ebenso kann es den Anschein einer anderen Spezialisierung erwecken, denn dieses Labor ist möglicherweise nicht das, was es zu sein scheint.
+>
+> **Mentem:** Ein solches Labor ist oft rätselhaft und aufwändig gestaltet und kann esoterische Spielereien oder kunstvolle Objekte enthalten.
+>
 > **Terram:** Das Labor liegt oft unterirdisch und ist in der Regel massiv gebaut, mit einem erdigen oder mineralischen Geruch. Zahlreiche Proben von Metallen, Edelsteinen oder Kristallen können vorhanden sein.
 >
-> **Texte:** Das Labor weist meist ein Schreibpult oder einen Buchständer an hervorgehobener Stelle auf, enthält vielfältige Schreibmaterialien und ist gut beleuchtet.
->
-> **Unterrichten:** Das Labor ist in der Regel komfortabel eingerichtet, mit einem fest bestimmten Platz für Meister und Schüler, etwa einem Schreibpult vor einem Lehrerpult.
->
-> **Vertrauter:** Ein solches Labor ähnelt oft einem Labor mit Spezialisierung in Animal. Es verfügt wahrscheinlich über eine Art Gehege oder Unterkunft für einen Vertrauten an hervorgehobener Stelle.
->
 > **Vim:** Eine solche Spezialisierung ist in der Regel schwer zu erkennen, da es kein charakteristisches Erscheinungsbild gibt — abgesehen vielleicht von einer insgesamt erhöhten Komplexität.
-> **Vis-Gewinnung:** Ein solches Labor besitzt oft eine Art Mess- oder Raffiniervorrichtung, etwa eine aufwändige Destillieranlage, sowie zahlreiche Behälter für Vis.
->
-> **Zauber:** Diese Spezialisierung ist meist nicht auf den ersten Blick erkennbar, da sich das Labor nur in feinen Nuancen von der Norm unterscheidet. Es könnte einen großen freien Bereich aufweisen, etwa einen Beschwörungskreis, in dem Zauber erprobt werden.
->
 
 #### Baupunktkosten für Ausgangslaboratorien
 
@@ -16564,6 +16564,18 @@ Bei einem Verzerrungswert von 6 und jedem weiteren Punkt danach erhält der Char
 
 Charaktere beginnen im Winter nach ihrem 35. Geburtstag zu altern. Jedes Jahr muss ein Charakter einen Alterungswurf ablegen.
 
+**ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufrunden)**
+**– Modifikator der Lebensumstände**
+**– Modifikator des Langlebigkeitsrituals**
+
+Da ein hoher Wurf in der Regel gravierendere Altersfolgen bedeutet, wirken sich sowohl ein hoher Langlebigkeitsritual-Modifikator als auch ein hoher Lebensumstände-Modifikator positiv auf die Lebenserwartung aus.
+
+Ein Langlebigkeitsritual bleibt wirksam, bis der Charakter eine Krise erleidet. Wenn die Krise eintritt, stellt das Ritual sicher, dass der Charakter überlebt, aber seine Kraft ist erschöpft, und das Langlebigkeitsritual selbst muss erneut durchgeführt werden (siehe [Seite 261](#langlebigkeitsrituale)).
+
+Ein Charakter unter dem Einfluss eines Langlebigkeitsrituals muss die Tabelle unabhängig von seinem Alter würfeln, behandelt aber alle Würfe von 10 oder mehr als Würfe von 9, bis er das Alter von 35 erreicht. Sein scheinbares Alter kann jünger sein als sein tatsächliches Alter, aber er ist zu diesem Zeitpunkt nicht gefährdet zu altern, tatsächlich früher als andere Charaktere. Nach Ermessen des Spielers und des Spielleiters kann dies auch für Charaktere gelten, die aus anderen Quellen Modifikatoren auf den Alterungswurf erhalten.
+
+**Scheinbares Alter erhöht sich:** Besonders niedrige Würfelwürfe auf der Tabelle bedeuten, dass der Charakter nicht älter wirkt. Andernfalls erhöht sich das scheinbare Alter des Charakters um ein Jahr. Der Modifikator für Würfe hängt vom tatsächlichen, nicht vom scheinbaren Alter des Charakters ab.
+
 **Alterungspunkte:** In jeder Charakteristik werden Alterungspunkte angesammelt. Sobald die Anzahl der Alterungspunkte eines Charakters den absoluten Wert der betreffenden Charakteristik übersteigt, sinkt die Charakteristik um einen Punkt und alle Alterungspunkte gehen verloren.
 
 | Lebensumstände                                        | Modifikator |
@@ -16602,7 +16614,6 @@ Ein Charakter mit einer Kommunikation von +2 sinkt also auf +1 in dem Jahr, in d
 
 Wenn ein Alterungspunkt „in einer beliebigen Charakteristik" gewonnen wird, darf der Spieler die Charakteristik selbst wählen.
 
-**ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufrunden)**
 **Gebrechlichkeit:** Jeder Alterungspunkt zählt auch als Erfahrungspunkt für die Gebrechlichkeit, die wie eine Fertigkeit ansteigt. Ein Charakter, der siebzehn Alterungspunkte angesammelt hat, besitzt daher einen Gebrechlichkeitswert von 2. Charaktere mit einem Gebrechlichkeitswert von 4 sind äußerst hinfällig und müssen auf der Krisentabelle würfeln, wenn sie anstrengende Tätigkeiten unternehmen, etwa lange Reisen oder jede Art von Kampf. Charaktere mit einem Gebrechlichkeitswert von 5 sind bettlägerig und sterben innerhalb weniger Monate, spätestens. Sie können durch sterbliche Eingriffe nicht mehr gerettet werden.
 
 **Krise:** Zuerst wird der Gebrechlichkeitswert des Charakters erhöht, dann wird auf der Krisentabelle gewürfelt.
@@ -16627,17 +16638,6 @@ Tugenden, die Alterungswürfe beeinflussen, wirken sich nicht auf Überlebenswü
 Creo-Corpus-Magie kann eine Krise aufschieben oder beheben, wenn sie als Momentan-Ritual gewirkt wird. Die benötigte Zauberstufe hängt von der Schwere der Krise ab, wie in der Tabelle angegeben. Zu beachten ist, dass Magie, die eine schwere oder noch schlimmere Krise behebt, mächtig genug ist, um Verzerrung zu verursachen.
 
 Ein Charakter, der eine Krise übersteht – auch mithilfe von Magie –, benötigt den Rest des Quartals zur vollständigen Erholung und kann daher keine weiteren Aktivitäten unternehmen.
-
-**– Modifikator der Lebensumstände**
-**– Modifikator des Langlebigkeitsrituals**
-
-Da ein hoher Wurf in der Regel gravierendere Altersfolgen bedeutet, wirken sich sowohl ein hoher Langlebigkeitsritual-Modifikator als auch ein hoher Lebensumstände-Modifikator positiv auf die Lebenserwartung aus.
-
-Ein Langlebigkeitsritual bleibt wirksam, bis der Charakter eine Krise erleidet. Wenn die Krise eintritt, stellt das Ritual sicher, dass der Charakter überlebt, aber seine Kraft ist erschöpft, und das Langlebigkeitsritual selbst muss erneut durchgeführt werden (siehe [Seite 261](#langlebigkeitsrituale)).
-
-Ein Charakter unter dem Einfluss eines Langlebigkeitsrituals muss die Tabelle unabhängig von seinem Alter würfeln, behandelt aber alle Würfe von 10 oder mehr als Würfe von 9, bis er das Alter von 35 erreicht. Sein scheinbares Alter kann jünger sein als sein tatsächliches Alter, aber er ist zu diesem Zeitpunkt nicht gefährdet zu altern, tatsächlich früher als andere Charaktere. Nach Ermessen des Spielers und des Spielleiters kann dies auch für Charaktere gelten, die aus anderen Quellen Modifikatoren auf den Alterungswurf erhalten.
-
-**Scheinbares Alter erhöht sich:** Besonders niedrige Würfelwürfe auf der Tabelle bedeuten, dass der Charakter nicht älter wirkt. Andernfalls erhöht sich das scheinbare Alter des Charakters um ein Jahr. Der Modifikator für Würfe hängt vom tatsächlichen, nicht vom scheinbaren Alter des Charakters ab.
 
 ---
 
@@ -17265,10 +17265,10 @@ Ausführlichere Regeln zu Krankheiten sind in *Kunst & Gelehrsamkeit*, Seiten 45
 
 | Krankheit           | Überschuss-Saft | Symptome                                                                       |
 | ------------------- | --------------- | ------------------------------------------------------------------------------ |
-| Quotidianfieber     | Blut            | anhaltendes Fieber., Hohes Fieber, rote Verfärbung |
-| Fluss               | Schleim         | Durchfall, feuchter Husten., Frösteln, laufende Nase |
-| Stockung            | Schwarze Galle  | dunkle Verfärbung, Frösteln, trockener Husten, Verstopfung. |
-| Quartanfieber       | Gelbe Galle     | Fieber in Viertagesschüben., gelbliche Verfärbung, Hohes Fieber, trockener Husten |
+| Quotidianfieber     | Blut            | Hohes Fieber, rote Verfärbung, anhaltendes Fieber.                             |
+| Fluss               | Schleim         | Frösteln, Durchfall, laufende Nase, feuchter Husten.                           |
+| Stockung            | Schwarze Galle  | Frösteln, dunkle Verfärbung, trockener Husten, Verstopfung.                    |
+| Quartanfieber       | Gelbe Galle     | Hohes Fieber, gelbliche Verfärbung, trockener Husten, Fieber in Viertagesschüben. |
 
 #### Gifte
 
@@ -17835,18 +17835,18 @@ Jede Größenkategorie ist ungefähr doppelt so schwer wie die vorherige. Ein Un
 | –15   | 2,5 cm und kl.| unter 30 g       | Insekt                                                                                 |
 | –10   | 10–13 cm      | ca. 30 g         | Elritze, Maus                                                                          |
 | –9    | 15–18 cm      | ca. 45 g         | Fledermaus, Frosch                                                                     |
-| –8    | 20–23 cm      | 110–225 g        | Kröte, Maulwurf, Salamander |
+| –8    | 20–23 cm      | 110–225 g        | Maulwurf, Salamander, Kröte                                                            |
 | –7    | 25–28 cm      | 225–450 g        | Ratte, Wiesel                                                                          |
-| –6    | 30–33 cm      | 450 g–1 kg       | Drossel, Eidechse, Hermelin |
-| –5    | 35–38 cm      | 1–2,5 kg         | Aal, Igel, Iltis, Kaninchen, Kuckuck, Rebhuhn, Ringelnatter, Taube |
-| –4    | 40–50 cm      | 2,5–5 kg         | Elster, Eule, Hahn, Krähe, Kreuzotter, Oktopus, Rabe |
-| –3    | 53–80 cm      | 5–10 kg          | Dachs, Ente, Falke, Fischadler, Hase, Hecht, Karpfen, Katze, Möwe, Otter, Säugling |
-| –2    | 85 cm–1,15 m  | 10–21 kg         | Adler, Biber, Birkhuhn, Fuchs, Gans, Hund, Kind, Lachs, Reh, Reiher |
-| –1    | 1,15–1,45 m   | 21–45 kg         | Affe, Gazelle, Heranwachsender, Kranich, Luchs, Schaf, Schwan, Storch, Wolf, Ziege |
-| 0     | 1,45–1,90 m   | 45–100 kg        | Antilope, Delfin, Erwachsener Mensch, Hirschkuh, Schwein, Wildschwein |
-| +1    | 1,90–2,45 m   | 100–210 kg       | Damhirsch, Pony, Robbe, Steinbock |
-| +2    | 2,45–3,05 m   | 210–450 kg       | Bär, Löwe, Pferd, Rothirsch |
-| +3    | 3,05–4,00 m   | 450 kg–1 t       | Auerochse, Elch, Hai, Schlachtross, Walross |
+| –6    | 30–33 cm      | 450 g–1 kg       | Eidechse, Hermelin, Drossel                                                            |
+| –5    | 35–38 cm      | 1–2,5 kg         | Kuckuck, Taube, Aal, Iltis, Ringelnatter, Igel, Rebhuhn, Kaninchen                    |
+| –4    | 40–50 cm      | 2,5–5 kg         | Kreuzotter, Hahn, Krähe, Elster, Oktopus, Eule, Rabe                                  |
+| –3    | 53–80 cm      | 5–10 kg          | Dachs, Karpfen, Katze, Ente, Falke, Möwe, Hase, Säugling, Fischadler, Otter, Hecht   |
+| –2    | 85 cm–1,15 m  | 10–21 kg         | Biber, Hund, Adler, Fuchs, Gans, Birkhuhn, Reiher, Kind, Reh, Lachs                  |
+| –1    | 1,15–1,45 m   | 21–45 kg         | Heranwachsender, Affe, Kranich, Gazelle, Luchs, Schaf, Storch, Schwan, Ziege, Wolf   |
+| 0     | 1,45–1,90 m   | 45–100 kg        | Erwachsener Mensch, Antilope, Wildschwein, Hirschkuh, Delfin, Schwein                 |
+| +1    | 1,90–2,45 m   | 100–210 kg       | Damhirsch, Steinbock, Pony, Robbe                                                      |
+| +2    | 2,45–3,05 m   | 210–450 kg       | Bär, Pferd, Löwe, Rothirsch                                                            |
+| +3    | 3,05–4,00 m   | 450 kg–1 t       | Auerochse, Elch, Hai, Walross, Schlachtross                                            |
 | +4    | 4,00–5,20 m   | 1–2,1 t          | Elefant                                                                                |
 | +5    | 5,20–6,70 m   | 2,3–4,5 t        | Schwertwal                                                                             |
 | +6    | 6,70–8,55 m   | 4,5–9,5 t        | —                                                                                      |
@@ -18437,10 +18437,10 @@ Alle Kreaturen verfügen über folgende Fertigkeiten:
 
 | Typ           | Fertigkeiten                                                                                               |
 | ------------- | ---------------------------------------------------------------------------------------------------------- |
-| Klauenwesen   | Athletik 3 (Laufen), Aufmerksamkeit 3 (Nahrung), Raufen 3 (Biss oder Klaue), Überleben 3 (heimisches Terrain) |
-| Huftier       | Athletik 4 (Laufen), Aufmerksamkeit 3 (Raubtiere), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain) |
-| Vogel         | Athletik 3 (Fliegen), Aufmerksamkeit 4 (Nahrung), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain) |
-| Fisch         | Aufmerksamkeit 2 (Nahrung), Raufen 2 (Ausweichen), Schwimmen 5 (heimisches Terrain), Überleben 3 (heimisches Terrain) |
+| Klauenwesen   | Aufmerksamkeit 3 (Nahrung), Athletik 3 (Laufen), Raufen 3 (Biss oder Klaue), Überleben 3 (heimisches Terrain) |
+| Huftier       | Aufmerksamkeit 3 (Raubtiere), Athletik 4 (Laufen), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain)     |
+| Vogel         | Aufmerksamkeit 4 (Nahrung), Athletik 3 (Fliegen), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain)      |
+| Fisch         | Aufmerksamkeit 2 (Nahrung), Raufen 2 (Ausweichen), Überleben 3 (heimisches Terrain), Schwimmen 5 (heimisches Terrain) |
 
 Eigenschaften (siehe unten) können dieser Liste weitere Fertigkeiten hinzufügen. Tiere (zumindest solche mit Schlauheit statt Intelligenz) können keine Erfahrungspunkte sammeln, um ihre Fertigkeiten nach dem Erwachsenwerden zu verbessern, noch können sie neue Fertigkeiten erlernen. Allerdings kann ein intelligentes Wesen einem gezähmten Tier Unterrichtserfahrungspunkte geben, indem es Tierumgang statt Unterrichten verwendet; diese Punkte können auf vorhandene Fertigkeiten oder denkbare neue Fertigkeiten angewendet werden.
 
@@ -22208,11 +22208,11 @@ Als dritte Möglichkeit kann die Magie erstarken – entweder im Gegensatz zu de
 >
 > Die angemessene Vis-Menge ist stark saga-abhängig, und es gibt keinen „richtigen" Weg. Die folgenden Zahlen sind lediglich als Richtwerte zu verstehen.
 >
+> **Wenig Vis:** Bis zu 5 Bauern pro Magus und Jahr. Das Studium aus Vis ist sehr selten, und die Steigerung der Penetration von Zaubern durch Vis kommt so gut wie nie vor. Nur notwendige Rituale werden gewirkt, und verzauberte Gegenstände sind selten.
+>
 > **Mäßig Vis:** Etwa 10 Bauern pro Magus und Jahr. Das Studium aus Vis ist verbreitet, obwohl Bücher nach wie vor bevorzugt werden. Verzauberte Gegenstände können vergleichsweise einfach hergestellt werden; die Hauptsorge gilt der richtigen Art von Vis, nicht der Menge. Rituale können gewirkt werden, wenn sie nützlich sind, und in Ausnahmesituationen greifen die Magi möglicherweise auf Vis zurück, um die Penetration ihrer Zauber zu steigern.
 >
 > **Viel Vis:** Etwa 20 Bauern pro Magus und Jahr. Die Magi können nahezu alles tun, was Vis erfordert. Für die meisten Sagas ist dies wahrscheinlich zu viel Vis.
->
-> **Wenig Vis:** Bis zu 5 Bauern pro Magus und Jahr. Das Studium aus Vis ist sehr selten, und die Steigerung der Penetration von Zaubern durch Vis kommt so gut wie nie vor. Nur notwendige Rituale werden gewirkt, und verzauberte Gegenstände sind selten.
 >
 > Bücher gibt es ebenfalls in zwei Arten: Summae und Tractatus. Die Analogie geht weiter als es zunächst scheint: Da ein Tractatus von einem bestimmten Charakter nur einmal studiert werden kann, lässt sich der Effekt recht zuverlässig abschätzen. Wer die Machtentwicklung der Charaktere bremsen möchte, sollte die Anzahl der Summae im Konvent begrenzen und dafür sorgen, dass sich kein großer Vorrat an Tractatus ansammelt, den noch niemand studiert hat. Zudem empfiehlt es sich, den Nachschub an Büchern einzuschränken, sobald die Künste eines Magus ein Niveau erreicht haben, das dem Spielleiter zu hoch erscheint. Der Magus kann weiterhin Zauber erfinden oder andere Künste erlernen – das verschafft Zeit, sich an das neue Machtniveau zu gewöhnen.
 >
@@ -23478,13 +23478,6 @@ Verketteter Auslöser: +3 Stufen
 | 11     | Veränderter Effekt                            |
 | 12+    | Zweimal erneut auf dieser Tafel würfeln.      |
 
-**Besonderes oder handlungsbezogenes Ereignis:** Der Spielleiter wählt eine der folgenden Optionen.
-
-- Das Erstellte benötigt zusätzliches rohes Vis. Der Magus muss eine Anzahl zusätzlicher Bauern Vis ausgeben, die zur Technik oder Form des Projekts passen, in Höhe der Magnitude des Effekts (einschließlich Veränderungen) zuzüglich des Risikomodifikators. Kann er dies nicht tun — weil er nicht über das Vis verfügt oder weil er nicht genug Vis in einem einzigen Quartal verarbeiten kann — wird das Ergebnis als Vollständiges Scheitern gewertet.
-- Der Magus erschafft außerdem einen Zauber mit derselben Technik und Form wie das Projekt, auf jeder Stufe, die er in einem einzigen Quartal erschaffen könnte. Der Zauber wird vom Spielleiter oder der Spieltruppe gestaltet und muss keine offensichtliche Verbindung zum Projekt haben. Der Magus kennt ihn und kann den Labortext wie üblich aufzeichnen, sodass auch andere Magi ihn erschaffen können. Es ist einfacher, wenn dieser Zauber allen Regeln der Hermetischen Magie folgt, aber das ist nicht zwingend erforderlich, wenn die Spieltruppe mit den Komplikationen einverstanden ist. Für das Hauptprojekt gilt dies als Keine außergewöhnlichen Effekte.
-- Das Erstellte wird auf eine Weise verändert, die nicht zwangsläufig unter die Kategorien Nebeneffekt oder Veränderter Effekt fällt, obwohl dies möglich ist. Dies erlaubt dem Spielleiter, jede Art von übernatürlichem Effekt einzuführen — das Erstellte könnte sogar stark von einer anderen Sphäre beeinflusst werden. Das Ergebnis kann aus Sicht des Magus positiv oder negativ sein, sollte aber für die Spieltruppe interessant sein.
-- Ein handlungsbezogenes Ereignis tritt ein. Dieses kann beliebig gestaltet sein; es könnte genutzt werden, um eine wichtige Handlungslinie einzuführen oder als kurze, amüsante Ablenkung. Es muss nicht sofort eintreten — die unkontrollierte Magie könnte etwas in Gang setzen oder erst beim Einsatz des Erstellten in einem bestimmten Kontext auftreten. Das Ereignis kann grundsätzlich positiv sein: Der Magus könnte zum Beispiel die Aufmerksamkeit eines möglichen Vertrauten auf sich ziehen. Sofern das Ereignis nichts anderes verlangt, gilt für das Projekt selbst Keine außergewöhnlichen Effekte.
-
 **Desaster:** Das Experiment schlägt kläglich fehl. Die folgende Tabelle zeigt das Ergebnis in Abhängigkeit von der Anzahl der gewürfelten Nullen auf den Patzerwürfeln. Die Auswirkung für die gewürfelte Anzahl und alle niedrigeren Werte wird erlitten, sofern nicht ausdrücklich anders angegeben. Zum Beispiel verursacht eine Explosion (3) auch die Vernichtung des Erstellten und fügt dem Magus Verzerrungspunkte zu.
 
 | Nullen | Ergebnis |
@@ -23494,18 +23487,6 @@ Verketteter Auslöser: +3 Stufen
 | 3      | Das Labor erhält den Fehler Beschädigt. |
 | 4      | Explosion! Das Labor erhält den Fehler Verwüstet (statt Beschädigt), und alle im Labor erleiden zwei Schwere Wunden. |
 | 5+     | Der Spielleiter wählt eine der folgenden Optionen: (1) Ein handlungsbezogenes Ereignis bedroht den gesamten Konvent — unmittelbar oder als anhaltende Nachwirkung unkontrollierter Magie. (2) Die Explosion zerstört das Labor vollständig — das Bauwerk erhält die Fehler Verformt und Instabil, muss von Grund auf neu errichtet werden, und alle Anwesenden erleiden zusätzlich eine Lähmende Wunde. |
-
-**Entdeckung:** Einen einfachen Würfel werfen und den Risikomodifikator hinzurechnen. Wenn Arkanes Experimentieren betrieben wird (siehe *ArMDE* [S. 277](#der-durchbruch)), wird eine Entdeckung gemacht, die das Projekt voranbringt, und diese Tabelle wird ignoriert.
-
-| Wurf  | Ergebnis |
-| ----- | -------- |
-| 1–4   | 15 Erfahrungspunkte in Magietheorie werden gewonnen. |
-| 5–6   | 15 Erfahrungspunkte in einer zum Experiment passenden Fertigkeit werden gewonnen. |
-| 7–8   | Drei Erfahrungspunkte in einer der im Experiment verwendeten Künste werden gewonnen. |
-| 9     | Genug Erfahrungspunkte werden gewonnen, um eine der im Experiment verwendeten Künste auf die nächste Stufe zu bringen (oder drei Erfahrungspunkte, je nachdem, was mehr ist). |
-| 10+   | Zweimal würfeln und dieses Ergebnis erneut würfeln, wenn es nochmals auftritt. |
-
-**Kein Nutzen:** Das Experimentieren erzielt kein Ergebnis. Der Vorteil des zusätzlichen Würfels und des Risikomodifikators entfällt — die Laborsumme ohne diese Modifikatoren neu berechnen. Ist die neue Laborsumme zu niedrig, um das Projekt abzuschließen, muss es aufgegeben werden.
 
 **Keine außergewöhnlichen Effekte:** Das Experiment funktioniert, ohne unbeabsichtigte Auswirkungen zu erzeugen.
 
@@ -23522,6 +23503,27 @@ Verketteter Auslöser: +3 Stufen
 | 9     | Der Zauber hat einen großen Nebennutzen. Zum Beispiel könnte ein Zauber, der einen in einen Wolf verwandelt, auch die Kommunikation mit allen Tieren ermöglichen, solange man ein Wolf ist. |
 | 10    | Der Zauber hat einen fatalen Makel. Zum Beispiel könnte ein Unsichtbarkeitszauber dazu führen, dass man leuchtet. |
 
+**Kein Nutzen:** Das Experimentieren erzielt kein Ergebnis. Der Vorteil des zusätzlichen Würfels und des Risikomodifikators entfällt — die Laborsumme ohne diese Modifikatoren neu berechnen. Ist die neue Laborsumme zu niedrig, um das Projekt abzuschließen, muss es aufgegeben werden.
+
+**Vollständiges Scheitern:** Die Bemühungen bleiben erfolglos, und das Quartal ist verschwendet. Bei einem Vertrauten oder einem verzauberten Gegenstand einen einfachen Würfel werfen. Bei einer 0 wird er vernichtet.
+
+**Besonderes oder handlungsbezogenes Ereignis:** Der Spielleiter wählt eine der folgenden Optionen.
+
+- Das Erstellte benötigt zusätzliches rohes Vis. Der Magus muss eine Anzahl zusätzlicher Bauern Vis ausgeben, die zur Technik oder Form des Projekts passen, in Höhe der Magnitude des Effekts (einschließlich Veränderungen) zuzüglich des Risikomodifikators. Kann er dies nicht tun — weil er nicht über das Vis verfügt oder weil er nicht genug Vis in einem einzigen Quartal verarbeiten kann — wird das Ergebnis als Vollständiges Scheitern gewertet.
+- Der Magus erschafft außerdem einen Zauber mit derselben Technik und Form wie das Projekt, auf jeder Stufe, die er in einem einzigen Quartal erschaffen könnte. Der Zauber wird vom Spielleiter oder der Spieltruppe gestaltet und muss keine offensichtliche Verbindung zum Projekt haben. Der Magus kennt ihn und kann den Labortext wie üblich aufzeichnen, sodass auch andere Magi ihn erschaffen können. Es ist einfacher, wenn dieser Zauber allen Regeln der Hermetischen Magie folgt, aber das ist nicht zwingend erforderlich, wenn die Spieltruppe mit den Komplikationen einverstanden ist. Für das Hauptprojekt gilt dies als Keine außergewöhnlichen Effekte.
+- Das Erstellte wird auf eine Weise verändert, die nicht zwangsläufig unter die Kategorien Nebeneffekt oder Veränderter Effekt fällt, obwohl dies möglich ist. Dies erlaubt dem Spielleiter, jede Art von übernatürlichem Effekt einzuführen — das Erstellte könnte sogar stark von einer anderen Sphäre beeinflusst werden. Das Ergebnis kann aus Sicht des Magus positiv oder negativ sein, sollte aber für die Spieltruppe interessant sein.
+- Ein handlungsbezogenes Ereignis tritt ein. Dieses kann beliebig gestaltet sein; es könnte genutzt werden, um eine wichtige Handlungslinie einzuführen oder als kurze, amüsante Ablenkung. Es muss nicht sofort eintreten — die unkontrollierte Magie könnte etwas in Gang setzen oder erst beim Einsatz des Erstellten in einem bestimmten Kontext auftreten. Das Ereignis kann grundsätzlich positiv sein: Der Magus könnte zum Beispiel die Aufmerksamkeit eines möglichen Vertrauten auf sich ziehen. Sofern das Ereignis nichts anderes verlangt, gilt für das Projekt selbst Keine außergewöhnlichen Effekte.
+
+**Entdeckung:** Einen einfachen Würfel werfen und den Risikomodifikator hinzurechnen. Wenn Arkanes Experimentieren betrieben wird (siehe *ArMDE* [S. 277](#der-durchbruch)), wird eine Entdeckung gemacht, die das Projekt voranbringt, und diese Tabelle wird ignoriert.
+
+| Wurf  | Ergebnis |
+| ----- | -------- |
+| 1–4   | 15 Erfahrungspunkte in Magietheorie werden gewonnen. |
+| 5–6   | 15 Erfahrungspunkte in einer zum Experiment passenden Fertigkeit werden gewonnen. |
+| 7–8   | Drei Erfahrungspunkte in einer der im Experiment verwendeten Künste werden gewonnen. |
+| 9     | Genug Erfahrungspunkte werden gewonnen, um eine der im Experiment verwendeten Künste auf die nächste Stufe zu bringen (oder drei Erfahrungspunkte, je nachdem, was mehr ist). |
+| 10+   | Zweimal würfeln und dieses Ergebnis erneut würfeln, wenn es nochmals auftritt. |
+
 **Veränderter Effekt:** Einen einfachen Würfel werfen und den Risikomodifikator hinzurechnen. Bei der Untersuchung eines Zaubergegenstands wurden eine oder mehrere seiner Wirkungen verändert.
 
 | Wurf   | Ergebnis |
@@ -23531,8 +23533,6 @@ Verketteter Auslöser: +3 Stufen
 | 7–8    | Die Anwendung des Zaubers oder Effekts wird eingeschränkt. Zum Beispiel funktioniert er unter bestimmten Umständen nicht, etwa bei Regen. |
 | 9–10   | Die eigentliche Wirkung des Experiments wird verändert. Zum Beispiel könnte ein Zauber wie Circes Fluch das Ziel in eine Ziege statt in ein Schwein verwandeln. |
 | 11+    | Die eigentliche Wirkung des Experiments ändert sich vollständig, wobei jedoch Technik und Form unverändert bleiben und die Stufe ähnlich bleibt. |
-
-**Vollständiges Scheitern:** Die Bemühungen bleiben erfolglos, und das Quartal ist verschwendet. Bei einem Vertrauten oder einem verzauberten Gegenstand einen einfachen Würfel werfen. Bei einer 0 wird er vernichtet.
 
 #### Schwierigkeitsgrade für das Erschaffen und Herstellen von Gegenständen
 

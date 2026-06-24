@@ -556,6 +556,12 @@ def sort_bold_blocks(lines, section_start, section_end):
 
     stats["entries"] = len(blocks)
 
+    total_separators = 0
+    for blk in blocks:
+        while len(blk) > 1 and blk[-1].strip() == "":
+            blk.pop()
+            total_separators += 1
+
     sorted_blocks = sorted(blocks, key=lambda b: sort_key_german(_bold_name(b[0])))
     if sorted_blocks != blocks:
         stats["reordered"] = sum(
@@ -563,8 +569,14 @@ def sort_bold_blocks(lines, section_start, section_end):
         )
 
     result = list(preamble)
-    for block in sorted_blocks:
+    separators_used = 0
+    for idx, block in enumerate(sorted_blocks):
         result.extend(block)
+        if idx < len(sorted_blocks) - 1 and separators_used < total_separators:
+            result.append("\n")
+            separators_used += 1
+    for _ in range(total_separators - separators_used):
+        result.append("\n")
     result.extend(trailing)
     if postamble_start > 0 and postamble_start < len(section):
         result.extend(section[postamble_start:])

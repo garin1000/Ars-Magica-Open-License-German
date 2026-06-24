@@ -61,7 +61,7 @@
     {
       "heading": "## Was sind Dämonen?",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "8 Fetteinträge",
       "subheading": "### Dämonische Eigenschaften"
     },
@@ -97,7 +97,7 @@
     {
       "heading": "## Dämonen in der Saga verwenden",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "27 H4-Blöcke",
       "subheading": "### Die Rolle der Dämonen"
     },
@@ -123,7 +123,7 @@
     {
       "heading": "## Befleckte Tugenden und Fehler",
       "type": "desc_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "34 H4-Blöcke",
       "subheading": "### Neue Tugenden"
     },
@@ -149,7 +149,7 @@
     {
       "heading": "## Neue Fertigkeiten",
       "type": "table",
-      "enabled": true,
+      "enabled": false,
       "note": "9 Tabellenzeilen"
     },
     {
@@ -232,7 +232,7 @@
     {
       "heading": "## Dämonenjäger",
       "type": "bold_blocks",
-      "enabled": true,
+      "enabled": false,
       "note": "11 Fetteinträge",
       "subheading": "### Apotropäische Zauber"
     },
