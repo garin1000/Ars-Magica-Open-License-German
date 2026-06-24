@@ -68,7 +68,7 @@ DIGITALE VERSION 1.0
 &nbsp;[Vis](#vis-2)<br>
 [ERSCHAFFUNG VON HECKENCHARAKTEREN](#erschaffung-von-heckencharakteren)<br>
 &nbsp;[Magi, Gefährten oder Grogs?](#magi-gefährten-oder-grogs)<br>
-&nbsp;[Häufige Heckentugenden und -fehler](#häufige-heckentugenden-und-fehler)<br>
+&nbsp;[Häufige Heckentugenden und -fehler](#häufige-heckentugenden-und--fehler)<br>
 &nbsp;[Häufige Heckenfertigkeiten](#häufige-heckenfertigkeiten)<br>
 &nbsp;[Erwerb von Heckenzauberer-Kräften](#erwerb-von-heckenzauberer-kräften)<br>
 &nbsp;[Integration von Heckenzauber](#integration-von-heckenzauber)<br>

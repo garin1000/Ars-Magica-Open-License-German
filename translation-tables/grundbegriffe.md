@@ -667,7 +667,7 @@
 | House Acclaim Points | Haus-Ansehenspunkte | Punkte, die den Rang innerhalb des Hauses bestimmen |
 | House Utilities | Einrichtungen des Hauses | Sammelbegriff für Ressourcen und Mechaniken eines Hauses |
 | Life Boost | Lebensstärkung | Beispiel-Durchbruch der Hermetischen Integration |
-| Mastered Spell Special Abilities | Spezialfähigkeiten gemeisterter Zauber | Zusätzliche Fähigkeiten durch Zaubermeisterschaft |
+| Mastered Spell Special Abilities | Besondere Fähigkeiten gemeisterter Zauber | Überschrift: „Besondere Fähigkeiten der Zaubermeisterschaft"; Kurzform im Fließtext: „Meisterschaftsfähigkeit(en)"; NICHT „Sonderfertigkeit" oder „Spezialfähigkeit" |
 | Parma Magica Folds | Parma-Magica-Faltungen | Neue Anwendungsweisen der Parma Magica; jede ein Großer Durchbruch |
 | Risk Modifier | Risikomodifikator | +1 bis +3; beeinflusst Tabellenwurf bei Originärer Forschung |
 | Stabilize (a Discovery) | Stabilisieren (einer Entdeckung) | Exakte Wiederholung eines Experiments nach einer Entdeckung |

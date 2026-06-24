@@ -242,7 +242,7 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 >
 >[Eine Aura ausrichten](#eine-aura-ausrichten)
 >
->[Konventsvorzüge und -haken](#konventsvorzüge-und-haken)
+>[Konventsvorzüge und -haken](#konventsvorzüge-und--haken)
 >
 >[ABENTEUERIDEE: Der hartnäckige Sommer](#abenteueridee-der-hartnäckige-sommer)
 >
@@ -404,9 +404,9 @@ Copyright 2011 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 >
 >[Tugendobjekte](#tugendobjekte)
 >
->[Form- und Materialboni für Tugendkräuter](#form-und-materialboni-für-tugendkräuter)
+>[Form- und Materialboni für Tugendkräuter](#form--und-materialboni-für-tugendkräuter)
 >
->[Form- und Materialboni für Tugendobjekte](#form-und-materialboni-für-tugendobjekte)
+>[Form- und Materialboni für Tugendobjekte](#form--und-materialboni-für-tugendobjekte)
 >
 >[Belebte Bäume](#belebte-bäume)
 >

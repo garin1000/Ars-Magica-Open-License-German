@@ -66,7 +66,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;[Beitritt zum Haus Flambeau](#beitritt-zum-haus-flambeau)<br>
 &emsp;&emsp;[Societas Flambonis: Die Milites](#societas-flambonis-die-milites)<br>
 &emsp;&emsp;[Societas Flambonis: Der Kult des Merkur](#societas-flambonis-der-kult-des-merkur)<br>
-&emsp;&emsp;[Societas Flambonis: Die Milites](#societas-flambonis-die-milites)<br>
+&emsp;&emsp;[Societas Flambonis: Die Mithräer](#societas-flambonis-die-mithräer)<br>
 &emsp;[Flambeau-Konzepte](#flambeau-konzepte)<br>
 &emsp;&emsp;[Hopliten](#hopliten)<br>
 &emsp;&emsp;[Kreuzfahrer](#kreuzfahrer)<br>
@@ -80,7 +80,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;[Certamen](#certamen)<br>
 &emsp;&emsp;[Dimicatio](#dimicatio)<br>
 &emsp;&emsp;[Buhurt der Magier](#buhurt-der-magier)<br>
-&emsp;&emsp;[Spezialherausforderungen](#spezialherausforderungen)<br>
+&emsp;&emsp;[Besondere Herausforderungen](#besondere-herausforderungen)<br>
 &emsp;&emsp;[Unterhaltung und Nebenwettbewerbe](#unterhaltung-und-nebenwettbewerbe)<br>
 &emsp;[Krieg der Zauberer](#krieg-der-zauberer)<br>
 &emsp;&emsp;[Der Krieg der Zauberer und der Orden](#der-krieg-der-zauberer-und-der-orden)<br>
@@ -106,7 +106,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;&emsp;[Unsichtbarkeit und Gruppenkampf](#unsichtbarkeit-und-gruppenkampf)<br>
 &emsp;&emsp;[Neue Magieregeln](#neue-magieregeln)<br>
 &emsp;&emsp;&emsp;[Effektmodifikation für verzauberte Gegenstände](#effektmodifikation-für-verzauberte-gegenstände)<br>
-&emsp;&emsp;&emsp;[Zaubermeisterschafts-Sonderfähigkeiten](#zaubermeisterschafts-sonderfähigkeiten)<br>
+&emsp;&emsp;&emsp;[Besondere Fähigkeiten der Zaubermeisterschaft](#besondere-fähigkeiten-der-zaubermeisterschaft)<br>
 &emsp;&emsp;&emsp;[Neue Zauber](#neue-zauber-1)<br>
 
 **[Kapitel Zwei: Haus Jerbiton](#kapitel-zwei-haus-jerbiton)**<br>
@@ -140,7 +140,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;[Tiere](#tiere)<br>
 &emsp;&emsp;[Etikette](#etikette)<br>
 &emsp;&emsp;[Individuelle Darbietung](#individuelle-darbietung)<br>
-&emsp;&emsp;[Unterhaltung und Nebenwettbewerbe](#unterhaltung-und-nebenwettbewerbe)<br>
+&emsp;&emsp;[Kompetitiv](#kompetitiv)<br>
 &emsp;&emsp;[Kollaborativ](#kollaborativ)<br>
 &emsp;&emsp;[Geld und gute Manieren](#geld-und-gute-manieren)<br>
 &emsp;&emsp;[Hermetische Höflichkeit und Gastfreundschaft](#hermetische-höflichkeit-und-gastfreundschaft)<br>
@@ -342,8 +342,8 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;&emsp;[Magie](#magie-1)<br>
 &emsp;&emsp;&emsp;[Weitere magische Interessen](#weitere-magische-interessen)<br>
 &emsp;&emsp;&emsp;[Neue Zauber](#neue-zauber-1)<br>
-&emsp;&emsp;&emsp;[Neue Zaubermeisterschafts-Sonderfertigkeit: Entwirren](#neue-zaubermeisterschafts-sonderfertigkeit-entwirren)<br>
-&emsp;&emsp;&emsp;[Neue Zaubermeisterschafts-Sonderfertigkeit: Erwiderung](#neue-zaubermeisterschafts-sonderfertigkeit-erwiderung)<br>
+&emsp;&emsp;&emsp;[Neue besondere Meisterschaftsfähigkeit: Entwirren](#neue-besondere-meisterschaftsfähigkeit-entwirren)<br>
+&emsp;&emsp;&emsp;[Neue besondere Meisterschaftsfähigkeit: Erwiderung](#neue-besondere-meisterschaftsfähigkeit-erwiderung)<br>
 &emsp;&emsp;[Rustikale Magi](#rustikale-magi)<br>
 &emsp;&emsp;&emsp;[Eckdaten](#eckdaten-10)<br>
 &emsp;&emsp;&emsp;[Geschichte](#geschichte-10)<br>
@@ -797,7 +797,7 @@ Merkurische Riten haben die Bräuche des Ordens des Hermes stark beeinflusst. Vi
 > 
 > **Empfohlene Fehler:** Starre Magie, Schwache Spontane Magie, Heide (siehe *Häuser des Hermes: Wahre Linien*, [Seite 109](<Ars Magica 5e - Häuser des Hermes - Wahre Linien.md#heide>)); Zyklische Magie, Schwierige Spontane Magie, Langsamer Zauberer, Anfälligkeit für Göttliche Kraft, Visionen
 > 
-> Magi, die dem Kult angehören, haben auch Zugang zu allen speziellen Zaubermeisterschafts-Fähigkeiten, die im Regelabschnitt dieses Kapitels aufgeführt werden.
+> Magi, die dem Kult angehören, haben auch Zugang zu allen besonderen Meisterschaftsfähigkeiten, die im Regelabschnitt dieses Kapitels aufgeführt werden.
 
 Die heidnischen Insignien des Kults werden von vielen als töricht oder gar blasphemisch angesehen, doch nur wenige Merkurier nehmen sie ernst. So wie die meisten Magi nicht glauben, dass der Name „Orden des Hermes" mehr als symbolisch ist, verwenden Merkurier „Götter", „Segen" und „Opfergaben" als Begriffe, die die große Geschichte der Magie heraufbeschwören, nicht als gotteslästerliche Praktiken. Etliche Kultmitglieder betrachten sich sowohl als Christen wie auch als Merkurier.
 
@@ -988,9 +988,9 @@ Das Buhurt der Magier ist ein Turnier *au plaisance*, ein Wettbewerb zum Vergnü
 > 
 > Selbst mit diesen Regeln ist die Gefahr eines versehentlichen Todes oder einer Verletzung so groß, dass viele Quaesitores entsetzt sind, dass diese Disziplin überhaupt existiert.
 
-### Spezialherausforderungen
+### Besondere Herausforderungen
 
-Turniere können auch eine Spezialherausforderung umfassen, die sich der Gastgeber des Turniers ausgedacht hat. Eine grobe Beschreibung der Herausforderung wird im Vorfeld des eigentlichen Turniers angekündigt, damit die Teilnehmer wissen, was sie erwartet, wenn sie die Qualifikationsrunde überstehen. Die Herausforderung kann alles sein, was der Gastgeber zu arrangieren beschließt, doch sie ist in der Regel etwas Dramatisches und möglicherweise Gefährliches. Beispiele wären ein Wettbewerb, ein magisches Juwel zu stehlen, das von Trollen bewacht wird, oder ein Wettrennen durch ein Labyrinth voller magischer Fallen. Auch hier missbilligen gewisse Quaesitores (und andere Magi im Allgemeinen) die Spezialherausforderungen, weil sie oft gefährlich sind und bisweilen die Grenze zur Belästigung der Feen überschreiten.
+Turniere können auch eine besondere Herausforderung umfassen, die sich der Gastgeber des Turniers ausgedacht hat. Eine grobe Beschreibung der Herausforderung wird im Vorfeld des eigentlichen Turniers angekündigt, damit die Teilnehmer wissen, was sie erwartet, wenn sie die Qualifikationsrunde überstehen. Die Herausforderung kann alles sein, was der Gastgeber zu arrangieren beschließt, doch sie ist in der Regel etwas Dramatisches und möglicherweise Gefährliches. Beispiele wären ein Wettbewerb, ein magisches Juwel zu stehlen, das von Trollen bewacht wird, oder ein Wettrennen durch ein Labyrinth voller magischer Fallen. Auch hier missbilligen gewisse Quaesitores (und andere Magi im Allgemeinen) die besonderen Herausforderungen, weil sie oft gefährlich sind und bisweilen die Grenze zur Belästigung der Feen überschreiten.
 
 ### Unterhaltung und Nebenwettbewerbe
 
@@ -1121,7 +1121,7 @@ Feuer hat mehrere Vorteile als Waffe. Ignem-Zauber verursachen im Vergleich zu a
 
 Die Schule des Gründers ist aus all diesen Gründen beliebt, doch selbst ihre eifrigsten Anhänger räumen ein, dass sie Schwachstellen hat. Eine der lästigsten besteht darin, dass manche potenziellen Feinde gegen Feuer resistent sind. Drachen beispielsweise sind manchmal feuerresistent, und sogar manche Menschen besitzen eine magisch verliehene Immunität gegen Feuer (die Große Immunität-Übernatürliche Tugend). (Dämonen in **Ars Magica Fifth Edition** sind nicht häufiger feuerresistent als Kreaturen aus anderen übernatürlichen Sphären.) Anhänger der Schule des Gründers müssen gegen feuerresistente Gegner auf alternative Taktiken zurückgreifen.
 
-Obwohl Feuermagie eine gewisse Fähigkeit besitzt, Ziele indirekt zu treffen, müssen die schadensstärkeren Zauber die Magieresistenz durchdringen. „Ignem" ist eine häufige Spezialisierung in der Parma-Magica-Fertigkeit (siehe ArM5, [Seite 66](<Ars Magica Definitive Edition Basisregeln.md#parma-magica-1>)). Die Zaubermeisterschafts-Spezialfähigkeit „Magieresistenz" verdoppelt die Magieresistenz eines Magus gegen den gemeisterten Zauber (ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)). Magi, die sich ernsthaft gegen Feuermagie schützen wollen, meistern vielleicht solche Flambeau-Standardzauber wie *Pilum aus Feuer* und *Kugel der abgründigen Flamme*. Das macht die Schule des Gründers zu einer der Schulen, gegen die feindliche Magi sich am leichtesten verteidigen können.
+Obwohl Feuermagie eine gewisse Fähigkeit besitzt, Ziele indirekt zu treffen, müssen die schadensstärkeren Zauber die Magieresistenz durchdringen. „Ignem" ist eine häufige Spezialisierung in der Parma-Magica-Fertigkeit (siehe ArM5, [Seite 66](<Ars Magica Definitive Edition Basisregeln.md#parma-magica-1>)). Die besondere Meisterschaftsfähigkeit „Magieresistenz" verdoppelt die Magieresistenz eines Magus gegen den gemeisterten Zauber (ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)). Magi, die sich ernsthaft gegen Feuermagie schützen wollen, meistern vielleicht solche Flambeau-Standardzauber wie *Pilum aus Feuer* und *Kugel der abgründigen Flamme*. Das macht die Schule des Gründers zu einer der Schulen, gegen die feindliche Magi sich am leichtesten verteidigen können.
 
 Glücklicherweise muss man nur wenige Zauber erlernen (und meistern), da derselbe Zauber gegen so viele verschiedene Arten von Gegnern eingesetzt werden kann und wiederholtes Wirken (oder mehrfaches Wirken) ebenso wirksam ist wie das erste. Besonders für Magi, die über eine Hermetische Tugend verfügen, die ihre Feuerzauber verbessert, ist die Schule des Gründers eine der am leichtesten zu entwickelnden Schulen für einen durchdringungsstarken, geradlinigen, vielseitigen Angriff.
 
@@ -1155,13 +1155,13 @@ Im Vergleich zur Schule des Gründers bietet die Schule des Apromor eine Reihe v
 > 
 > **Verbessere die Penetration-Fertigkeit:** Die Verbesserung von Fertigkeiten ist in Bezug auf Erfahrungspunkte kostspielig, und es mag wirksamer erscheinen, einfach die Künste auszubauen. Doch Penetration ist mächtiger als es auf den ersten Blick scheint. Erstens verbessert die Penetration-Fertigkeit die Penetration aller Zauber, nicht nur derer einer einzelnen Kunst. Zweitens wirken die meisten Boni, die der Penetration helfen, als Multiplikator auf die Penetration-Fertigkeit. Je höher die eigene Penetration-Fertigkeit, desto mehr Nutzen zieht man aus den Boni.
 > 
-> **Nutze die Zaubermeisterschaft:** Ziehe die Spezialfähigkeit „Penetration" in Betracht (ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)). Zaubermeisterschaft erhöht auch die Zaubersumme des Zaubers, hat also einen zweiten (indirekten) Effekt auf die Penetration.
+> **Nutze die Zaubermeisterschaft:** Ziehe die Meisterschaftsfähigkeit „Penetration" in Betracht (ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)). Zaubermeisterschaft erhöht auch die Zaubersumme des Zaubers, hat also einen zweiten (indirekten) Effekt auf die Penetration.
 > 
 > **Beschaffe eine Arkane Verbindung:** Erlange wenn möglich eine Arkane Verbindung zum Ziel. Je nach Dauer der Verbindung kann sie einen Bonus auf die Penetration gewähren (ArM5, [Seite 84](<Ars Magica Definitive Edition Basisregeln.md#arkane-verbindungen>)).
 > 
 > **Nutze sympathetische Verbindungen:** Wenn ein Magus eine Arkane Verbindung besitzt, sollte er versuchen, auch eine sympathetische Verbindung zu nutzen (ArM5, [Seite 84](<Ars Magica Definitive Edition Basisregeln.md#sympathetische-verbindungen>)). Mit etwas Vorbereitung kann man wahrscheinlich den Spitznamen oder den Geburtsnamen des Ziels in Erfahrung bringen, was eine Erhöhung des Penetrationsmultiplikators um +1 einbringt (zur Erinnerung: Taufnamen können nicht als sympathetische Verbindungen genutzt werden). Mit etwas mehr Vorbereitung kann man eine symbolische Darstellung des Ziels anfertigen (sofern man über eine gute Handwerk-Fertigkeit verfügt), die einen weiteren +2 auf den Multiplikator gewährt. Diese Boni sind kumulativ; wenn man also sowohl den Namen als auch ein Bild seines Ziels hat, beträgt der Multiplikator ×4 (×1 als Ausgangswert, +1 für den Namen, +2 für die symbolische Darstellung).
 
-Perdo-Zauber sind weniger auffällig als das Schleudern von Feuerblitzen. Wenn Gegner plötzlich blutende Wunden entwickeln oder lautlos tot umfallen, können Umstehende zwar erkennen, dass Magie im Spiel ist, aber sie haben es weitaus schwerer, denjenigen zu identifizieren, der die Zauber gewirkt hat. Im allgemeinen Schlachtgetümmel kann es sogar schwierig sein, bestimmte Perdo-Effekte überhaupt zu bemerken: Ist das Schwert des Ritters durch einen Unfall zerbrochen oder durch Magie? Apromor selbst warf seine Zauber mit Vorliebe ohne Gesten; viele, die seiner Schule folgen, nutzen die Zaubermeisterschafts-Spezialfähigkeit „Stilles Zaubern" (ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)), um ihre Zauber unauffälliger zu machen. Dies kann weiter getrieben werden, indem man Zauber ohne Stimme wirkt, doch die meisten Standard-Perdo-Zauber haben Reichweite Stimme, und der Zaubernde müsste Varianten mit längerer Reichweite (und höherer Stufe) erfinden, um von solchen Taktiken voll zu profitieren.
+Perdo-Zauber sind weniger auffällig als das Schleudern von Feuerblitzen. Wenn Gegner plötzlich blutende Wunden entwickeln oder lautlos tot umfallen, können Umstehende zwar erkennen, dass Magie im Spiel ist, aber sie haben es weitaus schwerer, denjenigen zu identifizieren, der die Zauber gewirkt hat. Im allgemeinen Schlachtgetümmel kann es sogar schwierig sein, bestimmte Perdo-Effekte überhaupt zu bemerken: Ist das Schwert des Ritters durch einen Unfall zerbrochen oder durch Magie? Apromor selbst warf seine Zauber mit Vorliebe ohne Gesten; viele, die seiner Schule folgen, nutzen die besondere Meisterschaftsfähigkeit „Stilles Zaubern" (ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)), um ihre Zauber unauffälliger zu machen. Dies kann weiter getrieben werden, indem man Zauber ohne Stimme wirkt, doch die meisten Standard-Perdo-Zauber haben Reichweite Stimme, und der Zaubernde müsste Varianten mit längerer Reichweite (und höherer Stufe) erfinden, um von solchen Taktiken voll zu profitieren.
 
 Perdo-Zauber beschränken sich nicht auf offensive Anwendungen. Experten in der Technik Perdo können Unsichtbarkeitszauber erlernen oder Perdo-Mentem-Zauber, die helfen, einen Kampf zu vermeiden, wie *Beruhigung des bewegten Herzens*. Es gibt eine Reihe von Perdo-Zaubern, die für indirekte Angriffe genutzt werden können, welche die Magieresistenz des Gegners umgehen. *Grube der klaffenden Erde* ist ein Beispiel, und sie kann auch dazu dienen, Verteidigungsgräben und dergleichen zu schaffen. Das Auflösen von Magie ist ein Perdo-Effekt. Hochstufige Perdo-Effekte können sogar Eigenschaften von Objekten entfernen und sie sich auf ungewöhnliche, aber nützliche Weise verhalten lassen. Zum Beispiel kann ein hochstufiger Perdo-Corpus-Zauber eine Person schwerelos machen.
 
@@ -1428,9 +1428,9 @@ Magi von Haus Flambeau haben eine neue Methode entwickelt, magische Gegenstände
 
 Die Wirkung erhält einen Initiativemodifikator von +3. Dies addiert +5 zur Effektstufe.
 
-#### Zaubermeisterschafts-Sonderfähigkeiten
+#### Besondere Fähigkeiten der Zaubermeisterschaft
 
-Die durch Zaubermeisterschaft verliehenen besonderen Fähigkeiten sind im Kampf häufig nützlich. Magi des Hauses Flambeau schätzen alle in der **Ars Magica Definitive Edition** ([Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)) aufgeführten Zaubermeisterschafts-Sonderfähigkeiten und haben einige weitere eigene entwickelt. Diese stehen Magi aller Häuser zur Verfügung, obwohl sie innerhalb von Haus Flambeau entstanden sind.
+Die Meisterschaftsfähigkeiten sind im Kampf häufig nützlich. Magi des Hauses Flambeau schätzen alle in der **Ars Magica Definitive Edition** ([Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)) aufgeführten besonderen Meisterschaftsfähigkeiten und haben einige weitere eigene entwickelt. Diese stehen Magi aller Häuser zur Verfügung, obwohl sie innerhalb von Haus Flambeau entstanden sind.
 
 **Unerschütterliches Zaubern**
 
@@ -1446,7 +1446,7 @@ Alle Finesse-Würfe des Zaubernden mit dem Zauber erhalten einen Bonus von +1, e
 
 **Schnelles Zaubern**
 
-Addiere +1 zum Initiativewert des Zaubernden, wenn er den gemeisterten Zauber wirkt. Hat er zudem die besondere Fähigkeit Schnellzaubern, addiere +1 zu seinen Schnellzauber-Geschwindigkeitswürfen (ArM5, [Seite 83](<Ars Magica Definitive Edition Basisregeln.md#schnellzaubern>)), wenn er den Zauber schnell wirkt. Diese Fähigkeit darf nicht für Ritualzauber gewählt werden. Ein Magus kann diese Fähigkeit mehrfach für denselben Zauber wählen.
+Addiere +1 zum Initiativewert des Zaubernden, wenn er den gemeisterten Zauber wirkt. Hat er zudem die Meisterschaftsfähigkeit Schnellzaubern, addiere +1 zu seinen Schnellzauber-Geschwindigkeitswürfen (ArM5, [Seite 83](<Ars Magica Definitive Edition Basisregeln.md#schnellzaubern>)), wenn er den Zauber schnell wirkt. Diese Fähigkeit darf nicht für Ritualzauber gewählt werden. Ein Magus kann diese Fähigkeit mehrfach für denselben Zauber wählen.
 
 ### Neue Zauber
 
@@ -1466,15 +1466,15 @@ Dieser Zauber wird manchmal von Magi verwendet, die den Schulen des Sebastian fo
 
 (Basis 10, +1 Berührung, +1 Durchmesser, +1 Rego-Requisit)
 
-> ## Merkurische Zaubermeisterschafts-Sonderfähigkeiten
+> ## Merkurische besondere Meisterschaftsfähigkeiten
 > 
-> Der Kult des Merkur lehrt mehrere exklusive Zaubermeisterschafts-Sonderfähigkeiten. Diese Sonderfähigkeiten sind nicht auf Haus Flambeau beschränkt, sondern stehen generell jedem Mitglied des Kultes zur Verfügung (dessen Mitgliedschaft Magi aus vielen verschiedenen Häusern umfasst).
+> Der Kult des Merkur lehrt mehrere exklusive besondere Meisterschaftsfähigkeiten. Diese Meisterschaftsfähigkeiten sind nicht auf Haus Flambeau beschränkt, sondern stehen generell jedem Mitglied des Kultes zur Verfügung (dessen Mitgliedschaft Magi aus vielen verschiedenen Häusern umfasst).
 > 
-> Die folgenden Sonderfähigkeiten wurden ursprünglich in *Häuser des Hermes: Wahre Linien* (Seiten 99–100) veröffentlicht.
+> Die folgenden Meisterschaftsfähigkeiten wurden ursprünglich in *Häuser des Hermes: Wahre Linien* (Seiten 99–100) veröffentlicht.
 > 
-> **Adaptives Zaubern (Kult des Merkur):** Diese Sonderfähigkeit darf nur für Allgemeine Zauber gewählt werden. Der Zaubernde kann seinen Meisterschaftswert und alle mit diesem Zauber verbundenen Sonderfähigkeiten nutzen, wenn er denselben Zauber auf anderen Stufen wirkt.
+> **Adaptives Zaubern (Kult des Merkur):** Diese Meisterschaftsfähigkeit darf nur für Allgemeine Zauber gewählt werden. Der Zaubernde kann seinen Meisterschaftswert und alle mit diesem Zauber verbundenen Meisterschaftsfähigkeiten nutzen, wenn er denselben Zauber auf anderen Stufen wirkt.
 > 
-> **Zeremonielles Zaubern (Kult des Merkur):** Der Zaubernde kann beim Wirken dieses Zaubers zeremonielle Methoden anwenden, wodurch sich die Zauberdauer verlängert und er seine Artes Liberales und Philosophiae zu seiner Zaubersumme addiert. Diese Sonderfähigkeit kann nicht für Ritualzauber gewählt werden, da diese stets zeremonielles Zaubern erfordern.
+> **Zeremonielles Zaubern (Kult des Merkur):** Der Zaubernde kann beim Wirken dieses Zaubers zeremonielle Methoden anwenden, wodurch sich die Zauberdauer verlängert und er seine Artes Liberales und Philosophiae zu seiner Zaubersumme addiert. Diese Meisterschaftsfähigkeit kann nicht für Ritualzauber gewählt werden, da diese stets zeremonielles Zaubern erfordern.
 > 
 > **Getarntes Zaubern (Kult des Merkur):** Beim Wirken dieses Zaubers kann der Zaubernde sein Sigil unterdrücken oder verändern, um seine Identität zu verbergen oder den Zauber so erscheinen zu lassen, als sei er von jemand anderem gewirkt worden. Da dies sein Sigil tatsächlich verändert, ist es für andere unmöglich, ihn daran zu erkennen, wenngleich Magi möglicherweise bemerken können, dass ein gefälschtes Sigil nicht echt ist. Wenn der Zaubernde das Sigil eines anderen Magus nachahmt, addiere seinen Meisterschaftswert zum Wurf, der bestimmt, wie schwer es zu erkennen ist.
 > 
@@ -2504,7 +2504,7 @@ Zauberzeiten bei Nutzung zeremonieller Räume, in Minuten pro Magnitude:
 
 #### Zaubermeisterschaft für städtische Charaktere
 
-Viele Spezialfähigkeiten der Zaubermeisterschaft, die auf den Seiten 86–87 von ArM5 beschrieben werden, sind für städtische Magi nützlich. Sie ermöglichen es dem Magus, die Abzüge für das Wirken von Zaubern ohne Gesten oder Lautäußerungen zu verringern oder zu beseitigen, oder den Penetrationsbonus des Zaubers zu erhöhen. Eine weitere Form der Zaubermeisterschaft, die in *Die Mysterien (Überarbeitete Ausgabe)* beschrieben wird, erlaubt es Charakteren, die Boni des zeremoniellen Zauberns mit einzelnen formulaischen Zaubern zu nutzen. Diese Fähigkeit erfordert keine Einweihung – sie ist kein Mysterium, sondern nur eine unbemerkte Möglichkeit hermetischer Magie – und sie hat sich rasch im Haus Jerbiton verbreitet.
+Viele besondere Fähigkeiten der Zaubermeisterschaft, die auf den Seiten 86–87 von ArM5 beschrieben werden, sind für städtische Magi nützlich. Sie ermöglichen es dem Magus, die Abzüge für das Wirken von Zaubern ohne Gesten oder Lautäußerungen zu verringern oder zu beseitigen, oder den Penetrationsbonus des Zaubers zu erhöhen. Eine weitere Form der Zaubermeisterschaft, die in *Die Mysterien (Überarbeitete Ausgabe)* beschrieben wird, erlaubt es Charakteren, die Boni des zeremoniellen Zauberns mit einzelnen formulaischen Zaubern zu nutzen. Diese Fähigkeit erfordert keine Einweihung – sie ist kein Mysterium, sondern nur eine unbemerkte Möglichkeit hermetischer Magie – und sie hat sich rasch im Haus Jerbiton verbreitet.
 
 #### Arkane Verbindungen
 
@@ -5288,13 +5288,13 @@ Das Ziel dieses Zaubers kann keine Fluchmagie mit einer Stufe kleiner oder gleic
 > 
 > **Allgemein:** Einen Zauber oder Zauber einer bestimmten Art, die von einem anderen gewirkt wurden, mit einer Stufe kleiner oder gleich der Stufe + 2 Magnituden des Vim-Zaubers aufrechterhalten oder unterdrücken. Beispiele für bestimmte Arten umfassen Hermetische Terram-Magie und schamanische Geisterkontrollmagie. Diese Richtlinie kann auf den Zauber selbst oder auf den Wirkenden der Zauber angewandt werden.
 
-#### Neue Zaubermeisterschafts-Sonderfertigkeit: Entwirren
+#### Neue besondere Meisterschaftsfähigkeit: Entwirren
 
-Diese Zaubermeisterschafts-Sonderfertigkeit kann auf jeden Perdo-Vim-Zauber angewendet werden, der darauf ausgelegt ist, Magie zu schwächen oder zu zerstören. Der Magus darf das Dreifache seines Zaubermeisterschaftswerts zur effektiven Stufe des Perdo-Vim-Zaubers addieren, wenn bestimmt wird, ob er den angepeilten Zauber zerstören kann. So kann ein *Wind der weltlichen Stille* der Stufe 20, gewirkt von einem Charakter mit dieser Zaubermeisterschafts-Sonderfertigkeit und einem Wert von 3, die Wirkungen eines Zaubers aufheben, wenn er die Stufe des Zaubers mit (29 + Stresswürfel) statt (20 + Stresswürfel) verdoppeln kann.
+Diese besondere Meisterschaftsfähigkeit kann auf jeden Perdo-Vim-Zauber angewendet werden, der darauf ausgelegt ist, Magie zu schwächen oder zu zerstören. Der Magus darf das Dreifache seines Zaubermeisterschaftswerts zur effektiven Stufe des Perdo-Vim-Zaubers addieren, wenn bestimmt wird, ob er den angepeilten Zauber zerstören kann. So kann ein *Wind der weltlichen Stille* der Stufe 20, gewirkt von einem Charakter mit dieser besonderen Meisterschaftsfähigkeit und einem Wert von 3, die Wirkungen eines Zaubers aufheben, wenn er die Stufe des Zaubers mit (29 + Stresswürfel) statt (20 + Stresswürfel) verdoppeln kann.
 
-#### Neue Zaubermeisterschafts-Sonderfertigkeit: Erwiderung
+#### Neue besondere Meisterschaftsfähigkeit: Erwiderung
 
-Diese Zaubermeisterschafts-Sonderfertigkeit kann auf jeden Muto- oder Rego-Vim-Zauber angewendet werden, der darauf ausgelegt ist, einen Zauber oder eine Kraft eines anderen Wesens zu beeinflussen (somit sind *Schub des Zauberers* oder *Den anspruchsvollen Zauber aufrechterhalten* nicht geeignet, wohl aber *Spiegel der Umkehrung [Form]*). Der Magus darf das Dreifache seines Zaubermeisterschaftswerts zur effektiven Stufe des Vim-Zaubers addieren, wenn bestimmt wird, ob er die fremde Magie verändern oder kontrollieren kann. So verhindert eine *Fluchende Zunge beschwichtigen* der Stufe 25, begleitet von einem Zaubermeisterschaftswert von 2, das Wirken von Fluchmagie mit einer äquivalenten Stufe von 21, statt 15.
+Diese besondere Meisterschaftsfähigkeit kann auf jeden Muto- oder Rego-Vim-Zauber angewendet werden, der darauf ausgelegt ist, einen Zauber oder eine Kraft eines anderen Wesens zu beeinflussen (somit sind *Schub des Zauberers* oder *Den anspruchsvollen Zauber aufrechterhalten* nicht geeignet, wohl aber *Spiegel der Umkehrung [Form]*). Der Magus darf das Dreifache seines Zaubermeisterschaftswerts zur effektiven Stufe des Vim-Zaubers addieren, wenn bestimmt wird, ob er die fremde Magie verändern oder kontrollieren kann. So verhindert eine *Fluchende Zunge beschwichtigen* der Stufe 25, begleitet von einem Zaubermeisterschaftswert von 2, das Wirken von Fluchmagie mit einer äquivalenten Stufe von 21, statt 15.
 
 ## Rustikale Magi
 

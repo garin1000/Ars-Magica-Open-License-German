@@ -104,7 +104,7 @@ October 2005
 &emsp;&emsp;[Fenicil](#fenicil)<br>
 &emsp;&emsp;[Duresca-Schriftrollen](#duresca-schriftrollen)<br>
 &emsp;&emsp;[Der Schismakrieg](#der-schismakrieg)<br>
-&emsp;&emsp;[Traditionalisten / Transitionalisten](#traditionalisten-transitionalisten)<br>
+&emsp;&emsp;[Traditionalisten / Transitionalisten](#traditionalisten--transitionalisten)<br>
 &emsp;[Organisation](#organisation)<br>
 &emsp;&emsp;[Mitgliederzahl](#mitgliederzahl)<br>
 &emsp;&emsp;[Domus Magna](#domus-magna)<br>
@@ -169,7 +169,7 @@ October 2005
 &emsp;&emsp;[Mutantes](#mutantes-1)<br>
 &emsp;&emsp;[Andere Spezialisierungen](#andere-spezialisierungen)<br>
 &emsp;[Laborregeln](#laborregeln)<br>
-&emsp;&emsp;[Spezialfähigkeiten gemeisterter Zauber](#spezialfähigkeiten-gemeisterter-zauber)<br>
+&emsp;&emsp;[Besondere Fähigkeiten gemeisterter Zauber](#besondere-fähigkeiten-gemeisterter-zauber)<br>
 &emsp;&emsp;[Merceres Portale](#merceres-portale-1)<br>
 &emsp;[Magieregeln](#magieregeln)<br>
 &emsp;&emsp;[Mutantum-Magie](#mutantum-magie-1)<br>
@@ -208,7 +208,7 @@ October 2005
 &emsp;[Duellieren](#duellieren)<br>
 &emsp;&emsp;[Certamen-Stile](#certamen-stile)<br>
 &emsp;[Neue Zauber](#neue-zauber)<br>
-&emsp;[Ergänzungen zur Form- und Materialbonustabelle](#ergänzungen-zur-form-und-materialbonustabelle)<br>
+&emsp;[Ergänzungen zur Form- und Materialbonustabelle](#ergänzungen-zur-form--und-materialbonustabelle)<br>
 &emsp;[Neue Tugenden](#neue-tugenden)<br>
 <br>
 **Zeitleiste**<br>
@@ -1004,7 +1004,7 @@ Nicht-hermetische Praktizierende dieser Kunst existieren noch immer, unBegabte P
 
 ### Sphärengebundene Zauber
 
-Hermetische Zauber werden von der Sphäre beeinflusst, in der sie gewirkt werden: unterdrückt von der Göttlichen und Höllensphäre und leicht verstärkt von der Feensphäre, die auch die Wahrscheinlichkeit für Patzer erhöht. Sphärengebundene Zauber sind Zauber, die erschaffen wurden, um diesen überirdischen Einfluss zu vermeiden, erfunden, damit sie in der Aura, der sie zugeordnet sind, unbeeinflusst bleiben. Da sie keine der Grenzen der Magie durchbrechen, handelt es sich um einen Kleinen Durchbruch. Es wäre ein weiterer Kleiner Durchbruch, dies als weitere Spezialfähigkeit gemeisterter Zauber aufzunehmen.
+Hermetische Zauber werden von der Sphäre beeinflusst, in der sie gewirkt werden: unterdrückt von der Göttlichen und Höllensphäre und leicht verstärkt von der Feensphäre, die auch die Wahrscheinlichkeit für Patzer erhöht. Sphärengebundene Zauber sind Zauber, die erschaffen wurden, um diesen überirdischen Einfluss zu vermeiden, erfunden, damit sie in der Aura, der sie zugeordnet sind, unbeeinflusst bleiben. Da sie keine der Grenzen der Magie durchbrechen, handelt es sich um einen Kleinen Durchbruch. Es wäre ein weiterer Kleiner Durchbruch, dies als weitere besondere Fähigkeit gemeisterter Zauber aufzunehmen.
 
 In der Praxis ist dies ein einfaches Verfahren; wenn du im Labor einen sphärengebundenen Zauber erfindest, reduzierst du deine Laborsumme, indem du deinen Magietheorie-Wert auf die Stufe deiner entsprechenden Sphärenkunde begrenzt. Dann folgst du dem Verfahren, wie es im Abschnitt Zauber erfinden des Laborkapitels der **Ars Magica** Fünften Edition, [Seite 95](<Ars Magica Definitive Edition Basisregeln.md#zauber-erfinden>), beschrieben ist. Nach Fertigstellung ist der sphärengebundene oder einer bestimmten Sphäre ‚zugeordnete' Zauber immun gegen den Einfluss dieser Sphäre.
 
@@ -2986,7 +2986,7 @@ Andere Häuser halfen ihm, den Kult wieder aufzubauen, insbesondere Magi des Hau
 > 
 > Der Kult des Merkur hält den heidnischen Glauben der Römer vor der Ausbreitung des Christentums lebendig, in dem die vielen großen Mächte der natürlichen Welt als individuelle Wesen verehrt und nicht als Aspekte von Gottes Schöpfung gehuldigt wurden. Im Wesentlichen sind Merkur-Kultisten mediterrane Naturverehrer, und ihre Zeremonien konzentrieren sich auf die Vermenschlichung von Kräften wie Wetter, Tod, Liebe, Krieg und dergleichen. Sie praktizieren keine Menschenopfer, bringen aber ihren Göttern Tieropfer dar und verbrennen ihre Toten. Sie legen auch großen Wert auf Omen und praktizieren alle Formen der Weissagung und zeremoniellen Magie, um diese Zeichen zu lesen und zu deuten. Sie meiden die Kirche und das Dominium, die sie als erstickende Kräfte auf die Praktiken der reinen Magie betrachten, wenn sie sie überhaupt beachten. Andere Magi, die vom Kult wissen, halten seine Mitglieder für rückständige Fanatiker oder gefährliche Ketzer, und obwohl sie noch immer ihr hermetisches Erbe ehren, tun sie dies gewöhnlich lieber aus sicherer Entfernung.
 
-Etwa die Hälfte aller Mercere-Magi praktiziert noch immer Merkurische Magie wie ihre Vorfahren, und die meisten ihrer alten Zeremonien wurden in die Magietheorie integriert. Die Wurzeln ihres alten Ordens sind noch in der Zaubermeisterschaft erkennbar, denn in den frühesten Tagen kannten Magi nur wenige Zauber und verbesserten ihre Magie, indem sie verschiedene Wege entwickelten, denselben Zauber in unterschiedlichen Situationen zu wirken. Priamitus lernte viele dieser Spezialfähigkeiten gemeisterter Zauber von Mercere, und seine Gefolgsleute entwickelten weitere. Dazu gehören: Adaptives Zaubern, Zeremonielles Zaubern, Verkleidetes Zaubern, Labormeisterschaft, Aus Fehlern lernen und Standhaftes Zaubern. Diese sind vollständig im Anhang beschrieben (Labor, Spezialfähigkeiten gemeisterter Zauber).
+Etwa die Hälfte aller Mercere-Magi praktiziert noch immer Merkurische Magie wie ihre Vorfahren, und die meisten ihrer alten Zeremonien wurden in die Magietheorie integriert. Die Wurzeln ihres alten Ordens sind noch in der Zaubermeisterschaft erkennbar, denn in den frühesten Tagen kannten Magi nur wenige Zauber und verbesserten ihre Magie, indem sie verschiedene Wege entwickelten, denselben Zauber in unterschiedlichen Situationen zu wirken. Priamitus lernte viele dieser Meisterschaftsfähigkeiten von Mercere, und seine Gefolgsleute entwickelten weitere. Dazu gehören: Adaptives Zaubern, Zeremonielles Zaubern, Verkleidetes Zaubern, Labormeisterschaft, Aus Fehlern lernen und Standhaftes Zaubern. Diese sind vollständig im Anhang beschrieben (Labor, besonderen Fähigkeiten gemeisterter Zauber).
 
 #### Societas Merceris: der Kult der Helden
 
@@ -3032,9 +3032,9 @@ Gründliche Schulung in dieser magischen Philosophie und ihre natürliche Affini
 
 Weil Magi aus anderen Häusern von denselben exotischen Ursprüngen abstammen können wie die Mutantes, gibt es auch mehrere Tugenden, die diese Kräfte integrieren und die jeder Magus nehmen kann: Verstärkte Magie, Gezügelte Magie und Gefesselte Magie (siehe Anhang, Tugenden und Fehler). Sie entsprechen den obigen magischen Fähigkeiten, haben aber einige inhärente Nachteile, da nur Magi, die von den Mutantes aufgezogen wurden, die angeborenen Fähigkeiten ihres Erbes je vollkommen zu beherrschen scheinen. Es gibt auch zwei Fehler, Gebundene Magie und Gefesselte Magie, die die Nachteile ohne die Vorteile haben, für Charaktere, die ihr Mutantes-Potenzial noch nicht einmal zu entdecken begonnen haben oder deren Verständnis dieser Kräfte ähnlich begrenzt ist.
 
-Die Mutantes haben auch drei entsprechende Spezialfähigkeiten gemeisterter Zauber, die sie denen lehren können, die bei ihnen studieren. Dies erlaubt es den Mutantes, die Magie-Zähmung in sehr begrenztem Umfang zu lehren, indem sie sich auf eine bestimmte Methode konzentrieren, einen bestimmten Zauber zu verändern, was alles ist, was für Magi getan werden kann, die es nicht im Blut haben. Interessierte Magi können diese Fähigkeiten von den Mutantes erlernen, aber sie können sie nicht an andere weitergeben.
+Die Mutantes haben auch drei entsprechende besondere Meisterschaftsfähigkeiten, die sie denen lehren können, die bei ihnen studieren. Dies erlaubt es den Mutantes, die Magie-Zähmung in sehr begrenztem Umfang zu lehren, indem sie sich auf eine bestimmte Methode konzentrieren, einen bestimmten Zauber zu verändern, was alles ist, was für Magi getan werden kann, die es nicht im Blut haben. Interessierte Magi können diese Fähigkeiten von den Mutantes erlernen, aber sie können sie nicht an andere weitergeben.
 
-(Siehe Anhang, Spezialfähigkeiten gemeisterter Zauber, für Details zu Verstärktes Zaubern, Gezügeltes Zaubern oder Gefesseltes Zaubern.)
+(Siehe Anhang, Besondere Fähigkeiten gemeisterter Zauber, für Details zu Verstärktes Zaubern, Gezügeltes Zaubern oder Gefesseltes Zaubern.)
 
 
 #### Societas Merceris: Milvi Antiquiti
@@ -3087,9 +3087,9 @@ Alle Gefolgsleute Merceres neigen zur Unabhängigkeit mit einem Hauch von Fernwe
 
 Diese umfassen Langzeitaktivitäten sowie Varianten der üblichen Laborarbeit.
 
-### Spezialfähigkeiten gemeisterter Zauber
+### Besondere Fähigkeiten gemeisterter Zauber
 
-Jedes Mal, wenn Magi eine Stufe in einer Zaubermeisterschafts-Fertigkeit erwerben, können sie neben den Fähigkeiten aus **Ars Magica** 5th Edition auch aus diesen Spezialfähigkeiten wählen, sofern zumindest ein Teil der Erfahrungspunkte von jemandem gelehrt wurde, der die Fertigkeit besitzt. Die meisten Magi der Wahren Abstammungslinien ziehen es vor, dieses Spezialwissen nur mit ihren Lehrlingen zu teilen, obwohl ihre Methoden in Büchern niedergeschrieben sein können, die jeder lesen kann, und es nicht unmöglich ist, dass ein Meister sich entscheidet, einen Schüler mit sehr ähnlichen Zielen und Loyalitäten zu unterrichten.
+Jedes Mal, wenn Magi eine Stufe in einer Zaubermeisterschafts-Fertigkeit erwerben, können sie neben den Fähigkeiten aus **Ars Magica** 5th Edition auch aus diesen Meisterschaftsfähigkeiten wählen, sofern zumindest ein Teil der Erfahrungspunkte von jemandem gelehrt wurde, der die Fertigkeit besitzt. Die meisten Magi der Wahren Abstammungslinien ziehen es vor, dieses Spezialwissen nur mit ihren Lehrlingen zu teilen, obwohl ihre Methoden in Büchern niedergeschrieben sein können, die jeder lesen kann, und es nicht unmöglich ist, dass ein Meister sich entscheidet, einen Schüler mit sehr ähnlichen Zielen und Loyalitäten zu unterrichten.
 
 Charaktere, die bei der Charaktererschaffung Gemeisterte Zauber nehmen und während ihrer Lehrlingszeit Zugang zu diesen Fähigkeiten haben, können ihre Meisterschaftspunkte dafür ausgeben, wenn sie es wünschen.
 
@@ -3097,9 +3097,9 @@ Charaktere, die bei der Charaktererschaffung Gemeisterte Zauber nehmen und währ
 
 (Kult des Merkur)
 
-Du darfst deinen Meisterschaftswert und alle damit verbundenen Spezialfähigkeiten verwenden, wann immer du einen ähnlichen Zauber wirkst. Wenn du zwei oder mehr Meisterschafts-Fertigkeiten hast, die auf einen einzelnen Zauber anwendbar sind (weil du zwei oder mehr Zauber gemeistert hast, die dem Zauber ähnlich sind, den du wirkst), darfst du nur den Wert einer Fertigkeit verwenden sowie die für diese Meisterschafts-Fertigkeit gewählten Spezialfähigkeiten. Wenn du beispielsweise Ewige Auslöschung des Dämons 30 mit einem Wert von 3 und den Fähigkeiten Adaptives Zaubern, Schnellzaubern und Penetration gemeistert hast, sowie Ewige Auslöschung des Dämons 25 mit einem Wert von 4 und den Fähigkeiten Adaptives Zaubern, zweimal Stilles Zaubern und Regloses Zaubern, musst du den Wert von 3 verwenden, wenn du die Penetration-Fähigkeit nutzen willst, und den Wert von 4, wenn du die Regloses-Zaubern-Fähigkeit nutzen willst, und du kannst die Penetration-Fähigkeit nicht mit dem Wert von 4 verwenden.
+Du darfst deinen Meisterschaftswert und alle damit verbundenen Meisterschaftsfähigkeiten verwenden, wann immer du einen ähnlichen Zauber wirkst. Wenn du zwei oder mehr Meisterschafts-Fertigkeiten hast, die auf einen einzelnen Zauber anwendbar sind (weil du zwei oder mehr Zauber gemeistert hast, die dem Zauber ähnlich sind, den du wirkst), darfst du nur den Wert einer Fertigkeit verwenden sowie die für diese Meisterschafts-Fertigkeit gewählten Meisterschaftsfähigkeiten. Wenn du beispielsweise Ewige Auslöschung des Dämons 30 mit einem Wert von 3 und den Fähigkeiten Adaptives Zaubern, Schnellzaubern und Penetration gemeistert hast, sowie Ewige Auslöschung des Dämons 25 mit einem Wert von 4 und den Fähigkeiten Adaptives Zaubern, zweimal Stilles Zaubern und Regloses Zaubern, musst du den Wert von 3 verwenden, wenn du die Penetration-Fähigkeit nutzen willst, und den Wert von 4, wenn du die Regloses-Zaubern-Fähigkeit nutzen willst, und du kannst die Penetration-Fähigkeit nicht mit dem Wert von 4 verwenden.
 
-> ## Mercere-Spezialfähigkeiten
+> ## Besondere Mercere-Fähigkeiten
 > 
 > ### Merkurische Magi
 > 

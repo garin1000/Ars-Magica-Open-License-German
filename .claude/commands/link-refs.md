@@ -108,6 +108,9 @@ Vor dem Aufgeben eines Verweises: Prüfe, ob die Zieldatei in `german-wip/` exis
 Alle Anchors müssen dem Format von `pandoc_anchor_id()` entsprechen:
 - Kleinbuchstaben, Bindestriche statt Leerzeichen, Umlaute erhalten
 - **Doppel-Hyphens** (`--`) sind korrekt und dürfen **nicht** zu `-` zusammengefasst werden. Sie entstehen, wenn Sonderzeichen wie Gedankenstriche (–, —), Schrägstriche (/) oder Kaufmanns-Und (&) in Überschriften entfernt werden und zwei Bindestriche aufeinanderfolgen. Beispiel: Header `Merinita – Feenmagie` → Anchor `merinita--feenmagie`.
+- Auch **deutsche Bindestrich-Zusammensetzungen** mit Leerzeichen erzeugen `--`: Header `Form- und Materialboni` → Anchor `form--und-materialboni`; Header `und -fehler` → `und--fehler`.
+
+**Bestehende Links prüfen:** Vor dem Einfügen neuer Links alle **bereits vorhandenen** internen Links (auch TOC-Links) gegen `pandoc_anchor_id()` validieren. Häufigster Fehler: einfaches `-` statt `--` bei Headers mit `&`, `–`, `/`, `:` oder Bindestrich-Zusammensetzungen. Falsche Anchors korrigieren.
 
 ### 3f-2. Duplikat-Header und Seitenzahl-Zuordnung
 

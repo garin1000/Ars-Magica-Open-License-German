@@ -59,8 +59,8 @@ JUNI 2006
 &emsp;&emsp;[Der Schismakrieg](#der-schismakrieg)<br>
 &emsp;&emsp;[Jüngste Ereignisse](#jüngste-ereignisse)<br>
 &emsp;[Bräuche von Haus Bjornaer](#bräuche-von-haus-bjornaer)<br>
-&emsp;&emsp;[Harmonisten & Wildisten](#harmonisten-wildisten)<br>
-&emsp;&emsp;[Haus, Clan & Sippe](#haus-clan-sippe)<br>
+&emsp;&emsp;[Harmonisten & Wildisten](#harmonisten--wildisten)<br>
+&emsp;&emsp;[Haus, Clan & Sippe](#haus-clan--sippe)<br>
 &emsp;&emsp;[Der Bjornaer-Rat](#der-bjornaer-rat)<br>
 &emsp;&emsp;[Die Versammlung der Zwölf Jahre](#die-versammlung-der-zwölf-jahre)<br>
 &emsp;&emsp;[Die Lehre eines Bjornaer-Magus](#die-lehre-eines-bjornaer-magus)<br>
@@ -68,9 +68,9 @@ JUNI 2006
 &emsp;&emsp;[Wahl des Herztieres](#wahl-des-herztieres)<br>
 &emsp;&emsp;[Das Herztier im Spiel](#das-herztier-im-spiel)<br>
 &emsp;[Die Mysterien des Hauses Bjornaer](#die-mysterien-des-hauses-bjornaer)<br>
-&emsp;&emsp;[Einweihung in die Clan-Mysterien](#einweihung-in-die-clan-mysterien)<br>
-&emsp;&emsp;[Einweihung in die Haus-Mysterien](#einweihung-in-die-haus-mysterien)<br>
-&emsp;&emsp;[Einweihung der Mysterien des Inneren Herztieres](#einweihung-der-mysterien-des-inneren-herztieres)<br>
+&emsp;&emsp;[Einweihung in die Clanmysterien](#einweihung-in-die-clanmysterien)<br>
+&emsp;&emsp;[Einweihung in die Hausmysterien](#einweihung-in-die-hausmysterien)<br>
+&emsp;&emsp;[Einweihung in die Mysterien des Inneren Herztieres](#einweihung-in-die-mysterien-des-inneren-herztieres)<br>
 &emsp;&emsp;[Die drei Inneren Mysterien](#die-drei-inneren-mysterien)<br>
 &emsp;&emsp;[Das Innere Herztier im Spiel](#das-innere-herztier-im-spiel)<br>
 &emsp;&emsp;[Verfeinerung des Inneren Herztieres](#verfeinerung-des-inneren-herztieres)<br>
@@ -80,7 +80,7 @@ JUNI 2006
 &emsp;&emsp;[Aufbau der Jägerin](#aufbau-der-jägerin)<br>
 &emsp;[Die Magie des Hauses Bjornaer](#die-magie-des-hauses-bjornaer)<br>
 &emsp;[Charaktere des Hauses Bjornaer](#charaktere-des-hauses-bjornaer)<br>
-&emsp;&emsp;[Tugenden & Fehler](#tugenden-fehler)<br>
+&emsp;&emsp;[Tugenden & Fehler](#tugenden--fehler)<br>
 &emsp;&emsp;[Neue Tugenden](#neue-tugenden-3)<br>
 &emsp;&emsp;[Neue Fehler](#neue-fehler-3)<br>
 &emsp;&emsp;[Neue Fertigkeiten](#neue-fertigkeiten-1)<br>
@@ -89,7 +89,7 @@ JUNI 2006
 **[Kapitel Zwei: Haus Criamon](#kapitel-zwei-haus-criamon)**<br>
 &emsp;[Der Gründer](#der-gründer)<br>
 &emsp;[Woran das Haus glaubt](#woran-das-haus-glaubt)<br>
-&emsp;[Praktiken & Überzeugungen](#praktiken-überzeugungen)<br>
+&emsp;[Praktiken & Überzeugungen](#praktiken--überzeugungen)<br>
 &emsp;&emsp;[Rechtes Handeln](#rechtes-handeln)<br>
 &emsp;&emsp;[Rätsel](#rätsel)<br>
 &emsp;&emsp;[Stigmata](#stigmata)<br>
@@ -166,7 +166,7 @@ JUNI 2006
 &emsp;&emsp;[Fluch binden](#fluch-binden-großes-hausmysterium)<br>
 &emsp;&emsp;[Magische Tiere binden](#magische-tiere-binden-großes-hausmysterium)<br>
 &emsp;&emsp;[Abgestimmte Gegenstände](#abgestimmte-gegenstände-großes-hausmysterium)<br>
-&emsp;[Tugenden & Fehler](#tugenden-fehler)<br>
+&emsp;[Tugenden & Fehler](#tugenden--fehler)<br>
 &emsp;&emsp;[Neue Tugenden](#neue-tugenden-3)<br>
 &emsp;&emsp;[Neue Fehler](#neue-fehler-3)<br>
 &emsp;&emsp;[Anhang: Erweiterte Form- & Materialboni](#anhang-erweiterte-form--materialboni)<br>
@@ -880,9 +880,9 @@ Wenn das Endgültige Zwielicht über einen Bjornaer-Magus kommt, nimmt er stets 
 
 Das Äußere Mysterium des Hauses Bjornaer ist das **Herztier**, das den Ahnengeist mit der menschlichen Seele in Einklang bringt. Es bereitet den Weg für die Annahme der **Hausmysterien**, die es dem Magus ermöglichen, seinen Ahnen und ihrer Magie nachzueifern. Die **Clanmysterien** unterstützen die Clans bei der Erfüllung ihrer Pflichten gegenüber ihren Ahnen. Die **Inneren Mysterien** des Hauses Bjornaer bringen den Magus noch näher an seine Ahnen heran. Der Magus lernt durch den Prozess des **Atavismus** – der Aneignung von Ahneneigenschaften –, die Gestalt eines besonders bemerkenswerten tierischen Ahnen anzunehmen. Er erwirbt eine dritte Gestalt des Herztieres, die ihm ein äußeres Herztier (die Tiergestalt) und ein inneres Herztier (die Ahnengestalt) verleiht.
 
-### Einweihung in die Clan-Mysterien
+### Einweihung in die Clanmysterien
 
-Clanmysterien werden von älteren Mitgliedern des Clans als Mystagogen eingeweiht; diese Clanmitglieder gehören oft derselben Sippe wie der Einzuweihende an. Die von einem Clan verwendeten Einweihungsskripte sind für diesen Clan einzigartig und werden von anderen Clans nicht eingesetzt. Diese Skripte entstammen den einheimischen Überzeugungen der Gründer jedes Clans, wurden aber im Laufe der Jahre weiterentwickelt; dennoch folgen sie alle im Großen und Ganzen einer ähnlichen Vorlage. Alle Clanmysterien (mit einer Ausnahme; siehe Clan Ilfetu, oben) sind Kleine Tugenden und haben daher einen Schwierigkeitsgrad von 15. Sie erfordern einen Mystagogen, der die gesuchte Tugend kennt und einen Wert von (Präsenz + Kunde des Hauses Bjornaer) von mindestens 8 hat, obwohl ein früherer Prüfungsbonus wirksam sein kann, der diesen Wert senkt.
+In die Clanmysterien wird von älteren Mitgliedern des Clans eingeweiht, die als Mystagogen fungieren; diese Clanmitglieder gehören oft derselben Sippe wie der Einzuweihende an. Die von einem Clan verwendeten Einweihungsskripte sind für diesen Clan einzigartig und werden von anderen Clans nicht eingesetzt. Diese Skripte entstammen den einheimischen Überzeugungen der Gründer jedes Clans, wurden aber im Laufe der Jahre weiterentwickelt; dennoch folgen sie alle im Großen und Ganzen einer ähnlichen Vorlage. Alle Clanmysterien (mit einer Ausnahme; siehe Clan Ilfetu, oben) sind Kleine Tugenden und haben daher einen Schwierigkeitsgrad von 15. Sie erfordern einen Mystagogen, der die gesuchte Tugend kennt und einen Wert von (Präsenz + Kunde des Hauses Bjornaer) von mindestens 8 hat, obwohl ein früherer Prüfungsbonus wirksam sein kann, der diesen Wert senkt.
 
 **Die Prüfung des (Name)**
 
@@ -896,9 +896,9 @@ Der Einzuweihende erhält den Auftrag, eine Queste zu finden, die seinen Ahnen G
 
 Der Einzuweihende muss einen feierlichen Eid schwören, der dem Fehler Gelübde entspricht (+3) und der seinen Ahnen gefallen wird, und ein Jahr lang seine Treue zu diesem Eid unter Beweis stellen (+1). Sein Mystagoge muss dann ein Quartal darauf verwenden, ihm die neue Tugend zu lehren (+3). Wird der Eid auf geringfügige Weise gebrochen, geht die Tugend verloren, bis Wiedergutmachung geleistet wird. Wird er in schwerwiegender Weise gebrochen, ist keine Wiedergutmachung ausreichend.
 
-### Einweihung in die Haus-Mysterien
+### Einweihung in die Hausmysterien
 
-Die Hausmysterien (Herztier, Geheimer Name, Sinnesmagie, Theriomorphie) werden von Mitgliedern des Clans Ilfetu eingeweiht. Die Beschreibung jedes der unten aufgeführten Hausmysterien enthält das Einweihungsskript, obwohl dem Clan Ilfetu alternative, strengere Skripte bekannt sein können, falls der Mystagoge die einzuweihende Tugend nicht kennt oder seine Kenntnis der Hauskunde unzureichend ist. Das Ritual der Zwölf Jahre ist jedoch die einzige Methode, die das Haus zur Einweihung neuer Mitglieder einsetzt.
+In die Hausmysterien (Herztier, Geheimer Name, Sinnesmagie, Theriomorphie) wird von Mitgliedern des Clans Ilfetu eingeweiht. Die Beschreibung jedes der unten aufgeführten Hausmysterien enthält das Einweihungsskript, obwohl dem Clan Ilfetu alternative, strengere Skripte bekannt sein können, falls der Mystagoge die einzuweihende Tugend nicht kennt oder seine Kenntnis der Hauskunde unzureichend ist. Das Ritual der Zwölf Jahre ist jedoch die einzige Methode, die das Haus zur Einweihung neuer Mitglieder einsetzt.
 
 Die Einweihungsskripte für die Hausmysterien verlangen oft, dass das Ritual an einem bestimmten Ort durchgeführt wird, der mit der Kraft der Ahnen in Resonanz steht und als **Ahnenstätte** bekannt ist. Alle Mitglieder des Hauses Bjornaer kennen Crintera als einen solchen Ort, aber dem Clan Ilfetu sind weitere Orte bekannt. Diese befinden sich ausnahmslos in Gebieten unberührter Wildnis, weit entfernt von menschlichen Siedlungen, wo die Alten einst lange Pilgerreisen unternahmen, um ihren Ahnengeistern Opfer darzubringen. Die Anreise zum Ort des Rituals ist daher nicht nur eine lange Reise, sondern eine, die voller Gefahren steckt, denn die Geister hüten diese Gebiete noch immer und stellen Herausforderungen, um den Mut derer zu prüfen, die sie erreichen wollen.
 
@@ -1084,7 +1084,7 @@ Der Zauber betrifft jedes Wesen, das den Wirkenden sieht. Ziele, die in die völ
 > 
 > (Basis 10, +2 Sonne, +4 Schauspiel)
 
-### Einweihung der Mysterien des Inneren Herztieres
+### Einweihung in die Mysterien des Inneren Herztieres
 
 Wenn ein Magus des Hauses Bjornaer die Legenden seiner Ahnen erforscht, entdeckt er, dass einige von ihnen in der Lage waren, die Gestalt Großer Tiere anzunehmen, bevor sie dem Endgültigen Zwielicht erlagen, und zu Kreaturen des Mythos mit einer Vielzahl übernatürlicher Kräfte wurden. Zudem sterben jene, die als Große Tiere ins Endgültige Zwielicht eingehen, keines natürlichen Todes, und sie können aufgesucht werden, um das Geheimnis des Inneren Herztieres zu offenbaren. Der Bjornaer-Magus muss eine Kunde des Hauses Bjornaer von mindestens 5 besitzen, um zu dieser Schlussfolgerung zu gelangen. Der Spieler eines Bjornaer-Magus sollte mit seinem Spielleiter besprechen, welche Gestalt das Innere Herztier seines Magus haben soll, bevor sein Charakter mit dieser Einweihung beginnt; grob gesprochen gibt es drei Möglichkeiten: ein vollkommener **Idealtypus** seiner Spezies; eine **Chimäre** oder ein Amalgam aus zwei oder mehr Kreaturen; oder ein Anima, eine Kreatur aus reiner Elementarmaterie. Jede gilt als eigenes Inneres Mysterium des Hauses Bjornaer.
 

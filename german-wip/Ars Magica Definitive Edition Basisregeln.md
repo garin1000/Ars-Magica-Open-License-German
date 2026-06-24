@@ -6495,7 +6495,7 @@ Dieser Fehler macht saisonale Laborarbeit normalerweise unmöglich und ist daher
 
 #### Keine Hände
 *Groß, Allgemein*<br>
-Du hast keine Hände. Jede Tätigkeit, die Hände erfordert, ist unmöglich, und Magi mit diesem Fehler erhalten –5 auf alle Zauberwerte. Dies kann durch die Tugend Subtile Magie ([Seite 110](#subtile-magie)) oder die Zaubermeisterschaftsfähigkeit Stillzaubern ausgeglichen werden.
+Du hast keine Hände. Jede Tätigkeit, die Hände erfordert, ist unmöglich, und Magi mit diesem Fehler erhalten –5 auf alle Zauberwerte. Dies kann durch die Tugend Subtile Magie ([Seite 110](#subtile-magie)) oder die Meisterschaftsfähigkeit Regloses Zaubern ausgeglichen werden.
 
 #### Kein Orientierungssinn
 *Klein, Allgemein*<br>
@@ -9581,7 +9581,7 @@ Der Abzug für leises Zaubern wird um fünf verringert. Das kann keinen Bonus ge
 
 #### Widerlegung
 
-Diese Meisterschafts-Sonderfähigkeit kann auf jeden Muto- oder Rego-Vim-Zauber angewendet werden, der darauf ausgelegt ist, einen Zauber oder eine Kraft eines anderen Wesens zu beeinflussen (Zauberers Stärkung oder Aufrechterhaltung des anspruchsvollen Zaubers kommen daher nicht in Frage, wohl aber Spiegel der Gegenwirkung [Form]). Der Magus kann das Dreifache seines Meisterschaftswertes zur effektiven Stufe des Vim-Zaubers hinzuaddieren, wenn bestimmt wird, ob er die fremde Magie verändern oder beherrschen kann.
+Diese besondere Meisterschaftsfähigkeit kann auf jeden Muto- oder Rego-Vim-Zauber angewendet werden, der darauf ausgelegt ist, einen Zauber oder eine Kraft eines anderen Wesens zu beeinflussen (Zauberers Stärkung oder Aufrechterhaltung des anspruchsvollen Zaubers kommen daher nicht in Frage, wohl aber Spiegel der Gegenwirkung [Form]). Der Magus kann das Dreifache seines Meisterschaftswertes zur effektiven Stufe des Vim-Zaubers hinzuaddieren, wenn bestimmt wird, ob er die fremde Magie verändern oder beherrschen kann.
 
 #### Regloses Zaubern
 
@@ -9589,7 +9589,7 @@ Die Maga kann den Zauber ohne Gesten wirken, ohne Abzug. Der normale Bonus für 
 
 #### Auflösung
 
-Diese Meisterschafts-Sonderfähigkeit kann auf jeden Perdo-Vim-Zauber angewendet werden, der darauf ausgelegt ist, Magie zu schwächen oder zu vernichten. Der Magus kann das Dreifache seines Meisterschaftswertes zur effektiven Stufe des Perdo-Vim-Zaubers hinzuaddieren, wenn bestimmt wird, ob er den Zieleffekt vernichten kann. Ein Charakter, der diese Meisterschafts-Sonderfähigkeit und einen Meisterschaftswert von 3 besitzt und den Zauber *Hauch des Nüchternen* der Stufe 20 wirkt, kann also die Wirkungen eines Zaubers zunichte machen, wenn er die doppelte Stufe des Zaubers auf (29 + Stresswürfel) statt auf (20 + Stresswürfel) erzielt.
+Diese besondere Meisterschaftsfähigkeit kann auf jeden Perdo-Vim-Zauber angewendet werden, der darauf ausgelegt ist, Magie zu schwächen oder zu vernichten. Der Magus kann das Dreifache seines Meisterschaftswertes zur effektiven Stufe des Perdo-Vim-Zaubers hinzuaddieren, wenn bestimmt wird, ob er den Zieleffekt vernichten kann. Ein Charakter, der diese besondere Meisterschaftsfähigkeit und einen Meisterschaftswert von 3 besitzt und den Zauber *Hauch des Nüchternen* der Stufe 20 wirkt, kann also die Wirkungen eines Zaubers zunichte machen, wenn er die doppelte Stufe des Zaubers auf (29 + Stresswürfel) statt auf (20 + Stresswürfel) erzielt.
 
 ### Bücher über Zaubermeisterschaft
 

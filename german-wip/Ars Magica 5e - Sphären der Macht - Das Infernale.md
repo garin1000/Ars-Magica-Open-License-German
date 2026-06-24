@@ -84,7 +84,7 @@ Copyright 2006 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 - [Der islamische Teufel](#der-islamische-teufel)
 - [Der Fall der Engel](#der-fall-der-engel)
 
-## [Kapitel 4: Die infernalen Legionen](#kapitel-4-die-infernalen-legionen)
+## [Kapitel 4: Die infernalen Legionen](#kapitel-4--die-infernalen-legionen)
 - [Was sind Dämonen?](#was-sind-dämonen)
 - &emsp;[Die geistige Gestalt eines Dämons](#die-geistige-gestalt-eines-dämons)
 - &emsp;[Die körperliche Gestalt eines Dämons](#die-körperliche-gestalt-eines-dämons)
@@ -110,7 +110,7 @@ Copyright 2006 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Rep
 
 ## [Kapitel 6: Dämonen als Betrüger](#kapitel-6-dämonen-als-betrüger-1)
 
-## [Kapitel 7: Dämonen als Zerstörer](#kapitel-7-dämonen-als-zerstörer)
+## [Kapitel 7: Dämonen als Zerstörer](#kapitel-7--dämonen-als-zerstörer)
 
 ## [Kapitel 8: Korrumpierte Bestien](#kapitel-8-korrumpierte-bestien)
 
@@ -6145,7 +6145,7 @@ Der Zaubernde kann einen Dämon zwingen, seinen Befehlen zu gehorchen, durch Ein
 
 ### Apotropäische Meisterschaft
 
-Diese neue Spezialfähigkeit der Zaubermeisterschaft (siehe ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)) wird von vielen Magi erlernt, die Dämonen verfolgen, gewöhnlich um Dämonen zu vernichten oder sie zu vertreiben. Allerdings ist sie auch für infernalistische Magi nützlich, weshalb sie üblicherweise im Geheimen gelehrt wird, um quaesitoriale Verfolgung zu vermeiden.
+Diese neue Meisterschaftsfähigkeit (siehe ArM5, [Seite 87](<Ars Magica Definitive Edition Basisregeln.md#besondere-fähigkeiten-gemeisterter-zauber>)) wird von vielen Magi erlernt, die Dämonen verfolgen, gewöhnlich um Dämonen zu vernichten oder sie zu vertreiben. Allerdings ist sie auch für infernalistische Magi nützlich, weshalb sie üblicherweise im Geheimen gelehrt wird, um quaesitoriale Verfolgung zu vermeiden.
 
 Sie erlaubt dem Zaubernden, seinen (Meisterschaftswert x Hierarchiewert) zur Effektstufe des gemeisterten Zaubers hinzuzuaddieren. Dies kann nur für Zauber genommen werden, die Infernale Macht direkt betreffen, wie *Ewige Auslöschung des Dämons* oder *Schutzkreis gegen Dämonen*. Zauber wie die *Aegis des Herdes*, die nicht angeben, welche Art von Macht sie betreffen, sind nicht zulässig.
 
@@ -6198,11 +6198,11 @@ Beim Durchführen einer Beschwörung oder beim anderweitigen Einwirken auf einen
 
 Darüber hinaus kann ein Magus, der die Kunst des Herbeirufens besitzt, einen Geist als seinen Vertrauten binden und kann seinen Wert in Herbeirufen oder einer anderen Goetischen Kunst als die zugehörige Technik verwenden, gekoppelt mit jeder passenden Form, für die Laborsumme.
 
-Schließlich können Goetische Magi eine neue Art von Zaubermeisterschafts-Fähigkeit für alle ihre Rego-Vim-Zauber erlernen, die Geister beschwören, und die ihre Fähigkeit repräsentiert, ihr Wissen der Ars Goetia geschickter mit ihrer hermetischen Magie zu verbinden.
+Schließlich können Goetische Magi eine neue Art von Meisterschaftsfähigkeit für alle ihre Rego-Vim-Zauber erlernen, die Geister beschwören, und die ihre Fähigkeit repräsentiert, ihr Wissen der Ars Goetia geschickter mit ihrer hermetischen Magie zu verbinden.
 
 #### Goetische Meisterschaft
 
-Diese Spezialfähigkeit kann nur für Zauber genommen werden, die Geister zum Ziel haben: Dämonen, Gespenster, feenhafte Schatten oder andere unkörperliche Wesen mit einem Machtwert.
+Diese Meisterschaftsfähigkeit kann nur für Zauber genommen werden, die Geister zum Ziel haben: Dämonen, Gespenster, feenhafte Schatten oder andere unkörperliche Wesen mit einem Machtwert.
 
 Der Zaubernde darf einen seiner Werte in Herbeirufen, Befehligen, Bindung oder Abtragung (je nachdem, welche dieser vier Künste dem Effekt des zugehörigen Zaubers am besten entspricht) zu seiner Zaubersumme addieren, wann immer er diesen Zauber wirkt. Er addiert außerdem seinen (Hierarchiewert x 5) zu seiner Penetrationssumme, wenn er diesen Zauber auf einen Dämon wirkt. Der Spielleiter sollte in solchen Fällen auch den (Hierarchiewert x 5) des Dämons vom Ergebnis abziehen.
 
