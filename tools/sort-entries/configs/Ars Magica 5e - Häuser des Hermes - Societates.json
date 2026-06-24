@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_file": "Ars Magica 5e - Häuser des Hermes - Societates.md",
-  "file_hash": "sha256:3da5e796e05e00fc",
+  "file_hash": "sha256:455657c4e6aaafa5",
   "sections": [
     {
       "heading": "## Haus Flambeau im Jahr 1220",
@@ -116,14 +116,14 @@
       "subheading": "### Neue Tugenden"
     },
     {
-      "heading": "## Urbane Magie",
+      "heading": "## Stadtmagie",
       "type": "desc_blocks",
       "enabled": false,
       "note": "6 H4-Blöcke",
       "subheading": "### Kleine Effekte und hohe Penetrationsboni"
     },
     {
-      "heading": "## Urbane Magie",
+      "heading": "## Stadtmagie",
       "type": "bold_blocks",
       "enabled": false,
       "note": "5 Fetteinträge",
@@ -141,7 +141,7 @@
       "type": "table",
       "enabled": false,
       "note": "3 Tabellenzeilen",
-      "subheading": "### Wandernde Spezies"
+      "subheading": "### Wandernde Species"
     },
     {
       "heading": "## Die Sinnesorgane treffen",
@@ -413,7 +413,7 @@
       "note": "5 Fetteinträge (Blockquote)"
     },
     {
-      "heading": "## Merkurische Zaubermeisterschafts-Sonderfähigkeiten",
+      "heading": "## Merkurische besondere Meisterschaftsfähigkeiten",
       "type": "bold_blocks",
       "blockquote": true,
       "enabled": true,

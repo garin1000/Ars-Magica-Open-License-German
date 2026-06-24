@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_file": "Ars Magica 5e - Häuser des Hermes - Wahre Linien.md",
-  "file_hash": "sha256:2b3b2a381b61320e",
+  "file_hash": "sha256:606d5ee80cd6f5ec",
   "sections": [
     {
       "heading": "## Die Magi des Hauses Bonisagus",
@@ -153,7 +153,7 @@
       "type": "desc_blocks",
       "enabled": true,
       "note": "9 H4-Blöcke",
-      "subheading": "### Spezialfähigkeiten gemeisterter Zauber"
+      "subheading": "### Besondere Fähigkeiten gemeisterter Zauber"
     },
     {
       "heading": "## Zauber",

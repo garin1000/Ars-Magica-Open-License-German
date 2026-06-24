@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source_file": "Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md",
-  "file_hash": "sha256:1fe4f48348014dd6",
+  "file_hash": "sha256:8381ccc18ee3ac2e",
   "sections": [
     {
       "heading": "## Bräuche von Haus Bjornaer",
@@ -36,28 +36,28 @@
       "type": "bold_blocks",
       "enabled": true,
       "note": "3 Fetteinträge",
-      "subheading": "### Einweihung der Clanmysterien"
+      "subheading": "### Einweihung in die Clanmysterien"
     },
     {
       "heading": "## Die Mysterien des Hauses Bjornaer",
       "type": "desc_blocks",
       "enabled": true,
       "note": "5 H4-Blöcke",
-      "subheading": "### Einweihung der Hausmysterien"
+      "subheading": "### Einweihung in die Hausmysterien"
     },
     {
       "heading": "## Die Mysterien des Hauses Bjornaer",
       "type": "bold_blocks",
       "enabled": true,
       "note": "21 Fetteinträge",
-      "subheading": "### Einweihung der Hausmysterien"
+      "subheading": "### Einweihung in die Hausmysterien"
     },
     {
       "heading": "## Die Mysterien des Hauses Bjornaer",
       "type": "bold_blocks",
       "enabled": true,
       "note": "4 Fetteinträge",
-      "subheading": "### Einweihung der Mysterien des Inneren Herztieres"
+      "subheading": "### Einweihung in die Mysterien des Inneren Herztieres"
     },
     {
       "heading": "## Die Mysterien des Hauses Bjornaer",

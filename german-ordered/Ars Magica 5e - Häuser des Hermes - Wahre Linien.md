@@ -54,162 +54,162 @@ October 2005
 
 **Digital Edition Version 1.0**
 
-# Inhaltsverzeichnis
+[Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-**Kapitel Eins: Haus Bonisagus**<br>
+**[Kapitel Eins: Haus Bonisagus](#kapitel-eins-haus-bonisagus)**<br>
 &emsp;&emsp;Wichtige Fakten<br>
-&emsp;&emsp;Berühmte Persönlichkeiten<br>
-&emsp;Geschichte<br>
-&emsp;&emsp;Der Gründer Bonisagus<br>
-&emsp;&emsp;Die Gründerin Trianoma<br>
-&emsp;&emsp;Die Prägenden Jahre<br>
-&emsp;&emsp;Das Ende der Gründer<br>
-&emsp;&emsp;Der Schismakrieg<br>
-&emsp;Hausorganisation im Jahr 1220<br>
-&emsp;&emsp;Das Geschlecht der Linien<br>
-&emsp;&emsp;Hausnomenklatur<br>
-&emsp;&emsp;Die Ränge der Magi Bonisagi<br>
-&emsp;&emsp;Die Inneren Zirkel<br>
-&emsp;&emsp;Colentes Arcanorum<br>
-&emsp;&emsp;Tenentes Occultorum<br>
-&emsp;&emsp;Colloquium Delectorum<br>
-&emsp;&emsp;Primus<br>
-&emsp;&emsp;Sucher<br>
-&emsp;Die Magi des Hauses Bonisagus<br>
-&emsp;&emsp;Häufige Tugenden und Fehler<br>
-&emsp;&emsp;Lehrlinge<br>
-&emsp;&emsp;Magi Bonisagi<br>
-&emsp;&emsp;Magi Trianomae<br>
-&emsp;Einrichtungen des Hauses<br>
-&emsp;&emsp;Ansehen im Haus<br>
-&emsp;&emsp;Folios<br>
+&emsp;&emsp;[Berühmte Persönlichkeiten](#berühmte-persönlichkeiten-1)<br>
+&emsp;[Geschichte](#geschichte-2)<br>
+&emsp;&emsp;[Der Gründer Bonisagus](#der-gründer-bonisagus)<br>
+&emsp;&emsp;[Die Gründerin Trianoma](#die-gründerin-trianoma)<br>
+&emsp;&emsp;[Die Prägenden Jahre](#die-prägenden-jahre)<br>
+&emsp;&emsp;[Das Ende der Gründer](#das-ende-der-gründer)<br>
+&emsp;&emsp;[Der Schismakrieg](#der-schismakrieg)<br>
+&emsp;[Hausorganisation im Jahr 1220](#hausorganisation-im-jahr-1220)<br>
+&emsp;&emsp;[Das Geschlecht der Linien](#das-geschlecht-der-linien)<br>
+&emsp;&emsp;[Hausnomenklatur](#hausnomenklatur)<br>
+&emsp;&emsp;[Die Ränge der Magi Bonisagi](#die-ränge-der-magi-bonisagi)<br>
+&emsp;&emsp;[Die Inneren Zirkel](#die-inneren-zirkel)<br>
+&emsp;&emsp;[Colentes Arcanorum](#colentes-arcanorum)<br>
+&emsp;&emsp;[Tenentes Occultorum](#tenentes-occultorum)<br>
+&emsp;&emsp;[Colloquium Delectorum](#colloquium-delectorum)<br>
+&emsp;&emsp;[Der Primus](#der-primus)<br>
+&emsp;&emsp;[Sucher](#sucher)<br>
+&emsp;[Die Magi des Hauses Bonisagus](#die-magi-des-hauses-bonisagus)<br>
+&emsp;&emsp;[Häufige Tugenden und Fehler](#häufige-tugenden-und-fehler)<br>
+&emsp;&emsp;[Lehrlinge](#lehrlinge-1)<br>
+&emsp;&emsp;[Magi Bonisagi](#magi-bonisagi)<br>
+&emsp;&emsp;[Magi Trianomae](#magi-trianomae)<br>
+&emsp;[Einrichtungen des Hauses](#einrichtungen-des-hauses)<br>
+&emsp;&emsp;[Ansehen im Haus: Status in Haus Bonisagus](#ansehen-im-haus-status-in-haus-bonisagus)<br>
+&emsp;&emsp;[Folios](#folios)<br>
 &emsp;&emsp;Intrige<br>
-&emsp;&emsp;Neue Tugenden und Fehler<br>
-&emsp;Originäre Forschung<br>
-&emsp;Beispielentdeckungen<br>
-&emsp;&emsp;Arma Magica<br>
-&emsp;&emsp;Parmulae<br>
-&emsp;&emsp;Figurenmagie<br>
-&emsp;&emsp;Sphärengebundene Zauber<br>
+&emsp;&emsp;[Neue Tugenden und Fehler](#neue-tugenden-und-fehler)<br>
+&emsp;[Originäre Forschung](#originäre-forschung)<br>
+&emsp;[Beispielentdeckungen](#beispielentdeckungen)<br>
+&emsp;&emsp;[Arma Magica](#arma-magica)<br>
+&emsp;&emsp;[Parmulae](#parmulae)<br>
+&emsp;&emsp;[Figurenmagie](#figurenmagie)<br>
+&emsp;&emsp;[Sphärengebundene Zauber](#sphärengebundene-zauber)<br>
 <br>
-**Kapitel Zwei: Haus Guernicus**<br>
+**[Kapitel Zwei: Haus Guernicus](#kapitel-zwei-haus-guernicus)**<br>
 &emsp;&emsp;Wichtige Fakten<br>
-&emsp;&emsp;Berühmte Persönlichkeiten<br>
-&emsp;&emsp;Kapitelstruktur<br>
-&emsp;Geschichte<br>
-&emsp;&emsp;Vor dem Orden<br>
-&emsp;&emsp;Die Gründung des Ordens<br>
-&emsp;&emsp;Die Quaesitores<br>
-&emsp;&emsp;Das Leben des Guernicus<br>
-&emsp;&emsp;Fenicil<br>
-&emsp;&emsp;Die Duresca-Schriftrollen<br>
-&emsp;&emsp;Der Schismakrieg<br>
-&emsp;&emsp;Traditionalisten/Transitionalisten<br>
-&emsp;Organisation<br>
-&emsp;&emsp;Mitgliederzahl<br>
-&emsp;&emsp;Domus Magna<br>
-&emsp;&emsp;Prima<br>
-&emsp;&emsp;Der Rat von Magvillus<br>
-&emsp;&emsp;Aufgaben<br>
-&emsp;Der Kodex des Hermes<br>
-&emsp;&emsp;Ursprünge<br>
-&emsp;&emsp;Verwirkung der Immunität<br>
-&emsp;&emsp;Der Hermetische Eid<br>
-&emsp;&emsp;Hohe und Niedere Vergehen<br>
-&emsp;&emsp;Der Periphere Kodex<br>
-&emsp;Tribunalsverfahren<br>
-&emsp;&emsp;Vorbereitung eines Falls<br>
-&emsp;&emsp;Darlegung des Falls<br>
-&emsp;&emsp;Freispruch<br>
-&emsp;&emsp;Verurteilung<br>
-&emsp;Strafen<br>
-&emsp;&emsp;Festsetzung der Strafen<br>
-&emsp;&emsp;Zug der Magier<br>
-&emsp;&emsp;Bestrafungen<br>
-&emsp;Pflichten und Befugnisse der Quaesitores<br>
-&emsp;&emsp;Quaesitor in gutem Ansehen<br>
-&emsp;&emsp;Ermittlungspflichten<br>
-&emsp;&emsp;Kooperation<br>
-&emsp;&emsp;Ermittlungsimmunität<br>
-&emsp;&emsp;Entschädigung<br>
-&emsp;&emsp;Ausrufen eines Zugs der Magier<br>
-&emsp;&emsp;Beratung und Schlichtung<br>
-&emsp;&emsp;Tribunalspflichten<br>
-&emsp;Magi des Hauses Guernicus<br>
-&emsp;&emsp;Lehrlinge<br>
-&emsp;&emsp;Einen Guernicus-Magus spielen<br>
-&emsp;&emsp;Quaesitor sein<br>
-&emsp;&emsp;Hoplit sein<br>
-&emsp;&emsp;Advokat sein<br>
-&emsp;&emsp;Spezialist für magische Ermittlungen sein<br>
-&emsp;&emsp;Terrae-Magus sein<br>
-&emsp;&emsp;Politik und Aufstieg bei Guernicus<br>
-&emsp;Geschichten für einen Quaesitor leiten<br>
-&emsp;Verbündete<br>
-&emsp;&emsp;Hopliten<br>
-&emsp;&emsp;Rotkappen<br>
-&emsp;&emsp;Custodes<br>
-&emsp;Quaesitoriale Magie<br>
-&emsp;&emsp;Geschärfter Sinn<br>
-&emsp;&emsp;Zauberspuren und Sigils<br>
-&emsp;&emsp;Zauber und Leitlinien<br>
-&emsp;Fenicils Rituale<br>
-&emsp;&emsp;Große Rituale<br>
-&emsp;&emsp;Kleine Rituale<br>
+&emsp;&emsp;[Berühmte Persönlichkeiten](#berühmte-persönlichkeiten-1)<br>
+&emsp;&emsp;[Kapitelstruktur](#kapitelstruktur)<br>
+&emsp;[Geschichte](#geschichte-2)<br>
+&emsp;&emsp;[Vor dem Orden](#vor-dem-orden-1)<br>
+&emsp;&emsp;[Die Gründung des Ordens](#die-gründung-des-ordens)<br>
+&emsp;&emsp;[Die Quaesitores](#die-quaesitores)<br>
+&emsp;&emsp;[Das Leben des Guernicus](#das-leben-des-guernicus)<br>
+&emsp;&emsp;[Fenicil](#fenicil)<br>
+&emsp;&emsp;[Duresca-Schriftrollen](#duresca-schriftrollen)<br>
+&emsp;&emsp;[Der Schismakrieg](#der-schismakrieg)<br>
+&emsp;&emsp;[Traditionalisten / Transitionalisten](#traditionalisten--transitionalisten)<br>
+&emsp;[Organisation](#organisation)<br>
+&emsp;&emsp;[Mitgliederzahl](#mitgliederzahl)<br>
+&emsp;&emsp;[Domus Magna](#domus-magna)<br>
+&emsp;&emsp;[Prima](#prima)<br>
+&emsp;&emsp;[Der Rat von Magvillus](#der-rat-von-magvillus)<br>
+&emsp;&emsp;[Aufgaben](#aufgaben)<br>
+&emsp;[Der Kodex des Hermes](#der-kodex-des-hermes)<br>
+&emsp;&emsp;[Ursprünge](#ursprünge)<br>
+&emsp;&emsp;[Verwirkung der Immunität](#verwirkung-der-immunität)<br>
+&emsp;&emsp;[Der Hermetische Eid](#der-hermetische-eid)<br>
+&emsp;&emsp;[Hohe und Niedere Vergehen](#hohe-und-niedere-vergehen)<br>
+&emsp;&emsp;[Der Periphere Kodex](#der-periphere-kodex)<br>
+&emsp;[Tribunalsverfahren](#tribunalsverfahren)<br>
+&emsp;&emsp;[Vorbereitung eines Falls](#vorbereitung-eines-falls)<br>
+&emsp;&emsp;[Darlegung des Falls](#darlegung-des-falls)<br>
+&emsp;&emsp;[Freispruch](#freispruch)<br>
+&emsp;&emsp;[Verurteilung](#verurteilung)<br>
+&emsp;[Strafen](#strafen)<br>
+&emsp;&emsp;[Festsetzung der Strafen](#festsetzung-der-strafen)<br>
+&emsp;&emsp;[Zug der Magier](#zug-der-magier)<br>
+&emsp;&emsp;[Bestrafungen](#bestrafungen-1)<br>
+&emsp;[Pflichten und Befugnisse der Quaesitores](#pflichten-und-befugnisse-der-quaesitores)<br>
+&emsp;&emsp;[Quaesitor in gutem Ansehen](#quaesitor-in-gutem-ansehen)<br>
+&emsp;&emsp;[Ermittlungspflichten](#ermittlungspflichten)<br>
+&emsp;&emsp;[Kooperation](#kooperation)<br>
+&emsp;&emsp;[Ermittlungsimmunität](#ermittlungsimmunität)<br>
+&emsp;&emsp;[Entschädigung](#entschädigung)<br>
+&emsp;&emsp;[Ausrufen eines Zugs der Magier](#ausrufen-eines-zugs-der-magier)<br>
+&emsp;&emsp;[Beratung und Schlichtung](#beratung-und-schlichtung)<br>
+&emsp;&emsp;[Tribunalspflichten](#tribunalspflichten)<br>
+&emsp;[Magi des Hauses Guernicus](#magi-des-hauses-guernicus)<br>
+&emsp;&emsp;[Lehrlinge](#lehrlinge-1)<br>
+&emsp;&emsp;[Einen Guernicus-Magus spielen](#einen-guernicus-magus-spielen)<br>
+&emsp;&emsp;[Ein Quaesitor sein](#ein-quaesitor-sein)<br>
+&emsp;&emsp;[Ein Hoplit sein](#ein-hoplit-sein)<br>
+&emsp;&emsp;[Ein Advokat sein](#ein-advokat-sein)<br>
+&emsp;&emsp;[Ein Spezialist für magische Ermittlungen sein](#ein-spezialist-für-magische-ermittlungen-sein)<br>
+&emsp;&emsp;[Ein Terrae-Magus sein](#ein-terrae-magus-sein)<br>
+&emsp;&emsp;[Politik und Aufstieg im Haus Guernicus](#politik-und-aufstieg-im-haus-guernicus)<br>
+&emsp;[Geschichten für einen Quaesitor leiten](#geschichten-für-einen-quaesitor-leiten)<br>
+&emsp;[Verbündete](#verbündete)<br>
+&emsp;&emsp;[Hopliten](#hopliten)<br>
+&emsp;&emsp;[Rotkappen](#rotkappen-1)<br>
+&emsp;&emsp;[Custodes](#custodes)<br>
+&emsp;[Quaesitoriale Magie](#quaesitoriale-magie)<br>
+&emsp;&emsp;[Geschärfter Sinn](#geschärfter-sinn)<br>
+&emsp;&emsp;[Zauberspuren und Sigils](#zauberspuren-und-sigils)<br>
+&emsp;&emsp;[Zauber und Leitlinien](#zauber-und-leitlinien)<br>
+&emsp;[Fenicils Rituale](#fenicils-rituale)<br>
+&emsp;&emsp;[Große Rituale](#große-rituale)<br>
+&emsp;&emsp;[Kleine Rituale](#kleine-rituale)<br>
 <br>
-**Kapitel Drei: Haus Mercere**<br>
-&emsp;Mercere der Gründer<br>
-&emsp;Rotkappen<br>
-&emsp;&emsp;Boten und Herolde<br>
-&emsp;&emsp;Händler und Bankiers<br>
-&emsp;&emsp;Söldner und Wächter<br>
-&emsp;&emsp;Spielleute und Wanderer<br>
-&emsp;Magische Merceres<br>
-&emsp;&emsp;Merkurische Magi<br>
-&emsp;&emsp;Mutantes<br>
-&emsp;&emsp;Andere Spezialisierungen<br>
-&emsp;Laborregeln<br>
-&emsp;&emsp;Spezialfähigkeiten gemeisterter Zauber<br>
-&emsp;&emsp;Merceres Portale<br>
-&emsp;Magieregeln<br>
-&emsp;&emsp;Mutantum-Magie<br>
-&emsp;Zauber<br>
-&emsp;&emsp;Mutantum-Zauber<br>
-&emsp;&emsp;Andere Zauber<br>
-&emsp;Tugenden und Fehler<br>
-&emsp;&emsp;Tugenden<br>
-&emsp;&emsp;Fehler<br>
+**[Kapitel Drei: Haus Mercere](#kapitel-drei-haus-mercere)**<br>
+&emsp;[Mercere der Gründer](#mercere-der-gründer)<br>
+&emsp;[Rotkappen](#rotkappen-1)<br>
+&emsp;&emsp;[Boten und Herolde](#boten-und-herolde)<br>
+&emsp;&emsp;[Händler und Bankiers](#händler-und-bankiers)<br>
+&emsp;&emsp;[Söldner und Wächter](#söldner-und-wächter)<br>
+&emsp;&emsp;[Spielleute und Wanderer](#spielleute-und-wanderer)<br>
+&emsp;[Magische Merceres](#magische-merceres)<br>
+&emsp;&emsp;[Merkurische Magi](#merkurische-magi-1)<br>
+&emsp;&emsp;[Mutantes](#mutantes-1)<br>
+&emsp;&emsp;[Andere Spezialisierungen](#andere-spezialisierungen)<br>
+&emsp;[Laborregeln](#laborregeln)<br>
+&emsp;&emsp;[Besondere Fähigkeiten gemeisterter Zauber](#besondere-fähigkeiten-gemeisterter-zauber)<br>
+&emsp;&emsp;[Merceres Portale](#merceres-portale-1)<br>
+&emsp;[Magieregeln](#magieregeln)<br>
+&emsp;&emsp;[Mutantum-Magie](#mutantum-magie-1)<br>
+&emsp;[Zauber](#zauber)<br>
+&emsp;&emsp;[Mutantum-Zauber](#mutantum-zauber)<br>
+&emsp;&emsp;[Andere Zauber](#andere-zauber)<br>
+&emsp;[Tugenden und Fehler](#tugenden-und-fehler-1)<br>
+&emsp;&emsp;[Tugenden](#tugenden-1)<br>
+&emsp;&emsp;[Fehler](#fehler-1)<br>
 <br>
-**Kapitel Vier: Haus Tremere**<br>
+**[Kapitel Vier: Haus Tremere](#kapitel-vier-haus-tremere)**<br>
 &emsp;&emsp;Wichtige Fakten<br>
-&emsp;&emsp;Berühmte Persönlichkeiten<br>
-&emsp;Symbole<br>
-&emsp;Geschichte<br>
-&emsp;&emsp;Vor dem Orden<br>
-&emsp;&emsp;Der Letzte Gründer<br>
-&emsp;&emsp;Das Haus nach Tremere<br>
-&emsp;&emsp;Weltliche Angelegenheiten<br>
-&emsp;&emsp;Coeris<br>
-&emsp;Das Haus im Jahr 1220<br>
-&emsp;&emsp;Pragmatische Haltung<br>
-&emsp;&emsp;Militärisches Ethos<br>
-&emsp;&emsp;Ehrfurcht vor der Ordnung<br>
-&emsp;&emsp;Verbreitung<br>
-&emsp;&emsp;Politische Prioritäten<br>
-&emsp;Struktur<br>
-&emsp;&emsp;Vexillationen<br>
-&emsp;Aufstieg durch Stärke<br>
-&emsp;Magi des Hauses Tremere gestalten<br>
-&emsp;&emsp;Künste und Zauber<br>
-&emsp;&emsp;Tugenden und Fehler<br>
-&emsp;&emsp;Fertigkeiten<br>
-&emsp;&emsp;Beliebte magische Gegenstände im Haus<br>
-&emsp;&emsp;Spezialistenrollen<br>
-&emsp;Duellieren<br>
-&emsp;&emsp;Certamen-Stile<br>
-&emsp;Neue Zauber<br>
-&emsp;Ergänzungen zur Form- und Materialbonustabelle<br>
-&emsp;Neue Tugenden<br>
+&emsp;&emsp;[Berühmte Persönlichkeiten](#berühmte-persönlichkeiten-1)<br>
+&emsp;[Symbole](#symbole)<br>
+&emsp;[Geschichte](#geschichte-2)<br>
+&emsp;&emsp;[Vor dem Orden](#vor-dem-orden-1)<br>
+&emsp;&emsp;[Der Letzte Gründer](#der-letzte-gründer)<br>
+&emsp;&emsp;[Das Haus nach Tremere](#das-haus-nach-tremere)<br>
+&emsp;&emsp;[Weltliche Angelegenheiten](#weltliche-angelegenheiten)<br>
+&emsp;&emsp;[Coeris](#coeris)<br>
+&emsp;[Das Haus im Jahr 1220](#das-haus-im-jahr-1220)<br>
+&emsp;&emsp;[Pragmatische Haltung](#pragmatische-haltung)<br>
+&emsp;&emsp;[Militärisches Ethos](#militärisches-ethos)<br>
+&emsp;&emsp;[Ehrfurcht vor Ordnung](#ehrfurcht-vor-ordnung)<br>
+&emsp;&emsp;[Verbreitung](#verbreitung)<br>
+&emsp;&emsp;[Politische Prioritäten](#politische-prioritäten)<br>
+&emsp;[Struktur](#struktur)<br>
+&emsp;&emsp;[Vexillationen](#vexillationen)<br>
+&emsp;[Aufstieg durch Stärke](#aufstieg-durch-stärke)<br>
+&emsp;[Magi des Hauses Tremere gestalten](#magi-des-hauses-tremere-gestalten)<br>
+&emsp;&emsp;[Künste und Zauber](#künste-und-zauber)<br>
+&emsp;&emsp;[Tugenden und Fehler](#tugenden-und-fehler-1)<br>
+&emsp;&emsp;[Fertigkeiten](#fertigkeiten)<br>
+&emsp;&emsp;[Im Haus beliebte magische Gegenstände](#im-haus-beliebte-magische-gegenstände)<br>
+&emsp;&emsp;[Spezialistenrollen](#spezialistenrollen)<br>
+&emsp;[Duellieren](#duellieren)<br>
+&emsp;&emsp;[Certamen-Stile](#certamen-stile)<br>
+&emsp;[Neue Zauber](#neue-zauber)<br>
+&emsp;[Ergänzungen zur Form- und Materialbonustabelle](#ergänzungen-zur-form--und-materialbonustabelle)<br>
+&emsp;[Neue Tugenden](#neue-tugenden)<br>
 <br>
 **Zeitleiste**<br>
 
@@ -238,27 +238,27 @@ Die folgenden Seiten beschreiben Haus Bonisagus im Detail, beginnend mit seinen 
 Bonisagus wurde im Jahr 690 in Florenz geboren. Beunruhigt durch seine mächtige Gabe, schickten ihn seine Eltern zu seinem Onkel, einem Diakon in der Kirche Or San Michele, in der Hoffnung, dass dessen beruhigende Gegenwart den Jungen heilen möge. Sein Onkel erkannte Bonisagus' wahre Natur und förderte die Neigungen des Jungen, statt sie zu unterdrücken. Redegewandt und charismatisch verbrachte Bonisagus seine frühen Jahre damit, die Bibliothek seines Onkels zu durchstöbern und den umherziehenden Rednern zu lauschen, die von den Stufen der Kirche predigten.
 
 > ## Eckdaten
-> 
+>
 > **Anzahl:** 81 (52 Magi Bonisagi, 29 Magi Trianomae)
-> 
-> **Domus Magna:** Durenmar im Rheintribunal.
-> 
-> **Prima:** Die Erzmaga Murion. Eine skrupellose Intrigantin und überzeugte Konservative führt Murion das Haus auf einem ehrgeizigen Pfad, der — wenn er Erfolg hat — die Macht des Hauses Bonisagus unter den Häusern wiederherstellen wird.
-> 
+>
 > **Bevorzugte Tribunale:** Das Rhein- und das Römische Tribunal, gefolgt vom Iberischen und dem Languedoc-Tribunal.
-> 
+>
+> **Domus Magna:** Durenmar im Rheintribunal.
+>
+> **Prima:** Die Erzmaga Murion. Eine skrupellose Intrigantin und überzeugte Konservative führt Murion das Haus auf einem ehrgeizigen Pfad, der — wenn er Erfolg hat — die Macht des Hauses Bonisagus unter den Häusern wiederherstellen wird.
+>
 > ## Berühmte Persönlichkeiten
-> 
+>
 > **Bonisagus,** Erfinder der Parma Magica und der hermetischen Magietheorie, Gründer des Hauses.
-> 
-> **Trianoma,** Visionärin und Verantwortliche für die Gründung des Ordens des Hermes, Gründerin des Hauses.
-> 
+>
 > **Lucian,** Trianomas erster Lehrling, der erste Sucher. **Viea,** Trianomas Zwillingsschwester, Feindin des Ordens.
-> 
+>
 > **Notatus,** erster Primus, Lehrling von Bonisagus, Erfinder der *Aegis des Herdes.*
-> 
+>
 > **Thamus Collis,** Primus während des Schismakriegs. **Jovius,** letzter Lehrling von Bonisagus, durch seinen Parens dem Zug der Magier überantwortet.
-> 
+>
+> **Trianoma,** Visionärin und Verantwortliche für die Gründung des Ordens des Hermes, Gründerin des Hauses.
+>
 > ## Durenmar: Domus Magna
 > 
 > Die Domus Magna des Hauses Bonisagus ist Durenmar, gelegen im Schwarzwald im Heiligen Römischen Reich (dem heutigen Deutschland). Erbaut auf den Ruinen eines merkurischen Tempels, ist es der Ort, an dem die Zwölf Gründer im Jahr 767 dem Orden des Hermes die Treue schworen. Es besteht aus drei Türmen, einem Forum und mehreren Nebengebäuden in einem der wenigen Täler des Waldes. Die drei Türme sind nach den drei bedeutendsten Magi des Hauses Bonisagus benannt. Der Turm des Bonisagus beherbergt die Große Bibliothek, eine unübertroffene Büchersammlung. Der Turm des Notatus enthält die Wohnräume der ansässigen Magi Bonisagi, einschließlich der Prima Murion. Der Turm der Trianoma ist die Heimstatt der Magi Trianomae, Rotkappen und anderer Magi, die nicht zum Haus Bonisagus gehören. Das Forum des Hermes ist der Ort, an dem die Sitzungen des Rheintribunals und die Großtribunale abgehalten werden. Wesentlich mehr Informationen über Durenmar finden sich in *Wächter des Waldes: Das Rhein-Tribunal*.
@@ -400,7 +400,7 @@ Die vier Gebiete basieren auf einer römischen Vorstellung des Mythischen Europa
 
 Dies sind gewaltige Gebiete, und die Tenentes Occultorum sind auf die Hilfe von Rotkappen und anderen Magi Trianomae angewiesen. Sie sind auch in Konventen stationiert, die ihnen helfen können — Sommer- oder Herbstkonvente, die den Tenentes menschliche und magische Unterstützung bieten können. Einen Tenens im Konvent einer Saga stationiert zu haben, kann zahlreiche Aufhänger für Geschichten liefern, die die Charaktere aus dem Konvent hinaustreiben.
 
-Wenn ein Spieler es wünscht, kann sein Magus Trianomae das Spiel als Tenens beginnen. Der Charakter muss die Kleine Status-Tugend: Tenens Occultorum besitzen und wird höchstwahrscheinlich die Position des Frühlings-Tenens einnehmen, es sei denn, er wurde nach den Regeln im Abschnitt „Nach der Lehrzeit" des Charaktere-Kapitels von **Ars Magica** 5. Edition (Seite 32) weiterentwickelt.
+Wenn ein Spieler es wünscht, kann sein Magus Trianomae das Spiel als Tenens beginnen. Der Charakter muss die Kleine Status-Tugend: Tenens Occultorum besitzen und wird höchstwahrscheinlich die Position des Frühlings-Tenens einnehmen, es sei denn, er wurde nach den Regeln im Abschnitt „Nach der Lehrzeit" des Charaktere-Kapitels von **Ars Magica** 5. Edition ([Seite 32](<Ars Magica Definitive Edition Basisregeln.md#nur-magi--nach-der-lehrlingszeit>)) weiterentwickelt.
 
 Die Hauptverantwortung der Tenentes besteht darin, magische Geheimnisse aus den Händen von Sterblichen fernzuhalten. Dazu verfolgen sie nach besten Kräften, woran jeder Magus Bonisagi in ihrem Gebiet forscht und wo sich Kopien dieser Forschung befinden. Nichts zwingt die Magi zur Mitwirkung, und bisweilen ist dies ein aussichtsloses Unterfangen. Die Tenentes Occultorum achten besonders auf Labortexte und Tractatus, die Magi Bonisagi an die Colentes Arcanorum senden. Diese Texte sind schon mehr als einmal verloren gegangen, was den Tenentes erhebliche Sorgen bereitet. Geht ein Text verloren, liegt es in der Verantwortung des zuständigen Tenens, ihn zurückzuholen — zunächst mit Hilfe etwaiger Magi Trianomae in der Umgebung, dann mit Rotkappen oder Magi anderer Häuser.
 
@@ -433,65 +433,65 @@ Der Primus ernennt auch seinen Nachfolger, der das Amt auf Lebenszeit innehat. S
 Ein künftiger Primus muss mehrere Voraussetzungen erfüllen. Erstens muss er ein Magus Bonisagi sein, da kein Magus Trianomae jemals davon träumen würde, das Haus offen zu führen. Es ist üblich, dass der Primus ein Erzmagus ist (siehe *Wächter des Waldes: Das Rhein-Tribunal*), aber nicht zwingend. Er muss erfolgreich einen Lehrling ausgebildet und sein Wissen persönlich weitergegeben haben. Er muss zudem ein *Dendrophori* sein, die höchste Statusstufe, die ein Magus Bonisagus erreichen kann. Schließlich muss ein künftiger Primus als Colens Arcanorum gedient haben, um die Organisation und Bürokratie des Hauses aus eigener Erfahrung zu kennen. Im Jahr 1220 gibt es etwa ein halbes Dutzend Magi Bonisagi, die als Primus des Hauses in Frage kommen.
 
 > ## Glaucon, Magus Trianomae und Sucher
-> 
-> **Eigenschaften:** Int +3, Wah +3, Prä 0, Kom +1, Stä 0, Aus
-> 
-> +1, Ges -1, Sck 0
-> 
-> **Größe:** 0 **Alter:** 29 (6 Jahre nach der Lehrlingsprüfung)
-> 
-> **Gebrechlichkeit:** 0 **Verzerrungswert:** 0 (2) **Selbstvertrauenswert:** 1 (4)
-> 
-> **Tugenden und Fehler:** Die Gabe; Hermetischer Magus; Sanfte Gabe; Affinität zu Intellego, Verbesserte Eigenschaften (x2), Persönliche Vis-Quelle, Begabung in Intrige (Freie Tugend), Zweites Gesicht, Willensstark, Studierbonus; Feinde, Schmerzhafte Magie; Desorientierungsmagie, Berüchtigt, Zittrige Hände, Sucher
-> 
-> **Persönlichkeitseigenschaften:** Neugierig +3, Beharrlich +3, Selbstsüchtig +2 **Reputation:** Grabräuber 4 (Tribunal der Hohen Alpen)
-> 
-> **Kampf:** Ausweichen: Init +0, Angriff n/v, Verteidigung +3, Schaden n/v
-> 
+>
 > **Absorption:** 1
-> 
-> **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
-> 
-> **Wundabzüge:** –1 (1-5), –3 (6-10), –5 (11-15), Lähmend (16-20)
-> 
-> **Fertigkeiten:** Athletik 3 (Höhlenforschung), Artes Liberales 1 (Geometrie), Aufmerksamkeit 2 (Hinterhalte), Raufen 2 (Ausweichen), Konzentration 1 (bei Verwundung), Feenkunde 1 (Bergfeen), Täuschung 2 (vergangene Aktivitäten verbergen), Intrige 2 (+2) (Interessen anderer erkennen), Kunde des Königreichs Aragón 2 (Berge), Latein 4 (kartographische Fachbegriffe), Parma Magica 3 (Mentem), Penetration 3 (Mentem), Magiekunde 2 (merkurische Tempel), Magietheorie 3 (Zauber erfinden), Reiten 1 (Strecken), Zweites Gesicht 1 (Geister), Spanisch 5 (blumige Ausdrucksweise), Überleben 2 (Berge)
-> 
-> **Künste:** Cr 0, In 9, Mu 2, Pe 8, Re 3; An 0, Aq 0, Au 0, Co 6, He 0, Ig 1, Im 1, Me 10, Te 0, Vi 7
-> 
-> **Zwielichtnarben:** Keine
-> 
+>
+> **Anmerkungen:** Glaucon ist ein Sucher, der sich auf die Durchsuchung gebirgiger Regionen nach alten merkurischen Tempeln spezialisiert hat. Das Wirken von Zaubern bereitet Glaucon Schmerzen, und er glaubt, dass das Auffinden einer älteren Magiequelle ihm helfen wird, die qualvolle Natur seiner Gabe zu verstehen. Glaucon meidet andere Magi seines Hauses in der Hoffnung, den regulären Pflichten der Magi Trianomae zu entgehen. Die Tenentes Occultorum sind verärgert über Glaucon, weil er die genauen Orte seiner Reisen nur ungern preisgibt, insbesondere den Standort seiner geheimen Vis-Quelle.
+>
 > **Belastung:** 0 (0) **Bekannte Zauber:**
-> 
+>
 > *Übernatürliches Wachsen und Schrumpfen* (MuCo 15) +9
-> 
+>
 > *Aufstieg des federleichten Körpers* (ReCo 10) +10
-> 
+>
 > *Flamme in der Hand* (CrIg 5) +2
-> 
+>
 > *Den verweilenden Geist enthüllen* (InMe 20) +20
 >
->*Vertrauen des kindlichen Glaubens* (ReMe 10) +14
+> *Vertrauen des kindlichen Glaubens* (ReMe 10) +14
 >
->*Den heimsuchenden Geist zur Ruhe betten* (PeMe 15) +19
+> *Den heimsuchenden Geist zur Ruhe betten* (PeMe 15) +19
 >
->*Den heimsuchenden Geist zur Ruhe betten* (PeMe 25) +19
-> 
+> *Den heimsuchenden Geist zur Ruhe betten* (PeMe 25) +19
+>
 > *Den Feenschleier durchdringen* (InVi 20) +17
 >
->*Den Magieschleier durchdringen* (InVi 20) +17
+> *Den Magieschleier durchdringen* (InVi 20) +17
 >
->*Das enthüllte unsichtbare Auge* (InVi 20) +17
-> 
-> **Anmerkungen:** Glaucon ist ein Sucher, der sich auf die Durchsuchung gebirgiger Regionen nach alten merkurischen Tempeln spezialisiert hat. Das Wirken von Zaubern bereitet Glaucon Schmerzen, und er glaubt, dass das Auffinden einer älteren Magiequelle ihm helfen wird, die qualvolle Natur seiner Gabe zu verstehen. Glaucon meidet andere Magi seines Hauses in der Hoffnung, den regulären Pflichten der Magi Trianomae zu entgehen. Die Tenentes Occultorum sind verärgert über Glaucon, weil er die genauen Orte seiner Reisen nur ungern preisgibt, insbesondere den Standort seiner geheimen Vis-Quelle.
-> 
+> *Das enthüllte unsichtbare Auge* (InVi 20) +17
+>
+> **Eigenschaften:** Int +3, Wah +3, Prä 0, Kom +1, Stä 0, Aus
+>
+> +1, Ges -1, Sck 0
+>
+> **Erschöpfungsstufen:** OK, 0, –1, –3, –5, Bewusstlos
+>
+> **Fertigkeiten:** Athletik 3 (Höhlenforschung), Artes Liberales 1 (Geometrie), Aufmerksamkeit 2 (Hinterhalte), Raufen 2 (Ausweichen), Konzentration 1 (bei Verwundung), Feenkunde 1 (Bergfeen), Täuschung 2 (vergangene Aktivitäten verbergen), Intrige 2 (+2) (Interessen anderer erkennen), Kunde des Königreichs Aragón 2 (Berge), Latein 4 (kartographische Fachbegriffe), Parma Magica 3 (Mentem), Penetration 3 (Mentem), Magiekunde 2 (merkurische Tempel), Magietheorie 3 (Zauber erfinden), Reiten 1 (Strecken), Zweites Gesicht 1 (Geister), Spanisch 5 (blumige Ausdrucksweise), Überleben 2 (Berge)
+>
+> **Gebrechlichkeit:** 0 **Verzerrungswert:** 0 (2) **Selbstvertrauenswert:** 1 (4)
+>
+> **Größe:** 0 **Alter:** 29 (6 Jahre nach der Lehrlingsprüfung)
+>
+> **Kampf:** Ausweichen: Init +0, Angriff n/v, Verteidigung +3, Schaden n/v
+>
+> **Künste:** Cr 0, In 9, Mu 2, Pe 8, Re 3; An 0, Aq 0, Au 0, Co 6, He 0, Ig 1, Im 1, Me 10, Te 0, Vi 7
+>
+> **Persönlichkeitseigenschaften:** Neugierig +3, Beharrlich +3, Selbstsüchtig +2 **Reputation:** Grabräuber 4 (Tribunal der Hohen Alpen)
+>
+> **Tugenden und Fehler:** Die Gabe; Hermetischer Magus; Sanfte Gabe; Affinität zu Intellego, Verbesserte Eigenschaften (x2), Persönliche Vis-Quelle, Begabung in Intrige (Freie Tugend), Zweites Gesicht, Willensstark, Studierbonus; Feinde, Schmerzhafte Magie; Desorientierungsmagie, Berüchtigt, Zittrige Hände, Sucher
+>
+> **Wundabzüge:** –1 (1-5), –3 (6-10), –5 (11-15), Lähmend (16-20)
+>
+> **Zwielichtnarben:** Keine
+>
 > ### Neuer Intellego-Mentem-Zauber
-> 
+>
 > ##### Den verweilenden Geist enthüllen
-> 
+>
 > **R:** Per, **D:** Konz, **Z:** Vision, **Stufe 30**
-> 
+>
 > Dieser Zauber erlaubt es dir, unsichtbare Geister zu sehen. Durchdringt der Zauber die Magieresistenz des Geistes, kannst du ihn sehen. Der Zauber zwingt den Geist nicht, für andere sichtbar zu werden.
-> 
+>
 > (Basis 5, +1 Konzentration, +4 Vision)
 
 ### Sucher
@@ -505,48 +505,48 @@ Ein Magus jedes Hauses kann ein Sucher sein. Nominell unterstehen sie der Kontro
 Im Jahr 1220 gibt es etwa 25 Sucher; fünf davon sind Magi des Hauses Bonisagus, die höchste Konzentration aus einer einzelnen Linie.
 
 > ## Häufige Tugenden und Fehler
-> 
+>
 > Jeder Magus Bonisagi besitzt die freie Allgemeine, Kleine Tugend: **Begabung in Magietheorie**. Weitere häufige Tugenden und Fehler sind:
-> 
-> **Begabter Laborlehrling**. Dein Parens hat das Labor nie verlassen.
-> 
+>
 > **Affinität zu (Kunst)**. Dein Parens hat diese Spezialisierung in dir gefördert, und andere Magi Bonisagi erwarten, dass du seinen Bemühungen gerecht wirst.
-> 
-> **Flexible Formulaische Magie**. Dies ist ideal für einen Dilettanten, der sich an Änderungen bei Reichweite, Dauer und Zielgröße erfreut.
-> 
-> **Hermetisches Ansehen**. Dein Parens war so bekannt, dass seine Reputation über die Grenzen des Hauses hinausreichte. **Erfinderisches Genie**.
-> 
-> **Nebenerkenntnis**. Du verstehst instinktiv die hermetischen Zusammenhänge zwischen den Künsten.
-> 
-> **Erfahrener Parens**. Die Magi Bonisagi legen Wert darauf, ihr Wissen an ihre Lehrlinge weiterzugeben und widmen sich dieser Aufgabe mit besonderer Sorgfalt.
-> 
+>
 > **Auffällige Gabe**.
-> 
-> **Bücherwurm**.
-> 
-> **Defizitäre Technik** und **Defizitäre Form**. Zwei bedauerliche Nebeneffekte eines Parens, der sich übermäßig auf Künste spezialisiert hat, die ihn interessieren oder in denen der Lehrling besonders begabt ist.
-> 
-> **Getrieben**. Du strebst danach, der Experte auf deinem spezialisierten Forschungsgebiet zu werden.
-> 
-> Jeder Magus Trianomae besitzt die freie Allgemeine, Kleine Tugend: **Begabung in Intrige**. Weitere häufige Tugenden und Fehler sind:
-> 
-> **Begabter Schüler**. Das meiste deines Wissens wurde dir von Menschen beigebracht, nicht von Büchern.
-> 
-> **Gewandte Form**. Deine Lehrzeit bot viele Gelegenheiten, eine deiner Künste besser zu beherrschen.
-> 
-> **Sanfte Gabe**. Du wurdest von deinem Parens ausgewählt, weil du mühelos mit Sterblichen umgehen konntest.
-> 
-> **Linguist.** Deine Wanderlehrzeit machte dir das Erlernen von Sprachen leicht.
-> 
+>
 > **Ausdauernd**. Das ständige Reisen mit deinem Parens hat deine Ausdauer gestärkt.
-> 
-> **Vielgereist**.
-> 
+>
+> **Begabter Laborlehrling**. Dein Parens hat das Labor nie verlassen.
+>
+> **Begabter Schüler**. Das meiste deines Wissens wurde dir von Menschen beigebracht, nicht von Büchern.
+>
+> **Bücherwurm**.
+>
+> **Defizitäre Technik** und **Defizitäre Form**. Zwei bedauerliche Nebeneffekte eines Parens, der sich übermäßig auf Künste spezialisiert hat, die ihn interessieren oder in denen der Lehrling besonders begabt ist.
+>
+> **Erfahrener Parens**. Die Magi Bonisagi legen Wert darauf, ihr Wissen an ihre Lehrlinge weiterzugeben und widmen sich dieser Aufgabe mit besonderer Sorgfalt.
+>
 > **Feinde**. Die ständigen politischen Verstrickungen deines Parens hatten Folgen.
-> 
+>
+> **Flexible Formulaische Magie**. Dies ist ideal für einen Dilettanten, der sich an Änderungen bei Reichweite, Dauer und Zielgröße erfreut.
+>
 > **Gefälligkeiten**. Eine weitere politische Folge der Einmischungen deines Parens.
-> 
+>
+> **Getrieben**. Du strebst danach, der Experte auf deinem spezialisierten Forschungsgebiet zu werden.
+>
+> Jeder Magus Trianomae besitzt die freie Allgemeine, Kleine Tugend: **Begabung in Intrige**. Weitere häufige Tugenden und Fehler sind:
+>
+> **Gewandte Form**. Deine Lehrzeit bot viele Gelegenheiten, eine deiner Künste besser zu beherrschen.
+>
+> **Hermetisches Ansehen**. Dein Parens war so bekannt, dass seine Reputation über die Grenzen des Hauses hinausreichte. **Erfinderisches Genie**.
+>
+> **Linguist.** Deine Wanderlehrzeit machte dir das Erlernen von Sprachen leicht.
+>
+> **Nebenerkenntnis**. Du verstehst instinktiv die hermetischen Zusammenhänge zwischen den Künsten.
+>
+> **Sanfte Gabe**. Du wurdest von deinem Parens ausgewählt, weil du mühelos mit Sterblichen umgehen konntest.
+>
 > **Schwacher Gelehrter**. Die Zeit auf Reisen hat dein Potenzial zum Lernen aus Büchern gemindert.
+> **Vielgereist**.
+>
 
 ## Die Magi des Hauses Bonisagus
 
@@ -593,7 +593,7 @@ Einige Magi Bonisagi haben mehr als einen Lehrling gleichzeitig. Aufgrund ihrer 
 
 Eine erfolgreiche Maga Bonisagi muss hochqualifiziert ausgebildet sein. Sie benötigt Werte in mehreren Fertigkeiten neben der Magietheorie, um ihr wahres Potenzial zu entfalten. Beruf: Schreiber ist notwendig für die umfangreichen Schreib- und Kopierarbeiten, die sie verrichten wird, und ein hoher Latein-Wert ist erforderlich, um Bücher zu lesen und zu schreiben. Unterrichten ist ebenfalls eine wertvolle Fertigkeit, und die meisten Magi Bonisagi haben auch darin einen Wert. Da so viele wichtige Fertigkeiten nötig sind, hat das Haus ein System der **Fremdlehre** entwickelt, um Lehrlinge auszubilden. Diese Praxis hat sich als nützlicher erwiesen als die Suche nach sterblichen Gelehrten, die daran interessiert sind, mit Begabten Schülern zu arbeiten.
 
-Magi Bonisagi können vereinbaren, die Lehrlinge des jeweils anderen in **Fremdlehre** zu geben, eine verbreitete, aber nicht allgemeine Praxis. Sie ist für beide Seiten vorteilhaft; eine Maga Bonisagi willigt ein, den Lehrling einer anderen Maga Bonisagi in Fremdlehre zu nehmen, im Austausch dafür, dass jene Maga ihren Lehrling in Fremdlehre nimmt. Ein Fremdlehrling zieht für ein Jahr zur aufnehmenden Maga, in dem ihm Fertigkeiten zusammen mit dem regulären Lehrling der Maga beigebracht werden. Der aufnehmende Magus verbringt ein ganzes Jahr damit, beiden Lehrlingen Fertigkeiten beizubringen, gewöhnlich Unterrichten und Beruf: Schreiber, aber auch Magietheorie und Latein. Die Lehrlinge lernen gemeinsam nach den üblichen Regeln für Unterricht (siehe **ArM5**, Kapitel Langzeitereignisse, Unterricht, Seite 164). Am Ende eines Jahres kehrt der Fremdlehrling zu seinem Parens zurück, begleitet vom Lehrling der anderen Maga. Beide Lehrlinge durchlaufen dann denselben Unterrichtsplan beim Parens des ersten Lehrlings. Am Ende von zwei Jahren sollten beide Lehrlinge Werte von 2 in Unterrichten und Beruf: Schreiber haben sowie verbesserte Werte in Latein und Magietheorie.
+Magi Bonisagi können vereinbaren, die Lehrlinge des jeweils anderen in **Fremdlehre** zu geben, eine verbreitete, aber nicht allgemeine Praxis. Sie ist für beide Seiten vorteilhaft; eine Maga Bonisagi willigt ein, den Lehrling einer anderen Maga Bonisagi in Fremdlehre zu nehmen, im Austausch dafür, dass jene Maga ihren Lehrling in Fremdlehre nimmt. Ein Fremdlehrling zieht für ein Jahr zur aufnehmenden Maga, in dem ihm Fertigkeiten zusammen mit dem regulären Lehrling der Maga beigebracht werden. Der aufnehmende Magus verbringt ein ganzes Jahr damit, beiden Lehrlingen Fertigkeiten beizubringen, gewöhnlich Unterrichten und Beruf: Schreiber, aber auch Magietheorie und Latein. Die Lehrlinge lernen gemeinsam nach den üblichen Regeln für Unterricht (siehe **ArM5**, Kapitel Langzeitereignisse, Unterricht, [Seite 164](<Ars Magica Definitive Edition Basisregeln.md#unterricht>)). Am Ende eines Jahres kehrt der Fremdlehrling zu seinem Parens zurück, begleitet vom Lehrling der anderen Maga. Beide Lehrlinge durchlaufen dann denselben Unterrichtsplan beim Parens des ersten Lehrlings. Am Ende von zwei Jahren sollten beide Lehrlinge Werte von 2 in Unterrichten und Beruf: Schreiber haben sowie verbesserte Werte in Latein und Magietheorie.
 
 Nach dieser anfänglichen Unterrichtung werden die Lehrlinge erneut ausgetauscht, diesmal um dem jeweils anderen Parens im Labor zu helfen. Da beide Parentes ein Jahr für die Ausbildung der Lehrlinge aufgewendet haben, werden sie damit belohnt, dass sie ein Jahr lang die Hilfe beider im Labor haben (siehe Zusammenarbeit). Je nach Entfernung zwischen den Magi Bonisagi reist ein Lehrling manchmal zu einem Konvent und bleibt zwei Jahre — ein Jahr wird er unterrichtet und ein Jahr hilft er im Labor, bevor er mit dem Lehrling des anderen Magus im Schlepptau zurückkehrt, der dann zwei Jahre bleiben und seinen Teil der Fremdlehrvereinbarung erfüllen wird.
 
@@ -603,9 +603,9 @@ Diese Praxis birgt eine gewisse Gefahr für den Lehrling, da er unter der Kontro
 > 
 > Magi, denen es gelingt, äußere Ablenkungen zu vermeiden und in ihrem Labor an einem einzigen Projekt zu arbeiten — „Laborratten" —, können mit der Zeit langsam einen Vorteil aufbauen. Durchgängige Forschung ist ein Weg für Spielleiter, Spieler zu belohnen, die es schaffen, in ihrem Labor eingebunkert zu bleiben, alles andere aufzugeben und sich ganz ihrem Forschungsprojekt zu widmen. Dies zeigt sich am deutlichsten bei größeren Projekten, die viele Quartale Laborarbeit erfordern.
 > 
-> Durchgängige Forschung ist ein vorteilhafter Modifikator, den du zu deiner Laborsumme addieren darfst, solange du an einem einzigen Projekt arbeitest. Für jedes ununterbrochene Quartal Laborarbeit an deinem Projekt sammelst du einen Punkt Durchgängiger Forschung. Durchgängige Forschung baut sich wie eine Fertigkeit auf. Sobald du fünf Quartale an einem Projekt verbracht und fünf Punkte Durchgängiger Forschung angesammelt hast, darfst du 1 zu deiner Laborsumme addieren. Du darfst diesen Modifikator anwenden, solange du am selben Projekt arbeitest. Nach fünfzehn Quartalen Durchgängiger Forschung steigt der Modifikator auf +2. Der Vorteil wächst weiter, solange du das Forschungsthema nicht wechselst oder deine Quartalslaborarbeit unterbrichst (siehe das Laborkapitel von **ArM5**, „Ablenkungen von der Laborarbeit", Seite 103).
+> Durchgängige Forschung ist ein vorteilhafter Modifikator, den du zu deiner Laborsumme addieren darfst, solange du an einem einzigen Projekt arbeitest. Für jedes ununterbrochene Quartal Laborarbeit an deinem Projekt sammelst du einen Punkt Durchgängiger Forschung. Durchgängige Forschung baut sich wie eine Fertigkeit auf. Sobald du fünf Quartale an einem Projekt verbracht und fünf Punkte Durchgängiger Forschung angesammelt hast, darfst du 1 zu deiner Laborsumme addieren. Du darfst diesen Modifikator anwenden, solange du am selben Projekt arbeitest. Nach fünfzehn Quartalen Durchgängiger Forschung steigt der Modifikator auf +2. Der Vorteil wächst weiter, solange du das Forschungsthema nicht wechselst oder deine Quartalslaborarbeit unterbrichst (siehe das Laborkapitel von **ArM5**, „Ablenkungen von der Laborarbeit", [Seite 103](<Ars Magica Definitive Edition Basisregeln.md#ablenkungen-von-der-laborarbeit>)).
 > 
-> Diese optionale Regel hat in verschiedenen Sagas unterschiedliche Auswirkungen. In einer langsamen Saga (siehe das Sagakapitel in **ArM5**, Seite 218) müssen Magi ihre Zeit sorgfältig einteilen, damit quartalsweise Unterbrechungen ohne Störung der Forschung bewerkstelligt werden können. In einer schnellen Saga wird diese Regel Magi ermutigen, an größeren Projekten zu arbeiten.
+> Diese optionale Regel hat in verschiedenen Sagas unterschiedliche Auswirkungen. In einer langsamen Saga (siehe das Sagakapitel in **ArM5**, [Seite 218](<Ars Magica Definitive Edition Basisregeln.md#langsame-saga>)) müssen Magi ihre Zeit sorgfältig einteilen, damit quartalsweise Unterbrechungen ohne Störung der Forschung bewerkstelligt werden können. In einer schnellen Saga wird diese Regel Magi ermutigen, an größeren Projekten zu arbeiten.
 
 ### Magi Bonisagi
 
@@ -619,7 +619,7 @@ Magi Bonisagi erhalten gelegentlich Besuch von Magi Trianomae, die neugierig auf
 
 Es gibt drei grundlegende Typen von Magi Bonisagi. Dies sind keine offiziellen Unterscheidungen innerhalb des Hauses, sondern lediglich Pfade, denen viele Magi Bonisagi folgen. Ein **Traditionalist** arbeitet beständig daran, die Magietheorie zu verfeinern, in der Überzeugung, dass dies Bonisagus' primäre Motivation war. Er drängt gegen die Grenzen der hermetischen Magie und sucht nach Wegen, viele der Niederen Grenzen zu durchbrechen, die Bonisagus' System noch hemmen. Ein **Dilettant** ist ein Magus, der gerne mit hermetischer Magie spielt und das System nutzt, um ungewöhnliche Zauber und kuriose verzauberte Gegenstände zu erschaffen. Er erforscht Magie für kreative Kombinationen von Reichweiten, Dauern und Zielen und erfreut sich an der Symmetrie der von seinem Gründer geschaffenen Kategorien. Ein **Harmonisierer** glaubt, dass jede Art von Magie in Bonisagus' Theorie integriert werden kann. Sie genießt es, andere übernatürliche Fähigkeiten unter Bonisagus' Herrschaft zu beugen.
 
-Diese Neigungen der Magi Bonisagi können von einem Charakter als Spezialisierungen seiner Magietheorie-Fertigkeit genutzt werden. Du darfst Traditionalist, Dilettant oder Harmonisierer als Spezialisierung für deine Magietheorie wählen (siehe Spezialisierungen im Fertigkeitenkapitel von **ArM5**, Seite 62). Als Traditionalist darfst du jedes Mal, wenn deine Forschung versucht, eine Hermetische Grenze der Magie zu durchbrechen, 1 zu deinem Magietheorie-Wert addieren (siehe Originäre Forschung weiter unten). Wenn du ein Dilettant bist, darfst du deine Spezialisierung jedes Mal anwenden, wenn du einen Zauber oder einen magischen Effekt mit einer geänderten Reichweite, Dauer oder einem geänderten Ziel erfindest, die von der Standardversion abweicht. Als Harmonisierer darfst du deine Spezialisierung jedes Mal anwenden, wenn du einen Zauber erfindest oder einen Gegenstand verzauberst, der eine übernatürliche Fähigkeit nachahmt. Dies gilt auch für Originäre Forschung. Dein Spielleiter wird der letztendliche Schiedsrichter sein und entscheiden, ob deine Spezialisierung auf deine Forschung zutrifft. Diese neuen Spezialisierungen sind nur für Magi-Bonisagi-Charaktere zulässig.
+Diese Neigungen der Magi Bonisagi können von einem Charakter als Spezialisierungen seiner Magietheorie-Fertigkeit genutzt werden. Du darfst Traditionalist, Dilettant oder Harmonisierer als Spezialisierung für deine Magietheorie wählen (siehe Spezialisierungen im Fertigkeitenkapitel von **ArM5**, [Seite 62](<Ars Magica Definitive Edition Basisregeln.md#spezialisierungen>)). Als Traditionalist darfst du jedes Mal, wenn deine Forschung versucht, eine Hermetische Grenze der Magie zu durchbrechen, 1 zu deinem Magietheorie-Wert addieren (siehe Originäre Forschung weiter unten). Wenn du ein Dilettant bist, darfst du deine Spezialisierung jedes Mal anwenden, wenn du einen Zauber oder einen magischen Effekt mit einer geänderten Reichweite, Dauer oder einem geänderten Ziel erfindest, die von der Standardversion abweicht. Als Harmonisierer darfst du deine Spezialisierung jedes Mal anwenden, wenn du einen Zauber erfindest oder einen Gegenstand verzauberst, der eine übernatürliche Fähigkeit nachahmt. Dies gilt auch für Originäre Forschung. Dein Spielleiter wird der letztendliche Schiedsrichter sein und entscheiden, ob deine Spezialisierung auf deine Forschung zutrifft. Diese neuen Spezialisierungen sind nur für Magi-Bonisagi-Charaktere zulässig.
 
 > ## Abenteueridee: Das Land der Frauen
 > 
@@ -663,7 +663,7 @@ In den frühen Tagen des Ordens fand es Trianoma sehr nützlich, Nachrichten an 
 
 Magi Trianomae verwenden diesen Code, um Nachrichten aneinander und an die Tenentes Occultorum zu senden. Manchmal sind diese Nachrichten einzelne Pergamente. Manchmal sind es Notizen, die am Ende von Labortexten oder Büchern niedergeschrieben sind. Die gebräuchlichste Methode besteht darin, eine codierte Nachricht an den Rändern eines Labortexts eines Magus Bonisagi einzufügen, der sich gerade in ihrem Besitz befindet. Dieser wird dann auf den regulären Wegen an einen anderen Magus Trianomae gesendet. Magi Trianomae sind darin geschult, nach diesen codierten Nachrichten Ausschau zu halten.
 
-Es gibt zwei Möglichkeiten für einen Magus einer anderen Linie, diesen Code zu entschlüsseln. Die erste und einfachste Methode besteht darin, einen in Trianomas Chiffre geschriebenen Labortext zu erwerben. Das Entschlüsseln dieses Labortexts funktioniert genau wie das Entschlüsseln jedes beliebigen Labortexts eines Magus (siehe das Laborkapitel der **Ars Magica** 5. Edition, Labortexte übersetzen, Seite 102).
+Es gibt zwei Möglichkeiten für einen Magus einer anderen Linie, diesen Code zu entschlüsseln. Die erste und einfachste Methode besteht darin, einen in Trianomas Chiffre geschriebenen Labortext zu erwerben. Das Entschlüsseln dieses Labortexts funktioniert genau wie das Entschlüsseln jedes beliebigen Labortexts eines Magus (siehe das Laborkapitel der **Ars Magica** 5. Edition, Labortexte übersetzen, [Seite 102](<Ars Magica Definitive Edition Basisregeln.md#labortexte-übersetzen>)).
 
 Die zweite und schwierigere Methode besteht darin, eine geheime Notiz zu entschlüsseln. Die Entschlüsselung einer Notiz dauert einen Tag. Um Trianomas Chiffre zu entschlüsseln, führst du einen Wurf auf Intelligenz + Latein + Stresswürfel durch. Wenn dieser Wurf höher ist als 6 + der Kommunikation des Autors + Intrige, gelingt es dir. Die Chiffren einzelner Magi Trianomae unterscheiden sich nur geringfügig. Eine zuvor entschlüsselte Chiffre addiert 3 zu deinen Entschlüsselungswürfen.
 
@@ -713,7 +713,7 @@ Eine gute Faustregel ist, den Wert des Ansehens im Haus zu jedem Wurf auf eine s
 
 Das Ansehen im Haus addiert sich nicht zur Präsenz eines Magus während Certamina, eine Methode, die selten angewandt wird, um Meinungsverschiedenheiten unter Mitgliedern des Hauses Bonisagus beizulegen.
 
-Ein Magus Bonisagi von Rang hat es leichter, einen Lehrling zu finden. Du darfst deinen Ansehens-Wert zu deinem Wurf addieren, um einen Lehrling zu finden (siehe **ArM5**, Laborkapitel, Lehrlinge, Seite 106). Ist das Ergebnis 12+, findest du wie gewöhnlich einen. Wenn du diesen Wurf nicht schaffst, findest du trotzdem einen, indem du einem anderen Magus einen Lehrling nimmst, wie es dein Recht ist. Verfehlst du den Wurf um 5 oder mehr Punkte, hast du einen Mitmagus verärgert, der irgendeine Form der Entschädigung benötigt, um besänftigt zu werden. Patzt du diesen Wurf, ist dein Feind so aufgebracht, dass du den Großen Geschichte-Fehler: Feinde erhältst.
+Ein Magus Bonisagi von Rang hat es leichter, einen Lehrling zu finden. Du darfst deinen Ansehens-Wert zu deinem Wurf addieren, um einen Lehrling zu finden (siehe **ArM5**, Laborkapitel, Lehrlinge, [Seite 106](<Ars Magica Definitive Edition Basisregeln.md#deinen-lehrling-finden>)). Ist das Ergebnis 12+, findest du wie gewöhnlich einen. Wenn du diesen Wurf nicht schaffst, findest du trotzdem einen, indem du einem anderen Magus einen Lehrling nimmst, wie es dein Recht ist. Verfehlst du den Wurf um 5 oder mehr Punkte, hast du einen Mitmagus verärgert, der irgendeine Form der Entschädigung benötigt, um besänftigt zu werden. Patzt du diesen Wurf, ist dein Feind so aufgebracht, dass du den Großen Geschichte-Fehler: Feinde erhältst.
 
 ### Folios
 
@@ -869,7 +869,7 @@ Originäre Forschung ist der Prozess, stabilisierte Entdeckungen anzusammeln, bi
 
 **Magnituden der stabilisierten Entdeckung gleich Durchbruchpunkte**
 
-Als Nebeneffekt dieses Stabilisierungsprozesses erhältst du Verzerrungspunkte durch deine Versuche, diese neue Magie zu verstehen. Die Zahl der gewonnenen Verzerrungspunkte ist die Magnitude des Effekts minus einem einfachen Würfel. Wenn du 2 oder mehr Verzerrungspunkte erhältst, musst du würfeln, um das Zwielicht des Zauberers zu vermeiden, wie im Abschnitt Zwielicht des Zauberers in **Ars Magica** 5. Editions Kapitel Hermetische Magie (Seite 88) beschrieben. Du kannst die Chance, Verzerrungspunkte zu erhalten, offensichtlich mindern, indem du mit Effekten niedrigerer Magnitude experimentierst. Dies verlängert jedoch deinen Originären Forschungsprozess, da es deine angesammelten Effektmagnituden sind, die sich letztlich zu deinem Durchbruch summieren. Das Experimentieren mit Zaubern höherer Magnitude beschleunigt deinen Weg zum Durchbruch und erhöht dein Risiko des Zwielichts des Zauberers.
+Als Nebeneffekt dieses Stabilisierungsprozesses erhältst du Verzerrungspunkte durch deine Versuche, diese neue Magie zu verstehen. Die Zahl der gewonnenen Verzerrungspunkte ist die Magnitude des Effekts minus einem einfachen Würfel. Wenn du 2 oder mehr Verzerrungspunkte erhältst, musst du würfeln, um das Zwielicht des Zauberers zu vermeiden, wie im Abschnitt Zwielicht des Zauberers in **Ars Magica** 5. Editions Kapitel Hermetische Magie ([Seite 88](<Ars Magica Definitive Edition Basisregeln.md#das-zwielicht>)) beschrieben. Du kannst die Chance, Verzerrungspunkte zu erhalten, offensichtlich mindern, indem du mit Effekten niedrigerer Magnitude experimentierst. Dies verlängert jedoch deinen Originären Forschungsprozess, da es deine angesammelten Effektmagnituden sind, die sich letztlich zu deinem Durchbruch summieren. Das Experimentieren mit Zaubern höherer Magnitude beschleunigt deinen Weg zum Durchbruch und erhöht dein Risiko des Zwielichts des Zauberers.
 
 #### Erhaltene Verzerrungspunkte: Magnitude der stabilisierten Entdeckung minus einem einfachen Würfel
 
@@ -887,7 +887,7 @@ Originäre Forschung ist langwierig und mühsam und muss nicht in aufeinanderfol
 
 #### Mehrere Labortexte
 
-Es gibt im Ablauf der Originären Forschung nichts, das mehrere Magi daran hindert, gemeinsam an einem Durchbruch zu arbeiten. Einige kleinere Hindernisse bestehen; die Magi müssen bereit sein zu teilen, und jeder muss die Magierschrift der Labortexte der anderen lesen können (siehe den Abschnitt Labortexte übersetzen im Kapitel Hermetische Magie in der **Ars Magica** Fünften Edition, Seite 102). Vielmehr sind es gewöhnlich Persönlichkeitskonflikte, Egoismus und Selbstbezogenheit, die Magi davon abhalten, gemeinsam an Durchbrüchen zu arbeiten. Selbst in Haus Bonisagus, das ein ungewöhnlich hohes Maß an hausinterne Zusammenarbeit aufweist, sind Magi zögerlich, Notizen zur Originären Forschung zu teilen.
+Es gibt im Ablauf der Originären Forschung nichts, das mehrere Magi daran hindert, gemeinsam an einem Durchbruch zu arbeiten. Einige kleinere Hindernisse bestehen; die Magi müssen bereit sein zu teilen, und jeder muss die Magierschrift der Labortexte der anderen lesen können (siehe den Abschnitt Labortexte übersetzen im Kapitel Hermetische Magie in der **Ars Magica** Fünften Edition, [Seite 102](<Ars Magica Definitive Edition Basisregeln.md#labortexte-übersetzen>)). Vielmehr sind es gewöhnlich Persönlichkeitskonflikte, Egoismus und Selbstbezogenheit, die Magi davon abhalten, gemeinsam an Durchbrüchen zu arbeiten. Selbst in Haus Bonisagus, das ein ungewöhnlich hohes Maß an hausinterne Zusammenarbeit aufweist, sind Magi zögerlich, Notizen zur Originären Forschung zu teilen.
 
 Bedenke, dass Zusammenarbeit nicht der einzige Weg ist, an die stabilisierten Labortexte eines anderen zu gelangen. Wie jedes andere wertvolle hermetische Gut können sie gestohlen, getauscht, geschenkt oder im Zuge eines Zuges der Magier genommen werden. Da es ein so langwieriger und mühsamer Prozess ist, können auch Labortexte verstorbener Magi geborgen werden, vielleicht an einem mysteriösen Ort oder als Teil eines sagenhaften Schatzes. Dein Spielleiter kann Labortexte zur Originären Forschung als Anreiz für ein Abenteuer, als entscheidenden Fund mitten in einer Geschichte oder als Belohnung für einen abgeschlossenen Handlungsbogen einsetzen.
 
@@ -899,7 +899,7 @@ Ein Magus erhält keine Verzerrungspunkte, wenn er den Labortext einer anderen M
 
 Sobald du durch deine Originäre Forschung genügend Punkte angesammelt hast, schließt du deine Aufgabe ab und erfindest einen Durchbruch. Wenn du einen Kleinen Durchbruch erzielt hast, ist er sofort nutzbar und für hermetische Magi verständlich. Du darfst ihn in deinen nächsten erfundenen Zauber oder deine nächste magische Verzauberung einbeziehen, und dies ist der übliche Übertragungsweg an deine Mitmagier. Zum Beispiel erfindet Magus Tillitus eine neue Reichweite ‚Horizont'. Er erfindet dann einen Zauber mit Horizont als Reichweite und bietet die Labortexte dieses Zaubers dem Orden an. Diejenigen, die die Labortexte lesen, lernen gleichzeitig den Zauber und verstehen die neue Reichweite. Sie können diese neue Reichweite dann auf genau die gleiche Weise verwenden wie jede andere Zauberreichweite.
 
-Große Durchbrüche sind aufwändiger und müssen anderen Magi beigebracht werden, entweder durch persönlichen Unterricht oder durch einen Tractatus, der den Durchbruch beschreibt. Beide Unterrichtsmethoden folgen den Standardregeln für Unterricht und Bücher im Kapitel Langzeitereignisse der **Ars Magica** Fünften Edition, Seite 163.
+Große Durchbrüche sind aufwändiger und müssen anderen Magi beigebracht werden, entweder durch persönlichen Unterricht oder durch einen Tractatus, der den Durchbruch beschreibt. Beide Unterrichtsmethoden folgen den Standardregeln für Unterricht und Bücher im Kapitel Langzeitereignisse der **Ars Magica** Fünften Edition, [Seite 163](<Ars Magica Definitive Edition Basisregeln.md#bücher>).
 
 Einen Großen Durchbruch zu erlernen ähnelt dem Erlernen einer übernatürlichen Fertigkeit, mit zwei wichtigen Unterschieden. Große Durchbrüche funktionieren immer noch innerhalb des hermetischen Magiesystems und sind oft Hermetische Tugenden, sodass ihr Erlernen nicht so schwierig ist wie das Erlernen einer übernatürlichen Fertigkeit. Du musst deinen gesamten Wert in den Hermetischen Künsten nicht von der Quellenqualität der Lehrquelle abziehen. Ein zweiter Unterschied ist, dass Große Durchbrüche zwar höchstwahrscheinlich eine Hermetische Tugend lehren, die in spieltechnischer Hinsicht keine zugehörige Fertigkeit hat, sie aber dennoch auf diese Weise gelehrt werden können.
 
@@ -1004,9 +1004,9 @@ Nicht-hermetische Praktizierende dieser Kunst existieren noch immer, unBegabte P
 
 ### Sphärengebundene Zauber
 
-Hermetische Zauber werden von der Sphäre beeinflusst, in der sie gewirkt werden: unterdrückt von der Göttlichen und Höllensphäre und leicht verstärkt von der Feensphäre, die auch die Wahrscheinlichkeit für Patzer erhöht. Sphärengebundene Zauber sind Zauber, die erschaffen wurden, um diesen überirdischen Einfluss zu vermeiden, erfunden, damit sie in der Aura, der sie zugeordnet sind, unbeeinflusst bleiben. Da sie keine der Grenzen der Magie durchbrechen, handelt es sich um einen Kleinen Durchbruch. Es wäre ein weiterer Kleiner Durchbruch, dies als weitere Spezialfähigkeit gemeisterter Zauber aufzunehmen.
+Hermetische Zauber werden von der Sphäre beeinflusst, in der sie gewirkt werden: unterdrückt von der Göttlichen und Höllensphäre und leicht verstärkt von der Feensphäre, die auch die Wahrscheinlichkeit für Patzer erhöht. Sphärengebundene Zauber sind Zauber, die erschaffen wurden, um diesen überirdischen Einfluss zu vermeiden, erfunden, damit sie in der Aura, der sie zugeordnet sind, unbeeinflusst bleiben. Da sie keine der Grenzen der Magie durchbrechen, handelt es sich um einen Kleinen Durchbruch. Es wäre ein weiterer Kleiner Durchbruch, dies als weitere besondere Fähigkeit gemeisterter Zauber aufzunehmen.
 
-In der Praxis ist dies ein einfaches Verfahren; wenn du im Labor einen sphärengebundenen Zauber erfindest, reduzierst du deine Laborsumme, indem du deinen Magietheorie-Wert auf die Stufe deiner entsprechenden Sphärenkunde begrenzt. Dann folgst du dem Verfahren, wie es im Abschnitt Zauber erfinden des Laborkapitels der **Ars Magica** Fünften Edition, Seite 95, beschrieben ist. Nach Fertigstellung ist der sphärengebundene oder einer bestimmten Sphäre ‚zugeordnete' Zauber immun gegen den Einfluss dieser Sphäre.
+In der Praxis ist dies ein einfaches Verfahren; wenn du im Labor einen sphärengebundenen Zauber erfindest, reduzierst du deine Laborsumme, indem du deinen Magietheorie-Wert auf die Stufe deiner entsprechenden Sphärenkunde begrenzt. Dann folgst du dem Verfahren, wie es im Abschnitt Zauber erfinden des Laborkapitels der **Ars Magica** Fünften Edition, [Seite 95](<Ars Magica Definitive Edition Basisregeln.md#zauber-erfinden>), beschrieben ist. Nach Fertigstellung ist der sphärengebundene oder einer bestimmten Sphäre ‚zugeordnete' Zauber immun gegen den Einfluss dieser Sphäre.
 
 Beim Wirken eines sphärengebundenen Zaubers in der zutreffenden Sphäre darfst du die Sphärenwechselwirkungstabelle im Abschnitt Sphärenwechselwirkung des Sphärenkapitels durch die unten aufgeführte Wechselwirkungstabelle für Sphärengebundene Zauber ersetzen. Zudem werden Patzerwürfel um den Wert der spezifischen Sphärenkunde-Fertigkeit des Zauberers reduziert, die als Voraussetzung für seinen Magietheorie-Wert diente.
 
@@ -1086,13 +1086,13 @@ Dieses Kapitel ist in zehn Hauptabschnitte unterteilt, die nachfolgend aufgefüh
 **Fenicils Rituale:** Die geheimen Rituale des Hauses Guernicus.
 
 > ## Schlüsseldaten
-> 
-> **Mitgliederzahl:** 98 (plus 41 Nicht-Guernicus-Quaesitores).
-> 
+>
 > **Domus Magna:** Magvillus im Römischen Tribunal.
-> 
+>
+> **Mitgliederzahl:** 98 (plus 41 Nicht-Guernicus-Quaesitores).
+>
 > **Prima:** Die Erzmaga Bilera. Bekannt für ihre Ermittlungs- und Verhandlungskompetenz, wurde Bilera zur Prima ernannt, um den Riss zwischen den Traditionalisten und den Transitionalisten zu heilen.
-> 
+>
 > ## Berühmte Persönlichkeiten
 > 
 > **Guernicus,** Gründer des Hauses.
@@ -1492,7 +1492,7 @@ Regionale oder Großtribunale können jedoch andere Bestimmungen schaffen, wie d
 
 Regionale Tribunale können ihre eigenen Entscheidungen nach Belieben revidieren oder rückgängig machen. Die meisten sind jedoch von Natur aus konservativ und verlangen überzeugende Argumente, um früheren Entscheidungen klar zu widersprechen. Ein Tribunal, das regelmäßig widersprüchliche Entscheidungen trifft, setzt sich dem Spott benachbarter Tribunale und einer Rüge durch seinen Vorsitzenden Quaesitor aus. Gelegentliche Änderungen lokaler Bestimmungen werden jedoch erwartet.
 
-Alle Entscheidungen sollten in irgendeiner Weise auf eine Bestimmung des Eides zurückzuführen sein. Im Wesentlichen sollten alle Entscheidungen lediglich den Eid klären, ergänzen oder ausschmücken. Durch diese Tribunalsentscheidungen wird der Periphere Kodex gebildet (siehe Seite 54).
+Alle Entscheidungen sollten in irgendeiner Weise auf eine Bestimmung des Eides zurückzuführen sein. Im Wesentlichen sollten alle Entscheidungen lediglich den Eid klären, ergänzen oder ausschmücken. Durch diese Tribunalsentscheidungen wird der Periphere Kodex gebildet (siehe [Seite 54](#der-periphere-kodex)).
 
 > ## Stimmrechtsvertretung
 > 
@@ -2357,7 +2357,7 @@ Dieser Zauber ermöglicht es dem Zaubernden, Corpus-Material (Haare, Blut usw.) 
 
 **R:** Pers, **D:** Sonne, **T:** Sehen, **Stufe allg**
 
-Eine verstärkte Version von *Erkennen der wahren und trügerischen Bilder*. Du kannst erkennen, ob ein Bild durch Magie geschaffen oder verändert wurde, wobei du im Falle von Veränderungen sowohl das Original als auch das falsche Bild siehst. Der verstärkte Sinn wirkt durch Extromission (Aussenden magischer Spezies aus den Augen). Wenn diese auf Magieresistenz treffen, können sie blockiert werden. Daher erscheint ein durch Magieresistenz geschützter Bereich dem magischen Aspekt des Sehvermögens des Zaubernden als dunkel. Bei Wirken ohne Penetration kann der Zaubernde Bereiche mit Magieresistenz erkennen (was auch einen unsichtbaren Magus einschließen würde). Um eine Illusion aufzudecken, muss dieser Zauber mindestens fünfzehn Stufen höher sein als der Effekt, der sie erzeugt hat. Allerdings kann die Meisterschaftsfähigkeit Geschärfter Sinn dennoch eine Anomalie aufspüren. Bei einem Patzer hältst du Illusionen für echt und die Wirklichkeit für Illusion. Deine Unterscheidungsfähigkeit ist nicht auf visuelle Illusionen beschränkt, obwohl du nur erkennen kannst, dass ein Geräusch illusorisch ist, wenn du auf die scheinbare Quelle blickst.
+Eine verstärkte Version von *Erkennen der wahren und trügerischen Bilder*. Du kannst erkennen, ob ein Bild durch Magie geschaffen oder verändert wurde, wobei du im Falle von Veränderungen sowohl das Original als auch das falsche Bild siehst. Der verstärkte Sinn wirkt durch Extromission (Aussenden magischer Species aus den Augen). Wenn diese auf Magieresistenz treffen, können sie blockiert werden. Daher erscheint ein durch Magieresistenz geschützter Bereich dem magischen Aspekt des Sehvermögens des Zaubernden als dunkel. Bei Wirken ohne Penetration kann der Zaubernde Bereiche mit Magieresistenz erkennen (was auch einen unsichtbaren Magus einschließen würde). Um eine Illusion aufzudecken, muss dieser Zauber mindestens fünfzehn Stufen höher sein als der Effekt, der sie erzeugt hat. Allerdings kann die Meisterschaftsfähigkeit Geschärfter Sinn dennoch eine Anomalie aufspüren. Bei einem Patzer hältst du Illusionen für echt und die Wirklichkeit für Illusion. Deine Unterscheidungsfähigkeit ist nicht auf visuelle Illusionen beschränkt, obwohl du nur erkennen kannst, dass ein Geräusch illusorisch ist, wenn du auf die scheinbare Quelle blickst.
 
 (Basis, +2 Sonne, +1 Verstärkter Effekt)
 
@@ -2986,7 +2986,7 @@ Andere Häuser halfen ihm, den Kult wieder aufzubauen, insbesondere Magi des Hau
 > 
 > Der Kult des Merkur hält den heidnischen Glauben der Römer vor der Ausbreitung des Christentums lebendig, in dem die vielen großen Mächte der natürlichen Welt als individuelle Wesen verehrt und nicht als Aspekte von Gottes Schöpfung gehuldigt wurden. Im Wesentlichen sind Merkur-Kultisten mediterrane Naturverehrer, und ihre Zeremonien konzentrieren sich auf die Vermenschlichung von Kräften wie Wetter, Tod, Liebe, Krieg und dergleichen. Sie praktizieren keine Menschenopfer, bringen aber ihren Göttern Tieropfer dar und verbrennen ihre Toten. Sie legen auch großen Wert auf Omen und praktizieren alle Formen der Weissagung und zeremoniellen Magie, um diese Zeichen zu lesen und zu deuten. Sie meiden die Kirche und das Dominium, die sie als erstickende Kräfte auf die Praktiken der reinen Magie betrachten, wenn sie sie überhaupt beachten. Andere Magi, die vom Kult wissen, halten seine Mitglieder für rückständige Fanatiker oder gefährliche Ketzer, und obwohl sie noch immer ihr hermetisches Erbe ehren, tun sie dies gewöhnlich lieber aus sicherer Entfernung.
 
-Etwa die Hälfte aller Mercere-Magi praktiziert noch immer Merkurische Magie wie ihre Vorfahren, und die meisten ihrer alten Zeremonien wurden in die Magietheorie integriert. Die Wurzeln ihres alten Ordens sind noch in der Zaubermeisterschaft erkennbar, denn in den frühesten Tagen kannten Magi nur wenige Zauber und verbesserten ihre Magie, indem sie verschiedene Wege entwickelten, denselben Zauber in unterschiedlichen Situationen zu wirken. Priamitus lernte viele dieser Spezialfähigkeiten gemeisterter Zauber von Mercere, und seine Gefolgsleute entwickelten weitere. Dazu gehören: Adaptives Zaubern, Zeremonielles Zaubern, Verkleidetes Zaubern, Labormeisterschaft, Aus Fehlern lernen und Standhaftes Zaubern. Diese sind vollständig im Anhang beschrieben (Labor, Spezialfähigkeiten gemeisterter Zauber).
+Etwa die Hälfte aller Mercere-Magi praktiziert noch immer Merkurische Magie wie ihre Vorfahren, und die meisten ihrer alten Zeremonien wurden in die Magietheorie integriert. Die Wurzeln ihres alten Ordens sind noch in der Zaubermeisterschaft erkennbar, denn in den frühesten Tagen kannten Magi nur wenige Zauber und verbesserten ihre Magie, indem sie verschiedene Wege entwickelten, denselben Zauber in unterschiedlichen Situationen zu wirken. Priamitus lernte viele dieser Meisterschaftsfähigkeiten von Mercere, und seine Gefolgsleute entwickelten weitere. Dazu gehören: Adaptives Zaubern, Zeremonielles Zaubern, Verkleidetes Zaubern, Labormeisterschaft, Aus Fehlern lernen und Standhaftes Zaubern. Diese sind vollständig im Anhang beschrieben (Labor, besonderen Fähigkeiten gemeisterter Zauber).
 
 #### Societas Merceris: der Kult der Helden
 
@@ -3032,9 +3032,9 @@ Gründliche Schulung in dieser magischen Philosophie und ihre natürliche Affini
 
 Weil Magi aus anderen Häusern von denselben exotischen Ursprüngen abstammen können wie die Mutantes, gibt es auch mehrere Tugenden, die diese Kräfte integrieren und die jeder Magus nehmen kann: Verstärkte Magie, Gezügelte Magie und Gefesselte Magie (siehe Anhang, Tugenden und Fehler). Sie entsprechen den obigen magischen Fähigkeiten, haben aber einige inhärente Nachteile, da nur Magi, die von den Mutantes aufgezogen wurden, die angeborenen Fähigkeiten ihres Erbes je vollkommen zu beherrschen scheinen. Es gibt auch zwei Fehler, Gebundene Magie und Gefesselte Magie, die die Nachteile ohne die Vorteile haben, für Charaktere, die ihr Mutantes-Potenzial noch nicht einmal zu entdecken begonnen haben oder deren Verständnis dieser Kräfte ähnlich begrenzt ist.
 
-Die Mutantes haben auch drei entsprechende Spezialfähigkeiten gemeisterter Zauber, die sie denen lehren können, die bei ihnen studieren. Dies erlaubt es den Mutantes, die Magie-Zähmung in sehr begrenztem Umfang zu lehren, indem sie sich auf eine bestimmte Methode konzentrieren, einen bestimmten Zauber zu verändern, was alles ist, was für Magi getan werden kann, die es nicht im Blut haben. Interessierte Magi können diese Fähigkeiten von den Mutantes erlernen, aber sie können sie nicht an andere weitergeben.
+Die Mutantes haben auch drei entsprechende besondere Meisterschaftsfähigkeiten, die sie denen lehren können, die bei ihnen studieren. Dies erlaubt es den Mutantes, die Magie-Zähmung in sehr begrenztem Umfang zu lehren, indem sie sich auf eine bestimmte Methode konzentrieren, einen bestimmten Zauber zu verändern, was alles ist, was für Magi getan werden kann, die es nicht im Blut haben. Interessierte Magi können diese Fähigkeiten von den Mutantes erlernen, aber sie können sie nicht an andere weitergeben.
 
-(Siehe Anhang, Spezialfähigkeiten gemeisterter Zauber, für Details zu Verstärktes Zaubern, Gezügeltes Zaubern oder Gefesseltes Zaubern.)
+(Siehe Anhang, Besondere Fähigkeiten gemeisterter Zauber, für Details zu Verstärktes Zaubern, Gezügeltes Zaubern oder Gefesseltes Zaubern.)
 
 
 #### Societas Merceris: Milvi Antiquiti
@@ -3087,9 +3087,9 @@ Alle Gefolgsleute Merceres neigen zur Unabhängigkeit mit einem Hauch von Fernwe
 
 Diese umfassen Langzeitaktivitäten sowie Varianten der üblichen Laborarbeit.
 
-### Spezialfähigkeiten gemeisterter Zauber
+### Besondere Fähigkeiten gemeisterter Zauber
 
-Jedes Mal, wenn Magi eine Stufe in einer Zaubermeisterschafts-Fertigkeit erwerben, können sie neben den Fähigkeiten aus **Ars Magica** 5th Edition auch aus diesen Spezialfähigkeiten wählen, sofern zumindest ein Teil der Erfahrungspunkte von jemandem gelehrt wurde, der die Fertigkeit besitzt. Die meisten Magi der Wahren Abstammungslinien ziehen es vor, dieses Spezialwissen nur mit ihren Lehrlingen zu teilen, obwohl ihre Methoden in Büchern niedergeschrieben sein können, die jeder lesen kann, und es nicht unmöglich ist, dass ein Meister sich entscheidet, einen Schüler mit sehr ähnlichen Zielen und Loyalitäten zu unterrichten.
+Jedes Mal, wenn Magi eine Stufe in einer Zaubermeisterschafts-Fertigkeit erwerben, können sie neben den Fähigkeiten aus **Ars Magica** 5th Edition auch aus diesen Meisterschaftsfähigkeiten wählen, sofern zumindest ein Teil der Erfahrungspunkte von jemandem gelehrt wurde, der die Fertigkeit besitzt. Die meisten Magi der Wahren Abstammungslinien ziehen es vor, dieses Spezialwissen nur mit ihren Lehrlingen zu teilen, obwohl ihre Methoden in Büchern niedergeschrieben sein können, die jeder lesen kann, und es nicht unmöglich ist, dass ein Meister sich entscheidet, einen Schüler mit sehr ähnlichen Zielen und Loyalitäten zu unterrichten.
 
 Charaktere, die bei der Charaktererschaffung Gemeisterte Zauber nehmen und während ihrer Lehrlingszeit Zugang zu diesen Fähigkeiten haben, können ihre Meisterschaftspunkte dafür ausgeben, wenn sie es wünschen.
 
@@ -3097,9 +3097,9 @@ Charaktere, die bei der Charaktererschaffung Gemeisterte Zauber nehmen und währ
 
 (Kult des Merkur)
 
-Du darfst deinen Meisterschaftswert und alle damit verbundenen Spezialfähigkeiten verwenden, wann immer du einen ähnlichen Zauber wirkst. Wenn du zwei oder mehr Meisterschafts-Fertigkeiten hast, die auf einen einzelnen Zauber anwendbar sind (weil du zwei oder mehr Zauber gemeistert hast, die dem Zauber ähnlich sind, den du wirkst), darfst du nur den Wert einer Fertigkeit verwenden sowie die für diese Meisterschafts-Fertigkeit gewählten Spezialfähigkeiten. Wenn du beispielsweise Ewige Auslöschung des Dämons 30 mit einem Wert von 3 und den Fähigkeiten Adaptives Zaubern, Schnellzaubern und Penetration gemeistert hast, sowie Ewige Auslöschung des Dämons 25 mit einem Wert von 4 und den Fähigkeiten Adaptives Zaubern, zweimal Stilles Zaubern und Regloses Zaubern, musst du den Wert von 3 verwenden, wenn du die Penetration-Fähigkeit nutzen willst, und den Wert von 4, wenn du die Regloses-Zaubern-Fähigkeit nutzen willst, und du kannst die Penetration-Fähigkeit nicht mit dem Wert von 4 verwenden.
+Du darfst deinen Meisterschaftswert und alle damit verbundenen Meisterschaftsfähigkeiten verwenden, wann immer du einen ähnlichen Zauber wirkst. Wenn du zwei oder mehr Meisterschafts-Fertigkeiten hast, die auf einen einzelnen Zauber anwendbar sind (weil du zwei oder mehr Zauber gemeistert hast, die dem Zauber ähnlich sind, den du wirkst), darfst du nur den Wert einer Fertigkeit verwenden sowie die für diese Meisterschafts-Fertigkeit gewählten Meisterschaftsfähigkeiten. Wenn du beispielsweise Ewige Auslöschung des Dämons 30 mit einem Wert von 3 und den Fähigkeiten Adaptives Zaubern, Schnellzaubern und Penetration gemeistert hast, sowie Ewige Auslöschung des Dämons 25 mit einem Wert von 4 und den Fähigkeiten Adaptives Zaubern, zweimal Stilles Zaubern und Regloses Zaubern, musst du den Wert von 3 verwenden, wenn du die Penetration-Fähigkeit nutzen willst, und den Wert von 4, wenn du die Regloses-Zaubern-Fähigkeit nutzen willst, und du kannst die Penetration-Fähigkeit nicht mit dem Wert von 4 verwenden.
 
-> ## Mercere-Spezialfähigkeiten
+> ## Besondere Mercere-Fähigkeiten
 > 
 > ### Merkurische Magi
 > 
@@ -3149,7 +3149,7 @@ Du kannst die Wirkung dieses Zaubers nach Belieben beenden, indem du dich einfac
 
 (Kult des Merkur)
 
-Du verstehst die Theorie dieses Zaubers so vollkommen, dass du deinen Zaubermeisterschaftswert zu deiner Laborsumme addieren darfst, wenn du Effekte entwirfst, die ihm ähnlich sind (siehe Ähnliche Zauber, **Ars Magica** 5th Edition, Seite 101). Dies gilt zusätzlich zum normalen Bonus für ähnliche Zauber.
+Du verstehst die Theorie dieses Zaubers so vollkommen, dass du deinen Zaubermeisterschaftswert zu deiner Laborsumme addieren darfst, wenn du Effekte entwirfst, die ihm ähnlich sind (siehe Ähnliche Zauber, **Ars Magica** 5th Edition, [Seite 101](<Ars Magica Definitive Edition Basisregeln.md#ähnliche-zauber>)). Dies gilt zusätzlich zum normalen Bonus für ähnliche Zauber.
 
 #### Standhaftes Zaubern
 
@@ -3238,7 +3238,7 @@ Der Zauber ist gefesselt, sodass er von einem anderen kontrolliert werden kann, 
 Dieser Zauber verwandelt alle Seiten eines Buches für die Dauer des Zaubers in die eines anderen Buches. Du musst beim Wirken des Zaubers beide Bücher berühren, und da der Zauber gezügelt ist, kannst du ihn jederzeit durch Konzentration beenden. Wenn das Originalbuch beschädigt oder verändert wird, ändern sich die Inhalte des Duplikats entsprechend. Milvi verwenden diesen Zauber gelegentlich, um dasselbe Buch an mehrere verschiedene Magi zu verleihen, oder um über eine lange Reise miteinander zu kommunizieren, indem sie ein zentrales Buch mit dem Reisejournal einer Rotkappe verknüpfen. Der Zauber erlaubt auch Vis-Verstärkung, sodass du ein Buch mittels einer Arkanen Verbindung von wo auch immer du dich befindest kopieren kannst.
 (Basis 1, +1 Berührung, +4 Jahr, +2 Gruppe, +5 Komplexität; Verstärkt, Gezügelt)
 
-Der unermüdliche Flug (S. 102): Ändere die Berechnungsinformationen wie folgt: (Basis 10, +1 Berührung, +1 Konzentration; Verstärkt, Gezügelt, Gefesselt) 
+Der unermüdliche Flug ([S. 102](#der-unermüdliche-flug)): Ändere die Berechnungsinformationen wie folgt: (Basis 10, +1 Berührung, +1 Konzentration; Verstärkt, Gezügelt, Gefesselt) 
 
 #### Muto Corpus Mutantum-Zauber
 
@@ -3378,7 +3378,7 @@ Du kannst jede Sprache verstehen und sprechen, solange du direkt mit jemandem ko
 
 *Klein, Heroisch*
 
-Du besitzt eine besondere magische Kraft, die du nach Belieben hervorrufen und beenden kannst, oder die ständig aktiv ist. Sie sollte als hermetischer Effekt von nicht mehr als Stufe 15 entworfen werden, der wie die Tugend Mythisches Blut in **Ars Magica** 5th Edition (Seite 47) in Bezug auf Worte und Gesten funktioniert. Es sollte etwas in deinem Hintergrund geben, das erklärt, warum du auf diese Weise gesegnet wurdest, über das bloße Besitzen von Heldenblut hinaus – vielleicht ist es eine Belohnung für deine heroischen Taten, oder dir wurde die Kraft gegeben, um dir bei der Vollendung einer wichtigen Aufgabe zu helfen. Diese Tugend kann mehrfach genommen werden, um ein mächtigeres Geburtsrecht anzuzeigen, und ist kompatibel mit Mythisches Blut, obwohl keine deiner angesammelten Kräfte Effekte über Stufe 30 haben kann.
+Du besitzt eine besondere magische Kraft, die du nach Belieben hervorrufen und beenden kannst, oder die ständig aktiv ist. Sie sollte als hermetischer Effekt von nicht mehr als Stufe 15 entworfen werden, der wie die Tugend Mythisches Blut in **Ars Magica** 5th Edition ([Seite 47](<Ars Magica Definitive Edition Basisregeln.md#mythisches-blut>)) in Bezug auf Worte und Gesten funktioniert. Es sollte etwas in deinem Hintergrund geben, das erklärt, warum du auf diese Weise gesegnet wurdest, über das bloße Besitzen von Heldenblut hinaus – vielleicht ist es eine Belohnung für deine heroischen Taten, oder dir wurde die Kraft gegeben, um dir bei der Vollendung einer wichtigen Aufgabe zu helfen. Diese Tugend kann mehrfach genommen werden, um ein mächtigeres Geburtsrecht anzuzeigen, und ist kompatibel mit Mythisches Blut, obwohl keine deiner angesammelten Kräfte Effekte über Stufe 30 haben kann.
 
 #### Gefesselte Magie
 
@@ -3539,33 +3539,33 @@ Indem du einen Bauern Vis beim Wirken formulaischer Zauber einsetzt, kannst du d
 Du bist ungewöhnlich empfindlich für rohes Vis und kannst allein durch Berührung feststellen, ob ein Gegenstand welches enthält. Du kannst auch bestimmen, wie viele Bauern er wert ist, indem du ihn in der Hand wiegst, und die zugehörige Kunst durch genaue Untersuchung ermitteln. Auf diese Weise kannst du magische Gegenstände, aktive Rituale, Vertraute und andere Objekte erkennen, die Vis zu ihrer Herstellung benötigen, obwohl du sie nicht identifizieren oder bestimmte Details über sie ermitteln kannst. Du darfst auch ohne Kosten die Tugend Magiegespür zu Spielbeginn nehmen. Magiegespür ist nicht verpflichtend, wenn du den Abzug auf die Magieresistenz nicht wünschst.
 
 > ## Fehler
-> 
+>
 > **GESCHICHTE, GROSS**
-> 
+>
 > Heide
-> 
-> **HERMETISCH, KLEIN**
-> 
-> Gebundene Magie
-> 
-> Gekettete Magie
-> 
-> Illegitime Abstammung
-> 
-> **HEROISCH, KLEIN**
-> 
-> Heroische Persönlichkeit
-> 
-> Tragische (Eigenschaft)
-> 
+>
 > **GESCHICHTE, KLEIN**
-> 
+>
 > Hermetischer Patron
-> 
+>
 > Vermächtnis
-> 
+>
+> **HERMETISCH, KLEIN**
+>
+> Gebundene Magie
+>
+> Gekettete Magie
+>
+> Illegitime Abstammung
+>
+> **HEROISCH, KLEIN**
+>
+> Heroische Persönlichkeit
+>
+> Tragische (Eigenschaft)
+>
 > **STATUS, KLEIN**
-> 
+>
 > Wucherer
 
 
@@ -3575,7 +3575,7 @@ Du bist ungewöhnlich empfindlich für rohes Vis und kannst allein durch Berühr
 
 Klein, Hermetisch
 
-Wenn du stirbst, enden alle deine Zauber abrupt und alle magischen Gegenstände, die du erschaffen hast, hören auf zu funktionieren. Dies deutet darauf hin, dass du eine natürliche Begabung für Mutantum-Magie haben könntest, oder du könntest diesen Fehler zusammen mit Gezähmter Magie nehmen, um ein unvollkommenes Verständnis deines Talents darzustellen. Du kannst diesen Fehler nicht zusammen mit Gezügelter Magie nehmen (**Ars Magica** 5th Edition, Seite 43), da diese den Effekt bereits beinhaltet.
+Wenn du stirbst, enden alle deine Zauber abrupt und alle magischen Gegenstände, die du erschaffen hast, hören auf zu funktionieren. Dies deutet darauf hin, dass du eine natürliche Begabung für Mutantum-Magie haben könntest, oder du könntest diesen Fehler zusammen mit Gezähmter Magie nehmen, um ein unvollkommenes Verständnis deines Talents darzustellen. Du kannst diesen Fehler nicht zusammen mit Gezügelter Magie nehmen (**Ars Magica** 5th Edition, [Seite 43](<Ars Magica Definitive Edition Basisregeln.md#gezügelte-magie>)), da diese den Effekt bereits beinhaltet.
 
 #### Gekettete Magie
 
@@ -4173,166 +4173,166 @@ Manche Tremere-Magi sind geschickt darin, Träume zu beherrschen. Viele Menschen
 > Tremere-Magi haben festgestellt, dass es viele Arten von Geistern gibt. Die häufigsten, jene die der Magiesphäre zugehören, sind an die Welt gebunden, entweder durch unerledigte Angelegenheiten oder durch eine Last der Sünde. Viele Geister in Transsilvanien können dauerhafte, feste Formen annehmen. Diese sind nicht von den dunklen Feen Westeuropas zu unterscheiden. Warum bestimmte Todesarten Feen erschaffen, während andere Geister erzeugen, ist den Tremere-Magi nicht klar. Sie sind daran interessiert, Forschung zu dieser Frage zu fördern. Es ist Tremere-Magi verboten, die Geister der Verdammten zu beschwören, da dies den Kodex bricht. Viele Tremere betrachten Heilige als besonders mächtige Geister, doch die Beschwörung von Heiligen funktioniert nicht.
 > 
 > #### Legionär
-> 
+>
 > Dieser Geist ist typisch für die gefallenen Legionäre, die in Westeuropa beschworen werden. Viele verschwinden nach ihrem ersten Sieg im Kampf, aber ein kleiner Teil fühlt sich verpflichtet, Rom zu verteidigen, und unternimmt nächtliche Pilgerreisen zur Ewigen Stadt, wobei sie sich am Ende ihrer Suche im Dominium auflösen.
-> 
-> **Machtwert:** 10 (Mentem)
-> 
-> **Eigenschaften:** Int 0, Wah 0, Prä 0, Kom 0, Stä +2, Aus +2, Ges +2, Sck +1
-> 
-> **Größe:** 0
-> 
+>
 > **Alter:** Scheint zwischen 16 und 35 zu sein
-> 
-> **Gebrechlichkeit:** n/v
-> 
-> **Tugenden und Fehler:** n/v
-> 
-> **Persönlichkeitseigenschaften:** Loyal +3
-> 
-> **Reputationen:** n/v
-> 
-> **Kampf:**
-> 
-> *Schwert (Gladius) und Rechteckschild (Scutum):* Init +2, Ang +11, Vert +12, Sch +7.
-> 
-> *Dolch (Pugio):* Init 1, Ang +9, Vert +6, Sch +5 *Wurfspeer (Pilum):* Init +1, Ang +9, Vert +10, Sch +7
-> 
-> **Schadensabsorption:** Variiert nach historischer Epoche je nach Rüstung: Kette 6, Platte 9, Schuppen 8, einschließlich Ausdauerbonus. Immun gegen physische Waffen.
-> 
-> **Erschöpfungsstufen:** Unermüdlich
-> 
-> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
-> 
-> **Fertigkeiten:** \[Gebiets-\]Kunde 3 (antike Befestigungen), Athletik 3 (Marschieren), Aufmerksamkeit 3 (im Kampf), Feilschen 2 (für Vorräte), Raufen 4 (Dolch), Zechen 3 (Trinken), Charme 2 (Gegengeschlecht), Latein 5 (Militärjargon), Legionskunde 2 (Sold und Bedingungen), Beruf (Soldat) 4 (Befestigungen), Einzelwaffe 5 (Kurzschwert), Überleben 1 (Nahrungssuche), Wurfwaffe 4 (Wurfspeer)
-> 
-> **Kräfte:**
-> 
-> *Schlag:* 0 Punkte, Terram: Der Zenturio kann durch einen einzelnen Besitz auf die Welt einwirken. Bei den meisten ist dies ein Gladius: ein römisches Schwert.
-> 
+>
 > **Ausrüstung:** Waffen und Ausrüstung eines römischen Soldaten
-> 
+>
 > **Belastung:** 0 (0)
-> 
+>
+> **Eigenschaften:** Int 0, Wah 0, Prä 0, Kom 0, Stä +2, Aus +2, Ges +2, Sck +1
+>
 > **Erscheinungsbild:** Unterschiedlich: gewöhnlich ein kräftiger junger Mann in antiker Rüstung, gelegentlich aber ein skelettierter oder verwesender Leichnam in verrosteter Rüstung und zerfetzter Kleidung.
-> 
-> #### Kataphraktos
-> 
-> Kataphrakten sind die berittenen Krieger des Oströmischen Reiches. Im Westen findet man sie an einer Handvoll Orte, zurückgelassen nach Justinians imperialem Abenteuer im sechsten Jahrhundert. Im Westen aufgefundene Kataphrakten sind für das Haus besonders nützlich. Ihre unerledigte Aufgabe ist oft der Wiederaufbau des Reiches: eine Aufgabe, der die Tremere nicht entgegenstehen. Das Haus rekrutiert geisterhafte Kataphrakten, wo es kann, und lenkt die übrigen über die Grenze ins Tribunal von Theben, wo sie die lateinischen Eroberer bedrängen. Die hier aufgeführten Werte gelten für einen jungen Kataphrakten mit Grundausbildung, aber wenig Kampferfahrung.
-> 
-> **Machtwert:** 15 (Mentem)
-> 
-> **Eigenschaften:** Int 0, Wah +1, Prä 0, Kom 0, Stä +1, Aus +1, Ges +2, Sck +2
-> 
-> **Größe:** 0
-> 
-> **Alter:** Scheint 20
-> 
+>
+> **Erschöpfungsstufen:** Unermüdlich
+>
+> **Fertigkeiten:** \[Gebiets-\]Kunde 3 (antike Befestigungen), Athletik 3 (Marschieren), Aufmerksamkeit 3 (im Kampf), Feilschen 2 (für Vorräte), Raufen 4 (Dolch), Zechen 3 (Trinken), Charme 2 (Gegengeschlecht), Latein 5 (Militärjargon), Legionskunde 2 (Sold und Bedingungen), Beruf (Soldat) 4 (Befestigungen), Einzelwaffe 5 (Kurzschwert), Überleben 1 (Nahrungssuche), Wurfwaffe 4 (Wurfspeer)
+>
 > **Gebrechlichkeit:** n/v
-> 
-> **Tugenden und Fehler:** Verbesserte Eigenschaften
-> 
-> **Persönlichkeitseigenschaften:** Loyal +3, Stolz +2
-> 
-> **Reputationen**: n/v
-> 
+>
+> **Größe:** 0
+>
 > **Kampf:**
-> 
-> *Kavallerieschwert (Spatha) und Schild (beritten):* Init +4, Ang +15, Vert +14, Sch +7
-> 
-> *Kavallerieschwert (Spatha) und Schild (zu Fuß):* Init +4, Ang +12, Vert +11, Sch +7
-> 
-> *Lanze (beritten):* Init +4, Ang +17, Vert +8, Sch +6\* *Bogen (beritten):* Init +1, Ang +14, Vert +11, Sch +7 *Bogen (zu Fuß):* Init +1, Ang +11, Vert +8, Sch +7
-> 
-> *Dolch:* Init +2, Ang +7, Vert +5, Sch: +4
-> 
-> \* Kataphrakten greifen in enger Formation langsam an, da ihnen Steigbügel fehlen.
-> 
-> **Schadensabsorption:** gewöhnlich +10 für Kettenrüstung oder +8 für Schuppenrüstung. Seltene Exemplare mit Plattenrüstung (+12) sind bekannt.
-> 
-> **Erschöpfungsstufen:** Unermüdlich
-> 
-> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20) 
-> 
-> **Fertigkeiten:** Tierumgang 2 (Pferde), \[Gebiets-\]Kunde 3 (Standort), Athletik 2 (Wandern), Aufmerksamkeit 3 (Schlacht), Bogenschießen 5 (Kurzbogen), Raufen 1 (Dolch), Chirurgie 1 (Pfeilwunden), Etikette (archaisch byzantinisch) 3, Jagen 2 (variiert je nach Standort), Intrige 1 (byzantinischer Hof), Führung 4 (Soldaten), Kunde der Römischen Armee 2 (Pflichten der Offiziere), Griechisch 5 (Befehle erteilen), Reiten 5 (im Kampf), Einzelwaffe 5 (Spatha), Überleben 1 (Wüsten),
-> 
-> **Ausrüstung:** Volle Kettenrüstung, Kavallerieschwert, mittelgroßer Schild, Bogen, Lanze.
-> 
-> **Belastung:** 0 (0)
-> 
-> **Vis:** 2 Bauern Mentem, Verlobungsring oder Andenken. **Erscheinungsbild:** Ein eindrucksvoller Krieger, von seiner Rüstung verborgen. Manchmal enthält die Rüstung ein ätherisches Skelett. Manchmal ist sie leer.
-> 
-> #### Wili
-> 
-> Diese dunklen Feen sind die Geister von Mädchen, die am Tag ihrer Hochzeit starben. Man findet sie oft auf Friedhöfen, einzeln oder in Gruppen, wo sie versuchen, junge Männer dazu zu überreden, sie zu küssen. Ein Rudel Wili kann einem jungen Mann in wenigen Minuten den Lebensatem entziehen. Das Haus setzt Wili als Attentäterinnen ein. Die meisten Wili wollen mit ihrem Verlobten wiedervereint werden, doch das ist gewöhnlich unmöglich. Die Vernichtung ihres Geliebten vertreibt manche. Die meisten können exorziert werden.
-> 
-> **Machtwert:** 15 (Mentem)
-> 
-> **Eigenschaften:** Int 0, Wah +1, Prä +3, Kom +1, Stä +1,
-> 
-> Aus 0, Ges 0, Sck 0
-> 
-> **Größe:** 0
-> 
-> **Alter:** Scheint 16
-> 
-> **Gebrechlichkeit:** n/v
-> 
+>
+> *Schwert (Gladius) und Rechteckschild (Scutum):* Init +2, Ang +11, Vert +12, Sch +7.
+>
+> *Dolch (Pugio):* Init 1, Ang +9, Vert +6, Sch +5 *Wurfspeer (Pilum):* Init +1, Ang +9, Vert +10, Sch +7
+>
+> **Kräfte:**
+>
+> *Schlag:* 0 Punkte, Terram: Der Zenturio kann durch einen einzelnen Besitz auf die Welt einwirken. Bei den meisten ist dies ein Gladius: ein römisches Schwert.
+>
+> **Machtwert:** 10 (Mentem)
+>
+> **Persönlichkeitseigenschaften:** Loyal +3
+>
+> **Reputationen:** n/v
+>
+> **Schadensabsorption:** Variiert nach historischer Epoche je nach Rüstung: Kette 6, Platte 9, Schuppen 8, einschließlich Ausdauerbonus. Immun gegen physische Waffen.
+>
 > **Tugenden und Fehler:** n/v
-> 
-> **Persönlichkeitseigenschaften:** Einsam +5
-> 
-> **Reputationen:** Mörderisch +1
-> 
-> **Kampf:** n/v: Wili können nicht körperlich angreifen. **Schadensabsorption:** 0, immun gegen physische Waffen.
-> 
+>
+> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20)
+>
+> #### Kataphraktos
+>
+> Kataphrakten sind die berittenen Krieger des Oströmischen Reiches. Im Westen findet man sie an einer Handvoll Orte, zurückgelassen nach Justinians imperialem Abenteuer im sechsten Jahrhundert. Im Westen aufgefundene Kataphrakten sind für das Haus besonders nützlich. Ihre unerledigte Aufgabe ist oft der Wiederaufbau des Reiches: eine Aufgabe, der die Tremere nicht entgegenstehen. Das Haus rekrutiert geisterhafte Kataphrakten, wo es kann, und lenkt die übrigen über die Grenze ins Tribunal von Theben, wo sie die lateinischen Eroberer bedrängen. Die hier aufgeführten Werte gelten für einen jungen Kataphrakten mit Grundausbildung, aber wenig Kampferfahrung.
+>
+> **Alter:** Scheint 20
+>
+> **Ausrüstung:** Volle Kettenrüstung, Kavallerieschwert, mittelgroßer Schild, Bogen, Lanze.
+>
+> **Belastung:** 0 (0)
+>
+> **Eigenschaften:** Int 0, Wah +1, Prä 0, Kom 0, Stä +1, Aus +1, Ges +2, Sck +2
+>
 > **Erschöpfungsstufen:** Unermüdlich
-> 
+>
+> **Fertigkeiten:** Tierumgang 2 (Pferde), \[Gebiets-\]Kunde 3 (Standort), Athletik 2 (Wandern), Aufmerksamkeit 3 (Schlacht), Bogenschießen 5 (Kurzbogen), Raufen 1 (Dolch), Chirurgie 1 (Pfeilwunden), Etikette (archaisch byzantinisch) 3, Jagen 2 (variiert je nach Standort), Intrige 1 (byzantinischer Hof), Führung 4 (Soldaten), Kunde der Römischen Armee 2 (Pflichten der Offiziere), Griechisch 5 (Befehle erteilen), Reiten 5 (im Kampf), Einzelwaffe 5 (Spatha), Überleben 1 (Wüsten),
+>
+> **Gebrechlichkeit:** n/v
+>
+> **Größe:** 0
+>
+> **Kampf:**
+>
+> *Kavallerieschwert (Spatha) und Schild (beritten):* Init +4, Ang +15, Vert +14, Sch +7
+>
+> *Kavallerieschwert (Spatha) und Schild (zu Fuß):* Init +4, Ang +12, Vert +11, Sch +7
+>
+> *Lanze (beritten):* Init +4, Ang +17, Vert +8, Sch +6\* *Bogen (beritten):* Init +1, Ang +14, Vert +11, Sch +7 *Bogen (zu Fuß):* Init +1, Ang +11, Vert +8, Sch +7
+>
+> *Dolch:* Init +2, Ang +7, Vert +5, Sch: +4
+>
+> \* Kataphrakten greifen in enger Formation langsam an, da ihnen Steigbügel fehlen.
+>
+> **Machtwert:** 15 (Mentem)
+>
+> **Persönlichkeitseigenschaften:** Loyal +3, Stolz +2
+>
+> **Reputationen**: n/v
+>
+> **Schadensabsorption:** gewöhnlich +10 für Kettenrüstung oder +8 für Schuppenrüstung. Seltene Exemplare mit Plattenrüstung (+12) sind bekannt.
+>
+> **Tugenden und Fehler:** Verbesserte Eigenschaften
+>
+> **Vis:** 2 Bauern Mentem, Verlobungsring oder Andenken. **Erscheinungsbild:** Ein eindrucksvoller Krieger, von seiner Rüstung verborgen. Manchmal enthält die Rüstung ein ätherisches Skelett. Manchmal ist sie leer.
+>
 > **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20) 
 >
-> **Fertigkeiten:** Variieren je nach Lebensstand
-> 
-> **Kräfte:**
-> 
-> *Schweben*, 0 Punkte, Mentem: Wili können in Schrittgeschwindigkeit durch die Luft schweben.
-> 
-> *Körperlos,* 0 Punkte, Mentem: Dieser Geist ist körperlos, wenn sie es wünscht, und fest, wenn sie es begehrt.
-> 
-> *Augen, in denen man alles vergessen kann*, 5 Punkte, Init +5, Mentem: Wenn die Wili Blickkontakt mit einem jungen Mann herstellt, kann sie seinen Verstand umnebeln, sodass er jede Warnung vergisst, die man ihm über die Wili gegeben hat. Er kann sich mit einem Intelligenz-Wurf von 9+ schützen, der ihn daran erinnert, dem Mädchen auf dem Friedhof nicht in die Augen zu schauen.
-> 
-> *Kuss:* 5 Punkte, Corpus: Wenn die Wili ein bereitwilliges Opfer küsst oder eines, das durch ihre betörenden Augen gefügig gemacht wurde, stiehlt sie dem Charakter dauerhaft eine Erschöpfungsstufe und erhält all ihre Machtpunkte zurück. Jede Wili kann ein Opfer nur einmal pro Tag aussaugen, aber ein Rudel Wili kann einen Mann in einer einzigen Runde von Küssen töten.
-> 
-> Wenn ein Mann eine Wili küsst, wird sein Verstand umnebelt. Er weiß, dass die Wili ein Geist ist, der ihn mit ihren Küssen tötet, doch er kann sich nicht dazu bringen, ihr nächstes Stelldichein zu meiden. Sofern der Mann keinen Intelligenz-Wurf von 9+ schafft, tut er alles in seiner Macht Stehende, um die Wili wiederzutreffen. Freunde können diesen Bann mit Hilfe eines Priesters brechen, wonach der Mann nach jeder Nacht der Ruhe eine Erschöpfungsstufe zurückgewinnt. Manche Wili töten mit dem zweiten Kuss, andere entziehen eine weitere Erschöpfungsstufe.
-> 
+> #### Wili
+>
+> Diese dunklen Feen sind die Geister von Mädchen, die am Tag ihrer Hochzeit starben. Man findet sie oft auf Friedhöfen, einzeln oder in Gruppen, wo sie versuchen, junge Männer dazu zu überreden, sie zu küssen. Ein Rudel Wili kann einem jungen Mann in wenigen Minuten den Lebensatem entziehen. Das Haus setzt Wili als Attentäterinnen ein. Die meisten Wili wollen mit ihrem Verlobten wiedervereint werden, doch das ist gewöhnlich unmöglich. Die Vernichtung ihres Geliebten vertreibt manche. Die meisten können exorziert werden.
+>
+> **Alter:** Scheint 16
+>
 > **Ausrüstung:** Trägt das wunderschöne Kleid, in dem sie begraben wurde. Trägt wahrscheinlich ein Medaillon, Kreuz, Haarband oder anderes Andenken ihres Verlobten.
-> 
+>
 > **Belastung:** 0 (0)
-> 
-> **Vis:** 2 Bauern Mentem, Verlobungsring oder Andenken. **Erscheinungsbild:** Ein schönes, wenn auch trauriges Mädchen in einem wallenden weißen Kleid, trauernd an einer frischen Grabstätte.
-> 
-> #### Moro
-> 
-> Moro sind Vampire, die entstehen, wenn Eltern ihre Kinder durch Aussetzung töten. Sie können die Gestalt von Schmetterlingen annehmen und Blut trinken, aber der Verlust ist vernachlässigbar. Sie können das Leben selbst entziehen, eine Kraft, gegen die Kinder besonders anfällig sind. Die meisten Moro wollen Rache an ihren Eltern, was die Tremere ihnen zu gewähren für nur gerecht halten.
-> 
-> **Machtwert:** 20 (Animal)
-> 
-> **Eigenschaften:** Int +1, Wah 0, Prä -2, Kom 0, Stä -1,
-> 
-> Aus -1, Ges 0, Sck 0
-> 
-> **Größe:** -2 (Säuglingsgestalt), -4 (Insektengestalt)
-> 
-> **Alter:** Scheint ein Säugling zu sein
-> 
+>
+> **Eigenschaften:** Int 0, Wah +1, Prä +3, Kom +1, Stä +1,
+>
+> Aus 0, Ges 0, Sck 0
+>
+> **Erschöpfungsstufen:** Unermüdlich
+>
+> **Fertigkeiten:** Variieren je nach Lebensstand
+>
 > **Gebrechlichkeit:** n/v
-> 
+>
+> **Größe:** 0
+>
+> **Kampf:** n/v: Wili können nicht körperlich angreifen. **Schadensabsorption:** 0, immun gegen physische Waffen.
+>
+> **Kräfte:**
+>
+> *Schweben*, 0 Punkte, Mentem: Wili können in Schrittgeschwindigkeit durch die Luft schweben.
+>
+> *Körperlos,* 0 Punkte, Mentem: Dieser Geist ist körperlos, wenn sie es wünscht, und fest, wenn sie es begehrt.
+>
+> *Augen, in denen man alles vergessen kann*, 5 Punkte, Init +5, Mentem: Wenn die Wili Blickkontakt mit einem jungen Mann herstellt, kann sie seinen Verstand umnebeln, sodass er jede Warnung vergisst, die man ihm über die Wili gegeben hat. Er kann sich mit einem Intelligenz-Wurf von 9+ schützen, der ihn daran erinnert, dem Mädchen auf dem Friedhof nicht in die Augen zu schauen.
+>
+> *Kuss:* 5 Punkte, Corpus: Wenn die Wili ein bereitwilliges Opfer küsst oder eines, das durch ihre betörenden Augen gefügig gemacht wurde, stiehlt sie dem Charakter dauerhaft eine Erschöpfungsstufe und erhält all ihre Machtpunkte zurück. Jede Wili kann ein Opfer nur einmal pro Tag aussaugen, aber ein Rudel Wili kann einen Mann in einer einzigen Runde von Küssen töten.
+>
+> Wenn ein Mann eine Wili küsst, wird sein Verstand umnebelt. Er weiß, dass die Wili ein Geist ist, der ihn mit ihren Küssen tötet, doch er kann sich nicht dazu bringen, ihr nächstes Stelldichein zu meiden. Sofern der Mann keinen Intelligenz-Wurf von 9+ schafft, tut er alles in seiner Macht Stehende, um die Wili wiederzutreffen. Freunde können diesen Bann mit Hilfe eines Priesters brechen, wonach der Mann nach jeder Nacht der Ruhe eine Erschöpfungsstufe zurückgewinnt. Manche Wili töten mit dem zweiten Kuss, andere entziehen eine weitere Erschöpfungsstufe.
+>
+> **Machtwert:** 15 (Mentem)
+>
+> **Persönlichkeitseigenschaften:** Einsam +5
+>
+> **Reputationen:** Mörderisch +1
+>
 > **Tugenden und Fehler:** n/v
-> 
-> **Persönlichkeitseigenschaften:** Rachsüchtig +5
-> 
-> **Reputationen:** Vampir +5
-> 
+>
+> **Vis:** 2 Bauern Mentem, Verlobungsring oder Andenken. **Erscheinungsbild:** Ein schönes, wenn auch trauriges Mädchen in einem wallenden weißen Kleid, trauernd an einer frischen Grabstätte.
+>
+> **Wundabzüge**: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20) 
+>
+> #### Moro
+>
+> Moro sind Vampire, die entstehen, wenn Eltern ihre Kinder durch Aussetzung töten. Sie können die Gestalt von Schmetterlingen annehmen und Blut trinken, aber der Verlust ist vernachlässigbar. Sie können das Leben selbst entziehen, eine Kraft, gegen die Kinder besonders anfällig sind. Die meisten Moro wollen Rache an ihren Eltern, was die Tremere ihnen zu gewähren für nur gerecht halten.
+>
+> **Alter:** Scheint ein Säugling zu sein
+>
+> **Eigenschaften:** Int +1, Wah 0, Prä -2, Kom 0, Stä -1,
+>
+> Aus -1, Ges 0, Sck 0
+>
+> **Gebrechlichkeit:** n/v
+>
+> **Größe:** -2 (Säuglingsgestalt), -4 (Insektengestalt)
+>
 > **Kampf:** n/v, Moro greifen nur heimlich an.
+> **Machtwert:** 20 (Animal)
+>
+> **Persönlichkeitseigenschaften:** Rachsüchtig +5
+>
+> **Reputationen:** Vampir +5
+>
+> **Tugenden und Fehler:** n/v
+>
 
 **Schadensabsorption:** 0, immun gegen normale Waffen.
 > 
@@ -4365,109 +4365,109 @@ Haus Tremere besitzt keine detaillierte Doktrin für magische Reittiere. Es ist 
 > Tremere-Magi fangen und studieren häufig die magischen Tiere, denen sie begegnen, und fügen sie den Ressourcen des Hauses hinzu. Verfügt ein Konvent über eine Population interessanter Tiere, vielleicht als Vis-Quelle, kann ein junger Tremere-Magus entsandt werden, um deren Nützlichkeit zu bestimmen. Erweisen sie sich als wertvoll, wird der Magus lebende Exemplare für seine Vorgesetzten beschaffen wollen. Das Haus könnte auch Zuchtpaare sichern, um neue Kolonien der Tiere bei einem Haus-Konvent anzusiedeln.
 > 
 > ### Gemeine Weiße Wölfe
-> 
+>
 > Es gibt mehrere Arten magischer Wölfe, die dem Haus in seinen Rudeln dienen, aber dieser Typ, abstammend von Tremeres Vertrautem, ist der häufigste.
-> 
-> **Machtwert:** 10 (Animal)
-> 
-> **Eigenschaften:** Int +1, Wah +3, Prä +1, Kom +1, Stä +2, Aus +2, Ges +2, Sck +2
-> 
-> **Größe:** 1 **Alter:** n/v
-> 
-> **Gebrechlichkeit:** n/v
-> 
-> **Tugenden und Fehler:** Die Tugend Visionen kommt unter diesen Wölfen gelegentlich vor.
-> 
-> **Persönlichkeitseigenschaften:** Loyal +2, Amüsiert über Menschen +1
-> 
-> **Reputationen:** Keine
-> 
-> **Kampf:**
-> 
-> *Biss:* Init +12, Ang +10, Vert +14, Sch +9
-> 
-> **Schadensabsorption:** +7
-> 
-> **Erschöpfungsstufen:** 0,-1/-1,-3/-3,-5,Bewusstlos
-> 
-> **Wundabzüge**: -1 (1-6), -3 (7-12), -5 (13-18), Kampfunfähig (19-24) 
-> 
-> **Fertigkeiten:** \[Gebiets-\]Kunde 6 (Rudelland), Raufen 3 (Biss), Menschenkenntnis (Tremere-Magi) 3, Jagen 6 (im Rudel), Latein\* 3 (hermetische Begriffe). Schleichen (Wälder) 3, Schwimmen (Seen) 1, Überleben 6 (Wälder)
-> 
-> \* Kann ohne magische Unterstützung kein Latein sprechen, aber manche Rudel sind darauf trainiert, es zu verstehen, durch Vertraute, die es können.
-> 
-> **Kräfte:**
-> 
-> *Stimmendiebstahl,* 1 Punkt, Init +10, Mentem: Der Wolf kann jedem Menschen die Stimme stehlen, mit dem er Blickkontakt herstellt. Die Wirkung dauert gewöhnlich bis zum nächsten Sonnenaufgang, obwohl manche einzelnen Wölfe abweichende Kräfte haben, sodass die Wirkung beim Überqueren eines Baches, beim Betreten einer Kirche oder bei Feuerschein endet.
-> 
-> *Augen wie Laternen,* 5 Punkte, Init +5, Mentem: Der Wolf kann ein Opfer mit Furcht lähmen. Dies erfordert, dass der Wolf Blickkontakt herstellt und das Opfer einen Tapfer-Wurf mit einem Schwierigkeitsgrad von 9+ nicht besteht. Ein Opfer, das Blickkontakt mit mehreren Wölfen herstellt, muss möglicherweise mehrere Würfe ablegen. Das Opfer darf jede Runde einen neuen Wurf ablegen, wenn es angegriffen wird, mit einem Schwierigkeitsgrad von 6+, weshalb Wölfe dazu neigen, einen Kreis um ein hypnotisiertes Opfer zu bilden und alle gleichzeitig anzuspringen. Schlagen oder Schütteln des Opfers erlaubt ebenfalls einen Wurf, gegen einen Schwierigkeitsgrad von 6+.
-> 
+>
 > **Ausrüstung:** Keine.
-> 
+>
 > **Belastung:** 0 (0)
-> 
-> **Vis:** 1 Bauer Animal, Schwanz
-> 
+>
+> **Eigenschaften:** Int +1, Wah +3, Prä +1, Kom +1, Stä +2, Aus +2, Ges +2, Sck +2
+>
 > **Erscheinungsbild:** Großer Wolf, weiß bis grau im Fell, der amüsiert dreinschaut.
-> 
-> Weiße Wölfe sind weit größer als normale Wölfe und äußerst intelligent. Im Laufe der Jahrhunderte haben ihre menschlichen Verbündeten den Wölfen geholfen, ihre Rudelgebiete umzugestalten. Diese Reservate um die Tremere-Haus-Konvente herum sind verwirrender als natürlicher Wald und enthalten oft Wildwechsel, Gruben und verzauberte Gegenstände, die die Wölfe aktivieren können.
-> 
-> ### Schatteneulen und Feuerfalken
-> 
-> Schatteneulen und Feuerfalken sind kleine Greifvögel, die viele mechanische Werte teilen.
-> 
-> **Machtwert:** 10 (Animal)
-> 
-> **Eigenschaften:** Klu -2, Wah +5, Prä n/v, Kom n/v, Stä -2, Aus 0, Ges +2, Sck +3
-> 
-> **Größe:** -3
-> 
-> **Alter:** n/v
-> 
+>
+> **Erschöpfungsstufen:** 0,-1/-1,-3/-3,-5,Bewusstlos
+>
+> **Fertigkeiten:** \[Gebiets-\]Kunde 6 (Rudelland), Raufen 3 (Biss), Menschenkenntnis (Tremere-Magi) 3, Jagen 6 (im Rudel), Latein\* 3 (hermetische Begriffe). Schleichen (Wälder) 3, Schwimmen (Seen) 1, Überleben 6 (Wälder)
+>
+> \* Kann ohne magische Unterstützung kein Latein sprechen, aber manche Rudel sind darauf trainiert, es zu verstehen, durch Vertraute, die es können.
+>
 > **Gebrechlichkeit:** n/v
-> 
-> **Tugenden und Fehler:** Keine
-> 
-> **Persönlichkeitseigenschaften:** Wild +5, Geduldig +2
-> 
+>
+> **Größe:** 1 **Alter:** n/v
+>
+> **Kampf:**
+>
+> *Biss:* Init +12, Ang +10, Vert +14, Sch +9
+>
+> **Kräfte:**
+>
+> *Stimmendiebstahl,* 1 Punkt, Init +10, Mentem: Der Wolf kann jedem Menschen die Stimme stehlen, mit dem er Blickkontakt herstellt. Die Wirkung dauert gewöhnlich bis zum nächsten Sonnenaufgang, obwohl manche einzelnen Wölfe abweichende Kräfte haben, sodass die Wirkung beim Überqueren eines Baches, beim Betreten einer Kirche oder bei Feuerschein endet.
+>
+> *Augen wie Laternen,* 5 Punkte, Init +5, Mentem: Der Wolf kann ein Opfer mit Furcht lähmen. Dies erfordert, dass der Wolf Blickkontakt herstellt und das Opfer einen Tapfer-Wurf mit einem Schwierigkeitsgrad von 9+ nicht besteht. Ein Opfer, das Blickkontakt mit mehreren Wölfen herstellt, muss möglicherweise mehrere Würfe ablegen. Das Opfer darf jede Runde einen neuen Wurf ablegen, wenn es angegriffen wird, mit einem Schwierigkeitsgrad von 6+, weshalb Wölfe dazu neigen, einen Kreis um ein hypnotisiertes Opfer zu bilden und alle gleichzeitig anzuspringen. Schlagen oder Schütteln des Opfers erlaubt ebenfalls einen Wurf, gegen einen Schwierigkeitsgrad von 6+.
+>
+> **Machtwert:** 10 (Animal)
+>
+> **Persönlichkeitseigenschaften:** Loyal +2, Amüsiert über Menschen +1
+>
 > **Reputationen:** Keine
-> 
-> **Kampf:** Klauen: Init +7, Ang +6, Vert -1, Sch +4
-> 
-> **Schadensabsorption:** 0
-> 
+>
+> **Schadensabsorption:** +7
+>
+> **Tugenden und Fehler:** Die Tugend Visionen kommt unter diesen Wölfen gelegentlich vor.
+>
+> **Vis:** 1 Bauer Animal, Schwanz
+>
+> **Wundabzüge**: -1 (1-6), -3 (7-12), -5 (13-18), Kampfunfähig (19-24) 
+>
+> Weiße Wölfe sind weit größer als normale Wölfe und äußerst intelligent. Im Laufe der Jahrhunderte haben ihre menschlichen Verbündeten den Wölfen geholfen, ihre Rudelgebiete umzugestalten. Diese Reservate um die Tremere-Haus-Konvente herum sind verwirrender als natürlicher Wald und enthalten oft Wildwechsel, Gruben und verzauberte Gegenstände, die die Wölfe aktivieren können.
+>
+> ### Schatteneulen und Feuerfalken
+>
+> Schatteneulen und Feuerfalken sind kleine Greifvögel, die viele mechanische Werte teilen.
+>
+> **Alter:** n/v
+>
+> **Eigenschaften:** Klu -2, Wah +5, Prä n/v, Kom n/v, Stä -2, Aus 0, Ges +2, Sck +3
+>
 > **Erschöpfungsstufen:** 0, -3, Bewusstlos
-> 
-> **Wundabzüge**: -1 (1-2), -3 (3-4), -5 (5-6), Kampfunfähig (7-8)
-> 
+>
 > **Fertigkeiten:** n/v
-> 
+>
+> **Gebrechlichkeit:** n/v
+>
+> **Größe:** -3
+>
+> **Kampf:** Klauen: Init +7, Ang +6, Vert -1, Sch +4
+>
 > **Kräfte der Schatteneule:**
-> 
+>
 > *Tarnfleck,* 1 Punkt, Imaginem: Schatteneulen können das Aussehen ihres Gefieders verändern, sodass sie besser mit ihrer Umgebung verschmelzen. Wenn die Eule reglos ist, wird sie von einer kleinen Illusion des Sehsinns verborgen. Im Flug erleidet jeder Wurf zum Erkennen einer Eule, die diese Kraft einsetzt, einen Abzug von -3.
-> 
+>
 > *Geisterjagd,* 1 Punkt, Animal: Nach Aktivierung dieser Kraft kann eine Schatteneule für die nächsten Minuten durch feste Gegenstände fliegen, als wäre sie ein Geist. Schatteneulen können nicht durch Gegenstände wie Rüstungen hindurchschlagen, da sie fest sein müssen, um ihr Ziel zu verletzen. Eulen verfolgen Wild durch Wälder mittels dieser Kraft. Das Haus setzt diese Eulen zum Sammeln Arkaner Verbindungen ein, da sie Wild oder kleine Gegenstände in Geistergestalt tragen können.
-> 
+>
+> **Machtwert:** 10 (Animal)
+>
+> **Persönlichkeitseigenschaften:** Wild +5, Geduldig +2
+>
+> **Reputationen:** Keine
+>
+> **Schadensabsorption:** 0
+>
+> **Tugenden und Fehler:** Keine
+>
+> **Wundabzüge**: -1 (1-2), -3 (3-4), -5 (5-6), Kampfunfähig (7-8)
+>
 > #### Kräfte des Feuerfalken:
-> 
+>
 > *Entzünden,* 1 Punkt, +5 Init. Ignem: Feuerfalken können brennbare Gegenstände durch Berührung entzünden. Sie legen kleine Buschfeuer, um Insekten aufzuscheuchen und manchmal zu garen. Gewöhnlich greifen sie einen Stock oder Grasbüschel, entzünden ihn und lassen ihn dann fallen, während sie über ein Zielgebiet hinweggleiten. Ein Falke, der die Entzünden-Kraft einsetzt und einen Feind trifft, verursacht +9 Schaden (einschließlich des oben angegebenen Klauenschadens). Das Haus setzt diese Tiere als Saboteure ein.
-> 
+>
 > **Ausrüstung:** Keine. **Belastung:** 0 (0)
-> 
+>
 > **Vis:** 1 Bauer Imaginem, Federn oder 1 Bauer Ignem, beide Klauen.
-> 
+>
 > Das Haus hat Verwendung für eine Vielzahl kleiner Greifvögel gefunden. Schatteneulen sind nützlich zum Sammeln Arkaner Verbindungen. Feuerfalken werden als Saboteure eingesetzt.
-> 
+>
 > Der beliebteste große Greifvogel im Haus Tremere ist der Gänsegeier, der entlang der Adriaküste vorkommt. Diese Kreaturen, die Greifen folgen und sich von deren Resten ernähren, können ungeheure Entfernungen sehen und sind magisch empfindlich. Ihr kooperatives Jagdmuster, bei dem sie das Umland in Kammformation nach toten Lämmern absuchen, macht sie zu perfekten Informationssammlern.
-> 
+>
 > #### Ätherische Fischerspinnen
-> 
+>
 > Ätherische Fischerspinnen sind soziale Spinnen: Spinnentiere, die gemeinschaftlich arbeiten, um Fallen zu bauen. Sie verzehren die Geister ihrer Opfer, die gewöhnlich Insekten sind. Zur Fortpflanzung müssen die Ätherischen Fischerspinnen zusätzliche Masse aufnehmen und dann ihre Eier verteilen. Sie tun dies, indem sie beständige Geister einfangen, vorzugsweise menschliche Geister.
-> 
+>
 > Die von Ätherischen Fischerspinnen gebauten Netze sind einzeln klein, aber sie arbeiten als Schwarm, um große, aufwendige Strukturen zu bauen, die Geister mit einem Machtwert von 20 oder weniger einfangen. Verwende den Zauber *Weberfalle aus Spinnfäden* als Richtlinie, um zu bestimmen, ob der Geist entkommen kann. Die Spinnen bevorzugen es, bei der Fortpflanzung Netze über Wege zu spannen, um wandernde Geister einzufangen. Die winzigen Spinnen schwärmen über alles her, was in ihr Netz fällt, und verpuppen es. Sie nähren sich vom Geist, indem sie seinen Machtvorrat wiederholt aussaugen, bis sie aufgebläht genug sind, um sich fortzupflanzen. Die Spinnen legen dann Eier, die in spektraler Form vorliegen, in den Geist. Der Geist wird dann freigelassen, um zu seinem üblichen Spukort zu fliehen, wobei er die Spinneneier mitnimmt. Die schlüpfenden Spinnen zerstören den Geist gewöhnlich.
-> 
+>
 > Die Netze Ätherischer Fischerspinnen fangen keine Menschen. Berührung mit dem Netz verursacht keinen Schaden, obwohl sie ein kaltes, prickelndes Gefühl auslöst. Für das Zweite Gesicht ist das Netz tiefblau, fast schwarz, aber die Spinnen leuchten milchig. Sie bilden wunderschöne Konstellationen in ihren dreidimensionalen Fallen. Manche Tremere halten sie allein wegen ihrer Schönheit, andere wegen der Kühle ihrer Netze, die im mediterranen Sommer angenehm ist.
-> 
+>
 > Tremere-Magi sind fasziniert davon, wie diese Spinnen die Grenze zwischen dem materiellen und dem ätherischen Zustand streifen. Sie nutzen kontrollierte Spinnenschwärme, um Geister einzusperren. Tremere-Magi züchten diese Spinnen wegen ihrer wunderschönen Seide, aus der sie Festroben fertigen. Ihre kleine Zuchtkolonie wird mit reinem Mentem-Vis gefüttert. Die Seide wird beim Färben schimmernd und durchscheinend. Manche Tremere glauben, dass es ein vollständiges ätherisches Ökosystem gibt, das Magi nur am Rande erblicken.
 
 ### Tugenden und Fehler
@@ -4740,12 +4740,12 @@ Dieser Zauber befiehlt einem Seidentuch, einen Feind zu erdrosseln, zu dem der M
 (Basis 25, +1 Berührung, +2 Sonne, +1 Befehle zusätzlich zum Transport)
 
 > ### Ergänzungen zur Form- und Materialbonustabelle
-> 
+>
 > **Bernstein:** +3 Bewegung kontrollieren, +3 Corpus.
 >
->**Menschenschädel:** +4 menschlichen Körper vernichten, +5 menschlichen Geist vernichten, +5 Geister vernichten oder beherrschen, +10 Geist des betreffenden Schädels vernichten oder beherrschen.
-> 
 > **Blei:** +4 Abwehr, +3 Geister beschwören oder binden **Spiegel:** +6 Bilder zeigen, +3 Geister beschwören oder binden **Opal:** +4 Reisen, +6 Augen, +2 Bilder, +2 Unsichtbarkeit **Rhodochrosit:** +3 Vergessen, +2 Erinnerungen, +3 Wunden verbinden
+> **Menschenschädel:** +4 menschlichen Körper vernichten, +5 menschlichen Geist vernichten, +5 Geister vernichten oder beherrschen, +10 Geist des betreffenden Schädels vernichten oder beherrschen.
+>
 
 #### Rego Aquam-Zauber
 
@@ -4861,7 +4861,7 @@ Dieser Zauber erschafft eine Granitmauer von bis zu 500 Schritten Breite, 5 Schr
 
 **R:** Berührung, **D:** Konz, **T:** Ind, **Stufe** 35
 
-Dieser Zauber wird eingesetzt, um Schmuck über die Aktivitäten seines Trägers zu befragen. Die Sympathien des größten Edelsteins bestimmen die Persönlichkeit eines Schmuckstücks. Rubine neigen zu Blutdurst, Granate zu Lebhaftigkeit und so weiter, entsprechend der Materialtabelle in **Ars Magica** (Seite 110). Unverziertes Silber ist verräterisch und unverziertes Gold fromm, urteilend und anklagend.
+Dieser Zauber wird eingesetzt, um Schmuck über die Aktivitäten seines Trägers zu befragen. Die Sympathien des größten Edelsteins bestimmen die Persönlichkeit eines Schmuckstücks. Rubine neigen zu Blutdurst, Granate zu Lebhaftigkeit und so weiter, entsprechend der Materialtabelle in **Ars Magica** ([Seite 110](<Ars Magica Definitive Edition Basisregeln.md#tabelle-der-form--und-materialboni>)). Unverziertes Silber ist verräterisch und unverziertes Gold fromm, urteilend und anklagend.
 
 (Basis 25, +1 Berührung, +1 Konz)
 
@@ -4890,10 +4890,10 @@ Die Vampire, die Dhampire zeugen, sind eine Art dunkle Fee — streng genommen k
 Dhampire haben folgende Vorteile:
 
 - Dhampire beginnen mit fünfzig Jahren, Alterungswürfe abzulegen, und erhalten –3 auf alle Würfe gegen die Auswirkungen des Alterns, kumulativ mit etwaigen anderen Boni.
-- Dhampire besitzen die Tugend Zweites Gesicht (siehe **Ars Magica** 5. Edition, Seite 48) und können in Dunkelheit oder Halbdunkel normal sehen. Ihre Augen sehen weitgehend normal aus, haben aber eine ungewöhnliche und lebhafte Farbe.
+- Dhampire besitzen die Tugend Zweites Gesicht (siehe **Ars Magica** 5. Edition, [Seite 48](<Ars Magica Definitive Edition Basisregeln.md#zweites-gesicht>)) und können in Dunkelheit oder Halbdunkel normal sehen. Ihre Augen sehen weitgehend normal aus, haben aber eine ungewöhnliche und lebhafte Farbe.
 - Dhampire dürfen während der Charaktererschaffung Feenkunde erlernen und erhalten einen Bonus von +1 auf alle Feenkunde-Würfe.
 
-Dhampire können die Gabe besitzen, doch Haus Tremere verbietet die Ausbildung von Dhampiren zu hermetischen Magi. Es geschah einmal, vor langer Zeit, und könnte wieder geschehen (Fehler: Dunkles Geheimnis). Dies ist eine übernatürliche Fähigkeit, und sie kann nicht verloren gehen, wenn man als Magus ausgebildet wird (siehe **Ars Magica** 5. Edition, Seite 107). Wenn dein Lehrmeister die Fähigkeit nicht bewahren kann, kannst du nicht ausgebildet werden. Ein Charakter, der zum Vampir wird, geht an den Spielleiter über. Vampire können keine hermetische Magie einsetzen, verfügen aber über eine Vielzahl von Kräften. Heckenzauberer-Dhampire sind als Diener zugelassen.
+Dhampire können die Gabe besitzen, doch Haus Tremere verbietet die Ausbildung von Dhampiren zu hermetischen Magi. Es geschah einmal, vor langer Zeit, und könnte wieder geschehen (Fehler: Dunkles Geheimnis). Dies ist eine übernatürliche Fähigkeit, und sie kann nicht verloren gehen, wenn man als Magus ausgebildet wird (siehe **Ars Magica** 5. Edition, [Seite 107](<Ars Magica Definitive Edition Basisregeln.md#die-künste-öffnen>)). Wenn dein Lehrmeister die Fähigkeit nicht bewahren kann, kannst du nicht ausgebildet werden. Ein Charakter, der zum Vampir wird, geht an den Spielleiter über. Vampire können keine hermetische Magie einsetzen, verfügen aber über eine Vielzahl von Kräften. Heckenzauberer-Dhampire sind als Diener zugelassen.
 
 #### Volkstänzer
 
@@ -4935,7 +4935,7 @@ Zmey bezirzen oft junge Frauen, was gewöhnlich zu deren Tod führt. Manchmal ve
 
 Ein Mensch, der das Herz eines Zmey isst, erlangt viele seiner Kräfte, darunter übernatürliche Stärke. Menschen können durch Zauber oder Kräuterzubereitungen zu Zmey werden.
 
-Die Abstammung von einem Zmey gewährt einen Kleinen Magischen Fokus auf Stürme, und der Kleine Persönlichkeitsfehler tendiert zu Wollüstig, Einmischer oder Stolz. Die gewährte Kraft kann Unsichtbarkeit sein (wie *Schleier der Unsichtbarkeit* (ArM5 Seite 146), aber mit Persönlicher Reichweite und ohne Penetration, wirkbar ohne Worte oder Gesten), die Fähigkeit, auf dem Wind zu fliegen (wie *Schwingen des aufsteigenden Windes* (ArM5 Seite 126), erfordert Worte und Gesten), oder die Fähigkeit, sich in einen Hund oder Bären zu verwandeln (wie *Gestalt des Waldläufers* (ArM5 Seite 131), aber mit Persönlicher Reichweite und nur eine Geste erfordert).
+Die Abstammung von einem Zmey gewährt einen Kleinen Magischen Fokus auf Stürme, und der Kleine Persönlichkeitsfehler tendiert zu Wollüstig, Einmischer oder Stolz. Die gewährte Kraft kann Unsichtbarkeit sein (wie *Schleier der Unsichtbarkeit* (ArM5 [Seite 146](<Ars Magica Definitive Edition Basisregeln.md#schleier-der-unsichtbarkeit>)), aber mit Persönlicher Reichweite und ohne Penetration, wirkbar ohne Worte oder Gesten), die Fähigkeit, auf dem Wind zu fliegen (wie *Schwingen des aufsteigenden Windes* (ArM5 [Seite 126](<Ars Magica Definitive Edition Basisregeln.md#schwingen-des-aufsteigenden-windes>)), erfordert Worte und Gesten), oder die Fähigkeit, sich in einen Hund oder Bären zu verwandeln (wie *Gestalt des Waldläufers* (ArM5 [Seite 131](<Ars Magica Definitive Edition Basisregeln.md#gestalt-des-waldläufers>)), aber mit Persönlicher Reichweite und nur eine Geste erfordert).
 
 #### Bleigießer
 

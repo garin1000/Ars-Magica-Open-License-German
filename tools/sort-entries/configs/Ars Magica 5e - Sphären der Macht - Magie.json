@@ -1,19 +1,13 @@
 {
   "version": 1,
   "source_file": "Ars Magica 5e - Sphären der Macht - Magie.md",
-  "file_hash": "sha256:4ecb0afb73f37dd2",
+  "file_hash": "sha256:bf9b095aa88aab3a",
   "sections": [
     {
       "heading": "## Autorenbiographien",
       "type": "bold_blocks",
       "enabled": false,
-      "note": "9 Fetteinträge"
-    },
-    {
-      "heading": "## Inhalt<br>",
-      "type": "bold_blocks",
-      "enabled": false,
-      "note": "9 Fetteinträge"
+      "note": "18 Fetteinträge"
     },
     {
       "heading": "## Was ist Magie?",
@@ -375,13 +369,6 @@
       "enabled": true,
       "note": "3 H4-Blöcke",
       "subheading": "### Wiedergänger, die wandelnden Toten"
-    },
-    {
-      "heading": "## Verwandelte Menschen",
-      "type": "desc_blocks",
-      "enabled": true,
-      "note": "3 H4-Blöcke",
-      "subheading": "### Geister als Charaktere"
     },
     {
       "heading": "## Luftgeister",

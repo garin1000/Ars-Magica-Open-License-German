@@ -1,0 +1,449 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Sphären der Macht - Das Infernale.md",
+  "file_hash": "sha256:4f16f6bd605a7c70",
+  "sections": [
+    {
+      "heading": "## Dieses Buch verwenden",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Subtile Korrumpierungen"
+    },
+    {
+      "heading": "## Infernale Auren",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Infernale Auren im Spiel"
+    },
+    {
+      "heading": "## Infernale Auren",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Infernale Auren im Spiel"
+    },
+    {
+      "heading": "## Infernale Auren",
+      "type": "table",
+      "enabled": false,
+      "note": "9 Tabellenzeilen",
+      "subheading": "### Infernale Auren im Spiel"
+    },
+    {
+      "heading": "## Infernale Auren",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Korrumpierte Auren"
+    },
+    {
+      "heading": "## Infernale Verzerrung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Ursachen infernaler Verzerrung"
+    },
+    {
+      "heading": "## Infernales Vis",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke"
+    },
+    {
+      "heading": "## Was sind Dämonen?",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Dämonische Eigenschaften"
+    },
+    {
+      "heading": "## Was sind Dämonen?",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "8 Fetteinträge",
+      "subheading": "### Dämonische Eigenschaften"
+    },
+    {
+      "heading": "## Was sind Dämonen?",
+      "type": "inline_list",
+      "enabled": false,
+      "sort_column": 2,
+      "note": "5 Zeilen mit Komma-Listen",
+      "subheading": "### Dämonische Eigenschaften"
+    },
+    {
+      "heading": "## Was sind Dämonen?",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Wahre Namen"
+    },
+    {
+      "heading": "## Was sind Dämonen?",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "10 Fetteinträge",
+      "subheading": "### Wahre Namen"
+    },
+    {
+      "heading": "## Dämonen in der Saga verwenden",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Ein Leben ohne Tugend"
+    },
+    {
+      "heading": "## Dämonen in der Saga verwenden",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "27 H4-Blöcke",
+      "subheading": "### Die Rolle der Dämonen"
+    },
+    {
+      "heading": "## Dämonen in der Saga verwenden",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Die Rolle der Dämonen"
+    },
+    {
+      "heading": "## Fictiles",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "18 H4-Blöcke"
+    },
+    {
+      "heading": "## Fictiles",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge"
+    },
+    {
+      "heading": "## Befleckte Tugenden und Fehler",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "34 H4-Blöcke",
+      "subheading": "### Neue Tugenden"
+    },
+    {
+      "heading": "## Befleckte Tugenden und Fehler",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "15 H4-Blöcke",
+      "subheading": "### Neue Fehler"
+    },
+    {
+      "heading": "## Neue Fertigkeiten",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "14 H4-Blöcke"
+    },
+    {
+      "heading": "## Neue Fertigkeiten",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "15 Fetteinträge"
+    },
+    {
+      "heading": "## Neue Fertigkeiten",
+      "type": "table",
+      "enabled": true,
+      "note": "9 Tabellenzeilen"
+    },
+    {
+      "heading": "## Infernalisten",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Vituperation"
+    },
+    {
+      "heading": "## Infernalisten",
+      "type": "table",
+      "enabled": false,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Opferung"
+    },
+    {
+      "heading": "## Die Kinder der Dämonen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Mythischer Gefährte: Teufelskind"
+    },
+    {
+      "heading": "## Unheilige Kräfte",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Verzehrung"
+    },
+    {
+      "heading": "## Unheilige Kräfte",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Diablerie"
+    },
+    {
+      "heading": "## Unheilige Kräfte",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Effusion"
+    },
+    {
+      "heading": "## Unheilige Kräfte",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Phantasma"
+    },
+    {
+      "heading": "## Unheilige Kräfte",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Psychomachie"
+    },
+    {
+      "heading": "## Die goetischen Künste",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "4 Fetteinträge",
+      "subheading": "### Herbeirufung"
+    },
+    {
+      "heading": "## Die goetischen Künste",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Abtragung"
+    },
+    {
+      "heading": "## Dämonenjäger",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Apotropäische Zauber"
+    },
+    {
+      "heading": "## Dämonenjäger",
+      "type": "bold_blocks",
+      "enabled": true,
+      "note": "11 Fetteinträge",
+      "subheading": "### Apotropäische Zauber"
+    },
+    {
+      "heading": "## About the Illustrators",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge"
+    },
+    {
+      "heading": "## Die Kurfürsten der Hölle",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "9 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Geister des Betrugs",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Rächer des Bösen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Furien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Tugenden und Fehler für Verderbte Tiere",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Neue Fehler",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Klein, Persönlichkeit",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Albert, ein Kaufmann",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Elspeth, eine Hebamme",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Jochim, der Sohn eines Adligen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Schwester Andrea, eine Rebellin",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Tiberius, Opfer einer Ahnensünde",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Malachi, Teufelskind",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Infernale Reichweiten, Dauern und Ziele",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Mächtige Maleficia",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Ausschweifung/Verzehrung",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "9 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Beschwörung/Verzehrung",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "9 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Ausschweifung/Diablerie",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Beschwörung/Diablerie",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "10 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Ausschweifung/Effusion",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Beschwörung/Effusion",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "12 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Verfluchung",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Ausschweifung/Verfluchung",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Beschwörung/Verfluchung",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Ausschweifung/Phantasma",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Beschwörung/Phantasma",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "8 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Ausschweifung/Psychomachie",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "8 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "### Beschwörung/Psychomachie",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "9 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "## Apotropäische Leitlinien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    }
+  ]
+}
