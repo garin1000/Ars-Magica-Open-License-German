@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Sphären der Macht - Das Infernale.md",
+  "file_hash": "sha256:afae99781e06a01a",
+  "page_to_anchors": {},
+  "toc": {
+    "enabled": true,
+    "start_markers": [
+      "## Inhalt",
+      "## Inhaltsverzeichnis",
+      "# Inhaltsverzeichnis"
+    ],
+    "indent_chars": [
+      "&emsp;",
+      "&nbsp;"
+    ],
+    "detected": {
+      "start_line": 48,
+      "end_line": 183,
+      "entry_count": 106
+    }
+  },
+  "exclude_patterns": [
+    "www.atlas-games.com/ArM5"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Wächter des Waldes - Das Rhein-Tribunal.md",
+  "file_hash": "sha256:90c09657f33c174c",
+  "page_to_anchors": {
+    "72": ["creo-mentem-zauber"],
+    "116": ["auszüge-aus-den-aufzeichnungen-des-rheintribunals-über-die-konvente-am-mittelrhein"],
+    "124": ["tropfstein-chalcedonius"]
+  },
+  "toc": {
+    "enabled": true,
+    "start_markers": [
+      "## Inhalt",
+      "## Inhaltsverzeichnis",
+      "# Inhaltsverzeichnis"
+    ],
+    "indent_chars": [
+      "&emsp;",
+      "&nbsp;"
+    ],
+    "detected": {
+      "start_line": 60,
+      "end_line": 150,
+      "entry_count": 74
+    }
+  },
+  "exclude_patterns": [
+    "www.atlas-games.com/ArM5"
+  ]
+}

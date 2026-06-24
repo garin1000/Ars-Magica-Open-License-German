@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Häuser des Hermes - Societates.md",
+  "file_hash": "sha256:3da5e796e05e00fc",
+  "page_to_anchors": {},
+  "toc": {
+    "enabled": true,
+    "start_markers": [
+      "## Inhalt",
+      "## Inhaltsverzeichnis",
+      "# Inhaltsverzeichnis"
+    ],
+    "indent_chars": [
+      "&emsp;",
+      "&nbsp;"
+    ],
+    "detected": {
+      "start_line": 48,
+      "end_line": 377,
+      "entry_count": 323
+    }
+  },
+  "exclude_patterns": [
+    "www.atlas-games.com/ArM5"
+  ]
+}

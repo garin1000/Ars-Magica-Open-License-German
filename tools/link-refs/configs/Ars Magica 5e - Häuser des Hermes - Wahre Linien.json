@@ -1,0 +1,66 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Häuser des Hermes - Wahre Linien.md",
+  "file_hash": "sha256:2b3b2a381b61320e",
+  "page_to_anchors": {
+    "54": [
+      "der-periphere-kodex"
+    ],
+    "102": [
+      "der-unermüdliche-flug"
+    ],
+    "21": [
+      "ansehen-im-haus-status-in-haus-bonisagus"
+    ],
+    "109": [
+      "heide"
+    ],
+    "48": [
+      "krieg-der-zauberer"
+    ],
+    "112": [
+      "vor-dem-orden-1"
+    ],
+    "71": [
+      "zauberspuren-und-sigils"
+    ],
+    "72": [
+      "zauberspuren-und-sigils"
+    ],
+    "104": [
+      "heldenblut"
+    ],
+    "6": [
+      "die-gründerin-trianoma"
+    ],
+    "76": [
+      "fenicils-rituale"
+    ],
+    "26": [
+      "originäre-forschung"
+    ],
+    "93": [
+      "societas-merceris-die-goliarden"
+    ]
+  },
+  "toc": {
+    "enabled": true,
+    "start_markers": [
+      "## Inhalt",
+      "## Inhaltsverzeichnis",
+      "# Inhaltsverzeichnis"
+    ],
+    "indent_chars": [
+      "&emsp;",
+      "&nbsp;"
+    ],
+    "detected": {
+      "start_line": 57,
+      "end_line": 215,
+      "entry_count": 152
+    }
+  },
+  "exclude_patterns": [
+    "www.atlas-games.com/ArM5"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md",
+  "file_hash": "sha256:1fe4f48348014dd6",
+  "page_to_anchors": {
+    "21": [
+      "temperamente-der-herztiere"
+    ]
+  },
+  "toc": {
+    "enabled": false,
+    "start_markers": [
+      "## Inhalt",
+      "## Inhaltsverzeichnis",
+      "# Inhaltsverzeichnis"
+    ],
+    "indent_chars": [
+      "&emsp;",
+      "&nbsp;"
+    ]
+  },
+  "exclude_patterns": [
+    "www.atlas-games.com/ArM5"
+  ]
+}
