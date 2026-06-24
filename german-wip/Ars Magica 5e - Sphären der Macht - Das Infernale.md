@@ -3988,7 +3988,7 @@ Mythische Gefährten besitzen eine besondere Freie Tugend, die beschreibt, was s
 > - Dämonisches Blut
 > - Verhexung Immun gegen Krankheit
 > - Infernaler Segen
-> - Leidenschaften spüren
+> - Gespür für Leidenschaft
 > 
 > #### Groß, Befleckt
 > 
@@ -4264,11 +4264,11 @@ Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Phantasma be
 
 Diese Tugend verleiht dem Charakter die Übernatürliche Fertigkeit Psychomachie bei 1. Siehe Kapitel 10: Die Maleficia für weitere Informationen zu dieser Unheiligen Kraft.
 
-#### Leidenschaften spüren
+#### Gespür für Leidenschaft
 
 *Groß, Übernatürlich*
 
-Der Charakter kann in die Herzen und Köpfe anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erfahren. Dies verleiht ihm die Übernatürliche Fertigkeit Leidenschaften spüren bei 1, die unter Neue Fertigkeiten unten ausführlicher beschrieben wird.
+Der Charakter kann in die Herzen und Köpfe anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erfahren. Dies verleiht ihm die Übernatürliche Fertigkeit Gespür für Leidenschaft bei 1, die unter Neue Fertigkeiten unten ausführlicher beschrieben wird.
 
 #### Beschwörer
 
@@ -4555,7 +4555,7 @@ Durch dunkle Riten kann der Charakter die Lebensenergie lebender Wesen manipulie
 > - Verfluchung\*
 > - Phantasma\*
 > - Psychomachie\*
-> - Leidenschaften spüren\*
+> - Gespür für Leidenschaft\*
 > - Wahrer Name von (Dämon)\*
 
 #### Korrumpierung\*
@@ -4675,7 +4675,7 @@ Durch blasphemische Worte, Phrasen und Gebete ruft der Charakter die Macht des I
 > | Verfluchung                | Infernal                         | Kapitel 10 |
 > | Phantasma                  | Infernal                         | Kapitel 10 |
 > | Psychomachie               | Infernal                         | Kapitel 10 |
-> | Leidenschaften spüren      | Fee, Infernal oder Magie         | Siehe oben |
+> | Gespür für Leidenschaft    | Fee, Infernal oder Magie         | Siehe oben |
 > | Gestaltwandler             | Infernal                         | ArM5 [S. 67](<Ars Magica Definitive Edition Basisregeln.md#gestaltwandler-1>), Kapitel 13 |
 > | Herbeirufung               | Fee, Infernal oder Magie         | Kap. 11 |
 
@@ -4697,21 +4697,21 @@ Der Charakter kann den Geist eines Menschen in Besitz nehmen und verzerren und b
 
 **Spezialisierungen:** eine bestimmte Art von Person betreffend, unter bestimmten Umständen, eine bestimmte Emotion (Übernatürlich)
 
-#### Leidenschaften spüren\*
+#### Gespür für Leidenschaft\*
 
-Der Charakter kann die Persönlichkeit und die Wünsche eines intelligenten Wesens wahrnehmen, indem er die verschiedenen Schattierungen der Trübung seiner Seele erkennt und identifiziert. Ein Wahrnehmung + Leidenschaften spüren-Wurf gegen einen Schwierigkeitsgrad von 9 lässt sie die stärkste Emotion wahrnehmen, die die Person gerade empfindet, und ein Wurf gegen einen Schwierigkeitsgrad von 15 erlaubt es ihr, die vorherrschende Persönlichkeitseigenschaft des Charakters zu identifizieren. Der Effekt muss die Magieresistenz des Ziels durchdringen, wenn es über irgendeinen übernatürlichen Schutz verfügt, und da dies eine Übernatürliche Fertigkeit ist, wird sie von Auren beeinflusst.
+Der Charakter kann die Persönlichkeit und die Wünsche eines intelligenten Wesens wahrnehmen, indem er die verschiedenen Schattierungen der Trübung seiner Seele erkennt und identifiziert. Ein Wahrnehmung + Gespür für Leidenschaft-Wurf gegen einen Schwierigkeitsgrad von 9 lässt sie die stärkste Emotion wahrnehmen, die die Person gerade empfindet, und ein Wurf gegen einen Schwierigkeitsgrad von 15 erlaubt es ihr, die vorherrschende Persönlichkeitseigenschaft des Charakters zu identifizieren. Der Effekt muss die Magieresistenz des Ziels durchdringen, wenn es über irgendeinen übernatürlichen Schutz verfügt, und da dies eine Übernatürliche Fertigkeit ist, wird sie von Auren beeinflusst.
 
-**Leidenschaften spüren: Stresswürfel + Wahrnehmung + Leidenschaften spüren + Aura**
+**Gespür für Leidenschaft: Stresswürfel + Wahrnehmung + Gespür für Leidenschaft + Aura**
 
-Durch sorgfältige Untersuchung kann der Charakter auch Leidenschaften bei Personen in der allgemeinen Umgebung erkennen, was es ihr ermöglicht, sich auf die stärkste Quelle von Emotionen in Sichtweite einzufühlen, gewöhnlich der Charakter mit der höchsten (oder niedrigsten) Persönlichkeitseigenschaft. Dies erfordert ein Ergebnis von 12 oder besser beim Wurf auf Leidenschaften spüren.
+Durch sorgfältige Untersuchung kann der Charakter auch Leidenschaften bei Personen in der allgemeinen Umgebung erkennen, was es ihr ermöglicht, sich auf die stärkste Quelle von Emotionen in Sichtweite einzufühlen, gewöhnlich der Charakter mit der höchsten (oder niedrigsten) Persönlichkeitseigenschaft. Dies erfordert ein Ergebnis von 12 oder besser beim Wurf auf Gespür für Leidenschaft.
 
 Der Charakter kann auch feststellen, ob eine Aura angelaufen ist (oder eine Ausrichtung hat, siehe *Sphären der Macht: Das Göttliche*, Seite 38) und ihren Typ oder ihre Typen bestimmen, indem er einen Schwierigkeitsgrad von 6 überwindet.
 
-Durch das Spüren von Leidenschaften kann der Charakter oft körperlose Geister erkennen. Du darfst Leidenschaften spüren wie Zweites Gesicht behandeln, wenn versucht wird, die Anwesenheit unsichtbarer oder körperloser Wesen zu erkennen. Dies erlaubt ihr jedoch nicht, Illusionen zu durchschauen, nicht einmal Illusionen starker Emotionen, und sie kann die Geister nicht tatsächlich sehen, sondern lediglich ihre Nähe wahrnehmen.
+Durch das Spüren von Leidenschaften kann der Charakter oft körperlose Geister erkennen. Du darfst Gespür für Leidenschaft wie Zweites Gesicht behandeln, wenn versucht wird, die Anwesenheit unsichtbarer oder körperloser Wesen zu erkennen. Dies erlaubt ihr jedoch nicht, Illusionen zu durchschauen, nicht einmal Illusionen starker Emotionen, und sie kann die Geister nicht tatsächlich sehen, sondern lediglich ihre Nähe wahrnehmen.
 
 Darüber hinaus erlaubt diese Fertigkeit dem Charakter, in begrenztem Umfang Heiligkeit und Unheiligkeit zu spüren, ähnlich der Tugend Gespür für Heiliges und Unheiliges (ArM5, [Seite 67](<Ars Magica Definitive Edition Basisregeln.md#gespür-für-heiliges-und-unheiliges>)). Sie kann erkennen, dass etwas entweder heilig oder unheilig ist, kann aber nicht zwischen beiden unterscheiden. Sie empfindet die emotionale Präsenz, die mit dem Göttlichen oder dem Infernalen verbunden ist, kann aber deren übernatürlichen Ursprung nicht genau bestimmen. So könnte sie einen Dämon in schöner Gestalt für einen Engel halten oder einen furchteinflößend aussehenden Engel für einen Dämon. Indem sie jedoch die vorherrschenden Emotionen oder Wünsche des Ziels identifiziert, kann man gewöhnlich eine gute Vorstellung davon gewinnen, welcher Sphäre das Ziel zugeordnet ist, vorausgesetzt, der Charakter kann seine Magieresistenz durchdringen.
 
-Leidenschaften spüren ist entweder eine Falsche Macht (siehe Falsche Mächte oben) oder der Höllensphäre zugeordnet. Das Vorhandensein infernaler Befleckung ermöglicht es dem Aspekt des Spürens von Heiligkeit und Unheiligkeit zu funktionieren. Wenn die Spieltruppe es zulässt, dass Göttliche Kräfte falsch sein können, kann dies die falsche Version von Gespür für Heiliges und Unheiliges sein.
+Gespür für Leidenschaft ist entweder eine Falsche Macht (siehe Falsche Mächte oben) oder der Höllensphäre zugeordnet. Das Vorhandensein infernaler Befleckung ermöglicht es dem Aspekt des Spürens von Heiligkeit und Unheiligkeit zu funktionieren. Wenn die Spieltruppe es zulässt, dass Göttliche Kräfte falsch sein können, kann dies die falsche Version von Gespür für Heiliges und Unheiliges sein.
 
 **Spezialisierungen:** Auren, Emotionen, Persönlichkeitseigenschaften, in einem allgemeinen Gebiet (Übernatürlich)
 
@@ -6306,7 +6306,7 @@ Infernalisten, die neu in einer fehlgeleiteten Tradition sind, glauben oft nicht
 
 ### Infernale Tradition: Die Luziferaner
 
-**Bevorzugte Fertigkeiten:** Ausschweifung, Diablerie, Verfluchung, Leidenschaften spüren
+**Bevorzugte Fertigkeiten:** Ausschweifung, Diablerie, Verfluchung, Gespür für Leidenschaft
 
 *Wie bist du vom Himmel gefallen, o Luzifer, Sohn der Morgenröte! Wie bist du zu Boden geschmettert, der du die Nationen schwächtest!*
 

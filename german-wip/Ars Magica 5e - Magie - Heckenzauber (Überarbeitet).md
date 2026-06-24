@@ -1558,7 +1558,7 @@ Eine Volkshexe kann entweder als Begabter oder als unBegabter Charakter erstellt
 
 Weise der Volkshexe Erfahrungspunkte wie für einen normalen Charakter zu – mit der Ausnahme, dass der Charakter irgendwann, üblicherweise um das zehnte Lebensjahr, von einer Volkshexe aufgenommen wird, die ihren Schützling in einen Volkshexen-Zirkel einweiht. Dies ist das Volkshexen-Äquivalent zur hermetischen Lehrzeit und dauert gewöhnlich zehn Jahre. Um die Volkshexen-Lehrzeit abzubilden, darfst du 200 Erfahrungspunkte für den Charakter auf beliebige Fertigkeiten ausgeben. Dies ist weniger, als ein Magus erhält, da die Lehrzeit einer Volkshexe kürzer ist und Volkshexen keine derart systematische und organisierte Ausbildungsmethode besitzen. Nach der Lehrzeit erhält die Volkshexe die normale Anzahl an Erfahrungspunkten pro Jahr; das sind 15 EP pro Jahr, wobei dies durch die Tugend Wohlhabend oder den Fehler Arm beeinflusst werden kann.
 
-Wenn die Volkshexe Begabt ist, umfasst ein Teil ihrer Lehrzeit die Erschließung der Gabe, die ihr sieben Bevorzugte Übernatürliche Fertigkeiten verleiht (normalerweise Tierverständnis, Fluchen, Wünschelruten, Flug, Heilung, Zweites Gesicht und Gestaltwandler). Während und nach ihrer Lehrzeit darfst du Erfahrungspunkte frei auf diese Übernatürlichen Fertigkeiten ausgeben, selbst wenn sie nicht über die entsprechenden Tugenden verfügt.
+Wenn die Volkshexe Begabt ist, umfasst ein Teil ihrer Lehrzeit die Erschließung der Gabe, die ihr sieben Bevorzugte Übernatürliche Fertigkeiten verleiht (normalerweise Tierverständnis, Fluchen, Wünschelrutengehen, Flug, Heilung, Zweites Gesicht und Gestaltwandler). Während und nach ihrer Lehrzeit darfst du Erfahrungspunkte frei auf diese Übernatürlichen Fertigkeiten ausgeben, selbst wenn sie nicht über die entsprechenden Tugenden verfügt.
 
 Wenn die Volkshexe hingegen unBegabt ist, darfst du ihr nur dann Erfahrungspunkte für Übernatürliche Fertigkeiten zuweisen, wenn sie die entsprechenden Tugenden besitzt. Manchmal wird ein Charakter mit den erforderlichen Tugenden geboren und dann von einer Volkshexe gefunden und ausgebildet; alternativ haben Volkshexen-Zirkel Zugang zu Einweihungsriten (siehe unten), die genutzt werden können, um diese Übernatürlichen Tugenden bei unBegabten Charakteren zu entwickeln. Allerdings haben nicht alle Zirkel Zugang zu einem vollständigen Satz von sieben Einweihungsriten, um ihre unBegabten Mitglieder zu unterrichten. Wenn dein Charakter Übernatürliche Tugenden durch Einweihung erworben hat, musst du ihm auch die Fehler zuweisen, die der Zirkel als Prüfungen auferlegt. Natürlich wird eine unBegabte Volkshexe, die als Grog-Charakter erstellt wird, wahrscheinlich weniger Übernatürliche Tugenden besitzen (und weniger mächtig sein) als eine, die als Gefährten-Charakter erstellt wird.
 
@@ -1566,7 +1566,7 @@ Nach der Lehrzeit: Wenn du während der Charaktererschaffung eine Volkshexe Labo
 
 ### Mindestwerte für Fertigkeiten
 
-Nach der Lehrzeit sollte eine Begabte Volkshexe einen Mindestwert von 1 in folgenden Fertigkeiten haben: Tierverständnis, Fluchen, Wünschelruten, Flug, Heilung, Zweites Gesicht, Gestaltwandler und Magietheorie der Volkshexen. Eine unBegabte Volkshexe hat möglicherweise nicht alle Übernatürlichen Fertigkeiten und benötigt für jede Übernatürliche Fertigkeit, die sie besitzt, die entsprechende Übernatürliche Tugend. Wenn eine Begabte Volkshexe Fehlerbehaftete Fertigkeiten hat, wird sie natürlich keinen Wert in diesen Fertigkeiten haben.
+Nach der Lehrzeit sollte eine Begabte Volkshexe einen Mindestwert von 1 in folgenden Fertigkeiten haben: Tierverständnis, Fluchen, Wünschelrutengehen, Flug, Heilung, Zweites Gesicht, Gestaltwandler und Magietheorie der Volkshexen. Eine unBegabte Volkshexe hat möglicherweise nicht alle Übernatürlichen Fertigkeiten und benötigt für jede Übernatürliche Fertigkeit, die sie besitzt, die entsprechende Übernatürliche Tugend. Wenn eine Begabte Volkshexe Fehlerbehaftete Fertigkeiten hat, wird sie natürlich keinen Wert in diesen Fertigkeiten haben.
 
 Es ist zudem ratsam, dass eine Volkshexe einen Wert in den Fertigkeiten Tierumgang, Konzentration, Organisationskunde: Volkshexen und Penetration besitzt.
 
@@ -1697,7 +1697,7 @@ Die folgenden bestehenden Hermetischen Tugenden und Fehler aus ArM5 sind für Be
 
 ## Volkshexen-Magie
 
-Wie bereits erwähnt, haben Begabte Volkshexen Zugang zu sieben Übernatürlichen Fertigkeiten: Tierverständnis, Fluchen, Wünschelruten, Flug, Heilung, Zweites Gesicht und Gestaltwandler. Jede davon wird im Regelwerk Ars Magica 5th Edition durch eine Übernatürliche Tugend dargestellt, doch für Begabte Volkshexen sind dies Bevorzugte Fertigkeiten (siehe die Einleitung). UnBegabte Volkshexen müssen die entsprechenden Übernatürlichen Tugenden besitzen und haben daher möglicherweise nicht alle sieben Übernatürlichen Fertigkeiten. In beiden Fällen verwenden Volkshexen die Standard-Fertigkeits-Erfahrungssteigerungstabelle, wenn sie diese Fertigkeiten verbessern (siehe ArM5, [Seite 31](<Ars Magica Definitive Edition Basisregeln.md#grog-vorlagen>)).
+Wie bereits erwähnt, haben Begabte Volkshexen Zugang zu sieben Übernatürlichen Fertigkeiten: Tierverständnis, Fluchen, Wünschelrutengehen, Flug, Heilung, Zweites Gesicht und Gestaltwandler. Jede davon wird im Regelwerk Ars Magica 5th Edition durch eine Übernatürliche Tugend dargestellt, doch für Begabte Volkshexen sind dies Bevorzugte Fertigkeiten (siehe die Einleitung). UnBegabte Volkshexen müssen die entsprechenden Übernatürlichen Tugenden besitzen und haben daher möglicherweise nicht alle sieben Übernatürlichen Fertigkeiten. In beiden Fällen verwenden Volkshexen die Standard-Fertigkeits-Erfahrungssteigerungstabelle, wenn sie diese Fertigkeiten verbessern (siehe ArM5, [Seite 31](<Ars Magica Definitive Edition Basisregeln.md#grog-vorlagen>)).
 
 Volkshexen setzen ihre Übernatürlichen Fertigkeiten nicht auf dieselbe Weise ein wie viele andere Charaktere – selbst wenn diese Charaktere über dieselben Übernatürlichen Fertigkeiten verfügen. Stattdessen nutzen Volkshexen eine von drei Methoden, um auf ihre Kräfte zuzugreifen: durch das Brauen von Tränken (was in einigen Fällen anderen Charakteren vorübergehenden Zugang zu den Übernatürlichen Fertigkeiten der Volkshexe gewährt), durch das Rezitieren von Beschwörungen oder
 durch das Herstellen von Fetisch-Gegenständen, die die Kräfte der Volkshexe verkörpern (ein Hexenbesen ist zum Beispiel ein Fetisch-Gegenstand für die Flug-Fertigkeit).
@@ -1782,7 +1782,7 @@ Tierfluch: Der Fluch verwandelt den Charakter in ein kleines Tier (zum Beispiel 
 **Schwierigkeitsgrad: 18**<br>
 Verkleinerungsfluch: Der Fluch verringert die Größe des Charakters. Jeden Monat verliert der Charakter eine Größenstufe. Dies setzt sich fort, bis entweder der Fluchgegenstand zerstört, die Arkane Verbindung abgelaufen oder der Charakter durch einen anderen magischen Effekt auf seine ursprüngliche Größe zurückgebracht wird. Wenn der Effekt endet, kehrt der Charakter mit einer Rate von 1 Größenstufe pro Stunde zu seiner ursprünglichen Größe zurück. Wenn der Charakter eine Größe von –18 erreicht, verringert er sich nicht weiter, doch er kehrt erst zu seiner ursprünglichen Größe zurück, wenn der Effekt endet.
 
-#### Wünschelruten
+#### Wünschelrutengehen
 
 Eigenschaft: Wahrnehmung<br>
 Form: Hängt vom Ziel ab (Animal für Tiere, Corpus für Menschen, Vim für Vis usw.).<br>
@@ -1838,7 +1838,7 @@ Jede Volkshexen-Kraft gewährt ihr eine Magische Abwehr gegen Effekte, die auf s
 Abwehr: Magische Widerstandskraft. Abwehr gegen Effekte, die von Zauberern in Tiergestalt gewirkt werden (einschließlich verwandelter Magi, magischer Tiere, Feentiere usw.).<br>
 Abwehr: Beschleunigte Verfalldauer. Abwehr gegen Effekte, die sie mittels einer Arkanen Verbindung zum Ziel haben.
 
-**Kraft: Wünschelruten**<br>
+**Kraft: Wünschelrutengehen**<br>
 Abwehr: Verwirrende Magie. Abwehr gegen Mentem-Effekte.
 
 **Kraft: Flug**<br>
@@ -1899,7 +1899,7 @@ Labortexte der Volkshexen haben eine Stufe, und eine Volkshexe verwendet dieselb
 
 #### Vis
 
-Volkshexen können mithilfe ihrer Wünschelruten-Fertigkeit Vis finden.
+Volkshexen können mithilfe ihrer Wünschelrutengehen-Fertigkeit Vis finden.
 
 **Vis-Gewinnung:** Eine Volkshexe kann in einem Quartal eine Anzahl Bauern Vim-Vis aus der lokalen Aura gewinnen, die einem Zehntel ihrer Laborsumme entspricht (aufgerundet). Keine Übernatürliche Fertigkeit wird zu dieser Laborsumme addiert, sodass sie voraussichtlich nur 1 oder 2 Bauern pro Quartal gewinnen kann.
 
@@ -1927,7 +1927,7 @@ Einige Volkshexen-Traditionen stellen keine Fluch-Stoffe her, sondern fertigen a
 
 #### Bindung der Wünschelrute
 
-Wenn sie die Wünschelruten-Fertigkeit besitzt, kann eine Volkshexe in ihrer Küche eine Rute verzaubern, die der Fetisch ist, den sie für den Einsatz ihrer Wünschelruten-Fertigkeit benötigt (siehe oben). Eine Wünschelrute ist gewöhnlich ein gegabelter Stock, aber manche Volkshexen verwenden eine Nadel oder eine Schere. Ungeachtet ihrer Form dauert die Verzauberung einer Wünschelrute 1 Quartal und verbraucht 1 Bauer Intellego-Vis. Einmal verzaubert, hält eine Wünschelrute unbegrenzt, kann aber zerstört werden; sie ist immer noch nur ein Stock.
+Wenn sie die Wünschelrutengehen-Fertigkeit besitzt, kann eine Volkshexe in ihrer Küche eine Rute verzaubern, die der Fetisch ist, den sie für den Einsatz ihrer Wünschelrutengehen-Fertigkeit benötigt (siehe oben). Eine Wünschelrute ist gewöhnlich ein gegabelter Stock, aber manche Volkshexen verwenden eine Nadel oder eine Schere. Ungeachtet ihrer Form dauert die Verzauberung einer Wünschelrute 1 Quartal und verbraucht 1 Bauer Intellego-Vis. Einmal verzaubert, hält eine Wünschelrute unbegrenzt, kann aber zerstört werden; sie ist immer noch nur ein Stock.
 
 #### Vorbereitung des Flugbesens
 
@@ -1979,8 +1979,8 @@ Natürlich wird kein vernünftiger Charakter einen solchen Trank wissentlich tri
 
 Alle Dosen eines Gebräus verursachen dieselbe Art von Fluch. Die Fluchart ist nicht durch die Brau-Stärke beschränkt; zum Beispiel könnte eine Volkshexe mit einer Brau-Stärke von 10 Tränke herstellen, die den Tierfluch bewirken. Ein solcher Trank wird jedoch nur tatsächlich wirken, wenn (zum Zeitpunkt des Verzehrs) die Brau-Stärke plus ein Stresswurf den Schwierigkeitsgrad von 18 erreicht oder übertrifft (und die Magieresistenz des Trinkenden penetriert).
 
-**Fertigkeit: Wünschelruten**<br>
-Effekt: Der Charakter, der diesen Trank trinkt, handelt, als hätte er die Fertigkeit Wünschelruten, mit einem Fertigkeitswert gleich der Brau-Stärke / 5 (aufgerundet). Dieser Effekt hält für eine einzelne Suche nach einem Gegenstand an.
+**Fertigkeit: Wünschelrutengehen**<br>
+Effekt: Der Charakter, der diesen Trank trinkt, handelt, als hätte er die Fertigkeit Wünschelrutengehen, mit einem Fertigkeitswert gleich der Brau-Stärke / 5 (aufgerundet). Dieser Effekt hält für eine einzelne Suche nach einem Gegenstand an.
 
 **Fertigkeit: Flug**<br>
 Effekt: Der Charakter, der diesen Trank trinkt, handelt, als hätte er die Fertigkeit Flug, mit einem Wert gleich der Brau-Stärke / 5 (aufgerundet). Dieser Effekt hält für einen einzelnen Flug an.
@@ -2090,7 +2090,7 @@ Volkshexen nutzen diese Einweihungen:
 
 #### Erschließung der Gabe
 
-Begabte Volkshexen erhalten ihre Erschließung der Gabe in einer besonderen Zeremonie. Die Volkshexen-Variante folgt allen Standardregeln hierfür, wie in der Einleitung beschrieben. Die Erschließung bewirkt, dass die Volkshexe sieben Bevorzugte Übernatürliche Fertigkeiten erhält. Diese sind normalerweise Tierverständnis, Fluchen, Wünschelruten, Flug, Heilung, Zweites Gesicht und Gestaltwandler.
+Begabte Volkshexen erhalten ihre Erschließung der Gabe in einer besonderen Zeremonie. Die Volkshexen-Variante folgt allen Standardregeln hierfür, wie in der Einleitung beschrieben. Die Erschließung bewirkt, dass die Volkshexe sieben Bevorzugte Übernatürliche Fertigkeiten erhält. Diese sind normalerweise Tierverständnis, Fluchen, Wünschelrutengehen, Flug, Heilung, Zweites Gesicht und Gestaltwandler.
 
 **VOLKSHEXEN-ERSCHLIESSUNGSSUMME:** Int + Magietheorie der Volkshexen + Sabbatbonus
 
@@ -2266,7 +2266,7 @@ Der Zirkel wurde jedoch nicht vollständig zerstört, und Meisterin Greta entkam
 
 **Einweihungsskripte**: Reim des Tieres (+6), Ungebunden vom Land (+6), Hände des Lebens (+10), Das Auge des Teufels (+7).
 
-**Waldhöhle:** Meisterin Greta (eine Begabte Volkshexe) floh vom Scheiterhaufen in diese abgelegene Waldhöhle (Magieaura 6), wo sie seither lebt, gewöhnlich allein. Die Höhle befindet sich tatsächlich in einer Regio, die nur von jemandem betreten werden kann, der den richtigen Weg kennt (die anderen Zirkelmitglieder kennen den richtigen Weg). Meisterin Greta nimmt nur gelegentlich am Sabbat des Zirkels teil. **Haken**: keine. **Vorzüge**: Regio (Groß), Aura (x 3) (Klein). **Vis-Quellen**: 5 Bauern Herbam pro Jahr (Pilze aus einer Waldlichtung), 1 Bauer Auram pro Jahr (vom ersten Herbstwind), 1 Bauer Animal pro Jahr (vom ersten Kaninchen des Frühlings). **Bibliothek**: Ars Grammatica, von Donatus (eine sehr schlechte Kopie; Summa der Fertigkeit Artes Liberales; Qualität 5, Stufe 4), Duft des Wassers, anonym (Summa der Fertigkeit Wünschelruten; Qualität 10, Stufe 5), Die Durchdringende Zunge, von Luzabel (Summa der Fertigkeit Penetration; Qualität 10, Stufe 3).
+**Waldhöhle:** Meisterin Greta (eine Begabte Volkshexe) floh vom Scheiterhaufen in diese abgelegene Waldhöhle (Magieaura 6), wo sie seither lebt, gewöhnlich allein. Die Höhle befindet sich tatsächlich in einer Regio, die nur von jemandem betreten werden kann, der den richtigen Weg kennt (die anderen Zirkelmitglieder kennen den richtigen Weg). Meisterin Greta nimmt nur gelegentlich am Sabbat des Zirkels teil. **Haken**: keine. **Vorzüge**: Regio (Groß), Aura (x 3) (Klein). **Vis-Quellen**: 5 Bauern Herbam pro Jahr (Pilze aus einer Waldlichtung), 1 Bauer Auram pro Jahr (vom ersten Herbstwind), 1 Bauer Animal pro Jahr (vom ersten Kaninchen des Frühlings). **Bibliothek**: Ars Grammatica, von Donatus (eine sehr schlechte Kopie; Summa der Fertigkeit Artes Liberales; Qualität 5, Stufe 4), Duft des Wassers, anonym (Summa der Fertigkeit Wünschelrutengehen; Qualität 10, Stufe 5), Die Durchdringende Zunge, von Luzabel (Summa der Fertigkeit Penetration; Qualität 10, Stufe 3).
 
 **Stadthaus:** Dieses baufällige Stadthaus steht im Armenviertel der Stadt Reims (Göttliche Aura 3) und wird von den Geistern der Hexen heimgesucht, die vor über zwanzig Jahren verbrannt wurden. Eliza, eine alte unBegabte Volkshexe, lebt jetzt im Stadthaus, und sie wird oft gebeten, den Armen von Reims bei der Heilung zu helfen. Im Gegenzug wird Eliza von den Bürgern gut versorgt, die ihre Existenz vor den bischöflichen Behörden verborgen gehalten haben. **Haken**: fehlende Aura (Groß), städtisch (Groß), Spuk (Klein). **Vorzüge**: loyale Konventsmitglieder (Klein). **Vis-Quellen**: 3 Bauern Corpus pro Jahr (vom Armenfriedhof), 2 Bauern Animal pro Jahr (aus den Gerbereien der Stadt).
 
@@ -2304,7 +2304,7 @@ Der Zirkel wurde jedoch nicht vollständig zerstört, und Meisterin Greta entkam
 >
 >Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20), Tot (21+)
 >
->Fertigkeiten: Gebietskunde: Reims 2 (Fluss), Artes Liberales 1 (Grammatik), Tierumgang 2 (Hunde), Tierverständnis 2 (Hunde), Athletik 1 (Laufen), Aufmerksamkeit 2 (Kind), Raufen 1 (Ausweichen), Konzentration 1 (Flug), Fluchen 2 (Zunge), Handwerk: Winzer 2 (Sortieren), Handwerk: Weben 1 (Wolle), Tote Sprache: Latein 4 (magische Begriffe), Wünschelruten 3 (Flussufer), Flug 1 (in Gebäuden), Magietheorie der Volkshexen 2 (Trankbrauen), Heilung 5 (Kinder), Lebende Sprache: Französisch 5 (Reimser Dialekt), Organisationskunde: Volkshexen 1 (Persönlichkeiten), Penetration 2 (Wünschelruten), Zweites Gesicht 2 (Feenwesen), Gestaltwandler 1 (Hund), Überleben 2 (Wald).
+>Fertigkeiten: Gebietskunde: Reims 2 (Fluss), Artes Liberales 1 (Grammatik), Tierumgang 2 (Hunde), Tierverständnis 2 (Hunde), Athletik 1 (Laufen), Aufmerksamkeit 2 (Kind), Raufen 1 (Ausweichen), Konzentration 1 (Flug), Fluchen 2 (Zunge), Handwerk: Winzer 2 (Sortieren), Handwerk: Weben 1 (Wolle), Tote Sprache: Latein 4 (magische Begriffe), Wünschelrutengehen 3 (Flussufer), Flug 1 (in Gebäuden), Magietheorie der Volkshexen 2 (Trankbrauen), Heilung 5 (Kinder), Lebende Sprache: Französisch 5 (Reimser Dialekt), Organisationskunde: Volkshexen 1 (Persönlichkeiten), Penetration 2 (Wünschelrutengehen), Zweites Gesicht 2 (Feenwesen), Gestaltwandler 1 (Hund), Überleben 2 (Wald).
 >
 >Hexenmond-Narben: Keine.
 >
@@ -2364,7 +2364,7 @@ Der Zirkel wurde jedoch nicht vollständig zerstört, und Meisterin Greta entkam
 >
 >Selbstvertrauenswert: 1 (3)
 >
->Tugenden und Fehler: Die Gabe; Volkshexe; Lebensgebundene Volkshexen-Magie, Affinität zu (Fertigkeit) (Wünschelruten), Tierheiler, Klarer Denker, Meisterbrauerin, Erfinderisches Genie; Auffällige Gabe, Arm, Arthritis, Zurückgezogen.
+>Tugenden und Fehler: Die Gabe; Volkshexe; Lebensgebundene Volkshexen-Magie, Affinität zu (Fertigkeit) (Wünschelrutengehen), Tierheiler, Klarer Denker, Meisterbrauerin, Erfinderisches Genie; Auffällige Gabe, Arm, Arthritis, Zurückgezogen.
 >
 >Persönlichkeitseigenschaften: Arrogant +3, Zurückgezogen +2
 >
@@ -2382,7 +2382,7 @@ Der Zirkel wurde jedoch nicht vollständig zerstört, und Meisterin Greta entkam
 >
 >Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20), Tot (21+)
 >
->Fertigkeiten: Gebietskunde: Reims 3 (Wald), Artes Liberales 4 (Grammatik), Tierumgang 3 (Ochsen), Tierverständnis 4 (Vögel), Athletik 2 (Fliegen), Aufmerksamkeit 3 (Wald), Raufen 1 (Tritt), Zivil- und Kanonisches Recht 1 (Häresie), Konzentration 2 (Flug), Fluchen 4 (Krankheit), Handwerk: Weben 3 (Wolle), Tote Sprache: Latein 5 (magische Begriffe), Wünschelruten 8 (im Wald), Flug 2 (nachts), Magietheorie der Volkshexen 5 (Vis-Gewinnung), Heilung 4 (Geburtsverletzungen), Führung 1 (Lehrlinge), Lebende Sprache: Französisch 5 (Reimser Dialekt), Organisationskunde: Volkshexen 4 (Einweihungen), Penetration 3 (Fluchen), Vorahnungen 1 (Besucher), Zweites Gesicht 5 (Geister), Gestaltwandler 2 (Katze), Überleben 4 (Wald), Unterrichten 1 (Lehrlinge)
+>Fertigkeiten: Gebietskunde: Reims 3 (Wald), Artes Liberales 4 (Grammatik), Tierumgang 3 (Ochsen), Tierverständnis 4 (Vögel), Athletik 2 (Fliegen), Aufmerksamkeit 3 (Wald), Raufen 1 (Tritt), Zivil- und Kanonisches Recht 1 (Häresie), Konzentration 2 (Flug), Fluchen 4 (Krankheit), Handwerk: Weben 3 (Wolle), Tote Sprache: Latein 5 (magische Begriffe), Wünschelrutengehen 8 (im Wald), Flug 2 (nachts), Magietheorie der Volkshexen 5 (Vis-Gewinnung), Heilung 4 (Geburtsverletzungen), Führung 1 (Lehrlinge), Lebende Sprache: Französisch 5 (Reimser Dialekt), Organisationskunde: Volkshexen 4 (Einweihungen), Penetration 3 (Fluchen), Vorahnungen 1 (Besucher), Zweites Gesicht 5 (Geister), Gestaltwandler 2 (Katze), Überleben 4 (Wald), Unterrichten 1 (Lehrlinge)
 >
 >Hexenmond-Narben: 1. Erhält Vorahnungen (Kleine Tugend) 2. Erhält Tierheiler (Kleine Tugend) 3. Erleidet Arthritis (Kleiner Fehler).
 >
@@ -2433,7 +2433,7 @@ Dieser Hexenzirkel ist zerstritten. Es gibt zwei Begabte Hexen im Zirkel, von de
 >
 >Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20), Tot (21+)
 >
->Fertigkeiten: Gebietskunde: Kilkenny 3 (Kaufleute), Artes Liberales 1 (Astronomie), Tierumgang 1 (Schweine), Tierverständnis 2 (Schweine), Athletik 1 (Fliegen), Aufmerksamkeit 1 (fehlerhafte Ware), Feilschen (Kaufleute), Raufen 1 (Dolch), Konzentration 2 (Flug), Fluchen 4 (Tier), Handwerk: Weben 2 (Wolle), Tote Sprache: Latein 4 (magische Begriffe), Wünschelruten 5 (Moor), Flug 2 (ländlich), Magietheorie der Volkshexen 3 (Fluchstoff), Heilung 3 (Krankheit), Intrige 2 (Kaufleute), Führung 3 (Einschüchterung), Lebende Sprache: Irisch 5 (Kilkenny-Dialekt), Organisationskunde: Volkshexen 3 (Einweihungen), Penetration 2 (Fluchen), Beruf: Kauffrau 1 (Strafgebühren einschätzen), Zweites Gesicht 1 (Feenwesen), Gestaltwandler 2 (Schwein), Unterrichten 1 (Lehrlinge).
+>Fertigkeiten: Gebietskunde: Kilkenny 3 (Kaufleute), Artes Liberales 1 (Astronomie), Tierumgang 1 (Schweine), Tierverständnis 2 (Schweine), Athletik 1 (Fliegen), Aufmerksamkeit 1 (fehlerhafte Ware), Feilschen (Kaufleute), Raufen 1 (Dolch), Konzentration 2 (Flug), Fluchen 4 (Tier), Handwerk: Weben 2 (Wolle), Tote Sprache: Latein 4 (magische Begriffe), Wünschelrutengehen 5 (Moor), Flug 2 (ländlich), Magietheorie der Volkshexen 3 (Fluchstoff), Heilung 3 (Krankheit), Intrige 2 (Kaufleute), Führung 3 (Einschüchterung), Lebende Sprache: Irisch 5 (Kilkenny-Dialekt), Organisationskunde: Volkshexen 3 (Einweihungen), Penetration 2 (Fluchen), Beruf: Kauffrau 1 (Strafgebühren einschätzen), Zweites Gesicht 1 (Feenwesen), Gestaltwandler 2 (Schwein), Unterrichten 1 (Lehrlinge).
 >
 >Hexenmond-Narben: 1. Erhält Kraftreserven (Kleine Tugend).
 >
@@ -2475,7 +2475,7 @@ Dieser Hexenzirkel ist zerstritten. Es gibt zwei Begabte Hexen im Zirkel, von de
 >
 >Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20), Tot (21+)
 >
->Fertigkeiten: Gebietskunde: Kilkenny 3 (Umland), Artes Liberales 1 (Logik), Tierumgang 1 (Pferd), Tierverständnis 2 (Pferd), Athletik 1 (Fliegen), Aufmerksamkeit 2 (ländlich), Raufen 2 (Faust), Konzentration 1 (Flug), Fluchen 6 (Zunge), Handwerk: Weben 2 (Wolle), Tote Sprache: Latein 4 (magische Begriffe), Wünschelruten 3 (Moor), Etikette 1 (Gastgeberin), Flug 2 (ländlich), Magietheorie der Volkshexen 3 (Trankbrauen), Täuschung 2 (Ehemann), Heilung 3 (Stichwunden) (5), Führung 2 (Personal), Lebende Sprache: Irisch 5 (Kilkenny-Dialekt), Organisationskunde: Volkshexen 3 (Vis-Quellen), Penetration 2 (Fluchen), Zweites Gesicht 2 (Feenwesen), Gestaltwandler 1 (Pferd), Unterrichten 1 (Lehrlinge).
+>Fertigkeiten: Gebietskunde: Kilkenny 3 (Umland), Artes Liberales 1 (Logik), Tierumgang 1 (Pferd), Tierverständnis 2 (Pferd), Athletik 1 (Fliegen), Aufmerksamkeit 2 (ländlich), Raufen 2 (Faust), Konzentration 1 (Flug), Fluchen 6 (Zunge), Handwerk: Weben 2 (Wolle), Tote Sprache: Latein 4 (magische Begriffe), Wünschelrutengehen 3 (Moor), Etikette 1 (Gastgeberin), Flug 2 (ländlich), Magietheorie der Volkshexen 3 (Trankbrauen), Täuschung 2 (Ehemann), Heilung 3 (Stichwunden) (5), Führung 2 (Personal), Lebende Sprache: Irisch 5 (Kilkenny-Dialekt), Organisationskunde: Volkshexen 3 (Vis-Quellen), Penetration 2 (Fluchen), Zweites Gesicht 2 (Feenwesen), Gestaltwandler 1 (Pferd), Unterrichten 1 (Lehrlinge).
 >
 >Hexenmond-Narben: 1. Erhält zusätzliche 5 EP in Heilung.
 >
@@ -2484,15 +2484,15 @@ Dieser Hexenzirkel ist zerstritten. Es gibt zwei Begabte Hexen im Zirkel, von de
 #### DIE HEXEN VON ORLÉANS
 (110 Baupunkte)
 
-Dieser Volkshexen-Zirkel praktiziert eine abgewandelte Tradition, die die Übernatürliche Fertigkeit Gestaltwandler durch die Übernatürliche Fertigkeit Vorahnungen ersetzt; und ungewöhnlicherweise sind die meisten Mitglieder Männer. Der Zirkel hat derzeit nur ein Begabtes Mitglied, Claude von Orléans, der ein Mann ist. Zwei weitere Begabte Zirkelmitglieder starben vor einigen Jahren unter mysteriösen Umständen, und es wird gemunkelt, dass Claude sie mit Flüchen getötet hat. Es gibt mehrere unBegabte Zirkelmitglieder, die über das Gebiet von Orléans verstreut sind, und der Zirkel unterhält gute Beziehungen zu den örtlichen Richtern, nachdem mehrere Fälle gestohlenen Eigentums durch Wünschelruten gelöst wurden – obwohl die Richter nur mit unBegabten Mitgliedern des Zirkels verkehren.
+Dieser Volkshexen-Zirkel praktiziert eine abgewandelte Tradition, die die Übernatürliche Fertigkeit Gestaltwandler durch die Übernatürliche Fertigkeit Vorahnungen ersetzt; und ungewöhnlicherweise sind die meisten Mitglieder Männer. Der Zirkel hat derzeit nur ein Begabtes Mitglied, Claude von Orléans, der ein Mann ist. Zwei weitere Begabte Zirkelmitglieder starben vor einigen Jahren unter mysteriösen Umständen, und es wird gemunkelt, dass Claude sie mit Flüchen getötet hat. Es gibt mehrere unBegabte Zirkelmitglieder, die über das Gebiet von Orléans verstreut sind, und der Zirkel unterhält gute Beziehungen zu den örtlichen Richtern, nachdem mehrere Fälle gestohlenen Eigentums durch Wünschelrutengehen gelöst wurden – obwohl die Richter nur mit unBegabten Mitgliedern des Zirkels verkehren.
 
 **Skripte:** Gespür für den Ort (+6), Gespür für die Zeit (Skript für Vorahnungen; +6).
 
 **Claudes Hütte:** Claude lebt allein in einer Hütte am Ufer eines kleinen Baches, etwa eine Tagesreise nördlich von Orléans. In dem Gebiet herrscht eine Magieaura der Stufe 3, und in der Nähe befindet sich eine verfallene römische Villa mit einem großen magischen Apfelbaum, der in dem wächst, was einst der Innenhof war. **Haken**: Römische Ruine (Klein). **Vorzüge**: Abgeschiedenheit (Klein). **Vis-Quellen**: 5 Bauern Herbam pro Jahr (magischer Baum), 1 Bauer Aquam pro Jahr (Fischlaich).
 
-**Richtergericht:** Ein Schreiber namens Jean der Weise, der am Richtergericht von Orléans arbeitet, ist ein unBegabtes Mitglied des Zirkels. Er nutzt seine Wünschelruten-Kräfte, um dem Richter beim Auffinden gestohlener Gegenstände zu helfen – was häufig rasch zu einem Geständnis führt. Der Richter hat gelernt, Jeans Meinung bei juristischen Entscheidungen zu respektieren. **Haken**: fehlende Aura (Groß), städtisch (Groß). **Vorzüge**: mächtiger Verbündeter (Groß; Richter). **Vis-Quellen**: 2 Bauern Corpus pro Jahr (Blut des ersten und letzten Galgenopfers eines jeden Jahres). **Bibliothek**: Die Erschütterungen des Ortes lesen, von Goodwin (Summa der Fertigkeit Wünschelruten; Qualität 10, Stufe 3), Civitas Orleans, von Richter Bayne (Tractatus über Zivil- und Kanonisches Recht; Qualität 9).
+**Richtergericht:** Ein Schreiber namens Jean der Weise, der am Richtergericht von Orléans arbeitet, ist ein unBegabtes Mitglied des Zirkels. Er nutzt seine Wünschelrutengehen-Kräfte, um dem Richter beim Auffinden gestohlener Gegenstände zu helfen – was häufig rasch zu einem Geständnis führt. Der Richter hat gelernt, Jeans Meinung bei juristischen Entscheidungen zu respektieren. **Haken**: fehlende Aura (Groß), städtisch (Groß). **Vorzüge**: mächtiger Verbündeter (Groß; Richter). **Vis-Quellen**: 2 Bauern Corpus pro Jahr (Blut des ersten und letzten Galgenopfers eines jeden Jahres). **Bibliothek**: Die Erschütterungen des Ortes lesen, von Goodwin (Summa der Fertigkeit Wünschelrutengehen; Qualität 10, Stufe 3), Civitas Orleans, von Richter Bayne (Tractatus über Zivil- und Kanonisches Recht; Qualität 9).
 
-**Josephs Haus:** Joseph lebt knapp außerhalb von Orléans in einem großen Haus, das in einer Regio errichtet wurde, mit einer Magieaura von 3. Er ist ein unBegabtes Mitglied des Zirkels und nutzt seine Wünschelruten-Fertigkeit, um Gegenstände für Leute in der Stadt aufzufinden. Er unterhält ein Stadthaus in der Stadt, in das Klienten kommen, um seine Dienste in Anspruch zu nehmen. Durch das Einfordern eines Honorars für das Finden von Gegenständen ist Joseph ein wohlhabender Mann geworden. **Haken**: Stadt (Groß) **Vorzüge**: Regio (Groß), Aura (x3) (Klein), Herrenhaus (frei) **Vis-Quellen**: 2 Bauern Animal pro Jahr (Gerberei), 2 Bauern Terram (Schmied), 2 Bauern Vim (eine Quelle in der Regio).
+**Josephs Haus:** Joseph lebt knapp außerhalb von Orléans in einem großen Haus, das in einer Regio errichtet wurde, mit einer Magieaura von 3. Er ist ein unBegabtes Mitglied des Zirkels und nutzt seine Wünschelrutengehen-Fertigkeit, um Gegenstände für Leute in der Stadt aufzufinden. Er unterhält ein Stadthaus in der Stadt, in das Klienten kommen, um seine Dienste in Anspruch zu nehmen. Durch das Einfordern eines Honorars für das Finden von Gegenständen ist Joseph ein wohlhabender Mann geworden. **Haken**: Stadt (Groß) **Vorzüge**: Regio (Groß), Aura (x3) (Klein), Herrenhaus (frei) **Vis-Quellen**: 2 Bauern Animal pro Jahr (Gerberei), 2 Bauern Terram (Schmied), 2 Bauern Vim (eine Quelle in der Regio).
 
 >#### Jean der Weise
 >Eigenschaften: Int +3, Wah +1, Prä 0, Kom 0, Stä +1, Aus +1, Ges 0, Sck +1
@@ -2524,7 +2524,7 @@ Dieser Volkshexen-Zirkel praktiziert eine abgewandelte Tradition, die die Übern
 >
 >Wundabzüge: -1 (1-5), -3 (6-10), -5 (11-15), Kampfunfähig (16-20), Tot (21+)
 >
->Fertigkeiten: Gebietskunde: Orléans 4 (Kriminelle), Artes Liberales 3 (Logik), Athletik 1 (Laufen), Aufmerksamkeit 1 (Hinterhalt), Raufen 1 (Ausweichen), Zechen 1 (Studenten), Zivil- und Kanonisches Recht 2 (Landrechte), Charme 1 (Frauen), Konzentration 2 (Schreiben), Tote Sprache: Latein 5 (Rechtsbegriffe), Wünschelruten 6 (hergestellte Gegenstände), Etikette 2 (Gericht), Menschenkenntnis 2 (Lügner), Magietheorie der Volkshexen 3 (Trankbrauen), Intrige 1 (Gericht), Führung 2 (Schreiber), Lebende Sprache: Französisch 5 (Orléans-Dialekt), Organisationskunde: Volkshexen 1 (Geschichte), Penetration 3 (Wünschelruten), Philosophiae 3 (Moral), Vorahnungen 3 (Naturereignisse), Beruf: Schreiber 3 (Rechtsdokumente), Unterrichten 1 (Artes Liberales).
+>Fertigkeiten: Gebietskunde: Orléans 4 (Kriminelle), Artes Liberales 3 (Logik), Athletik 1 (Laufen), Aufmerksamkeit 1 (Hinterhalt), Raufen 1 (Ausweichen), Zechen 1 (Studenten), Zivil- und Kanonisches Recht 2 (Landrechte), Charme 1 (Frauen), Konzentration 2 (Schreiben), Tote Sprache: Latein 5 (Rechtsbegriffe), Wünschelrutengehen 6 (hergestellte Gegenstände), Etikette 2 (Gericht), Menschenkenntnis 2 (Lügner), Magietheorie der Volkshexen 3 (Trankbrauen), Intrige 1 (Gericht), Führung 2 (Schreiber), Lebende Sprache: Französisch 5 (Orléans-Dialekt), Organisationskunde: Volkshexen 1 (Geschichte), Penetration 3 (Wünschelrutengehen), Philosophiae 3 (Moral), Vorahnungen 3 (Naturereignisse), Beruf: Schreiber 3 (Rechtsdokumente), Unterrichten 1 (Artes Liberales).
 >
 >Hexenmond-Narben: 1. Erhält Konzentrierte Tränke (Kleine Tugend). 2. Erleidet Sonderbare Magie (klingelndes Geräusch) (Kleiner Fehler).
 >

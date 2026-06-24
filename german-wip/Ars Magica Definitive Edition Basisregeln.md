@@ -3040,14 +3040,14 @@ Allgemeine Tugenden und Fehler umfassen alles andere. Die meisten bieten Boni od
 [Immun gegen Krankheit](#immun-gegen-krankheit)<br>
 [Einflüstern](#einflüstern)<br>
 [Ritualmacht](#ritualmacht)<br>
-[Leidenschaften spüren](#leidenschaften-spüren)<br>
+[Gespür für Leidenschaft](#gespür-für-leidenschaft)<br>
 [Gestaltwandler](#gestaltwandler)<br>
 [Tierwandler (Taube)](#tierwandler-taube)<br>
 [Geistiger Pakt](#geistiger-pakt)<br>
 [Starkes Feenblut](#starkes-feenblut)<br>
 [Tiere rufen](#tiere-rufen)<br>
 [Übernatürliche Schönheit](#übernatürliche-schönheit)<br>
-[Den Wind heraufpfeifen](#den-wind-heraufpfeifen)
+[Den Wind herbeipfeifen](#den-wind-herbeipfeifen)
 
 ### Sozialer Status, Groß
 
@@ -3173,7 +3173,7 @@ Allgemeine Tugenden und Fehler umfassen alles andere. Die meisten bieten Boni od
 [Stoffreißer](#stoffreißer)<br>
 [Zweites Gesicht](#zweites-gesicht)<br>
 [Im Dunkeln sehen](#im-dunkeln-sehen)<br>
-[Heiligkeit und Unheiligkeit spüren](#heiligkeit-und-unheiligkeit-spüren)<br>
+[Gespür für Heiliges und Unheiliges](#gespür-für-heiliges-und-unheiliges)<br>
 [Tierwandler](#tierwandler)<br>
 [Starkes Engelserbe](#starkes-engelserbe)<br>
 [Sufi](#sufi)<br>
@@ -3702,7 +3702,7 @@ Der Charakter ist ein Tier, das Eigentum eines Konvents oder Charakters ist und 
 
 #### Wünschelrutengehen
 *Klein, Übernatürlich*<br>
-Du besitzt die Fähigkeit, nahe gelegene Dinge mithilfe einer Wünschelrute (üblicherweise ein gegabelter Stock) und deines eigenen intuitiven Sinns aufzuspüren. Die Wahl dieser Tugend verleiht dir die Fertigkeit Wünschelruten 1 ([Seite 164](#wünschelrutengehen-1)).
+Du besitzt die Fähigkeit, nahe gelegene Dinge mithilfe einer Wünschelrute (üblicherweise ein gegabelter Stock) und deines eigenen intuitiven Sinns aufzuspüren. Die Wahl dieser Tugend verleiht dir die Fertigkeit Wünschelrutengehen 1 ([Seite 164](#wünschelrutengehen-1)).
 
 #### Staubwirbel
 *Klein, Übernatürlich*<br>
@@ -4923,13 +4923,13 @@ Höherer Klerus unterliegt dem Kirchenrecht und muss zölibatär und tonsuriert 
 *Groß, Sozialer Status*<br>
 Der Charakter ist seit einigen Jahren ein wohlhabender Zunftmeister und hat eine Autoritätsstellung in seiner Zunft erreicht. Er kennt die Zunftangelegenheiten und beteiligt sich an der Selbstverwaltung der Zunft. Er kann mehrere Werkstätten besitzen und eine große Anzahl von Arbeitern beschäftigen. Du kannst bei der Charaktererschaffung Akademische Fertigkeiten erwerben.
 
-#### Heiligkeit und Unheiligkeit spüren
+#### Gespür für Heiliges und Unheiliges
 *Klein, Übernatürlich*<br>
-Du kannst die Anwesenheit von Gut und Böse spüren. In Auren von besonders starkem göttlichem oder infernalen Einfluss kann Deine Sensibilität Dich überwältigen. Die Wahl dieser Tugend verleiht die Fertigkeit Gespür für Heiliges und Unheiliges 1 ([Seite 170](#gespür-für-heiliges-und-unheiliges)).
+Du kannst die Anwesenheit von Gut und Böse spüren. In Auren von besonders starkem göttlichem oder infernalen Einfluss kann Deine Sensibilität Dich überwältigen. Die Wahl dieser Tugend verleiht die Fertigkeit Gespür für Heiliges und Unheiliges 1 ([Seite 170](#gespür-für-heiliges-und-unheiliges-1)).
 
-#### Leidenschaften spüren
+#### Gespür für Leidenschaft
 *Groß, Übernatürlich*<br>
-Der Charakter kann in die Herzen und Gedanken anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erkennen. Dies verleiht ihr die Übernatürliche Fertigkeit Gespür für Leidenschaft mit Wert 1 ([Seite 170](#gespür-für-leidenschaft)).
+Der Charakter kann in die Herzen und Gedanken anderer blicken und ihre Schwächen, Ängste und bösen Gedanken erkennen. Dies verleiht ihm die Übernatürliche Fertigkeit Gespür für Leidenschaft mit Wert 1 ([Seite 170](#gespür-für-leidenschaft-1)).
 
 #### Schadchen
 *Klein, Sozialer Status*<br>
@@ -5240,9 +5240,9 @@ Du bist ein wohlhabendes Mitglied deines Standes. Du kannst drei Quartale pro Ja
 *Klein, Allgemein*<br>
 Du hast diesen Teil der Welt ausgiebig bereist und kommst gut mit Menschen in der gesamten Region aus. Du erhältst fünfzig Bonus-Erfahrungspunkte, die du für Lebende Sprachen, Gebietskunde und Feilschen, Zechen, Charme, Etikette, Menschenkenntnis oder Täuschung ausgeben kannst.
 
-#### Den Wind heraufpfeifen
+#### Den Wind herbeipfeifen
 *Groß, Übernatürlich*<br>
-Du kannst durch Pfeifen Winde erzeugen. Diese Tugend verleiht einen Wert von 1 in der Übernatürlichen Fertigkeit Den Wind heraufpfeifen.
+Du kannst durch Pfeifen Winde erzeugen. Diese Tugend verleiht einen Wert von 1 in der Übernatürlichen Fertigkeit Den Wind herbeipfeifen.
 
 #### Natursinn
 *Klein, Übernatürlich*<br>
@@ -7248,7 +7248,7 @@ Die Gabe erlaubt Charakteren, Übernatürliche Fertigkeiten im Spielverlauf zu e
 [Leichenmagie\*](#leichenmagie)<br>
 [Handwerkerheiler\*](#handwerkerheiler)<br>
 [Fluchschleudern\*](#fluchschleudern)<br>
-[Wünschelrutengehen\*](#wünschelrutengehen)<br>
+[Wünschelrutengehen\*](#wünschelrutengehen-1)<br>
 [Verbitterung\*](#verbitterung)<br>
 [Bezaubernde (Fertigkeit)\*](#bezaubernde-fertigkeit)<br>
 [Betörung\*](#betörung)<br>
@@ -7259,11 +7259,11 @@ Die Gabe erlaubt Charakteren, Übernatürliche Fertigkeiten im Spielverlauf zu e
 [Persona\*](#persona)<br>
 [Vorahnungen\*](#vorahnungen)<br>
 [Zweites Gesicht\*](#zweites-gesicht)<br>
-[Gespür für Heiliges und Unheiliges\*](#gespür-für-heiliges-und-unheiliges)<br>
-[Gespür für Leidenschaft\*](#gespür-für-leidenschaft)<br>
+[Gespür für Heiliges und Unheiliges\*](#gespür-für-heiliges-und-unheiliges-1)<br>
+[Gespür für Leidenschaft\*](#gespür-für-leidenschaft-1)<br>
 [Gestaltwandler\*](#gestaltwandler)<br>
 [Tiere rufen\*](#tiere-rufen)<br>
-[Den Wind herbeipfeifen\*](#den-wind-herbeipfeifen)<br>
+[Den Wind herbeipfeifen\*](#den-wind-herbeipfeifen-1)<br>
 [Natursinn\*](#natursinn)<br>
 
 ## Fertigkeitsliste
@@ -8946,9 +8946,9 @@ Diese Form betrifft Feuer, Wärme und Licht.
 
 #### Imaginem (Im) – „Erscheinung"
 
-Diese Form betrifft die Dinge in der Welt, auf die die Sinne reagieren. Die Naturphilosophie nennt sie Spezies (*species*, SPEH-kee-ayss – zu unterscheiden von Tierarten und dergleichen). Alle Dinge geben ständig Spezies für jeden Sinn ab. Jene für Berührung und Geschmack reisen nicht weit, während jene für das Sehen Licht benötigen, um eine gewisse Entfernung vom Ursprungskörper zurückzulegen. Imaginem-Zauber beeinflussen normalerweise den Prozess, durch den Spezies erzeugt werden, und nicht die Spezies selbst. Die Spezies, die von einer Illusion ausgehen, sind daher selbst nicht magisch.
+Diese Form betrifft die Dinge in der Welt, auf die die Sinne reagieren. Die Naturphilosophie nennt sie Species (*species*, SPEH-kee-ayss – zu unterscheiden von Tierarten und dergleichen). Alle Dinge geben ständig Species für jeden Sinn ab. Jene für Berührung und Geschmack reisen nicht weit, während jene für das Sehen Licht benötigen, um eine gewisse Entfernung vom Ursprungskörper zurückzulegen. Imaginem-Zauber beeinflussen normalerweise den Prozess, durch den Species erzeugt werden, und nicht die Species selbst. Die Species, die von einer Illusion ausgehen, sind daher selbst nicht magisch.
 
-Imaginem-Magie kann auch die Spezies selbst beeinflussen; in diesem Fall sind die Spezies magisch und müssen Penetration aufweisen, um die Magieresistenz zu durchdringen und wahrgenommen zu werden. Dabei gelten dieselben Richtlinien wie für Zauber, die den Prozess der Spezieserzeugung beeinflussen; eine ausführlichere Erörterung findet sich im Jerbiton-Kapitel von *Häuser des Hermes: Gemeinschaften*.
+Imaginem-Magie kann auch die Species selbst beeinflussen; in diesem Fall sind die Species magisch und müssen Penetration aufweisen, um die Magieresistenz zu durchdringen und wahrgenommen zu werden. Dabei gelten dieselben Richtlinien wie für Zauber, die den Prozess der Specieserzeugung beeinflussen; eine ausführlichere Erörterung findet sich im Jerbiton-Kapitel von *Häuser des Hermes: Gemeinschaften*.
 
 Zu beachten ist, dass Imaginem keine echte Festigkeit erzeugen kann, wenngleich es etwas „fest" wirken lassen kann – bis man versehentlich die Hand durch die Oberfläche streckt. Berührungs-Illusionen sind weit wirksamer darin, die Beschaffenheit einer bereits festen Oberfläche zu verändern – etwa einen Holztisch wie Stein fühlen zu lassen oder ein Messer stumpf erscheinen zu lassen.
 
@@ -9449,15 +9449,15 @@ Fällt die magische Brücke auf die Maga, wird sie aufgehalten, richtet ihr aber
 
 Fällt eine Maga in eine Grube voller magischer Spitzen, gleitet sie um die Spitzen herum, wenn genug Platz vorhanden ist, oder kommt auf ihnen zu liegen, wenn nicht. Sie erleidet normalen Fallschaden, aber keinen Schaden durch die Spitzen.
 
-Die Maga kann einen unsichtbaren Charakter nicht sehen, da die Spezies (siehe Imaginem, [Seite 209](#imaginem-im--erscheinung)) vernichtet werden, bevor sie sie erreichen.
+Die Maga kann einen unsichtbaren Charakter nicht sehen, da die Species (siehe Imaginem, [Seite 209](#imaginem-im--erscheinung)) vernichtet werden, bevor sie sie erreichen.
 
 Ein unsichtbarer Charakter kann die Maga nicht berühren oder körperlichen Druck auf sie ausüben, selbst wenn der Unsichtbarkeitszauber die Reichweite Persönlich hat. Die Maga spürt die Warnung, dass etwas abgewehrt wurde, aber nichts weiter. Weitere Erläuterungen finden sich in den Beispielen zur magischen Brücke weiter oben.
 
-Die Maga kann eine Illusion sehen, da die ausgesandten Spezies natürlich und nicht magisch sind. Sie erhält keinen Hinweis darauf, dass es sich um eine Illusion handelt.
+Die Maga kann eine Illusion sehen, da die ausgesandten Species natürlich und nicht magisch sind. Sie erhält keinen Hinweis darauf, dass es sich um eine Illusion handelt.
 
-Die Maga kann einen magisch erschaffenen Gegenstand sehen, da dieser normale Spezies erzeugt.
+Die Maga kann einen magisch erschaffenen Gegenstand sehen, da dieser normale Species erzeugt.
 
-Die Maga sieht etwas, das von einem Rego-Imaginem-Zauber beeinflusst wird, am vom Zauber vorgesehenen Ort, da die Spezies nicht mehr unter magischem Einfluss stehen, wenn sie sie erreichen.
+Die Maga sieht etwas, das von einem Rego-Imaginem-Zauber beeinflusst wird, am vom Zauber vorgesehenen Ort, da die Species nicht mehr unter magischem Einfluss stehen, wenn sie sie erreichen.
 
 Eine Illusion, die auf die Maga gewirkt wird, schlägt fehl.
 
@@ -16283,7 +16283,7 @@ Um eine übernatürliche Fertigkeit zu erlernen, muss der Schüler im ersten Qua
 
 Hat der Schüler die hermetischen Künste erschlossen (siehe [Seite 206](#die-hermetischen-künste)), muss er entweder 15 oder die Summe aller seiner Kunstwerte von der Quellenqualität abziehen – je nachdem, welcher Wert höher ist.
 
-*Beispiel: Ein Charakter besitzt Gestaltwandler 3, Wünschelruten 4 und die Gabe. Er möchte Tierverständnis erlernen. Dazu muss er einen Charakter finden, der bereit ist, ihn trotz seiner Gabe zu unterrichten, und der eine Quellenqualität von mindestens 12 erreichen kann. Hat der Charakter zudem die hermetischen Künste erschlossen, aber noch Werte von 0 in allen Künsten, benötigt er einen Lehrer mit einer Quellenqualität von 27 (15 für die Künste, +3 für Gestaltwandler, +4 für Wünschelruten, +5 für die benötigten Erfahrungspunkte). Das ist praktisch unmöglich.*
+*Beispiel: Ein Charakter besitzt Gestaltwandler 3, Wünschelrutengehen 4 und die Gabe. Er möchte Tierverständnis erlernen. Dazu muss er einen Charakter finden, der bereit ist, ihn trotz seiner Gabe zu unterrichten, und der eine Quellenqualität von mindestens 12 erreichen kann. Hat der Charakter zudem die hermetischen Künste erschlossen, aber noch Werte von 0 in allen Künsten, benötigt er einen Lehrer mit einer Quellenqualität von 27 (15 für die Künste, +3 für Gestaltwandler, +4 für Wünschelrutengehen, +5 für die benötigten Erfahrungspunkte). Das ist praktisch unmöglich.*
 
 Mysterienkulte können den Malus durch frühere mystische Fähigkeiten häufig durch ihre Einweihungsrituale umgehen.
 
@@ -22697,7 +22697,7 @@ Am Ende jeder Spielsitzung wird für jedes der folgenden Ziele, das ein Charakte
 
 ### Gespür für Heiliges und Unheiliges
 
-*[S. 67, S. 189, S. 170](#gespür-für-heiliges-und-unheiliges)*<!-- alle Seiten verweisen auf denselben Abschnitt; S. 189 unklar -->
+*[S. 67, S. 189, S. 170](#gespür-für-heiliges-und-unheiliges-1)*<!-- alle Seiten verweisen auf denselben Abschnitt; S. 189 unklar -->
 
 #### Muss Magieresistenz nicht durchdringen
 
@@ -24574,7 +24574,7 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 | &nbsp;&nbsp;*siehe auch Auren* |  |
 | Dominiumkunde\* (Fertigkeit) | [164](#dominiumkunde) |
 | Türhüter | [500](#sakramente) |
-| Wünschelrutengehen\* (Fertigkeit) | [164](#wünschelrutengehen) |
+| Wünschelrutengehen\* (Fertigkeit) | [164](#wünschelrutengehen-1) |
 | Wünschelrutengehen (Tugend) | [77](#wünschelrutengehen) |
 | Getrieben (Fehler) | [126](#getrieben) |
 | Dauern | [304](#dauern) |
@@ -25411,10 +25411,10 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 | Älterer Barde (Tugend) | [107](#älterer-barde) |
 | Höherer Klerus (Tugend) | [107](#höherer-klerus) |
 | Älterer Meister (Tugend) | [107](#älterer-meister) |
-| Heiligkeit und Unheiligkeit spüren (Fertigkeit) | [170](#heiligkeit-und-unheiligkeit-spüren) |
-| Heiligkeit und Unheiligkeit spüren (Tugend) | [107](#heiligkeit-und-unheiligkeit-spüren) |
-| Gespür für Leidenschaft\* (Fertigkeit) | [107](#gespür-für-leidenschaft) |
-| Leidenschaften spüren (Tugend) | [107](#leidenschaften-spüren) |
+| Gespür für Heiliges und Unheiliges\* (Fertigkeit) | [170](#gespür-für-heiliges-und-unheiliges-1) |
+| Gespür für Heiliges und Unheiliges (Tugend) | [107](#gespür-für-heiliges-und-unheiliges) |
+| Gespür für Leidenschaft\* (Fertigkeit) | [107](#gespür-für-leidenschaft-1) |
+| Gespür für Leidenschaft (Tugend) | [107](#gespür-für-leidenschaft) |
 | Diener des (Landes) (Fehler) | [144](#diener-des-landes) |
 | Sieben Todsünden | [499](#glaubenslehre) |
 | Schadchen (Tugend) | [107](#schadchen) |
@@ -25697,8 +25697,8 @@ ALTERUNGSSUMME: Stresswürfel (kein Patzer) + Alter/10 (aufgerundet) – Lebensu
 | Waffen | [400–402](#nahkampfwaffen-statistiken) |
 | Sonderbare Magie (Fehler) | [154](#sonderbare-magie) |
 | Vielgereist (Tugend) | [116](#vielgereist) |
-| Den Wind herbeipfeifen\* (Fertigkeit) | [172](#den-wind-herbeipfeifen) |
-| Den Wind heraufpfeifen (Tugend) | [116](#den-wind-heraufpfeifen) |
+| Den Wind herbeipfeifen\* (Fertigkeit) | [172](#den-wind-herbeipfeifen-1) |
+| Den Wind herbeipfeifen (Tugend) | [116](#den-wind-herbeipfeifen) |
 | Natursinn\* (Fertigkeit) | [172](#natursinn) |
 | Natursinn (Tugend) | [116](#natursinn) |
 | Winter | [176](#winter) |

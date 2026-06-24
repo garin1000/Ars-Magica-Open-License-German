@@ -180,7 +180,7 @@ Copyright 2007 Trident, Inc. d/b/a Atlas Games. Alle Rechte vorbehalten. Die Ver
 &emsp;&emsp;[Rego-Magie](#rego-magie)<br>
 &emsp;&emsp;[Schnörkel](#schnörkel)<br>
 &emsp;[Wahrnehmung und Täuschung](#wahrnehmung-und-täuschung)<br>
-&emsp;&emsp;[Spezies](#spezies)<br>
+&emsp;&emsp;[Species](#species)<br>
 &emsp;&emsp;[Der Vorgang der Wahrnehmung](#der-vorgang-der-wahrnehmung)<br>
 &emsp;&emsp;[Mimikry: Illusionäre Gegenstände erschaffen](#mimikry-illusionäre-gegenstände-erschaffen)<br>
 &emsp;&emsp;[Wandernde Species](#wandernde-species)<br>
@@ -2590,16 +2590,16 @@ Schnörkel sind rein kosmetische Effekte, machen aber die Ausübung der Künste 
 
 Der Gründer war in Magie bewandert, die die Wahrnehmung veränderte. Seine Tradition besteht fort, neben denen vieler anderer, die dem Haus seit seinen Anfängen beigetreten sind. Wahrnehmung ist ein komplexer Vorgang, was sie fragil und in jeder ihrer Phasen leicht von Magi zu manipulieren macht. Der Vorgang, die Wahrnehmung anderer zu verzerren, wird als Täuschung bezeichnet, und die Gefolgsleute des Hauses Jerbiton beanspruchen, ihre Meister zu sein, obwohl geschickte Praktiker der Täuschung in vielen Häusern zu finden sind.
 
-### Spezies
+### Species
 
-Spezies sind Partikel, die ständig von Gegenständen ausgesandt werden und die, wenn sie auf die Sinnesorgane des Körpers treffen, eine Reaktion hervorrufen. Menschen begegnen regelmäßig vier Arten von Spezies:
+Species sind Partikel, die ständig von Gegenständen ausgesandt werden und die, wenn sie auf die Sinnesorgane des Körpers treffen, eine Reaktion hervorrufen. Menschen begegnen regelmäßig vier Arten von Species:
 
-- Ikonische Spezies werden vom Licht getragen und vom Auge interpretiert.
-- Echoische Spezies werden von der Luft getragen und vom Ohr registriert.
-- Haptische Spezies wandern nur durch direkten Kontakt und werden von der Haut wahrgenommen.
-- Olfaktorische und gustatorische Spezies werden entweder in der Luft (über den Geruch) oder im Wasser (über den Geschmack) wahrgenommen. Es handelt sich um dieselben Spezies, die lediglich von zwei verschiedenen Sinnen in zwei Medien erfahren werden.
+- Ikonische Species werden vom Licht getragen und vom Auge interpretiert.
+- Echoische Species werden von der Luft getragen und vom Ohr registriert.
+- Haptische Species wandern nur durch direkten Kontakt und werden von der Haut wahrgenommen.
+- Olfaktorische und gustatorische Species werden entweder in der Luft (über den Geruch) oder im Wasser (über den Geschmack) wahrgenommen. Es handelt sich um dieselben Species, die lediglich von zwei verschiedenen Sinnen in zwei Medien erfahren werden.
 
-Sterbliche Menschen sind nicht in der Lage, Spezies direkt zu manipulieren; stattdessen müssen sie die Gegenstände manipulieren, die Spezies aussenden, damit das Muster der Aussendung angenehm ist. Spezies selbst senden keine weiteren Spezies aus und sind gewichtslos. Das macht die meisten Spezies unsichtbar und nicht greifbar. Sie sind auch unbegrenzt verfügbar, da alle Gegenstände einen kontinuierlichen Strom von Spezies aussenden.
+Sterbliche Menschen sind nicht in der Lage, Species direkt zu manipulieren; stattdessen müssen sie die Gegenstände manipulieren, die Species aussenden, damit das Muster der Aussendung angenehm ist. Species selbst senden keine weiteren Species aus und sind gewichtslos. Das macht die meisten Species unsichtbar und nicht greifbar. Sie sind auch unbegrenzt verfügbar, da alle Gegenstände einen kontinuierlichen Strom von Species aussenden.
 
 > ## Erfolgsstufen für Illusionen
 > 
@@ -2646,27 +2646,27 @@ Sterbliche Menschen sind nicht in der Lage, Spezies direkt zu manipulieren; stat
 >    - ... zur Ausübung einer Fertigkeit verwendet werden, in der der Charakter einen Wert von 5 oder mehr besitzt.
 >    - ... von denen die Spieltruppe meint, dass sie ihnen aufgrund der Geschichte, der Fertigkeiten, des Hintergrunds oder der Tugenden des Charakters bestens bekannt sind.
 
-> ## Speziesmagie-Beispiel
+> ## Speciesmagie-Beispiel
 > 
 > **Zerstreut wie Licht** MuTe(Im) Stufe 30 R: Stimme, D: Mom, Z: Ind
 > 
-> Dieser Zauber verwandelt das Metall in einem Gegenstand, beispielsweise einem Schwert, in ikonische Spezies. Vorbeiströmendes Licht trägt diese Spezies fort, die absorbiert werden, wenn sie auf eine nicht reflektierende Oberfläche treffen. Dieser Zauber desintegriert Gegenstände, hat also offensichtliche Kampfvorteile, wurde aber ursprünglich von einem Künstler erschaffen, der nach einer effizienten Methode zur Metallbeschichtung von Gegenständen suchte. Er platzierte das Metall und den zu beschichtenden Gegenstand schwebend in einem übernatürlich beleuchteten, innen verspiegelten Kasten und nutzte diesen Zauber, um das Metall zunächst in Spezies und dann zurück zu verwandeln. Dies erzeugte eine glatte Metallschicht um den Gegenstand und die Innenseite des Kastens.
+> Dieser Zauber verwandelt das Metall in einem Gegenstand, beispielsweise einem Schwert, in ikonische Species. Vorbeiströmendes Licht trägt diese Species fort, die absorbiert werden, wenn sie auf eine nicht reflektierende Oberfläche treffen. Dieser Zauber desintegriert Gegenstände, hat also offensichtliche Kampfvorteile, wurde aber ursprünglich von einem Künstler erschaffen, der nach einer effizienten Methode zur Metallbeschichtung von Gegenständen suchte. Er platzierte das Metall und den zu beschichtenden Gegenstand schwebend in einem übernatürlich beleuchteten, innen verspiegelten Kasten und nutzte diesen Zauber, um das Metall zunächst in Species und dann zurück zu verwandeln. Dies erzeugte eine glatte Metallschicht um den Gegenstand und die Innenseite des Kastens.
 > 
 > (Basis 5, +2 Stimme, +2 Metall, +1 Requisit)
 
-Magi können mit ihren Künsten entweder die Fähigkeit eines Gegenstands, Spezies zu erzeugen, oder die Spezies selbst manipulieren. Muto-Zauber, die andere Formen in Spezies verwandeln, behandeln diese als leicht unnatürlichen Feststoff, eine Flüssigkeit oder ein Gas und erfordern ein Imaginem-Requisit.
+Magi können mit ihren Künsten entweder die Fähigkeit eines Gegenstands, Species zu erzeugen, oder die Species selbst manipulieren. Muto-Zauber, die andere Formen in Species verwandeln, behandeln diese als leicht unnatürlichen Feststoff, eine Flüssigkeit oder ein Gas und erfordern ein Imaginem-Requisit.
 
-Die folgenden Ziele werden für Spezies verwendet und ergänzen die im Basisregelwerk aufgeführten.
+Die folgenden Ziele werden für Species verwendet und ergänzen die im Basisregelwerk aufgeführten.
 
-- **Individuum:** Genügend Spezies, um eine lebensgroße Illusion eines menschlichen Wesens oder kleineren Gegenstands zu erschaffen und aufrechtzuerhalten, die alle Sinne betrifft.
-- **Teil:** Genügend Spezies, um eine lebensgroße Illusion eines menschlichen Wesens oder kleineren Gegenstands zu erschaffen und aufrechtzuerhalten, die einen Sinn betrifft, oder einen Teil eines Menschen, der alle Sinne betrifft.
-- **Gruppe:** Genügend Spezies, um eine lebensgroße Illusion einer Gruppe von Menschen oder kleineren Gegenständen zu erschaffen und aufrechtzuerhalten.
+- **Individuum:** Genügend Species, um eine lebensgroße Illusion eines menschlichen Wesens oder kleineren Gegenstands zu erschaffen und aufrechtzuerhalten, die alle Sinne betrifft.
+- **Teil:** Genügend Species, um eine lebensgroße Illusion eines menschlichen Wesens oder kleineren Gegenstands zu erschaffen und aufrechtzuerhalten, die einen Sinn betrifft, oder einen Teil eines Menschen, der alle Sinne betrifft.
+- **Gruppe:** Genügend Species, um eine lebensgroße Illusion einer Gruppe von Menschen oder kleineren Gegenständen zu erschaffen und aufrechtzuerhalten.
 
-Hermetische Magi haben noch keinen Weg gefunden, mit Muto-Magie feste Gegenstände aus Spezies herzustellen. Es gibt verschiedene Theorien, warum das so ist, doch viele Denker glauben, es liege an der Schwierigkeit, einen Cluster von Spezies deutlich wahrzunehmen, um ihn zu verwandeln.
+Hermetische Magi haben noch keinen Weg gefunden, mit Muto-Magie feste Gegenstände aus Species herzustellen. Es gibt verschiedene Theorien, warum das so ist, doch viele Denker glauben, es liege an der Schwierigkeit, einen Cluster von Species deutlich wahrzunehmen, um ihn zu verwandeln.
 
 > ## Zusätzliche, nebensächliche Sinne
 > 
-> Der Körper besitzt innere Sinne, die die fünf äußeren Sinne ergänzen. Wie die fünf größeren Sinne kann die Fähigkeit, innere Sinne zu interpretieren, mit Mentem-Magie angegriffen werden, und die Organe, die diese Sinne nutzen, können mit Corpus-Zaubern angegriffen werden. Innere Sinne sind mit Imaginem-Magie von Reichweite größer als Berührung schwer anzugreifen, da die Spezies, die sie nutzen, haptisch sind: das heißt, sie wandern nur durch das Medium des direkten Kontakts auf der Haut, wie die Spezies der Berührung.
+> Der Körper besitzt innere Sinne, die die fünf äußeren Sinne ergänzen. Wie die fünf größeren Sinne kann die Fähigkeit, innere Sinne zu interpretieren, mit Mentem-Magie angegriffen werden, und die Organe, die diese Sinne nutzen, können mit Corpus-Zaubern angegriffen werden. Innere Sinne sind mit Imaginem-Magie von Reichweite größer als Berührung schwer anzugreifen, da die Species, die sie nutzen, haptisch sind: das heißt, sie wandern nur durch das Medium des direkten Kontakts auf der Haut, wie die Species der Berührung.
 > 
 > **Propriozeption** ist der Sinn, den der Körper nutzt, um die Position und Ausrichtung seiner Teile zu überwachen. Sie wird durch Botschaften geregelt, die entlang der Nerven wandern. Der Körper nutzt diesen Sinn zur Regulierung von Bewegung. Er ist für die Koordination von entscheidender Bedeutung, da er den Körperteilen mitteilt, wie weit sie sich bewegen müssen, um angemessen zusammenzuarbeiten. Es gibt kein einzelnes Organ der Propriozeption, aber die Botschaften gehen von den Gelenken aus.
 > 
@@ -2680,26 +2680,26 @@ Hermetische Magi haben noch keinen Weg gefunden, mit Muto-Magie feste Gegenstän
 
 Magi können täuschen, indem sie den Vorgang der Wahrnehmung in jeder seiner vielen Phasen unterbrechen. Die Phasen der Wahrnehmung und die Punkte, an denen Magi den Vorgang stören können, sind:
 
-- Ein Gegenstand existiert und sendet Spezies aus.
-- Die Spezies wandern durch ein Medium.
-- Die Spezies treffen auf ein Sinnesorgan.
+- Ein Gegenstand existiert und sendet Species aus.
+- Die Species wandern durch ein Medium.
+- Die Species treffen auf ein Sinnesorgan.
 - Das Organ sendet ein Signal an das Gehirn. Diese Phase wird in diesem Kapitel nicht weiter erörtert, da sie der Form Corpus angehört.
 - Der Geist interpretiert das Signal und verleiht ihm Bedeutung.
 - Das Signal wird erinnert.
 
 ### Mimikry: Illusionäre Gegenstände erschaffen
 
-Die im Basisregelwerk beschriebenen hermetischen Illusionen basieren fast alle auf Mimikry – dem Fachausdruck für die Erschaffung illusionärer Gegenstände. Mimikry erfordert wenig Finesse, ist aber wenig subtil. Als Beispiel für Mimikry: Ein Magus, der sein Opfer glauben machen will, eine Schlange liege auf seinem Bett, erschafft eine Illusion, die natürliche, nichtmagische Spezies wie die einer Schlange von der Oberfläche des Bettes aussendet. Jeder in der Nähe sieht die illusionäre Schlange und reagiert auf sie, als wäre sie real. Nachgeahmte Bilder haben überzeugende Spiegelbilder, da sie Spezies in alle Richtungen aussenden. Nachgeahmte Bilder werden nicht von der Parma Magica aufgehalten, da ihre Spezies nicht magisch sind.
+Die im Basisregelwerk beschriebenen hermetischen Illusionen basieren fast alle auf Mimikry – dem Fachausdruck für die Erschaffung illusionärer Gegenstände. Mimikry erfordert wenig Finesse, ist aber wenig subtil. Als Beispiel für Mimikry: Ein Magus, der sein Opfer glauben machen will, eine Schlange liege auf seinem Bett, erschafft eine Illusion, die natürliche, nichtmagische Species wie die einer Schlange von der Oberfläche des Bettes aussendet. Jeder in der Nähe sieht die illusionäre Schlange und reagiert auf sie, als wäre sie real. Nachgeahmte Bilder haben überzeugende Spiegelbilder, da sie Species in alle Richtungen aussenden. Nachgeahmte Bilder werden nicht von der Parma Magica aufgehalten, da ihre Species nicht magisch sind.
 
 ### Wandernde Species
 
-Magi können die Ströme von Spezies manipulieren, die aus Gegenständen hervorquellen. Die einfachsten Manipulationen ersetzen oder vernichten die von einem Gegenstand erzeugten Spezies. Ein Magus, der ein Blatt wie eine Münze aussehen lässt, ersetzt die Spezies der Münze. Ein Magus, der einen Dolch unsichtbar macht, vernichtet dessen Fähigkeit, optische Spezies zu erzeugen. Es gibt jedoch subtilere Wege, wandernde Spezies zu manipulieren.
+Magi können die Ströme von Species manipulieren, die aus Gegenständen hervorquellen. Die einfachsten Manipulationen ersetzen oder vernichten die von einem Gegenstand erzeugten Species. Ein Magus, der ein Blatt wie eine Münze aussehen lässt, ersetzt die Species der Münze. Ein Magus, der einen Dolch unsichtbar macht, vernichtet dessen Fähigkeit, optische Species zu erzeugen. Es gibt jedoch subtilere Wege, wandernde Species zu manipulieren.
 
 #### Transparenz
 
-Eine Transparenzillusion vernichtet die Spezies eines Gegenstands, bevor sie das Auge oder manchmal das Ohr eines bestimmten Betrachters treffen. Andere Personen können die vom Gegenstand ausgesandten Spezies weiterhin sehen. Transparenzen können nur in relativ statischen Umgebungen aufrechterhalten werden, da der Perspektivtrick, den sie einsetzen, zu schwierig aufrechtzuerhalten ist, wenn er gegen mehrere Betrachter versucht wird, die sich in Bezug auf den Gegenstand und zueinander bewegen.
+Eine Transparenzillusion vernichtet die Species eines Gegenstands, bevor sie das Auge oder manchmal das Ohr eines bestimmten Betrachters treffen. Andere Personen können die vom Gegenstand ausgesandten Species weiterhin sehen. Transparenzen können nur in relativ statischen Umgebungen aufrechterhalten werden, da der Perspektivtrick, den sie einsetzen, zu schwierig aufrechtzuerhalten ist, wenn er gegen mehrere Betrachter versucht wird, die sich in Bezug auf den Gegenstand und zueinander bewegen.
 
-Eine Transparenz hat dieselbe Basisstufe wie der Effekt, den sie nachahmt, wie auf [Seite 146](<Ars Magica Definitive Edition Basisregeln.md#schleier-der-unsichtbarkeit>) von ArM5 angegeben. Transparenzen verwenden das Ziel Individuum, um den Strom von Spezies zwischen dem verborgenen Gegenstand und dem Betrachter darzustellen. Das Wirken einer Transparenzillusion erfordert einen Wahrnehmung-+-Finesse-Wurf gegen einen Schwierigkeitsgrad von 6. Der Schwierigkeitsgrad wird wie folgt modifiziert:
+Eine Transparenz hat dieselbe Basisstufe wie der Effekt, den sie nachahmt, wie auf [Seite 146](<Ars Magica Definitive Edition Basisregeln.md#schleier-der-unsichtbarkeit>) von ArM5 angegeben. Transparenzen verwenden das Ziel Individuum, um den Strom von Species zwischen dem verborgenen Gegenstand und dem Betrachter darzustellen. Das Wirken einer Transparenzillusion erfordert einen Wahrnehmung-+-Finesse-Wurf gegen einen Schwierigkeitsgrad von 6. Der Schwierigkeitsgrad wird wie folgt modifiziert:
 
 | Mod. | Ziel                                |
 |------|-------------------------------------|
@@ -2717,7 +2717,7 @@ Eine Transparenz hat dieselbe Basisstufe wie der Effekt, den sie nachahmt, wie a
 
 > ## Transparenz-Beispiele
 > 
-> Transparenzen werden nicht von der Parma Magica aufgehalten, da sie die Vernichtung von Spezies beinhalten, bevor diese das Ziel treffen.
+> Transparenzen werden nicht von der Parma Magica aufgehalten, da sie die Vernichtung von Species beinhalten, bevor diese das Ziel treffen.
 > 
 > ##### Hinterhalt an der verlassenen Straße
 > 
@@ -2725,7 +2725,7 @@ Eine Transparenz hat dieselbe Basisstufe wie der Effekt, den sie nachahmt, wie a
 > 
 > R: Berührung, D: Ring, Z: Kreis
 > 
-> Dieser Zauber vernichtet alle Spezies, die die Gruppe von Dingen innerhalb des Kreises in eine einzelne Richtung aussenden. Er kann beispielsweise die Reisegruppe eines Magus aus der Richtung einer anderen Gruppe unsichtbar machen, die sie überfallen wollen. Die Basisstufe dieses Zaubers beinhaltet eine Anpassung, die die Fähigkeit des Magus berücksichtigt, die Wirkungsrichtung sanft zu verschieben, sodass die feindliche Gruppe die verborgene Truppe nicht entdecken kann, wenn sie vorbeizieht. Andere Personen, beispielsweise die Mitglieder der Gesellschaft des Magus, können sich weiterhin gegenseitig sehen, da die Spezies, die ihre Augen erreichen, nicht blockiert werden. Die Transparenz erfordert einen Wahrnehmung-+-Finesse-Wurf gegen einen Schwierigkeitsgrad von 9, um überzeugend zu sein.
+> Dieser Zauber vernichtet alle Species, die die Gruppe von Dingen innerhalb des Kreises in eine einzelne Richtung aussenden. Er kann beispielsweise die Reisegruppe eines Magus aus der Richtung einer anderen Gruppe unsichtbar machen, die sie überfallen wollen. Die Basisstufe dieses Zaubers beinhaltet eine Anpassung, die die Fähigkeit des Magus berücksichtigt, die Wirkungsrichtung sanft zu verschieben, sodass die feindliche Gruppe die verborgene Truppe nicht entdecken kann, wenn sie vorbeizieht. Andere Personen, beispielsweise die Mitglieder der Gesellschaft des Magus, können sich weiterhin gegenseitig sehen, da die Species, die ihre Augen erreichen, nicht blockiert werden. Die Transparenz erfordert einen Wahrnehmung-+-Finesse-Wurf gegen einen Schwierigkeitsgrad von 9, um überzeugend zu sein.
 > 
 > (Basis 5, +1 Berührung, +2 Ring)
 > 
@@ -2735,7 +2735,7 @@ Eine Transparenz hat dieselbe Basisstufe wie der Effekt, den sie nachahmt, wie a
 > 
 > R: Per, D: Sonne, Z: Ind
 > 
-> Dieser Zauber macht den Wirker selektiv unsichtbar. Er vernichtet einen dünnen Kegel der Spezies, die der Magus aussendet, sodass eine einzelne Person den Wirker nicht sehen kann. Personen um den Magus herum, die sich außerhalb des Kegels befinden, sehen den Wirker weiterhin. Dies ist besonders in Stadtmassen nützlich, da es verhindert, dass der Magus von ahnungslosen Passanten angerempelt wird. Beachte, dass dieser Zauber nur funktioniert, wenn der Magus den Standort des einzelnen auszuschließenden Betrachters kennt und sich der Betrachter vorhersehbar bewegt. Wenn der Betrachter sich schnell aus dem Kegel herausbewegt, wird der Magus für ihn sichtbar.
+> Dieser Zauber macht den Wirker selektiv unsichtbar. Er vernichtet einen dünnen Kegel der Species, die der Magus aussendet, sodass eine einzelne Person den Wirker nicht sehen kann. Personen um den Magus herum, die sich außerhalb des Kegels befinden, sehen den Wirker weiterhin. Dies ist besonders in Stadtmassen nützlich, da es verhindert, dass der Magus von ahnungslosen Passanten angerempelt wird. Beachte, dass dieser Zauber nur funktioniert, wenn der Magus den Standort des einzelnen auszuschließenden Betrachters kennt und sich der Betrachter vorhersehbar bewegt. Wenn der Betrachter sich schnell aus dem Kegel herausbewegt, wird der Magus für ihn sichtbar.
 > 
 > Die Transparenz erfordert einen Wahrnehmung-+-Finesse-Wurf gegen einen Schwierigkeitsgrad von 6, um überzeugend zu sein, wenn das Ziel stationär bleibt. Wenn das Ziel sich langsam und vorhersehbar bewegt, wie beispielsweise ein Wachposten auf seiner Route oder ein Fußgänger, der zu einem Tor schlendert, erhöht sich dies auf 9. Er steigt auf 15 für einen Charakter, der sich sehr schnell, aber vorhersehbar bewegt, zum Beispiel einen Reiter auf einer Straße.
 > 
@@ -2743,21 +2743,21 @@ Eine Transparenz hat dieselbe Basisstufe wie der Effekt, den sie nachahmt, wie a
 
 ## Die Sinnesorgane treffen
 
-Ungewöhnliche Effekte können erzielt werden, indem man Spezies leicht modifiziert, bevor sie die Sinne des Ziels treffen.
+Ungewöhnliche Effekte können erzielt werden, indem man Species leicht modifiziert, bevor sie die Sinne des Ziels treffen.
 
 #### Makroturen: Illusionen der Nähe zum Sinnesorgan
 
 Eine Makrotur ist ein über die Möglichkeiten des menschlichen Auges hinaus vergrößertes Bild,
 
-das erzeugt wird, indem die Spezies eines Gegenstands gezwungen werden, das Auge in weniger konzentrierter Weise zu treffen. Diese werden bereits in den Intellego-Imaginem-Leitlinien in ArM5 erörtert (Basisstufe 3). Jerbiton-Magi nutzen Makroturen, um die Methode und Technik von Artefakten anhand der winzigen Spuren zu bestimmen, die die Werkzeuge des Handwerkers hinterlassen haben. Sie nutzen Makroturen auch, um Kunstwerke aus Winkeln zu betrachten, die Sterblichen nicht zugänglich sind, um Gegenstände aus großer Entfernung zu sehen und um die Qualität von Edelsteinmaterialien zu bestimmen, die sie zu erwerben beabsichtigen. Makroturen können auch zur Korrektur von Sehstörungen eingesetzt werden.
+das erzeugt wird, indem die Species eines Gegenstands gezwungen werden, das Auge in weniger konzentrierter Weise zu treffen. Diese werden bereits in den Intellego-Imaginem-Leitlinien in ArM5 erörtert (Basisstufe 3). Jerbiton-Magi nutzen Makroturen, um die Methode und Technik von Artefakten anhand der winzigen Spuren zu bestimmen, die die Werkzeuge des Handwerkers hinterlassen haben. Sie nutzen Makroturen auch, um Kunstwerke aus Winkeln zu betrachten, die Sterblichen nicht zugänglich sind, um Gegenstände aus großer Entfernung zu sehen und um die Qualität von Edelsteinmaterialien zu bestimmen, die sie zu erwerben beabsichtigen. Makroturen können auch zur Korrektur von Sehstörungen eingesetzt werden.
 
 #### Synästhesie: Sinnesorgane austauschen
 
-Mittels synästhetischer Illusionen werden die Spezies eines schwachen Sinnes so verändert, dass ein stärkerer Sinn sie stattdessen wahrnimmt. Beim Menschen ist der Sehsinn der stärkste, sodass die meisten synästhetischen Zauber Spezies weniger leicht wahrnehmbarer Arten sichtbar machen. Spezies für äußere Sinne wie den Sehsinn haben, wenn sie in solche für innere Sinne wie Schmerz verwandelt werden, keine Wirkung, da sie die inneren Organe, die sie wahrnehmen, nicht erreichen können.
+Mittels synästhetischer Illusionen werden die Species eines schwachen Sinnes so verändert, dass ein stärkerer Sinn sie stattdessen wahrnimmt. Beim Menschen ist der Sehsinn der stärkste, sodass die meisten synästhetischen Zauber Species weniger leicht wahrnehmbarer Arten sichtbar machen. Species für äußere Sinne wie den Sehsinn haben, wenn sie in solche für innere Sinne wie Schmerz verwandelt werden, keine Wirkung, da sie die inneren Organe, die sie wahrnehmen, nicht erreichen können.
 
 > ### Synästhesie-Beispiele
 > 
-> Zauber, die die Spezies, die einen Sinn auslösen, in solche verwandeln, die einen anderen auslösen, haben eine Basisstufe von 2.
+> Zauber, die die Species, die einen Sinn auslösen, in solche verwandeln, die einen anderen auslösen, haben eine Basisstufe von 2.
 > 
 > ##### Leuchtende Fußspuren des Diebes
 > 
@@ -2765,7 +2765,7 @@ Mittels synästhetischer Illusionen werden die Spezies eines schwachen Sinnes so
 > 
 > R: Sicht, D: Konz, Z: Gruppe
 > 
-> Dieser Zauber macht die Schweißspuren einer Person sichtbar, indem er den Strom olfaktorischer Spezies des Geruchs der Person in einen Strom ikonischer Spezies verwandelt. Wie dieses Licht erscheint, hängt vom Sigil und der Finesse des Magus ab. Dieser Zauber ist mimetisch, sodass alle nahestehenden Personen die Geruchsspuren sehen können. Beachte, dass der Magus den Geruch des Diebes deutlich wahrnehmen muss, um ein gültiges Ziel für den Zauber zu haben.
+> Dieser Zauber macht die Schweißspuren einer Person sichtbar, indem er den Strom olfaktorischer Species des Geruchs der Person in einen Strom ikonischer Species verwandelt. Wie dieses Licht erscheint, hängt vom Sigil und der Finesse des Magus ab. Dieser Zauber ist mimetisch, sodass alle nahestehenden Personen die Geruchsspuren sehen können. Beachte, dass der Magus den Geruch des Diebes deutlich wahrnehmen muss, um ein gültiges Ziel für den Zauber zu haben.
 > 
 > (Basis 2, +3 Sicht, +1 Konz, +2 Gruppe)
 > 
@@ -2775,7 +2775,7 @@ Mittels synästhetischer Illusionen werden die Spezies eines schwachen Sinnes so
 > 
 > R: Sicht, D: Konz, Z: Gruppe
 > 
-> Obwohl Imaginem-Magie keine Wärme erzeugen kann, senden warme Oberflächen Spezies aus, die Menschen durch Berührung wahrnehmen können. Dieser Zauber verwandelt diese in Spezies, auf die das Auge reagiert. Wie die Wärme gesehen wird, variiert je nach Magus.
+> Obwohl Imaginem-Magie keine Wärme erzeugen kann, senden warme Oberflächen Species aus, die Menschen durch Berührung wahrnehmen können. Dieser Zauber verwandelt diese in Species, auf die das Auge reagiert. Wie die Wärme gesehen wird, variiert je nach Magus.
 > 
 > (Basis 2, +1 Sicht, +1 Konzentration, +4 Gruppe)
 > 
@@ -2785,7 +2785,7 @@ Mittels synästhetischer Illusionen werden die Spezies eines schwachen Sinnes so
 > 
 > R: Berührung, D: Ring, Z: Kreis
 > 
-> Dieser Zauber verwandelt das Ächzen und Knarren beschädigter Ausrüstungsteile in ikonische Spezies, die an das Sigil des Magus erinnern. Dies erleichtert es Magi, die Mängel in beschädigten Teilen zu finden, und gewährt einen Bonus von +3 auf Handwerks- oder Berufswürfe.
+> Dieser Zauber verwandelt das Ächzen und Knarren beschädigter Ausrüstungsteile in ikonische Species, die an das Sigil des Magus erinnern. Dies erleichtert es Magi, die Mängel in beschädigten Teilen zu finden, und gewährt einen Bonus von +3 auf Handwerks- oder Berufswürfe.
 > 
 > (Basis 2, +1 Berührung, +2 Ring)
 
@@ -2807,7 +2807,7 @@ Der Schwierigkeitsgrad des Wahrnehmungswurfs des Opfers ist die Summe aus einem 
 > 
 > R: Berührung, D: Ring, Z: Kreis
 > 
-> Dieser Zauber macht die Spezies, die ein Gegenstand innerhalb des Kreises aussendet, lebhafter, sodass der Magus winzige Details erkennen kann, die sonst unsichtbar sind. Dieser Zauber wurde traditionell zur Untersuchung der physischen Beschaffenheit von Kunstwerken verwendet, aber naturverbundene Jerbiton-Magi haben kürzlich begonnen, ihn zur Untersuchung des Handwerks Gottes einzusetzen, indem sie die winzigen Strukturen der Schöpfung betrachten.
+> Dieser Zauber macht die Species, die ein Gegenstand innerhalb des Kreises aussendet, lebhafter, sodass der Magus winzige Details erkennen kann, die sonst unsichtbar sind. Dieser Zauber wurde traditionell zur Untersuchung der physischen Beschaffenheit von Kunstwerken verwendet, aber naturverbundene Jerbiton-Magi haben kürzlich begonnen, ihn zur Untersuchung des Handwerks Gottes einzusetzen, indem sie die winzigen Strukturen der Schöpfung betrachten.
 > 
 > (Basis 3, +1 Berührung, +2 Ring)
 
@@ -2869,11 +2869,11 @@ Perdo-Mentem-Zauber ermöglichen es Magi, die geistige Leistungsfähigkeit ihrer
 
 #### Miniaturen: Tricks mit Perspektive
 
-Eine Miniatur ist eine kleine Illusion, die Spezies nur in eine einzige Richtung aussendet. Sie ist darauf ausgelegt, den Betrachter mit einem Perspektivtrick zu täuschen: dass kleine, nahe Gegenstände genauso aussehen wie größere, entfernte Gegenstände. Miniaturen sind in Städten praktisch, da sie unauffällig sind. Sie erfordern mehr Finesse als gewöhnliche Illusionen, doch dies behindert Jerbiton-Magi nicht.
+Eine Miniatur ist eine kleine Illusion, die Species nur in eine einzige Richtung aussendet. Sie ist darauf ausgelegt, den Betrachter mit einem Perspektivtrick zu täuschen: dass kleine, nahe Gegenstände genauso aussehen wie größere, entfernte Gegenstände. Miniaturen sind in Städten praktisch, da sie unauffällig sind. Sie erfordern mehr Finesse als gewöhnliche Illusionen, doch dies behindert Jerbiton-Magi nicht.
 
 Städtische Magi setzen oft Miniaturen ein, da innerhalb von Gebäuden die Sichtlinien der Ziele eingeschränkt sind. Eine Miniatur an einem Fenster oder einer Tür, die Einzelziele darstellen, kann ein ganzes Panorama zu zeigen scheinen, das bei mimetischen Illusionen ein Grenzenziel erfordern würde. Die Tür oder das Fenster senkt die Magnitude des Zaubers, indem sie eine Oberfläche bietet, auf der ein Kreis und Ring gezeichnet werden können. Selbst ungerahmte Miniaturen können Bilder erzeugen, die dem Betrachter als Raum-, Bauwerks- oder Grenzenziele erscheinen. Die Miniatur behält ihr Einzelziel bei und erfordert stattdessen erhöhte Finesse. Diese Miniaturen betreffen alle Betrachter auf der aktiven Seite der Illusion, sodass sie nicht das Teilziel erfordern, das bei Miniaturen verwendet werden muss, die auf den Kopf eines einzelnen Opfers gerichtet sind.
 
-Miniaturen können auch eingesetzt werden, um Illusionen zu erzeugen, die nur ein einzelnes Opfer wahrnehmen kann. Eine herkömmliche Illusion einer Schlange auf einem Bett kann von allen Personen im Raum gesehen werden. Eine winzige Illusion einer Schlange, die direkt vor den Augen eines Opfers platziert wird und Spezies nur in Richtung seiner Augen aussendet, ist für die anderen Personen im Raum unsichtbar. Ähnliche Tricks können Klang-Illusionen erzeugen und Musik oder Stimmen hervorbringen, die nur das Ziel hören kann.
+Miniaturen können auch eingesetzt werden, um Illusionen zu erzeugen, die nur ein einzelnes Opfer wahrnehmen kann. Eine herkömmliche Illusion einer Schlange auf einem Bett kann von allen Personen im Raum gesehen werden. Eine winzige Illusion einer Schlange, die direkt vor den Augen eines Opfers platziert wird und Species nur in Richtung seiner Augen aussendet, ist für die anderen Personen im Raum unsichtbar. Ähnliche Tricks können Klang-Illusionen erzeugen und Musik oder Stimmen hervorbringen, die nur das Ziel hören kann.
 
 Die meisten Miniaturen sind eine Magnitude höher als die Basisstufe, die in der Tabelle auf [Seite 144](<Ars Magica Definitive Edition Basisregeln.md#intellego-imaginem-leitlinien>) von ArM5 angegeben wird. Die zusätzliche Magnitude ermöglicht es der Miniatur, sich leicht zu bewegen, sodass die Kopfbewegungen eines einzelnen Betrachters den für den Erfolg der Miniatur entscheidenden Perspektivtrick nicht ruinieren. Der Wirker einer Miniatur muss einen Wahrnehmung-+-Finesse-Wurf gegen einen Schwierigkeitsgrad von 9 ablegen, um die Illusion erfolgreich zu erzeugen. Der Schwierigkeitsgrad wird wie folgt modifiziert:
 
@@ -2903,7 +2903,7 @@ Weitere mögliche Geisteszustände umfassen die folgenden:
 
 > ## Miniatur-Beispiele
 > 
-> Viele der folgenden Zauber haben ein Teilziel. Dies bedeutet, dass der Magus einen Strom von Spezies erzeugt, der auf den Kopf eines einzelnen Betrachters gerichtet ist. Ein Magus, der dies tut, zielt mit einem magischen Medium auf ein Opfer, sodass diese Zauber von der Parma Magica aufgehalten werden.
+> Viele der folgenden Zauber haben ein Teilziel. Dies bedeutet, dass der Magus einen Strom von Species erzeugt, der auf den Kopf eines einzelnen Betrachters gerichtet ist. Ein Magus, der dies tut, zielt mit einem magischen Medium auf ein Opfer, sodass diese Zauber von der Parma Magica aufgehalten werden.
 > 
 > ##### Ein Feind, überflutet vom reinen Sigil des Magus
 > 
@@ -2911,7 +2911,7 @@ Weitere mögliche Geisteszustände umfassen die folgenden:
 > 
 > R: Sicht, D: Konz, Z: Teil
 > 
-> Dieser Zauber überflutet das Ziel mit konzentrierten sichtbaren Spezies und überlastet die Augen. Er erfordert keinen Finesse-Wurf, da die Spezies kein Bild konstruieren. In diesem Fall wird die schiere Menge an Spezies genutzt, um die Kapazität des Auges zu überladen, sodass das Ziel nichts anderes sehen kann. Der Name des Zaubers rührt von seiner Erscheinung her, die stets stark auf dem Sigil des Wirkers basiert. Die Augen des Opfers erholen sich zwei Minuten nach Ende des Zaubers, oder in nur einer Runde, wenn das Opfer daran denkt, seine überlasteten Augen zu schließen, sobald es vom Zauber getroffen wird.
+> Dieser Zauber überflutet das Ziel mit konzentrierten sichtbaren Species und überlastet die Augen. Er erfordert keinen Finesse-Wurf, da die Species kein Bild konstruieren. In diesem Fall wird die schiere Menge an Species genutzt, um die Kapazität des Auges zu überladen, sodass das Ziel nichts anderes sehen kann. Der Name des Zaubers rührt von seiner Erscheinung her, die stets stark auf dem Sigil des Wirkers basiert. Die Augen des Opfers erholen sich zwei Minuten nach Ende des Zaubers, oder in nur einer Runde, wenn das Opfer daran denkt, seine überlasteten Augen zu schließen, sobald es vom Zauber getroffen wird.
 > 
 > Ähnliche Zauber können detaillierte Bilder erzeugen, doch das erfordert Finesse-Würfe.
 > 
@@ -2925,7 +2925,7 @@ Weitere mögliche Geisteszustände umfassen die folgenden:
 > 
 > Dieser Zauber ermöglicht es dem Magus, den Rahmen einer Tür oder eines Fensters nachzuzeichnen und eine Miniatur zu erzeugen, die etwas zu zeigen scheint, das jenseits des Rahmens liegt. Ein Wahrnehmung-+-Finesse-Wurf ist erforderlich, um eine überzeugende Illusion zu erzeugen. Der Schwierigkeitsgrad beträgt 9, wenn das Bild einen Raum zu zeigen scheint, 12, wenn es ein Bauwerk zu zeigen scheint, oder 15, wenn es bis zum Horizont zu reichen scheint. Diese Zahlen beinhalten bereits die Reduktion für die Einschränkung der Sichtlinie des Betrachters, könnten aber durch Vertrautheit mit der dargestellten Szene verringert oder erhöht werden.
 > 
-> Viele Wirker von *Falsches Fenster* fügen eine zusätzliche Magnitude hinzu, damit Figuren im Bild sich zu bewegen scheinen und das Lichtmuster sich der Tageszeit anpasst, aber diese einfachere Version erzeugt nur ein statisches Bild. Dieser Zauber dient auch als Vorlage für ähnliche Zauber für die anderen Sinne: Ein Spiegel, der eine Melodie spielt, sofern seine Fläche nicht zur Wand gedreht ist, ist ein Beispiel. Direkt erzeugte Spezies wie diese werden von der Parma Magica aufgehalten.
+> Viele Wirker von *Falsches Fenster* fügen eine zusätzliche Magnitude hinzu, damit Figuren im Bild sich zu bewegen scheinen und das Lichtmuster sich der Tageszeit anpasst, aber diese einfachere Version erzeugt nur ein statisches Bild. Dieser Zauber dient auch als Vorlage für ähnliche Zauber für die anderen Sinne: Ein Spiegel, der eine Melodie spielt, sofern seine Fläche nicht zur Wand gedreht ist, ist ein Beispiel. Direkt erzeugte Species wie diese werden von der Parma Magica aufgehalten.
 > 
 > (Basis 2, +2 Sonne oder Ring, +1 Individuum)
 > 
@@ -2935,7 +2935,7 @@ Weitere mögliche Geisteszustände umfassen die folgenden:
 > 
 > R: Sicht, D: Mom, Z: Teil
 > 
-> Dieser Zauber erzeugt einen Stoß von Spezies, die der Stimme des Wirkers entsprechen und das Ziel am Kopf treffen. Dieser Zauber erfordert einen Wahrnehmung-+-Finesse-Wurf gegen einen Schwierigkeitsgrad von 6, damit die Stimme überzeugend wie die des Magus klingt (der Basis-Schwierigkeitsgrad ist 9, mit einem Modifikator von –3 für tiefe Vertrautheit), doch selbst wenn der Wurf misslingt, hört das Ziel die Nachricht dennoch. Dieser Zauber wird auf Schlachtfeldern eingesetzt oder um Lehrlingen in der Tribunalkammer Anweisungen zu erteilen. Er nutzt die gerichtete Eigenschaft der Miniaturen, um andere daran zu hindern, seinen Inhalt mitzuhören.
+> Dieser Zauber erzeugt einen Stoß von Species, die der Stimme des Wirkers entsprechen und das Ziel am Kopf treffen. Dieser Zauber erfordert einen Wahrnehmung-+-Finesse-Wurf gegen einen Schwierigkeitsgrad von 6, damit die Stimme überzeugend wie die des Magus klingt (der Basis-Schwierigkeitsgrad ist 9, mit einem Modifikator von –3 für tiefe Vertrautheit), doch selbst wenn der Wurf misslingt, hört das Ziel die Nachricht dennoch. Dieser Zauber wird auf Schlachtfeldern eingesetzt oder um Lehrlingen in der Tribunalkammer Anweisungen zu erteilen. Er nutzt die gerichtete Eigenschaft der Miniaturen, um andere daran zu hindern, seinen Inhalt mitzuhören.
 > 
 > (Basis 2, +3 Sicht, +1 Teil)
 > 
@@ -2945,7 +2945,7 @@ Weitere mögliche Geisteszustände umfassen die folgenden:
 > 
 > R: Sicht, D: Mom, Z: Teil
 > 
-> Ein Magus, der diesen Zauber einsetzt, erzeugt die passenden Spezies für die rasche Bewegung eines kleinen leuchtenden Gegenstands und richtet sie auf den Kopf des Ziels. Praktisch alle Menschen haben einen unwillkürlichen Reflex, der ihre Augen die Bahnen sich bewegender Gegenstände verfolgen lässt, insbesondere solcher, die sie treffen könnten. Der Magus nutzt diesen Reflex gegen das Opfer, denn wenn es dorthin blickt, wo der Gegenstand sein sollte, stellt es Augenkontakt mit dem Magus her. Dies ermöglicht es dem Magus, Zauber mit Augenreichweite auf das Opfer zu wirken.
+> Ein Magus, der diesen Zauber einsetzt, erzeugt die passenden Species für die rasche Bewegung eines kleinen leuchtenden Gegenstands und richtet sie auf den Kopf des Ziels. Praktisch alle Menschen haben einen unwillkürlichen Reflex, der ihre Augen die Bahnen sich bewegender Gegenstände verfolgen lässt, insbesondere solcher, die sie treffen könnten. Der Magus nutzt diesen Reflex gegen das Opfer, denn wenn es dorthin blickt, wo der Gegenstand sein sollte, stellt es Augenkontakt mit dem Magus her. Dies ermöglicht es dem Magus, Zauber mit Augenreichweite auf das Opfer zu wirken.
 > 
 > Dieser Zauber erfordert keinen Finesse-Wurf, da er keinen bestimmten Gegenstand simuliert.
 > 
@@ -3950,7 +3950,7 @@ Die Magi des Tytalus haben unterschiedliche Interessen und daher möglicherweise
 
 #### Magie für die Debattierarena
 
-Der Einsatz von Magie in der Debattierarena wird vom Orden des Hermes streng missbilligt. Mehrere Tribunalssitzungen finden unter einer *Aegis des Herdes* statt, die vom Praeco und dem vorsitzenden Quaesitor eigens gewirkt wird, um Magie zu unterbinden, die die demokratischen Prozesse des Ordens beeinflussen könnte. Bei anderen Tribunalen fordern die Quaesitores ausdrücklich dazu auf, in der Debattierarena keine Verzauberungen einzusetzen, und führen regelmäßig Kontrollen dagegen durch. Doch nicht alle Tribunale ergreifen solche Vorsichtsmaßnahmen, und ein Mitglied des Hauses Tytalus kann oft von einem geschickten Einsatz von Debattenmagie profitieren. Magi, die diesen gefährlichen Weg beschreiten, sollten sich auf Magie konzentrieren, die ihre eigenen Fähigkeiten verbessert, anstatt das Publikum direkt zu beeinflussen. Zum Beispiel verändert die *Aura der adligen Erscheinung* das Erscheinungsbild des Magus so, dass er Spezies des Sehens und Hörens ausstrahlt, die ihn überzeugender erscheinen lassen, und gewährt einen +3 Bonus auf alle Verteidigungs-Gesamtwerte der Debatte, die die Fertigkeit Führung verwenden. Tytalische Magi haben ähnliche Zauber entwickelt, die sie sympathischer (und somit Charme-Verteidigungen beeinflussen) oder glaubwürdiger (und somit Täuschungs-Verteidigungen verbessern) erscheinen lassen; siehe die Zauber *Aura des betörenden Erscheinungsbilds* und *Aura der kindlichen Unschuld* weiter unten. Nach Ermessen des Spielleiters könnte die *Aura der adligen Erscheinung* die Manifestation der Gabe in derselben Weise verzerren wie diese beiden Zauber; während sie den üblichen Bonus gegenüber Sterblichen gewährt, drückt der Charakter seine verstärkte Führungskraft als harter Zuchtmeister oder grausamer Herrscher aus.
+Der Einsatz von Magie in der Debattierarena wird vom Orden des Hermes streng missbilligt. Mehrere Tribunalssitzungen finden unter einer *Aegis des Herdes* statt, die vom Praeco und dem vorsitzenden Quaesitor eigens gewirkt wird, um Magie zu unterbinden, die die demokratischen Prozesse des Ordens beeinflussen könnte. Bei anderen Tribunalen fordern die Quaesitores ausdrücklich dazu auf, in der Debattierarena keine Verzauberungen einzusetzen, und führen regelmäßig Kontrollen dagegen durch. Doch nicht alle Tribunale ergreifen solche Vorsichtsmaßnahmen, und ein Mitglied des Hauses Tytalus kann oft von einem geschickten Einsatz von Debattenmagie profitieren. Magi, die diesen gefährlichen Weg beschreiten, sollten sich auf Magie konzentrieren, die ihre eigenen Fähigkeiten verbessert, anstatt das Publikum direkt zu beeinflussen. Zum Beispiel verändert die *Aura der adligen Erscheinung* das Erscheinungsbild des Magus so, dass er Species des Sehens und Hörens ausstrahlt, die ihn überzeugender erscheinen lassen, und gewährt einen +3 Bonus auf alle Verteidigungs-Gesamtwerte der Debatte, die die Fertigkeit Führung verwenden. Tytalische Magi haben ähnliche Zauber entwickelt, die sie sympathischer (und somit Charme-Verteidigungen beeinflussen) oder glaubwürdiger (und somit Täuschungs-Verteidigungen verbessern) erscheinen lassen; siehe die Zauber *Aura des betörenden Erscheinungsbilds* und *Aura der kindlichen Unschuld* weiter unten. Nach Ermessen des Spielleiters könnte die *Aura der adligen Erscheinung* die Manifestation der Gabe in derselben Weise verzerren wie diese beiden Zauber; während sie den üblichen Bonus gegenüber Sterblichen gewährt, drückt der Charakter seine verstärkte Führungskraft als harter Zuchtmeister oder grausamer Herrscher aus.
 
 Andere Magi erheben sofort Protest, wenn sie entdecken, dass solche Zauber während einer Tribunalssitzung eingesetzt wurden, doch es gibt keine Bestimmung im Kodex des Hermes, die diese Taktiken verbieten würde. Sollte ihr Einsatz allerdings weitverbreitet werden, ginge entweder der Vorteil der Tytali verloren, oder es würden magische oder juristische Gegenmaßnahmen ergriffen, um sie zunichte zu machen. Tytalische Magi werden von ihren Parentes ermahnt, diese Zauber mit Bedacht einzusetzen (oder mit einem guten *Den Geruch der Magie verschleiern*-Zauber!).
 
@@ -5342,7 +5342,7 @@ Erstens kann der Charakter auf alle notwendigen Worte und Gesten oder andere Han
 
 Zweitens kann der Charakter beim Anfertigen eines Zaubers die Form und das Material des gefertigten Objekts nutzen, was ihm einen Bonus auf seine Effektsumme gibt, obwohl dieser Bonus seinen Handwerkswert nicht überschreiten darf. Dieser Bonus kann auch eine Gestaltung oder Inschrift umfassen, eine weitere Art von Verzauberungsbonus, die Charaktere mit dieser Tugend nutzen können (siehe den Kasten „Gestaltungs- und Inschriftenboni").
 
-*Beispiel: Ein Holzschnitzer mit sowohl Handwerksmagie als auch der Fertigkeit Wünschelruten sucht nach Wasser und fertigt sich eine Haselrute an. Hasel hat einen Form- und Materialbonus von +3 für Wahrsagung, und so gibt dies ihm einen +3 Bonus auf seine Wünschelruten-Summe. Er ritzt auch seinen Namen in die Rute, was ihm einen +4 Gestaltungs- und Inschriftenbonus für „Nutzung auf den Wirkenden beschränkt" gibt. Sein Handwerk: Holzschnitzerei-Wert beträgt jedoch nur 6, sodass der Gesamtbonus auf +6 statt +7 begrenzt ist. Alles in allem beträgt seine Rutengänger-Summe 11, was bedeutet, dass die Herstellung und Beschriftung seiner Wünschelrute mindestens 20 Minuten dauern wird.*
+*Beispiel: Ein Holzschnitzer mit sowohl Handwerksmagie als auch der Fertigkeit Wünschelrutengehen sucht nach Wasser und fertigt sich eine Haselrute an. Hasel hat einen Form- und Materialbonus von +3 für Wahrsagung, und so gibt dies ihm einen +3 Bonus auf seine Wünschelrutengehen-Summe. Er ritzt auch seinen Namen in die Rute, was ihm einen +4 Gestaltungs- und Inschriftenbonus für „Nutzung auf den Wirkenden beschränkt" gibt. Sein Handwerk: Holzschnitzerei-Wert beträgt jedoch nur 6, sodass der Gesamtbonus auf +6 statt +7 begrenzt ist. Alles in allem beträgt seine Rutengänger-Summe 11, was bedeutet, dass die Herstellung und Beschriftung seiner Wünschelrute mindestens 20 Minuten dauern wird.*
 
 Drittens kann der Charakter Aufgeladene Artefakte auf dieselbe Weise wie hermetische Magi herstellen (siehe Aufgeladene Artefakte, ArM5 Seiten 96–97), ohne eine ganze Jahreszeit aufwenden zu müssen. Stattdessen benötigt er die Standardzeit für das Anfertigen eines Zaubers, wie oben beschrieben, multipliziert mit der Anzahl der hergestellten Gegenstände. Verwende die Zaubersumme des Charakters oder das Ergebnis des Übernatürliche-Fertigkeit-Wurfs, als wäre es eine Laborsumme, um die Stufe des Effekts und die Anzahl der Ladungen zu bestimmen (sodass ein außergewöhnlicher Wurf es dem Charakter ermöglichen könnte, weit mehr Ladungen als üblich zu verzaubern). Diese Anwendung der Handwerksmagie erlaubt es einem Charakter mit einer Übernatürlichen Fertigkeit oder Tugend, die nur ihn selbst betrifft, auch Gegenstände anzufertigen, die andere Charaktere für denselben Effekt verwenden können, allerdings nur, wenn die Aktivität den gefertigten Gegenstand zur Ausübung erfordert. Erfordert die Kraft keinen Würfelwurf zur Aktivierung, lege stattdessen einen passenden Handwerkswurf ab, und die Basisstufe des Effekts beträgt 5.
 
