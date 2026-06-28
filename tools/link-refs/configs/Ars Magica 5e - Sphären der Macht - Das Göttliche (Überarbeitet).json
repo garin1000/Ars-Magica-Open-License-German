@@ -1,12 +1,8 @@
 {
   "version": 1,
-  "source_file": "Ars Magica 5e - Häuser des Hermes - Societates.md",
-  "file_hash": "sha256:3da5e796e05e00fc",
-  "page_to_anchors": {
-    "107": [
-      "malocchi"
-    ]
-  },
+  "source_file": "Ars Magica 5e - Sphären der Macht - Das Göttliche (Überarbeitet).md",
+  "file_hash": "sha256:71630b15926e2ca0",
+  "page_to_anchors": {},
   "toc": {
     "enabled": true,
     "start_markers": [
@@ -19,9 +15,9 @@
       "&nbsp;"
     ],
     "detected": {
-      "start_line": 48,
-      "end_line": 377,
-      "entry_count": 323
+      "start_line": 63,
+      "end_line": 226,
+      "entry_count": 161
     }
   },
   "exclude_patterns": [

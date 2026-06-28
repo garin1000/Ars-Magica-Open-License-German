@@ -60,169 +60,169 @@ Copyright 2005, 2011 Trident, Inc. d/b/a Atlas Games. All rights reserved. Repro
 
 **Ars Magica**, Mythic Europe, Covenants, and Charting New Realms of Imagination are trademarks of Trident, Inc. Order of Hermes, Tremere, and Doissetep are trademarks of White Wolf, Inc. and are used with permission.
 
-# Inhaltsverzeichnis
+# [Inhaltsverzeichnis](#inhaltsverzeichnis)
 
-**Kapitel Eins: Einführung**<br>
-Was ist dieses Buch?<br>
-&emsp; Was dieses Buch nicht ist<br>
-Dieses Buch verwenden<br>
-&emsp; Das Göttliche in Ars Magica  <br>
-&emsp; Die Göttliche Sphäre und andere Sphären  <br>
-Das Göttliche in Geschichten einsetzen <br>
-&emsp; Das Göttliche als Handlungselement <br>
-&emsp; Das Göttliche als Sagenschwerpunkt<br>
-&emsp; Das beiläufige Göttliche<br>
-Aufbau dieses Buches <br>
-**Kapitel Zwei: Himmel und Erde**<br>
-Göttliche Auren im Spiel <br>
-&emsp; Das Dominium    <br>
-&emsp; Empyreische Auren    <br>
-Göttliche Regiones   <br>
-&emsp; Irdische Regiones  <br> 
-&emsp; Celestische Regiones<br>
-&emsp; Bewohner  <br>
-&emsp; Göttliche Regiones erschaffen <br>
-Göttliche Wesen <br>
-&emsp; Nephilim        <br>
-Die Heerscharen des Himmels   <br>
-&emsp; Was sind Engel? <br>
-&emsp; Engelseigenschaften <br>
-&emsp; Seraphim  <br>
-&emsp; Cherubim  <br>
-&emsp; Throne  <br>
-&emsp; Herrschaften  <br>
-&emsp; Autoritäten <br>
-&emsp; Gewalten <br>
-&emsp; Fürstentümer <br>
-&emsp; Erzengel   <br>
-&emsp; Engel             <br>
-&emsp; Grigori, die Wächter <br>
-Spielleitung von Engeln     <br>
-&emsp; Engel in Geschichten einsetzen  <br>
-&emsp; Engel darstellen<br>
-Beispielengel <br>
-&emsp; Asuryal, Herold der Erlösung <br>
-&emsp; Azrael, der Erzengel des Todes <br>
-&emsp; Camuel, der Dunkle Engel  <br>
-&emsp; Eiael, Beistand der Weisen  <br>
-&emsp; Gabriel, der Erzengel der Prophezeiung <br>
-&emsp; Kalazonta, der Züchtiger  <br>
-&emsp; St. Michael, Hauptmann der Heerscharen des Herrn   <br>
-&emsp; Midael, Hauptmann der Himmlischen Armee   <br>
-&emsp; Munkar und Nakir, die Befrager  <br>
-&emsp; Nasir, der Helfer<br>
-&emsp; Samuil, Engelsführer<br>
-**Kapitel Drei: Von Gott Gesegnet**<br>
-Heilige Charaktere <br>
-&emsp; Neue Tugenden <br>
-&emsp; Neue Fehler<br>
-&emsp; Neue Fertigkeiten<br>
-Heiliger Einfluss <br>
-&emsp; Temperungen      <br>
-&emsp; Gottes Hilfe anrufen <br>
-&emsp; Die Befehlende Aura  <br>
-Reliquien <br>
-&emsp; Reliquien im christlichen Glauben <br>
-&emsp; Reliquien im jüdischen und muslimischen Glauben  <br>
-&emsp; Die Kräfte der Reliquien  <br>
-Wundersame Wirkungen <br>
-&emsp; Methoden und Traditionen<br>
-&emsp; Methoden und Kräfte erlernen <br>
-&emsp; Kräfte und Wirkungen  <br>
-Wahrer Glaube <br>
-&emsp; Wahrer Glaube und die Gabe <br>
-&emsp; Die Tugend Wahrer Glaube wählen <br>
-&emsp; Wahren Glauben im Spiel erlangen<br>
-&emsp; Einen Charakter mit Wahrem Glauben spielen <br>
-&emsp; Wunder  <br>
-&emsp; Das Licht verkörpern <br>
-Göttliche Verzerrung<br>
-&emsp; Ursachen Göttlicher Verzerrung <br>
-&emsp; Der Göttliche Aufstieg <br>
-&emsp; Aufstieg <br>
-&emsp; Göttliche Düsternis<br>
-&emsp; Göttliche Gestalt <br>
-&emsp; Göttliche Einheit  <br>
-Mythische Gefährten <br>
-Heilige Magie<br>
-&emsp; Einschränkungen <br>
-&emsp; Vorteile<br>
-&emsp; Heilige Societates  <br>
-**Kapitel Vier: Mythisches Christentum** <br>
-Geschichte     <br>
-&emsp; Die Ursprünge der Kirche <br> 
-&emsp; Das Christliche Kaiserreich <br>
-&emsp; Invasionen und Spaltungen<br>
-&emsp; Das Dreizehnte Jahrhundert<br>
-Glaubensvorstellungen   <br>
-Praktiken  <br>
-&emsp; Kirche und Kloster  <br>
-&emsp; Ost und West <br>
-&emsp; Dissidenz und Reform<br>
-Heilige<br>
-&emsp; Einen Heiligen bedrohen <br>
-&emsp; Wunder der Heiligen<br>
-&emsp; Heilige gestalten  <br>
-Charaktere  <br>
-&emsp; Tugenden<br>
-&emsp; Fehler <br>
-&emsp; Traditionen <br>
-&emsp; Mythische Gefährten: Perfecti <br>
-&emsp; Gefährtenvorlagen<br>
-&emsp; Grog-Vorlagen<br>
-Ars Notoria <br>
-&emsp; Einen Text finden <br>
-&emsp; Den Text studieren <br>
-&emsp; Die Ringe Salomons <br>
-**Kapitel Fünf: Mythischer Islam**<br>
-&emsp; Muhammad<br>
-&emsp; Die Kalifate<br>
-Glaubensvorstellungen und Praktiken <br>
-&emsp; Theologie   <br>
-&emsp; Heilige Vorfahren<br>
-&emsp; Gesellschaftliche Struktur in muslimischen Staaten<br>
-&emsp; Islamisches Recht<br>
-&emsp; Die Säulen des Islam<br>
-&emsp; Muslimische Heilige Stätten<br>
-&emsp; Familienleben<br>
-&emsp; Frauen im Islam<br>
-&emsp; Muslimische Sichtweisen auf Europäer<br>
-Varianten des Islam<br>
-&emsp; Sufismus <br>
-&emsp; Schiitischer Islam<br>
-&emsp; Almohadischer Islam<br>
-Charaktere<br>
-&emsp; Fremde in fremden Landen<br>
-&emsp; Tugenden<br>
-&emsp; Fehler<br>
-&emsp; Fertigkeiten<br>
-&emsp; Traditionen<br>
-&emsp; Grog-Vorlagen<br>
-&emsp; Gefährtenvorlagen <br>
-**Kapitel Sechs: Mythisches Judentum** <br>
-Geschichte eines Volkes<br>
-&emsp; Das Dreizehnte Jahrhundert<br>
-Glaubensvorstellungen und Praktiken <br>
-&emsp; Feiertage und Bräuche<br>
-&emsp; Heilige Orte <br>
-&emsp; Heilige Bücher und Artefakte<br>
-&emsp; Kultur<br>
-&emsp; Halakha<br>
-&emsp; Berufe<br>
-&emsp; Volkskunde<br>
-Charaktere<br>
-&emsp; Tugenden<br>
-&emsp; Fehler<br>
-&emsp; Fertigkeiten<br>
-&emsp; Traditionen<br>
-&emsp; Grog-Vorlagen<br>
-&emsp; Gefährtenvorlagen <br>
-Jüdische Mystik<br>
-&emsp; Gematria <br>
-&emsp; Kabbalah<br>
-&emsp; Golems<br>
-&emsp; Merkavah und die Mysterien des Thronwagens<br>
-**Bibliographie**<br>
+**[Kapitel Eins: Einführung](#kapitel-eins-einführung)**<br>
+[Was ist dieses Buch?](#was-ist-dieses-buch)<br>
+&emsp;[Was dieses Buch nicht ist](#was-dieses-buch-nicht-ist)<br>
+[Dieses Buch verwenden](#dieses-buch-verwenden)<br>
+&emsp;[Das Göttliche in Ars Magica](#das-göttliche-in-ars-magica)<br>
+&emsp;[Die Göttliche Sphäre und andere Sphären](#die-göttliche-sphäre-und-andere-sphären)<br>
+[Das Göttliche in Geschichten einsetzen](#das-göttliche-in-geschichten-einsetzen)<br>
+&emsp;[Das Göttliche als Handlungselement](#das-göttliche-als-handlungselement)<br>
+&emsp;[Das Göttliche als Sagenschwerpunkt](#das-göttliche-als-sagenschwerpunkt)<br>
+&emsp;[Das beiläufige Göttliche](#das-beiläufige-göttliche)<br>
+[Aufbau dieses Buches](#aufbau-dieses-buches)<br>
+**[Kapitel Zwei: Himmel und Erde](#kapitel-zwei-himmel-und-erde)**<br>
+[Göttliche Auren im Spiel](#göttliche-auren-im-spiel)<br>
+&emsp;[Das Dominium](#das-dominium)<br>
+&emsp;[Empyreische Auren](#empyreische-auren)<br>
+[Göttliche Regiones](#göttliche-regiones)<br>
+&emsp;[Irdische Regiones](#irdische-regiones)<br>
+&emsp;[Celestische Regiones](#celestische-regiones)<br>
+&emsp;[Bewohner](#bewohner-1)<br>
+&emsp;[Göttliche Regiones erschaffen](#göttliche-regiones-erschaffen)<br>
+[Göttliche Wesen](#göttliche-wesen)<br>
+&emsp;[Nephilim](#nephilim)<br>
+[Die Heerscharen des Himmels](#die-heerscharen-des-himmels)<br>
+&emsp;[Was sind Engel?](#was-sind-engel)<br>
+&emsp;[Engelseigenschaften](#engelseigenschaften-1)<br>
+&emsp;[Seraphim](#seraphim-1)<br>
+&emsp;[Cherubim](#cherubim-1)<br>
+&emsp;[Throne](#throne-1)<br>
+&emsp;[Herrschaften](#herrschaften-1)<br>
+&emsp;[Autoritäten](#autoritäten-1)<br>
+&emsp;[Gewalten](#gewalten-1)<br>
+&emsp;[Fürstentümer](#fürstentümer-1)<br>
+&emsp;[Erzengel](#erzengel-1)<br>
+&emsp;[Engel](#engel-1)<br>
+&emsp;[Grigori, die Wächter](#grigori-die-wächter)<br>
+[Spielleitung von Engeln](#spielleitung-von-engeln)<br>
+&emsp;[Engel in Geschichten einsetzen](#engel-in-geschichten-einsetzen)<br>
+&emsp;[Engel darstellen](#engel-darstellen)<br>
+[Beispielengel](#beispielengel)<br>
+&emsp;[Asuryal, Herold der Erlösung](#asuryal-herold-der-erlösung)<br>
+&emsp;[Azrael, der Erzengel des Todes](#azrael-der-erzengel-des-todes)<br>
+&emsp;[Camuel, der Dunkle Engel](#camuel-der-dunkle-engel)<br>
+&emsp;[Eiael, Beistand der Weisen](#eiael-beistand-der-weisen)<br>
+&emsp;[Gabriel, der Erzengel der Prophezeiung](#gabriel-der-erzengel-der-prophezeiung)<br>
+&emsp;[Kalazonta, der Züchtiger](#kalazonta-der-züchtiger)<br>
+&emsp;[St. Michael, Hauptmann der Heerscharen des Herrn](#st.-michael-hauptmann-der-heerscharen-des-herrn)<br>
+&emsp;[Midael, Hauptmann der Himmlischen Armee](#midael-hauptmann-der-himmlischen-armee)<br>
+&emsp;[Munkar und Nakir, die Befrager](#munkar-und-nakir-die-befrager)<br>
+&emsp;[Nasir, der Helfer](#nasir-der-helfer)<br>
+&emsp;[Samuil, Engelsführer](#samuil-engelsführer)<br>
+**[Kapitel Drei: Von Gott Gesegnet](#kapitel-drei-von-gott-gesegnet)**<br>
+[Heilige Charaktere](#heilige-charaktere)<br>
+&emsp;[Neue Tugenden](#neue-tugenden-3)<br>
+&emsp;[Neue Fehler](#neue-fehler-3)<br>
+&emsp;[Neue Fertigkeiten](#neue-fertigkeiten-2)<br>
+[Heiliger Einfluss](#heiliger-einfluss-1)<br>
+&emsp;[Temperungen](#temperungen)<br>
+&emsp;[Gottes Hilfe anrufen](#gottes-hilfe-anrufen)<br>
+&emsp;[Die Befehlende Aura](#die-befehlende-aura)<br>
+[Reliquien](#reliquien)<br>
+&emsp;[Reliquien im christlichen Glauben](#reliquien-im-christlichen-glauben)<br>
+&emsp;[Reliquien im jüdischen und muslimischen Glauben](#reliquien-im-jüdischen-und-muslimischen-glauben)<br>
+&emsp;[Die Kräfte der Reliquien](#die-kräfte-der-reliquien)<br>
+[Wundersame Wirkungen](#wundersame-wirkungen)<br>
+&emsp;[Methoden und Traditionen](#methoden-und-traditionen)<br>
+&emsp;[Methoden und Kräfte erlernen](#methoden-und-kräfte-erlernen)<br>
+&emsp;[Kräfte und Wirkungen](#kräfte-und-wirkungen)<br>
+[Wahrer Glaube](#wahrer-glaube)<br>
+&emsp;[Wahrer Glaube und die Gabe](#wahrer-glaube-und-die-gabe)<br>
+&emsp;[Die Tugend Wahrer Glaube wählen](#die-tugend-wahrer-glaube-wählen)<br>
+&emsp;[Wahren Glauben im Spiel erlangen](#wahren-glauben-im-spiel-erlangen)<br>
+&emsp;[Einen Charakter mit Wahrem Glauben spielen](#einen-charakter-mit-wahrem-glauben-spielen)<br>
+&emsp;[Wunder](#wunder-5)<br>
+&emsp;[Das Licht verkörpern](#das-licht-verkörpern)<br>
+[Göttliche Verzerrung](#göttliche-verzerrung)<br>
+&emsp;[Ursachen Göttlicher Verzerrung](#ursachen-göttlicher-verzerrung)<br>
+&emsp;[Der Göttliche Aufstieg](#der-göttliche-aufstieg)<br>
+&emsp;[Aufstieg](#aufstieg)<br>
+&emsp;[Göttliche Düsternis](#göttliche-düsternis)<br>
+&emsp;[Göttliche Gestalt](#göttliche-gestalt)<br>
+&emsp;[Göttliche Einheit](#göttliche-einheit)<br>
+[Mythische Gefährten](#mythische-gefährten)<br>
+[Heilige Magie](#heilige-magie-2)<br>
+&emsp;[Einschränkungen](#einschränkungen)<br>
+&emsp;[Vorteile](#vorteile)<br>
+&emsp;[Heilige Societates](#heilige-societates)<br>
+**[Kapitel Vier: Mythisches Christentum](#kapitel-vier-mythisches-christentum)**<br>
+[Geschichte](#geschichte)<br>
+&emsp;[Die Ursprünge der Kirche](#die-ursprünge-der-kirche)<br>
+&emsp;[Das Christliche Kaiserreich](#das-christliche-kaiserreich)<br>
+&emsp;[Invasionen und Spaltungen](#invasionen-und-spaltungen)<br>
+&emsp;[Das Dreizehnte Jahrhundert](#das-dreizehnte-jahrhundert-1)<br>
+[Glaubensvorstellungen](#glaubensvorstellungen)<br>
+[Praktiken](#praktiken)<br>
+&emsp;[Kirche und Kloster](#kirche-und-kloster)<br>
+&emsp;[Ost und West](#ost-und-west)<br>
+&emsp;[Dissidenz und Reform](#dissidenz-und-reform)<br>
+[Heilige](#heilige)<br>
+&emsp;[Einen Heiligen bedrohen](#einen-heiligen-bedrohen)<br>
+&emsp;[Wunder der Heiligen](#wunder-der-heiligen)<br>
+&emsp;[Heilige gestalten](#heilige-gestalten)<br>
+[Charaktere](#charaktere-2)<br>
+&emsp;[Tugenden](#tugenden-2)<br>
+&emsp;[Fehler](#fehler-2)<br>
+&emsp;[Traditionen](#traditionen-2)<br>
+&emsp;[Mythische Gefährten: Perfecti](#mythische-gefährten-perfecti)<br>
+&emsp;[Gefährtenvorlagen](#gefährtenvorlagen-2)<br>
+&emsp;[Grog-Vorlagen](#grog-vorlagen-2)<br>
+[Ars Notoria](#ars-notoria-2)<br>
+&emsp;[Einen Text finden](#einen-text-finden)<br>
+&emsp;[Den Text studieren](#den-text-studieren)<br>
+&emsp;[Die Ringe Salomons](#die-ringe-salomons)<br>
+**[Kapitel Fünf: Mythischer Islam](#kapitel-fünf-mythischer-islam)**<br>
+&emsp;[Muhammad](#muhammad-1)<br>
+&emsp;[Die Kalifate](#die-kalifate)<br>
+[Glaubensvorstellungen und Praktiken](#glaubensvorstellungen-und-praktiken-1)<br>
+&emsp;[Theologie](#theologie)<br>
+&emsp;[Heilige Vorfahren](#heilige-vorfahren)<br>
+&emsp;[Gesellschaftliche Struktur in muslimischen Staaten](#gesellschaftliche-struktur-in-muslimischen-staaten)<br>
+&emsp;[Islamisches Recht](#islamisches-recht)<br>
+&emsp;[Die Säulen des Islam](#die-säulen-des-islam)<br>
+&emsp;[Muslimische Heilige Stätten](#muslimische-heilige-stätten)<br>
+&emsp;[Familienleben](#familienleben)<br>
+&emsp;[Frauen im Islam](#frauen-im-islam)<br>
+&emsp;[Muslimische Sichtweisen auf Europäer](#muslimische-sichtweisen-auf-europäer)<br>
+[Varianten des Islam](#varianten-des-islam)<br>
+&emsp;[Sufismus](#sufismus)<br>
+&emsp;[Schiitischer Islam](#schiitischer-islam)<br>
+&emsp;[Almohadischer Islam](#almohadischer-islam)<br>
+[Charaktere](#charaktere-2)<br>
+&emsp;[Fremde in fremden Landen](#fremde-in-fremden-landen)<br>
+&emsp;[Tugenden](#tugenden-2)<br>
+&emsp;[Fehler](#fehler-2)<br>
+&emsp;[Fertigkeiten](#fertigkeiten-2)<br>
+&emsp;[Traditionen](#traditionen-2)<br>
+&emsp;[Grog-Vorlagen](#grog-vorlagen-2)<br>
+&emsp;[Gefährtenvorlagen](#gefährtenvorlagen-2)<br>
+**[Kapitel Sechs: Mythisches Judentum](#kapitel-sechs-mythisches-judentum)**<br>
+[Geschichte eines Volkes](#geschichte-eines-volkes)<br>
+&emsp;[Das Dreizehnte Jahrhundert](#das-dreizehnte-jahrhundert-1)<br>
+[Glaubensvorstellungen und Praktiken](#glaubensvorstellungen-und-praktiken-1)<br>
+&emsp;[Feiertage und Bräuche](#feiertage-und-bräuche)<br>
+&emsp;[Heilige Orte](#heilige-orte)<br>
+&emsp;[Heilige Bücher und Artefakte](#heilige-bücher-und-artefakte)<br>
+&emsp;[Kultur](#kultur)<br>
+&emsp;[Halakha](#halakha)<br>
+&emsp;[Berufe](#berufe)<br>
+&emsp;[Volkskunde](#volkskunde)<br>
+[Charaktere](#charaktere-2)<br>
+&emsp;[Tugenden](#tugenden-2)<br>
+&emsp;[Fehler](#fehler-2)<br>
+&emsp;[Fertigkeiten](#fertigkeiten-2)<br>
+&emsp;[Traditionen](#traditionen-2)<br>
+&emsp;[Grog-Vorlagen](#grog-vorlagen-2)<br>
+&emsp;[Gefährtenvorlagen](#gefährtenvorlagen-2)<br>
+[Jüdische Mystik](#jüdische-mystik)<br>
+&emsp;[Gematria](#gematria-2)<br>
+&emsp;[Kabbalah](#kabbalah-2)<br>
+&emsp;[Golems](#golems)<br>
+&emsp;[Merkavah und die Mysterien des Thronwagens](#merkavah-und-die-mysterien-des-thronwagens)<br>
+**[Bibliographie](#bibliographie)**<br>
 
 # Kapitel Eins: Einführung
 
@@ -260,7 +260,7 @@ Das Göttliche strebt nach der Besserung der Menschheit und dem Heil der Seelen.
 
 ### Die Göttliche Sphäre und andere Sphären
 
-Unter hermetischen Forschern gibt es viele Theorien über die Beziehung zwischen dem Göttlichen und den anderen Sphären. Die vier Sphären sind eine Einteilung, die nur der Orden des Hermes anerkennt; christliche Theologen, muslimische Philosophen und jüdische Rabbiner würden die Klassifizierung als lächerlich oder anstößig betrachten, während Häretiker und Heckenzauberer andere Einteilungen oder Erklärungen haben könnten. Was für hermetische Denker feststeht — eine Gewissheit, die eines der Fundamente der Hermetischen Theorie bildet — ist, dass das Göttliche die Quelle oder die höchste aller Sphären ist (wie in **Ars Magica** 5th Edition, Seite 182 besprochen).
+Unter hermetischen Forschern gibt es viele Theorien über die Beziehung zwischen dem Göttlichen und den anderen Sphären. Die vier Sphären sind eine Einteilung, die nur der Orden des Hermes anerkennt; christliche Theologen, muslimische Philosophen und jüdische Rabbiner würden die Klassifizierung als lächerlich oder anstößig betrachten, während Häretiker und Heckenzauberer andere Einteilungen oder Erklärungen haben könnten. Was für hermetische Denker feststeht — eine Gewissheit, die eines der Fundamente der Hermetischen Theorie bildet — ist, dass das Göttliche die Quelle oder die höchste aller Sphären ist (wie in **Ars Magica** 5th Edition, [Seite 182](<Ars Magica Definitive Edition Basisregeln.md#die-natur-der-sphären>) besprochen).
 
 #### MAGIE
 
@@ -422,7 +422,7 @@ Das Dominium ist die göttliche Aura, die für und um Gottes Gläubige manifesti
 
 #### KRAFT DES DOMINIUMS
 
-Wie in **Ars Magica** 5th Edition Seite 183 dargelegt, variieren Auren in ihrer Kraft von 1 bis 10. Die Kraft des Dominiums strahlt von der Kirche oder dem Gebetsort (Moschee oder Synagoge) einer Gemeinschaft aus, wo sie am stärksten ist, bis zum Rand der Gemeinschaft, wo sie am schwächsten ist. Als Faustregel erstreckt sich das Dominium vom Altar, von wo der *Salat* gesungen wird, oder von den Thorarollen, so weit wie die Kirchenglocken, der Gebetsruf oder die Rezitation der Thora gehört werden können, bis es auf eine andere, stärkere Aura trifft oder den Rand der Gemeinschaft erreicht.
+Wie in **Ars Magica** 5th Edition [Seite 183](<Ars Magica Definitive Edition Basisregeln.md#auren-der-sphären>) dargelegt, variieren Auren in ihrer Kraft von 1 bis 10. Die Kraft des Dominiums strahlt von der Kirche oder dem Gebetsort (Moschee oder Synagoge) einer Gemeinschaft aus, wo sie am stärksten ist, bis zum Rand der Gemeinschaft, wo sie am schwächsten ist. Als Faustregel erstreckt sich das Dominium vom Altar, von wo der *Salat* gesungen wird, oder von den Thorarollen, so weit wie die Kirchenglocken, der Gebetsruf oder die Rezitation der Thora gehört werden können, bis es auf eine andere, stärkere Aura trifft oder den Rand der Gemeinschaft erreicht.
 
 Die Kraft des Dominiums innerhalb eines bestimmten Gebiets variiert. In einer kleinen Kirche zum Beispiel hat es seine stärkste Aurastärke von 5 am Altar. Diese nimmt auf 4 im gesamten Kirchengebäude ab und erstreckt sich bis zur Schwelle des Kirchengebäudes, wobei das Land und der Friedhof um die Kirche herum eine Dominiumaura von 3 haben. In großen Kirchen oder Gebetsstätten kann es mehrere Bereiche mit hohen und niedrigen Aurastärken geben, wie in der Kirche der Heiligen Weisheit in Konstantinopel – der größten Kirche der Christenheit –, wo die zahlreichen Altäre, Reliquien und Ikonen dazu führen, dass das Dominium zwischen fünf und, an den heiligsten Stellen dieses heiligen Orts, 10 schwankt.
 
@@ -533,7 +533,7 @@ Manche göttliche Regiones sind durch die Gebete eines Heiligen oder einer fromm
 
 Es gibt zwei Arten göttlicher Regiones: **irdische Regiones**, die mit einem Ort in der weltlichen Welt verbunden sind, und **celestische Regiones**, die geistliche Orte sind, die nicht geographisch an die Erde gebunden sind.
 
-Zu den Mechaniken des Betretens und Verlassens von Regiones und zur Ausübung von Magie in ihnen siehe **Ars Magica** 5th Edition, S. 189-90.
+Zu den Mechaniken des Betretens und Verlassens von Regiones und zur Ausübung von Magie in ihnen siehe **Ars Magica** 5th Edition, [S. 189-90](<Ars Magica Definitive Edition Basisregeln.md#regiones-betreten-und-verlassen>).
 
 ### Irdische Regiones
 
@@ -846,7 +846,7 @@ Alle Engel besitzen die folgenden Kräfte:
 
 Engel sind Geschöpfe reinen Intellekts und reiner Vernunft, aber sie sind nicht unfehlbar. Darüber hinaus sind manche Engel offensichtlich anderen überlegen, wie die Seraphim allen anderen Engeln. Ohne den Einsatz ihrer Kraft Engelsgewand können Engel nur durch ihre Kräfte mit der physischen Welt interagieren; sie haben keine anderen Eigenschaften als ihre nicht-physischen Eigenschaftswerte. Im Himmel haben die großen Engel (die obersten drei Chöre) Eigenschaftswerte und Fertigkeiten, die so gewaltig sind, dass sie bedeutungslos werden; auf der Erde in ihrem Gewand sind sie jedoch, sofern nicht durch Göttlichen Willen, deutlich eingeschränkter.
 
-Die nicht-physischen Eigenschaftswerte der Engel (Intelligenz, Wahrnehmung, Präsenz und Kommunikation) werden durch ihren Göttlichen Machtwert bestimmt. Engel mit einem Göttlichen Machtwert von 1–10 haben +1 in allen nicht-physischen Eigenschaftswerten; Engel mit einem Göttlichen Machtwert von 11–20 haben +2 in allen nicht-physischen Eigenschaftswerten, und so weiter. Außerordentlich mächtige Engel mit einem Göttlichen Machtwert von 90 haben also +9 in ihren nicht-physischen Eigenschaftswerten. Die physischen Eigenschaftswerte (Ausdauer, Stärke, Geschicklichkeit und Schnelligkeit) für das Gewand eines Engels werden durch den normalen Punktekauf bestimmt, wie in **Ars Magica** 5. Edition, Seite 30 beschrieben (7 Punkte zum Ausgeben, obwohl besonders mächtige Engel mehr haben sollten).
+Die nicht-physischen Eigenschaftswerte der Engel (Intelligenz, Wahrnehmung, Präsenz und Kommunikation) werden durch ihren Göttlichen Machtwert bestimmt. Engel mit einem Göttlichen Machtwert von 1–10 haben +1 in allen nicht-physischen Eigenschaftswerten; Engel mit einem Göttlichen Machtwert von 11–20 haben +2 in allen nicht-physischen Eigenschaftswerten, und so weiter. Außerordentlich mächtige Engel mit einem Göttlichen Machtwert von 90 haben also +9 in ihren nicht-physischen Eigenschaftswerten. Die physischen Eigenschaftswerte (Ausdauer, Stärke, Geschicklichkeit und Schnelligkeit) für das Gewand eines Engels werden durch den normalen Punktekauf bestimmt, wie in **Ars Magica** 5. Edition, [Seite 30](<Ars Magica Definitive Edition Basisregeln.md#eigenschaften-1>) beschrieben (7 Punkte zum Ausgeben, obwohl besonders mächtige Engel mehr haben sollten).
 
 #### FREIER WILLE DER ENGEL
 
@@ -862,7 +862,7 @@ Theoretisch könnte ein Engel sich entscheiden, Gott zu missachten und dadurch z
 
 Engel haben keine Sinne, wie ein Mensch sie verstehen würde. Vielmehr erlangen sie ein unmittelbares Verständnis ihrer Umgebung kraft ihres engelgleichen Intellekts. Es ist dieses Bewusstsein, das ihnen Bewegung und die Fähigkeit zu handeln verleiht.
 
-Engel erkennen die Dinge unmittelbar durch ihre Formen, anstatt sich auf Species (siehe **Ars Magica** 5. Edition, S. 79) oder Sinneswahrnehmung zu verlassen. Daher ist ihr Wissen von etwas ein Wissen um die vollständige Sache (sei es ein Gegenstand, eine Idee oder ein Gefühl), anstatt durch die Sinne eines Körpers beschränkt zu sein, obwohl Engel die Gedanken einer Person nicht lesen können, es sei denn durch eine besondere Kraft.
+Engel erkennen die Dinge unmittelbar durch ihre Formen, anstatt sich auf Species (siehe **Ars Magica** 5. Edition, [S. 79](<Ars Magica Definitive Edition Basisregeln.md#imaginem-im--erscheinung>)) oder Sinneswahrnehmung zu verlassen. Daher ist ihr Wissen von etwas ein Wissen um die vollständige Sache (sei es ein Gegenstand, eine Idee oder ein Gefühl), anstatt durch die Sinne eines Körpers beschränkt zu sein, obwohl Engel die Gedanken einer Person nicht lesen können, es sei denn durch eine besondere Kraft.
 
 Engel können daher in der Dunkelheit „sehen" und können sowohl eine Illusion als auch die Wahrheit dahinter „wahrnehmen". Die Sinne der Engel können nicht Ziel hermetischer (oder anderer) Zauber oder magischer Kräfte sein, da sie mit ihrem ganzen Wesen erfassen (obwohl Bannkreise das Ausmaß des „Wahrnehmens" eines Engels einschränken können). Die einzige Möglichkeit, einen Engel am „Wahrnehmen" von etwas zu hindern, wäre, den Engel vollständig zu vernichten oder ihn in einem mächtigen magischen Bannkreis gefangen zu halten.
 
@@ -894,7 +894,7 @@ Die meisten hermetischen Magi sind sich der Fähigkeit hermetischer Magie, Engel
 
 Ein Engel kennt automatisch die Art und Stärke jeder Aura, auf die er trifft, aufgrund der Beschaffenheit seiner engelgleichen Sinne, obwohl er in keiner Weise von ihnen behindert wird und niemals einen negativen Effekt durch sie erleidet.
 
-Engel können nach Belieben in göttliche Regiones eintreten, als wären sie Bewohner, es sei denn, sie werden von einem mächtigeren göttlichen Wesen daran gehindert. Um die Regio einer anderen Sphäre zu betreten, muss der Engel von deren Existenz wissen. Engel können nicht versehentlich eine Regio betreten, können aber in eine hineingeführt werden oder nach einer suchen (siehe **Ars Magica** 5. Edition, S. 189). Alle Engel gelten als hätten sie einen Fertigkeitswert in Zweites Gesicht gleich ihrer Göttlichen Macht ÷ 5 zum Zweck des Auffindens nicht-göttlicher Regiones.
+Engel können nach Belieben in göttliche Regiones eintreten, als wären sie Bewohner, es sei denn, sie werden von einem mächtigeren göttlichen Wesen daran gehindert. Um die Regio einer anderen Sphäre zu betreten, muss der Engel von deren Existenz wissen. Engel können nicht versehentlich eine Regio betreten, können aber in eine hineingeführt werden oder nach einer suchen (siehe **Ars Magica** 5. Edition, [S. 189](<Ars Magica Definitive Edition Basisregeln.md#regiones-betreten-und-verlassen>)). Alle Engel gelten als hätten sie einen Fertigkeitswert in Zweites Gesicht gleich ihrer Göttlichen Macht ÷ 5 zum Zweck des Auffindens nicht-göttlicher Regiones.
 
 >#### Engel und Kleinigkeiten
 >
@@ -1144,7 +1144,7 @@ Weit entfernt von den fehlerhaften und von Angst geplagten Charakteren aus ander
 
 Engel nehmen oft das Gewand eines scheinbar harmlosen Charakters an und integrieren sich in die Gesellschaft. Ein Engel könnte einen Konvent unterwandern und Teil der Nebenbesetzung werden, indem er den Grogs oder Gefährten Rat oder Hilfe anbietet. Alternativ könnte ein Engel als Gegenspieler auftreten, der versucht, die gottlosen Praktiken eines Konvents zu unterbinden oder ihn zu frömmerer Lebensweise zu bewegen.
 
-Manche Engel interessieren sich für die okkulten und magischen Künste, wie der Erzengel Seferiel (**Ars Magica** 5. Edition, Seite 198), und verfolgen daher die Handlungen hermetischer Magi, während andere an den Höfen des Adels oder der Kirche zugegen sein mögen, um Herzöge oder Bischöfe zu beraten und zu leiten. Engel bieten möglicherweise auch Hilfe an, wenn die Charaktere von einer infernalen Bedrohung bedrängt werden, etwa einem dämonischen Angriff oder einer teuflischen Seuche.
+Manche Engel interessieren sich für die okkulten und magischen Künste, wie der Erzengel Seferiel (**Ars Magica** 5. Edition, [Seite 198](<Ars Magica Definitive Edition Basisregeln.md#seferiel>)), und verfolgen daher die Handlungen hermetischer Magi, während andere an den Höfen des Adels oder der Kirche zugegen sein mögen, um Herzöge oder Bischöfe zu beraten und zu leiten. Engel bieten möglicherweise auch Hilfe an, wenn die Charaktere von einer infernalen Bedrohung bedrängt werden, etwa einem dämonischen Angriff oder einer teuflischen Seuche.
 
 Schutzengel oder Engel, die sich für eine Gemeinschaft (etwa ein Kloster) oder ein Herrschaftsgebiet (etwa eine Baronie oder ein Lehen) interessieren, nehmen möglicherweise menschliche Gestalt an und wandeln unter den Bewohnern. Sofern keine dringende Notlage herrscht, werden solche Engel ihre göttlichen Kräfte selten einsetzen; sie ziehen es vor, Sterbliche dazu zu bewegen, aus eigenem Willen heilige Taten zu vollbringen.
 
@@ -1152,7 +1152,7 @@ Engel belohnen stets gutherziges Verhalten, das ihnen entgegengebracht wird, und
 
 #### ALS AUFHÄNGER
 
-Der einfachste Weg, Engel in einer Geschichte einzusetzen, ist als Aufhänger (siehe **Ars Magica** 5. Edition, S. 212). Ein Engel könnte (als Mensch verkleidet oder in einer Erscheinung) die Charaktere bitten, eine Aufgabe für ihn zu erledigen, als Anstoß für eine Geschichte, oder erscheinen, um ein Gebet zu beantworten und den Charakteren einen dringend benötigten Hinweis zur Lösung eines Rätsels zu geben. Jeder Engelschor enthält als Beispiel einen Aufhänger für eine Geschichte.
+Der einfachste Weg, Engel in einer Geschichte einzusetzen, ist als Aufhänger (siehe **Ars Magica** 5. Edition, [S. 212](<Ars Magica Definitive Edition Basisregeln.md#geschichtsideen>)). Ein Engel könnte (als Mensch verkleidet oder in einer Erscheinung) die Charaktere bitten, eine Aufgabe für ihn zu erledigen, als Anstoß für eine Geschichte, oder erscheinen, um ein Gebet zu beantworten und den Charakteren einen dringend benötigten Hinweis zur Lösung eines Rätsels zu geben. Jeder Engelschor enthält als Beispiel einen Aufhänger für eine Geschichte.
 
 Engel können auch melodramatische Quellen für Informationen oder unbeantwortete Fragen sein. Ein Gespräch mit einem Engel, besonders während einer Erscheinung oder wenn er durch Merkavah herbeigerufen wird, beinhaltet wahrscheinlich:
 
@@ -1177,7 +1177,7 @@ Engel sind auch Repräsentanten von Idealen oder Dingen, wie Hoffnung oder der E
 
 Engel mögen nahezu vollkommen sein, aber sie sind nicht unfehlbar. Sie besitzen ein tiefes Verständnis des Göttlichen, sind jedoch nicht in die geheimen Kenntnisse Gottes eingeweiht und wissen weder die Zukunft noch irgendetwas, das sie nicht erfahren oder „wahrgenommen" haben. Engel können Fehler machen, jemanden über- oder unterschätzen und überlistet oder getäuscht werden. Es ist nur unwahrscheinlich, dass dies geschieht.
 
-Engel werden in eurer Saga am ehesten auf eine von zwei Arten erscheinen: entweder im prachtvollen Gewand einer Erscheinung oder in ihr Engelsgewand gekleidet. Die meisten Schutzengel (**Ars Magica** 5. Edition, Seite 43) kommunizieren mit ihren Schutzbefohlenen durch Erscheinungen.
+Engel werden in eurer Saga am ehesten auf eine von zwei Arten erscheinen: entweder im prachtvollen Gewand einer Erscheinung oder in ihr Engelsgewand gekleidet. Die meisten Schutzengel (**Ars Magica** 5. Edition, [Seite 43](<Ars Magica Definitive Edition Basisregeln.md#schutzengel>)) kommunizieren mit ihren Schutzbefohlenen durch Erscheinungen.
 
 Wenn Engel in einer Vision erscheinen, sind sie ehrfurchtgebietend und furchteinflößend und oft mit seltsamer oder fremdartiger Bildsprache und Symbolik verbunden. Lest die zitierten biblischen Passagen und schaut sowohl durch beide Testamente als auch den Koran. Engel erscheinen, um bestimmte Botschaften zu überbringen, Rat zu erteilen und Göttliches Gericht zu üben.
 
@@ -1367,7 +1367,7 @@ Kräfte:
 
 *Langlebigkeit gewähren*, 10 Punkte, +0, Corpus: Durch Berühren des Ziels kann Eiael 5 Alterungspunkte aus einer beliebigen Kombination von Eigenschaften entfernen (dies kann den Gebrechlichkeitswert des Ziels senken oder seine Eigenschaften erhöhen).
 
-*Schutzengel,* 5 Punkte, +0, Vim: Eiael kann einem Ziel den Segen eines Schutzengels verleihen (siehe **Ars Magica** 5. Edition, Seite 43): +5 Absorption und Magieresistenz 15. Dadurch erhält Eiael ein begrenztes Gewahrsein der Gedanken des Ziels.
+*Schutzengel,* 5 Punkte, +0, Vim: Eiael kann einem Ziel den Segen eines Schutzengels verleihen (siehe **Ars Magica** 5. Edition, [Seite 43](<Ars Magica Definitive Edition Basisregeln.md#schutzengel>)): +5 Absorption und Magieresistenz 15. Dadurch erhält Eiael ein begrenztes Gewahrsein der Gedanken des Ziels.
 
 *Heilige Magie*, 1 oder mehr Punkte, +0, je nach Wirkung: Eiael kann jede Wirkung hermetischer oder heiliger Magie nachahmen, zu Kosten von 1 Machtpunkt pro zwei Magnituden der Wirkung. Es gibt keine Grenze — außer seinem verbleibenden Machtvorrat — für die Anzahl der Punkte, die er für eine einzelne Wirkung aufwenden kann. Dies schließt Ritualwirkungen ein, für die er weder Vis noch lange Zeitspannen benötigt.
 
@@ -2404,7 +2404,7 @@ Methoden und Kräfte werden als Übernatürliche Fertigkeiten erlernt und gelehr
 
 Auf der grundlegendsten Ebene sind heilige Traditionen um die göttlichen Fertigkeiten herum organisiert, die bestimmen, wie sie Gott dienen. Diese werden **Bevorzugte Fertigkeiten** genannt — jede Tradition bevorzugt nur wenige Fertigkeiten, gewöhnlich Methoden und Kräfte, obwohl dies manchmal auch andere Übernatürliche Fertigkeiten einschließt. Ihre Kräfte sind nicht notwendigerweise einzigartig, da zwei verschiedene Traditionen im Wesentlichen dieselbe Methode oder Kraft verwenden könnten und sie vielleicht nur mit einem anderen Namen bezeichnen. Die Handlungen, die nötig sind, um eine Methode zu aktivieren, können natürlich von Tradition zu Tradition variieren. Oder es kann sein, dass eine bestimmte Tradition die einzige Quelle einer bestimmten Methode ist — ein Geheimnis, das von ihren Anhängern streng gehütet wird.
 
-So wie Charaktere mit der Gabe magische Übernatürliche Fertigkeiten erlernen können, können Charaktere mit Wahrem Glauben Übernatürliche Fertigkeiten erlernen, die mit der Göttlichen Sphäre verbunden sind. Und wenn sie eine der Bevorzugten Fertigkeiten ihrer Tradition studieren, müssen sie die Summe ihrer Übernatürlichen Fertigkeitswerte nicht von ihrer Fortschrittssumme abziehen (wie in **Ars Magica** 5. Ausgabe, Seite 166 beschrieben). Charaktere können diesen Vorteil jedoch immer nur von einer Tradition erhalten; es gibt keinen regelmechanischen Vorteil darin, nach dem Erlernen der Bevorzugten Fertigkeiten einer Tradition einer zweiten beizutreten. Das heißt, sie können weiterhin neue Übernatürliche Fertigkeiten erlernen, jedoch mit dem Studienabzug.
+So wie Charaktere mit der Gabe magische Übernatürliche Fertigkeiten erlernen können, können Charaktere mit Wahrem Glauben Übernatürliche Fertigkeiten erlernen, die mit der Göttlichen Sphäre verbunden sind. Und wenn sie eine der Bevorzugten Fertigkeiten ihrer Tradition studieren, müssen sie die Summe ihrer Übernatürlichen Fertigkeitswerte nicht von ihrer Fortschrittssumme abziehen (wie in **Ars Magica** 5. Ausgabe, [Seite 166](<Ars Magica Definitive Edition Basisregeln.md#übernatürliche-fertigkeiten-erlernen>) beschrieben). Charaktere können diesen Vorteil jedoch immer nur von einer Tradition erhalten; es gibt keinen regelmechanischen Vorteil darin, nach dem Erlernen der Bevorzugten Fertigkeiten einer Tradition einer zweiten beizutreten. Das heißt, sie können weiterhin neue Übernatürliche Fertigkeiten erlernen, jedoch mit dem Studienabzug.
 
 Andere Charaktere können einer Tradition beitreten, doch ohne Wahren Glauben können sie die Bevorzugten Fertigkeiten nicht erlernen. Diese Fertigkeiten sind allerdings auch als Tugenden verfügbar, und dies ist ein weiterer Weg, wie heilige Charaktere Zugang zu ihnen erhalten können. Tugenden werden üblicherweise nur bei der Charaktererschaffung gewählt, doch es ist auch möglich, dass eine heilige Tradition Mitglieder in Übernatürliche Fertigkeiten einweiht, ähnlich einem Mysterienkult. Regeln, die für diesen Prozess angepasst werden können, werden in einem späteren Ergänzungsband beschrieben, *Die Mysterien (Überarbeitet)*.
 
@@ -2882,7 +2882,7 @@ Transzendenz bewirkt geistliche Veränderungen an Geist und Körper, und diese V
 
 **R:** Pers, **D:** Konz, **T:** Ind
 
-Solange du dich konzentrierst, kannst du nicht Ziel übernatürlicher Wirkungen werden, die unter der Stufe dieses Wunders liegen. Zauber, die dich direkt betreffen würden, bewirken einfach nichts, als wären sie auf ein Ziel gewirkt worden, das nicht vorhanden ist. Dies ist keine Magieresistenz; ein magisch erschaffener Stein, der auf dich geworfen wird, kann dich trotzdem treffen. Sobald deine Feinde erkennen, wie du geschützt bist, können sie beginnen, ihre Zauber und Kräfte zu zielen (**Ars Magica** 5. Ausgabe, Seite 86), was diesen Schutz leicht überwindet.
+Solange du dich konzentrierst, kannst du nicht Ziel übernatürlicher Wirkungen werden, die unter der Stufe dieses Wunders liegen. Zauber, die dich direkt betreffen würden, bewirken einfach nichts, als wären sie auf ein Ziel gewirkt worden, das nicht vorhanden ist. Dies ist keine Magieresistenz; ein magisch erschaffener Stein, der auf dich geworfen wird, kann dich trotzdem treffen. Sobald deine Feinde erkennen, wie du geschützt bist, können sie beginnen, ihre Zauber und Kräfte zu zielen (**Ars Magica** 5. Ausgabe, [Seite 86](<Ars Magica Definitive Edition Basisregeln.md#zielen>)), was diesen Schutz leicht überwindet.
 
 (Basiswirkung, +1 Konz)
 
@@ -3072,7 +3072,7 @@ Es ist bekannt, dass hermetische Magi Wahren Glauben besessen haben, wobei der H
 
 ### Die Tugend Wahrer Glaube wählen
 
-Jeder **Ars Magica**-Charakter kann Wahren Glauben besitzen, indem er ihn bei der Charaktererschaffung wählt, obwohl ein solcher Charakter außerordentlich selten sein sollte (gewiss seltener als Charaktere mit der Gabe). Aufgrund der neuen und veränderten Mechaniken in diesem Buch ändert dieser Abschnitt die Darstellung des Wahren Glaubens in **Ars Magica** Fünfte Edition, auf Seite 189.
+Jeder **Ars Magica**-Charakter kann Wahren Glauben besitzen, indem er ihn bei der Charaktererschaffung wählt, obwohl ein solcher Charakter außerordentlich selten sein sollte (gewiss seltener als Charaktere mit der Gabe). Aufgrund der neuen und veränderten Mechaniken in diesem Buch ändert dieser Abschnitt die Darstellung des Wahren Glaubens in **Ars Magica** Fünfte Edition, auf [Seite 189](<Ars Magica Definitive Edition Basisregeln.md#wahrer-glaube-1>).
 
 Wahrer Glaube hat, wie Selbstvertrauen, einen Wert und Punkte. Die Wahl der Großen Tugend Wahrer Glaube verleiht dir einen Wahrer-Glauben-Wert von 1 und einen einzelnen Glaubenspunkt. Nur durch den Besitz der Großen Tugend Wahrer Glaube kann ein Charakter einen Wahrer-Glauben-Wert haben. Jeder Charakter kann eine beliebige Anzahl von Glaubenspunkten besitzen (die durch die Sakramente, eine Pilgerreise oder andere heilige Bestrebungen gewonnen werden) – einmal ausgegeben, kehren sie nicht zurück.
 
@@ -3284,7 +3284,7 @@ Diese Hingabe an das Göttliche manifestiert sich als heiliges Licht, das den Wa
 **DEVOTION: WAHRER GLAUBE 2**  
 Devotion ist eine eingegossene Eigenschaft, durch die die Seele die Vollkommenheit und Wahrheit des göttlichen Glanzes wahrnimmt.
 
-Wenn ein Charakter einen Wahrer-Glauben-Wert von 2 hat, erhält er die Kleine Tugend Vorahnungen (**Ars Magica** 5. Edition, Seite 47). Darüber hinaus kann der Charakter jede übernatürliche (magische und infernale) Illusion oder jeden Feenglamour auflösen, ungeachtet der Stufe, indem er einen Glaubenspunkt ausgibt.
+Wenn ein Charakter einen Wahrer-Glauben-Wert von 2 hat, erhält er die Kleine Tugend Vorahnungen (**Ars Magica** 5. Edition, [Seite 47](<Ars Magica Definitive Edition Basisregeln.md#vorahnungen>)). Darüber hinaus kann der Charakter jede übernatürliche (magische und infernale) Illusion oder jeden Feenglamour auflösen, ungeachtet der Stufe, indem er einen Glaubenspunkt ausgibt.
 
 **HOFFNUNG: WAHRER GLAUBE 3**  
 Hoffnung ist das unerschütterliche Vertrauen in die göttliche Vorsehung. Sie ist eine Stärkung durch Gott, nicht nur unmittelbar, sondern auch durch die natürlichen Werke göttlicher Handlungskraft, die letztlich zum Heil führt.
@@ -3302,7 +3302,7 @@ Wenn ein Charakter einen Wahrer-Glauben-Wert von 5 erlangt, strahlt er eine grei
 
 Göttliche Verzerrung ist – wie alle göttlichen Dinge – lebensverändernd und tiefgreifend. Visionen, Zungenreden, Stigmata, lebhafte Träume und Engelsbotschaften sind häufige Symptome Göttlicher Verzerrung. Wenn die Verzerrung schwerer und ausgeprägter wird, können gewöhnliche Charaktere jedoch dramatische Verwandlungen durchlaufen, sowohl physisch als auch geistlich, und das erschreckende Erscheinungsbild von Engeln oder eifernde und extreme Persönlichkeitseigenschaften annehmen.
 
-Da das Dominium die Aura ist, mit der die Mehrheit der Bewohner des Mythischen Europas am ehesten in Kontakt kommt, ist es die häufigste Quelle mystischer Verzerrung (siehe „Verzerrung", **Ars Magica** 5. Edition, Seite 167).
+Da das Dominium die Aura ist, mit der die Mehrheit der Bewohner des Mythischen Europas am ehesten in Kontakt kommt, ist es die häufigste Quelle mystischer Verzerrung (siehe „Verzerrung", **Ars Magica** 5. Edition, [Seite 167](<Ars Magica Definitive Edition Basisregeln.md#verzerrung-2>)).
 
 Einzigartig für die heiligen mystischen Traditionen ist eine himmlische Form der Verzerrung, die unter heiligen Magiern als **Göttlicher Aufstieg** bekannt ist, erstmals im vierten Jahrhundert von Dionysius dem Areopagiten kodifiziert, einem platonischen christlichen Mystiker. Nur jene, die die heiligen Künste praktizieren, erfahren den Göttlichen Aufstieg. Jenen, die ihn erfahren, wird nachgesagt, zugleich verflucht und gesegnet zu sein.
 
@@ -3344,7 +3344,7 @@ Heilige Charaktere (das heißt Charaktere aus einer heiligen Tradition oder die 
 
 Die meisten heiligen Charaktere verehren den Göttlichen Aufstieg und suchen ihn aktiv, insbesondere Sufi-Mystiker und jüdische Kabbalisten, in der Überzeugung, er sei ein vorübergehender Flug zum Himmel. Jene, die ihn erfahren, erlangen einzigartige Einsichten in die Natur der Göttlichen Sphäre und können sogar heilige Vorteile erlangen. Anders als bei hermetischer Magie gibt es keinen „Endgültigen" Aufstieg. Vielmehr werden heilige Charaktere immer stärker verzerrt, bis sie an Altersschwäche sterben.
 
-Charaktere, die sowohl hermetische Künste (oder Heckenzauberei) *als auch* Wundersame Fertigkeiten besitzen (wie Reinheit oder Heilige Magie) erleiden nur eine Form einzigartiger Verzerrung in ihrem Leben, die zwischen Spielleiter und Spieler ausgehandelt wird, je nachdem, welche Form am angemessensten ist. Charaktere, die *nur* Wahren Glauben oder eine göttliche Tugend besitzen, erfahren lediglich „gewöhnliche" Verzerrung gemäß **Ars Magica** 5. Edition, Seite 167. Hermetische Magi mit Wahrem Glauben erfahren Zwielicht.
+Charaktere, die sowohl hermetische Künste (oder Heckenzauberei) *als auch* Wundersame Fertigkeiten besitzen (wie Reinheit oder Heilige Magie) erleiden nur eine Form einzigartiger Verzerrung in ihrem Leben, die zwischen Spielleiter und Spieler ausgehandelt wird, je nachdem, welche Form am angemessensten ist. Charaktere, die *nur* Wahren Glauben oder eine göttliche Tugend besitzen, erfahren lediglich „gewöhnliche" Verzerrung gemäß **Ars Magica** 5. Edition, [Seite 167](<Ars Magica Definitive Edition Basisregeln.md#verzerrung-2>). Hermetische Magi mit Wahrem Glauben erfahren Zwielicht.
 
 ### Aufstieg
 
@@ -4645,7 +4645,7 @@ Die Nerianer besitzen Abschriften mehrerer heiliger Zauber, die ihr Patron erfan
 
 **R:** Berührung, **D:** Sonne, **Z:** Kreis, Ritual
 
-Dieser heilige Ritus erzeugt eine schwache Regio der Stufe 1 mit einer einzelnen irdischen Schicht um den heiligen Charakter, der ihn vollführt, und verbirgt ihn so vor der weltlichen Welt. Er „hebt" das vom Kreis umschriebene Gebiet für die Dauer des Zaubers aus der weltlichen Sphäre heraus. Auf das Gebiet innerhalb des Kreises kann nur nach den Regeln für Regiones (**Ars Magica** 5th Edition, S. 189–190) zugegriffen werden, obwohl der Charakter, der diese Kraft einsetzt, nach Belieben ein- und austreten darf. In der weltlichen Sphäre ist nur der eingeritzte Kreis
+Dieser heilige Ritus erzeugt eine schwache Regio der Stufe 1 mit einer einzelnen irdischen Schicht um den heiligen Charakter, der ihn vollführt, und verbirgt ihn so vor der weltlichen Welt. Er „hebt" das vom Kreis umschriebene Gebiet für die Dauer des Zaubers aus der weltlichen Sphäre heraus. Auf das Gebiet innerhalb des Kreises kann nur nach den Regeln für Regiones (**Ars Magica** 5th Edition, [S. 189–190](<Ars Magica Definitive Edition Basisregeln.md#regiones>)) zugegriffen werden, obwohl der Charakter, der diese Kraft einsetzt, nach Belieben ein- und austreten darf. In der weltlichen Sphäre ist nur der eingeritzte Kreis
 
 sichtbar, ansonsten erscheint er leer. Dieser Zauber nutzt Reinheit und Intervention für zeremonielles Zaubern. Legenden berichten davon, dass diese Wirkung während der Diokletianischen Verfolgungen im dritten Jahrhundert eingesetzt wurde, um Christen vor römischen Soldaten zu verbergen, und es heißt, Nerius habe eine mächtigere Variante dieses Zaubers entwickelt, die es ihm erlaubte, durch seine Regio in die empyreische Sphäre zu reisen und an einem anderen Ort auf die Erde zurückzukehren.
 
@@ -4960,7 +4960,7 @@ Mit dem Buch in der Hand ist das Studium der Ars Notoria kompliziert, da es in v
 
 Für unBegabte enthält das Buch magische Gebete und seltsame geometrische Figuren, bestehend aus römischen Ziffern, bizarren Tierköpfen, verzerrten Menschendarstellungen, Darstellungen des Baums des Lebens und mehreren Mustern ineinander verschlungener Kreise und Knoten. Die verschiedenen Passagen preisen Gott, Salomon, die verschiedenen Fähigkeiten eines gebildeten Geistes sowie die freien und die mechanischen Künste. Es erscheint als ein merkwürdiges Brevier, leicht unorthodox, aber kaum häretisch.
 
-Begabte Leser erfassen die wahre Absicht des Buches, indem sie erkennen, dass die verschiedenen Formeln auswendig gelernt und rezitiert werden können. Die Orationen der Ars Notoria sind wesentlich strukturierter als gewöhnliche hermetische Rituale und müssen zu bestimmten Zeiten des Jahres rezitiert werden. Die göttlichen Segnungen der Ars Notoria stehen sowohl hermetisch als auch nicht-hermetisch Begabten zur Verfügung. Der Text der Ars Notoria wird wie ein Traktat mit einer Qualität von 20 behandelt. Dieser hohe Qualitätswert ist auf Apollonius' schriftstellerische Begabung und Gottes göttliche Inspiration zurückzuführen. Für einen unBegabten Leser ist das Thema des Textes Göttliche Kunde. Ein Begabter Leser hingegen kann ihn als das lesen, was er ist – die Geheimnisse Salomons – und er kann versuchen, die Übernatürliche Fertigkeit Ars Notoria zu erlernen, wobei er den regulären Regeln zum Erlernen einer Übernatürlichen Fertigkeit folgt (**Ars Magica** 5th Edition, Seite 166). Bei Erfolg erhält der Leser die übernatürliche Tugend Ars Notoria und einen Ars-Notoria-Wert von 1. Wenn die Studiensumme des Begabten Lesers zu gering ist, um Ars Notoria zu erlernen, ist sein Versuch gescheitert und er hat sein Quartal vergeudet.
+Begabte Leser erfassen die wahre Absicht des Buches, indem sie erkennen, dass die verschiedenen Formeln auswendig gelernt und rezitiert werden können. Die Orationen der Ars Notoria sind wesentlich strukturierter als gewöhnliche hermetische Rituale und müssen zu bestimmten Zeiten des Jahres rezitiert werden. Die göttlichen Segnungen der Ars Notoria stehen sowohl hermetisch als auch nicht-hermetisch Begabten zur Verfügung. Der Text der Ars Notoria wird wie ein Traktat mit einer Qualität von 20 behandelt. Dieser hohe Qualitätswert ist auf Apollonius' schriftstellerische Begabung und Gottes göttliche Inspiration zurückzuführen. Für einen unBegabten Leser ist das Thema des Textes Göttliche Kunde. Ein Begabter Leser hingegen kann ihn als das lesen, was er ist – die Geheimnisse Salomons – und er kann versuchen, die Übernatürliche Fertigkeit Ars Notoria zu erlernen, wobei er den regulären Regeln zum Erlernen einer Übernatürlichen Fertigkeit folgt (**Ars Magica** 5th Edition, [Seite 166](<Ars Magica Definitive Edition Basisregeln.md#übernatürliche-fertigkeiten-erlernen>)). Bei Erfolg erhält der Leser die übernatürliche Tugend Ars Notoria und einen Ars-Notoria-Wert von 1. Wenn die Studiensumme des Begabten Lesers zu gering ist, um Ars Notoria zu erlernen, ist sein Versuch gescheitert und er hat sein Quartal vergeudet.
 
 Der einzige Weg, Ars Notoria anfänglich zu erlernen, führt über ein Exemplar dieses Textes. Das macht es für fortgeschrittene hermetische Magi schwierig, Ars Notoria zu erlernen. Magi, die die Ars Notoria erlernen möchten, treffen diese Entscheidung oft früh in ihrer Laufbahn. Einige wenige Glückliche studieren den Text während ihrer Lehrzeit, obwohl das selten vorkommt. In den meisten Sagas wird der typische Anwender der Ars Notoria ein Begabter Akademiker oder Kleriker sein, der seine Karriere trotz der sozialen Probleme seiner Gabe irgendwie gemeistert hat.
 
@@ -5030,7 +5030,7 @@ Beispielsweise hast du vielleicht bereits 15 Erfahrungspunkte in der Fertigkeit 
 
 Dies ist die erste Stufe der Ars Notoria. Diese Oration muss im Frühlings- oder Herbstquartal durchgeführt werden. Der erste Ring verleiht dem Empfänger vollständiges Wissen der philosophischen Kunst und macht ihn zu einem Experten in den aristotelischen Wissenschaften. Er gewährt außerdem eine wundersame Gabe der Beredsamkeit und Rhetorik, die notwendig ist, um das neue Wissen des Empfängers zu teilen.
 
-Eine erfolgreiche Rezitation dieser Oration gibt dir 100 Erfahrungspunkte in der Akademischen Fertigkeit: Philosophiae. Sie erhöht außerdem deine Kommunikation um 3 Punkte, bis zu einem Höchstwert von +5. Diese 3 Punkte werden direkt zu deiner Kommunikation addiert, wie bei Creo-Mentem-Zaubern, und werden nicht wie Punkte verwendet, die zum Kauf anfänglicher Eigenschaften ausgegeben werden (**Ars Magica** 5th Edition, Seite 30).
+Eine erfolgreiche Rezitation dieser Oration gibt dir 100 Erfahrungspunkte in der Akademischen Fertigkeit: Philosophiae. Sie erhöht außerdem deine Kommunikation um 3 Punkte, bis zu einem Höchstwert von +5. Diese 3 Punkte werden direkt zu deiner Kommunikation addiert, wie bei Creo-Mentem-Zaubern, und werden nicht wie Punkte verwendet, die zum Kauf anfänglicher Eigenschaften ausgegeben werden (**Ars Magica** 5th Edition, [Seite 30](<Ars Magica Definitive Edition Basisregeln.md#eigenschaften-1>)).
 
 #### DER ZWEITE RING SALOMONS
 
@@ -5052,7 +5052,7 @@ Die gewählte Krankheit bleibt während der gesamten Dauer dieses Rings gleich. 
 
 Der vierte Ring der Ars Notoria bereitet den Empfänger auf die größeren Mysterien vor, die enthüllt werden, indem er seinen Engelführer vorstellt. Der Erzengel Michael übermittelte ursprünglich die Geheimnisse von Gottes göttlicher Kunst an Salomon. Die Rezitation dieses Rings ruft einen niederen Engel als Führer und Vertrauten herbei.
 
-Eine erfolgreiche Rezitation des vierten Rings verleiht dir die Große Allgemeine Tugend: Schutzengel. Dieser Engel besitzt alle Kräfte eines Schutzengels (**Ars Magica** 5th Edition, Seite 43). Er ist außerdem ein ausgezeichneter Lehrer mit den folgenden Werten: Kommunikation +3, Artes Liberales 7, Zivil- und Kanonisches Recht 7, Medizin 7, Philosophiae 7, Unterrichten 7 und Theologie 7. Der Engel ist bereit, dir die Akademischen Fertigkeiten zu lehren, die er kennt. Er wird niemand anderen unterrichten. Abhängig von der Dauer der Wirkung dieses Rings könntest du für einige Zeit über einen ausgezeichneten Lehrer verfügen.
+Eine erfolgreiche Rezitation des vierten Rings verleiht dir die Große Allgemeine Tugend: Schutzengel. Dieser Engel besitzt alle Kräfte eines Schutzengels (**Ars Magica** 5th Edition, [Seite 43](<Ars Magica Definitive Edition Basisregeln.md#schutzengel>)). Er ist außerdem ein ausgezeichneter Lehrer mit den folgenden Werten: Kommunikation +3, Artes Liberales 7, Zivil- und Kanonisches Recht 7, Medizin 7, Philosophiae 7, Unterrichten 7 und Theologie 7. Der Engel ist bereit, dir die Akademischen Fertigkeiten zu lehren, die er kennt. Er wird niemand anderen unterrichten. Abhängig von der Dauer der Wirkung dieses Rings könntest du für einige Zeit über einen ausgezeichneten Lehrer verfügen.
 
 Der herbeigerufene Engel ist dein persönlicher Engel. Einmal herbeigerufen, ist er für immer geistlich mit dir verbunden, auch nachdem er dich verlässt, wenn die Dauer des Rings endet. Jedes Mal, wenn dieser Ring angerufen wird, erscheint derselbe Engel. Er kennt dich und deine Vergangenheit und Taten. Wenn er jemals glaubt, dass du gottlos handelst oder bewusst gegen Gottes Willen verstößt, wird er verschwinden und die Dauer des vierten Rings vorzeitig beenden. Er kann auch die Wirkungen der anderen Ringe der Ars Notoria aufheben und wird dies tun, um dich auf den Pfad der Rechtschaffenheit zurückzuführen.
 
@@ -5862,7 +5862,7 @@ Dieses heilige Ritual erfordert ein Quartal der Vorbereitung zum Wirken, und wen
 
 Dies sind die Anweisungen zur Zubereitung des Elixiers des ewigen Lebens, jenes Mittels, das unsere Körper aus den Elementen, in die sie aufgelöst wurden, erhebt und sie mit unseren Seelen vereint, wie es uns von Saoshyant, dem Erlöser, dem Samen Zarathustras, überliefert wurde.
 
-Du musst dich zunächst durch eine schreckliche Prüfung auf die Erlösung vorbereiten. Geschmolzenes Metall (gewöhnlich Blei) wird über deinen gesamten Körper gegossen, was du drei Tage lang ertragen musst (siehe Verletzungen, Hitze und Korrosion in **Ars Magica** 5th Edition, Seite 181). Das wogende Metall entfernt jeden Makel von deiner Seele und läutert dein Fleisch, verursacht dir aber auch schreckliche Schmerzen und Verletzungen, obwohl es sich wie ein Bad in warmer Milch anfühlen soll, wenn du völlig frei von Sünde bist. Etwas von dem Metall wird wahrscheinlich an deinem Körper haften bleiben, und wenn du überlebst, musst du diese entstellenden Flecken, die wie Tätowierungen in deine Haut eingepfropft sind, für den Rest deiner Tage tragen, da ein erneutes Entfernen dich dem Bösen aussetzt und die Wirkung des Rituals zunichtemacht.
+Du musst dich zunächst durch eine schreckliche Prüfung auf die Erlösung vorbereiten. Geschmolzenes Metall (gewöhnlich Blei) wird über deinen gesamten Körper gegossen, was du drei Tage lang ertragen musst (siehe Verletzungen, Hitze und Korrosion in **Ars Magica** 5th Edition, [Seite 181](<Ars Magica Definitive Edition Basisregeln.md#hitze-und-ätzung>)). Das wogende Metall entfernt jeden Makel von deiner Seele und läutert dein Fleisch, verursacht dir aber auch schreckliche Schmerzen und Verletzungen, obwohl es sich wie ein Bad in warmer Milch anfühlen soll, wenn du völlig frei von Sünde bist. Etwas von dem Metall wird wahrscheinlich an deinem Körper haften bleiben, und wenn du überlebst, musst du diese entstellenden Flecken, die wie Tätowierungen in deine Haut eingepfropft sind, für den Rest deiner Tage tragen, da ein erneutes Entfernen dich dem Bösen aussetzt und die Wirkung des Rituals zunichtemacht.
 
 Wenn du vom Bösen gereinigt bist, musst du ein heiliges Tier opfern, gewöhnlich einen Stier mit Göttlicher Macht. Dies liefert das für den Spruch notwendige Vis, und aus seinem Fett kann Saoshyants Elixier destilliert werden. Trinke es, und solange du den Zoroastrismus streng befolgst, musst du keine Alterungswürfe ablegen und kannst nicht sterben. Stattdessen erhältst du jedes Jahr einen Verzerrungspunkt, einen weiteren, wann immer du auf andere Weise Alterungs- oder Gebrechlichkeitspunkte erhältst, und einen weiteren, wenn du an deinen Wunden oder durch einen tödlichen Schlag sterben würdest. Tödliche Wunden machen dich stattdessen kampfunfähig. Zoroastrier glauben, dass diejenigen, die nach dem Trinken des Elixiers ins Endgültige Zwielicht eingehen, sich *Ahura Mazda* im Paradies anschließen werden.
 
@@ -6777,7 +6777,7 @@ Die Gestalt des Raw Hamnuna Sawa erscheint im *Talmud* als Weiser oder Gelehrter
 
 Der Böse Blick, eine Manifestation von Böswilligkeit und Eifersucht, die jedem schadet, der unter seinen Blick fällt, ist eine beständige Furcht für gewöhnliche jüdische Menschen. Die Auswirkungen sind zumeist gering und lästig, doch in extremen Fällen kann der Böse Blick Krankheit und Tod verursachen. In Wahrheit werden die Taten von zahllosen Dämonen verübt, die auf verirrte Gedanken reagieren. Manche handeln auf Blicke hin, andere lauschen auf unbedachte Worte, wieder andere hören stumme Verwünschungen, wenn sie unbewachte Gedanken durchstreifen. Doch es gibt einige einfache Maßnahmen, die ergriffen werden können. Tür- und Fensterrahmen werden oft blau gestrichen, um den Bösen Blick abzuwehren, und Amulette und Phylakterien erzielen denselben Effekt. Die Dämonen hinter dem Bösen Blick empfinden diese Dinge als feindlich, und sie reichen gewöhnlich aus, um sich gegen sie zu verteidigen. Jeder magische oder nicht-magische Talisman, der ausdrücklich von einem Ba'al Schem angefertigt wurde, genügt, um den Bösen Blick abzuwehren.
 
-Es gibt auch eine Art von Feen, die den Bösen Blick nachahmen, und die meisten beachten dieselben Volksschutzmittel, die gegen Dämonen wirken, dargestellt durch den Fehler Traditionsgebundene Schwäche (*Sphären der Macht: Feenwelt*, Seite 52). Tatsächlich sind Magi jüdischer Abstammung oft von ähnlichen Schutzmitteln betroffen, dargestellt durch den Kleinen Fehler Anfällig für Volkszauber (siehe den nebenstehenden Kasten oder *Häuser des Hermes: Societates*, Seite 107).
+Es gibt auch eine Art von Feen, die den Bösen Blick nachahmen, und die meisten beachten dieselben Volksschutzmittel, die gegen Dämonen wirken, dargestellt durch den Fehler Traditionsgebundene Schwäche (*Sphären der Macht: Feenwelt*, Seite 52). Tatsächlich sind Magi jüdischer Abstammung oft von ähnlichen Schutzmitteln betroffen, dargestellt durch den Kleinen Fehler Anfällig für Volkszauber (siehe den nebenstehenden Kasten oder *Häuser des Hermes: Societates*, [Seite 107](<Ars Magica 5e - Häuser des Hermes - Societates.md#malocchi>)).
 
 > *Abenteueridee:* Eine mächtige Feenpräsenz verwandelt das jüdische Viertel in die mythische Stadt Chelm, wo alles Unsinn ist und die Vernunft auf den Kopf gestellt wird. Die Gemeinde erwacht und findet die gepflasterten Straßen aufgebrochen, damit die Karren nicht auf dem Pflaster klappern, den Gemeinschaftsofen zerstört, seine Stücke über die Stadt verteilt, damit jeder seinen Anteil haben kann, und jeden Rabbi in einen tiefen Schlaf versetzt, damit sie nicht die Mizwot übertreten können, vor denen sie ständig warnen. Die Gemeinde muss die verantwortlichen Feen finden und sie in einem Spiel absurder Logik überlisten, um sie zum Weiterziehen zu zwingen und so ihre Heimat wieder in den Normalzustand zurückzuversetzen.
 
@@ -6807,7 +6807,7 @@ Im Falle jüdischer Magi werden Ziele geschützt, indem sie einen Talisman berü
 >
 >Die Stadt Lus kann nur durch eine Öffnung in einem Mandelbaum erreicht werden, der sich irgendwo im Heiligen Land befindet. Es heißt, Salomon habe durch Gespräche mit Vögeln, die über die Stadt geflogen waren, von ihrem Standort gewusst. Göttliche Visionen des Baumes können von den Frommen herbeigerufen werden, Visionen, die als Weg zur Stadt dienen. Es bedarf eines Reinheit- (oder Merkava-) + Interventions-Wundereffekts der Basis 35, um einen Weg zu den Stadttoren herbeizurufen, und dies erfordert zunächst eine heilige Verbindung zur Stadt oder zum Baum.
 >
->Charaktere, die eine oder mehrere kampfunfähig machende Wunden erleiden und in die Stadt Lus gebracht werden, machen Genesungswürfe wie üblich (**ArM5**, Seite 179), aber jeder Wurf von 0 oder weniger bringt einen Alterungspunkt in einer beliebigen physischen Eigenschaft ein.
+>Charaktere, die eine oder mehrere kampfunfähig machende Wunden erleiden und in die Stadt Lus gebracht werden, machen Genesungswürfe wie üblich (**ArM5**, [Seite 179](<Ars Magica Definitive Edition Basisregeln.md#regiones-betreten-und-verlassen>)), aber jeder Wurf von 0 oder weniger bringt einen Alterungspunkt in einer beliebigen physischen Eigenschaft ein.
 >
 >Die Stadtmauern existieren innerhalb einer Regio der Stufe 3, die durch den Mandelbaum zugänglich ist. Jene, die die eigentliche Stadt betreten, betreten eine Regio der Stufe 7, und hier sind sie dem Zugriff des Todes entzogen. Jene in der Stadt können jederzeit gehen, doch wenn der Charakter länger als ein Jahr in der Stadt verbracht hat, erzwingt das Verlassen einen sofortigen Alterungswurf unter Verwendung des wahren Alters des Charakters und eines Malus von -1 für je fünf Jahre des Aufenthalts.
 
@@ -7133,7 +7133,7 @@ Die Fertigkeit Traumdeutung hat zwei Verwendungszwecke. Der erste ist eine Form 
 
 Der zweite Verwendungszweck ist eine Form der direkten Weissagung. In diesem Fall deutet er seine eigenen Träume oder die Träume anderer, um Antworten auf gestellte Fragen zu finden. Der Träumende muss vorbereitet sein, wie bei der normalen Verwendung der Fertigkeit Traumdeutung, und verbringt beim Erwachen erneut (6 − Traumdeutung, mindestens 1) Stunden damit, die Bilder zu betrachten. Dann darf er einen Intelligenz + Traumdeutung-Wurf ablegen. Charaktere mit der Fertigkeit Vorahnungen erhalten einen Bonus in Höhe ihres Vorahnungen-Werts.
 
-Der Schwierigkeitsgrad entspricht der Stufe des gleichwertigen momentanen, nicht-rituellen hermetischen Intellego-Zaubers. Eine Arkane Verbindung zum Ziel wird als Reichweite Berührung behandelt, und das Ziel Grenze erfordert kein Ritual. Die üblichen Regeln für Penetration in **ArM5**, Seite 184, gelten für diese Fertigkeit.
+Der Schwierigkeitsgrad entspricht der Stufe des gleichwertigen momentanen, nicht-rituellen hermetischen Intellego-Zaubers. Eine Arkane Verbindung zum Ziel wird als Reichweite Berührung behandelt, und das Ziel Grenze erfordert kein Ritual. Die üblichen Regeln für Penetration in **ArM5**, [Seite 184](<Ars Magica Definitive Edition Basisregeln.md#magieresistenz-und-penetration>), gelten für diese Fertigkeit.
 
 Die meisten, die die Fertigkeit Traumdeutung besitzen, haben bestimmte Rituale, von denen sie glauben, dass diese ihnen zu Erkenntnissen verhelfen. Manche fasten vor dem Schlafen, manche tragen rituelle Kleidung im Schlaf, während andere auf Friedhöfen schlafen, um die Hilfe von Geistern zu erlangen.
 
@@ -7551,7 +7551,7 @@ Am Ende des Quartals erzeugt der Kabbalist eine Golem-Ermächtigungssumme auf de
 
 Die Golem-Ermächtigungssumme muss die Zielstufe der Kraft übersteigen. Für jeden Punkt, um den die Summe diese Stufe in jedem Quartal übersteigt, wird ein Punkt angesammelt. Sobald eine Anzahl von Punkten gleich der Zielstufe angesammelt wurde, erwirbt der Golem die Kraft und kann sie einsetzen. Ein Golem kann eine Anzahl von Magnitudes an Kräften haben, die seinem Göttlichen Machtwert entspricht.
 
-Die Verwendung einer Kraft kostet eine Anzahl von Göttlichen Machtpunkten gleich der Magnitude der Kraft und hat eine Initiative gleich der Schnelligkeit des Golems. Die Penetration dieser Kräfte wird wie in **ArM5**, Seite 191, beschrieben berechnet, und der Machtvorrat des Golems regeneriert sich zu Beginn jedes neuen Tages, der in der jüdischen Tradition bei Sonnenuntergang beginnt.
+Die Verwendung einer Kraft kostet eine Anzahl von Göttlichen Machtpunkten gleich der Magnitude der Kraft und hat eine Initiative gleich der Schnelligkeit des Golems. Die Penetration dieser Kräfte wird wie in **ArM5**, [Seite 191](<Ars Magica Definitive Edition Basisregeln.md#kräfte-der-kreatur>), beschrieben berechnet, und der Machtvorrat des Golems regeneriert sich zu Beginn jedes neuen Tages, der in der jüdischen Tradition bei Sonnenuntergang beginnt.
 
 #### KRÄFTE DES GOLEMS VERÄNDERN
 
