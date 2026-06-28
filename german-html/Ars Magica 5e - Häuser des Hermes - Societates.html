@@ -187,6 +187,20 @@ body.search-open #search-field {
 
 #sidebar li { margin: 0; }
 
+#sidebar li.has-children {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+#sidebar li.has-children > ul {
+  width: 100%;
+}
+
+#sidebar li.has-children > a {
+  padding-left: 2px;
+}
+
 #sidebar li a {
   display: block;
   padding: 4px 16px;
@@ -194,6 +208,8 @@ body.search-open #search-field {
   text-decoration: none;
   border-left: 3px solid transparent;
   transition: background 0.15s;
+  flex: 1;
+  min-width: 0;
 }
 
 #sidebar li a:hover {
@@ -208,17 +224,25 @@ body.search-open #search-field {
 
 .nav-level-1 > li > a { font-weight: 700; font-size: 0.95rem; padding: 8px 16px; }
 
-#sidebar li.has-children > a::before {
-  content: '\25b6';
-  display: inline-block;
-  width: 1em;
-  font-size: 0.6em;
+.nav-toggle-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  align-self: stretch;
+  font-size: 0.55em;
+  cursor: pointer;
   transition: transform 0.2s;
-  margin-right: 4px;
-  vertical-align: middle;
+  flex-shrink: 0;
+  order: -1;
+  border-radius: 3px;
 }
 
-#sidebar li.has-children.expanded > a::before {
+.nav-toggle-arrow:hover {
+  background: rgba(0,0,0,0.08);
+}
+
+#sidebar li.has-children.expanded > .nav-toggle-arrow {
   transform: rotate(90deg);
 }
 
@@ -519,10 +543,14 @@ body.search-open #search-field {
   }
   #sidebar.open {
     transform: translateX(0);
-    box-shadow: 4px 0 20px rgba(0,0,0,0.15);
   }
   #main-content, #page-footer {
     margin-left: 0;
+    transition: margin-left 0.25s;
+  }
+  body.nav-open #main-content,
+  body.nav-open #page-footer {
+    margin-left: var(--nav-width);
   }
   #nav-toggle { display: block; }
   #nav-resize, #search-resize { display: none !important; }
@@ -561,25 +589,25 @@ body.search-open #search-field {
   </li>
     <li><a href="#mitwirkende">Mitwirkende</a>
   </li>
-    <li class="has-children"><a href="#einführung-societates">Einführung: Societates</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#einführung-societates">Einführung: Societates</a>
   <ul class="nav-level-2 collapsed">
     <li><a href="#über-die-autoren">Über die Autoren</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kapitel-eins-haus-flambeau">Kapitel Eins: Haus Flambeau</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kapitel-eins-haus-flambeau">Kapitel Eins: Haus Flambeau</a>
   <ul class="nav-level-2 collapsed">
     <li><a href="#eckdaten">Eckdaten</a>
   </li>
     <li><a href="#geschichte">Geschichte</a>
   </li>
-    <li class="has-children"><a href="#berühmte-gestalten">Berühmte Gestalten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#berühmte-gestalten">Berühmte Gestalten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#flambeau-und-der-frühe-orden">Flambeau und der frühe Orden</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#beitritt-oder-tod">Beitritt oder Tod</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#beitritt-oder-tod">Beitritt oder Tod</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#die-kontroverse-um-den-krieg-der-zauberer">Die Kontroverse um den Krieg der Zauberer</a>
   </li>
@@ -587,13 +615,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#elaines-schriften">Elaines Schriften</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#elaines-schriften">Elaines Schriften</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#das-ende-des-gründers">Das Ende des Gründers</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#der-verlorene-talisman-des-gründers">Der Verlorene Talisman des Gründers</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#der-verlorene-talisman-des-gründers">Der Verlorene Talisman des Gründers</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#das-haus-unter-apromor">Das Haus unter Apromor</a>
   </li>
@@ -605,7 +633,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#haus-flambeau-im-jahr-1220">Haus Flambeau im Jahr 1220</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#haus-flambeau-im-jahr-1220">Haus Flambeau im Jahr 1220</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#hauskultur">Hauskultur</a>
   </li>
@@ -617,7 +645,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#das-horn-der-streiter">Das Horn der Streiter</a>
   </li>
-    <li class="has-children"><a href="#die-grogs-von-castra-solis">Die Grogs von Castra Solis</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-grogs-von-castra-solis">Die Grogs von Castra Solis</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#beitritt-zum-haus-flambeau">Beitritt zum Haus Flambeau</a>
   </li>
@@ -627,7 +655,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#der-kodex-des-garus">Der Kodex des Garus</a>
   </li>
-    <li class="has-children"><a href="#werte-der-milites">Werte der Milites</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#werte-der-milites">Werte der Milites</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#societas-flambonis-der-kult-des-merkur">Societas Flambonis: Der Kult des Merkur</a>
   </li>
@@ -635,7 +663,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#die-antiken-merkurier">Die antiken Merkurier</a>
   </li>
-    <li class="has-children"><a href="#merkurische-charaktere">Merkurische Charaktere</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#merkurische-charaktere">Merkurische Charaktere</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#societas-flambonis-die-mithräer">Societas Flambonis: Die Mithräer</a>
   </li>
@@ -643,13 +671,13 @@ body.search-open #search-field {
   </li>
     <li><a href="#mithräische-charaktere">Mithräische Charaktere</a>
   </li>
-    <li class="has-children"><a href="#der-kult-des-mithras">Der Kult des Mithras</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#der-kult-des-mithras">Der Kult des Mithras</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#flambeau-konzepte">Flambeau-Konzepte</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#flambeau-turniere">Flambeau-Turniere</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#flambeau-turniere">Flambeau-Turniere</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#certamen">Certamen</a>
   </li>
@@ -659,13 +687,13 @@ body.search-open #search-field {
   </li>
     <li><a href="#dimicatio">Dimicatio</a>
   </li>
-    <li class="has-children"><a href="#die-dimicatio-im-detail">Die Dimicatio im Detail</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-dimicatio-im-detail">Die Dimicatio im Detail</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#buhurt-der-magier">Buhurt der Magier</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#turnierpreise">Turnierpreise</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#turnierpreise">Turnierpreise</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#besondere-herausforderungen">Besondere Herausforderungen</a>
   </li>
@@ -673,13 +701,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#krieg-der-zauberer">Krieg der Zauberer</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#krieg-der-zauberer">Krieg der Zauberer</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#der-krieg-der-zauberer-und-der-orden">Der Krieg der Zauberer und der Orden</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kriegserklärung">Kriegserklärung</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kriegserklärung">Kriegserklärung</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#gründe-den-krieg-der-zauberer-zu-erklären">Gründe, den Krieg der Zauberer zu erklären</a>
   </li>
@@ -689,13 +717,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#schulen-des-magischen-kampfes">Schulen des magischen Kampfes</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#schulen-des-magischen-kampfes">Schulen des magischen Kampfes</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#die-wahl-einer-schule">Die Wahl einer Schule</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#schulen-des-magischen-kampfes-im-überblick">Schulen des magischen Kampfes im Überblick</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#schulen-des-magischen-kampfes-im-überblick">Schulen des magischen Kampfes im Überblick</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#beispielschulen-des-magischen-kampfes">Beispielschulen des magischen Kampfes</a>
   </li>
@@ -709,7 +737,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#indirekte-zauber-aus-arm5">Indirekte Zauber aus ArM5</a>
   </li>
-    <li class="has-children"><a href="#regeln-für-haus-flambeau">Regeln für Haus Flambeau</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#regeln-für-haus-flambeau">Regeln für Haus Flambeau</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#ansehen-im-haus">Ansehen im Haus</a>
   </li>
@@ -721,7 +749,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#auswirkungen-der-unsichtbarkeit">Auswirkungen der Unsichtbarkeit</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#auswirkungen-der-unsichtbarkeit">Auswirkungen der Unsichtbarkeit</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#neue-magieregeln">Neue Magieregeln</a>
   </li>
@@ -735,17 +763,17 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kapitel-zwei-haus-jerbiton">Kapitel Zwei: Haus Jerbiton</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kapitel-zwei-haus-jerbiton">Kapitel Zwei: Haus Jerbiton</a>
   <ul class="nav-level-2 collapsed">
     <li><a href="#die-geschichte-des-hauses-jerbiton">Die Geschichte des Hauses Jerbiton</a>
   </li>
-    <li class="has-children"><a href="#eckdaten-1">Eckdaten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#eckdaten-1">Eckdaten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#flavius-von-jerbiton-der-gründer">Flavius von Jerbiton, der Gründer</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#dies-ist-nur-der-anfang">Dies ist nur der Anfang</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#dies-ist-nur-der-anfang">Dies ist nur der Anfang</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#berühmte-gestalten-1">Berühmte Gestalten</a>
   </li>
@@ -755,7 +783,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#die-tagebücher">Die Tagebücher</a>
   </li>
-    <li class="has-children"><a href="#warum-ist-konstantinopel-so-wichtig">Warum ist Konstantinopel so wichtig?</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#warum-ist-konstantinopel-so-wichtig">Warum ist Konstantinopel so wichtig?</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#das-schicksal-der-welt-war-bekannt-was-emotionale-sicherheit-bot">Das Schicksal der Welt war bekannt, was emotionale Sicherheit bot</a>
   </li>
@@ -769,7 +797,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#emigranten-aus-konstantinopel">Emigranten aus Konstantinopel</a>
   </li>
-    <li class="has-children"><a href="#geschmackvolles-leben">Geschmackvolles Leben</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#geschmackvolles-leben">Geschmackvolles Leben</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#suche-nach-schönheit">Suche nach Schönheit</a>
   </li>
@@ -777,7 +805,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#warum-sind-feenwesen-hässlich">Warum sind Feenwesen hässlich?</a>
   </li>
-    <li class="has-children"><a href="#warum-haben-so-viele-andere-magi-einen-so-schlechten-geschmack">Warum haben so viele andere Magi einen so schlechten Geschmack?</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#warum-haben-so-viele-andere-magi-einen-so-schlechten-geschmack">Warum haben so viele andere Magi einen so schlechten Geschmack?</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#muße">Muße</a>
   </li>
@@ -787,19 +815,19 @@ body.search-open #search-field {
   </li>
     <li><a href="#günstlingswirtschaft">Günstlingswirtschaft</a>
   </li>
-    <li class="has-children"><a href="#familienreputation">Familienreputation</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#familienreputation">Familienreputation</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#reisen">Reisen</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#mappa-mundi">Mappa Mundi</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#mappa-mundi">Mappa Mundi</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#zurschaustellung">Zurschaustellung</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#abenteueridee-paradoxographie">ABENTEUERIDEE: Paradoxographie</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-paradoxographie">ABENTEUERIDEE: Paradoxographie</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#etikette">Etikette</a>
   </li>
@@ -807,7 +835,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#die-großen-festmähler">Die Großen Festmähler</a>
   </li>
-    <li class="has-children"><a href="#die-struktur-die-das-haus-hat">Die Struktur, die das Haus hat</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-struktur-die-das-haus-hat">Die Struktur, die das Haus hat</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#der-primus-1">Der Primus</a>
   </li>
@@ -815,13 +843,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#rätisch">Rätisch</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#rätisch">Rätisch</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#ligamitgliedschaft">Ligamitgliedschaft</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#gestaltungshinweise-für-jerbiton-magi">Gestaltungshinweise für Jerbiton-Magi</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#gestaltungshinweise-für-jerbiton-magi">Gestaltungshinweise für Jerbiton-Magi</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#weniger-intelligente-magi">Weniger intelligente Magi?</a>
   </li>
@@ -839,7 +867,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#stadtmagie">Stadtmagie</a>
   </li>
-    <li class="has-children"><a href="#neue-lacunae-finden">Neue Lacunae finden</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#neue-lacunae-finden">Neue Lacunae finden</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#kleine-effekte-und-hohe-penetrationsboni">Kleine Effekte und hohe Penetrationsboni</a>
   </li>
@@ -849,7 +877,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#anrufung-des-schutzpatrons-der-stadt">Anrufung des Schutzpatrons der Stadt</a>
   </li>
-    <li class="has-children"><a href="#die-erschaffung-schöner-dinge">Die Erschaffung schöner Dinge</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-erschaffung-schöner-dinge">Die Erschaffung schöner Dinge</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#schöne-gegenstände-und-detaillierte-illusionen">Schöne Gegenstände und detaillierte Illusionen</a>
   </li>
@@ -859,7 +887,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#schwierigkeitsgrade-für-das-erschaffen-und-fertigen-von-gegenständen">Schwierigkeitsgrade für das Erschaffen und Fertigen von Gegenständen</a>
   </li>
-    <li class="has-children"><a href="#wahrnehmung-und-täuschung">Wahrnehmung und Täuschung</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#wahrnehmung-und-täuschung">Wahrnehmung und Täuschung</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#species">Species</a>
   </li>
@@ -871,7 +899,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#speciesmagie-beispiel">Speciesmagie-Beispiel</a>
   </li>
-    <li class="has-children"><a href="#zusätzliche-nebensächliche-sinne">Zusätzliche, nebensächliche Sinne</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#zusätzliche-nebensächliche-sinne">Zusätzliche, nebensächliche Sinne</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#mimikry-illusionäre-gegenstände-erschaffen">Mimikry: Illusionäre Gegenstände erschaffen</a>
   </li>
@@ -883,7 +911,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#transparenz-beispiele">Transparenz-Beispiele</a>
   </li>
-    <li class="has-children"><a href="#die-sinnesorgane-treffen">Die Sinnesorgane treffen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-sinnesorgane-treffen">Die Sinnesorgane treffen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#synästhesie-beispiele">Synästhesie-Beispiele</a>
   </li>
@@ -909,17 +937,17 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kapitel-drei-haus-tytalus">Kapitel Drei: Haus Tytalus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kapitel-drei-haus-tytalus">Kapitel Drei: Haus Tytalus</a>
   <ul class="nav-level-2 collapsed">
     <li><a href="#geschichte-1">Geschichte</a>
   </li>
-    <li class="has-children"><a href="#schlüsselfakten">Schlüsselfakten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#schlüsselfakten">Schlüsselfakten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#tytalus-der-zauberer">Tytalus der Zauberer</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#berühmte-persönlichkeiten">Berühmte Persönlichkeiten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#berühmte-persönlichkeiten">Berühmte Persönlichkeiten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#tytalus-der-magus">Tytalus der Magus</a>
   </li>
@@ -929,7 +957,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#tytalus">Tytalus</a>
   </li>
-    <li class="has-children"><a href="#tytalus-und-tremere">Tytalus und Tremere</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#tytalus-und-tremere">Tytalus und Tremere</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#das-haus-nach-tytalus">Das Haus nach Tytalus</a>
   </li>
@@ -937,7 +965,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#die-analekten-des-tytalus">Die Analekten des Tytalus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-analekten-des-tytalus">Die Analekten des Tytalus</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#der-schismakrieg-und-seine-folgen">Der Schismakrieg und seine Folgen</a>
   </li>
@@ -945,13 +973,13 @@ body.search-open #search-field {
   </li>
     <li><a href="#abenteueridee-bürgerkrieg">Abenteueridee: Bürgerkrieg</a>
   </li>
-    <li class="has-children"><a href="#die-philosophie-des-konflikts">Die Philosophie des Konflikts</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-philosophie-des-konflikts">Die Philosophie des Konflikts</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#der-antagonismus-zwischen-physis-und-nomos">Der Antagonismus zwischen Physis und Nomos</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#die-philosophen">Die Philosophen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-philosophen">Die Philosophen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#werkzeuge-des-konflikts">Werkzeuge des Konflikts</a>
   </li>
@@ -963,7 +991,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#tytalische-namen">Tytalische Namen</a>
   </li>
-    <li class="has-children"><a href="#geschichten-rund-um-eristische-versammlungen">Geschichten rund um Eristische Versammlungen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#geschichten-rund-um-eristische-versammlungen">Geschichten rund um Eristische Versammlungen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#lehrzeit">Lehrzeit</a>
   </li>
@@ -973,7 +1001,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#verzicht-auf-das-buch-der-unterweisung">Verzicht auf das Buch der Unterweisung</a>
   </li>
-    <li class="has-children"><a href="#abenteueridee-der-unwillige-könig">Abenteueridee: Der unwillige König</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-der-unwillige-könig">Abenteueridee: Der unwillige König</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#kabalen">Kabalen</a>
   </li>
@@ -983,7 +1011,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#intrige-1">Intrige</a>
   </li>
-    <li class="has-children"><a href="#geschichten-der-intrige">Geschichten der Intrige</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#geschichten-der-intrige">Geschichten der Intrige</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#tytalische-agenturen">Tytalische Agenturen</a>
   </li>
@@ -991,7 +1019,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#abenteuerideen-für-tytalische-agenturen">Abenteuerideen für tytalische Agenturen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteuerideen-für-tytalische-agenturen">Abenteuerideen für tytalische Agenturen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#verkleidungen-und-personae">Verkleidungen und Personae</a>
   </li>
@@ -1005,7 +1033,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#abenteueridee-die-wiedergeborene-identität">Abenteueridee: Die wiedergeborene Identität</a>
   </li>
-    <li class="has-children"><a href="#die-hohe-kunst-der-debatte">Die hohe Kunst der Debatte</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-hohe-kunst-der-debatte">Die hohe Kunst der Debatte</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#meinungsverschiedenheiten-beilegen">Meinungsverschiedenheiten beilegen</a>
   </li>
@@ -1021,7 +1049,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#andere-verwendungen-der-debattenregeln">Andere Verwendungen der Debattenregeln</a>
   </li>
-    <li class="has-children"><a href="#charaktere">Charaktere</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#charaktere">Charaktere</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#neue-tugenden-1">Neue Tugenden</a>
   </li>
@@ -1041,7 +1069,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#magie">Magie</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#magie">Magie</a>
   <ul class="nav-level-2 collapsed">
     <li><a href="#ein-geist-des-zorns-einer-person">Ein Geist des Zorns einer Person</a>
   </li>
@@ -1051,11 +1079,11 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kapitel-vier-haus-ex-miscellanea">Kapitel Vier: Haus Ex Miscellanea</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kapitel-vier-haus-ex-miscellanea">Kapitel Vier: Haus Ex Miscellanea</a>
   <ul class="nav-level-2 collapsed">
     <li><a href="#geschichte-2">Geschichte</a>
   </li>
-    <li class="has-children"><a href="#eckdaten-2">Eckdaten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#eckdaten-2">Eckdaten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#gerüchte-und-geschichten">Gerüchte und Geschichten</a>
   </li>
@@ -1069,13 +1097,13 @@ body.search-open #search-field {
   </li>
     <li><a href="#der-primus-ex-miscellanea">Der Primus Ex Miscellanea</a>
   </li>
-    <li class="has-children"><a href="#abenteueridee-der-kindkönig">Abenteueridee: Der Kindkönig</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-der-kindkönig">Abenteueridee: Der Kindkönig</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#übernatürliche-fertigkeiten">Übernatürliche Fertigkeiten</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#beschleunigte-fertigkeiten">Beschleunigte Fertigkeiten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#beschleunigte-fertigkeiten">Beschleunigte Fertigkeiten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#beispiele-für-übernatürliche-fertigkeiten">Beispiele für Übernatürliche Fertigkeiten</a>
   </li>
@@ -1089,7 +1117,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#bevorzugte-fertigkeiten">Bevorzugte Fertigkeiten</a>
   </li>
-    <li class="has-children"><a href="#mythische-gefährten">Mythische Gefährten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#mythische-gefährten">Mythische Gefährten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#neue-tugend">Neue Tugend</a>
   </li>
@@ -1103,7 +1131,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#columbae">Columbae</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#columbae">Columbae</a>
   <ul class="nav-level-3 collapsed">
   <ul class="nav-level-3 collapsed">
     <li><a href="#eckdaten-3">Eckdaten</a>
@@ -1114,19 +1142,19 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#die-roben-der-staubigen-dämmerung">Die Roben der Staubigen Dämmerung</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-roben-der-staubigen-dämmerung">Die Roben der Staubigen Dämmerung</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#charaktere-2">Charaktere</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#das-schicksal-von-cad-gadu">Das Schicksal von Cad Gadu</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#das-schicksal-von-cad-gadu">Das Schicksal von Cad Gadu</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#schutzkreise-und-penetration">Schutzkreise und Penetration</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#schutzkreismagie-vs.-schutzkreise">Schutzkreismagie vs. Schutzkreise</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#schutzkreismagie-vs.-schutzkreise">Schutzkreismagie vs. Schutzkreise</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#kleine-hermetische-tugend-ringkreis-magie">Kleine Hermetische Tugend: Ring/Kreis-Magie</a>
   </li>
@@ -1136,7 +1164,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#großer-hermetischer-fehler-notwendige-bedingung">Großer Hermetischer Fehler: Notwendige Bedingung</a>
   </li>
-    <li class="has-children"><a href="#die-donatores-requietis-aeternae">Die Donatores Requietis Aeternae</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-donatores-requietis-aeternae">Die Donatores Requietis Aeternae</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#eckdaten-4">Eckdaten</a>
   </li>
@@ -1144,7 +1172,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#taufe">Taufe</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#taufe">Taufe</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#kultur-3">Kultur</a>
   </li>
@@ -1152,13 +1180,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#heilige-visionen">Heilige Visionen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#heilige-visionen">Heilige Visionen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#auf-die-harte-tour">Auf die harte Tour</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#der-kult-des-orpheus">Der Kult des Orpheus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#der-kult-des-orpheus">Der Kult des Orpheus</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#eckdaten-5">Eckdaten</a>
   </li>
@@ -1170,7 +1198,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#die-legende-des-orpheus">Die Legende des Orpheus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-legende-des-orpheus">Die Legende des Orpheus</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#der-pfad-des-orpheus">Der Pfad des Orpheus</a>
   </li>
@@ -1178,7 +1206,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#große-allgemeine-tugend-sanguinischer-segen">Große Allgemeine Tugend, Sanguinischer Segen</a>
   </li>
-    <li class="has-children"><a href="#der-kult-des-orpheus-in-eurer-saga">Der Kult des Orpheus in eurer Saga</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#der-kult-des-orpheus-in-eurer-saga">Der Kult des Orpheus in eurer Saga</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#kleine-hermetische-tugend-orphische-magie">Kleine Hermetische Tugend: Orphische Magie</a>
   </li>
@@ -1186,7 +1214,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#die-pharmakopoianer">Die Pharmakopoianer</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-pharmakopoianer">Die Pharmakopoianer</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#eckdaten-6">Eckdaten</a>
   </li>
@@ -1194,7 +1222,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#das-kräuterbuch-des-krateus">Das Kräuterbuch des Krateus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#das-kräuterbuch-des-krateus">Das Kräuterbuch des Krateus</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#kultur-5">Kultur</a>
   </li>
@@ -1210,7 +1238,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#die-abstammungslinie-der-pralix">Die Abstammungslinie der Pralix</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-abstammungslinie-der-pralix">Die Abstammungslinie der Pralix</a>
   <ul class="nav-level-3 collapsed">
   <ul class="nav-level-3 collapsed">
     <li><a href="#eckdaten-7">Eckdaten</a>
@@ -1221,19 +1249,19 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#geschichten-um-die-abstammungslinie-der-pralix">Geschichten um die Abstammungslinie der Pralix</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#geschichten-um-die-abstammungslinie-der-pralix">Geschichten um die Abstammungslinie der Pralix</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#charaktere-6">Charaktere</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#erschließung-der-künste-eines-heckenzauberers">Erschließung der Künste eines Heckenzauberers</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#erschließung-der-künste-eines-heckenzauberers">Erschließung der Künste eines Heckenzauberers</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#neue-übernatürliche-fertigkeit-magie-verstehen">Neue Übernatürliche Fertigkeit: Magie verstehen*</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#pralicier-und-ausspähen">Pralicier und Ausspähen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#pralicier-und-ausspähen">Pralicier und Ausspähen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#weitere-magische-interessen">Weitere magische Interessen</a>
   </li>
@@ -1243,7 +1271,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#rustikale-magi">Rustikale Magi</a>
   </li>
-    <li class="has-children"><a href="#eckdaten-8">Eckdaten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#eckdaten-8">Eckdaten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#geschichte-8">Geschichte</a>
   </li>
@@ -1257,7 +1285,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#hermetische-sahirs">Hermetische Sahirs</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#hermetische-sahirs">Hermetische Sahirs</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#eckdaten-9">Eckdaten</a>
   </li>
@@ -1279,7 +1307,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#sahirs-in-der-saga">Sahirs in der Saga</a>
   </li>
-    <li class="has-children"><a href="#seirenen">Seirenen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#seirenen">Seirenen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#eckdaten-10">Eckdaten</a>
   </li>
@@ -1297,7 +1325,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#anhang-agenturen">Anhang: Agenturen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#anhang-agenturen">Anhang: Agenturen</a>
   <ul class="nav-level-3 collapsed">
   <ul class="nav-level-3 collapsed">
     <li><a href="#agenten-werden-direkt-geführt">Agenten werden direkt geführt</a>
@@ -1308,13 +1336,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#teilweise-übernahme">Teilweise Übernahme</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#teilweise-übernahme">Teilweise Übernahme</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#agenten-einsetzen">Agenten einsetzen</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#widerstand-von-agenten">Widerstand von Agenten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#widerstand-von-agenten">Widerstand von Agenten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#die-andere-seite-der-medaille">Die andere Seite der Medaille</a>
   </li>
@@ -5748,6 +5776,18 @@ self.onmessage = function(e) {
     document.body.classList.remove('search-open');
   }
 
+  // --- Nav open/close helpers ---
+  const narrowQuery = window.matchMedia('(max-width: 1100px)');
+
+  function openNav() {
+    sidebar.classList.add('open');
+    document.body.classList.add('nav-open');
+  }
+  function closeNav() {
+    sidebar.classList.remove('open');
+    document.body.classList.remove('nav-open');
+  }
+
   // --- Search close button ---
   searchClose.addEventListener('click', function() {
     closeSearch();
@@ -5762,20 +5802,48 @@ self.onmessage = function(e) {
 
   // --- Nav toggle (mobile) ---
   navToggle.addEventListener('click', function() {
-    sidebar.classList.toggle('open');
+    if (sidebar.classList.contains('open')) closeNav();
+    else openNav();
   });
 
-  // --- Navigation collapse/expand ---
-  sidebar.addEventListener('click', function(e) {
-    const link = e.target.closest('a');
-    if (!link) return;
-    const li = link.closest('li.has-children');
-    if (!li) return;
+  // --- Close nav on main-content click ---
+  document.getElementById('main-content').addEventListener('click', function() {
+    if (sidebar.classList.contains('open')) closeNav();
+  });
 
+  // --- Toggle arrow: only expand/collapse, no navigation ---
+  sidebar.addEventListener('click', function(e) {
+    const arrow = e.target.closest('.nav-toggle-arrow');
+    if (!arrow) return;
+    e.stopPropagation();
+    const li = arrow.closest('li.has-children');
+    if (!li) return;
     li.classList.toggle('expanded');
     const childUl = li.querySelector(':scope > ul');
-    if (childUl) {
-      childUl.classList.toggle('collapsed');
+    if (childUl) childUl.classList.toggle('collapsed');
+  });
+
+  // --- Nav link click: always navigate ---
+  sidebar.addEventListener('click', function(e) {
+    const link = e.target.closest('a[href^="#"]');
+    if (!link) return;
+    e.preventDefault();
+    const targetId = link.getAttribute('href');
+    if (narrowQuery.matches) {
+      closeNav();
+      setTimeout(function() {
+        const target = document.getElementById(targetId.slice(1));
+        if (target) {
+          target.scrollIntoView();
+          history.replaceState(null, '', targetId);
+        }
+      }, 260);
+    } else {
+      const target = document.getElementById(targetId.slice(1));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth' });
+        history.replaceState(null, '', targetId);
+      }
     }
   });
 
@@ -5967,11 +6035,15 @@ self.onmessage = function(e) {
     return snippet;
   }
 
-  // Close search with Escape
+  // Close search/nav with Escape
   document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape' && searchPanel.classList.contains('open')) {
-      closeSearch();
-      searchInput.blur();
+    if (e.key === 'Escape') {
+      if (searchPanel.classList.contains('open')) {
+        closeSearch();
+        searchInput.blur();
+      } else if (sidebar.classList.contains('open')) {
+        closeNav();
+      }
     }
     if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
       e.preventDefault();

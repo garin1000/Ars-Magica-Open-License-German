@@ -212,11 +212,20 @@ Lies das Lektoratsergebnis und arbeite die Befunde ein:
 
 ### 4.2a Sync-Tracking aktualisieren
 
-Aktualisiere `.translation-sync.json` im Projektverzeichnis: Trage für die bearbeitete deutsche Datei den **aktuellen** Submodul-Commit ein:
+Aktualisiere die Datei `.translation-sync.json` **im Projekt-Root-Verzeichnis** (NICHT in `original-english/` oder einem anderen Unterverzeichnis).
+
+**Vorgehen:**
+1. Lies die bestehende `.translation-sync.json` mit dem Read-Tool ein (falls vorhanden).
+2. Parse den bestehenden JSON-Inhalt.
+3. Aktualisiere den Eintrag für die bearbeitete deutsche Datei (oder füge einen neuen hinzu).
+4. Schreibe die **vollständige** JSON-Datei mit **allen** Einträgen (alt + aktualisiert) zurück.
+
+⚠️ **Niemals** die Datei mit nur dem aktualisierten Eintrag überschreiben — das löscht die Tracking-Daten aller anderen Übersetzungen.
+
 ```bash
 cd original-english && git rev-parse HEAD
 ```
-Zusammen mit dem Pfad der englischen Quelldatei und dem aktuellen Datum. Format:
+Format jedes Eintrags:
 ```json
 {
   "<pfad-zur-deutschen-datei>": {
@@ -226,7 +235,6 @@ Zusammen mit dem Pfad der englischen Quelldatei und dem aktuellen Datum. Format:
   }
 }
 ```
-Erstelle die Datei, falls sie noch nicht existiert. Bestehende Einträge für andere Dateien beibehalten.
 
 ### 4.3 README aktualisieren
 

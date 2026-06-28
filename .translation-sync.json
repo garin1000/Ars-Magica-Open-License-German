@@ -1,7 +1,32 @@
 {
+  "german-wip/Ars Magica Definitive Edition Basisregeln.md": {
+    "submodule_commit": "fe460c7f16b89a3bb6f89a99f5fa99f392998ffb",
+    "english_file": "original-english/reviewed/Ars Magica - Definitive Edition (Core Rules).md",
+    "last_sync": "2026-06-12"
+  },
+  "german-wip/Ars Magica 5e - Magie - Heckenzauber (Überarbeitet).md": {
+    "submodule_commit": "fe460c7f16b89a3bb6f89a99f5fa99f392998ffb",
+    "english_file": "original-english/reviewed/Ars Magica 5e - Magic - Hedge Magic (Revised).md",
+    "last_sync": "2026-06-12"
+  },
+  "german-wip/Ars Magica 5e - Sphären der Macht - Magie.md": {
+    "submodule_commit": "fe460c7f16b89a3bb6f89a99f5fa99f392998ffb",
+    "english_file": "original-english/reviewed/Ars Magica 5e - Realms of Power - Magic.md",
+    "last_sync": "2026-06-12"
+  },
+  "german-wip/Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md": {
+    "submodule_commit": "9c429d4a1a9cfee76372f5ca4692ac00526bffce",
+    "english_file": "original-english/reviewed/Ars Magica 5e - Houses of Hermes - Mystery Cults.md",
+    "last_sync": "2026-06-14"
+  },
   "german-wip/Ars Magica 5e - Sphären der Macht - Das Infernale.md": {
     "submodule_commit": "da7245af5c77778e23260870e62161f80280d92d",
     "english_file": "original-english/reviewed/Ars Magica 5e - Realms of Power - The Infernal.md",
     "last_sync": "2026-06-20"
+  },
+  "german-wip/Ars Magica 5e - Sphären der Macht - Das Göttliche (Überarbeitet).md": {
+    "submodule_commit": "6ed5274e356d6a73bfe19e068908490fa30e1c58",
+    "english_file": "original-english/reviewed/Ars Magica 5e - Realms of Power - The Divine (Revised).md",
+    "last_sync": "2026-06-28"
   }
 }

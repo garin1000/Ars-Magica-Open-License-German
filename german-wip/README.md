@@ -20,6 +20,7 @@ Aktive Arbeitsdateien für laufende Übersetzungen und Korrekturen.
 | `Ars Magica 5e - Häuser des Hermes - Mysterienkulte.md` | Vollständige deutsche Übersetzung von „Houses of Hermes: Mystery Cults" (HdH:MK) | 1–5057 | 2026-06-14 (Sync-Update: 145 Änderungsstellen aus EN-Original übertragen – Überschriftenebenen, Blockquote-Formatierung, Absätze verschoben, Zauberblock-Format, OCR-Korrekturen, neue Absätze übersetzt) |
 | `Ars Magica 5e - Häuser des Hermes - Societates.md` | Vollständige deutsche Übersetzung von „Houses of Hermes: Societates" (HdH:S) | 1–5825 | 2026-06-19 (Neuübersetzung, Lektorat abgeschlossen, alle Korrekturen eingearbeitet) |
 | `Ars Magica 5e - Sphären der Macht - Das Infernale.md` | Vollständige deutsche Übersetzung von „Realms of Power: The Infernal" (SdM:I) | 1–6671 | 2026-06-20 (Neuübersetzung, Lektorat abgeschlossen, alle Korrekturen eingearbeitet) |
+| `Ars Magica 5e - Sphären der Macht - Das Göttliche (Überarbeitet).md` | Vollständige deutsche Übersetzung von „Realms of Power: The Divine (Revised)" (SdM:G) | 1–7696 | 2026-06-28 (Neuübersetzung, Lektorat abgeschlossen, alle Korrekturen eingearbeitet) |
 
 ---
 

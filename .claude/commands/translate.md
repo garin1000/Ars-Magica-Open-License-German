@@ -61,7 +61,7 @@ Jeder Übersetzungs-Agent erhält folgende Anweisungen:
 
 1. **Quelldatei lesen:** Lies genau den zugewiesenen Zeilenbereich aus der englischen Quelldatei.
 2. **Übersetzungstabellen konsultieren:** Verwende ausschließlich die Begriffe aus den Übersetzungstabellen in `translation-tables/`. Abweichungen sind nicht zulässig.
-3. **Formatierungsregeln einhalten:** Statblöcke, Beschreibungen und Tabellen nach den Regeln in `formatting-rules/` formatieren.
+3. **Formatierungsregeln einhalten:** Lies **vor der Übersetzung** die Datei `formatting-rules/charakter-kreaturen-beschreibung.md` und halte dich **exakt** an die dort definierten Feldbezeichnungen und Formate. Insbesondere: Feldbezeichnungen in Statblöcken sind **nicht fett** (schlicht mit Doppelpunkt), und die dort aufgeführten Label-Namen sind **zwingend** (z.B. `Verzerrungspunkte:` nicht „Verzerrungswert", `Belastung:` nicht „Behinderung", `Reputationen:` nicht „Rufe", `Erscheinungsbild:` nicht „Beschreibung", `Persönlichkeitseigenschaften:` nicht „Persönlichkeitszüge"). Verwende `n/v` statt `n/a`.
 4. **Zeilensynchronität:** Die deutsche Übersetzung muss exakt dieselbe Zeilenzahl haben wie der englische Quellabschnitt. Jede Zeile muss ihrer englischen Entsprechung zugeordnet sein.
 5. **Reihenfolge nicht ändern:** Sortierte Listen (z. B. Zauberindex, Tugend-/Fehlerübersichten, Bestiariumsindex, Register) behalten die **Reihenfolge des englischen Originals**. Auch wenn die deutsche alphabetische Sortierung dadurch aufgebrochen wird, darf beim Übersetzen **nicht umsortiert** werden – die Zeilenzuordnung zwischen englischer und deutscher Datei hat Vorrang.
 6. **Natürliches Deutsch:** Übersetze in natürliches, flüssiges Deutsch. Übernimm keine englischen Satzkonstruktionen. Passe Satzstellung, Wortfolge und Ausdruck an die deutsche Sprache an.
@@ -165,11 +165,20 @@ Führe eine letzte Kontrolle durch:
 
 ### 5.1a Sync-Tracking schreiben
 
-Trage in `.translation-sync.json` (im Projektverzeichnis) einen Eintrag für die neue Übersetzung ein:
+Aktualisiere die Datei `.translation-sync.json` **im Projekt-Root-Verzeichnis** (NICHT in `original-english/` oder einem anderen Unterverzeichnis).
+
+**Vorgehen:**
+1. Lies die bestehende `.translation-sync.json` mit dem Read-Tool ein (falls vorhanden).
+2. Parse den bestehenden JSON-Inhalt.
+3. Füge den neuen Eintrag hinzu (oder aktualisiere einen vorhandenen Eintrag für dieselbe deutsche Datei).
+4. Schreibe die **vollständige** JSON-Datei mit **allen** Einträgen (alt + neu) zurück.
+
+⚠️ **Niemals** die Datei mit nur dem neuen Eintrag überschreiben — das löscht die Tracking-Daten aller anderen Übersetzungen.
+
 ```bash
 cd original-english && git rev-parse HEAD
 ```
-Format:
+Format jedes Eintrags:
 ```json
 {
   "<pfad-zur-deutschen-datei>": {
@@ -179,7 +188,6 @@ Format:
   }
 }
 ```
-Erstelle die Datei, falls sie noch nicht existiert. Bestehende Einträge für andere Dateien beibehalten.
 
 ### 5.2 README aktualisieren
 

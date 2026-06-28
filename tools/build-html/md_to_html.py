@@ -127,9 +127,10 @@ def build_nav_html(nav_tree: list[dict], logo_b64: str) -> str:
 
         esc_title = html.escape(item["title"])
         toggle = ' class="has-children"' if has_children else ''
+        arrow = '<span class="nav-toggle-arrow">&#9654;</span>' if has_children else ''
         lines.append(
             f'    <li{toggle}>'
-            f'<a href="#{item["id"]}">{esc_title}</a>\n'
+            f'{arrow}<a href="#{item["id"]}">{esc_title}</a>\n'
         )
 
         prev_level = level
@@ -324,6 +325,20 @@ body.search-open #search-field {
 
 #sidebar li { margin: 0; }
 
+#sidebar li.has-children {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+#sidebar li.has-children > ul {
+  width: 100%;
+}
+
+#sidebar li.has-children > a {
+  padding-left: 2px;
+}
+
 #sidebar li a {
   display: block;
   padding: 4px 16px;
@@ -331,6 +346,8 @@ body.search-open #search-field {
   text-decoration: none;
   border-left: 3px solid transparent;
   transition: background 0.15s;
+  flex: 1;
+  min-width: 0;
 }
 
 #sidebar li a:hover {
@@ -345,17 +362,25 @@ body.search-open #search-field {
 
 .nav-level-1 > li > a { font-weight: 700; font-size: 0.95rem; padding: 8px 16px; }
 
-#sidebar li.has-children > a::before {
-  content: '\\25b6';
-  display: inline-block;
-  width: 1em;
-  font-size: 0.6em;
+.nav-toggle-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  align-self: stretch;
+  font-size: 0.55em;
+  cursor: pointer;
   transition: transform 0.2s;
-  margin-right: 4px;
-  vertical-align: middle;
+  flex-shrink: 0;
+  order: -1;
+  border-radius: 3px;
 }
 
-#sidebar li.has-children.expanded > a::before {
+.nav-toggle-arrow:hover {
+  background: rgba(0,0,0,0.08);
+}
+
+#sidebar li.has-children.expanded > .nav-toggle-arrow {
   transform: rotate(90deg);
 }
 
@@ -656,10 +681,14 @@ body.search-open #search-field {
   }
   #sidebar.open {
     transform: translateX(0);
-    box-shadow: 4px 0 20px rgba(0,0,0,0.15);
   }
   #main-content, #page-footer {
     margin-left: 0;
+    transition: margin-left 0.25s;
+  }
+  body.nav-open #main-content,
+  body.nav-open #page-footer {
+    margin-left: var(--nav-width);
   }
   #nav-toggle { display: block; }
   #nav-resize, #search-resize { display: none !important; }
@@ -781,6 +810,18 @@ def get_js(search_index_json: str) -> str:
     document.body.classList.remove('search-open');
   }}
 
+  // --- Nav open/close helpers ---
+  const narrowQuery = window.matchMedia('(max-width: 1100px)');
+
+  function openNav() {{
+    sidebar.classList.add('open');
+    document.body.classList.add('nav-open');
+  }}
+  function closeNav() {{
+    sidebar.classList.remove('open');
+    document.body.classList.remove('nav-open');
+  }}
+
   // --- Search close button ---
   searchClose.addEventListener('click', function() {{
     closeSearch();
@@ -795,20 +836,48 @@ def get_js(search_index_json: str) -> str:
 
   // --- Nav toggle (mobile) ---
   navToggle.addEventListener('click', function() {{
-    sidebar.classList.toggle('open');
+    if (sidebar.classList.contains('open')) closeNav();
+    else openNav();
   }});
 
-  // --- Navigation collapse/expand ---
-  sidebar.addEventListener('click', function(e) {{
-    const link = e.target.closest('a');
-    if (!link) return;
-    const li = link.closest('li.has-children');
-    if (!li) return;
+  // --- Close nav on main-content click ---
+  document.getElementById('main-content').addEventListener('click', function() {{
+    if (sidebar.classList.contains('open')) closeNav();
+  }});
 
+  // --- Toggle arrow: only expand/collapse, no navigation ---
+  sidebar.addEventListener('click', function(e) {{
+    const arrow = e.target.closest('.nav-toggle-arrow');
+    if (!arrow) return;
+    e.stopPropagation();
+    const li = arrow.closest('li.has-children');
+    if (!li) return;
     li.classList.toggle('expanded');
     const childUl = li.querySelector(':scope > ul');
-    if (childUl) {{
-      childUl.classList.toggle('collapsed');
+    if (childUl) childUl.classList.toggle('collapsed');
+  }});
+
+  // --- Nav link click: always navigate ---
+  sidebar.addEventListener('click', function(e) {{
+    const link = e.target.closest('a[href^="#"]');
+    if (!link) return;
+    e.preventDefault();
+    const targetId = link.getAttribute('href');
+    if (narrowQuery.matches) {{
+      closeNav();
+      setTimeout(function() {{
+        const target = document.getElementById(targetId.slice(1));
+        if (target) {{
+          target.scrollIntoView();
+          history.replaceState(null, '', targetId);
+        }}
+      }}, 260);
+    }} else {{
+      const target = document.getElementById(targetId.slice(1));
+      if (target) {{
+        target.scrollIntoView({{ behavior: 'smooth' }});
+        history.replaceState(null, '', targetId);
+      }}
     }}
   }});
 
@@ -1000,11 +1069,15 @@ def get_js(search_index_json: str) -> str:
     return snippet;
   }}
 
-  // Close search with Escape
+  // Close search/nav with Escape
   document.addEventListener('keydown', function(e) {{
-    if (e.key === 'Escape' && searchPanel.classList.contains('open')) {{
-      closeSearch();
-      searchInput.blur();
+    if (e.key === 'Escape') {{
+      if (searchPanel.classList.contains('open')) {{
+        closeSearch();
+        searchInput.blur();
+      }} else if (sidebar.classList.contains('open')) {{
+        closeNav();
+      }}
     }}
     if ((e.ctrlKey || e.metaKey) && e.key === 'f') {{
       e.preventDefault();

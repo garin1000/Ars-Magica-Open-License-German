@@ -367,13 +367,16 @@
 | Continence | Enthaltsamkeit | |
 | Craving for Travel | Reiselust | |
 | Driven | Getrieben | |
+| Enfeebled | Entkräftet | |
 | Envious | Neidisch | |
+| Fear | Angst | |
 | Greedy | Gierig | |
 | Grudge | Groll | Starker Groll gegen jemanden im eigenen sozialen Umfeld |
 | Hatred | Hass | |
 | Humble | Demütig | |
 | Infamous | Berüchtigt | |
 | Lecherous | Wollüstig | |
+| Lycanthrope | Lykanthrop | HdH:S |
 | Meddler | Einmischer | GotF |
 | Obsession | Besessenheit | |
 | Overconfident | Überheblich | |
@@ -444,6 +447,7 @@
 | Offensive to (Beings) | Abstoßend für (Wesen) | SdM:M; Klein; magische Präsenz stört einen Wesentyp besonders |
 | Poor Concentration | Schlechte Konzentration | SdM:M-Hinweis: −3 auf Konzentrationswürfe |
 | Poor Eyesight | Schlechtes Sehvermögen | |
+| Poor Memory | Schlechtes Gedächtnis | |
 | Poor Hearing | Schlechtes Hörvermögen | |
 | Poor Student | Schlechter Schüler | |
 | Simple-Minded | Einfältig | |
@@ -715,4 +719,91 @@
 
 ---
 
-*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Hedge Magic Revised Edition (Atlas Games, 2011); Houses of Hermes: True Lineages (Atlas Games, 2005)*
+### Ergänzungen aus Sphären der Macht: Das Göttliche (SdM:G)
+
+#### Übernatürliche Tugenden, Groß / Supernatural, Major (SdM:G)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Adjuration | Adjuration | SdM:G; Heilige Kraft; übernatürliche Wesen befehligen und kontrollieren |
+| Blessing | Segnen | SdM:G; Heilige Kraft; schützende und inspirierende Aspekte des Göttlichen |
+| Cursing | Verfluchen | SdM:G; Heilige Kraft; Feinde des Göttlichen Willens verfluchen |
+| Intervention | Intervention | SdM:G; Heilige Kraft; das Göttliche in der physischen Welt manifestieren |
+| Invocation | Anrufung | SdM:G; Heilige Methode; heilige Worte und Gebete |
+| Meditation | Meditation | SdM:G; Heilige Methode; ekstatischer Zustand durch Gesang oder Fokus |
+| Purity | Reinheit | SdM:G; Heilige Methode; intensive körperliche Anstrengung und Wille |
+| Transcendence | Transzendenz | SdM:G; Heilige Kraft; Grenzen der physischen Welt überwinden |
+| Understanding | Verständnis | SdM:G; Heilige Kraft; heilige Visionen empfangen |
+| Wonders | Wunder | SdM:G; Heilige Kraft; heilige Gegenstände, Kreaturen und Elemente manifestieren |
+
+#### Übernatürliche Tugenden, Klein / Supernatural, Minor (SdM:G)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Ceremony | Zeremonie | SdM:G; Heilige Fertigkeit; Gruppe auf heiliges Gebet fokussieren |
+| Nephilim | Nephilim | SdM:G; Frei; Mythischer-Gefährten-Tugend |
+| Strong Angelic Heritage | Starkes Engelserbe | SdM:G; verleiht Göttlichen Machtwert |
+
+#### Sozialer-Status-Tugenden / Social Status Virtues (SdM:G)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Eastern Priest | Östlicher Priester | SdM:G; Klein; wie Priester, ohne Zölibatspflicht |
+| Perfectus / Perfecti | Perfectus / Perfecti | SdM:G; Frei; Mythischer-Gefährten-Tugend; Lat. beibehalten |
+| Senior Clergy | Höherer Klerus | Groß; Bischof/Abt/Erzpriester (Tabellenkorrektur: nicht "Hoher Klerus") |
+
+#### Geschichte-Fehler, Groß / Story, Major (SdM:G)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Excommunicate | Exkommuniziert | SdM:G; aus der Kirche ausgestoßen |
+| Unbaptized | Ungetauft | SdM:G; nie getauft trotz christlichen Glaubens |
+
+#### Übernatürliche Fehler, Groß / Supernatural, Major (SdM:G)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Eremite | Eremit | SdM:G; gehört keiner heiligen Tradition an |
+| Raised from the Dead | Von den Toten Auferweckt | SdM:G; durch ein Wunder vom Tod zurückgebracht |
+
+#### Allgemeine Fehler, Klein / General, Minor (SdM:G)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Apostate | Apostat | SdM:G; von einem Glauben zu einem anderen konvertiert |
+
+#### Übernatürliche Tugenden, Klein / Supernatural, Minor (SdM:G, Kap. 6)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Astrological Magic | Astrologische Magie | SdM:G; addiert Artes Liberales zu Kabbalah |
+| Philosophic Magic | Philosophische Magie | SdM:G; addiert Philosophiae zu Kabbalah |
+
+#### Übernatürliche Tugenden, Groß / Supernatural, Major (SdM:G, Kap. 6)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Dream Interpretation | Traumdeutung | SdM:G; Heilige Methode (ersetzt Meditation) |
+
+#### Allgemeine Tugenden, Klein / General, Minor (SdM:G, Kap. 6)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Educated (Hebrew) | Gebildet (Hebräisch) | SdM:G; Zugang zu Akademischen Fertigkeiten |
+
+#### Geschichte-Fehler, Groß / Story, Major (SdM:G, Kap. 6)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Tzadik Nistar | Tzadik Nistar | SdM:G; Pl. Tzadikim Nistarim; verborgener Gerechter |
+
+#### Übernatürliche Fehler, Klein / Supernatural, Minor (SdM:G)
+
+| Englisch (EN) | Deutsch (DE) | Anmerkung |
+|---|---|---|
+| Evil Eye | Böser Blick | SdM:G; zusätzlicher Patzerwürfel |
+| Non-traditional | Nicht-Traditionell | SdM:G; Praktiken zu ungewöhnlich für eine Tradition |
+
+---
+
+*Quellen: Ars Magica Definitive Edition Core Rules (Atlas Games, 2024; GitHub: OriginalMadman/Ars-Magica-Open-License); Hedge Magic Revised Edition (Atlas Games, 2011); Houses of Hermes: True Lineages (Atlas Games, 2005); Realms of Power: The Divine (Atlas Games, 2011)*
