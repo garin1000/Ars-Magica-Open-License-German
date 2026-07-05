@@ -187,6 +187,20 @@ body.search-open #search-field {
 
 #sidebar li { margin: 0; }
 
+#sidebar li.has-children {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+#sidebar li.has-children > ul {
+  width: 100%;
+}
+
+#sidebar li.has-children > a {
+  padding-left: 2px;
+}
+
 #sidebar li a {
   display: block;
   padding: 4px 16px;
@@ -194,6 +208,8 @@ body.search-open #search-field {
   text-decoration: none;
   border-left: 3px solid transparent;
   transition: background 0.15s;
+  flex: 1;
+  min-width: 0;
 }
 
 #sidebar li a:hover {
@@ -208,17 +224,25 @@ body.search-open #search-field {
 
 .nav-level-1 > li > a { font-weight: 700; font-size: 0.95rem; padding: 8px 16px; }
 
-#sidebar li.has-children > a::before {
-  content: '\25b6';
-  display: inline-block;
-  width: 1em;
-  font-size: 0.6em;
+.nav-toggle-arrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  align-self: stretch;
+  font-size: 0.55em;
+  cursor: pointer;
   transition: transform 0.2s;
-  margin-right: 4px;
-  vertical-align: middle;
+  flex-shrink: 0;
+  order: -1;
+  border-radius: 3px;
 }
 
-#sidebar li.has-children.expanded > a::before {
+.nav-toggle-arrow:hover {
+  background: rgba(0,0,0,0.08);
+}
+
+#sidebar li.has-children.expanded > .nav-toggle-arrow {
   transform: rotate(90deg);
 }
 
@@ -519,10 +543,14 @@ body.search-open #search-field {
   }
   #sidebar.open {
     transform: translateX(0);
-    box-shadow: 4px 0 20px rgba(0,0,0,0.15);
   }
   #main-content, #page-footer {
     margin-left: 0;
+    transition: margin-left 0.25s;
+  }
+  body.nav-open #main-content,
+  body.nav-open #page-footer {
+    margin-left: var(--nav-width);
   }
   #nav-toggle { display: block; }
   #nav-resize, #search-resize { display: none !important; }
@@ -557,7 +585,7 @@ body.search-open #search-field {
   <div class="nav-header">Navigation</div>
   <div class="nav-content">
   <ul class="nav-level-1">
-    <li class="has-children"><a href="#häuser-des-hermes-wahre-linien">Häuser des Hermes: Wahre Linien</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#häuser-des-hermes-wahre-linien">Häuser des Hermes: Wahre Linien</a>
   <ul class="nav-level-3 collapsed">
   <ul class="nav-level-3 collapsed">
     <li><a href="#über-die-autoren">Über die Autoren</a>
@@ -566,9 +594,9 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kapitel-eins-haus-bonisagus">Kapitel Eins: Haus Bonisagus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kapitel-eins-haus-bonisagus">Kapitel Eins: Haus Bonisagus</a>
   <ul class="nav-level-2 collapsed">
-    <li class="has-children"><a href="#geschichte">Geschichte</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#geschichte">Geschichte</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#der-gründer-bonisagus">Der Gründer Bonisagus</a>
   </li>
@@ -578,25 +606,25 @@ body.search-open #search-field {
   </li>
     <li><a href="#berühmte-persönlichkeiten">Berühmte Persönlichkeiten</a>
   </li>
-    <li class="has-children"><a href="#durenmar-domus-magna">Durenmar: Domus Magna</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#durenmar-domus-magna">Durenmar: Domus Magna</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#die-gründerin-trianoma">Die Gründerin Trianoma</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#abenteueridee-die-legenden-der-gründer">ABENTEUERIDEE: Die Legenden der Gründer</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-die-legenden-der-gründer">ABENTEUERIDEE: Die Legenden der Gründer</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#die-prägenden-jahre">Die Prägenden Jahre</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#abenteueridee-das-verlorene-tagebuch-des-polus">Abenteueridee: Das verlorene Tagebuch des Polus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-das-verlorene-tagebuch-des-polus">Abenteueridee: Das verlorene Tagebuch des Polus</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#das-ende-der-gründer">Das Ende der Gründer</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#abenteueridee-das-ende-der-gründer">Abenteueridee: Das Ende der Gründer</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-das-ende-der-gründer">Abenteueridee: Das Ende der Gründer</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#der-schismakrieg">Der Schismakrieg</a>
   </li>
@@ -604,7 +632,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#abenteueridee-ein-paar-in-isolation">Abenteueridee: Ein Paar in Isolation</a>
   </li>
-    <li class="has-children"><a href="#hausorganisation-im-jahr-1220">Hausorganisation im Jahr 1220</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#hausorganisation-im-jahr-1220">Hausorganisation im Jahr 1220</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#das-geschlecht-der-linien">Das Geschlecht der Linien</a>
   </li>
@@ -618,13 +646,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#abenteueridee-die-verlorene-lanze">Abenteueridee: Die verlorene Lanze</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-die-verlorene-lanze">Abenteueridee: Die verlorene Lanze</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#tenentes-occultorum">Tenentes Occultorum</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#abenteueridee-die-kampflustigen-benediktiner">Abenteueridee: Die kampflustigen Benediktiner</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-die-kampflustigen-benediktiner">Abenteueridee: Die kampflustigen Benediktiner</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#colloquium-delectorum">Colloquium Delectorum</a>
   </li>
@@ -632,7 +660,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#glaucon-magus-trianomae-und-sucher">Glaucon, Magus Trianomae und Sucher</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#glaucon-magus-trianomae-und-sucher">Glaucon, Magus Trianomae und Sucher</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#neuer-intellego-mentem-zauber">Neuer Intellego-Mentem-Zauber</a>
   </li>
@@ -642,25 +670,25 @@ body.search-open #search-field {
   </li>
     <li><a href="#häufige-tugenden-und-fehler">Häufige Tugenden und Fehler</a>
   </li>
-    <li class="has-children"><a href="#die-magi-des-hauses-bonisagus">Die Magi des Hauses Bonisagus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-magi-des-hauses-bonisagus">Die Magi des Hauses Bonisagus</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#lehrlinge">Lehrlinge</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#optionale-regel-durchgängige-forschung">Optionale Regel: Durchgängige Forschung</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#optionale-regel-durchgängige-forschung">Optionale Regel: Durchgängige Forschung</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#magi-bonisagi">Magi Bonisagi</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#abenteueridee-das-land-der-frauen">Abenteueridee: Das Land der Frauen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#abenteueridee-das-land-der-frauen">Abenteueridee: Das Land der Frauen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#magi-trianomae">Magi Trianomae</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#einrichtungen-des-hauses">Einrichtungen des Hauses</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#einrichtungen-des-hauses">Einrichtungen des Hauses</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#ansehen-im-haus-status-in-haus-bonisagus">Ansehen im Haus: Status in Haus Bonisagus</a>
   </li>
@@ -668,13 +696,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#ansehen-im-haus-punkte-und-wertung">Ansehen im Haus – Punkte und Wertung</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#ansehen-im-haus-punkte-und-wertung">Ansehen im Haus – Punkte und Wertung</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#folios">Folios</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#redaktionelle-meinungsverschiedenheiten">Redaktionelle Meinungsverschiedenheiten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#redaktionelle-meinungsverschiedenheiten">Redaktionelle Meinungsverschiedenheiten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#neue-tugenden-und-fehler">Neue Tugenden und Fehler</a>
   </li>
@@ -686,7 +714,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#beispiel-originäre-forschung">Beispiel: Originäre Forschung</a>
   </li>
-    <li class="has-children"><a href="#beispielentdeckungen">Beispielentdeckungen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#beispielentdeckungen">Beispielentdeckungen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#arma-magica">Arma Magica</a>
   </li>
@@ -704,7 +732,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kapitel-zwei-haus-guernicus">Kapitel Zwei: Haus Guernicus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kapitel-zwei-haus-guernicus">Kapitel Zwei: Haus Guernicus</a>
   <ul class="nav-level-3 collapsed">
   <ul class="nav-level-3 collapsed">
     <li><a href="#kapitelstruktur">Kapitelstruktur</a>
@@ -715,19 +743,19 @@ body.search-open #search-field {
   </li>
     <li><a href="#berühmte-persönlichkeiten-1">Berühmte Persönlichkeiten</a>
   </li>
-    <li class="has-children"><a href="#geschichte-1">Geschichte</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#geschichte-1">Geschichte</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#vor-dem-orden">Vor dem Orden</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#das-grab-des-diebes">Das Grab des Diebes</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#das-grab-des-diebes">Das Grab des Diebes</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#die-gründung-des-ordens">Die Gründung des Ordens</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#polybios-und-der-orden">Polybios und der Orden</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#polybios-und-der-orden">Polybios und der Orden</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#die-quaesitores">Die Quaesitores</a>
   </li>
@@ -735,13 +763,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#ein-quaesitor-werden">Ein Quaesitor werden</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#ein-quaesitor-werden">Ein Quaesitor werden</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#fenicil">Fenicil</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#ein-zweischneidiges-schwert">Ein zweischneidiges Schwert</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#ein-zweischneidiges-schwert">Ein zweischneidiges Schwert</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#duresca-schriftrollen">Duresca-Schriftrollen</a>
   </li>
@@ -755,7 +783,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#ordenskunde-transitionalisten">Ordenskunde: Transitionalisten</a>
   </li>
-    <li class="has-children"><a href="#organisation">Organisation</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#organisation">Organisation</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#mitgliederzahl">Mitgliederzahl</a>
   </li>
@@ -765,7 +793,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#die-unvollkommene-verteidigung">Die Unvollkommene Verteidigung</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-unvollkommene-verteidigung">Die Unvollkommene Verteidigung</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#der-rat-von-magvillus">Der Rat von Magvillus</a>
   </li>
@@ -773,13 +801,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#der-kodex-des-hermes">Der Kodex des Hermes</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#der-kodex-des-hermes">Der Kodex des Hermes</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#ursprünge">Ursprünge</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#das-recht-in-eurer-saga">Das Recht in eurer Saga</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#das-recht-in-eurer-saga">Das Recht in eurer Saga</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#verwirkung-der-immunität">Verwirkung der Immunität</a>
   </li>
@@ -791,7 +819,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#amici">Amici</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#amici">Amici</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#krieg-der-zauberer">Krieg der Zauberer</a>
   </li>
@@ -803,7 +831,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#die-rheinische-korruption">Die Rheinische Korruption</a>
   </li>
-    <li class="has-children"><a href="#blutsrecht">Blutsrecht</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#blutsrecht">Blutsrecht</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#pflicht-des-parens">Pflicht des Parens</a>
   </li>
@@ -819,7 +847,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#die-legalität-des-certamen">Die Legalität des Certamen</a>
   </li>
-    <li class="has-children"><a href="#tribunalsverfahren">Tribunalsverfahren</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#tribunalsverfahren">Tribunalsverfahren</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#vorbereitung-eines-falls">Vorbereitung eines Falls</a>
   </li>
@@ -829,7 +857,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#vergleiche">Vergleiche</a>
   </li>
-    <li class="has-children"><a href="#gesetzmäßige-tyrannei">Gesetzmäßige Tyrannei</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#gesetzmäßige-tyrannei">Gesetzmäßige Tyrannei</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#übertragung-eines-falls">Übertragung eines Falls</a>
   </li>
@@ -845,7 +873,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#beispiel-einer-gegenklage">Beispiel einer Gegenklage</a>
   </li>
-    <li class="has-children"><a href="#strafen">Strafen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#strafen">Strafen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#schadensersatz">Schadensersatz</a>
   </li>
@@ -861,7 +889,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#pflichten-und-befugnisse-der-quaesitores">Pflichten und Befugnisse der Quaesitores</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#pflichten-und-befugnisse-der-quaesitores">Pflichten und Befugnisse der Quaesitores</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#quaesitor-in-gutem-ansehen">Quaesitor in gutem Ansehen</a>
   </li>
@@ -873,7 +901,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#eindringen-in-ein-sanctum">Eindringen in ein Sanctum</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#eindringen-in-ein-sanctum">Eindringen in ein Sanctum</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#entschädigung">Entschädigung</a>
   </li>
@@ -883,7 +911,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#verzeih-die-störung">Verzeih die Störung</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#verzeih-die-störung">Verzeih die Störung</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#tribunalspflichten">Tribunalspflichten</a>
   </li>
@@ -893,7 +921,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#das-veto">Das Veto</a>
   </li>
-    <li class="has-children"><a href="#magi-des-hauses-guernicus">Magi des Hauses Guernicus</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#magi-des-hauses-guernicus">Magi des Hauses Guernicus</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#lehrlingszeit">Lehrlingszeit</a>
   </li>
@@ -901,7 +929,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#das-ganze-gesetz">Das ganze Gesetz</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#das-ganze-gesetz">Das ganze Gesetz</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#ein-quaesitor-sein">Ein Quaesitor sein</a>
   </li>
@@ -919,7 +947,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#geschichten-für-einen-quaesitor-leiten">Geschichten für einen Quaesitor leiten</a>
   </li>
-    <li class="has-children"><a href="#verbündete">Verbündete</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#verbündete">Verbündete</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#hopliten">Hopliten</a>
   </li>
@@ -931,7 +959,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#quaesitoriale-magie">Quaesitoriale Magie</a>
   </li>
-    <li class="has-children"><a href="#sanctumrecht">Sanctumrecht</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#sanctumrecht">Sanctumrecht</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#geschärfter-sinn">Geschärfter Sinn</a>
   </li>
@@ -939,19 +967,19 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kraftloses-zaubern">Kraftloses Zaubern</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kraftloses-zaubern">Kraftloses Zaubern</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#zauber-und-leitlinien">Zauber und Leitlinien</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#fenicils-rituale">Fenicils Rituale</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#fenicils-rituale">Fenicils Rituale</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#große-rituale">Große Rituale</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#beispiel-für-ein-großes-ritual">Beispiel für ein Großes Ritual</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#beispiel-für-ein-großes-ritual">Beispiel für ein Großes Ritual</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#kleine-rituale">Kleine Rituale</a>
   </li>
@@ -959,7 +987,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kapitel-drei-haus-mercere">Kapitel Drei: Haus Mercere</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kapitel-drei-haus-mercere">Kapitel Drei: Haus Mercere</a>
   <ul class="nav-level-2 collapsed">
     <li><a href="#mercere-der-gründer">Mercere der Gründer</a>
   </li>
@@ -971,13 +999,13 @@ body.search-open #search-field {
   </li>
     <li><a href="#rotkappen-1">Rotkappen</a>
   </li>
-    <li class="has-children"><a href="#gemeinschaften">Gemeinschaften</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#gemeinschaften">Gemeinschaften</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#boten-und-herolde">Boten und Herolde</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#schwarze-liste">Schwarze Liste</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#schwarze-liste">Schwarze Liste</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#händler-und-bankiers">Händler und Bankiers</a>
   </li>
@@ -989,13 +1017,13 @@ body.search-open #search-field {
   </li>
     <li><a href="#magisches-silber">Magisches Silber</a>
   </li>
-    <li class="has-children"><a href="#hermetische-wohltätigkeit">Hermetische Wohltätigkeit</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#hermetische-wohltätigkeit">Hermetische Wohltätigkeit</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#söldner-und-wächter">Söldner und Wächter</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#riskante-geschäfte">Riskante Geschäfte</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#riskante-geschäfte">Riskante Geschäfte</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#spielleute-und-wanderer">Spielleute und Wanderer</a>
   </li>
@@ -1005,7 +1033,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#mittelalterliche-wirtshäuser">Mittelalterliche Wirtshäuser</a>
   </li>
-    <li class="has-children"><a href="#magische-merceres">Magische Merceres</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#magische-merceres">Magische Merceres</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#merkurische-magi">Merkurische Magi</a>
   </li>
@@ -1013,25 +1041,25 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#helden-und-magie">Helden und Magie</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#helden-und-magie">Helden und Magie</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#mutantes">Mutantes</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#milvini-zauber">Milvini-Zauber</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#milvini-zauber">Milvini-Zauber</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#andere-spezialisierungen">Andere Spezialisierungen</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#laborregeln">Laborregeln</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#laborregeln">Laborregeln</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#besondere-fähigkeiten-gemeisterter-zauber">Besondere Fähigkeiten gemeisterter Zauber</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#besondere-mercere-fähigkeiten">Besondere Mercere-Fähigkeiten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#besondere-mercere-fähigkeiten">Besondere Mercere-Fähigkeiten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#merkurische-magi-1">Merkurische Magi</a>
   </li>
@@ -1039,13 +1067,13 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#magieregeln">Magieregeln</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#magieregeln">Magieregeln</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#mutantum-magie">Mutantum-Magie</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#zauber">Zauber</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#zauber">Zauber</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#mutantum-zauber">Mutantum-Zauber</a>
   </li>
@@ -1055,7 +1083,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#tugenden-und-fehler">Tugenden und Fehler</a>
   </li>
-    <li class="has-children"><a href="#mythische-gefährten">Mythische Gefährten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#mythische-gefährten">Mythische Gefährten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#heroische-charaktere-in-einer-saga">Heroische Charaktere in einer Saga</a>
   </li>
@@ -1063,7 +1091,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#tugenden-1">Tugenden</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#tugenden-1">Tugenden</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#hermetisch-groß">Hermetisch, Groß</a>
   </li>
@@ -1079,7 +1107,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#fehler">Fehler</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#fehler">Fehler</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#fehler-1">Fehler</a>
   </li>
@@ -1087,20 +1115,20 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kapitel-vier-haus-tremere">Kapitel Vier: Haus Tremere</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kapitel-vier-haus-tremere">Kapitel Vier: Haus Tremere</a>
   <ul class="nav-level-3 collapsed">
   <ul class="nav-level-3 collapsed">
     <li><a href="#symbole">Symbole</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#eckdaten-1">Eckdaten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#eckdaten-1">Eckdaten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#berühmte-gestalten">Berühmte Gestalten</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#kultgeschichten">Kultgeschichten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#kultgeschichten">Kultgeschichten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#schmetterling-und-zweizinkige-gabel">Schmetterling und Zweizinkige Gabel</a>
   </li>
@@ -1108,7 +1136,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#geschichte-2">Geschichte</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#geschichte-2">Geschichte</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#vor-dem-orden-1">Vor dem Orden</a>
   </li>
@@ -1116,7 +1144,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#die-sicht-des-hauses-auf-tremere-im-jahr-1220">Die Sicht des Hauses auf Tremere im Jahr 1220</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#die-sicht-des-hauses-auf-tremere-im-jahr-1220">Die Sicht des Hauses auf Tremere im Jahr 1220</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#das-haus-nach-tremere">Das Haus nach Tremere</a>
   </li>
@@ -1124,7 +1152,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#warum-war-es-ihnen-so-wichtig">Warum war es ihnen so wichtig?</a>
   </li>
-    <li class="has-children"><a href="#bernsteinaugen">Bernsteinaugen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#bernsteinaugen">Bernsteinaugen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#weltliche-angelegenheiten">Weltliche Angelegenheiten</a>
   </li>
@@ -1134,7 +1162,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#friedensinitiativen">Friedensinitiativen</a>
   </li>
-    <li class="has-children"><a href="#das-haus-im-jahr-1220">Das Haus im Jahr 1220</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#das-haus-im-jahr-1220">Das Haus im Jahr 1220</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#pragmatische-haltung">Pragmatische Haltung</a>
   </li>
@@ -1156,7 +1184,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#materielle-hilfe-in-eurer-saga">Materielle Hilfe in Eurer Saga</a>
   </li>
-    <li class="has-children"><a href="#vexillationen">Vexillationen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#vexillationen">Vexillationen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#vexillation-der-abgrundträger">Vexillation der Abgrundträger</a>
   </li>
@@ -1168,7 +1196,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#aufstieg-durch-stärke">Aufstieg durch Stärke</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#aufstieg-durch-stärke">Aufstieg durch Stärke</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#beanspruchung-des-namens-aufstieg-in-die-rolle-des-magus-durch-stärke">Beanspruchung des Namens — Aufstieg in die Rolle des Magus durch Stärke</a>
   </li>
@@ -1180,25 +1208,25 @@ body.search-open #search-field {
   </li>
     <li><a href="#verwirrter-secutor">Verwirrter Secutor</a>
   </li>
-    <li class="has-children"><a href="#dissens">Dissens</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#dissens">Dissens</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#beanspruchung-des-sigils-von-tremere-aufstieg-in-die-rolle-des-primus-durch-stärke">Beanspruchung des Sigils von Tremere — Aufstieg in die Rolle des Primus durch Stärke</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#magi-des-hauses-tremere-gestalten">Magi des Hauses Tremere gestalten</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#magi-des-hauses-tremere-gestalten">Magi des Hauses Tremere gestalten</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#künste-und-zauber">Künste und Zauber</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#geisterarmeen">Geisterarmeen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#geisterarmeen">Geisterarmeen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#arten-von-geistern">Arten von Geistern</a>
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#tiere-magische-gegenstände-die-trainiert-werden-können">Tiere: Magische Gegenstände, die trainiert werden können</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#tiere-magische-gegenstände-die-trainiert-werden-können">Tiere: Magische Gegenstände, die trainiert werden können</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#gemeine-weiße-wölfe">Gemeine Weiße Wölfe</a>
   </li>
@@ -1220,7 +1248,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#abenteueridee-waffenforschung">Abenteueridee: Waffenforschung</a>
   </li>
-    <li class="has-children"><a href="#certamen-reputationen">Certamen-Reputationen</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#certamen-reputationen">Certamen-Reputationen</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#würfel-reputation">Würfel + Reputation</a>
   </li>
@@ -1228,7 +1256,7 @@ body.search-open #search-field {
   </li>
   </ul>
   </li>
-    <li class="has-children"><a href="#duellieren">Duellieren</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#duellieren">Duellieren</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#certamen-stile">Certamen-Stile</a>
   </li>
@@ -1236,7 +1264,7 @@ body.search-open #search-field {
   </li>
     <li><a href="#schach">Schach</a>
   </li>
-    <li class="has-children"><a href="#neue-zauber">Neue Zauber</a>
+    <li class="has-children"><span class="nav-toggle-arrow">&#9654;</span><a href="#neue-zauber">Neue Zauber</a>
   <ul class="nav-level-3 collapsed">
     <li><a href="#ergänzungen-zur-form--und-materialbonustabelle">Ergänzungen zur Form- und Materialbonustabelle</a>
   </li>
@@ -4255,6 +4283,18 @@ self.onmessage = function(e) {
     document.body.classList.remove('search-open');
   }
 
+  // --- Nav open/close helpers ---
+  const narrowQuery = window.matchMedia('(max-width: 1100px)');
+
+  function openNav() {
+    sidebar.classList.add('open');
+    document.body.classList.add('nav-open');
+  }
+  function closeNav() {
+    sidebar.classList.remove('open');
+    document.body.classList.remove('nav-open');
+  }
+
   // --- Search close button ---
   searchClose.addEventListener('click', function() {
     closeSearch();
@@ -4269,20 +4309,48 @@ self.onmessage = function(e) {
 
   // --- Nav toggle (mobile) ---
   navToggle.addEventListener('click', function() {
-    sidebar.classList.toggle('open');
+    if (sidebar.classList.contains('open')) closeNav();
+    else openNav();
   });
 
-  // --- Navigation collapse/expand ---
-  sidebar.addEventListener('click', function(e) {
-    const link = e.target.closest('a');
-    if (!link) return;
-    const li = link.closest('li.has-children');
-    if (!li) return;
+  // --- Close nav on main-content click ---
+  document.getElementById('main-content').addEventListener('click', function() {
+    if (sidebar.classList.contains('open')) closeNav();
+  });
 
+  // --- Toggle arrow: only expand/collapse, no navigation ---
+  sidebar.addEventListener('click', function(e) {
+    const arrow = e.target.closest('.nav-toggle-arrow');
+    if (!arrow) return;
+    e.stopPropagation();
+    const li = arrow.closest('li.has-children');
+    if (!li) return;
     li.classList.toggle('expanded');
     const childUl = li.querySelector(':scope > ul');
-    if (childUl) {
-      childUl.classList.toggle('collapsed');
+    if (childUl) childUl.classList.toggle('collapsed');
+  });
+
+  // --- Nav link click: always navigate ---
+  sidebar.addEventListener('click', function(e) {
+    const link = e.target.closest('a[href^="#"]');
+    if (!link) return;
+    e.preventDefault();
+    const targetId = link.getAttribute('href');
+    if (narrowQuery.matches) {
+      closeNav();
+      setTimeout(function() {
+        const target = document.getElementById(targetId.slice(1));
+        if (target) {
+          target.scrollIntoView();
+          history.replaceState(null, '', targetId);
+        }
+      }, 260);
+    } else {
+      const target = document.getElementById(targetId.slice(1));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth' });
+        history.replaceState(null, '', targetId);
+      }
     }
   });
 
@@ -4474,11 +4542,15 @@ self.onmessage = function(e) {
     return snippet;
   }
 
-  // Close search with Escape
+  // Close search/nav with Escape
   document.addEventListener('keydown', function(e) {
-    if (e.key === 'Escape' && searchPanel.classList.contains('open')) {
-      closeSearch();
-      searchInput.blur();
+    if (e.key === 'Escape') {
+      if (searchPanel.classList.contains('open')) {
+        closeSearch();
+        searchInput.blur();
+      } else if (sidebar.classList.contains('open')) {
+        closeNav();
+      }
     }
     if ((e.ctrlKey || e.metaKey) && e.key === 'f') {
       e.preventDefault();
