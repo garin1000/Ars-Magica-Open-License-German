@@ -4781,7 +4781,7 @@ Eine Maga mit Potenter Magie kann außerdem neue Potente Zauber innerhalb ihres 
 
 #### Mächtiges Relikt
 *Groß, Allgemein*<br>
-Du besitzt ein ungewöhnlich mächtiges Relikt mit einem Wahrer-Glauben-Wert von 3. Das Relikt besitzt außerdem eine Kraft, die in Absprache mit dem Spielleiter festgelegt werden sollte (siehe Relikte, [Seite 419](#reliquien)). Wie bei der Kleinen Allgemeinen Tugend Relikt kann der Gegenstand in jeden anderen Gegenstand eingebaut werden, den Du besitzt, etwa in ein Schwert oder ein Amulett.
+Du besitzt ein ungewöhnlich mächtiges Relikt mit einem Wahrer-Glaube-Wert von 3. Das Relikt besitzt außerdem eine Kraft, die in Absprache mit dem Spielleiter festgelegt werden sollte (siehe Relikte, [Seite 419](#reliquien)). Wie bei der Kleinen Allgemeinen Tugend Relikt kann der Gegenstand in jeden anderen Gegenstand eingebaut werden, den Du besitzt, etwa in ein Schwert oder ein Amulett.
 
 Ein so mächtiges Relikt zu besitzen ist eine große Verantwortung, und Dein Charakter sollte sich entsprechend verhalten. Wenn Du Dich jemals gottlos verhältst (nach Beurteilung des Spielleiters), hört das Relikt auf zu funktionieren, bis angemessene Buße geleistet wurde.
 
@@ -4851,7 +4851,7 @@ Du wirst von Deinem Konvent versorgt, daher kannst Du weder die Tugend Wohlhaben
 
 #### Relikt
 *Klein, Allgemein*<br>
-Du besitzt ein heiliges Relikt, etwa den Fingerknöchelknochen eines Heiligen, mit einem Wahrer-Glauben-Wert von 1. Es kann in jeden anderen Gegenstand eingebaut werden, den Du besitzt (zum Beispiel ein Schwert). Das Relikt besitzt keine zusätzlichen Kräfte. Regeln für Relikte und Wahren Glauben findest Du in Kapitel 12: Sphären.
+Du besitzt ein heiliges Relikt, etwa den Fingerknöchelknochen eines Heiligen, mit einem Wahrer-Glaube-Wert von 1. Es kann in jeden anderen Gegenstand eingebaut werden, den Du besitzt (zum Beispiel ein Schwert). Das Relikt besitzt keine zusätzlichen Kräfte. Regeln für Relikte und Wahren Glauben findest Du in Kapitel 12: Sphären.
 
 #### Ordensangehöriger
 *Klein, Sozialer Status*<br>
@@ -17604,15 +17604,15 @@ Besondere göttliche Auren können von diesen Richtlinien abweichen, da Gott sie
 
 Wer weltliche Belange vollständig aufgibt und sein Leben selbstlos einem heiligen Lebenswandel widmet, kommt in den Genuss des Wahren Glaubens. Wahrer Glaube wird in Glaubenspunkten gemessen, die die Verbindung einer Person zu Gott darstellen. Jene mit Wahrem Glauben können Juden, Christen oder Muslime sein und müssen dabei, so scheint es, nicht vollständig rechtgläubig sein.
 
-Wahrer Glaube hat, wie Selbstvertrauen, sowohl einen Wert als auch Punkte. Die Große Tugend Wahrer Glaube verleiht einen Wahrer-Glauben-Wert von 1 und einen einzelnen Glaubenspunkt. Nur wer die Große Tugend Wahrer Glaube besitzt, kann einen Wahrer-Glauben-Wert haben. Jeder Charakter kann eine beliebige Anzahl von Glaubenspunkten besitzen (gewonnen durch Sakramente, eine Pilgerreise oder andere fromme Taten); einmal ausgegeben, kehren sie nicht zurück.
+Wahrer Glaube hat, wie Selbstvertrauen, sowohl einen Wert als auch Punkte. Die Große Tugend Wahrer Glaube verleiht einen Wahrer-Glaube-Wert von 1 und einen einzelnen Glaubenspunkt. Nur wer die Große Tugend Wahrer Glaube besitzt, kann einen Wahrer-Glaube-Wert haben. Jeder Charakter kann eine beliebige Anzahl von Glaubenspunkten besitzen (gewonnen durch Sakramente, eine Pilgerreise oder andere fromme Taten); einmal ausgegeben, kehren sie nicht zurück.
 
-Glaubenspunkte dürfen wie Selbstvertrauenspunkte ausgegeben werden (und es dürfen dabei so viele Glaubenspunkte auf einmal eingesetzt werden, wie der Wahrer-Glauben-Wert beträgt), solange man im Einklang mit Gottes Willen handelt. Wer keinen Wahrer-Glauben-Wert besitzt, darf jeweils nur einen Glaubenspunkt auf einmal einsetzen.
+Glaubenspunkte dürfen wie Selbstvertrauenspunkte ausgegeben werden (und es dürfen dabei so viele Glaubenspunkte auf einmal eingesetzt werden, wie der Wahrer-Glaube-Wert beträgt), solange man im Einklang mit Gottes Willen handelt. Wer keinen Wahrer-Glaube-Wert besitzt, darf jeweils nur einen Glaubenspunkt auf einmal einsetzen.
 
-Ein Charakter mit Glaubenspunkten, aber ohne Wahrer-Glauben-Wert, erhält keine Magieresistenz. Ein Charakter mit einem Wahrer-Glauben-Wert erhält Magieresistenz in Höhe dieses Wertes multipliziert mit zehn.
+Ein Charakter mit Glaubenspunkten, aber ohne Wahrer-Glaube-Wert, erhält keine Magieresistenz. Ein Charakter mit einem Wahrer-Glaube-Wert erhält Magieresistenz in Höhe dieses Wertes multipliziert mit zehn.
 
-**MAGIERESISTENZ DURCH WAHREN GLAUBEN: Wahrer-Glauben-Wert × 10**
+**MAGIERESISTENZ DURCH WAHREN GLAUBEN: Wahrer-Glaube-Wert × 10**
 
-Mit jedem Morgengrauen werden Glaubenspunkte bis zur Höhe des Wahrer-Glauben-Wertes aufgefrischt. Wer bereits mehr Glaubenspunkte hat als sein Wahrer-Glauben-Wert beträgt, erhält keine zusätzlichen Punkte.
+Mit jedem Morgengrauen werden Glaubenspunkte bis zur Höhe des Wahrer-Glaube-Wertes aufgefrischt. Wer bereits mehr Glaubenspunkte hat als sein Wahrer-Glaube-Wert beträgt, erhält keine zusätzlichen Punkte.
 
 Weitere Einzelheiten zum Wahren Glauben finden sich in *Sphären der Macht: Das Göttliche (Überarbeitete Ausgabe)*, Seite 56.
 
@@ -17620,7 +17620,7 @@ Weitere Einzelheiten zum Wahren Glauben finden sich in *Sphären der Macht: Das 
 
 Reliquien sind körperliche Gegenstände, die auf irgendeine Weise einen Teil der göttlichen Macht in sich tragen. Sie sind am häufigsten im Christentum anzutreffen und bestehen oft aus Körperteilen verstorbener Heiliger. Alle Reliquien besitzen eine Reihe gemeinsamer Kräfte, die im Folgenden aufgelistet sind:
 
-1. GLAUBE: Jede Reliquie enthält einen Wahrer-Glauben-Wert und damit Glaubenspunkte, die ihr Träger wie Selbstvertrauen einsetzen darf. Eine Reliquie verleiht ihrem Träger zudem Magieresistenz in Höhe des Zehnfachen ihres Wahrer-Glauben-Wertes. Eine Person kann immer nur von einer einzigen Reliquie profitieren; der Versuch, von mehreren gleichzeitig zu profitieren, ist eine Sünde und führt dazu, dass die Vorteile aller Reliquien verloren gehen. Es ist jedoch erlaubt, weitere Reliquien demütig zu tragen, solange man sich bei den Vorteilen nur auf eine einzige verlässt. Ein Charakter, der gewöhnlich auf eine bestimmte Reliquie vertraut, bräuchte einen sehr triftigen Grund, um sie gegen eine andere zu tauschen.
+1. GLAUBE: Jede Reliquie enthält einen Wahrer-Glaube-Wert und damit Glaubenspunkte, die ihr Träger wie Selbstvertrauen einsetzen darf. Eine Reliquie verleiht ihrem Träger zudem Magieresistenz in Höhe des Zehnfachen ihres Wahrer-Glaube-Wertes. Eine Person kann immer nur von einer einzigen Reliquie profitieren; der Versuch, von mehreren gleichzeitig zu profitieren, ist eine Sünde und führt dazu, dass die Vorteile aller Reliquien verloren gehen. Es ist jedoch erlaubt, weitere Reliquien demütig zu tragen, solange man sich bei den Vorteilen nur auf eine einzige verlässt. Ein Charakter, der gewöhnlich auf eine bestimmte Reliquie vertraut, bräuchte einen sehr triftigen Grund, um sie gegen eine andere zu tauschen.
 2. GÖTTLICHE MACHT: Alle Reliquien besitzen einen Göttliche-Macht-Wert, der regelt, wie oft ihre Kräfte eingesetzt werden dürfen (und damit verhindert, dass Charaktere ihre Kräfte übermäßig nutzen). Der Machtwert dient der Reliquie auch als Magieresistenz gegen alle Zauber oder übernatürliche Effekte, die sie direkt betreffen. Die Göttliche Macht einer Reliquie ist gleich ihrem Glaubenswert (bzw. dem höchsten Glaubenswert, wenn mehr als einer zutrifft) multipliziert mit 10; der Machtvorrat wird mit jedem Sonnenaufgang aufgefrischt.
 3. GEISSELUNG DES INFERNALEN: Als höchst heilige Gegenstände sind Reliquien Dämonen und ihren Anhängern ein Gräuel. Reliquien strahlen eine feindliche Aura gegenüber solchen Wesen aus, die sich über eine Anzahl von Fuß erstreckt, die dem Machtwert der Reliquie entspricht. Kreaturen, die der Höllensphäre angehören und versuchen, in diese Aura einzudringen, können dies nicht, wenn ihr Infernaler Machtwert den Göttlichen Machtwert der Reliquie nicht übersteigt. Gelingt es ihnen dennoch, in die Aura einzudringen, werden sie in jeder Runde, in der sie sich darin aufhalten, von göttlicher Energie heimgesucht, die Schaden in Höhe des Machtwertes der Reliquie verursacht – obwohl ihre Absorption sie wie gewohnt schützt. Der Angriff wird von passend dramatischen visuellen Effekten begleitet, wie heiliges Feuer, Blitze oder was der Spielleiter sonst für angemessen hält. Er endet, sobald sie die Aura verlassen. Diese Kraft wirkt nicht gegen Charaktere oder Kreaturen, die der Höllensphäre lediglich zugehörig sind, obwohl diese Unbehagen empfinden werden, wenn sie die Reliquien über längere Zeit handhaben.
 
