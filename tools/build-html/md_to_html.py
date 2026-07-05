@@ -55,7 +55,7 @@ def pandoc_to_html(md_path: str) -> str:
     )
     html_out = re.sub(r'<colgroup>.*?</colgroup>\n?', '', result.stdout, flags=re.DOTALL)
     html_out = re.sub(r'<!--.*?-->\n?', '', html_out, flags=re.DOTALL)
-    html_out = re.sub(r'(href="[^"]+)\.md(#[^"]*")', r'\1.html\2', html_out)
+    html_out = re.sub(r'(href="[^"]+)\.md((?:#[^"]*)?")', r'\1.html\2', html_out)
     html_out = _fix_internal_links(html_out)
     return html_out
 
