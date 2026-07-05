@@ -1,0 +1,786 @@
+{
+  "version": 1,
+  "source_file": "Ars Magica 5e - Sphären der Macht - Das Göttliche (Überarbeitet).md",
+  "file_hash": "sha256:dcfcff8e2312920c",
+  "sections": [
+    {
+      "heading": "## Über die Autoren",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "14 Fetteinträge"
+    },
+    {
+      "heading": "## Dieses Buch verwenden",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Die Göttliche Sphäre und andere Sphären"
+    },
+    {
+      "heading": "## Aufbau dieses Buches",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge"
+    },
+    {
+      "heading": "## Göttliche Auren im Spiel",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Das Dominium"
+    },
+    {
+      "heading": "## Göttliche Regiones",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge",
+      "subheading": "### Celestische Regiones"
+    },
+    {
+      "heading": "## Göttliche Regiones",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Göttliche Regiones erschaffen"
+    },
+    {
+      "heading": "## Die Heerscharen des Himmels",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "10 H4-Blöcke",
+      "subheading": "### Engelseigenschaften"
+    },
+    {
+      "heading": "## Spielleitung von Engeln",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Engel in Geschichten einsetzen"
+    },
+    {
+      "heading": "## Heilige Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "15 H4-Blöcke",
+      "subheading": "### Neue Tugenden"
+    },
+    {
+      "heading": "## Heilige Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Neue Fehler"
+    },
+    {
+      "heading": "## Heilige Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "12 H4-Blöcke",
+      "subheading": "### Neue Fertigkeiten"
+    },
+    {
+      "heading": "## Heiliger Einfluss",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Temperungen"
+    },
+    {
+      "heading": "## Heiliger Einfluss",
+      "type": "table",
+      "enabled": false,
+      "note": "3 Tabellenzeilen",
+      "subheading": "### Gottes Hilfe anrufen"
+    },
+    {
+      "heading": "## Wundersame Wirkungen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Methoden und Traditionen"
+    },
+    {
+      "heading": "## Wundersame Wirkungen",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Kräfte und Wirkungen"
+    },
+    {
+      "heading": "## Wundersame Wirkungen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "44 Fetteinträge",
+      "subheading": "### Kräfte und Wirkungen"
+    },
+    {
+      "heading": "## Wahrer Glaube",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Wahren Glauben im Spiel erlangen"
+    },
+    {
+      "heading": "## Wahrer Glaube",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Einen Charakter mit Wahrem Glauben spielen"
+    },
+    {
+      "heading": "## Wahrer Glaube",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "6 H4-Blöcke",
+      "subheading": "### Wunder"
+    },
+    {
+      "heading": "## Wahrer Glaube",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "14 Fetteinträge",
+      "subheading": "### Wunder"
+    },
+    {
+      "heading": "## Wahrer Glaube",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Das Licht verkörpern"
+    },
+    {
+      "heading": "## Göttliche Verzerrung",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Ursachen Göttlicher Verzerrung"
+    },
+    {
+      "heading": "## Glaubensvorstellungen",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge"
+    },
+    {
+      "heading": "## Heilige",
+      "type": "table",
+      "enabled": false,
+      "note": "12 Tabellenzeilen",
+      "subheading": "### Einen Heiligen anrufen"
+    },
+    {
+      "heading": "## Heilige",
+      "type": "table",
+      "enabled": false,
+      "note": "7 Tabellenzeilen",
+      "subheading": "### Einen Heiligen bedrohen"
+    },
+    {
+      "heading": "## Heilige",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Heilige gestalten"
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "7 H4-Blöcke",
+      "subheading": "### Tugenden",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Fehler",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Traditionen",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "3 Fetteinträge",
+      "subheading": "### Traditionen",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Grog-Vorlagen",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Gefährtenvorlagen",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Ars Notoria",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "9 H4-Blöcke",
+      "subheading": "### Die Ringe Salomons"
+    },
+    {
+      "heading": "## Ars Notoria",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Die Ringe Salomons"
+    },
+    {
+      "heading": "## Glaubensvorstellungen und Praktiken",
+      "type": "table",
+      "enabled": false,
+      "note": "13 Tabellenzeilen",
+      "subheading": "### Heilige Vorfahren",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Glaubensvorstellungen und Praktiken",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Islamisches Recht",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Glaubensvorstellungen und Praktiken",
+      "type": "table",
+      "enabled": false,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Islamisches Recht",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Glaubensvorstellungen und Praktiken",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Die Säulen des Islam",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Glaubensvorstellungen und Praktiken",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Muslimische Heilige Stätten",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Glaubensvorstellungen und Praktiken",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Familienleben",
+      "occurrence": 1
+    },
+    {
+      "heading": "## Varianten des Islam",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Schiitischer Islam"
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Tugenden",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Traditionen",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge",
+      "subheading": "### Traditionen",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "table",
+      "enabled": false,
+      "note": "7 Tabellenzeilen",
+      "subheading": "### Traditionen",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Grog-Vorlagen",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "4 H4-Blöcke",
+      "subheading": "### Gefährtenvorlagen",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Geschichte eines Volkes",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Das Dreizehnte Jahrhundert"
+    },
+    {
+      "heading": "## Glaubensvorstellungen und Praktiken",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Kultur",
+      "occurrence": 2
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "15 H4-Blöcke",
+      "subheading": "### Tugenden",
+      "occurrence": 3
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Fehler",
+      "occurrence": 3
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "8 H4-Blöcke",
+      "subheading": "### Fertigkeiten",
+      "occurrence": 3
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "10 Fetteinträge",
+      "subheading": "### Fertigkeiten",
+      "occurrence": 3
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Traditionen",
+      "occurrence": 3
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "6 Fetteinträge",
+      "subheading": "### Traditionen",
+      "occurrence": 3
+    },
+    {
+      "heading": "## Charaktere",
+      "type": "desc_blocks",
+      "enabled": true,
+      "note": "3 H4-Blöcke",
+      "subheading": "### Gefährtenvorlagen",
+      "occurrence": 3
+    },
+    {
+      "heading": "## Jüdische Mystik",
+      "type": "desc_blocks",
+      "enabled": false,
+      "note": "5 H4-Blöcke",
+      "subheading": "### Golems"
+    },
+    {
+      "heading": "## Jüdische Mystik",
+      "type": "bold_blocks",
+      "enabled": false,
+      "note": "5 Fetteinträge",
+      "subheading": "### Golems"
+    },
+    {
+      "heading": "## Jüdische Mystik",
+      "type": "table",
+      "enabled": false,
+      "note": "5 Tabellenzeilen",
+      "subheading": "### Golems"
+    },
+    {
+      "heading": "#### Die Sieben Himmel",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Andere Hierarchien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "10 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Seraphim",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Cherubim",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Throne",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Herrschaften",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Autoritäten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Gewalten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Fürstentümer",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Erzengel",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Engelsfürsten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Engel",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Tugenden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "8 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Fehler",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Tragödien der Hybris",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Wirkungskombinationen nach Methode",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Wirkungskombinationen nach Kraft",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Leitlinien für Adjuration",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Leitlinien für Segnen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "8 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Leitlinien für Verfluchen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Leitlinien für Intervention",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "17 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Leitlinien für Transzendenz",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "11 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Leitlinien für Verständnis",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "9 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Leitlinien für Wunder",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Die Tugenden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "9 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Heilige Reichweiten, Dauern und Ziele",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "12 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Die Sakramente",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "7 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Gottesurteil",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Christliche Reliquien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Die Offizien",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "14 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Eine christliche Bibliothek",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### DER GOTTESSTAAT",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Weitere Heilige",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue christliche Tugenden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue christliche Fehler",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue christliche Fertigkeiten",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "3 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### ERKLÄRUNGEN:",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "5 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Der muslimische Kalender",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "18 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Eine muslimische Bibliothek",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### DSCHAMI' AL-BAYAN 'AN TA'WIL AL-QUR'AN",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### AL-RISALA",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "18 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Tugenden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Glossar hebräischer Fachbegriffe",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "29 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Eine jüdische Bibliothek",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "53 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Bekannte Philosophen",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Tugenden",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "6 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Neue Fehler",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Form- und Materialboni",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": true,
+      "note": "34 Fetteinträge (Blockquote)"
+    },
+    {
+      "heading": "#### Standard-Golemeigenschaften",
+      "type": "bold_blocks",
+      "blockquote": true,
+      "enabled": false,
+      "note": "4 Fetteinträge (Blockquote)"
+    }
+  ]
+}
