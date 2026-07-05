@@ -1189,7 +1189,7 @@ Engel können auch als normale Menschen erscheinen. Wenn sie dies tun, ist ihre 
 
 > *Der Engel des Herrn lagert sich um die her, die ihn fürchten, und er errettet sie.* – Psalm 34,8
 
-**Chor:** Fürstentum
+Chor: Fürstentum
 
 Göttliche Macht: 10 (Corpus)
 
@@ -1283,7 +1283,7 @@ Azrael (ʿAzrāʾīl oder ʿIzrāʾīl im Islam) ist nicht der einzige Todesenge
 
 > *Und Jakob blieb allein zurück. Da rang ein Mann mit ihm, bis die Morgenröte anbrach. Und als er sah, dass er ihn nicht überwinden konnte, da rührte er an sein Hüftgelenk, und das Hüftgelenk Jakobs wurde verrenkt beim Ringen mit ihm.* – Genesis 32,25-26
 
-**Chor:** Thron
+Chor: Thron
 
 Göttliche Macht: 30 (Corpus)
 
@@ -1335,7 +1335,7 @@ Camuel („der Gott sieht") ist die geheimnisvolle Gestalt, die mit dem Patriarc
 
 > *Sie sinnen auf Frevel auf ihrem Lager; sie stellen sich auf einen Weg, der nicht gut ist; sie verwerfen das Böse nicht.* – Psalm 36,5
 
-**Chor:** Engel
+Chor: Engel
 
 Göttliche Macht: 20 (Mentem)
 
@@ -1443,7 +1443,7 @@ Zugänglicher und intellektuell veranlagter als seine Gefährten, ist der Erzeng
 
 > *… unser Vater Aaron, mit dem Räuchergefäß bewaffnet, eilte durch die Menge des Volkes und besiegte den feurigen Engel …* – 4. Makkabäer 7,11
 
-**Chor:** Engel
+Chor: Engel
 
 Göttliche Macht: 30 (Ignem)
 
@@ -1495,7 +1495,7 @@ Kalazonta ist einer der Engel, die vom Herrn damit beauftragt wurden, Seine Glä
 
 > *Doch ich will dir kundtun, was im Buch der Wahrheit aufgezeichnet ist. Und es ist keiner, der mir hilft, gegen jene Fürsten zu kämpfen, außer eurem Fürsten Michael.* – Daniel 10,21
 
-**Chor:** Erzengel (Seraphim)
+Chor: Erzengel (Seraphim)
 
 Göttliche Macht: 100 (Corpus)
 
@@ -1567,7 +1567,7 @@ Der heilige Michael ist ein aktiver Engel und ist viele Male erschienen, um wund
 
 > *Es sollen umkehren und beschämt werden, die Böses gegen mich ersinnen. Sie sollen werden wie Spreu vor dem Wind, und der Engel des Herrn jage sie fort. Ihr Weg soll finster und schlüpfrig sein, und der Engel des Herrn verfolge sie.* – Psalm 35,5-6
 
-**Chor:** Gewalt
+Chor: Gewalt
 
 Göttliche Macht: 30 (Corpus)
 
@@ -1619,7 +1619,7 @@ Midael ist einer der Hauptleute der himmlischen Heerscharen unter Michael. Er is
 
 *Hinweis: Munkar und Nakir haben dieselben Werte.*
 
-**Chor:** Throne
+Chor: Throne
 
 Göttliche Macht: 40 (Corpus)
 
@@ -1671,7 +1671,7 @@ Beauftragt mit den Seelen der muslimischen Toten, sind Munkar und Nakir Engel, d
 
 > *Da ich nicht gehen konnte, bestieg ich ein Pferd, um den Berg zu erklimmen, während seine Hänge mit Steinstücken und Kieseln bedeckt waren, die bei jedem Hufschlag unter den Füßen des Pferdes rückwärts rutschten … Es glitt zurück, da Kiesel und Steinsplitter unter ihm wegglitten, und stürzte. Also stieg ich ab, half dem Pferd auf die Beine und blieb stehen, unfähig, mich zu bewegen. In diesem Augenblick kam ein Mann den Berg zu mir herab und hielt mich an der Hand, während meine andere Hand das Packpferd hielt, bis er mich zum Gipfel gebracht hatte. Nein, bei Allah, ich wusste nicht, wer der Mann war, und sah ihn nie wieder. … Er war nichts anderes als ein Engel, den Allah, bewegt von Mitleid mit mir, mir zu Hilfe gesandt hatte.* – Usama ibn Munqidh (gest. 1188), *Das Buch des Lernens durch Beispiel*
 
-**Chor:** Engel
+Chor: Engel
 
 Göttliche Macht: 25 (Corpus)
 
@@ -1725,7 +1725,7 @@ Nasir ist ein niederer Engel, dem die Sicherheit frommer Reisender anvertraut is
 
 > *Ich war in großer Not, weinte im Schlaf auf meinem Lager, und dort erschienen mir zwei sehr große Männer, wie ich sie nie auf Erden gesehen hatte — ihre Gesichter strahlten wie die Sonne, ihre Augen waren wie brennende Lichter, aus ihren Mündern kam Feuer, ihre Gewänder und ihr Gesang waren mannigfaltig, und ihre Arme wie goldene Flügel. Sie standen am Kopf meines Lagers und riefen mich bei meinem Namen.* – 2. Henoch 1,5-7
 
-**Chor:** Cherubim 
+Chor: Cherubim 
 
 Göttliche Macht: 25 (Ignem) 
 
@@ -7694,3 +7694,4 @@ Various Leading Orientalists. The Encyclopaedia of Islam. 1st Edition, 4 vols. a
 
 Various Leading Orientalists. The Encyclopaedia of Islam. New Edition, 9 vols. and Supplements. Leiden: E. I Brill 1979-98
 
+Volz, Carl A. The Church of the Middle Ages. St. Louis: Concordia Publishing House, 1970

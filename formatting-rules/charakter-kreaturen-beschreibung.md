@@ -114,24 +114,25 @@
 
 | # | Feldbezeichnung | Pflicht | Hinweis |
 |---|---|---|---|
-| 1 | `Machtwert:` | ✓ | Format: `Wert (Form)`, z. B. `15 (Terram)` |
-| 2 | `Eigenschaften:` | ✓ | |
-| 3 | `Größe:` | ○ | Wenn abweichend von 0 |
-| 4 | `Selbstvertrauenswert:` | ○ | |
-| 5 | `Tugenden und Fehler:` | ○ | |
-| 6 | `Persönlichkeitseigenschaften:` | ✓ | |
-| 7 | `Hierarchie:` | ○ | Nur Dämonen; höchste Infernale Reputation oder Rang |
-| 8 | `Reputationen:` | ○ | |
-| 9 | `Kampf:` | ✓ | |
-| 10 | `Absorption:` | ✓ | |
-| 11 | `Erschöpfungsstufen:` | ○ | |
-| 12 | `Wundabzüge:` | ✓ | |
-| 13 | `Fertigkeiten:` | ○ | |
-| 14 | `Kräfte:` | ✓ | |
-| 15 | `Vis:` | ○ | |
-| 16 | `Ausrüstung:` | ○ | |
-| 17 | `Belastung:` | ○ | |
-| 18 | `Erscheinungsbild:` | ○ | |
+| 1 | `Chor:` | ○ | Nur bei Engeln; Chorname, ggf. mit Zusatz: `Erzengel (Seraphim)` |
+| 2 | `Machtwert:` | ✓ | Format: `Wert (Form)`, z. B. `15 (Terram)` |
+| 3 | `Eigenschaften:` | ✓ | |
+| 4 | `Größe:` | ○ | Wenn abweichend von 0 |
+| 5 | `Selbstvertrauenswert:` | ○ | |
+| 6 | `Tugenden und Fehler:` | ○ | |
+| 7 | `Persönlichkeitseigenschaften:` | ✓ | |
+| 8 | `Hierarchie:` | ○ | Nur Dämonen; höchste Infernale Reputation oder Rang |
+| 9 | `Reputationen:` | ○ | |
+| 10 | `Kampf:` | ✓ | |
+| 11 | `Absorption:` | ✓ | |
+| 12 | `Erschöpfungsstufen:` | ○ | |
+| 13 | `Wundabzüge:` | ✓ | |
+| 14 | `Fertigkeiten:` | ○ | |
+| 15 | `Kräfte:` | ✓ | |
+| 16 | `Vis:` | ○ | |
+| 17 | `Ausrüstung:` | ○ | |
+| 18 | `Belastung:` | ○ | |
+| 19 | `Erscheinungsbild:` | ○ | |
 
 ---
 
